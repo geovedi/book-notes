@@ -63,7 +63,7 @@
 * Oliver Burkeman - Four Thousand Weeks • [en](https://github.com/geovedi/book-notes/blob/main/2021/four-thousand-weeks.md)
 * Oprah Winfrey, Bruce D. Perry - What Happened to You • [en](https://github.com/geovedi/book-notes/blob/main/2021/what-happened-to-you.md)
 * Patrick Radden Keefe - Empire of Pain • [en](https://github.com/geovedi/book-notes/blob/main/2021/empire-of-pain.md)
-* Paulo Coelho - Eleven Minutes
+* Paulo Coelho - Eleven Minutes • [en](https://github.com/geovedi/book-notes/blob/main/2003/eleven-minutes.md)
 * Paulo Coelho - Veronika Decides to Die • [en](https://github.com/geovedi/book-notes/blob/main/1998/veronika-decides-to-die.md)
 * Peter Attia - Outlive • [en](https://github.com/geovedi/book-notes/blob/main/2023/outlive.md)
 * Peter Robin Hiesinger - The Self-Assembling Brain • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-self-assembling-brain.md)
