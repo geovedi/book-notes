@@ -57,7 +57,7 @@
 * Michelle Obama - The Light We Carry • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-light-we-carry.md)
 * Michio Kaku - The God Equation • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-god-equation.md)
 * Monica Potts - The Forgotten Girls • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-forgotten-girls.md)
-* Nathan Vardi - For Blood and Money
+* Nathan Vardi - For Blood and Money • [en](https://github.com/geovedi/book-notes/blob/main/2022/for-blood-and-money.md)
 * Nedra Glover Tawwab - Drama Free • [en](https://github.com/geovedi/book-notes/blob/main/2023/drama-free.md)
 * Neil deGrasse Tyson - Starry Messenger • [en](https://github.com/geovedi/book-notes/blob/main/2022/starry-messenger.md)
 * Oliver Burkeman - Four Thousand Weeks • [en](https://github.com/geovedi/book-notes/blob/main/2021/four-thousand-weeks.md)
