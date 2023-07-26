@@ -32,8 +32,6 @@ As the narrative unfolds, the story delves into the psychological complexities o
 
 Nastasia Philipovna remains an enigma throughout the narrative, with her motives and desires shrouded in mystery. Her engagement to Aglaya's father raises questions about her true intentions, and her interactions with both the prince and Rogozhin create an atmosphere of tension and intrigue.
 
-Themes of love, desire, jealousy, and betrayal pervade the narrative, as the characters' relationships intertwine and evolve. The novel also explores the impact of mental illness on the characters' actions and decisions, particularly evident in the prince's struggle with epilepsy and the erratic behavior of Rogozhin and Nastasia Philipovna.
-
 ### Part II
 The plot intensifies as the complexities of the characters' emotions and relationships come to the forefront. The central figure, Prince Myshkin, arrives in St. Petersburg and finds himself entangled in a love triangle involving Aglaya Ivanovna and Gavrila Ardalionovich. As the story unfolds, misunderstandings, pride, and deceit drive the narrative, leading to conflicts and emotional turmoil.
 
