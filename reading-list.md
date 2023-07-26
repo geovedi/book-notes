@@ -11,7 +11,6 @@
 * Ashlee Vance - When the Heavens Went on Sale • [en](https://github.com/geovedi/book-notes/blob/main/2023/when-the-heavens-went-on-sale.md)
 * Becky Kennedy - Good Inside • [en](https://github.com/geovedi/book-notes/blob/main/2022/good-inside.md)
 * Brené Brown - Atlas of the Heart • [en](https://github.com/geovedi/book-notes/blob/main/2021/atlas-of-the-heart.md)
-* Bruce Bagemihl - Biological Exuberance
 * Bruce Schneier - A Hacker's Mind • [en](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.md)
 * Candice Millard - River of the Gods • [en](https://github.com/geovedi/book-notes/blob/main/2022/river-of-the-gods.md)
 * Caroline Garnet McGraw - You Don't Owe Anyone • [en](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.md)
@@ -97,8 +96,9 @@
 
 * Ajay Agrawal, Avi Goldfarb, Joshua Gans - Power and Prediction
 * Ashlee Vance - Elon Musk
-* Brain Clegg - Dark Matter and Dark Energy
-* Brian Christian-Tom Griffiths - Algorithms To Live By
+* Brain Clegg - The Universe Inside You
+* Brian Christian, Tom Griffiths - Algorithms To Live By
+* Bruce Bagemihl - Biological Exuberance
 * Carl Sagan - Cosmos
 * Charles Petzold - Code
 * Christophe Galfard - The Universe İn Your Hand
@@ -108,33 +108,23 @@
 * David Sax - The Future Is Analog
 * Dean Buonomano - Your Brain is a Time Machine
 * Don Norman - The Design Of Everyday Things
-* Donald Knuth  - The Art of Computer Programming
+* Donald E. Knuth  - The Art of Computer Programming
 * Emily Prokop - The Story Behind
 * Eric S. Raymond - The Cathedral & the Bazaar
-* Erik Brynjolfsson, Andrew McAfee - The Second Machine Age
-* Frederick Brooks Jr. - The Mythical Man-Month
+* Erik Brynjolfsson, Andrew McAfee, Jeff Cummings - The Second Machine Age
 * Fyodor Dostoevsky - Crime and Punishment
 * George Orwell - 1984
 * Helen Czerski - Storm in a Teacup
-* Jack London - A Northern Adventure
 * Johann Hari - Stolen Focus
-* John Coleman - Conspirators' Hierarchy
-* Jules Payot - The Education Of The Will
-* Leo Tolstoy - Master And Man
 * Marc Seifer - Tesla: Wizard at War
 * Max Fisher - The Chaos Machine
 * Max Tegmark - Life 3.0
-* Michio Kaku - Physics Of The İmpossible
-* Michio Kaku - Physics of the Future 
 * Philip Kotler - Confronting Capitalism
+* Michio Kaku - Physics of the Future 
+* Michio Kaku - Physics Of The İmpossible
 * Ray Kurzweil - The Age of Spiritual Machines
 * Ray Kurzweil - The Singularity Is Near
 * Richard A. Muller - Now 
-* Richard T. Hammond - Conversations With The Universe
-* Robert Winston - The Human Brain
-* Sigmund Freud - Mass Psychology
-* Stefan Zweig - Chess
-* Stefan Zweig - The Story Of a Collapse
 * Stephen Hawking - Brief Answers to the Big Questions
 * Steve Krug - Don't Make Me Think, Revisited
 * Steven Levy - Hackers
@@ -142,7 +132,6 @@
 * Torie Bosch, Kelly Chudler - You Are Not Expected to Understand This
 * Tracy Kidder - The Soul of A New Machine
 * Victor Hugo - The Last Day Of a Condemned Man
-* Vladimir Pistalo - Tesla 
 * Walter Isaacson - The Code Breaker
 * Walter Isaacson - The Innovators
 * Yuval Noah Harari - 21 Lessons for the 21 Century
