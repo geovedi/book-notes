@@ -102,7 +102,6 @@
 * Carl Sagan - Cosmos
 * Charles Petzold - Code
 * Christophe Galfard - The Universe İn Your Hand
-* Daniel Huttenlocher, Eric Schmidt, Henry Kissinger - The Age of AI
 * Daniel Susskind - A World Without Work
 * David Eagleman - Incognito
 * David Sax - The Future Is Analog
@@ -115,6 +114,7 @@
 * Fyodor Dostoevsky - Crime and Punishment
 * George Orwell - 1984
 * Helen Czerski - Storm in a Teacup
+* Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher - The Age of AI
 * Johann Hari - Stolen Focus
 * Marc Seifer - Tesla: Wizard at War
 * Max Fisher - The Chaos Machine
