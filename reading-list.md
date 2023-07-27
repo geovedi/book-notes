@@ -107,7 +107,6 @@
 * David Sax - The Future Is Analog
 * Dean Buonomano - Your Brain is a Time Machine
 * Don Norman - The Design Of Everyday Things
-* Donald E. Knuth  - The Art of Computer Programming
 * Emily Prokop - The Story Behind
 * Eric S. Raymond - The Cathedral & the Bazaar
 * Erik Brynjolfsson, Andrew McAfee, Jeff Cummings - The Second Machine Age
