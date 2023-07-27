@@ -3,23 +3,35 @@
 ## Finished
 
 * Adam Grant - Think Again • [en](https://github.com/geovedi/book-notes/blob/main/2021/think-again.md)
+* Ajay Agrawal, Avi Goldfarb, Joshua Gans - Power and Prediction • [en](https://github.com/geovedi/book-notes/blob/main/2022/power-and-prediction.md)
 * Alex Prud'homme - Dinner with the President • [en](https://github.com/geovedi/book-notes/blob/main/2023/dinner-with-the-president.md)
 * Amy B. Zegart - Spies, Lies, and Algorithms • [en](https://github.com/geovedi/book-notes/blob/main/2022/spies-lies-and-algorithms.md)
 * Andrew H. Knoll - A Brief History of Earth • [en](https://github.com/geovedi/book-notes/blob/main/2021/a-brief-history-of-earth.md)
 * Andy Greenberg - Tracers in the Dark • [en](https://github.com/geovedi/book-notes/blob/main/2022/tracers-in-the-dark.md)
 * Antonio Padilla - Fantastic Numbers and Where to Find Them • [en](https://github.com/geovedi/book-notes/blob/main/2022/fantastic-numbers-and-where-to-find-them.md)
+* Ashlee Vance - Elon Musk • [en](https://github.com/geovedi/book-notes/blob/main/2015/elon-musk.md)
 * Ashlee Vance - When the Heavens Went on Sale • [en](https://github.com/geovedi/book-notes/blob/main/2023/when-the-heavens-went-on-sale.md)
 * Becky Kennedy - Good Inside • [en](https://github.com/geovedi/book-notes/blob/main/2022/good-inside.md)
+* Brain Clegg - The Universe Inside You • [en](https://github.com/geovedi/book-notes/blob/main/2012/the-universe-inside-you.md)
 * Brené Brown - Atlas of the Heart • [en](https://github.com/geovedi/book-notes/blob/main/2021/atlas-of-the-heart.md)
+* Brian Christian, Tom Griffiths - Algorithms To Live By • [en](https://github.com/geovedi/book-notes/blob/main/2016/algorithms-to-live-by.md)
 * Bruce Schneier - A Hacker's Mind • [en](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.md)
 * Candice Millard - River of the Gods • [en](https://github.com/geovedi/book-notes/blob/main/2022/river-of-the-gods.md)
+* Carl Sagan - Cosmos • [en](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.md)
 * Caroline Garnet McGraw - You Don't Owe Anyone • [en](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.md)
+* Charles Petzold - Code • [en](https://github.com/geovedi/book-notes/blob/main/2000/code.md)
+* Christophe Galfard - The Universe İn Your Hand • [en](https://github.com/geovedi/book-notes/blob/main/2015/the-universe-in-your-hand.md)
 * Claire Dederer - Monsters • [en](https://github.com/geovedi/book-notes/blob/main/2023/monsters.md)
 * Dacher Keltner - Awe • [en](https://github.com/geovedi/book-notes/blob/main/2023/awe.md)
 * Daniel Kahneman - Thinking, Fast and Slow • [en](https://github.com/geovedi/book-notes/blob/main/2011/thinking-fast-and-slow.md)
+* Daniel Susskind - A World Without Work • [en](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.md)
+* David Eagleman - Incognito • [en](https://github.com/geovedi/book-notes/blob/main/2011/incognito.md)
 * David Graeber, David Wengrow - The Dawn of Everything • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-dawn-of-everything.md)
 * David Grann - The Wager • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-wager.md)
 * David R Hawkins - Letting Go • [en](https://github.com/geovedi/book-notes/blob/main/2012/letting-go.md)
+* David Sax - The Future Is Analog • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-future-is-analog.md)
+* Dean Buonomano - Your Brain is a Time Machine • [en](https://github.com/geovedi/book-notes/blob/main/2017/your-brain-is-a-time-machine.md)
+* Don Norman - The Design Of Everyday Things • [en](https://github.com/geovedi/book-notes/blob/main/2013/the-design-of-everyday-things.md)
 * Edward Chancellor - The Price of Time • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-price-of-time.md)
 * Elise Loehnen - On Our Best Behavior • [en](https://github.com/geovedi/book-notes/blob/main/2023/on-our-best-behavior.md)
 * Emily Nagoski, Amelia Nagoski - Burnout • [en](https://github.com/geovedi/book-notes/blob/main/2019/burnout.md)
@@ -32,6 +44,7 @@
 * Hadley Vlahos - The In-Between • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-in-between.md)
 * Heidi Grant - Reinforcements • [en](https://github.com/geovedi/book-notes/blob/main/2018/reinforcements.md)
 * Heidi Grant Halvorson - No One Understands You • [en](https://github.com/geovedi/book-notes/blob/main/2015/no-one-understands-you.md)
+* Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher - The Age of AI • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-age-of-ai.md)
 * James B Stewart, Rachel Abrams - Unscripted • [en](https://github.com/geovedi/book-notes/blob/main/2023/unscripted.md)
 * Jay Shetty - 8 Rules of Love • [en](https://github.com/geovedi/book-notes/blob/main/2023/8-rules-of-love.md)
 * Jean M. Twenge - Generations • [en](https://github.com/geovedi/book-notes/blob/main/2023/generations.md)
@@ -94,26 +107,13 @@
 
 ## Want to Read
 
-* Ajay Agrawal, Avi Goldfarb, Joshua Gans - Power and Prediction
-* Ashlee Vance - Elon Musk
-* Brain Clegg - The Universe Inside You
-* Brian Christian, Tom Griffiths - Algorithms To Live By
 * Bruce Bagemihl - Biological Exuberance
-* Carl Sagan - Cosmos
-* Charles Petzold - Code
-* Christophe Galfard - The Universe İn Your Hand
-* Daniel Susskind - A World Without Work
-* David Eagleman - Incognito
-* David Sax - The Future Is Analog
-* Dean Buonomano - Your Brain is a Time Machine
-* Don Norman - The Design Of Everyday Things
 * Emily Prokop - The Story Behind
 * Eric S. Raymond - The Cathedral & the Bazaar
 * Erik Brynjolfsson, Andrew McAfee, Jeff Cummings - The Second Machine Age
 * Fyodor Dostoevsky - Crime and Punishment
 * George Orwell - 1984
 * Helen Czerski - Storm in a Teacup
-* Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher - The Age of AI
 * Johann Hari - Stolen Focus
 * Marc Seifer - Tesla: Wizard at War
 * Max Fisher - The Chaos Machine
