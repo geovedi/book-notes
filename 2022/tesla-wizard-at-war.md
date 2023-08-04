@@ -111,9 +111,7 @@ In modern times, the realization of some of Tesla's ideas can be seen in today's
 
 ## God Particle
 
-Nikola Tesla's contributions to physics and our understanding of the universe were vast and complex. One of his groundbreaking ideas was the Special Theory of Relativity, which posited that mass and energy were different manifestations of the same underlying concept. This revolutionary concept was expressed in his famous equation, E=mc^2, showing that small amounts of mass could be converted into a large amount of energy and vice versa.
-
-Tesla's ideas about the ether, a hypothetical substance once thought to pervade space, were deeply intertwined with his understanding of the universe. Newton used the ether to explain gravity, while Faraday saw it as a material force for electromagnetic energy. However, the Michelson-Morley experiment's failure to detect the ether led to the theory of relativity, which replaced the concept of ether in modern physics.
+Nikola Tesla's contributions to physics and our understanding of the universe were vast and complex. Tesla's ideas about the ether, a hypothetical substance once thought to pervade space, were deeply intertwined with his understanding of the universe. Newton used the ether to explain gravity, while Faraday saw it as a material force for electromagnetic energy. However, the Michelson-Morley experiment's failure to detect the ether led to the theory of relativity, which replaced the concept of ether in modern physics.
 
 In his experiments, Tesla explored high-frequency phenomena and wireless communication, often using the ether as a medium for transmitting energy wirelessly. He believed in the existence of this mysterious substance, and it was central to his theories and inventions.
 
