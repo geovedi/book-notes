@@ -15,6 +15,7 @@
 * Brain Clegg - The Universe Inside You • [en](https://github.com/geovedi/book-notes/blob/main/2012/the-universe-inside-you.md)
 * Brené Brown - Atlas of the Heart • [en](https://github.com/geovedi/book-notes/blob/main/2021/atlas-of-the-heart.md) • [id](https://medium.com/lit-bits-n-pieces/a776c8ce24b7)
 * Brian Christian, Tom Griffiths - Algorithms To Live By • [en](https://github.com/geovedi/book-notes/blob/main/2016/algorithms-to-live-by.md)
+* Bruce Bagemihl - Biological Exuberance • [en](https://github.com/geovedi/book-notes/blob/main/1999/biological-exuberance.md)
 * Bruce Schneier - A Hacker's Mind • [en](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.md)
 * Candice Millard - River of the Gods • [en](https://github.com/geovedi/book-notes/blob/main/2022/river-of-the-gods.md) • [id](https://medium.com/lit-bits-n-pieces/75b46cc683c5)
 * Carl Sagan - Cosmos • [en](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.md)
@@ -36,8 +37,12 @@
 * Edward Chancellor - The Price of Time • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-price-of-time.md) • [id](https://medium.com/lit-bits-n-pieces/a38b77ef7462)
 * Elise Loehnen - On Our Best Behavior • [en](https://github.com/geovedi/book-notes/blob/main/2023/on-our-best-behavior.md)
 * Emily Nagoski, Amelia Nagoski - Burnout • [en](https://github.com/geovedi/book-notes/blob/main/2019/burnout.md)
+* Emily Prokop - The Story Behind • [en](https://github.com/geovedi/book-notes/blob/main/2018/the-story-behind.md)
 * Eric Maisel - Why Smart People Hurt • [en](https://github.com/geovedi/book-notes/blob/main/2013/why-smart-people-hurt.md) • [id](https://medium.com/lit-bits-n-pieces/cccdf8acc4b2)
+* Eric S. Raymond - The Cathedral & the Bazaar • [en](https://github.com/geovedi/book-notes/blob/main/2010/the-cathedral-and-the-bazaar.md)
+* Erik Brynjolfsson, Andrew McAfee, Jeff Cummings - The Second Machine Age • [en](https://github.com/geovedi/book-notes/blob/main/2014/the-second-machine-age.md)
 * Ethan Kross - Chatter • [en](https://github.com/geovedi/book-notes/blob/main/2021/chatter.md) • [id](https://medium.com/lit-bits-n-pieces/a25f1499e018)
+* Fyodor Dostoevsky - Crime and Punishment • [en](https://github.com/geovedi/book-notes/blob/main/1866/crime-and-punishment.md)
 * Fyodor Dostoyevsky - The Idiot • [en](https://github.com/geovedi/book-notes/blob/main/1869/the-idiot.md) • [id](https://medium.com/lit-bits-n-pieces/d900f58fedff)
 * Gabor Maté, Daniel Maté - The Myth of Normal • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-myth-of-normal.md) • [id](https://medium.com/p/b4bbad1bb66a)
 * George Orwell - Animal Farm • [id](https://medium.com/lit-bits-n-pieces/70bbe3cbbd05)
@@ -46,6 +51,7 @@
 * Hadley Vlahos - The In-Between • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-in-between.md)
 * Heidi Grant - Reinforcements • [en](https://github.com/geovedi/book-notes/blob/main/2018/reinforcements.md) • [id](https://medium.com/lit-bits-n-pieces/ec4c0fbf6f7c)
 * Heidi Grant Halvorson - No One Understands You • [en](https://github.com/geovedi/book-notes/blob/main/2015/no-one-understands-you.md) • [id](https://medium.com/lit-bits-n-pieces/4d6eafddaa41)
+* Helen Czerski - Storm in a Teacup • [en](https://github.com/geovedi/book-notes/blob/main/2017/storm-in-a-teacup.md)
 * Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher - The Age of AI • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-age-of-ai.md)
 * James B Stewart, Rachel Abrams - Unscripted • [en](https://github.com/geovedi/book-notes/blob/main/2023/unscripted.md)
 * Jay Shetty - 8 Rules of Love • [en](https://github.com/geovedi/book-notes/blob/main/2023/8-rules-of-love.md)
@@ -53,6 +59,7 @@
 * Jenn Granneman, Andre Sólo - Sensitive • [en](https://github.com/geovedi/book-notes/blob/main/2023/sensitive.md)
 * Jennifer Odell - Saving Time • [en](https://github.com/geovedi/book-notes/blob/main/2023/saving-time.md)
 * Jim Popkin - Code Name Blue Wren • [en](https://github.com/geovedi/book-notes/blob/main/2023/code-name-blue-wren.md)
+* Johann Hari - Stolen Focus • [en](https://github.com/geovedi/book-notes/blob/main/2022/stolen-focus.md)
 * John Green - The Anthropocene Reviewed • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-anthropocene-reviewed.md) • [id](https://medium.com/lit-bits-n-pieces/86f1a987fc6f)
 * Jon Meacham - And There Was Light • [en](https://github.com/geovedi/book-notes/blob/main/2022/and-there-was-light.md) • [id](https://medium.com/lit-bits-n-pieces/b4304021a97)
 * Jonathan Rosen - The Best Minds • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-best-minds.md)
@@ -62,13 +69,18 @@
 * Kai-Fu Lee, Chen Qiufan - AI 2041 • [en](https://github.com/geovedi/book-notes/blob/main/2021/ai-2041.md) • [id](https://medium.com/lit-bits-n-pieces/76486b50eaab)
 * Katherine Clarke - Billionaires' Row • [en](https://github.com/geovedi/book-notes/blob/main/2023/billionaires-row.md)
 * Maggie Haberman - Confidence Man • [en](https://github.com/geovedi/book-notes/blob/main/2022/confidence-man.md) • [id](https://medium.com/lit-bits-n-pieces/517e6659bf3)
+* Marc Seifer - Tesla: Wizard at War • [en](https://github.com/geovedi/book-notes/blob/main/2022/tesla-wizard-at-war.md)
 * Mark Forsyth - The Etymologicon • [en](https://github.com/geovedi/book-notes/blob/main/2012/the-etymologicon.md)
 * Mary Louise Kelly - It. Goes. So. Fast. • [en](https://github.com/geovedi/book-notes/blob/main/2023/it-goes-so-fast.md)
 * Mary Roach - Fuzz • [en](https://github.com/geovedi/book-notes/blob/main/2021/fuzz.md) • [id](https://medium.com/lit-bits-n-pieces/bf0a59c0f17d)
 * Matthew Desmond - Poverty, by America • [en](https://github.com/geovedi/book-notes/blob/main/2023/poverty-by-america.md)
+* Max Fisher - The Chaos Machine • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-chaos-machine.md)
+* Max Tegmark - Life 3.0 • [en](https://github.com/geovedi/book-notes/blob/main/2017/life-3.0.md)
 * Michael Cecchi-Azzolina - Your Table Is Ready • [en](https://github.com/geovedi/book-notes/blob/main/2022/your-table-is-ready.md) • [id](https://medium.com/lit-bits-n-pieces/370698c3f7cf)
 * Michael Lewis - The Premonition • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-premonition.md) • [id](https://medium.com/lit-bits-n-pieces/499aa9620a86)
 * Michelle Obama - The Light We Carry • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-light-we-carry.md) • [id](https://medium.com/lit-bits-n-pieces/f6a514de4f44)
+* Michio Kaku - Physics of the Future • [en](https://github.com/geovedi/book-notes/blob/main/2011/physics-of-the-future.md)
+* Michio Kaku - Physics of the Impossible • [en](https://github.com/geovedi/book-notes/blob/main/2008/physics-of-the-impossible.md)
 * Michio Kaku - The God Equation • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-god-equation.md) • [id](https://medium.com/lit-bits-n-pieces/32dba352ad13)
 * Monica Potts - The Forgotten Girls • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-forgotten-girls.md)
 * Nathan Vardi - For Blood and Money • [en](https://github.com/geovedi/book-notes/blob/main/2022/for-blood-and-money.md)
@@ -82,8 +94,10 @@
 * Peter Attia - Outlive • [en](https://github.com/geovedi/book-notes/blob/main/2023/outlive.md)
 * Peter Robin Hiesinger - The Self-Assembling Brain • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-self-assembling-brain.md) • [id](https://medium.com/lit-bits-n-pieces/54275714f0aa)
 * Peter Shankman - Faster Than Normal • [en](https://github.com/geovedi/book-notes/blob/main/2014/faster-than-normal.md) • [id](https://medium.com/lit-bits-n-pieces/70e31a6964e)
+* Philip Kotler - Confronting Capitalism • [en](https://github.com/geovedi/book-notes/blob/main/2015/confronting-capitalism.md)
 * Randall Munroe - What If? 2 • [en](https://github.com/geovedi/book-notes/blob/main/2022/what-if-2.md) • [id](https://medium.com/lit-bits-n-pieces/ea4d08753071)
 * Ray Bradbury - Fahrenheit 451 • [en](https://github.com/geovedi/book-notes/blob/main/1953/fahrenheit-451.md) • [id](https://medium.com/lit-bits-n-pieces/f6f9f63428ee)
+* Ray Kurzweil - The Age of Spiritual Machines • [en](https://github.com/geovedi/book-notes/blob/main/2000/the-age-of-spiritual-machines.md)
 * Renee Dudley - The Ransomware Hunting Team • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-ransomware-hunting-team.md) • [id](https://medium.com/lit-bits-n-pieces/426d5baf0b3f)
 * Ricardo Nuila - The People's Hospital • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-people's-hospital.md)
 * Rick Rubin - The Creative Act • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-creative-act.md)
@@ -104,26 +118,13 @@
 * Vienna Pharaon - The Origins of You • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-origins-of-you.md)
 * Walter Isaacson - The Code Breaker • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-code-breaker.md) • [id](https://medium.com/lit-bits-n-pieces/9838251e252d)
 * Yung Pueblo - Lighter • [en](https://github.com/geovedi/book-notes/blob/main/2022/lighter.md) • [id](https://medium.com/lit-bits-n-pieces/95e92bc69886)
+* Yuval Noah Harari - 21 Lessons for the 21 Century • [en](https://github.com/geovedi/book-notes/blob/main/2018/21-lessons-for-the-21st-century.md)
 * Zena Hitz - Lost In Thought • [en](https://github.com/geovedi/book-notes/blob/main/2020/lost-in-thought.md) • [id](https://medium.com/lit-bits-n-pieces/49af5f68ed21)
 
 
 ## Want to Read
 
-* Bruce Bagemihl - Biological Exuberance
-* Emily Prokop - The Story Behind
-* Eric S. Raymond - The Cathedral & the Bazaar
-* Erik Brynjolfsson, Andrew McAfee, Jeff Cummings - The Second Machine Age
-* Fyodor Dostoevsky - Crime and Punishment
 * George Orwell - 1984
-* Helen Czerski - Storm in a Teacup
-* Johann Hari - Stolen Focus
-* Marc Seifer - Tesla: Wizard at War
-* Max Fisher - The Chaos Machine
-* Max Tegmark - Life 3.0
-* Michio Kaku - Physics Of The İmpossible
-* Michio Kaku - Physics of the Future 
-* Philip Kotler - Confronting Capitalism
-* Ray Kurzweil - The Age of Spiritual Machines
 * Ray Kurzweil - The Singularity Is Near
 * Richard A. Muller - Now 
 * Stephen Hawking - Brief Answers to the Big Questions
