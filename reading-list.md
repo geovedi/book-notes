@@ -9,7 +9,7 @@
 * Andrew H. Knoll - A Brief History of Earth • [notes](https://github.com/geovedi/book-notes/blob/main/2021/a-brief-history-of-earth.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2021/a-brief-history-of-earth.en.md) • [id](https://medium.com/lit-bits-n-pieces/84d21c842a11)
 * Andy Greenberg - Tracers in the Dark • [notes](https://github.com/geovedi/book-notes/blob/main/2022/tracers-in-the-dark.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2022/tracers-in-the-dark.en.md) • [id](https://medium.com/lit-bits-n-pieces/d036c6769cc1)
 * Antonio Padilla - Fantastic Numbers and Where to Find Them • [notes](https://github.com/geovedi/book-notes/blob/main/2022/fantastic-numbers-and-where-to-find-them.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2022/fantastic-numbers-and-where-to-find-them.en.md) • [id](https://medium.com/lit-bits-n-pieces/f9b729f1ccc0)
-* Ashlee Vance - Elon Musk • [en](https://github.com/geovedi/book-notes/blob/main/2015/elon-musk.md)
+* Ashlee Vance - Elon Musk • [notes](https://github.com/geovedi/book-notes/blob/main/2015/elon-musk.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2015/elon-musk.en.md)
 * Ashlee Vance - When the Heavens Went on Sale • [en](https://github.com/geovedi/book-notes/blob/main/2023/when-the-heavens-went-on-sale.md)
 * Becky Kennedy - Good Inside • [en](https://github.com/geovedi/book-notes/blob/main/2022/good-inside.md) • [id](https://medium.com/lit-bits-n-pieces/35c3a5368e1a)
 * Brain Clegg - The Universe Inside You • [en](https://github.com/geovedi/book-notes/blob/main/2012/the-universe-inside-you.md)
