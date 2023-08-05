@@ -208,4 +208,3 @@ In this way, their story concludes with hope and anticipation. The path ahead wo
 17. ZOSSIMOV: Zossimov is a competent and pragmatic doctor who treats Raskolnikov after the murder. He represents the rational and scientific perspective in the novel, often at odds with the more spiritual and psychological aspects.
 18. NASTASIA PETROVNA: Nastasia is a beautiful and mysterious woman associated with Svidrigailov. Her character adds an element of intrigue and allure to the story.
 19. PRASKOVIA PAVLOVNA ZARNITSYN: Praskovia is a wealthy and eccentric widow who is one of Raskolnikov's benefactors. She is known for her philanthropy and interest in supporting talented young people.
-20. KOCH, PESTRIAKOV, PORFIRY PETROVICH, ILIA PETROVICH, and NIKODIM FOMICH: These characters are all law enforcement officers involved
