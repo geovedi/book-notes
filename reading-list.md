@@ -100,6 +100,7 @@
 * Ray Kurzweil - The Age of Spiritual Machines • [en](https://github.com/geovedi/book-notes/blob/main/2000/the-age-of-spiritual-machines.md)
 * Renee Dudley - The Ransomware Hunting Team • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-ransomware-hunting-team.md) • [id](https://medium.com/lit-bits-n-pieces/426d5baf0b3f)
 * Ricardo Nuila - The People's Hospital • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-people's-hospital.md)
+* Richard A. Muller - Now • [en](https://github.com/geovedi/book-notes/blob/main/2016/now.md)
 * Rick Rubin - The Creative Act • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-creative-act.md)
 * Robert Waldinger, Marc Schulz - The Good Life • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-good-life.md)
 * Rory Carroll - There Will Be Fire • [en](https://github.com/geovedi/book-notes/blob/main/2023/there-will-be-fire.md)
@@ -107,14 +108,21 @@
 * Samantha Irby - Quietly Hostile • [en](https://github.com/geovedi/book-notes/blob/main/2023/quietly-hostile.md)
 * Sheera Frenkel, Cecilia Kang - An Ugly Truth • [en](https://github.com/geovedi/book-notes/blob/main/2021/an-ugly-truth.md) • [id](https://medium.com/lit-bits-n-pieces/c62a09bbf8ce)
 * Siddhartha Mukherjee - The Song of the Cell • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-song-of-the-cell.md) • [id](https://medium.com/lit-bits-n-pieces/7178526a56a0)
+* Stephen Hawking - Brief Answers to the Big Questions • [en](https://github.com/geovedi/book-notes/blob/main/2018/brief-answers-to-the-big-questions.md)
+* Steve Krug - Don't Make Me Think, Revisited • [en](https://github.com/geovedi/book-notes/blob/main/2014/don-t-make-me-think-revisited.md)
 * Steven E. Koonin - Unsettled • [en](https://github.com/geovedi/book-notes/blob/main/2021/unsettled.md) • [id](https://medium.com/lit-bits-n-pieces/c6b48b5cb657)
+* Steven Levy - Hackers • [en](https://github.com/geovedi/book-notes/blob/main/2010/hackers.md)
+* Stuart Russell - Human Compatible • [en](https://github.com/geovedi/book-notes/blob/main/2019/human-compatible.md)
 * Susan Cain - Bittersweet • [en](https://github.com/geovedi/book-notes/blob/main/2022/bittersweet.md) • [id](https://medium.com/lit-bits-n-pieces/a3b7ad7cb733)
 * Suzanne Simard - Finding the Mother Tree • [en](https://github.com/geovedi/book-notes/blob/main/2021/finding-the-mother-tree.md) • [id](https://medium.com/lit-bits-n-pieces/a3c08297d82b)
 * Thich Nhat Hanh - Fear • [en](https://github.com/geovedi/book-notes/blob/main/2012/fear.md) • [id](https://medium.com/lit-bits-n-pieces/5da9c89a7bd0)
 * Thomas Hertog - On the Origin of Time • [en](https://github.com/geovedi/book-notes/blob/main/2023/on-the-origin-of-time.md)
 * Timothy Egan - A Fever in the Heartland • [en](https://github.com/geovedi/book-notes/blob/main/2023/a-fever-in-the-heartland.md)
+* Torie Bosch, Kelly Chudler - You Are Not Expected to Understand This • [en](https://github.com/geovedi/book-notes/blob/main/2022/you-are-not-expected-to-understand-this.md)
 * Tracy Kidder - Rough Sleepers • [en](https://github.com/geovedi/book-notes/blob/main/2023/rough-sleepers.md)
+* Tracy Kidder - The Soul of A New Machine • [en](https://github.com/geovedi/book-notes/blob/main/2000/the-soul-of-a-new-machine.md)
 * Valentine Low - Courtiers • [en](https://github.com/geovedi/book-notes/blob/main/2023/courtiers.md)
+* Victor Hugo - The Last Day Of a Condemned Man • [en](https://github.com/geovedi/book-notes/blob/main/1829/the-last-day-of-a-condemned-man.md)
 * Vienna Pharaon - The Origins of You • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-origins-of-you.md)
 * Walter Isaacson - The Code Breaker • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-code-breaker.md) • [id](https://medium.com/lit-bits-n-pieces/9838251e252d)
 * Yung Pueblo - Lighter • [en](https://github.com/geovedi/book-notes/blob/main/2022/lighter.md) • [id](https://medium.com/lit-bits-n-pieces/95e92bc69886)
@@ -126,13 +134,5 @@
 
 * George Orwell - 1984
 * Ray Kurzweil - The Singularity Is Near
-* Richard A. Muller - Now 
-* Stephen Hawking - Brief Answers to the Big Questions
-* Steve Krug - Don't Make Me Think, Revisited
-* Steven Levy - Hackers
-* Stuart Russell - Human Compatible
-* Torie Bosch, Kelly Chudler - You Are Not Expected to Understand This
-* Tracy Kidder - The Soul of A New Machine
-* Victor Hugo - The Last Day Of a Condemned Man
 
 
