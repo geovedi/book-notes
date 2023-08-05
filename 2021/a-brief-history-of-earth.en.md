@@ -1,6 +1,5 @@
 # A Brief History of Earth
-
-Andrew H. Knoll (2021) • Amazon
+Andrew H. Knoll (2021)
 
 ***
 
