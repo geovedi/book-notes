@@ -12,7 +12,7 @@
 * Ashlee Vance - Elon Musk • [notes](https://github.com/geovedi/book-notes/blob/main/2015/elon-musk.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2015/elon-musk.en.md)
 * Ashlee Vance - When the Heavens Went on Sale • [notes](https://github.com/geovedi/book-notes/blob/main/2023/when-the-heavens-went-on-sale.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/when-the-heavens-went-on-sale.en.md)
 * Becky Kennedy - Good Inside • [notes](https://github.com/geovedi/book-notes/blob/main/2022/good-inside.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2022/good-inside.en.md) • [id](https://medium.com/lit-bits-n-pieces/35c3a5368e1a)
-* Brain Clegg - The Universe Inside You • [en](https://github.com/geovedi/book-notes/blob/main/2012/the-universe-inside-you.md)
+* Brain Clegg - The Universe Inside You • [notes](https://github.com/geovedi/book-notes/blob/main/2012/the-universe-inside-you.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2012/the-universe-inside-you.en.md)
 * Brené Brown - Atlas of the Heart • [en](https://github.com/geovedi/book-notes/blob/main/2021/atlas-of-the-heart.md) • [id](https://medium.com/lit-bits-n-pieces/a776c8ce24b7)
 * Brian Christian, Tom Griffiths - Algorithms To Live By • [en](https://github.com/geovedi/book-notes/blob/main/2016/algorithms-to-live-by.md)
 * Bruce Bagemihl - Biological Exuberance • [en](https://github.com/geovedi/book-notes/blob/main/1999/biological-exuberance.md)
