@@ -2,7 +2,7 @@
 
 ## Finished
 
-* Adam Grant - Think Again • [en](https://github.com/geovedi/book-notes/blob/main/2021/think-again.md) • [id](https://medium.com/lit-bits-n-pieces/6e31845a6e71)
+* Adam Grant - Think Again • [en](https://github.com/geovedi/book-notes/blob/main/2021/think-again.en.md) • [id](https://medium.com/lit-bits-n-pieces/6e31845a6e71) • [notes](https://github.com/geovedi/book-notes/blob/main/2021/think-again.notes.md)
 * Ajay Agrawal, Avi Goldfarb, Joshua Gans - Power and Prediction • [en](https://github.com/geovedi/book-notes/blob/main/2022/power-and-prediction.md) • [id](https://medium.com/lit-bits-n-pieces/97ddb4afe50e)
 * Alex Prud'homme - Dinner with the President • [en](https://github.com/geovedi/book-notes/blob/main/2023/dinner-with-the-president.md) • [id](https://medium.com/lit-bits-n-pieces/4a84e741c974)
 * Amy B. Zegart - Spies, Lies, and Algorithms • [en](https://github.com/geovedi/book-notes/blob/main/2022/spies-lies-and-algorithms.md) • [id](https://medium.com/lit-bits-n-pieces/646931799d47)
