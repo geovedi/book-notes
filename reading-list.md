@@ -25,7 +25,7 @@
 * Claire Dederer - Monsters • [notes](https://github.com/geovedi/book-notes/blob/main/2023/monsters.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/monsters.en.md)
 * Dacher Keltner - Awe • [notes](https://github.com/geovedi/book-notes/blob/main/2023/awe.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/awe.en.md)
 * Daniel Kahneman - Thinking, Fast and Slow • [notes](https://github.com/geovedi/book-notes/blob/main/2011/thinking-fast-and-slow.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2011/thinking-fast-and-slow.en.md) • [id](https://medium.com/lit-bits-n-pieces/c8071ef528d0)
-* Daniel Susskind - A World Without Work • [en](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.md)
+* Daniel Susskind - A World Without Work • [notes](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.en.md)
 * David Eagleman - Incognito • [en](https://github.com/geovedi/book-notes/blob/main/2011/incognito.md)
 * David Graeber, David Wengrow - The Dawn of Everything • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-dawn-of-everything.md) • [id](https://medium.com/lit-bits-n-pieces/e8f64aebe4d0)
 * David Grann - The Wager • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-wager.md)
