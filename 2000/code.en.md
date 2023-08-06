@@ -1,7 +1,6 @@
 # Code
 Charles Petzold
 
-
 ***
 
 "Code" by Charles Petzold is a captivating exploration of the history, principles, and significance of coding, taking readers on a journey from the early days of computing to the graphical revolution that transformed how we interact with computers.
@@ -52,7 +51,7 @@ The excerpt also introduces the concept of a "big treelike table," which visuall
 
 Expanding the system to include five dots and dashes accounts for numbers and punctuation marks, and using six dots and dashes extends the possibilities further. The binary nature of Morse code becomes evident as it employs only two components – dots and dashes – similar to a coin landing on heads or tails. Combinatorial analysis, a branch of mathematics, helps in understanding the various ways codes can be combined and deconstructed.
 
-Overall, Morse code provides a fascinating glimpse into the world of codes and their patterns. It serves as a foundation for grasping the complexities of communication systems, both past and present, and offers essential insights into the building blocks of computer technology.
+Morse code provides a fascinating glimpse into the world of codes and their patterns. It serves as a foundation for grasping the complexities of communication systems, both past and present, and offers essential insights into the building blocks of computer technology.
 
 ## Braille and Binary Codes
 While Samuel Morse is renowned for developing the Morse code, he wasn't the first to create a code for written language. That distinction belongs to Louis Braille, a brilliant blind French teenager born about 18 years after Morse. Despite his blindness, Braille's thirst for knowledge and intelligence were evident from a young age.
@@ -349,8 +348,6 @@ In recent years, the Free Software Foundation (FSF) and the GNU project have con
 The evolution of operating systems continues to shape the way we interact with computers, striving for greater efficiency, user-friendliness, and adaptability to meet the ever-changing demands of technology.
 
 ## Fixed Point, Floating Point
-Excerpt from Chapter 23: Fixed Point, Floating Point
-
 Numbers are numbers, and in most of our daily lives, we drift casually between whole numbers, fractions, and percentages. We buy half a carton of eggs and pay 8 ¼ percent sales tax with money earned getting time-and-a-half for working 2 ¾ hours overtime. Most people are fairly comfortable—if not necessarily proficient—with numbers such as these. We can even hear a statistic like "the average American household has 2.6 people" without gasping in horror at the widespread mutilation that must have occurred to achieve this.
 
 Yet this interchange between whole numbers and fractions isn't so casual when it comes to computer memory. Yes, everything is stored in computers in the form of bits, which means that everything is stored as binary numbers. But some kinds of numbers are definitely easier to express in terms of bits than others.
@@ -365,7 +362,7 @@ Number of Bits | Range of Positive Integers | Range of Two's-Complement Integers
 
 But that's where we stopped. Beyond whole numbers, mathematicians also define rational numbers as those numbers that can be represented as a ratio of two whole numbers. This ratio is also referred to as a fraction. For example, ¾ is a rational number because it's the ratio of 3 and 4. We can also write this number in decimal fraction, or just decimal, form: 0.75.
 
-When we write a number in decimal form, it really indicates a fraction. You'll recall from Chapter 7 that in a decimal number system, digits to the left of the decimal point are multiples of integral powers of ten. Similarly, digits to the right of the decimal point are multiples of negative powers of ten. In Chapter 7, I used the example 42,705.684, showing first that it's equal to 4 x 10,000 + 2 x 1000 + 7 x 100 + 0 x 10 + 5 x 1 + 6 ÷ 10 + 8 ÷ 100 + 4 ÷ 1000. Notice the division signs. Then I showed how you can write this sequence without any division: 4 x 10,000 + 2 x 1000 + 7 x 100 + 0 x 10 + 5 x 1 + 6 x 0.1 + 8 x 0.01 + 4 x 0.001. And finally, here's the number using powers of ten: 4 x 10^4 + 2 x 10^3 + 7 x 10^2 + 0 x 10^1 + 5 x 10^0 + 6 x 10^-1 + 8 x 10^-2 + 4 x 10^-3.
+When we write a number in decimal form, it really indicates a fraction. You'll recall from previous chapter that in a decimal number system, digits to the left of the decimal point are multiples of integral powers of ten. Similarly, digits to the right of the decimal point are multiples of negative powers of ten. The author used the example 42,705.684, showing first that it's equal to 4 x 10,000 + 2 x 1000 + 7 x 100 + 0 x 10 + 5 x 1 + 6 ÷ 10 + 8 ÷ 100 + 4 ÷ 1000. Notice the division signs. Then the author showed how you can write this sequence without any division: 4 x 10,000 + 2 x 1000 + 7 x 100 + 0 x 10 + 5 x 1 + 6 x 0.1 + 8 x 0.01 + 4 x 0.001. And finally, here's the number using powers of ten: 4 x 10^4 + 2 x 10^3 + 7 x 10^2 + 0 x 10^1 + 5 x 10^0 + 6 x 10^-1 + 8 x 10^-2 + 4 x 10^-3.
 
 Some rational numbers aren't so easily represented as decimals, the most obvious being 1/3. If you divide 3 into 1, you'll find that 1/3 is equal to 0.3333333333333333333333333333333333333333333333333333…and on and on and on. It's common to write this more concisely with a little bar over the 3 to indicate that the digit repeats forever: 0.3̅.
 
