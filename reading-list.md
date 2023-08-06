@@ -21,7 +21,7 @@
 * Carl Sagan - Cosmos • [notes](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.en.md)
 * Caroline Garnet McGraw - You Don't Owe Anyone • [notes](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.en.md) • [id](https://medium.com/lit-bits-n-pieces/cba7c1771498)
 * Charles Petzold - Code • [notes](https://github.com/geovedi/book-notes/blob/main/2000/code.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2000/code.en.md)
-* Christophe Galfard - The Universe İn Your Hand • [en](https://github.com/geovedi/book-notes/blob/main/2015/the-universe-in-your-hand.md)
+* Christophe Galfard - The Universe İn Your Hand • [notes](https://github.com/geovedi/book-notes/blob/main/2015/the-universe-in-your-hand.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2015/the-universe-in-your-hand.en.md)
 * Claire Dederer - Monsters • [en](https://github.com/geovedi/book-notes/blob/main/2023/monsters.md)
 * Dacher Keltner - Awe • [en](https://github.com/geovedi/book-notes/blob/main/2023/awe.md)
 * Daniel Kahneman - Thinking, Fast and Slow • [en](https://github.com/geovedi/book-notes/blob/main/2011/thinking-fast-and-slow.md) • [id](https://medium.com/lit-bits-n-pieces/c8071ef528d0)
