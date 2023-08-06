@@ -16,7 +16,7 @@
 * Brené Brown - Atlas of the Heart • [notes](https://github.com/geovedi/book-notes/blob/main/2021/atlas-of-the-heart.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2021/atlas-of-the-heart.en.md) • [id](https://medium.com/lit-bits-n-pieces/a776c8ce24b7)
 * Brian Christian, Tom Griffiths - Algorithms To Live By • [notes](https://github.com/geovedi/book-notes/blob/main/2016/algorithms-to-live-by.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2016/algorithms-to-live-by.en.md)
 * Bruce Bagemihl - Biological Exuberance • [notes](https://github.com/geovedi/book-notes/blob/main/1999/biological-exuberance.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/1999/biological-exuberance.en.md)
-* Bruce Schneier - A Hacker's Mind • [en](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.md)
+* Bruce Schneier - A Hacker's Mind • [notes](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.en.md)
 * Candice Millard - River of the Gods • [en](https://github.com/geovedi/book-notes/blob/main/2022/river-of-the-gods.md) • [id](https://medium.com/lit-bits-n-pieces/75b46cc683c5)
 * Carl Sagan - Cosmos • [en](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.md)
 * Caroline Garnet McGraw - You Don't Owe Anyone • [en](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.md) • [id](https://medium.com/lit-bits-n-pieces/cba7c1771498)
