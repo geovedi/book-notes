@@ -77,7 +77,7 @@ David Graeber, David Wengrow (2021)
 - The differences between upland and lowland populations in the Fertile Crescent, focusing on Göbekli Tepe and Çayönü Tepesi, are examined.
 - The House of Skulls at Çayönü Tepesi and contrasting cultural practices between upland and lowland populations are explored.
 - The prevailing narrative of an Agricultural Revolution is challenged, questioning the immediate connection to inequality and the origins of social rank.
-- Encourages young adult readers to think critically about ancient societies' complexities and consider alternative perspectives.
+- Encourages readers to think critically about ancient societies' complexities and consider alternative perspectives.
 - Embracing uncertainty and questioning long-held beliefs leads to a richer understanding of history.
 
 ## The Ecology of Freedom
