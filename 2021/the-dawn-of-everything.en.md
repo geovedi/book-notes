@@ -87,7 +87,7 @@ The differences between upland and lowland populations in the Fertile Crescent a
 
 The House of Skulls at Çayönü Tepesi serves as a fascinating example of distinct cultural practices between upland and lowland populations. These examples prompt us to rethink the prevailing narrative of an Agricultural Revolution and question the immediate connection to inequality and the origins of social rank.
 
-Encouraging young adult readers to think critically about the complexities of ancient societies and consider alternative perspectives is essential. Embracing uncertainty and questioning long-held beliefs leads to a richer and more nuanced understanding of history and the lives of our ancestors.
+To think critically about the complexities of ancient societies and consider alternative perspectives is essential. Embracing uncertainty and questioning long-held beliefs leads to a richer and more nuanced understanding of history and the lives of our ancestors.
 
 ## The Ecology of Freedom
 The origins and spread of farming across the globe present a complex narrative that challenges simplistic explanations. The transition to agriculture was far from uniform, and early farming societies in the Fertile Crescent stand as an example. These societies engaged in trade and specialized crafts, all while displaying minimal evidence of significant warfare or social inequality during their early stages.
