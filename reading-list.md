@@ -28,7 +28,7 @@
 * Daniel Susskind - A World Without Work • [notes](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.en.md)
 * David Eagleman - Incognito • [notes](https://github.com/geovedi/book-notes/blob/main/2011/incognito.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2011/incognito.en.md)
 * David Graeber, David Wengrow - The Dawn of Everything • [notes](https://github.com/geovedi/book-notes/blob/main/2021/the-dawn-of-everything.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-dawn-of-everything.en.md) • [id](https://medium.com/lit-bits-n-pieces/e8f64aebe4d0)
-* David Grann - The Wager • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-wager.md)
+* David Grann - The Wager • [notes](https://github.com/geovedi/book-notes/blob/main/2023/the-wager.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-wager.en.md)
 * David R Hawkins - Letting Go • [en](https://github.com/geovedi/book-notes/blob/main/2012/letting-go.md) • [id](https://medium.com/lit-bits-n-pieces/d6a8ace5b830)
 * David Sax - The Future Is Analog • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-future-is-analog.md)
 * Dawn Forman, Mary Joyce, Gladeana McMahon - Creating a Coaching Culture for Managers in Your Organisation • [id](https://medium.com/lit-bits-n-pieces/e1a1b09eab19)
