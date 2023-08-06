@@ -52,7 +52,6 @@ Even the perception of time, so fundamental to our daily lives, is revealed as a
 
 Thus, a deeper understanding of the brain's loopy nature invites us to question the veracity of our senses and the nature of our reality. Our perceptions are not cast in stone, but malleable, subject to the influence of our internal models and expectations. We are constantly treading the fine line between what we think we see and what truly lies before us. The maxim "Trust your instruments" rings true, as our senses can deceive us. Our conscious life, like a live television show with a delay, collects and processes information before presenting it to us, shaping our reality in ways we might never have imagined.
 
-
 ## Mind: The Gap
 In the depths of our unconscious brain lies a vast repository of knowledge and skills that govern our everyday actions. From reading letters to changing lanes while driving, we rely on our unconscious machinery to handle these tasks effortlessly. Our conscious mind, on the other hand, often takes a back seat in these processes. It only comes to the forefront when faced with complex decisions or when setting long-term goals.
 
@@ -71,7 +70,6 @@ Learning and training are crucial for adapting the brain to various tasks. Throu
 The flexibility of the brain to learn and adapt to different tasks is a hallmark of human intelligence. Whether it's playing tennis, mastering a musical instrument, or excelling in a complex task, our brain can optimize its circuitry to meet the demands of the task at hand.
 
 While the unconscious mind efficiently handles many routine tasks, there is a delicate balance between its access and the role of the conscious mind. Too little conscious access leads to aimless wandering, while too much can bog down problem-solving and decision-making. Evolutionary selection has likely fine-tuned the level of conscious access to strike this balance effectively.
-
 
 ## The Kinds of Thoughts That Are Thinkable
 In the vast landscape of our minds, we have explored the surface—the umwelt of our consciousness—and discovered that it is merely the tip of the iceberg. Beneath the conscious you, there exists a complex network of instincts, hardwired cognitive programs, and hidden neural machinery that drives much of our behavior and shapes the very thoughts we can think.
