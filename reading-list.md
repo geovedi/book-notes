@@ -19,7 +19,7 @@
 * Bruce Schneier - A Hacker's Mind • [notes](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/a-hacker's-mind.en.md)
 * Candice Millard - River of the Gods • [notes](https://github.com/geovedi/book-notes/blob/main/2022/river-of-the-gods.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2022/river-of-the-gods.en.md) • [id](https://medium.com/lit-bits-n-pieces/75b46cc683c5)
 * Carl Sagan - Cosmos • [notes](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.en.md)
-* Caroline Garnet McGraw - You Don't Owe Anyone • [en](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.md) • [id](https://medium.com/lit-bits-n-pieces/cba7c1771498)
+* Caroline Garnet McGraw - You Don't Owe Anyone • [notes](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2021/you-don't-owe-anyone.en.md) • [id](https://medium.com/lit-bits-n-pieces/cba7c1771498)
 * Charles Petzold - Code • [en](https://github.com/geovedi/book-notes/blob/main/2000/code.md)
 * Christophe Galfard - The Universe İn Your Hand • [en](https://github.com/geovedi/book-notes/blob/main/2015/the-universe-in-your-hand.md)
 * Claire Dederer - Monsters • [en](https://github.com/geovedi/book-notes/blob/main/2023/monsters.md)
