@@ -30,7 +30,7 @@
 * David Graeber, David Wengrow - The Dawn of Everything • [notes](https://github.com/geovedi/book-notes/blob/main/2021/the-dawn-of-everything.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2021/the-dawn-of-everything.en.md) • [id](https://medium.com/lit-bits-n-pieces/e8f64aebe4d0)
 * David Grann - The Wager • [notes](https://github.com/geovedi/book-notes/blob/main/2023/the-wager.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/the-wager.en.md)
 * David R Hawkins - Letting Go • [notes](https://github.com/geovedi/book-notes/blob/main/2012/letting-go.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2012/letting-go.en.md) • [id](https://medium.com/lit-bits-n-pieces/d6a8ace5b830)
-* David Sax - The Future Is Analog • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-future-is-analog.md)
+* David Sax - The Future Is Analog • [notes](https://github.com/geovedi/book-notes/blob/main/2022/the-future-is-analog.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-future-is-analog.en.md)
 * Dawn Forman, Mary Joyce, Gladeana McMahon - Creating a Coaching Culture for Managers in Your Organisation • [id](https://medium.com/lit-bits-n-pieces/e1a1b09eab19)
 * Dean Buonomano - Your Brain is a Time Machine • [en](https://github.com/geovedi/book-notes/blob/main/2017/your-brain-is-a-time-machine.md)
 * Don Norman - The Design Of Everyday Things • [en](https://github.com/geovedi/book-notes/blob/main/2013/the-design-of-everyday-things.md)
