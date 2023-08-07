@@ -36,7 +36,7 @@
 * Don Norman - The Design Of Everyday Things • [notes](https://github.com/geovedi/book-notes/blob/main/2013/the-design-of-everyday-things.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2013/the-design-of-everyday-things.en.md)
 * Edward Chancellor - The Price of Time • [notes](https://github.com/geovedi/book-notes/blob/main/2022/the-price-of-time.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2022/the-price-of-time.en.md) • [id](https://medium.com/lit-bits-n-pieces/a38b77ef7462)
 * Elise Loehnen - On Our Best Behavior • [notes](https://github.com/geovedi/book-notes/blob/main/2023/on-our-best-behavior.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2023/on-our-best-behavior.en.md)
-* Emily Nagoski, Amelia Nagoski - Burnout • [en](https://github.com/geovedi/book-notes/blob/main/2019/burnout.md)
+* Emily Nagoski, Amelia Nagoski - Burnout • [notes](https://github.com/geovedi/book-notes/blob/main/2019/burnout.notes.md) • [en](https://github.com/geovedi/book-notes/blob/main/2019/burnout.en.md)
 * Emily Prokop - The Story Behind • [en](https://github.com/geovedi/book-notes/blob/main/2018/the-story-behind.md)
 * Eric Maisel - Why Smart People Hurt • [en](https://github.com/geovedi/book-notes/blob/main/2013/why-smart-people-hurt.md) • [id](https://medium.com/lit-bits-n-pieces/cccdf8acc4b2)
 * Eric S. Raymond - The Cathedral & the Bazaar • [en](https://github.com/geovedi/book-notes/blob/main/2010/the-cathedral-and-the-bazaar.md)
