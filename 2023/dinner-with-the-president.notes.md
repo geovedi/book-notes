@@ -287,14 +287,14 @@ Alex Prud'homme
 - As Carter's presidency ended, the Carters hosted a "final supper" at the White House with a small group of family and friends, serenaded by Willie Nelson as they prepared to leave.
 
 ### Ronald Reagan
-- Reagan's Hollywood-style inauguration: Featured California roses and his favorite snack, jelly beans, signaling a shift from Carter's informality to glamour and extravagance. Nancy Reagan's wardrobe and social ambitions attracted criticism.
-- Nancy Reagan's role in political entertaining: Hired experts to guide her in hosting successful events at the White House. Hosted private parties and state dinners to further their political agenda and build relationships.
-- The assassination attempt on President Reagan: Hinckley Jr. attempted to assassinate Reagan, resulting in injuries to Reagan and others. Nancy cared for the president during his recovery, attempting to feed him his favorite soups.
-- Rancho del Cielo, the Reagans' retreat: Their sanctuary in the Santa Ynez Mountains, where they spent about 300 days during Reagan's presidency. Enjoyed horseback rides, outdoor work, and Mexican dishes like enchiladas and chile rellenos.
-- Jelly beans and Nancy's approach to astrology: Reagan's love for jelly beans became his signature. Nancy consulted an astrologer for scheduling and safety decisions, leading to controversy.
-- Nancy Reagan's personality and role as First Lady: Complex figure driven by a hunger for approval and respect. Critics faulted her for fashion choices and redecorating the White House. She had picky eating habits, favoring healthy California-style salads and fish dishes.
+- Reagan's Hollywood-style inauguration: Featured California roses and jelly beans, signaling a shift from Carter's informality to glamour. Nancy Reagan's wardrobe and social ambitions attracted criticism.
+- Nancy Reagan's role in political entertaining: Hired experts to host successful events at the White House, furthering their political agenda and building relationships.
+- The assassination attempt on President Reagan: Hinckley Jr. attempted to assassinate Reagan, resulting in injuries. Nancy cared for the president during his recovery.
+- Rancho del Cielo, the Reagans' retreat: Their sanctuary in the Santa Ynez Mountains, enjoying horseback rides and Mexican dishes.
+- Jelly beans and Nancy's approach to astrology: Reagan's love for jelly beans became his signature. Nancy consulted an astrologer for scheduling, leading to controversy.
+- Nancy Reagan's personality and role as First Lady: A complex figure with a hunger for approval. Critics faulted her for fashion choices and redecorating the White House. She had picky eating habits, favoring healthy California-style dishes.
 - Mesnier's mishap with hazelnut yule log: A humorous incident with a misunderstanding of the word "nuts."
-- Controversy over school lunch program cuts: Reagan's proposed cuts faced criticism for reducing nutrition and benefiting tobacco subsidies. Nancy's purchase of new bone china for the State Dining Room amid the controversy.
+- Controversy over school lunch program cuts: Reagan's proposed cuts faced criticism. Nancy's purchase of new bone china for the State Dining Room amid the controversy.
 - Extensive hosting of official and state dinners: Projecting power and connections on a global scale.
 - Memorable state dinner with Prince Charles and Princess Diana: Included John Travolta's dance with the princess.
 - State dinner for Mikhail and Raisa Gorbachev: Part of diplomatic efforts to reduce tensions and achieve arms reduction.
