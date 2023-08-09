@@ -1,0 +1,441 @@
+# Fatal System Error
+Author: Joseph Menn
+
+
+## Wargames
+- Barrett Lyon's Early Interest in Computers
+  - Barrett Lyon's fascination with computers started at a young age.
+  - Upgraded computers at his father's law office introduced him to spell-check and the internet.
+  - He became obsessed with computers, often staying up late to use them.
+- Adventures in Computer Networking and Hacking
+  - Barrett and his friend Peter set up a server called TheShell running Linux, offering various services.
+  - They registered domain names and started charging for services.
+  - Barrett exposed security flaws, including a major incident involving Network Solutions.
+  - His mischievous activities resulted in FBI involvement, but he escaped without major consequences.
+  - Despite some harmless pranks, Barrett matured and focused on ethical computer work.
+- Transition to College and Computer Security Work
+  - Barrett enrolled in college reluctantly but ended up enjoying it.
+  - He balanced studies with computer work, photography, and journalism at the college paper.
+  - He met Rachelle Sterling, who became his girlfriend.
+  - An accident halted his rowing and led him back to computers.
+  - He began the Opte project, mapping the Internet's paths, leading to recognition at MoMA.
+- Entry into the Cybersecurity Industry
+  - Barrett worked at Network Presence, specializing in computer security.
+  - He gained a reputation for thinking like a hacker and solving security challenges.
+  - He thwarted a major cyber attack on Don Best Sports, establishing his skills.
+- Founding Prolexic Technologies
+  - Barrett started his own company, Prolexic Technologies, focusing on defending against DDoS attacks.
+  - He partnered with Mickey and Brian from BetCRIS and other clients.
+  - Prolexic rapidly gained clients and reputation, successfully mitigating DDoS attacks.
+  - Barrett's dedication to his work led to a strained relationship with Rachelle.
+  - He remained unaware of the criminal aspects of the gambling industry he was involved in.
+- Global Stakes and Growing Rivalry
+  - Unbeknownst to Barrett, he was entering a realm of criminal rivalry involving the Russian mob and U.S. mafia.
+  - Governments of world powers became involved, escalating the conflict to a global scale.
+
+
+## Hardcore V5. eXe
+- Background and Setup
+  - Barrett Lyon's respite after attacks on BetCRIS in 2004.
+  - Building infrastructure to protect clients.
+  - Extortionists crashing sites before Super Bowl to extort money.
+  - Taking down sites as warnings.
+  - Barrett's determination to go beyond defense.
+- Investigation and Counteraction
+  - Attempt to track hackers to their lairs.
+  - Barrett's desire to do more than just defense.
+  - Barrett's skepticism about law enforcement's help.
+  - Barrett contacts the FBI, but receives little response.
+  - Studying infected machines, discovering ICQ communication.
+  - Tracing back to IRC servers in Kazakhstan and Russia.
+  - Barrett enters the hackers' chat channel undercover.
+  - Developing rapport with hacker named "eXe."
+  - Barrett's discussions with eXe reveal mistakes and information.
+  - Barrett shares findings with the FBI, receives mixed response.
+  - Barrett's interactions with the FBI and British authorities differ.
+- British Involvement
+  - UK's National Hi-Tech Crime Unit (NHTCU) interested in Barrett's work.
+  - NHTCU contacts Barrett, sends agents to Los Angeles.
+  - NHTCU's mission: protect UK citizens, advocate policy changes.
+  - Exchange of information between Barrett and NHTCU.
+- Identification of eXe
+  - eXe's private email address discovered.
+  - Registration records for the domain linked to Ivan Maksakov.
+  - Mistake by eXe: used real identity for domain registration.
+  - Forwarding of findings to NHTCU and Russian authorities.
+  - Russian media reports arrest of Ivan Maksakov and others a year later.
+
+
+## In Too Deep
+- Introduction:
+  - The story explores the connection between organized crime and the rise of online gambling.
+- Ron Sacco and Criminal Activities:
+  - Ron Sacco, a mobster, established online gambling operations.
+  - Started with sports betting and later moved to poker.
+  - Engaged in various forms of fraud, including phone scams, identity theft, and credit card fraud.
+  - Utilized illegal tactics such as stealing credit card information and deceptive advertising.
+- Online Poker and PartyPoker:
+  - Online poker, particularly Texas Hold 'Em, became a major revenue source.
+  - PartyPoker emerged as a significant player in the industry.
+  - Ruth Parasol transitioned from the porn industry to co-founding PartyGaming and PartyPoker.
+  - Parasol utilized her legal knowledge to navigate legal challenges.
+- PartyPoker's Business Model and Marketing:
+  - PartyPoker's business model relied on taking a small percentage of each pot (the rake).
+  - Heavy investments in advertising, including televised poker tournaments.
+  - Capitalized on the popularity of Texas Hold 'Em to attract players.
+- Ruth Parasol's Success and Impact:
+  - PartyGaming's successful IPO in 2005 made Ruth Parasol one of the richest self-made women in America.
+  - Parasol's transition from the porn industry to online gambling was marked by legal maneuvering.
+  - PartyPoker's marketing strategies were aggressive and influential in shaping the industry.
+- Yishai Habari and Marketing Strategies:
+  - Yishai Habari, linked to the Gambino crime family, played a significant role in PartyGaming's marketing and operations.
+  - PartyGaming utilized Habari's expertise to market their platforms effectively.
+- Online Gambling's Regulatory Challenges:
+  - The online gambling industry operated in a legal gray area.
+  - Exploited regulatory loopholes and operated from offshore locations.
+  - Law enforcement struggled to keep up with the rapid growth of online gambling and associated crimes.
+
+
+## The Turn
+- Prolexic's Formation and Initial Focus
+  - Barrett Lyon co-founded Prolexic, an anti-DDoS company.
+  - Prolexic aimed to defend against DDoS attacks, targeting online gambling sites.
+  - Barrett's intention was to safeguard the Internet from cybercriminals.
+  - Prolexic utilized "divert and scrub" techniques to filter malicious traffic.
+- Ethical Dilemmas and Criminal Clients
+  - Prolexic's technology was used to protect online casinos run by criminals.
+  - This raised ethical questions about serving illegal activities.
+  - Barrett aimed to disrupt cybercriminals and track their operations.
+- Founders and Company Growth
+  - Prolexic was co-founded by Barrett, Mickey, Darren, and Brian.
+  - The company's success led to rapid expansion and a shift toward legitimate clients.
+- Internal Tensions and Departure of Barrett
+  - Disagreements arose within Prolexic over aggressive tactics.
+  - Barrett sought to leave due to ethical concerns and illegal activities.
+  - He tried to sell his stake and cooperate with law enforcement.
+- Exploring New Ventures
+  - Barrett contemplated starting a new business in Internet video delivery.
+  - He co-founded BitGravity with Perry Wu, focusing on video delivery.
+- Challenges Faced by Prolexic
+  - Blue Security's anti-spam efforts triggered retaliation from spammers.
+  - DDoS attacks targeted Prolexic and its clients, causing disruptions.
+- Weakening Defense Capabilities
+  - UltraDNS's actions and disputes with Prolexic affected defense capabilities.
+  - Barrett's departure weakened Prolexic's ability to counter DDoS attacks.
+- Sale and Aftermath
+  - Prolexic was eventually sold to IPVG, a Philippines Internet company.
+  - Roger Stone, with ties to Prolexic's founders, was involved in IPVG.
+  - Barrett's expected payout was reduced due to financial decisions.
+
+
+## Crackdown
+- Background and Introduction
+  - Mid-2006, Barrett provides information about Mickey Richardson and Ron Sacco to Paul Betancourt and quits Prolexic.
+  - Betancourt investigates the information and begins building a case against Prolexic's investors and clients.
+  - Barrett and Betancourt collaborate over the next year, collecting evidence against Prolexic.
+- The U.S. Government's Shift
+  - The U.S. government focuses on prosecuting American mafiosi involved in online gambling rather than foreign criminal hackers.
+  - The government considers those involved in illegal online gambling more vulnerable due to regulations and traceable transactions.
+- Legal Actions Against Gambling Operations
+  - The Justice Department prosecutes mobsters involved in illegal gambling operations.
+  - Arrests related to gambling operations, such as Steve Budin of SDB Global and the Gambino family members.
+  - Microsoft, Google, and Yahoo settle claims for profiting from gambling ads.
+  - Federal agents arrest David Carruthers, CEO of BetonSports, and target gambling promotions.
+- Impact on Poker Companies
+  - While sports betting faces legal actions, poker companies seem relatively safe.
+  - Concerns about cheating, bots, and insider manipulation in online poker.
+  - Scandal involving Absolute Poker's cheating reveals insider manipulation and lack of regulation.
+  - Lack of government intervention due to online gambling's legal ambiguity.
+- Legal Battles and Bans
+  - Attempts in Congress to ban online gambling repeatedly fail.
+  - Established casinos in Las Vegas and Atlantic City find online betting beneficial.
+  - Introduction of the Unlawful Internet Gambling Enforcement Act in 2006 causes stock crashes.
+  - Regulations against processing transactions for gambling cause significant changes in the industry.
+- Legal Cases and Investigations
+  - Investigations into Prolexic's connections with illegal gambling and Prolexic's eventual indictment.
+  - Discovery of Mickey Richardson's involvement and accounts through documents from the IPVG deal.
+  - Ron Sacco's probation violations and FBI's efforts to locate him.
+- FBI's Involvement and Undercover Operations
+  - Barrett cooperates with the FBI, assisting them in investigations.
+  - Undercover operation involving Darren Rennick to gather information.
+  - Use of digital recorder key fobs to capture conversations with Darren.
+- Revelations from Darren Rennick
+  - Darren Rennick's admission of BetCRIS's expansion and dealings with drug cartels.
+  - Details about BetCRIS's physical casinos in various countries and dealings with cartels.
+- Extradition and Indictment
+  - FBI considers extraditing Darren, Mickey, and Sacco after state grand jury indictment in Arizona.
+
+
+## From Spam TO Identity Theft
+- The evolution of hacking and cybercrime:
+  - The early days saw hacking as a curiosity and art form.
+  - Hacking evolved into a more malicious and profitable activity with the advent of viruses and malware.
+  - Malicious code distribution led to the rise of botnets and cybercriminal communities.
+  - The Agobot worm, created by Axel Gembe, spread and was monetized through modified versions.
+  - Lee Walker collaborated with Paul Ashley to introduce DDoS-for-hire services into the Western market.
+  - DDoS attacks caused significant financial losses for victims and led to prosecutions.
+- The emergence of identity theft and phishing:
+  - Identity theft became a major concern in the cybercriminal world.
+  - The CAN-SPAM Act of 2004 contributed to the shift towards phishing attacks.
+  - Phishing attacks tricked users into revealing sensitive information by imitating legitimate websites.
+  - Phishers improved their techniques, using realistic language and website mimicry.
+  - Despite warnings, users continued to fall victim to phishing attacks.
+  - Hacking into corporate databases increased, exposing millions of identities.
+- Factors contributing to the growth of identity theft:
+  - Weak security practices by U.S. banks and institutions.
+  - Legal protection for writing and distributing malicious software.
+  - Lack of product-liability lawsuits for insecure commercial software.
+  - Financial institutions had a flawed system where retailers absorbed losses caused by identity theft.
+- Manipulation and distortion of information:
+  - Visa, MasterCard, and banks distorted the discourse around identity theft.
+  - A 2005 study funded by Visa, Wells Fargo, and CheckFree downplayed online identity theft.
+  - Contradictory advice from experts on online banking safety.
+- Escalation of electronic commerce risks:
+  - Identity theft evolved to target ATM and debit cards and online bank accounts.
+  - U.S. banks faced increasing losses due to fraud while lagging in security.
+  - Risks of fraud causing consumers to pull back from electronic commerce.
+  - Visa, MasterCard, and banks worked to suppress the true extent of identity theft.
+- Defenders against cybercrime:
+  - Barrett Lyon emerged as a key figure in defending against DDoS attacks.
+  - Lyon's efforts saved numerous companies and contributed to catching cybercriminals.
+  - Lyon's realization that he couldn't defend millions of people at once marked a shift in the battle against cybercrime.
+- The need for collective effort and system changes:
+  - Combating mass identity theft required cooperation from multiple governments.
+  - The Internet's fundamental architecture might need a reboot to effectively combat cybercrime.
+
+
+## Whatever IT Takes
+- Initial Meeting and Collaboration:
+  - Andy arranges a meeting with Igor Yakovlev, a Russian police officer, to collaborate on a cybercrime case.
+  - Igor is described as a bear-like man with a preference for drink. He works in a small, mismatched office with outdated furniture.
+- Russian Customs and Bonding:
+  - Russian custom emphasizes heavy vodka consumption as a sign of trust and loyalty.
+  - Andy and Igor bond over drinking vodka, fostering trust and camaraderie.
+- Establishing Trust and Backgrounds:
+  - Igor's trust in Andy becomes crucial for the case's success.
+  - Both men share military backgrounds and gradually rise through the police ranks.
+- Igor's Previous Case and Corruption:
+  - Igor's significant case involves a fraudulent insulin factory sale, exposing corruption within Russia's police and government.
+  - The corrupt officials behind the sale remain untouched, highlighting widespread corruption.
+- Economic Realities and Corruption Temptation:
+  - Despite his rank, Igor earns very little, showcasing the contrast between corruption's allure and low official incomes.
+  - Gangsters' lavish lifestyles underscore the temptation of corruption in Russia.
+- Evolution of Friendship and Informal Gatherings:
+  - Andy is invited to Igor's home for dinners, transitioning from formal gatherings to more casual, comfortable interactions.
+  - The bond between Andy and Igor deepens as they share personal moments and stories.
+- Contrasting Law Enforcement Structures:
+  - The authoritarian structure of Russian law enforcement is different from England's more independent system.
+  - Igor's ability to navigate the system, using his position to avoid repercussions, highlights its downsides and limitations.
+- Investigation Intensifies:
+  - Igor and Andy's investigation gains momentum as they identify key suspects and track financial transactions.
+  - Close collaboration and reliance on each other's strengths facilitate progress in the case.
+- Camaraderie and Playful Interactions:
+  - A playful fight during a riverside picnic showcases the growing camaraderie between Igor and Andy.
+  - Despite differences, their friendship and shared experiences strengthen their partnership.
+- Igor's Intimidating Demeanor:
+  - Igor's intimidating demeanor aids their interactions, ensuring cooperation even from uncooperative individuals.
+  - His presence and reputation help overcome obstacles during the investigation.
+- Coordinated Operation and Conclusion:
+  - In July 2004, the team plans a coordinated operation to arrest multiple suspects simultaneously.
+  - The culmination of their efforts aims to bring the investigation to a successful conclusion.
+
+
+## The Day of Action
+- Andy's Investigation and Cybercriminal Gang
+  - Andy embarked on an investigation into cybercriminal activities in Russia.
+  - Discovered a prominent cybercrime group called the "Russian Business Network."
+  - Uncovered their involvement in Distributed Denial of Service (DDoS) attacks.
+- DDoS Attacks and Targets
+  - The gang's primary focus was conducting DDoS attacks.
+  - Targets included online gambling companies, payment processors, and more.
+  - Companies were often small and lacked strong defenses against DDoS attacks.
+- Collaboration with Russian Authorities
+  - Andy collaborated with Russian law enforcement, including Igor.
+  - Arrested suspects like Alexander Petrov, who had ties to cybercrimes.
+  - Petrov initially denied involvement but later admitted to monitoring servers.
+- Unmasking the Mastermind - Brain
+  - The investigation led to identifying "Brain" as the mastermind behind cybercrimes.
+  - Brain controlled botnets and orchestrated various attack campaigns.
+  - Continuously adapted tactics to evade authorities and set up new botnets.
+- Challenges and Countermeasures
+  - Despite takedowns, Brain quickly established new botnets.
+  - He shifted focus to infecting users through poisoned domain name servers.
+  - This strategy allowed him to target individual consumers for financial theft.
+- Andy's Efforts and Adaptation
+  - Andy and Igor managed to disrupt Brain's operations by disabling control sites.
+  - Brain adapted by infecting users through malicious domain name servers.
+  - The investigation highlighted the evolving nature of cybercrime and challenges in countering it.
+- Brain's Boasts and International Challenges
+  - Brain boasted of his invincibility due to being in Kazakhstan.
+  - The investigation underscored the difficulty of cross-border cooperation in tackling cybercrime.
+
+
+## The Underground Economy
+- Global Cybercrime Landscape
+  - Cybercrime groups forming around websites in various countries, including Russia and Ukraine.
+  - Contrast between cybercrime groups in the US and other countries, highlighting the latter's ability to metastasize like traditional organized crime.
+- Corruption and Government Involvement
+  - In some countries, cybercrime groups corrupt government officials to facilitate their activities.
+  - Involvement of well-placed individuals in law enforcement or even government members themselves in cybercrime enterprises.
+- Law Enforcement Efforts
+  - Attempts by US law enforcement to dismantle cybercrime groups like Shadowcrew and CarderPlanet.
+  - Limited success due to sites operating openly, scattering of users after takedowns, and emergence of smaller, more secretive sites.
+  - Undercover operations aimed at infiltrating cybercrime organizations and gathering intelligence.
+- Informants and Undercover Agents
+  - Role of informants and undercover agents in penetrating cybercrime groups.
+  - Use of undercover agents to create personas linked to cybercrime activities and gain credibility.
+- Key Players and Forums
+  - Significance of CarderPlanet as a breeding ground for major players in today's cybercrime landscape.
+  - Proliferation of carder and phisher forums, sharing of tutorials and tools for illegal activities.
+- Major Breaches and Arrests
+  - Breaches in ATM networks and financial institutions leading to significant financial losses.
+  - Arrests of major cybercrime figures like Maksym Yastremskiy and Albert Gonzalez.
+- Challenges and Risks
+  - Challenges in handling informants engaged in unauthorized cybercrimes.
+  - Comparison of identity thieves to junkies, with easy access to computers and temptations to engage in cybercrime.
+- Andy's Role and Embedded Approach
+  - Description of Andy's deep involvement in the Russian criminal justice system.
+  - Andy's use of various tactics to penetrate the cybercrime underworld and gather insights.
+
+
+## Trial
+- Tracking and Preparations
+  - Andy Crocker and MVD officers track paymaster Stran, denial-of-service gang leaders Brain and Milsan, and Bra1n’s partners in St. Petersburg.
+  - Prosecutor Anton Pohamov assigned to the case; known for going after powerful criminals.
+  - Pohamov expresses interest in prosecuting an international denial-of-service attack case.
+- Preparation and Strategy
+  - Decision to try all three defendants at once.
+  - Plan to use Ivan Maksakov's testimony against the other defendants.
+  - Challenges of presenting evidence related to technology issues in court.
+  - Andy pledges to stay for the entire trial, assisting with testimony.
+  - Maksakov's cooperation is deemed critical for the case.
+- Arutchev's Testimony and Developments
+  - Arutchev's return and conflicting testimonies from him.
+  - Arutchev photographs Andy secretly; judge ensures safe passage for Arutchev.
+  - Judge receives a bribe attempt; bluffing and reporting the threat.
+- Verdict and Outcome
+  - Verdict: Maksakov, Petrov, and Stepanov found guilty.
+  - All three sentenced to eight years in prison.
+  - Pohamov named trial prosecutor of the year.
+  - SOCA (Serious Organised Crime Agency) replaces NHTCU; focuses less on cybercrime.
+  - SOCA faces criticisms and issues no press releases about the Russian case.
+
+
+## Beyond Crime
+- Russian Business Network (RBN) and Cybercrime
+  - RBN was a notorious cybercriminal organization known for hosting criminal activities.
+  - It was involved in various cybercrimes, including botnets, spam, hacking, and malware distribution.
+  - RBN's involvement in illegal activities made it challenging for law enforcement to dismantle it.
+  - RBN operated as a host for various criminal enterprises, including malware and phishing attacks.
+  - It was linked to phishing attacks through a connection with Rock Phish, a major phishing operation.
+  - Law enforcement agencies identified individuals associated with RBN's operations.
+- Global Impact of Cybercrime
+  - Cybercriminals were committing fraud on a massive scale, impacting electronic commerce and financial institutions.
+  - Extortionists, identity thieves, and cybercriminals were taking advantage of technical education imbalances in Eastern European countries.
+  - Some countries' governments showed leniency towards cybercriminals, contributing to the rise of cybercrime.
+  - Strong technical education, resentment against American power, and corruption were contributing factors to cybercrime growth.
+  - Enormous national governments like Russia and China allied with organized crime for cyber operations.
+  - Organized crime's alliance with national governments had significant implications for the world.
+- State-Sponsored Cybercrime
+  - Powerful national governments like Russia and China formed alliances with organized crime for cyber operations.
+  - Countries like Russia and China saw benefits in such alliances, including economic and political advantages.
+  - These governments utilized cybercriminal activities to further their agendas and potentially disrupt the Western economy.
+  - Governments' motivations for such alliances included economic benefits, espionage, and geopolitical influence.
+  - Cyber campaigns conducted by these governments targeted countries like Georgia and Estonia.
+- Chinese and Russian Cyber Activities
+  - Chinese cyber capabilities were seen as advanced, with the government potentially coordinating or supporting cyberattacks.
+  - Chinese hackers targeted foreign governments, dissident groups, and foreign embassies.
+  - The Chinese government denied involvement, but the extensive infrastructure and organization suggested state support.
+  - Russian cyber operations exhibited coordination and direction, impacting targets like Georgia and Estonia.
+  - Russian hackers targeted various groups, including political dissidents and opposition politicians.
+- US Government Response to Cyber Threats
+  - The US response to cyber threats was initially inadequate, focusing more on traditional security concerns.
+  - Calls for increased cybersecurity measures were often met with mixed reactions and lack of priority.
+  - Various US government agencies, including Homeland Security and Defense, experienced cyber intrusions.
+  - The Bush administration's response to cybersecurity was lacking, despite warnings from experts.
+  - The importance of cybersecurity was recognized in the latter years of the Bush administration, with initiatives to strengthen defenses.
+- Presidential Response and Cybersecurity Initiatives
+  - Barack Obama's administration recognized the urgency of cybersecurity threats.
+  - A review was conducted, highlighting the vulnerability of the nation's digital infrastructure.
+  - The need for investment in research, public education, and coordination was emphasized.
+  - Obama pledged to establish a cybersecurity coordinator position.
+  - However, delays in appointing a coordinator and uncertainties regarding their authority led to frustration and hopelessness.
+
+
+## Fixing What’S Fixable
+- Introduction:
+  - Barrett Lyon fought against DDoS attacks in the private sector.
+  - Cybercrime, especially DDoS attacks, was on the rise.
+  - Even teenagers were able to launch significant attacks.
+- Barrett's Efforts:
+  - Barrett Lyon helped restore websites attacked by DDoS.
+  - Team Cymru provided assistance to identify attackers.
+  - Barrett's actions showed limited success in combating cybercrime.
+- Government Involvement:
+  - Andy Crocker worked in government to combat cyber mafia.
+  - Cooperation with Russia led to limited success.
+  - Internal shifts and diplomatic issues hindered efforts.
+- Challenges and Solutions:
+  - The problem involved catching cybercriminals, disabling their tools, and protecting sensitive information.
+  - Some successes in apprehending criminals through collaboration.
+  - Difficulty in cracking cases due to increasing encryption and underground forums.
+- Russian Collaboration:
+  - Andy's efforts emphasized building personal relationships with Russian counterparts.
+  - Lack of understanding of Russian mentality hindered cooperation.
+  - Collaborations between FBI and FSB, yet progress was slow.
+- International Cooperation:
+  - Global cooperation needed to combat cybercrime.
+  - The need for personal relationships and diplomacy.
+- Government Actions:
+  - Obama administration recognized the impact of online crime.
+  - Efforts to share information and develop offensive cyberweapons.
+  - Senate testimony highlighted threats from Russia and China.
+- Challenges in Network Security:
+  - Botnets posed a significant threat, especially in the form of zombie armies.
+  - Efforts against bots were challenging and not yielding significant results.
+- Identifying and Disrupting Criminals:
+  - Efforts to expose and disrupt criminal networks hosting malware and scams.
+  - Investigations targeting service providers and registrars hosting criminal content.
+- Public Pressure and Accountability:
+  - Exposing and embarrassing criminal networks as a strategy.
+  - Efforts to pressure ISPs and service providers into accountability.
+- Empowering Consumers:
+  - Promoting online education for users.
+  - Encouraging responsible online practices, such as strong firewalls and updated software.
+- Legislation and Regulation:
+  - The need for increased cybersecurity research funding.
+  - Legal requirements for software quality and security standards.
+  - Laws for mandatory data breach disclosure and encryption.
+- Banking Industry and Fraud:
+  - Need for improved identity verification in banking transactions.
+  - Encouraging multi-factor authentication.
+  - Separating fraud losses from credit losses for transparency.
+- Government Role and Collaboration:
+  - FBI and law enforcement should cooperate openly.
+  - Department of Homeland Security should lead in cybersecurity efforts.
+  - Collaborative efforts needed for email and website authentication.
+
+
+## Epilogue
+- Andy Crocker:
+  - Retired from the Serious Organised Crime Agency in 2009.
+  - Rewarded with a pension and commendation for his outstanding commitment and investigative abilities.
+  - Worked with Barrett Lyon to establish Cyber Security Shield, a private company focused on defending against botnets.
+  - Key allies inside Russia, Igor Yakovlev and Anton Pohamov, faced unsuccessful careers post their famous case.
+  - SOCA closed the case against the man accused of being Brain due to insufficient evidence.
+  - Anton Pohamov's boss, the chief prosecutor, was assassinated after corruption probes against high officials.
+- Barrett Lyon:
+  - Founded BitGravity, a successful content delivery network with customers like YouTube.
+  - BitGravity valued at over $10 million, Barrett owned close to 50%.
+  - Clashed with co-founder Perry Wu over customer treatment, lost and left the company.
+  - Conceived a new idea after leaving BitGravity, combining content-delivery networks with botnet lessons.
+  - Negotiated with venture capital firms for investment in this new idea.
+  - Tired of FBI's lack of progress, declined polygraph test, grew tired of the investigation.
+- Government and Defense Department:
+  - Defense Department announced a new Cyber Command under the National Security Agency.
+  - Andy and Barrett spoke at a secret conference on fighting terrorism.
+  - Director of a Pentagon office asked Barrett for offensive hacking weapons.
+- 3Crowd Technologies:
+  - Barrett founded 3Crowd Technologies, a content-delivery company.
+  - Aimed to harness idle PC and network capacity to create a large content delivery network.
+  - Thought it could be the world's biggest botnet.
