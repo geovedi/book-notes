@@ -1,74 +1,276 @@
 # Incognito
-David Eagleman
+Author: David Eagleman
 
-## There's Someone In My Head, But It's Not Me
-- The history of the study of consciousness and the brain has evolved over time, with key figures contributing to our understanding.
-- Thomas Willis laid the groundwork for brain and nervous system study in the seventeenth century.
-- Gottfried Wilhelm Leibniz explored consciousness and unconscious urges, postulating the existence of hidden strivings.
-- Ernst Heinrich Weber pioneered psychophysics, measuring perceptions and revealing insights into sensory experiences.
-- Johannes Peter Müller's observation suggested that perceptions of the outside world are mediated by signals within the nervous system.
-- James McKeen Cattell's measurements of thinking time challenged the idea that thinking was distinct from the brain's physical processes.
-- Sigmund Freud's work popularized the concept of the unconscious mind and reshaped psychiatry and psychology.
-- Freud's psychoanalytic approach sought to bring hidden mental processes to light, linking buried traumatic experiences to neuroses.
-- Freud's emphasis on seeking the physical basis of mental processes paved the way for further exploration into human cognition.
-- Modern technology has allowed neuroscience to peer into the human brain at various levels of detail.
-- Neuroscience continues to uncover the profound interplay between brain function and behavior, shaping our perceptions, decisions, and actions.
 
-## The Testimony of the Senses: What Is Experience Really Like?
-- Our perceptions are shaped by a complex interplay of sensory systems in the brain.
-- The McGurk effect illustrates how visual and auditory inputs are intertwined, leading to a unified perception.
-- The brain's predictive capabilities allow us to anticipate future events based on internal models of physics and experiences.
-- Perception is not a passive assembly of sensory data but involves matching sensory inputs with pre-existing expectations.
-- The brain actively constructs internal models to anticipate and compare sensory data, refining its understanding of the world.
-- Much of what occurs in the brain happens outside of conscious awareness, shaping our sensory experiences.
-- Anton's syndrome demonstrates the profound influence of internal models on conscious perception.
-- The brain's calibration of temporal expectations allows us to make sense of causality and the order of events.
-- Our perceptions are malleable and subject to the influence of internal models and expectations.
-- We must be cautious about blindly trusting our senses, as they can deceive us, shaping our reality in unexpected ways.
+## There's Someone in My Head, But It's Not Me
+- Leibniz's Insights into Unconscious Urges
+  - Insensible perceptions and corpuscles are crucial in human psychology.
+  - Introduced concept of unconscious tendencies ("appetitions") driving actions.
+  - Ideas of unconscious urges in his New Essays on Human Understanding.
+- Charles Bell and Nerve Differentiation
+  - Charles Bell discovered motor and sensory nerves.
+  - First significant discovery about brain's structural organization.
+  - Foundation for understanding brain's detailed structure.
+- Johann Friedrich Herbart's Mathematical Framework
+  - Herbart proposed ideas can be structured mathematically.
+  - Introduced concept of "apperceptive mass" – ideas assimilate with others.
+  - Boundary between conscious and unconscious thoughts.
+- Ernst Heinrich Weber and Psychophysics
+  - Weber established "psychophysics" to quantify human perception.
+  - Measurements of sensory detection and reaction times.
+  - Perception not always accurate representation of external world.
+- James McKeen Cattell's Thinking Time
+  - Cattell measured time for different types of cognitive tasks.
+  - Reaction time based on complexity of thinking.
+  - Simple experiment highlighting connection between brain and mind.
+- Sigmund Freud's Unconscious Mind
+  - Freud's view of unconscious mental processes.
+  - Mind as an iceberg – majority hidden from conscious awareness.
+  - Transformation of psychiatry from supernatural explanations.
+- Freud's Psychoanalysis and Hidden Neural Mechanisms
+  - Freud and Breuer's exploration of hidden neural mechanisms.
+  - Emphasis on analyzing unconscious processes in behavior.
+  - Talk therapy and revealing buried traumatic experiences.
+- Freud's Exploration of Unconscious
+  - Freud's The Interpretation of Dreams analyzed unconscious processes.
+  - Discovered hidden feelings through self-analysis.
+  - Questioned the concept of free will due to hidden mental processes.
+- Modern Neuroscience and Brain Imaging
+  - Freud's intuition about unconscious validated by modern neuroscience.
+  - Advanced brain imaging technologies reveal brain activity patterns.
+  - Exploration of unexpected aspects of brain's inner workings.
+- Thought-Provoking Questions
+  - Various intriguing questions about human behavior.
+  - Connection to underlying operations of the brain.
+  - Examples of complex interactions between mind and brain.
+
+
+## The Testimony of The Senses: What Is Experience Really Like?
+- Perceptual Illusions and Brain's Processing
+  - Perceptual illusions challenge traditional notions of perception.
+  - Brain interprets sensory inputs in context of expectations.
+  - Illusions highlight brain's interconnected visual and auditory systems.
+  - Brain constructs unified story of events in the world.
+  - Assembly line model of vision is inaccurate.
+  - Loopy brain allows predictions ahead of sensory input.
+  - Internal models enable predictions about the world.
+  - Perception is not solely based on sensory data but on matching expectations.
+- Internal Models and Predictive Processing
+  - Brain generates internal models of the world.
+  - Primary visual cortex constructs an internal model.
+  - Cortex sends predictions to thalamus, refines model through errors.
+  - Perception actively compares sensory inputs to internal predictions.
+  - Awareness arises when sensory inputs violate expectations.
+  - Conscious perception involves prediction matching.
+  - Consciousness diminishes as predictions match sensory data.
+  - Brain's predictive model refines with experience.
+- Anton's Syndrome and Bizarre Disorders
+  - Anton's syndrome: Blindness denial due to stroke.
+  - Patients believe in internally generated vision.
+  - Perception of reality detached from external world.
+  - Disorders demonstrate brain's role in generating perception.
+- Time Perception and Brain's Construction of Time
+  - Time perception is a mental construction.
+  - Brain processes auditory and visual information at different speeds.
+  - Brain edits signals to create perception of simultaneous events.
+  - Conscious perception lags behind real-world events.
+  - Perception of time is malleable and easily distorted.
+  - Timing expectations are calibrated through interaction with the world.
+  - Time perception is essential for solving the problem of causality.
+- Critical Thinking and Trusting Senses
+  - Brain makes assumptions to save time and resources.
+  - Perception is generated by parts of the brain inaccessible to consciousness.
+  - We are not conscious of most things until we question them.
+  - Principles of inaccessible machinery apply to higher-level cognition.
+  - Trusting sensory information can lead to errors.
+
 
 ## Mind: The Gap
-- The unconscious mind is a vast repository of knowledge and skills that govern our everyday actions.
-- It learns from past experiences, associations, and patterns, aiding in future decision-making.
-- The unconscious mind runs simulations, reliving physical feelings associated with different options to guide behavior.
-- It can be surprisingly accurate in picking up cues before our conscious awareness does, as seen in conditions like prosopagnosia.
-- Accessing the knowledge in the unconscious mind can be facilitated by paying attention to gut feelings and subtle reactions.
-- The conscious mind plays a pivotal role in setting goals and training the unconscious machinery to achieve them.
-- Learning and training are crucial for adapting the brain to various tasks, optimizing its circuitry for efficiency.
-- The flexibility of the brain to learn and adapt to different tasks is a hallmark of human intelligence.
-- There is a delicate balance between conscious and unconscious access, with evolutionary selection fine-tuning this balance.
+- Unconscious Brain Processes and Decision Making:
+  - Unconscious processes simulate past events and use physical feelings to navigate decisions.
+  - Feelings from events influence subsequent choices - bad feelings discourage, good feelings encourage.
+  - Unconscious hunches often lead to correct decisions due to quicker processing.
+  - Prosopagnosia illustrates unconscious recognition of familiar faces despite conscious inability.
+- Conscious Mind's Role in Training and Planning:
+  - Conscious mind trains and sets goals for unconscious neural machinery.
+  - Consciousness acts as a long-term planner, guiding neural circuits to meet goals.
+  - Athletes' training involves conscious guidance, leading to automated actions.
+- Automatization of Tasks for Efficiency:
+  - Brain rewires circuits for tasks to enhance speed and energy efficiency.
+  - Automatization allows rapid decision making, reducing reliance on conscious thought.
+  - Expertise involves automated execution, minimizing conscious interference.
+- Balancing Conscious Access and Efficiency:
+  - Evolution balances conscious access - too much can hinder efficiency, too little lacks direction.
+  - Professionals aim for automated actions during high-pressure situations.
+- Unconscious Biases and Legal Implications:
+  - Unconscious biases might not be suitable as legal evidence due to complex decision-making.
+  - Biases may not always directly influence final behavior due to socialized mechanisms.
+
 
 ## The Kinds of Thoughts That Are Thinkable
-- Beneath our conscious awareness lies a complex network of instincts, hardwired cognitive programs, and hidden neural machinery that shapes our behavior and thoughts.
-- Instincts, ancient inherited behaviors, form the foundation of our human nature, but remain mostly inaccessible to conscious access.
-- William James recognized the hidden nature of instincts and suggested exploring them by asking "the why" of instinctive human acts.
-- Even seemingly simple and natural actions rely on massively intricate neural networks in the brain.
-- Our brains unconsciously assess cues of attractiveness and beauty, reflecting signs of fertility and reproductive fitness.
-- Visual cues like symmetry and facial features, as well as smell through pheromones, play roles in attraction and mate selection.
-- Hormones, such as vasopressin, influence bonding and attachment in relationships.
-- Our consciousness is a bit-player compared to the vast machinery of instincts and neural processes that drive much of our behavior.
+- Human Nature and Instincts:
+  - Unconscious software and programs are deeply ingrained in human behavior, forming instincts.
+  - These instincts are encoded in DNA through natural selection.
+  - Hardwired cognitive programs are inaccessible to conscious awareness.
+  - "Instinct blindness" refers to the lack of awareness of instincts that drive behavior.
+  - William James proposed coaxing instincts to light by questioning their reasons.
+  - Instincts are inaccessible but critical, not open to conscious improvement.
+- Beauty and Attraction:
+  - Human beauty judgments are deeply ingrained and have evolutionary significance.
+  - Beauty is determined by traits reflecting fertility and health.
+  - Symmetry, waist-to-hip ratio, and specific physical traits signal fertility.
+  - Attraction is guided by neural programs that drive behavior.
+  - Even when judgments seem natural, they are neurally complex.
+  - Pheromones play a role in attraction, influencing behavior below conscious awareness.
+  - Vasopressin and genetic factors impact monogamy and pair-bonding.
+  - Evolutionary perspective on love: intense infatuation peaks for about three years.
+  - Divorce patterns align with this infatuation decline around four years.
+- Parental Bonding and Infant Care:
+  - Chemical signaling systems underlie social attachment.
+  - Mice pups without specific receptors lose attachment to mothers.
+  - Prairie voles' monogamous behavior linked to vasopressin and receptors.
+  - Genetic variations in the vasopressin receptor affect pair-bonding in humans.
+  - Evolutionarily, love and attachment serve reproduction and survival.
+- Evolution of Traits:
+  - Traits like large eyes and round faces in babies trigger caregiving responses.
+  - Cuteness in infants enhances their survival by eliciting care.
+- Consciousness and Self:
+  - Conscious awareness is a small part of brain activity.
+  - Truman Show analogy: conscious self is like a monarch unaware of the workers.
+  - Exploring beyond one's "umwelt" reveals deeper layers of the brain.
+  - Awareness of the complexity of the brain leads to a sense of awe.
+
 
 ## The Brain Is a Team of Rivals
-- The human brain is a complex interplay of diverse factions and subsystems, akin to a neural parliament, each seeking to achieve its own objectives.
-- Consciousness acts as the CEO, setting high-level directions and stepping in when conflicts or unexpected events require attention.
-- Most of our actions are driven by hardwired systems, with consciousness emerging only in moments of uncertainty or incongruity.
-- The team-of-rivals framework helps understand human behavior, including the phenomenon of keeping secrets, and challenges the notion of a fixed identity.
-- Our minds are dynamic and capable of shifting from one state to another, reflecting the amalgamation of various factions in our mental society.
-- This model may offer insights into artificial intelligence, with overlapping subagents competing and collaborating like the human brain.
-- The team-of-rivals framework has implications for understanding responsibility and decision-making, as many of our actions are the result of automated processes with conscious minds creating narratives to explain behaviors.
+- The Brain and Narrative
+  - The brain constructs narratives to make sense of daily life.
+  - Fabrication of stories is a core function of the brain.
+  - Stories help the brain find patterns and logic in the world.
+  - The brain's storytelling powers engage when faced with conflicts or complexity.
+  - Dreams are interpreted overlays on neural activity patterns.
+  - The brain seeks patterns and structure in data (patternicity).
+- Consciousness and Decision Making
+  - Consciousness arises when events violate expectations.
+  - Conscious awareness comes online when usual processes fail.
+  - The CEO analogy for consciousness in decision making.
+  - Consciousness is involved in unfamiliar or unexpected situations.
+  - Consciousness helps in coordinating and allocating resources.
+  - The brain becomes energy-efficient as it learns tasks.
+  - Flexibility requires a burden of childrearing in evolutionary terms.
+  - A CEO-like mechanism is needed to manage complex systems.
+  - Consciousness helps in mediating conflicting zombie systems.
+  - Capacity to mediate conflicts is a measure of consciousness.
+  - Consciousness is linked to intellectual flexibility.
+- AI and Robotics
+  - AI has struggled to replicate human-like intelligence.
+  - The team-of-rivals framework could advance AI.
+  - Overlapping solutions and factions in AI systems.
+  - Evolutionary approach for creating thinking robots.
+  - Democratic architecture and conflict-based organization.
+  - Biology's lessons for building AI systems.
+- Secrets, Behavior, and Responsibility
+  - Secrets are outcomes of internal neural conflicts.
+  - The brain's rivalry results in the experience of secrets.
+  - Telling a secret can be therapeutic.
+  - Alcohol can amplify short-term factions of behavior.
+  - Responsibility and control over neural machinery.
+  - Questions raised about responsibility due to neural complexity.
+- Individual Identity and Responsibility
+  - People are composed of competing internal subsystems.
+  - Behavior is driven by hardwired systems with competing opinions.
+  - Individuals are defined by their multitudes of factions.
+  - Conscious awareness fluctuates, affecting behavior.
+  - Responsibility and true colors in behavior.
+  - The challenge of understanding individual complexity.
+- Considerations
+  - Thinking largely happens beneath conscious awareness.
+  - Implications of internal complexity for responsibility.
+  - A neurally optimized model for weight loss and decision-making.
+  - Advantages of a collection of flexible alien systems.
+  - The role of balance in keeping secrets.
+  - The role of consciousness in tipping decisions.
 
-## Why Blameworthiness Is the Wrong Question
-- The brain's neural circuits, shaped by evolution and life experiences, significantly influence human behavior.
-- The chapter challenges the notion of personal volition and emphasizes the inseparability of biology and decision-making.
-- Criminals should be seen as products of their unique brain architecture, and their actions are evidence of brain abnormality.
-- The legal system should focus on an individual's capacity for modification and neuroplasticity, rather than burdening neuroscientific experts with proving specific brain problems.
-- Customized rehabilitation based on neural plasticity is proposed as a forward-looking approach to dealing with criminals.
-- Real-time brain imaging feedback can be used for a "prefrontal workout" to enhance impulse control and decision-making.
-- Neuroscience challenges the myth of human equality and advocates for a legal system that recognizes individual differences and modifiability.
 
-## Life After the Monarchy
-- Reductionism might not be the key to understanding the complexities of consciousness.
-- Emergence is a fundamental feature, where the whole becomes more than the sum of its parts.
-- The brain is the densest concentration of "youness," but our identity is shaped by biological, social, and environmental factors.
-- Science is an evolving process, and we should remain open to new ideas and unconventional hypotheses.
-- The brain's intricacies are a numinous revelation, leaving us in awe of the universe's complexities.
-- The brain remains an enigmatic wonder, and our journey of exploration into the inner cosmos of the mind continues with curiosity and wonder.
+## Why Blameworthiness Is The Wrong Question
+- Neuroscientific Perspective on Behavior:
+  - The notion of free will is challenged by growing understanding of brain mechanisms.
+  - Decision-making processes and behaviors are strongly influenced by biological factors.
+  - The brain's unconscious processes play a significant role in determining actions.
+  - The conscious mind often rationalizes actions after they are already initiated by the unconscious.
+- Criminal Behavior and Brain Abnormality:
+  - There is a shift towards understanding the connection between biology and decision making.
+  - Criminal behavior is seen as linked to brain abnormalities and not solely volitional choices.
+  - Actions of criminals can be considered evidence of brain abnormality, even when details are unknown.
+- Rethinking Punishment and Culpability:
+  - The concept of culpability is questioned in light of brain science.
+  - A forward-looking legal system is suggested, focusing on societal protection and rehabilitation.
+  - Sentencing should be based on the risk of reoffending and individual modifiability.
+  - Actuarial approaches, incorporating various factors, are more predictive than intuition in determining reoffense risk.
+- Prefrontal Workout and Rehabilitation:
+  - The prefrontal workout aims to enhance impulse control and decision making.
+  - Brain plasticity allows individuals to develop better long-term decision-making abilities.
+  - Rehabilitation focuses on promoting reflection and socialization, rather than just punishment.
+  - The approach leverages neuroplasticity to enhance control over impulsive thoughts and behaviors.
+- Modifiability and Sentencing:
+  - Sentencing should align with an individual's modifiability, focusing on rehabilitation.
+  - Different individuals have varying capacities for change and impulse control.
+  - A fair approach is to provide punishment for those who can be modified and incapacitation for those who can't.
+- Replacing Blameworthiness with Modifiability:
+  - Blameworthiness is seen as an inadequate concept in legal systems.
+  - Modifiability becomes a forward-looking term to assess rehabilitation potential.
+  - A focus on evidence-based, neurally compatible social policy is proposed.
+  - The ultimate goal is to shape legal theory based on scientific understanding of behavior.
+- Ethical Considerations:
+  - The ethical concern about scientific sentencing is countered by the question of alternatives.
+  - Psychoactive drugs replaced lobotomy as a more expedient approach to mental health issues.
+
+
+## Life After The Monarchy
+- Reductionism and its limitations:
+  - Reductionism is inadequate for explaining complex systems.
+  - Emergence: Whole can be greater than the sum of parts.
+  - Emergent properties: New qualities not inherent in individual components.
+  - Examples: Airplane flight, controlling jaguar, traffic flow, TV humor.
+- Brain, Mind, and Emergent Complexity:
+  - Reductionist approach insufficient for understanding brain-mind relationship.
+  - Brain as hub, not just seat, of the mind.
+  - Mind emerges from patterns of activity on top of wetware.
+  - Complexity of brain-mind connection not fully understood.
+- Biological Complexity and Systems:
+  - Brain communicates with endocrine and immune systems.
+  - Brain's interaction with environment and social network.
+  - Definition of self is complex due to interaction and influence.
+  - Brain as densest concentration of individuality, not entirety.
+- Challenges in Understanding Mind:
+  - Reductionist assumption challenged in neuroscience.
+  - Brain's private subjective experience makes it unique.
+  - Scientific problems historically not cornered or fully understood.
+  - Neuroscientists working with pieces, parts, and patterns.
+- Possibilities and Uncertainties:
+  - Materialism and reductionism as prevailing views.
+  - Openness to unconventional ideas while exploring.
+  - Link between quantum mechanics and consciousness unsolved.
+  - Need to nurture and propose ideas until evidence emerges.
+  - Caution against excessive reliance on argument from parsimony.
+- Paradigm Shift and Future:
+  - Acknowledgment of limits in current understanding.
+  - Brain's complexity beyond intuition.
+  - View of dethronement as magical and awe-inspiring.
+  - Brain's alien nature and intricate wiring patterns.
+  - The brain as a perplexing masterpiece and wondrous discovery.
+- Societal Implications:
+  - Reductionism relocates societal problems to the individual.
+  - Attention diverted from societal issues to molecular level.
+- Humor and Complexity:
+  - Mention of "The Simpsons" humor example.
+  - Complexity as basis for humor and understanding.
+- Analogy to Radio Theory:
+  - Analogy of brain to radio theory.
+  - Unknowns about brain's interaction with external factors.
+  - Caution against dismissing unconventional hypotheses.
+- Final Thoughts:
+  - Brain's role in creating human experiences.
+  - Acknowledgment of potential limitations of current generation's understanding.
+  - Possibility of future generations knowing more.
+
+
