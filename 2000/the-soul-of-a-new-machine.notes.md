@@ -2,7 +2,7 @@
 Author: Tracy Kidder
 
 
-## PROLOGUE: A GOOD MAN IN A STORM
+## Prologue: A Good Man In A Storm
 - Setting and Situation:
   - On a small white sloop (35 feet long) at sea.
   - Crew members on a yacht bound for New York from Portland, Maine.
@@ -39,7 +39,7 @@ Author: Tracy Kidder
   - The psychologist remains curious about West's background and resilience.
 
 
-## HOW TO MAKE A LOT OF MONEY
+## How To Make A Lot Of Money
 - Data General's early approach:
   - The company aimed to get noticed and stand out.
   - Early advertisements conveyed an aggressive and brazen image.
@@ -83,7 +83,7 @@ Author: Tracy Kidder
   - Tom West and his team were hailed for their act of recovery.
 
 
-## THE WARS
+## The Wars
 - Data General and the Development of "Eagle"
   - Data General, a computer manufacturer, developed a 32-bit machine named "Eagle" to be compatible with their existing product line.
   - Tom West, a key figure in Data General, initiated the development of Eagle despite initial doubts and challenges.
@@ -110,7 +110,7 @@ Author: Tracy Kidder
   - Despite challenges and a sense of isolation, the team persisted with the development.
 
 
-## BUILDING A TEAM
+## Building A Team
 - Project Background and Team Formation:
   - The Eclipse Group, led by Tom West, worked on building a new computer.
   - The team consisted of skilled engineers, including some fresh graduates.
@@ -169,7 +169,7 @@ Author: Tracy Kidder
   - Interviews with Tom West played a pivotal role in the evaluation process.
 
 
-## WALLACH'S GOLDEN MOMENT
+## Wallach's Golden Moment
 - Background and Engineers' Convocation
   - Engineers meet to discuss projects they've worked on.
   - Wallach learns about a ring system concept.
@@ -222,7 +222,7 @@ Author: Tracy Kidder
   - The process of searching through the mental database.
 
 
-## MIDNIGHT PROGRAMMER
+## Midnight Programmer
 - Computer Project Development and Trixie:
   - Development of the computer project "Eagle" is discussed.
   - Trixie, a central computer in the narrative, is mentioned.
@@ -269,7 +269,7 @@ Author: Tracy Kidder
   - The narrative concludes with Alsing discussing interactions with West and perceptions of West by the team.
 
 
-## FLYING UPSIDE DOWN
+## Flying Upside Down
 - Computer architecture and functionality:
   - Computer systems consist of various components, including CPU, memory, storage, and IO controllers (IOCs).
   - The IOC facilitates communication between the computer and external devices.
@@ -299,7 +299,7 @@ Author: Tracy Kidder
   - The need for separation between work and personal life to prevent burnout or mental strain.
 
 
-## LA MACHINE
+## La Machine
 - Tom West and Data General:
   - West, a senior engineer at Data General, led the development of the Eclipse minicomputer.
   - He had a reputation for pushing his team hard to meet deadlines and deliver results.
@@ -341,7 +341,7 @@ Author: Tracy Kidder
   - The concept of "La Machine" embodied the fears and uncertainties inherent in complex engineering endeavors.
 
 
-## THE WONDERFUL MICROMACHINES
+## The Wonderful Micromachines
 - Introduction
   - Describes the transcript of an interview with Firth, an engineer.
   - Firth is a member of a computer team in Westborough, Massachusetts.
@@ -383,7 +383,7 @@ Author: Tracy Kidder
   - The interview provides insights into Firth's unique perspective on programming and life.
 
 
-## A WORKSHOP
+## A Workshop
 - West's Daily Routine
   - Commutes between work and home, experiencing a change in demeanor.
   - Finds a peculiar stiffness in his jaw and shoulders on the way to work.
@@ -438,7 +438,7 @@ Author: Tracy Kidder
   - His work on complex projects is driven by personal fulfillment.
 
 
-## THE CASE OF THE MISSING NAND GATE
+## The Case of The Missing NAND Gate
 - Eclipse 21 Debugging and Improvement:
   - The Eclipse Group's efforts focus on debugging and enhancing the Eclipse 21 machine's performance.
   - Challenges involve the Instruction Processor (IP) and System Cache interaction issues.
@@ -482,7 +482,7 @@ Author: Tracy Kidder
   - Acknowledgment that more work and accomplishments are needed.
 
 
-## SHORTER THAN A SEASON
+## Shorter Than A Season
 - Setting and Introduction:
   - Lab at night, night shift members working on wire-wrapped boards.
   - Description of Josh Rosen: Appearance, clothing, age (24), habits while working.
@@ -514,7 +514,7 @@ Author: Tracy Kidder
   - Rosen's decision to leave for a commune in Vermont to escape time pressure.
 
 
-## PINBALL
+## Pinball
 - Work Environment and Frustrations:
   - Slowed down due to waiting for parts, cramped lab space.
   - Holberger noticed inequality in office space.
@@ -542,7 +542,7 @@ Author: Tracy Kidder
   - West's ongoing efforts to support his team's work.
 
 
-## GOING TO THE FAIR
+## Going To The Fair
 - Introduction
   - Young computer engineers from the Eclipse Group attend the National Computer Conference (NCC) in New York City.
   - They are associated with building a versatile computer called Eagle.
@@ -569,7 +569,7 @@ Author: Tracy Kidder
   - Their camaraderie and moments of relaxation are highlighted.
 
 
-## THE LAST CRUNCH
+## The Last Crunch
 - Development of Gallifrey:
   - The story centers around the creation of a computer called Gallifrey by the Eclipse Group at Data General.
   - The team faces numerous challenges and setbacks throughout the development process.
@@ -599,7 +599,7 @@ Author: Tracy Kidder
   - The story concludes with a sense of relief and introspection as the team navigates the challenging development process.
 
 
-## CANARDS
+## Canards
 - West's decision to use PALs (Programmable Array Logic) chips initially posed challenges due to supply shortages.
   - The public launch of the machine, named Gallifrey Eagle, was delayed multiple times due to chip availability.
   - PALs proved to be a chip of the future, and the delay allowed for software development and machine refinement.
@@ -641,7 +641,7 @@ Author: Tracy Kidder
   - The story illustrates the dedication, enthusiasm, and achievement of the team.
 
 
-## DINOSAURS
+## Dinosaurs
 - Project Background and Overview
   - Eagle project announcement
   - Interconnection issue between Eagle's CPU and another device
@@ -687,7 +687,7 @@ Author: Tracy Kidder
   - Final departure of the team from the company
 
 
-## EPILOGUE
+## Epilogue
 - Eagle's Public Announcement and Debut
   - Data General's announcement of Eagle in the Roosevelt Hotel, NYC, on April 29, 1980
   - Multiple presentations to salesmen and customers across various regions
