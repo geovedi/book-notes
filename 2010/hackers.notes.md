@@ -1,0 +1,880 @@
+# Hackers
+Author: Steven Levy
+
+## True Hackers: Cambridge: The Fifties And Sixties
+###  The Tech Model Railroad Club
+- Introduction to TMRC and TX-0 Hackers:
+  - TMRC (Tech Model Railroad Club) is a club at MIT.
+  - Focus on Model Railroads and Hacking.
+  - Introduction of the TX-0 computer, a transistor-run computer.
+- Early Experiences with TX-0:
+  - Jack Dennis introduced TMRC members to the TX-0.
+  - TX-0 is one of the first transistor-run computers.
+  - TX-0 features, appearance, and capabilities described.
+  - Interactive nature and real-time debugging capabilities were novel.
+  - TX-0's audio output produced music-like sounds.
+  - TMRC members like Peter Samson explored programming.
+- Nighttime Hacking Culture:
+  - Hackers were drawn to the TX-0 at night.
+  - Hackers figured out the off-hours when the computer was available.
+  - "Vulturing time" for unexpected openings.
+  - The TX-0 was in use 24/7 to avoid downtime.
+- Programming and Music Hacks:
+  - Samson's program converted Arabic numbers to Roman numerals.
+  - Peter Deutsch, a young prodigy, excelled in programming.
+  - Hackers created music using TX-0's speaker system.
+  - Samson's Bach melodies experiment described.
+  - Music program as a form of composition and creativity.
+- Programming System and Tools:
+  - Jack Dennis developed an assembler for TX-0's limited assembly language.
+  - Dennis and Stockman developed FLIT debugger.
+  - FLIT enabled debugging and improving programs interactively.
+  - FLIT's impact on programming and hacker creativity.
+- Hackers' Intense Involvement:
+  - TMRC hackers fully immersed themselves in TX-0 programming.
+  - Nighttime sessions were intense and focused.
+  - Concentration and merging of mind with computer environment.
+  - Sustaining the concentration and continuous improvement.
+- Impact on Non-Computer Activities:
+  - Hacker's mindset spilled into everyday activities.
+  - Logical thinking and precise responses to questions.
+  - Example of Marge and Bob Saunders' interaction.
+  - Comparing communication to debugging a program.
+- Club Dynamics and Influence:
+  - Hacking culture infiltrated TMRC meetings.
+  - Meetings became convoluted and mirrored programming.
+  - Humorous anecdotes about hacking parliamentary procedure.
+  - TMRC members' concerns about the focus shift to computing.
+
+
+### The Hacker Ethic
+- Emergence of a New Way of Life around TX-0:
+  - A new culture formed around the TX-0 computer.
+  - Hackers devoted themselves intensely to computing.
+  - A symbiosis between humans and machines.
+  - Formation of a culture with philosophy, ethic, and dreams.
+- Hacker Ethic and Culture Formation:
+  - Hacker Ethic silently agreed upon, no manifestos issued.
+  - Certain individuals embodied the Ethic more faithfully.
+  - Belief that hackers should be judged by their hacking.
+  - Implicit Hacker Ethic slowly formed, influenced by the TX-0.
+- Core Tenets of the Hacker Ethic:
+  - Access to computers and knowledge should be unlimited.
+  - Always prioritize the Hands-On Imperative.
+  - Learning comes from taking things apart and understanding.
+  - Mistrust authority, promote decentralization.
+  - Information should be free and exchanged openly.
+  - Judge hackers by their skills, not external criteria.
+  - Art and beauty can be created through programming.
+- Impact on Bureaucracy and Authority:
+  - Bureaucracies hinder the exploratory nature of hackers.
+  - IBM's bureaucratic culture contrasted with hackers.
+  - Hackers value open systems and equal access.
+  - Decentralized systems promote creativity and innovation.
+- Challenges to Traditional Education:
+  - Hacker's preference for hands-on experience.
+  - Disregard for traditional credentials or degrees.
+  - Meritocracy based on skills and contributions.
+  - Importance of practical programming skills.
+- Programming Aesthetics and Creativity:
+  - Program bumming as a creative competition.
+  - Pursuit of elegant, concise code.
+  - Emphasis on efficiency and ingenuity.
+  - Hackers' pride in artistic aspects of programming.
+- Computers as Empowering Tools:
+  - Computers change lives for the better.
+  - Computers enrich lives, provide focus and adventure.
+  - Sense of power, mastery, and creativity.
+  - Belief in the potential of computers to benefit all.
+- Spread of Hacker Ethic:
+  - Hackers believed in the potential for societal change.
+  - Hope for Hacker Ethic to influence society positively.
+  - Possibility of computers changing the world for the better.
+  - Hacker dream of a society embracing creativity and openness.
+- MIT as a Hacker Xanadu:
+  - MIT as a monastic environment for hacker ideals.
+  - Building a unique hacker culture at MIT.
+  - Uncertainty about the possibility of duplicating the culture.
+
+
+### Spacewar
+- Background and MIT Hacking Culture
+  - Hackers at MIT in the 1960s were enthusiastic computer programmers.
+  - They were drawn to the TX-0 and later the PDP-1 computers at the Tech Model Railroad Club (TMRC).
+  - The TX-0 and PDP-1 provided hands-on experience, and hacking culture thrived in that environment.
+- TX-0 and PDP-1 Computers
+  - The TX-0 was an early computer with limited capabilities.
+  - The PDP-1, later acquired by TMRC, became a focal point for MIT hackers.
+  - The computers were valuable learning tools and platforms for experimentation.
+- Creating the First Video Game: Spacewar
+  - Steve Russell and his colleagues created the first video game, "Spacewar," on the PDP-1.
+  - It was a two-player space battle game involving rocket ships and torpedoes.
+  - Russell used trigonometry for calculations and created collision detection.
+  - The game was significant for real-time programming and interactive debugging.
+- Collaboration and Enhancements
+  - The hacker community freely improved Spacewar by adding features and refining gameplay.
+  - Different programmers added realistic stars, gravitational effects, and hyperspace capabilities.
+  - Various versions of Spacewar were created, showcasing the hacker spirit of collaboration.
+- Impact and Legacy
+  - Spacewar was played extensively, sparking excitement among hackers.
+  - The game was showcased at the MIT Open House and became a symbol of hacker innovation.
+  - The concept of computer time-sharing emerged, allowing multiple users to access computers simultaneously.
+  - MIT planners envisioned accessible computing, leading to Project MAC (Multiple Access Computing).
+- Project MAC and AI
+  - Project MAC aimed to develop time-sharing systems and artificial intelligence.
+  - The lab fostered collaboration between hackers and scientists for ambitious projects.
+  - Marvin Minsky played a significant role in promoting AI research and collaboration.
+- Richard Greenblatt and Conclusion
+  - Richard Greenblatt, a dedicated hacker, exemplified the spirit of MIT hackers.
+  - MIT's hacker culture influenced the development of computing and programming practices.
+
+
+### Greenblatt And Gosper
+- TMRC and Early Hacking Culture
+  - TMRC (Tech Model Railroad Club) at MIT played a crucial role in the development of early hacker culture.
+  - Hackers in the group, including Richard Greenblatt and Bill Gosper, were fascinated by computer systems and saw them as a form of exploration.
+  - Hacking at TMRC was about understanding and bending the computer system to one's will.
+  - The group's interaction with computers was hands-on and often centered around the PDP-6 computer.
+  - The "Hacker Ethic" emphasized curiosity, exploration, and sharing of knowledge.
+- Computer Systems and Chinese Restaurants
+  - Hackers' enthusiasm extended to various systems, including computer systems and even Chinese restaurants.
+  - The PDP-6 was a preferred machine for hacking due to its elegance and efficiency.
+  - Hackers, including Greenblatt and Gosper, often engaged in late-night hacking sessions on the PDP-6.
+  - Chinese restaurants in Boston's Chinatown provided a system to explore, similar to computer systems.
+  - Hackers applied their curiosity to Chinese menus, translating dishes and uncovering hidden meanings.
+  - Their fascination with systems extended to Chinese cuisine, making unique discoveries about the names of dishes.
+- Hacker Lifestyle and Priorities
+  - Hackers were primarily focused on their work, with hacking often taking priority over personal lives.
+  - The concept of a "bachelor mode" emerged, where hacking took precedence over romantic relationships.
+  - The Hacker Ethic was centered around the belief that hacking and exploring systems were more important than traditional social norms.
+  - Hacking became a mission, and hackers dedicated themselves to it, often neglecting other aspects of life.
+  - The lack of female hackers was noted, and the male-dominated culture was self-contained within the hacker community.
+- Greenblatt and Pioneering Projects
+  - Richard Greenblatt emerged as a prominent figure in early hacking culture.
+  - He worked on projects like LISP compilers, which enabled the PDP-6 to run advanced programming languages.
+  - Greenblatt's vision extended beyond system hacking; he delved into artificial intelligence (AI) and chess programming.
+  - He developed MacLISP, an advanced AI program, and created the MacHack chess program, exceeding previous efforts.
+  - Greenblatt's AI achievements challenged skeptics like Herbert Dreyfus, highlighting the capabilities of computer systems.
+- Hacker Identity and Mission
+  - Hackers like Greenblatt, Gosper, and others embraced their unique identity and the experiences of working closely with computers.
+  - They found a sense of accomplishment and satisfaction in producing and discovering new things through hacking.
+  - The hackers' focus was on living the Hacker Ethic rather than convincing outsiders or skeptics about its validity.
+
+
+### The Midnight Computer Wiring Society
+- Richard Greenblatt, a legendary hacker at MIT, gained recognition for his accomplishments in hacking and programming.
+  - He was one of the developers of the first AI Lisp machine, the PDP-6.
+  - His programming skills and contributions were highly respected within the hacker community.
+  - Greenblatt's code demonstrated his expertise and creative problem-solving abilities.
+- Greenblatt's hacking style and philosophy were characterized by a focus on practical solutions and avoiding unnecessary work.
+  - He had the ability to perform mental computations and reduce his workload.
+  - His behavior was suited to working with machines more than human interaction.
+  - He was known for his extreme shyness and unconventional approach to life.
+- Greenblatt's personal life and interactions were marked by his adherence to the Hacker Ethic.
+  - He was not inclined towards formal education, and he believed he could get any job he wanted without a degree.
+  - He lived in a "Hacker House" with fellow hackers, avoiding car ownership due to his aversion to driving.
+  - His dedication to a unique work routine, along with his leadership, contributed to the AI lab's growth.
+- "Lock hacking" was a significant aspect of hacking culture at MIT.
+  - Hackers aimed to gain access to locked areas and resources to aid their work.
+  - Physical locks were metaphorically challenged as symbols of bureaucracy and control.
+  - The concept of property rights was disregarded, leading to the pursuit of unrestricted access.
+- Russ Noftsker, an administrator at the AI lab, sought to maintain a balance between privacy and open exploration.
+  - He struggled to manage the tension between hackers' desire for access and the need for controlled areas.
+  - Noftsker employed a strategy of "unspoken agreement," allowing hackers to explore while maintaining a facade of security.
+  - While he attempted to erect barriers, he understood that forceful control wouldn't work against the Hacker Ethic.
+- Bill Bennett, a machine shop craftsman, had conflicting views with hackers.
+  - He believed in preserving tools and property rights, which clashed with the hackers' free-access philosophy.
+  - Bennett's resistance led to clashes with hackers and attempts to restrict access to his workspace.
+- A confrontation between Bennett and hacker Nelson escalated into a shouting match.
+  - Bennett was offended by the notion that tools could be "used up."
+  - Nelson's explosive argument style and Bennett's quick outbursts characterized the interaction.
+- The conflict reached a peak when Nelson needed a large screwdriver for unauthorized adjustments.
+  - Nelson accessed Bennett's locked cabinet, and an electrical shock resulted, melting the screwdriver.
+  - A sign reading "USED UP" was placed on the damaged screwdriver as a symbol of their contrasting philosophies.
+
+
+### Winners And Losers
+- Hacker Ethic and MIT AI Lab:
+  - The Hacker Ethic was a guiding philosophy for the hackers at MIT's AI Lab.
+  - Hackers saw themselves as explorers and creators, using computers to expand human potential.
+  - The community was centered around the MIT Tech Square.
+  - The AI Lab hackers were dedicated to pushing the boundaries of computing and system development.
+- Hackers and Learning:
+  - The hackers had a strong drive to learn and explore new areas.
+  - They valued the exchange of knowledge and collaboration with peers.
+  - Sharing code and ideas was a central aspect of the Hacker Ethic.
+- Gosper, Sussman, and the Ethic:
+  - Gosper's programs embodied the Hacker Ethic's principles of exploration and creation.
+  - Sussman realized that computer programs were expressions of individuals, carrying information.
+  - Reading and writing programs were like sharing pieces of the mind with others.
+  - Sussman's transformation from a "loser" to a "winner" was attributed to his adherence to the Hacker Ethic.
+- CTSS and Multics:
+  - CTSS and Multics were time-sharing systems on MIT's ninth floor.
+  - CTSS discouraged hacking and creativity, whereas Multics imposed heavy security and limitations.
+  - Hackers viewed Multics and CTSS as bureaucratic systems that restricted the Hacker Ethic's ideals.
+- Incompatible Time-sharing System (ITS):
+  - ITS was a time-sharing system developed by the MIT hackers.
+  - ITS embraced the Hacker Ethic, allowing maximum access and collaboration among users.
+  - Users had the freedom to examine each other's files and contribute to collective programs.
+  - The system encouraged a sense of community, learning, and innovation.
+- Hacker Resistance and Compromise:
+  - There was resistance within the hacker community towards time sharing on the PDP-6.
+  - Fredkin persuaded Greenblatt, a prominent hacker, to agree to time sharing by compromising on system control.
+  - Hackers valued control over the machine and feared losing it through time sharing.
+- ITS Development and Principles:
+  - Greenblatt, Nelson, and other hackers worked on developing ITS.
+  - ITS was user-designed and incrementally developed, reflecting the Hacker Ethic.
+  - ITS encouraged collaborative debugging, shared software, and constant improvement.
+  - The system was about making programming easier and more efficient, embodying the Hacker Ethic's ideals.
+- ITS Impact and Standardization:
+  - ITS was considered a strong expression of the Hacker Ethic.
+  - It became a home for systems hackers, fostering a sense of community and innovation.
+  - ITS was contrasted with other systems like CTSS and Multics that restricted creativity.
+  - ITS was not adopted as a national standard, partly due to political reasons and the drastic shift it represented.
+- Hacker Priorities and Utopia:
+  - The MIT hackers were focused on the society at Tech Square and perfecting their systems.
+  - They were more concerned with the local community than spreading the Hacker Ethic beyond Cambridge.
+
+
+### Life
+- Hacker Community and MIT's Ninth Floor:
+  - The MIT hacker community in the 1960s and 1970s was centered on Tech Square's ninth floor.
+  - It was a unique environment of curious minds pushing the boundaries of computing and technology.
+  - The Hacker Ethic emphasized curiosity, sharing, and hands-on learning.
+- AI Lab and Hacking Culture:
+  - The AI Lab at MIT was a hotbed of innovative ideas and projects.
+  - AI lab hackers shared a passionate commitment to exploring computer technology.
+  - Hackers exhibited a Hands-On Imperative, preferring to engage directly with hardware and code.
+- Tech Model Railroad Club (TMRC):
+  - TMRC was an early example of hacker culture, fostering creativity and technical exploration.
+  - Hackers at TMRC shared a sense of playfulness, creativity, and practical jokes.
+- Spacewar and Early Computer Games:
+  - "Spacewar," a game developed at MIT, became a pioneer of computer gaming.
+  - Spacewar's influence on hacker culture and programming practices was significant.
+- Hacker Departures and Community Dynamics:
+  - Some hackers left the MIT community due to changes in focus or personal reasons.
+  - The departure of hackers like Bill Gosper and Richard Greenblatt didn't cripple the lab's productivity.
+- Stanford AI Lab (SAIL) and California Culture:
+  - The Stanford AI Lab (SAIL) mirrored MIT's hacking culture but was influenced by California's laid-back atmosphere.
+  - SAIL developed computer games like "Adventure," reflecting the hacker spirit.
+  - Hackers at SAIL were more relaxed, engaging in volleyball games and other activities.
+- LIFE and Complexity Simulations:
+  - Hackers like Bill Gosper delved into complex simulations like Conway's "Game of Life" (LIFE).
+  - LIFE was an exploration of patterns and behavior governed by simple rules.
+  - Gosper and his team discovered new patterns, including the glider gun, and explored the implications of LIFE.
+- Hacker Ethic and Philosophy:
+  - The Hacker Ethic defined the values of the hacker community, emphasizing exploration and hands-on experimentation.
+  - The ethos of the hacker community extended to unconventional living arrangements and dedication to learning.
+- Challenges and Reflections:
+  - Hackers recognized their community's limitations in affecting larger changes in the world.
+  - Observing NASA's launch of Apollo 17 inspired new perspectives on the impact of technology.
+- Second Wave of Hackers:
+  - A second generation of hackers emerged, focused on spreading the Hacker Ethic and computer proliferation.
+  - This new generation aimed to create affordable and powerful computers to bring the hacker dream to a broader audience.
+
+
+## Hardware Hackers: Northern California: The Seventies
+### Revolt in 2100
+- Community Memory Project
+  - Initiated in the early 1970s in Berkeley, California.
+  - Aimed to create a computerized system for sharing information and connecting people.
+  - Rooted in the hacker ethos and countercultural movement.
+  - Utilized early computer technology, including the XDS-940 mainframe.
+  - Developed by a group of enthusiasts, including Efrem Lipkin and Lee Felsenstein.
+- Motivations and Goals
+  - Inspired by the belief in the potential of computers to foster communication and connection.
+  - Aimed to create a platform for people to exchange information, such as job listings, housing, rides, and more.
+  - Aligned with the Hacker Ethic and the ideal of open sharing.
+- Early Challenges and Experimentation
+  - Utilized teletype terminals, with a Model 33 at Leopold's Records.
+  - Concerns about the durability of the terminals and public acceptance.
+  - Despite concerns, the terminal was well-received and used extensively.
+  - Information and connections were shared, from health clinics to bagel recommendations.
+  - Diverse messages and applications emerged beyond the original scope.
+  - Users found creative ways to interact with the system.
+- Impact and Evolution
+  - Positive responses from users; curiosity, engagement, and positive interactions.
+  - The experiment highlighted the potential of computers in accessible places for social change.
+  - User personas emerged, including the enigmatic "Doctor Benway."
+  - Experiment flourished for a year and a half, moved to Whole Earth Access Store, and set up another terminal in a library.
+  - Existing terminals faced technical issues, demonstrating the need for more reliable equipment.
+  - Community Memory's relationship with its funding source strained.
+- Transition and Conclusion
+  - In 1975, the project faced a decision due to technical challenges, resource limitations, and potential for failure.
+  - The group decided to put the experiment on temporary hold, marking a traumatic but necessary decision.
+  - The project showed its potential but was deemed too risky to continue in its present state.
+  - Some members pursued other endeavors while maintaining the dream of the project.
+
+
+### Every Man a God
+- Altair 8800 and Its Introduction:
+  - The Altair 8800 was a significant computer in personal computing history.
+  - Designed by Ed Roberts and produced by MITS.
+  - Gained attention through a Popular Electronics magazine article.
+- Altair's Features and Limitations:
+  - Front panel design described, intended for visual enhancement.
+  - Had only 256 bytes of memory, lacked built-in input/output devices.
+  - Communication with the computer occurred through flashing lights on the front panel.
+  - Attracted hackers despite its limitations.
+- Impact and Enthusiasm:
+  - The Altair was seen as a symbol of a new era, perceived as "magic."
+  - Les Solomon described it as appealing to curious and adventurous individuals.
+  - MITS anticipated a few hundred orders but received an overwhelming response.
+  - Orders poured in, drastically improving the company's financial situation.
+- Characteristics of Altair Enthusiasts:
+  - People ordering Altairs were akin to early American pioneers, curious and adventurous.
+  - These individuals were different, willing to send money to an unknown company.
+  - Altair enthusiasts were hackers interested in understanding and creating with the computer.
+- Power and Potential:
+  - Altair's power was highlighted, granting average people remarkable capabilities.
+  - Steve Dompier's enthusiasm led him to visit MITS in Albuquerque.
+  - MITS faced challenges in delivering kits but managed to send some out.
+- Development of Hardware Hacking Culture:
+  - A culture of hardware hacking emerged around the Altair.
+  - Fred Moore, an activist, saw computers as a means to unite people.
+  - Moore and Gordon French initiated the "Amateur Computer Users Group Homebrew Computer Club."
+- Club's Purpose and Focus:
+  - Intended for enthusiasts building their own computers or devices.
+  - Encouraged exchanging information, collaboration, and project development.
+
+
+### The Homebrew Computer Club
+- Homebrew Computer Club: A Hacker Community
+  - The Homebrew Computer Club emerged as a community of hardware hackers.
+  - The club was centered around the Altair 8800 microcomputer.
+  - Members aimed to explore, learn, and share their knowledge about computer systems and technology.
+- Early Days and Enthusiastic Hackers
+  - Steve Dompier's experience with the Altair led to the club's formation.
+  - Homebrew members were different from MIT hackers but shared the Hacker Ethic.
+  - Steve Dompier loaned his Altair for testing after fixing it.
+  - The Hacker Ethic promoted sharing knowledge and collaboration for the common good.
+- Community Dynamics and Growth
+  - Homebrew grew into a strong community, bonded by shared interests.
+  - The club's founders, Fred Moore and Gordon French, played important roles.
+  - Lee Felsenstein became the moderator, fostering an open exchange of ideas.
+- Synergy and Sharing
+  - Synergy within Homebrew led to information exchange and collaborative projects.
+  - Members freely shared designs, schematics, and source code for products.
+  - Homebrew meetings encouraged discussions, technical demos, and networking.
+- Exploration and Technical Innovation
+  - Homebrewers engaged in hacking hardware, exploring Altair's capabilities.
+  - They hacked for the joy of creating, pushing the boundaries of technology.
+  - Homebrewers were pioneers in the emerging microcomputer industry.
+- Les Solomon and Magical Moments
+  - Les Solomon, a visitor, experienced the excitement of Homebrew's innovations.
+  - The Dazzler board connected the Altair to color TVs, creating graphical displays.
+  - Homebrewers experimented with the LIFE program, exploring patterns and shapes.
+- The Power of Vril and Collective Energy
+  - Les Solomon shared a story of learning vril from Indian brujo for moving objects.
+  - He demonstrated the concept by raising a picnic table with Homebrew members.
+  - The act of working together and not holding back led to extraordinary outcomes.
+  - Homebrew's energy and Hacker Ethic could change society's view of computers.
+
+
+### Tiny BASIC
+- Early Hackers and Homebrew Computer Club:
+  - Early computer enthusiasts like Tom Pittman and Lee Felsenstein formed a community around their passion.
+  - The Homebrew Computer Club, founded in 1975, became a gathering place for these enthusiasts.
+  - The club aimed to foster a sharing and collaborative spirit among computer hobbyists.
+  - Many important figures in the computer industry emerged from this community.
+- Tom Pittman's Journey:
+  - Tom Pittman, a computer enthusiast, used his technical skills to support himself by offering computer-related services.
+  - He created a Tiny BASIC interpreter for the Motorola 6800 chip and sold it at a low price to hobbyists.
+  - His determination to share knowledge and software exemplified the hacker ethos.
+  - Pittman's personal struggles, including divorce and his self-imposed day of rest, led to introspection about the role of computers in his life.
+- Lee Felsenstein and the Sol:
+  - Lee Felsenstein played a key role in the Homebrew Club, promoting a hacker spirit.
+  - He designed the "Tom Swift Terminal," which evolved into the Sol computer, a self-contained computer with a video display.
+  - The Sol was a breakthrough, offering an accessible and powerful computing experience.
+  - The Sol's design incorporated the hacker ethos of openness and user control.
+- Homebrew Club Philosophy:
+  - The Homebrew Computer Club rejected formal bureaucracy and embraced an anarchistic, community-driven approach.
+  - The club aimed to create an environment where hackers could collaborate and share knowledge freely.
+  - Lee Felsenstein emphasized the importance of hands-on experience and control for computer users.
+- Impact of Homebrew and Hackers:
+  - The Homebrew Computer Club and its members played a pivotal role in shaping the personal computer revolution.
+  - Their dedication to sharing knowledge, open design, and empowering users influenced the trajectory of the computer industry.
+  - The Sol computer and the hacker ethos paved the way for computers to become more accessible and creative tools.
+
+
+### Woz
+- Apple I Computer Introduction and Impact
+  - Apple I introduced at the Homebrew Computer Club
+  - Steve Wozniak's creation, with Steve Jobs' marketing ideas
+  - Innovative design, sleek appearance
+  - Different from other computers of the time
+  - Wozniak's tinkering reduced chips to sixty-two
+  - World debut at the First Annual West Coast Computer Faire
+  - Apple's unique booth with a Plexiglass logo
+  - Jim Warren's involvement, incorporation of the Faire
+  - Merger of hacker and industrial cultures
+  - Growth of the microcomputer industry
+- First Annual West Coast Computer Faire
+  - Thousands of people in lines for entry
+  - Lines due to ticket pricing confusion
+  - Excitement and camaraderie among attendees
+  - Congenial atmosphere, no irritation despite chaos
+  - Hall filled with technofreaks, printers, computer music
+  - Crowded booths of exhibitors, including Processor Technology
+  - IMSAI's biorhythm charting booth
+  - Apple's impressive booth with a video graphics program
+  - Jim Warren's announcement of attendance, around thirteen thousand
+  - Ted Nelson's address, comparing event to Woodstock
+  - Success of the event, financial implications for some
+- Cultural Significance and Future Outlook
+  - Computer Faire's impact compared to Woodstock
+  - Movement's cultural vindication and growth
+  - Movement's expansion beyond its progenitors
+  - Transformation of society by small computers
+  - Nelson's optimism about the future of computing
+  - Radical changes akin to telephone and automobile
+  - Availability of small computers with accessories
+  - Emergence of a fad, cult, and consumer market
+  - Anticipation of the rush and transformation ahead
+  - American manufacturing and societal reactions
+
+
+### Secrets
+- Ted Nelson's Speech and the Computer Industry Growth:
+  - Ted Nelson's speech marked a period of remarkable growth in the computer industry.
+  - The following two years saw unprecedented expansion in the industry.
+  - Homebrew hackers transitioned into business or continued hacking.
+  - Planners faced challenges due to the fast-paced changes in the industry.
+- Impact of Megamillion-Dollar Companies:
+  - Megamillion-dollar companies introduced computers like Commodore PET and Radio Shack TRS-80.
+  - These machines were designed for easy use and assembly, changing the computer landscape.
+  - Shift from struggling to make computers to buying pre-assembled machines.
+  - Pioneer companies like Processor Technology suffered due to lack of planning and competition.
+- Transition of Hacker Ethic:
+  - Homebrew Club exemplified hacker spirit and sharing of techniques.
+  - With major shareholders and company secrets, the Hacker Ethic faced challenges.
+  - Apple's shift from a club atmosphere to a growing company represented this transition.
+- John Draper and Phone Hacking:
+  - John Draper ("Captain Crunch") faced legal issues due to phone hacking.
+  - Authorities objected to his sharing of phone company secrets.
+  - Draper's involvement with Apple, consulting on telephone interface board.
+- Community Memory's Mission and Challenges:
+  - Community Memory aimed to bring people together using computers.
+  - Community Memory faced debates on selling software and concerns about military use.
+  - Personal computers and software made computers more accessible and demystified.
+- Rise and Fall of Processor Technology:
+  - Processor Technology experienced growth but suffered due to lack of planning.
+  - Competition from cheaper machines like Apple, PET, and TRS-80 impacted the company.
+  - Company's inability to deliver products on time and unreliable disk drive storage system.
+- Osborne Computer and Community Memory:
+  - Osborne Computer introduced the Osborne 1, a simple and affordable computer.
+  - The machine fulfilled a need for easy-to-use computers with basic applications.
+  - Lee Felsenstein designed the Osborne 1 and gained financial success.
+- Transition of Hacker Ethic Continues:
+  - Personal computers became widespread, inviting people to program and explore.
+  - Computers were no longer mysterious black boxes but tools accessible to many.
+  - The Hacker Ethic's transition from monastic MIT communities to a world with ubiquitous computers.
+
+
+## Game Hackers: The Sierras: The Eighties
+### The Wizard And The Princess
+- Background and Characters
+  - Jay Sullivan and Ken Williams were skilled programmers at Informatics.
+  - Jay had programming talent but struggled with interpersonal interactions.
+  - Dick Sunderland, their boss, sought top-notch programmers.
+  - Ken Williams, a genius, was recommended by a recruiter.
+  - Ken interviewed with Jay Sullivan, showcasing his ideas.
+  - Ken joined Informatics, learning under Jay's guidance.
+- Dynamic and Challenges
+  - Jay and Ken discussed intricate programming concepts.
+  - Dick noticed their collaborative synergy and hired Ken.
+  - Ken's reluctance towards bureaucracy and management.
+  - Ken took up freelance work and left Informatics.
+  - Ken and Roberta envisioned a different lifestyle.
+  - Larry introduced Ken to an Apple Computer, sparking interest.
+  - Ken purchased an Apple II and underestimated its potential.
+  - Roberta Williams had a vivid imagination and loved the game "Adventure."
+- Founding On-Line Systems
+  - Roberta created her own adventure game, "Mystery House."
+  - Ken and Roberta decided to independently sell the game.
+  - On-Line Systems was established as a software company.
+  - "Mystery House" gained popularity and financial success.
+  - On-Line Systems earned substantial profits from the game.
+- Expansion and Challenges
+  - Roberta provided hints to players who sought assistance.
+  - Ken continued his job at Financial Decisions.
+  - Ken developed a new machine-language system.
+  - Roberta worked on a new game titled "Wizard and the Princess."
+  - "Wizard and the Princess" featured color pictures and improved logic.
+  - Some puzzles in the game proved challenging for players.
+  - On-Line Systems hired more employees as the business grew.
+- Moving Forward
+  - The business transitioned to an office space in Oakhurst.
+  - The success of "Wizard and the Princess" continued.
+  - On-Line Systems experienced rapid growth and expansion.
+
+
+### The Brotherhood
+- Hacker Ethic Impact:
+  - Small, low-cost computers from companies like Apple, Radio Shack, Commodore, and Atari changed the landscape.
+  - Demand for innovative programs grew due to the proliferation of computers.
+  - Traditional distribution methods (e.g., leaving programs in drawers) were inadequate.
+  - Computer stores and paid software became prevalent means of accessing programs.
+  - The Hacker Ethic's idea of information being free was no longer as prevalent.
+- Early Computer Users and Software Companies:
+  - Early computer owners were eager to explore their machines' potential.
+  - Many new computer users didn't necessarily join clubs or engage in hacking.
+  - Companies like On-Line Systems, Brøderbund, and Sirius Software catered to this market.
+  - Software was often packaged in Ziploc bags, giving it a unique, hacker-like feel.
+  - Computer stores played a vital role in introducing users to new software.
+- Programming and Assembly Language:
+  - Early computers used cassette recorders for data storage and had limited capabilities.
+  - Slow BASIC programming was common in early Apple software.
+  - Steve Wozniak's disk-drive interface improved accessibility to assembly language programming.
+  - Hackers and programmers embraced assembly language and machine-level coding.
+  - Page Flipping and other techniques enhanced graphics and performance in games.
+- Companies and Personalities:
+  - On-Line Systems, Brøderbund, and Sirius Software emerged as successful Apple software companies.
+  - Margot and Al Tommervik's enthusiasm for the Apple led to starting Softalk magazine.
+  - Softalk became a platform for software companies to advertise and share information.
+  - Collaboration and camaraderie formed among companies with shared goals and values.
+- Brotherhood and Cooperation:
+  - Companies like On-Line, Brøderbund, and Sirius formed a tight-knit community.
+  - Regular communication and information sharing occurred between company leaders.
+  - Cooperation extended to exchanging ideas, preventing duplication of efforts, and supporting each other.
+  - The Brotherhood's focus was on advancing the software and user experience.
+- Spirit and Impact:
+  - The Apple world embodied a spirit of joy, enthusiasm, and exploration.
+  - Users loved the potential of the Apple computer and its applications.
+  - New software empowered users to solve problems and expand their capabilities.
+  - Cooperation and open sharing of ideas propelled the growth of the industry.
+- Whitewater Raft Trip:
+  - Ken Williams organized a rafting trip for software industry participants.
+  - The trip symbolized competition and cooperation among software firms.
+  - The participants shared information, discussed products, and built camaraderie.
+  - The trip highlighted the unique culture and values of the Apple software community.
+
+
+### The Third Generation
+- John Harris' Game Development and Atari's Copyright Concerns
+  - John Harris created a game, "Jawbreaker," that resembled Pac-Man.
+  - Atari, concerned about copyright infringement, claimed rights to Pac-Man's image.
+  - Atari warned against unauthorized translations of arcade games to home computers.
+  - Atari spent millions on Pac-Man's rights and wanted to protect its investment.
+- Legal Battle and Alterations
+  - John Harris' version of Pac-Man was too faithful and unmarketable.
+  - Atari sent a warning letter to small publishers about software piracy.
+  - Ken Williams, co-founder of On-Line Systems, modified Jawbreaker to avoid copyright issues.
+  - The new version included "happy faces" instead of ghosts and preventive dentistry theme.
+  - Lawyers advised the change was enough to avoid copyright infringement claims.
+- Atari's Approach and Challenges
+  - Atari had a bureaucratic structure and stifled hacker creativity.
+  - Atari struggled with disappearing programmers and competition from new companies.
+  - Atari focused on litigation and licensing instead of innovation.
+  - Atari purchased Pac-Man's license and planned conversions to different platforms.
+- Discovery of John Harris' Pac-Man Hack
+  - A copy of John Harris' Pac-Man hack circulated among users' groups.
+  - Atari executives learned of the hack and sought its creator.
+  - Ken Williams identified John Harris as the author of the hack.
+- Atari's Offer and John Harris' Response
+  - Atari wanted to buy John Harris' program and offered a low royalty.
+  - John Harris refused to have his name associated with Atari due to past experiences.
+  - John agreed to complete the game "Jawbreaker" for On-Line.
+- Legal Threats and Tensions
+  - Atari pressured On-Line to stop marketing Jawbreaker.
+  - Atari obtained an injunction to seize On-Line's computers.
+  - On-Line moved its equipment before the seizure could happen.
+  - There were tense times and uncertainty about On-Line's future.
+- Deposition and Legal Proceedings
+  - John Harris was deposed by Atari's lawyers.
+  - John Harris' nervousness during the deposition caused challenges in answering questions.
+  - Atari's lawyers questioned the similarities and differences between the games.
+  - The judge denied Atari's preliminary injunction to stop Jawbreaker's marketing.
+- Ken Williams' Reflections and Settlement
+  - Ken Williams identified with Atari's viewpoint on software protection.
+  - Ken expressed concern about potential copying of his own software.
+  - He decided to settle the lawsuit before going to trial.
+
+
+### Summer Camp
+- Background and Motivation
+  - Warren Schwader, a programmer, joined On-Line Systems to develop games.
+  - His brother encouraged him to take the opportunity despite concerns.
+  - Warren was intrigued by the idea of making money and living a secluded life.
+  - He struggled with his Jehovah's Witness beliefs conflicting with On-Line's culture.
+  - After his mother's death, he turned to religion and started studying the Bible.
+- Challenges with On-Line Systems
+  - On-Line had a culture of summer camp fun, drinking, and drugs, which conflicted with Warren's values.
+  - Warren maintained business interactions with colleagues due to differing values.
+  - He lived alone and focused on his faith at the Kingdom Hall in Ahwahnee.
+  - Despite his beliefs, he continued programming games and developed successful titles.
+- Programming and Religion
+  - Warren created a game called "Threshold," which earned him significant royalties.
+  - He felt conflicted about glorifying violence in his games and sought to create nonviolent games.
+  - Warren's dedication to his faith influenced his lifestyle and programming choices.
+  - He balanced Bible studies with programming and outreach activities.
+- John Harris and Relationships
+  - John Harris was a successful hacker and programmer known for his games on Atari.
+  - Despite his professional success, he struggled with relationships and finding a girlfriend.
+  - Ken Williams, the founder of On-Line, tried to help John find companionship with various efforts.
+  - John faced awkward and embarrassing situations on dates, but his struggles continued.
+- Changing Dynamics in the Industry
+  - The computer game industry was rapidly evolving, with companies striving to create innovative games.
+  - On-Line Systems aimed to attract top programmers and offered high royalties for games.
+  - The field was transforming due to widespread computer availability and market demand.
+  - Ken Williams resisted buyout offers and enjoyed changing lives through his company.
+- Prosperity and Shifts in Values
+  - The Brotherhood companies, including On-Line, held a significant share of the computer game market.
+  - The industry attracted attention from venture capitalists and potential buyout offers.
+  - Ken Williams remained committed to his company despite tempting offers.
+  - The text showcases the changing values and priorities in the world of computer programming and gaming.
+
+
+### Frogger
+- Ken Williams and On-Line Systems: A Journey
+  - Ken Williams was a pivotal figure in the early days of the computer software industry.
+  - He recognized the potential of low-cost word processing software for Apple computers and supported it through numerous revisions.
+  - He developed programs like "Screenwriter II" and "The Dictionary," showing his commitment to software development.
+  - Ken's management style was unconventional, and he had a habit of mixing personal and business matters.
+  - His company, On-Line Systems, was characterized by a chaotic working environment, with contracts and projects often left unresolved.
+  - Ken's friendliness with programmers contrasted with his decision to bring in Dick Sunderland for more traditional management.
+- Dick Sunderland's Entrance and Clash with Hacker Ethic
+  - Dick Sunderland became the president of On-Line Systems, which was renamed Sierra On-Line.
+  - He aimed to impose a more rigid corporate structure, causing conflicts with the hacker culture.
+  - Sunderland wanted to end the informal atmosphere of "Summer Camp" and implement orderly communication channels.
+  - The clash between Sunderland's hierarchy and hacker informalism led to turmoil within the company.
+- Programmer Reactions and Potential Exodus
+  - Third-generation hackers at Sierra On-Line were discontent with the changes and new management.
+  - They discussed issues over meals, comparing their situation with other companies offering higher royalties and more creative freedom.
+  - The emphasis on marketing and professionalism was seen as a departure from the hacker spirit.
+  - The programmers contemplated leaving the company due to disagreements over royalties and company culture.
+- Ken Williams' Recruitment Strategy
+  - Ken Williams hired less experienced programmers with the goal of shaping them into software gurus.
+  - The strategy included offering free living space and programming instruction to potential programmers.
+  - The story of Bob and Carolyn Box, middle-aged gold prospectors turned programmers, exemplified Ken's community-minded efforts.
+  - The Boxes' success demonstrated Ken's belief in the transformative power of computers and programming.
+- Roberta Williams and On-Line's Achievements
+  - Roberta Williams, Ken's wife, played a significant role in the company's growth.
+  - On-Line's rise from a small operation to a $10-million-a-year company inspired Roberta and instilled pride.
+  - The company's story highlighted the potential of computers and the lives they could improve.
+- Media Attention and Programmer Reactions
+  - On-Line's success attracted media attention, with visitors and camera crews coming to document the thriving computer company.
+  - The NBC producer's interest in young programmers reflected the fascination with tech whiz kids.
+  - The clash of perspectives between traditional media and the hacker mindset was evident in the programmer's response.
+
+
+### Applefest
+- Applefest and Ultima 2:
+  - Richard Garriott presented Ultima 2 at Applefest, generating excitement.
+  - Back orders for Ultima 2 numbered in the tens of thousands.
+- Mark Duchaineau and Spiradisk:
+  - Mark Duchaineau created Spiradisk to speed up loading times and counter piracy.
+  - Concerns arose about Spiradisk's risks and its impact on Ultima 2's release.
+  - Copy-protection issues led to Ultima 2's delay, with Mark Duchaineau's involvement.
+- Changing Landscape and Electronic Arts:
+  - Applefest shifted focus to larger trade shows due to changing industry dynamics.
+  - Electronic Arts (EA) emerged with a goal to revolutionize software development.
+  - EA aimed to empower independent authors and promote a hacker-friendly philosophy.
+- EA's Impact and Party:
+  - EA hosted a party at Applefest, drawing attention and featuring Steve Wozniak.
+  - Trip Hawkins founded EA, targeting innovative authors with a hacker ethos.
+- Softalk and On-Line Tensions:
+  - Softalk magazine criticized On-Line's Frogger Apple version.
+  - Margot Tommervik defended the negative review, leading to tension.
+- Changing Brotherhood Dynamics:
+  - Growth in companies led to shifts in interactions among Brotherhood members.
+- Ken Williams' Home Fire:
+  - A fire damaged Ken Williams' home, including an Apple I motherboard.
+
+
+### Wizard vs. Wizards
+- Bill Gates:
+  - Key years of hackerhood: teenage years at Lakeside School.
+  - Believes the most fanatical years of hacking are ages thirteen to sixteen.
+  - Programming 24 hours a day during his teenage years.
+  - Gates's software mind shaped by the time he was seventeen.
+  - Reflects on the opportunity to bring computers to the masses.
+  - Sees potential for new geniuses to create entire industries in robotics, AI, DNA programming.
+  - Gates's faith in hacking informed his work and staffing decisions at Microsoft.
+  - Revisits his 1976 "Open Letter to Hobbyists."
+  - Discusses ongoing issues in intellectual property law.
+  - Strayed from hacker's moral code for mainstream success.
+  - Gates's thoughts on Steve Wozniak's pop-culture icon status.
+  - Gates's role as a father figure and mascot for hacking culture.
+- Steve Wozniak:
+  - Dancing with the Stars and pop-culture icon status.
+  - Woz's tech contributions and startup ventures.
+  - Working at Google and challenges of hacking in his fifties.
+  - Excitement of early hacking days and potential impact.
+  - Comparison of technology's cultural impact to the Beatles.
+  - Woz's involvement in startups and technological advancements.
+  - Woz's transition from socially awkward to widely loved.
+- Richard Greenblatt:
+  - Greenblatt's rant about the state of computing and coding languages.
+  - Believes business interests have intruded on hacker culture.
+  - Focus on ideals of openness and creativity in the past.
+  - Greenblatt's current role as an independent researcher.
+  - Projects and research areas Greenblatt has been working on.
+  - Greenblatt's views on the erosion of the term "hacker."
+  - Hacker Spaces and efforts to empower gearheads.
+  - Hacker culture's evolution and influence on the business world.
+- Richard Stallman:
+  - Stallman's views on the decline of hacker culture and commercialization of software.
+  - Stallman's contributions to free software, GNU, and open source movement.
+  - Stallman's unyielding personality and impact on intellectual property debates.
+  - Stallman's crusade for free software and effects on software industry.
+  - Stallman's personal struggles and thoughts on his existence.
+- Lee Felsenstein:
+  - Felsenstein's perspective on democratization through cheap computers.
+  - Efforts to maintain hacker ideals and continue innovation.
+  - Creation of the Hacker Dojo and efforts to empower new generations.
+  - Hackerism's expansion into new areas and frontiers.
+  - Felsenstein's outlook on the progress and challenges of hacker culture.
+- Paul Graham:
+  - Graham's perspective on the economic engine of hacking.
+  - Hacking as an economic and entrepreneurial force.
+  - Y Combinator's selection of startups based on hacker mentality.
+  - Hacking culture's emphasis on quick problem-solving and innovation.
+  - Zuckerberg's hacking approach to building Facebook.
+  - Zuckerberg's belief in moving fast, pushing boundaries, and open culture.
+- Mark Zuckerberg:
+  - Zuckerberg's approach to hacking and building quickly.
+  - Facebook's hackathons and hacker culture within the company.
+  - Embracing the free flow of information and open ideals.
+  - The shift towards entrepreneurship and commodification of hacking.
+  - Zuckerberg's perspective on the future of hackers and technology.
+- Closing Note:
+  - Hackers as heroes of revolutions, from PCs to biology.
+  - Gates's view of hackers driving the next technological wave.
+  - The continuation of hacking culture's influence on the world.
+
+
+## Who's Who: The Wizards And Their Machines
+- Bob Albrecht:
+  - Founder of People's Computer Company, exposed youngsters to computers.
+- Altair 8800:
+  - Pioneering microcomputer, galvanized hardware hackers.
+  - Building the kit led to learning hacking skills.
+- Apple II:
+  - Steve Wozniak's successful computer, sparked thriving industry.
+- Atari 800:
+  - Provided great graphics to game hackers like John Harris.
+- Bob and Carolyn Box:
+  - World-record-holding gold prospectors turned software stars.
+- Doug Carlston:
+  - Left corporate law to form Brøderbund software company.
+- Bob Davis:
+  - Left liquor store job, became bestselling author of Sierra On-Line game.
+- Peter Deutsch:
+  - Discovered TX-0 at MIT, hacked it along with masters.
+- Steve Dompier:
+  - Made Altair sing, wrote Target game on Sol.
+- John Draper:
+  - "Captain Crunch," explored phone systems, later hacked microcomputers.
+- Mark Duchaineau:
+  - Dungeonmaster who copy-protected On-Line's disks.
+- Chris Espinosa:
+  - Early Apple employee, follower of Steve Wozniak.
+- Lee Felsenstein:
+  - Designed computers with a "junkyard" approach.
+  - Central figure in Bay Area hardware hacking.
+- Ed Fredkin:
+  - Gentle founder of Information International, father figure to hackers.
+- Gordon French:
+  - Held first Homebrew Computer Club meeting.
+- Richard Garriott:
+  - Created Ultima world on computer disks.
+- Bill Gates:
+  - Harvard dropout, wrote Altair BASIC.
+- Bill Gosper:
+  - Math and LIFE hacker, guru of Hacker Ethic.
+- Richard Greenblatt:
+  - Canonical MIT hacker, hacker's hacker.
+- John Harris:
+  - Atari 800 game hacker, became Sierra On-Line's star programmer.
+- IBM PC:
+  - Included Hacker Ethic, entered personal computer market.
+- IBM 704:
+  - Hulking Giant computer in MIT's Building 26.
+- Jerry Jewell:
+  - Vietnam vet turned programmer, founded Sirius Software.
+- Steven Jobs:
+  - Visionary, cofounded Apple, made billion dollars.
+- Tom Knight:
+  - Named Incompatible Time-sharing System.
+- Alan Kotok:
+  - Legendary TX-0 and PDP-1 hacker.
+- Efrem Lipkin:
+  - Cofounded Community Memory, hacker-activist.
+- LISP Machine:
+  - Invented by Greenblatt, subject of MIT dispute.
+- "Uncle" John McCarthy:
+  - Pioneer in computer chess, artificial intelligence, LISP.
+- Bob Marsh:
+  - Founded Processor Technology, made Sol computer.
+- Roger Melen:
+  - Cofounded Cromemco, made circuit boards for Altair.
+- Louis Merton:
+  - Pseudonym for AI chess hacker.
+- Jude Milhon:
+  - Member of Community Memory collective.
+- Marvin Minsky:
+  - MIT professor who allowed hackers to run free.
+- Fred Moore:
+  - Cofounder of Homebrew Club.
+- Stewart Nelson:
+  - Cofounded Systems Concepts company.
+- Ted Nelson:
+  - Self-published influential Computer Lib book.
+- Russell Noftsker:
+  - Administrator of MIT AI lab, later president of Symbolics.
+- Adam Osborne:
+  - Founded Osborne Computer Company.
+- PDP-1:
+  - World's first personal computer for MIT hackers.
+- PDP-6:
+  - Mainframe computer cornerstone of AI lab.
+- Tom Pittman:
+  - Tiny BASIC developer.
+- Ed Roberts:
+  - Founder of MITS, shook world with Altair computer.
+- Steve (Slug) Russell:
+  - Hacked Spacewar program on PDP-1.
+- Peter Samson:
+  - MIT hacker, key figure in Bay Area hacking.
+- Bob Saunders:
+  - TMRC hacker, mastered Spacewar strategy.
+- Warren Schwader:
+  - Shifted from assembly line to software stardom.
+- David Silver:
+  - Mascot of AI lab, built tiny robot.
+- Dan Sokol:
+  - Prankster, reveled in revealing tech secrets.
+- Sol Computer:
+  - Designed by Lee Felsenstein.
+- Les Solomon:
+  - Editor of Popular Electronics.
+- Marty Spergel:
+  - Homebrew member, supplied circuits and cables.
+- Richard Stallman:
+  - Defender of hacker principles.
+- Jeff Stephenson:
+  - Joined Sierra On-Line.
+- Jay Sullivan:
+  - Programmer at Informatics.
+- Dick Sunderland:
+  - President of Sierra On-Line.
+- Gerry Sussman:
+  - MIT hacker, algorithmic magic.
+- Margot Tommervik:
+  - Cofounded magazine that deified Apple Computer.
+- Tom Swift Terminal:
+  - Lee Felsenstein's legendary terminal.
+- TX-0:
+  - World's first personal computer for MIT hackers.
+- Jim Warren:
+  - Editor of Dr. Dobbs Journal.
+- Randy Wigginton:
+  - Apple's first software employee.
+- Ken Williams:
+  - Cofounded Sierra On-Line, sold games for Apple.
+- Roberta Williams:
+  - Wrote bestselling computer games.
+- Stephen "Woz" Wozniak:
+  - Built Apple Computer for pleasure and friends.
+
