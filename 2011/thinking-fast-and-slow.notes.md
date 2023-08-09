@@ -1,467 +1,1613 @@
-# Thinking, Fast and Slow
-Daniel Kahneman (2011)
+# Thinking, Fast And Slow
+Author: Daniel Kahneman
+
+
+## Introduction
+- Introduction:
+  - The author's aim is to enrich readers' vocabulary for discussing judgments, choices, policies, and decisions.
+  - Intelligent gossip is a motive for self-criticism and improvement.
+  - The hope is that discussing biases can lead to self-awareness and enhanced decision-making.
+- Biases and Gossip:
+  - Intelligent gossip reveals patterns in people's errors, known as biases, which recur predictably.
+  - Biases are systematic errors in judgment and decision-making.
+  - Recognition of biases is aided by a rich vocabulary and diagnostic labels.
+- Understanding Intuition:
+  - The mind often produces impressions, intuitions, and decisions unconsciously.
+  - Discussion centers around biases of intuition and the role of biases in decision-making.
+  - The objective is to identify and comprehend errors in judgment and choice.
+- Historical Context:
+  - The author's research with Amos Tversky on intuitive statistics is traced back to 1969.
+  - They examined people's intuitive grasp of statistics and found biases in judgments.
+  - Expert intuition is grounded in recognition and practice rather than magic.
+- Two Systems of Thinking:
+  - The distinction between fast (System 1) and slow (System 2) thinking is introduced.
+  - System 1 operates automatically and unconsciously, forming interpretations of the world.
+  - System 2 involves deliberate, effortful thinking and is slower.
+- Heuristics and Biases:
+  - Intuitive judgments often rely on heuristics and associative memory, leading to biases.
+  - System 1 can substitute difficult questions with easier ones, leading to biased judgments.
+  - When faced with difficult questions, intuition may fail, prompting slower, more deliberate thinking.
+- Book Structure:
+  - Part 1 introduces the two-system approach to judgment, distinguishing between automatic and controlled thinking.
+  - Part 2 explores challenges in statistical thinking and the limitations of System 1.
+  - Part 3 focuses on overconfidence and underestimation of uncertainty.
+  - Part 4 discusses decision-making, economics, and biases.
+  - Part 5 explores the distinction between the experiencing and remembering self.
+- Conclusion and Implications:
+  - The book concludes by discussing the implications of the distinctions made throughout the text.
+  - Emphasizes the importance of improving judgments and decisions.
+- Appendixes:
+  - Two articles written by the author and Amos Tversky are provided as appendices.
+  - The articles summarize their work on judgment under uncertainty and framing effects.
+
 
 ## Two Systems
-### The Characters of the Story
-- Introduction of System 1 and System 2, the two systems of thinking in the mind.
-- System 1 operates automatically, generating intuitive responses, and influences System 2's decisions.
-- System 2 involves effortful mental activities, conscious reasoning, and self-control.
-- Examples of System 1 activities include recognizing objects and detecting sounds.
-- System 2 is responsible for focused attention, memory retrieval, and problem-solving.
-- Both systems interact and can lead to cognitive biases and illusions.
-- Recognizing the limitations and biases of each system can help in making better decisions.
+### The Characters of The Story
+- Introduction:
+  - Enriching vocabulary for discussing judgments, choices, policies, and decisions.
+  - Intelligent gossip for self-criticism and improvement.
+  - Hope to discuss biases for self-awareness and better decision-making.
+- Observing Automatic and Intuitive Thinking:
+  - Observing the mind in automatic mode using examples.
+  - Quick, intuitive judgments about a woman's anger.
+  - Quick anticipation of her behavior based on intuition.
+  - Introducing the concept of fast thinking.
+  - Multiplication problem (17 × 24) as an example of slow thinking.
+  - Engaging in effortful, deliberate mental work.
+- Two Systems of Thinking (System 1 and System 2):
+  - Distinction between automatic System 1 and effortful System 2.
+  - System 1 operates quickly and automatically.
+  - System 2 allocates attention to demanding mental activities.
+  - System 2 associated with agency, choice, and concentration.
+  - Two systems as agents within the mind.
+- Examples of Automatic Activities (System 1):
+  - Automatic operations like recognizing distance, orienting to sound.
+  - Completing phrases, making facial expressions, detecting hostility.
+  - Answering simple math questions, reading billboards, driving.
+  - Recognizing chess moves, understanding sentences, stereotypes.
+  - Innate skills and learned associations.
+- Control of Attention and Effortful Activities (System 2):
+  - System 2 allocates attention, is disrupted when attention diverts.
+  - Focus, monitoring, comparison, complex logical tasks involve System 2.
+  - System 2 can change System 1's automatic functions through programming.
+  - Control of attention is limited, and multitasking has limitations.
+- Interplay and Conflict between Systems 1 and 2:
+  - Interaction between automatic System 1 and effortful System 2.
+  - Conflict demonstrated through visual illusions.
+  - System 2 in charge of self-control, overcoming impulses of System 1.
+- Illusions and Cognitive Illusions:
+  - Müller-Lyer illusion - seeing lines as unequal despite knowing they're equal.
+  - Cognitive illusions - biases and errors in thinking.
+  - Overcoming cognitive illusions is challenging.
+  - Vigilance and effort required to avoid significant mistakes.
+- Useful Fictions:
+  - System 1 and System 2 are fictitious characters.
+  - Their introduction helps simplify descriptions of mental processes.
+  - System 1 and System 2 serve as convenient nicknames.
+  - Language of systems aids in understanding judgment and choice.
+- Conclusion:
+  - Introduction of System 1 and System 2 as characters to aid understanding.
+  - Reference to System 1 and System 2 in discussing various situations.
 
-### Attention and Effort
-- Explores the interplay between System 1 and System 2 in decision-making and cognitive processes.
-- System 2 is a supporting character that believes itself to be the hero, characterized by effortful operations and laziness.
-- The Add-1 task tests cognitive abilities and leads to observable pupil dilation as an indication of mental effort.
-- Mental overload results in selective attention and prioritization of self-protective actions.
-- Control of attention predicts performance in various fields.
-- Different tasks have varying effects on mental effort.
+
+### Attention And Effort
+- System 2 in the Story
+  - Supporting character believing herself the hero
+  - Operations are effortful
+  - Main characteristic: laziness, reluctance to invest excess effort
+  - Guided by System 1's intuitions and impulses
+  - System 2 can perform vital tasks requiring effort and self-control
+- Mental Effort and Exercises
+  - Add-1 and Add-3 tasks
+  - Pupil dilation indicates mental effort
+  - Add-1 with four digits causes larger dilation
+  - Add-3 causes significant pupil dilation and increased heart rate
+  - Pupils stop dilating or shrink when overloaded
+- Selective Attention and Mental Overload
+  - System 2 allocates attention selectively
+  - Breaker trips for excessive electric demand; System 2 protects important tasks
+  - Mental sprint vs. casual chatting analogy
+  - Selective blindness during intense tasks
+- Task Sets and Effort
+  - System 2 adopts task sets, overrides habitual responses
+  - Switching tasks is effortful, especially under time pressure
+  - Rapid switching demands effort and controls attention
+  - Time pressure drives effort, decay in memory forces pace
+- Efficiency and Control of Attention
+  - Control of attention predicts performance beyond intelligence
+  - Time pressure and memory load contribute to effort
+  - Unusualness of intense mental effort in everyday tasks
+  - Law of least effort governs mental operations
+- Quotations
+  - Examples of using terms like pupil-dilating task, law of least effort, intuition from System 1
+
 
 ### The Lazy Controller
-- System 1 (intuition) dominates decision-making over System 2 (reasoning).
-- People rely on intuition and avoid checking answers.
-- Failing cognitive tests may be due to insufficient motivation and effort.
-- Self-control and cognitive aptitude are correlated.
-- Training improves executive function and intelligence.
-- Rationality should be distinguished from intelligence.
-- Puzzles like the bat-and-ball question may better indicate cognitive error susceptibility.
-- Some individuals are more impulsive due to weaker System 2.
+- Introduction and Two Systems of Thinking:
+  - Author's experience of daily walks in Berkeley and their thoughts during walks.
+  - Introduction to System 1 (fast, intuitive) and System 2 (slow, deliberate) modes of thinking.
+  - System 1 is automatic, quick, and prone to biases. System 2 requires effort and conscious thinking.
+- Walking, Thinking, and Flow:
+  - Balancing walking and thinking, but there are limits to cognitive effort during certain activities.
+  - Flow, a state of effortless concentration, separates focused attention and deliberate control.
+  - The distinction between effortless attention and effortful thinking.
+- Self-Control, Cognitive Effort, and Ego Depletion:
+  - Cognitive load, sleep deprivation, and other factors affect self-control and cognitive effort.
+  - Self-control and cognitive effort draw from a shared pool of mental energy, leading to ego depletion.
+  - Ego depletion demonstrated in experiments, affecting performance on various tasks.
+- System 2's Role in Monitoring and Rationality:
+  - System 2 monitors and controls thoughts suggested by System 1.
+  - People tend to rely on intuitive answers without thoroughly checking them.
+  - Rationality involves actively engaging System 2 to avoid superficial, lazy thinking.
+- Intelligence and Rationality Distinction:
+  - Intelligence and rationality are distinct concepts.
+  - Rational individuals actively engage in critical thinking and are less prone to superficial answers.
+  - The distinction may help identify susceptibility to cognitive errors.
+- Examples Illustrating Different Systems:
+  - Situations where System 1 or System 2 dominates decision-making.
+  - Impulsivity, decision-making, and cognitive effort illustrated through examples.
+- Conclusion:
+  - A summary of the main concepts discussed in the input.
+
 
 ### The Associative Machine
-- Associative activation triggers interconnected cognitive, emotional, and physical responses.
-- System 1 seeks to make sense of unexpected events through causal stories and threat evaluation.
-- Cognition is embodied, and priming effects influence the ease of evoking related ideas.
-- Actions and ideas can prime each other, influencing behavior and attitudes.
-- The ideomotor effect leads to action influenced by ideas unconsciously.
-- Symbols and metaphors unconsciously shape associations and actions.
-- Priming phenomena occur in System 1 beyond conscious access, impacting behavior and attitudes.
+- System 1 and Associations:
+  - Description of automatic responses by System 1 to certain words and scenarios.
+  - Automatic aversion response caused by associative activation of disgust-related words.
+  - Memory changes and heightened recognition of related concepts due to associative activation.
+  - Explanation of associative activation and coherence in mental events.
+- Cognition and Embodiment:
+  - Notion that cognition is embodied, involving physical responses.
+  - Association of ideas and principles of resemblance, contiguity, and causality.
+  - Expansive view of ideas as nodes in associative memory.
+  - Many activated ideas, but only a few register in consciousness.
+- Primacy of System 1 and Unconscious Influence:
+  - Importance of associative memory and the role of priming effects.
+  - Immediate and measurable changes in related word evocation due to exposure.
+  - Priming effects and their influence on behavior and emotions.
+  - Influence of priming on actions, emotions, and decision-making.
+- Influence of Primes on Behavior:
+  - Voting patterns influenced by environmental cues (location of polling stations).
+  - Effects of priming extend to various aspects of life, including behavior and attitudes.
+  - Reminders of money and their effects on independence, selfishness, and behavior.
+  - Priming and its effects on self-reliance and social behaviors.
+- Impact on Judgment and Choice:
+  - Priming effects challenge the notion of conscious and deliberate decision-making.
+  - Understanding that major conclusions of priming studies are true and apply to individuals.
+  - Contrasting System 1's automatic operations with System 2's conscious interpretation.
+- Symbolism, Metaphors, and Unconscious Influence:
+  - Ambiguous word fragments and the influence of previous thoughts on interpretation.
+  - Symbolic reminders and their impact on behaviors, feelings, and choices.
+  - Link between symbolic reminders and related actions, reactions, and choices.
+  - Influence of unconscious priming on behavior and attitudes.
+- Effects of Observational Priming:
+  - Office kitchen experiment involving honesty box contributions.
+  - Effect of symbolic reminder of being watched on improved behavior.
+  - Unconscious influence of symbolic reminders on behavior.
+- System 1's Role and Implications:
+  - Introduction to System 1 as the source of intuitive judgments and interpretations.
+  - System 1's role in providing impressions, beliefs, and quick judgments.
+  - Connection between System 1's rapid responses and systematic errors in intuition.
+- Quotations on Priming:
+  - Selected quotations illustrating the impact of priming and unconscious influence.
+
 
 ### Cognitive Ease
-- Cognitive ease induced by various factors.
-- People think casually and superficially in a state of cognitive ease.
-- Illusions of remembering and truth occur in cognitive ease.
-- Overcoming illusions challenging but possible with motivation.
-- Mood influences intuition, creativity, gullibility, and reliance on System 1.
-- Reciprocal relationship between cognitive ease and emotions.
+- Cognitive Processing and Questions in the Brain
+  - Multiple computations in the brain maintain answers to key questions.
+  - Automatic assessments by System 1 determine cognitive ease or strain.
+  - Cognitive ease and cognitive strain are affected by various factors.
+  - Cognitive ease is connected to a network of inputs and outputs.
+- Factors Influencing Cognitive Ease
+  - Font clarity, repetition, priming influence cognitive ease.
+  - Mood, facial expressions, and physical factors affect ease.
+  - Cognitive ease leads to positive feelings and superficial thinking.
+  - Cognitive strain promotes vigilance, effort, and cautious thinking.
+- Illusions of Familiarity and Truth
+  - Illusion of familiarity affects memory and judgment.
+  - Repeated exposure to statements increases their perceived truth.
+  - Cognitive ease is linked to belief and truth judgments.
+  - Simplified language and formatting enhance believability.
+- Influence of Mood on Cognitive Processing
+  - Good mood enhances intuition, creativity, and gullibility.
+  - Bad mood increases analytical thinking and vigilance.
+  - Cognitive ease is connected to positive feelings and mood.
+- Remote Association Test and Cognitive Ease
+  - Remote Association Test (RAT) measures intuitive coherence.
+  - Subjects' guesses in RAT are accurate and influenced by ease.
+  - Mood impacts performance in RAT; good mood enhances accuracy.
+  - Emotional response to coherence influences judgments.
+- Influence of Emotional Response on Coherence Judgments
+  - Emotional responses to coherence lead to judgments.
+  - Experiments show emotional response basis for coherence judgments.
+  - Emotional changes are expected and unrelated to word causality.
+  - Understanding of System 1 and emotional responses has advanced.
+- Reflection on Psychological Progress
+  - Advances in understanding automatic processing in the brain.
+  - Influence of cognitive ease on various cognitive processes.
+  - Recognition of factors like font, repetition, and mood on cognition.
+  - Psychology has made significant progress in studying cognitive phenomena.
+- Concluding Thoughts on Cognitive Ease and Processing
+  - Font clarity should not determine dismissal of information.
+  - Repetition can lead to belief, but critical thinking is crucial.
+  - Familiarity and liking are linked through the mere exposure effect.
+  - Mood impacts cognitive processing and decision-making.
 
-### Norms, Surprises, and Causes
-- System 1 constructs and updates a model of our personal world through associations.
-- It interprets the present and sets future expectations.
-- Surprise indicates our understanding and expectations of the world.
-- Norms play a role in anomaly detection and understanding in communication.
-- System 1 constructs causal connections to understand stories, while System 2 accepts and seeks coherence in these interpretations.
-- Need for coherence leads to causal explanations even when contradictory.
-- Associative coherence helps form causal interpretations based on knowledge fragments.
-- Innate readiness to separate physical and intentional causality may explain religious beliefs.
-- People tend to inappropriately apply causal thinking instead of using statistical reasoning.
 
-### A Machine for Jumping to Conclusions
-- System 1 jumps to conclusions efficiently but becomes risky in unfamiliar, high-stakes situations.
-- System 1 neglects ambiguity, suppresses doubt, and has a confirmation bias.
-- System 2 handles uncertainty, doubts, and disbelieves.
-- The halo effect simplifies the world view, leading to biased judgments.
-- Overcoming the halo effect requires decorrelating errors through multiple independent sources.
-- WYSIATI (What You See Is All There Is) explains biases in judgment and choice due to System 1's reliance on limited evidence.
+### Norms, Surprises, And Causes
+- Introduction to System 1 and System 2
+  - System 1 and System 2 characteristics and functions introduced.
+  - System 1 functions as a powerful associative network.
+  - System 2 has control over memory search and attention.
+- Function of System 1: Maintaining Normality
+  - System 1 maintains a model of personal world's normalcy.
+  - Associations form patterns of events and outcomes.
+  - Cognitive patterns shape interpretation of present and future.
+  - Capacity for surprise indicates understanding of the world.
+- Types of Surprise
+  - Active expectations lead to surprise when not met.
+  - Passive expectations are normal events, not surprising.
+  - Experience changes perception of recurrence's surprise.
+- Passive Expectations and Causal Coherence
+  - Passive expectations can turn active based on context.
+  - Recurrence creates causal expectation.
+  - Explanation based on original episode's memory.
+- Detection of Anomalies and Abnormalities
+  - Norms influence perception of normal and abnormal.
+  - Brain detects violations of normality quickly.
+  - Brain response indicates incongruity recognition.
+- Communicating Shared Knowledge
+  - Shared world knowledge aids communication.
+  - Norms for categories facilitate coherence.
+  - Norms specify plausible values and variability.
+- Causality and Intent
+  - System 1 constructs causal stories automatically.
+  - Automatic causal interpretation is part of understanding.
+  - Large events are often seen as causes for outcomes.
+- Example: Perception of Causality
+  - Michotte's experiments on physical causality perception.
+  - People see causality directly, not just correlation.
+  - Causality impressions are products of System 1.
+- Intentional Causality Perception
+  - Heider and Simmel's experiments on intentional causality.
+  - People perceive intentions and emotions in shapes.
+  - Infants also perceive intentional causality.
+- Distinguishing Physical and Willed Action
+  - Experience of freely willed actions separate from causality.
+  - People see decisions as disembodied acts.
+  - Causal impressions are distinct from physical events.
+- Causality and Religion
+  - Distinction between physical and intentional causality.
+  - Evolutionary origins of religious beliefs.
+  - Immortal souls and divine causality rooted in cognition.
+- Causal Intuition vs. Statistical Thinking
+  - People tend to apply causal thinking inappropriately.
+  - Statistical thinking derives from category properties.
+  - System 2 can learn statistical thinking but needs training.
+- Metaphors of Agency and Mechanism
+  - Metaphors describe System 1 as agent or associative machine.
+  - Heider's triangles illustrate ease of agent thinking.
+  - Metaphors aid understanding of complex cognitive processes.
+- Final Quotes on Norms and Causality
+  - Quotes emphasize the effect of repetition on normalcy.
+  - Calls to consider the range of normal reactions.
+  - Human tendency to seek causal explanations.
+
+
+### A Machine For Jumping to Conclusions
+- Introduction to System 1 and System 2:
+  - Comedian Danny Kaye's line about "jumping to conclusions."
+  - System 1's role in quick decision-making and efficiency.
+  - System 1's riskiness in unfamiliar situations.
+  - System 2's role in deliberate intervention and preventing errors.
+- Neglect of Ambiguity and Suppression of Doubt:
+  - Ambiguity in perception and interpretation.
+  - Context's influence on interpretation.
+  - System 1 resolving ambiguity unconsciously.
+  - Role of context and experience in interpretation.
+  - System 1's bets based on recent events and context.
+  - Lack of awareness of rejected alternatives by System 1.
+  - Uncertainty and doubt handled by System 2.
+- A Bias to Believe and Confirm:
+  - Daniel Gilbert's theory of believing and unbelieving.
+  - Initial attempt to believe as System 1's operation.
+  - Unbelieving as System 2's operation.
+  - Experiment illustrating difficulty of unbelief in System 2.
+  - Influence of System 2's engagement on belief susceptibility.
+  - Confirmation bias and seeking compatible evidence.
+  - Positive test strategy over refuting hypotheses.
+  - Exaggeration of unlikely events due to confirmatory bias.
+- Exaggerated Emotional Coherence (Halo Effect):
+  - Halo effect bias in forming impressions.
+  - Likability influencing assumptions about other traits.
+  - Initial impressions shaping subsequent interpretations.
+  - Sequence's impact on perception of traits.
+  - Suppressed ambiguity in interpreting traits.
+  - Effect of early traits on overall perception.
+  - Real evidence missing, filled by emotional guess.
+  - Halo effect in evidence accumulation.
+- What You See is All There is (WYSIATI):
+  - System 1's representation of activated ideas.
+  - System 1 constructing coherent stories from limited info.
+  - WYSIATI causing jumping to conclusions.
+  - One-sided evidence's impact on judgments.
+  - System 1's coherence-based confidence.
+  - Framing effects in presenting information.
+  - Base-rate neglect and salient traits.
+  - WYSIATI's role in decision-making and bias.
+- Examples and Illustrations:
+  - Examples of WYSIATI in practical situations.
+  - Use of WYSIATI to explain various biases.
+
 
 ### How Judgments Happen
-- System 1 continuously monitors and generates effortless assessments.
-- Basic assessments aid intuitive judgments and substitution for difficult questions.
-- System 1 translates values across dimensions and triggers other computations.
-- Face reading assesses dominance and trustworthiness.
-- Ratings of competence based on facial features predict voting outcomes.
-- System 1 influences voting choices for individual differences and information-poor voters.
-- System 1 is involved in language understanding and event perception.
-- System 2 is needed for assessing certain attributes.
-- System 1 excels at determining averages but struggles with sums.
-- Prototype-based responses influence willingness to pay in a study.
-- System 1 matches intensity across diverse dimensions.
-- Excess computations occur in System 1, going beyond what is necessary.
-- Irrelevant dimensions interfere with intended tasks in a rhyming word pairs study.
-- Intentionally answering one question can evoke another, hindering the main task.
-- The mental shotgun nature of System 1 and intensity matching explain intuitive judgments about unfamiliar subjects.
-- Automatic evaluations of attractiveness and dominance influence judgments and decisions.
-- Matching punishment intensity to crime severity is crucial for justice.
+- System 1 and System 2 Processing
+  - No limit to the number of questions answered.
+  - System 2 directs attention and searches memory for answers.
+  - System 1 operates automatically and generates assessments.
+  - System 2 can trigger other computations, including basic assessments.
+  - System 1 continuously monitors situations for threat or opportunity.
+- Basic Assessments by System 1
+  - Assessments of safety, familiarity, threat, approach/avoidance.
+  - Intuitive judgments based on basic assessments.
+  - Ability to assess strangers at a glance.
+  - Dominance and trustworthiness assessment from facial cues.
+  - Influence of face judgments on voting behavior.
+- Judgments and Voting
+  - Todorov's study: competence judgments predict voting outcomes.
+  - Strength and trustworthiness cues determine competence perception.
+  - Brain's response to winning/losing candidates influences decisions.
+  - Judgment heuristic: System 1 influences voting choices.
+  - Influence of System 1 preferences on uninformed TV-prone voters.
+- Language Comprehension by System 1
+  - System 1 understands language based on basic assessments.
+  - Computation of similarity, causality, associations, exemplars.
+  - Assessments performed without specific task set.
+  - Figure 7 example shows immediate impressions and limitations.
+- Intensity Matching by System 1
+  - Underlying intensity scale allows matching across dimensions.
+  - System 1 matches based on prototypes and typical exemplars.
+  - Examples of matching across different dimensions (height, income).
+  - People's matches are similar in cultural context.
+- Mental Shotgun and Excess Computation
+  - System 1 carries out both routine and occasional computations.
+  - Continuous assessments vs. intended computations.
+  - Mental shotgun: excess computation beyond intention.
+  - Experiments on rhyming words and literal truth judgments.
+- Summary and Conclusion
+  - Automatic evaluations influence behavior.
+  - Dominance and trustworthiness assessed from facial cues.
+  - Influence of System 1 on voting decisions.
+  - Judgment heuristics affect voting choices.
+  - Mental shotgun leads to excess computation.
+  - Intensity matching across dimensions by System 1.
+
 
 ### Answering an Easier Question
-- Our mind relies on intuitive feelings and opinions, providing quick answers.
-- Difficult questions are often substituted with easier ones through heuristics.
-- The mental shotgun leads to the use of heuristics for problem-solving.
-- Intensity matching fits heuristic answers to original questions.
-- System 2 can reject or modify heuristic answers but often takes the path of least effort.
-- Substitution through heuristics can lead to biased judgments and errors.
-- The 3-D heuristic and Mood Heuristic for Happiness illustrate how substitution influences responses.
-- The Affect Heuristic suggests emotions can influence beliefs.
-- System 2 tends to endorse rather than enforce the emotions of System 1.
-- Characteristics of System 1 include generating quick impressions, bias to believe and confirm, and substituting heuristics for difficult questions.
+- System 1 and Intuitive Judgments
+  - Our mental life rarely leaves us stumped.
+  - System 1 generates intuitive feelings and opinions on various matters.
+  - Substitution: When a hard question lacks an immediate answer, System 1 finds an easier related question to answer.
+  - Heuristic questions: Simpler questions substituted for difficult ones to generate answers.
+  - Heuristics are simple procedures aiding complex problem-solving.
+  - Heuristic answers aren't deliberately chosen; they result from the mental shotgun's imprecise targeting.
+- Substitution in Judgment
+  - People substitute easier questions for harder ones to provide answers.
+  - George Pólya's strategy of finding an easier problem to solve when stumped.
+  - Mental shotgun: Excess computation, answering more than intended.
+  - Experiment: Participants judged rhyming words, but irrelevant spelling comparisons influenced their answers.
+  - Substitution common in various scenarios, even when not intended.
+- Mood and Emotion Influence
+  - Emotions often sway judgment outcomes more than rational arguments.
+  - Affect heuristic: Emotions guide beliefs about the world.
+  - Political preferences influence perceptions of benefits and costs.
+  - Emotional attitudes about certain topics impact risk and benefit assessments.
+  - Personality of System 2: More of an apologist for System 1's emotions, endorses rather than criticizes.
+- Substitution and Heuristic Examples
+  - Example: Illusion of size due to 3-D heuristic.
+  - Survey: German students' dating and happiness correlation.
+  - Students' emotional reactions during assessments.
+  - Students substitute emotions from specific questions into general assessments.
+  - Primacy of conclusions: Emotional attitudes shape beliefs.
+  - Coherence-seeking System 1 provides intuitive solutions to System 2.
+- Characteristics of System 1
+  - Generates impressions, feelings, and inclinations.
+  - Operates automatically and quickly, without conscious effort.
+  - Can be trained and programmed to detect patterns.
+  - Executes skilled responses and generates intuitions after training.
+  - Associates cognitive ease with illusions of truth.
+  - Focuses on existing evidence, ignoring absent evidence.
+  - Neglects ambiguity and suppresses doubt.
+  - Bias towards belief confirmation and consistency.
+  - Matches intensities across different scales.
+  - Substitutes easier questions for difficult ones.
+  - Sensitive to changes, less to states (prospect theory).
+  - Overweights low probabilities, loss aversion.
+  - Frames decisions narrowly, in isolation from others.
 
-## Heuristics and Biases
+
+## Heuristics And Biases
 ### The Law of Small Numbers
-- Study shows varying kidney cancer incidence in rural, sparsely populated, and Republican states.
-- Key factor is small population size, not rural or Republican characteristics.
-- Relationship between mind and statistics: System 1 identifies causal connections, often spurious.
-- Small samples yield extreme results more often than large samples.
-- Incidence of cancer not truly lower or higher in small population counties, but appears so due to sampling.
-- People not adequately sensitive to sample size.
-- Reliability of results crucial when evaluating a message.
-- System 1 constructs coherent stories based on limited evidence.
-- System 2 capable of doubt but requires more effort.
-- Law of small numbers favors certainty over doubt.
-- Misunderstanding randomness and seeing patterns where none exist.
-- "Hot hand" illusion in basketball is a cognitive illusion.
-- People tend to reject belief in randomness.
-- Law of small numbers contributes to focusing on message content rather than reliability.
-- Statistics can produce observations without apparent causal explanations.
+- Kidney Cancer Incidence Study:
+  - Counties with lowest kidney cancer incidence are:
+    - Mostly rural, sparsely populated
+    - Located in traditionally Republican states
+  - Counties with highest kidney cancer incidence are:
+    - Also mostly rural, sparsely populated
+    - Located in traditionally Republican states
+  - The key factor isn't rural or Republican, but small population size
+  - Main lesson: relationship between mind and statistics
+- System 1 and System 2 Thinking:
+  - System 1 operates automatically, identifies causal connections
+  - System 2 involves effort, searches memory, formulates hypotheses
+  - System 1 generates causal connections, even spurious ones
+  - System 1 inept with purely statistical facts, doesn't cause outcomes
+- Random Events and Sampling:
+  - Random events don't have explanations, but collections behave regularly
+  - Sampling from an urn, like predicting outcomes with confidence
+  - Randomness lacks causation, samples yield extreme results
+- Population as Marbles:
+  - US population as marbles, some marked KC for kidney cancer
+  - Rural samples smaller, extreme outcomes more likely in sparsely populated counties
+  - Explanation: extreme results likely in small samples, not causal
+- Understanding Sampling:
+  - Trust in large samples, intuitive sense of large samples' precision
+  - Small samples yield extreme results more often
+  - Large samples are more precise, small samples are imprecise
+- Law of Small Numbers:
+  - Researchers often choose too small samples, risking confirmation bias
+  - Common judgment flaws in sample size selection
+  - Researchers accept high risk of failing to confirm hypotheses
+- Bias of Certainty:
+  - People are not sensitive to sample size
+  - Focus on the story rather than reliability of results
+  - Bias towards certainty over doubt, exaggerating consistency and coherence
+- Pattern Seekers and Illusions:
+  - Tendency to see patterns in randomness
+  - Misinterpreting random sequences as systematic
+  - Example of cancer incidence, hot hand in basketball, Yom Kippur War
+- Education and Small Schools:
+  - Misconception about small schools being better
+  - Truth: small schools are more variable, not necessarily better
+- Simplification and Illusion:
+  - Pay more attention to message content than reliability
+  - Jumping to conclusions safer in imagination than reality
+  - Many facts due to chance, causal explanations often wrong
+
 
 ### Anchors
-- Anchoring effect influences judgments based on a specific value before estimation.
-- Rigged wheel of fortune experiment demonstrated the anchoring effect in estimating percentage of African nations in the UN.
-- Two types of anchoring: adjustment (System 2) and priming (System 1).
-- Anchoring index measures the difference between estimates based on high and low anchors.
-- Anchoring observed in real estate pricing, decisions about money, online trading, and fine-art auctions.
-- Experienced individuals can be influenced by random anchors.
-- Anchoring exploited in marketing strategies, negotiations, and public policy.
-- Strategies to resist anchoring effects include focusing on arguments against the anchor and "thinking the opposite."
+- Experiment involving rigged wheel of fortune:
+  - Marked from 0 to 100, stops at 10 or 65.
+  - Participants asked questions based on the stopping number.
+  - Demonstrates anchoring effect.
+- Anchoring effect defined:
+  - People consider a value before estimating quantity.
+  - Estimates stay close to initial anchor.
+  - Anchoring occurs through adjustment or priming.
+- Anchoring through adjustment:
+  - Adjust-and-anchor heuristic.
+  - People adjust estimates from initial anchor.
+  - Adjustment ends prematurely due to uncertainty.
+  - Adjusting down to an anchor, not adjusting enough.
+- Anchoring through priming effect:
+  - Priming is suggestion, automatic activation of thoughts.
+  - Anchoring as suggestion or priming effect.
+  - System 1 constructs world where anchor is true.
+  - Different types of anchoring mechanisms.
+- Anchoring examples and effects:
+  - Anchoring index measures anchoring effect.
+  - Anchoring is a large, measurable phenomenon.
+  - Influences decision-making, estimates, negotiations.
+  - Random anchors can be as effective as informative ones.
+- Use and misuse of anchors:
+  - Anchoring exploited in marketing and negotiations.
+  - Strategies to resist anchoring effects.
+  - Anchoring effect affects judgments and decisions.
+  - Anchoring can favor large firms and offenders.
+- Anchoring and cognitive systems:
+  - Anchoring affects System 2's judgments.
+  - System 2 influenced by associative activation.
+  - Priming and anchoring challenge autonomy.
+  - Need to be aware and counteract anchoring.
+- Quotes related to anchoring:
+  - Examples of conversations about anchoring effects.
+
 
 ### The Science of Availability
-- Availability heuristic judges frequency based on ease of retrieving instances.
-- Factors like salient events, personal experiences, and vivid examples bias retrieval ease.
-- Resisting availability biases requires effort and reconsideration of impressions.
-- Ease of retrieval can dominate the number of instances retrieved.
-- Facial expressions and personal involvement influence fluency versus number of instances.
-- Conditions affecting susceptibility to availability biases: engaged in effortful task, good mood, low depression, knowledgeable novices, faith in intuition, feeling powerful.
-- Reminding people of a time when they had power increases trust in intuition.
-- Availability bias impacts risk assessments, confidence, and decision-making.
+- 1971–72 in Eugene, Oregon
+  - Most productive year for Amos and the speaker.
+  - Guests at Oregon Research Institute.
+  - Hosted by Paul Slovic, a lifelong friend.
+  - Paul Slovic was a leading psychologist in risk studies.
+- Availability Heuristic
+  - Defined as judging frequency by ease of instances coming to mind.
+  - Instances retrieved from memory affect category judgment.
+  - Availability can lead to biases due to factors influencing retrieval.
+  - Salient events attract attention and bias judgments.
+  - Dramatic events temporarily alter category availability.
+  - Personal experiences, vivid examples are more available.
+  - Biases can be resisted but require effort and vigilance.
+- Bias in Marital Contributions
+  - Study on contributions to household tasks.
+  - Self-assessed contributions exceed 100% due to availability bias.
+  - Availability of personal efforts distorts judgment.
+- Availability and Bias in Collaboration
+  - Members of a team often feel they've contributed more.
+  - Availability bias contributes to overestimation of contributions.
+  - Understanding this bias can help in collaborative settings.
+- German Study on Impressions
+  - Listing instances of assertive behavior affects self-impressions.
+  - Ease of retrieval influences self-rating more than number.
+- Role of Fluency in Judgments
+  - Unexpectedly low fluency affects self-judgment.
+  - Fluency impacts judgments through surprise effect.
+  - Explained fluency eliminates heuristic influence.
+- Complexity of Availability Process
+  - Judgment by availability involves complex reasoning.
+  - System 1 sets expectations and responds to surprises.
+  - System 2 can reset System 1 expectations.
+  - Reversal of judgments due to fluency and explanation.
+- Personal Involvement and Content
+  - System 1 heuristic replaced by content focus with System 2 involvement.
+  - Conditions influencing susceptibility to availability bias:
+    - Engaged in another effortful task.
+    - In a good mood or low depression score.
+    - Knowledgeable novices rather than true experts.
+    - High faith in intuition or feeling powerful.
+- Intuition and Availability Bias
+  - Quote by George W. Bush on intuition.
+  - Reliance on intuition affected by power and reminders.
+- Examples of Availability Bias
+  - Coincidental events affecting risk perceptions.
+  - Underestimating risks due to media influence.
+  - Influence of recent experiences on perceptions.
+  - Overconfidence due to recent successes.
 
-### Availability, Emotion, and Risk
-- Availability effects and the affect heuristic influence decision-making and risk evaluation.
-- Memories of disasters fade over time, leading to decreased concern and protective action.
-- Emotional evaluations of risks guide decision-making and simplify beliefs about technologies.
-- Risk is a subjective concept and depends on the choice of measure and human preferences.
-- Cass Sunstein discusses the impact of availability cascades on policy priorities.
-- Availability cascades start with media reports of a minor event and lead to public panic and government action.
-- The media and "availability entrepreneurs" exaggerate the danger of a risk, while those downplaying the risk face hostility.
-- Availability cascades can distort priorities in resource allocation.
-- Paul Slovic believes that experts should not be completely insulated from public fears, and policies should consider widespread fears.
-- A combination of expert knowledge and public emotions should inform risk policies.
 
-### Tom W's Specialty
-- Main puzzle: Ranking nine fields of graduate specialization based on the likelihood that Tom W is a student in each field.
-- Participants given a personality sketch of Tom W to rank fields based on similarity.
-- Stereotypes and representativeness play a role in rankings, despite the task requiring logical thinking.
-- Probability assessment is subjective and based on mental shortcuts.
-- Representativeness heuristic can lead to accurate predictions but also grave sins against statistical logic.
-- People often neglect base-rate information and overpredict unlikely events.
-- Instructing people to "think like a statistician" enhances the use of base-rate information.
-- Frowning activates System 2 and improves predictive accuracy by reducing overconfidence and reliance on intuition.
-- Insensitivity to evidence quality is another sin of representativeness.
-- Discipline and self-control are necessary to stay close to base rates when unsure of evidence quality.
-- Bayesian statistics provide rules for combining base rates with diagnosticity of evidence.
-- Intuitive impressions of evidence diagnosticity are often exaggerated.
-- Anchoring judgment on a plausible base rate and questioning evidence diagnosticity are key to disciplined Bayesian reasoning.
+### Availability, Emotion, And Risk
+- Availability Effects and Risk Perception:
+  - Idea of availability relevant to risk perception.
+  - Howard Kunreuther noticed availability effects in insurance purchase after disasters.
+  - Disasters lead to short-term diligence, but complacency grows over time.
+  - Memory dynamics explain cycles of disaster concern and complacency.
+- Media, Memory, and Risk Perception:
+  - Media coverage distorts perception of causes of death.
+  - Media biased towards novelty and poignancy.
+  - Media shapes public interest and is shaped by it.
+  - Ideas in associative memory influence perception of risks.
+  - Emotional intensity affects perceived danger.
+- Affect Heuristic and Decision Making:
+  - People consult emotions for judgments and decisions.
+  - Slovic's affect heuristic: emotional feelings guide choices.
+  - Emotionally fluent thoughts exacerbate fear.
+  - Emotional evaluations and bodily states guide decision-making.
+  - "Healthy fear" important for good decisions.
+- Expert vs. Public Risk Perception:
+  - Slovic's research on human judgment of risk.
+  - Experts' biases attenuated but differ from public.
+  - Differences between experts and public due to conflict of values.
+  - Public's richer conception of risks than experts.
+  - Risk is not objective, but a concept invented by humans.
+- Availability Cascade and Biased Risk Perception:
+  - Availability cascade: self-sustaining chain of events amplifying risk concern.
+  - Emotional reaction to media reports triggers cascade.
+  - Availability entrepreneurs promote worrying news.
+  - Media exaggeration due to competition for attention.
+  - Cascade leads to skewed priorities in public policy.
+- Examples of Availability Cascades:
+  - Love Canal incident: toxic waste exposure, emotional reaction.
+  - Alar scare: exaggerated fear of chemical in apples.
+  - Probability neglect: ignoring or exaggerating small risks.
+  - Terrorism and availability: terrorism exploits emotional reactions.
+- Balancing Experts and Public Opinion:
+  - Sunstein's view: experts' rational analysis for risk policy.
+  - Slovic's view: trust public somewhat, public fears matter.
+  - Policy makers must address public fears, even if irrational.
+  - Availability cascades call attention to risks and resource allocation.
+  - Democracy's messy balance between expertise and emotions.
+- Conclusion:
+  - Availability cascade inflates nonevents through media and public attention.
+  - Media's role in distorting risk perception.
+  - Affect heuristic influences decision-making.
+  - Experts and public differ in risk perception.
+  - Balancing expertise and public emotions in policy-making.
 
-### Linda: Less is More
-- The Linda problem demonstrates the role of heuristics in judgment and their incompatibility with logic.
-- Participants ranked scenarios for Linda, with many falling into the conjunction fallacy, judging detailed scenarios as more probable.
-- Even statistically sophisticated respondents made the same error, choosing the more detailed scenario as more probable.
-- The "less is more" pattern was observed in studies on dinnerware and baseball cards, where items were valued differently in joint and single evaluations.
-- Participants assigned lower probabilities to more inclusive events, going against logic but aligning with representativeness and plausibility.
-- Representativeness dominated judgments in a study involving a die and sequences of green and red faces.
-- The question format of "how many?" helped participants avoid the conjunction fallacy.
-- System 2 thinking is not always reliable, as participants did not consistently apply logical rules when presented with information.
-- The Linda problem attracted controversy but demonstrated the unique conflict between intuition and logic in the conjunction fallacy.
+
+### Tom W’s Specialty
+- Problem Setup: Tom W's Field of Study Ranking
+  - Tom W is a graduate student at a state university.
+  - Need to rank nine fields of graduate specialization based on Tom's likelihood to be in each.
+  - Use base rates (proportions of students in each field) to make initial judgments.
+- Tom W's Personality Description and Ranking Fields
+  - Description of Tom's personality traits and characteristics provided.
+  - Rank fields based on similarity of Tom's description to stereotypes of each field.
+  - Tom W's description was crafted to fit computer science and engineering stereotypes.
+- Predicting by Representativeness
+  - A prediction task was conducted with graduate students in psychology.
+  - Predict fields based on Tom W's description while ignoring base rates and doubts about the description's accuracy.
+  - People tend to use representativeness heuristic, focusing on similarity to stereotypes.
+- Role of Base Rates and Stereotypes
+  - Tom W's description designed to match small field stereotypes and mismatch large fields.
+  - Professional stereotypes persist for years, influencing judgments.
+  - Base rates are neglected when specific descriptions are provided, even though they should be considered.
+- Concept of Probability and Similarity
+  - Probability is a vague concept for most people, related to uncertainty and plausibility.
+  - Probability judgments often rely on representativeness heuristic.
+  - People make similarity judgments automatically based on stereotypes.
+- Representativeness Heuristic
+  - Representativeness heuristic leads to accurate judgments in some cases.
+  - People predict based on intuitive impressions derived from stereotypes.
+  - Example of Moneyball and baseball scouts' judgments.
+- Sins of Representativeness
+  - Two sins of representativeness: predicting unlikely events and insensitivity to evidence quality.
+  - Insensitivity to evidence quality due to WYSIATI (What You See Is All There Is) bias.
+  - Tom W example: even when told not to trust description, people rely on it.
+- Disciplining Intuition and Bayesian Reasoning
+  - Beliefs should be constrained by probability logic.
+  - Bayesian statistics provide rules for combining prior beliefs with evidence.
+  - Base rates matter even with new evidence, and diagnosticity of evidence is often overestimated.
+- Applying the Ideas
+  - Examples of applying base rates, questioning evidence diagnosticity, and allowing for uncertainty.
+  - Representativeness heuristic can lead to flawed judgments.
+
+
+### Linda: Less Is More
+- Linda Problem and Conjunction Fallacy:
+  - The Linda problem involves a fictional character named Linda and explores the conjunction fallacy, where people incorrectly judge the conjunction of two events to be more likely than one of the events alone.
+  - The Linda problem highlights the conflict between intuitive representativeness and logical probability.
+  - Participants tend to choose the more detailed scenario as more probable, even when logic dictates otherwise.
+- Experiments:
+  - The authors conducted experiments with scenarios to study how people make judgments based on representativeness and probability.
+  - Linda was described as a feminist bank teller and participants often found this more likely than her being just a bank teller.
+- Less Is More:
+  - The concept of "less is more" was observed in different contexts.
+  - In a dinnerware pricing experiment, removing items from a set made it more valuable due to representativeness effects.
+  - Similar patterns were found in the conjunction fallacy, where a less detailed option seemed more probable due to representativeness bias.
+- System 2 and Intuition:
+  - System 2, the deliberate and analytical thinking process, is often lazy and less vigilant.
+  - People tend to rely on intuition and representativeness even when logical rules should prevail.
+- Probability vs. Plausibility:
+  - People often confuse probability with plausibility and coherence.
+  - Coherent and plausible stories are more likely to be chosen, even if they are not the most probable.
+- Joint Evaluation and Single Evaluation:
+  - Joint evaluation, where options are compared side by side, tends to lead to more logical choices.
+  - Single evaluation, where options are considered individually, can result in the conjunction fallacy.
+- Controversy and Criticism:
+  - The Linda problem attracted controversy and criticism from scholars, even though it was just one aspect of larger research on heuristics.
+  - Critics focused on the fallacy while neglecting broader findings that supported the authors' perspective.
+- Focus on Weaknesses:
+  - The Linda problem received attention due to its interesting nature, even though other findings provided stronger support for the authors' arguments.
+  - Critics focused on weaknesses in the research rather than the broader context.
+- Lessons Learned:
+  - The Linda problem demonstrated that intuition can override logic even when the logical answer is clear.
+  - The conflict between intuition and logic highlights biases in human judgment.
+
 
 ### Causes Trump Statistics
-- Bayesian inference shows that witness testimony changes the probability of the guilty cab being Blue (from Green).
-- Stereotypes play a role in forming judgments but can lead to erroneous conclusions.
-- Resistance to stereotyping exists in sensitive social contexts.
-- Neglecting valid stereotypes can lead to suboptimal judgments.
-- People are sensitive to causal base rates when making judgments influenced by the situation.
-- A psychology experiment on helping behavior shows that individuals feel relieved of responsibility when they know others have heard the request for help.
-- Teaching psychology through surprising individual cases is more effective than surprising statistics alone.
-- Individual cases have a stronger impact on changing long-held beliefs or beliefs rooted in personal experience.
+- Cab Problem and Bayesian Inference
+  - Scenario: Hit-and-run involving a cab at night.
+  - Two cab companies: Green and Blue.
+  - Witness identified the cab as Blue.
+  - Witness's reliability: Correctly identified 80%, failed 20%.
+  - Probability of cab being Blue rather than Green?
+- Types of Base Rates
+  - Statistical base rates: Facts about a population, not relevant to an individual case.
+  - Causal base rates: Change individual case perspective, combined with other information.
+  - Example: Green cab drivers' recklessness stereotype.
+- Stereotyping
+  - Stereotyping as statements about groups, neutral usage.
+  - System 1 represents categories with prototypes.
+  - Stereotypes are how we think of categories.
+- Social Norms and Stereotyping
+  - Social norm against stereotyping and profiling.
+  - Base rates treated as statistical facts about the group.
+  - Denying costs of resistance to stereotyping is incorrect.
+  - Costs of stereotyping are worth paying for a better society.
+- Causal Situations
+  - Experiment using causal base rates.
+  - People draw inferences from base rate information.
+  - Influence of causal base rates on judgments.
+- Psychology Teaching and Learning
+  - Experiment with helping behavior and diffusion of responsibility.
+  - People's resistance to changing beliefs about human nature.
+  - Teaching psychology: Surprises and individual cases are effective.
+- Influence of Statistics and Individual Cases
+  - Statistical results have less impact on thinking than causal information.
+  - Surprising individual cases have a stronger impact on learning.
+  - Self-encountered surprises lead to better learning outcomes.
 
-### Regression to the Mean
-- Regression to the mean involves extreme scores moving towards the average when the correlation between two measures is less than perfect.
-- Sir Francis Galton discovered and named the concept in the late 19th century through studies on height measurements.
-- Regression effects can be found in various aspects of life but are often overlooked.
-- Highly intelligent women tend to marry less intelligent men due to the imperfect correlation between intelligence scores of spouses.
-- Our minds are biased towards causal explanations, making it challenging to understand regression effects.
-- Regression to the mean is often misinterpreted as causation, leading to incorrect conclusions.
-- Intuitive predictions often ignore regression effects, leading to inaccurate forecasts.
-- Criticism is often more effective than praise due to regression to the mean.
+
+### Regression to The Mean
+- Eureka Experience in Israeli Air Force Teaching:
+  - Reward for improved performance is more effective than punishment for mistakes in skill training.
+  - Regression to the mean: Observations of improvement after punishment and deterioration after praise were due to random fluctuations, not causation.
+  - Flight instructors' predicament: Punishing poor performance led to subsequent improvement, even if punishment was ineffective.
+  - Feedback paradox: Being nice statistically punished, being nasty statistically rewarded.
+- Talent and Luck:
+  - Success equation: Success = talent + luck, great success = a little more talent + a lot of luck.
+  - Golf tournament example: Players' scores regress to the mean between days due to luck.
+  - Predicting day 2: Players' scores on day 2 are likely to be closer to the mean than their day 1 scores.
+- Regression to the Mean:
+  - Pattern of regression to the mean: Poor performance often followed by improvement, good performance by deterioration.
+  - Principle applies both forward and backward in time.
+  - Misguided causal explanations: "Sports Illustrated jinx" attributed to overconfidence, pressure, but it's a result of regression.
+- Understanding Regression:
+  - Human bias towards causal explanations hinders understanding of regression.
+  - Our mind struggles with purely statistical concepts.
+  - Regression is not easily explained or recognized.
+- Francis Galton and Discovery of Regression:
+  - Regression to the mean discovered by Francis Galton in the 19th century.
+  - Regression observed in size measurements of successive generations.
+  - Correlation and regression are different perspectives of the same concept.
+  - Regression happens when correlation between variables is imperfect.
+- Regression in Everyday Scenarios:
+  - Highly intelligent women marrying less intelligent men due to regression.
+  - Regression often misunderstood as causation.
+  - Regression is a common source of errors in research.
+  - Example of sales forecasting: Need to consider regression when forecasting based on past performance.
+
 
 ### Taming Intuitive Predictions
-- Predictive judgments are made in various areas of life, involving expertise or intuition.
-- Intuitive predictions can be made confidently with weak evidence but are often biased and insensitive to evidence quality.
-- Substitution and intensity matching play a role in intuitive predictions, leading to biased outcomes.
-- Correcting intuitive predictions involves estimating shared and specific factors, and regressing predictions towards the mean.
-- Corrected intuitive predictions eliminate biases and make predictions equally likely to overestimate and underestimate the true value.
-- Corrective procedures help individuals consider the amount of information available and adjust their intuition accordingly.
-- Training is required to understand regression to the mean, as intuitive predictions are not always accurate.
-- Intuition should be adjusted based on the strength of evidence and regression towards the mean.
-- Considering the range of uncertainty and avoiding extreme language in predictions is important.
+- Predictive Scenarios:
+  - Economists forecast inflation and unemployment.
+  - Financial analysts forecast earnings.
+  - Military experts predict casualties.
+  - Venture capitalists assess profitability.
+  - Publishers and producers predict audiences.
+  - Contractors estimate project completion time.
+  - Chefs anticipate dish demand.
+  - Engineers estimate material needs.
+  - Fireground commanders assess firefighting resources.
+  - Private lives: forecast reactions to changes.
+- Types of Intuitions:
+  - Skill-based intuitions: chess masters, fireground commanders, physicians.
+  - Heuristic-based intuitions: substitution of easy questions.
+  - Intuitive judgments influenced by skill, expertise, or heuristics.
+- Nonregressive Intuitions:
+  - Intuitive judgments insensitive to evidence quality.
+  - Causal link sought between evidence and prediction.
+  - Substitution and intensity matching process.
+  - Impression of relative academic standing converted to GPA.
+- Julie Example:
+  - Intuitive predictions not regressive.
+  - Correction method for unbiased predictions.
+  - Correction steps: baseline, intuitive prediction, correlation estimation.
+  - Corrected predictions moderate intuitive extremes.
+  - Corrected predictions suitable for high-stakes situations.
+- Comparing Judgments:
+  - Experiment on descriptions of college freshmen.
+  - Identical judgments in evaluating evidence and predicting outcomes.
+- Officer Training Unit Example:
+  - Officers' predictions aligned with actual grading frequencies.
+  - Application of substitution and intensity matching.
+- Defense of Extreme Predictions:
+  - Rational approach considers baseline, intuition, uncertainty.
+  - Corrected predictions mitigate overconfidence.
+  - Extreme language justified for specific contexts.
+- Two-Systems View of Regression:
+  - System 1 generates extreme predictions based on evidence.
+  - System 2 struggles with regression to the mean concept.
+  - Matching predictions to evidence is intuitive but can be problematic.
+- Speaking of Intuitive Predictions:
+  - Examples of phrases involving intuitive predictions.
+
 
 ## Overconfidence
 ### The Illusion of Understanding
-- The narrative fallacy shapes our views of the world and future expectations.
-- Hindsight bias and outcome bias distort our perceptions, leading to overestimation of original predictions.
-- Luck plays a significant role in success or failure, making it challenging to assess leadership and management practices from outcomes.
-- Avoiding biases is crucial when evaluating decisions and understanding success and failure.
+- Nassim Taleb:
+  - Trader-philosopher-statistician
+  - Introduced narrative fallacy in "The Black Swan"
+  - Narrative fallacy arises from trying to make sense of the world
+  - Explanatory stories are simple, concrete, assign role to talent/intentions, focus on few events
+- Google Success Story:
+  - Graduate students created a better Internet search method
+  - Almost every choice made led to good outcomes
+  - Luck played a significant role
+  - Halo effect and sense of inevitability in the narrative
+- Illusions and Narrative Fallacy:
+  - Constructing stories based on limited information
+  - Illusion of understanding from narratives
+  - Humans fool themselves with flimsy accounts of the past
+  - Illusory sense of understanding about major events
+- Hindsight Bias:
+  - Adjusting views based on unpredicted events
+  - People can't accurately recall their past beliefs
+  - I-knew-it-all-along effect exaggerates original predictions
+  - Outcome bias influences evaluations based on results
+- Role of Luck in Leadership and Success:
+  - CEOs' influence on firm outcomes is smaller than perceived
+  - Correlation between CEO quality and firm success is modest
+  - Halo effect influences perceptions of CEOs based on outcomes
+  - Luck plays a significant role in success and failure
+  - Regular patterns emerging from comparisons may be mirages
+- Business Books and Illusions:
+  - Books simplify complex outcomes into clear causes
+  - Illusions of understanding and simplicity appeal to readers
+  - Stories of success and failure often overlook luck
+  - Lessons from such stories are of limited enduring value
+
 
 ### The Illusion of Validity
-- System 1 forms confident beliefs based on limited evidence.
-- Illusion of validity leads to trusting inaccurate impressions and predictions.
-- In the financial world, investors believe they have skill, but it is mostly luck.
-- Cognitive illusions and overconfidence persist despite evidence.
-- Experts often perform worse than random chance in predictions.
-- Long-term forecasts are challenging due to the unpredictable nature of the world.
+- Illusion of Validity and Skill
+  - System 1 and System 2 thinking
+  - System 1's tendency to jump to conclusions from limited evidence
+  - WYSIATI (What You See Is All There Is)
+  - Confidence by coherence - confidence based on the story constructed by System 1 and System 2
+  - Illusion of Validity - overconfidence in judgments despite lack of evidence
+  - Observations from an obstacle field exercise in the Israeli Army
+  - Illusion of skill in stock picking
+  - Financial industry's reliance on illusion of skill
+  - Illusions of pundits in predicting the future
+- Expert Predictions and Illusions
+  - Philip Tetlock's study on expert predictions
+  - Study of 284 people offering political and economic advice
+  - Gathering over 80,000 predictions
+  - Experts' poor performance in predictions compared to random chance
+  - Experts' overconfidence and resistance to admitting error
+  - Terms "hedgehogs" and "foxes" from Isaiah Berlin's essay
+  - Hedgehogs - strong theories, impatience, reluctance to admit error
+  - Foxes - complex thinkers, recognize multiple influences, more accurate
+- Limitations and Unpredictability
+  - Unpredictability of the future
+  - Errors of prediction are inevitable due to complexity
+  - High subjective confidence doesn't indicate accuracy
+  - Short-term trends can be forecasted, behavior predicted from past behavior
+  - Situational factors affect performance in various contexts
+  - Limited validity of tests and predictions
+- Conclusion and Observations
+  - Illusions of validity and skill persist due to cognitive biases
+  - Financial industry's reliance on illusion of skill in stock picking
+  - Pundits' illusion of insight into the future
+  - Uncertainty and unpredictability in separating short-term and long-term predictability
+- Reflections and Questions
+  - Challenges to experts' confidence
+  - Coherent stories and their influence
+  - Illusion of skill in market forecasting
+  - The role of theories in predictions
+  - The question of world predictability
 
-### Intuitions Vs. Formulas
-- Paul Meehl's research favored statistical predictions over clinical judgments.
-- Algorithms consistently outperform human judgment in various domains.
-- Algorithms are consistent and not influenced by context or personal impressions.
-- Simple formulas can be as accurate as complex statistical models.
-- Bias against algorithms is driven by preference for natural decision-making.
-- Resistance to algorithms is stronger in consequential decisions.
-- People may become more accepting of algorithms with increased usage in daily life.
-- Experiment using statistical rules for interviewing.
-- Intuition can add value after disciplined collection of objective information.
-- Implementing interview procedures based on statistical principles improves accuracy.
+
+### Intuitions vs. Formulas
+- Paul Meehl's Contributions:
+  - Paul Meehl was a versatile psychologist of the twentieth century.
+  - Faculty appointments in multiple departments: psychology, law, psychiatry, neurology, philosophy.
+  - Wrote on various subjects: religion, political science, learning in rats.
+  - Statistically sophisticated researcher, criticized empty claims in clinical psychology.
+  - Advocated for statistical predictions over clinical predictions.
+  - Introduced the concept of "Meehl pattern."
+- Clinical vs. Statistical Predictions:
+  - Meehl's book "Clinical vs. Statistical Prediction: A Theoretical Analysis and a Review of the Evidence" compared clinical and statistical predictions.
+  - Studies analyzed whether clinical impressions or statistical algorithms were more accurate.
+  - Statistical algorithms consistently outperformed human experts in various domains.
+  - Examples of forecast outcomes: grades, parole violations, pilot training success, recidivism.
+  - About 60% of studies showed better accuracy for algorithms.
+- Superiority of Algorithms:
+  - Humans' complexity in judgments often reduces validity, while simple algorithms perform better.
+  - Human decision-makers are inconsistent and influenced by context.
+  - Formulas maintain consistency and outperform humans in low-validity environments.
+  - Expertise often fails in predicting complex, uncertain outcomes.
+  - Algorithms can provide accurate predictions with simple, equally-weighted formulas.
+- Real-World Examples:
+  - Orley Ashenfelter's formula predicted Bordeaux wine prices accurately based on weather data.
+  - Expert judgment inferior to simple statistical algorithms in various domains.
+  - Use of algorithms can improve decision-making in diverse areas like medicine and finance.
+- Hostility to Algorithms:
+  - Clinical psychologists resisted Meehl's ideas due to perceived superiority of intuitive judgments.
+  - Intuitive clinical judgments based on short-term interactions contrasted with long-term predictions.
+  - Emotional and moral preference for human decisions over algorithmic ones.
+- Role of Intuition:
+  - Intuition adds value but should follow disciplined collection of objective information.
+  - Combining intuition with structured data collection can improve decision-making.
+- Implementation and Lessons:
+  - Implementing structured interview procedures yields more accurate predictions.
+  - Select relevant traits, create factual questions, and score them independently.
+  - Avoid halo effects, gather information sequentially, and compute final scores.
+  - Follow formulaic approach to decision-making, resist influence of personal preferences.
+- Advocacy for Formulas:
+  - Consider replacing human judgment with formulas whenever possible.
+  - Simple combinations of scores can often outperform complex human judgments.
+  - Weight data from past performance to counterbalance impressions from interviews.
+
 
 ### Expert Intuition: When Can We Trust It?
-- Professional controversies in academia can be hostile, but adversarial collaborations offer a different approach.
-- Collaborated with Gary Klein to explore intuition in experienced professionals.
-- They disagreed initially on the validity of intuition and when to trust it.
-- Both agreed that confidence in intuition is not a reliable indicator of its accuracy.
-- Intuitive expertise is more likely in professions with regular patterns and ample practice opportunities.
-- Feedback and practice are crucial for developing and improving intuitive skills.
-- Expertise is a collection of skills, not a single skill.
-- Evaluating the validity of intuition involves considering the regularity of the environment and the expert's learning history.
-- They found common ground in critiquing Malcolm Gladwell's portrayal of intuition in "Blink."
-- The collaboration led to agreements on key points despite initial differences in attitudes and tastes.
+- Professional Controversies and Intuition
+  - Scientific debates often lack productive outcomes due to sarcastic exchanges.
+  - Responding to critiques may be necessary, but hostile exchanges rarely yield constructive results.
+  - "Adversarial collaborations" involve scholars with differing views collaborating on joint projects.
+- Collaboration Between Different Views
+  - Collaboration between scholars with opposing views can lead to productive outcomes.
+  - Collaboration can involve jointly authored papers, research projects, and moderation by an arbiter.
+  - Collaboration between different intellectual leaders can yield surprising insights and breakthroughs.
+- Nature of Intuition
+  - Intuition is not always unreliable; it can be valuable in certain contexts.
+  - Intuition involves recognizing patterns and cues from experience.
+  - Intuition should be informed by learning from repeated exposure to specific situations.
+- Expertise and Skill Acquisition
+  - Expertise is not a single skill but a collection of miniskills.
+  - Skill acquisition depends on environment regularity and opportunities for practice.
+  - Immediate and clear feedback accelerates skill acquisition and the development of intuitive expertise.
+- Distinguishing Valid and False Intuitions
+  - Intuitions in regular environments are likely to be valid if the expert has learned cues.
+  - Associative machinery can generate both valid and false intuitions.
+  - Subjective confidence is not a reliable indicator of intuition accuracy.
+- Boundary of Expert Intuition
+  - Intuitive expertise is reliable in domains with regularities and opportunities for learning.
+  - Professionals should consider the regularity of the environment and their learning history when evaluating intuition.
+- Collaborative Outcome and Emotional Differences
+  - Collaboration led to substantive agreements despite initial differences.
+  - Emotional attitudes, tastes, and preferences remained largely unchanged.
+  - Intellectual agreement is more important than persistent emotional differences.
+- Reflections on Expert Intuition
+  - Questions to consider: expertise level, practice, regularity of environment, feedback quality.
+  - Subjective confidence is not a reliable indicator of accuracy.
+  - Evaluating expert intuition requires understanding learning opportunities and the environment.
+
 
 ### The Outside View
-- Inside view: based on personal experiences, often preferred.
-- Outside view: based on base-rate information, provides an objective assessment.
-- Neglected outside view, focused on their circumstances and progress.
-- People tend to ignore statistical information that contradicts personal forecasts.
-- Planning fallacy: unrealistically optimistic forecasts, akin to best-case scenarios.
-- Examples: Scottish Parliament cost, rail projects worldwide.
-- Optimism of planners, decision-makers, and contractors contributes to planning fallacy.
-- Outside view (reference class forecasting): using statistical information from similar projects.
-- Decision makers should consider distributional information and statistical overruns.
-- Organizations should reward precision and penalize failure to anticipate difficulties.
-- Planning fallacy can lead to irrational risk-taking and pursuing unlikely projects.
-- Habit of looking for outside view essential for rational decision-making.
+- Curriculum Development Project
+  - Collaboration for curriculum development in decision making for high schools.
+  - Assembled a team including teachers, psychology students, curriculum expert.
+  - Constructed a detailed outline, wrote chapters, conducted sample lessons.
+  - Idea of estimating time for textbook completion prompted exercise.
+  - Collected estimates for finishing textbook, results were narrowly centered around two years.
+  - Asked curriculum expert about other teams' similar projects and completion times.
+  - Realized that many teams failed to complete projects, substantial fraction (40%).
+  - Teams that finished took seven to ten years.
+  - Asked curriculum expert to rank their team's skills in comparison to others.
+  - Expert indicated they were slightly below average.
+- Forecasting and Planning Fallacy
+  - Overly optimistic forecasts and plans are common, referred to as the planning fallacy.
+  - Examples of planning fallacy include construction projects, kitchen renovations, rail systems.
+  - Overestimation of benefits and underestimation of costs.
+  - Executives often make decisions based on delusional optimism rather than rational weighting.
+  - People often take on risky projects due to overly optimistic views.
+- Reference Class Forecasting and Outside View
+  - Reference class forecasting helps mitigate planning fallacy.
+  - Involves using distributional information from similar cases.
+  - Flyvbjerg's approach uses database of project outcomes to provide statistical information.
+  - Proposed steps: identify reference class, obtain statistics, generate baseline prediction, adjust with specific information.
+- Decision Making and Risk Taking
+  - Executives take risks due to optimistic bias, leading to poor decision making.
+  - Overestimation of benefits and underestimation of costs contribute to risky initiatives.
+  - Planning fallacy may explain phenomena like litigation, starting wars, and opening businesses.
+- Reflections and Learning
+  - Project exceeded initial estimates and took eight years to complete.
+  - Failure to consider outside view and overcommitment to sunk costs contributed to continuation.
+  - Emphasis on uniqueness of cases can hinder accurate forecasts.
+  - Organizations can control planning fallacy by rewarding precise execution and penalizing lack of anticipation.
+  - Reflects on personal growth and habit of considering the outside view.
+- Speaking of the Outside View
+  - Suggests using outside view when taking decisions or making forecasts.
+  - Critiques individuals for taking an inside view without considering broader cases.
+  - Warns against the planning fallacy and overestimating best-case scenarios.
+  - Encourages considering baseline predictions based on reference classes.
+
 
 ### The Engine of Capitalism
-- The planning fallacy is a result of the optimistic bias.
-- Optimism leads to better well-being and resilience.
-- Optimists play a significant role in shaping society and take risks.
-- Optimists may engage in delusional thinking and underestimate odds.
-- Overconfident CEOs and leaders make poor decisions and take excessive risks.
-- Small business owners exhibit optimistic bias and neglect risks.
-- Cognitive biases contribute to overestimating one's abilities.
-- Outcome of start-ups depends on internal efforts and external factors.
-- Founders often neglect competition and focus solely on their plans.
-- CFOs are overconfident in forecasting stock market trends.
-- Overconfidence leads to unnecessary risk-taking.
-- Optimism is valued but can lead to blindness to risk and uncertainty.
-- Overconfidence is prevalent in various domains.
-- Optimism contributes to resilience in the face of setbacks.
-- Training to overcome overconfident optimism has limited success.
-- Premortem technique helps reduce biases and unleash imagination.
-- Premortem involves imagining a future disaster before making decisions.
-- Premortem helps counter WYSIATI and uncritical optimism.
+- Optimism and Bias:
+  - The planning fallacy is a manifestation of optimistic bias.
+  - People tend to view the world as more benign, their attributes as more favorable, and their goals as more achievable.
+  - Optimistic bias fosters overconfidence in forecasting the future.
+  - Optimistic bias has significant consequences for decisions.
+  - Optimism is inherited, and it affects well-being and success.
+- Benefits and Consequences of Optimism:
+  - Optimistic individuals are resilient, healthy, and likely to live longer.
+  - Optimistic entrepreneurs shape lives, take risks, and seek challenges.
+  - Founders and leaders who influence others are often optimistic.
+  - Overconfident CEOs take excessive risks and make costly decisions.
+  - Optimistic bias leads to inadequate risk assessment and poor decisions.
+- Competition Neglect:
+  - Cognitive biases lead to competition neglect in decision-making.
+  - Entrepreneurs focus on their plans and actions, neglecting competitors.
+  - Entrepreneurs underestimate the role of luck and overestimate skill.
+  - Competition neglect leads to excess entry and suboptimal outcomes.
+- Overconfidence:
+  - Overconfidence is driven by cognitive biases and social pressures.
+  - Experts, including financial officers and physicians, often exhibit overconfidence.
+  - Overconfident individuals make bold forecasts but cautious decisions.
+  - Overconfidence is difficult to eliminate and training has limited success.
+- Premortem Technique:
+  - The premortem technique helps mitigate overconfidence.
+  - It involves imagining a future where a decision failed and analyzing the causes.
+  - The premortem addresses groupthink and encourages critical thinking.
+- Summarizing Quotes:
+  - Experts may suffer from illusion of control, competitor neglect, and overconfidence.
+  - Conducting premortem sessions can reveal neglected threats.
+
 
 ## Choices
-### Bernoulli's Errors
-- Bernoulli introduced the concept of utility to explain people's choices in gambles.
-- Bernoulli's utility function showed diminishing marginal value of wealth, explaining risk aversion.
-- His theory remains influential in economic analysis.
-- Bernoulli's theory overlooks reference points and recent wealth changes in determining happiness.
-- The theory fails to account for different levels of happiness with different reference points.
-- It cannot explain different choices made by individuals with varying levels of wealth.
-- The model also fails to explain risk-seeking behavior in situations where all options are bad.
-- Scholars have overlooked the flaws in the theory due to theory-induced blindness.
-- Utility theory should consider the history of wealth and the influence of reference points.
-- Bernoulli's errors are evident in real-life scenarios like salary negotiations and legal disputes.
+### Bernoulli’s Errors
+- Introduction:
+  - An encounter with a mimeographed essay discussing psychological assumptions of economic theory.
+  - People are not fully rational, selfish, or stable in their tastes.
+  - Differences between psychological and economic perspectives.
+  - Introduction to the concepts of Econs (rational agents) and Humans (real people with System 1).
+- Humans' Decision Making:
+  - Humans' decisions are influenced by available information (WYSIATI).
+  - Humans are limited in consistency and logic compared to Econs.
+  - Humans exhibit generosity and attachment to groups.
+  - Intuitive decision-making and the concept of "sure thing."
+- Prospect Theory Development:
+  - Prospect Theory as an analysis of decision-making under risk.
+  - A descriptive model explaining systematic deviations from rationality.
+  - Departure from expected utility theory; purely descriptive approach.
+  - Importance of publishing in Econometrica for impact.
+- Reference Dependence:
+  - People's happiness influenced by recent changes in wealth relative to reference points.
+  - Reference dependence similar to psychophysics' reference points.
+  - Jack and Jill example illustrates reference-dependent happiness.
+  - Happiness affected by context, not just absolute wealth.
+- Utility and Wealth:
+  - Bernoulli's utility theory for wealth and diminishing marginal utility.
+  - Utility as logarithmic function of wealth; implications for risk aversion.
+  - Explanation of risk aversion and preference for sure things.
+- Flaws in Expected Utility Theory:
+  - Expected utility theory fails to account for reference points.
+  - Anthony and Betty scenario disproves uniform expected utility.
+  - Anthony values gains, Betty values losses; theory can't explain both.
+  - Theory-induced blindness and scholars' reluctance to question accepted theories.
+- Examples of Reference Dependence:
+  - Salary negotiations influenced by past earnings.
+  - Different candidates have different reference points for job satisfaction.
+  - Alimony case demonstrates risk-seeking behavior in bad options.
+
 
 ### Prospect Theory
-- Prospect theory is based on three cognitive features: evaluation relative to a reference point, diminishing sensitivity to changes in wealth, and loss aversion.
-- The value of outcomes is illustrated by an S-shaped graph, with loss aversion being a key feature.
-- People often have a strong aversion to losses, and the fear of losing is more intense than the hope of gaining.
-- Loss aversion ratio is usually in the range of 1.5 to 2.5.
-- Professional risk takers in financial markets are more tolerant of losses.
-- Loss aversion coefficient tends to increase as stakes rise.
-- Loss aversion causes risk-averse choices in mixed gambles.
-- Diminishing sensitivity causes risk-seeking in bad choices with a sure loss compared to a larger loss that is probable.
-- Attitudes towards wealth can explain extreme aversion to small risks.
-- Prospect theory has its flaws, including the assumption that the reference point has a value of zero.
-- It cannot deal with disappointment or allow for regret.
-- Regret and disappointment have a real impact on decision making.
-- Regret theories have had less influence than prospect theory due to lack of distinguishing predictions.
-- Prospect theory was accepted because it added concepts that yielded new predictions.
+- Introduction and Discovery of Flaw:
+  - Amos and the author stumbled upon a flaw in Bernoulli's theory by chance.
+  - Examined utility of money experiments and questioned assumptions.
+  - Raised doubts about evaluating gambles with small differences in wealth.
+- Transition to Directly Studying Wealth:
+  - Psychophysical theory suggested studying attitudes towards wealth directly.
+  - Decided to define outcomes as gains and losses instead of states of wealth.
+  - Overcame theory-induced blindness and explored attitudes towards gains and losses.
+- Attitudes towards Gains and Losses:
+  - People tend to be risk-averse with gains and risk-seeking with losses.
+  - Loss aversion: Losses have a greater impact than equivalent gains.
+  - Individuals prefer avoiding losses more than pursuing gains.
+  - Preferences shift when evaluating losses vs. gains.
+- Reference Point and Diminishing Sensitivity:
+  - Reference point: Evaluation relative to a neutral point.
+  - Outcomes above the reference point are gains, below are losses.
+  - Diminishing sensitivity: Subjective differences decrease as amounts increase.
+  - Utility function has an S-shaped curve reflecting diminishing sensitivity.
+- Loss Aversion Coefficient and Stakes:
+  - Loss aversion coefficient varies with stakes.
+  - Larger stakes lead to higher loss aversion.
+  - People become more loss averse with higher potential losses.
+- Prospect Theory's Limitations:
+  - Prospect theory has limitations, particularly in handling disappointment and regret.
+  - Assumes a zero value for outcomes that should be disappointing or regretful.
+  - Doesn't adequately account for the emotional impact of certain outcomes.
+- Value of Concepts Added by Prospect Theory:
+  - Prospect theory introduced valuable concepts: reference point and loss aversion.
+  - Reference point sets a basis for evaluating outcomes.
+  - Loss aversion explains why losses are more impactful than equivalent gains.
+  - These concepts led to new predictions and insights.
+
 
 ### The Endowment Effect
-- Loss aversion influences decision-making, making disadvantages more salient.
-- The endowment effect leads individuals to value goods they own more than identical goods they do not own.
-- It can be explained by loss aversion and the influence of the reference point.
-- Goods held for exchange are more likely to be traded, while goods held for use are less likely to be traded.
-- Experiments with tokens and goods like coffee mugs illustrate the endowment effect.
-- Brain imaging studies show brain activation during selling and buying decisions.
-- Selling goods activates regions associated with disgust and pain, while buying does so only when prices are too high.
-- The endowment effect is present in various experiments and has implications for market behavior.
-- Trading experience can eliminate the endowment effect in experienced traders.
-- Changing the reference point or specific manipulations can also mitigate the endowment effect.
-- Cultural differences may affect the presence and magnitude of the endowment effect.
-- The endowment effect, loss aversion, and asymmetry between selling and buying prices are crucial in understanding market behavior.
+- Indifference Map and Indifference Curves:
+  - Figure 11 displays an individual's "indifference map" for two goods.
+  - Each point on the map specifies a combination of income and vacation days.
+  - Indifference curves connect combinations of goods with the same utility.
+  - Convex shape indicates diminishing marginal utility for both leisure and income.
+- Reference Point and Loss Aversion:
+  - The graph lacks the individual's current income and leisure (reference point).
+  - Reference point matters in evaluating outcomes; it's a status quo.
+  - Bernoulli's error: Utility depends on more than just the current situation.
+  - Losses loom larger than corresponding gains due to loss aversion.
+  - Reference point influences choices, as seen in labor negotiations.
+- Prospect Theory's Origin and Application:
+  - Thaler's heretical thoughts led to behavioral economics.
+  - Endowment effect: Owners value goods more than potential buyers.
+  - Endowment effect applies to goods held for use, not exchange.
+  - Trading experience reduces the endowment effect.
+  - Poor individuals live below reference point; perceive costs as losses.
+- Implications and Examples:
+  - Economic behavior influenced by loss aversion and reference points.
+  - Negotiations struggle due to loss aversion and difficulty in concessions.
+  - Price changes affect demand; losses loom larger than equivalent gains.
+  - People dislike selling at a loss, influencing decisions like house sales.
+  - Some individuals treat spending money as losses due to loss aversion.
+
 
 ### Bad Events
-- Loss aversion is a significant contribution of psychology to behavioral economics.
-- It means losses loom larger than gains, motivating people to avoid losses more than to achieve gains.
-- Negativity dominance in the brain gives priority to bad news and threats, affecting reactions and processing.
-- Loss aversion can be observed in various contexts, from economic decisions to sports performance.
-- It influences behavior in negotiations, with concessions seen as losses and more painful than gains.
-- Loss aversion plays a role in fairness perceptions and entitlements in economic transactions.
-- It impacts legal decisions and the administration of justice, as losses may justify more protection.
-- The asymmetry between losses and gains affects individual well-being and resistance to reform.
-- Communication about losses and gains can influence negotiations and agreements.
+- Loss Aversion:
+  - Concept from psychology contributing to behavioral economics.
+  - People evaluate outcomes as gains and losses, with losses having more impact.
+  - Loss aversion integrated into a broader two-systems model of the mind.
+  - Negativity and escape dominate positivity and approach.
+- Observations of Loss Aversion:
+  - Compensated out-of-pocket losses in lost goods during transport.
+  - Large-scale reforms often fail.
+  - Professional golfers putt more accurately for par than birdie.
+- Negativity Dominance:
+  - Threats and negative stimuli receive quicker and stronger attention.
+  - Brain prioritizes bad news due to evolutionary history.
+  - Sensitivity to threats extends to symbolic representations.
+- Goals and Loss Aversion:
+  - Loss aversion refers to avoiding losses more strongly than seeking gains.
+  - Aversion to failing a goal is stronger than desire to exceed it.
+  - Short-term goals often aimed at achievement, not surpassing.
+- Loss Aversion in Everyday Contexts:
+  - New York cabdrivers' earnings target influenced by daily goals.
+  - Golfers putt more accurately for par (avoiding bogey) than birdie.
+  - Loss aversion drives extra concentration and effort.
+- Loss Aversion in Negotiations:
+  - Asymmetric intensity of avoiding losses and seeking gains.
+  - Concessions made by one side are viewed as losses.
+  - Agreements with shrinking gains are challenging to reach.
+- Loss Aversion and Reform:
+  - Loss aversion favors minimal changes from the status quo.
+  - Difficulty of reform due to potential losers' stronger resistance.
+  - Stability is maintained near reference points.
+- Loss Aversion in Fairness:
+  - Public perceptions of unfairness in economic transactions.
+  - Moral rules distinguish between losses and gains.
+  - Exploitation of power to impose losses is seen as unfair.
+- Loss Aversion in Business:
+  - Employers who violate fairness rules face reduced productivity.
+  - Merchants with unfair pricing policies lose sales.
+- Altruistic Punishment and Social Order:
+  - Altruistic punishment maintains social order.
+  - Brain activity shows pleasure in punishing unfair behavior.
+- Loss Aversion in Law:
+  - Distinction between actual losses and foregone gains in legal decisions.
+  - Possession plays a role in legal outcomes.
+- Quotes Illustrating Loss Aversion:
+  - Importance of recognizing asymmetry of losses.
+  - Role of loss aversion in negotiation, agreement, and perception.
+  - Influence of loss aversion in setting rental prices and client expectations.
+
 
 ### The Fourfold Pattern
-- Decision weights are influenced by the possibility effect and the certainty effect.
-- The popular gambling metaphor does not accurately describe how we think about probabilities.
-- Neuroscientists have found brain regions responding to changes in probability, similar to decision weights.
-- Prospect theory explains the fourfold pattern of preferences in decision making.
-- Risk-seeking behavior is observed in losses due to diminishing sensitivity and the certainty effect.
-- The fourfold pattern can be applied to negotiations in civil suits.
-- Frivolous litigation leads to more generous settlements for plaintiffs due to overweighting small chances of success.
-- Systematic overweighting of improbable outcomes can lead to inferior decision making.
+- System 1 and Decision Weighting:
+  - When forming evaluations of complex objects or uncertain situations, people assign weights to their characteristics.
+  - Weighting involves giving more importance to certain characteristics, influencing overall assessments.
+  - Weighting is often an unconscious operation of System 1, intuitive thinking.
+  - Assigning weights to outcomes is related to the probabilities of those outcomes.
+  - Changing probabilities can have qualitative effects on decisions, such as the possibility effect and certainty effect.
+  - Improbable outcomes are often overweighted due to the possibility effect.
+  - Almost certain outcomes are underweighted due to the certainty effect.
+- Expectation Principle and Utility:
+  - The expectation principle suggests that utility increases proportionally with the probability of an outcome.
+  - However, this doesn't accurately describe how people actually perceive and weigh probabilities.
+  - People value low probabilities of positive outcomes more than expected, and they undervalue almost certain outcomes.
+- Allais's Paradox and Prospect Theory:
+  - Allais's paradox reveals inconsistencies in expected utility theory.
+  - People's choices defy expected utility theory, especially in comparing gains and losses with varying probabilities.
+  - Prospect theory was developed to explain these deviations from traditional utility theory.
+  - Prospect theory introduces decision weights that diverge from actual probabilities, contributing to the fourfold pattern of preferences.
+- The Fourfold Pattern of Preferences:
+  - People assign values to gains and losses rather than overall wealth.
+  - The fourfold pattern categorizes preferences based on combinations of risk aversion and risk seeking.
+  - Situations involving a small chance of a large gain can lead to risk aversion (top left).
+  - Lotteries are popular due to overweighting of small probabilities (bottom left).
+  - Insurance policies are bought to mitigate concerns related to large losses (bottom right).
+  - People often take desperate gambles in the face of very bad options (top right).
+  - The pattern affects negotiation dynamics between plaintiffs and defendants in legal cases.
+- Implications and Rational Decision Making:
+  - Deviations from expected value, driven by overweighting of small probabilities, can lead to costly decisions.
+  - Long-term perspective shows that paying a premium to avoid small risks of large losses is generally costly.
+  - Consistent overweighting of improbable outcomes in intuitive decision making can result in suboptimal outcomes.
+- Quoted Scenarios:
+  - Quoted scenarios exemplify the fourfold pattern in different decision contexts.
+  - Overweighting of small probabilities, seeking certainty, and risk aversion all play roles in decision-making scenarios.
+
 
 ### Rare Events
-- Terrorism induces an availability cascade, leading to disproportionate fear and avoidance of unlikely events.
-- Emotion and vividness play a significant role in decision making, causing overweighting of rare events.
-- People's attention focuses on the alternative event, leading to overestimation of rare events.
-- The availability heuristic is likely to be evoked, with judgments influenced by ease of scenarios coming to mind.
-- Prospect theory suggests decision weights are less sensitive to probability and more influenced by affect-laden imagery.
-- Vivid representations of outcomes reduce the role of probability in evaluations.
-- The format in which risks are expressed heavily influences risk perception.
-- Professionals evaluating risk are influenced by vividness and format, leading to different decisions.
-- Choice from experience does not show overweighting of rare events, underweighting is common.
-- Rare events are overestimated due to confirmatory bias of memory and attempts to make them true in the mind.
+- Effects of Neglecting Probability and Overweighting Rare Events
+  - People tend to overestimate the probabilities of unlikely events due to the confirmatory bias of memory.
+  - Rare events are often overweighted in decision-making due to vivid imagery, emotional responses, and explicit descriptions.
+  - Neglect of rare events occurs when their probability is underestimated or overshadowed by more salient factors.
+  - People's judgments and decisions are influenced by cognitive ease, vividness, and the emotional impact of events.
+  - The availability heuristic leads to biased judgments, as people focus on the availability of examples rather than statistical probabilities.
+  - Overestimation and overweighting of unlikely events occur due to System 1 processing and the influence of emotions.
+  - Choice from experience can lead to underweighting of rare events, especially when individuals have not personally experienced them.
+  - Different formats of risk communication, such as frequency or relative frequency, affect how people perceive and evaluate probabilities.
+- Influence of Salience and Vividness
+  - Salience, vivid imagery, and emotional associations contribute to the overweighting of rare events.
+  - Highly vivid and emotional outcomes lead to biased decision weights, even when probabilities are low.
+  - The availability of specific details and associations can lead to an enhanced possibility effect and certainty effect.
+  - The format in which probabilities are described affects decision-making, with relative frequencies often evoking stronger responses.
+- Examples and Applications
+  - The fear of terrorism is heightened due to the vivid imagery and media attention associated with rare and impactful events.
+  - Prospect theory offers insights into decision weights, highlighting the difference between utility theory and actual human decision-making.
+  - Decision weights are affected by emotional responses, ease of imagination, and vividness of outcomes.
+  - The tendency to overweight rare events can lead to suboptimal decisions in various contexts, including risk assessment and gambling.
+  - Salient and vivid events influence choice from experience, but underweighting can occur when rare events have not been personally experienced.
+- Influences on Decision-Making
+  - Neglecting probability and overvaluing rare events are inherent biases in human decision-making.
+  - People's global impressions and emotional responses play a significant role in decisions, often overriding statistical probabilities.
+  - Decision-making involves both System 1 (intuitive, emotional) and System 2 (analytical, rational) processes.
+  - The context and framing of information can significantly impact how people evaluate and respond to risks.
+  - Strategies like focusing on specific alternatives and setting probabilities to add up to 100% can help mitigate biases.
+- Communication of Risks
+  - Risk communication strategies should consider how information is framed and presented to avoid biases in perception.
+  - Different formats of risk communication, such as absolute probability, relative frequency, or concrete representations, influence decision-making.
+  - People often respond more strongly to vivid and emotional descriptions of risks, leading to biased judgments.
+  - Advocates and communicators may intentionally use vivid details to manipulate perceptions of risk.
+
 
 ### Risk Policies
-- People's choices often align with System 1's intuition, but this can lead to inconsistency and suboptimal decisions.
-- Narrow framing, considering decisions separately, is the default mode of thinking, but broad framing is superior in most cases.
-- Samuelson's Problem demonstrates the inconsistency of utility theory in rejecting single gambles but accepting multiple gambles.
-- The example of Samuelson's friend, Sam, shows the impact of loss aversion on preferences and the benefits of aggregating favorable gambles.
-- Aggregating gambles reduces the probability of losing, diminishing the impact of loss aversion on decision-making.
-- The author advises adopting a mindset of "you win a few, you lose a few" and controlling emotional responses to losses.
-- Broad framing, thinking like a trader, can help control emotional responses and increase willingness to take risks.
-- Having a risk policy, like always taking the highest possible deductible when purchasing insurance, can mitigate loss aversion and lead to more rational decisions.
-- The combination of the outside view and risk policies is beneficial in decision-making.
-- Organizations should aim to eliminate excessive optimism and excessive loss aversion, using risk policies to make more rational decisions.
+- Pair of Concurrent Decisions and Prospect Theory
+  - Presented with two decisions involving gain/loss choices: A vs. B and C vs. D.
+  - Emotional reactions (System 1) influence initial preferences before calculating expected values.
+  - People tend to be risk averse in gain situations and risk seeking in loss situations.
+  - Broad framing (considering all options together) often leads to different preferences than narrow framing (considering options separately).
+  - Broad framing is generally superior when multiple decisions are contemplated together.
+  - Rationality and logical consistency in human preferences are limited due to emotional influences.
+- Aggregating Gambles and Loss Aversion
+  - Aggregating favorable gambles diminishes the impact of loss aversion.
+  - The story of Samuelson's friend demonstrates how aggregated gambles alter preferences.
+  - Emotionally charged loss aversion can lead to irrational decisions, even when utility theory is consistent.
+  - The combination of loss aversion and narrow framing is costly and reduces rational decision-making.
+  - Aggregating favorable gambles reduces the probability of losing and mitigates the effects of loss aversion.
+  - Experienced traders use broad framing to control emotional responses and make better decisions.
+- Avoiding Emotional Impact and Risk Policies
+  - Frequent tracking of short-term outcomes increases emotional pain from losses.
+  - Avoiding exposure to short-term fluctuations improves decision quality and emotional well-being.
+  - Risk policies involve applying a consistent strategy to risky decisions.
+  - Risk policies function as broad frames, considering aggregated outcomes over time.
+  - The combination of the outside view and a risk policy counters biases of optimism and loss aversion.
+  - Organizations should aim to combine the outside view with risk policies to make better decisions.
+- Quotes and Practical Insights
+  - "Tell her to think like a trader! You win a few, you lose a few."
+  - "I decided to evaluate my portfolio only once a quarter. I am too loss averse to make sensible decisions in the face of daily price fluctuations."
+  - "They never buy extended warranties. That’s their risk policy."
+  - "Each of our executives is loss averse in his or her domain. That’s perfectly natural, but the result is that the organization is not taking enough risk."
+
 
 ### Keeping Score
-- Money-seeking is tied to self-regard and achievement, using money as a proxy for these factors.
-- Mental accounts shape preferences and actions, influencing behavior and self-control.
-- The disposition effect and sunk-cost fallacy are examples of biases influenced by mental accounting.
-- Regret is a significant emotion influencing decisions and reactions to outcomes.
-- People expect stronger emotional reactions to outcomes produced by action rather than inaction.
-- Loss aversion is prevalent in various contexts, with higher coefficients for aspects of life more important than money.
-- The reluctance to accept any increase in risks can be motivated by fear of regret and shame.
-- The precautionary principle imposes the burden of proving safety on individuals, influenced by loss aversion.
-- Psychological defenses like the "psychological immune system" can reduce the impact of regret.
-- Being explicit about the anticipation of regret can help reduce its impact.
+- Money-Seeking Motivations:
+  - Money-seeking motivations go beyond survival for the very poor.
+  - Money is often a proxy for self-regard, achievement, and personal validation.
+  - People keep score of rewards, punishments, promises, and threats in their heads.
+  - These psychological incentives shape preferences and actions.
+- Mental Accounts:
+  - Mental accounts organize and structure our lives, sometimes leading to foolish or helpful outcomes.
+  - Various types of mental accounts exist, including spending money, savings, earmarked funds.
+  - Mental accounts help with self-control and narrow framing of decisions.
+  - Professional golfers and their separate accounts for each hole as an example.
+  - Mental accounting affects behavior, such as the decision to brave a blizzard to attend a game.
+- Regret and Decision-Making:
+  - Regret is an emotion and self-administered punishment for perceived mistakes.
+  - Fear of regret influences decisions; anticipation of regret plays a part.
+  - Regret is stronger for outcomes resulting from actions rather than inaction.
+  - People often expect stronger emotional reactions for outcomes due to actions than inaction.
+  - Loss aversion and fear of regret drive decisions with potential negative outcomes.
+  - The reluctance to accept increased risk is driven by a selfish fear of regret.
+- Loss Aversion and Efficiency:
+  - Losses are weighted more heavily than gains in decision-making.
+  - Enhanced loss aversion is common for aspects more important than money, such as health.
+  - The precautionary principle emphasizes avoiding harm and imposes the burden of proving safety.
+  - The dilemma between loss-averse moral attitudes and efficient risk management exists.
+- Coping with Regret:
+  - People anticipate more regret than they actually experience due to psychological defenses.
+  - Precluding hindsight and using thorough decision-making strategies can help avoid regret.
+  - Gilbert's suggestion to not put too much weight on regret; it hurts less than anticipated.
+- Keeping Score and Mental Accounts:
+  - Individuals maintain separate mental accounts for different aspects of life.
+  - Disposition effect: reluctance to close accounts at a loss leads to suboptimal decisions.
+  - Avoiding regret by sticking to familiar choices, such as a restaurant dish or stock.
+  - Taboo tradeoff: reluctance to accept increased risk even for potential gains.
+
 
 ### Reversals
-- Compensation for victims of violent crimes should be consistent across locations.
-- Single evaluation can lead to preference reversals and inconsistent decision-making.
-- Emotional reactions and System 1 thinking influence single evaluation.
-- Joint evaluation allows for more reasonable judgments and comprehensive assessments.
-- Context and comparisons play a crucial role in determining judgments and preferences.
-- Incoherent choices can occur when objects or events belong to different categories.
-- Manipulation of context can influence preferences.
-- The legal system often favors single evaluation despite its potential for incoherence.
-- Broadening the frame and considering cases together can lead to more sensible decisions.
+- Compensation and Moral Principles:
+  - Setting compensation for victims of violent crimes.
+  - Case of a man losing arm due to gunshot in a store robbery.
+  - Different scenarios: regular store vs. different store.
+  - Joint evaluation and moral principles for victim compensation.
+  - Almost universal agreement for equal compensation regardless of location.
+  - Location's insignificance in crippling injury compensation.
+- Preference Reversals and Joint Evaluation:
+  - Joint evaluation involves comparing scenarios and making judgments.
+  - Preference reversals observed in various contexts.
+  - Challenge to rational-agent model in economics.
+  - Joint evaluation changes the perception of attributes.
+  - Preference reversals result from different salient features in single vs. joint evaluation.
+- Categories and Norms:
+  - Automatic categorization affects judgments.
+  - Intensity matching and substituting for evaluations.
+  - Coherence within categories, potential incoherence across categories.
+  - Comparison between similar items vs. different items.
+- Emotional Influences on Evaluation:
+  - Emotional reactions influence judgments in single evaluation.
+  - Joint evaluation involves a more careful, effortful assessment.
+  - Emotional reactions of System 1 vs. assessment of System 2.
+  - Discrepancies between single and joint evaluation judgments.
+- Administration of Justice and Incoherence:
+  - Incoherence observed in justice administration.
+  - Mock jury experiment on punitive damages.
+  - Influence of context and joint evaluation on awards.
+  - Context manipulation by salespeople.
+  - Incoherence in legal penalties due to narrow framing.
+  - Broad frames reveal absurdities in penalties.
+- Rational Decision-Making and Broad Frames:
+  - Rationality supported by broader frames.
+  - Joint evaluation offers a more stable assessment.
+  - Absurdities exposed in broad frames.
+  - Administrative penalties coherent within agencies, incoherent globally.
+- Quotes on Joint Evaluation:
+  - Importance of joint evaluation for meaningful comparisons.
+  - Broadening the frame leads to reasonable decisions.
+  - Emotional reactions in isolation, careful assessment in joint evaluation.
 
-### Frames and Reality
-- Framing effects influence decision-making and preferences.
-- Emotional words and associations can sway decisions.
-- Neuroeconomics studies how the brain responds to framing effects.
-- Different brain regions are active during decision-making.
-- Reframing is effortful, and System 2 thinking is often lazy.
-- Preferences can be frame-bound rather than reality-bound.
-- Prospects and outcomes are evaluated differently based on framing.
-- Public health professionals are susceptible to framing effects.
-- Inconsistencies in choices based on framing can lead to embarrassment.
-- Framing affects moral intuitions and decisions.
-- Importance of using broader frames and inclusive accounts for rational decisions.
-- Framing can lead to misleading intuitions and policy consequences.
-- Organ donation framing effect: opt-in vs opt-out forms and the impact on decision making.
-- Importance of being sensitive to framing and its impact on preferences and outcomes.
+
+### Frames And Reality
+- Framing Effects and Human Decision-Making
+  - Italy and France World Cup example demonstrates different meanings based on context.
+  - Logical reasoning considers outcomes as interchangeable.
+  - Econs' beliefs and preferences are reality-bound, focused on states of the world.
+  - Different meanings in associative machinery: "Italy won" vs. "France lost."
+  - Emotional Framing affects choices: gamble vs. lottery example.
+  - Emotional associations influence decisions, making humans less rational than Econs.
+- Neuroeconomics and Framing Effects
+  - Neuroeconomics studies brain activity during decision-making.
+  - Brain regions associated with emotional arousal (amygdala) and conflict/self-control (anterior cingulate) are active during framing effects.
+  - Rational individuals show frontal brain activity combining emotion and reasoning.
+  - Brain activity shows how emotional words affect decisions.
+- Examples of Framing Effects
+  - MPG illusion: Gallons-per-mile is a better frame than miles per gallon for car fuel efficiency.
+  - Organ donation framing affects donation rates.
+  - Default options influence decisions: opt-in vs. opt-out organ donation.
+  - Formulation of choices can significantly impact preferences.
+- Debate on Rational-Agent Model
+  - Rational-agent theory asserts certain events are impossible; when observed, the theory is falsified.
+  - Skeptics question rational-agent model due to framing effects and inconsequential factors.
+  - Believers in rational-agent model often ignore the role of formulation in determining preferences.
+- Impact on Real World
+  - Organ donation framing debate affects policy and outcomes.
+  - Sensitivity to inconsequential factors influences decision-making.
+- Quotations and Implications
+  - People feel differently about outcomes based on framing: money kept vs. lost.
+  - Reframing problems changes perceptions of value.
+  - Opt-in vs. opt-out choices impact behavior (mailing list example).
 
 
 ## Two Selves
 ### Two Selves
-- "Utility" has two meanings: experienced utility and decision utility.
-- Experienced utility is about pain and pleasure in a situation.
-- Decision utility is based on wants and preferences guiding decisions.
-- Puzzle about pain reduction shows a gap between experienced and decision utility.
-- Francis Edgeworth proposed the "hedonimeter" to measure experienced utility.
-- Time plays a critical role in determining pleasure or pain.
-- Retrospective assessments of pain are influenced by peak and end moments.
-- Dilemma between minimizing peak pain or reducing the memory of pain has medical implications.
-- Conflict between experiencing self and remembering self influences decisions.
-- Mistaking memories for experiences is a cognitive illusion.
-- The remembering self governs learning from experiences and decision-making.
-- Cold-hand situation experiment shows the difference between experiencing self and remembering self.
-- The peak-end rule and duration neglect influence memory and decision-making.
-- Preferences and decisions are shaped by memories, which can be inaccurate.
-- Built-in inconsistency between preferences and memory is evident.
-- Focus on peak and end moments neglects duration in decision-making.
+- Distinct Meanings of Utility
+  - Jeremy Bentham introduced the term "utility" with meanings of pain and pleasure.
+  - Bentham's "experienced utility" vs. economists' "decision utility."
+  - Economists focus on "wantability" in decision utility rather than hedonic experiences.
+- Experienced Utility and Decision Utility
+  - Expected utility theory focuses on rational decision-making.
+  - Puzzle: Reduction in injections from 20 to 18 vs. 6 to 4, different value perceptions.
+  - Concept of measuring experienced utility by injection reduction.
+  - Decision should be assessed based on experienced utility.
+- Measuring Experienced Utility
+  - Francis Edgeworth's "hedonimeter" concept for measuring experienced utility.
+  - Edgeworth's idea involves integrating pleasure or pain experiences over time.
+  - Edgeworth's theory considers time's role in shaping experienced utility.
+- Experiment on Pain and Memory
+  - Study on patients undergoing painful colonoscopy, pain reports over time.
+  - Two patients' pain profiles, variation in pain during procedure.
+  - Peak-end rule: Retrospective rating influenced by worst moment and end.
+  - Duration neglect: Duration of procedure doesn't significantly impact total pain rating.
+- Dilemma of Pain and Memory
+  - Conflict between experiencing self and remembering self.
+  - Remembering self shapes overall memory of an experience.
+  - Confusion between actual experience and memory of experience.
+  - Tyranny of the remembering self, influencing future decisions.
+- Cold-Hand Experiment
+  - Experiment involving cold-water hand immersion.
+  - Conflict between experiencing self's pain and remembering self's memory.
+  - Participants' preferences influenced by memory, not actual experience.
+  - Less-is-more effect observed: System 1's average-based representation.
+- Evolutionary Aspects of Memory
+  - Evolutionary reasons behind memory's representation of pain and pleasure.
+  - Rats' duration neglect for pain and pleasure, intensity-based preferences.
+  - Evolutionary history influences memory's role in decision-making.
+- Discrepancy and Challenge to Rationality
+  - Discrepancy between decision utility and experienced utility.
+  - Diminishing sensitivity in decision-making vs. memory's role.
+  - Errors in decisions due to duration neglect and peak-end rule.
+  - Inconsistency challenges rational-agent model's assumptions.
+- Unreliable Nature of Preferences
+  - Preferences shaped by memories, which can be inaccurate.
+  - Challenge to idea of consistent preferences and rational choices.
+  - Conflict between preferences and interests due to memory's influence.
+- Two Selves and Memory
+  - Remembering self vs. experiencing self perspective on divorce.
+  - Duration neglect affecting memory's impact on perception.
+- Quotations and Implications
+  - Different perspectives on experiences and memories.
+  - Duration neglect affecting evaluations of experiences.
+
 
 ### Life as a Story
-- The emotional impact of La Traviata's last 10 minutes analyzed.
-- Significance of moments leading to death matters more than life length.
-- Narratives and memorable moments shape our perception of events.
-- Studies show duration neglect and peak-end effect in life evaluations.
-- Quality of endings and peak moments influence happiness judgments.
-- People prioritize creating lasting memories over enjoying the present.
-- Vacation choices influenced by memories, even if not accurate.
-- Value of experiences reduced if memories will be forgotten.
-- People prioritize the well-being of their remembering self over experiencing self.
-- Indifference or pity towards experiencing self during painful moments.
-- Importance of life as a story and protecting the narrative.
+- Experience and Memory
+  - Jeremy Bentham's concept of utility: "pain and pleasure" govern decisions.
+  - Two meanings of utility: experienced utility (Bentham's interpretation) and decision utility (used by economists).
+  - Discrepancies between experienced utility and decision utility.
+  - Puzzle about valuing pain reduction: reduction from 20 to 18 vs. reduction from 6 to 4 injections.
+  - Experienced utility as a criterion for decision assessment.
+  - Importance of experienced utility measurement.
+- Experience and Memory: Edgeworth's Conception
+  - Francis Edgeworth's idea of "hedonimeter" to measure experienced utility.
+  - Time's role in experienced utility measurement.
+  - The peak-end rule and duration neglect in experienced utility assessment.
+  - Profile comparison of patients' experiences during a medical procedure.
+  - Experienced utility measured by hedonimeter totals and retrospective assessment.
+  - Conflicts between experienced utility measures and implications for medical practice.
+- Confusing Experience with Memory
+  - Distinguishing between experiencing self and remembering self.
+  - The example of musical experience and memory confusion.
+  - The role of memory in decision-making and learning from experiences.
+  - Tyranny of the remembering self in influencing future decisions.
+- Storytelling and Memory
+  - The importance of storytelling in human perception of life.
+  - The significance of memorable moments and endings in stories.
+  - Caring for people involves concern for the quality of their stories.
+  - The influence of narratives on people's judgments and feelings.
+  - Memory shaping perceptions of significant life events.
+- Narratives and Evaluation of Lives
+  - Ed Diener's experiment on evaluating fictional character's lives.
+  - Duration neglect and peak-end effect in evaluations.
+  - Prototypical slices of time representing life, not duration.
+  - Substituting averages and prototypes for sums in judgments.
+  - Less-is-more effect in evaluating happiness over time.
+- Vacations and Memory
+  - Different perspectives on vacations: restorative relaxation vs. memory construction.
+  - Tourists' picture-taking as memory creation.
+  - The significance of memorable experiences in vacations.
+  - Impact of memory on intentions to repeat a vacation.
+- Experiencing Self vs. Remembering Self
+  - Thought experiments on valuing memory-less experiences.
+  - The indifference towards the pains of the experiencing self.
+  - Prioritizing the well-being of the remembering self.
+- Speaking of Life as a Story
+  - Protecting the narrative of integrity in life.
+  - Total duration neglect in the pursuit of a one-night encounter.
+  - Balancing the construction of memories during vacations.
+  - Alzheimer's patients losing narrative but retaining experiencing self's sensitivity to beauty.
+
 
 ### Experienced Well-Being
-- Well-being studies traditionally rely on surveys measuring life satisfaction.
-- The author proposes measuring objective happiness of the experiencing self.
-- The Day Reconstruction Method (DRM) is introduced as an alternative approach.
-- The DRM involves reliving the previous day and evaluating activities and feelings.
-- The DRM is a valid measure of daily affect and duration-weighted feeling.
-- The U-index measures the percentage of time spent in an unpleasant state.
-- American women spend about 19% of their time in an unpleasant state, higher than French and Danish women.
-- Emotional pain shows significant inequality in distribution among individuals.
-- The U-index can be computed for different activities, revealing variations in enjoyment.
-- Attention plays a key role in determining emotional state and enjoyment of activities.
-- Social policies can reduce overall suffering in society, e.g., improving transportation and socializing opportunities.
-- Measures of experienced well-being are included in national surveys to inform policy.
-- Money can enhance life satisfaction, but beyond a certain threshold, it may reduce the ability to enjoy smaller pleasures.
-- Policy should focus on reducing human suffering, addressing depression, and extreme poverty.
-- Controlling time use is effective in increasing happiness and well-being.
+- Measuring Well-Being
+  - Previous knowledge of well-being drawn from survey questions.
+  - The common survey question about life satisfaction.
+  - Focus on the remembering self in assessing well-being.
+  - Skepticism about global satisfaction as a valid measure.
+- Experiencing Self's Well-Being
+  - Focus on well-being of the experiencing self.
+  - Proposed criteria for experiencing self's happiness: time spent in desirable activities.
+  - The concept of "flow" in pleasurable activities.
+  - Role of resistance to interruption as a sign of good time.
+- Day Reconstruction Method (DRM)
+  - Difficulty of continuous experience tracking.
+  - Alternative: Experience Sampling Method.
+  - Introduction of the Day Reconstruction Method (DRM).
+  - Steps and process of the DRM.
+  - Comparison and validation of DRM with experience sampling.
+  - Computation of duration-weighted daily affect.
+- Emotional States and Activities
+  - Classification of experiences as positive or negative.
+  - Introduction of U-index as a measure of emotional discomfort.
+  - Analysis of American women's U-index in various activities.
+  - Emotional experience during time spent with children.
+- Factors Influencing Mood
+  - Mood fluctuation over the day and week.
+  - Mood influenced by the current situation.
+  - Attention's role in experiencing pleasure and pain.
+  - The relationship between attention and pleasure in eating.
+- Implications for Individuals and Society
+  - Implications of time use for individuals' well-being.
+  - Suggestions to improve experiences through active leisure.
+  - The significance of time use from a societal perspective.
+  - Role of transportation, child care, and socializing opportunities.
+- National Surveys and Policy
+  - Introduction of experienced well-being in national surveys.
+  - Alan Krueger's contribution to incorporating well-being into statistics.
+  - Large-scale national surveys in the US, Canada, and Europe.
+  - Analyzing Gallup World Poll data.
+  - Importance of situational factors, health, and social contact.
+- Comparison of Well-Being Aspects
+  - Comparison of experienced well-being and life evaluation.
+  - Impact of education, health, living with children, and religion.
+  - Comparison of US women's eating habits with French women's.
+- Money and Happiness
+  - The question of whether money can buy happiness.
+  - Effects of poverty and wealth on well-being.
+  - Adverse effects of severe poverty on well-being.
+  - The influence of income on emotional experiences.
+- Contrast in Income Effects
+  - Difference between effects of income on experienced well-being and life satisfaction.
+  - Interpretation of why higher income doesn't improve experienced well-being.
+  - Clear distinction between life satisfaction and experienced well-being.
+- Speaking of Experienced Well-Being
+  - Policy aim to reduce human suffering and the U-index.
+  - Control of time as a way to increase happiness.
+  - The trade-off between buying pleasurable experiences and enjoyment ability.
+
 
 ### Thinking About Life
-- Simple questions are often substituted for global evaluations of life satisfaction.
-- The salience of certain aspects of life can lead to the focusing illusion.
-- Climate has little impact on overall well-being.
-- Forecasting future well-being based on current circumstances is unreliable.
-- Students in California and the Midwest showed similar life satisfaction levels despite climate differences.
-- The focusing illusion leads people to overemphasize specific aspects of life and neglect other determinants of well-being.
-- Adaptation plays a role in well-being, leading to a return to a more normal level of experienced well-being over time.
-- Miswanting can result from errors in affective forecasting due to the focusing illusion.
-- The mind is designed more for storytelling than for processing time, leading to biases in judgments about happiness.
-- The complexity of happiness should be recognized, and simplistic views should be avoided.
+- Figure 16: Analysis of life satisfaction data
+  - Analysis by Andrew Clark, Ed Diener, and Yannis Georgellis
+  - Based on German Socio-Economic Panel data
+  - Respondents' satisfaction with life over years
+  - Graph shows satisfaction around marriage
+  - Marriage decision often involves affective forecasting error
+  - Expectations vs. reality regarding marriage happiness
+  - Startling decline in life satisfaction after marriage
+- Heuristics of Judgment and Life Satisfaction
+  - Evaluating life satisfaction questions
+  - Substituting answers from related questions
+  - Role of System 1 in quick judgments
+  - Salience of thoughts affects life evaluation
+  - Shortcuts in answering life satisfaction questions
+  - Mood heuristic and its impact on responses
+  - Importance of attention in influencing judgments
+- The Focusing Illusion
+  - Focusing Illusion defined
+  - Climate and well-being misconception
+  - Overemphasis on salient aspects of life
+  - Misjudging importance of climate and other factors
+  - Miswanting due to focusing illusion
+  - Car example and adaptation to experiences
+  - Duration neglect and its effects
+- Time and Duration in Evaluations
+  - Representing life as a series of moments
+  - Role of storytelling and peak-end effects
+  - Neglecting duration and adaptation
+  - Transition focus in decision utility
+  - Impact of focusing illusion on forecasts
+  - The mind's difficulty with processing time
+- Complex Nature of Happiness
+  - Complexity of the term "happiness"
+  - Scientific progress can lead to confusion
+  - Recognizing different dimensions of happiness
+  - Influence of expectations and adaptation on well-being
+- Examples of Errors and Insights
+  - Examples of errors in affective forecasting
+  - Influence of mood on responses
+  - Divorce and its impact on reported happiness
+  - Potential misjudgments in buying decisions
+  - Miswanting due to overestimating future experiences
 
+
+## Conclusions
+- Introduction and Overview
+  - Introduction of two characters: System 1 (fast thinking) and System 2 (slow thinking)
+  - Discussion of two species: Econs (theoretical) and Humans (real-world actors)
+  - Contrast between the experiencing self and the remembering self
+- Conflicts Between Remembering and Experiencing Selves
+  - Cold-hand study: Duration neglect and peak-end rule affecting choices
+  - Remembering self's bias towards memory quality over duration
+  - Duration neglect and peak-end rule originating in System 1
+  - Central role of time in human existence and its neglect by remembering self
+- Duration-Weighted Conception of Well-Being
+  - Importance of duration and peak-end rule in evaluating well-being
+  - Distorted reflections of experience due to remembering self's biases
+  - Duration-weighted perspective treats all moments equally
+  - Impact of memorable moments and their altering effect on subsequent experiences
+- Two Selves and Philosophical Implications
+  - Interaction between remembering self and experiencing self
+  - Conflict between interests of two selves
+  - Implications for philosophy and policies in medicine and welfare
+- Econs, Humans, and Rationality
+  - Definition of rationality as coherence
+  - Humans not fully rational as per economic model
+  - Challenges of libertarian approach and freedom in decision making
+  - Libertarian paternalism as a compromise: nudges to aid decisions
+- Behavioral Economics and Libertarian Paternalism
+  - Libertarian paternalism's appeal across political spectrum
+  - Example of Save More Tomorrow plan for improved savings
+  - Application of behavioral insights in government policies
+  - The Nudge Unit and influence on public policy
+- Role of System 1 and System 2
+  - Description of System 1 (automatic) and System 2 (effortful)
+  - Role of System 1 in intuitive thinking and skill acquisition
+  - System 2's limited capacity and potential for errors
+  - Difficulty in recognizing cognitive illusions and biases
+- Improving Decision Making
+  - Recognizing cognitive minefields and seeking System 2 reinforcement
+  - Challenges in applying rational thinking when needed most
+  - Organizations' advantage in avoiding errors through procedures
+  - Routine quality control and the importance of language in critique
+  - Importance of systematic training and precise language in decision making
+- Conclusion
+  - Trusting critics and embracing constructive criticism for better decisions
