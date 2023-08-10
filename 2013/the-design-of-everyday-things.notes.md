@@ -22,25 +22,25 @@ Author: Don Norman
   - Human-centered design principles lead to positive results and user satisfaction.
 
 ## The Psychology OF Everyday Actions
-- **Blaming Oneself for Failures and Misunderstandings:**
+- Blaming Oneself for Failures and Misunderstandings:
   - People often blame themselves for failures and difficulties when using technology or everyday objects.
   - This blame arises from a learned helplessness, where repeated failures lead to a belief in one's inability.
   - The phenomenon of learned helplessness can also contribute to technology and mathematics phobias.
-- **Importance of Design in Human-Machine Interaction:**
+- Importance of Design in Human-Machine Interaction:
   - Design plays a crucial role in how people interact with technology and machines.
   - A faulty conceptual model can lead to misunderstandings and errors in usage.
   - Positive design principles, such as affordances, mappings, feedback, and constraints, enhance user experience.
   - Designers should consider human behavior, flexibility, and creativity when creating products.
-- **Seven Stages of Action and Design Principles:**
+- Seven Stages of Action and Design Principles:
   - The seven stages of action (goal, plan, specify, perform, perceive, interpret, compare) provide insights into human interactions with systems.
   - Key design principles include discoverability, feedback, conceptual model, affordances, signifiers, mappings, and constraints.
   - Good design should ensure ease of use, clear feedback, and a strong conceptual model for users to understand and control systems.
-- **Avoiding Blame and Promoting Improvement:**
+- Avoiding Blame and Promoting Improvement:
   - Instead of blaming individuals, focus on identifying design deficiencies and communication breakdowns.
   - Recognize that different stages and groups may contribute to design problems.
   - Seek to understand the causes of design flaws and propose alternative solutions.
   - Appreciating good design helps in recognizing the mastery of the seven stages of action and design principles.
-- **Complex Systems and Holistic Design:**
+- Complex Systems and Holistic Design:
   - Interactions with products involve complex systems where design influences all stages of action.
   - A well-designed product considers users' requirements, intentions, and desires across all stages of interaction.
 
@@ -66,32 +66,32 @@ Author: Don Norman
   - Adapting to new systems takes time and effort.
 
 ## Knowing What to Do: Constraints, Discoverability, And Feedback
-- **Elevator Destination Control:**
+- Elevator Destination Control:
   - Destination control optimizes elevator efficiency.
   - Keypads are located outside elevators to input desired floors.
   - Passengers are assigned to the most efficient elevator for their destination.
   - Provides faster trips and fewer stops, even with different floors.
   - Change of destination can be made at the control box in the elevator hall.
-- **Resistance to Change in Conventions:**
+- Resistance to Change in Conventions:
   - People resist new approaches introduced to existing systems.
   - The metric system's benefits over English units are ignored by some countries.
   - The United States resists metric system adoption due to change difficulty.
   - Consistency in design is valuable, even if changes are slightly better.
   - Change is necessary for improvement, old conventions shouldn't hinder.
-- **Faucet Design Challenges:**
+- Faucet Design Challenges:
   - Designing faucets for usability and consistency is complex.
   - Various control schemes: dual control for hot/cold, temperature-only control, etc.
   - Mapping problems arise from controls' interactions.
   - Cultural conventions, like left/hot and right/cold, influence faucet design.
   - Standardization simplifies design and user experience, but can hinder innovation.
-- **Using Sound as Signifiers:**
+- Using Sound as Signifiers:
   - Sound provides information where visibility is limited.
   - Natural sounds are informative about interactions and conditions.
   - Artificial sounds in cars help alert pedestrians due to quiet electric vehicles.
   - Sound should indicate presence, orientation, and speed without annoyance.
   - Balancing standardization and individualization for safety and branding.
   - Electric cars' quietness prompts efforts to add artificial sounds.
-- **Regulation for Electric Vehicle Sounds:**
+- Regulation for Electric Vehicle Sounds:
   - Electric vehicles' silence poses risks for pedestrians, especially the blind.
   - Regulations and standards are developed to ensure safe electric vehicle sounds.
   - Criteria for electric vehicle sounds: alertness, orientation, lack of annoyance.
@@ -100,27 +100,27 @@ Author: Don Norman
   - The effort to add sound contrasts with past efforts to make cars quieter.
 
 ## Human Error? No, Bad Design
-- **Swiss Cheese Model of Accidents:**
+- Swiss Cheese Model of Accidents:
   - Accidents result from multiple failures lining up.
   - Human error is just one layer; systemic flaws are more significant.
   - Mitigation involves reducing holes, improving design, redundancy, and layers of defense.
   - Shift from blaming individuals to focusing on system improvement.
-- **Role of Human Error and Design:**
+- Role of Human Error and Design:
   - Not all accidents are due to human error; bad design plays a substantial role.
   - Competent individuals can err under conditions like fatigue, lack of training, etc.
   - Deliberate violations of procedures also contribute to accidents.
   - Proper design and training can significantly reduce accidents.
-- **Resilience Engineering:**
+- Resilience Engineering:
   - Complex systems (e.g., oil refineries, power systems) require resilience.
   - Resilience engineering aims for systems that respond well to problems.
   - Constant assessment, testing, and improvement of systems, procedures, and communication.
   - Major providers deliberately cause errors to test and improve system responses.
-- **Paradox of Automation:**
+- Paradox of Automation:
   - Automation reduces errors and increases efficiency in routine tasks.
   - Automation can fail unexpectedly in complex situations.
   - Automation can lead to complacency and reduced human vigilance.
   - Paradox: Automation is great for routine but fails in complex situations.
-- **Design Principles for Dealing with Error:**
+- Design Principles for Dealing with Error:
   - Collaborative approach: leverage human strengths and machine capabilities.
   - Minimize opportunities for errors and reduce their consequences.
   - Distribute operational knowledge between experts and non-experts.
@@ -128,22 +128,22 @@ Author: Don Norman
   - Embrace error, understand causes, and focus on assistance and improvement.
 
 ## Design Thinking
-- **Challenges and Benefits of Standardization:**
+- Challenges and Benefits of Standardization:
   - Standardization simplifies and harmonizes different systems.
   - Timing standards illustrate the need for careful standardization.
   - Standardize too soon or too late can lead to inefficiencies or high costs.
   - The metric system as an example of standardization struggles.
-- **Decimal Time and Metric Divisions:**
+- Decimal Time and Metric Divisions:
   - Current time division is arbitrary with 12-hour cycles.
   - Proposal for metric time with digital hours, minutes, and seconds.
   - Benefits of decimal time: simplicity and compatibility with decimal arithmetic.
   - Historical attempts at introducing decimal time, including Swatch's effort.
-- **Balancing Design and Security:**
+- Balancing Design and Security:
   - Balancing usability with secrecy, privacy, or protection.
   - Deliberately making things difficult for security purposes.
   - Examples of deliberately difficult designs: security systems, dangerous equipment.
   - Importance of understanding rules of good design even for difficult tasks.
-- **Design Challenges and Safety:**
+- Design Challenges and Safety:
   - Design's integration of technology, people, business, and culture.
   - Complex constraints and challenges for designers.
   - Constant consideration of products' usability by people.
