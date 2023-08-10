@@ -1,0 +1,2501 @@
+# The Etymologicon
+Author: Mark Forsyth
+
+## A Turn-up For The Books
+- Book and Odd Actions:
+  - Glorious insanities of the English language allow odd actions to books.
+  - Odd actions include cooking, criminal interaction, throwing, using as lavatory paper, and taking a leaf out.
+  - A "turn-up for the books" has nothing to do with the physical book, but rather with bookmakers.
+- Bookmaker Origins:
+  - Term "bookmaker" initially referred to someone who stuck books together.
+  - It later referred to writers producing numerous books with little concern for readers.
+  - Thomas More in 1533 commented on the abundance of new bookmakers.
+  - Modern sense: a person who takes bets; originated in Victorian Britain.
+- Turn-Up and Unexpected Luck:
+  - "Turn-up" refers to an unexpected slice of luck.
+  - In sports, a bookmaker has a "turn up" when an unbacked horse (with long odds) wins.
+- Odds and Betting:
+  - Horses with long odds (e.g., 1,000/1) are unlikely to win.
+  - Gamblers generally back favorites with short odds.
+  - Favorites are expected to win, and gamblers want a clear winner (a shoo-in).
+- Unfancied Horse Wins:
+  - An unfancied horse winning is a "turn-up for the books."
+  - Bookies avoid payouts when unlikely horses win.
+  - Bookmakers usually win; more bankrupt gamblers than bookies.
+- Zero-Sum Games and Pooling Money:
+  - In zero-sum games, winners take all from the pooled money.
+  - Pooling money originated in France, unrelated to swimming pools.
+  - It has connections to chickens and genetics.
+
+## A Game of Chicken
+- Medieval French Gambling:
+  - Simple gambling in medieval France involved friends, a pot of money, and a chicken.
+  - Equal amounts of money were placed in the pot.
+  - The chicken was positioned a reasonable distance away.
+  - Players took turns throwing stones at the chicken.
+  - The first person to hit the chicken won the money in the pot.
+- Origin of "Poule" and "Pool":
+  - The French called the game "poule" (chicken).
+  - The winner was known to have won the "jeu de poule."
+  - The term was transferred to card games, where the pot was referred to as "poule."
+  - English gamblers brought back the term as "pool" in the seventeenth century.
+- Pool and Billiards:
+  - The term "pool" persisted, referring to the money pot in card games.
+  - With the rise of billiards as a sport, gambling on it became known as "pool" (shooting pool).
+- Expansion of "Pool" Concept:
+  - The concept extended to pooling resources, cars (carpooling), and typists (typing pool).
+  - The term "pool" evolved beyond gambling contexts.
+  - Gene pool emerged as a concept, meaning all individuals are connected like bits of chicken.
+- Freedom from Gambling:
+  - The French chicken metaphorically broke free from the world of gambling.
+  - The term "pool" gained diverse meanings and applications beyond gambling.
+
+## Hydrogentlemanly
+- Origin of "Gene Pool":
+  - "Gene pool" originates from the ancient Greek word "genos," meaning birth.
+  - "Genos" is related to terms like generation, regeneration, and degeneration.
+- Genos and Language:
+  - "Genos" and its Latin counterpart "genus" are widely spread in English.
+  - "Generous" originally meant well-born and later evolved to mean munificent.
+  - "Gentle" (soft) and "gingerly" might also have connections to "genos."
+- Hidden Presence of Genos:
+  - "Genos" is present in various aspects of language and concepts.
+  - Chemists struggled to differentiate gases in the air during the 18th century.
+  - Oxygen, nitrogen, and other gases were named based on their properties.
+- Etymology of Oxygen, Nitrogen, and Argon:
+  - Oxygen, the water producer when burnt, is hydro-gen in Greek.
+  - Nitrogen, acid-maker, became oxy-gen.
+  - Argon, an inert gas, means lazy in Greek, reflecting its lack of reactivity.
+- "Gen" in Various Words:
+  - Many words containing "gen" relate to productive or reproductive aspects.
+  - "Genus" represents a group of reproducing things.
+  - "General" stems from "genus" and implies command, leading to terms like "general" and "genocide."
+- Private and Gonads:
+  - "Privates" (a euphemism) in the military context traces back to "genos."
+  - "Privates" related to gonads, which also has its origins in "genos."
+
+## The Old And New Testicle
+- Testicles and Testaments:
+  - Testicles relate to the Old and New Testaments, part of the Bible.
+  - "Testis" in Latin means witness, which ties to testimony.
+- Words Derived from "Testis":
+  - English inherits words from "testis" root: protest, detest, contest, and testicle.
+  - Testicles testify to a man's virility, often explained as proof of masculinity.
+- Ancient Oaths and Swearing:
+  - Theories suggest ancient oaths were sworn with hands on testicles.
+  - Book of Genesis mentions an oath with the hand under Abraham's "soft bits."
+- Diverse Synonyms for Testicles:
+  - Numerous words for testicles exist in various languages: bollocks, balls, cullions, cojones, goolies, etc.
+  - Avocado's name originates from the Aztec word for testicle ("ahuakatl").
+- Orchids and Codpieces:
+  - Orchid's root resembles a testicle, linked to Greek word "orchis" (testicle).
+  - Earth's origin from the same root as orchid implies it's like a giant testicle.
+  - "Codpiece" has ties to "cod" (testicle) and leads to terms like "codswallop" and "codpiece."
+- Codpieces on Keyboards:
+  - Two codpieces are present on computer keyboards.
+  - The term "codpiece" on keyboards has an interesting and unusual story.
+
+## Parenthetical Codpieces
+- Codpieces and Gaulish Origins:
+  - Computer keyboard has symbols resembling codpieces, inspired by ancient Gaulish term "braca" (trousers).
+  - Gaulish language survived due to Roman lack of trousers (wore togas).
+  - Gaulish "braca" led to early French "brague" (trousers) and "braguette" (codpiece).
+- Codpieces and Armor:
+  - Codpieces were significant in armor, providing protection to knights.
+  - Henry VIII's codpiece was a bold mix of efficiency and obscenity.
+  - It offered protection and was impressive enough to intimidate enemies.
+- Architectural "Braggets" and "Brackets":
+  - Architectural supports resembling codpieces were known as "braggets."
+  - A similar structure now called a "bracket" connects horizontal and vertical elements.
+  - Captain John Smith's spelling as "brackets" in a dictionary influenced its usage.
+- Pocahontas and Captain John Smith:
+  - Pocahontas, a Powhatan princess, had a connection with Captain John Smith.
+  - Smith was captured by the tribe but was saved by Pocahontas.
+  - The romantic story between them is embellished but their fondness is evident.
+- Bracket Punctuation:
+  - Punctuation brackets derived their name from architectural brackets.
+  - William Whiston's book "Primitive Christianity Revived" used brackets for translations.
+  - Modern keyboard has symbols [] resembling brackets or codpieces.
+
+## Suffering For my Underwear
+- Legend of Pantaleon:
+  - The legend involves a likely fictional character, possibly named Pantaleon.
+  - He was Emperor Maximianus' physician and a Christian.
+  - Emperor ordered Pantaleon's execution due to his faith.
+- Unsuccessful Execution Attempts:
+  - Various methods of execution failed:
+    - Burning, but the fire went out.
+    - Molten lead, but it was cold.
+    - Stone and sea, but the stone floated.
+    - Wild beasts were tamed by him.
+    - Hanging rope broke.
+    - Sword bent during beheading, and he forgave the executioner.
+- Name and Patronage:
+  - His forgiving nature earned him the name "Pantaleon," meaning All-Compassionate.
+  - Became one of the megalomartyrs of Greece.
+  - Saint Pantaleon became patron saint of Venice by the tenth century.
+- Commedia Dell'Arte and Pantalone:
+  - Commedia Dell'Arte featured recurring characters, including Pantalone.
+  - Pantalone portrayed a stereotypical Venetian in comedic plays.
+  - He was a merchant, miser, lustful old man, and wore one-piece breeches.
+- Evolution of "Pantaloons" to "Pants":
+  - Pantalone's attire, long breeches, were called "pantaloons."
+  - "Pantaloons" was shortened to "pants."
+  - "Pants" referred to underwear; underpants also derived from it.
+  - "Underpants" further shortened to "pants."
+- Symbolism and Conclusion:
+  - Pants, named after the all-compassionate Saint Pantaleon, hold symbolic significance.
+  - This means that underwear is linked to an early Christian martyr.
+
+## Pans
+- Linguistic Connections:
+  - "Pants" and "panties" originate from Saint Pantaleon.
+  - St. Pantaleon is related to St. Pancras and Pandora.
+- Ubiquitous "Pan" Element:
+  - "Pan" has broad usage across various words.
+  - Cinematic "panning" comes from the Greek word related to underpants.
+  - Cinematic panning is related to the Panoramic Camera term.
+- Panacea and Pandemic:
+  - "Panacea" refers to a universal cure for all ailments.
+  - "Pandemic" refers to a global epidemic affecting all peoples.
+- Pantophobia and Panpathy:
+  - "Pantophobia" is an extreme fear of everything.
+  - "Panpathy" describes universal feelings shared by everyone.
+- Context-Specific Etymology:
+  - Etymology doesn't have strict rules; meanings can differ.
+  - Kitchen "pans" and "pots" are unrelated to panoramas or pan-Africanism.
+  - "Panic" refers to fear induced by the Greek god Pan in dark woods.
+- Pantheon and Pandemonium:
+  - The Pantheon in Rome dedicated to all gods became a Christian church.
+  - Pandemonium signifies a place of demons and chaos.
+  - Originally, it referred to a palace in Hell; coined by John Milton.
+
+## Miltonic Meanders
+- Paradise Lost and Milton's Work:
+  - Paradise Lost, an epic poem by John Milton, describes the fall of Satan and humanity.
+  - Voltaire's description of it as "boring" is contradicted.
+  - The poem centers on Adam, Eve, Satan, and the fall from Heaven to Earth.
+- Origin of "Pandemonium":
+  - Satan in the poem builds a palace called Pandemonium for fallen angels.
+  - This word originates from "All the Demons," and signifies chaos.
+  - Modern use refers to noisy or chaotic situations.
+- Milton's Language Innovations:
+  - Milton was inventive with language; he coined many words.
+  - Words like "impassive," "jubilant," "loquacious," and "Satanic" were his creations.
+  - Terms like "debauchery," "depravity," and "extravagance" were coined by him.
+  - He even invented "wording," "awe-struck," "stunning," and "terrific."
+  - He created words for activities he disapproved of, reflecting his Puritan background.
+- Milton's Influence on Quotations:
+  - Many phrases we use today originate from Milton's works.
+  - 'Trip the light fantastic,' 'all ear,' and 'advantage' (in sports context) were coined by him.
+  - Milton's words inspired David Bowie's 'Space Oddity' and themes in pop culture.
+- Milton's Contribution to Space Concept:
+  - Milton applied "space" to describe the vastness between stars.
+  - He introduced the idea of space producing new worlds.
+  - Milton's influence can be seen in "2001: A Space Odyssey" and other works.
+- Inventing "Silver Lining":
+  - The phrase 'silver lining' was coined by Milton.
+  - It's found in the lines: "Turn forth her silver lining on the night?"
+  - Influences modern usage and even pop music.
+- Quotationist Nature and New Directions:
+  - Quotations are common in this chapter, including a term "quotationist" coined by Milton.
+  - Let's move to a new topic and quote: 'At last he rose and twitched his mantle blue, / Tomorrow to fresh woods and pastures new.'
+
+## Bloody Typical Semantic Shifts
+- Clouds and the Sky:
+  - In England, clouds and the sky are often synonymous due to the miserable weather.
+  - The word "sky" originates from the Viking word for "cloud."
+  - Word meanings can shift due to changing cultural contexts.
+- Dreams and Happiness:
+  - The word "dream" comes from the Anglo-Saxon for "happiness."
+  - This reveals that people have always desired better things, but happiness remains elusive.
+- Procrastination and Time:
+  - Procrastination is a common human trait, exemplified by saying tasks will be done "in a moment."
+  - "Soon" used to mean "now," but its meaning evolved over time due to usage.
+  - "Instantly" faces a similar evolution in meaning.
+- Changing Connotations of Words:
+  - People can overuse words, changing their power and significance.
+  - "Naughty" used to have a more serious connotation but has been diluted over time.
+  - "Naughty" originally meant "no-human" and evolved to imply mischievous behavior.
+- Word "Probably" and Certainty:
+  - The word "probably" has a complex history.
+  - The root "probabilis" in Latin meant something that could be proved by experiment.
+  - People tend to be more certain than they should be, leading to overuse of "probably."
+  - In English, "probably" lost some of its original strength, now meaning "likely."
+- Origin of "The Proof of the Pudding is in the Eating":
+  - "Probable" shares the same root as "prove."
+  - The saying "the proof of the pudding is in the eating" reflects this connection.
+
+## The Proof of The Pudding
+- Probable, Prove, and Testing:
+  - "Probable" and "prove" share a Latin root, "probare."
+  - Over time, "probable" evolved to mean "likely," while "prove" gained strength.
+  - The original meaning of "probare" involved testing theories.
+- Testing and Proofreading:
+  - "Proving" theories involved testing them, ensuring their validity.
+  - A "proof copy" given to a proofreader is tested for errors.
+  - A proofreader scrutinizes the copy for misspellings and grammatical mistakes.
+- Exception Proving a Rule:
+  - An exception can "prove" a rule by putting it to the test.
+  - The test may confirm the rule or reveal its inadequacy.
+- Proving Ground and Deadly Weapons:
+  - A proving ground tests weapons to ensure their effectiveness.
+  - The ground is where a weapon's capabilities are verified.
+- Proving a Pudding and Testing Desserts:
+  - "The proof of a pudding is in the eating" reflects the old sense of "prove."
+  - Ancient puddings were made from animal entrails stuffed with meat and grease.
+  - A medieval recipe for "Porpoise Pudding" shows its origins.
+  - Puddings were essentially a peculiar type of sausage.
+- Glamorous People and Sausage Poison:
+  - The text teases a connection between glamorous individuals and "sausage poison."
+
+## Sausage Poison in Your Face
+- Origin of Sausage and Botulism:
+  - The Latin term for sausage is "botulus."
+  - From "botulus," English gets words like "botuliform" (sausage-shaped) and "botulism."
+- Botulism: A Deadly Disease:
+  - Botulism is a disease caused by consuming contaminated sausages.
+  - Dr. Justinus Kerner identified botulism as a paralyzing ailment affecting patients who consumed cheap meat sausages.
+  - Kerner associated the disease with a toxin called "botulinum toxin."
+- Discovery of Botulinum Toxin:
+  - Bacteria shaped like sausages, named Clostridium botulinum, were identified as the cause of botulism.
+  - Botulinum toxin could now be manufactured and used for medical purposes.
+- Botox: From Poison to Cosmetic Use:
+  - A minuscule amount of botulinum toxin can cause paralysis and death.
+  - Botulinum toxin, when injected in small doses, can treat facial spasms and wrinkles.
+  - The use of botulinum toxin for cosmetic purposes gained popularity, making people look younger temporarily.
+- Transformation to "Botox":
+  - Botulinum toxin evolved into "Botox" to sound more glamorous and appealing.
+  - Botox injections became trendy, especially among celebrities, to reduce signs of aging.
+- Toxophilite: A Word Play:
+  - The text hints at the word "toxophilite."
+  - The relationship between "toxophilite" and the previous topic is left as a question for the reader.
+
+## Bows And Arrows And Cats
+- Toxophilite and Archery:
+  - A toxophilite is someone who loves archery.
+  - "Toxin" comes from "toxon," the Greek word for bow, and "toxic" from "toxikos," the Greek word for archery-related.
+- Archery in Ancient Greece:
+  - Ancient Greeks dipped arrowheads in poison during warfare.
+  - "Toxon" and toxin became linked, reflecting the connection between bows and poison.
+- Ubiquity of Archery:
+  - Archery was widespread, leading to surnames like Archer, Fletcher (arrow-maker), and Bowyer (bow-maker).
+  - In 1363, Edward III mandated weekly archery practice for men aged 14 to 60.
+- Archery Terminology:
+  - "Upshot" refers to the shot deciding an archery contest.
+  - Historical records mention King Henry VIII's sporting losses and "one upshot won."
+- "Enough Room to Swing a Cat":
+  - Two theories on the origin of this phrase: whipping with a cat-o'-nine-tails or testing marksmanship.
+  - Tudor archers swung a cat in a bag to challenge their aim, giving rise to the phrase.
+- "Letting the Cat Out of the Bag":
+  - Medieval markets used sacks for piglets, leading to "pig in a poke" cons.
+  - Discovering the trick led to the phrase "letting the cat out of the bag."
+- Origin of "Point Blank":
+  - "Point blank" doesn't refer to the usual "blank" in English; it comes from the French "blanc," meaning white.
+  - "Bullseye" was later introduced; earlier, the central target spot was called the white or blank.
+- Archery Techniques: Aiming High:
+  - Aiming directly at the blank target results in the arrow hitting below due to gravity.
+  - Archers aim above the blank to counteract this effect.
+  - The term "aim high" means aiming above the target for accurate hits.
+- Point Blank Range:
+  - In close proximity to the target, archers can aim straight at the blank or white spot.
+  - This specific range is referred to as "point blank range."
+
+## Black And White
+- Etymology and Color Confusion:
+  - Etymologists struggle to distinguish between black and white.
+  - Medieval English used "blac" and "blacke" to mean both "dark" and "pale."
+  - "Black" in Old Germanic could mean burnt or burned, creating confusion.
+  - "Black" and "blank" became opposites, contributing to the confusion.
+- Two Theories:
+  - Theory 1:
+    - Old Germanic word "black" meant burnt.
+    - Debate whether burning was bright or turned things black.
+    - Resulted in confusion; "black" could mean pale or dark.
+    - English settled on usage; French adopted and modified it to "blank."
+  - Theory 2:
+    - Old German word "black" meant bare, void, empty.
+    - "Blankness" might be original sense; colors interpreted from blank.
+    - "Bleach" and "bleak" likely related, meaning pale or white.
+- Linguistic Nonsenses:
+  - Linguistic anomalies are more common than expected.
+  - "Down" means up in the context of hills; "downhill" is going downdown.
+- Lotteries and Blanks:
+  - Historical lottery process involved tickets in name and prize jars.
+  - "Blank" lottery tickets were the opposite of winning prizes.
+  - In 1653, King James I's court likened the lottery to life's unpredictability.
+- Blank Checks and Lotteries:
+  - "Blank" lottery tickets opposed "blank cheques" (British) or "blank checks" (American).
+  - American spelling of "blank checks" is older than British spelling.
+
+## Hat Cheque Point Charlie
+- Derivation from Shah:
+  - Almost every English word derives from "shah."
+  - Persia's rulers were shahs; some happy, some dead or crippled (shah mat in Persian).
+- Path through Languages:
+  - Shah became "shah" in Arabic.
+  - In Vulgar Latin, it turned into "scaccus."
+  - In vulgar French, it became "eschec" (plural: esches).
+  - Transformed into "chess" in English, due to the importance of the king in the game.
+- Chess and Finance:
+  - Chessboards used for arranging; King Henry II used a similar surface for accounts.
+  - His financial surface, resembling a chessboard, was called the Escheker.
+  - The Chancellor of the Exchequer controls government finances, influenced by "Escheker."
+  - S to X change in "Exchequer."
+- "Check" as Control:
+  - In chess, "check" restricts options; "checkmate" if not resolved.
+  - "Check" concept extended to holding back or controlling.
+  - Government is held in check through checks and balances.
+  - Clerk of the Cheque controlled accounts, prevented fraud.
+- Checks and Cheques:
+  - Checks used to prevent dishonesty, e.g., at hat-checks.
+  - Bank checks (cheques) introduced to replace promissory notes.
+  - "Blank cheque" has no "check," but it's not recorded as "bouncing cheque" until 1927.
+  - "Check off," "check up," "checkout" entered the language.
+- Landmarks and Czech Republic:
+  - Checkpoints used for navigation; checkpoint concept from flying.
+  - Checkup used for medical examination.
+  - All due to ancient Persia's shahs.
+- Not Related to Czech Republic:
+  - The Czech Republic is ruled by a president, not a shah.
+  - Play on words: Ivan Lendl's wife could have a "Czech mate."
+
+## Sex And Bread
+- Etymology's Twist:
+  - Freud linked everything to sex, while etymology finds links to food.
+- Mating and Sharing:
+  - Mating originally meant sharing food (meat).
+  - Companion meant sharing bread (from Latin "panis").
+  - Old English "hlaf" (bread) led to "loaf."
+  - Hlafward (bread-guardian) and Hlafdige (bread-kneader) became "lord" and "lady."
+- Kurgan Pit Burial Culture:
+  - Kurgans buried in pits, leading to their name.
+  - They likely spoke Proto-Indo-European (PIE).
+  - Spread of Kurgans across Europe and Asia led to language variations.
+- Language Transformations:
+  - Different accents led to mutually incomprehensible languages.
+  - Similar concepts evolved with unique words due to accents.
+  - Proto-Indo-European word "seks" transformed across languages.
+- Meaning Changes:
+  - Proto-Indo-European "neogw" meant unclothed.
+  - In German, it became "naked."
+  - In Latin, it became "nude."
+  - Persian use in cooking made it mean "bread" (nan).
+- Unique Bread Names:
+  - Ciabatta (Italian) means slipper.
+  - Matzoh means sucked out.
+  - Pumpernickel means Devil-fart.
+- Pumpernickel and Partridge Connection:
+  - Leads to the question: What does Pumpernickel have to do with partridge?
+
+## Concealed Farts
+- Earl of Oxford's Embarrassment:
+  - Earl of Oxford's fart incident embarrassed him.
+  - He traveled for 7 years due to shame.
+  - Queen Elizabeth's witty response: "I had forgot the Fart."
+- Fart Phrases and Origins:
+  - Peter Out:
+    - Origins uncertain.
+    - Possibly from French "peter" (fart).
+    - Also related to "petard" (little explosive).
+    - Misinterpretation in Hamlet's quote.
+  - Fizzle Out:
+    - Used to mean farting.
+    - Delicately described as "an escape backwards."
+    - "Fice" derived from Old English "fist" (fart).
+    - "Feisty" evolved from "feist" (small dog).
+- Partridge and Sound:
+  - Word "partridge" from Latin perdix.
+  - Perdix derived from Greek verb "perdesthai" (fart).
+  - Partridge's wingbeats sound like farting.
+- Carminative and Humours:
+  - Carminative:
+    - Term for foods causing flatulence.
+    - A polite word for gas-inducing foods.
+  - Belief in Curative Flatulence:
+    - Based on humours theory.
+    - Flatulence seen as balancing bodily substances.
+    - Fart likened to comb through wool.
+    - Latin "carmen" (wool card) related to heckling.
+
+## Wool
+- Heckling and Wool:
+  - Heckling: removing knots from wool.
+  - Sheep's wool needs combing before use.
+  - Metaphorically applied to orations.
+  - Originated in the Scottish town of Dundee.
+  - Hecklers in Dundee were radical wool workers.
+  - Engaged in collective bargaining, forming trade unions.
+  - Politically active, discussed news daily.
+- Language and Wool:
+  - Wool-related terms pervasive in language.
+  - Examples: mobile phones, woolly messages.
+  - Connection between "text" and "textile."
+  - Roman orator Quintilian's influence.
+  - Weaving words, creating fabric of speech.
+- Papyrus and Sheepskins:
+  - Papyrus used for writing, similar to paper.
+  - Paper initially invented in China.
+  - First English paper mill in 1588.
+  - Sheepskins used as alternative to papyrus.
+  - Making paper from sheepskins: process explained.
+- Sheepskin Paper and Books:
+  - Folding sheepskin pages to create books.
+  - Different sizes: folio, quarto, octavo.
+  - Caxton's printing press used sheepskin.
+  - Sheepskin size influenced book dimensions.
+- Wool in Language:
+  - Wool-related terms in various contexts.
+  - Muslim mystics called Sufis due to woolen garments.
+  - Burlesque dancers named from Latin "burra" (wool tuft).
+  - Connections to bureaus, bureaucracies.
+  - Wool types: cashmere (Kashmir) and Angora (Ankara).
+  - Turkey connection to Christmas tradition.
+
+## Turkey
+- Turkeys and Misnaming:
+  - Turkeys are native to America and were domesticated by Aztecs.
+  - Named after a country in Asia Minor due to confusion.
+  - Many animals have misleading names.
+  - Guinea pigs from South America, not Guinea.
+- Helmeted Guinea Fowl:
+  - Helmeted guinea fowl, native to Madagascar.
+  - Imported to Europe by Turkey merchants.
+  - Confusion with turkeys led to naming mix-up.
+- American Turkeys:
+  - Meleagris gallopavo, native to America.
+  - Confusion between helmeted guinea fowl and turkeys.
+  - American bird also called turkey due to mistaken origin.
+- Language and Food Names:
+  - Turks call turkey "hindi" thinking it's Indian.
+  - French call turkey "dindon" or "d'Inde" (from India).
+  - Turkey introduced to England in the 1520s, became Christmas meal by 1570s.
+- Talking Turkey and Cold Turkey:
+  - "Talking turkey" joke involving a turkey and buzzard.
+  - "Talking cold turkey" means being direct.
+  - "Cold turkey" later used to describe abrupt drug withdrawal.
+- Cold Turkey and Cold Shoulder:
+  - "Cold turkey" not related to food but to abruptness.
+  - Giving someone the "cold shoulder" has food-related origin.
+
+## Insulting Foods
+- Types of Guests:
+  - Welcome and unwelcome guests.
+  - Host doesn't explicitly reveal guest's status.
+  - Host's actions may indicate guest's welcome status.
+- Indicators of Welcome:
+  - A host cooking a hot dinner.
+  - Providing a fresh meal signals a welcome guest.
+- Indicators of Unwelcome:
+  - Leftovers or cold food suggests unwelcome guest.
+  - Example: Cold shoulder of mutton.
+- Humble Pie:
+  - Made using the innards (umbles) of a deer.
+  - Recipe involves boiling, chopping, adding suet, apples, currants, sugar, seasoning.
+  - Recipe from Nathan Bailey's Dictionarium Domesticum (1736).
+- Umbles and Humble:
+  - Umbles are the lesser, undesirable parts of a deer.
+  - Wealthy dine on venison after stag-hunting.
+  - Servants receive umble pie, considered inferior.
+
+## Folk Etymology
+- Folk Etymology:
+  - Adding or changing letters in unfamiliar words for clarity.
+  - Example: Umble pie changed to humble pie.
+- Sideling:
+  - A term for someone standing beside an important person.
+  - Origin became forgotten, thought to be a verb participle.
+  - Led to the invention of a new verb.
+- Dormeuse and Dormouse:
+  - French term dormeuse (she who sleeps) for a rodent.
+  - English changed it to dormouse, despite being a different creature.
+  - Folk etymology due to association with familiar words.
+- Folks and Fairies:
+  - Belief in fairies known as the Folks.
+  - Evolution of language led to the disappearance of the term.
+  - Name "folks' glove" changed to foxglove due to misunderstanding.
+- Other Folk Etymologies:
+  - Crevis became crayfish, cucaracha became cockroach, mangus became mongoose.
+  - Butterfly possibly related to butter or its yellow color.
+- Butterflies and Poo:
+  - Butterflies associated with butter churns, yellow color.
+  - Speculation that name might be linked to butterfly poo.
+- Dutch Influence:
+  - Dutch term boterschijte for butterfly (literal: butter-shitter).
+  - Example of naming based on characteristics.
+  - Poppycock originated from Dutch word pappe-cack.
+- Connection to Psychiatry and Pasta:
+  - The text hints at a connection between butterflies, psychiatry, and pasta.
+
+## Butterflies of The World
+- Butterfly Names:
+  - Worldwide languages put effort into butterfly names.
+  - Malay forms plurals by repeating nouns, e.g., rama-rama rama-rama.
+  - Malay repeats verbs to intensify, e.g., suka suka.
+  - Italian farfalle (butterflies) used for butterfly-shaped pasta.
+  - Outside Italy, farfalle pasta called bow-ties, resembling butterflies.
+  - Russians call bow-ties and butterflies "babochkas" (like babushkas).
+- Norwegian and French Names:
+  - In bleak Norwegian winter, butterflies emerge in summer, called somerfogl.
+  - French used Latin "papilio" for butterflies, then applied "papillon" to tents (pavilions).
+  - Detailed and beautiful names for butterflies, unlike other insects.
+- Butterflies as Souls:
+  - Butterflies symbolize human souls in various cultures.
+  - Maoris and Aztecs believed butterflies were souls in afterlife.
+  - Aztec mythology: Itzpapalotl (Obsidian Butterfly), freed by Tezcatlipoca.
+  - Ancient Greeks: Psyche (butterfly) symbolized the soul.
+  - "Cupid and Psyche" allegorical poem, origin of psychoanalysis.
+
+## Psychoanalysis And The Release of The Butterfly
+- Origin of Psychological Terms:
+  - Creating something allows naming it; applies to psychology.
+  - Sigmund Freud named psychoanalysis, liberation of the butterfly.
+  - Analysis means release in Greek, related to the butterfly concept.
+- Jung and Naming:
+  - Carl Jung, Freud's protégé, had non-sexual dream.
+  - Jungian terms: complex, introvert, extrovert, synchronicity, ambivalent.
+  - Jung invented his own psychoanalytic approach, new terms.
+- Richard von Krafft-Ebing:
+  - Krafft-Ebing pioneered writing about non-respectable sexual behavior.
+  - "Psychopathia Sexualis" (1886) contained scandalous case histories.
+  - English translation introduced terms: homosexual, heterosexual, etc.
+  - Sadism from Marquis de Sade, infamy associated with sadism.
+  - Leopold von Sacher-Masoch introduced term masochism.
+  - Masoch's work "Venus in Furs" described power dynamics and control.
+  - Krafft-Ebing named masochism based on Sacher-Masoch's writings.
+  - Masoch probably disliked being associated with the term.
+
+## The Villains of The Language
+- History and Language:
+  - History is often written by the victors.
+  - Language takes names and applies them to various contexts.
+- The Word "Quisling":
+  - Vidkun Quisling, Norwegian, tried to surrender to Nazis in WWII.
+  - Term "Quisling" used to denote traitor, invented by The Times.
+  - Linguistically effective: sounds slippery, visually notable with Q.
+- Language's Unjust Side:
+  - Some names become associated with negative connotations.
+  - Examples: Guillotine, Derrick, Jack Robinson.
+  - Language not always aligned with justice.
+
+## Two Executioners And a Doctor
+- Execution and Names:
+  - Hanging used to be a common punishment for various crimes.
+  - Executioners and their methods became associated with various inventions.
+- Thomas Derrick and Jack Robinson:
+  - Thomas Derrick was a rapist and an executioner.
+  - He executed the Earl of Essex using an innovative rope system.
+  - Derrick's name became associated with cranes used for loading goods.
+- "Jack Robinson" Phrase:
+  - Origins of "before you can say Jack Robinson" are debated.
+  - Theories include a French umbrella term and an eccentric Londoner.
+  - Third theory links it to Sir John Robinson, the constable of the Tower of London.
+- Executioner Names:
+  - Derricks and spans of time were named after executioners.
+  - Guillotine named after Dr. Joseph-Ignace Guillotin, though he wasn't the inventor.
+  - Guillotin advocated for humane execution methods during the French Revolution.
+  - Guillotin's name was humorously linked to the new device, and he became associated with it.
+- Eponymous Inventions:
+  - Sometimes it's unclear which came first, the word or the person.
+  - Example: Thomas Crapper, who's associated with the invention of the toilet.
+
+## Thomas Crapper
+- Flushing Lavatories and Names:
+  - Flushing lavatories were invented by Sir John Harington, not Thomas Crapper.
+  - Harington's invention wasn't widely adopted due to the lack of proper infrastructure.
+  - Edward Jennings patented a practical lavatory design in 1852, benefiting from sewer systems.
+- Thomas Crapper:
+  - Thomas Crapper was born in 1836 and started an apprenticeship as a plumber in 1853.
+  - The mid-1800s were a prosperous time for toilet traders due to the new sewer systems.
+  - Crapper established his own company, designed high-quality toilets, and introduced innovations.
+  - His lavatories were prestigious, used in Westminster Abbey and the Prince of Wales' residence.
+- Origin of the Word "Crap":
+  - The myth suggests "crap" was coined for Thomas Crapper, but this is not accurate.
+  - The word "crap" can be traced back to a poem by J. Churchill in 1801, long before Crapper's time.
+  - Crapper's name is associated with lavatories, but he didn't cause the word "crap."
+- Crapper and American Usage:
+  - Thomas Crapper associated himself closely with lavatories and spread his company name.
+  - In America, the word "crap" wasn't referenced before the First World War.
+  - After WWI, "crap" and related terms appeared in the US, possibly due to exposure to Crapper's name.
+  - While Crapper didn't invent the word, he contributed to its popularity.
+
+## Mythical Acronyms
+- Origins of "Shit" and "Fuck":
+  - The story of "shit" being an acronym for "Store High In Transit" on manure bags is false.
+  - "Shit" traces back to Old English "scitan," Proto-Germanic "skit," and Proto-Indo-European "skhei," meaning to separate or divide.
+  - The etymological connection leads to words like "shed" and "schism."
+  - The Latin root "scire" gave rise to "scientia" (knowledge) and "science," making science etymologically "shit."
+- Myth of "Fuck" as a Legal Term:
+  - The myth that "fuck" stands for "For Unlawful Carnal Knowledge" is untrue and not a legal term.
+  - The word "fuck" was used in a fifteenth-century poem mentioning monks who might have acquired dirty habits.
+  - The term "fuck" was also used to describe bishops' behavior in the sixteenth century.
+- Other Origins of "Fuck":
+  - Some scholars trace "fuck" to earlier roots, like "John Le Fucker," but these claims are often unsubstantiated.
+  - The word "fuck" likely had origins in usage before being attributed to specific individuals.
+- Acronyms and Myths:
+  - Many acronyms, such as "posh" (Port Out Starboard Home) and "wog" (Wily Oriental Gentleman), are myths.
+  - The term "wog" was not derived from the initials of a cabal conspiring against Charles II.
+  - Some acronyms do exist, but not always where expected.
+- Hidden Acronyms:
+  - There's a reference to an acronym hidden in "The Sound of Music" related to John the Baptist.
+
+## John The Baptist And The Sound of Music
+- John the Baptist and His Influence:
+  - About 2000 years ago, Elizabeth became pregnant, and her husband lost his voice until their child was born.
+  - The child, John, grew up and rebuked people, even attempting drownings, yet he was revered as holy.
+  - He was called John the Baptist due to his actions and reputation.
+- Evolution of "Ut queant laxis" Prayer:
+  - Seven hundred years later, an Italian named Paul the Deacon composed a verse prayer to John the Baptist.
+  - The prayer was later set to music, and its melody climbed in pitch with each line.
+  - The short syllable "Ut" in the prayer was changed to "Do," forming the sequence Do, re, Mi, fa, So, la, Ti, Do.
+  - "Si" was changed to "Ti" to avoid repetition, leading to the widely recognized musical scale.
+- Guido of Arezzo's Invention:
+  - The shortening of the hymn to John the Baptist was credited to Guido of Arezzo.
+  - "Do" became the first note of the scale, while "re," "Mi," and others followed.
+- Misconceptions from "The Sound of Music":
+  - The song "Do-Re-Mi" in "The Sound of Music" inaccurately represents the origins of the musical scale.
+  - "Do" was not a deer, "re" not a drop of golden sun.
+- Survival of "Ut" and "Gamma":
+  - The lowest note of the scale was known as "gamma" or "ut."
+  - The term "gamma-ut" evolved to "gamut," referring to the entire musical scale.
+  - The term "gamut" comes from church music and its notes, akin to organized crime, humorously associated with a church organ.
+
+## Organic, Organised, Organs
+- Organic Food and Etymology:
+  - The term "organic food" doesn't refer to food grown in a church organ but is derived from "organon," an ancient Greek word for tools, instruments, or body parts.
+  - Originally, an "organ" meant any musical instrument, and in the ninth century, churches began installing pipe organs.
+- Evolution of the Term "Organ":
+  - Over time, the term "organ" came to specifically refer to the musical instrument found in churches.
+  - The Greek meaning persisted, referring to things worked with, including parts of the body.
+  - The human body's organs perform specific functions, creating the efficiency of a complex organism.
+- Organisation and Organism Metaphor:
+  - An organism consists of organs that work together harmoniously to perform various functions.
+  - In a metaphorical sense, a group of people with distinct roles can be thought of as acting like the organs of a body, forming an organization.
+- Shift in Meaning and Organised Crime:
+  - The concept of "organizing" individuals into a structured group emerged in the sixteenth century.
+  - "Organisation" was used metaphorically during this time to describe harmonious working together.
+  - "Organised crime" gained its modern meaning in 1929, referring to criminal groups working in an organized manner, exemplified by Al Capone's leadership of the mob.
+
+## Clipping
+- Clipping in Language:
+  - Clipping is a linguistic phenomenon where longer phrases are shortened to form new words.
+- Examples of Clipped Words:
+  - Taxi cab → Taximeter cabriolet
+  - Fan → Fanatic
+  - Bus → Voiture omnibus
+  - Wilco → Will comply
+  - Van → Caravan
+  - Sleuth → Sleuthhound (a type of sniffer dog)
+  - Butch → Butcher
+  - Cute → Acute
+  - Sperm whale → Spermaceti whale
+  - Film buff → Buffalo
+
+## Buffalo
+- Buffalo's Curious Etymology:
+  - The word "buffalo" is one of the most curious words in the English language.
+  - Ancient Greek "boubalos" referred to an African antelope; later changed to "buffalo" for various domesticated oxen.
+  - European and North American buffalo (bison) are biologically distinct, but the name "buffalo" stuck for bison.
+- Buff as Leather and Polishing:
+  - European oxen referred to as "buffalo," name shortened to "buff."
+  - Buff leather used for polishing, contributed to shining appearance.
+  - People who spend time at the gym referred to as "buff" due to their muscular appearance.
+- Buff Leather and the Term "In the Buff":
+  - Buff leather resembles human skin, giving rise to the term "in the buff" for being naked.
+- Firefighters and Buffs:
+  - New York firefighters wore buff uniforms, referred to as "buffs."
+  - Enthusiastic schoolboys watching fires became known as "buffs."
+  - The term "buff" extended to enthusiasts of various subjects (e.g., film buffs, music buffs).
+- Buffalo, NY and Linguistic Fun:
+  - Buffalo, NY, might have its name from "beau fleuve," French for beautiful river.
+  - Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo:
+    - A linguist's play on words to demonstrate grammar.
+    - Interpretation: Bison from Buffalo that are bullied by other bison from Buffalo, in turn, bully more bison from Buffalo.
+- Longest One-Word Correct Sentence:
+  - "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is the longest grammatically correct sentence using only one word.
+- Language Play and Word Buffs:
+  - The complexity of language play and word usage fascinates word enthusiasts.
+
+## Antanaclasis
+- Antanaclasis in Language:
+  - The sentence "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is antanaclasic, using the same word in different senses.
+  - Antanaclasis is a rhetorical device that's been used since language's inception.
+- Examples of Antanaclasis:
+  - The Romans used antanaclasis in the sentence "Malo malo malo malo," meaning "I would rather be in an apple tree than be a bad boy in trouble."
+- Chinese Language Complexity:
+  - Chinese is highly inflected, and the way a word is said can change its meaning.
+  - Chinese-American linguist created a poem showcasing antanaclasis in Chinese.
+- Chinese Antanaclasis Poem:
+  - "Shíshì shīshì Shī Shì, shì shī, shì shí shí shī."
+  - The poem plays with variations in pronunciation to create different meanings.
+  - It involves lions, a poet named Shi, and his interaction with ten lions in a stone den.
+- Challenge and Explanation:
+  - The poem's antanaclasis is complex and challenging to understand.
+  - It demonstrates the use of the same word with different meanings.
+- Sense Through Explanation:
+  - Like the "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" sentence, the Chinese poem doesn't make sense without explanation.
+
+## China
+- Difficulty in Pronouncing Chinese Words:
+  - Westerners struggle with pronouncing Chinese words.
+  - Chinese speakers also find English pronunciation challenging.
+- Pronunciation Challenges and Pidgin English:
+  - British merchants in China found locals struggled with English words.
+  - The word "business" was pronounced "pidgin," leading to the term "pidgin English."
+- Translation vs. Adoption:
+  - English often translates Chinese phrases instead of adopting them directly.
+  - Some Chinese phrases are challenging to pronounce.
+- Examples of Translated Phrases:
+  - "Xi nao" translated to "brainwashing."
+  - "Tiu lien" became "lose face."
+  - "Tsuh lao fu" transformed into "paper tigers."
+- Chinese Words in English:
+  - Some Chinese words entered English due to the popularity of Chinese cuisine.
+  - Kumquats, dim sum, fish brine, odds and ends, chop suey, tofu.
+- Connection in Language Formation:
+  - Chinese and English share some linguistic points due to human language formation.
+  - Chinese "miau" for cat and its resemblance to the sound cats make.
+- True Oddity:
+  - The Chinese word "pei" means "pay," showcasing language connections and similarities.
+
+## Coincidences And Patterns
+- Similar Words in Different Languages:
+  - Chinese "pei" means "pay."
+  - Farsi Iranian "bad" means "bad."
+  - Uzbek "chop" means "chop."
+  - Aboriginal Mbaram language: "dog" means "dog."
+  - Mayan "hole" means "hole."
+  - Korean "mani" means "many."
+  - Afghan uses "show" to indicate showing something.
+  - Ancient Aztecs used "huel" for "well."
+- Coincidences in Languages:
+  - Many words in different languages sound similar but aren't related.
+  - Limited number of sounds lead to coincidences.
+- Language Relationship and Patterns:
+  - To prove languages are related, patterns of changes are needed.
+  - Demonstrating consistent sound shifts indicates linguistic relationship.
+- Grimm's Law:
+  - C to H shift in Latin to German, part of Grimm's Law.
+  - Latin "cornu" became German "horn."
+- Language Changes and Evolution:
+  - London's East End accent drops Hs and Gs.
+  - Accents and language can evolve unpredictably.
+  - US Northern Cities Vowel Shift affecting pronunciation.
+- Language Evolution and Similarities:
+  - Despite changes, European languages are related.
+  - Basic words likely have recognizable counterparts across languages.
+- Language Shifts Over Time:
+  - Transport and communication affect language evolution.
+  - European languages have similarities despite historical invasions.
+
+## Frankly, My Dear Frankfurter
+- Origin of "France" and "Franks":
+  - Tribe called the Franks invaded Gaul, which became France.
+  - Franks oppressed Gauls and forced them to adopt certain customs.
+- Enfranchisement and Disenfranchisement:
+  - Franks were free and able to speak "frankly."
+  - Others were disenfranchised, not able to approve things by "franking."
+- Origin of "Frankfurt" and Naming:
+  - Franks crossed the River Main and founded Frankfurt am Main.
+  - Frankfurt became known as a financial center.
+  - Frankfurt lent its name to "frankfurter," a type of sausage.
+- Naming of Food Items:
+  - "Hamburger" from Hamburg, despite having no ham.
+  - "Berliner" doughnut from Berlin, related to JFK's humorous remark.
+  - "Frankincense" named after export from ancient France.
+- Origin of "Benjamin Franklin":
+  - One conquering Frank's name translated to "Son of the south freeborn landowner."
+  - Translated name became Benjamin Franklin.
+- Linguistic Pattern:
+  - Franks named positive things after themselves; linguistic pattern observed.
+- Linguistic Observation:
+  - Linguistic observation that bad things tend to be associated with foreign terms.
+
+## Beastly Foreigners
+- Prejudice Reflected in Language:
+  - English language reflects historical prejudices.
+- Perceptions of the Dutch:
+  - Dutch considered enemies due to naval and trading rivalry.
+  - English invented rude phrases to undermine Dutch reputation.
+- Examples of Anti-Dutch Phrases:
+  - Dutch courage: false courage found at the bottom of a bottle.
+  - Dutch feast: host gets drunk before guests.
+  - Dutch comfort: no comfort at all.
+  - Dutch wife: large pillow or slang term.
+  - Dutch reckoning: fraudulent price raised in arguments.
+  - Dutch widow: prostitute.
+  - Dutch uncle: unpleasant and stern figure.
+  - Going Dutch: sharing expenses.
+- Dutch Reaction and English Phrases:
+  - Dutch government adopted "The Netherlands" for official use.
+  - English likely invented phrases about Dutch as well.
+- Views of the Welsh:
+  - Welsh rarebit: originally "rabbit," implying disappointment.
+  - Stereotype of Welsh fondness for cheese.
+- Stereotypes About the Irish:
+  - Irish stew made from leftovers.
+  - Nonsense associated with the Irish.
+- Historical Rivalry with France:
+  - French seen as dishonest lechers.
+  - French letter: condom.
+  - French leave: truancy.
+  - French retaliation: "filer à l'anglais" (to leave like the English).
+- Broadening Insults:
+  - English started inventing derogatory names for various groups.
+
+## Pejoratives
+- Pejorative Terms for European Nations:
+  - Terms used to insult European nations.
+- Origins of Pejorative Terms:
+  - Frog: Short for "frog-eater" (1798). Originally used for Dutchmen in 1652 due to marshy land.
+  - Kraut: Derives from German word for cabbage. Popularized during WWI.
+  - Hun: Originally meant "destroyer of beauty" (1806). Applied to Germans by Kaiser Wilhelm II in 1900.
+- Additional Pejorative Terms:
+  - Wop: American term (1912), from Neapolitan dialect "guappo" meaning dandy or gigolo.
+  - Dago: From Diego (1823). Initially referred to Spanish or Portuguese sailors.
+  - Spic: American term (1913) for anyone slightly Hispanic. Possibly from "No speak English" or "spiggoty."
+- Historical Treatment of Slavs:
+  - Slavs like Bulgars faced battles and subjugation.
+  - Byzantine emperor Basil the Bulgar Slayer blinded captured Bulgars.
+  - Slavs suffered under Byzantines in the south and Holy Roman Empire in the north.
+  - Word "Slav" became synonymous with forced laborer, leading to the word "slave."
+- Origin of the Word "Slave":
+  - The word "slave" derived from "Slav" due to historical oppression.
+- Chapter Transition:
+  - The question about common valediction for life of servitude: adieu, toodle-pip, or ciao?
+
+## Ciao Slave-Driver
+- Origin of the Word "Slave":
+  - The word "slave" comes from "Slav."
+  - Slavs were initially everyone's original slaves.
+- Variations in Western Languages:
+  - Dutch: slaaf
+  - German: Sklav
+  - Spanish: esclavo
+  - Italian: schiavo
+- Italian Greeting Evolution:
+  - Medieval Italians: Sono vostro schiavo ("I am your slave").
+  - Shortened to: schiavo
+  - Further shortened to: ciao
+  - "Ciao" introduced into English by Allied troops after World War II.
+- "Hey, Man" Greeting:
+  - Slave-owners used to call slaves "boy."
+  - "Hey, boy" was a significant and annoying form of address.
+  - Black Americans started using "Hey, man" in the 1940s as a reaction to being called "boy."
+  - "Hey, man" was a way to assert identity and equality.
+  - "Hey, man" became widespread and lost its original significance.
+- Progress and Changing Language:
+  - Use of "man" as a form of address demonstrates societal progress.
+- Robots and Identities Question:
+  - Before the next topic, are robots Martian slave-owners, Bolivian peasants, or Czech serfs?
+- American Troops and Spaghetti Carbonara:
+  - American troops introduced "ciao" into English after World War II.
+  - American GIs turned rations of bacon and eggs into pasta dishes, potentially leading to the invention of spaghetti carbonara.
+
+## Robots
+- Austro-Hungarian Empire and Lords vs. Peasants:
+  - Lords owned the land, peasants worked portions of it.
+  - Peasants worked their own plot and the lord's.
+  - Bigger plot meant longer work on the lord's land.
+  - System abolished by Emperor Josef II in 1848, called "robot."
+  - Word "robot" survived despite abolition.
+- Origin of the Term "Robot":
+  - Czech play "RUR: Rossum's Universal Robots" by Karel Čapek (1920).
+  - Karel's brother, Josef, suggested calling artificial servants "robots."
+  - Term arrived in English two years later.
+- Indentured Labour and Contract Law:
+  - Indentured labour related to contract-bound service.
+  - Medieval contract law complicated due to illiteracy.
+  - Contracts signed, sealed, and cut in half with zig-zag indentations.
+  - Parties kept one half each, matching indentations proved authenticity.
+- Indentured Servants and Contracts:
+  - Indentured servants bound until contract termination.
+  - Contract terminations acted like a "terminator" in ending service.
+- Dental and Teeth-Related Etymology:
+  - "Indentations" are bite marks.
+  - "Dandelions" are lions' teeth.
+  - "Tridents" have three teeth.
+  - "Al dente" cooking refers to food's bite texture.
+- Language and Contract Evolution:
+  - Words and concepts evolve over time.
+
+## Terminators And Prejudice
+- Termination and Its Origins:
+  - Latin "terminus" meant boundary or limit.
+  - Terms derived: bus terminals, terms and conditions, etc.
+  - Terminate = end, stop, conclude, cancel, or fire.
+  - Terminating employment has legal implications.
+- Terminating Employment:
+  - Can terminate without prejudice (re-employment possible).
+  - Can terminate with prejudice (no re-hiring due to misconduct).
+- Terminating with Extreme Prejudice:
+  - CIA agents' employment can be terminated.
+  - Terminated with extreme prejudice = killed.
+  - Origin in secret operations, exact timing unclear.
+- Thai Khac Chuyen Incident:
+  - Vietnamese informant for Green Berets and CIA.
+  - Accused of double-crossing, fate debated.
+  - CIA advised letting it go or terminating with extreme prejudice.
+  - Chuyen was eventually shot, controversy followed.
+- Termination in Movies:
+  - Terminating took on a more ominous meaning.
+  - Mentioned in "Apocalypse Now" (1979) movie.
+  - "The Terminator" (1984) capitalized on the term's fear-inducing image.
+
+## Terminators And Equators
+- Terminator: Astronomical Definition:
+  - Terminator = line dividing illuminated and darker parts of a planet.
+  - Seen on half-moon's middle straight line.
+  - Astronomical and astrological terminology overlap.
+- Astrology and Its Language Influence:
+  - Astronomy and astrology once intertwined.
+  - Astrological terms persist in language.
+  - Disposition = personality due to planet positions.
+  - Jovial disposition from Jupiter's ascendant.
+  - Miserable and saturnine disposition from Saturn's influence.
+  - Disaster = ill-starred, Latin "dis-astro."
+  - Language holds astrological remnants.
+- Celestial Terms and Influence:
+  - Culmination, opposition, nadir, depression, aspect from antiquity's horoscopes.
+  - Celestial equator = Earth's equator projected in space.
+  - Stars along celestial equator visible regardless of location.
+  - Celestial equator = prominent part of language, reaching sky before Earth.
+- Heavens' Precedence and Visibility:
+  - Stars in heavens have cultural and linguistic prominence.
+  - Pole star visible from northern hemisphere.
+  - Celestial equator stars shine regardless of location.
+  - Celestial terms often preceded Earth-related meanings.
+
+## Equality in Ecuador
+- Celestial Equator and Earth's Wobble:
+  - Earth's wobble makes celestial equator align with terrestrial equator twice yearly.
+  - Equinoxes = equal day and night.
+  - Sun's seasonal movement from 23 degrees south to 23 degrees north.
+  - Tropos (Greek for "turn") links to "trope" in rhetorical sense.
+  - Latitude 23 degrees south = Tropic of Capricorn.
+  - Latitude 23 degrees north = Tropic of Cancer.
+  - Equator divides Earth equally, called the equator for equality.
+- Language Evolution and Equator Naming:
+  - Spanish "ecuador" for equator, leading to naming of Ecuador.
+  - Equality is crucial, but in certain cases, inequality is necessary.
+  - Umpire = non-par in Latin, noumpere in Old French, influenced by N shift.
+  - N-shift: napron to apron, ewt to newt, eke-name to nickname.
+- Language Connections with "Par":
+  - "Par" leads to terms like parity, peer groups, peerless, and peers of the realm.
+  - Peers in aristocracy due to Charlemagne's legendary twelve equal knights.
+  - Par hides in disparage (make someone feel inferior) and au pair (equal living partner).
+  - Golf term "par" reflects a standard score between birdie and bogey.
+
+## Bogeys
+- Golf Scoring and Competitions:
+  - Golf is played against opponents and against the ground score.
+  - Competing against ground score, scratch value, and par.
+  - Par represents strokes a professional golfer should take for the course.
+  - Ground score is often more challenging to beat than opponents.
+- Origin of the Term "Bogey":
+  - Victorian song "The Bogey Man" inspired by a mythical troublemaker.
+  - Dr. Thomas Brown played golf in 1890 and disliked playing against the ground score.
+  - Dr. Brown jokingly referred to the unseen opponent as the Bogey Man.
+  - The term caught on and spread throughout Great Yarmouth and the golfing world.
+  - "Bogey" initially referred to par, representing the invisible opponent.
+  - Later, "bogey" shifted to mean one over par, but the reason is unclear.
+
+## Bugbears And Bedbugs
+- Evolution of the Term "Bogey":
+  - Golfers forgot the original meaning of "bogey" (playing against the ground score).
+  - Blamed the term on a fictional golfer named Colonel Bogey.
+  - 1897 golfing cartoons reference "Colonel Bogey" and his uniform score.
+  - Kenneth Alford's 1914 marching tune named "Colonel Bogey."
+  - The term returned to songs, inspired by the fictional character.
+- Bogeymen and Their Evolution:
+  - Bogeymen vary in forms and sizes, such as bogey-bears.
+  - Bogey-bears used to live in woods, eating disobedient children.
+  - Bogey-bears evolved into bugbears, symbolizing an insignificant annoyance.
+  - Bugaboo, related to bogeyman, retains significance for James Bond.
+  - Eighteenth-century thieves' slang "bugaboo" referred to a sheriff's officer.
+  - Burglars later referred to burglar alarms as "bugs," akin to automated police.
+  - The word "bug" extended to refer to tiny listening devices.
+  - Myles Coverdale's 1535 Bible translation mentioned "bugges" (bugs).
+  - "Bug" in the mid-seventeenth century started to mean insects.
+- "Bug" in the Technological Sense:
+  - Thomas Edison's story of an insect affecting his invention's workings.
+  - Edison's use of "bug" in letters, referring to faults and difficulties.
+  - 1889 report about Edison's phonograph and solving a difficulty with "a bug."
+  - Term "bug" extended to software errors causing technical failures.
+
+## Von Munchausen's Computer
+- Evolution of Computer Terminology:
+  - Computers existed since at least 1613 as a skilled profession.
+  - Charles Babbage's inventions: Analytical Engine and Mill.
+  - In 1869, machines that computed numbers started being called computers.
+  - Modern computer ENIAC introduced in 1946.
+  - Early computers were essentially calculators, hence the name.
+- Introduction of Software and Bootstrapping:
+  - Computers gained software loaded by users.
+  - 1950s: Computers developed ability to install their own software.
+  - Reference to Baron von Munchausen's marsh story.
+  - Americans later referred to "pulling themselves up by their own bootstraps."
+  - In computing, self-loading programs metaphorically "pull up by bootstraps."
+  - In 1953, the process was called a "bootstrap."
+  - Later, the term evolved to "boot up" to refer to starting computers.
+
+## SPAM (Not Spam)
+- Introduction of SPAM:
+  - In 1937, a new pork-based product appeared in the US market by Hormel, initially named Hormel Spiced Ham.
+  - Actor's suggestion led to the name being shortened to SPAM.
+  - Alternative stories suggest SPAM might stand for Shoulder of Pork And Ham.
+  - Hormel Foods Corporation insists on capital letters: SPAM, not spam.
+- SPAM's Role During World War II:
+  - WWII caused food shortages in Britain, leading to strict meat rationing.
+  - Tinned meat, particularly SPAM, became popular due to less rationing.
+  - SPAM was shipped from America to Britain in large quantities.
+  - Post-war, SPAM remained a staple of the British diet, especially in cheap cafés.
+- Monty Python and the SPAM Sketch:
+  - In 1970, Monty Python produced the SPAM sketch set in a café where SPAM is prominent.
+  - The Viking song with repeated "SPAM" lines became iconic.
+  - Monty Python's popularity extended to computer programmers.
+- Emergence of "SPAM" in Computer Programming:
+  - Multi-User Dungeons (MUDs) were early internet games in the 1980s.
+  - A simple program was created to print "SPAM" repeatedly on the screen.
+  - This idea originated from the Monty Python sketch.
+  - By 1990, "SPAM" in programming referred to unwanted content on the internet.
+  - The term gained wider usage through Usenet in the early 1990s.
+- Connection to Unsolicited Emails:
+  - Term "spam" was applied to unwanted emails, like the Nigerian prince scams.
+  - The term "SPAM" is a proprietary name, like "heroin."
+
+## Heroin
+- Introduction to Cough Medicines:
+  - Historically, cough medicines contained morphine, a potentially addictive substance.
+  - Morphine's addictive nature raised concerns about its long-term use for cough treatment.
+- Development of Diacetylmorphine:
+  - In 1898, Bayer, a German pharmaceutical company, sought an alternative to morphine in cough medicines.
+  - Bayer created diacetylmorphine, marketed as a "non-addictive morphine substitute."
+- Naming the New Product:
+  - Bayer needed an appealing brand name for diacetylmorphine.
+  - The name "heroin" was chosen based on the feedback that the substance made users feel great, like heroes.
+- Marketing and Success:
+  - Bayer's marketing strategy successfully sold the product under the name heroin.
+  - Heroin remained a Bayer trademark until World War I.
+- Unintended Consequences:
+  - Despite being marketed as non-addictive, heroin proved to be addictive.
+  - The connection between heroine (female hero) and heroin originates from the drug's name.
+- Conclusion:
+  - The development of heroin was driven by the desire to find a cough remedy without morphine's addictive effects.
+  - However, heroin itself turned out to be addictive, highlighting the complexities of pharmaceutical developments.
+
+## Morphing De Quincey And Shelley
+- Morpheus and Dreams:
+  - Morpheus, Greek god of dreams, was the son of Sleep and brother of Fantasy.
+  - He created dreams in a cave near the underworld, shaping them and hanging them on an elm tree until ready for use.
+  - The name "Morpheus" comes from the Greek "morphe," meaning shape.
+- Amorphous and Shapelessness:
+  - "Amorphous" means shapeless, not related to being out of morphine.
+  - Connection between drugs and dreams, such as opium-induced pipe dreams.
+- Thomas De Quincey and Opium:
+  - Thomas De Quincey, opium user, wrote "Confessions of an English Opium Eater."
+  - His opium dreams included vivid and unsettling experiences.
+- De Quincey's Struggles:
+  - De Quincey's book depicts his efforts to quit opium.
+  - Success of his book helped him afford opium for the rest of his life.
+- De Quincey's Long Life and Neologisms:
+  - De Quincey lived a long life despite his opium use, dying at 74.
+  - He coined numerous neologisms, contributing 159 words to the English language.
+- De Quincey's Word Contributions:
+  - De Quincey's word inventions include "subconscious," "entourages," "incubators," and "interconnections."
+- Shelley's Word Inventions:
+  - Percy Bysshe Shelley, a poet, invented several words, including "spectral," "optimistic," "heartless," and "bloodstain."
+  - He created "national anthem" and contributed to English vocabulary.
+
+## Star-Spangled Drinking Songs
+- Spangle and Spangled:
+  - A spangle is a small, glittering ornament.
+  - Being spangled means being covered in small spangs.
+  - Thomas Moore used "spangled" in a poem about matin flowers.
+- Anacreon and Anacreontic Society:
+  - Anacreon was an ancient Greek poet known for his poems about drinking and love.
+  - The Anacreontic Society, an English gentleman's club, celebrated wit, harmony, and wine.
+  - The society's drinking song "To Anacreon in Heav'n" became a sobriety test.
+- "To Anacreon in Heav'n":
+  - The song's catchy tune made it a test for drunkenness by the police.
+  - Singing it in tune meant you were sober enough to go.
+- Francis Scott Key and "The Star-Spangled Banner":
+  - Francis Scott Key borrowed the tune of "To Anacreon in Heav'n" for his song.
+  - He wrote new words about seeing a flag after a bombardment.
+- Key's Experience during War of 1812:
+  - Francis Scott Key watched the British bombardment from the wrong side due to being held aboard HMS Tonnant.
+- "The Star-Spangled Banner" Lyrics:
+  - Key's lyrics describe seeing the flag amid the bombardment and questioning if it still waves.
+  - The new title connects back to "small spangs" as the song's title references "spangled."
+
+## Torpedoes And Turtles
+- Torpedo and Torpid:
+  - The Latin word "torpidus" means tired or numb.
+  - From "torpidus," the adjective "torpid" was derived.
+  - Electric fish, like electric eels and rays, can produce electricity.
+  - Electric rays were called "torpedoes," rendering the term "torpedo" connected to numbness.
+- Submarine and Torpedo Inventors:
+  - During the American Revolutionary War, a submarine called the Turtle was invented to attack British ships.
+  - The inventor, Bushnell, considered naming it either the American Turtle or the Torpedo.
+  - The submarine would attach an explosive "magazine or powder" to the hull of a ship.
+- Fulton and Improved Torpedoes:
+  - Fulton continued the submarine concept, now calling the explosive device a "torpedo."
+  - Fulton's torpedoes were meant to be launched with a harpoon attached to a rope, with a timed explosive charge.
+- Limited Success of Early Torpedoes:
+  - Bushnell and Fulton's torpedoes were ineffective in practice.
+  - Torpedo technology improved over decades, with a Russian ship torpedoing an Ottoman one in 1878.
+- Connection to Mount Vernon, Portobello Road, and Groggy Feeling:
+  - The text leaves this as a teaser for the next story.
+
+## From Mount Vernon to Portobello Road With a Hangover
+- George Washington's Influence:
+  - Relations between the Royal Navy and the Americans were tense.
+  - George Washington's elder half-brother, Lawrence Washington, served in the Royal Navy under Admiral Edward Vernon.
+- Naming of Mount Vernon:
+  - Lawrence Washington admired Admiral Vernon and named his family estate "Mount Vernon" after him.
+- Admiral Edward Vernon's Exploits:
+  - Admiral Vernon led the British assault on Porto Bello in Panama in 1739.
+  - The victory inspired the naming of Portobello Farm, Portobello Lane, and eventually Portobello Road in London.
+- Portobello Market:
+  - Portobello Market in London is now a renowned antiques market.
+- Admiral Vernon's Nickname and Grog:
+  - Admiral Vernon was nicknamed "Old Grog" due to his habit of wearing a grogram coat.
+  - Grog was a mixture of watered-down rum introduced by Vernon, becoming a standard navy drink.
+  - Drinking too much grog led to becoming "drunk" or "groggy."
+- Shift in Meaning to Hangover:
+  - The term "groggy" shifted over time to refer to the effects of excessive alcohol consumption, specifically a hangover.
+
+## A Punch of Drinks
+- Origin and Evolution of "Alcohol":
+  - The word "alcohol" comes from Arabic "al kuhul," which referred to a kind of make-up.
+  - Originally used to describe the pure essence of various substances.
+  - In 1672, the concept of the pure essence of wine arose, leading to the term "wine-alcohol."
+  - By 1753, the term "alcohol" specifically referred to the inebriating component of wine.
+- "Spirits" in Alchemy:
+  - Alchemy associated chemicals with vital spirits that caused specific effects.
+  - Whisky and vodka were believed to contain spirits that caused intoxication.
+- Origin of "Vodka" and "Whisky":
+  - "Vodka" comes from Russian "voda," meaning water.
+  - "Whisky" likely derived from Gaelic "uisge beatha," meaning water of life, borrowed from alchemical Latin.
+- Variations in Names for "Water of Life":
+  - Scandinavians: "aquavit"
+  - French: "eau de vie"
+  - Also euphemism for urine, a belief claimed by some but refuted.
+- Rum's Evolution and Nicknames:
+  - "Rum" originally meant "good" in thieves' slang, later turned into a negative connotation.
+  - "Rumbullion" nickname for Caribbean spirit, unclear origins.
+- Rum's Origins and Variants:
+  - Rum first recorded in 1654, making "rum punch" by 1683.
+  - Various speculations about the term's origin, possibly related to its strong nature or dialect words.
+- Ingredients in Punch and Its Name:
+  - "Punch" comes from the Hindi word for five, "panch."
+  - Traditional punch contained five ingredients: spirits, water, lemon juice, sugar, and spice.
+- "Punjab" and Etymology of "Panch":
+  - "Punjab" named after the region's five rivers.
+  - "Panch" comes from Sanskrit for five, "pancas," leading to Greek "pent" and "pentagon."
+- Champagne as the Ultimate Drink:
+  - Champagne referred to as the queen of drinks for its strong inebriating effects.
+
+## The Scampering Champion of The Champagne Campaign
+- Origin of Champagne Legend:
+  - Legend attributes champagne invention to Dom Pérignon, who exclaimed he was "tasting the stars."
+  - Actually, sparkling wine was made earlier; the challenge was bottling it due to pressure.
+- Champagne Bottle Pressure:
+  - Champagne bottles need to withstand six atmospheres of pressure.
+  - Moët and Chandon lose a portion of bottles due to explosions.
+- English Glassmakers and Champagne Bottling:
+  - English perfected bottling to keep cider fizzy, and the French adopted this technique for champagne.
+- Origin and Naming of Champagne:
+  - Originally "vin de campagne," referred to wine from the countryside.
+  - Later, referred specifically to wine from Épernay region in the 18th century.
+- Champagne in World War I:
+  - Champagne region witnessed brutal trench warfare during WWI.
+  - German advance paused upon encountering champagne warehouses, aiding Allies.
+- "Champagne Campaign" and Its Origin:
+  - "Champagne campaign" refers to a summer campaign.
+  - "Campagne" originates from Latin "campus," meaning field.
+- "Campione" to "Champion":
+  - "Campione" in Latin, meaning "champion."
+  - Soldiers on the field were the best champions, hence "campiones."
+- "Camp Followers" and Scampering:
+  - Soldiers sought companionship from "camp followers," women who accompanied armies.
+  - Soldiers sneaking out of camp for illicit encounters was known as "scampering."
+- Evolution of "Campy" and "Camp":
+  - During WWI, British soldiers used "camp" for illicit sexual activities.
+  - "Campy" referred to women with garish clothing and makeup.
+  - Term "camp" transitioned to refer to men in makeup with theatrical behaviors.
+- "Camp" in German as "Kampf":
+  - German "Kampf" means "battle," derived from "camp."
+  - Hitler's book "Mein Kampf" could be seen as camp in this context.
+
+## Insulting Names
+- Hitler's Party Name:
+  - Hitler led the Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), commonly known as the Nazi Party.
+  - Hitler considered himself a National Socialist, not a Nazi.
+  - "Nazi" derived from Bavarian jokes about peasants with the name Ignatius, often shortened to "Nazi."
+- Reclaiming "Nazi":
+  - At first, Nazis disliked the term "Nazi."
+  - They briefly attempted to reclaim the term but later resorted to persecution and forced emigration.
+- Misconception About Party Name:
+  - Refugees using "Nazi" term led non-Germans to assume it was the party's official name.
+  - Germans obediently referred to the party as the Nationalsozialistische Deutsche Arbeiterpartei.
+- Ignatius and Jesuits:
+  - The name Ignatius was popular in Bavaria due to St. Ignatius of Loyola, founder of the Jesuits.
+  - Jesuits were known for cleverness but were associated with logical tricks against Protestants.
+- Jesuitical:
+  - Jesuitical became an adjective meaning overly clever and using logical tricks.
+  - Jesuits educated notable figures from various fields.
+- Primeval Atom Theory and Big Bang Theory:
+  - The theory of the Primeval Atom proposed that the universe began 13.7 billion years ago with a single point, then expanded.
+  - Sir Fred Hoyle disliked this theory and coined the term "Big Bang Theory" to undermine it.
+- Name's Influence:
+  - Names are given, not earned.
+  - Names can shape perceptions, and givers might not fully understand the impact.
+- Names and Language Evolution:
+  - Language evolution includes misunderstandings, slang, and unintended connotations.
+  - Names can change due to historical, cultural, and linguistic factors.
+
+## Peter Pan
+- Names from Personal Encounters:
+  - W.E. Henley's daughter Margaret inspired the name "Wendy."
+  - Margaret tried to call J.M. Barrie "friendy," which became "Wendy."
+- Wendy in Peter Pan:
+  - J.M. Barrie wrote a play about Peter Pan and named the heroine Wendy after Margaret.
+  - The popularity of Peter Pan led parents to name their daughters Wendy.
+- Wendy's Fate and Wendy House:
+  - In the story, Wendy is shot with an arrow but recovers through make-believe.
+  - Peter Pan and associates build a tiny cottage around Wendy's dormant body, the first Wendy House.
+- Mr. Darling's Fate and Phrase:
+  - Mr. Darling's sleeping in a kennel became a phrase "in the doghouse."
+  - Mr. Darling remains in the kennel, raising his hat to ladies who look inside.
+- Origin of "Neverland" and "Never Never Land":
+  - Michael Jackson named his home "Neverland" after Peter Pan's setting.
+  - "Never Never Land" refers to remote and unwelcoming parts of Australia.
+- Origin of "Never Never Land":
+  - "Never Never Land" in Australia relates to its remote and harsh nature.
+  - It conveys the idea that once you enter, you may never emerge again.
+- Racial Origin and Name:
+  - "Never-never blacks" refers to aborigines who kept aloof from whites.
+  - Barrie's imaginary place came from an Australian region named after such aborigines.
+
+## Herbaceous Communication
+- Penal Colony in Australia:
+  - British sent convicts to Australia, considering its warm climate and beaches.
+  - Transportation to Australia as punishment was abolished in 1850 due to Australia's desirability.
+- Outback and Bush Telegraph:
+  - Some convicts ventured into the Outback to evade work gangs.
+  - Criminal bushrangers preferred to inform fellow outlaws about police activity.
+  - The communication system among outlaws became known as the bush telegraph.
+- Telegraph Introduction and Bush Telegraph:
+  - Telegraph was introduced in Australia in 1853, leading to the bush telegraph's recording in 1878.
+  - American telegraph system included the grapevine telegraph during the Civil War.
+  - Two versions: Confederate soldiers claimed invention; slaves' grapevine telegraph led to freedom.
+- Telephone's Impact on Language:
+  - Alexander Graham Bell patented the telephone in 1876, making telegraph old-fashioned.
+  - The telephone's popularity made the greeting "hello" widely used.
+- Unofficial Communication and "The Grapevine":
+  - Telephone's influence led to the use of "grapevine" for unofficial communication.
+  - Marvin Gaye's 1968 song "I Heard It Through the Grapevine" refers to hearing news through informal channels.
+
+## Papa Was a Saxum Volutum
+- Song "I Heard It Through the Grapevine":
+  - Written by Norman Whitfield and Barrett Strong for Marvin Gaye.
+  - Norman Whitfield and Barrett Strong also wrote "Papa Was a Rollin' Stone."
+- Rolling Stones and "Rolling Stone" Phrase:
+  - The Rolling Stones named after Muddy Waters' song "Rollin' Stone."
+  - Phrase "a rolling stone gathers no moss" used in rock and roll references.
+  - Phrase implies that continuous movement prevents stagnation or complacency.
+- Origins and Interpretation:
+  - Phrase found in Thomas Wyatt's 1530s writing and Erasmus' adages of 1500.
+  - Original context related to keeping a stone moss-free for gardening.
+  - Rolling stone referred to a garden implement used for flattening lawns.
+- Marble and Moss:
+  - Mid-fourteenth-century reference to "moss doesn't grow on marble that gets trodden on."
+  - Phrase found in mystic allegorical poem "The Vision of Piers Plowman."
+
+## Flying Peters
+- Piers Plowman and Peter Plowman:
+  - Piers Plowman is a variant of Peter Plowman.
+  - Farmer in the poem symbolizes the ideal disciple of Christ, Peter, the apostle.
+- Peter's Renaming:
+  - Fisherman Simon nicknamed "The Rock" (Petros) by Jesus.
+  - Jesus referred to Simon as "Peter" and declared he'd build his church on this "rock."
+- Walking on Water:
+  - Jesus walked on water; Peter tried and began sinking due to fear.
+  - Sea bird that appears before a storm and dips its feet is called a "storm peter."
+- Storm Petrel:
+  - "Storm peter" evolved into "storm petrel" through wordplay.
+  - French term "Pierrot" derived from "Pierre" (Little Peter).
+- Parrot's Linguistic Importance:
+  - The term "parrot" appears in Tudor writer John Skelton's poetry.
+  - "Parrot" used as a verb by Thomas Nashe in the sixteenth century.
+- Linguistic Preservation by Parrots:
+  - Parrots preserve words from extinct languages.
+  - Example of an old parrot in Venezuela repeating words from the Ature tribe.
+  - The Atures were wiped out, but the parrot retained their language.
+
+## Venezuela And Venus And Venice
+- Origin of Name "Venezuela":
+  - Venezuela's name not related to Venus.
+  - Named by Amerigo Vespucci, an explorer.
+  - Amerigo Vespucci related to the beautiful Simonetta Cataneo.
+  - Botticelli used Simonetta as a model for "Birth of Venus."
+- Amerigo Vespucci's Explorations:
+  - Amerigo Vespucci was a Florentine explorer.
+  - Cousin of Marco Vespucci, nobleman married to Simonetta.
+  - Invited by King of Portugal for New World expedition.
+  - Wrote accounts of his travels, using the Latin form "Americus."
+- Name "America":
+  - Martin Landseemuller, a map-maker, saw Amerigo's account.
+  - Created a map with the New World, named it "America."
+  - Ended in "-us" initially, but changed to match feminine continents.
+- "Venezuela" Meaning:
+  - Amerigo Vespucci named part of South America "Little Venice."
+  - In Spanish, it's "Venezuela."
+  - Local tribes lived in water-supported huts, resembling Venice.
+
+## What News on The Rialto?
+- Venice's Contributions to English Language:
+  - Venice introduced various words to English.
+  - Origin of "terra firma" from Venice's drainage issues.
+- Venetian Influences in Language:
+  - Venice had the original Ghetto and Arsenale.
+  - First regattas on Grand Canal; lagoon as the original lagoon.
+  - Venice was the first modern democracy.
+  - "Ballot" comes from Venetian "ballotte," meaning small balls.
+- Voting Methods and Terms:
+  - Athens' voting method using pottery fragments called "ostrakons."
+  - Ostracism derived from ostrakons; not related to ostriches.
+  - Ostracism distantly related to "oysters" (both relate to bone).
+  - "Blackballing" in London's gentlemen's clubs for membership.
+- Early Newspapers and "Gazette":
+  - Venice introduced early newspapers in the mid-sixteenth century.
+  - Described trade, war, prices for Venetian merchants.
+  - Termed "halfpennyworth of news" or "gazeta de la novita."
+  - "Gazeta" was a Venetian coin with a picture of a magpie.
+- Origin of "Gazette" and Magazine":
+  - "Gazette" referred to the cheapness and unreliability of news.
+  - John Florio described gazettes as "idle intelligences."
+  - Magazine is a glossy publication filled with news.
+  - Magazine and metal thing filled with bullets share a term.
+
+## Magazines
+- Evolution of the Word "Magazine":
+  - Arabic word "khazana" meant "to store up."
+  - Makhzan: storehouse, makhazin: its plural.
+  - Transformed to Italian "magazzino," then to French "magasin."
+  - Entered Britain as "magazine," retaining meaning of storehouse, often military.
+  - Edward Cave introduced "The Gentleman's Magazine."
+- Edward Cave and "The Gentleman's Magazine":
+  - Edward Cave's idea: periodic publication on various subjects.
+  - First edition: January 1731, digest of stories from other publications.
+  - Contained amusing stories from around the world.
+  - Included grim stories of murders, executions, which attracted readers.
+- Title Changes and Influence:
+  - Title changes: Dropped "Monthly Intelligencer," added slogan.
+  - Influence on English language: Cave's caprice altered language.
+  - Magazine's popularity, contribution to the reading public's interests.
+  - Impact on language: Alternative terms might have emerged.
+- Samuel Johnson's Connection:
+  - Gave employment to a young, penniless writer named Dr Samuel Johnson.
+
+## Dick Snary
+- Samuel Johnson's Dictionary and Predecessors:
+  - Johnson's dictionary not the first English dictionary.
+  - Johnson's dictionary published in 1755 with unique definitions.
+  - Snary, a joke name, recorded in 1627.
+  - "Dictionary" invented by John of Garland in 1220 for Latin diction.
+  - Early dictionaries for translation purposes.
+- Early English Dictionaries:
+  - Abecedarium Anglico Latinum (1552): Dual-language for translators.
+  - Cawdrey's Table Alphebetical (1604): List of "hard usual English words."
+  - Henry Cockeram's The English Dictionarie (1623): First with "dictionary" in title.
+  - Nathan Bailey's Universal Etymological Dictionary (1721): Contained 40,000 words.
+- Significance of Johnson's Dictionary:
+  - Point of Johnson's dictionary was its authorship, not just its content.
+  - Johnson's authority as the foremost scholar lent weight to his definitions.
+- Oxford English Dictionary (OED):
+  - Greatest dictionary ever, involving collaboration between a Scotsman and an American.
+  - Involves intriguing elements like murder, prostitutes, and other interesting stories.
+
+## Autopeotomy
+- Oxford English Dictionary (OED):
+  - Greatest work of reference ever written, result of collaboration.
+  - James Murray, self-taught scholar, editor from Philological Society.
+  - Idea: Trace every English word's development, define meanings chronologically.
+  - Volunteers needed to gather quotations from all books in English.
+- William Minor's Background:
+  - William Minor, born to missionary couple in Sri Lanka (1834).
+  - Sent to boarding school in the US, studied medicine at Yale.
+  - Served as field surgeon in Union Army during Civil War.
+  - Assigned to brand deserters, post-war life with prostitutes.
+  - Went insane, moved to England, committed murder, ended up in Broadmoor.
+- Contributions to OED:
+  - Minor, rich and insane, read extensively in Broadmoor.
+  - Sent thousands of notes to Murray, played pivotal role in OED's development.
+  - Whole development of modern English language illustrated through Minor's examples.
+  - Murray and Minor became friends, shared a passion for words.
+- Minor's Tragic End:
+  - Minor's troubles linked to excessive sexual appetite.
+  - Minor underwent autopeotomy (self-inflicted penis removal) in 1902.
+  - Murray advocated for Minor's release, succeeded in 1910.
+  - Minor returned to the US with OED volumes, died in his own country.
+
+## Water Closets For Russia
+- Winston Churchill and Linguistic Achievements:
+  - Home Secretary Winston Churchill ordered William Minor's release.
+  - Churchill known for writing, politics, and linguistic contributions.
+  - Coined phrases like out-tray, Iron Curtain, social security, and V-sign.
+  - Coined words seaplane, commando, undefendable; popularized crunch.
+  - Won Nobel Prize for literature in 1953.
+- Churchill's Role in World War I:
+  - In 1911, became First Lord of the Admiralty.
+  - Oversaw development of lethal methods for wartime.
+  - Concept of the landship (later known as a tank) for land warfare.
+  - Landship similar to iron-clad warships with mounted guns.
+- Development of the Landship (Tank):
+  - Officer Ernest Swinton played a significant role in the idea.
+  - Plans drawn in secrecy, not mentioned in public.
+  - Secrecy led to naming challenges, first named Water Carriers.
+  - Churchill pointed out abbreviation "WCs" resembled lavatories.
+  - Name changed to Water Tanks for Russia; later shortened to tanks.
+- Tank's Significance and Naming Evolution:
+  - Tanks used on the Western Front trenches during World War I.
+  - Germans had their secret weapon with an ungentlemanly name.
+  - Churchill's care about lavatorial implications and Swinton's consideration led to the tank's name.
+
+## Fat Gunhilda
+- Development of the Big Bertha Gun:
+  - Germany developed a massive gun weighing 43 tons.
+  - It fired 1,800lb shells over a distance of 2½ miles.
+  - Officially known as the L/12 42-cm Type M-Great Kurze Marine-Kanone.
+  - Named after Bertha Krupp, the owner of Krupp Armaments.
+  - Nicknamed Dick Bertha or Big Bertha.
+- Naming Guns with Female Names:
+  - Guns often named using female names, defying Freudian symbolism.
+  - US Marine Corps recruits gave rifles girls' names during the Vietnam War.
+  - British empire's flintlock musket called Brown Bess.
+  - Edinburgh castle's cannon named Mons Meg, possibly after Queen Margaret.
+- Origin of the Name "Gun":
+  - The first historical gun was a cannon in Windsor Castle.
+  - Document mentions "Domina Gunilda" (Queen Gunhilda) for a cannon from Cornwall.
+  - Etymology suggests all guns named after this initial "gunna" in Windsor Castle.
+  - Queen Gunhilda was likely the origin, and there was a historical Queen Gunhilda.
+
+## Queen Gunhilda And The Gadgets
+- Gunhilda and Historical Context:
+  - Gunhilda, Queen of Denmark in late 10th and early 11th century.
+  - Married to Sven Forkbeard, mother of Canute the Great.
+  - Associated with King Harald I of Denmark.
+  - Harald I united warring provinces of Denmark and Norway under his rule.
+- Origin of Bluetooth Technology Name:
+  - Jim Kardach developed system for mobile phones and computers to communicate.
+  - Read historical novel "The Longships" set during Harald Bluetooth's reign.
+  - Kardach felt the project united technology like Harald united provinces.
+  - Project initially named Bluetooth as a working title.
+  - Actual product name meant to be different; considered "Pan."
+  - Realized "Pan" was trademarked, leading to the use of "Bluetooth."
+  - Kardach's nickname stuck due to time constraints and product launch.
+
+## Shell
+- History of Company Names and Shell:
+  - Company names have strange and accidental origins.
+  - Largest energy company called Shell due to Victorian seashell craze.
+  - Victorians collected, painted, and used seashells extensively.
+  - Marcus Samuel set up as a shell merchant, importing shells globally.
+  - Company called Shell due to seashell business origins.
+  - Shell expanded into trinkets and curiosities market.
+  - Marcus Samuel Junior discovered potential in oil while in Japan.
+  - Shell's core business shifted from seashells to oil.
+  - Royal Dutch Shell formed from merger with Royal Dutch Petroleum.
+
+## In a Nutshell
+- Language and Shells:
+  - Shells have various linguistic associations.
+  - Artillery can "shell" a town; early grenades resembled nuts in shells.
+  - "Shell out" originates from the difficulty of extracting nuts or money.
+  - "In a nutshell" phrase doesn't come from Hamlet but from Pliny.
+  - Pliny, a Roman encyclopaedist, wrote about a tiny copy of The Iliad.
+  - Story: Bishop of Avranches tested Pliny's claim with small handwriting.
+  - The Iliad could fit on a small piece of paper folded into a walnut shell.
+  - Feasibility experiment done in the 18th century; also done with the Bible.
+If you have more questions or need further assistance, feel free to ask!
+## The Iliad
+- The Iliad and Homer:
+  - The story of Troy (Ilium) is grand with heroic heroes and beautiful ladies.
+  - Winston Churchill on Gladstone's enjoyment of Homer.
+  - Homer's words not as grand as expected.
+  - Heroes' names and stories now used differently, like Ajax and Hector.
+  - Hector's verb "to hector" means annoying with abusive shouting.
+  - Cassandra is now a byword for doom-mongering.
+  - The Trojan horse now linked to a computer virus.
+  - Few famous phrases from The Iliad; Marlowe's lines on Troy.
+  - Agamemnon's prayer to kill Hector from Cullen Bryant's translation.
+  - Achilles' tendon myth and expression "Achilles' heel."
+  - Trojan War around 1250 BC; Homer possibly in 8th century BCE.
+  - Philip Verheyen named Achilles tendon in unfortunate circumstances.
+  - Verheyen preserved his own amputated leg for religious reasons.
+  - He dissected his own leg, recorded findings in letters to the limb.
+  - Verheyen went mad before his death, surrounded by dissected leg parts.
+If you have more questions or need further assistance, feel free to ask!
+## The Human Body
+- Body and Language:
+  - The body is the source of numerous words and phrases.
+  - Many body-related verbs and phrases exist, such as "heading off" and "stomaching criticism."
+  - "Footing the bill" refers to adding up charges and writing the total at the foot of a column.
+  - "Paying through the nose" refers to the pain of a nosebleed.
+  - "Heart strings" are vital parts of the heart (chordae tendineae).
+  - "Window" was originally "wind-eye," allowing wind to enter before glass.
+  - The eye contains the "apple of your eye," originating from early anatomists' ideas.
+  - The center of the eye is called the "pupil," similar to school pupils.
+  - The reflection in someone's eyes is like a child, hence "pupil."
+  - The hand has the most words named after it.
+
+## The Five Fingers
+- Numerical Counting and Fingers:
+  - Human beings count in tens.
+  - We use the base-10 system due to having five fingers on each hand.
+  - The word "digit" originally meant finger, but now also means number.
+  - When information is stored in the form of numbers, it becomes digital.
+- Finger Names and Anatomical Connections:
+  - Old English names for fingers were more amusing.
+  - The index finger was called the "towcher" or "toucher."
+  - The middle finger was known as the "fool's finger" and played a role in Roman insults.
+  - The fourth finger was called the "leech finger" due to the belief in a vein connecting it to the heart.
+  - This connection led to putting wedding rings on the fourth finger.
+  - The little finger was called the "ear finger" because it was used for scratching ears.
+- Anatomical Misconceptions and Tradition:
+  - The belief in a direct vein connection between the fourth finger and the heart was not accurate.
+  - Despite the misconception, the fourth finger gained importance in medieval medicine.
+  - The tradition of placing wedding rings on the fourth finger originated from this misconception.
+
+## Hoax Bodies
+- Derivations from "Corpus":
+  - "Corpus" is the Latin word for the human body.
+  - From "corpus," we get words like "corpse" and "corporal punishment."
+  - Less obvious is how "corpus" led to words for magic and fraud.
+- Biblical Context and Cannibalistic Non-Sequitur:
+  - Jesus' statement during the Last Supper involves the transformation of bread into his body.
+  - This act has a cannibalistic connotation.
+  - Cannibalistic aspect often goes unnoticed in Western culture.
+- Cannibalism in Christianity:
+  - Rumors spread during the crusades of Christians cooking and eating Muslims.
+  - Literal interpretation of transubstantiation: Communion wafer becomes Jesus' flesh.
+  - "Accidentals" referred to qualities retained by the wafer.
+- Protestant Reformation and Wafer Dispute:
+  - Protestantism challenged transubstantiation, asserting that the wafer represented Jesus' flesh.
+  - Protestants and Catholics engaged in conflict over this theological difference.
+  - "Hocus Pocus" originated from a clown's parodied magic incantation.
+- Evolution of "Hocus Pocus":
+  - "Hocus Pocus" derived from "hoc est corpus" and was used in parody.
+  - "Hocus Pocus" turned into "hoax," meaning a con or deception.
+  - "Hoax" further evolved to "hokum," meaning nonsense or rubbish.
+- Bunkum and Its Origins:
+  - "Hokum" evolved with "-kum" suffix to sound like "bunkum."
+  - "Bunkum" refers to nonsense or rubbish.
+- Language Evolution and Impact:
+  - The transformation of "corpus" led to a chain of word evolution with diverse meanings.
+  - Language evolves due to cultural changes, religious shifts, and linguistic playfulness.
+
+## Bunking And Debunking
+- Origin of "Debunking":
+  - Debunking is the process of refuting or dispelling false ideas.
+  - It's not related to bunk beds; rather, it's about getting rid of bunk or bunkum (nonsense).
+- Bunkum and Buncombe County:
+  - Bunkum refers to complete nonsense.
+  - Bunkum originated from Buncombe County in North Carolina.
+  - In 1820, Congressman Felix Walker delivered a long, irrelevant speech for his constituency's attention.
+  - The phrase "a speech for Buncombe" led to "speaking bunkum" and "bunkum."
+- Edward Buncombe and Bunkum:
+  - Edward Buncombe was a British pro-independence figure during the Revolutionary War.
+  - He died from sleepwalking-induced injuries after joining the Continental Army.
+  - Buncombe County was named in his honor.
+  - Thus, the county's name is connected to "bunkum."
+- Further Historical Roots:
+  - The name "Bounecombe" suggests "reedy valley."
+  - "Combe" is a word from Old English with Celtic origins.
+- Language Evolution and Origins:
+  - Language often evolves from historical events and cultural contexts.
+  - Many words have complex origins, reflecting historical shifts and influences.
+
+## The Anglo-Saxon Mystery
+- Celtic Britain and Ancient Greeks:
+  - British Isles were inhabited by Celts speaking Celtic languages.
+  - Ancient Greeks called the inhabitants "Prittanoi" (Britain) due to tattoos or woad-paint.
+- Boadicea and the Formation of England:
+  - Boadicea was a Celtic Briton, not English.
+  - England formed when Angles, Saxons, and Jutes arrived from Denmark (around 400 AD).
+  - They started speaking Old English.
+- Language Influence During Conquest:
+  - Conquerors often pick up some language of the conquered.
+  - The Brits in India adopted many Indian words.
+- Limited Celtic Influence on English:
+  - Anglo-Saxons adopted few words from the Celts.
+  - Limited borrowing (combe, tor, cross) contrasts with other conquests.
+  - Possible reasons for this linguistic gap.
+- Historical Theories: Massacre vs. Coexistence:
+  - Linguists suggest minimal linguistic exchange, akin to a massacre.
+  - Historians counter with lack of evidence for violence.
+  - Archaeological and historical gaps challenge linguistic conclusions.
+- Place-Name Evidence:
+  - Place names offer insights into coexistence.
+  - Examples of place names with mixed origins (Penhul, Bredon Hill).
+- The Mystery of Anglo-Saxon and Celtic Interaction:
+  - Lack of clarity on how Anglo-Saxons and Celts interacted.
+  - Darkness of the ages and limited historical records obscure the truth.
+  - Different theories on peaceful coexistence or massacre.
+- Historical Cycles of Conquest:
+  - Both Celts and Anglo-Saxons had histories of conquest and migration.
+  - Vikings later invaded and brought their own language and culture.
+
+## The Sedge-Strewn Stream And Globalisation
+- Vikings and Lindisfarne Attack:
+  - Vikings arrived in Lindisfarne in 793.
+  - Their violent actions involved rape, killing, and sacrifice.
+  - They spread down the north-east coast of England.
+- Viking Naming of Places:
+  - Vikings named places, like Sedge-Stream, in Old Norse.
+  - Sedge-Stream became Starbeck, now a Harrogate suburb.
+  - Place names often reflected local features.
+- Starbuck Family and Nantucket:
+  - Starbuck family emerged in 1379.
+  - Quaker Starbuck family settled in Nantucket, involved in whaling.
+  - Named their ships and island after Starbuck.
+- Herman Melville and Moby-Dick:
+  - Herman Melville wrote "Moby-Dick," influenced by Nantucket's whaling culture.
+  - Starbuck, a mate, was a character in the novel.
+  - The novel initially wasn't popular but gained recognition later.
+- Starbucks Coffee Shop Origin:
+  - Jerry Baldwin, an English teacher, wanted to name a coffee shop "Pequod."
+  - Pequod's association with "pee" led to seeking a different name.
+  - "Starbucks" was chosen, inspired by an old mining settlement, Camp Starbo.
+- Starbucks Branding and Influence:
+  - Starbucks evolved into a globally recognized brand.
+  - Named after a Viking's stream in Yorkshire.
+  - Remains a significant presence in the modern world.
+- Mocha Dick and Starbuck Island:
+  - "Moby-Dick" was based on Mocha Dick, a real white whale.
+  - No Starbucks branches on Starbuck Island.
+  - History uncertain about who named Starbuck Island in honor of whom.
+
+## Coffee
+- Coffee and Ideas:
+  - Balzac's description of coffee's effect on the mind.
+  - Coffee triggers a mental commotion, leading to thoughts and memories racing.
+  - The process is compared to a battle, with various mental elements engaging.
+- Historical Figures and Coffee:
+  - Shakespeare, Julius Caesar, Socrates, and Alexander the Great never drank coffee.
+  - Achievements of antiquity accomplished without caffeine.
+  - Coffee's introduction to Europe in 1615.
+- Espresso and Self-Expression:
+  - Espresso made through steam pressing coffee grains.
+  - Similar process to how thoughts are expressed from the brain.
+  - Metaphorical connection to self-expression.
+- Expressly, Express Mail, and Express Trains:
+  - Actions that are thought about are premeditated, intentional, and deliberate.
+  - Expressly meaning for a specific purpose.
+  - Express mail entrusted to paid messengers for one specific delivery.
+  - Express trains designed for direct routes to specific destinations.
+- Coffee-Related Concepts:
+  - Espresso mentioned in connection with express trains, emphasizing quickness.
+  - Small espresso often expensive, similar to the costly offerings on express trains.
+
+## Cappuccino Monks
+- Cappuccino's Origin:
+  - Matteo Da Bascio started a new order of barefoot Franciscans.
+  - Called Capuchin Monks, after the hoods they wore.
+  - Hood named cappuccio in Italian.
+  - Capuchin Monks spread across Europe.
+  - Ape with a brown patch resembling a monk's hood named Capuchin Monkey.
+- Monk-Inspired Naming:
+  - Capuchin Monkeys named after monks due to common perception of medieval monks as sinners.
+  - Capuchin Monks wore creamy brown habits.
+  - Frothy coffee with creamy, chocolate-sprinkled form named cappuccino after their robes.
+- Cappuccino and Baristas:
+  - Ordering a "little hood" wouldn't be understood by most baristas.
+  - Some baristas may not realize they are akin to barristers (lawyers).
+
+## Called to The Bar
+- Barista and Barman:
+  - Barista serves coffee, borrowed from Italian, meaning "barman" or practitioner.
+  - -ist suffix indicates practitioner, as in Marxist evangelist.
+- Origin of "Bar":
+  - Bar initially referred to a rod used for fastening a gate.
+  - Evolved to mean any obstacle or hindrance.
+  - Bar in a pub is the counter where drinks are served.
+  - "Called to the bar" – paying a bill, but also legal term for becoming a barrister.
+- Inns of Court:
+  - Inns of Court were lodging houses for law students.
+  - Readers were the learned individuals in a separate area behind a big bar.
+  - Inner barristers and outer barristers, complex legal hierarchy.
+- Change in Meaning of "Bar":
+  - In 1600, "bar" applied to wooden railing around courtrooms.
+  - Defendants stood at the bar during proceedings.
+  - Defendant's barrister would plead at the bar.
+- Legal Terms and Evolution:
+  - Prosecuting lawyer might say "culpable: prest d'averrer nostre bille."
+  - Shortened to "cul-prit" – meaning a criminal.
+  - Jury could declare "ignoramus" (Latin for "we don't know") if unable to decide.
+  - Ignoramus became a technical legal term.
+  - Play titled "Ignoramus" by George Ruggle popularized term for a stupid lawyer.
+  - Now "ignoramus" is used to refer to an idiot.
+  - Plural of ignoramus is not "ignorami."
+
+## Ignorami
+- Cretin and Christian Connection:
+  - Original cretins were deformed, mentally deficient dwarves in the Alps.
+  - Named "Cretins" as a form of respect and meant to mean "Christians."
+  - Over time, "cretin" acquired a derogatory sense.
+- Idiot's Origins:
+  - Term "idiot" first appears in Wycliffite Bible (1382) to describe unlearned and ignorant men (Peter and John).
+  - Derived from the Greek "idiotes," meaning a layman or a person outside a professional class.
+- Language Transformations:
+  - Technical terms and euphemisms can become insults when used to demean others.
+  - The term "moron" originated as a medical term to describe IQ levels between 50 and 70.
+  - Escaped medical circles and became an insult within a short time.
+- Oxymoron and Unkindest Twist:
+  - "Oxymoron" comes from Greek roots meaning "sharp softness."
+  - John Duns Scotus, a great theologian, thinker, and philosopher, was called "Duns-men."
+  - Renaissance humanists criticized Duns-men as enemies of progress.
+  - Duns-men were labeled "dunces," unfairly denoting gormlessness.
+  - Duns Scotus's reputation suffered, even though he was full of "gorm."
+
+## Fossil-Less
+- Gorm and Gormless:
+  - "Gormless" is derived from "gorm," meaning sense or understanding.
+  - "Gorm" was a dialect word used by Yorkshiremen, rarely written down.
+  - Emily Brontë's "Wuthering Heights" introduced "gormless" into literature.
+- Effect, Feck, and Feckless:
+  - "Effect" turned into "feck" in Scotland, then "feckless" (having no effect).
+  - Thomas Carlyle used "feckless" but never used "feck."
+  - Feckless appeared in Carlyle's descriptions of the Irish and his wife.
+- Reck and Reckless:
+  - "Reck" originally meant care, used by Chaucer and Shakespeare.
+  - "Reckless" meant rushing headlong into the future, used by Shakespeare.
+  - "Reck" faded as "reckless" became more common.
+- Ruth and Ruthless:
+  - "Ruth" meant compassion, related to feeling sorry or regret (rue).
+  - "Ruthless" describes someone without compassion.
+  - Ruth survived for a while but eventually died out.
+- Language Evolution and Immaculate History:
+  - Words rise and die out without a clear etymological explanation.
+  - History is "maculate" (imperfect), not immaculate.
+  - Language is full of fossil words, but studying them can be intriguing.
+- Conclusion and Future Studies:
+  - The study of fossil words could continue due to the abundance of such words.
+  - Quoting P.G. Wodehouse on being "gruntled" or "disgruntled."
+  - Continuing the study by exploring how "gruntling" relates to "grunt."
+
+## The Frequentative Suffix
+- Frequentative Suffix (-le):
+  - Suffix -le indicates frequent action, like "sparkle" or "crackle."
+  - Gruntle is a verb meaning to grunt often.
+  - If pig grunts repeatedly, it becomes a "gruntler."
+- Disgruntled and Intensive Prefix:
+  - Disgruntled: dis is an intensive prefix, not negative.
+  - Disgruntled means almost the same as "gruntled."
+- Other Frequentative Examples:
+  - People fond each other, leading to "fondle."
+  - Fondling leads to snugging, lying together for warmth.
+  - Snuggling may result in pregnancy.
+- Frequentative Actions:
+  - Actions like trampling, tooting, wrestling, and fizzling are frequentatives.
+- Puzzle: Identify Originals of Frequentatives:
+  - Nuzzle, Bustle, Waddle, Straddle, Swaddle.
+  - Frequentatives often become distinct words over time.
+- Latin Frequentatives:
+  - "Pensare" in Latin meant "to think," related to pensive and pansy.
+  - Romans considered thinking as repeatedly weighing things.
+
+## Pending
+- Latin Word "Pendere":
+  - "Pendere" in Latin meant "to hang."
+  - Its past participle was "pensum."
+- Independence and Dependence:
+  - Independent: not dependent.
+  - Only pendulums and pendants are dependent.
+  - Pendants are pending or impending, suspended, and in suspense.
+- Scales, Weighing, and Balance:
+  - Weighing scales hang in balance.
+  - Scales can measure for pensions, stipends, and compensations.
+  - Dispensations must be weighed mentally.
+- Equipoise, Poise, Preponderance, Propensity:
+  - Equipoise and poise require equal weight to arguments.
+  - Preponderance and propensity lean towards personal penchants.
+- Perpendicular and Compensations:
+  - Penchants may or may not make you perpendicular.
+  - The section is a compendium if it hung together.
+- Appendix and Vermiform Appendix:
+  - Appendix is where you put useless content.
+  - Vermiform appendix is the body's tube, wormlike in appearance.
+
+## Worms And Their Turnings
+- Worms and Etymology:
+  - Worms are often trodden on and face challenges.
+  - Shakespeare mentioned worms fighting back when trodden on.
+  - William Blake's line about cut worms forgiving the plow seems unlikely.
+  - The word "worm" comes from Proto-Indo-European "wer," meaning turn, due to their bendiness.
+  - Worm turning is a tautology due to its origin.
+- Evolution of Meaning:
+  - "Worm" used to mean dragon in the past.
+  - Over time, it referred to snakes and then smaller creatures.
+  - William Morris used "worm" to mean dragon in a battle context.
+- Worms and Humans:
+  - Historical belief that garden worms could crawl into ears.
+  - "Wicga" in Old English also meant worm, leading to the modern word "earwig."
+  - Crocodile's name originates from Greek "kroke-drilos," meaning pebble-worm.
+- Wormholes and Calculus:
+  - "Wormhole" once meant something different, now associated with space-time connection.
+  - Crocodile's name is related to Greek term for pebble-worm.
+  - "Calculus" means pebble and plays a role in mathematics.
+- Interesting Trivia:
+  - Prostitutes in the past wore pubic wigs called "merkins."
+  - Ear-hair grows in a place known as the tragus, resembling a goat's beard.
+  - Ancient Athenian actors wore goatskin in serious plays, leading to the term "tragedies."
+
+## Mathematics
+- Concrete Origins of Mathematical Terms:
+  - Mathematics is abstract and beautiful, but its terms have concrete origins.
+  - "Calculus" originates from "calculus," a Latin word for pebble, as Romans used pebbles for counting.
+  - "Abacus" comes from Hebrew "abaq," meaning dust, but the Greeks used a sand-covered board for calculations.
+- Origins of Mathematical Terms:
+  - "Average" comes from Old French "avarie," referring to damage to a ship; co-owners shared repair costs.
+  - Mathematical terms often had practical, everyday meanings.
+  - "Line" from thread, "trapezium" from table, "circle" from circus.
+- Origin of Mathematical Symbols:
+  - Mathematical expressions used to be written out as sentences.
+  - The plus sign (+) originated from dropping the "e" in Latin "et" ("and").
+  - The "&" symbol (ampersand) also comes from Latin "et."
+- Robert Recorde and the Equals Sign:
+  - Equals sign (=) invented by Robert Recorde in the 16th century.
+  - Recorde got tired of writing "is equal to" repeatedly in his mathematical textbook.
+  - He used parallel lines (Gemowe lines) to represent equality.
+  - Recorde's "Whetstone of Witte" introduced algebraic symbolism.
+- Origins of the Equals Sign:
+  - Recorde's equals sign ( = ) uses parallel lines of equal length.
+  - He likened the lines to identical twins and called them "gemowe."
+  - "Gemowe" comes from Old French "gemeaus," plural of "gemel," from Latin "gemellus," meaning twin.
+- Recorde's Legacy:
+  - Recorde published "The Whetstone of Witte" in 1557, introducing the equals sign.
+  - Died in debtors' prison in 1558, showcasing the difference between mathematics and accounting.
+
+## Stellafied And Oily Beavers
+- Zodiac and its Origins:
+  - Zodiac is a circular arrangement of constellations in the sky.
+  - Eleven of twelve signs are living creatures, seven of which are animals.
+  - Libra was added by Romans; originally, all signs were living creatures.
+- Sign Associations and Etymology:
+  - Cancer, the crab, has associations with both tumor resemblance and the Indo-European root qarq (hard).
+  - Capricorn, the goat, symbolizes skipping and capriciousness.
+  - Taurus, the bull, relates to bullfighting and being killed by toreadors.
+- Gemini and its Origin:
+  - Gemini represents the twins Castor and Pollux.
+  - Zeus and Leda's story led to two eggs: Helen, Clytemnestra; Pollux, Castor.
+  - Pollux shared immortality with Castor, transformed into stars by Zeus.
+- Beaver and Castor Oil:
+  - Castor means "beaver" in Greek; beavers are in the genus Castor.
+  - Beaver's glandular sacs contained castor oil, a laxative.
+  - Castor oil's source changed to the castor oil plant in the mid-18th century.
+- Beaver and Anatomical Terms:
+  - Beaver-related anatomical terms exist, but context keeps the discussion family-friendly.
+  - Beaver was once a word for a beard.
+
+## Beards
+- Language and Beard References:
+  - Many hidden connections to beards exist in the English language.
+  - "Bizarre" comes from Basque "bizar" (beard) due to foreign soldiers' appearance.
+  - Arrows' feathered ends were "barbus" in Latin, giving rise to "barbs."
+- Barber and Lombardy:
+  - The term "barber" originates from ancient Roman barbers who catered to clean-shaven preferences.
+  - Lombards, tribesmen with long beards, gave Lombardy its name.
+  - Romans might have stood "beard to beard" against their enemies if more courageous.
+- Ambrose Burnside and Sideburns:
+  - General Ambrose Burnside had distinctive facial hair.
+  - Burnside's name led to "burnsides" and, later, "sideburns."
+- Bearded Fig and Strangling:
+  - Bearded fig tree (strangler tree) in the Caribbean grows aerial roots.
+  - Aerial roots drop and wrap around branches, eventually strangling host tree.
+  - An island in the Caribbean was named Barbados due to the presence of these trees.
+
+## Islands
+- Bikini Atoll and Atomic Tests:
+  - Bikini Atoll in the Pacific was used for atomic bomb testing by the US in 1946.
+  - Atom's Greek meaning is "unsplittable," but atomic bombs broke that rule.
+  - Nuclear tests had unexpected effects on French and Japanese, inspiring Godzilla.
+- Bikini and Sideburns:
+  - Fashion designer Jacques Heim's two-piece swimsuit design was called the bikini.
+  - Inspired by atomic explosions' impact on lust, causing a "Bikini Atoll" of desire.
+  - "Sideburns" originated from General Ambrose Burnside's facial hair.
+- Serendipity and Walpole:
+  - "Serendipity" coined by Horace Walpole, referring to discoveries by accident.
+  - Term inspired by "The Voyage of the Three Princes of Serendip," a tale of discoveries.
+- Sardinia and Sardonic:
+  - Ancient Sardinians seen as rebarbative, giving rise to "sardonic."
+  - Sardinia also named sardines due to abundant fish in the surrounding seas.
+- Lesbos and Lesbian:
+  - Island of Lesbos known for Greek poetess Sappho, who wrote about her affection for other women.
+  - "Lesbian" became an English euphemism for women who love women.
+- Canary Islands and Canaries:
+  - Canary Islands were originally known for large dogs but later found to have birds.
+  - Canaries changed dogs into birds (and into a yellow color).
+- Cannibal Islands and Caribbean:
+  - Columbus arrived in the Caribbean, encountering people referred to as Canibs, Caribs, and Calibs.
+  - "Caribbean" derived from one pronunciation, and "cannibalism" from the belief that islanders ate each other.
+  - Shakespeare's character Caliban named after one of the pronunciations.
+- Hawaii and Snack Naming:
+  - Text concludes with a reference to Hawaii and the potential naming of a popular snack.
+
+## Sandwich Islands
+- Captain Cook and Naming:
+  - Captain James Cook discovered Hawaii in 1778 and introduced the words "tattoo" and "taboo" to English.
+  - European explorers often named places they discovered, though natives felt they were already there.
+  - Cook renamed Owyhee after his sponsor, John Montagu, 4th Earl of Sandwich.
+- Earl of Sandwich and Sandwich Origins:
+  - Captain Cook's sponsor, John Montagu, had Sandwich-related names, but Sandwich name didn't stick.
+  - The Earl of Sandwich has references in various places, including sandwich shops worldwide.
+  - "Sandwich" derived from the act of the Earl of Sandwich eating a slice of beef between slices of toasted bread while gambling.
+- Origin of Sandwich in French Book:
+  - A French book from 1765 references a minister of state who ate beef between slices of toasted bread while gambling.
+  - The dish was named after the minister, but the book didn't mention the minister's name.
+- Myth of Earl of Sandwich Invention:
+  - The Earl of Sandwich didn't invent the sandwich but made it popular.
+  - People have been putting food between bread slices since ancient times.
+- Association with Aristocracy and Power:
+  - The Earl of Sandwich elevated the sandwich's status, associating it with aristocracy, power, wealth, and gambling.
+  - Notable individuals don't need to cook; they wait for a dish to be named after them.
+- Pizza Margherita and Naming:
+  - Queen Margherita of Italy didn't invent pizza but had a pizza named after her.
+  - In the 1880s, European royalty embraced common foods; Queen Margherita received a pizza from Raffaele Esposito.
+  - Pizza Margherita's colors (tomatoes, mozzarella, herbs) matched the Italian flag, immortalizing her name.
+- Italian Flag and Pizza Margherita:
+  - The Italian flag consists of vertical stripes inspired by the French Revolution's Tricolore.
+
+## The French Revolution in English Words
+- Language and Change:
+  - Language changes with the world; new things require new words.
+  - New words reveal the inventions and ideas of a particular era.
+- Influence of Historical Events on Language:
+  - Historical events shape language development.
+  - Examples of words introduced during specific periods:
+    - Vietnam War: bong, poontang, credibility gap.
+    - Forties: genocide, quisling, crash-landing, debrief, cold war.
+    - Fifties: countdown, cosmonaut, sputnik, beatnik.
+    - Sixties: fast food, jetlag, fab.
+    - Watergate, yuppie, Britpop, pwned, etc.
+- French Revolution and English Language:
+  - The French Revolution brought new ideas and words to English.
+  - New events and ideas required translation into English from French.
+  - Progression of new words imported from French:
+    - 1789: aristocrat
+    - 1790: sans culottes
+    - 1792: capitalist, regime, émigré
+    - 1793: disorganised, demoralised (meaning made immoral), guillotine
+    - 1795: terrorism (meaning government by terror)
+    - 1797: tricolore
+- Continued Influence of French on English:
+  - French influence on English language spans centuries.
+  - Approximately 30% of English words have French origins.
+  - English is predominantly Germanic but contains a significant Romantic (French) influence.
+- Tricolore and French Influence:
+  - The tricolore flag became a symbol of the French Revolution.
+  - The tricolore's influence survived as a flag and even a pizza topping.
+
+## Romance Languages
+- French and Romance Language:
+  - French is considered a Romance language.
+  - Romance languages have origins in the Roman Empire and Latin.
+  - The term "Romanicus" referred to the language spoken in the streets of Rome.
+- Evolution of Language:
+  - Languages change over time, making older texts harder to understand.
+  - Chaucerian English and Latin both underwent changes that affected comprehension.
+  - As languages evolve, distinctions arise between old and current forms.
+- Transformation of Latin:
+  - Roman Latin transformed into different regional versions.
+  - Latin remained important in the Catholic Church and academia.
+  - Latin continued as a scholarly and ecclesiastical language.
+- Emergence of Romanic:
+  - Medieval literature included stories of knights, damsels, and fairylands.
+  - These stories were "romanice scribere" or written in Romanic (language derived from Latin).
+  - Various regions developed distinct Romanic languages.
+- Romanic to Romance:
+  - Romanic became a catch-all term for the languages and stories.
+  - The term "romance" evolved from Romanic.
+  - "Romance" now refers to tales of knights, damsels, and chivalry.
+- Modern Usage of "Romance":
+  - Stories of brave knights and distressed damsels are called "romances."
+  - "Romantic" means displaying gestures of affection or love.
+  - Romantic acts reflect the atmosphere of romantic tales.
+
+## Peripatetic Peoples
+- Romany People and Names:
+  - Romany people have traveled Europe in caravans for centuries.
+  - Various inaccurate names have been used to refer to them.
+  - The name "gypsy" comes from the false notion of them being from Egypt.
+  - Shakespeare used the term "gypsy" in Antony and Cleopatra.
+- Origin and Misconceptions:
+  - The "gypsy" name derives from Romany people claiming to be from "Little Egypt" in 1418.
+  - The Egyptian idea stemmed from the legend of Roma's ancestors denying refuge to Joseph, Mary, and Jesus.
+  - The Romany people are actually of Indian origin, with a language related to Sanskrit and Hindi.
+- Names in Different Countries:
+  - Various countries adopted different inaccurate names for the Romany people.
+  - Hungary: Pharaoh-Nepek (Pharaoh's people).
+  - Scandinavia: Tatars.
+  - Italy: Walachians.
+  - Spain: Flemish Belgians, linked to the term "Flamenco."
+- Bohemians and Flamenco:
+  - Spanish called the Romany people and their music "Flamenco."
+  - French believed they were from Bohemia and referred to them as Bohemians.
+  - Henri Murger coined the term "Bohemian" for unconventional artists in his novel.
+  - The term "Bohemian" caught on, referring to unconventional and insolvent artists.
+- Cultural Influence:
+  - Thackeray used "Bohemian" in Vanity Fair, and Puccini's opera La Bohème popularized the term.
+
+## From Bohemia to California (Via Primrose Hill)
+- Bohemia in Literary Geography:
+  - Shakespeare's "The Winter's Tale" and Tristram Shandy mention Bohemia.
+  - Shakespeare placed a scene on Bohemian shores despite it being landlocked.
+  - Fictional notions gave Bohemia a coastal element it didn't historically have.
+- Shakespeare's Geographical Inaccuracies:
+  - Shakespeare's works contain geographical inconsistencies.
+  - In "The Tempest," characters move long distances overnight.
+  - Characters sail from Verona and work in Bergamo, distant from the sea.
+  - Shakespeare likely never consulted maps, focusing on writing instead.
+- Literary Perspective on Geography:
+  - Fiction can differ from actual geography due to artistic choices.
+  - Fictional elements can blend with real locations over time.
+  - A.E. Housman's poem "Hughley Steeple" illustrates prioritizing rhyme over accuracy.
+  - Alfred de Vigny's play set in London contains geographical errors.
+- Nonsense Becomes Geography:
+  - Over time, fictional places can become part of geographical understanding.
+  - The Greeks believed in Amazonia, an unreal country with fierce female warriors.
+  - Francisco de Orellana named the South American river "Amazon" after hostile women.
+  - Nonsense can evolve into actual geographical terms due to historical events.
+- Transformation of California:
+  - California was originally the name of a fictional island.
+
+## California
+- Fictional Origins of California:
+  - In 1510, Garci Rodriguez de Montalvo wrote about California, an entirely fictional place.
+  - Montalvo compiled stories of chivalry with knights, dragons, exotic locations, and fantastical creatures.
+  - In "Exploits of Esplandian," he described California as an island populated by strong black women, similar to Amazons.
+  - California was imagined near the Earthly Paradise with golden weapons and harnesses for tamed wild beasts.
+- California's Imagined Island Status:
+  - European map-makers believed California was an island from the 16th century to about 1750.
+  - It was believed to be entirely surrounded by water due to exploratory errors, despite not being an island in reality.
+- Naming California after Calafia:
+  - California was named after Calafia, the beautiful queen from Montalvo's story.
+  - In the story, Calafia fought alongside Muslims and had connections to the title of the Muslim leader, the Caliph.
+  - "California" echoes the title "Caliph," linking it to the last surviving Caliphate.
+- Caliphate and Contemporary Associations:
+  - The Caliphate, a union of Islamic states, was abolished in 1924 and revived by Al Qaeda.
+  - The etymological link shows that the term "Caliphate" is still alive in the name "California."
+- Garden of Eden Reference:
+  - The Garden of Eden was assumed to have survived Noah's flood but washed far away to an inaccessible place.
+- Further Reading Reference:
+  - "The Mismapping of America" by Seymour Schwartz provides a detailed account of the geographical mistake.
+
+## The Hash Guys
+- Origins of Caliphate Division:
+  - After the death of Prophet Mohammed, the question of the Caliph and the Caliphate became complex.
+  - Abu Bakr was the first Caliph, but some believed it should have been handed down through Mohammed's family.
+  - Shia believed in lineage, Sunni didn't; Shia split when one of Mohammed's descendants was disinherited.
+- Ismailis and Ismaili Split:
+  - Ismailis emerged from the Shia sect and believed in passing the Caliphate through Mohammed's lineage.
+  - Ismailis split into those who agreed with passing over Ismail and those who didn't; the latter became Ismailis.
+- Ismaili Conquests and Persecutions:
+  - Ismailis conquered North Africa in the 9th century and spread secretly through the Islamic world.
+  - Facing Sunni persecution, Ismailis struggled due to scattered numbers and lack of military force.
+- Hasan-i Sabbah and Alamut Castle:
+  - Hasan-i Sabbah established control over Alamut Castle, a remote, invincible stronghold.
+  - He used assassinations with a golden dagger to retaliate against persecutors.
+- Terrifying Tactics of Ismailis:
+  - Ismailis infiltrated victim's entourage and used sleeper agents to get close for assassination.
+  - They were prepared to suffer death themselves, believing in the promise of paradise.
+- Origin of "Assassin":
+  - Europe encountered the Syrian Ismailis, known as hashshashin, during the Crusades.
+  - Hashshashin's discipline and fatal fanaticism impressed Crusaders, leading to the term "assassin."
+  - "Assassin" was eventually verbed into "assassinate," and the word "assassination" was coined by Shakespeare.
+- Etymological Connection to Cannabis:
+  - The term "assassination" is connected to the term "hashshashin," which was associated with hashish.
+  - Etymologically, "assassination" has a connection to cannabis-related terms.
+
+## Drugs
+- Drug Language and Vocabulary:
+  - Drug terminology is diverse and exotic, reflecting the origins and history of drugs.
+  - The vocabulary is often disputed, legendary, and influenced by stoned perceptions.
+- "Dope" Origins:
+  - The term "dope" originated from a Dutch thick sauce called "doop" used for dipping bread.
+  - The sense transferred to drugs when people started smoking a thick opium preparation.
+- Racehorses and Doping:
+  - Doping is harmful, especially for racehorses; even a slight drugging can ruin their performance.
+  - Gamblers need inside information on which horses are doped to place bets effectively.
+- "Dope" and Betting:
+  - A gambler with inside knowledge of doped horses is said to have the "dope" on a race.
+- Marijuana Terminology:
+  - "Pot" comes from the Mexican-Spanish "potiguaya," meaning marijuana leaves.
+  - "Marijuana" is a Mexification of "Mary Jane," with uncertain origins.
+- Reefer and Hookah Origins:
+  - "Reefer" comes from the Mexican-Spanish "grifo," meaning a drug addict.
+  - Assassins might have used a hookah, a pot for smoking intoxicating vapors.
+- "Bong" Origin:
+  - The term "bong" used by American troops in the Vietnam War comes from the Thai word "buang," referring to a hookah.
+- Uncertainties and Legends:
+  - The term "joint" is unclear whether related to opium joints or joint ownership.
+  - The origin of "muggles" for joints in 1920s New Orleans is uncertain but interestingly linked to Harry Potter's term.
+- "Spliff" and "Dope" Cafe:
+  - The term "spliff" was coined without clear documentation of its origin.
+  - Amsterdam's "dope" cafes, famous worldwide, offer a different high than the original Dutch "doop."
+
+## Pleasing Psalms
+- Placebo and Its Origins:
+  - "Placebo" in Latin means "I will please," and its origins are religious rather than medical.
+  - In the nineteenth century, "placebo" became a medical term for a treatment that pleases more than benefits.
+  - Originally, a "placebo" referred to commonplace cures suggested by unqualified doctors.
+- Dr. Placebo and Placebo Doctors:
+  - "Dr. Placebo" was a fictional or rival doctor mentioned by Robert Pierce in 1697.
+  - Other doctors adopted the name, giving "placebo" an association with doctors who offered ineffective treatments.
+- Connection to Funerals:
+  - The term "placebo" was associated with funerals rather than cures in the beginning.
+  - People attended funerals to partake in the wake and enjoy the drink offered.
+- Psalm and Flattery:
+  - Psalm 114 had an antiphon: "Placebo Domino in regione vivorum" ("I will please the Lord in the land of the living").
+  - Attendees at funerals sang the antiphon and engaged in flattery of the deceased.
+- Evolution to Flattery and Doctors:
+  - Flattery and flattering doctors emerged from the tradition of singing the "placebo" antiphon.
+- Psalm Influence on Language:
+  - Psalms were more significant in the Middle Ages, giving rise to various words and phrases.
+  - Examples include "memento" and the connection between "legem pone" and "pay."
+- Pony Up and Pay Connection:
+  - "Legem pone mihi Domine" became a slang term for down-payment due to its association with pay-day.
+  - Over time, "legem" was dropped, but the phrase's influence remained, leading to the term "pony up" for paying.
+
+## Biblical Errors
+- Bible and Divine Revelation:
+  - Some believe the Bible is the revealed word of God, implying God spoke English.
+  - A society in America reveres the King James Version as divinely revealed and conducts ceremonies involving burning other Bible versions.
+  - The King James Version was more accurate than earlier translations like Myles Coverdale's.
+- Myles Coverdale's Translation:
+  - Myles Coverdale attempted to translate the Bible into English despite limited language skills.
+  - His translation had inaccuracies but contributed to the Church of England Psalter still in use.
+- Inaccuracies and Beautiful Phrasing:
+  - Coverdale's mistranslations resulted in poetic phrasing.
+  - Example: "The iron entered into his soul" (Psalm 105) became a nonsensical yet captivating phrase.
+- Language Evolution and Errors:
+  - Even when Bible translations are accurate, language usage can change the interpretation.
+  - "Strait" refers to narrowness; "straitjackets" for lunatics; "strait-laced" for overly conventional; "strait gate" for a difficult path.
+- Salt of the Earth:
+  - "Salt of the earth" currently refers to common people, but originally meant righteous individuals who preserved the world from God's wrath.
+  - Jesus used the phrase to describe believers as essential preservers in a sinful world.
+  - "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under the foot of men."
+
+## Salt
+- Origins of "Soldier" and Salt:
+  - Uncertain origin of the word "soldier," but possibly related to salt.
+  - Salt was highly valuable in ancient times; Roman soldiers received a salarium (salt-money) stipend to buy salt.
+- Culinary Significance of Salt:
+  - Salt is crucial in culinary history and language.
+  - Romans used salt in sauces (salsa); salted meats became sausages in Old French and salami in Italian and Spanish.
+- Evolution of Culinary Terms:
+  - Old French "salier" (salt-box) led to "cellar" in English.
+  - "Salt cellar" is an etymological blend, now used to store salt on the table.
+  - Romans used salt-salter to season vegetables for "herba salata," which evolved to "salad."
+- "Salad Days" and "Halcyon Days":
+  - The phrase "salad days" from Antony and Cleopatra refers to youthful and inexperienced times.
+  - "Salad days" and "halcyon days" both have a salty connection; the latter signifies calm and peaceful times.
+
+## Halcyon Days
+- Halcyon Days:
+  - Nostalgically referred to as halcyon days.
+  - These days occur from December 14th to the 28th each year.
+  - "Halcyon" comes from the Greek root "hal-" which is linked to salt (similar to "halogen").
+- Halcyon Bird and Mythology:
+  - Halcyon refers to the kingfisher bird.
+  - Originates from the story of Ceyx and Halcyon in Ovid's Metamorphoses.
+  - Halcyon was in love with Ceyx who was lost at sea, leading to her death from grief.
+  - Gods transformed Ceyx and Halcyon into birds, and they became kingfishers.
+- Kingfisher's Nesting Habits:
+  - Halcyon now lays her eggs in a floating nest at sea, due to her sea-gazing.
+  - The gods ensure calm winds during her nesting season in the latter part of December.
+- Halcyon Days Symbolism:
+  - The fortnight of good weather (latter half of December) is known as the Halcyon Days.
+  - Modern biology dismisses the myth, but the poetic significance remains.
+  - Poetry's importance transcends factual accuracy.
+
+## Dog Days
+- Dog Days:
+  - Defined period in the year marked by hot weather and unpleasant conditions.
+  - Coincides with the rising and setting of Sirius, the Dog Star.
+  - Sirius is the brightest star (after the Sun) and part of the Canis Major constellation.
+- Ancient Greek Observations:
+  - Ancient Greeks observed the Dog Days from July 24 to August 24.
+  - During this time, Sirius and the Sun rise and set together, causing extreme heat.
+  - Greeks believed combined rays of the Sun and Dog Star contributed to the heat.
+- Heat and Cooling Methods:
+  - Hesiod's advice during Dog Days: Enjoy food, wine, shade, and cool spring water.
+  - Passage provides insights into the Greeks' response to the heat.
+- Shifted Dates:
+  - Precession of the equinoxes caused the Dog Days to shift over the centuries.
+  - Currently begins around July 6, depending on latitude.
+- Origin of "Dog Will Have His Day":
+  - Not related to the astronomical Dog Days.
+  - Phrase comes from Hamlet by Shakespeare.
+  - Refers to the idea that even the downtrodden will eventually find success.
+- Sirius and Etymology:
+  - Sirius called the Dog Star in English, Canicula (dog) in Latin, and Sirius (scorching) in Greek.
+  - Procyon is another star near Sirius, also associated with dogs.
+  - Greek word "cyon" for dog gave rise to the English word "cynic."
+
+## Cynical Dogs
+- Cynics and Diogenes:
+  - Cynics: Ancient Greek philosophy school founded by Antisthenes and made famous by Diogenes.
+  - Diogenes: Eccentric Cynic philosopher, lived in a barrel in Athens marketplace.
+  - Carried a lamp in daylight, searching for an honest man.
+  - Owned only a mug, but threw it away after seeing a peasant scoop water with hands.
+  - Accounts of his death vary, one suggests he held his breath.
+  - Cynic meant "doglike."
+- Gymnasium and Cynosarge:
+  - Ancient Greek gymnasium: Open-air area for physical training, socializing, and debating.
+  - Gymnasium's name derived from Greek "gymnazein" (train in the nude) and "gymnos" (naked).
+  - Diogenes' gymnasium was the "Gymnasium of the White Dog" or Cynosarge.
+  - A white dog defiled a sacrifice there by taking meat.
+  - Diogenes, a non-Athenian, taught philosophy in the Dog's Gymnasium.
+- Cynical and Etymology:
+  - "Cynical" etymologically linked to "Cynosarge."
+  - By association, a cynical female is, etymologically speaking, a bitch.
+
+## Greek Education And Fastchild
+- Philosophical Schools and Places:
+  - Stoics: Philosophical school, founded by Zeno, taught in the Stoa Poikile or painted porch of the Great Hall in Athens.
+  - Cynics: Linked to dogs, Diogenes was a famous Cynic philosopher.
+  - Akademeia: Grove where Plato taught, giving rise to the term "academies."
+- Education System and Knowledge:
+  - Athenian education system: Greek children, or paedos, learned through a cyclical process, leading to encyclopaedic knowledge.
+  - Romans inspired by Greek education wrote encyclopaedias.
+  - Modern era: Internet invented, computers used for various programming languages.
+- Origin of "Wiki" and Wikipedia:
+  - Ward Cunningham: Developed wikiwikiweb system for simple and fast webpages.
+  - Wiki: Hawaiian for fast; wikiwiki means very fast.
+  - Larry Sanger's idea: Collaborative, web-based encyclopaedia using wiki system.
+  - Wikipedia: Merged "wiki" and "encyclopedia," now a top website.
+  - Few know that Wikipedia means Fastchild; liking Wikipedia makes one a "Wikipedophile."
+
+## Cybermen
+- Modern Terminology:
+  - "Wiki," "cyber," and "virtual" are prevalent terms.
+  - "Real life" contrasts with the virtual world.
+  - Cyberspace: Filled with cybersquatters, cybersex, and cyberpunks.
+  - "Cyber" meaning: Derived from "controlled" or governed, from cybernetics.
+- Origins of "Cyber":
+  - Norbert Wiener: Coined "cybernetics," studying communication and control in animals and machines.
+  - Cybernetics: Derived from the Greek word for a steersman, related to control and governance.
+  - "Governor" shares roots with "gubernatorial."
+- Changing Meanings:
+  - "Punk": Originally referred to a young homosexual companion, evolved into a general insult, then embraced by rockers.
+  - "Cyberpunk": Etymologically curious term when analyzed as "well-governed homosexuals."
+- Meaning of "Virtual":
+  - "Virtual reality": Refers to reality that isn't real, challenges the concept of being "virtually pregnant."
+  - Concern: Few virtuous aspects in virtual reality, despite the term "virtual."
+  - "Virtue" in "by virtue of": Originally linked to commendable qualities, including courage, strength, honesty, and generosity.
+  - Virtue: Derived from Latin "vir," meaning manliness or manhood.
+- Gender Bias and Language:
+  - "Virago": Originally for heroic women, now associated with strong-willed, outspoken women.
+  - Language's sexism: Reflected in ancient terms and attitudes towards women in the workplace.
+
+## Turning Trix
+- "Meretricious":
+  - Often confused with "merit" due to its sound.
+  - Means showy, gaudy, and contemptible, not meritable.
+- Latin Root "Meret":
+  - "Meret" is the same Latin root found in "merit."
+  - Difference: "Merit" related to good qualities, while "meretricious" related to showiness.
+- Feminine Suffix "Trix":
+  - In Latin, "trix" was added to words to indicate female gender.
+  - Examples: "Aviatrix," "editrix," "dominatrix," "tonstrix" (female hairdresser).
+- Roman Views on Women and Work:
+  - Roman women had limited job opportunities; brothel solicitation was common.
+  - "Prostitutio": Standing in front of things, often brothels, seeking customers.
+  - "Merere": Latin for earning, applied to men for work and soldiers for retirement.
+- "Emeritus":
+  - "Emeritus" applied to retired soldiers who earned and retired.
+  - Emeritus Professors: Retired professors who earned their positions.
+- "Meretrix" and "Meretricious":
+  - "Meretrix": Latin for a woman who earned a living, commonly associated with prostitution.
+  - "Meretricious" retains negative connotation, meaning tarty, showy, and gaudy.
+
+## Amateur Lovers
+- Meretricious and Love in Tennis:
+  - "Meretricious" means showy, gaudy, and contemptible.
+  - Contrast to love in tennis reveals an interesting perspective.
+- Tennis Terminology:
+  - Tennis originally known as "sphairistike."
+  - Major Walton Clopton Wingfield standardized tennis rules in the 1890s.
+  - Old tennis from French "tenez" (hold), new tennis known as "sphairistike" (ball-skill).
+- Pronunciation Confusion:
+  - Sphairistike pronounced rhyming with "sticky."
+  - People opted for "lawn tennis" due to pronunciation difficulties.
+- Scoring System and Love:
+  - Tennis scoring retains the old scoring system.
+  - Myth: Love comes from French "l'oeuf" (egg) for zero, as an egg resembles a zero.
+  - Love in tennis means zero, but the egg theory is a myth.
+- Origin of Love in Tennis:
+  - Concept of "love" in games and sports by 1742.
+  - Initially found in reference to whist card game.
+  - Love means zero in tennis, representing nothing.
+- Love in the Context of Amateurs:
+  - Love celebrates the amateur.
+  - Amare (Latin) means love; gives rise to words like amiable, amorous, paramour.
+  - Distinction between amateur and professional: love vs. paid work.
+- Amateurs and Lovers:
+  - Being an amateur implies doing something for the love of it.
+  - Lovers are naturally amateurish due to the etymology.
+- Love vs. Money:
+  - Love is preferred over money, which symbolizes fear.
+
+## Dirty Money
+- Etymology of Money:
+  - Money originates from Latin word "monere."
+  - "Monere" means "warn"; connection is accidental yet significant.
+- Monsters as Warnings:
+  - In ancient times, omens of disasters were believed to involve mythical creatures like centaurs, griffins, and sphinxes.
+  - These unnatural creatures were considered warnings or "monstra" (from "monere").
+- Guard Geese as Protectors:
+  - Guard geese used for security due to their loud noises and aggressive behavior.
+  - Geese's vigilance linked to being a warning system against intruders.
+- Temple of Juno Moneta:
+  - Romans kept guard geese on the Capitoline Hill to protect against threats.
+  - Temple dedicated to Juno Moneta (goddess of warnings) after the Gauls' attack.
+- Coin Production and Mint:
+  - Building next to Juno Moneta temple produced Roman coins; named the Moneta.
+  - Word "mint" derived from Moneta; it refers to a coin-producing building.
+- Evolution of "Money":
+  - "Moneta" led to French "money" and, in English, it retained its reference to warnings.
+- Monetary and Modern Usage:
+  - The term "monetary" related to money and retains reference to temple and geese.
+  - The connection between money and monsters is accidental due to etymology.
+- Money's Perception:
+  - Money is not inherently bad, despite its etymological connection to warnings.
+  - Light-hearted reference to mortgage as a "death-pledge."
+
+## Death-Pledges
+- Mortgage's Origin and Significance:
+  - Mortgage is literally a "death-pledge."
+  - Mort is death, and death and mortgages are certain in life.
+  - Mortgage has two possible outcomes: full payment or repossession.
+- Meaning of Mortgage:
+  - "Mortgage" derives from uncertainty if the Feoffor will pay by the due date.
+  - If payment isn't made, the pledged land is taken forever, "dead" to the owner.
+  - If money is paid, the pledged property is "dead" as far as the tenant is concerned.
+- Other Hidden Deaths in Language:
+  - Connection between "executive" and "executioner" is due to the origin of "execution" as "execute to death."
+  - "Caput" (head) has a link to contemplating a skull (death's head) for monks' reminder of mortality.
+  - "Caput mortuum" refers to a skull, and its original owner was indeed caput (dead).
+- Expression "Blue Murder":
+  - "Blue murder" directly translates the French phrase "mort bleu," which means "death of God" (mort dieu).
+  - It's a non-blasphemous expression with an underlying reference to death.
+- Positive Aspect of "Gage":
+  - "Gage" means pledge, also used in the context of falling in love and getting engaged.
+  - Closely related to the concept of waging war.
+
+## Wagering War
+- "Wage" and Its Derivatives:
+  - "Wage" originally meant a pledge or deposit, similar to the concept in mortgage and engagement.
+  - In the fourteenth century, a wage was something given in security, which led to the modern notion of wages as pay.
+  - "Wage" and "wager" are connected terms, both stemming from the concept of a pledge or deposit.
+- Waging War and Legal Context:
+  - "Waging war" might seem unusual since "wage" is often associated with pay.
+  - In medieval law, disputes could be settled by duelling to the death, a practice known as trial by combat.
+  - The wronged party would throw down their "gage" (pledge) and challenge their opponent to trial by combat.
+  - This process was called "gager bataille" in French and "waging battle" in English, referring to individual combat, not war.
+- Evolution to "Waging War":
+  - The shift from pledging oneself to battle to engaging in actual violence was a natural extension.
+  - Eventually, the sense of "waging battle" expanded to the concept of two countries engaging in conflict, leading to "waging war."
+- Shift in Meaning and Terminology:
+  - The shift from trial by combat to large-scale conflicts between nations could be described as "wage inflation."
+  - The historical mixing of Gs and Ws contributed to terms like "warranty" as an alternate for "guarantee."
+
+## Strapped For Cash
+- Strapped for Cash:
+  - Being "strapped for cash" implies a shortage of money.
+  - The metaphor of being "strapped" relates to needing something to hold onto or for support, like a strap.
+  - A strap can provide stability when falling, or act as a lifeline when in distress, as when falling overboard.
+- Positive Aspect of Being Strapped:
+  - Being "strapped for cash" is actually a good situation compared to having no cash at all.
+  - The metaphor emphasizes the need for support during difficult financial times.
+- Twice Invented Metaphor:
+  - The metaphor of being "strapped" for support has been used in different contexts: falling overboard and struggling financially.
+  - A similar metaphor is seen when governments offer lifelines to struggling banks during financial crises.
+- Lifeline for Banks:
+  - When a bank faces bankruptcy, the government provides financial assistance, referred to as a "lifeline."
+  - This support helps the bank survive, even if it remains "strapped for cash."
+- Bank Origins:
+  - The term "bank" originates from an old Italian word for bench, as money-lenders conducted business behind benches in marketplaces.
+  - A broken bench symbolized a money-lender's inability to fulfill arrangements, leading to the term "banca-rotta" or "bankrupt."
+
+## Fast Bucks And Dead Ones
+- Early Monetary Systems:
+  - Money has associations with death, danger, and destruction.
+  - Running a society without money is possible, as seen in early America before European colonization.
+  - Early forms of trade involved items like clam shells (wampums) and coffee beans as standards of value.
+- Trade Challenges:
+  - Colonists faced challenges trading with Native Americans who didn't value coins or banknotes.
+  - Early trading involved tobacco and then deerskins due to their practicality and value.
+- Buckskins as Barter:
+  - Deerskins, known as "buckskins" or "bucks," became a standard unit of barter.
+  - Buckskins were thin, light, and versatile for trading purposes.
+- Conrad Weiser and the First Buck:
+  - Conrad Weiser, born in Germany, lived among the Mohawk tribe and became a diplomat.
+  - Weiser negotiated treaties between the British and native tribes, playing a significant role in diplomacy.
+  - He negotiated with the tribes of the Five Nations, addressing issues related to peace, amends, and rum trade.
+- Burying the Hatchet:
+  - The tribal council used the phrase "burying the hatchet" to express reconciliation and peace.
+  - It indicated a desire to put conflicts behind and move forward.
+- Introduction of Buck as Currency:
+  - The negotiation involved a reference to "bucks" as a unit of American currency.
+  - Weiser mentioned "5 Bucks" in terms of pricing for whiskey, marking one of the earliest references to a buck as currency.
+- Currency Finalized with Wampum:
+  - The deal was concluded with a belt of wampum, showing the significance of wampum in early American trade.
+- Transition to Metaphorical Use:
+  - The mention of making a "phrase out of their horns" suggests the transition from using buckskins as currency to the metaphorical use of "buck" in language.
+
+## The Buck Stops Here
+- Misconception about "Passing the Buck":
+  - The phrase "passing the buck" isn't related to passing a dollar.
+  - Passing a dollar wouldn't transfer responsibility effectively.
+- Origin of the Phrase:
+  - The phrase "passing the buck" involves a part of the buck deer's corpse, not currency.
+  - Deer parts were used in various ways, including making knife handles from the horns.
+- Uses of a Knife:
+  - A buck's horn could be used to make a knife handle.
+  - Knives had various uses, including cutting venison and skinning deer for profit.
+- Passing the Buck in Poker:
+  - In poker games, a knife was used to mark the dealer by stabbing it into the table.
+  - This practice led to the origin of the phrase "passing the buck" in a diary entry from 1856.
+- The Phrase's Origin in the Wild West:
+  - A "border ruffian" mentioned passing the buck while approaching Buck Creek.
+  - In Wild West circumstances, the dealer might be in danger due to suspicions of cheating.
+- The Phrase's Evolution:
+  - The phrase continued to be used, eventually ending up in a prison in El Reno, Oklahoma.
+  - The prison governor had a sign "THE BUCK STOPS HERE" in his office, indicating the end of his responsibility.
+- Limited Responsibility:
+  - The prison governor's responsibility only extended so far; higher authorities still held sway.
+  - The phrase gained prominence when an aide to Harry S. Truman saw the sign and replicated it for Truman's office.
+- Bucks and Deer:
+  - The phrase "passing the buck" indirectly relates to a buck deer due to the reference to the knife handle.
+
+## Back to Howth Castle And Environs
+- Buckwheat and Buck-Deer:
+  - Buckwheat, despite its name, has no relation to deer.
+  - Buckwheat leaves resemble beech tree leaves.
+  - The German word for beech is "Buche," so buckwheat is essentially "beechwheat."
+- Beech Trees and German Influence:
+  - Beechwood is soft and was used for carving and writing.
+  - In Old High German, beech was called "bok" or "buche."
+  - Germans used beechwood for writing, even with the advent of parchment.
+  - The Old High German "bok" evolved to "boc" and then to "book" in English.
+- The English Language's Oddities:
+  - The English language allows for various unusual actions involving books.
+  - You can cook a book, bring a criminal to it, throw it at someone, or even use its pages as toilet paper.
+- Turning Up for a Book:
+  - Despite the many things you can do to a book, you can't "turn up" for it.
+  - The phrase "a turn-up for the books" is introduced, leaving the meaning to continue on the next page.
+
