@@ -1,79 +1,178 @@
 # The Design of Everyday Things
-Don Norman
+Author: Don Norman
 
-## The Psychopathology of Everyday Things
-- Donald Norman explores the relationship between human psychology and everyday objects
-- Modern devices can be frustrating and confusing due to their complexity
-- The more functions a product has, the harder it is for users to learn and operate it effectively
-- Human-centered design focuses on meeting the needs and mental models of users
-- Affordances, constraints, and signifiers are important principles in human-centered design
-- The system image, derived from the product's physical structure and documentation, is crucial for successful product usage
-- The integration of technology brings both potential enhancements and challenges to design
-- Collaboration between designers, engineers, marketers, manufacturers, and service providers is essential for creating successful products.
+## The Psychopathology OF Everyday Things
+- Conceptual Models and Design Principles:
+  - Conceptual models are mental representations of how things work, formed through experience, training, and instruction.
+  - Designers create conceptual models to guide users' understanding of products and devices.
+  - A good conceptual model is crucial for predictability, usability, and problem-solving.
+  - Users' mental models are derived from the system image, including physical structure, documentation, instructions, and online information.
+  - Communication between designer, user, and system image is vital for successful design.
+  - The paradox of technology: Technology simplifies and complicates life by adding functions and complexities to devices.
+  - Great design requires cooperation between various disciplines, considering usability, aesthetics, affordability, manufacturing, and more.
+- Importance of Conceptual Models:
+  - Conceptual models guide users in predicting and understanding product behavior.
+  - Designers' and users' mental models may not align due to lack of direct communication.
+  - Inadequate or misleading conceptual models lead to difficulties in using products.
+  - Effective conceptual models rely on clear signifiers, affordances, constraints, and mappings.
+- Design Challenges and Solutions:
+  - Successful design requires coordination among various disciplines, including marketing, engineering, manufacturing, and support.
+  - Balancing competing priorities of price, usability, appearance, reliability, and more is essential.
+  - Design teams must consider users' changing needs from store to home and the viewpoints of all stakeholders.
+  - Human-centered design principles lead to positive results and user satisfaction.
 
-## The Psychology of Everyday Actions
-- Ultimate goal of design: user-centered products and systems
-- Design principles: discoverability, feedback, conceptual model, affordances, signifiers, mappings, and constraints
-- Discoverability: clear actions and system state
-- Feedback: informs users of actions and system status
-- Conceptual model: mental map for understanding technology and making informed decisions
-- Affordances and signifiers: communicate possible actions
-- Mappings: logical relationships between controls and actions
-- Constraints: guide users towards desired outcomes
-- Designers empathize with users and consider their perspectives
-- Continuous improvement and learning from failures
-- Design empowers and provides understanding to users
-- Designers responsible for user-centered systems
-- Designers shape technology for positive impact on users' lives.
+## The Psychology OF Everyday Actions
+- **Blaming Oneself for Failures and Misunderstandings:**
+  - People often blame themselves for failures and difficulties when using technology or everyday objects.
+  - This blame arises from a learned helplessness, where repeated failures lead to a belief in one's inability.
+  - The phenomenon of learned helplessness can also contribute to technology and mathematics phobias.
+- **Importance of Design in Human-Machine Interaction:**
+  - Design plays a crucial role in how people interact with technology and machines.
+  - A faulty conceptual model can lead to misunderstandings and errors in usage.
+  - Positive design principles, such as affordances, mappings, feedback, and constraints, enhance user experience.
+  - Designers should consider human behavior, flexibility, and creativity when creating products.
+- **Seven Stages of Action and Design Principles:**
+  - The seven stages of action (goal, plan, specify, perform, perceive, interpret, compare) provide insights into human interactions with systems.
+  - Key design principles include discoverability, feedback, conceptual model, affordances, signifiers, mappings, and constraints.
+  - Good design should ensure ease of use, clear feedback, and a strong conceptual model for users to understand and control systems.
+- **Avoiding Blame and Promoting Improvement:**
+  - Instead of blaming individuals, focus on identifying design deficiencies and communication breakdowns.
+  - Recognize that different stages and groups may contribute to design problems.
+  - Seek to understand the causes of design flaws and propose alternative solutions.
+  - Appreciating good design helps in recognizing the mastery of the seven stages of action and design principles.
+- **Complex Systems and Holistic Design:**
+  - Interactions with products involve complex systems where design influences all stages of action.
+  - A well-designed product considers users' requirements, intentions, and desires across all stages of interaction.
 
-## Knowledge in the Head and in the World
-- Nat mappings align controls & info w/ relationships, improving usability
-- Lack of clear mappings in kitchen stove design = confusion/errors
-- Nat mappings important in aviation, consider pilot viewpoint/mental models for safety/efficiency
-- Cultural nuances impact design choices/perceptions of nat mappings, incl. time representation
-- Designers create products/systems for diverse backgrounds/perspectives, consider metaphor choices/cultural lenses
-- Switching metaphors or conventions = confusion/resistance, require adaptation periods
-- Understanding cultural influences essential in creating tech that transcends borders/bridges cultures, harmonious coexistence w/ human experience.
+## Knowledge in The Head And in The World
+- Knowledge in the head vs. knowledge in the world:
+  - Knowledge in the head is efficient, readily available, but requires storage and retrieval.
+  - Knowledge in the world is easily accessible but may be more difficult to use and can be lost due to changes in the environment.
+  - Tradeoffs involve interpretation, learning, and ease of use.
+- Memory and technology:
+  - External knowledge sources (world, friends, technology) enhance intelligence but can be erroneous.
+  - Technology and people combined create powerful capabilities.
+  - Dependence on technology is increasing, impacting various aspects of life.
+- Natural mapping:
+  - Natural mappings enhance usability, where controls relate directly to the object being controlled.
+  - Poor mappings lead to errors, burdening memory and increasing effort.
+  - Examples include stove controls and gesture-controlled devices.
+- Culture and design:
+  - Natural mappings vary with culture and perspective.
+  - Different cultures perceive time, direction, and spatial relationships differently.
+  - Design choices should consider cultural perspectives and metaphors.
+- Switching conventions and metaphors:
+  - Switching conventions or metaphors can lead to confusion.
+  - Adapting to new systems takes time and effort.
 
-## Knowing What to Do: Constraints Discoverability, and Feedback
-- Destination-control elevators revolutionized vertical transportation with hallway keypads for efficiency.
-- Resistance to objectively superior conventions is common.
-- Metric system: logical, easy to learn, but faces resistance in some countries due to disruption and cost.
-- Water faucet design: balancing user needs with physical structure.
-- Sound in design: crucial for safety, e.g., artificial sounds in electric vehicles.
-- Design challenges persist in an ever-evolving world, with innovation opportunities in efficiency, safety, and user satisfaction.
+## Knowing What to Do: Constraints, Discoverability, And Feedback
+- **Elevator Destination Control:**
+  - Destination control optimizes elevator efficiency.
+  - Keypads are located outside elevators to input desired floors.
+  - Passengers are assigned to the most efficient elevator for their destination.
+  - Provides faster trips and fewer stops, even with different floors.
+  - Change of destination can be made at the control box in the elevator hall.
+- **Resistance to Change in Conventions:**
+  - People resist new approaches introduced to existing systems.
+  - The metric system's benefits over English units are ignored by some countries.
+  - The United States resists metric system adoption due to change difficulty.
+  - Consistency in design is valuable, even if changes are slightly better.
+  - Change is necessary for improvement, old conventions shouldn't hinder.
+- **Faucet Design Challenges:**
+  - Designing faucets for usability and consistency is complex.
+  - Various control schemes: dual control for hot/cold, temperature-only control, etc.
+  - Mapping problems arise from controls' interactions.
+  - Cultural conventions, like left/hot and right/cold, influence faucet design.
+  - Standardization simplifies design and user experience, but can hinder innovation.
+- **Using Sound as Signifiers:**
+  - Sound provides information where visibility is limited.
+  - Natural sounds are informative about interactions and conditions.
+  - Artificial sounds in cars help alert pedestrians due to quiet electric vehicles.
+  - Sound should indicate presence, orientation, and speed without annoyance.
+  - Balancing standardization and individualization for safety and branding.
+  - Electric cars' quietness prompts efforts to add artificial sounds.
+- **Regulation for Electric Vehicle Sounds:**
+  - Electric vehicles' silence poses risks for pedestrians, especially the blind.
+  - Regulations and standards are developed to ensure safe electric vehicle sounds.
+  - Criteria for electric vehicle sounds: alertness, orientation, lack of annoyance.
+  - The challenge is to alert and orient without causing annoyance.
+  - Balancing standardization for interpretation and individualization for tracking/branding.
+  - The effort to add sound contrasts with past efforts to make cars quieter.
 
 ## Human Error? No, Bad Design
-- Human error oversimplifies accident causes; Swiss cheese model shows how defense holes align, allowing errors. 
-- Design redundancy prevents system failure; proper design reduces Swiss cheese holes for error detection. 
-- Blaming individuals not constructive; focus on systemic issues for error understanding. 
-- Resilience engineering designs effective responses to problems. 
-- Automation enhances efficiency and safety, but leads to complacency. 
-- Designing for error improves system; don't blame individuals. 
-- Understanding human error requires acknowledging interconnected factors. 
-- Redundancy, resilience, and design create safer systems.
+- **Swiss Cheese Model of Accidents:**
+  - Accidents result from multiple failures lining up.
+  - Human error is just one layer; systemic flaws are more significant.
+  - Mitigation involves reducing holes, improving design, redundancy, and layers of defense.
+  - Shift from blaming individuals to focusing on system improvement.
+- **Role of Human Error and Design:**
+  - Not all accidents are due to human error; bad design plays a substantial role.
+  - Competent individuals can err under conditions like fatigue, lack of training, etc.
+  - Deliberate violations of procedures also contribute to accidents.
+  - Proper design and training can significantly reduce accidents.
+- **Resilience Engineering:**
+  - Complex systems (e.g., oil refineries, power systems) require resilience.
+  - Resilience engineering aims for systems that respond well to problems.
+  - Constant assessment, testing, and improvement of systems, procedures, and communication.
+  - Major providers deliberately cause errors to test and improve system responses.
+- **Paradox of Automation:**
+  - Automation reduces errors and increases efficiency in routine tasks.
+  - Automation can fail unexpectedly in complex situations.
+  - Automation can lead to complacency and reduced human vigilance.
+  - Paradox: Automation is great for routine but fails in complex situations.
+- **Design Principles for Dealing with Error:**
+  - Collaborative approach: leverage human strengths and machine capabilities.
+  - Minimize opportunities for errors and reduce their consequences.
+  - Distribute operational knowledge between experts and non-experts.
+  - Use natural constraints, visible feedback, and clear mappings in design.
+  - Embrace error, understand causes, and focus on assistance and improvement.
 
 ## Design Thinking
-- Design Thinking puts human needs and experiences at the forefront of problem-solving
-- Requires empathy, creativity, and collaboration to arrive at innovative solutions
-- Focuses on understanding the unique needs of individuals
-- Structured yet flexible process with iterative ideation and prototyping
-- Testing prototypes with real users for feedback and refinement
-- Affordances create intuitive interactions in design
-- Error prevention and tolerance enhance user satisfaction
-- Design Thinking extends to digital interfaces, services, and systems
-- Challenges include balancing usability and security, and not compromising on intended purpose
-- Demands creativity, empathy, and willingness to embrace ambiguity
-- Bridging the gap between technology and people for meaningful impact.
+- **Challenges and Benefits of Standardization:**
+  - Standardization simplifies and harmonizes different systems.
+  - Timing standards illustrate the need for careful standardization.
+  - Standardize too soon or too late can lead to inefficiencies or high costs.
+  - The metric system as an example of standardization struggles.
+- **Decimal Time and Metric Divisions:**
+  - Current time division is arbitrary with 12-hour cycles.
+  - Proposal for metric time with digital hours, minutes, and seconds.
+  - Benefits of decimal time: simplicity and compatibility with decimal arithmetic.
+  - Historical attempts at introducing decimal time, including Swatch's effort.
+- **Balancing Design and Security:**
+  - Balancing usability with secrecy, privacy, or protection.
+  - Deliberately making things difficult for security purposes.
+  - Examples of deliberately difficult designs: security systems, dangerous equipment.
+  - Importance of understanding rules of good design even for difficult tasks.
+- **Design Challenges and Safety:**
+  - Design's integration of technology, people, business, and culture.
+  - Complex constraints and challenges for designers.
+  - Constant consideration of products' usability by people.
+  - Balancing safety features with potential secondary dangers.
 
-## Design in the World of Business
-- Designing successful products involves meeting various needs and delivering emotional satisfaction to users
-- Designers need a combination of technical skills, business acumen, and social finesse
-- Sustainability is crucial in minimizing environmental impact and promoting responsible consumption
-- Small innovations empower individuals and small groups to share their ideas and products globally
-- User-centric design is essential for success, focusing on usability and user feedback
-- Certain design principles remain constant despite technological advancements
-- Designers must prioritize ethical considerations and create products with a positive impact
-- Users can influence product development through feedback and support
-- Design must align with timeless principles of human behavior and interaction
-- The world of design offers exciting challenges and opportunities for creativity and talent.
+## Design in The World of Business
+- Incremental vs. Radical Innovation
+  - Incremental innovations are frequent, while radical innovation is rare.
+  - Industries like education, transportation, medicine, and housing are ripe for radical innovation.
+- Human Evolution and Culture
+  - Evolutionary change in humans is slow, measured in thousands of years.
+  - Cultures change more rapidly, but fundamental human activities persist despite technological advances.
+- Fundamental Human Activities
+  - Social interaction, communication, sports, music, education, business, transportation, self-expression, arts, sex, health, food, clothing, and housing are fundamental activities that persist despite technological changes.
+- Human-Machine Interaction
+  - Technology changes the way humans interact, introducing gestures, touch, speech, and AI.
+  - Implants and enhancements in the human body could blur the line between biology and technology.
+- Changes in Society and Culture
+  - Technology impacts human culture and life, from family size to work to education.
+  - The relationship between humans, machines, and cultures is evolving.
+- The Power of Technology
+  - Technology augments human abilities, enhancing memory, problem-solving, and decision-making.
+  - Human plus machine can achieve more than either alone, exemplified in chess competitions.
+- Design Philosophy
+  - Design impacts society and culture, reflecting political, economic, and social values.
+  - A well-designed product satisfies needs and is manufacturable, marketable, and environmentally responsible.
+- Rise of the Small
+  - New technologies empower individuals and small groups to innovate, share, and create.
+  - Accessible tools like 3-D printers and open-source platforms enable global collaboration and innovation.
+- Enduring Principles of Design
+  - Basic design principles, such as discoverability, feedback, affordances, and mapping, remain constant despite technological changes.
+
