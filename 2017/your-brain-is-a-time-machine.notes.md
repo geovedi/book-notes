@@ -1,138 +1,423 @@
-# Your Brain is a Time Machine
-Dean Buonomano
+# Your Brain Is a Time Machine
+Author: Dean Buonomano
 
 ## Brain Time
-### Flavors Of Time
-- Time is a significant concept in our lives and has been explored by various disciplines like philosophy, physics, and neuroscience.
-- The nature of time is difficult to define, and it has puzzled thinkers for centuries.
-- Time is intricately woven into the fabric of our lives and influences memory, decision-making, and our perception of the future.
-- The scientific understanding of time has evolved over the years, incorporating dynamics and calculus to comprehend change over time.
-- Presentism and eternalism are central debates in philosophy and physics regarding the nature of time.
-- The book will explore different meanings of time, including natural time, clock time, and subjective time, to understand the human mind better.
-- The mystery of time goes beyond science and philosophy, and the fleeting nature of time raises questions about our existence and mortality.
+### 1:00 Flavors of Time
+- Introduction: The Complexity of Time
+  - Time is a fundamental concept in human life, with its significance highlighted by the fact that even those who possess nothing else still possess time.
+  - The importance of time is reflected in common phrases and expressions related to it, such as saving time, killing time, tracking time, etc.
+  - Various fields of study, including philosophy, physics, neuroscience, and psychology, grapple with understanding time and its different dimensions.
+- The Mystery of Time: Definitions and Philosophical Questions
+  - The word "time" stands atop the list of the most commonly used nouns in English, yet there's no consensus on its definition.
+  - The challenge of defining time was acknowledged by Saint Augustine, indicating the perplexing nature of the concept.
+  - Philosophical questions about time include its nature, whether it's a dimension, and its relation to free will.
+  - The goal is to explore and answer these questions, though the nature of the human brain poses limitations.
+- Exploring Time's Complexity: Time vs. Space
+  - Time is more intricate and harder for the human brain to comprehend than space.
+  - Vertebrate animals can navigate and create internal maps of space, but understanding time is not as crucial due to its lack of physical navigability.
+  - Unlike space, animals cannot physically navigate through time, which contributes to the lack of emphasis on understanding time.
+- Evolution of Science and Time: Geometry and Dynamics
+  - Geometry was the first formalized scientific field, neglecting time.
+  - Euclidean geometry focused on space, and only much later did scientists begin incorporating time into mathematics and physics.
+  - Galileo's observations of a swaying lamp led to dynamics, and Newton's calculus enabled describing changes over time.
+- Advances in Physics: Chaos and Relativity
+  - Scientists realized that even within Newton's laws, predicting future outcomes is not always feasible due to chaos.
+  - Einstein's theories, including special and general relativity, reshaped our understanding of time as a dimension.
+  - The clash between the subjective perception of time's flow and physics' block universe concept is a significant challenge.
+- Different Facets of Time: Natural Time, Clock Time, and Subjective Time
+  - Natural time refers to the concept of time as a dimension and is central to the presentism-versus-eternalism debate.
+  - Clock time is defined by clocks and governs daily life, but it's a local measure of change, not absolute or universal.
+  - Subjective time is the conscious sense of the passage of time and is a construct created by the brain.
+- The Brain's Role in Understanding Time
+  - The brain's ability to understand time is constrained by its evolutionary design, and intuitions about time reveal insights into brain architecture.
+  - Despite the complexity, fields like neuroscience and psychology are increasingly recognizing the importance of time.
+  - The brain is a "time machine," capable of predicting the future, representing time, and projecting into the future.
+- Concluding Thoughts: The Mystery Persists
+  - Human abilities to predict and project into the future define our species, but they also remind us of the finite nature of our own time.
+  - The quest to understand time remains, prompting the question: What is time? The mystery persists.
 
-### The Best Time Machine You'll Ever Own
-- Time travel has been a captivating concept in human imagination.
-- Einstein's theory of special relativity in 1905 made time travel an acceptable topic in physics.
-- The brain acts as a time machine for several interconnected reasons:
-  1. Memory for Prediction: Uses past experiences to anticipate future events.
-  2. Telling Time: Recognizes temporal patterns and measures the passage of time.
-  3. Creation of the Sense of Time: Creates a conscious perception of time passing.
-  4. Mental Time Travel: Allows projection into the past and future for decision-making.
-- The brain's understanding of time is vital for learning, communication, and emotional expression.
-- The brain employs multiple neural circuits for different temporal processes, no single "clock" for all time scales.
+### 2:00 The Best Time Machine You'll Ever Own
+- Introduction to Time and Clairvoyant Abilities:
+  - Humans possess the ability to predict the future and anticipate events.
+  - The concept of time travel is popular in movies, books, and physics, but historically absent.
+  - The brain is explored as a time machine for predicting the future.
+- The Brain as a Time Machine:
+  - The brain predicts the future based on past experiences to enhance survival.
+  - The brain's core function is prediction and anticipation.
+  - Short-term predictions (seconds) are automatic and unconscious.
+  - Animals make long-term predictions by surveying their environment.
+  - The brain stores vast information about the past to predict the future.
+- The Brain's Ability to Tell Time:
+  - Telling time involves recognizing and generating temporal patterns.
+  - Telling time is critical for predicting future events.
+  - Animals use temporal patterns for survival and behavior.
+  - Telling time across different scales, from milliseconds to seconds.
+- The Brain's Creation of the Sense of Time:
+  - Unlike physical properties, time is a conscious perception created by the brain.
+  - Our sense of time undergoes illusions and distortions.
+  - Perception of time is fundamental but at odds with physical concepts.
+  - Mental time travel allows us to project ourselves into the past and future.
+- Temporal Direction and Misdirection:
+  - The brain's assumptions about temporal order and interval help interpret events.
+  - Temporal misdirection is exploited in magic tricks and casinos.
+  - The brain's wiring sculpts its understanding of cause and effect.
+- Synaptic Cause and Effect:
+  - Neurons and synapses connect events separated by short and long intervals.
+  - Learning rules like spike-timing-dependent plasticity (STDP) strengthen cause-and-effect connections.
+  - Learning rules determine synaptic strength, allowing the brain to learn relationships between events.
+- Telling Time Across Scales:
+  - The brain calculates interaural time delays to locate sound sources.
+  - The brain's ability to parse temporal patterns in speech and music.
+  - Conscious perception of time on the scale of seconds and longer.
+  - The brain is designed to anticipate future events by measuring time.
+- Multiple Mechanisms for Telling Time:
+  - The brain possesses various mechanisms for measuring time across scales.
+  - Different neural circuits handle different temporal ranges.
+  - The brain's multiple clock principle for solving distinct temporal problems.
+- Conclusion:
+  - The brain's ability to tell time is essential for survival and cognition.
+  - The brain's diverse mechanisms for telling time are suited to its functions.
 
-### Day And Night
-- Circadian clock orchestrates daily rhythms in living organisms.
-- Suprachiasmatic nucleus (SCN) acts as the master conductor in the brain.
-- Circadian clock relies on molecular mechanisms and autoregulatory feedback loops.
-- Period protein plays a crucial role in the circadian clock's functioning.
-- Circadian rhythms present in diverse organisms from cyanobacteria to mammals like humans.
-- Temperature compensation ensures circadian rhythms remain stable despite temperature fluctuations.
-- Jet lag results from desynchronization with Earth's rotation during travel.
-- Chronotypes and circadian rhythm sleep disorders showcase individual variations in circadian preferences.
-- Circadian clock excels in timing events spanning hours and days, not seconds.
-- Evidence suggests the existence of multiple internal clocks for different scales of time.
-- Circadian clock's complexity and significance continue to captivate the scientific community.
+### 3:00 Day and Night
+- Circadian Clock Overview
+  - The circadian clock is a biological timekeeping mechanism found in various organisms.
+  - Its primary purpose is to anticipate daily changes in the environment, such as light, temperature, and food availability.
+  - The basic idea of the circadian clock is similar to regulating the flow of water in a toilet.
+- Mechanism of Circadian Clock
+  - The circadian clock operates through a transcription/translation autoregulatory feedback loop.
+  - Genes in DNA are transcribed into RNA, which is then translated into proteins.
+  - Proteins, including Period, inhibit the transcription of the genes that produced them, creating a feedback loop.
+  - The concentration of Period protein rises and falls, leading to cyclical regulation.
+- Suprachiasmatic Nucleus and Entrainment
+  - The suprachiasmatic nucleus (SCN) is a critical part of the circadian clock located in the brain.
+  - It receives input from external cues (zeitgebers) like sunlight to entrain the internal clock with the external environment.
+  - SCN activity influences neural signals that determine wakefulness or sleepiness.
+- Jet Lag and Entrainment Challenges
+  - Travel across time zones disrupts circadian rhythms, causing jet lag.
+  - Eastward travel is harder to adjust to than westward travel due to the need for phase advance.
+  - The difficulty of resetting the circadian clock after travel reflects its inherent differences from man-made clocks.
+- Individual Chronotypes and Sleep Disorders
+  - Different chronotypes (morning larks and night owls) exist based on when individuals prefer to sleep and feel alert.
+  - Genetic mutations can lead to extreme chronotypes, such as familial advanced sleep-phase disorder.
+  - Shift work disrupts natural circadian rhythms and can lead to health issues.
+- Circadian Clock's Impact on Physiology
+  - Circadian clocks influence various physiological functions, including insulin levels and metabolism.
+  - Coordination between circadian clocks within the body is crucial for healthy functioning.
+  - Animals with circadian clock mutations or disruptions may experience negative consequences.
+- Multiple Clocks for Different Time Scales
+  - Circadian clocks are specialized for tracking longer time intervals (hours to a day).
+  - Separate mechanisms track shorter intervals (seconds to minutes) and longer infradian rhythms (months).
+  - Different animals synchronize behaviors and reproduction with lunar cycles.
+- Subjective Perception of Time
+  - The circadian clock doesn't provide a direct sense of time passage like a man-made clock.
+  - The brain has other means to judge the subjective passage of time.
+  - These mechanisms generate the perception of time beyond passive measurement.
 
-### The Sixth Sense
-- Slow-motion effect reported during life-threatening situations.
-- Brain's ability to react quickly influenced by synaptic delays and firing latency.
-- Changes unlikely to result in significant speed increase beyond 10-20%.
-- Extraordinary feats attributed to hypermemory and enhanced attention due to intense training.
-- Slow-motion effect may be an after-the-fact illusion during recollection.
-- Metaillusion hypothesis suggests subjective experiences, including time perception, are brain-created illusions.
-- Brain capable of compressing and dilating time, evidenced by mental replay of experiences at different speeds.
-- Subjective sense of time can deviate significantly from objective clock time.
-- Slow-motion effect involves heightened attention, memory, and altered time perception in the brain.
-- Understanding the nature of these illusions is a fascinating challenge in neuroscience and consciousness.
+### 4:00 The Sixth Sense
+- Perception of Time in Life-Threatening Situations:
+  - The slow-motion effect, where people perceive time as passing more slowly during high-adrenaline moments, has been widely reported.
+  - This phenomenon challenges our understanding of time perception and raises questions about the brain's functioning during intense situations.
+- Explanatory Hypotheses:
+  - Overclocking Hypothesis:
+    - The slow-motion effect might be explained by the brain entering an "overclocked" mode during life-threatening events, allowing quicker reactions and perceptions.
+    - Factors affecting task execution time include electrical signal speed, synaptic delays, and neuronal firing time.
+  - Hypermemory Hypothesis:
+    - Another explanation suggests that the slow-motion effect is an after-the-fact illusion, where events seem to unfold in slow motion during recollection.
+    - Neuromodulators released during emotional events can enhance memory, contributing to the perception of slow motion.
+  - Metaillusion Hypothesis:
+    - Our conscious experiences, including perceptions of time, are essentially illusions generated by the brain.
+    - Body awareness and phantom limb syndrome illustrate the illusory nature of subjective experiences.
+- Compressing Time in the Brain:
+  - The brain's ability to replay events at different speeds is demonstrated by experiments with place cells in rats.
+  - Neural trajectories associated with experiences can be replayed in compressed form during rest or sleep.
+  - This feature of brain function suggests that the brain can process temporal patterns at different speeds.
+- The Nature of Time Perception:
+  - Our sense of time is not a true sensory system like vision or hearing, but the brain does measure and sense the passage of time.
+  - Temporal illusions reveal the brain's susceptibility to context, learning, attention, and drugs, providing insights into its functioning.
+  - All subjective experiences are essentially illusions, which raises the fundamental question of how the brain generates conscious awareness of time and other aspects of reality.
 
-### Patterns In Time
-- Brain and time form a captivating realm of study in speech, music, and bird songs.
-- Internal timing mechanism allows understanding of spoken language's rhythm and flow.
-- Brain wiring for vocal communication underlies music appreciation and language comprehension.
-- Songbirds, like zebra finches, impress mates with learned songs, controlled by precise neural timing.
-- Multiple brain areas are involved in various forms of timing, no single master clock dominates.
-- Isolated cortical circuits show plasticity in timing when exposed to repetitive patterns.
-- Brain's ability to appreciate intervals from milliseconds to seconds shapes temporal perception in speech and music.
-- Uncovering brain's temporal mechanisms reveals profound connections between mind and time.
+### 5:00 Patterns in Time
+- Introduction
+  - Brain wiring for vocal communication also underlies beat-following in music.
+  - Speech and music require predicting and expecting upcoming events.
+- Songbirds and Communication
+  - Parallels between song learning in songbirds and human speech.
+  - Zebra finches' song learning from adult males or recordings.
+  - Temporal hierarchy in bird song: notes, syllables, phrases.
+  - Male finches have critical brain areas for song learning.
+  - HVC nucleus plays a role in timing a finch's song.
+- Neuroanatomy of Time
+  - No master brain circuit for timing.
+  - Various brain areas implicated in timing.
+  - Timing viewed as a general computation in neural circuits.
+  - Different neural circuits for different types of timing tasks.
+- Temporal Learning in Isolated Cortical Circuits
+  - In vitro cortical circuits can exhibit interval learning.
+  - Brain slices exposed to temporal patterns adapt internal dynamics.
+  - Experiments with auditory and visual cortex slices.
+  - Suggests timing is intrinsic to neural circuits.
+- Neurological Disorders and Temporal Perception
+  - Different temporal problems solved by different brain circuits.
+  - Examples: Clive Wearing's memory loss and temporal abilities.
+  - No neurological disorders impairing rhythm perception or subsecond timing.
+  - Brain's sensitivity to temporal order and timing crucial.
+- Importance of Subsecond Timing
+  - Subsecond timing critical for complex temporal patterns in speech and music.
+  - Enables understanding of both details and broader temporal landscapes.
+- Challenges and Future Questions
+  - How the brain solves complex timing problems in speech and music remains a question.
 
-### Time, Neural Dynamics, And Chaos
-- Brain's remarkable ability to perceive time intervals.
-- Timing goes beyond reflexes in animals, becomes an art of precision and anticipation.
-- Neural timers in the cerebellum guide blink responses in eyeblink conditioning.
-- Brain's temporal versatility demonstrated in adapting blink timing based on tones.
-- Brain employs dynamic spatiotemporal patterns to instruct actions at specific moments.
-- Complex temporal patterns found in neural activity in the striatum and hippocampus.
-- Chaos within recurrently connected neurons challenges reliable timing.
-- Synaptic learning rules may tame chaotic networks for stable and precise timing.
-- Distributed and interconnected network of neurons orchestrates time perception and motor coordination.
-- Brain's clocks are diverse, reflecting the awe-inspiring wonders of its inner workings.
+### 6:00 Time, Neural Dynamics, and Chaos
+- Motor Timing in Animals and Humans: Classical Conditioning
+  - Animals, including humans, can learn motor timing through classical conditioning.
+  - Eyeblink conditioning involves pairing an auditory tone with a puff of air to the cornea, resulting in a timed blink response.
+  - Animals learn not only to blink but also when to blink, adapting to the timing of expected events.
+- Cerebellum's Role in Timing
+  - Research demonstrates that the cerebellum plays a crucial role in differential timing.
+  - Michael Mauk's study with rabbits showed that cerebellar lesions disrupted different timing effects for low and high-frequency tones.
+- Multiple Timing Mechanisms
+  - Animals can learn to respond at different times to different stimuli.
+  - The brain employs various mechanisms, including dynamic spatiotemporal patterns, to determine what to do at each point in time.
+- Neural Activity Patterns and Timing
+  - Neuroscientists observe temporal patterns of neural activity related to timing tasks.
+  - Rats' behavior in poking tasks correlates with neural activity patterns in the striatum.
+  - Different chains of neural activity are observed based on task details, suggesting stimulus-specific tracking.
+- Complexity of Neural Activity Patterns
+  - Neural activity patterns can be complex, involving different neurons firing at different times.
+  - These spatiotemporal patterns are reproducible across trials but may appear random to human observers.
+- Efficiency of Random Patterns in Neural Activity
+  - Complex, seemingly random neural activity patterns might be efficient for information storage and transmission.
+  - Random patterns provide more capacity to store or transmit information than highly biased patterns.
+- Challenges of Chaos and Reproducibility
+  - Reproducibility is essential for using neural patterns as timers.
+  - Neural networks can create evolving patterns, but they often behave chaotically due to sensitivity to initial conditions.
+- Taming Chaos in Neural Networks
+  - Recurrent neural networks can generate reproducible patterns with appropriate synaptic learning rules.
+  - Chaotic networks can be adjusted to produce stable trajectories that are not chaotic.
+  - Complex motor patterns generated by such networks can be used as a form of timekeeping.
+- Emergent Properties of Neural Networks
+  - The generation of patterns like handwritten words emerges from the collective activity of neurons and synapses.
+  - Patterns are an emergent property, where no single neuron or synapse is solely responsible.
+- Distributed Timing Mechanisms
+  - The brain uses a variety of interrelated timing mechanisms distributed across its circuits.
+  - These mechanisms are adapted to various temporal requirements, such as distinguishing musical notes, tapping in Morse code, or anticipating events.
+- Conclusion: Neuronal Clocks
+  - The brain's timing mechanisms involve dynamic neural activity patterns and complex circuits.
+  - Identifying specific neurons responsible for timing is challenging, as timing is an inherent property of the brain's evolution.
 
-## The Physical And Mental Nature Of Time
-### Keeping Time
-- Evolution of clocks from sundials to atomic clocks.
-- Huygens' pendulum clock revolutionized timekeeping in the 17th century.
-- Electrical and electronic technology brought quartz-crystal and atomic clocks in the 20th century.
-- Atomic clocks based on cesium atoms became the gold standard for precision.
-- Despite precise time measurement, fundamental questions about the nature of time remain unanswered.
-- Unidirectional flow of time and the role of human perception in understanding time's passage remain enigmatic.
-- Profound questions about the nature of time invite deeper contemplation into its relationship with the universe.
+## The Physical and Mental Nature of Time
+### 7:00 Keeping Time
+- Coordinating Time and Inventions:
+  - Coordinating time was essential due to railroads, telegraphs, and financial businesses.
+  - Switzerland's patent office received time-related patents from inventors.
+  - Albert Einstein, a patent officer, described synchronizing distant clocks in a 1905 paper.
+  - Advances led to pendulum and mechanical clocks becoming obsolete.
+  - Quartz-crystal clocks and atomic clocks were invented, offering higher accuracy.
+  - Quartz watches use vibrating quartz crystals to measure time intervals.
+  - Atomic clocks rely on resonance frequencies of atoms, like cesium's 9,192,631,770 Hz.
+- Atomic Clocks and GPS:
+  - Atomic clocks revolutionized navigation in the information age.
+  - GPS uses signals from satellites with atomic clocks to calculate positions.
+  - Tiny differences in signal arrival times help determine latitude, longitude, and altitude.
+  - Atomic clocks' accuracy allows for precise location calculations.
+- Time Measurement and Applications:
+  - Clocks evolved to measure and manage various aspects of human activities.
+  - Willard Bundy invented clock punching for recording workers' time.
+  - Accurate clocks led to the concept of hourly wages.
+  - Modern examples of time's economic value include stock trading and media consumption.
+  - Clocks divide life into smaller units, impacting meetings, dating, and traffic lights.
+  - Computers heavily depend on precise time synchronization for their operations.
+- Challenges of Time Measurement:
+  - Clocks have become extremely accurate due to technical advancements.
+  - Einstein's theory of general relativity shows time is affected by gravity.
+  - Atomic clocks demonstrate time dilation in different gravitational strengths.
+  - Precision in time measurement has not necessarily led to understanding time's nature.
+  - Questions about the one-directional flow of time, differences between past, present, and future, and human brain's role remain unresolved.
 
-### Time: What The Hell Is It?
-- Brain's evolutionary roots prioritize survival and social cohesion over complex tasks.
-- Brain's computational abilities impressive but limited compared to digital computers.
-- Understanding time raises questions about brain's architecture and limitations.
-- Presentism and eternalism are two main perspectives on the nature of time.
-- Language adds complexity to the debate, with different meanings for "real" and "exist."
-- Eternalism favored due to consistency with physics, especially special relativity.
-- Physics explains fundamental laws but struggles with the one-way flow of time and the present's special status.
-- Entropy and low-entropy state at the Big Bang may explain the arrow of time.
-- Alternative hypotheses propose time-irreversible processes in quantum mechanics as the arrow of time.
-- Eternalism suggests all moments in time are equally real, aligning with relativity's view of time as another dimension.
+### 8:00 Time: What the Hell Is It?
+- Introduction
+  - The concept of "time" is a complex and challenging topic to comprehend.
+  - The connection between time and existence is deeply intertwined and poses a task for future exploration.
+  - The human brain has remarkable capabilities but is also subject to limitations and biases due to its evolutionary design.
+- Time, Existence, and the Brain
+  - The human brain's evolution is shaped by the need for survival and social skills rather than complex computations like math.
+  - The brain has limitations in tasks such as numerical calculations, indicating a disconnect between its computational abilities and these tasks.
+  - The brain's architecture and limitations could influence the progress of science and understanding.
+- Philosophical Views on Time
+  - Philosophers and physicists hold various theories about the nature of time.
+  - Presentism suggests only the present is real, while eternalism posits that past, present, and future are all equally real.
+  - Language and definitions of "real" differ between presentism and eternalism, influencing our perspective on time.
+- Physics and Time's Nature
+  - Physics has greatly advanced our ability to measure time accurately.
+  - Despite success in measuring time, the nature of time itself remains a subject of debate.
+  - Presentism and eternalism represent opposing viewpoints on the reality of past, present, and future.
+- The Brain's Role in Time Perception
+  - The brain's understanding of time relies on its capacity to correlate internal network states with external changes.
+  - The brain's perception of time involves matching its changes with those of man-made clocks.
+  - Language and cognitive processes are inherently grounded in a presentist perspective.
+- Arrow of Time and Entropy
+  - Ludwig Boltzmann's statistical interpretation of the second law of thermodynamics describes entropy's tendency to increase over time.
+  - Entropy signifies the degree of disorder or randomness in a system.
+  - The low-entropy state of the universe after the Big Bang provides a potential explanation for the arrow of time.
+- Challenges to the Arrow of Time
+  - The entropic arrow of time appears double-headed, as it suggests entropy both increases and decreases.
+  - The second law of thermodynamics requires an assumption that the universe started in a low-entropy state.
+  - The measurement stage of quantum mechanics may impose an arrow of time upon the universe due to wave function collapse.
+- Eternalism and Special Relativity
+  - Einstein's theory of relativity has significant implications for our understanding of time.
+  - The equations of physics lack a preference for the direction of time, and they describe time symmetrically.
+  - Eternalism gains support from the theory of special relativity, which treats the present similarly to spatial locations.
+- Conclusion
+  - Despite advances in physics, the nature of time remains enigmatic.
+  - Theories from philosophy, thermodynamics, and quantum mechanics offer insights into time's characteristics.
+  - Einstein's theories, especially special relativity, contribute to the concept of eternalism, adding depth to our understanding of time's passage.
 
-### The Spatialization Of Time In Physics
-- Block universe: All moments in time exist simultaneously as static "nows."
-- Different physicists' perspectives on the block universe, like Barbour and Greene.
-- Reconciling block universe with neuroscience is challenging.
-- Brain's illusionary nature extends to temporal perception and qualia.
-- Brain's illusion of body awareness, like pain, persists even in amputations.
-- Question of whether subjective experience of time flow is an illusion or independent of mental constructs.
-- Evolutionary advantages of perceiving time flow in an eternalist universe are ambiguous.
-- Consciousness adds complexity, as it involves a dynamic process, not confined to a single moment.
-- No universal agreement in physics on the nature of time.
-- Comprehensive exploration of consciousness, mind, and the cosmos needed to understand time.
+### 9:00 The Spatialization of Time in Physics
+- Perception of Motion and Time:
+  - Julian Barbour's perspective on motion and time based on observing a kingfisher.
+  - Brain contains multiple snapshots of perceived motion simultaneously.
+  - Brain presents data in a way that creates a sense of continuous motion.
+  - Discussion of the block universe theory and its spatialization of time.
+- Illusion and Reality in Physics and Neuroscience:
+  - Distinction between physicists' and neuroscientists' views of illusion.
+  - Subjective sense of time as a mental construct representing physical phenomena.
+  - Adaptation and correlation of subjective experiences (qualia) with real physical phenomena.
+  - Brain's ability to generate illusions like pain and body awareness.
+- Evolution and Adaptive Value of Time Perception:
+  - Adaptive nature of subjective sense of time in a presentist universe.
+  - Correlation of time perception with unfolding events in the world.
+  - Potential role of time perception in mental time travel and future anticipation.
+  - Implications of an eternalist universe on evolutionarily advantageous time perception.
+- Consciousness, Neural Dynamics, and Time:
+  - Brain's role in generating consciousness and neural signatures of conscious states.
+  - Dynamic nature of consciousness and challenges in understanding it within static frames.
+  - Comparisons to Zeno's arrow paradox and need for temporal thickness for consciousness.
+  - Uncertainty of the compatibility of consciousness with the block-universe/time-flow paradox.
+- The Nature of Time in Physics and Neuroscience:
+  - Lack of universal agreement on the nature of time within physics.
+  - Differences between general relativity and quantum mechanics regarding time.
+  - Lack of experimental evidence supporting eternalism or presentism.
+  - Dilemma of whether science or neuroscience must adapt to explain time perception.
+- Brain's Influence on Physics Interpretation:
+  - Influence of the brain's architecture on interpreting the laws of physics.
+  - Evolutionary coopting of space circuits to understand the concept of time.
+  - Questioning the brain's impartiality in interpreting current laws of physics.
 
-### The Spatialization Of Time In Neuroscience
-- Einstein's theory of special relativity influenced psychology of time.
-- Piaget's developmental psychology explored children's grasp of time.
-- Brain's ability to comprehend and quantify time is intricate.
-- Brain's circuits for spatial and temporal magnitudes are intertwined.
-- Kappa and tau effects show interplay between space and time perception.
-- Linguistic metaphors influence mental representation of time.
-- Brain's construction of time involves past experiences, memory, and spatial-temporal interactions.
-- Study of time in neuroscience intersects with physics, cognition, and linguistics.
-- Brain's spatialization of time prompts questions about subjective experience of time flow and its relation to fundamental laws of the universe.
-- Mysteries of time extend beyond objective measurement, challenging our understanding of reality.
+### 10:00 The Spatialization of Time in Neuroscience
+- Introduction:
+  - Discussion about Einstein's theory and its counterpart in psychology of time.
+  - Exploration of the equivalence of time with space.
+- Children's Understanding of Time:
+  - Piaget's revolutionary work in developmental psychology, particularly regarding understanding of abstract concepts.
+  - Piaget's insight that children progress in understanding numbers, space, and time.
+  - Einstein's involvement in prompting questions about intuitive grasp of time's nature.
+- Temporal Concepts and Development:
+  - Piaget's hypothesis linking psychological time with speed and movement.
+  - Piaget's tasks with toy snails showing children's understanding of time, space, and speed.
+  - Children's gradual understanding of temporal concepts in relation to space and speed.
+  - Complications in measuring time due to complex units, conventions, and language.
+- Space, Time, and Language:
+  - Animals' stronger fundamental understanding of space compared to time.
+  - Spatial metaphors often used to describe time.
+  - Linguistic expressions of time using spatial terms.
+  - Differences in spatial-temporal perspective in languages like Aymara.
+  - Influence of space on how time is perceived and communicated.
+- Interplay of Space and Time in Perception:
+  - Exploration of kappa effect: influence of distance on time perception.
+  - Links between brain's circuits for spatial and temporal information.
+  - Shared brain circuits for processing magnitude, affecting time perception.
+  - Mental timeline's existence and connection to spatial judgments.
+  - Evidence of asymmetry in how space and time influence each other.
+- Brain's Use of Experience in Time Perception:
+  - Brain's reliance on patterns and experience to make sense of the world.
+  - Application of experience-driven inference to time perception.
+  - Correlation between distance and time from the brain's database of observations.
+- Entwinement of Space and Time in Neural Circuits:
+  - Brain's opportunistic nature, coopting circuits for space to understand time.
+  - Brain's use of distance to optimize estimates of time passage.
+  - Speculation on brain's influence on our conception of the laws of physics.
+  - Suggestion of a possible bias towards eternalism due to brain's architecture.
+- Conclusion:
+  - Conceptualization of time as a space-like dimension in physics.
+  - Consideration of how the brain's architecture might affect our view of time.
+  - Humans' tendency to mentally navigate between past, present, and future.
 
-### Mental Time Travel
-- Mental time travel is a unique human ability to project into the past and future.
-- Prefrontal cortex plays a key role in executive functions and decision-making.
-- Temporal discounting tasks reveal biases toward immediate rewards.
-- Temporal framing affects decision-making regarding delayed rewards.
-- Understanding temporal discounting can aid in making informed financial decisions.
-- Mental time travel is complex and involves a network of brain regions.
-- It has evolutionary significance, enabling planning and creating the future.
-- However, it can lead to constant worrying, affecting the ability to embrace the present.
-- Finding a balance between future-oriented thinking and living in the moment is essential.
+### 11:00 Mental Time Travel
+- Immediate vs. Delayed Gratification:
+   - Humans have a natural bias toward immediate gratification.
+   - Temporal discounting tasks quantify the balance between immediate and delayed rewards.
+   - People's choices show individual variability and correlate with health, finances, and substance abuse.
+   - Immediate rewards are preferred, exploited by financial institutions and marketers.
+- Prefrontal Cortex and Mental Time Travel:
+   - The prefrontal cortex plays a critical role in mental time travel.
+   - Lesions in this area affect decision-making, long-term planning, and delaying gratification.
+   - Brain imaging studies link prefrontal cortex activity with delayed gratification and mental time travel.
+   - Mental time travel involves various cognitive functions and brain areas.
+- Evolution of Mental Time Travel:
+   - Humans' unique cognitive abilities are attributed to brain size and specialization.
+   - Mental time travel involves accessing past memories, simulating future scenarios, and learning from them.
+   - Brain areas like the medial temporal lobes and prefrontal cortex contribute to mental time travel.
+   - Mental time travel enabled humans to actively shape their future through innovation.
+- Challenges and Paradoxes of Mental Time Travel:
+   - Mental time travel allows escaping the present and envisioning better futures.
+   - Eastern philosophies emphasize living in the present for happiness and focus.
+   - However, future-oriented thinking is essential for survival, progress, and addressing challenges.
+   - Mental time travel is both a solution and a cause of human troubles, presenting a paradox.
+- Comparison with Other Species:
+   - Animals like scrub jays and great apes can guide actions toward future outcomes.
+   - Humans possess an advanced capacity for future-oriented thinking beyond other species.
+   - Semantic understanding of time, language, memory, and spatialization contribute to human mental time travel.
+- Balancing Immediate and Long-Term Goals:
+   - Learning to balance immediate desires with long-term planning benefits from practice and education.
+   - Mental time travel and engaging in mental imagery help shift from impulsive to patient decisions.
+   - Financial stability, health, and successful planning result from mastering this balance.
+- Impact of Immediate Gratification:
+   - Immediate rewards lead to impulsive behavior, affecting health and finances.
+   - Credit cards exploit humans' bias toward immediate gratification, leading to overspending.
+   - Consumer behaviors influenced by immediate rewards contribute to debt accumulation.
+- Variability in Temporal Discounting:
+   - Temporal discounting varies in individuals, affecting choices between immediate and delayed rewards.
+   - The preference for immediate rewards changes when both options are postponed to the future.
+   - Manipulating temporal context influences people's decision-making regarding rewards.
+- Complexity of Mental Time Travel:
+   - Mental time travel involves various cognitive processes, including memory access and manipulation.
+   - The prefrontal cortex and medial temporal lobes play complementary roles.
+   - Mental time travel requires a collective effort of brain areas, not a single isolated region.
+   - Representing time is crucial, although measuring time passage isn't necessary for mental time travel.
+- Balancing Present and Future:
+    - Living in the present reduces worries, fears, and despair.
+    - However, modern life requires foresight and planning for survival, progress, and well-being.
+    - The paradox lies in the tension between embracing the present and preparing for the future.
 
-### Consciousness: Binding The Past And The Future
-- Free will may be an illusion arising from unconscious neural computations.
-- Conscious experience of choice emerges after neural processes decide.
-- Consciousness likely plays a role in subsequent decisions and experiences.
-- Eternalism challenges our subjective perception of time flow.
-- Neuroscience offers insights into temporal patterns and mental time travel.
-- Our perception of time flow raises questions bridging neuroscience and physics.
-- Mental time travel empowers us to shape our destiny, but we must address challenges.
-- Embracing mental time-travel skills can help prioritize long-term goals.
-- The quest for understanding time, consciousness, and free will shapes our reality.
+### 12:00 Consciousness: Binding the Past and the Future
+- Introduction to Free Will and Consciousness:
+  - Free will is a complex and debated concept, often tied to consciousness.
+  - Neurons' activity and unconscious processes contribute to decision-making.
+  - Free will might be a feeling emerging after decisions are made unconsciously.
+- Neuroscience and Free Will:
+  - Neurophysiological studies show that decisions precede conscious awareness.
+  - Brain activity patterns and neural circuits control voluntary actions.
+  - Free will may be a post-decisional mental creation, but it still influences decisions.
+- Implications for Moral Responsibility:
+  - The debate about free will affects discussions of moral responsibility.
+  - Deterministic processes could challenge concepts of accountability.
+  - Responsibility is not necessarily tied to conscious or unconscious decisions.
+- Eternalism, Time, and Consciousness:
+  - Eternalism posits that past, present, and future are equally real.
+  - Eternalism's conflict with perceived flow of time and consciousness.
+  - The block universe perspective raises questions about the nature of time.
+- Evolution and Perception of Time:
+  - Conscious experiences evolve due to selective advantages.
+  - Perceiving time's passage could offer evolutionary benefits.
+  - Connection between consciousness and temporal processes.
+- Brain's Temporal Functions and Clocks:
+  - Brain's core function is to anticipate and prepare for the future.
+  - Multiple clock principle - diverse mechanisms for telling time.
+  - Brain's time-keeping differs from man-made clocks due to neural limitations.
+- Mental Time Travel and Human Uniqueness:
+  - Mental time travel is unique to humans and involves envisioning future scenarios.
+  - Human ability to foresee the future might have led to concepts like afterlife.
+  - Balancing practicality and visionary thinking for better decision-making.
+- Conclusion:
+  - Uncertainty about the nature of time doesn't negate the need for improving mental time-travel skills.
+  - Prioritizing long-term benefits and making impactful decisions in the present.
