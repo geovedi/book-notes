@@ -1,0 +1,925 @@
+# Empire of Pain
+Author: Patrick Radden Keefe
+
+## Prologue: The Taproot
+- Introduction
+  - Description of Debevoise & Plimpton law firm and its headquarters in New York.
+  - Mention of Mary Jo White, a formidable litigator, and her reputation for handling high-profile cases.
+  - Overview of the legal setting involving a reclusive billionaire client, Kathe Sackler, facing lawsuits related to the opioid crisis.
+- Mary Jo White and Paul Hanly
+  - Mary Jo White's background, career, and transition between government and private practice.
+  - Introduction of Paul Hanly, a class-action plaintiffs' lawyer, and his distinct appearance and attitude.
+  - White's clients and her expertise in representing powerful corporations.
+  - The conference room scene with a large gathering of lawyers for Kathe Sackler's deposition.
+- Kathe Sackler and the Sackler Family
+  - Description of Kathe Sackler, a member of the wealthy Sackler family known for philanthropy.
+  - Sackler family's influence on various art, education, and medical institutions around the world.
+  - Discussion of the origins of Sackler wealth and the mystery surrounding their business.
+- OxyContin and the Opioid Epidemic
+  - Introduction of Purdue Pharma and its drug OxyContin, a powerful opioid painkiller.
+  - OxyContin's impact on the opioid epidemic, leading to addiction and overdoses.
+  - The staggering statistics of opioid-related deaths in the US, surpassing other causes of mortality.
+- Legal Cases and Controversy
+  - Overview of the lawsuits against Purdue Pharma and the Sackler family.
+  - Comparison to past legal battles with tobacco companies.
+  - Mary Jo White's defense strategy to prevent reckoning for the Sacklers and Purdue.
+- Kathe Sackler's Deposition
+  - Deposition scene and Paul Hanly's questioning of Kathe Sackler.
+  - Kathe's refusal to accept responsibility for the opioid crisis, asserting that OxyContin is safe and effective.
+  - Her pride in being the source of the OxyContin idea and her defense of her family's legacy.
+- Sackler Family History
+  - Background on the Sackler brothers and their entrepreneurial spirit.
+  - Purchase of Purdue Frederick and the growth of the company.
+  - Transition from a small family business to a major pharmaceutical player.
+
+## Patriarch
+### A Good Name
+- Early Life and Education:
+  - Arthur Sackler born in Brooklyn in 1913 to immigrant parents.
+  - Brooklyn's immigrant community in a period of growth and change.
+  - Arthur's parents, Isaac and Sophie Sackler, had dreams of success for their children.
+  - Arthur's early drive and ambition evident from childhood.
+  - Changing his name from Abraham to Arthur to embrace American identity.
+  - Devotion to his younger brothers and a sense of responsibility.
+- Education at Erasmus Hall High School:
+  - Arthur excelled in academics and extracurriculars at Erasmus Hall High School.
+  - Erasmus Hall's diverse and ambitious student body.
+  - Arthur's admiration for the Founding Fathers and his interest in various subjects.
+  - Participation in numerous clubs and activities at Erasmus.
+  - The emphasis on the American dream and upward mobility.
+- College Years and Early Entrepreneurship:
+  - Arthur's enrollment at New York University as a premed student.
+  - Financial struggles and determination to support his family.
+  - Balancing academics with multiple part-time jobs and extracurriculars.
+  - Establishing businesses, selling advertising, and displaying entrepreneurial spirit.
+  - Arthur's dedication to financial success and ability to innovate.
+- Transition to Medicine:
+  - Arthur's interest in medicine, influenced by his parents and the noble image of doctors.
+  - Pursuing medicine as a path to prestige, stability, and public service.
+  - Graduating college in the midst of the Great Depression.
+  - Resilience and resourcefulness despite financial constraints.
+  - Entering medical school at NYU while continuing to work and support family.
+- Ethical Dilemmas and Hierarchy in Medicine:
+  - Arthur's moral and ethical dilemmas in medical school.
+  - Clash between his ambition and the hierarchical structure of medicine.
+  - A critical incident involving an incompetent surgeon and a patient's tragic death.
+  - Reflections on the complex nature of medical hierarchy and responsibility.
+- Balancing Career and Ambition:
+  - Arthur's concerns about finding satisfaction solely as a physician.
+  - The financial instability faced by doctors during the Depression.
+  - Entrepreneurial sensibility and interest in business and selling.
+  - Arthur's side job as a copywriter for a pharmaceutical company.
+  - The tension between his medical career and his business-oriented mindset.
+
+### The Asylum
+- Arthur Sackler and Creedmoor Hospital:
+  - Arthur Sackler presided over Creedmoor Hospital.
+  - LaBurt, a colleague, was complacent, while Arthur sought new solutions.
+  - Arthur contemplated mental illness, questioning eugenic and Freudian theories.
+  - He considered brain chemistry as a potential factor.
+- Meeting Marietta Lutze:
+  - Marietta Lutze met Arthur while inquiring about Creedmoor.
+  - Arthur pursued her romantically and invited her to a medical conference.
+  - Marietta shared her background, experiences during the war, and her marriage to Kurt, a German naval officer.
+  - Arthur, despite his past experiences, was curious about Marietta's story.
+- Research on Mental Illness and Histamine:
+  - Arthur and his brothers conducted experiments on patients at Creedmoor.
+  - They investigated the effects of electrical shock treatment on blood vessels.
+  - Histamine's role in blood vessel dilation was explored.
+  - Over 100 medical papers were published, aiming to understand the chemical causes of insanity.
+- Press Coverage and Impact:
+  - The Sackler brothers' research garnered attention and press coverage.
+  - Their work was seen as revolutionary, potentially providing solutions to mental illness.
+  - Arthur played a leading role in the research.
+  - They aimed to prevent insanity and received recognition for their efforts.
+- Personal Relationships and Decisions:
+  - Arthur had been married to Else Jorgensen since 1934, with two daughters.
+  - Despite having a family, Arthur pursued a romantic relationship with Marietta.
+  - Marietta was ambivalent due to her career, family, and Arthur's indecision.
+  - Eventually, Marietta became pregnant, forcing a decision.
+
+### Med Man
+- Arthur Sackler's Career and Achievements:
+  - Arthur Sackler, a driven and ambitious individual, was dedicated to both his medical research and advertising endeavors.
+  - He became a prominent figure in medical publishing, broadcasting, and pharmaceutical advertising, launching numerous projects and ventures.
+  - Arthur's professional pursuits were characterized by a sense of urgency and a desire to gain recognition for his work.
+- McAdams Advertising Agency:
+  - Arthur Sackler took over McAdams advertising agency and turned it into a thriving and innovative company.
+  - The agency attracted top talent, including marginalized individuals such as Jews, Holocaust survivors, and those affected by McCarthy hearings.
+  - Arthur displayed a blend of creativity and tough management, fostering a unique working environment.
+- Collaboration and Rivalry:
+  - Arthur Sackler and Bill Frohlich, while appearing as competitors, secretly collaborated due to conflict of interest rules.
+  - They set up separate agencies, McAdams and L. W. Frohlich, to avoid conflicts in handling competing products' accounts.
+  - The close relationship between Arthur and Frohlich extended beyond business, involving mutual trust and sharing of ideas.
+- The Musketeers Pact:
+  - Arthur, Mortimer, Raymond Sackler, and Bill Frohlich formed a pact to pool their business holdings and support one another.
+  - They pledged to share corporate assets and success, with a plan for inheritance and eventual establishment of a charitable trust.
+  - This commitment highlighted their desire to contribute to society beyond personal accumulation of wealth.
+- Communist Ties and Political Fallout:
+  - The Sackler brothers' involvement in Creedmoor Hospital research led to suspicions of a communist cell during the McCarthy era.
+  - FBI investigations and loyalty pledges resulted in Mortimer and Raymond's dismissal from Creedmoor, with Arthur resigning as well.
+  - The McCarthy era cast a shadow on the brothers' lives and work, impacting their relationships and perspectives.
+- Expansion into Pharmaceuticals:
+  - Beyond advertising and research, the Sackler brothers aimed to expand into pharmaceuticals.
+  - Arthur purchased a pharmaceutical company, Purdue Frederick, for his brothers, with a silent partnership arrangement.
+  - Purdue Frederick was a small company initially, but it marked the beginning of the Sacklers' involvement in the pharmaceutical industry.
+
+### Penicillin for the Blues
+- Introduction: The Rise of Minor Tranquilizers
+  - Chemist Leo Sternbach's discovery of minor tranquilizers in the 1950s.
+  - Roche's quest to develop less potent tranquilizers than Thorazine.
+  - Success of Miltown as a minor tranquilizer.
+  - Sternbach's challenge to create a competitor to Miltown.
+- Librium and Valium: Marketing and Success
+  - Development of Roche compound No. 0609, leading to Librium.
+  - Marketing efforts by Roche and Arthur Sackler for Librium and Valium.
+  - Widespread acceptance of the drugs, aided by post-World War II anxiety.
+  - Arthur's influence and profitability from the marketing campaigns.
+- Side Effects and Concerns
+  - Emergence of concerns about side effects and addictive potential.
+  - Lack of comprehensive studies into potential abuse during clinical trials.
+  - Resistance by Roche to government regulation and control over the drugs.
+  - Roche's intentional obfuscation of evidence regarding the drugs' safety.
+- Impact and Consequences
+  - Increasing dependence and addiction to Librium and Valium.
+  - Troubling signs of abuse and withdrawal in patients.
+  - Roche's defensive stance and shifting blame to patients' personalities.
+  - Roche's profits and Arthur Sackler's enrichment from the drugs' success.
+- Contradictions and Reactions
+  - Arthur Sackler's image as a righteous and ethical figure.
+  - Dissonance between Arthur's public persona and his role in drug promotion.
+  - Arthur's downplaying of his association with Valium and addictive products.
+  - Sternbach's contribution to the drugs' creation and his disconnection from misuse.
+
+### China Fever
+- Arthur and Marietta's Move to Dutch Farmhouse on Long Island:
+  - Moved to a Dutch farmhouse lacking sufficient furniture.
+  - Purchased limited furniture; improvised for guests.
+- Arthur's Discovery of Chinese Furniture:
+  - Visited a nearby German cabinetmaker's shop.
+  - Saw a rosewood table and learned about Chinese furniture collector.
+  - Became intrigued by antique Chinese furniture, particularly from the Ming period.
+- Arthur's Passion for Collecting:
+  - Developed a strong interest in collecting Chinese art.
+  - Pursued collecting with zeal and passion.
+  - Began purchasing Chinese art and antiques, creating a significant collection.
+  - Collected not only for personal enjoyment but also to establish a public legacy.
+- Arthur's Approach to Collecting:
+  - Approached collecting with rigor and scholarly pursuit.
+  - Studied scholarly literature and immersed himself in Chinese aesthetics.
+  - Visited museums systematically and studied objects in detail.
+  - Joined a fraternity of collectors and established connections in the art world.
+- Arthur's Anonymity and Privacy:
+  - Arthur preferred anonymity and secrecy in his collecting endeavors.
+  - Engaged in private handshake deals and secretive transactions.
+  - Maintained a sense of privacy and operated off the books.
+- Arthur's Philanthropy and Branding:
+  - Initiated philanthropic efforts, including supporting academic research and acquisitions.
+  - Became known for attaching stipulations and legal agreements to his donations.
+  - Used philanthropy to establish the Sackler family's legacy and influence.
+- Arthur's Relationship with Columbia University:
+  - Donated to Columbia University for art and Far Eastern studies.
+  - Proposed a Sackler museum at Columbia University.
+  - Discrepancy between Arthur's vision for art and Raymond and Mortimer's interest in science funding.
+  - Managed family discord by emphasizing the uniqueness of the art collection.
+- Arthur's Relentless Collecting and Financial Challenges:
+  - Collected Chinese art relentlessly and amassed a vast collection.
+  - Boxes of acquisitions overflowed the house; Arthur rented private storage spaces.
+  - High spending led to accumulating bills and financial pressure.
+- Arthur's Inner Motivations and Psychological Impact:
+  - Obsessive collecting reflected Arthur's fear of aging, disillusionment, and mortality.
+  - Found comfort and control in collecting objects; a realm where he could be a master.
+
+### The Octopus
+- Arthur Sackler's Defiance in Senate Hearing:
+  - Arthur Sackler's decision to stand and fight during the Senate hearing became a mythic chapter in his biography.
+  - He hired Clark Clifford, a renowned Washington lawyer, to represent him in the hearings.
+  - Arthur walked into the Senate chamber on January 30, 1962, to face the committee led by Senator Kefauver.
+  - He was questioned about drug advertising and promotion, which was a theme of the hearings.
+- Arthur Sackler's Background and Expertise:
+  - Arthur Sackler introduced himself as a doctor of medicine and chairman of William Douglas McAdams.
+  - He highlighted his dual careers in medicine and business, along with his extensive publications and accomplishments.
+- Arthur's Defense of Medical Advertising:
+  - Arthur defended medical advertising's role in advancing healthcare by reducing the time between drug discovery and medical use.
+  - He asserted that doctors couldn't be misled by false advertising and argued that most advertising he saw was reasonable.
+- Arthur's Articulate Testimony and Performance:
+  - Arthur's testimony demonstrated his confidence, culture, and medical authority.
+  - He spoke with a patrician accent, impressing his interlocutors with his knowledge and authority.
+  - His eloquence and self-assured demeanor disarmed the committee, and scripted questions became irrelevant.
+- Arthur's Skillful Evasion and Counterarguments:
+  - Arthur evaded the committee's questions with lengthy explanations and anecdotes.
+  - He challenged the committee's interpretation of facts and corrected their misimpressions.
+  - He used his medical expertise to undermine the committee's understanding of medical matters.
+- Arthur's Personal Letters and Unasked Questions:
+  - The committee had obtained letters exchanged between Arthur Sackler and Henry Welch.
+  - These letters expressed friendship and support for Welch during his troubles, never raised in the hearing.
+- Arthur's Successful Departure from the Hearing:
+  - Despite a set amount of questioning time, Arthur dominated the hearing and barely let the investigators speak.
+  - Arthur thanked Kefauver for the opportunity to state his case and left the chamber feeling victorious.
+- Impact of Arthur's Testimony:
+  - Arthur's confident and articulate defense of medical advertising left a lasting impact on the hearing and its context.
+
+### The Dendur Derby
+- Building and Relocating the Temple of Dendur
+  - A small temple on the banks of the Nile was originally built to commemorate two brothers, Pedesi and Pihor, by the local Roman governor before the birth of Christ.
+  - Over time, the temple witnessed historical changes, looting, and new religions.
+  - In the 1960s, Egypt planned to build a dam to control the Nile's flooding, which would flood the area around the temple.
+  - An international campaign was launched to save ancient temples affected by the dam, with the United States pledging assistance.
+  - The Temple of Dendur was to be relocated, and the United States offered financial support.
+- Arthur Sackler's Involvement with the Met
+  - Arthur Sackler, a wealthy philanthropist and art collector, got involved with the Metropolitan Museum of Art (the Met).
+  - He offered a substantial donation to fund a renovation and the construction of a new wing for the Met.
+  - The Met agreed to his conditions, naming the new wing and spaces after the Sackler brothers.
+  - The Temple of Dendur would be displayed in the Sackler Gallery for Egyptian Art.
+- Construction and Controversy
+  - Construction of the new Sackler Wing at the Met commenced, including the display of the Temple of Dendur.
+  - Arthur Sackler faced criticism and skepticism within the art community for his involvement.
+  - He desired a seat on the museum's board of trustees, but he was denied, leading him to feel marginalized.
+  - Some questioned the nature of the Sackler brothers' donations and their impact on the museum.
+- Unveiling and Celebration
+  - The new Sackler Wing was unveiled with an exhibit featuring treasures from King Tutankhamun's tomb.
+  - A lavish gala celebrated the opening of the Sackler Wing and the display of the Temple of Dendur.
+  - The Sackler brothers were proud of their contribution to the Met and their role in the temple's relocation.
+- Scandal and Ongoing Issues
+  - Despite the celebration, scandals and investigations were brewing.
+  - The attorney general of New York launched an investigation into the Sackler enclave.
+  - Arthur Sackler faced personal issues due to his relationship with a younger woman.
+
+### Estrangement
+- The Sackler Family Dynamics and Relationships:
+  - Mortimer Sackler's first marriage ended in divorce, and he married Gertraud Wimmer.
+  - He embraced a playboy lifestyle, spending time in Europe and living a cosmopolitan life.
+  - Mortimer's children from his first marriage were more independent, while Bobby, his youngest son, faced emotional struggles.
+  - Arthur Sackler's relationship with his brothers Raymond and Mortimer started to deteriorate due to various conflicts and perceived betrayals.
+- The Musketeers Agreement and IMS:
+  - Arthur, Raymond, Mortimer, and Bill Frohlich made an agreement to share business ownership and benefits.
+  - IMS (pharmaceutical sales data company) was founded secretly by Arthur and Frohlich, and Raymond and Mortimer were not directly involved.
+  - Frohlich passed away, and IMS went public, leading to disagreements over who should benefit from its success.
+  - Raymond and Mortimer claimed IMS was an international business and excluded Arthur from its benefits.
+- Bobby Sackler's Struggles:
+  - Mortimer's son, Bobby, struggled emotionally and mentally, engaging in drug use and erratic behavior.
+  - He battled addiction, using drugs like heroin and PCP.
+  - His relationship with his mother, Muriel Sackler, was strained due to his drug-related behavior.
+  - Tragically, Bobby fell to his death from a building in 1975, leading to his demise.
+
+### Ghost Marks
+- Arthur Sackler's Pursuits and Relationships:
+  - Arthur Sackler was known for his accomplishments, extensive art collection, and philanthropy.
+  - Despite his achievements, he continued to take on new challenges and travels, drifting from his wife Marietta.
+  - Arthur's desire for recognition seemed to drive his collecting endeavors, indicating a need for his name to be remembered.
+- Family Dynamics and Personal Relationships:
+  - Arthur's children grew up, and his son Arthur Felix worked in various capacities, including Marietta's family drug company in Germany.
+  - Arthur's daughter Denise had a more distant relationship with her father and eventually married Michael Rich.
+  - Marietta felt disconnected from Arthur as he became increasingly absorbed in business and travel.
+  - Arthur revealed his romantic involvement with Jillian to Marietta, leading to a strained marriage.
+- Arthur's Changing Identity and Interests:
+  - As Arthur aged, he continued to be active and ambitious, even as Marietta sought therapy for her emotional struggles.
+  - His pursuit of recognition extended to his columns in Medical Tribune, where he discussed his interests and friendships.
+  - Arthur's relationship with the Met Museum, his secret enclave, and his clashes with Philippe de Montebello were highlighted.
+- Arthur's Philanthropy and the Smithsonian Deal:
+  - Arthur's negotiations with the Smithsonian to donate his collection and fund the construction of a museum were detailed.
+  - Despite concerns about naming the museum after Arthur, the deal was eventually reached, and the museum opened in 1987.
+- Marietta's Struggles and Divorce:
+  - Marietta's relationship with Arthur deteriorated, leading her to demand a divorce settlement.
+  - After Arthur's refusal to respond, Marietta's emotional turmoil escalated, leading to a suicide attempt.
+  - She survived and sought a divorce, which was finalized; Arthur married Jillian soon after.
+- Separation and Emotional Aftermath:
+  - Marietta's belongings were removed from her house, and Arthur's art collection was taken away.
+  - Left in an empty apartment, Marietta felt isolated and emotional, surrounded by memories of their life together.
+
+### To Thwart the Inevitability of Death
+- Opening of Arthur M. Sackler Museum:
+  - Arthur Sackler celebrated the opening of the Arthur M. Sackler Museum at Harvard in 1985.
+  - The museum housed his extensive collection and was designed by architect James Stirling.
+  - Arthur's financial contributions saved the museum project from cancellation.
+- Arthur's Vision and Impact:
+  - Arthur discussed human progress, scientific advancements, and controlling nature during his speech.
+  - His emphasis was on bridging arts, sciences, and humanities for a better quality of life.
+  - He believed that the new millennium would accelerate human progress.
+- Smithsonian's Plans and Selective Biography:
+  - The Smithsonian announced plans for the Arthur M. Sackler museum in Washington.
+  - Arthur's biography provided for the Smithsonian omitted his ownership of McAdams agency and drug profits.
+  - The museum aimed to promote the Sackler name associated with various scientific institutions.
+- Generosity and Personality:
+  - Arthur's generosity continued, including his financial support and philanthropic endeavors.
+  - He maintained a busy schedule and took stock of his achievements.
+  - Arthur's friend Linus Pauling and other notable figures were part of his circle.
+- Jillian's Ancient Jewelry Collection:
+  - Arthur's wife, Jillian, began collecting ancient jewelry, encouraged by Arthur.
+  - The Jill Sackler Collection of Ancient Jewelry featured more than 200 pieces.
+  - A controversy arose regarding the authenticity of some pieces, affecting plans for exhibits.
+- Health Issues and Passing:
+  - Arthur's health declined as he suffered from shingles and other ailments.
+  - In 1987, Arthur experienced chest pain and checked into a hospital under a pseudonym.
+  - His passing shocked his family, and only Jillian was aware of his hospitalization.
+- Memorials and Legacy:
+  - Memorials and ceremonies were held at Harvard, Tufts, the Smithsonian, and the Met after Arthur's death.
+  - Speakers praised Arthur's achievements, contributions, and vision.
+  - The legacy of Arthur Sackler was seen as ongoing, though he had passed away prematurely.
+
+## Dynasty
+### Apollo
+- Introduction
+  - Richard Kapit's encounter with the Sackler family in 1964 during his freshman year at Columbia University.
+  - Becoming friends with Richard Sackler and their apartment in Park West Village.
+  - Richard Sackler's family background and wealthy lifestyle.
+- Richard Sackler's Lifestyle and Interests
+  - Richard Sackler's extravagant lifestyle and passion for sensual pleasures.
+  - His enthusiasm for cigars, pipes, fine tobacco, wine, and exotic experiences.
+  - Kapit's discomfort with Sackler's wealth and generosity.
+  - Sackler's dedication to enjoyment and sharing it with Kapit.
+- Sackler's Lack of Empathy and Social Relationships
+  - Sackler's lack of empathy and understanding of others' emotions.
+  - His friendship with Kapit being a notable exception.
+  - Sackler's serious relationship with Margie Yospin, his girlfriend from high school.
+- Sackler's Academic Interests and Quirks
+  - Sackler's ambivalence towards academics and classes.
+  - His interest in sex and physiological aspects, discussing orgasms and sexuality.
+  - Summer project on studying orgasms with Kapit.
+  - Sackler's infectious enthusiasm for exploring new ideas and experiences.
+- Connection to Purdue Frederick and Medical School Plans
+  - Sackler's strong connection to the family business, Purdue Frederick.
+  - Observations on the company's products, like Senokot and Betadine.
+  - Sackler's plan to become a doctor and join the family business.
+- Strained Friendship and Gradual Drift
+  - Kapit's growing discomfort in the friendship due to his reliance on Sackler's generosity.
+  - A heated argument over dishes leading to Kapit moving out of their shared apartment.
+  - Gradual fading of the friendship and Sackler's transfer to NYU for medical school.
+- Conclusion
+  - Richard Sackler's successful graduation as a physician and his entry into the medical profession.
+  - The impact of Sackler's family background on his pursuits and connections.
+
+### Heir Apparent
+- W.T. Grant Estate and Early Sackler Family Dynamics
+  - Connecticut millionaire W. T. Grant's estate is left to Greenwich Hospital but can't be converted into a medical facility due to zoning.
+  - Raymond Sackler purchases the estate, and his company, Purdue Frederick, moves to Norwalk.
+  - Raymond was known for his private and reserved nature, making significant donations while maintaining low visibility.
+  - Richard Sackler, Raymond's son, joins Purdue Frederick and demonstrates enthusiasm for innovation and business growth.
+  - Richard is groomed to take over the company, showing a mix of passion and inexperience.
+- Mortimer Sackler's Innovations and MS Contin
+  - Mortimer Sackler oversees Napp Laboratories in England, focusing on developing new drugs.
+  - MS Contin, a morphine pill with controlled release, is developed under Mortimer's guidance, revolutionizing pain treatment.
+  - The Sacklers' marketing strategy involves treating MS Contin as a new drug even though it's primarily morphine.
+- MS Contin's Unconventional FDA Approval
+  - MS Contin is introduced to the U.S. market without FDA approval by exploiting a loophole.
+  - Purdue Frederick's Howard Udell and legal team engage with the FDA and Reagan administration to avoid recalls.
+  - FDA eventually permits continued sales of MS Contin, given its widespread patient use, while Purdue submits the required application.
+- Impact on the Sacklers and Purdue Frederick
+  - MS Contin's success leads to substantial financial growth for Purdue Frederick and the Sackler family.
+  - Richard Sackler's ambitions for the company start to come true with MS Contin's success.
+
+### Matter of Sackler
+- Arthur Sackler's Estate and Family Dynamics:
+  - Summer of 1987, after Arthur Sackler's death, his first wife Else approached his properties on East Fifty-Seventh Street, purchased for his second wife, Marietta.
+  - Arthur's properties were used for storage, office space, and occasional entertainment.
+  - Else, Arthur's executor, encountered Jillian Sackler, Arthur's widow, during a meeting to discuss Arthur's estate.
+  - Complicated relations among family members: Else, Jillian, Arthur's children, and assistants.
+  - Arthur's estate included substantial assets, debts, art acquisitions, and philanthropic commitments.
+  - Debates about Arthur's promises, obligations, and debts after his death.
+  - Focus on preserving the Sackler name and allocating funds to fulfill Arthur's promises.
+  - Tensions between Jillian and Arthur's children over inheritance and commitments.
+  - Complex negotiations with Mortimer and Raymond, Arthur's brothers, for business interests.
+- The Musketeers Agreement and Abandoned Arrangements:
+  - The musketeers agreement between Arthur, Mortimer, Raymond, and Bill Frohlich.
+  - Initial intention for business interests to pass to the last survivor and then to a charitable trust.
+  - By Arthur's death, the musketeers agreement had been largely abandoned and replaced with separate arrangements.
+  - Arthur's heirs felt marginalized as Mortimer and Raymond inherited more.
+  - Shift of business interests abroad to deceive each other and undermine the original arrangement.
+  - The focus on business interests over charity as Arthur's heirs and brothers jockeyed for position.
+- Business Interests, Valuation, and Negotiations:
+  - Purdue Frederick, a domestic concern, and the conflict over ownership among Arthur's heirs.
+  - Complex dealings involving Napp Laboratories' MS Contin and Purdue Frederick's business.
+  - Unclear understanding of business details by Arthur's heirs.
+  - Selling of one-third stock interest in Purdue Frederick to Mortimer and Raymond for $22 million.
+- Legal Battles and Family Disputes:
+  - Legal battles and complex litigation over Arthur's estate and inheritance.
+  - Elizabeth emerging as a key custodian of Arthur's legacy, asserting control over assets.
+  - Fights over art pieces like the Ming bed and the Monet painting.
+  - Conflict between Jillian and Arthur's heirs escalated into a full-blown legal battle.
+  - The estate litigation cost the Sacklers millions of dollars.
+- Impact on Legacy and Family Relations:
+  - Arthur's vision of a unified family legacy contrasted with the divisive reality after his death.
+  - Wealth and possessions tore the family apart instead of bringing them together.
+  - The clash of interests and wealth-related tensions tainted the legacy Arthur aimed to preserve.
+  - Once a united front, Arthur's heirs became embroiled in legal disputes, accusations, and countersuits.
+- Overall Legacy and Unintended Consequences:
+  - Arthur's legacy characterized by deception, shifting arrangements, and business strategies.
+  - The demise of the musketeers agreement highlighted the complexities of family, business, and inheritance.
+  - A poignant illustration of the pitfalls of wealth and family dynamics in a high-stakes estate battle.
+
+### The Ticking Clock
+- Pharmaceutical Business Model and Patents:
+  - Patents grant temporary monopoly rights for inventions.
+  - Patents encourage innovation by adding "the fuel of interest to the fire of genius."
+  - Pharmaceutical companies charge high prices due to research and development costs.
+  - Monopoly granted by patents leads to high pharmaceutical profits.
+- Sackler Family and Purdue Pharma:
+  - The Sackler family's business involvement in pharmaceuticals.
+  - Arthur Sackler's innovative marketing strategies and influence.
+  - Transition from laxatives to pain management products.
+- Introduction of OxyContin:
+  - Creation of Purdue Pharma to develop new products.
+  - OxyContin, a potent painkiller, was introduced.
+  - OxyContin as a potential successor to MS Contin, a morphine product.
+- Marketing and Ambitions for OxyContin:
+  - Richard Sackler's role in overseeing OxyContin development.
+  - OxyContin's potential for cancer pain treatment.
+  - Ambitious plan to market OxyContin for various types of pain.
+  - Desire to establish literature supporting broad OxyContin use.
+- Challenges in Marketing OxyContin:
+  - OxyContin being twice as potent as morphine.
+  - American doctors' cautiousness due to concerns about opioid addictiveness.
+  - Need to address the perception of opioid addiction.
+- Family Dynamics and Company Leadership:
+  - Intergenerational involvement of Sacklers in the company.
+  - Richard's proactive role in OxyContin development and management.
+  - Family divisions and differences in approach to company leadership.
+- Work Ethic and Innovation:
+  - Richard's dedication to the OxyContin project.
+  - His micromanagement style and continuous engagement.
+  - Purdue's shift towards innovation and aggressive business approach.
+
+### God of Dreams
+- Opium Poppy and Historical Context
+  - Opium poppy's seductive appearance and medicinal properties.
+  - Historical usage of poppies for medicinal and recreational purposes.
+  - Dangers associated with opium, including addiction and death.
+  - Use of opium poppy in various societies and its symbolic meanings.
+- Evolution of Opioid Drugs
+  - Historical evolution of opium-based substances, from poppy sap to morphine.
+  - Creation of heroin and its mistaken perception as a safer alternative to morphine.
+  - The addictive nature of opioids and the dangers associated with their use.
+  - Opium-related tragedies and the shifting medical attitudes towards opioids.
+- Development of OxyContin
+  - Richard Sackler's dedication to making OxyContin a success.
+  - Purdue's plan to introduce OxyContin as a successor to MS Contin.
+  - Marketing strategy to position OxyContin as a safer alternative.
+  - Purdue's efforts to secure FDA approval for OxyContin.
+- FDA Approval and Marketing Strategies
+  - Curtis Wright's role as the FDA reviewer for OxyContin.
+  - Purdue's argument that OxyContin's controlled-release coating reduces addiction risk.
+  - Purdue's cultivation of a positive relationship with Wright and the FDA.
+  - The development and negotiation of the OxyContin package insert.
+- Controversies and Ethical Concerns
+  - Skepticism and internal doubts about the promotional language in the package insert.
+  - The unusual interaction between Purdue officials and Wright during the approval process.
+  - Curtis Wright's transition from FDA to Purdue and the potential conflict of interest.
+  - Questions surrounding Wright's hiring by Purdue and his impartiality.
+
+### H-Bomb
+- Chemical Plant Tragedy in Lodi, New Jersey (1995)
+  - Calixto Rivera's early morning decision to work despite rain and exhaustion.
+  - Working conditions at the Napp chemical plant in Lodi.
+  - Napp's role in the chemical and pharmaceutical industry in New Jersey.
+  - Chemical mixing projects for outside companies and safety concerns.
+  - The buildup of dangerous chemicals and hazardous conditions inside the plant.
+- Safety Negligence and Unfortunate Events
+  - Lack of safety precautions and training for employees.
+  - Hiring practices at Napp, including employing inexperienced workers.
+  - Diversity of the workforce leading to communication issues.
+  - Introduction of unfamiliar chemicals and the risks involved.
+  - Mixing volatile chemicals and the dangers of sodium hydrosulfite.
+- Catastrophic Explosion and Aftermath
+  - The escalating pressure and reaction inside the chemical mixer.
+  - The ill-fated decision to reenter the plant and empty the mixer.
+  - Explosion's devastating impact on the plant, surroundings, and residents.
+  - Immediate deaths and injuries, including Calixto Rivera's tragic fate.
+  - Environmental pollution and long-term consequences of the explosion.
+- Sackler Family's Response and Accountability
+  - Napp's ownership by the Sackler family, founders of Purdue Frederick.
+  - Lack of accountability and sympathy from the Sackler family.
+  - Sacklers' refusal to comment, apologize, or acknowledge responsibility.
+  - Journalistic efforts to uncover the true identity of Napp's owners.
+  - Raymond Sackler's dismissive statement regarding personal responsibility.
+- Raymond Sackler's Honorary Knighthood
+  - Raymond Sackler's recognition for philanthropic contributions.
+  - Honorary knighthood bestowed by Queen Elizabeth.
+  - Emotional impact of the honor on Raymond Sackler.
+
+### Sell, Sell, Sell
+- Purdue Pharma's Sales Strategy
+  - Targeted regions with high numbers of family physicians, workers' comp, and injuries.
+  - Focused on doctors who prescribed opioids frequently, referred to as "whales."
+  - Targeted "opioid naive" doctors with little experience prescribing opioids.
+  - Purdue influenced doctors' perception of opioids through sales tactics.
+- Sales Tactics and Promotional Efforts
+  - Avoided alarming terms like "powerful" to downplay drug dangers.
+  - Produced promotional video "I Got My Life Back" featuring patient testimonials.
+  - Distributed free samples and coupon cards for OxyContin prescriptions.
+  - Rapidly expanded dose range and introduced larger, stronger pills.
+  - Subsidized free prescriptions to familiarize patients with OxyContin.
+  - Dramatic sales growth fueled by untreated chronic pain sufferers.
+- Richard Sackler's Involvement and Focus
+  - Richard Sackler's relentless focus on OxyContin's success.
+  - Personal and professional detachment during drug's launch phase.
+  - Ongoing obsession with sales figures, both domestically and internationally.
+  - Contemplated selling OxyContin over-the-counter in Germany.
+  - Pursued higher dose strength for greater profits.
+- Company Culture and Sales Success
+  - Purdue's elite corporate environment and luxurious spending.
+  - Exponential sales growth and impressive profits.
+  - Sales reps' incentives, bonuses, and competition.
+  - OxyContin's rapid rise to a billion-dollar blockbuster drug.
+  - Purdue struggled to meet product supply due to high demand.
+- OxyContin Rep Experience
+  - Steven May's successful experience as an OxyContin sales rep.
+  - Aggressive marketing strategies, especially in Veterans Administration hospitals.
+  - Doctors encouraged to titrate up OxyContin doses for higher sales.
+  - Sales reps' high earnings, including bonuses and perks.
+  - Tragic incident involving a doctor's relative overdosing on OxyContin.
+
+### Ann Hedonia
+- OxyContin Marketing and Early Awareness of Problems:
+  - Purdue Pharma, owned by the Sackler family, marketed OxyContin as a breakthrough painkiller.
+  - Richard Sackler and Purdue officials were aware of concerns about OxyContin's addictive properties.
+  - Early incidents like pharmacy thefts and overdoses hinted at the drug's potential problems.
+- Purdue's Denial and Response:
+  - Purdue denied OxyContin's addictiveness and blamed abusers for the issue.
+  - Company officials, including Richard Sackler, blamed "reckless criminals" for the drug's misuse.
+  - Purdue aimed to counter negative media coverage, presenting itself as a victim rather than a cause.
+- Clinical Flaws and Addiction:
+  - OxyContin's time-release formula wasn't always effective, leading to withdrawal between doses.
+  - Many patients prescribed OxyContin for legitimate pain conditions became hopelessly addicted.
+  - Purdue downplayed the distinction between addiction and physical dependence.
+- Purdue's Sales Strategy and Impact:
+  - Sales representatives targeted areas with high potential for OxyContin abuse, leading to increased sales.
+  - Purdue used "Toppers" - top sales reps - to move product, even in regions with high abuse rates.
+  - Purdue ignored warnings about pill mills and prioritized profit over addressing the abuse problem.
+- Barry Meier's Investigation:
+  - Journalist Barry Meier investigated OxyContin and the Sackler family's role.
+  - Purdue refused to provide information, threatening legal action in response to Meier's inquiries.
+  - Meier uncovered Purdue's negligence in the face of abuse and addiction issues.
+- Richard Sackler's Attitude and Martha West's Struggle:
+  - Richard Sackler expressed disdain for drug addicts and framed them as "scum of the earth."
+  - Martha West, a legal secretary at Purdue, became addicted to OxyContin.
+  - West's experiences revealed the gap between Purdue's public statements and its handling of internal issues.
+- Purdue's Response to Martha West:
+  - Purdue portrayed West as an individual with a history of addiction and emotional instability.
+  - Company lawyers obtained West's health records and confronted her during legal proceedings.
+  - Purdue attempted to undermine West's credibility by focusing on her emotional reactions.
+
+### The Pablo Escobar of the New Millennium
+- Background and Introduction
+  - Purdue Pharma, manufacturer of OxyContin, faced scrutiny over its aggressive marketing and role in the opioid crisis.
+  - The Sackler family, owners of Purdue, faced criticism and legal actions due to their involvement.
+- Journalists Investigate
+  - Investigative journalists like Barry Meier and others exposed Purdue's misleading marketing practices.
+  - Purdue's executives tried to downplay the crisis and discredit critical reports.
+- OxyContin's Impact
+  - OxyContin's addictive potential and overprescription led to widespread addiction and deaths.
+  - Purdue's executives claimed innocence, ignoring the mounting evidence of abuse.
+- Corporate Tactics
+  - Purdue targeted journalists critical of their practices, pressuring them to change their reporting.
+  - Purdue attempted to shape public perception, blaming addicts instead of acknowledging their product's risks.
+- Family Dynamics
+  - The Sackler family, divided into A and B sides, collectively denied responsibility for OxyContin's consequences.
+  - Purdue's executives showed little remorse, refusing to apologize or admit wrongdoing.
+- Media Fallout
+  - Barry Meier's book "Pain Killer" exposed OxyContin's impact and Purdue's culpability.
+  - The New York Times faced its own credibility crisis due to the Jayson Blair scandal.
+- Struggle with Accountability
+  - Purdue sought to silence Meier's reporting by accusing him of a conflict of interest.
+  - The Times removed Meier from reporting on opioids, raising questions about journalistic integrity.
+- Corporate Manipulation
+  - Purdue's aggressive tactics eventually led to sidelining Meier's reporting.
+  - Meier believed that corporate influence compromised the integrity of journalism.
+
+### Take the Fall
+- Legal Battle and Political Pressure
+  - John Brownlee's pursuit of charges against Purdue Pharma and its executives, Friedman, Goldenheim, and Udell.
+  - The challenges faced by Brownlee due to political pressure and the company's influential connections.
+  - Purdue's attempts to influence the case using political connections and legal maneuvers.
+- Refusal to Back Down
+  - Brownlee's refusal to give in to pressure and his determination to pursue the case against Purdue Pharma.
+  - Brownlee's commitment to justice and his willingness to stand against political influence.
+- Guilty Plea and Sentencing
+  - Purdue Pharma's eventual decision to plead guilty in federal court for fraudulent misconduct related to OxyContin.
+  - The guilty pleas of executives Friedman, Goldenheim, and Udell, along with the charges and fines they faced.
+  - The emotional testimonies of victims' families during the sentencing, highlighting the devastating impact of OxyContin addiction.
+- Selective Accountability
+  - Purdue Pharma's strategic decision to have its legacy corporation, Purdue Frederick, plead guilty to avoid devastating consequences.
+  - The perception that executives were protecting the Sackler family by taking responsibility themselves.
+  - The contrast between the fines imposed on Purdue and the Sacklers' wealth.
+- Insufficient Punishment
+  - Criticism of the punishment as insufficient, seen as a mere cost of doing business.
+  - The perception that corporate fines allow for continued misconduct without addressing core issues.
+  - The sentiment that the guilty plea was just a small setback for Purdue Pharma.
+- Continuation of Selling OxyContin
+  - Purdue Pharma's quick return to selling OxyContin and expanding its sales force, despite the guilty plea.
+  - The lack of significant behavioral change or reform within the company.
+- Richard Sackler's Disregard
+  - Richard Sackler's lack of engagement with the legal documents outlining corporate misconduct.
+  - The dismissive attitude of Sackler towards the document and the implication of his involvement.
+
+## Legacy
+### Turks
+- Purdue Pharma and Legal Challenges:
+  - Purdue Pharma faced private lawsuits related to OxyContin and spent significant money to defend against them.
+  - Executives, including Howard Udell, Paul Goldenheim, and Michael Friedman, pleaded guilty and faced penalties.
+  - Udell's charitable work after leaving Purdue was seen as redemption, though he maintained his innocence.
+  - Purdue sponsored events and publications encouraging opioid prescription for veterans returning from Iraq and Afghanistan.
+- Influence of Stuart Baker:
+  - Stuart Baker, an attorney, was a key figure in Purdue's operations and liaison between the board and management.
+  - Baker's role included maintaining peace between Sackler family factions during board meetings.
+  - Known as the "concierge," Baker had immense power within the company and sat on various Sackler-owned boards.
+- Family Dynamics and Financial Decisions:
+  - The Sackler family comprised members from multiple generations who were board members of Purdue.
+  - Board meetings often ended with family-only sessions to vote on distributions to family members.
+  - Distribution discrepancies arose due to differing family sizes, leading to tension between "A side" and "B side."
+  - The Sacklers received large disbursements from Purdue annually, reliant on OxyContin's profitability.
+- Strategies to Maintain OxyContin's Profits:
+  - McKinsey consultants advised Purdue on strategies to boost OxyContin sales amid indications of plateauing.
+  - Purdue wanted to maximize profit before OxyContin faced generic competition.
+  - A focus on promoting opioids as providing "freedom" and a chance for an active life emerged.
+- Death of Mortimer Sackler and Legacy:
+  - Mortimer Sackler, a philanthropist, passed away, leaving behind a legacy of contributions to various institutions.
+  - His philanthropic efforts overshadowed his connection to OxyContin.
+  - The obituaries highlighted his charitable contributions and minimized mention of OxyContin's role.
+
+### Tamperproof
+- Introduction to Purdue Pharma and OxyContin:
+  - Purdue Pharma replaced traditional OxyContin pills with a reformulated version in 2010.
+  - The new version aimed to be tamper-resistant to prevent abuse.
+- Motivation Behind Reformulation:
+  - Purdue sought to develop an abuse-resistant version of OxyContin due to concerns about abuse.
+  - Motivated by competition from other pharmaceutical companies and the need to protect its patent.
+- Reformulation Process and Impact:
+  - Purdue devoted significant resources to research and development for reformulation.
+  - The reformulated OxyContin pills were thicker and stamped with "OP" instead of "OC."
+  - The coating was redesigned to resist crushing and abuse.
+- Regulatory Approval and Marketing:
+  - Purdue obtained FDA approval for the new "abuse-resistant" OxyContin.
+  - FDA permitted claims of abuse-deterrent properties in the package insert.
+  - Reformulated OxyContin was marketed as safer than other opioids.
+- Unintended Consequences and Timing:
+  - The timing of reformulation was crucial due to the ongoing opioid epidemic.
+  - The opioid epidemic had created a large population of opioid addicts.
+  - Many users turned to heroin due to difficulty accessing the full effect of reformulated OxyContin.
+- Transition to Heroin and Parallels with Purdue's Marketing:
+  - Users transitioned to heroin due to its similarity to OxyContin's effects.
+  - Mexican drug syndicates smuggled cheap heroin into the US, catering to a new market.
+  - Similar tactics used by drug syndicates paralleled Purdue's original marketing strategies.
+- Exculpatory Argument by Sacklers:
+  - Some Sackler family members claimed the shift to heroin absolved them of responsibility.
+  - Heroin was considered a street drug, while OxyContin was FDA-approved.
+- Data Linking OxyContin to Heroin Crisis:
+  - Data suggested a link between OxyContin abuse and the rise in heroin overdoses.
+  - Many people who started using heroin had initially abused prescription painkillers.
+  - Studies indicated that the reformulation of OxyContin contributed to the rise in heroin use.
+- Economic Research on OxyContin Reformulation and Heroin Epidemic:
+  - Economists conducted research on the correlation between OxyContin reformulation and the heroin epidemic.
+  - The study titled "How the Reformulation of OxyContin Ignited the Heroin Epidemic" explored the rapid rise in heroin deaths.
+
+### Ambassadors
+- Sackler Family Financial Struggles and Dynamics:
+  - David Sackler expressed frustration at working for Purdue at a discounted value relative to his perceived worth.
+  - He emphasized his financial difficulties and suggested hiding the loan from family members to avoid drama.
+  - The Sackler family's approach to money was diverse, with some being careful while others pursued their interests outside pharma.
+- Sackler Family Legacy and Public Recognition:
+  - The Sackler name was recognized across the UK with buildings, galleries, and institutions bearing their name.
+  - Their philanthropy extended to various arts and sciences projects, and they were known for donations to prestigious institutions.
+  - Mundipharma House in Bermuda served as a tax-efficient clearinghouse for the family's wealth, generating billions from OxyContin.
+- Expanding Opioid Market Internationally:
+  - Purdue's growth in the US was plateauing due to growing awareness of opioid dangers among doctors and patients.
+  - Mundipharma, part of the Sackler network, targeted emerging markets in Latin America and Asia.
+  - Mundipharma adopted aggressive marketing tactics, recruiting "pain ambassadors" and pushing discredited opioid claims.
+- Mundipharma's Push into China:
+  - Mundipharma expanded into China with a large sales force and incentives for performance.
+  - The company leveraged its reputation, publications, and connections to promote opioids.
+  - Despite China's historical opioid struggles, Mundipharma aimed to make China its biggest market.
+- Sackler Family's Unscathed Reputation:
+  - Despite criticism and books highlighting their role in the opioid crisis, the Sackler family remained largely unaffected.
+  - Universities and art museums continued to accept Sackler donations without discomfort.
+  - Negative coverage about OxyContin involving the Sackler name was kept minimal and buried in the press.
+- Impending Change and Conclusion:
+  - The status quo of the Sackler family's reputation was about to change, suggesting a turning point in their public image and legacy.
+
+### It's a Hard Truth, Ain't It
+- Purdue Pharma's Internal Dynamics:
+  - Purdue Pharma faced negative publicity and adopted a bunker mentality over two decades of selling OxyContin.
+  - During spikes in negative publicity, senior management dismissed media narratives as biased and unfounded.
+  - A schism emerged between a new generation of executives pushing for change and an old guard loyal to the Sacklers.
+  - Internal dissent arose as employees discovered the parallels between Purdue's practices and those of Mundipharma.
+- Challenges and Controversies:
+  - The Los Angeles Times stories prompted internal dissent and calls for accountability.
+  - The opioid crisis gained catastrophic proportions, with over 165,000 Americans dead from prescription opioid abuse.
+  - Purdue resisted acknowledging its role in the crisis, instead portraying untreated pain as the epidemic.
+  - The CDC's nonbinding guidelines aimed to limit opioid prescriptions, drawing opposition from the industry.
+- Leadership Changes and Strategy:
+  - Mark Timney's tenure as CEO ended in 2017; Purdue chose not to renew his contract.
+  - Craig Landau, a loyalist, became the new CEO, maintaining the Sacklers' influence in the company.
+  - Landau suggested an "opioid consolidation strategy" as other companies abandoned the opioid space.
+  - Ideas like offering rebates for opioid-related harm were considered, but not executed.
+- Sackler Family's Influence and Legacy:
+  - The Sacklers remained insulated and loyal to those who stood by them, fostering an atmosphere of loyalty.
+  - Richard Sackler chose to remain obscure and not associate publicly with Purdue's controversy.
+  - Raymond Sackler, the last link to the original ownership, passed away, but the family remained determined.
+
+### Temple of Greed
+- Nan Goldin's Life and Work:
+  - Nan Goldin, a renowned photographer, captured intimate and candid moments of her life and her circle.
+  - Her work defied societal norms and was a raw portrayal of her unconventional lifestyle and friends.
+  - Goldin's photography was marked by luminous colors, raw intimacy, and a candid perspective.
+  - She documented her own struggles with addiction, relationships, and the AIDS crisis.
+- Family Background and Tragedies:
+  - Nan Goldin's upbringing was in a middle-class family with emphasis on propriety.
+  - Her older sister Barbara's troubled life and eventual suicide had a profound impact on Goldin.
+  - Barbara's mental health struggles led to her being institutionalized against her will.
+  - Nan Goldin left home at a young age, lived in foster homes, and found solace in photography.
+- Heroin Addiction and AIDS Crisis:
+  - Goldin's life was marked by drug use, including heroin, which became more intense in the 1980s.
+  - The AIDS crisis took a toll on her circle of friends, with many dying due to the epidemic.
+  - Goldin captured the raw reality of the crisis in her photographs and found herself in hospital wards.
+- OxyContin and the Sackler Family:
+  - Goldin's life took a new turn when she was prescribed OxyContin for severe tendinitis.
+  - OxyContin provided relief from pain and anxiety, leading to addiction and overdose.
+  - The Sackler family's involvement in OxyContin's creation and marketing was explored.
+  - The family's philanthropic reputation contrasted with the harm caused by OxyContin.
+- Controversy and Public Outcry:
+  - Nan Goldin started a campaign against the Sackler family's role in the opioid crisis.
+  - Her activist group, PAIN, organized protests and demanded accountability.
+  - Goldin staged a protest at the Metropolitan Museum, calling on cultural institutions to reject Sackler money.
+  - The protest aimed to shed light on the family's involvement in OxyContin's harmful impact.
+- Sackler Family's Response and Legacy:
+  - The Sackler family's reputation remained largely intact in the face of negative press.
+  - Despite exposés, cultural institutions continued to accept donations from the Sacklers.
+  - Goldin's activism aimed to challenge the family's legacy and advocate for addiction treatment.
+  - The Sacklers' complex involvement with OxyContin, philanthropy, and public perception was highlighted.
+
+### Warpath
+- Strategies to Discredit Moore and Lawsuits:
+  - Herald Group executive suggested discrediting Moore to deter other attorneys.
+  - Described Moore as a greedy trial lawyer making millions suing companies.
+  - Proposed creating a website called LearJetLawyers.com to associate plaintiff's attorneys with wealth.
+  - Idea was to damage credibility and portray them as not fighting for the common person.
+  - Wall Street Journal criticized lawsuits and state attorneys general, Purdue executives celebrated.
+  - Herald Group claimed involvement in an editorial criticizing lawsuits.
+- Sacklers' Responses and Reputation Crisis:
+  - Purdue's efforts to counter allegations amid lawsuits.
+  - Jonathan Sackler received a call about renaming the Raymond & Beverly Sackler Prize.
+  - Growing pressure on institutions to distance from the Sackler name due to bad publicity.
+  - Sackler family convened weekly crisis conference calls with lawyers and PR advisors.
+  - Jonathan Sackler crafted advertisements for the company's defense.
+  - Sacklers hesitant to admit guilt, struggled to agree on a statement.
+- Legal Actions and Public Backlash:
+  - Attorneys general initiated cases to obtain funds for addiction treatment and research.
+  - Efforts to break through the corporate veil to name Sackler owners as defendants.
+  - Public backlash against Sackler family's involvement in the opioid crisis.
+  - Nan Goldin's PAIN group organized demonstrations targeting Sackler-funded museums.
+  - Protests led to museums rejecting Sackler donations due to public pressure.
+- Goldin's Activism and Family Reactions:
+  - Nan Goldin's activism against Sackler funding in the art world.
+  - Goldin's protests affected institutions' decisions to distance from the Sacklers.
+  - Madeleine Sackler faced criticism for her work's connection to the family's wealth.
+  - Madeleine's argument to be judged based on her work, not family's business.
+  - Purdue faced significant legal challenges and public scrutiny.
+- Legal Developments and Accountability:
+  - Massachusetts attorney general named eight Sackler family members as defendants.
+  - Purdue faced consequences of aggressive opioid promotion and downplaying risks.
+  - Russell Portenoy, "King of Pain," became a witness against Purdue.
+  - Sacklers' legacy marred by lawsuits, protests, and association with opioid crisis.
+
+### Named Defendants
+- Legal Battle and Public Image:
+  - Lawsuits against the Sackler family by multiple states and individuals.
+  - Massachusetts and New York attorneys general filing cases against Purdue Pharma and individual Sackler board members.
+  - Allegations of Purdue's aggressive marketing of OxyContin and Sacklers' involvement in company decisions.
+  - Sacklers' attempt to dismiss the case denied; family facing negative public attention.
+  - Sackler family's philanthropic reputation tarnished; museums and organizations rejecting their donations.
+- Sacklers' Financial Moves:
+  - Sacklers transferring money out of Purdue Pharma in anticipation of legal consequences.
+  - Allegations of potential fraud due to moving funds offshore to evade U.S. authorities.
+  - Family members discussing financial strategies to protect wealth as lawsuits loomed.
+  - Increase in cash distribution to Sacklers from Purdue Pharma after 2007.
+- McKinsey's Concerns and Public Perception:
+  - McKinsey consultants alarmed, discussing destroying documents and emails related to Purdue Pharma.
+  - Sackler Trust in Britain suspends further philanthropy due to negative press attention.
+  - Sackler family's name losing prestige; becoming pariahs in cultural, educational, and financial circles.
+  - Impact of the opioid crisis on the Sackler family's reputation and public image.
+- Sacklers' Defensiveness and Strategies:
+  - Sacklers exhibiting little remorse or soul-searching about their actions.
+  - Private WhatsApp conversations show concern about public relations optics rather than the opioid crisis.
+  - Family members believing they are victims of a blame culture in America.
+  - Sacklers seeking alternative narratives and messaging strategies to present themselves as trustworthy.
+- Efforts to Shift Focus and Perception:
+  - Sacklers attempting to shift narrative to focus on fentanyl and drug abuse rather than Purdue's role.
+  - Mortimer Sackler seeking advice from influential figures like Michael Bloomberg and George Soros.
+  - David and Joss Sackler moving to Florida to escape negative attention in New York.
+  - Purdue University clarifying its lack of affiliation with Purdue Pharma due to name confusion.
+- Media Satire and Reactions:
+  - Satirical segments on late-night shows highlighting Sacklers' actions and attitudes.
+  - Actors performing dramatic renditions of Sacklers' leaked depositions and correspondence.
+  - Sacklers' representatives attempting to meet with John Oliver to plead their case; Oliver declining.
+- Sacklers' Perceived Persecution and Defiance:
+  - Sacklers feeling persecuted and unjustly targeted by media and public opinion.
+  - Family members expressing frustration over negative impact on their lives and reputations.
+  - Jacqueline Sackler asserting innocence of company's actions and expressing concern for her children's future.
+
+### The Phoenix
+- Introduction
+  - Joss Sackler's request is deemed offensive by Courtney Love and other addicts due to OxyContin's impact.
+  - Joss's fashion show controversy reflects the Sackler family's moral stain.
+- Bankruptcy Filing and Legal Maneuvering
+  - Purdue Pharma files for bankruptcy, selecting Judge Robert Drain to preside over the case.
+  - Purdue's move halts lawsuits against the company, leading to mixed reactions from state prosecutors.
+  - The Sacklers propose a global settlement, met with skepticism by some states.
+  - Partisan divide emerges among state prosecutors over the settlement proposal.
+- Political Influence and Deal Making
+  - The Sacklers utilize political influence, hiring a former U.S. senator and maintaining ties with AG associations.
+  - Plaintiffs' lawyers' role in accepting settlements due to contingency fees and larger litigation strategies.
+  - Suspicions arise that plaintiffs' lawyers played a role in conceiving the Sacklers' settlement proposal.
+- Financial Complexity and Subpoenas
+  - The Sackler fortune is dispersed across shell companies and trusts in tax havens.
+  - Letitia James subpoenas financial institutions to gather information on the Sacklers' finances.
+  - Subpoenas reveal significant wire transfers and financial activity.
+- Sacklers' Legal Strategy
+  - Purdue argues that Sacklers are intertwined with the company, attempting to halt litigation against them.
+  - The Sacklers' strategy draws criticism for avoiding individual accountability.
+- Precedent and Legal Ruling
+  - Historical example of a bankruptcy case involving A.H. Robins Company and its impact on third parties.
+  - Judge Robert Drain's history with similar issues and his decision to halt litigation against the Sacklers.
+  - The ruling's implications for the Sacklers and their ongoing deal with the states.
+
+### Un-Naming
+- Congressional Hearing and Family Testimonies
+  - Congress holds a hearing on the Sackler family's role in the opioid crisis.
+  - Family members, including David and Kathe Sackler, testify before the committee.
+  - Representatives criticize the Sacklers for their involvement in the crisis.
+  - Lawmakers express anger and demand accountability from the family.
+- Evasive Responses and Lack of Accountability
+  - Family members employ evasive language and deflect responsibility.
+  - They express condolences for victims but avoid genuine apologies.
+  - The Sacklers deny personal wrongdoing and blame Purdue's management.
+  - Congress members challenge their lack of acknowledgment and remorse.
+- Impact of OxyContin and Financial Interests
+  - OxyContin's devastating impact on communities is highlighted by witnesses.
+  - Sacklers' wealth and lavish lifestyle are contrasted with the suffering caused.
+  - Questions are raised about the family's significant financial gains from the crisis.
+  - Comparison drawn between the family's wealth and penalties faced by others.
+- Lack of Change and Moral Epiphany
+  - The Sacklers are criticized for their inability to comprehend their role.
+  - Despite performing empathy, they appear incapable of genuine moral growth.
+  - Their stubbornness and inability to change reinforce their negative portrayal.
+  - Observers note the family's consistent refusal to fully recognize their actions.
+- Community Reckoning and Symbolic Justice
+  - The congressional hearing becomes a collective expression of community outrage.
+  - Lawmakers represent communities affected by the opioid crisis in their anger.
+  - Despite legal limitations, the hearing serves as a symbolic act of justice.
+  - Lawmakers use the hearing to give voice to the victims and communities affected.
+- Public-Benefit Corporation Proposal and Irony
+  - The Sacklers propose turning Purdue into a public-benefit corporation.
+  - The proposal aims to continue opioid sales but distribute proceeds to fight the crisis.
+  - The irony is noted in the family's offering of a charitable solution.
+  - A historical contrast is drawn between the family's current stance and past intentions.
+- Legacy and Charitable Foundations
+  - The Sacklers' early commitment to philanthropy is discussed.
+  - Family foundations were established in memory of their father, Isaac Sackler.
+  - The original purpose of benefiting humanity through philanthropy is contrasted.
+  - The current perception of the family and their legacy is questioned.
+- Unchanging Reputation and Concluding Thoughts
+  - The Sacklers' reputation cannot be restored through monetary means.
+  - Despite the crisis, the family's reputation remains tarnished.
+  - The enduring impact of their actions on individuals and communities is highlighted.
+  - The narrative ends with reflections on the family's legacy and societal impact.
+
+## Afterword
+- Unsettling Encounters and Intimidation
+  - Author recounts a suspicious incident involving a stranger observing his house.
+  - The visitor's presence raises concerns about surveillance and intimidation.
+  - The author's family takes measures to observe and document the stranger's activities.
+  - The incident reminds the author of instances involving Nan Goldin and private investigators.
+- Author's Introduction to Opioid Crisis
+  - Author initially focused on writing about the drug trade between Mexico and the US.
+  - Exploration of Mexican drug cartels' business aspects leads to interest in OxyContin.
+  - Sackler family's connection to OxyContin is surprising given their philanthropic image.
+  - Author's research and articles shed light on the Sacklers' role in the opioid crisis.
+- Initial Denial and Denouncement
+  - Family members and Purdue Pharma deny any knowledge of surveillance.
+  - Author's attempts to secure interviews with Sacklers are met with silence.
+  - Impact of the author's New Yorker article on readers and opioid crisis awareness.
+  - Nan Goldin's activism and movement against the Sacklers gain traction.
+- Challenges and Shifts in Focus
+  - Initial difficulty in accessing information due to the secretive nature of the family.
+  - Insights from former Purdue employees and Massachusetts case's revelations.
+  - Decision to write a book exploring the Sacklers' dynasty, power, and corruption.
+  - Acknowledgment of focusing on the Sacklers' story rather than certain public health aspects.
+- Balancing Compassion and Accountability
+  - Clarification of author's intention not to stigmatize opioid users.
+  - Concerns from readers about jeopardizing access to necessary medication.
+  - Recognizing that Purdue is not the sole culprit, but it played a significant role.
+  - Acknowledgment of the complexity surrounding appropriate pain management.
+- Sacklers' Response and Legal Tactics
+  - Sackler family's mixed response to the author's inquiries for the book.
+  - Role of attorney Tom Clare in defending Sackler interests and issuing threats.
+  - Parallel drawn between family's historical tactics and modern legal actions.
+  - Reaction to public disclosure of family's actions and its impact on the Sackler name.
+- Collective Denial and Whistleblowers
+  - Notable absence of whistleblowers in the OxyContin saga.
+  - Explanation of Purdue's efforts to suppress dissent and criticism.
+  - Sacklers' and company's narrative of minimizing their responsibility.
+  - Reflection on the difficulty of facing complicity and its impact on conscience.
+- Personal Story of Addiction
+  - Meeting with a man named Jeff who battled addiction.
+  - Jeff's experience with opioid abuse, including transition to heroin.
+  - Jeff's realization of the destructive path addiction led him on.
+  - Jeff's juxtaposition of his experiences with the Sacklers' affluent lifestyle.
