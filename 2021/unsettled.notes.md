@@ -1,0 +1,578 @@
+# Unsettled
+Author: Steven E. Koonin
+
+## Introduction
+- Introduction:
+  - The concept of "The Science" and its influence on climate discussions.
+  - Common beliefs about climate change and its impacts.
+  - The role of greenhouse gas emissions and the need for radical changes to avoid doom.
+- Understanding Climate Science:
+  - The truth behind "The Science" and its misunderstandings.
+  - Examples of climate facts that challenge the prevailing narrative.
+- Challenges in Communicating Climate Science:
+  - The disconnect between research literature, assessment reports, media coverage, and public understanding.
+  - Difficulties in comprehending the complex data and analyses.
+  - Scientists' role in conveying accurate and complete information to policymakers.
+- Author's Background and Motivation:
+  - The author's experience as a scientist in climate and energy fields.
+  - Early involvement in climate science, policy, and renewable energy initiatives.
+  - The doubts and realizations that led the author to question prevailing climate narratives.
+- Scientific Integrity and Communication:
+  - The importance of scientific integrity in communicating climate science.
+  - Tension between objectivity and advocacy in climate science communication.
+  - The impact of media, politics, and personal beliefs on presenting scientific information.
+- Book Structure and Approach:
+  - The book is divided into two parts: Understanding the Science and Responding to Climate Change.
+  - The necessity of clarity and precision in conveying scientific concepts.
+  - Utilizing both metric and imperial units for accessibility.
+  - Graphs as a language of data, illustrating key points and sources.
+- Understanding the Science of Climate Change:
+  - Climate science involves multidisciplinary aspects, encompassing physics, chemistry, geology, biology, policy, economics, and technology.
+  - The challenge of creating a coherent, fact-based picture of the science.
+  - The book's focus on significant points where popular perception diverges from scientific evidence.
+- Exposing Misconceptions:
+  - Focus on specific aspects where the science contradicts prevailing beliefs.
+  - Record high temperatures in the US not becoming more common.
+  - Lack of detectable human impact on hurricanes.
+  - Modest changes in precipitation and related phenomena over the past century.
+  - Misleading media portrayal of climate predictions.
+- Response to Climate Change:
+  - Distinguishing between what society could do, should do, and will do.
+  - Challenges in reducing human influences on the climate.
+  - Exploring the possibility of a "zero-carbon" energy system in the US.
+  - Adaptation and geoengineering as responses to a changing climate.
+
+## The Science
+- Introduction:
+  - The author draws parallels between parenting and climate science.
+  - The core questions of climate science: human influence, climate response, and impacts.
+  - The complexity and uncertainties in climate science.
+- Understanding Uncertainties in Science:
+  - Science involves logical inferences from observations.
+  - The practice of science is about reducing uncertainties.
+  - Every measurement has an associated uncertainty (σ).
+  - Significance of differences between measurements depends on uncertainties.
+- Quantifying Uncertainties:
+  - Likelihood scale for outcomes: virtually certain, very likely, likely, etc.
+  - Confidence levels in findings: very high, high, medium, low, very low.
+  - Challenges in quantifying uncertainties in complex fields like climate science.
+- Assessment Reports and Their Significance:
+  - Large international efforts to answer core climate science questions.
+  - Assessment reports provide "best answers" for non-experts.
+  - IPCC and USGCRP produce assessment reports.
+  - The structure, content, and purpose of assessment reports.
+- Failures and Misleading Information in Reports:
+  - Assessment reports considered the "gold standard" for non-experts.
+  - Some elementary failures and misleading points exist in these reports.
+  - Discussion about the failures, media's role, and potential corrections.
+- Inaccuracies in Communication and Unsupportive Hyperbole:
+  - Organizations rely on assessment reports for climate communication.
+  - An example of unsupported hyperbole in an AAAS report.
+  - The author's alternate statement based on assessment reports.
+  - The tendency toward exaggerated communication about climate.
+- Imparting Information Impartially:
+  - Moving away from persuasion towards impartial information.
+  - Proposing steps for a more factual and less alarming approach.
+  - The following chapters will present a more factual and cautious perspective.
+
+### What We Know About Warming
+- Introduction
+  - Understanding climate change involves examining ecosystems, societal adaptations, and scientific details.
+  - Surface temperature changes have been significant, with variations across land and ocean areas.
+  - The climate system encompasses various components: atmosphere, water bodies, snow, ice, solid earth, and living organisms.
+- Ocean's Role and Challenges
+  - Oceans store 90% of the climate's heat and have long-term memory.
+  - Oceans change over decades, collecting data is challenging due to their vastness.
+  - The Argo program uses robotic floats to measure ocean properties and has improved ocean knowledge.
+- Ocean Heat Content
+  - Ocean heat content provides a clear indicator of warming over decades.
+  - Ocean heat data shows a steady increase, particularly in the upper 300 meters.
+  - Variability and historical data limitations complicate understanding human influence on ocean warming.
+- Additional Warming Indicators
+  - Arctic ice and mountain glaciers are declining.
+  - Growing seasons are extending, and lower atmosphere temperatures are rising.
+- Exploring Climate Centuries Ago
+  - Proxy methods help infer historical climate data.
+  - Tree rings, borehole temperature measurements, and ice cores provide insights into past climates.
+  - Proxy data shows a gradual rise in temperatures leading to the Little Ice Age and current rapid warming.
+- Long-Term Climate Perspectives
+  - Geological proxies reveal temperature changes over millions of years.
+  - Geological events have driven temperature shifts, such as coal formation during the Carboniferous period.
+  - Modern humans have appeared relatively recently in Earth's history.
+- Conclusion and Future Challenges
+  - Understanding climate's response to human influence is essential.
+  - While natural forces affect climate, identifying human impact is crucial.
+  - The extent of human-induced warming is the focus of the next chapter.
+
+### Humble Human Influences
+- Introduction
+  - Weight balance analogy: Weight influenced by calories consumed and burned.
+  - Earth's temperature balance analogy: Balance between sunlight warming and infrared cooling.
+- Radiative Equilibrium and Albedo
+  - Radiative equilibrium: Balance where planet gains/loses no energy, maintaining temperature.
+  - Earth's albedo: Reflectivity affecting temperature; changes in reflection affect warming/cooling.
+  - Earthshine observations: Measure global albedo through lunar observations.
+  - Albedo's role in climate: Changes in albedo can offset warming influence of CO2.
+- Greenhouse Effect and Insulation
+  - Earth's temperature influenced by balance of absorbed sunlight and radiated heat.
+  - Greenhouse gases: Intercept and impede heat flow from Earth's surface.
+  - Water vapor's importance: Dominant greenhouse gas, intercepts significant heat.
+  - Carbon dioxide (CO2): Its concentration increase from human activities affects heat interception.
+  - CO2's potency: Few molecules of CO2 can have a large effect on heat interception.
+  - Spectrum of heat radiation: Greenhouse gases affect different wavelengths differently.
+  - Climate sensitivity: Small changes in heat interception correspond to significant temperature changes.
+- Climate Influences and Human Factors
+  - Various human influences on climate: Methane emissions, aerosols, land use changes.
+  - Natural forcings: Volcanic eruptions, solar intensity variations, affect climate balance.
+  - Energy flows in the climate system: Sunlight, geothermal heat, human energy use.
+  - Total human influences: Less than 1% of natural energy flows, important implications.
+  - Challenges in understanding influences: Precise observations and accounting required.
+  - Role of climate models: Compare influences, project future changes.
+- Greenhouse Gases and Their Influence
+  - Greenhouse gases' complicated influence: Relationship between emission and effect.
+  - Understanding the behavior of greenhouse gases and their distribution.
+
+### Emissions Explained and Extrapolated
+- Introduction and Personal Anecdote:
+  - The author recalls an event at Buckingham Palace involving Prince Philip and climate discussion.
+  - The topic of the evening was climate and energy, and the author engaged in a conversation about carbon dioxide emissions and global temperatures.
+- The Significance of Greenhouse Gases:
+  - Carbon dioxide (CO2) and methane (CH4) are significant human-caused greenhouse gases affecting the climate.
+  - Efforts to reduce climate impact focus on reducing emissions due to the increasing concentrations of these gases.
+  - The connection between concentrations and emissions is complex, particularly for CO2.
+- Carbon Movement in Earth's Reservoirs:
+  - Earth's carbon is distributed among various reservoirs: crust, oceans, land, and atmosphere.
+  - Natural processes move carbon between these reservoirs, such as the annual cycle of plant growth and respiration.
+  - Human-emitted CO2 is a small addition to the natural carbon cycle.
+- The Keeling Curve and CO2 Concentrations:
+  - The Keeling curve shows the monthly average concentration of CO2 at Mauna Loa, Hawaii.
+  - CO2 concentration has risen steadily over decades, with seasonal fluctuations due to plant growth and respiration.
+- Historical and Geological CO2 Concentrations:
+  - Historical data and carbon isotope analysis confirm the recent rise in CO2 concentrations due to human activities.
+  - Geological data show that today's CO2 levels are relatively low compared to the past.
+- CO2's Long-lasting Influence:
+  - CO2 persists in the atmosphere for a long time, which complicates efforts to reduce concentrations.
+  - Modest emission reductions would slow the increase but not prevent it; CO2 concentrations would continue to rise for centuries.
+- Methane's Influence and Sources:
+  - Methane (CH4) is another significant greenhouse gas with a shorter atmospheric lifetime.
+  - Methane's warming impact is more potent than CO2 on a per-molecule basis.
+  - Methane emissions come from various sources, including livestock, agriculture, and landfills.
+- Future Scenarios and Influence on Climate:
+  - Future climate depends on human and natural influences, as well as internal variability.
+  - IPCC's Representative Concentration Pathways (RCPs) describe different emission scenarios.
+  - Various RCPs project different degrees of population growth, economic activity, and emissions.
+  - Human influences on the climate will continue to grow unless emissions are drastically reduced.
+- Challenges:
+  - It's challenging to disentangle human influences from other climate factors.
+  - The relationship between emissions and atmospheric concentrations complicates climate moderation.
+  - Climate models project higher temperatures with increased emissions, but impacts are complex and require detailed analysis.
+
+### Many Muddled Models
+- Climate Models and Uncertainties:
+  - Climate models are complex computer simulations used to predict climate changes.
+  - The models are based on physical laws and factors affecting the Earth's climate system.
+  - However, they have limitations and uncertainties due to factors like subgrid representations, tuning, and internal variability.
+  - The spread of results among different models has been increasing over time, challenging the idea that the science is settled.
+- Challenges in Temperature Predictions:
+  - The assessment reports often emphasize the rise in average temperature and focus on model-calculated changes.
+  - There are difficulties in reproducing observed temperature variations, such as the warming from 1910 to 1940.
+  - Slow changes in ocean currents and interactions contribute to cyclic behaviors (e.g., El Niño, AMO) that affect climate.
+  - Models struggle to replicate the strength, duration, and timing of these cyclic variations, leading to uncertainties.
+- Equilibrium Climate Sensitivity (ECS) and Uncertainty:
+  - ECS is a measure of how much average surface temperature would increase with doubled CO2 concentration.
+  - Climate models have provided varying estimates of ECS, contributing to uncertainty in predicting temperature changes.
+  - Different models in CMIP6 ensemble show ECS values that exceed the upper limit previously estimated by the IPCC.
+  - Higher sensitivities in some models arise from uncertainties in cloud-aerosol interactions.
+- Comparing Temperature Rise and Forcings:
+  - An alternative approach to estimating sensitivity involves comparing temperature rise with human and natural influences.
+  - Internal variability, lag in temperature response, and uncertainties in forcings make this approach challenging.
+  - A combined top-down and grid-based approach suggests a likely ECS range of 2.6 to 4.1°C, lower than AR5's estimate.
+- Challenges in Climate Modeling:
+  - Climate models are used to assess climate response strategies like albedo modification (geoengineering).
+  - Uncertainties in modeling albedo modification highlight limitations in predicting consequences and risks.
+  - Similar uncertainties exist in modeling future greenhouse gas emissions and their effects on the Earth system.
+
+### Hyping the Heat
+- Introduction: Weather Presenters and Climate Change Attribution
+  - TV weather presenters have transitioned to climate and weather presenters, attributing severe weather events to a "broken climate."
+  - Media, politicians, and some scientists implicate human influences as the cause of extreme weather events.
+  - The media's portrayal of weather events and climate change often lacks scientific accuracy.
+- Uncertainty in Detecting Extreme Weather Trends
+  - Observations over a century show no significant change in most types of extreme weather events.
+  - High levels of uncertainty exist in detecting trends in extreme weather due to various factors.
+  - IPCC's AR5 WGI report indicates low confidence in trends like floods, droughts, and severe weather phenomena.
+- Event Attribution Studies and Their Limitations
+  - Event attribution studies connect extreme weather events to human-caused climate change.
+  - These studies focus on disasters and use climate modeling to determine human influence.
+  - Attribution studies are challenging due to multiple factors contributing to extreme events.
+- Disconnect Between Popular Perception and Scientific Evidence
+  - Public perception suggests increasing frequency and severity of extreme weather events.
+  - Scientific evidence indicates no long-term trends attributed to human influences.
+  - Attribution studies and media coverage contribute to this disconnect.
+- Analysis of Record Temperatures
+  - IPCC's AR5 highlights a "very likely" increase in warm days and nights since 1950.
+  - Public perception of increasing extreme high temperatures contradicts data analysis.
+  - The US shows record low temperatures becoming less common, but record daily high temperatures remain consistent.
+- Flaws in Presentation and Interpretation of Data
+  - CSSR's Figure ES.5 (ratio graph) misrepresents increasing high temperature records.
+  - The ratio graph method used in the CSSR shows dramatic fluctuations, not accurate trends.
+  - The absolute record method reveals a lack of significant trend in high temperature records.
+- Academies' Review and Government Response
+  - The National Academies' review panel criticized the CSSR's treatment of temperature extremes.
+  - The expert panel's feedback was incorporated, but the misleading ratio graph remained.
+  - The government response acknowledged changes but failed to address misleading data representation.
+- Media's Role and Misleading Interpretations
+  - The media widely disseminates inaccurate information about high temperature records.
+  - Associated Press article emphasizes heat records falling more frequently than cold ones.
+  - The media often overlooks the decline in both hot and cold temperature records.
+  - There have been changes in temperature extremes across the US, with declining cold records.
+  - The annual number of high temperature records shows no significant trend.
+  - Media portrays warming extremes, while the data suggests milder temperatures in some aspects.
+
+### Tempest Terrors
+- Introduction
+  - Media frequently highlights the worsening impact of hurricanes.
+  - The message is that storms are becoming more frequent and intense due to rising greenhouse gas emissions.
+  - However, the actual data and research conflict with this narrative.
+  - Assessment reports often present summaries inconsistent with their own findings.
+- Hurricanes
+  - Hurricanes are tropical cyclones with a low-pressure center and intense thunderstorms.
+  - They are categorized by intensity and can be measured using various indices.
+  - There's an interplay of factors influencing hurricane activity.
+  - The Atlantic Multidecadal Oscillation (AMO) affects sea surface temperatures and can impact hurricane activity.
+  - The increase in hurricane activity does not have a clear relationship with rising ocean temperatures.
+  - The National Climate Assessment (NCA) reported trends in hurricane activity that contradict explicit findings in the research.
+- Tornadoes
+  - Tornadoes are localized, destructive storms with varying intensities.
+  - There's no significant long-term trend in the number of tornadoes.
+  - Weak tornadoes were underreported in earlier records, contributing to the apparent increase in recent years.
+  - There's more variability in tornado occurrence patterns in recent decades.
+  - Improved radar warnings have significantly reduced tornado-related deaths.
+  - Predicting future tornado patterns is highly uncertain due to complex factors and modeling limitations.
+  - Claims of worsening tornadoes due to climate change lack strong evidence.
+
+### Precipitation Perils—from Floods to Fires
+- Introduction and Climate's Impact on Precipitation:
+  - Weather variability and climate change are often intertwined in discussions about precipitation.
+  - The perception of climate change can be influenced by individual weather events.
+  - Climate and weather are distinct concepts; weather events can't definitively be attributed to climate change.
+- Precipitation Patterns and Climate Change:
+  - Rising temperatures can lead to more snow due to increased evaporation.
+  - Annual snowfall trends in Washington, DC, show declining total snowfall over the long term.
+  - The relationship between human-caused climate change and snowfall is complex.
+- Global Precipitation Trends and Variability:
+  - Precipitation trends vary widely across regions and over time.
+  - Global precipitation anomalies show a slight increase over land since 1901, but with high variability.
+  - Confidence in global precipitation trends before 1951 is low; afterward, some areas show increased precipitation.
+- Drought and Flood Trends:
+  - Drought and flood trends are difficult to assess due to complex interactions.
+  - No global-scale trend in drought or dryness is confirmed.
+  - Floods' frequency and magnitude vary regionally, with increases in some areas.
+- Wildfires and Their Relationship to Climate:
+  - Satellite data shows a decline in the global area burned by fires from 1998 to 2015.
+  - Human activities like agriculture have contributed to the decline in fire-prone regions.
+  - While climate change affects wildfires, other human factors like forest management and ignition play a crucial role.
+  - The Western US has seen an increase in large forest fires since the early 1980s due to higher temperatures and drier conditions.
+- Caution in Interpreting Model Predictions:
+  - Climate models are limited in their ability to predict regional climate changes.
+  - The reliability of model projections for precipitation changes is questioned.
+  - Policy decisions based solely on model projections can be misleading.
+- Case Study: Winter Precipitation in England and Wales:
+  - The example of winter precipitation in England and Wales shows the unpredictability of climate models.
+  - The record wet winter of 2014 was followed by several years of more typical rainfall.
+  - Natural variability, such as the North Atlantic Oscillation, has a significant impact on extreme rainfalls.
+
+### Sea Level Scares
+- Sea Level Rise and Climate Change
+  - The cover of the September 2013 National Geographic magazine depicted a partially submerged Statue of Liberty, highlighting rising sea levels due to climate change.
+  - Tide gauge records at The Battery, Manhattan, showed sea level rising at about 30 cm per century since 1855.
+  - Geological data spanning 400,000 years revealed cycles of sea level changes due to variations in Earth's orbit and axis tilt.
+  - Sea level has risen by about 120 meters since the Last Glacial Maximum, with variations over time.
+- Measuring Sea Level Rise
+  - Sea level measurements are affected by factors like gravity variations, ocean currents, temperature, and air pressure.
+  - Tide gauges and satellite observations provide data for calculating Global Mean Sea Level (GMSL).
+  - GMSL has risen by about 3 mm per year over recent decades.
+- Variability in Sea Level Rise
+  - The rate of sea level rise has fluctuated over the past century.
+  - The IPCC's Special Report on the Oceans and Cryosphere in a Changing Climate (SROCC) emphasizes the acceleration in sea level rise from 1993 to 2015.
+  - Variability in sea level rise complicates attributing it solely to human influences.
+- Projections and Uncertainties
+  - Projections for future sea level rise depend on ice sheet melt and ocean expansion.
+  - Climate models offer projections under various emissions scenarios (RCP2.6 to RCP8.5), but these models have uncertainties, especially regarding ice sheet dynamics.
+  - There's uncertainty in predicting regional and local sea level changes.
+- Local vs. Global Sea Level Rise
+  - Local sea level rise is influenced by regional factors like tectonics, subsidence, ocean currents, and land use.
+  - Climate models offer projections for various cities, but these projections are even more uncertain than global sea level rise projections.
+- Assessment Reports and Media Coverage
+  - Assessment reports like the Climate Science Special Report (CSSR) and media coverage often focus on sea level rise itself, rather than the rate of rise, which can be misleading.
+  - Media coverage sometimes lacks context and fails to highlight long-term trends.
+- Understanding Sea Level Rise
+  - Attribution of sea level rise to human-caused warming is complex due to natural variability and long-term cycles.
+  - The risk associated with sea level rise requires clear and unbiased communication, as it involves various factors like currents, erosion, and land use.
+- Adaptation
+  - Addressing sea level rise necessitates understanding its causes and potential impacts.
+  - Even if emissions were to cease immediately, sea level would continue to rise due to the lag in ice melting.
+  - Preparing for potential sea level threats requires further research, adaptation, and resource allocation.
+
+### Apocalypses That Ain't
+- Climate-Related Deaths
+  - The media often attribute various societal catastrophes to human-influenced climate change.
+  - However, historical data doesn't necessarily support these claims.
+  - Projections of future impacts often rely on extreme scenarios fed into models.
+  - Examples of headline "apocalypses that aren't" include climate-related deaths.
+  - Climate-related deaths are based on speculation, strained assumptions, and incorrect data use.
+  - Weather-related death rates have fallen over the past century despite global warming.
+  - Weather-related death rates are about 80 times less frequent today than a century ago.
+  - The analysis of climate-related deaths includes assumptions and uncertainties.
+  - Projection of 85 deaths per 100,000 in 2100 is based on an extreme emissions scenario.
+  - Under a more plausible scenario, the average death rate decreases.
+  - Greenstone's analysis lacks a crucial measure of a model's credibility: hindcasting.
+  - Misinformation by organizations like WHO can distort perceptions of climate-related deaths.
+  - Climate-related deaths are often conflated with other factors like pollution and poverty.
+- Future Agricultural Impact
+  - Projections suggest that climate change could impact agriculture.
+  - Agricultural yields have surged over the past century despite global warming.
+  - Crop yields have doubled or more for major crops since the 1960s.
+  - Increasing carbon dioxide levels have contributed to yield improvements.
+  - Despite climate impact projections, historical yield growth is substantial.
+  - Quantitative projections of future yields are lacking in reports.
+- Economic Impact
+  - Economic policies, trade, technology, and governance play significant roles in economic development.
+  - Economic measures are highly regional, and their uncertainties are compounded by climate uncertainties.
+  - Predicting economic damage due to rising temperatures is complex and uncertain.
+  - Projections of economic impacts from climate change are minimal and negligible.
+  - Impact on the global economy is estimated to be 3% or less by 2100.
+  - Contextualizing the impact reveals a minor decrease in annual growth rate.
+  - Climate impacts on the US economy are also small, with a 5°C warming reducing GDP by 4%.
+  - Climate impacts on the US economy are minimal relative to historical growth rates.
+  - Media coverage often exaggerates climate-related economic disaster.
+  - The notion of climate-related economic catastrophe persists in media and politics.
+
+### Who Broke "The Science" and Why
+- Introduction: Unsettled Science and Communication Challenges
+  - The narrative of climate science is often different from the unsettled nature of crucial scientific parts.
+  - The roles of stakeholders like scientists, activists, media, and politicians contribute to misinformation in climate communication.
+  - The prominence of "The Science" and its alignment with interests raise questions about how climate science communication works.
+- Media's Role in Shaping Climate Narrative
+  - Media coverage of climate matters varies between countries and publications.
+  - Media tone, bias, and sensationalism impact how climate information is presented.
+  - Business models based on clicks and shares contribute to alarming and shareable content.
+  - Journalistic pressures, staffing changes, and lack of in-depth reporting affect climate science communication.
+- Political Influence on Climate Messaging
+  - Politicians use alarming narratives to motivate voters and create a sense of urgency.
+  - Climate science complexity doesn't suit political messaging, leading to oversimplification.
+  - Both sides of the political spectrum exploit uncertainty for their agendas.
+  - Climate science's intersection with energy policy and politics makes it susceptible to partisanship.
+- Challenges in Scientific Institutions' Communication
+  - Trust in scientific institutions is crucial for public trust in The Science.
+  - Some institutions prioritize fitting the science into a narrative over presenting an accurate narrative.
+  - Instances of misleading information in official assessment reports undermine public confidence.
+  - The need for clearer communication is highlighted, especially when integrity is compromised.
+- Challenges Scientists Face in Communication
+  - Scientists encounter institutional and peer pressures to align with prevailing narratives.
+  - Complex findings are often distorted to create sensational headlines.
+  - Climate scientists face challenges in publishing uncertainties and inadequacies in data.
+  - Some scientists suffer backlash for questioning mainstream climate narratives.
+- Activists and NGOs in Climate Communication
+  - Activist organizations raise funds based on a sense of climate emergency.
+  - Statements projecting urgency are essential for maintaining donor commitment.
+  - Some NGOs distort science to further their cause, affecting public perception.
+  - The power of NGOs as political actors and their focus on climate crisis impact communication.
+- Public Perception and Challenges of Misinformation
+  - Public perception of climate is influenced by historical experiences with climate challenges.
+  - Lack of scientific literacy and reliance on social media contribute to misinformation.
+  - People tend to trust their chosen media sources, even outside their expertise.
+  - The "Gell-Mann Amnesia" effect highlights how misinformation is easily accepted.
+- Challenges for Climate Communication and Democracy
+  - Climate communication enters a political minefield, making discussion difficult.
+  - Political affiliations often determine how people perceive climate information.
+  - Misrepresentation of science by individuals and organizations undermines truth and democracy.
+  - Major decisions based on misinformation hinder positive outcomes, as seen with COVID-19.
+
+### Fixing the Broken Science
+- Introduction: The Need for a Red Team Exercise
+  - The author became aware of problems in climate science narratives since the American Physical Society workshop in 2014.
+  - Hurricane data misrepresentation in the 2014 National Climate Assessment led to the idea of a Red Team exercise.
+  - Red Team exercise involves a group of scientists questioning an assessment report to identify weak points.
+- Red Team Review and Its Importance
+  - Red Team exercises are used to scrutinize high-stakes decisions like national intelligence and complex projects.
+  - A Red Team review of a climate assessment report could enhance confidence and identify uncertainties.
+  - The concept aims to improve The Science and ensure rigorous scrutiny of conclusions.
+- Challenges in Peer Review and Assessment Reports
+  - Peer review in scientific journals is imperfect but helps catch major errors in research papers.
+  - Assessment reports synthesize research for non-experts, making the presentation and language crucial.
+  - Processes for drafting and reviewing assessment reports lack objectivity due to biases and conflicts of interest.
+- The Role of Government and IPCC
+  - Government officials nominate authors for assessment reports, and reviewers' disagreements aren't impartially resolved.
+  - IPCC's "Summaries for Policymakers" can be influenced by governments with specific policy agendas.
+  - Objectivity in assessment processes and products can be compromised due to various opportunities for influence.
+- Introducing the Red Team Concept and Public Reception
+  - The author presented the Red Team idea at a conference, receiving a favorable response from experts.
+  - The concept was highlighted during the March for Science in 2017.
+  - The Wall Street Journal published an opinion piece advocating for a Red Team review of climate science assessments.
+- Objections and Responses to the Red Team Proposal
+  - Opponents argue that climate research and assessment reports are already peer-reviewed.
+  - Some individuals object to challenges to the consensus on climate change, leading to political interference.
+  - Advocates for the Red Team concept point out specific flaws in assessment reports, highlighting the need for a new review process.
+- Improving Climate Communications
+  - The author calls for improvements in how assessment reports are communicated to the public.
+  - A Climate Communications Initiative by the National Academies aims to inform without advocating.
+  - Principles for transparent, complete, and unbiased communication on climate should be adopted.
+- Recognizing Red Flags in Climate Reporting
+  - The public should watch for red flags in climate news that signal misinformation or biased reporting.
+  - Terms like "denier" or "alarmist" indicate a political or propagandistic approach.
+  - Differentiating between natural and human causes of climate change is crucial.
+- Analyzing Climate Claims and Numbers
+  - Claims about climate change should be supported by proper context and data.
+  - The "97 percent consensus" claim is debunked and lacks specificity.
+  - Confusion between observations and model projections in media reports should be identified.
+- Critical Evaluation and Finding Reliable Sources
+  - Readers should critically evaluate media coverage of climate science using red flags as indicators.
+  - Consistency or inconsistency among different media outlets provides context.
+  - Primary research papers, blogs, and direct access to climate data allow deeper understanding and evaluation.
+
+## The Response
+- Introduction
+  - Scientists cannot predict the future of climate problems with certainty.
+  - The author emphasizes reliance on data and critical thinking to identify and solve climate-related issues.
+  - Different solutions are proposed for addressing climate change, ranging from drastic emissions reduction to business as usual.
+- Discussion of Possible Responses
+  - The author introduces the concepts of "could," "should," and "will" in relation to climate responses.
+  - In 2004, the author transitioned to BP's chief scientist role to study energy technologies and responses to climate change.
+  - While the author couldn't provide definitive answers for "should," they contributed to the "could" and "will" questions.
+- Addressing Climate Change
+  - The author has worked on the "could" question for fifteen years, presenting the big picture in various public presentations.
+  - Assessment reports from the UN's IPCC recommend reducing emissions to prevent severe climate impacts.
+  - "Mitigation" strategies include transitioning to low-carbon energy sources, conservation, and achieving "net zero carbon" by midcentury.
+- Challenges and Possibilities
+  - Absolute emissions reduction faces challenges due to energy demand, fossil fuel reliance, and limitations of current low-emissions technologies.
+  - Uncertainty and the nature of future climate impacts contribute to the likelihood of adaptation being the primary societal response.
+
+### The Chimera of Carbon-Free
+- Introduction and Context:
+   - Discussion of the challenges posed by climate change and the need to address human-caused climate problems.
+   - Acknowledgment of the limitations of scientific predictions and the importance of data-driven solutions.
+   - Distinction between "could," "should," and "will" questions in addressing climate change.
+   - Introduction to the author's perspective and experience in analyzing energy technologies and climate response strategies.
+- Understanding Emissions and Concentration:
+   - Focus on the importance of understanding the impact of emissions on the concentration of carbon dioxide (CO2) in the atmosphere.
+   - Explanation of how emissions contribute to increasing concentrations due to cumulative effects.
+   - Discussion of the challenge in reducing emissions enough to stabilize or reduce human influences on the climate.
+- Implications of Emission Reductions:
+   - Analysis of the implications of stabilizing human influences on the climate through emissions reductions.
+   - Consideration of the need for drastic emissions reduction to achieve desired stabilization levels.
+   - Recognition of challenges in reducing emissions due to growing energy demand, reliance on fossil fuels, and slow infrastructure change.
+- Paris Agreement and Global Efforts:
+   - Overview of the Paris Agreement and its goals to limit global temperature increase.
+   - Critique of assumptions underlying the agreement, including baseline temperature measurement and climate response uncertainties.
+   - Exploration of the challenges in achieving emissions reduction targets outlined in the agreement.
+   - Examination of the limitations of self-reporting, lack of enforcement mechanisms, and insufficient commitments from countries.
+- Feasibility of Emission Elimination:
+   - Analysis of the feasibility of eliminating global CO2 emissions within specific timeframes (e.g., by 2075 or 2050).
+   - Recognition of the enormous transformation required for a net-zero emissions world.
+   - Highlighting the challenges posed by increasing energy demand driven by population growth and economic development.
+- Current Efforts and Adaptation:
+   - Assessment of current efforts to mitigate emissions and their insufficient impact.
+   - Emphasis on the need for transformational action to address emissions reduction effectively.
+   - Discussion of the inherent difficulties in achieving global emissions reduction due to the diverse priorities of developed and developing countries.
+   - Exploration of the potential of adaptation as a more realistic societal response to climate change.
+- Conclusion and Author's Perspective:
+   - Author's alignment with the view that complete elimination of net emissions is unlikely in the specified timeframes.
+   - Assertion that society will likely focus on adaptation strategies in response to climate change.
+   - Emphasis on informed perspectives and discussions to address the complexities of climate response.
+
+### Could the Us Catch the Chimera?
+- Introduction: Challenges of Achieving Emission Reductions
+  - Proposed carbon-based border tax by the EU to level emissions playing field.
+  - Implementing policy details likely to lead to prolonged and contentious negotiations.
+  - The challenge of reducing human influences across major emitting nations.
+  - Prosperous countries can reduce emissions while maintaining prosperity.
+  - Developing world faces immediate pressing issues that take priority.
+- Challenges in Achieving Emission Reductions
+  - Different countries vary in development, economy, energy resources, and climate.
+  - Paths to zero-emissions futures vary based on technology, economics, policy, behavior.
+  - Need to focus on one country (United States) for examining emissions reduction.
+  - Transportation, electricity, industry, agriculture, residential, commercial emissions.
+  - US emissions remain relatively constant despite growth in population and GDP.
+  - Global emissions continued to rise despite US reductions post-2005.
+  - Energy system changes slowly due to reliability, compatibility, and cost concerns.
+- Slow Transition towards Emission Reductions
+  - Energy transition is a gradual process, not a revolutionary event.
+  - Technical constraints and physical laws impose limits on energy efficiency.
+  - Plausible judgments about technology evolution and scaling required.
+  - Premature deployment of technologies can lead to minimal impact at high costs.
+- Effective Greenhouse Gas Policies
+  - Consistency needed for long-term emissions policies despite political cycles.
+  - Need for sheltered policies that isolate emissions reductions from politics.
+  - Greenhouse gas policies should focus on reducing emissions consistently.
+  - Energy systems are complex and interconnected; holistic approach necessary.
+  - Technical knowledge essential for informed and effective policy decisions.
+  - Promotion of conservation and efficiency through regulation or pricing.
+  - Complex interaction of technology, economics, policy, and behavior.
+- Barriers and Unlikelihood of Rapid Transformation
+  - Creating emissions-free energy system will be disruptive economically and behaviorally.
+  - The question of whether the country will invest in transformation.
+  - Barriers make rapid transformation unlikely due to attention and resources constraints.
+  - Even if achieved, US emissions account for a small portion of global greenhouse gases.
+  - Uncertainty whether other countries will follow US lead given pressing energy needs.
+
+### Plans B
+- Introduction and Background
+  - The challenges of mitigating greenhouse gas emissions prompted interest in alternative strategies for addressing climate change.
+  - Geoengineering and adaptation were identified as potential "Plan B" strategies to respond to a changing climate.
+  - The importance of understanding these options, along with their benefits, drawbacks, costs, and unintended effects, was emphasized.
+- Geoengineering: Solar Radiation Management (SRM)
+  - Solar Radiation Management (SRM) involves enhancing Earth's albedo to reflect more sunlight and cool the planet.
+  - Historical examples of inducing aerosols in the atmosphere for cooling, like volcanic eruptions, were discussed.
+  - Creating a stratospheric haze through methods such as releasing hydrogen sulfide was proposed as a plausible approach.
+  - SRM would have rapid rebound effects if not sustained, and it wouldn't fully counteract greenhouse gas warming.
+  - Climate models suggested SRM might have varied effects on precipitation and other climate aspects, creating uncertainty.
+  - Collateral effects, ethical concerns, attribution challenges, and the potential for rogue SRM were raised as issues.
+  - Despite downsides, SRM was acknowledged as a subject deserving of serious research and monitoring.
+- Geoengineering: Carbon Dioxide Removal (CDR)
+  - Carbon Dioxide Removal (CDR) focuses on directly extracting CO2 from the atmosphere to offset emissions.
+  - Different methods for capturing and storing CO2, including chemical plants and natural vegetation, were discussed.
+  - The scale and cost of CDR required to make a significant impact were highlighted, along with challenges in utilization.
+  - CDR could reduce the issue of assigning responsibility for emissions and allow for continued fossil fuel use.
+  - The potential for financial gains without significant environmental impact was acknowledged.
+- Adaptation as a Response
+  - Adaptation to climate change was compared to adapting to natural phenomena like earthquakes.
+  - Individual and societal adaptation efforts were described, emphasizing local, autonomous, and proportional responses.
+  - Adaptation was noted as agnostic to the cause of climate change and adaptable to ongoing natural variations.
+  - Societies' ability to adapt was linked to economic resources and governance, with less developed countries being more vulnerable.
+  - Encouraging economic development and governance in less developed countries was identified as a way to enable global adaptation.
+- Challenges and Uncertainties
+  - The lack of a comprehensive framework for adaptation planning and policy analysis was highlighted.
+  - Current discussions about adaptation lack cost/benefit analyses, implementation strategies, and comparisons to mitigation.
+  - The need to address bureaucratic, political, and fiscal aspects of adaptation was mentioned.
+  - Uncertainties in model projections of regional and local climates were noted, affecting the ability to plan for specific changes.
+  - The necessity of preparing for known past climate changes and extreme weather events was underscored.
+
+## Closing Thoughts
+- Author's Journey and Perspectives
+  - The book reflects a 15-year journey in climate and energy, evolving the author's views.
+  - Initially motivated to address climate catastrophe, the author became critical of how climate science is presented.
+  - The author sought to synthesize experiences, understanding the complexity of climate and energy.
+  - The richness of the subjects, gaps in knowledge, and importance of the topics were highlighted.
+  - Dismay was expressed about misrepresentations by some climate scientists and scientists' complicity in these misrepresentations.
+  - Difficulties in understanding assessment reports and the media's role in creating hysteria were noted.
+- Challenges in Climate Science
+  - The complexity and nuances of climate and energy make simplistic solutions inadequate.
+  - The need for complete, transparent, and unbiased assessment reports for informed decision-making was stressed.
+  - A call for a Red Team exercise to scrutinize assessment reports, especially in the context of significant government spending, was suggested.
+  - The importance of accurate climate journalism and public critical consumption of media was emphasized.
+- Possible Strategies for Emissions Reduction
+  - "Easy" emissions reductions include addressing methane leaks, reducing greenhouse gases like CFCs and HCFs, and promoting cost-effective efficiencies.
+  - Research and development in emissions-lite technologies like small modular fission reactors and improved solar technologies were highlighted.
+  - A balanced conversation about the role of government in transformation efforts was encouraged.
+- Approaches to Decarbonization and Adaptation
+  - Skepticism was expressed about forced and urgent decarbonization through carbon pricing or regulation.
+  - The uncertainty and potential downsides of mitigation were noted, especially regarding energy needs for the poor.
+  - The author advocated waiting for a better understanding of climate's response to human influences before drastic measures.
+  - Adapting to changing climates was considered effective, emphasizing regional projections and cost-benefit assessment.
+  - Promoting economic development and strong institutions in developing countries for better adaptation was suggested.
+  - Geoengineering options and research were seen as prudent strategies in case of significant climate deterioration.
+- Restoring Integrity and Positive Outcomes
+  - The author called for restoring integrity to science informing societal decisions on climate and energy.
+  - Steps should prioritize positive outcomes for society, emphasizing President Biden's call for rejecting manipulated facts.
+
