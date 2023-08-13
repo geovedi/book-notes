@@ -1,0 +1,540 @@
+# Tesla
+## Wizard at War
+Author: Marc J. Seifer
+
+## Interview With Nikola Tesla
+- Introduction:
+  - Nikola Tesla introduced Serbian ballads to friends Robert and Katharine Johnson around 1895.
+  - One ballad, "Luka Filipov," depicts a war between Serbs and Turks.
+  - Tesla's heritage and complex Serbian history influenced his worldview.
+- Bonding and Friendship:
+  - Tesla's translation of Serbian ballads strengthened his bond with the Johnsons.
+  - They became "Dear Luka" (Robert) and "Dear Mrs. Filipov" (Katharine).
+  - Shared interests in literature, including Kipling's works, furthered their connection.
+- Importance of Historical Events:
+  - The Battle of Kosovo in 1389 marked a significant event for the Serbian people.
+  - Tesla highlighted the sacrifice of the Serbians to stop the Turkish influx.
+  - Deep-seated enmities between Serbs, Croats, and Muslims led to the Yugoslav civil war.
+- Tesla's Personal Experiences:
+  - Tesla's experiences in Serbia's war-torn countryside impacted his worldview.
+  - Tesla references Rudyard Kipling's poem "Gunga Din" to reflect on hardship.
+- Childhood and Early Influences:
+  - Tesla's father recalled a divine meteor event at the time of Tesla's conception.
+  - Born during a lightning storm, Tesla's early life was surrounded by myths.
+  - Tesla's early fascination with inventions, literature, and imaginative thinking.
+- Discovery of Inventions:
+  - Tesla's initial attempts to visualize an electric motor without a commutator.
+  - In 1881, he conceived the idea of a rotating magnetic field for his induction motor.
+  - Tesla's alternating current system and induction motor revolutionized power transmission.
+- Edison and Early Success:
+  - Tesla's meeting with Edison and his work for Edison's company.
+  - Tesla's involvement in developing arc-light systems and his financial struggles.
+- Transition to America:
+  - Tesla's move to America, interactions with Edison, and his first successful demonstration.
+  - Tesla's fame grew after demonstrating wireless light, solidifying his reputation.
+- The Pursuit of Wireless Power:
+  - Tesla's dedication to wireless transmission of power and the potential it holds.
+  - Tesla's confidence in transmitting 100,000 horsepower wirelessly without significant loss.
+  - Future possibilities of wireless power benefiting remote areas and global energy distribution.
+
+## The Wizard's Lab
+- Introduction:
+  - The letter describes Nikola Tesla's impact on the Gay Nineties era, emphasizing his daily routine, inventions, and relationships with prominent figures of the time.
+- Tesla's Daily Life:
+  - Tesla's daily routine involved working at his laboratory from early morning until late at night, regardless of natural light.
+  - He had dinner at the Waldorf hotel, known for his exquisite dining habits and preference for fine burgundy.
+  - Tesla was serious, modest, and had a keen sense of humor. He was considered a serious man but also had a beautiful manner and no jealousy.
+- War of the Currents and Countering Edison:
+  - Tesla countered Edison's use of AC in animal electrocutions and demonstrations by creating positive publicity for his inventions.
+  - He demonstrated his audacious experiments, sometimes downplaying the dangers involved.
+- Personal Reflections on Tesla:
+  - Various individuals, including Marion Crawford and Edward Dean Adams, expressed admiration for Tesla's character, knowledge, and impact on society.
+  - Tesla's extensive knowledge, cultural refinement, and multilingual abilities made him a respected figure among elites.
+- Friendships and Relationships:
+  - Tesla had close relationships with figures like Henry Fairfield Osborn, Seth Low, and Richmond P. Hobson.
+  - He exchanged letters with Lord Kelvin, sharing scientific interests and philosophical discussions.
+  - Tesla's relationship with Katharine Johnson included flirtatious exchanges and discussions of spiritualism.
+- Challenges and Controversies:
+  - Some individuals, particularly competitors and associates, attempted to downplay Tesla's contributions and erase his name from historical records.
+
+## Gay Nineties
+- Introduction:
+  - The text discusses interactions and relationships involving Nikola Tesla, including his interactions with prominent figures like Stanford White, Theodore Dreiser, and George E. Hale.
+- Interactions with Stanford White:
+  - Tesla's experiments deeply impressed Stanford White, a renowned architect.
+  - White's admiration for Tesla's work led to a sense of camaraderie between them.
+  - White was a prominent architect and trendsetter of the modern era.
+- Tesla's Lab Fire and Correspondence:
+  - Tesla's laboratory burned down shortly after receiving a letter from Stanford White.
+  - Tesla faced significant losses due to the fire but maintained a positive attitude.
+  - Tesla corresponded with various individuals expressing gratitude for their sympathy and support.
+- Social and Professional Circles:
+  - Tesla's laboratory attracted a wide range of influential individuals, including artists, businessmen, politicians, and authors.
+  - Notable personalities such as John Jacob Astor, Teddy Roosevelt, and Mark Twain were among Tesla's acquaintances.
+  - Tesla interacted with journalist Theodore Dreiser, who later incorporated Tesla's traits into his work.
+- Dreiser's Relationship with Tesla:
+  - Theodore Dreiser interviewed Tesla in 1893 and later drew inspiration from Tesla's characteristics for his writing.
+  - Dreiser's novel "Sister Carrie" featured a character possibly influenced by Tesla.
+  - Dreiser maintained communication with Tesla over the years.
+- Relationship with Astronomer George E. Hale:
+  - Tesla developed a friendship with astronomer George E. Hale, who built the Yerkes Observatory telescope.
+  - Tesla and Hale shared an interest in astronomy and exchanged ideas about scientific advancements.
+  - Hale's work on stellar evolution and photographs of galaxies had a significant impact on Tesla's thinking.
+- Tesla's Concepts and Inventions:
+  - Tesla's ideas about producing light through vibrations and his experiments with energy transmission through space.
+  - Tesla's association with Hale and possible use of his invention in astronomy.
+  - Tesla's interest in communicating with other worlds and seeking recognition for his inventions.
+
+## Electric Bath
+- Nikola Tesla's Electric Bath and Health Devices:
+  - Nikola Tesla experimented with an "electric bath" for personal cleansing.
+  - The electric bath involved passing a current of millions of volts through the body to remove impurities.
+  - Tesla's mechanism for the electric bath included an insulated metal platform and an electrode connected to an oscillator.
+  - Tesla believed the bath could disinfect the skin thoroughly and provide tonic effects.
+  - Tesla's work also extended to other medical devices, including electrotherapy machines and ozone generators.
+- Friendship with Daisy Maud Gordon and Medical Inventions:
+  - Daisy Maud Gordon, a socialite, developed a close friendship with Tesla.
+  - Daisy and Tesla corresponded about Tesla's inventions and other matters.
+  - Tesla's electric bath was proposed to disinfect the skin from microbes and impurities.
+  - Tesla's inventions included ozone therapy, which later found applications in treating diseases like Ebola and COVID-19.
+  - Tesla's electrotherapeutic high-frequency equipment was found beneficial in cancer treatment.
+- Tesla's Correspondence with Other Notables:
+  - Tesla interacted with numerous luminaries, including Clarence McKay, Simon Guggenheim, Swami Vivekananda, and Sarah Bernhardt.
+  - Actress Sarah Bernhardt and artist Edwin Austin (Ned) Abbey were among those who visited Tesla's laboratories.
+  - Tesla maintained close relationships with individuals such as Louis Comfort Tiffany, Phoebe Hearst, and William Randolph Hearst.
+  - Tesla's friendship with Phoebe Hearst extended to her son, William Randolph Hearst, and their correspondence.
+- Tesla's Impact on Medical and Social Circles:
+  - Tesla's inventions and experiments had a significant impact on medical practices and health-related concepts.
+  - His innovations like the electric bath and ozone therapy contributed to discussions on hygiene and well-being.
+  - Tesla's friendships and interactions with notable figures highlighted his influence in both scientific and social circles.
+
+## Wardenclyffe
+- Introduction to Tesla and the Wardenclyffe Tower
+  - Nikola Tesla, a prolific inventor and scientist, designed the Wardenclyffe Tower with the goal of transmitting wireless power and information over great distances.
+  - The tower was located in Shoreham, New York, and its purpose was to revolutionize global communication and energy distribution.
+- Scientific Background and Innovations
+  - Tesla built upon earlier discoveries, such as Edouard Branly's particle cohesion, which he named the coherer.
+  - He collaborated with inventors like Alexander Popov and Dr. H. Rupp to refine the coherer's sensitivity and performance.
+  - Tesla's use of rotating coherers and specialized metal powders improved its capabilities for tracking thunderstorms and receiving distant signals.
+- The Wardenclyffe Tower Structure and Secrets
+  - The tower had a picturesque exterior, but its real significance lay beneath the surface.
+  - Descriptions of the tower's underground structure differ between official explanations and local legends.
+  - The villagers believed the tower led to an extensive network of subterranean tunnels and chambers.
+- Tesla's Vision for Wireless Energy Transmission
+  - Tesla aimed to challenge the prevailing understanding of energy transmission.
+  - He proposed suppressing electromagnetic radiations, enhancing the ground connection, and controlling wavelength spans to transmit energy precisely.
+  - Tesla's perspective emphasized that energy is consumed only where it's collected and used for work.
+- Tesla's Experiments and Goals
+  - Tesla's experiments with Earth-based oscillations and connections paved the way for his wireless energy transmission.
+  - His research involved powering light bulbs at a distance using a large Tesla oscillator connected to the ground.
+  - Tesla's concept involved transmitting power from one tower to another and eventually to vehicles.
+- Challenges and Complexities
+  - Tesla's transmitting wave was guided along the Earth's surface through conduction.
+  - Tesla's idea introduced complexity, involving individualized wavelengths for effective power transmission.
+  - He envisioned a network of resonant towers globally, resonating and exchanging wireless information.
+- Tower Components and Functions
+  - The tower's design featured three coils: a thick primary/secondary coil, a thin secondary/primary coil, and an extra coil for modulation and stability.
+  - The tower required a power source, deep grounding rods, liquid air for oscillation magnification, and an elevated terminal for energy storage.
+- Global Implementation and Energy Distribution
+  - Tesla's proposed network of Wardenclyffe-like towers aimed to create a resonant relationship for wireless communication and energy exchange.
+  - The energy collection at the tower's top facilitated conduction of energy into the Earth for efficient transmission.
+  - Tesla intended to target specific locations by adjusting the electromagnetic waves' lengths.
+
+## House of Morgan
+- Tesla's Ambitious Vision and Experiments:
+  - Tesla's achievements and inventions in electrical engineering, wireless transmission, and energy distribution.
+  - Development of the Tesla coil, alternating current (AC) power system, and his fascination with wireless communication.
+  - Tesla's goal of creating a global wireless transmission network to revolutionize communication and energy distribution.
+- Wardenclyffe Tower and Ambitious Plans:
+  - Creation of the Wardenclyffe Tower in New York as a centerpiece for his wireless transmission project.
+  - Tesla's pursuit of transmitting power wirelessly over long distances using resonant transformers and tuned electromagnetic waves.
+- Technical and Theoretical Innovations:
+  - Details of Tesla's technical innovations, including his coherer and advancements in radio technology.
+  - Description of the tower's components, including resonant transformers, primary and secondary coils, ground connection, elevated terminal, and liquid air container.
+  - Emphasis on the importance of precise wavelength tuning for efficient energy transfer.
+- Collaboration and Competition:
+  - Collaboration with J. Pierpont Morgan, a prominent financier of the time, to secure funding for the Wardenclyffe project.
+  - Tesla's efforts to convince Morgan of the viability of wireless transmission and philanthropic aspects.
+  - Rivalry with Guglielmo Marconi and the race for wireless communication supremacy.
+- Morgan's Involvement and Its Complexity:
+  - J. Pierpont Morgan's vast influence and control over numerous industries and financial sectors.
+  - Morgan's relationship with Tesla and his investment in Tesla's inventions, including the electric power distribution system.
+  - Tesla's portrayal of their collaboration as "philanthropic," while Morgan's motives were more complex.
+- Funding Challenges and Changing Plans:
+  - Financial constraints and Tesla's increasing need for funding to complete the Wardenclyffe Tower.
+  - Tesla's decision to construct a larger tower than initially agreed upon with Morgan to extend its range.
+  - Morgan's reluctance to provide additional funding due to changes in Tesla's plans and market developments.
+- End of Funding and Fallout:
+  - Morgan's withdrawal of support, influenced by changing circumstances and potential threats to his existing industries.
+  - Tesla's attempts to secure funding from other wealthy individuals, including Henry Clay Frick and Thomas Fortune Ryan.
+  - Tesla's emotional turmoil and deteriorating mental state as his dreams faced collapse.
+- Consequences and Legacy:
+  - Tesla's anger and resentment toward Morgan's actions, demonstrated through grandiose claims of destruction and power.
+  - Tesla's struggles after the collapse of the Wardenclyffe project, both financially and emotionally.
+  - The lasting impact of Tesla's wireless vision, even though Wardenclyffe did not achieve its intended goals.
+- Reflections on Morgan's Role:
+  - Speculations on Morgan's motives for ending support for the Wardenclyffe project.
+  - Morgan's internal conflicts and regrets regarding the decision to cut funding.
+  - The significance of Tesla's correspondence with Morgan in revealing the depth of their relationship and the emotional toll on Tesla.
+
+## Remote-Control Robotics
+- Wireless Communication and Remote Control Development:
+  - Jack Hays Hammond Jr. and Nikola Tesla were pioneers in the development of wireless communication and remote control systems.
+  - Hammond's invention closely resembled Tesla's, involving selective tuning and the use of an extra coil.
+  - Both inventors sought to create separate channels and protected privacy through manipulation of frequencies.
+  - Hammond's invention utilized spread-spectrum frequency hopping, inspired by Tesla's work, to protect wireless signals.
+  - Hammond tested his remote-operated boat, the Natalia, with successful results, showcasing the potential of wireless control.
+- Collaborations and Challenges:
+  - Hammond collaborated with General Erasmus M. Weaver Jr. and Navy personnel to demonstrate his remote-controlled boat's capabilities.
+  - Problems with secret channel creation arose in 1915-1916, leading to the successful interference by the USS Dolphin with Hammond's torpedo.
+  - Hammond explored radio-dynamic control systems for aircraft and drones in response to the War Department's preferences.
+  - Hammond and Tesla initially collaborated, but a financial dispute caused a falling out in 1913.
+- Continued Development and Relations:
+  - Over time, cordial relations were reestablished between Hammond and Tesla.
+  - Hammond's radio-guidance system incorporated the Sperry gyroscope in various applications, including torpedoes, ships, airplanes, and drones.
+  - Remarkably, radio-guided torpedoes and missiles developed by Tesla and Hammond were not used in either World War.
+- Divergence on Psychic Phenomena:
+  - Despite their contributions to wireless communication, Tesla and Hammond held differing views on psychic phenomena.
+  - Tesla initially showed some openness to the concept of ESP but later rejected it entirely.
+  - Hammond embraced the topic, studying the work of psychic Eileen Garrett and conducting telepathy experiments.
+  - Hammond's experimentation indicated that ESP operated beyond the normal electromagnetic spectrum.
+- Social Circles and Notable Guests:
+  - Both Tesla and Hammond were known for inviting influential figures to their respective domains.
+  - Tesla's lab attracted celebrities from the Gay Nineties era.
+  - Hammond's guest list at his castle included well-known personalities such as Ethel and John Barrymore, George Gershwin, and more.
+- Unique Conclusions and Forward Thinking:
+  - Tesla suggested Hammond's use of remote-controlled drones to disarm tornadoes by flying into their centers.
+  - Tesla believed this approach could combat tornado-related dangers and minimize losses of life and property.
+
+## Marconi and the Germans
+- Wireless Power Transmission Pioneers and Concepts
+  - Viziv Technologies in Milford, Texas, led by James Corum and Ken Corum, is working on wireless power transmission.
+  - Zenneck and Sommerfeld had adjacent alpine ski lodges, and Sommerfeld acknowledged Zenneck's work in his 1909 article.
+  - Tesla's ground wave theory vs. Hertzian electromagnetic wave theory – Tesla's ground wave conservation through conductive action.
+  - Tesla's interaction with Zenneck at Sayville – insight into energy loss in electromagnetic radiations.
+- Tesla's Achievements and Strategies
+  - Tesla's tower at Wardenclyffe – physical proof and right direction.
+  - Forwarding French litigation proceedings to Jack Morgan to establish his dominance over Marconi's work.
+  - Negotiating with Frank, charging Atlantic Communications for using his patents in upcoming litigation.
+  - Jack Morgan's limited involvement and investment in Tesla's projects.
+  - Tesla's residence in the Woolworth Building and his wireless transmitter proposal.
+  - Financial struggles and strategies – paying back Johnsons, turbine development, seeking funding from Morgan.
+  - Tesla's efforts to achieve financial success, including strategies involving the Ford Motor Company and Bergmann Works.
+  - Navy involvement – Tesla's attempts to install wireless apparatuses on ships.
+  - Friendship with Richmond Pearson Hobson, Tesla's involvement with the U.S. Navy.
+  - Missed opportunity to demonstrate wireless abilities to the Navy due to focus on Wardenclyffe.
+- Navy's Interest and Actions
+  - U.S. Navy's interest in wireless communication, communication between submarines using seawater as a medium.
+  - Tesla's negotiations with the Navy for wireless telegraphy installations on ships.
+  - Tesla's demonstration of remote-controlled boat principles to the patent office and high command of the Navy.
+  - Plans to install wireless transmitters at Navy Yards and ships, communication with Bradford.
+  - Decision to concentrate efforts on Wardenclyffe instead of smaller naval demonstrations.
+  - Navy's acquisition of wireless apparatuses for testing, selection of the Slaby-Arco system, and purchase of Marconi patents.
+
+## The Great War
+- Introduction and Background:
+  - The onset of World War I led to the necessity of wireless communication for troop coordination, surveillance, and international communication.
+  - Marconi played a significant role, positioning transmitters in various locations worldwide, and Telefunken's wireless system became crucial for communication.
+- Wireless Developments and Marconi's Involvement:
+  - Marconi's wireless equipment was initially used, even by the American Navy, but sentiments shifted towards British support during the war.
+  - Marconi's equipment used the outdated Hertzian spark-gap method, hindering advancements.
+  - With the outbreak of World War I, Britain severed Germany's transatlantic cable, necessitating wireless communication alternatives.
+  - The Tuckerton and Sayville wireless plants became essential for communication and were contested between British and German interests.
+- Political Climate and Pacifism:
+  - The wireless systems also reflected the alliance between Italy and the British Empire.
+  - Woodrow Wilson's pacifist approach clashed with the sentiments of the American population, leading to calls for military control of the wireless field.
+  - German agents and suspicions led to arguments for commandeering the Tuckerton and Sayville plants.
+- Tesla's Involvement and Legal Battles:
+  - Tesla's work and inventions played a pivotal role in wireless technology.
+  - Tesla's affiliation with Telefunken and his collaboration with Atlantic Communications became significant.
+  - Tesla's legal campaign against Marconi gained momentum, especially regarding patent infringements.
+- Legal Battle and Testimonies:
+  - The legal battle between Atlantic Communications (Telefunken) and Marconi Wireless was halted due to World War I.
+  - Notable figures such as Tesla, Marconi, Stone, and others testified in the legal case.
+  - Stone's support for Tesla's contributions to continuous-wave technology emerged.
+- Unresolved Issues and War's Impact:
+  - Marconi's departure from the United States during the war raised suspicions and further complicated the legal battle.
+  - The war overshadowed the legal proceedings, and America's entry into the conflict shifted the focus.
+
+## The Fifth Column
+- The Patent Disputes and Business Decisions
+  - Homag's use of Armstrong patents led to increased reception and revenue.
+  - Homag paid royalties to Armstrong due to potential legal challenges from Tesla.
+  - Homag's decision influenced by French Supreme Court ruling in favor of Tesla.
+- Tesla's Complex Situation and Legal Battles
+  - Homag's case contrasts with Tesla's situation, as a German company dealing with French and Marconi disputes.
+  - Tesla's patents contested in various lawsuits, including one by Marconi and another involving Telefunken.
+  - Tesla's priority acknowledged by U.S. Navy, but the government took no interest in protecting his interests.
+  - Tesla's tower at Wardenclyffe faced challenges due to changing circumstances.
+- Tesla's Moves and Government Involvement
+  - Tesla moved to Chicago to work on bladeless turbines, leaving Wardenclyffe behind.
+  - The destruction of Tesla's tower and the birth of Radio Broadcasting Corporation (RCA).
+  - RCA formed as a conglomerate of private concerns with cross-licensing agreements.
+  - France sold its Tuckerton wireless plant to RCA after World War I.
+- Tesla's Efforts and Challenges
+  - Tesla attempted to manufacture equipment to generate capital but struggled.
+  - Tesla lost a significant portion of records and equipment at Wardenclyffe.
+  - Westinghouse's involvement in radio industry and Tesla's attempt to collaborate.
+- Tesla's Last Endeavors
+  - Tesla's proposal to Westinghouse for an advanced wireless system went unanswered.
+  - Tesla's relationship with Westinghouse remained strained.
+  - Tesla's letter expressing commitment to completing his world-system project.
+
+## Tesla's Mysterious 1931 Pierce-Arrow
+- Tesla's Electric Car Endeavors
+  - During the Roaring Twenties, Tesla worked on secret devices, including an electric car powered from a distant source.
+  - Tesla's interest in electric cars traced back to the 1890s, studying steam-driven electric vehicles by Heilman.
+  - In 1904, Tesla proposed using steam to power a dynamo connected to an induction motor, suggesting efficiency gains.
+- Tesla's Electric Car vs. Modern Electric Vehicles
+  - Tesla's electric car concept drew inspiration from Heilman's steam-driven locomotives and cars.
+  - Tesla Motors, founded by Eberhard and Tarpenning, named after Tesla's idea of electric car propulsion.
+  - Eberhard and Tarpenning's electric roadster ran on lithium batteries, while Tesla's concept proposed steam power.
+- Historical Perspective on Electric Vehicles
+  - Battery-operated electric vehicles existed in the early 1900s, including Thomas Edison's 1913 electric car.
+  - Limitations in battery technology led to restricted range and lack of recharging stations.
+  - Henry Ford's Model T popularity shifted preference towards gasoline-powered vehicles, sidelining electric cars.
+- Tesla's Wireless Power Ideas for Electric Vehicles
+  - Tesla never abandoned the notion of using induction motors to propel electric cars.
+  - Tesla envisioned electric vehicles powered by wireless energy derived from broadcasting towers, similar to Wardenclyffe.
+  - In 1927, Tesla discussed a wireless transmission tower with the Niagara Power Commission.
+- Controversial Steam-Powered Car Claim
+  - In 1930, Tesla allegedly met Heinz Jerbens and demonstrated a steam-driven electric car in Buffalo.
+  - The car supposedly used a secret transmitter near Niagara Falls to power an 80 HP-electric motor.
+  - Doubts surround the story due to inconsistencies, including the timing of events and lack of evidence.
+
+## Telephotography
+- Early Phototelegraphy and Tesla's Contributions
+  - Arthur Korn congratulated Tesla for achievements in physics and electrotechnics.
+  - Tesla's currents were used in early phototelegraphy, transmitting images via Tesla currents.
+  - Korn's system transmitted the first photo over a telegraphic line in 1904, marking the start of modern phototelegraphy.
+  - Tesla's concept of transmitting images was based on creating two similar plates for transmission and reception.
+- Tesla's Vision for Telephotography and Television
+  - Tesla drew inspiration from the eye's structure and X-ray image projection for his telephotography idea.
+  - He proposed creating two similar plates to transmit and receive images accurately.
+  - Tesla considered transmitting color images and was aware of color photography principles.
+- Historical Background and Innovations
+  - Tesla studied color photography, transmission of pictures over telegraph lines, and Alexander Graham Bell's photophone.
+  - Bell's photophone improved transmission via light rays, resembling fiber optics.
+  - Tesla incorporated ideas from Bell's inventions into his work on wireless transmission.
+- Early Developments in Telephotography
+  - In 1905, Arthur Korn's perfected picture telegraph using Tesla currents to transmit photographs.
+  - Tesla combined his brush radio tube with Korn's setup, enabling wireless transmission of images.
+  - Korn acknowledged Tesla's continuous wave currents for the success of his telephotography system.
+- Tesla's Forward-Thinking Ideas
+  - Tesla extended telephotography ideas to unconventional concepts like electrically-operated typewriters by voice and thought.
+  - Tesla speculated on capturing thoughts as images on a screen using artificial retinas and optic nerve concepts.
+  - Tesla's telephotography paved the way for radio, TV, and cell phone technology.
+- Modern Parallel: AlterEgo by Arnav Kapur
+  - Arnav Kapur's AlterEgo device intercepts brain signals sent to vocal cords and translates them to a computer.
+  - The device provides input and output, allowing users to access information from the internet by thinking questions.
+  - Kapur's invention conceptually aligns with Tesla's idea of intercepting brain signals for communication and information retrieval.
+- Potential Implications and Advancements
+  - Kapur's invention has the potential to be miniaturized and developed further, offering instant access to vast information.
+  - Such devices could revolutionize communication and education, allowing instantaneous information retrieval and cross-language communication.
+
+## The Day Tesla Died
+- Viereck and Espionage:
+  - Viereck collaborated with Franz von Papen, a key figure in American fifth column activities during both World Wars.
+  - They authored subversive articles promoting Nazi beliefs under their respective names.
+  - Viereck's role in manipulating discussions, such as eugenics, to advance Nazi ideals is evident.
+- Tesla and Political Connections:
+  - Tesla's 1931 article on eugenics raised suspicion due to potential Nazi influence.
+  - G. von Haeften, a representative of the Nazi regime, contacted Tesla for his defensive weapons, but Tesla declined.
+  - Tesla associated with individuals like Dr. Karl George Frank and Titus de Bobula, who held Nazi sympathies.
+  - Tesla occasionally displayed anti-Semitic attitudes in his letters, although he had Jewish associates.
+  - Prevalent anti-Semitism in society during the early 20th century context is acknowledged.
+- Anti-Semitism in Society:
+  - Many prominent figures, including Henry Ford and Charles Lindbergh, held anti-Semitic views.
+  - Tesla's interactions with various anti-Semites reveal the prevalent biases of his time.
+  - Europe faced intense anti-Semitic sentiments, and notable figures held questionable relationships with Nazi Germany.
+- Tesla's Personal Experiences:
+  - Tesla's Serb heritage and World War I assassination of Archduke Ferdinand contributed to prejudices against him.
+  - The Balkan region experienced tensions between Serbs, Croats, and Bosnians, rooted in historical conflicts.
+  - Tesla's challenges in fostering positive relations between Zagreb and Belgrade illustrate enduring animosities.
+- International Repercussions:
+  - Tesla's observations on anti-Semitism remain relevant today, with ongoing instances of prejudice.
+  - Jewish individuals played significant roles in Tesla's life, contributing to his work and endeavors.
+  - Tesla engaged with various Jewish figures, displaying a complex and contradictory attitude toward anti-Semitism.
+- Hoover's Concerns:
+  - FBI Director Hoover had concerns about Tesla's associations with Nazi sympathizers like Viereck and Titus de Bobula.
+  - Hoover's worries extended to Tesla's Yugoslavian nephew and Tesla's secretive and debt-ridden lifestyle.
+  - Hoover's concerns stemmed from the wartime context, the existence of Nazi fifth column activities in the US, and Tesla's potentially compromising actions.
+- Tesla's Flaws and Impact:
+  - Tesla's personality revealed a hypocritical aspect, reflecting prevalent anti-Semitic beliefs while interacting with Jewish associates.
+  - Tesla's susceptibility to such beliefs is viewed as a flaw that tarnishes his legacy.
+  - Considering the context of World War II and the threat of Communism, Hoover's concerns about Tesla's associations are understandable.
+
+## The Trump Report
+- Tesla's Interactions with Kintner and His "Peace Ray"
+  - Tesla's wireless inventions faced controversy and he interacted with Kintner, who had imitated his telautomaton.
+  - Tesla tried to convince Kintner to purchase his particle beam weapon, which he called a "Peace Ray," to ensure world peace by rendering invasion impossible.
+  - Kintner passed this idea to Westinghouse, but they remained skeptical, leading Tesla to explore foreign opportunities.
+- Tesla's Foreign Ventures and Financial Situation
+  - Tesla's income diminished in the 1930s; he received money from the Soviets, possibly for his particle beam weapon.
+  - He might have set up a secret laboratory for research and funded various projects while facing financial challenges.
+  - Tesla engaged in experiments with cosmic rays and designed a World Telegraphy Center.
+  - Despite financial assistance, Tesla left debts unpaid and faced numerous lawsuits for lack of repayment.
+- Political Leanings and Relations with Johnson
+  - Tesla's decision to sell the particle beam weapon details to the Soviets was controversial.
+  - His friend, Robert Johnson, opposed Roosevelt's policies and the Soviet deal, advocating a friendly policy towards Poland.
+  - Tesla's political leanings influenced his decision to not offer the weapon to the U.S. government.
+- Tesla's Invention Evaluation and Government Dismissal
+  - A report by Dr. John G. Trump dismissed Tesla's particle beam weapon as unfeasible and not of military value.
+  - Key officials, including Frank Jewett and Vannevar Bush, might have misunderstood Tesla's invention's potential.
+  - Hoover's inquiry about "death rays" and the dismissal of Tesla's ideas show skepticism and lack of understanding.
+- Divergent Perspectives and Potential Developments
+  - Divergent perspectives existed regarding Tesla's inventions, with some dismissing and others seriously considering their potential.
+  - MIT and Wright-Patterson Air Force Base personnel took Tesla's particle beam paper seriously, possibly leading to classified prototype development.
+  - The differing views on Tesla's work foreshadowed President Reagan's "Star Wars" technology initiative in the 1980s.
+
+## The Russian Connection
+- Introduction:
+  - Describes an agreement between Nikola Tesla and Amtorg Trading Corporation in 1935 for sharing plans of a high-voltage particle beam weapon.
+  - Outlines the details of Tesla's interactions with Soviet engineers and officials, including his offer to supply a particle beam weapon design.
+- Tesla's Relationship with Soviet Union:
+  - Tesla's meeting with Soviet Consul General in 1934.
+  - His offer to provide a weapon that could bring down airplanes and tanks, seen as a defensive tool for peace.
+  - The agreement with Amtorg Trading Corporation to supply particle beam weapon plans.
+- Particle Beam Weapon Details:
+  - The invention's characteristics: crushing matter, electrifying particles, and projecting them at high speeds.
+  - Explanation of Tesla's method for imparting maximum kinetic energy and enhancing projectile speed.
+  - Correspondence between Tesla and Soviet engineers regarding the proposal.
+- Soviet Reaction and Discussions:
+  - Soviet engineers' recognition of the potential of Tesla's invention.
+  - Document sent to Joseph Stalin, describing the weapon's capabilities.
+  - Involvement of key Soviet figures like Voroshilov and Kaganovich in the discussions.
+- Soviet Delays and Political Climate:
+  - Tesla's offer to oversee the construction of the weapon declined due to his age.
+  - Potential parallel with the fate of Kapitza, who became trapped in the Soviet Union.
+  - The Great Purge and its connection to Voroshilov and Kaganovich's involvement.
+- Speculations and Classified Information:
+  - Speculations on whether Tesla's paper was released to the Soviets as disinformation.
+  - Observations on missing or removed pages from Tesla's estate.
+  - Mention of recently declassified CIA documents indicating classified information.
+- Tesla's Contributions Beyond Particle Beam Weapon:
+  - Tesla's invention of radar during World War I.
+  - Description of radar technology, publication in magazines, and potential applications.
+  - Lack of recognition for Tesla's role in the history of radar.
+- Global Tracking System and Military Contributions:
+  - Tesla's patent for a global radar system linked to wireless transmission.
+  - Comparison to later Navy projects like Project Seafarer using ELF waves.
+  - Tesla's contribution to the Navy's victory in the dispute with Marconi.
+
+## Negotiations With the British Empire
+- Introduction
+  - Correspondence reveals Tesla's proposal of a particle beam weapon to protect England.
+  - Tesla's age, wartime concerns, and secrecy influenced his interactions with British authorities.
+- Tesla's Vision and Negotiations
+  - Tesla's plan to construct a particle beam weapon to defend against aerial attacks.
+  - Tesla's discussions with British officials, particularly General McNaughton.
+  - Description of the proposed weapon and its capabilities.
+- Skepticism and Consideration
+  - Mixed responses to Tesla's invention from different groups.
+  - John G. Trump's dismissal of the particle beam weapon's feasibility.
+  - Bloyce Fitzgerald, Colonel Holliday, and Brigadier General Craigie's more positive reception.
+  - Possible involvement of Vannevar Bush in considering Tesla's proposal.
+- International Interest and Connections
+  - Russia's potential interest in acquiring Tesla's invention.
+  - British War Office's involvement, reaching up to Neville Chamberlain.
+  - Canada's General McNaughton and his collaboration with Tesla.
+  - Tesla's sharing of information with the Yugoslavian government via Ambassador Fotic.
+- Tesla's Concerns and Predictions
+  - Tesla's concerns for his own safety due to Nazi interest in his weapon.
+  - Tesla's anticipation of World War II and its devastating effects on countries like Yugoslavia.
+  - Tesla's request for financial compensation for his invention and its significance.
+- Legacy and Modern Applications
+  - Current technological developments resembling Tesla's concepts.
+  - Lockheed Martin's development of laser weapon systems.
+  - Rail gun technology's potential for advanced weaponry.
+  - Comparison between Tesla's electrostatic-based weapon and today's electromagnetic rail gun.
+
+## The Birth of the New Physics
+- Introduction:
+  - Einstein's theory of relativity emerged from discussions about the ether, a hypothetical medium for light transmission.
+  - Newton, Faraday, and others had different views on the nature of ether and its role in explaining phenomena like gravity and electromagnetic forces.
+- Michelson-Morley Experiment:
+  - Michelson-Morley experiment in the 1880s aimed to detect the ether by measuring differences in light speed.
+  - The experiment did not detect substantial differences, raising doubts about the existence of ether.
+- Maxwell's Ether and Faraday's Views:
+  - Maxwell and Faraday had theories about the ether as a medium for electromagnetic forces and light propagation.
+  - Faraday described the ether as a web of lines of force, while Maxwell saw it as a uniform substance filling space.
+- Einstein's Special Relativity:
+  - Einstein's special relativity challenged the need for ether.
+  - Einstein's theory stated that the speed of light is constant regardless of the observer's motion.
+- Tesla's Views and Contributions:
+  - Tesla believed in the existence of the ether and its role in transmitting electromagnetic energy.
+  - Tesla's experiments with high-frequency AC currents and wireless power transmission contributed to his ideas about the ether.
+- Quantum Mechanics and Relativity:
+  - Dirac introduced the use of hypernumbers and integrated relativity with quantum physics.
+  - The Higgs boson's discovery added to the understanding of mass and binding forces in particles.
+- Higgs Field and Dark Energy:
+  - The Higgs field is proposed as a medium that imparts mass to particles.
+  - Dark energy, possibly originating from the Higgs field, accounts for missing mass in the universe.
+- Ouspensky's Alternative Gravity Concept:
+  - Ouspensky proposed an alternative to Newton's law of attraction using spirality and dynamic relationships between celestial bodies.
+  - He suggested that the motion of celestial bodies is a consequence of their positions within a dynamic system.
+
+## Tesla's Dynamic Theory of Gravity Grand Unification, the God Particle, Tesla, and Einstein
+- Ether and Einstein's Theories:
+  - Walter Isaacson's Einstein biography reveals Einstein's acknowledgment of the existence of an ether hypothesis.
+  - Einstein believed the ether couldn't be detected but recognized its significance for general relativity.
+  - Tesla disagreed with Einstein's theory of relativity and supported the idea of the ether's existence.
+  - Tesla observed light bending around stars and planets due to the absorption of ether.
+- Ether's Behavior and Significance:
+  - The behavior of ether as both solid and fluid explained by motion.
+  - Ether's potential to transmit vibrations even at extremely high frequencies considered.
+  - Ether's rapid oscillation at tachyonic rates may be undetectable with current instrumentation.
+- Particle Spin and Ether Connection:
+  - Particle spin and its relation to the speed of light discussed.
+  - Goudsmit and Uhlenbeck found that particles' spinning rates could exceed the speed of light.
+  - The notion of elementary particles interfacing dimensions and connecting with the tachyonic realm.
+- Ether and Gravity:
+  - Tesla's dynamic theory of gravity proposed as an alternative to conventional gravity theories.
+  - Gravity explained as a result of matter absorbing ether, causing bodies to be drawn toward each other.
+  - Magnetism considered as fundamental as gravity, with magnetic vortices playing a role in the universe.
+- Ether, Atomic Structure, and Energy:
+  - Ether constantly absorbed by atoms, providing energy and stability.
+  - Michael Hodges proposed that atoms' electron spins create a vacuum force that leads to gravitational attraction.
+  - Tesla's misunderstanding of atomic energy and disintegration, contrasted with atomic bomb invention.
+- Grand Unification and Ether's Role:
+  - Einstein's struggle for grand unification of forces, including gravity and electromagnetism.
+  - Particle spin and ether absorption explained as a process transforming etheric energy into electromagnetism.
+  - The potential to unify gravity and electromagnetism through understanding particle spin and ether absorption.
+- Quantum Entanglement and Tachyonic Realm:
+  - Einstein's criticism of quantum mechanics regarding instantaneous information transfer (EPR effect).
+  - Chinese experiment demonstrates quantum entanglement's potential for instantaneous information transfer.
+  - Tachyonic realm explored through quantum entanglement, allowing for rapid communication.
+- Ether's Nature and Matter's Origin:
+  - Max Planck's perspective on matter and the force behind atomic particles' vibrations.
+  - Ether as a primary substance flowing into the physical universe, contributing to atoms' composition.
+  - Elementary particles interface with the etheric dimension to generate electromagnetic energy.
+
+## Final Thoughts
+- Tesla's Personality and Background:
+  - Nikola Tesla's personality presents challenges and contradictions.
+  - Born in Serbia, he was drawn to war and ways to end it.
+  - He wrote about combatting invasions and creating powerful weapons.
+  - He claimed celibacy and had complex relationships with both sexes.
+  - His personal life included interest in literature, friendships, and societal changes.
+  - Speculation about his sexuality and relationships remains unclear.
+- Tesla's Attitude Towards Money and Debts:
+  - Tesla had a complex relationship with money and debts.
+  - He often didn't pay hotel bills, possibly due to his fame or resentment.
+  - His financial situation was affected by World War I and legal disputes.
+  - He viewed himself as a scientific planter, laying foundations for the future.
+- Tesla's Achievements and Vision:
+  - Tesla was a polymath with diverse accomplishments.
+  - He had a strong desire for peaceful communication and global unity.
+  - His inventions ranged from machinery to wireless communication and weapons.
+  - He believed in using advanced technology to promote peace and end war.
+  - Tesla's vision of wireless communication mirrors modern internet technologies.
+- Tesla's Legacy and Perspective:
+  - Tesla's achievements and inventions were extraordinary.
+  - His emphasis on creating weapons was to render war obsolete.
+  - His life was marked by contradictions and the pursuit of utopian ideals.
+  - He had a complex personality, blending art, wit, and science.
+  - Tesla's vision of controlling matter and energy was a testament to his immense potential.
+- Closing Thoughts:
+  - Tesla's ultimate achievement would be controlling and shaping matter.
+  - He could create and destroy material substance with the power of his mind.
+  - This would place him alongside his Creator and fulfill his ultimate destiny.

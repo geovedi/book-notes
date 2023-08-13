@@ -1,88 +1,599 @@
 # The Price of Time
-Edward Chancellor (2022)
+Author: Edward Chancellor
 
-## The Anarchist and the Capitalist
-- Historical debate between Pierre-Joseph Proudhon (anarchist) and Frédéric Bastiat (capitalist) in 1849
-- Debate centered around legitimacy of interest rates
-- Proudhon argued interest was theft and inequality; Bastiat defended interest as fair reward for services
-- Proudhon's criticisms of interest: negative effects on debt, wealth distribution, class antagonism
-- Proudhon proposed monetary reforms: nationalizing bank, reducing interest rates, taxing capital
-- Bastiat argued interest incentivized saving, allocated capital efficiently, fostered economic growth
-- Warning against abolishing interest: hindrance to lending, savings, overall prosperity
-- Enduring relevance of debate: low interest rates coincide with speculative manias, credit booms
-- Complexity of interest: theories, connection to economic growth, influence of monetary policy
-- Importance of interest in guiding capital allocation, valuing investments, incentivizing saving, managing risk, regulating financial markets, impacting income distribution
-- Contrasting views of Proudhon and Bastiat showcase multifaceted nature of interest and its significance in economic systems.
+## Introduction: The Anarchist and the Capitalist
+- Debate between Proudhon and Bastiat on Interest:
+  - The debate between Pierre-Joseph Proudhon and Frédéric Bastiat centered around the legitimacy and effects of interest.
+  - Proudhon, an anarchist, argued that interest was unjust, usurious, and led to inequality and poverty.
+  - Bastiat, a free-trade advocate, saw interest as a fair reward for mutual exchange of services, highlighting time's value.
+  - Proudhon proposed nationalizing banks, reducing interest, and introducing a tax on capital to address inequality.
+  - Bastiat opposed Proudhon's ideas, foreseeing negative consequences for borrowing, capital, and economic stability.
+- Unintended Consequences of Ultra-Low Interest Rates:
+  - After the 2008 Lehman Brothers bankruptcy, central bankers adopted Proudhon-like low interest rates to calm markets.
+  - The initial visible effects included reduced unemployment and economic stability, but secondary consequences emerged.
+  - William White warned that low rates led to increased spending, less saving, misallocated capital, and excessive risk-taking.
+  - Ultra-easy money contributed to the misallocation of capital, discouraged normal thrift, and slowed productivity growth.
+- Impact of Ultra-Low Interest Rates on Emerging Markets:
+  - Low interest rates drove capital flows into emerging markets, boosting commodity prices and causing social and economic impacts.
+  - Commodity price fluctuations, especially food prices, influenced events like the Arab Spring.
+  - China's credit boom and real-estate bubble were fueled by low interest rates, leading to significant economic challenges.
+- The Complexity of Interest and Its Roles:
+  - The concept of interest is multifaceted, with various theories explaining its existence, including profitability, savings, finance, and investment valuation.
+  - The debate between Keynesian views (rejecting the natural rate) and classical views (linking interest to profitability) persists.
+  - Interest's relation to economic growth and demographics remains debated, with implications for natural rates.
+  - Multiple interest rates exist, reflecting short-term, long-term, policy, market, and risk-based factors.
+- Importance and Necessity of Interest:
+  - Interest plays a pivotal role in a capitalist economy, directing capital allocation and valuing investments.
+  - Interest incentivizes saving as a "reward for abstinence," factors in cost of leverage, price of risk, and market regulation.
+  - Interest's effects extend to income and wealth distribution, foreign exchange, and influencing financial behavior.
 
 ## Of Historical Interest
-- Historical context of monetary policies and their impact on economic events
-- Focus on period leading up to the Great Depression
-- Discussion of central banks, interest rates, price stability, and consequences of decisions
-- Politicization of monetary policy after World War I
-- Goals of price stability and the Gold Standard
-- Policies and actions of central banks, such as the Federal Reserve, in the 1920s
-- Impact of easy money, credit growth, and speculative excesses
-- Wall Street crash of 1929 and subsequent debt deflation and economic contraction
-- Different perspectives on deflation's effects
-- Austrian school of economics and resistance to deflation
-- Dangers of debt deflation and arguments for reflation and price stabilization
-- Influence of historical narrative and ongoing debate among economists
-- Ben Bernanke's analysis of the Great Depression and vow to prevent another catastrophe
-- Connection to the late 2000s financial crisis
+### Babylonian Birth
+- Ancient Origins and Evolution of Interest:
+  - Interest has been a fundamental aspect of economic systems throughout history.
+  - Ancient civilizations, like Babylon, Greece, and Rome, had interest-bearing loans with various rates and types.
+  - Interest emerged due to the scarcity of resources, uneven wealth distribution, and the need to incentivize lending.
+  - Different types of loans, risk premiums, and interest calculations were already present in ancient times.
+  - Interest played a role in credit networks and periodic debt crises, similar to modern finance.
+- Determinants of Interest Rates:
+  - The level of interest rates in ancient civilizations showed a U-shaped curve, declining during periods of prosperity and rising in times of decline.
+  - Interest rates remained stable for long periods, reflecting a mix of custom, law, market forces, and monetary changes.
+  - The stability of interest rates contradicts some modern economic theories that link interest rates to economic growth or demographic changes.
+- The Role and Necessity of Interest:
+  - Interest rates reflected the necessity of inducing people to lend resources, rationing limited capital, and addressing unequal wealth distribution.
+  - Interest rates were determined by a combination of need, greed, and the productive nature of loans.
+  - Loans were essential for economic activities, production over time, and property markets.
+  - Interest rates evolved alongside economic and societal changes, impacting civilizations' rise and fall.
+- Implications and Lessons:
+  - The importance of interest extends beyond its modern role in controlling inflation and economic output.
+  - Understanding the historical origins of interest can provide insights into its essential role in credit systems.
+  - Interest remains integral to economic systems due to the productive nature of loans and the time dimension of economic activities.
+
+### Selling Time
+- Historical Perspectives on Interest and Usury
+  - The medieval Church's views on usury were influenced by the Scholastic denunciation, condemning charging interest on loans, especially for consumption purposes.
+  - The distinction between consumer and commercial lending emerged as trade and industry expanded throughout the Middle Ages.
+  - The concept of usury evolved, allowing interest on loans involving risk, business partnerships, and bottomry loans.
+  - The Reformation brought changes in views on interest, and both Catholics and Protestants recognized its practical necessity.
+  - Time started to be acknowledged as having value, and interest was increasingly associated with productive capital.
+- Emergence of Interest and Time Preference
+  - The idea of lending money with interest shifted from condemnation to acceptance as trade and commerce expanded.
+  - The concept of time preference emerged, suggesting that immediate pleasures are valued more highly than future ones.
+  - Turgot's concept of "a bird in the hand is worth two in the bush" expressed the essence of time preference.
+  - Positive time preference became evident in studies like the famous "Marshmallow Test," showing that humans, especially children, tend to be impatient.
+- Role of Time Preference in Economics
+  - Time preference affects individual behaviors, investment decisions, and economic activities.
+  - Various factors influence time preference, including stress, age, economic conditions, and personal preferences.
+  - Time preference plays a crucial role in determining interest rates, influencing borrowing and saving behaviors.
+- Interest as the Time Value of Money
+  - Interest lies at the core of valuation and capital investment decisions.
+  - Interest allows for comparing the present value of future cash flows and determines capital value.
+  - The price of land and other assets is influenced by interest rates and their relation to future expectations.
+  - Capital investments are guided by time preference, with businesses seeking returns that match or exceed the rate of interest.
+- Challenges of Low Interest Rates
+  - When interest rates are forced below their natural level, economic imbalances can arise.
+  - Misguided investments and malinvestment occur when businesses adopt longer-term projects without sufficient returns.
+  - Cheap credit driven by low interest rates can lead to excessive consumer debt and eventual economic crises.
+
+### The Lowering of Interest
+- Introduction: Historical Background and Perspectives on Interest Rates
+  - Discussion of historical debates about the impact of higher or lower interest rates.
+  - Reference to calamities in 1660s England and their economic consequences.
+  - Overview of various historical figures' viewpoints on interest rates, including Sir Josiah Child, Sir Francis Bacon, and others.
+- Views on Interest Rates in the 17th Century
+  - Advocacy for lower interest rates by Josiah Child and others to promote trade and economic growth.
+  - Criticisms of high interest rates, their effects on trade, and implications for inequality and wealth distribution.
+- Interest Rate Advocates and Their Motivations
+  - Josiah Child's self-interested advocacy for lower interest rates, aligned with his role in the East India Company.
+  - The role of interest rate reductions in protecting certain merchants' monopolies and consolidating wealth.
+  - Connection between interest rates, trade, agricultural improvements, and land prices.
+- Debate on Natural Rate of Interest
+  - Consideration of the concept of a natural rate of interest as a reflection of real economic factors.
+  - Hume's view that money's value is largely fictitious and the impact of changes in the money supply on interest rates.
+  - Henry Thornton's argument that artificially low interest rates could lead to financial instability.
+- Modern Concepts of Natural Rate of Interest
+  - Wicksell's ideas on the potential divergence between market interest rates and the natural rate.
+  - Discussion of the natural rate as an abstract and unobservable concept.
+  - Modern policymakers' reliance on the concept of a neutral or equilibrium interest rate.
+- Implications of Interest Rate Policies
+  - Impacts of interest rate policies on economic outcomes, asset prices, and financial stability.
+  - Central banks' actions in response to the 2008 financial crisis by slashing interest rates.
+  - Comparison of the aims of modern policymakers with historical advocates of easy money.
+- Unintended Consequences of Interest Rate Policies
+  - Examination of the aftermath of ultra-low interest rate policies after the 2008 crisis.
+  - Highlighting the adverse effects on savers, financiers, corporate profitability, and real wealth.
+  - Exploration of how low rates contributed to debt levels, stagnation, asset bubbles, and inequality.
+- Interplay Between Interest Rates and Economic Trends
+  - Acknowledgment of the interconnectedness between interest rates and various economic trends.
+  - Exploration of the cyclic relationship between declining interest rates and economic stagnation.
+  - Confirmation that interest rates can both influence and be influenced by economic conditions.
+
+### The Chimera
+- Introduction:
+  - The Mississippi Bubble was a historical financial event orchestrated by John Law in the early 18th century.
+  - Law's financial System aimed to convert government debt into tradable shares, but it eventually led to a massive speculative bubble and its subsequent collapse.
+- Creation of the Bubble:
+  - John Law, a Scottish financier, established a System in France that involved the merging of the Royal Bank and the Mississippi Company.
+  - Shares of the Mississippi Company were used as collateral for loans, and this led to the circulation of banknotes.
+- Factors Leading to the Bubble:
+  - Law's System initially promised prosperity, reduced government debt, and increased economic activity.
+  - The decline in interest rates and the rise in property values contributed to the popularity of Law's System.
+- The Bubble's Rise and Justifications:
+  - Share prices soared, and dividends from the Mississippi Company appeared to justify the high valuation.
+  - Law justified the high share price by pointing to low prevailing interest rates.
+- Fall of the Bubble:
+  - Law's System faced opposition from financiers and those threatened by his reforms.
+  - Law manipulated the value of gold and silver to make banknotes attractive, leading to a loss of confidence in the currency.
+  - Law's dictatorial measures and unstable monetary foundations undermined trust in the System.
+- Impact and Analysis:
+  - The collapse of the bubble led to financial ruin for many speculators and a severe loss of confidence in Law's System.
+  - Modern economists have provided various perspectives on Law's System and its impact.
+  - Some view Law's credit theory favorably and even draw parallels between his ideas and modern central banking policies.
+- Parallels to Contemporary Economics:
+  - The 2008 global financial crisis saw central banks using similar strategies to boost economic recovery, echoing Law's monetary experimentation.
+  - Central bankers, like Ben Bernanke, Janet Yellen, and Mario Draghi, have resorted to printing money, manipulating interest rates, and fueling asset price bubbles.
+  - The similarities between Law's System and modern central banking practices raise questions about their long-term effectiveness and potential consequences.
+
+### John Bull Cannot Stand Two Per Cent
+- Financial Speculation and Panics in History:
+  - Shares in the Bank of England and the East India Company experienced speculative advances, driven by market conditions and geopolitical factors.
+  - English merchants turned to South American trade due to the Continental Blockade by Napoleon, leading to an extraordinary surge in exports.
+  - Speculative frenzy in the early 1800s led to excessive gambling, pushing boundaries and investments in impractical ventures.
+  - The British railway mania in the 1840s saw a doubling of railway shares' index, with speculative fever fueled by easy money.
+  - Overend Gurney's collapse in 1866 triggered financial panic, prompting discussions on the role of central banks during crises.
+  - Bagehot's "Lombard Street" offered insights into central bank behavior as a lender of last resort during banking panics.
+- Foreign Investments and Lending Mania:
+  - Foreign lending mania emerged, driven by promises of high yields on foreign debt during periods of low domestic interest rates.
+  - Latin American republics, such as Costa Rica, Dominican Republic, Paraguay, defaulted on loans, causing widespread distrust.
+  - Egypt's financial difficulties and reliance on foreign loans were relieved by the sale of a stake in the Suez Canal.
+  - Foreign bonds and investments faced challenges due to lack of trust, unsound credit practices, and defaults.
+- Barings Crisis and Economic Challenges:
+  - The decline in English long-term interest rates prompted the conversion of 3% Consols into lower-yield bonds, leading to financial speculation.
+  - Flotation of the Irish brewer Guinness and a "South African fever" in mining stocks fueled stock market activity.
+  - Investment trusts emerged as vehicles for middle-class savings due to inadequate returns on government securities.
+  - The Argentine crisis of 1889 and corruption exposed in Buenos Aires contributed to financial panic.
+  - Baring Brothers, a prominent bank, collapsed in 1890 due to its involvement in South America and insufficient risk assessment.
+- Bagehot's Legacy and Modern Banking:
+  - Bagehot's teachings on lender of last resort were popularized, emphasizing central bank intervention during crises.
+  - Bagehot's warnings on the adverse effects of low interest rates and easy money were overlooked by modern central bankers.
+  - Bagehot's legacy extends to modern times, but the lessons from "Lombard Street" have not been fully heeded.
+
+### Un Petit Coup De Whisky
+- Interest Rate Dynamics and Foreign Securities
+  - Interest rates in Germany during the 1920s were much higher compared to the United States.
+  - German call money rates were around 8½ per cent on average, significantly higher than US Treasury bill rates.
+  - High yield foreign bonds in the US market were in demand, and foreign securities issuance peaked in 1927.
+  - The credit quality of foreign securities deteriorated over the decade, leading to defaults.
+  - The US economy became speculative, driven by rising stock prices, housing markets, and capital flows.
+- Central Banking Decisions and Monetary Policy
+  - A meeting of top central bankers in 1927 resulted in divisions over interest rate policies.
+  - Strong and Montagu Norman proposed cheap money, while representatives of Reichsbank and Bank of France dissented.
+  - The Federal Reserve cut interest rates despite disagreement within the Federal Reserve Board.
+  - Economic growth and market speculation continued, but higher rates in the US triggered a reversal of capital flows.
+  - Europe suffered gold losses, and central banks raised interest rates, contributing to the 1929 Wall Street crash.
+- Debate on Price Stability and Monetary Policy
+  - Economists held differing views on the impact of deflation and falling prices.
+  - Wicksell warned about the dangers of deflation, while some believed that it could benefit workers and improve standards of living.
+  - Hayek argued that not all deflation was harmful, and some forms were a natural result of technological improvements.
+  - Hayek criticized the pursuit of price stability, as it hindered the natural adjustment process.
+  - Hayek believed that bad deflation during crises was a symptom of earlier imbalances, not a direct cause.
+- Impact of Monetary Policy on the Great Depression
+  - The Great Depression narrative varies, with some blaming tight monetary policy and others pointing to the Gold Standard.
+  - Friedman and Schwartz argued that the decline in the money supply and banking crises were key factors in the Great Depression.
+  - Ben Bernanke's view was influenced by this narrative, leading him to prioritize avoiding deflation.
+  - Historical evidence shows weak correlations between deflation and economic weakness in various periods.
+  - Bernanke's commitment to preventing another Great Depression led him to take active measures during the 2008 financial crisis.
+- Contrasting Views and the Legacy of Economic Theories
+  - Hayek's predictions on deflation and crisis prevention were overlooked in favor of Fisher's views in the 1920s.
+  - Bernanke acknowledged the mistakes of the 1930s and pledged to avoid repeating them.
+  - Bernanke's commitment was put to the test during the 2008 financial crisis, where he took measures to prevent a similar catastrophe.
 
 ## How Low Rates Begot Lower Rates
-- Super low interest rates after the financial crisis led to unconventional monetary policies
-- Central banks implemented measures like quantitative easing and artificially suppressed interest rates
-- These actions aimed to stimulate the economy and stabilize financial markets
-- However, unintended consequences arose and desired outcomes were not achieved
-- Low rates led to a search for higher yields and increased risk-taking by investors
-- Lending standards were lowered by underwriters chasing higher returns
-- The carry trade and challenges in regulating financial risks were discussed
-- Despite increased regulations, loopholes were found and mishaps occurred
-- Negative interest rates were then implemented as a further attempt to stimulate growth
-- Initially considered absurd, they were adopted by several central banks
-- Negative rates had unintended consequences, struggling to pass on costs to depositors
-- Solvency problems in the financial system also arose
-- Negative rates failed to boost investment or bring inflation up to target levels
-- Concerns were raised by economists and investors about the negative effects of these rates
-- Critics argue that they hinder banks' ability to create money, induce deflationary mindset, and undermine business confidence
-- The overall impact on the wider financial system and capital allocation is questioned
-- Prolonged low rates led to a cascade of unconventional policies, but they had unintended consequences and did not achieve intended goals
-- This highlights the complexities of manipulating interest rates and the financial system.
+### Goodhart's Law
+- Inflation Targeting and Central Bank Policy
+  - The pursuit of inflation targeting as a policy strategy by central banks became widespread in the 1990s, with the aim of achieving price stability and controlling inflation.
+  - The Federal Reserve and other central banks adopted a 2% inflation target, considering it a global standard for policy implementation.
+  - However, the effectiveness of inflation targeting came into question, especially after the 2008 financial crisis.
+- Critiques of Inflation Targeting
+  - William White and others criticized the inflation targeting approach, arguing that it was asymmetric and prone to overshooting.
+  - White highlighted that central banks' fear of deflation led to a bias towards easing, potentially causing long-term issues.
+  - The time period chosen for measuring inflation targets was criticized as inappropriate, and the real-time pursuit of targets faced limitations.
+- The Obsession with Inflation Targets
+  - After the 2008 crisis, central banks' obsession with hitting their inflation targets became pronounced.
+  - Mario Draghi of the European Central Bank (ECB) and Haruhiko Kuroda of the Bank of Japan (BOJ) displayed strong commitment to their targets, even resorting to unconventional measures.
+  - The pursuit of targets resembled a real-time experiment with global citizens as participants, as central bankers remained focused on targets over adverse consequences.
+- Consequences and Concerns
+  - Extreme monetary policies driven by inflation targeting had various negative impacts on economies and society.
+  - Zero interest rates discouraged saving, investment, and productivity growth.
+  - Ultra-low rates prolonged the survival of inefficient businesses, contributing to economic inefficiency.
+  - Central bank policies led to rising inequality, financial instability, and the proliferation of asset price bubbles.
+- Resistance to Critique
+  - Despite growing criticisms and adverse outcomes, central bankers were resolute in sticking to their inflation targets.
+  - They defended their actions by emphasizing the importance of maintaining price stability, regardless of collateral effects.
+
+### Secular Stagnation
+- Secular Stagnation: Past and Present
+  - In the aftermath of the 2008 financial crisis, the world initially saw a rapid recovery, but within a few years, it became evident that a more profound issue was affecting economies.
+  - The concept of "secular stagnation" resurfaced, similar to a theory proposed in the 1930s by economists like Alvin Hansen and John Maynard Keynes.
+  - This modern stagnation argument revolved around three key claims: slowing population growth, reduced investment demand due to new technologies, and a "global savings glut."
+- Debating Demographics and Investment
+  - The theory suggested that declining population growth in the United States and Europe, along with aging workforces, led to weaker economic prospects.
+  - Claims that new technologies required less investment and were less productive were made, pointing to a shift in economic dynamics.
+  - The idea of a "global savings glut" emerged, explaining falling interest rates during periods of weak growth.
+- Critiques of Demographic Explanation
+  - Some critics challenged the demographic explanation for stagnation, citing a lack of historical correlation between demographics and productivity growth.
+  - Population growth rates contradicted the theory, as the actual growth exceeded the predicted slowdown.
+  - Arguments arose whether demographic changes should influence interest rates or investment dynamics significantly.
+- Technology and Capital Goods
+  - Arguments were made that declining prices of capital goods and technology innovations might have contributed to falling interest rates.
+  - However, the relationship between technology advancement, capital goods prices, and interest rates was complex and not well-established.
+- Economic Efficiency and Innovation
+  - The possibility that economic inefficiency and a lack of innovation were contributing to stagnation was proposed.
+  - Some economists argued that the pessimism surrounding economic growth overlooked the potential for revolutionary new technologies.
+- Overlooking Monetary and Financial Factors
+  - While secular stagnation narratives focused on "real" factors like demographics and investment, the role of monetary and financial factors was underemphasized.
+  - Historical context highlighted the impact of easy credit on economic cycles, as observed after the 1929 Crash and the 2008 crisis.
+- Changing Perspectives
+  - Larry Summers, a proponent of the secular stagnation theory, shifted his focus and questioned the role of ultra-low nominal yields in reducing aggregate demand and fostering financial instability.
+  - The notion that ultra-low interest rates might be driving secular stagnation, rather than being a result of it, was introduced.
+
+### The Raven of Basel
+- Introduction: Hume's Views on Money and Interest
+  - David Hume believed money was a mere representation, and interest rates were determined by frugality and industry.
+  - Hume's ideas on money and interest had a lasting impact on modern economics, influencing the neutrality of money concept.
+- Borio's Paradigm Shift: Unmasking the Financial Cycle
+  - Claudio Borio challenged Hume's views, focusing on the interaction between finance and macroeconomics.
+  - Borio's research revealed a world of asset price bubbles, financial cycles, and credit booms and busts.
+  - Finance generates purchasing power and has a significant impact on the economy, contrary to Hume's stance.
+- The Financial Crisis and Interest Rates
+  - Borio rejected the notion that the financial crisis was caused by a savings glut; he identified a "banking glut" instead.
+  - Inflation's origins were seen as rooted in the real world, and the crisis was linked to credit growth and real estate bubbles.
+  - Borio's research questioned the conventional relationship between interest rates, savings, investment, and profits.
+- Central Bank Influence on Interest Rates
+  - Borio's research indicated that central banks greatly influenced market interest rates and that interest rates were a "policy variable."
+  - Central banks' actions affect bond investors' expectations, allowing them to influence long-term interest rates.
+  - The Federal Reserve's attempts to manipulate interest rates through transparency and "forward guidance" were highlighted.
+- The Natural Rate of Interest and Financial Cycles
+  - Borio challenged the concept of the "natural rate" of interest, proposing his own financial cycle indicator based on credit growth and asset prices.
+  - The stability of prices didn't necessarily indicate equilibrium market rates, as demonstrated by historical crises.
+- Debt, Financial Imbalances, and Economic Growth
+  - Debt accumulation and capital misallocation during credit booms reduced potential output growth.
+  - Ultra-low interest rates enabled the accumulation of bad debts, slowing economic recovery and leading to zombie companies.
+  - The "debt supercycle" emerged, where more debt required lower rates and vice versa.
+- Global Implications and Cross-Border Capital Flows
+  - Borio highlighted the excess elasticity of the international monetary system, leading to massive cross-border lending and capital flows.
+  - Emerging markets accumulated foreign debts sensitive to Federal Reserve actions, resulting in global financial imbalances.
+- Monetary Policy Challenges and Borio's Warning
+  - Borio warned about the risks of extreme monetary policies, including zero and negative interest rates.
+  - Central bankers were deemed overburdened, running out of ammunition, and facing diminishing efficacy of their measures.
+  - The consequences of postponing the day of reckoning and the buildup of financial imbalances were highlighted.
+
+### Unnatural Selection
+- Introduction: Economic Challenges Post-Financial Crisis
+     - IMF warning of low growth without structural reforms.
+     - Italy's sovereign debt and Eurozone crisis persist due to low growth.
+     - Easy money like in Japan bought time but was wasted.
+- Impact of Low Interest Rates: Malinvestments and Unicorns
+     - Ultra-low interest rates induce malinvestments.
+     - Easy money led to investments in long-duration assets.
+     - Silicon Valley's unicorn phenomenon driven by low rates.
+     - Unicorns, though valued highly, often lacked profitability.
+- Productivity Decline and Economic Downturn
+     - Productivity growth collapsed post-financial crisis.
+     - Multiple explanations for productivity decline.
+     - Economic downturns and creative destruction in nature and economies.
+- Role of Unconventional Monetary Policies
+     - Unconventional monetary policies influenced weak productivity.
+     - Zombies (unprofitable firms) and unicorns impacted investment.
+     - Low interest rates linked to both zombies and unicorns.
+- Creative Destruction and Capital Destruction
+     - Historical comparison: US Forest Service and Federal Reserve.
+     - Both suppressed problems, leading to larger issues.
+     - Financial policies resemble both firemen and arsonists.
+- Conclusion: Economic Landscape and Challenges
+     - Zombie companies proliferate due to easy money.
+     - Stronger firms struggle against weaker ones for resources.
+     - Unicorns benefit from easy money, but profitability is uncertain.
+     - The destructive cycle continues with potential for larger crises.
+
+### The Promoter's Profit
+- Introduction: The Rise of Financial Engineering and Share Buybacks
+  - Financial engineering involves manipulating financial structures to boost profits and stock valuations.
+  - Share buybacks became a popular strategy for increasing earnings and benefiting executives.
+- Financial Engineering and Executive Compensation
+  - Companies used low-cost debt to repurchase shares, artificially enhancing profitability and stock prices.
+  - Executive compensation tied to financial metrics like returns on equity and stock performance drove the push for buybacks.
+  - Short-term investors, bankers, and senior executives gained from financial engineering, while long-term growth suffered.
+- External Influences on Share Buybacks
+  - Hedge funds and "activist" investors promoted buybacks as a means to enhance stock value.
+  - Companies facing stock market underperformance turned to buybacks to ward off takeovers.
+- Impact on Economic Productivity and Growth
+  - Financial engineering shifted focus away from real business operations, hindering productivity and innovation.
+  - Corporate investments and R&D suffered as buybacks took precedence.
+- Debt Accumulation and Corporate Risks
+  - Corporations amassed significant debt for buybacks, leading to potential financial instability.
+  - Rising corporate debt levels and interest cover ratios raised concerns about destabilizing the financial system.
+- Case Studies: The Downfalls of Financialization
+  - Companies like Valeant, Kraft Heinz, Toys 'R' Us, and Sears suffered due to excessive financial engineering and debt accumulation.
+  - General Electric's rise and fall exemplified the pitfalls of prioritizing share price maximization over sustainable business operations.
+
+### A Big Fat Ugly Bubble
+- Wealth Definition and Perspective:
+   - John Stuart Mill's perspective on wealth as anything exchangeable is contrasted with Ruskin's view of intrinsic value.
+   - Wealth should possess inner quality and utility according to Ruskin and Soddy.
+   - Wealth's moral acquisition and concerns about immoral means are highlighted.
+- Impact of Interest Rates:
+   - Lowering interest rates since the 1980s has increased US household asset values.
+   - Modern economists believe wealth is created in financial markets.
+- Financialization and Bubble Economy:
+   - Financialization grew as the economy shifted from manufacturing to services.
+   - The 2008 financial crisis accelerated financialization.
+   - Ultra-low interest rates inflated asset prices and distorted the economy.
+   - Profits detached from real economic activity, leading to a "profits bubble."
+- The Truman Show Allegory:
+   - The Truman Show is likened to the bubble economy, controlled and sustained.
+   - Central banks use extreme measures to maintain the bubble.
+   - Financial crises and abnormal economic outcomes hint at the system's instability.
+- Challenges to Conventional Explanations:
+   - Conventional explanations like secular stagnation and technological change fall short.
+   - Discrepancies in economic outcomes raise questions about the bubble economy's sustainability.
+
+### Your Mother Needs to Die
+- Interest, Saving, and Consumption
+  - Interest impacts capital valuation, allocation, and saving.
+  - Thrift and deferred gratification are challenging due to immediate pleasures.
+  - Interest is a wage for abstinence and a reflection of time preference.
+  - Interest bridges present and future through borrowing, lending, and investment.
+  - Balancing saving for the future and present consumption is crucial.
+- Effects of Ultra-Low Interest Rates
+  - Ultra-low interest rates policy influenced by the Dotcom and subprime crises.
+  - Reduced saving levels and changed consumption patterns.
+  - Decline in interest rates negatively impacted savers.
+  - Decreased incentives for abstaining from consumption or saving.
+  - Ultra-low interest rates led to negative net savings rates.
+- Pension Crisis
+  - Falling interest rates caused pension deficits to balloon.
+  - Pension deficits created challenges for various institutions.
+  - Defined benefit pension plans transitioned to defined contribution.
+  - Pension providers faced difficulty in balancing the pension books.
+  - Various organizations faced insolvency due to pension liabilities.
+- Illusion of Wealth and Retirement
+  - Soaring asset prices created an illusion of wealth.
+  - Rising asset prices didn't necessarily make a nation richer.
+  - Expected returns on investment portfolios declined due to valuation.
+  - Pension commitments were increasingly costly due to low rates.
+  - Americans were saving too little for retirement, leading to a pension gap.
+- Longevity Risk and Implications
+  - Increased life expectancy caused longevity risk.
+  - Retirement savings might not last through retirement years.
+  - Pension providers faced challenges due to declining interest rates.
+  - Declining life expectancy could ease pension deficits to some extent.
+- Cruel Consequences of Low Interest Rates
+  - Life insurance premiums escalated due to low interest rates.
+  - Elderly savers faced higher premiums and difficult choices.
+  - Low interest rates had unintended, negative consequences.
+
+### Let Them Eat Credit
+- Contemporary Art and Luxury Real Estate
+  - Contemporary art and luxury real estate markets saw significant price appreciation, indicating rising inequality.
+  - High-end properties in cities like New York and London rebounded from crisis-era losses, leading to soaring prices.
+  - Investments in luxury real estate and art became prominent ways to store wealth, contributing to inequality.
+- Financial Crisis Fallout and Uneven Impact
+  - The financial crisis had uneven impacts on different segments of society.
+  - Middle-class households suffered losses in wealth due to the property bust and stock market fluctuations.
+  - Wealth inequality increased, with a large portion of private wealth hidden in offshore tax havens.
+- Inequality and Economic Disparities
+  - Inequality wasn't solely responsible for the financial crisis but played a role in its aftermath.
+  - Rising inequality was linked to declines in social mobility and worsening economic prospects for the middle class.
+  - While the rich got richer, many Americans faced stagnant or falling wages and rising living costs.
+- Monetary Policy and Wealth Inequality
+  - Ultra-low interest rates were a consequence of unconventional monetary policies after the financial crisis.
+  - These policies disproportionately benefited the financial elite and contributed to asset price inflation.
+  - Wealth bubbles, fueled by low interest rates, exacerbated wealth inequality and increased the concentration of wealth.
+- Critique of Piketty's Theory
+  - Thomas Piketty's "Capital in the Twenty-First Century" proposed that inequality rises when returns on capital exceed economic growth.
+  - Piketty's fundamental law (r > g) came under scrutiny, with evidence showing inequality declining in countries where the gap between returns on capital and growth expanded.
+  - Piketty's interchangeable use of 'capital' and 'wealth' was critiqued, as financial claims and productive assets were not distinguished.
+- Alternative Explanation: The Iron Law of Inequality
+  - An alternative explanation to inequality is the 'iron law of inequality' (r < g).
+  - This formula suggests that when the rate of interest is held below the economy's growth rate, inequality increases.
+  - The alternative formula helps explain changes in income and wealth distribution in different periods, including the post-Lehman decade.
+- Potential Consequences and Concerns
+  - Surging inequality led to warnings from various quarters about its consequences.
+  - Concerns were raised about growing conflict and potential revolutions due to wealth disparity.
+  - There was an acknowledgement that inequality could undermine the stability of economies and societies.
+- The Future and Call for Action
+  - Various figures, including wealthy individuals, warned about the unsustainability of current wealth disparities.
+  - Calls for awareness and action were made to address the growing inequality gap.
+  - The need to consider both policy changes and societal shifts to mitigate inequality and its potential consequences was emphasized.
+
+### The Price of Anxiety
+- Bond Market and Interest Rates:
+  - Negative-yielding bonds are mistakenly considered "safe" assets, with warnings from experts like James Grant and Paul Singer.
+  - Alan Greenspan also expressed concerns about unsustainable low long-term interest rates, likening it to a bond bubble.
+  - During Greenspan's tenure at the Federal Reserve, he failed to identify bubbles, while central banks kept interest rates low and inflation in check.
+  - The concept of interest compensating for liquidity sacrifice has historical roots and is still relevant in modern bond markets.
+- Liquidity Risk:
+  - Liquidity, valued in bond markets, causes less liquid securities to have higher yields.
+  - Low interest rates led to investors sacrificing liquidity for extra income, investing in illiquid "shadow banking" products.
+  - After the 2008 financial crisis, new shadow-banking systems with similarities to their predecessors emerged.
+  - Liquidity risk was exacerbated by new banking regulations, leading to decreased turnover in the bond markets.
+- Price of Volatility:
+  - Volatility and liquidity are inversely related; volatility increases as liquidity decreases.
+  - Volatility is seen as a measure of risk and the price of uncertainty in finance.
+  - The VIX index measures US stock market volatility; quantitative easing aimed to reduce market volatility.
+  - The proliferation of low volatility resulted in new financial strategies and asset classes.
+- Central Bank Actions and Financial Behavior:
+  - Central bankers adopted a plausible deniability attitude toward the bond bubble and increased credit risk.
+  - Central banks denied causing the collapse in long-term interest rates, attributing it to supply and demand.
+  - Ultra-low interest rates encouraged investors to chase yield, disregarding risk.
+  - Regulation and monetary policy conflicted; monetary policy encouraged risk-taking while regulations attempted to control it.
+  - Regulatory arbitrage allowed financial institutions to exploit loopholes in regulations, despite increased oversight.
+  - Ultra-low rates redirected savings from regulated banking to credit markets, altering systemic risk's origin.
+- Challenges and Solutions:
+  - Ultra-low interest rates prompted investors to take on more risk, leading to financial instability.
+  - Activist central banks' interventions and low-interest rates influenced Wall Street's behavior and created moral hazard.
+  - Removing extraordinary measures was feared to induce financial turmoil, highlighting the dilemma of raising interest rates.
+  - The low rate environment resulted in a million carry trades and persistent financial fragility, reinforcing the need for low rates.
+
+### Rusting Money
+- Financial Crisis and Unconventional Monetary Policies:
+  - Financial crises caused by overconfidence, borrowing, and spending, resolved with more confidence, borrowing, and spending.
+  - Paradox of using more confidence and borrowing to recover from crisis.
+- The Reversal Rate and Escape Velocity:
+  - Economists' metaphors to explain economic dynamics.
+  - Analogy between escape velocity in physics and momentum in economics.
+  - Monetary policy experiments after the 2008 Lehman crisis and their impact on the economy.
+  - Effects of ultra-low interest rates on banking, lending, and money circulation.
+  - Importance of positive lending spread for banks and the concept of 'reversal interest rate.'
+- Effects of Ultra-Low Interest Rates:
+  - Monetary policy's impact on asset prices, credit spreads, and lending.
+  - Challenges posed by zero-bound interest rates on economic supply and demand.
+  - Influence of low-interest rates on trade credit, supply chains, and corporate behavior.
+  - Rise of zombie companies, monopolies, and financialized firms with low interest rates.
+  - Household debt, wealth inequality, and the 1% vs. 99% dilemma.
+  - Financial system weaknesses due to prolonged easy money and risky behavior.
+- Adoption of Unconventional Monetary Policies:
+  - Expansion of unconventional monetary policies after 2008 financial crisis.
+  - Central banks' adoption of similar policy tools and cooperation.
+  - The gradual trend of reducing natural interest rates and misjudgment by central bankers.
+  - Bernanke's promise of smooth exit and extended period of low rates.
+- Negative Interest Rates and Monetary Innovations:
+  - Introduction of negative interest rates as central banks reach zero lower bound.
+  - Historical experiments and proposals for negative interest rates.
+  - Challenges for conventional banks, financial system, and unintended consequences.
+  - Failed attempts to stimulate investment and economic growth through negative rates.
+- Critiques and Observations on Negative Rates:
+  - Criticisms from investors, economists, and central bankers.
+  - Failure of negative rates to achieve intended goals.
+  - Negative effects on banks, insurers, bond markets, and business confidence.
+  - Hoarding of cash and avoidance strategies due to negative rates.
+  - Historical perspectives on interest rates and skepticism toward negative rates.
 
 ## The Game of Marbles
-- China unleashed a massive stimulus package in response to the 2008 global financial crisis
-- The stimulus fueled a credit binge and increased state control over the economy
-- This resulted in a surge of investment, particularly in infrastructure projects
-- However, it also led to overcapacity in industries like steel and cement
-- Excessive debt, state-owned enterprises, and shadow banking created a risky financial environment
-- Informal lending systems, like the one in Wenzhou, emerged and fueled speculation, especially in real estate
-- Wealth inequality grew, with the richest 1% controlling a significant portion of the country's wealth
-- China's authoritarian turn under President Xi Jinping intensified surveillance and control mechanisms
-- Financial repression, including manipulation of interest rates and capital controls, hindered market-driven reforms
-- Capital flight and hindered productivity growth were consequences of financial repression
-- Challenges and contradictions arise from the clash between state control and people's aspirations for a better life in China's economy
+### The Mother and Father of All Evil
+- Introduction: The Dollar Standard and Interest Rates
+  - The US dollar became the global reserve currency after the collapse of the Bretton Woods system in 1971.
+  - Dollar-denominated securities like US Treasury bonds replaced gold in central bank reserves.
+  - The Dollar Standard's defining characteristic is its extreme elasticity, with no limit on issuing dollar-denominated securities.
+  - The United States benefits from this privilege by running deficits and borrowing without constraint.
+- Impact of Interest Rates on International Capital Flows
+  - Interest rates have historically regulated international capital flows.
+  - During the Gold Standard era, lower rates in one country led to gold outflows and higher rates.
+  - Under the Dollar Standard, dollar-pegged countries must align with US monetary policy.
+  - Easy money policies in the US have a global impact, causing cross-border lending and carry trades.
+- Phases of Global Liquidity
+  - Early 2000s saw a surge in central bank reserves, often attributed to a "global savings glut."
+  - The growth in reserves was fueled by cross-border capital flows and easy money policies.
+  - The first phase of liquidity led to credit booms and real estate bubbles in Europe.
+  - The second phase after the 2008 crisis brought foreign capital to emerging markets.
+- Emerging Markets and Debt Accumulation
+  - Low interest rates in developed countries led to excessive debt in emerging markets.
+  - Non-financial debt in developing countries rose from 107% to 192% of GDP between 2008 and 2018.
+  - Foreign dollar loans exceeded $11 trillion, with emerging markets accumulating significant debt.
+  - Much of this borrowing was poorly invested or used for financial engineering.
+- Impact of Globalization on Interest Rates
+  - Globalization and interest rates are interconnected: increased trade reduces inflation and wage growth, affecting rates.
+  - In the modern era of globalization (from 1980), emerging markets gained trade share and jobs were offshored.
+  - Globalization reduced inflation and wage growth, allowing central banks to lower interest rates.
+  - Longer supply chains developed, requiring ample financing and contributing to the expansion of world trade.
+- Challenges to Globalization and Emerging Markets
+  - Emerging markets became more sensitive to shifts in US monetary policy.
+  - Trade tensions, Brexit, and capital controls challenged globalization.
+  - The "persistent expansionary bias" of the international monetary system caused imbalances.
+  - Emerging markets' vulnerability to US monetary policy increased, demanding lower rates to avoid crises.
+- The Future and Consequences of Globalization
+  - The risks of failing to reform the international monetary system include instability, protectionism, and stagnation.
+  - The Dollar Standard's crises have become more costly and widespread over time.
+  - The impact of globalization on historic bubbles raises questions about its sustainability.
 
-## The New Road to Serfdom
-- Explores rise of financial repression and its impact on economies and societies
-- Traces origins of financial repression to post-World War II periods and its resurgence after the Global Financial Crisis
-- Draws parallels between central planning of the past and manipulation of interest rates in the present
-- Highlights unintended consequences and risks associated with such policies
-- Discusses views of economists Friedrich Hayek and Joseph Schumpeter on dangers of central planning and erosion of capitalism
-- Explains how financial repression undermines economic growth, creates inequality, and fosters public discontent
-- Argues pursuit of economic security through interventionist policies leads to greater insecurity and undermines principles of capitalism and democracy
-- Serves as cautionary tale, urging policymakers and public to critically evaluate assumptions and consequences of current economic policies
-- Emphasizes importance of preserving principles of free market economy and individual liberty to avoid pitfalls of central planning and erosion of democratic values
+### Financial Repression With Chinese Characteristics
+- Introduction
+  - China's rapid economic growth since the late 20th century.
+  - The role of financial repression in shaping China's economic trajectory.
+- Financial Repression and China's Post-2008 Stimulus
+  - After the 2008 global financial crisis, China launched a massive stimulus.
+  - The stimulus fueled credit expansion, contributing to economic growth.
+  - State-controlled banks channeled credit to favored sectors, creating misallocation of capital.
+  - Low interest rates and government control over credit distorted the economy.
+- Debt and Economic Imbalances
+  - China's investment-led growth led to increased debt levels.
+  - Productivity did not keep pace with debt growth, leading to an unsustainable situation.
+  - Despite warnings, debt continued to grow, reaching 250% of GDP by 2016.
+- Unbalanced Shadow Banking and Informal Lending
+  - Informal lending systems emerged due to limitations of state-run banks.
+  - Wenzhou's informal lending market, led by back-alley banks, financed local businesses.
+  - Shift from traditional manufacturing to speculation led to real estate bubbles.
+  - Wenzhou experienced a credit crunch in 2011 due to interest rate hikes and defaults.
+- Rise of China's Shadow Banking
+  - China's shadow banking included various financial products like wealth management products (WMPs).
+  - Wealth management products and trust products gained popularity.
+  - Shadow finance grew rapidly, exceeding the size of the US subprime market.
+  - Similarities between China's shadow banks and the discredited American version were observed.
+- Challenges and Risks
+  - People's Bank of China's control over interest rates diminished with the growth of shadow finance.
+  - Capital controls trapped domestic savings in China.
+  - Capital flight increased as the US Federal Reserve tightened monetary policy.
+  - Authorities cracked down on various methods used to evade capital controls.
+- Inequality and Corruption
+  - Financial repression fueled inequality and crony capitalism.
+  - Officials and Party members exploited their positions for personal gains.
+  - Real estate bubble contributed to a rise in inequality.
+  - Shadow banking and informal lending systems supported corrupt practices.
+- Authoritarianism and State Control
+  - China's shift towards authoritarianism under Xi Jinping's leadership.
+  - State-led economic development plans such as 'China 2025'.
+  - Social credit system, digital yuan, and control over private companies reflect increased state intervention.
+- Challenges and Future Prospects
+  - The contradiction between unbalanced development and people's needs for a better life.
+  - The legacy of financial repression continues to shape China's economic policy.
+  - Implications for China's economic growth and political landscape.
 
-## The World Turned Upside Down
-- Financial upheaval in 2020 caused by pandemic-induced market crash
-- Vulnerabilities exposed: yield-chasing, weak underwriting standards, rising leverage
-- Governments and central banks intervened with emergency measures and massive injections of money
-- Rise of Modern Monetary Theory led to increased government spending and public debt
-- Asset price bubbles emerged in stocks, bonds, real estate, cryptocurrencies, and collectibles
-- Speculative trading fueled by social media platforms and commission-free trading apps
-- China's property bubble burst, threatening stability of Evergrande
-- Inflationary pressures due to disrupted supply chains, labor shortages, and stimulus measures
-- Central banks insisted inflation was transitory, some economists warned of shifting risks
-- Emergence of cryptocurrencies and digital currencies challenges traditional monetary system
-- Uncertainty and volatility challenging long-held beliefs and requiring careful scrutiny
+## Conclusion: The New Road to Serfdom
+- Introduction and Historical Context:
+  - The division between those advocating a centrally controlled economy and those supporting a freely developing economy extends through monetary policy.
+  - Historical context of financial repression after World War II and its effects on government finances.
+  - The post-2008 financial crisis led to a return of financial repression, with central banks using unconventional monetary policies.
+- Impact of Financial Repression:
+  - Financial repression involves controlling interest rates and capital flow to support government policies.
+  - During the post-war period, interest rates were artificially low, aiding in reducing national debt-to-GDP ratios.
+  - China's experience with financial repression involves trapping domestic savings and capital controls.
+- Recent Return of Financial Repression:
+  - After the 2008 crisis, short-term interest rates remained below inflation, leading to financial repression.
+  - New regulations required banks to hold more government bonds.
+  - Central banks' involvement in markets, especially stock markets, increased.
+- Negative Consequences and Political Impact:
+  - Unconventional monetary policies increased inequality by favoring the wealthy and large corporations.
+  - Populism and political discontent grew due to perceived unfairness of monetary policies.
+  - Central banks' efforts to create economic security led to more instability and risk.
+- Lessons from Iceland and Alternatives:
+  - Iceland's response to the 2008 crisis involved letting banks fail, austerity, and protecting domestic depositors and homeowners.
+  - Iceland's approach contrasted with the US response of slashing interest rates and protecting the financial system.
+  - A reevaluation of tools and mindsets used after the crisis is needed to prevent repeating the same mistakes.
+
+## Postscript: The World Turned Upside Down
+- Negative Rates and Financial Crisis:
+  - Trump and Musk's contrasting views on negative rates
+  - Mervyn King's warning about high global debt and uncertainty
+  - Financial markets crash in 2020 due to COVID-19
+- Response to Crisis and New Monetary Measures:
+  - Central banks' rapid response to market turmoil
+  - Fed's monetary measures, including bond buying and rate cuts
+  - Emergence of new economic theories, like Modern Monetary Theory (MMT)
+  - Government interventions through fiscal deficits and support programs
+- The Everything Bubble and Financial Frenzy:
+  - Asset bubbles emerging in stocks, bonds, real estate, cryptocurrencies, etc.
+  - Rise of meme stocks and online trading communities like WallStreetBets
+  - Cryptocurrency boom and the rise of NFTs (Non-Fungible Tokens)
+- Disconnect between Finance and Reality:
+  - Growing disparity between finance and real-world consequences
+  - Inflation concerns amid money printing and low interest rates
+  - The potential for a return to a true interest rate and Gold Standard
+- Cryptocurrencies and Central Bank Digital Currencies (CBDCs):
+  - Potential for cryptocurrencies to challenge traditional money
+  - Challenges of government giving up money monopoly
+  - Development of CBDCs as a controlled digital alternative
+- Digital Gold Standard:
+  - The idea of a digital Gold Standard as a potential solution
+  - Advantages of a digital Gold Standard, including market-guided interest rates
+

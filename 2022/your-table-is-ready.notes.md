@@ -1,0 +1,257 @@
+
+# Your Table Is Ready
+Author: Michael Cecchi-Azzolina
+
+## Introduction
+- Falling in Love with the Restaurant Business
+  - Trained as a waiter, now a manager, after 35 years.
+  - Love for the restaurant business, its ambiance, and atmosphere.
+  - The symphony of sounds and experiences in a dining room.
+  - Restaurant workers as a band of misfits, drawn to the industry.
+  - Transient nature of front-of-house staff, diverse backgrounds.
+- The Art and Challenges of Restaurant Work
+  - Not needing advanced degrees, but requiring unique qualities.
+  - Long hours, customer demands, multitasking, challenges.
+  - Beauty in a well-run dining room, a symphony of elements.
+  - Guests celebrating various occasions, the richness of experiences.
+  - Personal role as a piece in the larger show.
+- Personal Connections and Experiences in Restaurants
+  - Restaurants as a family, enabling artistic, social, and sexual aspects.
+  - Lifelong connections, friendships, loves, and shared experiences.
+  - Meeting various people, from celebrities to regulars.
+  - Role as a waiter, bartender, and maître d'hôtel, building relationships.
+- The Contradictions of the Industry: Love and Hate
+  - Complex feelings towards the industry: both love and frustration.
+  - Financial support, access to diverse people and experiences.
+  - Paying bills, indulging in vices, mingling with powerful figures.
+  - Acknowledgment of industry's cutthroat, grueling nature.
+- Unveiling the Darker Side: Sex, Drugs, and Misbehavior
+  - Industry's underbelly: sex, drugs, and misbehaviors.
+  - Highlighting a different era with its own standards and issues.
+  - #MeToo movement addressing abuses of power and disregard for women.
+  - Emphasis on reflecting the times truthfully, without softening details.
+
+## Part I
+- Background and Setting:
+  - The candy store, owned by Fran and Lou, is described as a rundown yet bustling establishment in Brooklyn.
+  - Fran is known for her beauty routine and interactions with customers, while Lou is often drunk and argumentative.
+  - Regular customers include various personalities like Sam the Shylock and local sports enthusiasts.
+  - The narrator, introduced by Johnny, starts working at the store as a young teenager.
+- Candy Store Operations:
+  - The candy store is a cash business, with cash often stored in the till.
+  - Johnny, the narrator's friend and coworker, is promoted to night manager and begins embezzling money from the till.
+  - The narrator and Howie, another worker, engage in various schemes to steal and distribute items from the store, including bakery goods, ice cream, soda, and cigarettes.
+  - Saturday nights become an opportunity for the narrator and Howie to take extra cash from the overflowing till.
+- Expansion into Illicit Activities:
+  - Lorenzo, a relative of Johnny, provides drugs confiscated from his police work.
+  - The narrator starts selling drugs to high school kids, hidden in egg cream orders.
+  - The city experiences a rise in crime, including drugs and violence, affecting the narrator's neighborhood and school.
+- Personal Awakening and Decision to Leave:
+  - The narrator has a profound experience while on LSD, leading to a realization that staying in the neighborhood will lead to negative outcomes.
+  - Feeling trapped by the violence and drug culture, the narrator decides to leave Brooklyn for Hollywood Beach, Florida.
+  - The story ends with the narrator making the decision to move to Florida within a week.
+
+## Part II
+- Work at La Rousse Restaurant:
+  - The author worked at a theater district restaurant called La Rousse.
+  - The restaurant was known for its theater crowd, unique atmosphere, and lively staff.
+  - The author started as a busboy and moved up to become a server.
+  - The author describes the diverse characters among the staff and the close-knit relationships formed.
+- The Staff's Party Culture:
+  - The restaurant staff were known for their partying lifestyle.
+  - Alcohol and drugs were frequently consumed during and after shifts.
+  - The staff engaged in various relationships, flirtations, and sexual encounters.
+  - The author shares anecdotes about his romantic escapades with other staff members.
+- Challenges of the Restaurant Business:
+  - The high-stress nature of the restaurant business is described, with mistakes and errors adding to the stress.
+  - Instances of forgotten orders, wrong dishes served, and spilled drinks are recounted.
+  - The author highlights the pressure to provide exceptional service despite the chaotic environment.
+  - The author describes difficult and obnoxious guests, including a rude German homosexual customer.
+- Conflicts and Drama Among the Staff:
+  - The author describes conflicts between Aline, the restaurant owner, and Timothy, the manager, particularly over comping meals.
+  - The restaurant's atmosphere led to friendships, alliances, and manipulations among the staff.
+  - An incident involving the author punching a customer who was being rude is recounted.
+  - The restaurant was known for its dramatic and unpredictable nature, with unique dynamics each night.
+- Celebrity Encounters and Unique Experiences:
+  - The author recounts encountering Dustin Hoffman, who sought refuge from the heat in the restaurant, leading to a memorable interaction.
+  - The author shares an encounter with Althea Flynt, the wife of Larry Flynt, involving drugs and debauchery.
+  - The Mudd Club, a contrasting venue to Studio 54, is mentioned, and the author's experience there is recounted.
+  - The author reflects on his time at La Rousse and the end of the restaurant's existence.
+- Lessons Learned:
+  - The author reflects on the unique experiences and life lessons gained from working at La Rousse.
+  - Understanding that restaurants involve more than just food and drink, including relationships and party culture.
+  - The author acknowledges the end of his time at La Rousse and how it shaped his outlook.
+
+## Part III
+- A Dangerous Encounter
+  - The narrator, Mikey, encounters two men discussing a situation.
+  - He fears for his life and wonders about the outcome of their conversation.
+  - Vinny, one of the men, gives Mikey money and T asks to speak with him.
+- Meeting T: A Surprising Conversation
+  - Mikey meets T, who is connected to the mob.
+  - T implies that Mikey's respectfulness has garnered some favor.
+  - T informs Mikey that he will talk to Anthony on his behalf.
+- The Encounter with Anthony: Nervous Apology
+  - Anthony arrives at the restaurant with a companion.
+  - Mikey apologizes to Anthony as instructed by T.
+  - Anthony's response is dismissive and he demands to be informed of a phone call.
+- Regular Visits: Unpleasant Guests
+  - Fat Anthony and his crew become regular patrons.
+  - The mobsters' behavior is uncouth, and they tip poorly.
+  - Anthony's presence leads to credit card scams and FBI involvement.
+- Anthony's Downfall: A Dramatic Turn of Events
+  - Fat Anthony's involvement in the Castellano hit is revealed.
+  - He faces issues within the mob due to his greed and temper.
+  - Anthony is shot and killed in a club.
+- Restaurant Challenges and Changes: Volatile Atmosphere
+  - Pressure arises from denying window tables to guests.
+  - David Burke, the chef, displays volatile behavior.
+  - Buzzy, the owner, reacts harshly to mistakes.
+  - The 1987 stock market crash affects business negatively.
+- Pursuit of Acting: A New Path
+  - Mikey starts pursuing acting during the downturn in business.
+  - He auditions and gets cast in various roles, even in low-quality productions.
+  - Learning experiences come from working with bad scripts and directors.
+  - Mikey gains confidence and eventually leaves the restaurant.
+
+## Part IV
+- Introduction
+  - Narrator returns home broke after traveling, gets a server job offer at Raoul's, a renowned SoHo bistro.
+- Restaurant Background
+  - Founded in 1975 by French brothers Serge and Guy Raoul, attracted artists and celebrities.
+  - Notable figures like James Signorelli brought SNL crew to the restaurant.
+- Interior and Atmosphere
+  - Antique bar, rows of tables, fish tank, intimate booths, and donated art create ambiance.
+  - Parisian-style intimacy, embodied by provocative artwork and antique aesthetics.
+- Interview and Hiring Process
+  - Narrator seeks job for earnings and flexibility, faces challenges to secure an interview.
+  - Interview with tough general manager, conducted in front of staff, tests readiness.
+- The Interview Experience
+  - Prepared for questions, maintains composure during challenging interview.
+  - GM probes narrator's server readiness and motivation, met with confidence.
+- Transition to the Back Room
+  - Hired for Siberia, a lower-traffic area, plans to excel and move to front room.
+  - Goal to access higher tips and more opportunities for advancement.
+- Relationships and Characters
+  - Bonds with "Girl," another Siberia server, learns about Raoul brothers' dynamics.
+- Service and Menu Strategy
+  - Adapts to casual service style, language barriers due to French menu.
+  - Recommends popular dishes like artichokes and steak au poivre to ease guest choices.
+  - Fast-paced service, regulars, and quick table turnovers contribute to earnings.
+- Challenges and Rewards
+  - Raoul's reputation for specific dishes drives high guest demand.
+  - Challenges with Girl's emotional outbursts and fast-paced environment.
+  - Eyes opportunity for front room advancement due to anticipated server departure.
+- Jimmy's Legends and Connections
+  - Jimmy, legendary bartender with Rolling Stones links, drug history, and artistry.
+  - Transition from addiction to acclaimed painter, known for unique drink-making.
+- Memorable Stories and Celebrities
+  - Jimmy's experiences, like tripping on acid with Lou Reed, create enjoyable atmosphere.
+  - Celebrity regulars: Al Pacino, Robert De Niro, Mick Jagger, Julia Roberts, Leonardo DiCaprio.
+  - Anecdotes about interactions with various celebrities and their behaviors.
+- Dramatic Incidents and Staff Personalities
+  - Incident involving employee Girl and customer, Johnny Depp and Kate Moss visit intoxicated.
+  - Personalities: Naomi Campbell, Drew Barrymore, Cameron Diaz, Anna Wintour.
+  - Uncle Rob's alcohol and drug struggles during return to work at Raoul's.
+- Impact of 9/11
+  - Raoul's stays open post 9/11, offers solace amid loss, particularly Cantor Fitzgerald patrons.
+  - Collective grief and somber atmosphere shared by patrons.
+- Father Reunion and Mob Stories
+  - Narrator reconnects with father Fred, delves into Mob connections, violent tales.
+  - Fred's involvement in Lucchese family, life stories, and emotional meetings.
+- Family Bonds and Personal Growth
+  - Relationship development with newfound family, introduction to half-sisters.
+  - Author's self-discovery journey through interactions and understanding.
+
+## Part V
+- Introduction and Setting:
+  - The input discusses the challenges faced by the narrator, an experienced restaurateur, while managing and reviving a restaurant named Bobo.
+  - Bobo had initially attracted attention due to its stylish ambiance and attractive crowd, but the quality of food and service became problematic over time.
+  - The narrator joined Bobo to improve its operations and bring it back to success.
+- Initial Struggles and Observations:
+  - Frank Bruni's early review compared Bobo to a good-looking individual who doesn't need to try hard to attract attention due to its appearance.
+  - The initial dining experience for guests was positive, driven by the restaurant's aesthetics, but doubts and questions arose by the end of the meal.
+  - Carlos, the owner, attracted a large crowd initially, but it lacked loyalty and quickly moved on to the next trendy spot.
+- Kitchen Issues and Revolving Chefs:
+  - The kitchen faced significant challenges, with multiple chefs being fired in a short time.
+  - Patrick Connolly, a well-regarded chef, was hired to improve the kitchen's performance, but it didn't lead to significant improvements.
+  - Despite efforts to address kitchen problems, the food quality remained inconsistent.
+- Restaurant Inspections and Challenges:
+  - The NYC Department of Health imposed strict regulations on restaurants, with a point system determining health grades.
+  - Inspections were frequent and often occurred during busy service times, causing disruptions.
+  - The restaurant staff implemented drills and protocols to quickly address potential violations during inspections.
+  - The impact of fines and the DOH's focus on levying fines was noted.
+- The Resurrection of Bobo:
+  - The narrator took over management and aimed to resurrect the restaurant's reputation.
+  - Initial challenges included changing staff attitudes, improving service, and re-establishing a connection with guests.
+  - The importance of a warm greeting and engaging staff was highlighted, and the narrator hired a new host and bartenders.
+  - The staff worked together to improve the restaurant's overall experience, focusing on service and food quality.
+- The Role of the Owner:
+  - The narrator emphasized the importance of the owner's presence and involvement in the restaurant's success.
+  - Successful owners such as Danny Meyer and Stephen Starr were mentioned as examples of those who understood the value of direct engagement with guests.
+- Challenges and Changes in Leadership:
+  - Challenges persisted as the restaurant faced construction, rat infestations, and an adjacent building's impact on the garden.
+  - Carlos, the owner, became less present as he focused on expanding the restaurant group and establishing Casa Nela, an umbrella organization.
+  - Casa Nela aimed to oversee HR, Events, and PR for multiple restaurants but faced challenges due to lack of experienced personnel and resources.
+- Decision to Move On:
+  - As the restaurant's quality and operations were undermined, the narrator's commitment wavered.
+  - Overworked and underpaid staff, inexperienced management in the group's new office, and declining quality led the narrator to decide to leave Bobo.
+
+## Part VI
+- Restaurant Success and Accolades:
+  - The protagonist reflects on their experience at the restaurant and placing a pillow under a person's hands, causing laughter.
+  - The restaurant receives accolades and is ranked number one in New York City by Wells.
+  - High demand for reservations prompts increased staffing, and the protagonist manages reservation requests.
+  - Nominated for James Beard Award for Best New Restaurant in America.
+- James Beard Awards and Expectations:
+  - Background on the James Beard Awards, considered the Academy Awards of the food world.
+  - The protagonist desires to attend the awards, which could solidify their place in the dining world.
+  - Nomination expectations and concerns about competing against Olmstead restaurant.
+  - The protagonist considers paying for a ticket, but it's expensive.
+- Persuading to Attend the Awards:
+  - The protagonist discusses the awards with Stephen Starr, wanting to be part of the event.
+  - Weissmann joins in persuading Stephen to allow the protagonist to attend.
+  - Stephen agrees, and the protagonist is excited but keeps it quiet.
+- The Awards Ceremony:
+  - The anticipation and tension build during the long awards ceremony.
+  - Best New Restaurant category is called, and Le Coucou wins.
+  - Emotions of joy and excitement fill the room as the restaurant's victory is celebrated.
+  - Stephen Starr's nomination and the uncertainty of winning due to previous attempts.
+  - Stephen Starr wins the award and is recognized by Ken Friedman of the Spotted Pig.
+- Reflection:
+  - The protagonist reflects on their journey in the restaurant industry.
+  - Feeling validated and proud of their achievements after years of challenges.
+  - Stephen Starr's victory is celebrated by his team.
+
+## Epilogue
+- Observing the Restaurant Scene Amid Pandemic:
+  - The protagonist is in a restaurant with their daughter Olivia after two years of pandemic.
+  - They observe a young, inexperienced server and reminisce about their early days in the industry.
+  - Reflecting on how their own journey started, they appreciate the restaurant's atmosphere.
+- The Evolution of the Restaurant Industry:
+  - The protagonist recalls their own entry into the restaurant industry with zero experience.
+  - Many workers entered the industry temporarily but ended up staying, while others left due to challenges.
+  - Some left due to abusive customers, long hours, and the toll on their physical and mental well-being.
+  - The industry has claimed lives, including victims of a previously incurable disease.
+- Personal Evolution and Impact on Relationships:
+  - The protagonist reflects on their personal journey, growing up, getting married, and having children.
+  - The demands of the restaurant business took a toll on relationships due to unconventional schedules.
+  - The stress of being away from family and home, cycle of relationships, and its impact is acknowledged.
+- Changing Landscape and New Opportunities:
+  - The pandemic created changes and reflections within the industry.
+  - People refused to return to abusive jobs, resulting in restaurants desperately seeking help.
+  - Some restaurants now offer better pay and benefits, potentially elevating the perception of restaurant jobs.
+- Nostalgia for the Restaurant Environment:
+  - The protagonist misses the camaraderie, energy, and unique experiences of working in a restaurant.
+  - They remember the details of running a restaurant, interacting with staff, and engaging with guests.
+  - Even challenging aspects of the job hold a sense of nostalgia and fondness.
+- A New Beginning:
+  - The protagonist shares thoughts with their daughter about their future after the pandemic.
+  - Olivia encourages the protagonist to open their own restaurant called "Cecchi's."
+  - The protagonist considers opportunities due to pandemic-related closures and finds a suitable space.
+  - They've taken a leap of faith to create their own restaurant, acknowledging the challenge of success.
+- Embracing the Industry's Allure:
+  - Despite the challenges, the protagonist acknowledges their love for the restaurant industry.
+  - They feel compelled to return and feed their addiction to the business.
+  - Determination to succeed and the joy of welcoming guests back to their table is emphasized.
+

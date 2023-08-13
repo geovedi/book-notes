@@ -1,0 +1,950 @@
+# Confidence Man
+Author: Maggie Haberman
+
+## Prologue
+- Introduction
+  - The passage discusses a phone call with Donald Trump about his response to support from David Duke, a former Ku Klux Klan leader.
+  - Trump's uncertainty and seeking cues from others in his statements are highlighted.
+- Trump's Personality and Approach
+  - Trump's tendency to seek approval and adapt his statements to his audience is noted.
+  - His desire for fame and charisma, along with his willingness to repeat statements for them to become true, are highlighted.
+  - The "Good" and "Bad" versions of Trump's personality are discussed, showing a complex character.
+- Path to Politics
+  - Trump's desire to become a star guided his career, leading him to TV shows like "The Apprentice."
+  - He thrived on repetition and self-promotion, building his brand.
+- Presidency and Impact
+  - Trump's presidency capitalized on existing divisions and exploited cultural divides, fueling polarization.
+  - His presidency changed the Republican Party's policy orientation on various issues.
+  - He achieved significant accomplishments, including Supreme Court appointments, Middle East peace accords, and economic growth.
+- Trump's Reaction to Loss
+  - Trump's focus on a second term and his refusal to accept the 2020 loss are highlighted.
+  - He encouraged followers to march on the Capitol, leading to the January 6, 2021, events.
+- Personality Traits and Influences
+  - Trump's behavior was shaped by mentors like Norman Vincent Peale, George Steinbrenner, and Roy Cohn.
+  - He often projected confidence, practiced bullying, and created an atmosphere of competition among his staff.
+  - His behavior influenced those around him to adopt similar tactics.
+- Journalist's Perspective
+  - The author's personal experiences covering Trump are shared.
+  - Trump's thin-skinned and media-centric behavior, as well as his penchant for anger and manipulation, are discussed.
+
+## The Power of Negative Thinking
+- Donald Trump's Early Life and Business Ventures:
+  - Donald Trump, a non-drinker and non-smoker, sought acceptance in exclusive clubs like Le Club.
+  - His initial attempts to join such clubs were met with rejection, but he persisted and eventually gained entry.
+  - Trump faced challenges in his early days at the family business, including legal troubles related to discriminatory rental practices against Black tenants.
+- Investigations into Trump's Business Practices:
+  - Trump Management, Inc., owned by Fred Trump and led by Donald Trump, was sued by the federal Justice Department for discriminatory rental practices against Black tenants.
+  - Civil rights groups and the government had been investigating the Trumps for years due to their discriminatory practices.
+  - Trump Village, Fred Trump's apartment complex, had minimal Black tenants, and potential Black tenants faced obstacles in renting apartments.
+- Roy Cohn's Influence on Donald Trump:
+  - Roy Cohn, a well-connected New York lawyer, became Trump's mentor.
+  - Cohn had a controversial past, including involvement in the Rosenberg espionage case and the Lavender Scare.
+  - Cohn taught Trump that everything could be treated as a transaction, and personal liking played a significant role in dealings.
+- Roy Cohn's Traits and Approach:
+  - Cohn was both feared and respected, known for his tough and aggressive approach.
+  - He had connections with influential figures in media, politics, and entertainment.
+  - Cohn's approach involved emotional manipulation and leveraging friendships.
+- Cohn's Role in Trump's Life:
+  - Trump met Cohn in 1973 during the housing-discrimination lawsuit, and Cohn advised him to fight it in court.
+  - Despite Cohn's unconventional personality and appearance, Trump valued his advice and political savvy.
+  - Trump learned that having people like you and owing favors determined a person's worth, as taught by Cohn.
+- Trump's Ideal Lawyer and Presidency:
+  - Throughout his presidency, Trump compared his lawyers to Cohn and found them lacking.
+  - Trump believed that none of his lawyers were as effective and tenacious as Cohn.
+- Central Theme - Transactional Approach:
+  - A central lesson from Cohn to Trump was the idea that everything, including relationships and professional roles, could be approached as transactions.
+- Overall Impact of Cohn on Trump's Life and Approach:
+  - Cohn's influence left a lasting impact on Trump's views and actions, shaping his approach to business, politics, and personal interactions.
+
+## Welcome to Fear City
+- Trump's Early Business Endeavors and Legal Issues:
+  - Richard Ravitch's encounter with Trump regarding tax exemption for the Commodore Hotel.
+  - Trump's pursuit of tax exemption due to high taxes in New York during fiscal crisis.
+  - Trump's approach of using falsehoods and complaints as a defense strategy.
+  - Trump's countersuit against the federal government for $100 million.
+  - Trump's association with lawyer Roy Cohn.
+  - Trump's interactions with government officials, legal tactics, and eventual settlement.
+- Penn Central Properties and Trump's Image Transformation:
+  - Trump's interest in Penn Central's West Side rail yards.
+  - Trump's ambitions to differentiate from his father and develop Manhattan.
+  - Acquisition of property parcels from Penn Central.
+  - Focus on the Commodore Hotel attached to Grand Central Terminal.
+  - Efforts to secure tax abatement and approvals for projects.
+  - Manipulating the press and public image with PR executive Howard Rubenstein.
+- Marriage to Ivana Zelnickova and Legal Preparations:
+  - Trump's attraction to Ivana Zelnickova.
+  - Ivana's background and experiences before meeting Trump.
+  - Roy Cohn's role in advising and drafting a prenuptial agreement.
+  - Trump's wedding to Ivana and the ceremony's prominence.
+- Trump's Nightlife and Media Attention:
+  - Trump's engagement in New York City nightlife, including Studio 54.
+  - Journalist Wayne Barrett's investigation into Trump's activities.
+  - Barrett's thorough research, meticulous documentation, and deep involvement.
+  - Initial contact between Barrett and Trump.
+
+## Fifth Avenue Frieze-Out
+- Donald Trump's Early Business Ventures and Connections:
+  - Wayne Barrett's articles on Donald Trump's early business endeavors and strategies were published in The Village Voice in 1979.
+  - These articles detailed Trump's acquisition of the West Side rail yards and the circumstances surrounding it.
+  - Barrett's in-depth reporting served as a roadmap for a criminal investigation led by U.S. attorney Edward R. Korman into Trump's dealings.
+- Legal Troubles and Investigations:
+  - Korman's office investigated whether Trump's dealings with lawyer David Berger involved inducing support in exchange for joining a price-fixing lawsuit against oil companies.
+  - Trump's involvement with Penn Central properties, including the Grand Hyatt and a convention center, yielded mixed results.
+  - The investigation relied on a weak witness and a looming statute of limitations for a potential fraud charge.
+  - Trump blamed Barrett for the investigation, but it did not leak to the press, and Trump eventually shared his experience.
+- Connections and Relationships with Influential Figures:
+  - Trump learned the value of appealing to prosecutors and officials directly to avoid trouble.
+  - He had connections with Democratic machine leaders in Brooklyn and cultivated relationships with influential figures like Robert Morgenthau and Rudolph Giuliani.
+- Trump's Ambitions and Business Ventures:
+  - Trump embarked on the construction of Trump Tower, a mixed-use skyscraper on Fifth Avenue, which brought attention and controversies.
+  - Trump's relationship with the city's cultural elite was ambivalent, as he sought validation but also rejected it.
+  - He started building relationships in Atlantic City and ventured into casino development.
+  - He navigated the complex world of New Jersey's gambling regulations and formed connections with influential individuals, some with alleged mob ties.
+- Legal Battles and Tactics:
+  - Trump's fight for a tax abatement on Trump Tower led to legal battles and tensions with Ed Koch's administration.
+  - He used lawsuits and threats to try to secure the tax abatement, ultimately winning after years of litigation.
+  - Trump's approach to legal challenges and his interactions with officials were characterized by aggressive tactics and manipulation.
+- Continued Reliance on Family and Patronage:
+  - Despite his public image, Trump continued to rely on his father's financial support and connections.
+  - Fred Trump played a crucial role in Donald's dealings, helping secure deals and lending credibility to his endeavors.
+  - Even as Donald gained fame, he maintained a sense of needing his father's approval and authorization for his pursuits.
+
+## Blind to the Beautiful Mosaic
+- Trump's Views on Race Relations and Affirmative Action:
+  - In a 1989 interview, Trump expressed his views on race relations and affirmative-action policies.
+  - He believed that well-educated Black individuals had an advantage in the job market over well-educated white individuals.
+  - Trump's comments were met with shock and disbelief from other participants, including filmmaker Spike Lee.
+  - This incident highlighted Trump's perspective on racial dynamics and his controversial statements.
+- Racial Tensions and Incidents:
+  - In 1989, Trump's interview coincided with the Central Park assault case involving Black teenagers, which fueled racial tensions.
+  - Yusef Hawkins, a Black teenager, was killed by a white mob in Bensonhurst, Brooklyn.
+  - Racial epithets and tensions were prevalent in the aftermath of the incident, further dividing the city along racial lines.
+  - The election of David Dinkins as the first Black mayor was a significant moment in New York's history, reflecting changing demographics.
+- Dinkins' Mayoral Term and Giuliani's Challenge:
+  - Dinkins' election marked a coalition of Black and Latino voters, white liberals, and Jewish voters.
+  - Racial tensions continued during Dinkins' term, including the Crown Heights riots and clashes between the NYPD and the Black community.
+  - Giuliani emerged as a strong challenger to Dinkins, emphasizing his role as an outsider and law-and-order candidate.
+- Trump's Entry into Politics and Racial Perceptions:
+  - Trump's interest in politics emerged during this period, marked by his racially influenced viewpoints.
+  - He believed racial conflict was inevitable and viewed the United States through a lens of tribal division.
+  - Alan Marcus tried to provoke Trump's response to changing demographics, to which Trump predicted a revolution rather than a shift in majority population.
+- Sharpton and Trump: Parallel Paths and Interactions:
+  - Al Sharpton and Donald Trump both emerged in the 1980s as influential figures in New York's political landscape.
+  - Sharpton gained attention through advocacy for Tawana Brawley and maintained a strong presence despite controversies.
+  - Both Trump and Sharpton navigated their way into Manhattan's spotlight and faced opposition from various establishment segments.
+  - While not friends, their paths crossed several times until a major rupture after the 2016 presidential campaign.
+- Trump's Relationships with King and Tyson:
+  - Trump's interactions with boxing promoter Don King and boxer Mike Tyson were significant.
+  - Despite a conflict of interest, Trump became a paid adviser to Tyson and stood by him during legal troubles.
+  - Trump's transactional approach to relationships was evident in his association with both King and Tyson.
+- Reflections on Trump's Parallel to Don King:
+  - Sharpton drew a parallel between Trump and Don King, highlighting their transactional natures.
+  - Both were seen as figures driven by self-interest, with everything being transactional in their perspectives.
+
+## On the Way Up
+- Trump's Early Endeavors and Business Approach
+  - Trump's journey into the business world began in real estate and casinos.
+  - He aimed to create an image of success and attract attention.
+  - He cultivated connections and used strategic branding.
+- Collaboration and "The Art of the Deal"
+  - Trump collaborated with writer Tony Schwartz on his book "The Art of the Deal."
+  - The book highlighted Trump's daily life, interactions, and business philosophy.
+  - Schwartz came up with the book's title.
+- Venturing into Global Business
+  - Trump's interest in a Moscow hotel project showed his global business ambitions.
+  - Despite warnings, he visited Moscow and engaged in discussions.
+  - He portrayed himself as having potential political skills and insights.
+- Political Ambitions and Public Image
+  - Trump hinted at political aspirations in the 1980s.
+  - He received advice from political consultants and strategists.
+  - Stone saw potential in using Trump's book as a launchpad for a presidential campaign.
+- Testing Political Waters
+  - Stone orchestrated efforts to test Trump's appeal in national politics.
+  - Trump's popularity was assessed through polling and surveys.
+  - He attended political events and explored the idea of joining the Republican ticket.
+- Media, Public Perception, and Policies
+  - Trump manipulated media and perception to bolster his image.
+  - His book's success enhanced his reputation despite limited achievements.
+  - He expressed populist viewpoints on foreign trade and international relations.
+- Challenges in Political Philosophy
+  - Trump's political philosophy was often superficial and lacked depth.
+  - He gravitated towards terms like "supremacy" to express his worldview.
+  - His ideas were influenced by a rentier economy perspective.
+
+## On the Way Down
+- Trump's Relationships and Marital Troubles:
+  - Trump was associated with Roy Cohn and Estée Lauder, who introduced him to elite society.
+  - He had multiple relationships while married to Ivana, which led to their divorce.
+  - Estée Lauder advised Trump to "grow up" and save his marriage.
+- Financial Struggles and Family Support:
+  - Trump faced dire financial challenges, with a negative net worth of up to $294 million.
+  - His father, Fred Trump, provided financial assistance through an unreported loan using casino chips.
+  - Trump was put on an allowance and struggled with his Taj casino's financial troubles.
+- Media Coverage and Attacks on Critics:
+  - Journalist Neil Barsky wrote about Trump's financial state and dealings, exposing his financial challenges.
+  - Trump attempted to discredit Barsky and other journalists critical of him.
+  - Trump's tactics included providing freebies and attempting to silence critics.
+- Business Recovery and Relationships:
+  - Banks negotiated with Trump and provided bridge loans to keep him afloat.
+  - Banks chose to let Trump survive due to the impact on jobs and tax revenue.
+  - Trump's personal salesmanship played a role in persuading lenders to support him.
+- Tax Strategies and Business Losses:
+  - Trump's reported personal losses of $916 million in 1995 allowed him to write off substantial taxes.
+  - Senior executives left Trump's company amid financial difficulties and internal conflicts.
+- Business Decline and Personal Brand:
+  - Trump's casinos faced bankruptcy, and he lost control over several properties.
+  - Trump's personal brand and projection of strength mattered more than his actual financial situation.
+  - Despite setbacks, Trump aimed to regain his status and success.
+
+## Nice and Complicated
+- Introduction: Trump's Return to Broadway
+  - On August 3, 1992, Marla Maples debuted on Broadway's Palace Theatre in a cowboy outfit for "The Will Rogers Follies."
+  - Trump had helped launch her acting career after their relationship began.
+  - Trump's involvement in cultural events and business changes during this time are explored.
+- Trump's Changing Lifestyle and Empire:
+  - Due to divorce and corporate bankruptcies, Trump lost many of his assets in the 1980s.
+  - He had to give up trophies, change his property portfolio, and adjust business plans.
+  - He faced challenges with a proposed skyscraper project and sought outside investors to avoid bankruptcy.
+  - His property acquisitions were more modest, and he remained an isolated figure in New York real estate.
+- Trump's Isolation and Media Relations:
+  - Trump desired elite approval but remained an isolated presence.
+  - He valued positive media coverage but struggled to acquire it due to his past dramas.
+  - He shifted from being seen as a predator to portraying himself as a victim of outside forces.
+- Trump's Family and Business Dynamics:
+  - Fred Trump's declining health due to Alzheimer's and Donald's control over the family business.
+  - Changes in the Trump Organization's leadership and advisers.
+  - Efforts to rebuild Trump's casino empire, including a public offering in 1995.
+  - Ribis and other advisers played crucial roles in Trump's decisions and interactions.
+- Trump's Business Ventures and Personal Life:
+  - Trump's involvement in the Miss Universe, Miss USA, and Miss Teen USA franchises.
+  - His desire to associate with beauty aesthetics and his focus on promoting his lifestyle.
+  - His turbulent relationship with Marla Maples, their marriage, and eventual separation.
+  - Trump's strategy of using public relations to shape his narrative of success and comeback.
+- Trump's Quirks and Business Approach:
+  - Trump's unorthodox management style and business practices.
+  - His isolation of executives and preference for keeping information siloed.
+  - Instances of paranoia, office conflicts, and his desire for dominance and control.
+  - Examples of his unpredictable behavior, like the gold bricks incident and the Pizza Hut ad.
+
+## The America We Deserve
+- Trump's Political Ambitions and Rise to Fame:
+  - Trump's political ambitions date back to the late 1980s.
+  - Roger Stone played a significant role in advising Trump on his political endeavors.
+  - Stone believed Trump could succeed outside the two-party system, possibly through the Reform Party.
+  - Ross Perot's establishment of the Reform Party provided an avenue for outsider candidates.
+  - Trump's initial exploration of a presidential run in 1999 as a Reform Party candidate.
+  - Stone recognized Trump's existing brand and popularity as crucial for his political pursuits.
+- Trump's Stance on Issues and First Candidacy Attempt:
+  - Trump's political affiliation was uncertain; he identified as a registered Republican but held some liberal views.
+  - He struggled to articulate his positions on issues such as abortion and healthcare.
+  - Trump engaged in a public spat with Pat Buchanan, a prominent Reform Party contender.
+  - After a few months, Trump decided not to continue his quasi-campaign, citing doubts about winning and concern over splitting the conservative vote.
+  - Despite not officially declaring, Trump won Reform Party primaries in California and Michigan.
+- Post-9/11 and The Apprentice:
+  - After the September 11 attacks, Trump's focus shifted to his business interests and his tower's visibility.
+  - Trump's involvement in Ground Zero, high-fiving responders and expressing concern for his "men."
+  - His association with Rudy Giuliani and the use of his private jet during the aftermath.
+  - The Apprentice, a reality TV show, became a massive success, making Trump a television star.
+  - The show's structure, tasks, and catchphrase ("You're fired") capitalized on Trump's public persona.
+  - Trump's financial struggles, bankruptcies, and his reality TV role created an interesting juxtaposition.
+- The Seduction of Television Stardom:
+  - Trump's success on The Apprentice was a turning point, providing financial stability and celebrity status.
+  - Trump negotiated a higher salary and benefits, demonstrating his leverage with the network.
+  - Disparity between the show's image of Trump's business empire and its actual state.
+  - Trump's newfound reality TV fame began to shape his public perception.
+  - The show's success set the stage for Trump's later political rise and public perception.
+
+## Asphalt Survivor
+- Trump's Political Maneuvering and Lobbying Efforts:
+  - In 2000, opposition ads emerged against a tribal casino deal in New York's Catskill Mountains, criticizing Governor George Pataki's involvement.
+  - The Institute for Law and Society, fronted by Roger Stone, placed the ads to protect Trump's Atlantic City interests.
+  - Stone and Trump aimed to mobilize political power against tribal casinos, meeting with State Senate majority leader Joe Bruno to discuss a related bill.
+  - Trump was fined for failing to disclose his involvement and had to issue a public apology.
+- Relationships with Prosecutors:
+  - Trump cultivated relationships with prosecutors, including Manhattan District Attorney Robert Morgenthau and U.S. Attorney for New Jersey Chris Christie.
+  - These relationships were built on personal rapport and influence, but prosecutors like Morgenthau had different priorities from unelected officials like David Grandeau.
+- Trump's Public Image and Popularity:
+  - Trump's public image transformed after the success of "The Apprentice," making him more appealing to the general public.
+  - He appeared on various media platforms, including Howard Stern's show, where he engaged in boastful and controversial conversations.
+  - His branding efforts extended beyond buildings to products like Trump Vodka, Trump Steaks, and more.
+  - Despite his business setbacks, he maintained an active presence in pop culture.
+- Legal Battles and Financial Matters:
+  - Trump's lawsuits against Tim O'Brien's book "TrumpNation" and his claims of being worth billions were unsuccessful.
+  - His explanations about his net worth's fluctuations raised questions about his financial transparency.
+  - Deutsche Bank remained one of the few lenders willing to engage with Trump, as he focused more on branding rather than building.
+- Continued Political Activities and Alliances:
+  - Trump's involvement in politics continued with his participation in lobbying efforts against opponents and alliances with Roger Stone.
+  - Stone's strategy of promoting resentment politics aligned with Trump's interests in challenging the political establishment.
+
+## 140 Characters
+- Late 2000s: Trump's Prolific Book Writing
+  - In the late 2000s, Donald Trump published numerous books, often rehashing business advice and using interchangeable titles.
+  - His books, around thirteen since "The Apprentice," covered similar topics under various titles.
+- Introduction to Twitter and Trump's Engagement
+  - In 2009, publisher Vanguard Press introduced Trump to Twitter through its online-marketing director, Peter Costanzo.
+  - Trump created the account @realDonaldTrump and started engaging with fans directly.
+  - Despite initial uninspired self-promotion, he developed a unique and engaging voice on the platform.
+  - Twitter provided Trump with a quick, simple way to communicate and connect with followers.
+- Twitter's Role in Trump's Career and Political Ambitions
+  - Initially used for book promotion, Trump realized Twitter's potential for political engagement.
+  - As traditional businesses struggled, Trump's licensing deals brought income, but his broader portfolio faced challenges.
+  - Facing financial difficulties, he considered Twitter as a medium to promote his brand and ideas.
+  - Trump's reliance on older children like Don Jr. and Ivanka increased, and he considered a run for president.
+- Entering Politics: Transition to Republican Party
+  - Trump, once a Democrat, distanced himself from the party and leaned towards Republicans.
+  - The emergence of the Tea Party movement led to the Republican Party's transformation.
+  - Trump commissioned a survey to assess his alignment with Republican views, preparing for a potential political career.
+  - He met with figures like Steve Bannon and immersed himself in discussions about politics, including populism.
+- The Rise of Carl Paladino and the "Ground Zero Mosque" Controversy
+  - Carl Paladino, a Buffalo developer with no political experience, joined the political scene.
+  - He focused on opposing a Muslim cultural center near the World Trade Center site.
+  - Paladino's campaign was filled with controversies and divisive statements, gaining support from a certain voter base.
+- Trump's Involvement in Controversies
+  - Trump got involved in the "Ground Zero Mosque" issue by offering to buy shares from an investor.
+  - He showed a pattern of inserting himself into controversies even when they weren't directly related to him.
+  - Trump's engagement with conflicts and controversies demonstrated his growing influence and celebrity status.
+- Stone's Influence and Trump's Presidential Consideration
+  - Political operative Roger Stone became influential in shaping Trump's political aspirations.
+  - Stone's writing encouraged Trump's 2012 presidential run by highlighting his personal growth and stability.
+  - Trump was receptive to Stone's suggestions and ready to continue their partnership.
+
+## Rising on a Lie
+- Donald Trump's Political Ambitions and Tactics
+  - Trump's interest in politics began long before his formal presidential campaigns, with his donations to various politicians, including Democrats like Kamala Harris.
+  - He recognized the power of donations to influence politicians and openly stated his belief in using financial support to control outcomes.
+  - Unlike previous campaign cycles, Trump sustained and deepened his interest in politics after 2012, focusing on expanding his online presence and experimenting with social media.
+- Media Engagement and Strategy
+  - Trump engaged with various media outlets, both traditional and digital, to increase his visibility.
+  - Despite embracing social media, he remained dismissive of newer digital media outlets and favored traditional outlets that were present when he first became a public figure.
+  - Trump started using Twitter to push fake controversies and promote his business ventures, closely tracking his followers and retweets.
+- Exploring Political Opportunities
+  - Trump's interest in political office extended beyond presidential campaigns, considering a run for Governor of New York.
+  - Advisers believed winning a governorship could pave the way for a presidential bid.
+  - Skepticism existed about his commitment and political discipline, with doubts about his prospects in an overwhelmingly Democratic state.
+- Interactions with Chris Christie
+  - Trump's relationship with New Jersey governor Chris Christie included instances where Trump tried to exploit Christie's position for his own ambitions.
+  - Christie's confrontational style and potential candidacy for the presidency in 2016 mirrored aspects of Trump's approach.
+- Election Landscape and Republican Strategy
+  - After the defeat of Mitt Romney, the Republican National Committee commissioned an "autopsy" report to improve the party's appeal, including to the Latino population.
+  - Contrary to this recommendation, successful candidates in 2014 focused on themes of foreign threats and border security.
+  - The election atmosphere favored candidates who engaged in aggressive attacks on rivals, setting the stage for Trump's approach.
+- Trump's 2015 Presidential Campaign
+  - Trump's 2015 campaign differed significantly from his previous attempts, marked by the appointment of campaign manager Lewandowski.
+  - He started polling in Iowa and began taking his run for the presidency more seriously.
+
+## Make or Break
+- Introduction:
+  - In 2015, the author, a reporter at The New York Times, was approached by Sam Nunberg to break news about Trump's candidacy announcement.
+  - The author was initially skeptical due to Trump's previous announcements and antics.
+  - Despite skepticism, the author had taken Trump seriously as a political force since 2011.
+- Early Signs of Candidacy:
+  - Trump's advisers, including Nunberg and Roger Stone, maintained contact with the author.
+  - Trump had hinted at running for president multiple times but often pulled back before taking real steps.
+  - The author thought Trump never seriously intended to run for president but might have been manipulated.
+- Shaping Trump's Candidacy:
+  - Nunberg urged the author to meet with Trump to understand his campaign plans.
+  - Trump's initial disinterest in political issues; Stone and Nunberg suggested he focus on immigration.
+  - The idea of a physical barrier along the border resonated with Trump as a political cause.
+  - Trump's about-face on the birther issue due to potential backlash and the need for visible Black supporters.
+  - Meeting with David Pecker to neutralize potentially damaging stories.
+- Campaign Kickoff and Strategy:
+  - Trump's unconventional campaign kickoff with unscripted speech and controversial remarks.
+  - Trump's demagoguery and provocative statements captured headlines.
+  - Trump's unconventional campaign structure and reliance on a small inner circle.
+  - Brad Parscale as digital strategist with limited political experience.
+- Internal Dynamics and Disarray:
+  - Trump's history of fostering conflict among his staff.
+  - Lewandowski's role as campaign manager, close to Trump, and at times seen as a family member.
+  - Trump's tendency to favor sycophants, leading to a lack of constraints on his behavior.
+  - Internal feuds and firings within the campaign team.
+- Pledging Allegiance to the Republican Party:
+  - Trump's rise in the polls and his discussion of a potential exit strategy if his fortunes reversed.
+  - Trump's pledge to the Republican Party but leaving a trap door for changing his mind.
+  - Trump's tendency to keep his options open in various aspects of his life.
+
+## Many People Are Saying
+- Introduction
+  - The text discusses Donald Trump's presidential campaign and his use of controversial rhetoric and tactics to appeal to voters.
+- Trump's Anti-Muslim Sentiment
+  - Trump's campaign began in 2015 with anti-immigrant rhetoric, particularly targeting Mexican immigrants.
+  - The Paris attacks in November 2015 fueled his fear-based appeal, and he focused on anti-Muslim sentiment.
+  - He warned against Syrian refugees and suggested shutting down mosques, capitalizing on conservative anti-Muslim sentiment.
+- Vague Policy Proposals and Rhetorical Devices
+  - Trump used vague language and ambiguous statements, leaving room for interpretation and controversy.
+  - He expressed openness to a Muslim registry without clarifying his position.
+  - His rhetorical style involved vague pronouncements and filler descriptors like "many people are saying."
+- Media Reaction and Trump's Response
+  - The media covered Trump's statements, leading to controversy and confusion.
+  - Trump's campaign manager did not clarify his position, and Trump himself remained ambiguous.
+  - Journalists asked for details, but Trump avoided providing clear answers.
+- Trump's Embrace of Controversial Ideas
+  - Trump refused to distance himself from the possibility of registering Muslims, leading to criticism and condemnation.
+  - He used a pattern of vague pronouncements and ambiguous language to his advantage.
+  - He faced media backlash and criticism from opponents but continued to gain support.
+- Trump's Reactions to Criticism
+  - Despite controversies, Trump's popularity continued to rise, and predictions of his downfall proved wrong.
+  - His unique appeal was characterized by his ability to weather controversies and maintain support.
+- Trump's Interaction with Evangelicals
+  - Trump's connection with evangelical voters was surprising, given his unconventional behavior and rhetoric.
+  - Evangelical voters seemed willing to overlook his personal life and viewed him as a candidate who could address their concerns.
+- Campaign Performance and Strategy
+  - Trump's campaign lacked traditional organization and focused on large-scale rallies.
+  - His children monitored campaign activities but found disarray in some areas.
+  - Trump's confrontational style and outsider appeal resonated with voters.
+- Trump's Iowa Caucuses and Reaction
+  - Trump initially led in polls but came second in the Iowa caucuses.
+  - He accepted the result graciously but later claimed the caucuses were "stolen" from him.
+  - He complained about alleged infractions by Ted Cruz's campaign.
+- Trump's Primary Victories and Endorsements
+  - Trump's campaign gained momentum with victories in New Hampshire, South Carolina, and Nevada.
+  - He secured major endorsements, including New Jersey Governor Chris Christie's.
+- Controversy Over White Supremacist Support
+  - Trump received support from white supremacists due to his anti-immigrant and anti-protest rhetoric.
+  - He hesitated to disavow their support, using ambiguous language to address the issue.
+- Christie's Efforts to Push for Stronger Denouncement
+  - Chris Christie advised Trump to forcefully disavow white supremacist support.
+  - Trump promised to do so but suggested that some of these voters were important for him.
+
+## Stop the Steal
+- Trump's Foreign Policy and NATO
+  - Trump questioned honoring NATO commitments based on defense spending targets.
+  - Baltic nations facing threats from Russia; Trump downplayed concerns.
+  - Trump adopted a more Russia-friendly foreign policy stance.
+- Republican National Convention
+  - Trump's nomination at the RNC faced controversy and drama.
+  - Cruz's non-endorsement led to unity among delegates behind Trump.
+  - Trump focused on unrelated matters like an article about his ghostwriter.
+- Democratic National Convention and Email Controversy
+  - WikiLeaks released stolen DNC emails, disrupting the DNC.
+  - Clinton's private email server investigation gave Trump an ethics-based attack point.
+  - Russia's involvement in the hack; Trump's comments appeared to invite further hacking.
+- Trump's Putin Relationship and Financial Questions
+  - Trump's conflicting statements on his relationship with Putin.
+  - Stephanopoulos' interview confronted Trump about Russia and finances.
+  - Trump's frustration with follow-up questions and media coverage.
+- Controversial Photos and Media Defense
+  - Melania Trump's nude photos published by New York Post.
+  - Trump's team defends the photos as artistic and unrelated to current times.
+  - Miller defended the coverage, focusing on Trump's vision for the country.
+
+## The Sci-Fi Campaign
+- Overview of the Trump Campaign Dynamics
+  - Paul Manafort's brief tenure as Trump's campaign chairman was marked by dissatisfaction from Trump due to Manafort's work ethic and appearance.
+  - Steve Bannon replaced Manafort and was noted for his role in the campaign's transformation.
+  - Trump struggled to adjust his communication style and behavior, leading to media scrutiny and internal conflicts.
+  - Key figures in the campaign included Kellyanne Conway, Brad Parscale, David Bossie, and Rudy Giuliani.
+- Campaign Strategies and Focus
+  - Trump's campaign targeted Black voters by highlighting Clinton's past policies and controversial statements.
+  - Trump faced media questions about his "birther" claims regarding Obama's birthplace.
+  - The campaign focused on presenting false claims about Clinton's fitness and character.
+  - The media struggled to effectively handle Trump's frequent falsehoods.
+- Access Hollywood Tape and Fallout
+  - The release of the Access Hollywood tape, where Trump made vulgar comments about women, led to a crisis within the campaign.
+  - Many prominent Republicans criticized Trump, but his core supporters remained loyal.
+  - Trump's response to the controversy displayed his defiance against political correctness.
+- Debates and Final Stretch
+  - Trump performed well in the primary debates but faced challenges in one-on-one debates with Clinton.
+  - The Podesta email hack and the release of private speeches put Clinton's campaign on the defensive.
+  - Trump's communication approach shifted due to the campaign's changing circumstances.
+- Election Night and Victory
+  - Despite not expecting to win, Trump achieved victory on election night.
+  - Trump's victory speech conveyed a message of unity and outreach to those who had not supported him.
+- Overall Themes
+  - The narrative highlights Trump's unconventional communication style, reliance on falsehoods, and resistance against established political norms.
+  - The campaign's strategies included targeting specific voter groups, challenging opponents' character, and utilizing media dynamics.
+  - The Access Hollywood tape incident showcased Trump's resilience and defiance in the face of criticism.
+  - The election night victory marked the culmination of an unexpected journey.
+
+## No One Smarter
+- Trump's Initial Interactions with Obama and Transition Chaos
+  - After winning the presidency, Donald Trump met Barack Obama in the Oval Office.
+  - Trump admired Obama's high approval ratings and wanted to learn from him.
+  - Obama warned Trump about North Korea's potential threat and emphasized the importance of personnel choices.
+  - Obama urged Trump to preserve certain initiatives, including the Iran nuclear pact and an immigration policy.
+  - Trump seemed overwhelmed and disorganized during this transition period.
+  - Chris Christie's transition planning efforts were largely ignored, and Trump's children and advisers took over the process.
+- Trump's Unconventional Transition and Foreign Affairs
+  - Trump operated his transition from Trump Tower, ignoring diplomatic protocol.
+  - He suggested the UK appoint Nigel Farage as ambassador, violating norms.
+  - Trump engaged in impulsive personnel decisions, relying on loyalty and proximity.
+  - Foreign leaders attempted to establish direct contacts with him.
+  - Trump's interactions with foreign leaders lacked focus and included unconventional guests at his Trump Tower lobby.
+- Trump's Media Relations and Intelligence Briefings
+  - Trump berated media executives in a meeting, showing his discontent with coverage.
+  - He interacted with news anchors and executives with a mix of aggression and charm.
+  - Trump's transition team struggled with divisions and internal conflicts.
+  - Intelligence officials briefed Trump on Russian interference in the election.
+  - Trump viewed the intelligence as an attempt to discredit his victory.
+  - Trump's skepticism towards intelligence sources was evident, and he doubted the authenticity of the Access Hollywood tape.
+- Russian Interference and Dossier Revelation
+  - Trump confronted intelligence officials about Russian interference, expressing doubts.
+  - Trump was informed about a dossier detailing alleged ties to Russia.
+  - Trump denied the allegations and expressed anger towards CNN and media leaks.
+  - A press conference focused on business assets was dominated by discussion about the dossier.
+  - Trump's advisers grappled with the contents of the dossier and the larger intelligence assessment.
+  - Trump became fixated on the "golden showers" episode from the dossier.
+- Trump's Initial Interactions with Comey and Implications
+  - Trump's first encounter with FBI Director James Comey involved discussing the dossier.
+  - Trump saw Comey as a potential threat due to his handling of Hillary Clinton's email investigation.
+  - The interaction set the tone for Trump's relationship with intelligence and law enforcement officials during his presidency.
+
+## Why It's Presidential
+- Introduction:
+  - Shortly after his inauguration, Donald Trump hosted a reception at the White House with congressional leaders.
+  - Trump, a New Yorker, gravitated towards Chuck Schumer, a Democrat.
+  - Trump's affinity for the opposition worried his party.
+- Trump's Ineffective Leadership:
+  - Republican leaders desired a typical right-of-center president for their goals.
+  - Trump lacked qualities like conviction, temperament, curiosity, and honesty.
+  - Mitch McConnell found Trump lacked clear beliefs and was unprepared.
+  - Trump treated the presidency like a family business, imposing non-disclosure agreements on staff.
+- Manipulative Communication and Ineffective Staff:
+  - Trump raised ideas without revealing motives and gave vague directives.
+  - Trump's initial senior advisers were inexperienced in government.
+  - Kushner aimed to be a gatekeeper and shadow president.
+  - Bannon asserted influence through policy control and strategy.
+- Immigration Policies and Conflict:
+  - Kushner signaled pro-immigration reform stances but Miller and Bannon held anti-immigrant influence.
+  - Miller influenced a Muslim travel ban and anti-immigrant policies.
+  - Kushner's attempt at progressive outreach was met with conflict from Bannon.
+  - Bannon and Kushner had power struggles and conflicting ideologies.
+- Foreign Relations and Leadership Style:
+  - Trump's meetings with foreign leaders were erratic and unfocused.
+  - Trump's interactions with British Prime Minister Theresa May were disjointed.
+  - Trump showed a preference for construction projects and personal grievances.
+  - Trump lacked discipline and struggled with complex policy matters.
+- Intellectual Gaps and Leadership Inconsistencies:
+  - Trump's lack of economic understanding was evident.
+  - His focus shifted from Russia investigations to policy matters.
+  - Coats struggled to deliver briefings effectively to Trump.
+  - Kelly believed Trump's behavior was a result of inadequate staff support.
+
+## Out Like Flynn
+- Introduction:
+  - The text discusses events surrounding Michael Flynn, Donald Trump's national security adviser, during the transition period and early days of Trump's presidency.
+  - It reveals warnings about Flynn's suitability for the role and his interactions with Russian officials.
+- Flynn's Background and Transition:
+  - Michael Flynn joined Trump's campaign despite lacking significant foreign-policy experience.
+  - He was appointed director of the Defense Intelligence Agency under Obama but was later forced to resign due to erratic behavior.
+  - Flynn's controversial statements, involvement with Turkey's government, and interactions with Russian officials were causes for concern.
+- Initial Days in Office:
+  - Flynn's interactions with Russian Ambassador Kislyak raised suspicions.
+  - The FBI interviewed Flynn about these interactions and monitored Kislyak's calls.
+  - Flynn's misleading statements and subsequent resignation further intensified the investigation.
+- Trump's Response and Comey's Firing:
+  - Trump's initial response to Flynn's controversy was passive, but he soon became more involved.
+  - Comey informed Trump about the Steele dossier during a meeting on January 6.
+  - Trump fired Flynn after leaks and confrontations regarding his discussions with Kislyak.
+  - Trump's frustration with Comey's handling of the Russia investigation led to his firing.
+- Appointment of Special Counsel:
+  - The investigations led by special counsel Robert Mueller and congressional committees caused turmoil for Trump's presidency.
+  - Trump's interactions with investigators, his anger toward Sessions, and his anger toward Kushner's actions were highlighted.
+- Kushner's Role and Public Statements:
+  - Kushner's meetings with Russian officials and use of a private email server raised concerns.
+  - Trump's frustration with Kushner's public statements about the investigation was evident.
+
+## Executive Time
+- Trump's Habits and Preferences:
+  - Trump would give guided tours of his living spaces in the White House to visitors, often talking about his own image and prized possessions.
+  - He spent weekends at his private clubs, billing the government for security costs.
+  - Trump remade parts of the White House to suit his tastes, including adding extra TVs and Trump-branded toiletries.
+  - He brought a sense of exuberance to presidential perks like Air Force One and Marine One.
+- White House Dynamics:
+  - Melania decided to stay at Trump Tower after the inauguration, leaving Trump to move into the White House alone.
+  - Trump spent his mornings watching television, often tweeting about news and observations.
+  - His schedule shifted to start later and end earlier, reminiscent of his routine at Trump Tower.
+  - He often had difficulty sleeping and would call friends and allies as early as 5:00 a.m.
+- Trump's Management Style:
+  - Trump's management style was influenced by the last person he spoke to, often treating outside input as more valuable than advice from his staff.
+  - He held meetings in the White House residence, sometimes without proper vetting or organization.
+  - Trump was easily manipulated by his paranoia, leading to internal rivalries and leaks.
+- Influence of External Figures:
+  - Trump was influenced by a variety of external figures, including friends, business acquaintances, and media personalities.
+  - He often accepted input from those who had opposed him in the past, trying to win their support.
+  - Trump's paranoia led to him being easily swayed by those who played on his fears of disloyalty.
+- Staffing Issues and Chaos:
+  - Trump's management style made it difficult to control the White House staff and prevent internal conflicts from leaking to the media.
+  - His preference for avoiding confrontation and his tendency to avoid dealing with staffing issues caused further disarray.
+- End of Priebus's Tenure:
+  - Trump's dissatisfaction with Chief of Staff Reince Priebus led him to consider potential replacements.
+  - The internal strife between the Kushner and Bannon factions worsened the situation.
+  - The White House was characterized by public in-fighting and indecisiveness, leading to Trump's frustration.
+- Media Relations:
+  - Trump often complained about negative media coverage and questioned the sources of leaks.
+  - His management style and constant paranoia created an environment of suspicion and internal rivalry.
+
+## In the Tank
+- Resistance to Ivanka and Kushner's Role:
+  - John Kelly and Don McGahn resisted Ivanka Trump and Jared Kushner's influence, fearing lack of support.
+  - Trump's intention to announce their departure on Twitter was halted by Kelly's insistence on direct communication.
+- Influence and Conflicts:
+  - Trump's management style compelled his staff to vie for influence.
+  - Even Ivanka and Kushner faced power struggles and were not exempt from internal conflicts.
+  - Their hiring bypassed anti-nepotism laws, raising concerns about conflicts of interest.
+  - Kushner's limited divestment from his company raised questions about policy involvement.
+- Roles and Perception:
+  - Ivanka and Kushner were viewed as helpful guides by some, while seen as meddling by others.
+  - Their lack of experience with uncontrollable situations led to overbearing behavior.
+  - They focused on influencing personnel and the president's perception of his team.
+  - Attempts to label colleagues as "leakers" strained relationships.
+- Perception in the White House:
+  - Nicknamed "the royal couple" and "the interns," their influence persisted.
+  - Trump primarily trusted family members and those connected by marriage.
+- Policy Influence and Control:
+  - Kushner prevented Trump's meeting with Ronald Lauder on the Israeli-Palestinian conflict.
+  - Ivanka and Kushner shifted conversations from their legitimacy to fairness and credit for policy work.
+  - They switched voter registration to Republican and celebrated Bannon's departure.
+
+## The Greatest Showman
+- Undoing Obama's Legacy and Immigration Debate:
+  - Trump began dismantling Obama's policies from the outset of his presidency.
+  - The challenge of handling Obama's program on deportation suspension for immigrant children created internal conflicts.
+  - Trump's stance on the program vacillated between different factions and perspectives.
+- Influence and Policy Handling:
+  - Stephen Miller advocated ending the deportation program as part of tightening border policies.
+  - Kushner favored work-visa programs and advocated for immigrants' contributions.
+  - Trump aligned with different factions based on the moment, often swayed by the last person he spoke to.
+  - Pelosi recruited business leader Tim Cook to lobby Trump on immigration, but no concrete actions were taken.
+- Ending the Childhood-Arrivals Program (DACA):
+  - A coalition of attorneys general from Republican-leaning states threatened a lawsuit to end DACA.
+  - Trump's lack of certainty and conflicting views delayed a decision.
+  - Eventually, the program's protections were set to expire, with a call for Congress to find a permanent solution.
+  - Trump's statements showed his internal conflict on the issue.
+- Media Consumption and Influence:
+  - Trump continued to consume media heavily, responding as he did before becoming president.
+  - Trump established direct communication with Rupert Murdoch, seeking media support.
+  - Fox News provided a platform for Trump-friendly anchors and perspectives.
+- Ivanka and Kushner's Roles:
+  - Ivanka and Kushner's media approach resembled Trump's sensitivity to media coverage.
+  - Ivanka initially faced negative headlines but became more active in government over time.
+  - Ivanka and Kushner dipped into various policy areas, causing internal speculation.
+- Legislative Achievements and Stalemates:
+  - The Tax Cuts and Jobs Act united the Republican party and was signed into law.
+  - Trump expressed interest in pursuing bipartisan infrastructure legislation.
+  - Immigration debates led to government shutdown due to differing views and demands.
+  - Trump's unconventional perspective often hindered legislative negotiations.
+- Bannon's Narration and External Challenges:
+  - Bannon's influence on media narratives about the Trump presidency was significant.
+  - Michael Wolff's "Fire and Fury" exposed the chaotic atmosphere within the White House.
+  - Various book-length accounts delved into internal dysfunction and conflicts within Trump's circle.
+  - Bannon's statements suggested a belief that the special counsel probe wasn't a baseless witch hunt.
+
+## Taking a Bullet
+- Trump's State of the Union Address Preparation and Concerns:
+  - On January 30, President Trump was preparing for his first State of the Union address.
+  - He had achievements to boast about, including corporate responses to the tax cut and infrastructure-spending plans.
+  - Despite this, he remained fixated on removing Attorney General Jeff Sessions due to his recusal from the Russia investigation.
+  - Trump considered Cabinet members as replacements for Sessions.
+- Trump's Obsession with the Russia Investigation:
+  - Trump's fixation on the Russia investigation was apparent despite having real achievements.
+  - He wanted to control the investigation and was frustrated by his inability to influence it.
+  - White House counsel Don McGahn's testimony revealed Trump's efforts to control the investigation.
+  - Mueller's extensive conversations with McGahn rattled Trump.
+- Challenges and Disruptions from Investigations:
+  - The investigations were disruptive to Trump's administration, costing time, money, and focus.
+  - Some moments, like revelations about funding for the Trump dossier, heartened Trump's advisers.
+  - Trump's efforts to contain the investigations were met with resistance, particularly from Jeff Sessions.
+- Trump's Attempts to Influence the Justice Department:
+  - Trump tried to involve aides in unrelated Justice Department matters, like blocking the AT&T-Time Warner merger.
+  - He had fired key officials like the FBI director and the prosecutor for Manhattan.
+  - He considered firing Sessions but was met with refusal.
+  - Trump's power to grant pardons became evident with the pardon of Joe Arpaio.
+- Michael Cohen and Legal Troubles:
+  - Michael Cohen's payment to Stormy Daniels became a legal concern.
+  - Cohen's involvement with Trump's business and the FBI raid worried Trump's legal advisers.
+  - Cohen's potential cooperation was seen as a threat by Trump's circle.
+  - Trump's change in legal strategy, including hiring Rudy Giuliani, marked a more aggressive approach.
+- Jared Kushner's Influence and Security Clearances:
+  - Kushner's influence grew, particularly in foreign relations and policy.
+  - He developed relationships in the Middle East and with Saudi Crown Prince Mohammed bin Salman.
+  - Kushner's security clearance became an issue, and Trump granted it despite concerns.
+  - Kushner played a significant role in Trump's political operation, managing fundraising and the 2020 campaign.
+- Overall Themes:
+  - Trump's fixation on the Russia investigation affected his presidency and policy efforts.
+  - His attempts to control investigations and influence the Justice Department led to conflicts and firings.
+  - Legal troubles, including Michael Cohen's case, posed challenges for Trump and his legal team.
+  - Kushner's expanding influence and security clearance issues showcased his role in the administration.
+
+## Extreme Action
+- Background and Embassy Move to Jerusalem:
+  - In 2018, the United States moved its embassy in Israel from Tel Aviv to Jerusalem.
+  - Previous presidents recognized Jerusalem as Israel's capital but didn't act on it due to geopolitical concerns.
+  - Sheldon Adelson, a major donor to Trump's campaign, played a role in advocating for the embassy move.
+- Trump's Governance Style:
+  - Trump learned to trust his instincts over experts and intelligence officials.
+  - He appointed non-traditional figures to ambassadorial roles and relied on advisers who aligned with his views.
+  - Trump was influenced by external voices like Fox News host Sean Hannity.
+- Foreign Policy Decisions:
+  - Trump shifted his stance on Afghanistan, opting for a troop increase and diplomacy.
+  - He imposed tariffs on steel and aluminum imports, defying warnings from advisers.
+  - Trump announced tariffs on China and Mexico, even against some advisers' opinions.
+  - He withdrew the US from the Iran nuclear deal and held a meeting with North Korean leader Kim Jong-un.
+- Immigration and Border Policy:
+  - Trump's obsession with building a border wall led to extreme ideas like painting it black or installing spikes.
+  - He pressed for harsh actions at the border, leading to the "zero tolerance" policy and family separations.
+  - After public backlash, Trump ended the family separation policy.
+- Trump's Relations with Putin and Other Leaders:
+  - Trump had an unusual relationship with Putin, discussing a joint cyber unit and trusting Putin's denial of election interference.
+  - He clashed with German Chancellor Angela Merkel and often preferred leaders with a strong persona.
+  - Trump praised Putin while undermining his intelligence officials' findings.
+- Departures of Key Figures:
+  - Mattis, Sessions, and others left the administration due to disagreements with Trump's policies.
+  - Mattis resigned over Trump's Syria withdrawal decision, and Sessions was fired.
+- Search for a Defender:
+  - Trump sought allies to defend him against the Mueller investigation.
+  - He appointed William P. Barr, a former attorney general under George H. W. Bush, who had previously criticized the investigation.
+
+## Party Man
+- Trump's Relationship with McCain and Internal Resistance
+  - Trump's contentious relationship with Senator John McCain.
+  - Flags lowered to honor McCain's death; Trump wanted them raised, causing backlash.
+  - McCain's opposition to Trump's policies and their clash during the 2016 election.
+  - Anonymous op-ed from a White House official discussing internal resistance.
+  - Taylor's warning about Trump's leadership and the subsequent hunt for the author.
+- Trump's Involvement in Party Politics
+  - Trump's involvement in party endorsements and conflicts within the Republican Party.
+  - Trump's ambivalent attitude towards the Republican establishment and the party's leadership.
+  - Changes in Republican leadership, with figures like Reince Priebus and Ronna McDaniel.
+- Personnel Changes and Trump's Leadership Style
+  - Kelly's efforts to impose order and Kelly's eventual departure as chief of staff.
+  - Trump's preference for loyalty and his interactions with potential chief of staff candidates.
+  - Mulvaney's selection as chief of staff.
+  - Kelly's view of Trump's flaws and his assessment of Trump as unfit for leadership.
+- Immigration Policies and Trump's Demands
+  - Trump's focus on immigration and border control throughout his presidency.
+  - Trump's dissatisfaction with Nielsen's approach to immigration and border issues.
+  - Trump's demands for more aggressive immigration policies, including closing the border.
+  - Nielsen's frustrations with Trump's expectations and his phone call outbursts.
+- Trump's Handling of Asylum and Border Security
+  - Nielsen's efforts to limit immigration through agreements with Central American governments.
+  - Trump's unrealistic demands for closing the border and denying asylum claims.
+  - Trump's interactions with Nielsen and their tense conversations about border issues.
+  - McAleenan's appointment as acting secretary and Trump's remarks about pardoning him.
+
+## Tougher Than the Rest
+- Rudy Giuliani's Role and Trump's Foreign Affairs
+  - Rudy Giuliani, as part of Trump's legal team, adopted an aggressive approach to attack the special counsel investigation.
+  - He attempted to shift public opinion on the matter and diminished potential witnesses.
+  - Giuliani's involvement in advocating for a prisoner swap involving a gold trader and a pastor raised concerns.
+  - Giuliani started discussing alleged corrupt schemes involving Joe Biden and Ukraine, which gained Trump's attention.
+- Mueller's Investigation and Report
+  - Special Counsel Robert Mueller's report on Russian interference in the 2016 election was a central focus.
+  - The "resistance" hoped Mueller's probe would lead to Trump's prosecution.
+  - Mueller's report established Russian interference and investigated potential obstruction of justice.
+  - Attorney General Barr summarized the report, concluding no conspiracy between the Trump campaign and Russia.
+- Trump's Foreign Policy and International Relations
+  - Trump's foreign policy often shifted between bellicose rhetoric and hesitations to take responsibility for casualties.
+  - Notable events included Trump's visit to North Korea, interest in acquiring Greenland, and his dealings with the Taliban.
+  - Trump's interactions with intelligence briefers showed his desire for attention and his mixed approach to security matters.
+- The Ukraine Scandal and Impeachment
+  - A whistleblower complaint alleged that Trump withheld military aid from Ukraine to gain political advantage.
+  - The complaint led to discussions about impeachment and a focus on Trump's interactions with Ukraine's president.
+  - Trump's interactions with congressional Democrats deteriorated as impeachment discussions intensified.
+  - Trump's reluctance to cooperate with Congress extended to gun control discussions and interactions with foreign leaders.
+
+## One Strike and You're Out
+- Trump's Leadership Style and Personal Dynamics:
+  - Donald Trump had weekly standing lunches with Mike Pence to discuss politics and policy.
+  - Pence used these lunches to offer counsel and run interference for Trump.
+  - Trump's relationship with Pence was complex; he enjoyed testing his loyalty.
+  - There were rumors of replacing Pence with Nikki Haley, but Trump didn't seriously consider it.
+  - Trump's leadership was impulsive and often driven by his personal preferences.
+  - He frequently changed his mind on staff and policies, leading to high turnover in his administration.
+  - Madeleine Westerhout served as a gatekeeper, but her dismissal removed a key warning system.
+- Trump's Reelection Campaign and Relationships:
+  - Trump's 2020 reelection campaign was launched with great anticipation but lacked a clear message.
+  - Jared Kushner played a central role in the campaign, but Trump's private remarks about him were mocking.
+  - Trump's loyalty to allies who helped him win seemed conditional and easily discarded.
+  - Trump's properties, including his hotels, became common venues for campaign events and fundraisers.
+- Foreign Policy and International Relations:
+  - Trump's interactions with world leaders were marked by strongman dynamics and a belief in his own expertise.
+  - Trump's dealings with Recep Tayyip Erdoğan of Turkey revealed his tendency to undermine his advisers.
+  - Trump's decision-making was often influenced by his own personal opinions and limited understanding.
+- Impeachment and Congressional Relations:
+  - Trump faced multiple articles of impeachment, responding with threats of legal action.
+  - He believed he could control the impeachment process, including going to the Supreme Court.
+  - Trump rallied Republican lawmakers against impeachment, giving them special attention.
+  - His personal grievances influenced his interactions with Democratic members of Congress.
+  - Trump's relations with Congress were marked by conflict and an inability to navigate traditional political dynamics.
+
+## Acquitted
+- Trump's Actions and Decisions:
+  - Donald Trump's post-holiday visit to Mar-a-Lago is described, where he interacts with guests and boasts about his recent overseas achievements.
+  - Trump ordered the killing of Iranian General Qassim Suleimani, prompting mixed reactions and concerns from advisors.
+  - The Suleimani strike became a cornerstone of Trump's re-election strategy, portraying strength and action.
+  - Trump's impeachment in the House of Representatives in 2019 is mentioned, but he was confident about Senate acquittal due to Republican majority.
+  - Trump's signing of a trade deal with China marked a foreign policy victory amid impeachment.
+  - Trump aims to surround himself with a loyal team, rejecting "Never Trumpers."
+- Personnel Appointments and Adjustments:
+  - Johnny McEntee, known for understanding Trump's desires, was appointed to oversee presidential personnel appointments.
+  - McEntee's role included vetting employees for loyalty to Trump's goals.
+- Changes in National Intelligence:
+  - Richard Grenell was named acting director of national intelligence.
+  - Grenell emphasized fact-based analysis and transparency in intelligence reports.
+  - Trump believed U.S. intelligence agencies were biased against him and made adjustments.
+- Trump's Reaction to Intelligence Briefings:
+  - Trump was briefed on election security measures by intelligence officials, but he abruptly interrupted the briefing to question their actions regarding Russia's interference.
+  - Trump expressed distrust and frustration towards his own intelligence agencies.
+- Impeachment Trial and Acquittal:
+  - The impeachment trial against Trump took place, involving charges related to Ukraine and Biden investigations.
+  - Trump's strategy involved pressuring Republican lawmakers for loyalty and blocking Democratic witnesses.
+  - Trump's acquittal in the Senate allowed him to claim vindication and focus on his re-election campaign.
+- Retaliation and Clemency:
+  - Trump sought vengeance against those he perceived as enemies, such as witnesses and prosecutors in the Mueller investigation.
+  - Trump commuted sentences for Roger Stone, Rod Blagojevich, and others with ties to his administration and cases.
+- COVID-19 and International Travel:
+  - Trump's response to the COVID-19 pandemic is highlighted, including his efforts to downplay its significance.
+  - Melania Trump's concern about the virus is noted.
+  - Trump's trip to India in the midst of the pandemic is mentioned, where he focused on avoiding germs and interacting with crowds.
+- Focus on Economy and Political Landscape:
+  - Trump recognized the impending impact of COVID-19 on the economy and his re-election prospects.
+  - He received polling data reflecting strong economic support but realized it would be overshadowed by the pandemic's effects.
+- Resistance to Adapting to Changing Circumstances:
+  - Trump struggled to adapt to changing rules and circumstances that were not aligned with his preferences.
+
+## Get Healthy America
+- Introduction and Initial Response to Coronavirus:
+  - In early January, when the World Health Organization's warning about coronavirus arrived, the Trump administration's focus was on vaping.
+  - Trump initially supported aggressive regulation of e-cigarettes due to concerns about children's access.
+  - He endorsed limits on flavored vaping products but later regretted it due to political concerns.
+  - The first case of coronavirus arrived in the US, prompting comparisons to the 2003 SARS outbreak.
+- Trump's Initial Approach and Response:
+  - Trump believed the US had the virus under control and trusted Chinese President Xi Jinping's transparency.
+  - Initial reluctance to impose travel bans from China, but later partial ban on travel.
+  - White House Coronavirus Task Force formed; Trump believed few other preparations were necessary.
+  - Downplayed the virus in interviews, comparing it to the flu, and wanted to treat it as a short-term issue.
+- Pandemic Escalation and Leadership Dynamics:
+  - Coronavirus declared a pandemic, affecting American life significantly.
+  - Disagreements within Trump's team regarding travel bans and preparations.
+  - Task Force press briefings marked by Trump's increasing involvement and messaging dominance.
+  - Mark Meadows became Chief of Staff and tried to control leaks and information flow.
+- Media Coverage, Reactions, and Trump's Involvement:
+  - Media attention on the pandemic grew, comparing Trump's response to Cuomo's in New York.
+  - Trump and Cuomo spoke regularly, and Trump appeared both solicitous and threatened by Cuomo's popularity.
+  - Trump's efforts to downplay the virus and boost his image led to media criticism.
+  - Trump's unorthodox behavior, including promoting hydroxychloroquine, caused concern among Republicans.
+  - Kushner's shadow task force and Operation Warp Speed became significant developments.
+- Vaccine Development:
+  - Despite skepticism, Operation Warp Speed aimed to develop a vaccine by the end of the year.
+  - Kushner and Meadows played influential roles in shaping the administration's responses.
+
+## Divide and Conquer
+- Barr's Warning and Trump's Behavior:
+  - Attorney General Bill Barr confronted Trump about his self-destructive behavior in spring 2020.
+  - Trump's advisers were concerned about his impulse to undermine institutions and his erratic behavior.
+  - Trump's refusal to adjust his conduct amid crises and his lack of response to COVID-19 harmed his image.
+- Trump's Handling of George Floyd Protests:
+  - George Floyd's death triggered widespread protests and discussions on racial discrimination.
+  - Trump expressed genuine outrage at Floyd's death but continued to view protesters negatively.
+  - Trump's response to the Black Lives Matter movement included provocative tweets and divisive rhetoric.
+  - He staged a controversial photo op at St. John's Episcopal Church, which backfired.
+- Trump's Use of Military and Polarizing Politics:
+  - Trump's desire to deploy military forces in response to protests caused tensions within his cabinet.
+  - Aides like Stephen Miller pushed for aggressive military action against protesters.
+  - Trump capitalized on the Black Lives Matter movement for political gain by portraying himself as a defender of the suburbs.
+  - He dismantled a fair housing rule, using racial and suburban divisions for his campaign.
+
+## Tulsa
+- Trump's 2020 Election Campaign and Challenges:
+  - Trump's campaign for re-election in 2020 faced challenges due to the COVID-19 pandemic.
+  - His rallies, a major campaign strategy, were halted by the pandemic's restrictions.
+  - Joe Biden, his opponent, used the pandemic to control his message and spotlight Trump's handling of the crisis.
+  - Trump's approval ratings consistently lagged behind Biden's, with his highest approval in March 2020.
+  - Internal campaign surveys showed Trump trailing Biden, causing frustration and anger.
+- Campaign Strategy and Polling:
+  - Trump sought consistent messaging and an issue like he had in 2016.
+  - He often questioned his staff's advice and relied on polling data to support his views.
+  - Trump shared polling data with Dick Morris, a political consultant, for advice.
+  - Sean Hannity and Jared Kushner also influenced campaign polling strategy.
+- Rally Missteps and Shifts:
+  - Trump held a rally in Tulsa, Oklahoma, on Juneteenth, a sensitive date due to its history of racial violence.
+  - Rally attendance was lower than expected due to fake signups by online tricksters.
+  - Trump's subsequent campaign stops were limited due to pandemic concerns.
+  - He opted for a major July 4 fireworks display at Mount Rushmore.
+- Changing Campaign Leadership:
+  - Parscale, the initial campaign manager, faced criticism for campaign spending and organization.
+  - Parscale was replaced by Bill Stepien, a seasoned strategist with prior campaign experience.
+  - Tensions between Stepien and RNC Chair Ronna McDaniel affected campaign dynamics.
+  - Trump considered bringing back Steve Bannon but ultimately maintained Kushner's role.
+- Campaign Events and Message:
+  - Trump attempted to shift campaign events to adapt to pandemic conditions.
+  - He held the Republican convention in Washington, emphasizing a message of endurance and recovery.
+  - Trump's campaign aimed to humanize him through personal stories and tributes.
+- Challenges and Conclusion:
+  - Trump's re-election campaign faced challenges due to the pandemic and messaging issues.
+  - His efforts to project empathy and control the narrative were at odds with his reputation.
+  - The campaign sought to move on from pandemic restrictions, reflecting the desires of his supporters.
+
+## Not One of the Diers
+- Introduction:
+  - On September 22, 2020, with the first presidential debate approaching, the US COVID-19 death toll crossed 200,000.
+  - Trump showed reluctance towards masks and social distancing despite his own experts' recommendations.
+  - Trump's fear of germs and self-destructive behavior shaped his response to the pandemic.
+- Presidential Debate and Trump's Behavior:
+  - Trump returned to rallies and rejected mask-wearing, even indoors, defying guidelines.
+  - He disregarded public opinion favoring mask mandates due to concerns of backlash from his base.
+  - Trump's approach to the pandemic was inconsistent, showing concern about germs but failing to recognize his role in spreading the virus.
+- COVID-19 Diagnosis and Response:
+  - Trump tested positive for COVID-19, initially downplayed the situation, and eventually confirmed his diagnosis.
+  - His condition worsened, requiring hospitalization at Walter Reed Medical Center.
+  - Trump's phobia of hospitals and illness influenced his reluctance to receive treatment.
+  - Trump's use of experimental monoclonal-antibody treatments and medical interventions contributed to his recovery.
+- Election Campaign Amidst Health Crisis:
+  - Trump's COVID-19 diagnosis disrupted his election campaign.
+  - Trump's focus on conspiracy theories and attacks on Biden's family overshadowed policy discussions.
+  - Trump's confidence in victory persisted despite internal concerns and polling uncertainties.
+- Election Night and Reaction:
+  - Trump's election night party started on a positive note with initial victories.
+  - The tide shifted as results came in, with Biden winning Arizona, leading to internal disputes.
+  - Trump resisted delivering a victory or concession speech, delaying his appearance on stage.
+
+## Trial by Combat
+- Election Challenge and White House Efforts
+  - Trump's post-election push to overturn election results.
+  - Allies' disbelief in Giuliani's tactics and Trump's interest in using the Justice Department.
+  - Trump's consideration of appointing a special counsel, but this idea was not pursued.
+  - Trump pressed acting AG Rosen to declare the election "illegal" and wanted a brief challenging results.
+  - Consideration of appointing Jeffrey Clark, met with resistance from top officials.
+  - Trump's pressure on officials in Georgia and his call with Raffensperger.
+- Congressional Certification and Capitol Attack
+  - Trump's political network's focus on congressional certification of electoral votes.
+  - Pence's ceremonial role in electoral vote count; some suggested he could refuse certain states' electors.
+  - Failed attempts to persuade lawmakers to challenge electoral votes on January 6.
+  - Trump's rally speech on January 6, encouraging supporters to march to the Capitol.
+  - Riot at the Capitol, resulting in deaths and arrests, Trump's delayed response.
+  - Trump's aides' appeals to him to intervene during the chaos.
+- Aftermath and Final Days
+  - Resignations and changes within Trump's administration post-January 6.
+  - Democrats moving to impeach Trump again.
+  - Rapprochement between Trump and Pence facilitated by Kushner.
+  - Trump's final pardons and clemency decisions.
+  - Trump's departure from Washington, not the way he envisioned it.
+- Reflection on Trump's Legacy
+  - Trump's belief in his right to a second term.
+  - His struggles and fall from power.
+
+## Epilogue
+- Building Projects and Relationships:
+  - Trump's initial attraction to building projects in Moscow was for glamour, but he realized ownership in Russia differs from the US.
+  - He valued glamour and had a penchant for people who had drifted in and out of his world, even reaccepting those he previously cut off.
+  - Various individuals, including Steve Bannon and Corey Lewandowski, played roles in his political journey, with mixed opinions about them.
+- Assessing Associates and Rivals:
+  - Trump spoke positively about some associates like Corey Lewandowski and Hope Hicks, while being critical of others like Mike Pence.
+  - He criticized those who mismanaged resources, like Brad Parscale, and attributed Kushner's power to his daughter's relationship.
+- Political Landscape and Legacy:
+  - Trump's presidency marked a realignment of political coalitions based on education, culture, and geography rather than traditional divides.
+  - The polarization of issues led to challenges in gaining credit, as seen with the vaccine response and Trump's complaints about the "radical right."
+  - Trump's behavior exposed new financial incentives and relativism in political behavior.
+- Changing Political Norms and Behavior:
+  - Trump's behavior challenged established norms, reflecting his willingness to use the government for his purposes.
+  - The Capitol riot revealed his involvement and his pattern of bullying behavior.
+  - Trump seemed to be ushering in a new era of behavior in politics, impacting politicians' actions and the national fabric.
+- Trump's Character and Actions:
+  - Trump displayed narcissistic, drama-seeking behavior with a fragile ego and bullying tendencies.
+  - His involvement in overturning Roe v. Wade showed his complex stance on certain issues.
+  - Trump's consideration of a third presidential campaign highlighted his ongoing political ambitions.
+- Interview Insights:
+  - Trump recognized his use of repetition to emphasize points in written interviews.
+  - His affinity for venting and seeking reactions led him to view others as his psychiatrists.
+  - Trump's opaque nature allowed people to read meaning into his actions, even if they were empty.
+
