@@ -1,394 +1,600 @@
-# Dinner with the President
-Alex Prud'homme
 
+# Dinner With the President
+Author: Alex Prud'homme
 
-## The Eighteenth and Nineteenth Centuries
-### George Washington
-- Christmas night 1777, Valley Forge, Pennsylvania, harsh winter, troops suffering hunger and cold.
-- George Washington: lost teeth, dentures causing pain and speech issues.
-- Continental army: food shortages, foraging, meager rations.
-- Local farmers and shopkeepers withheld food from rebels, sold to British, worsened scarcity.
-- Washington took drastic steps, punished profiteers, foraged food for troops.
-- Troops' strength returned, discovered hidden food, boosted morale, crucial for American Revolution success.
-- Food's political role in history, from ancient civilizations to early America.
-- Victory celebrations in American Revolution included feasts, symbolizing hope and prosperity.
-- George Washington's farewell dinner with officers at Fraunces Tavern, bountiful and elegant menu.
-- Washington admired for voluntary abdication of power, compared to Roman farmer Cincinnatus.
-- Mount Vernon: Washington's plantation, involved in production, sale, and consumption of food.
-- Breakfast at Mount Vernon: tea, coffee, hot chocolate, sliced ham, hoecakes.
-- Dinner: served promptly at 3 pm, various dishes, beer, wine in moderation.
-- Supper: light meal, cup of tea, reading newspapers.
-- Washington took role of presidency seriously, created new social rules and etiquette.
-- Martha Washington's family cookbook, "A Booke of Cookery," handwritten recipes from 1749 to 1799.
-- Cookbook: glimpse into culinary preferences and practices, exotic ingredients like ambergris and musk.
-- Recipes: stewed mutton, "a whipt possit," "pepper cakes."
-- Martha rarely cooked, enslaved people, especially head cook Hercules, responsible for meal preparation.
-- Hercules: skilled cook, worked over open flames, enslaved, faced limitations and restrictions.
-- In 1797, Hercules escaped from Mount Vernon, leaving the Washingtons without their esteemed cook.
-- Evolution of cooking and controlling fire significant in human evolution, led to larger brains and complex society.
-- President's House designed by James Hoban, mansion for President, Washington never lived to see completion.
-- Washington's food choices defined his presidency, symbol of nation's ideals despite reliance on enslaved labor.
+## George Washington
+- Introduction
+  - "A Booke of Sweatmeats" discusses sugar syrup clarification, fruit preserves, and medicinal recipes.
+  - Martha Washington's role in the kitchen and her slaves' involvement.
+- The First First Chef: Hercules
+  - Hercules, a skilled cook and slave, became the Washingtons' head cook.
+  - He played a pivotal role in preparing meals and planning menus.
+  - Description of Hercules's skills, discipline, and privileges.
+  - Hercules's escape from slavery in Philadelphia.
+- Evolution of Cooking
+  - Cooking food was a significant evolutionary leap, transforming human biology.
+  - Cooked food provides more energy and is easier to digest than raw food.
+  - Cooking allowed for the development of language, gender roles, and social groups.
+- The President's House and George Washington
+  - The construction of the President's House in Washington, D.C.
+  - George Washington's relationship with food and his role in shaping American identity.
+  - Washington's reliance on enslaved cooks and workers while advocating egalitarian ideals.
 
-### John Adams
-- John Adams, 2nd President of the US, known for frugal New England tastes in food.
-- Preferred simple fare: codfish cakes, potatoes, reflecting Puritan background.
-- Mornings: hard cider, "Baptist cakes" for health.
-- Abigail managed household, hosted receptions, "great dinners" for congressmen.
-- Entertained with New England dishes: Indian pudding, veal.
-- President's House (now White House) unfinished; Adams worked to make it hospitable.
-- John and Abigail hosted official opening reception on New Year's Day 1801.
-- First major social gathering at President's House, inaugurated entertaining at White House.
-- Adams lost 1800 election to Thomas Jefferson, returned to farm in Massachusetts.
+## John Adams, Dinner With the President
+- Introduction
+  - John Adams became the second President of the United States in 1797, and his presidency lasted until 1801.
+  - Adams and his wife Abigail were from a frugal New England background, known for their modest lifestyle.
+- Adams in the President's House
+  - John Adams took office as President, and the President's House in Washington, D.C., was still under construction.
+  - The mansion was unfinished, lacking basic amenities like running water and proper lighting.
+  - Adams moved to Washington from Philadelphia, where he had hosted minimal social events.
+- Abigail's Role and Challenges
+  - Abigail Adams, the First Lady, managed household affairs and social events, receiving visitors daily.
+  - Despite the challenges of a large, unfinished house and staffing issues, Abigail played a crucial role in maintaining the family's financial stability.
+  - The Adamses hired both white and free Black workers, facing difficulties due to the prevalence of alcohol abuse among staff.
+- Contrasts with Jefferson and Madison
+  - John Adams and Thomas Jefferson, who was Adams's vice president and successor, had differing social styles.
+  - Adams preferred small gatherings while Jefferson and Madison, from wealthier backgrounds, hosted lavish parties.
+  - Adams moved to Washington, D.C., and the city's social scene was just emerging.
+- The First Party
+  - The Adamses eventually hosted a housewarming party for the President's House on New Year's Day 1801.
+  - The event marked the opening of the White House to the public and inaugurated entertaining at the presidential residence.
+  - Abigail Adams, despite her husband's antimonarchist beliefs, played the role of a queenly host at the party.
+- Adams's Departure and Legacy
+  - John Adams lost the 1800 election to Thomas Jefferson, signaling a significant change in American politics.
+  - Jefferson's presidency marked a shift to the Democratic-Republican party and a new social era.
+  - Adams observed Jefferson's entertaining style with a mix of feelings from his Massachusetts farm.
 
-### Thomas Jefferson
-- Thomas Jefferson's inaugural dinner in 1801 set a new standard for food, wine, and conversation at the President's House.
-- Jefferson upgraded facilities, hired Frenchman Étienne Lemaire to oversee the kitchen.
-- Menu showcased a variety of foods: squirrel, rabbit, sturgeon, oysters, guinea fowl, turkeys, pheasants, partridge, squab, venison, etc.
-- Jefferson had a vegetable-forward diet, introduced ice cream to America as his signature dessert.
-- Hosted three congressional dinners a week to foster political relationships.
-- Feasting played a significant role in early societies, shaping various aspects of life.
-- Jefferson used dress and etiquette to promote a more egalitarian social system.
-- Jefferson's financial management was poor, spent extravagantly on food and wine, left him with heavy debts.
-- After his wife's death, Jefferson's appetite became a barometer of his mental health.
-- In Paris, he indulged in diverse French cuisine, brought slave cook James Hemings to learn French culinary style.
-- Jefferson's views on slavery were complex and contradictory.
-- Confirmed sexual relationship with slave Sally Hemings through DNA analysis.
-- Some descendants proud of relation, others condemn him for the relationship.
-- Food and sex linked since ancient times, both intimate and emotional experiences.
-- Witnessed French Revolution and storming of Bastille in 1789 while in Paris.
-- Promoted lighter wines for temperance and comfort in society.
-- James Hemings played a significant role in Jefferson's culinary endeavors and gained freedom.
-- Jefferson transformed Monticello into an agricultural laboratory, cultivating various herbs, fruits, and vegetables.
-- Heritage Harvest Festival celebrates Monticello's gastronomic legacy.
-- Rediscovery of Monticello's original kitchen sparked discussions on the contributions of enslaved chefs to American cuisine.
+## Thomas Jefferson
+- Thomas Jefferson and His Culinary Legacy
+     - Thomas Jefferson's contributions extend beyond politics; his culinary influence was also significant.
+     - Jefferson's passion for food, wine, and innovation shaped American cuisine.
+- Jefferson's Enigmatic Persona and Complicated Views on Slavery
+     - Jefferson's conflicting views on slavery and his complex domestic arrangements.
+     - His relationships with slaves, including Sally Hemings, raise questions about his moral stance.
+     - Contradictions in Jefferson's beliefs, ranging from anti-slavery sentiments to ownership of slaves.
+     - The tragic outcome of Jefferson's debts leading to the sale of slaves.
+- Jefferson's Time in Paris and Relationship with Sally Hemings
+     - Jefferson's time in Paris marked by socializing, relationships, and culinary exploration.
+     - Speculations about his relationship with Sally Hemings, a slave.
+     - Complex dynamics between Jefferson and Sally Hemings, and the controversy surrounding their relationship.
+- Jefferson's Return to America and Monticello
+     - Jefferson's return to the US and involvement in political roles.
+     - His development of Monticello into a diverse agricultural and culinary experiment.
+     - Details of Jefferson's expansive vegetable garden, livestock, and culinary innovations.
+     - Jefferson's experimentation with wine, agriculture, and his impact on American gastronomy.
+- Legacy and Reflections at Monticello
+     - Modern efforts to preserve Jefferson's culinary legacy and acknowledge his slave relationships.
+     - The importance of recognizing the roles of enslaved individuals in shaping American cuisine.
+     - Insights from descendants with dual connections to Jefferson and his slaves.
+     - The significance of reclaiming history and honoring the contributions of the enslaved.
+- Jefferson's Influence on American Taste
+     - The fusion of French techniques and diverse ingredients by Jefferson and his enslaved chefs.
+     - Jefferson's role in shaping American culinary tastes and the enduring impact of "Jefferson's Table."
 
-### James Madison
-- Dolley Madison: renowned hostess and political influencer, married James Madison after whirlwind romance.
-- Embraced role as First Lady, hosted large dinner parties, befriended influential figures.
-- Inclusive entertaining style, fostering political connections and cultivating loyalties.
-- Showcased special and regional dishes at dinner parties.
-- Madison White House became hub for political and social activity.
-- Wednesday night "drawing rooms" or "squeezes" were politically important events.
-- Skilled in diplomacy and tact, maintained harmony in divided political landscape.
-- Used silver snuffbox to disarm opponents and foster compromise.
-- Dolley Madison's role as First Lady precursor to modern First Ladies' responsibilities.
-- Famous moment during War of 1812, fled White House before British troops arrived.
-- Left bountiful dinner, British troops feasted and burned down the White House.
-- Dolley's resilience and positive attitude helped restore nation's morale after the war.
+## James Madison
+- Dolley Madison: An Influential First Lady
+  - Dolley Madison, wife of James "Jemmy" Madison, was an influential First Lady who played a vital role in shaping the role of the First Lady in American politics.
+  - While Jemmy was a reserved political figure, Dolley was a social activist, consummate hostess, and political fixer, often creating harmony and connecting with people.
+  - Despite personal tragedies, Dolley's warm personality, adept social skills, and political acumen made her an essential figure in Washington's social and political scene.
+  - She introduced the concept of presidential entertaining, hosting "drawing rooms" that brought together diverse crowds every Wednesday night at the Madison White House.
+- Dolley's Impact on Presidential Entertaining
+  - Dolley transformed the White House into a vibrant social hub, hosting gatherings that included people from various backgrounds, including foreign dignitaries, politicians, businessmen, and socialites.
+  - She meticulously orchestrated these events, using them as a means to cultivate political loyalties, project authority, and foster a positive image of the presidency.
+  - Dolley's charm, conversational skills, and knack for remembering names and faces helped her establish herself as a beloved hostess, regardless of political affiliations.
+  - Her social gatherings, known as "squeezes," played a significant role in bridging political divides and asserting her husband's leadership.
+- Dolley's Influence on Politics and Diplomacy
+  - Dolley's social gatherings had a political impact, even though she claimed to be uninterested in politics.
+  - She leveraged her relationships to push her husband's legislative agenda and staff key positions within the federal bureaucracy.
+  - Her diplomatic skills were evident when she diffused tensions with the British ambassador and strategically used her social grace to mend political fences.
+  - Dolley's use of snuff, a pinch of tobacco, became her secret weapon to defuse conflicts and gain political favor.
+- Dolley Madison's Legacy
+  - Dolley Madison's skillful navigation of the social and political landscape helped solidify the role of the First Lady as a powerful figure in American politics.
+  - Despite her outward neutrality, Dolley played a crucial role in supporting her husband's presidency and asserting his leadership.
+  - Her impact extended beyond her time, setting a precedent for future First Ladies to wield influence and contribute to political agendas.
+  - Dolley's enduring legacy is marked by her ability to use food, charm, and social tact to shape the political and social fabric of the nation.
 
-### Abraham Lincoln
-- Abraham Lincoln's 2nd inauguration: symbolized hope and danger during Civil War.
-- Lincoln's appearance suffered, lost appetite due to war stress.
-- Spartandiet: simple meals like one egg, black coffee for breakfast.
-- Mary Todd Lincoln prepared favorite dishes, but Lincoln's mind on war.
-- Lincoln had dreams of death and assassination attempts.
-- 2nd inaugural address urged compassion and unity.
-- Public reception and ball followed, revelers acted excessively.
-- Young Lincoln enjoyed frontier fare, raw honey, and corn dodgers.
-- During presidency, liked vanilla almond cake, potatoes, fruit, lemon pie, cornbread.
-- Lincoln had lean frame, never complained about food.
-- Corn played significant role in his diet, enjoyed corn dodgers.
-- Lincoln's life from young man to lawyer and politician.
-- Courtship with Mary Todd, shared interests, including her love for baking.
-- Domestic life, Mary's cooking and recipes.
-- Political career, rise in Whig Party, leader of Republican Party.
-- Lincoln used food imagery in politics to connect with common people.
-- Lincoln's election, beginning of Civil War.
-- Mary's struggles as First Lady, lavish spending, criticism.
-- Mary's extravagant dinner parties at Executive Mansion.
-- Lincoln's modest alcohol consumption, Mary's abstinence.
-- Willie and Tad's illness, impact on Mary Todd Lincoln.
-- Lincoln signs Emancipation Proclamation, Gettysburg Address, "Day of Thanksgiving."
-- Sarah Josepha Hale champions national Thanksgiving holiday, Lincoln endorses it.
-- Myth of "first Thanksgiving" more complex than portrayed.
-- Thanksgiving evolves into distinctly American celebration.
-- April 14, 1865: Good Friday, Lincoln called for dinner before assassination.
-- Lincoln's death deeply affected Mary Todd Lincoln.
+## Abraham Lincoln
+- Mary Todd Lincoln's Influence and Challenges During the Civil War
+  - Mary Todd Lincoln, wife of President Abraham Lincoln, faced criticism for her actions during the Civil War.
+  - While criticized by some, she was praised for her social judgment in hosting events at the White House.
+  - Her dining events were elaborate, showcasing decorations, music, and champagne punch.
+  - Both President Lincoln and Mary consumed alcohol sparingly, and Mary's abstinence was influenced by Sarah Josepha Hale's beliefs.
+- Tragedies and Heartbreak
+  - In 1862, during the Civil War, Willie and Tad Lincoln contracted typhoid fever, with Willie's condition worsening.
+  - Willie eventually died, leaving Mary devastated and unable to attend his funeral.
+  - Critics attributed Willie's death to the Lincolns' supposed frivolities at the President's House.
+- Thanksgiving's Evolution and Symbolism
+  - Thanksgiving's roots extend beyond the Pilgrims' feast, with earlier celebrations in various locations.
+  - Sarah Josepha Hale played a key role in establishing Thanksgiving as a national holiday.
+  - President Lincoln proclaimed a national "Day of Thanksgiving" in 1863, marking a moment of national reconciliation.
+  - Thanksgiving became more secular and widely celebrated over time, symbolizing unity and fellowship.
+- Thanksgiving's Complex Origins and Contemporary Celebrations
+  - The "first Thanksgiving" myth involving Pilgrims and Native Americans overlooks historical complexities.
+  - Thanksgiving's origins were not solely built around feasting; prayer and fasting were significant earlier components.
+  - The holiday's evolution included an emphasis on feasting, football, parades, and shopping.
+  - Thanksgiving serves as a communal celebration that transcends religious and consumerist aspects.
+- Lincoln's Tragic Fate and Mary's Suffering
+  - On April 14, 1865, Abraham Lincoln was assassinated while attending a play at Ford's Theatre.
+  - John Wilkes Booth shot Lincoln, who died the following day.
+  - Mary Lincoln was deeply traumatized by the event, and her experiences at the White House weighed heavily on her.
+  - Mary expressed profound sorrow over her husband's death and her struggles during their time in the White House.
 
-### Ulysses S. Grant
-- General Ulysses S. Grant becomes 18th President in March 1869.
-- Grants bring simple meat-and-potatoes tastes to White House, large extended family.
-- Presidency during Gilded Age, rapid economic growth and transformation.
-- First Lady Julia Grant revamps Executive Mansion, upgrades lifestyle.
-- Renovations, new china, furnishings create more elegant environment.
-- President Grant enjoys billiards and fast-paced activities.
-- White House open to public, entertains people from various backgrounds.
-- Grant family's dinner setup shifts from quantity to quality.
-- Julia Grant elevates dining experience, redecorates mansion.
-- Formal dinners with multiple courses introduced by steward Valentino Melah.
-- First state dinner for King Kalakaua of Hawaii in 1874.
-- Reciprocity Treaty boosts Hawaii's sugar export to U.S.
-- State dinner likely featured up to thirty courses.
-- Hawaiian sugar industry eventually declines, replaced by corn production.
-- Grant's presidency marred by scandals, financial difficulties.
-- Grant dies in 1885, Memoirs becomes best seller, providing financial relief to Julia.
+## Ulysses S. Grant
+- Hawaiian Cuisine and King Kalakaua's State Dinner
+  - Hawaiian cuisine shaped by immigration and amalgamation of various cultures.
+  - Sugar plantations led to a multicultural food culture in Hawaii.
+  - King Kalakaua's diplomatic visit to the United States, 1874.
+  - Reciprocity Treaty ratified, facilitating trade between Hawaii and the US.
+- Impact of Sugar Business and Corn Monoculture
+  - Hegemony of "big five" sugar plantations affected Hawaii's economy and culture.
+  - Reciprocity Treaty boosted Hawaii's exports and led to annexation concerns.
+  - Decline of Hawaiian sugar industry due to global competition and labor issues.
+  - Rise of corn as a major crop, leading to overabundance and various uses.
+- The Grant Family: Nellie's Wedding and Grant's Presidency
+  - Description of President Ulysses S. Grant's family and their activities.
+  - Nellie Grant's European vacation, romance, and marriage.
+  - Wedding details and celebration in the People's House.
+  - Grant's presidency marred by scandals, enrichment of friends, and family profiting.
+  - Grant's health issues, death, and successful Memoirs publication.
+- Grant's Retirement and Legacy
+  - Grant's decision not to run for a third term.
+  - Reflections on Grant's presidency and happiness in Washington.
+  - Washington's significance as a hub for intellect and beauty.
 
-## The Twentieth Century
-### Theodore Roosevelt and William Howard Taft
-- William McKinley shot in 1901, Theodore Roosevelt becomes 26th President.
-- TR known for adventurous nature, love for hunting.
-- Father's death might have contributed to his appetite.
-- Married Edith Kermit Carow after death of first wife, Alice.
-- Roosevelt family large and lively, meals abundant with coarse food.
-- TR invites Booker T. Washington to dine at White House, causes controversy.
-- Edith Roosevelt oversees White House renovation, works with architect Charles McKim.
-- Lavish dinners, innovative menus prepared by French chef Charles Rauscher.
-- TR prefers simple breakfasts, three-course dinners.
-- Refutes claims of extravagant eating habits to avoid being labeled elitist.
-- Camping trip with John Muir, significant event in conservation history.
-- Great Loop Tour during 1904 election balances politics and love for nature.
-- Roosevelt's initiatives lead to conservation of 230 million acres of federal land.
-- "The Jungle" exposes unsanitary practices, leads to food safety regulations.
-- William Howard Taft succeeds TR as 27th President.
-- Taft inaugurated with a barbecue feast, struggles with weight.
-- Taft seeks advice to slim down but struggles with significant weight loss.
-- Nellie Taft actively contributes to White House improvements.
-- Roosevelt and Taft's political divide leads to 1912 Republican convention.
-- Roosevelt and Taft reconcile in 1918 before Roosevelt's death.
-- Roosevelt's relationship with nature complex, both conservationist and hunter.
-- Roosevelt's eating habits driven by emotional life and protecting his children.
-- Roosevelt dies in 1919, leaving a charismatic and influential legacy.
-- Roosevelt's dinner setup is lavish, grand, and diverse.
-- Dining room formal with fine linens, silverware, and floral centerpieces.
-- Menu showcases American cuisine and exotic dishes from travels.
-- Love for game meat evident, sometimes served exotic meats.
-- Dinner starts with sumptuous feast, followed by rich meats and desserts.
-- Dining experience lively, filled with stories and intellectual conversations.
-- Roosevelt's dinner parties coveted invitations, attracting influential guests.
-- Dinners at White House play crucial role in diplomatic and social engagements.
-- Reflects Roosevelt's larger-than-life persona and hospitality.
+## Theodore Roosevelt and William Howard Taft
+- Upton Sinclair's "The Jungle" and Food Industry Reform
+    - Sinclair's novel exposed appalling conditions in meatpacking industry.
+    - Details of slaughterhouses run by major meatpackers disgusted the public.
+    - Public appetite for meat declined significantly.
+    - President Theodore Roosevelt's concern for public health led to food reforms.
+    - The unintended consequences of industrialization on the food system were revealed.
+- Pure Food and Drug Act & Federal Meat Inspection Act
+    - Roosevelt's concern about public health and consumer protection.
+    - Laws established regulations for food manufacturing and labeling.
+    - The first time federal government took responsibility for food safety.
+    - Food and Drug Administration (FDA) evolved from these acts.
+- William H. Taft's Presidency
+    - Taft's election in 1908, succeeding Roosevelt.
+    - Taft's shift from progressive policies to more conservative stance.
+    - Strained relationship between Taft and Roosevelt.
+    - Taft's policies, tensions, and eventual split from Roosevelt.
+- Taft's Personal Eating Habits and Struggles
+    - Taft's penchant for hearty eating, especially meat.
+    - Struggles with weight and attempts to lose it.
+    - Sleep apnea, snoring, and health issues associated with obesity.
+    - Taft's connection to contemporary obesity concerns.
+- Nellie Taft's Influence and White House Management
+    - Nellie Taft's active involvement in politics and White House management.
+    - Her innovations in technology and efficiency.
+    - Her passion for managing menus, budgets, and social schedules.
+    - Nellie's stroke and subsequent challenges she faced.
+- Theodore Roosevelt's African Safari and Complex Relationship with Nature
+    - Roosevelt's African safari for scientific collection and hunting.
+    - Discordant relationship with nature: conservationist vs. predator.
+    - Roosevelt's bipolar tendencies and emotional connection to eating.
+    - Roosevelt's eventual death and its potential connection to his lifestyle.
 
-### From Wilson to Coolidge and Hoover
-- Woodrow Wilson (28th President):
-  - Little interest in food, chronic indigestion.
-  - Wife Ellen preferred simple, beautiful food for White House receptions.
-  - Typical meals: clear soup, chicken salad, strawberry ice cream.
-  - World War I changed his approach to food and dining.
-  - Declared "food will win the war," regulated food distribution.
-  - Herbert Hoover ran U.S. Food Administration, promoted food conservation.
-  - Adopted "meatless" and "wheatless" days, "Victory Gardens."
-  - Personal health suffered during the war, stress, and temporary paralysis.
-  - Supported the Ku Klux Klan and racially segregated federal workers.
-  - Engaged in at least one extramarital affair.
-- Calvin Coolidge (30th President):
-  - Known for his taciturn and frugal nature.
-  - Wife Grace loved baseball, had a pet raccoon.
-  - Preferred simple, wholesome food, ate quickly.
-  - Developed an unlikely friendship with Cantonese steward, enjoyed Chinese-American fusion dinners.
-- Herbert Hoover (31st President):
-  - "America's Food Czar" during World War I.
-  - Efficient, banned staff interaction, received Presidential Salmon from Maine.
-  - Overshadowed by the Great Depression, faced public backlash.
-- Franklin Delano Roosevelt (32nd President):
-  - Defeated Hoover in the 1932 election.
-  - Hoover's health deteriorated during the campaign.
+## From Wilson to Coolidge and Hoover
+- Hoover's Dining Habits and Communication Strategies:
+  - President Hoover had a unique dining routine, even dining alone, with a preference for a seven-course meal.
+  - His wife Lou Hoover directed staff using hand signals for efficient service.
+  - They communicated privately in Mandarin, learned during their time in China.
+  - The couple held elaborate events, carefully managed by three secretaries, where they served the best foods.
+- Culinary Creations and Traditions:
+  - The Hoovers served expensive and exotic dishes at official functions.
+  - For smaller gatherings, they relied on inventive Black chef Mary Rattley, who guarded her culinary secrets.
+  - A famous condiment, "black cow sauce," originated from one of Rattley's recipes.
+  - The tale of the "headless salmon" highlighted a culinary mishap at the White House.
+  - The tradition of sending a Presidential Salmon began in 1912, symbolizing Maine's link to water and land.
+  - Atlantic salmon faced a decline due to industrial impacts, pollution, and habitat destruction.
+- Hoover and the Great Depression:
+  - The 1929 stock market crash led to the Great Depression during Hoover's presidency.
+  - Hoover's early warnings of economic troubles were realized as the nation faced food shortages and poverty.
+  - He attempted to address the crisis through various economic measures and projects.
+  - Hoovervilles, Hoover flags, and public criticism showcased the public's dissatisfaction with his response.
+- Challenges and Decline in Popularity:
+  - Hoover's efforts led to the creation of unemployment commissions and infrastructure projects.
+  - He faced significant backlash from the public, with angry crowds pelting him with produce.
+  - Hoover's health and emotional state deteriorated as he campaigned against FDR.
+  - Franklin Delano Roosevelt defeated Hoover in the 1932 election.
 
-### Franklin D. Roosevelt
-- February 1941: FDR hosts private dinner with former rival Wendell Willkie to persuade him to liaise with America's allies.
-- The dinner features terrapin soup, FDR's lucky dish, connecting Willkie to the national continuum.
-- Eleanor disapproves of terrapin soup, preferring simple, thrifty meals to set an example during the Depression.
-- Divergent tastes in food cause marital tension between FDR and Eleanor.
-- Mrs. Nesbitt, head cook, plays significant role in White House catering and kitchen renovation.
-- FDR complains about repetitive and uninspired meals served by Mrs. Nesbitt.
-- FDR invites King George VI and Queen Elizabeth for a "hot dog summit" at Hyde Park, improving Anglo-American relations.
-- After Pearl Harbor, FDR shifts focus to WWII and invites Churchill for elaborate feasts, shaping postwar global order.
-- Food plays crucial role in WWII, calories become strategic advantage, and Churchill's use of food as weapon remains controversial.
-- FDR's health deteriorates during war, suffers cerebral hemorrhage, and dies in April 1945.
-- His last dinner features terrapin soup, his lucky meal.
+## Franklin D. Roosevelt
+- White House Dining Through the Ages
+  - The White House has witnessed diverse culinary changes across presidencies.
+  - Presidents' dining preferences and cultural influences shaped the culinary landscape.
+- Theodore Roosevelt: An Epicurean President
+  - Theodore Roosevelt introduced exotic and adventurous foods to the White House.
+  - His focus on conservation extended to cuisine, promoting locally sourced ingredients.
+- Franklin D. Roosevelt: Culinary Diplomacy and World War II
+  - Franklin D. Roosevelt used meals to forge international relationships and unity.
+  - The iconic hot dog summit with King George VI solidified Anglo-American ties.
+  - The prime minister's visit to the White House deepened alliances and influenced global politics.
+  - The Big Three summits used meals as diplomatic tools, with Tehran, Yalta, and Potsdam shaping global order.
+- The Power of Food in Wartime
+  - Food played a critical role in war strategy, from Roman legions to World War II.
+  - Hunger was exploited as a weapon, and food scarcity was a driving factor.
+  - Churchill's policies had devastating effects, such as the Bengal famine of 1943.
+- Franklin D. Roosevelt's Legacy and Demise
+  - Franklin D. Roosevelt's presidency was marked by culinary adventures.
+  - His preference for terrapin soup symbolized his legacy and love for fine dining.
+  - Roosevelt's sudden death in 1945 marked the end of an era.
 
-### Harry S. Truman
-- April 12, 1945: Harry S. Truman becomes President after FDR's death.
-- Truman's presidency includes the end of World War II and challenging times.
-- Bess Truman, his wife, is an important political counselor.
-- Clash with housekeeper Nesbitt leads to hiring Mary Sharpe.
-- Truman follows a high-protein, low-calorie diet and exercises rigorously.
-- Significant White House renovation under Truman's administration.
-- Food shortages and rationing efforts during and after WWII.
-- Berlin Airlift in 1948-1949 delivers food and supplies during Soviet blockade.
-- Fried chicken with currant jelly and cream gravy, Truman's comfort food.
-- Truman considers General Dwight D. Eisenhower as a potential successor.
-- Truman and Eisenhower bond over a home-cooked meal.
+## Harry S. Truman
+- The Haunted House
+  - On April 12, 1945, Harry S. Truman became president after FDR's death.
+  - Truman faced a challenging period in history and compared being president to riding a tiger.
+  - He celebrated victory in World War II, represented the U.S. at summits, and witnessed the use of atomic bombs.
+  - Truman's wife, Bess, was uncomfortable with the limelight and played a significant but often unnoticed role in his career.
+- Truman's Personal Habits and Challenges
+  - Truman maintained a healthy lifestyle, focusing on exercise and a high-protein, low-calorie diet.
+  - Bess Truman struggled with the transition to First Lady and maintained a somewhat distant relationship with Harry.
+  - Harry Truman felt lonely at times in the White House and dealt with a quirky dinner ritual performed by the staff.
+  - The White House was in poor condition, and Truman initiated a massive renovation project that significantly improved its structure and functionality.
+- Cold War Initiatives and Challenges
+  - The Cold War began with Truman's Truman Doctrine in 1947, aiming to curb Soviet expansionism.
+  - Food shortages in post-war Europe led Truman to create the Citizens Food Committee, but the conservation program had limited success.
+  - The Berlin Airlift was a significant humanitarian effort during the Cold War, supplying food and supplies to West Berlin during a Soviet blockade.
+- Korean War and Ike's Arrival
+  - Truman returned to Washington when North Korea invaded South Korea in 1950.
+  - During a crisis meeting at Blair House, the staff prepared Truman's favorite comfort food.
+  - Truman considered Dwight D. Eisenhower as a potential successor and welcomed him with a home-cooked meal when he visited Washington.
+  - Truman and Eisenhower's relationship later soured due to protocol disagreements.
 
-### Dwight D. Eisenhower
-- Dwight D. Eisenhower, nicknamed Ike, loved to cook and learned from his mother, enjoying turning raw ingredients into satisfying meals.
-- He courted and married Marie Geneva "Mamie" Doud, who learned to cook despite having little experience.
-- Ike continued cooking during his military career, focusing on a balanced diet for soldiers.
-- As president, he used "knife and fork" meetings and private stag dinners at the White House to gather diverse perspectives and build consensus.
-- Mamie Eisenhower loved entertaining as First Lady and enjoyed organizing parties, despite suffering from various health issues.
-- The couple purchased a farm near Gettysburg, Pennsylvania, where Ike cooked homemade dishes for family and friends.
-- Ike signed the Food for Peace Act to provide food aid to distressed nations and spread American "soft power."
-- The presidential cook, François Rysavy, had a remarkable life story and an extensive culinary background, serving diverse dishes to the Eisenhowers.
-- Eisenhower suffered a heart attack in 1955, leading to a goal of "total rehabilitation" and lifestyle changes.
-- Despite health concerns, he ran for a second term and was re-elected in 1956.
-- Eisenhower continued his love for cooking even after retiring from the presidency, earning attention from the press.
+## Dwight D. Eisenhower
+- Eisenhower's Health Challenges
+  - In 1955, President Dwight D. Eisenhower suffered a heart attack.
+  - Initially downplayed as "digestive upset," it was later identified as a "mild coronary thrombosis."
+  - Eisenhower, a physically active 64-year-old, was ordered to rest for seven weeks.
+  - He focused on "total rehabilitation," including quitting smoking and weight loss.
+- The Question of Reelection
+  - As the 1956 election approached, there was debate over whether Eisenhower should run for a second term.
+  - Republican leaders wanted him to run, but his doctors were concerned about his health.
+  - The Democrats questioned his ability to lead, and there were doubts about the potential successors.
+  - An internal dinner meeting was held to discuss the decision, which was leaked to the press.
+- Health Struggles Continue
+  - In 1956, Eisenhower was diagnosed with ileitis, an inflammation of the small intestine.
+  - Despite health issues, he campaigned for his second term with the slogan "I Like Ike."
+  - Dietary changes were made to support his health, including a virtually fat-free diet.
+- Reelection and Ongoing Health Concerns
+  - Eisenhower won his second term by a large margin in 1956.
+  - The inauguration was followed by a private celebration and a public swearing-in.
+  - Questions about his health persisted, with a minor stroke causing concern in 1958.
+- International Relations and Food
+  - Eisenhower hosted Nikita Khrushchev, marking the first visit by a Soviet premier to the U.S.
+  - The U-2 spy plane incident strained U.S.–Soviet relations again.
+  - Chef changes took place in the White House, with mixed reactions to the food.
+- Eisenhower's Legacy and Cooking
+  - Eisenhower's presidency was limited to two terms by the Twenty-Second Amendment.
+  - Despite health issues, he continued to cook and experiment with food.
+  - The press found his cooking habits intriguing and engaging.
 
-### John F. Kennedy
-- JFK and Jacqueline Kennedy hosted a memorable artist party at the White House, reflecting their youthful and cosmopolitan vigor.
-- Jacqueline's vision for entertaining was inspired by French salons, with fine dining as a central element.
-- René Verdon, the Kennedys' French chef, prepared an exquisite banquet for the artist party.
-- The Kennedys' entertaining style was an integral part of their political strategy and redefined the role of the First Lady.
-- The couple's marriage had its challenges, with JFK's infidelities affecting Jackie deeply.
-- JFK was tragically assassinated on November 22, 1963, in Dallas.
+## John F. Kennedy
+- Diplomatic Achievements and Challenges:
+  - President Kennedy's trip to Paris to persuade President Charles de Gaulle against developing nuclear weapons had strained results due to de Gaulle's concerns about American interference and his desire to restore French pride.
+  - Jacqueline Kennedy's soft power, embodying American culture, left an impression on de Gaulle despite the diplomatic challenges.
+- Mount Vernon State Dinner:
+  - Jacqueline orchestrated a state dinner at Mount Vernon for General Ayub Khan of Pakistan, defying tradition by hosting it outside the White House.
+  - Challenges included accommodating 132 guests, cooking a special menu, and ensuring General Khan's dietary preferences (Muslim, no pork or alcohol).
+  - Despite logistical hurdles, the event was a success and showcased Jacqueline's attention to detail and mastery of event planning.
+- Cultural Engagements and Political Negotiations:
+  - The Kennedys hosted the "Brains Dinner," bringing together forty-nine Nobel Prize winners, impressing guests with their glamour and charisma.
+  - A dinner for André Malraux, French minister of cultural affairs, led to the loan of the Mona Lisa to the U.S., fostering better relations between the countries.
+  - Crisis management involving the Cuban Missile Crisis demonstrated Kennedy's negotiation skills and his ability to prevent nuclear conflict.
+- Complexities of Marriage and Personal Life:
+  - Jacqueline's private letters reveal her feelings of isolation and the complexities of her marriage to JFK, who was known for his charm but also for his infidelities.
+  - Despite challenges, their marriage reached a deeper understanding and happiness, especially during her pregnancy, but tragedy struck when their son Patrick died shortly after birth.
+- Assassination and Legacy:
+  - The Kennedys' final trip to Texas ended in tragedy as President Kennedy was assassinated in Dallas on November 22, 1963.
+  - The Kennedys' legacy includes diplomatic achievements, cultural influence, and personal challenges, leaving an indelible mark on American history and politics.
 
-- The relationship between JFK and Jacqueline Bouvier started with a setup engineered by JFK's father.
-- The couple got married in 1953, and JFK was sworn in as the youngest elected president in 1961.
-- Jacqueline's vision for entertaining initially faced controversy but was embraced as they continued their elegant style.
-- The culinary shift at the White House brought exquisite French cuisine, prepared by René Verdon, reflecting a growing interest in food culture in America.
-- Jackie's soft power and charm impressed even President de Gaulle during their visit to France.
+## Lyndon B. Johnson
+- Introduction:
+  - Lyndon B. Johnson (LBJ) became the 36th President after Kennedy's assassination.
+  - His presidency marked by significant legislation around nutrition and race.
+  - Johnson's personal connection to hunger due to his childhood experiences.
+- LBJ's Ranch and Culinary Diplomacy:
+  - Johnson's ranch in Texas served as a venue for political gatherings.
+  - Barbecue was a tool used to charm politicians, donors, diplomats.
+  - Johnson's larger-than-life image, as a Texan rancher, appealed to both Americans and foreigners.
+  - The assassination of JFK changed LBJ's trajectory and approach to politics.
+  - "Barbecue diplomacy" established a pattern for Johnson's leadership.
+  - Frequent visits to his ranch and usage of food for building alliances.
+- The Great Society and Nutrition:
+  - Johnson's focus on eradicating poverty led to the "unconditional war on poverty."
+  - Launch of the Great Society to enhance civil rights, education, and environmental protection.
+  - Head Start program emphasized nutrition and education for underprivileged children.
+  - Metaphor of increasing the pie, not dividing it, for economic growth.
+- Civil Rights and Zephyr Wright:
+  - Johnson's cook, Zephyr Wright, played a significant role in his life.
+  - Johnson's personal connection to civil rights issues through Wright.
+  - Mrs. Wright's chili recipe and its popularity among politicians.
+  - Wright's influence on Johnson's awareness of racial discrimination.
+- 1964 Presidential Campaign and Texas Cuisine:
+  - Johnson's campaign against Goldwater used Texas food as a symbol.
+  - Walter Jetton's barbecue fundraisers and Esther Coopersmith's involvement.
+  - Both Johnson and Goldwater had their chili recipes.
+  - Johnson's victory possibly influenced by his preference for Mrs. Wright's chili.
+- Chef Transitions in the White House:
+  - LBJ's hiring of René Verdon, a French chef, continued the culinary legacy.
+  - Verdon's departure marked the end of the Kennedy era and a shift towards simpler tastes.
+  - Henry Haller, a Swiss cook, replaced Verdon and embraced Johnson's cowboy cuisine.
 
-- Jackie Kennedy planned a state dinner at Mount Vernon for the Pakistani General Khan, accommodating his Muslim dietary restrictions.
-- The Kennedys' most celebrated party was the "Brains Dinner," featuring forty-nine Nobel Prize winners.
-- Despite JFK's infidelities, their marriage found equilibrium in 1963, a time of happiness for Jackie.
-- Tragedy struck when their son Patrick died prematurely.
-- On November 22, 1963, JFK was assassinated in Dallas while riding in a motorcade with Jackie by his side.
+## Richard M. Nixon and Gerald R. Ford
+- Introduction
+  - Richard Nixon's diplomatic approach with China called "chopstick diplomacy" marked a significant turning point in US-China relations in 1972.
+  - The joint communiqué between the two nations ended hostilities and initiated a new era of diplomacy.
+- Nixon's Influence on Chinese Cuisine
+  - Nixon's visit to China was a pivotal event that captured public attention.
+  - His image of using chopsticks and experiencing Chinese cuisine helped him win public recognition and was credited with boosting his re-election campaign.
+  - American palates were introduced to Chinese cuisine's complex flavors and ingredients.
+- Nixon's Food Preferences and Comfort
+  - Nixon enjoyed eating and drinking publicly, often frequented places like Trader Vic's.
+  - Trader Vic's was a favorite venue for Nixon, offering exotic cocktails like the mai tai and a mix of Polynesian-Chinese cuisine.
+  - During his presidency, Nixon found solace in comfort foods like corned beef hash and mai tais.
+  - Nixon's presidency ended amid the Watergate scandal, and he turned to special comfort food during that time.
+- Transition to Gerald Ford's Presidency
+  - Gerald Ford quickly became the 38th President following Nixon's resignation.
+  - Ford's simple and unpretentious nature was reflected in his food choices.
+  - He brought stability after the tumultuous Nixon era.
+- Ford's Eating Habits and Presidential Meals
+  - Ford's diet consisted of straightforward and hearty foods, reflecting his character.
+  - Ford's meals often consisted of basic dishes like cottage cheese with A.1. sauce and raw onion.
+  - Ford's presidency aimed for public confidence and stability after Nixon's controversies.
+- Ford's Symbolic Food Incidents
+  - Ford's mishap of biting into a tamale with its corn husk highlighted his lack of familiarity with certain foods.
+  - Julia Child criticized Ford's lack of understanding regarding the symbolism and importance of presidential food.
+- Expectations for Carter's Presidency
+  - With the arrival of Jimmy and Rosalynn Carter, there was hope for improvements in White House dining and promotion of regional American dishes.
+  - Julia Child encouraged promoting the positive aspects of American cooking and considering the symbolic significance of food.
 
-### Lyndon B. Johnson
-- After JFK's assassination, Lyndon B. Johnson became president and initiated legislation on nutrition and poverty.
-- Johnson's "war on poverty" addressed hunger and poverty, including programs like Head Start, emphasizing nutrition.
-- He used Texas barbecue to influence politicians and dignitaries, hosting cookouts at the LBJ Ranch.
-- Johnson's presidency brought significant social and legislative changes, including civil rights and health insurance programs.
-- Zephyr Wright, the Johnson family's cook, played a role in Johnson's approach to civil rights.
-- Mrs. Wright's chili recipe became famous as "Lady Bird Johnson's Pedernales River Chili."
-- Mrs. Wright's influence extended beyond the kitchen, helping Johnson gain insights into racial issues.
-- Johnson's 1964 campaign used Texas food, including barbecue fundraisers.
-- Johnson faced challenges, including the Vietnam War, and decided not to seek reelection.
+## Jimmy Carter
+- Hostage Crisis and Negotiations:
+  - In 1979, Muslim students seized the U.S. embassy in Tehran, holding 52 Americans hostage for 444 days.
+  - President Jimmy Carter engaged in negotiations with Ayatollah Khomeini and even ordered a failed rescue mission.
+  - Carter's dedication to negotiations and moral concerns prevented him from taking more aggressive actions.
+- Failed Rescue Mission - Operation Eagle Claw:
+  - Operation Eagle Claw aimed to rescue the hostages through a covert mission.
+  - American special forces encountered challenges like a dust storm and unexpected civilians.
+  - The mission ended in disaster, with a helicopter crashing into a plane, resulting in casualties.
+- Election and Public Sentiment:
+  - Carter's presidency coincided with the hostage crisis and a tough re-election campaign against Ronald Reagan.
+  - Pressure mounted on Carter to take decisive actions, like bombing Tehran, but he was reluctant due to the potential harm to hostages.
+  - Carter lost the election, and Reagan secured victory with a significant margin.
+- Carter's Moral Dilemma and Reflections:
+  - Carter's moral principles guided his decisions during the crisis, prioritizing the safety of hostages over his political standing.
+  - He believed that if the hostages were released, he might have won the election.
+  - Reflecting on his choices, Carter's wife Rosalynn suggested that even bombing Tehran might have secured his re-election.
+- Farewell and Final Moments:
+  - The Carters organized a "final supper" at the White House as they prepared to leave.
+  - Willie Nelson joined as a guest, singing "Georgia on My Mind" as a bittersweet farewell gesture.
 
-### Richard M. Nixon and Gerald R. Ford
-- Nixon's presidency began in 1968 amid a turbulent period of assassinations and social unrest.
-- The Nixons preferred light, healthy meals in contrast to the indulgent Johnsons.
-- Pat Nixon's request for cottage cheese caught the chef off guard but was accommodated.
-- Nixon's controlled diet may have been influenced by his childhood during the Depression.
-- The Nixons enjoyed simple breakfasts and family dinners with dishes like chicken and clams.
-- Nixon convened the first White House Conference on Food, Nutrition, and Health in 1969 to address malnutrition and hunger.
-- The public's concerns about food safety and nutrition foreshadowed future activism on these issues.
-- The conference led to significant improvements in nutrition programs, food stamps, and labeling.
-- Nixon disliked official meals and diplomatic dinners, seeking to speed up the serving process.
-- Food played a significant role during Nixon's groundbreaking visit to China in 1972, promoting diplomatic relations.
-- Nixon's "chopstick diplomacy" helped improve relations and contributed to his reelection.
-- The trip to China popularized Chinese food in the United States.
-- After resigning, Nixon found comfort in corned beef hash.
-- Gerald Ford enjoyed unpretentious and wholesome meals, reflecting his character.
-- Presidential meals send powerful messages and shape public perceptions of the president and the nation.
+## Ronald Reagan
+- The Reagan China Set Controversy
+  - The Reagan pattern of china plates was criticized for its elegance amid school lunch cuts.
+  - Mrs. Reagan justified the new china set due to its necessity and private funding.
+  - However, this purchase was seen as extravagant and untimely, given the context.
+- Official Dinners and Social Diplomacy
+  - The Reagans hosted numerous official dinners and state dinners during their time in the White House.
+  - These events projected power, abundance, and connections on a global scale.
+  - Despite their efforts, the Reagans couldn't replicate the casual elegance of the Kennedy parties.
+- Dinner and Dance with Princess Diana
+  - A royal party was held for Prince Charles and Princess Diana, featuring a dance with John Travolta.
+  - The evening became iconic and a symbol of the Reagans' ability to combine diplomacy, Hollywood, and politics.
+  - Princess Diana's charisma and the dance with Travolta created a memorable moment.
+- Diplomatic Meal with the Gorbachevs
+  - Reagan's transformation from a hawk to a dove led to diplomatic efforts with Gorbachev.
+  - Years of private dinners and rapport building culminated in the INF Treaty.
+  - A state dinner for the Gorbachevs marked an important moment in reducing tensions.
+  - The menu featured American ingredients with a Russian touch and was paired with California wines.
+  - The pianist Van Cliburn's performance of "Moscow Nights" created a poignant moment of connection.
 
-### Jimmy Carter
-- Jimmy Carter's southern background and love for southern food, like grits, set him apart during the 1976 election.
-- The Carters enjoyed cooking together and served southern staples at their table in Plains, Georgia.
-- They emphasized genuine southern hospitality, focusing on human contact and sharing meals with guests.
-- Despite criticism, they brought warmth and simplicity to the White House entertaining.
-- Carter's efforts to simplify official entertaining and cut costs for state dinners drew mixed reactions.
-- He took on the challenge of resolving the Israeli-Arab conflict and played a pivotal role in the Camp David Accords.
-- Carter believed in the power of shared meals during the negotiations.
-- The Camp David setting allowed private discussions away from the press.
-- Rosalynn's idea of hosting a diverse food reception helped break the ice between delegates.
-- The negotiations led to a historic peace treaty signed at the White House in 1979.
-- Carter's presidency faced challenges, including the Iran hostage crisis and domestic issues.
-- He was criticized for his handling of the crisis and perceived as weak by some.
-- Despite challenges, his presidency had notable policy successes like energy and education reforms, SALT II talks, and the Camp David Accords.
-- As Carter's presidency ended, the Carters hosted a "final supper" at the White House with a small group of family and friends, serenaded by Willie Nelson as they prepared to leave.
+## George H. W. Bush
+- George H. W. Bush and Food Preferences
+  - George H. W. Bush, a scion of a prominent American dynasty, became the 41st President in 1989.
+  - Despite his cosmopolitan background, his tastes were shaped by his WASP heritage.
+  - Food was seen as refined fuel rather than an artistic expression or health aid.
+  - Bush's strong aversion to broccoli and his infamous remark against it attracted attention.
+- Presidential Snacks and Calculated Appeal
+  - Bush had a fondness for snacks like beef jerky, popcorn, pork rinds, and ice cream.
+  - His affinity for pork rinds was viewed as a calculated appeal to working-class voters.
+  - He enjoyed being photographed fishing, but never actually ate his catch.
+  - Bush's efforts to portray himself as a "Regular Guy" were met with mixed results.
+- Barbara Bush's Cooking and Adapting to Diets
+  - Barbara Bush, while not a passionate cook, produced competent meals when needed.
+  - Her repertoire included classics like clam chowder and Texas-themed snacks.
+  - Cereal dinners and adaptation to local diets showcased their simple eating habits.
+  - In the White House, they enjoyed dishes prepared by their personal chef.
+- The Complex Legacy of George H. W. Bush
+  - Bush's presidency saw significant events like the collapse of the Soviet Union and the Gulf War.
+  - His personal life had heroic and ungallant aspects, including a long-running affair.
+  - Despite challenges, the Bushes remained married for seventy-three years.
+  - Bush's health scares highlighted the historical fear of presidential poisoning.
+- State Dinners and Culinary Feats
+  - The Bushes hosted numerous state dinners during their tenure.
+  - Executive chef Pierre Chambrin created classic, rich dishes for these occasions.
+  - An official dinner for Queen Elizabeth and Prince Philip showcased a nostalgic, elaborate menu.
+  - The end of the 20th century marked the need for new leadership and priorities.
 
-### Ronald Reagan
-- Reagan's Hollywood-style inauguration: Featured California roses and jelly beans, signaling a shift from Carter's informality to glamour. Nancy Reagan's wardrobe and social ambitions attracted criticism.
-- Nancy Reagan's role in political entertaining: Hired experts to host successful events at the White House, furthering their political agenda and building relationships.
-- The assassination attempt on President Reagan: Hinckley Jr. attempted to assassinate Reagan, resulting in injuries. Nancy cared for the president during his recovery.
-- Rancho del Cielo, the Reagans' retreat: Their sanctuary in the Santa Ynez Mountains, enjoying horseback rides and Mexican dishes.
-- Jelly beans and Nancy's approach to astrology: Reagan's love for jelly beans became his signature. Nancy consulted an astrologer for scheduling, leading to controversy.
-- Nancy Reagan's personality and role as First Lady: A complex figure with a hunger for approval. Critics faulted her for fashion choices and redecorating the White House. She had picky eating habits, favoring healthy California-style dishes.
-- Mesnier's mishap with hazelnut yule log: A humorous incident with a misunderstanding of the word "nuts."
-- Controversy over school lunch program cuts: Reagan's proposed cuts faced criticism. Nancy's purchase of new bone china for the State Dining Room amid the controversy.
-- Extensive hosting of official and state dinners: Projecting power and connections on a global scale.
-- Memorable state dinner with Prince Charles and Princess Diana: Included John Travolta's dance with the princess.
-- State dinner for Mikhail and Raisa Gorbachev: Part of diplomatic efforts to reduce tensions and achieve arms reduction.
-- INF Treaty with Gorbachev: Followed by a Gorbachev banquet with American-Russian fusion dishes.
+## William J. Clinton
+- White House Chefs
+  - Roland Mesnier and Walter Scheib were White House chefs during the Clinton administration.
+  - They managed elaborate meals and events, catering to large groups with complex menus.
+- Challenges and Accomplishments
+  - Scheib streamlined kitchen procedures to handle up to 1500 guests.
+  - Mesnier prepared impressive desserts and cakes for various occasions.
+  - The chefs sourced local produce and created menus that incorporated American and international flavors.
+  - State dinners were a focal point, designed to impress guests and showcase diplomacy.
+- Memorable State Dinners
+  - Notable state dinners included those for Emperor Akihito and Empress Michiko of Japan, Boris Yeltsin, and Nelson Mandela.
+  - The Mandela state dinner was a significant event, aiming for inclusivity, symbolism, and a mix of personalities.
+  - Chelsea Clinton learned cooking from the chefs, becoming a vegetarian and finding solace in the kitchen.
+- Challenges and Changes
+  - Bill Clinton's second term was marked by controversies, including the Monica Lewinsky scandal.
+  - Chelsea turned to baking to cope with stress.
+  - Bill Clinton's health issues led to dietary changes, eventually becoming a vegan.
+  - Clinton's views on nutrition shifted over time, reflecting changing expert opinions.
+  - He promoted exercise and better nutrition policies, focusing on whole foods.
+- Clinton's Journey
+  - Bill Clinton's approach to politics and eating reflects a balance between different perspectives and contradictions.
+  - He navigated public appetites and uncertainties in both realms.
 
-### George H. W. Bush
-- George H.W. Bush's plain tastes influenced by his WASP upbringing.
-- His aversion to broccoli and humorous rejection of it as President.
-- His affinity for snacks like beef jerky, popcorn, and pork rinds.
-- Efforts to portray Bush as a "Regular Guy" with mixed results.
-- Barbara Bush's cooking skills and her repertoire of dishes, both Yankee and Texas-themed.
-- The fear of poisoning presidents and the story of Zachary Taylor's death.
-- Bush's illness during a state visit to Japan and the prank call hoax claiming his death.
-- The Bushes' fondness for entertaining and hosting state dinners.
-- A description of the elaborate meal prepared for Queen Elizabeth and Prince Philip during their official dinner at the White House in 1991.
-- The sense of nostalgia as the end of the twentieth century approached and the need for new leaders and approaches to food at the White House.
+## George W. Bush
+- Introduction: Walter Scheib's Departure
+  - Walter Scheib, the White House executive chef, had a complex relationship with Laura Bush.
+  - Scheib's firing in 2005 and his emotional response.
+  - The unspoken rules of responding to dismissal from the White House.
+- Scheib's Career and Departure
+  - Scheib's career as executive chef at the White House.
+  - His dismissal due to not meeting Mrs. Bush's stylistic requirements.
+  - Scheib's emotional reaction and his public expression of frustration.
+  - His reflections on his time as chef and his transition to new ventures.
+- Walter Scheib's Tragic End
+  - Scheib's life after leaving the White House.
+  - His mysterious disappearance and death in the mountains of New Mexico.
+  - Speculations and rumors about the circumstances of his death.
+- The Search for a New Executive Chef
+  - Laura Bush and Lea Berman's search for Scheib's replacement.
+  - Challenges in finding top culinary talent due to salary limitations and job demands.
+  - The involvement of Women Chefs and Restaurateurs in advocating for a female chef.
+- Cristeta Comerford: The New Executive Chef
+  - The announcement of Cristeta Comerford as the new executive chef.
+  - Comerford's background as a Filipino immigrant and her culinary journey.
+  - Her skills, experience, and versatility in the kitchen.
+  - Her notable achievements, including impressing Laura Bush with her cooking.
+  - John Moeller's reaction to Comerford's appointment.
+- Breaking Tradition and Making a Statement
+  - Laura Bush's decision to hire Comerford subverted traditional expectations.
+  - Alice Waters and Women Chefs and Restaurateurs welcomed the choice.
+  - The significance of Comerford's appointment in a male-dominated industry.
+- Gender Disparities and the Impact
+  - Women's representation in the culinary field.
+  - The message conveyed by Comerford's appointment for gender equality.
 
-## The Twenty-First Century
-### William J. Clinton
-- In 1992, Bill Clinton and Hillary Rodham Clinton banned smoking inside the White House and invited outside chefs to advise on the menu.
-- The resulting menu for their first dinner included a mix of all-American ingredients with a sophisticated twist.
-- Executive chef Pierre Chambrin felt slighted, leading to his resignation in 1994.
-- Mrs. Clinton invited outside diet consultants, including Dr. Dean Ornish, to coach the President on healthier eating habits.
-- The changes sparked discussions about the definition of "American cuisine" and the role of food in politics and culture.
-- Americans' interest in modern cooking and healthier eating habits grew during the Clinton administration, influenced by the rise of Food Network and celebrity chefs.
-- Alice Waters urged the Clintons to update the White House cuisine and emphasize healthful, fresh, and seasonal foods, sparking debates about the presidential diet's political nature.
-- Waters's call for an American chef to lead the Executive Kitchen ignited discussions about nationalism and culinary abilities.
-- The Clintons hired Jean Scheib as the new executive chef, bringing a contemporary American cuisine style to the White House.
-- Scheib faced challenges in improving the president's diet and updating the kitchen's equipment.
-- The Clintons began hosting themed receptions and parties, featuring contemporary American cuisine, on the South Lawn of the White House.
-- As political tensions increased, personal relations among the staff at the White House grew strained.
-- Tensions arose between White House chefs Walter Scheib and Roland Mesnier, leading to conflicts over ingredients and responsibilities.
-- Scheib oversaw the construction of a vegetable garden on the White House roof, sourcing fresh produce from local farmers and co-ops.
-- State dinners became significant events, with carefully planned menus to honor guests' cultures while showcasing American ingredients and flavors.
-- Notable state dinners included those for Emperor Akihito and Empress Michiko of Japan and Nelson Mandela.
-- Chelsea Clinton became a vegetarian and learned cooking skills from the White House chefs.
-- In Bill Clinton's second term, controversies, including the Monica Lewinsky scandal, led to a reduction in socializing at the White House.
-- After leaving office, Clinton adopted a vegan diet, promoting better nutrition and healthier lifestyles. However, his diet choices faced scrutiny and occasional contradictions.
+## Barack Obama
+- The Lawn at the White House
+  - Michael Pollan's critique of lawns: environmental cost and metaphysical symbolism.
+  - Alternative uses for White House grounds suggested by Pollan.
+  - Alice Waters' efforts to promote a White House garden.
+  - The creation of the White House garden under Michelle Obama's influence.
+  - Variety of vegetables, herbs, and fruits grown in the garden.
+  - Symbolic value and inspiration generated by the garden.
+  - Opposition from Big Ag due to misinformation about organic farming.
+- Obama's Food Policy and Michelle's Initiatives
+  - Barack Obama's focus on American food policy and its challenges.
+  - Antitrust investigation of meatpacking companies and agribusiness opposition.
+  - Michelle Obama's involvement in promoting healthy eating and combatting childhood obesity.
+  - Initiatives such as "Let's Move!" campaign, Healthy, Hunger-Free Kids Act, and working with corporations to improve food products.
+  - Political challenges faced due to Tea Party influence and shifting focus from nutrition to exercise.
+  - Incremental changes made under Obama's administration: regional food projects, farmer markets, labeling regulations, and alternative food economy.
+- Shared Meals and Diplomacy
+  - Barack Obama's casual interactions with people through shared meals.
+  - Episode with Anthony Bourdain in Vietnam as a successful social outreach.
+  - Philosophy of sharing food and understanding to bridge differences.
+  - The power of food to create connections and reduce fear of the unknown.
 
-### George W. Bush
-- George W. Bush had a picky eating habit, disliking soup, salad, and green food, but enjoying ballpark hot dogs, grilled cheese sandwiches, pretzels, and homemade Chex Mix.
-- Laura Welch Bush preferred generous and flavorful food like steel-cut oatmeal for breakfast and classics like enchiladas and poached salmon for dinner.
-- The Bushes' taste in food was conservative and traditional American fare, contrasting with the fusion and highbrow cooking favored by the Clintons.
-- George W. Bush's journey to sobriety and faith after struggles with alcohol.
-- Baseball was a significant part of Bush's image, owning a major-league team and hosting baseball-themed meals in the White House.
-- The impact of the 9/11 terrorist attacks on White House food service, with heightened security protocols and a shift towards comforting and traditional food.
-- The renaming of French fries to "Freedom fries" as a symbol of patriotic fervor in response to France's opposition to the Iraq invasion.
-- The close link between the First Lady's taste and the White House menu, with presidents often going along with their wives' food preferences.
-- The shared love for hot sauce and organic vegetables between First Ladies Hillary Clinton and Laura Bush, despite differing political affiliations.
-- "The White House Chef: Eleven Years, Two Presidents, One Kitchen" by Walter Scheib and Andrew Friedman.
-- Johanns's chief of staff and Bush's FDA head had ties to the beef industry and food trade group, indicating that organic food didn't align with the administration's image.
-- Mrs. Bush preferred organic foods, despite it going against her perceived personality.
-- The first Whole Foods Market was founded in Austin, which has a vibrant food scene.
-- The Bushes also enjoyed other "elitist" foods, such as handmade pretzels from a bakery in Pennsylvania.
-- President Bush had a near-asphyxiation incident when a pretzel got lodged in his throat while watching a football game.
-- Walter Scheib was the executive chef during the Bush administration and introduced a variety of dishes to the White House.
-- Scheib's role was reduced over time, and he eventually left the White House in 2005 after disagreements with Mrs. Bush's social secretary, Lea Berman.
-- After Scheib's departure, Cris Comerford, a naturalized American citizen born in the Philippines, became the first female, ethnic minority, and in-house chef to be appointed executive chef at the White House.
-- Comerford impressed the Bushes with her culinary skills and ability to handle both casual and state dinner menus.
+## Donald Trump
+- Introduction
+    - The COVID-19 pandemic's impact on the food industry, especially meat processing and restaurants.
+- Meat Industry Disruption
+    - Pandemic disrupted meat processing industry.
+    - Trump designated meat processing as critical infrastructure.
+    - Companies relied on migrant and immigrant employees.
+    - Trump's contradictory stance on undocumented workers.
+- Restaurant Challenges
+    - Undocumented workers in hospitality and agriculture.
+    - Dilemma for restaurant owners due to ICE actions.
+    - Reflection on the role of restaurants in the pandemic era.
+    - Historical significance of restaurants in fostering communal values.
+- Politically Charged Dining
+    - Trump administration's divisive rhetoric affected dining.
+    - Incidents of officials facing public backlash in restaurants.
+    - Clash between civility and moral principles in dining spaces.
+- Civility in Dining
+    - Different viewpoints on civility in dining spaces.
+    - Debate on allowing officials to dine without disturbance.
+    - Implications of fostering inclusive vs. exclusive spaces.
+- Presidential Behavior
+    - Interview with Lea Berman, George W. Bush's social secretary.
+    - Importance of civility in Washington's functioning.
+    - Trump's departure from traditional presidential conduct.
+    - Berman's criticism of Trump's behavior and actions.
+    - Impact of Trump's behavior on traditional White House practices.
+- Personal and Institutional Impact
+    - Berman's personal experience and observations.
+    - Feeling of demoralization among traditional Republicans.
+    - Contrast between Trump's fast-food approach and traditional civility.
 
-### Barack Obama
-- Barack Obama's diverse culinary experiences in Honolulu and Indonesia influenced his appreciation for different cuisines and adventurous palate.
-- During his 2008 presidential campaign, Obama aligned himself with the food movement, advocating for sustainable and transparent food production.
-- As president, Obama pledged to support organic farms and regulate pollution from large animal feeding operations.
-- Opposition from Big Food companies hindered Obama's vision of a "second food revolution."
-- Michelle Obama's initiatives focused on combating childhood obesity and improving school lunch nutritional standards.
-- The creation of the White House Kitchen Garden promoted healthy eating and inspired others to start their gardens.
-- Obama's meal with Anthony Bourdain in Vietnam highlighted the power of food to bring people together and foster cultural understanding.
+## Joseph R. Biden
+- Introduction
+    - Joe Biden's inauguration as the forty-sixth president on January 20, 2021, marked by pandemic challenges and scaled-down celebrations.
+- Biden's Presidency and Food
+    - Biden's inauguration amidst a pandemic and security concerns.
+    - Abandonment of traditional inauguration events due to circumstances.
+    - Biden's inclusive inaugural address and emphasis on unity.
+    - Introduction of a sense of normalcy and return to tradition.
+    - The quiet family dinner at the White House on the inauguration night.
+    - Biden's known eating habits and middlebrow palate.
+- First Lady Jill Biden's Cooking and Food Philosophy
+    - Jill Biden's role in the kitchen and love for cooking.
+    - Family dinners as a way to connect and communicate.
+    - Influence of her upbringing on her cooking style.
+    - Jill's appreciation for healthy meals with fresh ingredients.
+    - The importance of food as a source of security and love.
+- Biden's Challenges with the Food System
+    - Biden's early challenges in addressing the American food system.
+    - A blizzard of demands and issues to address.
+    - The state of the U.S. Department of Agriculture (USDA) under Trump.
+    - USDA's decline in programs, morale, and scientific research.
+    - The Union of Concerned Scientists' criticism of USDA relocation.
+    - Biden's appointment of Tom Vilsack to lead the USDA once again.
+- Vice President Kamala Harris and Food
+    - Kamala Harris as a paradigm shift and dynamic leader.
+    - Harris's multicultural background and family influences.
+    - Harris's unique campaign focus on food, cooking, and relatability.
+    - Using kitchen experiences to connect with voters and show authenticity.
+    - Harris's diverse food-related videos and moments.
+- Harris's Advocacy and Actions
+    - Harris's focus on food insecurity and related issues.
+    - Harris's legislative efforts to support small businesses and restaurants.
+    - Collaboration with chef José Andrés for restaurant partnerships.
+    - Harris's dedication to addressing food insecurity and hunger.
+- Food's Role in Socializing and Change
+    - Contrasting approaches to entertaining: Trump, Pence, Biden.
+    - Hope for a return to schmoozing and socializing in Washington.
+    - The administration's linkage of food choices to regions and people.
+    - The aspiration for discussions and arguments around food topics.
+    - The desire for disagreements to end harmoniously, mirroring family dynamics.
 
-### Donald Trump
-- Donald J. Trump had a unique approach to food, often using meals to assert dominance and pressure others.
-- His childhood experiences and family dynamics influenced his relationship with food.
-- Trump's preference for fast food, like McDonald's, KFC, and pizza, drew criticism from nutritionists.
-- His diet consisting of high-calorie, sugary, and fatty foods connected him to a populist America but raised concerns about his well-being.
-- Trump's love for well-done steaks drowned in ketchup became a symbol of his culinary taste.
-- His excessive salt intake and unhealthy eating habits contributed to concerns about his health.
-- Melania Trump maintained a healthy diet, including green smoothies, fruits, and vegetables.
-- The White House kitchen faced challenges catering to Trump's preferences, leading to a different approach to state dinners.
-- The COVID-19 pandemic exposed vulnerabilities in the global food system and the treatment of food industry workers.
-- Trump's policies and divisive rhetoric affected the restaurant industry and led to debates on civility and hospitality.
-
-### Joseph R. Biden
-- Inaugural luncheon and ball canceled for Biden's inauguration due to pandemic and security concerns.
-- Biden's middlebrow palate reflects "Average Joe" persona, preferring simple and traditional foods.
-- First Lady Jill Biden is an accomplished cook, using food for communication and expression.
-- Pressure on Biden to address food-related issues: climate change, GMO labeling, Black farmer support, healthy school meals.
-- USDA struggles during Trump administration: budget cuts, employee departures, controversial relocations.
-- Biden appoints Tom Vilsack to lead USDA again, address hunger and food crises.
-- Kamala Harris represents paradigm shift in American politics: first woman, Black, Southeast Asian VP.
-- Harris bonds with stepchildren through family dinners, expresses love for cooking and home-cooked meals.
-- Harris humanizes herself on campaign trail, sharing stories about cooking skills and love for food.
-- Harris uses social media to showcase authenticity and policy focus through cooking videos.
-- Harris works on legislation to support small businesses, particularly restaurants, and tackle food insecurity.
-- Biden and Harris contrast Trump and Pence in entertaining and socializing approach.
-- Biden's inauguration signals hope for return to traditional Washington socializing, including state dinners.
-- Administration links food choices to different regions, highlighting people in food production, health, sustainability.
-- Food discussions aim to encourage finding common ground and "disagree agreeably."
+## Conclusion: Eating Together
+- Challenges of American Food System and Presidential Role:
+  - Food system complexity and politics affect dietary changes.
+  - Lack of coordinated food policy compared to other countries.
+  - Current system leads to poor nutrition, obesity, and waste.
+  - Role of subsidies, consolidation, and environmental impact.
+- Presidential Initiatives for Food System Change:
+  - Raise awareness about American food production and its issues.
+  - Highlight benefits and costs of food system to public.
+  - Lead by example with healthier, diverse diets for First Families.
+  - Emphasize fresh, local, historical, and Indigenous ingredients.
+  - Balance tradition with innovation in formal and informal events.
+  - Normalize sustainable foods through presidential sampling.
+  - Draw from historical examples of introducing new foods.
+- Expanding the White House's Culinary Impact:
+  - Build on successes like the Obamas' kitchen garden.
+  - Create a small farm with diverse produce.
+  - Shift outdoor dinners and events to the expanded garden.
+  - Elevate the Executive Kitchen's importance and visibility.
+  - Modernize kitchen facilities, compensate staff better.
+  - Highlight kitchen staff's work and spread awareness.
+- Symbolism and Impact of the President's Table:
+  - President's table represents more than just dining.
+  - It symbolizes the nation's diversity and values.
+  - Political, diplomatic, cultural, and priority-setting stage.
+  - Reflects leaders' inner lives and priorities.
+  - Ultimately, voters shape the presidency and its table.
+- The Power of Food to Unite and Connect:
+  - Food's essential role in human connection.
+  - Presidents can inspire unity through shared meals.
+  - Leaders should encourage bridging gaps and fostering togetherness.
+  - Hope for leaders to promote inclusive dining and connection.
