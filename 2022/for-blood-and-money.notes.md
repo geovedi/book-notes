@@ -1,0 +1,616 @@
+# For Blood and Money
+Author: Nathan Vardi
+
+## Prologue: Sidelines
+- Ahmed Hamdy's Sudden Fall:
+  - Ahmed Hamdy, chief medical officer at a biotechnology company, is in shock after being fired by his boss.
+  - He's left feeling lost and uncertain, parked near his former workplace.
+  - His dedication to the company and its potential for world-changing innovations has been abruptly shattered.
+- Devotion and Disillusionment:
+  - Hamdy's commitment to the biotech company's vision and progress in Silicon Valley is apparent.
+  - His role in the company's growth and his passion for its mission make his dismissal all the more devastating.
+  - He contemplates financial difficulties, needing to sell corporate stock, and worries about how to inform his family.
+- A Lost Dream and a Fading Optimism:
+  - The company was developing an experimental drug for blood cancer treatment, a venture Hamdy believed in wholeheartedly.
+  - Hamdy's belief in the drug's potential was profound, and he saw it as life-changing and revolutionary.
+  - The sudden loss of this opportunity leaves him with a mix of emotions including self-pity, depression, fear, and fury.
+- The Challenge of Cancer Drug Development:
+  - Hamdy recognizes the challenging odds of developing successful cancer drugs.
+  - He acknowledges the randomness of success in this field, with most attempts leading to failure.
+  - Despite this, Hamdy believed in a forthcoming biotechnology revolution and saw his company's drug as a part of it.
+- The Potential of a Forgotten Drug:
+  - The drug, a BTK inhibitor, showed promise in treating adult leukemia.
+  - Hamdy's conviction about its potential was based on a subtle signal it triggered in patients.
+  - This drug was overlooked and forgotten for a time, highlighting the existence of untapped potential in pharmaceutical pipelines.
+- Discovering Buried Treasure:
+  - Hamdy emphasizes that numerous valuable drugs are trapped within pharmaceutical companies' pipelines.
+  - These drugs could be developed with a visionary approach and funding, representing a golden opportunity.
+  - Pharmacyclics stumbled upon their BTK inhibitor almost accidentally, illustrating the potential to uncover hidden gems.
+- Strings Attached to Success:
+  - Hamdy's anger centers around an individual who controlled the financial aspects of the company's endeavors.
+  - The pursuit of groundbreaking drugs is accompanied by financial complexities and influences.
+  - The presence of money, innovation, and the vision to seize opportunities are essential in this journey.
+
+## The Surfing Scientologist
+- Introduction to Demian Duggan and Robert Duggan:
+  - On Super Bowl Sunday 1997, while the New England Patriots played, Demian Duggan faced a family tragedy.
+  - Demian, a young entrepreneur with ambitious dreams, was diagnosed with glioblastoma, a deadly brain cancer.
+- Demian's Ventures and Treatment:
+  - Demian pursued entrepreneurial ventures, like starting a billboard company in Croatia with his father's support.
+  - Despite his success, he faced a growing brain tumor, ultimately diagnosed as glioblastoma.
+  - Demian's refusal of standard treatment led him to an alternative protein treatment that showed promise.
+- Demian's Spiritual Journey and Passing:
+  - As Demian's health deteriorated, he embraced spiritual beliefs, particularly Scientology's view of immortality.
+  - He asked his father to adopt children to carry on his legacy and peacefully passed away.
+- Robert Duggan's Background and Rise:
+  - Robert Duggan grew up in California and attended college but dropped out to avoid the Vietnam War.
+  - He excelled in stock trading and business ventures, achieving notable successes.
+- Scientific and Philosophical Influences:
+  - Duggan explored self-help and scientific concepts, including teachings by Werner Erhard and L. Ron Hubbard.
+  - Hubbard's approach to study and learning resonated with Duggan, shaping his perspective on life.
+- Entrepreneurial Endeavors:
+  - Duggan's involvement in multiple businesses showcased his enthusiasm and innovative thinking.
+  - His investments in Cookie Munchers Paradise and Paradise Bakery, along with other ventures, yielded significant profits.
+- Involvement in Healthcare and Robotics:
+  - Duggan ventured into the healthcare industry with companies like Communication Machinery Corporation and Computer Motion.
+  - Computer Motion produced medical robots, aiding surgeons in minimally invasive procedures.
+  - Duggan's philanthropic and business interests intersected, including his support for Dianetics and Library programs.
+- Entrance into Biotechnology:
+  - Duggan's attention turned towards biotech, particularly Pharmacyclics, which aimed to enhance radiation therapy for brain cancer.
+  - He accumulated Pharmacyclics stock and reached out to the CEO, Richard Miller.
+
+## Man of Science
+- Introduction: Meeting Between Richard Miller and Bob Duggan
+  - Richard Miller, CEO of Pharmacyclics, a biotech company, receives a call from Bob Duggan, a stranger interested in investing in Pharmacyclics.
+  - Miller is an MD and scientist, while Duggan is a wealthy outsider with a personal connection to brain cancer due to his son's death.
+- Miller's Background and Pharmacyclics' Struggles
+  - Miller's background in medicine and baseball.
+  - Miller's involvement in the development of a groundbreaking cancer therapy.
+  - Pharmacyclics' initial success, followed by stock plunge due to failed clinical trials of their lead drug Xcytrin.
+  - Pharmacyclics' focus on brain cancer treatment, particularly lung cancer spreading to the brain.
+- Duggan's Interest and Involvement in Pharmacyclics
+  - Duggan's personal story of his son's brain tumor and his emotional connection to brain cancer treatment.
+  - Duggan's lack of scientific knowledge but strong motivation to find treatments.
+  - Duggan's increasing stock purchases and engagement with Pharmacyclics.
+- J. Craig Venter and Celera's Vision
+  - J. Craig Venter's revolutionary ideas for biotechnology, fusing medical science with software and algorithms.
+  - Celera's efforts to decode the human genome and use genetic data for drug development.
+  - Celera's purchase of Axys Pharmaceuticals and its vision for precision drug development.
+- Celera's Drug Programs and BTK Inhibitors
+  - Celera's focus on tyrosine kinase inhibitors, particularly Bruton's tyrosine kinase (BTK) inhibitors.
+  - Celera's development of irreversible BTK inhibitors as well as nonreversible compounds for rheumatoid arthritis.
+  - Celera's shift away from drug development and decision to close down its South San Francisco facility.
+- Miller's Interaction with Celera and Acquisition of Drug Programs
+  - Miller's networking and interaction with Ken Brameld, a young computational chemist from Celera.
+  - Miller's interest in Celera's HDAC inhibitor program for lymphoma treatment.
+  - Miller's interest in the BTK inhibitor program and its potential use in blood cancer treatment.
+  - The unusual purchase of the BTK inhibitors, including Zhengying Pan's CRA-032765, for a low price.
+  - Miller's acquisition of Celera's programs for a total of $6.6 million.
+
+## The Takeover
+- Background and Frustration with FDA Approval Process:
+  - Richard Miller, founder of Pharmacyclics, frustrated with FDA's approval process for cancer drugs.
+  - FDA led by Richard Pazdur, reputation for making cancer drug approval difficult.
+  - Miller's frustration led him to write an opinion article criticizing FDA for denying treatments to cancer patients.
+  - Miller's article published in Wall Street Journal, criticized FDA's outdated statistical standards.
+  - Miller's company, Pharmacyclics, developed experimental brain cancer drug called Xcytrin.
+- Struggles with Xcytrin and FDA Refusals:
+  - Miller hoped to get Xcytrin approved despite clinical trial failures.
+  - Submitted New Drug Application for Xcytrin, FDA responded with "refuse to file" letter.
+  - Miller refused to give up, submitted another application over protest.
+  - FDA's refusal to review Xcytrin's application led to Miller's frustration and public criticism.
+  - Miller wrote opinion articles about FDA's policies and decision-making.
+- Entry of Bob Duggan and Shift in Direction:
+  - Bob Duggan, a major shareholder, joined Pharmacyclics' board.
+  - Despite Miller's efforts, FDA rejected Xcytrin's application again.
+  - Miller decided to refocus the company on a new direction due to Xcytrin's repeated failures.
+  - Miller's interest turned towards testing BTK inhibitor, CRA-032765, in lymphoma patients.
+  - Initial skepticism but Miller decided to explore BTK inhibitors for cancer treatment.
+- Early Steps with BTK Inhibitor and Clinical Trials:
+  - Miller's decision to test BTK inhibitor PCI-32765 (formerly CRA-032765) in lymphoma patients.
+  - Chose CLL patients for the trial due to ease of measuring drug effects.
+  - Filed Investigational New Drug Application to test PCI-32765 in various lymphomas.
+  - Daniel Pollyea, clinical research fellow, chosen to lead the clinical trial.
+- Duggan's Persistence and Board Struggles:
+  - Bob Duggan wanted to continue Xcytrin trials despite Miller's doubts.
+  - Duggan initiated a tender offer to buy more Pharmacyclics shares.
+  - Duggan increased his control over Pharmacyclics and pushed for new Xcytrin trials.
+  - Duggan insisted on replacing Pharmacyclics' board with his own candidates.
+- Board Resignations and Miller's Departure:
+  - Miller faced pressure from Duggan to replace board members.
+  - Three board members resigned due to Duggan's demands.
+  - Miller and Pharmacyclics' CFO also resigned.
+  - Miller sold his shares and left the company he founded.
+
+## Starting Fresh
+- Introduction: Francisco Salva's Arrival at Pharmacyclics
+  - Francisco Salva arrived at Pharmacyclics' offices and was handed a strange multiple-choice test.
+  - The test seemed like a personality assessment influenced by Scientology, raising concerns.
+- Salva's Hiring and Initial Impressions
+  - Salva, an observer of the life sciences industry, saw a chance to work in biotech and joined Pharmacyclics.
+  - Bob Duggan, charismatic CEO with no biopharma experience, wanted Salva to raise money for a new trial.
+  - Pharmacyclics faced financial difficulties due to the 2008 financial crisis.
+- Duggan's Financial Support and Vision
+  - Duggan lent Pharmacyclics money to keep it afloat during the crisis.
+  - Despite challenges, Duggan was dedicated to finding a medicine that would impact people's lives, especially brain cancer patients.
+  - Ramses Erdtmann suggested selling Pharmacyclics' BTK inhibitor.
+- Duggan's Leadership and Influence of Scientology
+  - Duggan took on a CEO role, emphasizing building a viable biopharmaceutical company.
+  - His leadership style raised skepticism; he introduced Scientology teachings into the company's philosophy.
+  - Some employees were uncomfortable with Duggan's incorporation of Scientology concepts.
+- Salva's Encounter with Scientology
+  - Salva was encouraged to attend Scientology meetings but didn't pursue further involvement.
+- Patent Strategy and Development Efforts
+  - Duggan recognized the importance of patents and secured them for Pharmacyclics' drugs.
+  - Duggan decided to halt new clinical development of the brain cancer drug, Xcytrin.
+- Ahmed Hamdy's Role as CMO
+  - Ahmed Hamdy joined Pharmacyclics as Chief Medical Officer (CMO) and VP of Clinical Development.
+  - Hamdy brought extensive medical and business experience to his new position.
+  - His responsibilities included patient safety, trial design, and overseeing clinical development.
+- Building Connections and Expertise
+  - Hamdy worked to enroll respected doctors for Pharmacyclics' trials.
+  - He focused on making connections with influential figures in the lymphoma field.
+  - Hamdy aimed to bring in top experts like Lou Staudt and Wyndham Wilson.
+- Staudt's Impact and Discovery
+  - Lou Staudt's significant contributions to lymphoma research earned him recognition.
+  - Staudt's research pointed to the role of B cell receptor signaling and BTK in lymphoma.
+- Company Priorities and HDAC Inhibitor Deal
+  - Pharmacyclics focused on its BTK inhibitor despite the initial lack of attention.
+  - The HDAC inhibitor brought financial relief through a deal with Laboratoires Servier.
+- Overall Struggles and Growth
+  - Pharmacyclics faced financial challenges during the financial crisis but aimed to develop meaningful therapies.
+  - The company sought expert partnerships and worked on its experimental drugs.
+
+## Wall Street
+- Pharmacyclics' Fundraising Efforts and Meeting with Rothbaum:
+  - Bob Duggan, Glenn Rice, and Francisco Salva hired the Trout Group to advise on potential investors for Pharmacyclics.
+  - They made a fundraising trip to New York to pitch the company's potential to hedge funds and investment firms.
+  - Wayne Rothbaum, a biotechnology stock trader known for his aggressive investment approach, and Thomas Turalski, his associate, were part of the meeting.
+  - Rothbaum's reputation was built on bold and concentrated bets on promising drugs, and he had an intense focus on understanding the human body and diseases.
+- Duggan's Approach and Presentation:
+  - Duggan emphasized being honest, direct, and not making promises he couldn't fulfill.
+  - The team presented Pharmacyclics' development pipeline, focusing on the BTK inhibitor and other drugs.
+  - Duggan's investment philosophy was to build confidence by delivering on commitments and not overpromising.
+  - Rothbaum saw Duggan as a winner due to his approach and history of successful businesses.
+- Rothbaum's Background and Investment Strategy:
+  - Wayne P. Rothbaum grew up in Smithtown, NY, with a middle-class background.
+  - He initially pursued premed but shifted to political science and psychology, then studied international affairs.
+  - Rothbaum excelled in analyzing biotech assets and companies during his time at the Carson Group.
+  - He started his own investment firm, Quogue Capital, with a focus on biotech investments.
+  - Rothbaum's partnership with Joe Edelman and their investment philosophies, including a willingness to go "all-in" on their best ideas.
+- Rothbaum's Approach to Investing:
+  - Rothbaum had a reputation for making bold and concentrated bets on drugs he believed would succeed.
+  - He believed in understanding the human body's mechanisms and connecting various disciplines in his investment decisions.
+  - His secretive and independent nature led him to manage his own money without external clients.
+- Pharmacyclics' BTK Inhibitor Trial:
+  - A patient with chronic lymphocytic leukemia (CLL) sought treatment at a medical clinic in Oregon.
+  - The patient participated in a study run by Pharmacyclics, testing their experimental BTK inhibitor, PCI-32765.
+  - The drug showed promise, leading to partial remissions in CLL patients.
+  - The drug's success was a relief for Pharmacyclics after a period of uncertainty.
+- Duggan's Response to Positive Results:
+  - Duggan celebrated the drug's success with enthusiasm.
+  - The first partial remission led to excitement within the company.
+
+## The Big Easy
+- Introduction:
+  - In December 2009, Bob Duggan attended the American Society of Hematology Annual Meeting (ASH), a significant event in the drug industry.
+  - Pharmacyclics, his company, was not well-known, and Duggan aimed to make a significant impact.
+- Duggan's Memorable Appearance:
+  - Duggan arrived at ASH wearing a fur coat, attracting attention and raising eyebrows.
+  - Despite the odd attire, Duggan was on a mission and had a purpose at the conference.
+- Initial Presentation of Drug Data:
+  - Pharmacyclics presented early phase 1 data for the BTK inhibitor drug, PCI-32765, at the conference.
+  - The data showed promising results, with partial responses observed in patients with various types of blood cancer.
+  - Initial reactions were subdued, as the drug was still in an early stage of development.
+- Investors' Interest and Stock Surge:
+  - Wall Street investor Richard Klemm noticed the promising results and bought Pharmacyclics stock.
+  - OrbiMed Advisors, headed by Sven Borho, also invested heavily in Pharmacyclics stock.
+  - Wayne Rothbaum, an experienced investor, recognized the potential and began buying significant amounts of the stock.
+  - Rothbaum and Borho unintentionally engaged in a bidding war, driving up the stock price by 17% in a day.
+- Recruitment and Recruitment Efforts:
+  - Pharmacyclics aimed to build its clinical operations team and attract experienced talent.
+  - Ahmed Hamdy, Pharmacyclics' CMO, identified Raquel Izumi as a potential recruit due to their previous association at PDL Biopharma.
+  - Hamdy shared early trial data with Izumi, sparking her interest in joining Pharmacyclics.
+- Duggan's Involvement and Hiring Izumi:
+  - Duggan interviewed Izumi for a position at Pharmacyclics and found a connection through their shared affiliation with UCSB.
+  - Izumi's enthusiasm and the opportunity to work on a groundbreaking cancer drug motivated her to accept the position.
+  - Duggan felt Pharmacyclics was on the cusp of a turning point, with multiple potential drug candidates gaining momentum.
+- Validation and Progress:
+  - Lou Staudt's published paper in Nature supported the importance of BTK in lymphoma and highlighted the potential of PCI-32765.
+  - Pharmacyclics saw Staudt's paper as validation for their research and featured it on their website.
+  - Duggan and Hamdy were motivated to explore the drug's potential for treating chronic lymphocytic leukemia (CLL).
+- Anticipating a Transformative Journey:
+  - Duggan and Hamdy's decision to pursue the potential of PCI-32765 marked the beginning of a transformative journey for both the drug and the company.
+
+## The Next Phase
+- Introduction: Ahmed Hamdy and Wayne Rothbaum
+  - Ahmed Hamdy receives a call from Wayne Rothbaum regarding Pharmacyclics, a biotech company moving into blood cancer treatment.
+  - Rothbaum questions why he should keep buying Pharmacyclics shares when Calistoga Pharmaceuticals, a rival firm, seems ahead in the race.
+  - Hamdy explains that both companies' stocks could be worth buying.
+- Funding and Development Options for Biotech Companies
+  - Small biotech companies can fund their projects by raising money from venture capitalists or going public.
+  - Pharmacyclics is working on multiple experimental drugs simultaneously.
+  - Rothbaum advises against partnering with larger pharmaceutical companies too soon.
+- Rothbaum's Concerns and Conversations with Duggan
+  - Rothbaum meets with CEO Bob Duggan and expresses concern about Pharmacyclics' focus on its BTK inhibitor.
+  - Rothbaum advises against partnering the BTK inhibitor and emphasizes its potential value.
+  - Duggan defends his approach and emphasizes the potential for stock dilution.
+- Discussion on Strategic Decisions and Partnering
+  - Rothbaum argues that asset dilution from selling parts of a drug could be worse than equity dilution.
+  - Duggan and Rothbaum discuss Celgene's path and the balance between partnering and equity dilution.
+- Meeting with Doctors and Designing the Clinical Trial
+  - Hamdy presents Pharmacyclics' data to doctors, seeking clinical investigators for a trial of their BTK inhibitor.
+  - John Byrd and Susan O'Brien join the discussion, noting interesting patterns in the data.
+  - Byrd and O'Brien recommend a new trial design to test the BTK inhibitor's efficacy.
+- Byrd and O'Brien's Insights
+  - Byrd speculates that the sawtooth pattern in white blood cell counts could indicate a positive effect on disease.
+  - Byrd believes the drug might be mobilizing cancer cells to make them more vulnerable in the bloodstream.
+  - The doctors propose a trial targeting CLL patients who failed previous treatment and those starting initial treatment.
+- Trial Setup and Rapid Enrollment
+  - Hamdy and Raquel Izumi develop a fast-tracked trial design, enrolling 130 CLL patients.
+  - Izumi's skill in medical writing helps accelerate the trial setup and communication with regulators.
+  - The trial starts remarkably quickly, enrolling patients at a high pace.
+- Patient Communication and Company Dynamics
+  - Byrd explains the BTK inhibitor's mechanism to patients using a light switch analogy.
+  - Hamdy and Izumi work well together, complementing each other's strengths.
+  - Duggan closely monitors progress, even challenging Hamdy and his team's decisions.
+- Rothbaum's Growing Interest and Positive Data
+  - Rothbaum becomes a significant Pharmacyclics shareholder and supports the BTK inhibitor.
+  - Updated data from the phase 1 trial shows promising results for partial remissions in CLL patients.
+- Discussion at a Dinner Reception
+  - Hamdy faces questions from investors about dosing levels and maximum tolerated doses for the drug.
+  - Rothbaum and Hamdy debate the scientific rationale for finding the maximum tolerated dose.
+  - Tension escalates, leading Duggan to intervene physically and address the discussion.
+
+## Fired
+- Background and Clinical Trials
+  - In October 2010, Robert Azopardi, suffering from chronic lymphocytic leukemia (CLL), met with Dr. Richard Furman for a last-ditch effort after failing conventional treatments.
+  - He was enrolled in a clinical trial for PCI-32765, a BTK inhibitor developed by Pharmacyclics.
+  - Patients taking the drug experienced significant reductions in lymph node size, platelet, neutrophil, and hemoglobin counts improved.
+  - Despite initial concerns about increased white blood cell counts, patients reported feeling better and wanted to stay on the drug.
+- Controversial Data and Wall Street Interest
+  - The data from the clinical trial caused controversy due to conflicting metrics of response.
+  - The drug showed promise in reducing lymph node size, but traditional response criteria were not fully met.
+  - Wall Street investors, including Felix Baker, showed interest despite skepticism over data interpretation.
+- Differentiating from Competing Drugs
+  - Pharmacyclics' drug was compared to idelalisib, another B cell receptor pathway inhibitor.
+  - Both drugs caused elevated white blood cell counts, raising concerns about efficacy.
+  - Wayne Rothbaum, a 10% owner of Calistoga, expressed doubts about Pharmacyclics' drug effectiveness.
+- Internal Struggles and Decision Making
+  - The company's leadership debated strategic directions, such as focusing on CLL versus branching into mantle cell lymphoma.
+  - Hamdy proposed launching a phase 2 trial for mantle cell lymphoma, met resistance from the Genentech veterans.
+  - Duggan wanted to rapidly advance Pharmacyclics into late-stage development and considered hiring an experienced expert.
+- Pharmaceutical Partnerships and Change in Leadership
+  - Peter Lebowitz from J&J's Janssen showed interest in partnering with Pharmacyclics for PCI-32765.
+  - Duggan considered partnering with big pharmaceutical companies to accelerate development.
+  - Pharmacyclics decided to let Hamdy go due to disagreements and internal conflicts.
+  - Izumi, who played a crucial role in clinical trials, was also unexpectedly fired.
+- Consequences and Future Direction
+  - Hamdy and Izumi's unexpected firings shocked them, raising questions about stock options and financial stability.
+  - Pharmacyclics had to navigate internal tensions while pursuing promising clinical outcomes.
+  - The decisions and changes in leadership marked a turning point in the company's trajectory.
+
+## Partners
+- Introduction: Raquel Izumi's Struggles and Ambitions
+  - Raquel Izumi finds herself in a Chicago hotel room paid for by a friend's company.
+  - She had been fired after contributing to a drug's success and wanted to attend a medical conference.
+  - She sneaks into the conference with borrowed identification to hear John Byrd's presentation.
+- Presentation of PCI-32765 Data
+  - John Byrd presents encouraging results of PCI-32765 for chronic lymphocytic leukemia (CLL).
+  - The drug shows positive responses in CLL patients, both previously untreated and those who failed other treatments.
+  - Izumi is moved by her role in the development of the drug and its potential to help cancer patients.
+- Pharmacyclics Executive Dynamics
+  - Wayne Rothbaum questions the departure of Ahmed Hamdy from Pharmacyclics.
+  - Wayne Rothbaum questions the departure of Ahmed Hamdy from Pharmacyclics.
+  - Wayne Rothbaum questions the departure of Ahmed Hamdy from Pharmacyclics.
+- Duggan's Leadership and Philosophy
+  - Bob Duggan defines key business tenets: quality, time, and cost.
+  - Duggan values quality and challenges executives to maximize value through high-quality work.
+  - Maky Zanganeh becomes a prominent figure and COO, working closely with Duggan.
+- Pharmacyclics' Need for a Partnership
+  - Pharmacyclics needs more funds and expertise to develop PCI-32765.
+  - Duggan seeks a partnership with a big pharmaceutical company.
+  - Financing through the stock market is challenging due to limited investor interest.
+- Negotiations with Pharmaceutical Companies
+  - Celgene, Novartis, and J&J's Janssen show interest in partnering.
+  - Duggan insists on keeping control of drug's US commercial operations and regulatory responsibility.
+  - J&J's Janssen emerges as a strong contender due to shared vision and willingness to partner on Duggan's terms.
+- The J&J Partnership
+  - Duggan strikes a deal with J&J, making Pharmacyclics and J&J partners.
+  - J&J provides over $1 billion upfront and milestone payments for half of the drug's worldwide profits.
+  - Pharmacyclics retains control of US commercial and regulatory operations, J&J handles international aspects.
+- Duggan's Vision and Ibrutinib's Naming
+  - Duggan's vision aligns with creating a groundbreaking product.
+  - Duggan names the drug "ibrutinib" by borrowing the lowercase "i" concept from Apple products.
+
+## Going Dutch
+- Formation of Aspire Therapeutics:
+  - Ahmed Hamdy and Francisco Salva, former employees of Pharmacyclics, started commiserating after being let go.
+  - Salva encouraged Hamdy to focus on what he really wanted to do – develop good drugs.
+  - They decided to start a new company, Aspire Therapeutics, with Raquel Izumi joining them.
+  - Izumi proposed licensing a BTK inhibitor from the Huntsman Cancer Institute for autoimmune and cancer indications.
+  - Aspire Therapeutics was formed with the goal of developing innovative drugs.
+- J.P. Morgan Healthcare Conference:
+  - The trio attended the J.P. Morgan Healthcare Conference, a significant event in the biopharma industry.
+  - Aspire was relegated to the less prestigious Biotech Showcase, but they still aimed to make an impact.
+- Meeting with Edward van Wezel:
+  - The group met with Edward van Wezel, a Dutch venture capitalist, who knew about the potential of the BTK inhibitor.
+  - Van Wezel introduced Hamdy, Izumi, and Salva to Allard Kaptein and Tjeerd Barf, Dutch scientists who had developed the BTK inhibitor.
+  - Despite initial skepticism, the teams hit it off and discussed potential partnerships.
+- Collaboration and Plans:
+  - Kaptein and Barf's BTK inhibitor showed promising preclinical data, exciting Hamdy and Izumi.
+  - Van Wezel proposed an even 50-50 partnership and suggested collaborating on multiple molecules.
+  - The teams saw the potential of the BTK inhibitor to revolutionize treatment for autoimmune conditions.
+- Involvement of Wayne Rothbaum:
+  - Hamdy informed Rothbaum about the Dutch compound, sparking Rothbaum's interest due to the molecule's selectivity.
+  - Rothbaum's involvement signaled a potential financial backing for the project.
+  - Everyone on the team believed in the potential of the Dutch molecule, each for their own reasons.
+- Challenges with Rights:
+  - The main challenge was securing the rights to the BTK inhibitor, which still belonged to Merck & Co.
+
+## Genius
+- Bob Duggan and the Genius Program at Pharmacyclics:
+  - Bob Duggan, wearing a blue shirt, presents the "Genius" program to Pharmacyclics employees, emphasizing that the word "genius" means innate qualities rather than extraordinary abilities.
+  - He implements a program based on the 24 genius qualities by Alfred Barrios, embraced by L. Ron Hubbard, founder of the Church of Scientology.
+  - Duggan organizes workshops, flashcards, and exercises to promote these genius qualities among employees.
+- Mixed Reactions and Controversy:
+  - Some employees appreciate the positive culture shift, while others find the program tangential to their work on developing the drug ibrutinib.
+  - Some feel the program is linked to Scientology and express concern about religion in the workplace.
+  - Alice Wei voices her concerns about the program's religious undertones to Duggan.
+- Duggan's Perspective and Leadership:
+  - Duggan claims the Genius program is not linked to Scientology, but he is open about his Scientology beliefs.
+  - He implements unconventional practices, such as not taking a salary, promoting change, and firing people when necessary.
+  - The Pharmacyclics culture is likened to a cult, with fervent belief in the drug's potential and Duggan's charismatic leadership style.
+- Clinical Trials and Regulatory Strategy:
+  - Pharmacyclics applies for the FDA's "breakthrough therapy" designation to expedite drug approvals.
+  - Duggan aims to streamline the regulatory process using this designation to advance the approval of ibrutinib for multiple blood cancers.
+  - The company initiates large-scale clinical trials to generate data supporting FDA approval for various indications.
+- Strategies and Challenges:
+  - Pharmacyclics designs RESONATE, a phase 3 randomized trial comparing ibrutinib to ofatumumab for CLL patients.
+  - Duggan's strategy focuses on single-agent therapy for ibrutinib, while some question combining it with other drugs.
+  - Patients and online communities tout the benefits of ibrutinib, leading to increased awareness among physicians.
+  - Rothbaum, an early investor in Pharmacyclics, regrets selling stocks prematurely and struggles with his investment decision.
+
+## Truffle Pig
+- Introduction
+  - Wayne Rothbaum is at a medical conference and learns about a change in the drug's direction.
+  - Ahmed Hamdy proposes shifting focus to a different drug, ROR1, instead of licensing Dutch BTK inhibitor from Merck.
+  - Rothbaum is concerned and questions Hamdy's decision.
+- Background and Decision-Making
+  - Rothbaum and Hamdy, former colleagues in biotech, plan to work together.
+  - Hamdy's change in plans is driven by fear of clashing with Bob Duggan, his former boss.
+  - Rothbaum challenges Hamdy's decision, emphasizing the importance of cancer treatment.
+  - Rothbaum offers to pursue autoimmune rights from Merck separately.
+- Strategies and Dynamics
+  - The Dutch BTK inhibitor needs to compete with Pharmacyclics' ibrutinib.
+  - Hamdy's fear of Duggan's influence and the Dutch BTK's potential success.
+  - Rothbaum's doubts about the importance of BTK and consideration of other targets.
+  - Rothbaum grills Hamdy, but Hamdy reaffirms BTK's significance.
+- Negotiations and Challenges
+  - Dutch government pressure leads Merck to divest unwanted assets.
+  - Acquisition of BTK inhibitor from Merck through Kaptein and Barf's efforts.
+  - Acerta's formation, secrecy, and naming.
+  - Rothbaum invests in Acerta's early stages, partners with Amgen for a PI3K delta inhibitor.
+  - Acquisition of a crucial patent from OSI Pharmaceuticals.
+- Development and Progress
+  - Acerta establishes lab facilities in San Carlos, California.
+  - Acerta acquires rights to the BTK inhibitor and gains support from expert CLL doctors.
+  - Positive results in canine lymphoma study reinforce the drug's potential.
+  - Acerta files an Investigational New Drug Application with the FDA.
+
+## Master Switch
+- Terry Evans' Desperation and Trial Assignment
+  - Terry Evans, a 65-year-old retired IT manager, hoped to access ibrutinib through the RESONATE trial.
+  - Assigned to the control group with ofatumumab instead of ibrutinib.
+  - Evans educated himself on chronic lymphocytic leukemia (CLL) treatments and realized ofatumumab wouldn't help.
+  - His life depended on the trial's outcome.
+- Design Challenges of the RESONATE Trial
+  - The trial aimed to show ibrutinib's safety and efficacy to gain FDA approval.
+  - Primary measure: progression-free survival; secondary measure: overall survival.
+  - The challenge was the debate over allowing crossover from ofatumumab to ibrutinib, potentially affecting survival outcomes.
+  - Pharmacyclics amended the plan to allow patient crossover after FDA approval.
+- Physician-scientists' Ethical Dilemmas and FDA Involvement
+  - Ohio State's John Byrd and MD Anderson's Susan O'Brien pushed for crossover.
+  - Richard Pazdur, FDA's oncology chief, supported crossover for promising therapies.
+  - Pharmacyclics enabled crossover, allowing access to ibrutinib.
+- Ibrutinib's Effectiveness and Side Effects
+  - NEJM published phase 1B/2 trial results, showing impressive outcomes.
+  - BTK was compared to a master switch, suppressing cancer cells.
+  - Lymph nodes shrank and white blood cell counts decreased in a significant portion of patients.
+  - Some side effects like diarrhea, joint pain, and bleeding emerged, along with more serious conditions like atrial fibrillation and subdural hematoma.
+- Financial and Market Impact
+  - Ibrutinib's potential profitability excited investors.
+  - Continuous treatment with the drug was projected to generate significant revenue.
+  - Pharmacyclics' stock price surged to $123, market valuation reached $9 billion.
+- Recognition and Financial Issues
+  - Some individuals who contributed to the drug's development were left out of publications.
+  - Personal financial mistakes were made by some, like Ahmed Hamdy and Wayne Rothbaum.
+
+## Approved
+- Introduction:
+  - Ahmed Hamdy receives an ambiguous audio message from Bob Duggan, former colleague, creating unease.
+  - Hamdy suspects potential intrusion into his personal life due to Duggan's past ties to Scientology.
+  - Anxiety at Acerta grows, spurred by a van and a missing laptop, both unrelated to Duggan.
+- Pharmacyclics and Acerta:
+  - Pharmacyclics and Acerta both work on BTK inhibitors for CLL treatment.
+  - Duggan and Pharmacyclics focus on accelerated FDA approvals for mantle cell lymphoma and CLL.
+  - Duggan's strategy includes leveraging small trial data for approval submissions.
+  - The FDA's Pazdur pushes for balance between safety and efficacy, advocating for randomized trials.
+  - FDA regulators suggest splitting applications for mantle cell lymphoma and CLL approvals.
+- Imbruvica Approval:
+  - Pharmacyclics secures accelerated approval for Imbruvica in mantle cell lymphoma patients.
+  - Imbruvica gains attention due to its high price and significant potential.
+  - Duggan navigates the balance between pricing, approval, and market positioning.
+  - Pharmacyclics exceeds revenue forecasts for Imbruvica, leading to speculation about Duggan's skills.
+- Acerta's Struggle and Progress:
+  - Acerta faces challenges in launching its BTK inhibitor trial.
+  - First patient enrolled experiences a dramatic response, boosting confidence in the drug's potential.
+  - Rothbaum urges a broad clinical program, including multiple blood cancers and rheumatoid arthritis.
+
+## Demoted
+- Introduction:
+  - Wayne Rothbaum's intense management style and control over Acerta's operations in San Carlos, California, creates tension and stress.
+  - Rothbaum's high expectations and involvement stem from his significant financial investment and desire for control over facts and events.
+- Rothbaum's Involvement and Control:
+  - Rothbaum's controlling nature and extensive involvement in Acerta's operations create tension among the team.
+  - He constantly communicates with the team, even at odd hours, and expects updates and information promptly.
+  - Rothbaum's investment and knowledge of biotech make his influence more substantial than previous financiers like Bob Duggan.
+- Development of Acerta's Drug:
+  - Acerta's team works on developing the BTK inhibitor drug "acalabrutinib."
+  - Rothbaum closely tracks patient data through trackers and becomes heavily invested in the company's success.
+  - Challenges arise in drug manufacturing, supply, and logistics, threatening the progress.
+- Leadership Conflict:
+  - A debate arises about escalating patient doses in the clinical trial.
+  - Hamdy, Acerta's CEO and CMO, is hesitant to escalate doses due to potential risks.
+  - Rothbaum insists on a more aggressive approach, leading to clashes and threats.
+- Management Changes and Tensions:
+  - Rothbaum, dissatisfied with Hamdy's management, removes him from the CEO position.
+  - Dave Johnson becomes the interim CEO while Hamdy continues as CMO.
+  - Rothbaum's push for Johnson's appointment signals changes in the company's leadership structure.
+- Rothbaum's Management Approach:
+  - Rothbaum's approach to management involves intense involvement, control, and hands-on decision-making.
+  - He sees Acerta's success as tied to his personal success and financial investment.
+  - The tension between Rothbaum and Hamdy exemplifies the challenges of balancing financial interests with scientific and clinical priorities.
+
+## Billions
+- Challenges in Regulatory Approval for Acalabrutinib:
+  - Wayne Rothbaum faced a crisis when the FDA rejected Acerta's plans for acalabrutinib approval.
+  - Initial successes with acalabrutinib in relapsed CLL patients were hindered by FDA concerns.
+  - FDA rejected Acerta's proposed testing protocols and required a more robust trial design.
+- Strategies for Regulatory Approval:
+  - Rothbaum and Acerta's team brainstormed ways to gain FDA approval for acalabrutinib.
+  - Designed a comprehensive program of multiple phase 3 trials.
+  - Trials included testing acalabrutinib as a first-line therapy, in combination with monoclonal antibodies and chemotherapy.
+  - Planned head-to-head trials against Imbruvica, aiming to show acalabrutinib's safety and superiority.
+- Bob Duggan's Achievements with Imbruvica:
+  - Imbruvica's success at ASH conference, with multiple abstracts and presentations.
+  - Duggan's leadership turned Pharmacyclics into a major player in the field.
+  - Imbruvica's widespread FDA approvals and its potential for various diseases.
+  - Imbruvica's financial impact and assistance programs for patients.
+- Pharmacyclics' Acquisition Bidding War:
+  - Imbruvica's acquisition garnered intense interest from pharmaceutical companies.
+  - AbbVie, J&J, Novartis, and Pfizer were potential buyers.
+  - AbbVie ultimately secured Pharmacyclics for $21 billion, valuing Imbruvica at $42 billion.
+  - Gonzalez's strategic move to secure a de-risked drug for AbbVie's future earnings.
+- Financial Implications and Personal Triumphs:
+  - Financial outcomes for different stakeholders:
+    - Maky Zanganeh, Felix and Julian Baker, Peter Lebowitz, Paul Stoffels, Wayne Rothbaum, and others.
+  - Uneven distribution of financial rewards among those involved in Imbruvica's success.
+  - Duggan's incredible profit from his $50 million investment to a $3.5 billion payday.
+  - Duggan's promise to retain employees and reward some with a new Tesla Model S.
+
+## The Whirlwind
+- Background and Company Challenges:
+  - Dave Johnson, previously not an executive, became interim CEO of Acerta.
+  - Acerta faced challenges in drug manufacturing, office space, and overseeing multiple trials.
+  - Johnson's concern was the company's drug supply and growth needs.
+  - Maria Fardis hired as COO due to her results-oriented approach.
+  - Acerta's fast-paced operations led to financial strain and fundraising needs.
+  - Johnson successfully raised $375 million in a Series B round.
+- Clinical Trials and Drug Development:
+  - Acerta launched numerous clinical trials for acalabrutinib.
+  - Trials covered various blood cancers, solid tumors, and rheumatoid arthritis.
+  - Acalabrutinib's potential to differentiate from Imbruvica discussed.
+  - Strategic move towards twice-daily dosing of acalabrutinib.
+  - Promising outcomes with high response rates and better tolerability.
+- Rivalry and Access to Imbruvica:
+  - Intense competition between acalabrutinib and Imbruvica.
+  - Difficulties in obtaining Imbruvica capsules due to rivalry and influence from J&J and AbbVie.
+  - Maria Fardis found a solution by sourcing Imbruvica from European networks.
+- AstraZeneca's Interest and Negotiations:
+  - AstraZeneca's CEO Pascal Soriot sought acalabrutinib to bolster their hematology franchise.
+  - Soriot's vision to pivot AstraZeneca toward innovation.
+  - Rothbaum and Soriot's meeting in New York led to favorable impression and discussions.
+  - AstraZeneca proposed a $7 billion upfront payment to acquire Acerta.
+  - Rothbaum and Acerta executives considered the deal due to challenges and potential.
+- Challenges in the Deal:
+  - AstraZeneca's due diligence and internal opposition due to potential patent issues.
+  - Rothbaum proposed splitting the payment into $4 billion upfront and $3 billion upon resolution of patent concerns.
+  - Acerta's confidence in its patent position due to OSI patent acquired in 2008.
+  - Agreement reached to structure the deal as proposed, leading to its finalization.
+
+## A Biotech Odyssey
+- Introduction:
+  - A 12-foot black slab resembling the monolith from "2001: A Space Odyssey" was designed to showcase a new blood cancer drug, Acalabrutinib.
+  - The monolith was unveiled at a medical conference in Orlando and presented the potential of the drug.
+- Acalabrutinib's Breakthrough:
+  - Acalabrutinib (also known as ACP-196) introduced as a potent BTK inhibitor for blood cancer treatment.
+  - Wayne Rothbaum, the driving force behind Acalabrutinib's development, presented it at a conference.
+  - Initial trial results showed a high overall response rate of 95% in relapsed chronic lymphocytic leukemia (CLL) patients.
+  - Acalabrutinib aimed to be safer than its predecessor, Imbruvica, with fewer side effects.
+- Rothbaum's Role and Challenges:
+  - Wayne Rothbaum, not a scientist, played a central role in Acerta's operations.
+  - Acalabrutinib attracted interest from AstraZeneca and Amgen for acquisition.
+  - Amgen's offer was compelling, but AstraZeneca's deal was preferred due to fewer contingencies.
+- Decision-Making Process:
+  - Acerta's board faced a tough decision: AstraZeneca's offer with contingencies or Amgen's cleaner offer.
+  - The board unanimously chose AstraZeneca's offer despite potential risks.
+  - Negotiations for the final deal commenced, but challenges arose.
+- Employee Compensation and Dilution:
+  - Acalabrutinib's sale led to significant dilution of employee shares due to Acerta's initial structure.
+  - Rothbaum initiated a "make-whole" program to cushion the blow for employees from the dilution.
+  - AstraZeneca proposed a retention fund to keep employees incentivized and within the company.
+- Employee Discontent and Upheaval:
+  - Acerta's employees were upset about the dilution and compensation structure.
+  - Dave Johnson, interim CEO of Acerta, and others felt that their fair share was not being given.
+  - Rothbaum's explanation of the situation was met with hostility and skepticism.
+- Tension and Fallout:
+  - Tensions escalated, and Rothbaum's relationship with Johnson soured.
+  - The negative atmosphere within Acerta persisted, with employees feeling underappreciated.
+  - AstraZeneca executives grew frustrated with complaints and concerns from Acerta's team.
+
+## Graduation Day
+- Raquel Izumi's Commencement Speech and Firing:
+  - Raquel Izumi gives commencement speech at University of California, Santa Barbara.
+  - She shares her firing by CEO Bob Duggan after being praised in her speech.
+  - The catalyst for starting her biotech company was being fired for her good work.
+  - Acalabrutinib (Calquence) receives FDA approval for mantle cell lymphoma.
+- Legal Battles and Litigation:
+  - AstraZeneca's Calquence approved; AbbVie's Pharmacyclics sues Acerta for patent infringement.
+  - AstraZeneca countersues, confrontation escalates involving J&J.
+  - AstraZeneca's deterrent strategy includes a nuclear button patent from OSI Pharmaceuticals.
+- Personal Changes and Challenges:
+  - Key figures involved in BTK inhibitors' development pursue new directions.
+  - Bob Duggan invests in Church of Scientology and other projects.
+  - Wayne Rothbaum moves to Florida after Acerta success, explores various endeavors.
+  - Richard Gonzalez, others face challenges in transitioning careers post success.
+- Blood Cancer Treatment Revolution and Success of Imbruvica:
+  - BTK inhibitors revolutionize blood cancer treatment.
+  - Imbruvica becomes a game changer for CLL and gains multiple FDA approvals.
+  - Patients benefit from better treatment options, extended survival rates.
+- Acerta's Acquisition and Financial Rewards:
+  - AstraZeneca acquires Acerta for $6.6 billion.
+  - Investors, including Wayne Rothbaum and Joe Edelman, earn substantial profits.
+  - Mixed feelings among contributors due to recognition and reward disparities.
+- Calquence's Approval and Market Entry:
+  - Calquence's FDA approval for CLL based on studies conducted by Acerta.
+  - AstraZeneca focuses on marketing and sales efforts to reach CLL patients.
+  - Drug generates significant revenue, and Pascal Soriot predicts larger contributions.
+- Ongoing Research and Competition:
+  - AstraZeneca continues research on Calquence's benefits and safety.
+  - Atrial fibrillation side effects associated with Imbruvica raise concerns.
+  - Calquence offers potentially safer alternative, lower side effect profile.
+
+## Epilogue: Head-to-Head
+- Ahmed Hamdy's Involvement in BTK Inhibitors and COVID-19 Study:
+  - Ahmed Hamdy, a horse enthusiast and experienced biotech professional, received a call from Wyndham Wilson, a lymphoma expert.
+  - Wilson and Louis Staudt believed BTK inhibitors could help treat COVID-19 patients by controlling the immune response.
+  - Hamdy's interest grew, and he proposed a study using BTK inhibitors to Wilson and AstraZeneca's CEO Pascal Soriot.
+  - The study's design evolved, involving Raquel Izumi and other AstraZeneca executives.
+  - Despite their efforts, Hamdy and Izumi were sidelined and eventually quit AstraZeneca.
+- Calquence's Success and Challenge to Imbruvica:
+  - AstraZeneca's Calquence, developed by Acerta, emerged as a BTK inhibitor rival to Imbruvica, developed by AbbVie and J&J.
+  - A head-to-head trial showed Calquence's comparable efficacy and better safety profile.
+  - Calquence gained popularity, becoming the preferred choice for new CLL patients.
+  - Imbruvica faced sales decline due to competition from Calquence.
+- Bob Duggan's Focus on Antibiotics and Challenges:
+  - Bob Duggan invested in antibiotic development despite the challenges in the field.
+  - Achaogen, his first venture, developed an antibiotic for urinary tract infections, but it failed due to high cost and lack of demand.
+  - Duggan's focus shifted to Summit Therapeutics, which aimed to tackle Clostridioides difficile infection.
+  - Summit's antibiotic also failed in a phase 3 trial, highlighting the difficulty of antibiotic development.
+- Legacy of Pharmacyclics and Acerta:
+  - The success of Pharmacyclics and Acerta in developing Imbruvica and Calquence marked the biotechnology boom of the 2010s.
+  - Biotech market enthusiasm declined after the COVID-19 vaccine hype, impacting investor interest.
+  - Duggan's Kartos Therapeutics explored new cancer treatments, and Rothbaum's Telios Pharma combined BTK inhibitors with other drugs for potential therapies.
+  - Hamdy, Izumi, and John Byrd formed Vincerx Pharma to pursue new opportunities in the biotech field.
+
