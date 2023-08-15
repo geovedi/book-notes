@@ -1,747 +1,1673 @@
-# A Hacker's Mind
-Bruce Schneier (2023)
 
-## HACKING 101
+# A Hacker's Mind
+Author: Bruce Schneier
+
+
+## Introduction
+- Introduction
+  - The concept that water never runs uphill is challenged by the influence of money and loopholes.
+  - Uncle Milton Industries sells ant farms that spark thoughts about hacking and human behavior.
+  - The author teaches cybersecurity policy and initiates a creative cheating exercise to foster a hacking mentality.
+- Hacking as a Mindset
+  - Security technologists focus on finding system vulnerabilities and exploiting them for advantage.
+  - Hacking involves exploiting system failures to subvert its purpose, going beyond typical perceptions.
+  - The author encourages cultivating a hacking mentality to understand cybersecurity and policy-making.
+- Redefining Hacking
+  - Hacking is not just limited to computer systems; it's prevalent in various areas and reinforces power structures.
+  - Wealthy individuals exploit rules for personal gain, hacking systems to their advantage.
+  - Hacking isn't only for teenagers or governments; it's integral to corporate, government lobbying, and social media practices.
+- Examples of Hacking
+  - The story of Peter Thiel's hack using a Roth IRA loophole to amass wealth tax-free.
+  - Hacking perpetuates feelings of government inefficacy and powerlessness against corporate interests.
+- Implications of Hacking
+  - Hacking undermines system purposes, leading to loss of faith in economic, political, and social systems.
+  - Institutional change is needed to counter the influence of the wealthy who perpetuate and profit from hacks.
+- The Role of AI in Hacking
+  - AI and autonomous systems are susceptible to hacking, impacting social, economic, and political systems.
+  - Machine learning in AI will lead to faster and more skilled hacking.
+  - AI will introduce a new era of hacking that goes beyond human limitations.
+- The Importance of the Book
+  - In the face of evolving hacking methods, the book aims to help readers recognize and defend against hacks.
+  - Understanding security concepts is essential for addressing world problems effectively.
+
+## Hacking 101
+
 ### What Is Hacking?
-- Definition of hacking as exploiting vulnerabilities in systems for desired outcomes.
-- Hacks occur within systems where participants agree to common rules (legal, social, or organizational).
-- Hacks take advantage of loopholes or unanticipated consequences in systems.
-- Different types of hackers: creative hackers who discover vulnerabilities, individuals using exploits, and beneficiaries of hacking activities.
-- Influence of wealth and power on hacking; resources enable effective exploitation.
-- Vulnerabilities exist in all systems; hacking is a natural outcome of systems thinking.
-- Creativity and problem-solving skills of hackers in circumventing system limitations.
-- Examples of hacking in various domains: online games, school systems, phone networks, societal norms.
-- Systems need resilience and resistance to hacking but not necessarily imperviousness.
-- Complex systems with many rules are more vulnerable; systems with flexible social norms are easily exploited.
-- Trust, good intentions, and systems of arbitration and adjudication are crucial for maintaining system functionality.
+- Defining Hacking
+  - The terms "hack," "hacking," and "hacker" have diverse meanings and connotations.
+  - Hacking is a tool for understanding a wide range of systems and their failures.
+  - The author offers a flexible definition of hacking for the purpose of the discussion.
+- Hacking Defined
+  - Hack (noun) is a clever, unintended exploitation of a system.
+  - It subverts system rules or norms, often at the expense of others affected by the system.
+  - Hacks are unintended and unanticipated by system designers.
+  - Hacking is distinct from cheating, innovation, and enhancement.
+- Distinguishing Hacks
+  - Hacking is not about breaking a system; it exploits the system's own rules.
+  - Smashing a car window and hotwiring it is not a hack; tricking keyless entry is.
+  - Hacking involves outsmarting a system's rules and its designers.
+- Hacking Subversion
+  - Hacking turns systems against themselves, undermining their intent by manipulating their rules or norms.
+  - It falls between cheating and innovation, involving creative exploitation.
+  - Subjective nature of "hack"; some are obviously hacks, others not, with gray areas.
+- Characteristics of Hacks
+  - Hacks evoke admiration, even from evil individuals, due to their cleverness.
+  - Hacks are often novel and elicit surprise or questions about their legitimacy.
+  - Definition of hacks evolves with changing rules, norms, and technology.
+- Legal and Moral Aspects
+  - Hacks can be legal by following explicit rules while evading their spirit.
+  - Various languages have terms for such ingenious but morally ambiguous behavior.
+  - Many hacks discussed in the book are technically legal but challenge the spirit of the laws.
+- Historical Context
+  - The term "hack" originated in the context of problem-solving and resourcefulness.
+  - In the 1980s, "hacking" shifted to breaking computer security.
+  - Hacking isn't confined to computers; it can be applied to economic, political, and social systems.
+  - Systems are vulnerable to hacking, and hacking societal systems has historical precedent.
 
 ### Hacking Systems
-- Vulnerabilities exist in all systems, regardless of their security level.
-- Hacking involves exploiting these vulnerabilities through various means, known as exploits.
-- Examples of hacking in different domains: computer systems, legal and financial systems.
-- Different roles in hacking: creative hackers who discover vulnerabilities and develop exploits, others who use exploits for hacking, and organizations or individuals orchestrating hacking activities.
-- Systems react to hacks by patching or mitigating vulnerabilities.
-- Technical systems are often patched promptly, while social systems may require lengthy legislative changes.
-- If a vulnerability is not patched, the hack can become integrated into the system's rules and norms.
-- Not all systems are equally hackable; complex systems with numerous rules and flexible social norms are particularly vulnerable.
-- Hacking can drive innovation and uncover flaws within systems, but it also poses risks.
-- Balancing system resilience with the potential for creative exploration and improvement is essential.
+- Comparing Hacks Across Systems
+  - Hacks can target diverse systems, highlighting their operational similarities.
+  - The tax code can be seen as "code" in a computational sense, involving complex algorithms.
+  - The tax code is intricate, comprising laws, rulings, decisions, and regulations, similar to computer code.
+- Bugs and Vulnerabilities
+  - All code, including tax code, contains bugs: mistakes in specification, programming, or creation.
+  - Software applications have numerous bugs, most of which are obscure and inconsequential.
+  - Some bugs introduce vulnerabilities, allowing attackers to trigger unintended effects.
+- Tax Code Bugs and Vulnerabilities
+  - The tax code also contains bugs: errors in writing, interpretation, or interaction.
+  - Some bugs in the tax code can be vulnerabilities, allowing unintended exploitation.
+  - The "Double Irish with a Dutch Sandwich" corporate tax trick exploits tax laws of multiple countries.
+- Loopholes and Tax Avoidance
+  - Bugs and vulnerabilities in the tax code are called loopholes, exploited for tax avoidance.
+  - Similar to computer security researchers, tax attorneys and accountants search for vulnerabilities.
+  - Attackers exploit these loopholes to their advantage, avoiding taxes, benefiting corporations.
+- Fixing Vulnerabilities
+  - Software vulnerabilities are detected and patched using various tools.
+  - Similar methods can be applied to the tax code, detecting and patching vulnerabilities.
+  - Some tax code vulnerabilities can be patched quickly, but others are more complex.
+- Evolving Systems
+  - Tax loopholes might be patched, ruled legal, or accepted over time.
+  - Systems evolve as vulnerabilities are blocked or allowed by governing systems.
+  - Hacks subvert system intent, with outcomes determined by jurisdiction and acceptance.
 
 ### What Is a System?
-- Definition of a system: a collection of interconnected elements working together to achieve a common purpose or produce desired outcomes.
-- Systems exist in various domains: technology, society, nature, cognitive processes, etc.
-- Systems are governed by rules: explicit or implicit, formal or informal, dictating behavior and interactions of components.
-- Rules can take the form of laws, regulations, social norms, or natural laws.
-- Systems produce outcomes: tangible or intangible, real or virtual, resulting from processes guided by rules.
-- Examples of outcomes: creation of a physical book, operation of a word processor, etc.
-- Hacking within systems: exploiting rules and vulnerabilities to achieve desired outcomes not intended by designers.
-- Hacks can occur in technical systems (software) or social systems (when rules don't prohibit).
-- Systems can be intentional or emergent: designed by individuals or shaped over time through social processes and norms.
+- Hacking in the Context of Systems
+  - Hacks adhere to the rules of a system but violate their intended purpose.
+  - Systems, characterized by rules or norms, produce desired outcomes.
+  - Systems can be diverse, encompassing technical, social, legal, and cognitive aspects.
+- Defining a System
+  - A system is a complex process constrained by rules or norms aiming for desired outcomes.
+  - Examples include software in a word processor and processes leading to a book's creation.
+- Rules, Laws, and Norms
+  - Systems are governed by rules of law, game rules, societal norms, or informal group processes.
+  - Cognitive systems adhere to natural laws.
+- Allowing Hacks
+  - Hacks are allowed by a system when the system's design inadvertently permits them.
+  - "Loopholes" are often exploited by hackers within systems.
+  - Participants in a system agree to a common set of rules in advance.
+- Interaction of Laws and Rules
+  - Laws can govern the general system while the system itself has its own specific rules.
+  - Hacking can target both the system and the general legal framework protecting it.
+  - Typos, confusing language, or oversights in laws/rules can lead to unintended exploits.
+- Designers and Intention
+  - Systems often have an intended outcome designed by individuals or groups.
+  - Hackers outsmart system designers when exploiting deliberate systems.
+  - Some systems, like market capitalism or the democratic process, evolve with contributions from multiple entities.
+- Evolution of Systems
+  - Biological systems evolve over time without a single designer.
+  - The purpose of a biological system emerges from its function.
+  - Hacking is a natural outcome of systems thinking, exploring system flaws and constraints.
+- Hacking and Exploitation
+  - Hacking is vital in complex societies with intricate systems.
+  - Understanding a system deeply allows individuals to exploit its flaws.
+  - Wealth and power can facilitate getting away with hacking actions.
 
 ### The Hacking Life Cycle
-- Hacking process consists of vulnerabilities and exploits.
-- Vulnerability: Flaw or oversight in a system allowing a hack to occur.
-- Exploit: Mechanism or technique to take advantage of the vulnerability and achieve the desired outcome.
-- Examples of vulnerabilities and exploits: EternalBlue exploit, Double Irish tax loophole, door lock vulnerability.
-- Roles in a hack:
- - Creative hackers: Discover vulnerabilities and develop exploits.
- - Hackers who deploy exploits in practice.
- - Organizations or individuals benefiting from the hack and potentially orchestrating it.
-- Access to resources (technical expertise, wealth, power) crucial for successful hacking.
-- Discovery and dissemination of hacks:
- - Hacks may remain limited or spread widely based on various factors.
- - Timeframe for discovery and system patching varies.
+- Components of a Hack: Vulnerability and Exploit
+  - A hack comprises a vulnerability and an exploit.
+  - A vulnerability is a flaw or oversight in a system allowing a hack to occur.
+  - An exploit is the mechanism that leverages the vulnerability.
+- Examples of Vulnerabilities and Exploits
+  - Vulnerability: Unencrypted transmission of usernames and passwords.
+  - Exploit: Software eavesdropping on internet connections to access accounts.
+  - Vulnerability: Software enabling access to private files of another user.
+  - Exploit: Software program allowing unauthorized viewing of those files.
+  - Vulnerability: Door lock susceptible to being opened without a key.
+  - Exploit: Physical tools like shims used to manipulate the lock.
+- Technical Example: EternalBlue
+  - EternalBlue: Exploit against Windows OS by NSA and later used by Russians.
+  - Exploited vulnerability in Microsoft's Server Message Block (SMB) protocol.
+  - Allowed arbitrary code execution and control of Windows computers remotely.
+- Roles in Hacking and the Term "Hacker"
+  - Different roles in hacking: creative hackers, exploit users, and organizations.
+  - Creative hackers discover vulnerabilities and create exploits.
+  - Exploit users employ discovered exploits; sometimes labeled "script kiddies."
+  - Organizations or individuals commission hacks for specific purposes.
+- Rich and Powerful in Hacking
+  - The term "hacker" applied to various roles can be confusing.
+  - Wealth and power grant access to technical expertise for successful hacking.
+  - Organizations like governments, corporations, and influential entities hack systems.
+- Discovering and Inventing Hacks
+  - Hacks involve discovering vulnerabilities and inventing exploits.
+  - "Discovered" emphasizes latent capability within the system.
+  - Consequences of discovered hacks depend on the discoverer's intentions and actions.
+- Reaction to Hacks and Vulnerabilities
+  - Systems respond to hacks by patching vulnerabilities.
+  - Patching removes the vulnerability, rendering the hack unusable.
+  - Developers control software patching, but some systems have limitations.
+- Patching in Technical and Social Systems
+  - Technical systems are often quickly patched upon discovery.
+  - Social systems like tax code may require lengthy legislative processes.
+  - Wealth and power influence whether patches are applied due to conflicts of interest.
+- Integration of Hacks into Systems
+  - If a vulnerability isn't patched, the hack becomes normalized.
+  - Hacks can transition to being considered business as usual.
+  - Many nontechnical hacks follow this trajectory.
 
 ### The Ubiquity of Hacking
-- Hacking is prevalent due to inherent vulnerabilities in all systems.
-- Parallels drawn to Gödel's mathematical proof, demonstrating the existence of vulnerabilities and exploitable aspects in all systems.
-- Examples of hacking in various contexts:
- - Children bypassing restrictions in online games and educational systems.
- - Historical examples like foldering by General Petraeus, Paul Manafort, and 9/11 terrorists.
- - Phone system hacks, including making collect calls for information transmission.
- - Modern-day instances like manipulating app reviews and using connectivity issues in remote learning.
-- COVID-19 pandemic and remote learning brought new examples of hacking in educational platforms.
-- Complex systems with numerous rules are more susceptible to hacking due to unintended consequences.
-- Less critical, smaller-scale, and experimental systems may be more tolerant of hacking, offering opportunities for evolution and improvement.
+- Inherent Vulnerabilities and Hacking
+  - All systems have vulnerabilities, and hacks will always be possible.
+  - Gödel's theorem suggests mathematical systems are either incomplete or inconsistent.
+  - Ambiguities, inconsistencies, and oversights make systems exploitable.
+- Children and Natural Hacking
+  - Kids find ways to hack systems due to their curiosity and lack of norm constraints.
+  - Children hack systems intended for safety, like online games with restrictions on communication.
+  - Children use avatars' body positions to communicate letters and numbers.
+- Examples of Hacks and Rule Evading
+  - Kids in online games hack chat restrictions through misspellings, codes, and acrostics.
+  - Students hack school-provided computers using VPNs and shared Google Docs.
+  - Hacks have been used by criminals, including General Petraeus, Paul Manafort, and 9/11 terrorists.
+- Phone System Hacks and Modern Examples
+  - Phone system hacks involve evading billing rules.
+  - Modern examples include "flashing" in Nigeria and using phone tricks in India.
+  - Hacks aim to exchange information without paying for the privilege.
+- COVID-19 Pandemic and System Hacking
+  - Homeschooling during the pandemic led students to creative hacks.
+  - Students used tricks to avoid video classes, and others tried to flood homework apps with bad reviews.
+- Systems, Hacking, and Trust
+  - Systems tend to be rule-bound, leading to hacking as a response.
+  - Hacking doesn't imply system breakdown; trust and adjudication play crucial roles.
+  - Trust and adjudication create resilience and keep society functioning.
+- Characteristics of Hackable Systems
+  - Complex systems with many rules are more vulnerable to hacking.
+  - Systems constrained by flexible social norms are more open to interpretation and hacking.
+  - Less critical, smaller-scale systems might benefit from evolutionary hacking.
+- Value of Allowing Hacking
+  - While bridge design shouldn't be open to hacking, certain systems benefit from hacking.
+  - Allowing hacking can lead to unanticipated and wonderful uses of the system.
+  - Hacking is a natural, evolutionary part of human existence.
 
+## Basic Hacks and Defenses
 
-## BASIC HACKS AND DEFENSES
 ### ATM Hacks
-- Evolution of ATMs and their significance in modern banking systems.
-- Various techniques employed by hackers to exploit ATM vulnerabilities:
- - Skimming: Using counterfeit card readers to capture card data.
- - Card trapping: Physically trapping the user's card within the ATM.
- - Cash trapping: Obstructing cash dispensing mechanisms to retrieve trapped funds later.
- - Network-based attacks: Targeting communication infrastructure to intercept sensitive information.
-- Economic incentives driving ATM hacks, with criminals seeking financial benefits through organized groups or cybercrime activities.
-- Challenges faced by law enforcement agencies in investigating and prosecuting ATM hacking cases.
-- Countermeasures employed by banks and ATM manufacturers to enhance security:
- - Tamper-evident features.
- - Encryption technologies.
- - Security cameras.
- - Regular software updates.
-- The importance of user awareness and education to prevent falling victim to ATM scams.
+- Hacks Against Constrained Systems: ATM Vulnerabilities
+  - Understanding hacks against constrained systems is foundational for broader system hacking comprehension.
+  - ATMs are computer-based and connected to the banking network, running on Windows OS.
+- ATM Hacking Examples: Money Transfer Exploit
+  - Don Saunders accidentally discovered an ATM hack allowing him to transfer money and withdraw cash.
+  - Vulnerabilities in ATM software allowed him to exploit the system's time lag, resulting in a $1.6 million Australian ($1.1 million US) withdrawal.
+  - Bank wasn't aware of the source of money loss until Saunders confessed.
+- Themes Illustrated by ATM Hacking
+  - ATM attacks demonstrate the evolving arms race between hackers and defenders.
+  - Systems are interconnected, composed of smaller and larger systems, influencing vulnerability.
+- Diverse ATM Attacks and Countermeasures
+  - Early attacks were basic physical theft methods.
+  - Defenders improved ATM designs, surveillance, and card holding mechanisms.
+- Authority-Based ATM Attacks
+  - Criminals dressed as authority figures manipulated customers to leave an ATM mid-transaction, then completed their transactions.
+  - ATM designs evolved to prevent interruption, preventing multiple transactions simultaneously.
+- Card Duplication: Skimming
+  - Skimming involves creating duplicate cards using stolen information.
+  - Criminals attach magnetic-stripe readers and hidden cameras to ATMs, capturing card data and PINs.
+  - Fake ATMs are set up to skim card information and PINs from unsuspecting customers.
+- Software-Based ATM Hacks: Jackpotting
+  - "Jackpotting" involves making ATMs dispense money like a slot machine.
+  - Hackers download malware onto ATMs through USB ports, allowing remote access.
+  - Criminals can trigger ATMs to release cash remotely, exploiting software vulnerabilities.
+  - Banks are cautious about revealing the extent of jackpotting losses.
+- Longstanding Threat: Jackpotting
+  - Jackpotting was demonstrated by Barnaby Jack in 2010; remotely exploiting software vulnerabilities.
+  - Jackpotting remains a concern and demonstrates the persistence of vulnerabilities.
 
 ### Casino Hacks
-- Enormous financial stakes in the casino industry make it an attractive target for hackers seeking illicit gains.
-- Various types of casino hacks, including:
- - Physical attacks: Card counting, chip counterfeiting, team play, and insider collusion.
- - Digital attacks: Exploiting vulnerabilities in slot machines, payment systems, and customer databases.
-- Impact of casino hacks on both casinos and their patrons:
- - Financial losses for the casinos and players.
- - Compromised sensitive customer information.
-- Challenges faced by the gambling industry in combatting casino hacks:
- - Need for robust cybersecurity measures.
- - Use of encryption technologies and surveillance systems.
- - Employee training programs to detect and prevent attacks.
-- Legal and regulatory aspects surrounding casino hacks:
- - Role of gaming commissions and regulatory bodies in ensuring security and fairness.
- - Legal consequences faced by hackers caught and prosecuted for their criminal activities.
+- Hacking Casino Games: From Slot Machines to Card Counting
+  - Richard Harris, an insider at the Nevada Gaming Control Board, hacked slot machines to pay jackpots on a specific coin sequence.
+  - Slot machines, like ATMs, are computer-based and can be exploited.
+- Slot Machine Hacks Through the Years
+  - Slot machines were mechanical devices but evolved into computer-controlled systems since the 1980s.
+  - Older hacks involved physical manipulation of the machines or obscuring coin sensors.
+  - Many hacks have become normal, such as card counting and predicting roulette outcomes.
+- Card Counting and Roulette Prediction
+  - Card counting and roulette prediction were early forms of casino game hacks.
+  - Card counting involves tracking card values in blackjack to gain a slight advantage.
+  - In roulette prediction, players used wearable computers to analyze wheel speed and croupier habits.
+  - Casinos reacted by making card counting more difficult, using automatic shufflers and frequent reshuffling.
+- Responses to Card Counting
+  - Casinos tried making card counting illegal, but it was hard to prove as cheating.
+  - Casinos track suspected card counters through staff or automated cameras.
+  - Some casinos tolerate card counting, as more people believe they can do it than actually can.
+- MIT Group's Card-Counting Hack
+  - A group of MIT and Harvard academics innovatively hacked card counting.
+  - The group divided tasks among players to avoid detection, used signals, and earned around $10 million.
+- The Evolution of Casino Hacks
+  - Casinos have dealt with hacks like card counting and roulette prediction, adapting rules and surveillance.
+  - Various hacks exploit different vulnerabilities in casino games.
 
 ### Airline Frequent-Flier Hacks
-- Airline loyalty programs are lucrative targets for hackers due to the valuable rewards offered to frequent travelers.
-- Tactics used by hackers to compromise airline loyalty accounts:
- - Brute-force attacks
- - Phishing scams
- - Social engineering techniques
- - Exploiting weak security measures like easily guessable passwords
-- Consequences of frequent-flier hacks for airlines and customers:
- - Financial impact on airlines due to fraudulent redemptions
- - Erosion of customer trust
- - Risk of identity theft for customers
- - Loss of earned rewards and disruption to travel plans
-- Measures taken by airlines to enhance security:
- - Implementation of stronger authentication methods
- - Monitoring for suspicious activities
- - Educating customers about account security best practices
-- Role of customer vigilance in detecting and reporting potential hacks.
-- Legal and regulatory aspects related to airline frequent-flier hacks:
- - Jurisdictional challenges
- - International cooperation
- - Responsibilities of airlines in safeguarding customer data and loyalty programs.
+- Hacking Airline Frequent-Flier Programs: Mileage Runs, Credit Card Bonuses, and Unconventional Strategies
+  - David Phillips hacked an airline frequent-flier program using a Healthy Choice pudding promotion.
+  - Frequent-flier programs are loyalty systems rewarding loyal customers, but they have been hacked since their inception.
+- Early Hacks: Mileage Runs and Reward Tiers
+  - "Mileage runs" were early hacks where travelers exploited distance and route anomalies to accrue more miles.
+  - Some travelers flew complex round-trip itineraries just to accumulate miles without leaving the airports.
+  - Airlines initially ignored these hacks, but changes were made to reduce their effectiveness.
+- Changes to Frequent-Flier Programs
+  - Airlines began imposing minimum spending requirements for elite statuses to make mileage runs less valuable.
+  - The definition of "frequent-flier mile" shifted to depend on dollars spent instead of miles flown.
+  - These changes were aimed at curbing hacks and ensuring program profitability.
+- Hacking with Credit Card Affiliations
+  - Airlines partnered with credit card companies, offering miles for purchases and bonuses on sign-up.
+  - Hacks included signing up for multiple credit cards and canceling before fees accrued.
+  - Some individuals used bulk purchases, like blenders, to qualify for credit card rewards.
+  - Credit card companies tried to counter these hacks with restrictions and penalties.
+- The Pudding Guy and Unconventional Hacks
+  - David Phillips found a vulnerability in a Healthy Choice tie-in with airlines' affiliate programs.
+  - He bought 12,150 pudding cups for $3,150, earning 1.2 million miles and lifetime Gold frequent-flier status.
+  - Phillips exploited the program to gain benefits without breaking any rules.
+- The Evolution of Frequent-Flier Program Hacks
+  - Frequent-flier programs have faced various hacks, from mileage runs to credit card strategies and unconventional approaches.
+  - Airlines responded with changes to program structures and rules to maintain profitability and fairness.
 
 ### Sports Hacks
-- Increasing reliance on technology in sports creates opportunities for hackers to exploit vulnerabilities in digital systems.
-- Motivations behind sports hacks:
- - Financial gain through illegal betting
- - Sabotage or espionage
- - Seeking attention or notoriety
-- Different targets of sports hacks:
- - Athletes' personal data
- - Team systems and strategies
- - Broadcasting networks
- - Betting platforms
- - Infrastructure supporting major sporting events
-- Types of sports hacks:
- - Unauthorized access to athletes' private information
- - Tampering with team databases or game footage
- - Spreading false information or rumors
- - Manipulating betting odds
-- Techniques used by hackers:
- - Phishing
- - Social engineering
- - Exploiting software vulnerabilities
-- Consequences of sports hacks:
- - Identity theft or blackmail for athletes
- - Undermining competitive advantages and game plans for teams
- - Erosion of trust in fair competition and sporting event integrity
-- Measures to defend against hacks and enhance cybersecurity:
- - Cybersecurity training
- - Implementing robust security protocols
- - Partnering with cybersecurity experts
-- Legal and ethical dimensions of sports hacks:
- - Jurisdictional challenges
- - International cooperation in investigations
- - Potential legal consequences for hackers and beneficiaries of hacks.
+- Hacking in Sports: Exploiting Pressure, Money, and Rulebook Gaps
+  - Hacking sports is driven by the combination of pressure, financial incentives, and incomplete rulebooks.
+  - Examples from various sports highlight how innovative strategies and rule exploits have shaped the games.
+- Unconventional Moves in Different Sports
+  - Baseball (1951): St. Louis Browns used a tiny player, Ed Gaedel, with a 3-foot 7-inch height to exploit a small strike zone.
+  - Basketball (1976): Paul Westphal of the Phoenix Suns hacked by calling a timeout he didn't have, gaining midcourt ball possession.
+  - Swimming (1988): Swimmers like David Berkoff and Daichi Suzuki used underwater techniques, leading to rule changes by limiting underwater distance.
+  - American Football (2015): New England Patriots manipulated player positions at scrimmage line to exploit rules on eligible receivers, leading to rule changes.
+- Evolving Techniques and Incorporation into Sports
+  - Over time, many hacks became integral parts of sports, enhancing gameplay.
+  - In football, forward passes, run-and-shoot offenses, and fast snaps were initially innovative hacks.
+  - In baseball, the sacrifice fly and intentional walk were unconventional strategies that became normal.
+- Challenges and Acceptance of Hacks
+  - Some sports hacks were met with resistance, but fans' preferences played a role in their acceptance.
+  - Dunking in basketball was initially banned and reinstated due to fan appeal.
+  - In cricket, new shot techniques like the scoop or ramp were embraced despite initial skepticism.
+  - Sign stealing in baseball, although allowed, has faced restrictions and controversies due to ethical concerns.
+- Hidden Hacks and Mechanical Racing
+  - Mechanical racing (e.g., Formula One) features frequent hacks due to rule gaps and innovations.
+  - Teams exploit loopholes until governing bodies like FIA step in to regulate or incorporate the hacks.
+  - Examples include six-wheeled cars, movable aerodynamic features, unique brake systems, and unconventional engine designs.
+- Evolution of Sports through Hacks
+  - Hacking in sports involves exploiting rule gaps, utilizing innovative techniques, and reshaping games.
+  - Successful hacks often become integral parts of sports or lead to rule changes to maintain fairness and competition.
 
 ### Hacks Are Parasitical
-- Parasitic nature of hacking:
- - Drawing parallels between hacking and biological parasites.
- - Hackers exploit vulnerabilities in systems, networks, and human behavior for personal gain.
-- Characteristics of parasites and hacking strategies:
- - Parasites rely on host resources and vulnerabilities for survival.
- - Hackers selectively target victims with vulnerabilities to achieve their objectives.
-- Motivations behind hacking activities:
- - Financial gain
- - Espionage
- - Activism, sabotage, or personal amusement.
-- Evolving tactics of hackers:
- - Continuous innovation and adaptation, similar to biological parasites.
- - Use of social engineering, malware, phishing, and sophisticated techniques.
-- Consequences of hacking:
- - Financial losses
- - Privacy breaches
- - Reputational damage
- - Disruption in affected systems.
-- Broader implications of hacking:
- - Erosion of trust in digital systems and networks.
- - Importance of robust cybersecurity measures.
-- Proactive and comprehensive approach to cybersecurity:
- - Education and awareness about hacking risks.
- - Implementation of strong defense mechanisms to mitigate hacking threats.
-- Understanding the parasitical nature of hacking to better prepare for defending against attacks and minimizing the impact.
+- Viruses: Natural Hackers of Biological Systems
+  - Viruses like SARS-CoV-2 exploit human immune systems, disrupting normal functions to reproduce and spread.
+  - They attach to host cells via specific proteins, use viral RNA to enter, and subvert host cell machinery to replicate themselves.
+  - The result is diseases like COVID-19, demonstrating how viruses can hack biological systems for their own benefit.
+- Comparison with Other Hackers
+  - Viruses share hacking traits with other examples in various fields.
+  - Similar to hackers in technology, viruses exploit systems for alternative purposes.
+  - Parasitism is a common theme: viruses use hosts for their own gains, often at the host's expense.
+- HIV as Another Biological Hacker
+  - HIV hacks T-helper cells, incorporating its DNA into host cell DNA and reproducing within them.
+  - This process perpetuates viral multiplication, and the infected cells release more HIV into the bloodstream.
+  - Parasitic nature and disruption of host cells resemble the actions of technology and system hackers.
+- Hacking as Parasitic Manipulation
+  - Hacking involves repurposing systems against their intended goals, often benefiting the hacker at the expense of the system's creators.
+  - Examples include ATMs, casino games, consumer reward programs, long-distance calling, sports, and online games.
+- Challenges and Goals in Hacking
+  - Hackers aim to exploit systems' goals for their own gain.
+  - In sports, athletes and hackers may prioritize winning over fairness.
+  - Online platforms like Club Penguin may attract hackers seeking different goals, from social interaction to nefarious purposes.
+- Parasitical Nature of Hacking
+  - Spam email serves as a parasitic hack of communication systems.
+  - Spam, originating in the 1990s, became a substantial issue in the 2000s, affecting around 90% of all emails.
+- Diverse Motivations and Outcomes
+  - Not all hackers are malicious; they often act rationally in their self-interest.
+  - Hacker motivations can range from financial gain to emotional, moral, ethical, or political objectives.
+  - Sometimes, hacking serves as a survival strategy, especially in disadvantaged circumstances.
+- Balancing System Exploitation
+  - Effective hacking should not destroy the system it relies on.
+  - Overly successful hacking can lead to system changes or shutdowns.
+  - Anti-spam programs illustrate how excessive hacking can threaten the very system it exploits.
 
-### Defending against Hacks
-- Comprehensive and multi-layered defense approach:
- - Defense in depth strategy using multiple security measures.
- - Techniques: multifactor authentication, encryption, intrusion detection systems, software updates.
-- Proactive approach to defense:
- - Understanding hacker mindset through red teaming.
- - Simulating attacks to identify vulnerabilities and address them proactively.
-- Secure systems design:
- - Simplicity in design to minimize vulnerabilities.
- - Compartmentalization to limit the impact of breaches.
- - Fail-safe/fail-secure principle for secure system failure.
-- Economic considerations in defense:
- - Cost-benefit analysis of security measures.
- - Externalities of hacking and the need for regulations and penalties.
-- Resilience:
- - Building systems that can recover and adapt from attacks.
- - Continuous evolution of security measures to stay ahead of hackers.
-- Collective responsibility in defense:
- - Involvement of individuals, organizations, policymakers, and society.
- - Importance of education, awareness, and commitment to cybersecurity practices.
+### Defending Against Hacks
+- Spectre and Meltdown: Hardware Vulnerabilities
+  - Spectre and Meltdown are vulnerabilities in microprocessors, like Intel's, detected in 2017 and disclosed in 2018.
+  - They resulted from security vulnerabilities stemming from past performance optimizations.
+- Defending Against Vulnerabilities
+  - Defense against these hardware vulnerabilities was challenging due to their presence in hardware, not software.
+  - Software patches, while available for some vulnerabilities, came with performance drawbacks.
+  - Replacing vulnerable systems was impractical due to their widespread usage.
+- Patching as Primary Defense
+  - Patching involves updating computer code to eliminate vulnerabilities, rendering exploits ineffective.
+  - Systems controlled by a single entity can be quickly patched, but user installation can lag.
+  - IoT devices with firmware may remain unpatched due to limitations.
+- Challenges of Patching
+  - Patching is retrospective, addressing vulnerabilities after the fact.
+  - Hackers may already be exploiting the vulnerability, and patching brings attention to unpatched systems.
+  - Individual users' devices often receive automatic updates, while organizational networks patch deliberately due to compatibility concerns.
+- Patching in Technological and Social Systems
+  - Technological systems can be patched to prevent specific hacks, as the technology dictates the system's possibilities.
+  - In social, economic, or political systems, patching involves changing laws/rules to prevent certain attacks.
+  - Detection mechanisms must also be updated to catch and punish now-illegal cheaters.
+- Speed and Complexity of Governance
+  - Patching effectiveness depends on the pace and unity of the governing body.
+  - In political systems, updating laws can take years, involving competing policy visions.
+  - Hackers may influence legislative processes to maintain their advantage.
+- Role of Courts and Hotfixes
+  - Courts can quickly address vulnerabilities in the absence of legislative patches.
+  - In computing, hotfixes are swift software updates to fix specific issues, often applied while systems are running.
+  - Hotfixes have become standard practice, although the term originated from applying updates to live systems.
 
 ### More Subtle Hacking Defenses
-- User awareness and education:
- - Importance of educating users about social engineering tactics (phishing, pretexting, baiting).
- - Making individuals more vigilant and less susceptible to deceptive tactics.
-- Cultivating a security culture within organizations:
- - Security as a collective effort involving all employees, not just the IT department.
- - Creating an environment where employees actively participate in safeguarding systems and data.
-- Deception as a defense mechanism:
- - Using honeypots as decoy systems to distract and gather intelligence on hackers.
- - Diverting attention from critical assets and studying attack techniques.
-- Incident response planning:
- - Timely detection and response to minimize the impact of a breach.
- - Incident response teams, monitoring systems, and regular drills.
-- Role of regulations and legal frameworks:
- - Supporting cybersecurity efforts through appropriate legislation.
- - Enabling information sharing among organizations.
- - Ensuring consequences for hackers and addressing cyber threats.
-- Responsible disclosure and collaboration:
- - Ethical hackers reporting vulnerabilities to organizations instead of exploiting them.
- - Benefits of bug bounty programs and cooperation between security researchers and organizations.
+- Reducing Hack's Effectiveness
+  - A second line of defense involves decreasing the impact of a hack.
+  - Business email compromise exploits human vulnerabilities through social engineering.
+  - Scammers send trusted-looking emails requesting actions against normal protocol, leading to financial losses.
+- Limiting Vulnerability Exploitation
+  - When vulnerabilities can't be patched, three strategies come into play.
+  - First, redesign the system to make hacks more difficult, expensive, or less damaging.
+  - Second, educate users to recognize and resist attacks, like cognitive hacks.
+  - Third, employ additional systems to secure vulnerable ones, such as requiring dual approval for large transactions.
+- Detecting and Recovering After a Hack
+  - Detecting and recovering from a hack after it occurs is another defense strategy.
+  - Russian SVR hacked SolarWinds update servers, granting backdoor access to thousands of customers' systems.
+  - Detection can be challenging, and a hack's impact may be severe even after discovery.
+  - Recovery might involve completely rebuilding systems to eliminate all vulnerabilities.
+- Finding Vulnerabilities Preemptively
+  - Red-teaming involves hacking own systems to find vulnerabilities before external hackers exploit them.
+  - In the military, red teams simulate enemies in exercises; the cybersecurity field has adopted the concept.
+- Legislation and Bug Bounties
+  - Criminalizing hacking is a primary approach in the computer world.
+  - Bug bounties offer rewards to researchers discovering vulnerabilities, encouraging them to report findings.
+  - Bug bounties can be effective, but hackers may earn more from selling vulnerabilities to criminals or cyberweapons manufacturers.
+- Access to Source Code
+  - Familiarity with system source code enables easier vulnerability discovery.
+  - Similarly, having access to a rule book aids in identifying vulnerabilities in the rules.
 
 ### Removing Potential Hacks in the Design Phase
-- Red teaming for proactive vulnerability identification.
-- Trade-off between security and usability, demonstrated by the AutoRun feature example.
-- Challenges in achieving secure software design, aiming for secure design principles and methodologies.
-- Simplicity as a crucial principle to reduce potential vulnerabilities.
-- Defense in depth, involving multiple layers of security to mitigate the impact of a single vulnerability.
-- Compartmentalization or separation of duties to limit access and privileges based on job requirements.
-- Network segmentation to prevent lateral movement and limit breach scope.
-- Fail-safe/fail-secure mechanisms to ensure systems fail safely and securely.
-- Bug bounties as a counterincentive to hacking, offering rewards for responsible disclosure and prompt patching of vulnerabilities.
+- Secure Design Principles
+  - AutoRun was introduced in Windows 95, automating software installation from CDs, but also exploited by malware.
+  - Balance between security and usability led to vulnerabilities; AutoRun used by viruses via CDs and USB drives.
+  - Design trade-offs must adapt to evolving hacking techniques, motivations, and technology.
+- Security by Design
+  - Secure systems design aims to create systems with fewer vulnerabilities.
+  - Writing secure code is challenging due to complexity, lack of secure design methodology, and economic incentives.
+  - Principles exist to minimize vulnerabilities and their exploitability in code.
+  - Simplicity reduces vulnerabilities by minimizing complexity.
+  - Defense in Depth ensures multiple layers of security to avoid single points of failure.
+  - Compartmentalization limits knowledge and access to separate segments.
+  - Fail-Safe/Fail Secure principles enable systems to fail safely.
+- Application to Social Systems
+  - Security principles extend to social systems, like separating regulatory bodies from industries they oversee.
+  - Fail-safe mechanisms in laws to prevent exploits and misuse.
+  - All these principles reduce the effectiveness of hacks.
+- Importance of Secure Design
+  - Understanding secure design principles is crucial to limit hacking effectiveness.
+  - Incorporating security into system design enhances overall security.
+  - Adoption of these principles depends on industry economics.
+- Economic Factors
+  - Companies like Apple, Microsoft invest more in software security than smaller developers.
+  - Sectors like aerospace, automotive, and medical devices prioritize security due to their critical nature.
 
 ### The Economics of Defense
-- Importance of anticipating threats and cost-benefit analysis in defense planning.
-- Introduction of threat modeling to identify vulnerabilities, assets, and potential attackers.
-- Economic factors influencing the level of defense required, considering costs and effectiveness of defensive measures.
-- Externalities in hacking, where the cost of a hack is borne by society at large.
-- Bringing the costs of hacking back into the system to hold responsible parties accountable.
-- Role of regulations and enforcement in addressing externalities and preventing hacking.
-- Balancing legislative rules and regulatory implementation without stifling innovation.
-- Emphasis on constant research, information sharing, and adaptability in the face of evolving hacking techniques.
-- Importance of resilient systems and integration of security considerations into social, political, and technological systems.
+- Vulnerabilities and Threat Modeling
+  - In 1971, "Dan Cooper" parachuted from a hijacked Boeing 727, revealing unintended vulnerability.
+  - Boeing redesigned 727 due to copycats; vulnerabilities can stem from lack of threat anticipation.
+  - Threat modeling enumerates system threats and aids in defense design.
+  - Economic considerations play a role in prioritizing threat mitigation efforts.
+- Externality and Hacking
+  - Hacking creates externalities: costs borne by society, like shoplifting leading to higher prices.
+  - Convert externalities into problems affecting the system owner for effective solutions.
+  - Implementation relies on enforcement, penalties, regulatory actions, litigation, and public awareness.
+- Dynamic Nature of Security
+  - Systems become insecure when threat models change; vulnerabilities shift in importance.
+  - Example: The Internet's evolution from non-essential to critical services changed the threat landscape.
+  - Computer security research anticipates evolving hacker techniques and vulnerabilities.
+- Adapting Laws and Regulations
+  - Computer Fraud and Abuse Act (1986) broadened computer-related crime coverage.
+  - General rules needed to cover evolving hacks and hackers.
+  - Social systems require life-cycle management and continuous evaluation for fitness and purpose.
 
 ### Resilience
-- Illustration of resilience through examples like suspension bridges, the human body's adaptability, and Orange County's recovery from bankruptcy.
-- Introduction of norms as systems, contrasting their flexible nature with rigid rules.
-- Acknowledgment of the potential challenges and evolution of norms, as well as the risk of their erosion.
-- Role of resilience in security as an emergent property of a system, encompassing impenetrability, homeostasis, redundancy, agility, mitigation, and recovery.
-- Goal to enhance a system's resilience to hacking by implementing adaptive and redundant security measures.
-- Responsibility for defending systems against hacking and the balance between lawmakers and regulators.
-- Importance of continuous adaptation and improvement in building resilient systems.
-- Need for a combination of technical measures, social norms, and effective governance in promoting resilience against hacking.
+- Norms vs. Rules and System Evolution
+  - Systems of norms differ from rules; hacking a norm is violating it.
+  - Norms' informality allows interpretation and manipulation.
+  - Norms' reliance on human response leads to their evolution against attacks.
+  - Recent politics, exemplified by Donald Trump, showcased challenges to norms.
+- Challenges to Norms and Resilience
+  - Norms' challenges can make them resilient, flexible, and adaptable.
+  - Anyone can contest norms with speech and platforms, leading to improvements.
+  - Resilience is the ability to recover from perturbations, applicable to various systems.
+  - Resilient systems combine properties like impenetrability, redundancy, agility, and recovery.
+- Who Defends and the Balance of Defense
+  - Defense discussions require clarity on who defends against whom.
+  - Examples show various outcomes, quick patches, no patches, or allowing hacks to persist.
+  - Consideration needed on balance between legislators and regulators in building systems' defense.
+  - Delegating implementation details to regulators can enhance system agility and resilience.
+- Societal Implications of Defense
+  - Defending systems against hacking concerns society at large.
+  - Not just a concern for specific system designers, but also for societal progress.
 
-## HACKING FINANCIAL SYSTEMS
+## Hacking Financial Systems
+
 ### Hacking Heaven
-- Money laundering in luxury real estate and art industry, exploiting regulatory loopholes for illicit gains.
-- Proposal for regulatory changes and stricter financial scrutiny to curb money laundering.
-- Normalization of societal hacks over time, where non-computer hacks remain unaddressed until government intervention.
-- "Too big to fail" concept in financial institutions leading to bailouts and moral hazard.
-- Alternative approaches to bailouts, such as restructuring mortgages or passing funds to borrowers, to mitigate negative consequences.
-- Impact of venture capital and private equity on market capitalism, distorting pricing and hindering innovation.
-- Private equity firms leveraging debt financing to extract profits, burdening acquired companies with unsustainable debt.
-- Tax system hacks, like the cum-ex trading scheme, exploiting multiple tax refunds for the same payment.
-- The intersection of hacking, legality, and morality in the exploitation of tax systems.
+- Historical Example: Indulgences and Profitable Hacks
+  - Medieval Catholicism centered on penance, redemption, and forgiveness.
+  - Indulgences allowed for atonement, with big sins requiring significant penance.
+  - Wealthy individuals could donate money as penance and receive forgiveness.
+  - Indulgences were documents attesting to sin absolution and became a currency.
+  - Exploitation emerged as indulgences were used for profit and power.
+  - Selling indulgences led to Martin Luther's 95 Theses and the Protestant Reformation.
+  - Financial systems are profitable targets for hacking due to money-making potential.
+- Innovative Indulgence Products and Lack of Regulation
+  - Friar Johann Tetzel created innovative indulgence products.
+  - Selling indulgences for deceased friends and future sins.
+  - Despite protests, Vatican couldn't curb the practice due to profits.
+  - Church depended on indulgence sales for funding, inhibiting a response.
+  - Sometimes, hacks are allowed by the governing system if they benefit.
+- Normalization of Hacks in Financial Systems
+  - Financial systems often normalize certain hacks.
+  - Regulators might shut down new hacks, but often permit or codify them.
+  - Financial innovation can stem from users' hacks, not just regulatory permissions.
+  - Power and money lead to lobbying, delaying the patching of hacks.
+  - Hacks of financial systems can eventually be patched, but may take time.
+- Pope Pius V's Revocation and Power of Profit Motivation
+  - Pope Pius V revoked indulgence permission involving financial transactions in 1567.
+  - Moneyed individuals have significant influence and can hack systems.
+  - Profit serves as a powerful motivation for hacking and normalization.
 
 ### Hacking Banking
-- Hacking personal accounts and stealing sensitive financial information through phishing, malware, and identity theft.
-- Insider hacking, where employees misuse their positions to gain unauthorized access or manipulate systems for personal gain.
-- Role of credit rating agencies in the 2008 financial crisis and the need for regulatory reforms and increased accountability.
-- Risks associated with complex derivatives market and lack of transparency in financial instruments.
-- High-frequency trading (HFT) and algorithmic trading's potential for market manipulation and the challenges for regulators.
-- Need for fairness, transparency, and stability in financial markets.
-- "Shadow banking" activities by non-bank entities, creating systemic risks and evading traditional banking regulations.
-- The call for tighter oversight and regulation of shadow banking to mitigate threats to the financial system.
-- The importance of maintaining trust and confidence in the banking system through robust cybersecurity measures and effective regulatory frameworks.
+- Banking Systems and Regulation Hacking
+  - Many banking procedures originated as hacks to bypass regulations for profit.
+  - Hacking is a way to prompt government review and update of regulations.
+  - Regulation Q regulated US banking in the 20th century, controlling interest rates.
+  - Regulation Q reduced risky behaviors but constrained profits for banks.
+  - Hacks like NOW accounts exploited regulation loopholes for profit.
+  - CDs, money market funds, Eurodollar accounts were other innovative hacks.
+  - Hacks led to regulatory change or were codified into law after protests.
+  - Financial systems faced a wave of deregulation into the 2000s.
+- Dodd-Frank Act and Banking Hacks
+  - Dodd-Frank Act aimed at reforming banking after the 2008 financial crisis.
+  - Dodd-Frank regulated derivatives, prompting banks to seek hacks.
+  - Banks exploited exemptions, foreign activities, and word definitions.
+  - Foreign derivatives moved offshore to escape Dodd-Frank regulations.
+  - Commodities Futures Trading Commission tried closing the offshore loophole.
+  - Volcker Rule was also flouted by banks through partnerships.
+  - Hacking and normalization is an ongoing game between banks and regulators.
+- Cat and Mouse Game: Banks and Regulators
+  - Banks seek profit, regulators limit irresponsible behavior, opposing goals.
+  - Banks hack regulatory system, making normalization difficult.
+  - Lobbying and regulatory capture benefit banking industry.
+  - Red-teaming involves studying evolving systems for vulnerabilities.
+  - Public comment processes aim to improve regulations before hacking occurs.
+  - Hacking attention can shift to target's governing system, requiring vigilance.
 
 ### Hacking Financial Exchanges
-- Market manipulation as a potential exploit in financial exchanges, with examples of fraudulent activities and artificial demand creation.
-- The role of surveillance systems and regulatory oversight in detecting and preventing market manipulation.
-- High-frequency trading (HFT) and algorithmic trading's advantages and risks, including potential market disruptions and flash crashes.
-- Challenges faced by regulators in keeping pace with technological advancements in trading strategies.
-- The need for safeguards to ensure fair and orderly markets in the context of HFT.
-- Vulnerabilities of financial exchanges to cyber attacks, including disruptions, data theft, and market data manipulation.
-- The importance of robust cybersecurity measures and contingency plans to mitigate the impact of potential cyber attacks.
-- Insider trading as a potential vulnerability, with focus on exploiting non-public information for personal gain.
-- Legal and ethical implications of insider trading, and the efforts of regulators to detect and prosecute such activities.
-- The role of regulatory bodies in overseeing financial exchanges, with emphasis on effective regulations and transparency in trading practices.
-- The significance of cooperation between exchanges, market participants, and regulators to maintain market integrity.
+- Hacking Financial Trading Systems
+  - Financial trading systems vulnerable to hacking, especially as they become automated.
+  - Hackers target information to gain unfair trading advantages.
+  - Insider trading exploits nonpublic information for profit.
+  - Insider trading rules have lasted despite hacking attempts.
+  - Hacks involving front running and pump-and-dump schemes.
+  - Online platforms make pump-and-dump even more profitable.
+  - Spoofing involves placing and canceling large orders to deceive.
+  - Fake news and disinformation manipulate investor behavior.
+  - Hedge funds exploit regulatory loopholes to reduce risk.
+  - Hedge funds navigate legal criteria to avoid oversight.
+  - Hedge funds have evolved, finding new loopholes over time.
+  - Understanding the system enables hackers to exploit vulnerabilities.
+- Complex Hacking Across Systems
+  - Hacking operates at technical, market, and legislative levels.
+  - Spoofing and front running use computer speed and automation.
+  - Hacking extends to the legislative level, targeting securities laws.
 
 ### Hacking Computerized Financial Exchanges
-- Rise of computerized financial exchanges and the impact of automation and algorithmic trading.
-- Benefits of computerized exchanges: faster execution, increased liquidity, and greater market efficiency.
-- Risks and challenges: technical failures, market disruptions, and potential flash crashes.
-- Flash crashes: sudden and severe market downturns caused by erroneous algorithms and rapid trading practices.
-- Need for safeguards and circuit breakers to mitigate the impact of flash crashes and maintain market stability.
-- Vulnerabilities of computerized financial exchanges to hacking and cyber attacks.
-- Importance of robust cybersecurity measures, vulnerability assessments, and incident response protocols.
-- Impact of algorithmic trading and HFT on market dynamics: concerns about market manipulation and increased volatility.
-- Regulatory response: risk controls, market surveillance, and regulatory oversight to address concerns.
-- Ethical considerations: potential to exacerbate market inequalities and undermine long-term investment strategies.
-- Importance of responsible trading practices, transparency, and accountability for fair and ethical market behavior.
+- Modern Hacks in Financial Exchanges
+  - Rise of computerization leads to novel hacks in financial exchanges.
+  - High-frequency trading (HFT) exploits public information at incredible speeds.
+  - HFT algorithms detect price differentials and make rapid, high-frequency trades.
+  - HFT subverts market fairness and equal access to information.
+  - HFT introduces new risks and volatility, exacerbated crashes.
+  - HFT has been normalized despite its inherent unfairness.
+  - HFT firms gain unfair advantages through faster access to data.
+  - Taking advantage of typos and clerical errors for profit.
+- Defenses and Design Changes
+  - Financial rules are flexible, allowing for patching.
+  - Secure systems design could reduce volatility caused by HFT.
+  - Circuit breakers temporarily halt trading during extreme price changes.
+  - Potential changes: require slower trading speeds, automatic detection of dangerous HFT trades.
+  - Design changes may face resistance from powerful investors.
 
 ### Luxury Real Estate
-- Characteristics of luxury real estate: extravagant amenities, exclusive locations, high price tags.
-- Global nature of luxury real estate markets and popular investment destinations.
-- Luxury real estate as a store of wealth and capital preservation for high-net-worth individuals.
-- Trend of trophy properties as status symbols and investments for the ultra-rich.
-- Susceptibility of luxury real estate to money laundering and illicit financial activities.
-- Use of anonymous shell companies, offshore tax havens, and complex ownership structures to conceal property ownership.
-- Challenges for regulators and law enforcement in combating money laundering in the luxury real estate sector.
-- Impact of luxury real estate on local housing markets and communities.
-- Concerns related to gentrification, affordability, and displacement of local residents due to rising property prices.
-- Role of luxury real estate in tax avoidance strategies for wealthy individuals and corporations.
-- Exploitation of legal loopholes and tax incentives to minimize tax obligations through real estate investments.
-- Need for greater transparency and stricter regulations to address tax avoidance in the luxury real estate sector.
-- Ethical considerations: widening wealth gap, perpetuation of social inequality, and the importance of equitable and sustainable property ownership and development.
+- Money Laundering in Luxury Real Estate
+  - Luxury real estate market in major cities exploited for money laundering.
+  - Shady funds can't easily be deposited in banks due to regulations and scrutiny.
+  - Real estate regulations are less strict, creating a vulnerability.
+  - Hack: Purchase expensive property via shell company, use it as collateral for bank loans.
+  - Borrowed money is clean, can be invested conventionally.
+  - Property owners often don't rent, leading to vacant properties.
+  - Luxury real estate sellers avoid selling to maintain property value.
+- Impact and Fixes
+  - Unoccupied properties damage neighborhoods and commercial real estate.
+  - Solutions include regulatory changes to align real estate with financial systems.
+  - US Treasury pilot program reduces cash purchases by LLCs.
+  - Extend "Know Your Customer Rule" to include shell companies' owners.
+  - Eliminate "temporary exemption" for real estate from customer scrutiny.
+  - Political inertia driven by industries benefitting from unregulated luxury real estate.
+  - Society harmed by tax revenue loss due to art valuation hack.
 
 ### Societal Hacks Are Often Normalized
-- Societal hacks defined as manipulations enabling unfair advantages or bypassing established rules and norms.
-- Irony that the wealthy and powerful are better positioned to discover and exploit hacks.
-- Role of money and resources in perpetuating and normalizing hacks.
-- Concentration of resources allows the wealthy to find and implement hacks more effectively.
-- Examples of normalized societal hacks:
- - "Too big to fail" concept in the financial sector leading to bailouts and moral hazard.
- - Venture capital enabling unprofitable companies to ignore market dynamics and prioritize financial returns.
- - Private equity using debt financing to extract profits from acquired companies.
- - Hacking of tax systems and normalization of tax avoidance by the wealthy.
-- Legal but ethically questionable practices such as tax loopholes, deductions, and offshore tax havens.
-- Emphasis on the need for transparency, stricter regulations, and reevaluation of norms to promote a more equitable and sustainable society.
+- Hacking and Patching in Computer Security
+  - Responsible disclosure: vulnerabilities reported privately, then patched by designers.
+  - Zero-day vulnerability: discovered secretly by malicious actors, used without advance warning.
+- Normalization of Hacks in Non-Computer Systems
+  - Non-computer systems don't always have responsible disclosure.
+  - Process of normalization: vulnerability is discovered, exploited, and then becomes more popular.
+  - System governing body learns about hack and can patch or normalize it.
+  - History of financial hacks is a history of normalization.
+- Normalization in Finance and Historical Examples
+  - Middle Ages: Restrictions on interest-bearing loans were evaded through various methods.
+  - Catholic Church updated usury regulations to combat financial innovations.
+  - Wealthy guilds created financial products evading Church scrutiny.
+  - Fifth Lateran Council normalized modern banking and legalized pawn shops.
+- Current Normalization
+  - Hacks like high-frequency trading would have been illegal in the past.
+  - Insider trading might be legal if invented more recently.
 
 ### Hacking the Market
-- Market manipulation: Intentional interference with the market to manipulate prices or create artificial demand.
-- Techniques include insider trading, pump-and-dump schemes, and front running.
-- High-frequency trading (HFT): Advanced computer algorithms execute trades at lightning speed, giving unfair advantage to HFT firms.
-- Concerns about market fairness and stability due to HFT.
-- Exploitation of information asymmetry: Certain participants have access to non-public information, leading to informed investment decisions and disadvantage for others.
-- Front running and insider trading as examples of information asymmetry exploitation.
-- Manipulation of financial instruments, such as derivatives and complex products, creates complexity and opacity.
-- Credit default swaps (CDS) role in the 2008 financial crisis as an example.
-- Need for regulatory oversight and transparency to combat market hacking.
-- Stricter regulations, enhanced surveillance, and increased penalties for market manipulation.
-- Potential of emerging technologies like blockchain to enhance market transparency and reduce hacking opportunities.
+- Market Hacking and Capitalism
+  - Goldman Sachs's aluminum storage manipulation as a hack to manipulate spot prices.
+  - Money primes market economy for hacking; the wealthy benefit.
+  - Market hacks exploit vulnerabilities in supply-demand logic, consumer choice, and business dynamics.
+- Market Capitalism and its Mechanism
+  - Market capitalism relies on self-interested buyers, competition, and informed decisions.
+  - Laws maintain the market's functionality and prevent damage.
+  - Successful markets require information, choice, and agency for buyers.
+- Hacking of Market Elements
+- Complex product offerings obscure information:
+    - Comparing prices of complex products like cell phone plans or credit cards is difficult.
+    - Complexity arises naturally or intentionally to hinder access to accurate information.
+- Monopolies eliminate choice:
+    - Monopolies disrupt the competitive market mechanism.
+    - Businesses aim for profit while public seeks quantity, quality, variety, innovation, and lower prices.
+    - Lack of competition undermines incentives to meet public interests.
+- Lock-in reduces agency:
+    - Lock-in restricts switching due to high costs (money, time, convenience, learning).
+    - Various tactics enforce lock-in, like proprietary file formats and data portability limitations.
+- Regulation and Deregulation:
+    - Regulation can limit market failures caused by hacks.
+    - Deregulation removes barriers, enabling both innovation and subversions.
+    - US historically favored innovation with a minimal regulatory structure.
+- Challenges in Modern Economy:
+  - Technology's power and global economies increase the potential for damage from bad hacks.
+  - Economic system based on greed works only when its properties can't destroy it.
+  - "Move fast and break things" philosophy requires consideration when others' interests are at stake.
 
 ### "Too Big to Fail"
-- Introduction to "too big to fail" and its historical context, from the creation of the FDIC to the 2008 financial crisis.
-- Moral hazard: Institutions take excessive risks knowing they will be bailed out, leading to a distortion of the market system.
-- Consequences of the 2008 financial crisis and the controversial bailouts of large financial institutions.
-- Long-term effects of the bailouts on the market and economy.
-- Regulatory attempts like the Dodd-Frank banking reforms to address the issue of "too big to fail."
-- Market distortion caused by the existence of "too big to fail" institutions.
-- Unfair advantage for large institutions over smaller competitors due to the assurance of government intervention.
-- Impact on market competition and the principles of a functioning market economy.
+- Vulnerability of "Too Big to Fail":
+    - Corporations too critical to the economy are bailed out to prevent systemic risk.
+    - Larger corporations can take bigger risks due to the expectation of government intervention.
+    - Moral hazard emerges, leading to risky decision-making without fearing losses.
+- Impact on Market Mechanism:
+    - Normal market mechanism involves weighing benefits of success against costs of failure.
+    - "Too big to fail" enterprises are shielded from losses by government intervention.
+    - Moral hazard leads to incentivized risky decisions with little concern for consequences.
+- Distorted Market and Hack Nature:
+    - "Too big to fail" serves as an insurance policy against bad decisions.
+    - This distorts market system dynamics, fueled by power and money, and qualifies as a hack.
+- Historical Examples:
+    - Post-2008 financial crisis, US government bailed out major banks and financial institutions.
+    - Federal Deposit Insurance Corporation (FDIC) created in the 1930s to monitor and protect consumer deposits.
+    - 1979 Chrysler bailout justified by national security, economy, and trade issues.
+    - "Too big to fail" hack evolved due to changes in threat models and privatization of critical functions.
+- Regulation and Countermeasures:
+    - Attempts to regulate super-sized enterprises face challenges due to lobbying power.
+    - 2010 Dodd-Frank reforms aimed to reduce "too big to fail," but many provisions were weakened.
+    - Alternatives to direct bailouts rejected, preventing restructuring or aiding borrowers.
+- Preventing "Too Big to Fail":
+    - Ensuring no mega-corporations exist is the most effective preventive measure.
+    - Sociologist Duncan Watts proposed that companies too large and powerful should not exist.
+    - Attributes of the "too big to fail" hack: generalizability, systematization, and changing incentives.
+- Normalization and Current Scenario:
+    - "Too big to fail" hack codified into law after 2008 bailouts, normalized in high-finance.
+    - Concept shifts regulators' and organizations' incentives, leading to its normalization.
+    - Corporations like Citigroup, JPMorgan Chase, Bank of America, and Goldman Sachs view bailouts as insurance.
 
 ### Venture Capital and Private Equity
-- Overview of venture capital (VC) and its significant growth in recent decades.
-- VC funding allows companies to bypass traditional market dynamics and make irrational or unsustainable decisions.
-- Pursuit of high short-term returns incentivizes risk-taking over long-term, sustainable growth.
-- VC-funded companies can charge artificially low prices, distorting the market and harming other players.
-- Influence of private equity in leveraging debt financing to acquire companies.
-- Private equity firms burden acquired companies with excessive debt, extract profits, and sell them off, leaving debt burden on others.
-- Examples like Greensill Capital's collapse illustrate potential negative consequences of private equity practices.
-- VC and private equity, while legal, often undermine the principles of market capitalism.
-- Concentration of resources in the hands of the wealthy allows them to exploit these investment models to their advantage.
-- Raises concerns about the impact of these practices on market competition, innovation, and sustainable business practices.
+- Unsustainability of Food Delivery Apps:
+    - Food delivery apps like DoorDash, Grubhub, and Uber Eats operate with unsustainable business models.
+    - Losses incurred in 2020 despite increased demand during the pandemic.
+    - Negative impact on drivers, restaurants, and customers due to low pay, lack of profit, and service problems.
+- Role of Venture Capital (VC) Funding:
+    - VC funding is essential for these businesses to survive despite their unsustainable models.
+    - Venture capital firms pour large amounts of money into these companies, hoping for eventual profitability.
+    - VC funding distorts market capitalism and inhibits the normal dynamics of buyer-seller interactions.
+- History and Growth of VC Funding:
+    - VC funding originated centuries ago but gained prominence in the 1980s.
+    - Played a significant role in early tech companies' rise and dot-com bubble.
+    - Global VC market grew from $50 billion in 2010 to $295 billion in 2019.
+- Issues with VC-Funded Companies:
+    - VC funding allows companies to ignore traditional market competition and dynamics.
+    - Companies can undertake unsustainable actions due to external funding sources.
+    - Examples: Uber, WeWork, Quibi, Theranos, etc., received substantial VC funding despite unprofitability.
+- Negative Effects on Markets and Innovation:
+    - VC funding warps markets by allowing companies to charge artificially low prices.
+    - It promotes unprofitable and unsustainable business models.
+    - Distorts market categories and creates unsustainable market conditions (e.g., Uber and Lyft).
+    - VC funding hampers innovation by prioritizing financial returns over substantive improvements.
+    - VC-funded companies focus on quick returns and high-profit ventures instead of sustainable growth.
+- VC Culture and Private Equity:
+    - VC culture rewards high return endeavors and "unicorns," disregarding long-term sustainability.
+    - Private equity exploits debt financing to acquire companies and extract profits.
+    - Debt financing and private equity practices may lead to unsustainable growth and eventual collapse.
+- Examples of VC-Funded Companies:
+    - Examples like Greensill Capital demonstrate the acceleration of unsustainable expansion through VC funding.
+    - SoftBank's investments and loans facilitated Greensill's growth despite questionable accounting.
+- Normalization and Acceptance of VC Funding:
+    - VC funding and private equity are legal and accepted components of the economy.
+    - Despite being hacks of market capitalism, they are often viewed as "disruptive" and "innovative."
+- Money and Power Influence Behavior:
+    - Money and power play a significant role in determining accepted behavior and participation in the market.
+    - VC funding and private equity decisions are influenced by these factors.
 
 ### Hacking and Wealth
-- Wealthy individuals have more resources to hire experts and leverage their expertise in hacking systems.
-- The influence and power that come with wealth enable them to ensure that their hacks become legally permissible and widely accepted.
-- Examples, such as General Motors' bankruptcy, illustrate how hacking can benefit the wealthy while exploiting others.
-- Tax-related hacks, like the "cum-ex" trading scandal, involve exploiting tax loopholes to benefit the wealthy at the expense of governments and society.
-- Explores the ethical implications of hacking, legality, and morality in the context of the wealthy's actions.
-- Hacking is not limited to computer systems but extends to various aspects of society, and the wealthy are better positioned to discover and implement hacks due to their concentrated resources.
-- The wealthy can exploit legal loopholes, manipulate systems, and normalize their actions to serve their own interests.
+- Salary Caps in Professional Sports:
+    - Salary caps are used in professional sports to ensure competitive balance among teams.
+    - Teams agree on a maximum player payment limit to prevent capital-rich teams from having an unfair advantage.
+    - However, teams find ways to hack these agreements to their benefit through various methods like hiding payments, using sponsors, etc.
+- Hacks by the Wealthy in Financial Systems:
+    - Contrary to conventional hacking notions, the wealthy often exploit systems to accumulate more wealth or power.
+    - The rich have resources to hire expertise for hacking and can normalize their hacks through political influence.
+    - General Motors' bankruptcy and stock manipulation is an example of a hack benefiting the wealthy.
+    - Wealthy individuals and organizations are better at finding, implementing, and normalizing hacks.
+- Introduction to Cum-Ex Trading:
+    - Cum-ex trading involves exploiting tax refund mechanisms through complex transactions.
+    - This hack resulted in double refunds for dividend tax paid on a single basket of stocks.
+- Extent of the Cum-Ex Trading Hack:
+    - Bankers, lawyers, and investors utilized cum-ex trading between 2006 and 2011, leading to $60 billion in losses for EU countries.
+    - Several individuals and entities involved in cum-ex trading have faced legal consequences and penalties.
+    - Investigations, raids, and prosecutions are ongoing, with many individuals and entities under scrutiny.
+- Interplay of Hacking, Legality, and Morality:
+    - Cum-ex trading highlights the relationship between hacking, legality, and morality.
+    - Legal actions are being taken against those who exploited this hack, but the moral implications remain.
+    - The case raises questions about ethical behavior, legality, and the need to close tax loopholes.
 
 
-## HACKING LEGAL SYSTEMS
+## Hacking Legal Systems
+
 ### Hacking Laws
-- Hackers manipulate financial systems, including high-frequency trading, offshore tax havens, and payday lending regulations, for personal gain, highlighting the need for proactive regulation.
-- Jurisdictional interactions involve exploiting tax loopholes like the Double Irish with a Dutch Sandwich to avoid paying taxes on global income, suggesting transparency and simplicity as solutions.
-- Administrative burdens in social benefit systems discourage eligible individuals from accessing benefits, and proposes independent audits and data collection to advocate for change.
-- Hacking common law involves adapting the legal system through judicial decisions, with examples like Entick v. Carrington challenging government trespassing and the development of equitable ownership in property rights.
-- The concept of hacking as evolution is explored, drawing parallels between hacking and natural selection. Examples include orthodox Jews adapting religious rules to modern times and granting rights to nature through the notion of corporate personhood.
-- Emphasizes the need for hacking to serve the greater good and promote positive social change rather than perpetuating injustices.
+- Tax Hacks in Architecture and Construction:
+    - Different architectural features have been used to evade property taxes.
+    - Examples include mansard and gambrel roofs concealing extra stories to avoid taxation.
+    - Unfinished buildings with rebar sticking out are constructed to lower property tax.
+- Defining Hacks and Tax Avoidance:
+    - A hack involves exploiting rules of a system to gain an advantage within that system.
+    - Opting out or destroying part of a system to avoid costs isn't hacking.
+    - Tax avoidance strategies involve subverting tax measures without dismantling a structure.
+- Hacking of Laws and Legal Systems:
+    - Laws are written by imperfect authors and are vulnerable to hacking.
+    - Sumptuary laws, designed to regulate extravagance, have been historically hacked to avoid restrictions.
+    - Loopholes in laws are often exploited to follow the letter while violating the spirit of the law.
+- Vulnerability of Legal Systems:
+    - Legal systems are prone to hacking due to the focus on enforcing the letter of the law rather than the spirit.
+    - Hacking laws doesn't necessarily indicate poor writing; it reveals the ingenuity of those seeking to exploit them.
+    - Examples of legal hacking range from tax avoidance to manipulating emergency loan programs.
+- Hacking Beyond Legislation:
+    - Hacking extends beyond legislative laws and regulations.
+    - Historical instances include the Catholic Church's rules on fasting and dietary restrictions.
+    - Laws and rules are susceptible to hacking whenever there's a desire to subvert their intent.
 
 ### Legal Loopholes
-- Legal loopholes are ambiguous or inadequately addressed areas in legislation that allow individuals or entities to bypass intended restrictions or obligations.
-- Exploitation of legal loopholes occurs in various domains, including tax evasion and offshore tax havens, where individuals and companies use complex financial structures to avoid paying taxes or shift profits to low-tax jurisdictions.
-- Loopholes in intellectual property laws, such as patent trolls, enable opportunistic litigation and hinder innovation.
-- Regulatory arbitrage involves companies exploiting differences in regulations across jurisdictions to circumvent restrictions or engage in activities prohibited elsewhere.
-- Examples include payday loan companies operating on Indian reservations to evade state regulations and the use of flags of convenience in the maritime industry to bypass stricter regulations.
-- Addressing legal loopholes poses challenges for lawmakers and regulators, as crafting comprehensive legislation is difficult and requires anticipation of potential loopholes.
-- Lobbying and political influence play a role in perpetuating or closing legal loopholes, leading to regulatory capture and inequalities in the application of the law.
+- "Zone of Death" Constitutional Vulnerability:
+    - Conflicting jurisdictional rules in the US Constitution create the "Zone of Death."
+    - Venue Clause and Vicinage Clause state that crimes should be tried in the state and district where committed.
+    - The District of Wyoming encompasses Yellowstone National Park, which extends into Montana and Idaho.
+    - The conundrum arises when crimes occur in the Idaho portion, where no residents live.
+- Native Lands and Legal Vulnerability:
+    - Non-Native individuals who commit crimes on Native lands often evade prosecution.
+    - Tribal courts lack jurisdiction over non-Native offenders.
+    - This leads to a lack of consequences for non-Native perpetrators, particularly in cases of assaulting Native women.
+- Federal Enclaves and Legal Loopholes:
+    - Federal enclaves are areas within a state owned by the federal government.
+    - State and local laws often don't apply to federal enclaves.
+    - Various patches have been attempted, such as applying state taxes and allowing enclave residents to vote in state elections.
+- Legal Hacks in Practice:
+    - Examples include using the federal enclave status to escape state laws, like foie gras bans.
+    - A San Francisco restaurant exploited federal enclave status to avoid California's foie gras ban.
+    - These anecdotes reveal the need for legislative fixes to close legal vulnerabilities.
+- Legislative Solutions:
+    - Congress should address the "Zone of Death" by designating jurisdiction for such cases.
+    - Indian nations need jurisdiction and support to ensure safety and recourse for Native women and girls.
+    - Legislative action is essential to close legal loopholes and vulnerabilities, protecting the integrity of the legal system.
+- Ongoing Challenges:
+    - Efforts like the Violence Against Women Act aim to address some vulnerabilities but face obstacles.
+    - Legislative reauthorizations can be derailed by unrelated factors, impeding progress on closing legal loopholes.
 
 ### Hacking Bureaucracy
-- Bureaucracy is a complex organizational structure characterized by hierarchy, rules, and standardized procedures, which can hinder innovation and adaptability.
-- Bureaucratic hacking involves individuals and organizations finding creative ways to navigate and exploit bureaucratic systems to overcome red tape and inefficiencies.
-- Examples of bureaucratic hacking include finding loopholes in rules and regulations, leveraging personal relationships and informal networks, and using workarounds to expedite decision-making.
-- Bureaucratic hacking can lead to positive changes in governance and efficiency when guided by ethical considerations and a commitment to the public interest.
-- However, there are potential risks and downsides, such as ethical implications, the potential for abuse, and the challenge of maintaining necessary controls and accountability.
-- Advocates for agile and adaptive bureaucratic systems that embrace innovation and experimentation within defined boundaries.
-- Technology, including digital tools, automation, and data-driven approaches, can play a role in hacking bureaucracy to streamline processes and enhance transparency.
-- Implementing technological solutions requires careful consideration of potential unintended consequences.
+- Goodhart's Law and Bureaucratic Hacks:
+    - People often optimize actions to fit within rules, even if against the rules' intended goals.
+    - Goodhart's law states that a measure used as a target ceases to be a reliable measure.
+- Bureaucratic Hacks from Below:
+    - Bureaucratic rules are frequently hacked by those who need to comply with them.
+    - Examples include Administrator Daniel Goldin's NASA reforms for cost-effective space missions.
+    - Public innovation agencies like 18F and US Digital Service hacked government processes for rapid technological upgrades.
+- Hacking Bureaucracies by Opponents:
+    - "Work-to-rule" is a labor tactic involving malicious compliance, often bringing operations to a standstill.
+    - This tactic subverts the system by meticulously following rules, revealing weaknesses.
+- Case Examples of Hacks in Different Contexts:
+    - Malaysia's sharecropping rent system hacked by farmers to maximize their gains.
+    - Instances like paying for rat tails or circumventing pollution-control schemes demonstrate systemic hacks.
+- Regulatory Negligence and Hacks:
+    - The Boeing 737 MAX crisis underscores regulatory negligence due to close industry-regulator relationships.
+    - Regulatory agencies are designed to protect public interests through oversight, which was subverted in this case.
+    - FAA relied on Boeing's assessments, didn't independently scrutinize the aircraft's system.
+    - FAA managers favored industry views and waived regulations for expedited certifications, resulting in safety lapses.
+    - Settlement with Boeing over the crashes, while substantial, reveals industry influence on regulation.
+    - Need for reconsideration of the division of duties between regulators and regulated industries.
+    - Importance of "cooling off" periods to prevent conflicts of interest for regulators transitioning to industry roles.
 
 ### Hacking and Power
-- Hacking is not limited to technological exploits but encompasses broader strategies for challenging power structures and reshaping systems.
-- Examples of hacking in various domains include activists, hackers, and whistleblowers using hacking techniques to expose corruption and challenge oppressive regimes.
-- Governments and intelligence agencies also use hacking for surveillance, espionage, and cyber warfare.
-- Power dynamics within the hacking community are explored, including the rise of hacktivist groups and tensions between state-sponsored hacking and individual rights.
-- "Hacktivism" is discussed as a form of political activism, where hackers and digital activists raise awareness and challenge censorship through hacking techniques.
-- Asymmetrical power dynamics in hacking are emphasized, where well-resourced entities have significant advantages over individuals or smaller groups.
-- Calls for a critical examination of the ethical implications of hacking and the need for legal frameworks that balance security, privacy, and freedom of expression.
-- Empowering individuals, promoting digital literacy, and fostering a more equitable distribution of power in the digital realm are highlighted as important considerations.
+- Hacking as Power Play:
+    - Hacking is a way to gain power by exploiting systems, often against the rules.
+    - Hacks are driven by the hacker's agenda and disregard for rules.
+    - Hacking can be used by the disempowered to challenge power structures.
+- Hacking by the Disempowered:
+    - Those with no influence often resort to hacking to bypass bureaucracy or for personal gain.
+    - Hacking can be a response to elite hacks or administrative burdens.
+- Hacking by the Powerful:
+    - Powerful individuals and institutions use hacking to further increase their advantage.
+    - Large banks exploited legal loopholes in the Dodd-Frank Act and lobbied for their normalization.
+    - Structural factors, expertise, and resources give the wealthy an upper hand in hacking.
+- Differences in Hacking Dynamics:
+    - Criminals, dissidents, and unorganized citizens are agile hackers, but established institutions can be more effective.
+- Normalization of Hacks:
+    - Powerful entities have an advantage in normalizing hacks and making them appear normal.
+    - Wealthy individuals use resources to exploit tax loopholes with the help of lawyers and accountants.
+    - Lax enforcement and legal grey areas favor wealthy tax cheats.
+- Social Power Dynamics and Hacking:
+    - Less mainstream and marginalized groups have less power to hack or escape consequences.
+    - Gender and racial factors influence attitudes toward following rules or breaking them.
+- Power to Stop Hacks:
+    - Powerful entities are better at preventing hacks by the less powerful.
+    - Anti-union measures and hostile management tactics reduce the prevalence of work-to-rule methods.
+- Power Interpretation of Regulation:
+    - Powerful entities circumvent rules to suit their interests.
+    - Regulatory processes are hacked to remove constraints.
+- Case Examples of Hacks:
+    - Banking industry, financial markets, and luxury real estate have seen successful hacks by powerful entities.
+    - Political tactics like the refusal to consider a Supreme Court nominee represent system hacks.
+- Normalization Uncertainty:
+    - Hacks can become normalized, but not all normalized hacks are effective or widely accepted.
+    - The Merrick Garland nomination and subsequent events illustrate hacking of the Supreme Court confirmation process.
+- Less Powerful Hacking:
+    - Hacks by the less powerful are often deemed illegal or cheats, facing consequences.
+    - Changes in laws and regulations reduce the effectiveness of these hacks.
+- Examining Systems and Power Dynamics:
+    - Focus on whom a system serves and who it disadvantages to understand who might hack it.
+    - Both the powerful and the disempowered can hack systems, but the powerful are more likely to succeed.
 
 ### Undermining Regulations
-- Motivations behind undermining regulations: Seeking advantages, maximizing profits, avoiding legal consequences.
-- Examples of regulatory hacking: Financial institutions exploiting loopholes, technology companies navigating regulations, tax avoidance schemes, administrative burdens, and adaptation of common law.
-- Implications of regulatory hacking: Unfair advantages, hindered social progress, undermined consumer protections, and economic disparities.
-- Challenges faced by regulators: Keeping pace with evolving technologies and strategies used to undermine regulations.
-- Potential solutions: Proactive and iterative regulatory efforts, red-teaming new regulations, independent audits, and benchmarks to assess impact, transparency, simplicity, and collaboration between regulators and stakeholders.
-- Balancing regulations: Consideration of unintended consequences and potential for regulatory hacking in designing regulatory frameworks.
+- Uber and the Gig Economy:
+    - Uber claims to be an Internet services company, not a taxi service, to evade transportation regulations.
+    - Uber's business model bypasses laws regulating taxis, worker protection, safety, and more.
+    - The gig economy involves attempts to hack labor and consumer protection laws.
+- Airbnb's Disruption:
+    - Airbnb disrupts the hotel industry by avoiding laws and regulations imposed on hotels.
+    - Airbnb argues it's a technology company and accommodations owners are independent contractors.
+    - Municipalities struggle to regulate Airbnb accommodations and taxes.
+- Regulation Evasion and Competing Businesses:
+    - Many disruptive gig economy services thrive by evading regulations of conventional businesses.
+    - Such evasion puts regulation-compliant competitors at a disadvantage.
+- Venture Capital Support for Evasion:
+    - Companies spend substantial funds to combat regulations, assuming continued evasion or automation.
+    - Profitability hinges on avoiding regulations and exploiting gig workers or replacing them with machines.
+- Responses to Regulation Attempts:
+    - Gig economy companies fight back against regulations and push referendums to remove worker protections.
+    - Gig economy's regulatory evasion illustrates its importance to their business model.
+- Examples of Regulatory Hacks:
+    - Payday loan companies exploit loopholes to evade regulations and charge high interest rates.
+    - Businesses find ways to sidestep restrictions and rules to maintain profit margins.
+- Land Border Closure Loophole:
+    - Companies exploit loopholes in regulations, like cargo exceptions during land border closures.
+    - Regulations serve important purposes but can hinder innovation and benefit incumbents.
+- Vulnerabilities and Industry Responses:
+    - New companies find vulnerabilities in regulations and construct hacks that comply on the surface but violate the intent.
+    - Addressing regulatory hacking requires proactive measures by regulators and anticipation of industry responses.
+- Ensuring Effective Regulation:
+    - Red-teaming new regulations before enactment helps identify potential vulnerabilities and responses.
+    - Regulators should be agile and monitor regulated parties to promptly address post-regulation innovations and vulnerabilities.
 
 ### Jurisdictional Interactions
-- Jurisdictional arbitrage and its role in exploiting legal and regulatory inconsistencies.
-- Use of tax havens and corporate structures to minimize tax liabilities and shift profits to low-tax jurisdictions.
-- Impact of jurisdictional hacks on global tax revenues and economic inequality.
-- Challenges of regulating multinational corporations operating in multiple jurisdictions.
-- Strategic selection of favorable jurisdictions by companies for regulatory advantages.
-- Exploitation of open registries and flags of convenience in the maritime industry to evade regulations.
-- Regulatory responses, such as combined reporting systems and OECD proposals for a minimum global corporate tax rate.
-- Importance of simplicity, transparency, and cooperation between jurisdictions in designing effective regulations.
-- Need for international collaboration to ensure a level playing field and prevent erosion of tax revenues and regulatory standards.
+- Tax Loopholes Exploiting Jurisdictional Limits:
+    - Companies like Cisco, Pfizer, Merck, and Facebook used tax loopholes (Double Irish with a Dutch Sandwich) to avoid paying US taxes.
+    - These tactics involve foreign subsidiaries and income transfers to avoid global tax obligations.
+    - Corporate tax avoidance costs the US nearly $200 billion annually and worldwide between $500 and $600 billion.
+- Complexity of Jurisdictional Tax Avoidance:
+    - Tax avoidance hacks exploit vulnerabilities across multiple countries' laws.
+    - State Combined Reporting Systems (CRS) help prevent multi-jurisdictional profit shifting.
+    - CRS requires reporting total domestic profits and the portion of business within a specific jurisdiction.
+- Shortcomings of Current Approaches:
+    - Most US states using CRS don't require disclosure of offshore profits.
+    - US corporate taxes not assessed on foreign-earned profits facilitate avoidance and profit shifting.
+- Solution: Mandatory Worldwide Combined Reporting (MWCR):
+    - MWCR aims for transparency and simplicity in resolving complex jurisdictional taxation issues.
+    - Similar to CRS, companies and subsidiaries report worldwide profits and their business percentage in each jurisdiction.
+    - Biden administration and OECD working on similar proposals to prevent multinational profit shifting.
+- Exploiting Subverted Laws for Gain:
+    - Countries subvert their laws to attract global clients, creating jurisdictional arbitrage.
+    - "Flags of convenience" system for ship registration allows evasion of rules, labor laws, and environmental regulations.
+    - Delaware's favorable tax laws and "Delaware Loophole" attract corporations to incorporate there.
+- Corporate Strategies and Hacks:
+    - Hacks stem from exploiting favorable jurisdictional rules.
+    - Delaware's tax laws and flags of convenience show how states leverage jurisdictional arbitrage.
+- Challenges in Regulating Corporations:
+    - Regulatory structures for global corporations are inadequate, and they profit from jurisdictional arbitrage.
+    - Big tech companies operate globally while regulations remain national, creating regulatory mismatches.
 
 ### Administrative Burdens
-- Administrative burdens as a form of policy hacking in social benefit systems.
-- Deliberate design choices to create obstacles and deter eligible individuals from accessing benefits.
-- Examples of paperwork requirements, eligibility criteria, and application processes that make access difficult.
-- Goal of administrative burdens is to reduce costs for governing bodies by discouraging benefit applications.
-- Disproportionate impact on vulnerable populations, exacerbating existing inequalities and social exclusion.
-- Solutions to address administrative burdens include independent benchmarks and system audits.
-- Use of data-driven evidence to advocate for policy changes and streamlining processes.
-- Need for legislators to consider cumulative effects and adopt measures to enhance accessibility.
-- Challenges in addressing administrative burdens when political authorities create and maintain them.
-- Importance of raising awareness and fostering grassroots pressure for reforms in social benefit systems.
+- Necessity and Adaptation:
+    - Administrative burdens are a way of hacking social benefits systems like unemployment insurance or Medicaid.
+    - Opponents of these policies employ creative strategies due to political constraints.
+- Purposeful Design of Administrative Burdens:
+    - Administrative burdens are intentionally imposed to make accessing benefits difficult.
+    - Florida's unemployment insurance system designed to be challenging to access.
+    - Online application system is faulty, with errors and crashes, and specific access hours.
+    - Millions of COVID-19 unemployed Floridians faced difficulties submitting claims.
+- Deliberate Benefit Denial:
+    - Administrative burdens create passive-aggressive benefit denial.
+    - People who should qualify for benefits give up due to excessive hurdles.
+    - This tactic was seen in US abortion policies where states made abortion access extremely difficult despite its legal status.
+- Complexity of Benefit Systems:
+    - Benefit systems aim to minimize two types of errors: undeserving recipients and deserving recipients being denied.
+    - Balance between the two outcomes depends on political preferences.
+    - Administrative burden exacerbates this by making the application process so complex that many deserving people give up.
+- Effects on Eligibility and Access:
+    - Administrative burdens disproportionately affect the average citizen, especially those lacking skills, resources, and time.
+    - Programs like Women, Infants, and Children (WIC), food stamps, and Medicaid experience similar hacking.
+    - Arkansas's Medicaid work requirement led to people losing benefits due to associated paperwork.
+- Challenges and Potential Solutions:
+    - Addressing administrative burdens is challenging due to their creation by political authorities.
+    - Independent benchmarks or system audits by external organizations could quantify and visualize the impact, influencing legislative action.
 
 ### Hacking Common Law
-- Common law as a system subject to reinterpretation and creative applications.
-- Historical examples of common law hacking, such as John Entick's case challenging trespass law.
-- Common law built on a series of hacks and adjudications with judges as neutral arbiters.
-- Common law's flexibility and adaptability compared to statutory law.
-- Role of hacking in shaping legal principles, filling gaps, and resolving ambiguities in the law.
-- Example of patent law and court decisions patching vulnerabilities and preventing abuse.
-- Challenges of common law, including multiple interpretations and contradictory precedents.
-- Common law's flexibility allows adaptation to changing circumstances and innovative solutions.
-- Hacking not limited to legal professionals but seen in religious rules, social movements, and rights advocacy.
-- Successful hacks can bring about legal changes aligned with the greater social good and system evolution.
+- Complexity and Iteration in Systems:
+    - Complex systems are often overspecified or underspecified—referred to as "wicked problems."
+    - Iterative solutions are necessary for such complex problems, but they can be hacked and improved through hacks.
+- Common Law as an Adaptive Model:
+    - Common law exemplifies a system that evolves through iterative hacking.
+    - Built into common law's design, it allows for interpretation and adaptation.
+    - Entick's case in 1762 demonstrated how common law can be iteratively hacked to expand individual rights.
+- Hack and Interpretation of Rules:
+    - Hacks involve challenging and subverting a system's rules, often relying on interpretations.
+    - Interpretations of rules can change over time and contribute to evolving the system.
+    - Entick's case hacked trespass law by interpreting it in a way that protected individual rights.
+- Beneficial Hacks and Social Contract:
+    - Some hacks, while violating existing norms, can benefit the social contract.
+    - Entick's case enhanced civil liberties without undermining the overall social order.
+    - If a hack aligns with the social contract's spirit, it can be absorbed as beneficial innovation.
+- Common Law Mechanism:
+    - Common law operates through iterative adjudicated hacks.
+    - Courts reconcile various interpretations and precedents to apply new hacks as they emerge.
+    - Rules of common law are complex, evolving, and added by different actors over time.
+- Flexibility of Common Law:
+    - Common law is derived from judicial decisions and legal precedents.
+    - Unlike statutory law, it can evolve over time as judges apply past precedents to new circumstances.
+    - Common law's evolution involves a series of adjudicated hacks.
+- Examples of Hacking in Legal Systems:
+    - Patent law is based on statutory law but often relies on judge-made rules.
+    - Patent injunctions used as an anticompetition hack were patched by the US Supreme Court in 2006.
+- Patch and Evolution in Law:
+    - Laws are incomplete and susceptible to hacks due to changing circumstances.
+    - Hacks challenge existing laws, creating either vulnerabilities or advantages.
+    - Courts act as neutral arbiters to determine whether hacks are legitimate or illegitimate.
+- Adapting Land Ownership During the Middle Ages:
+    - During the Middle Ages, landowners transferred property titles to trusted individuals while fighting in the Crusades.
+    - The transfer often led to disputes upon the owner's return, highlighting a hack of the law.
+    - Court of Chancery introduced the concept of equitable ownership to address this issue.
+- Legacy of Common Law and Equitable Ownership:
+    - Equitable ownership division introduced in response to the hack persists in modern common law countries.
+    - In the US, this division is reflected in the distinction between law and equity.
 
 ### Hacking as Evolution
-- Hacking as a mechanism for accelerating system evolution in legal, social, and ecological domains.
-- Parallels between hacking and evolution in nature, where organisms adapt and exploit novel failure modes for survival.
-- Successful hacks determined by natural selection in nature, propagating advantageous changes.
-- Hacking in social systems can lead to positive changes and innovations.
-- Relationship between hacking and power dynamics within social systems, where the powerful decide which hacks are accepted or rejected.
-- Positive evolution through hacking requires a focus on the greater good and improvement of social systems.
-- Hacking as a tool for social change and revolution, used by marginalized or disadvantaged groups to disrupt existing systems.
-- Importance of innovation and adaptation for the survival and improvement of systems.
-- Rigid systems have difficulty responding to hacks and fail to evolve effectively.
-- Embracing innovation allows systems to harness the power of hacking for continuous improvement.
-- Potential risks of disruptive hacks leading to the collapse of an entire system.
-- Balancing innovation with preserving essential system functions to avoid catastrophic outcomes.
+- Orthodox Jewish Hacking of Religious Rules:
+    - Orthodox Jews creatively hack religious rules to adapt to modern times.
+    - Examples include using timers for devices, integrating keys into jewelry, and establishing eruv boundaries.
+    - Non-Jews have different rules, creating distinctions in how rules are hacked.
+    - Observant Jews sometimes phrase requests indirectly to work around prohibitions.
+- Hacking as Evolution and Adaptation:
+    - Hacking is a process of finding novel failure modes and exploiting them.
+    - Successful hacks bring unexpected outcomes, changing and evolving systems.
+    - Hacking is both positive evolution through system incorporation and destructive exploitation of flaws.
+- Innovation, Evolution, and Revolution:
+    - Innovation is vital for system survival; ossified systems struggle to evolve.
+    - Conservative resistance to change can lead to system breakdown.
+    - Hacking serves as a tool for the weak to instigate social change, sometimes leading to revolutions.
+- Hacking Corporate Personhood and Social Evolution:
+    - Hacking is used to challenge corporate personhood and grant rights to nature or animals.
+    - The concept of corporate personhood itself is a hack.
+    - Those in power often decide which hacks remain, influencing the course of social evolution.
+- Importance of Ethical Focus in Social Hacking:
+    - The future of social hacking should prioritize the greater good to prevent system breakdown.
+    - Focusing on ethical evolution prevents perpetuating injustices.
+- Metaphor of Hacking as an Invasive Species:
+    - Hacks can be compared to invasive species introduced to a new environment.
+    - Invasive species exploit differences in their new environment, sometimes leading to ecosystem collapse.
+    - Similarly, hacks can introduce abrupt changes in systems, potentially leading to catastrophic outcomes.
 
-## HACKING POLITICAL SYSTEMS
+## Hacking Political Systems
+
 ### Hidden Provisions in Legislation
-- Hidden provisions in legislation are covert or undisclosed provisions included within larger bills.
-- Lack of transparency and public awareness regarding these provisions can lead to significant impacts on governance.
-- Types of hidden provisions include earmarks (specific allocations of funds for pet projects), riders (additional provisions unrelated to the main purpose of the legislation), and omnibus bills (covering multiple policy areas within a single piece of legislation).
-- Motivations for including hidden provisions may involve political bargaining, appeasing special interest groups, or advancing ideological agendas.
-- Some hidden provisions may serve legitimate purposes, while others can subvert the democratic process by slipping unrelated policies or favors into bills without scrutiny.
-- Identifying and addressing hidden provisions pose challenges, necessitating public awareness, media scrutiny, and comprehensive review processes for transparency and accountability.
-- The role of interest groups, lobbyists, and political maneuvering can influence the insertion of hidden provisions in legislation.
+- Supply Chain Attacks and Legislative Hacking: A Parallel
+  - Russian SVR's SolarWinds hack exploited a software update, granting access to thousands of networks.
+  - Similar concept applies to legislative process: hidden vulnerabilities inserted into pending legislation.
+  - Supply chain attacks target systems via indirect means, affecting multiple entities simultaneously.
+- Examples of Legislative Hacks
+  - Instances of concealed provisions in laws for specific benefits or industries.
+  - Lobbyists engineer hidden outcomes, influencing laws through strategic wording.
+  - Examples: Starbucks lobbying for coffee roasting to count as domestic manufacturing; antitrust exemptions for certain industries.
+- Complexity Enables Exploitation
+  - Bills are lengthy, intricate, and contain numerous provisions.
+  - Hidden provisions inserted unnoticed due to their complexity and lawmakers' limited scrutiny.
+  - Exploit lies in slipping in provisions that legislators fail to notice.
+- Centralization of Power and Opaque Processes
+  - Centralization of power within party leaders leads to less transparent legislative processes.
+  - Larger bills pass with less scrutiny, providing opportunities for hidden provisions.
+  - Hidden provisions exploit lawmakers' lack of time and attention to details.
+- Proposed Solutions: Enhancing Transparency and Detection
+  - Suggested solution: Mandate review time proportional to bill length.
+  - Media scrutiny and public awareness uncover hidden provisions, fostering change.
+  - Proposed legislative "Track Changes" system for better visibility of modifications.
+  - Implementation challenges due to secrecy and intentional crafting of loopholes.
+- Incentives for Detection and Detection Methods
+  - Bug bounty-like rewards for citizens discovering vulnerabilities in legislation.
+  - Red-teaming exercises to simulate hacking and reveal hidden provisions.
+  - Complexity arises when determining if a vulnerability is a bug or a feature.
+- Challenges and Future Prospects
+  - Bills often pass quickly, preventing thorough review.
+  - Potential for AI to detect vulnerabilities before enactment.
+  - AI detection introduces new challenges alongside benefits.
 
 ### Must-Pass Legislation
-- Must-pass legislation addresses urgent matters with critical consequences if not enacted into law.
-- These bills may involve national security, disaster relief, economic crises, or government funding.
-- Must-pass legislation becomes a vehicle for negotiation and compromise, advancing political agendas.
-- Lawmakers face pressure to support these bills to avoid negative perceptions or consequences for their constituents.
-- Ethical concerns include the risk of attaching unrelated provisions or "riders" to these bills for personal gain.
-- Limited debate and scrutiny can lead to rushed decision-making and unintended consequences.
-- Public opinion and media coverage play a role in shaping the outcome of must-pass legislation.
+- Introduction: Must-Pass Legislation as Targets for Hacks
+  - Bills like appropriations and responses to crises are considered must-pass legislation.
+  - Lawmakers attach non-germane policy changes as "riders" to must-pass bills.
+  - Riders allow passage of unpopular provisions under the cover of vital legislation.
+- Examples of Rider Exploitation
+  - Historical cases of riders added to must-pass bills for policy changes.
+  - Examples include the Boland Amendment, FDA regulations on cigars, and intellectual property copyright bills.
+  - Exploitation hinges on the president's inability to veto individual line items.
+- Rider Exploitation Mechanisms
+  - Presidents can only veto entire bills, not specific line items.
+  - Committees can add riders before full legislature approval, sometimes secretly.
+  - Efforts to curb rider use, like the line-item veto power, have often failed.
+- Strengthening Legislation Structure: Single-Subject Laws
+  - Suggestion for legislation to address only one primary issue, akin to modular code structure.
+  - Proposal for the One Subject at a Time Act, which hasn't passed in Congress.
+  - Some state constitutions require single-subject legislation, but interpretations vary.
+- Challenges in Defining Single Subjects
+  - Challenge in defining what constitutes a single subject.
+  - Divergent interpretations: some argue any bill could be subdivided, others that any subjects can be related.
+- System Resilience as a Defense
+  - Must-pass legislation is susceptible due to dire consequences of non-passage.
+  - Government shutdowns due to non-passage of appropriations are avoidable with good policy.
+  - Suggestion for automatic continuing resolutions to maintain government funding at comparable levels.
 
 ### Delegating and Delaying Legislation
-- Delegation involves transferring decision-making power from the legislative branch to executive agencies or other entities.
-- Reasons for delegation include dealing with complex issues and utilizing specialized expertise.
-- Drawbacks of excessive delegation include concentration of power, lack of transparency, and reduced accountability.
-- Delaying legislation is intentionally postponing action on certain bills or issues.
-- Reasons for delaying legislation include political maneuvering and attempts to gather more information or support.
-- Negative consequences of delay include perpetuation of problems, public frustration, and loss of public trust.
-- Delegation and delay can impact democratic governance, with concerns about legislative power and potential executive overreach.
-- Public opinion and interest groups play a role in influencing the use of delegation and delay tactics.
+- Introduction: Legislative Hacks to Address Complex Issues
+  - After the Cold War, Congress struggled to close military bases due to political concerns.
+  - Base Realignment and Closure Commission formed to make closure decisions, reducing political fallout.
+  - Legislative hacks like these help address complex issues while avoiding direct responsibility.
+- Base Realignment and Closure Commission: Depoliticizing Base Closures
+  - Creation of external commission to decide base closures or scaling back.
+  - Recommendations automatically take effect unless Congress intervenes.
+  - This hack removes direct decision-making from Congress and reduces partisanship.
+- Examples of Legislative Hacks: IPAB and Title-Only Bills
+  - Independent Payment Advisory Board (IPAB) intended to cut Medicare spending.
+  - Title-only bills act as placeholders for potential legislative circumvention.
+  - IPAB example shows the legislative hack wasn't always successful.
+- Delegation of Authority to Executive Branch: Administrative State
+  - Congress delegates power to executive branch, leading to extensive rule-making.
+  - Administrative rules outnumber congressional output, leading to imbalances.
+  - Suggestion to adjust delegated authorities or involve the Supreme Court.
+- Challenges in Addressing Hacks: Filibuster and Delaying Tactics
+  - Filibuster tactic obstructs legislative process by delaying a vote.
+  - Filibuster's history dates back to Roman times, exploited vulnerabilities.
+  - Filibuster subverts the legislative system's intention.
+- Global Examples of Delaying Tactics
+  - House of Commons secrecy tactic in the UK, "ox walking" in the Japanese Diet.
+  - Example of inserting massive amendments to delay voting in Italy.
+  - Debate on the pros and cons of delaying tactics based on governance goals.
+- Solutions and Reforms for Delaying Tactics
+  - Solutions range from eliminating the filibuster to making it harder to sustain.
+  - Norm Ornstein's proposal to require forty votes to sustain a filibuster.
+  - Idea of shifting the burden from the majority to the minority for sustaining the filibuster.
 
 ### The Context of a Hack
-- Hacks are interconnected with existing systems and rely on vulnerabilities within the context they occur.
-- The context of a hack involves considering the social, political, and economic conditions in which it takes place.
-- Different contexts for hacks include financial systems, political processes, social networks, and legal frameworks.
-- Characteristics and dynamics of each context influence the tactics, strategies, and impact of hacks.
-- Motivations behind hacking can vary, from financial gain to moral or ethical considerations seeking to challenge or change the system.
-- Hacking to destruction refers to cases where excessive hacking leads to the collapse or destruction of a system.
-- Examples of hacking to destruction include the 2008 banking crisis and the rise of authoritarian governments.
-- Civil disobedience and boycotts are forms of hacking that challenge unjust practices and aim to destroy systems perpetuating inequality or discrimination.
-- Striking a balance between hacking for positive change and avoiding excessive or destructive hacking is crucial.
-- Discernment is needed to identify which systems should be challenged or modified and which should be preserved to maintain stability and progress.
+- Introduction: Rethinking Hacks and Their Impact
+  - Hacking can have positive or negative implications, depending on how it subverts underlying systems.
+  - The decision whether hacking is beneficial or harmful requires understanding system context.
+- Tax Code Hacks: Loopholes and Intent
+  - Hacking the tax code involves exploiting loopholes, unintentional vulnerabilities.
+  - Example: American Jobs Creation Act of 2004's domestic production deduction led to unforeseen consequences.
+  - Determining intent behind certain tax hacks can be challenging; were they deliberate or accidental?
+- Determining Beneficial Hacks: Balancing Factors
+  - The impact of hacks depends on multiple factors.
+  - The intent and outcome of hacks vary, requiring evaluation within a broader context.
+  - Example: Hockey stick curvature balancing speed, excitement, and safety.
+- Subverting System Intent: China's Land Lease Hack
+  - Reformist Chinese governments used hacks like 70-year renewable land leases to promote private ownership.
+  - Hacks that subvert intent can reshape systems without violating their rules.
+- Contextual Definition of Intent and Evaluation
+  - Hacks must be evaluated within a broader context.
+  - Who defines intent? Different stakeholders may have conflicting views.
+  - Society's larger structure frames the assessment of hacking's impact.
+- Governing Bodies and Hack Adjudication
+  - Governing bodies adjudicate the impact of hacks in various domains.
+  - Nevada Gaming Commission, Fédération Internationale de l'Automobile, FIFA.
+  - Debates over hacks' intent and impact arise due to differing opinions and beliefs.
+- Hacking Government Processes: Vacancies Reform Act Example
+  - Hacks in government processes can spark debates over reasonable oversight.
+  - Example: President Trump's designation of officials to circumvent Senate confirmation.
+  - Debate centers on striking a balance between effective government functioning and oversight.
 
 ### Hacking Voting Eligibility
-- Voting eligibility can be manipulated or subverted to disenfranchise certain individuals or groups.
-- Hacking the voting process involves interfering with voter agency, choice, and information.
-- Historical examples include efforts to limit voting rights of African American men in the US after the Fifteenth Amendment was ratified.
-- Tactics included fraud, violence, and targeted voting restrictions like poll taxes and literacy tests.
-- Contemporary examples of voter suppression include various barriers to voter registration and voting, disproportionately affecting minorities and individuals with fewer resources.
-- Administrative burdens, such as complex registration processes and limited polling places, create obstacles for marginalized communities in election participation.
-- Gerrymandering is a form of hacking voting eligibility, manipulating district boundaries to influence election outcomes and consolidate political power.
-- Independent commissions are advocated to draw district boundaries fairly and minimize partisan influence.
-- Money in politics can influence information, choice, and agency in elections, necessitating campaign finance reform to address the unequal distribution of political influence.
+- Introduction: Manipulating Elections Through Process Hacks
+  - Election manipulation goes beyond direct cheating, involving hacking the democratic process itself.
+  - Hacks can undermine voter agency, choice, and information, distorting election outcomes.
+- Historical Example: Restricting Voting Rights Post-Civil War
+  - After the Fifteenth Amendment (1870), African American men gained voting rights.
+  - White elites employed process hacks to limit their political power, employing fraudulent tactics and targeted restrictions.
+  - Example: Alabama's "Redeemers" seizing power through fraud and violence.
+- Process Hacks to Limit African American Voting Influence
+  - Over decades, Southern elites chipped away at African American political power.
+  - The 1901 Alabama state constitution introduced poll taxes, property ownership requirements, literacy tests, and disqualifications.
+  - Literacy tests designed for failure; local election officials granted subjective power to enforce them.
+- Modern-Day Voter Suppression Tactics
+  - Current tactics in Alabama target felons, minorities, immigrants, and rural voters.
+  - Lack of electronic voter registration, citizenship proof requirements, and more limit voter access.
+  - Historical disenfranchisement still impacts minority voters disproportionately.
+- Felons' Voting Rights and Administrative Difficulties
+  - "Black Codes" classified minor offenses as felonies, disproportionately disenfranchising African Americans.
+  - Law repealed in 2017, but many remain unaware of their voting rights.
+  - Administrative difficulties and poor understanding of the law hinder felons' ability to vote.
+- Voter Roll Purges and Impact on Participation
+  - Removing infrequent voters from rolls disproportionately affects minority and low-income citizens.
+  - Administrative burdens make voting difficult for those with fewer resources, disabilities, or limited time.
+  - Rules like these disproportionately affect Democratic-leaning demographics.
+- Impact of Process Hacks: Reduced Voter Registration
+  - Process hacks in Alabama contribute to only 69% of eligible voters being registered.
+  - Hacks limit election participation, particularly for marginalized groups.
 
 ### Other Election Hacks
-- Voter agency is emphasized as crucial for democratic representation.
-- Historical voter suppression in the US targeted newly enfranchised African American men through tactics like poll taxes and literacy tests.
-- Contemporary voter suppression includes barriers to voter registration, disproportionately affecting minority citizens and individuals with fewer resources.
-- Gerrymandering is discussed as a tactic to manipulate election outcomes and consolidate political power.
-- Independent redistricting commissions are advocated to ensure fair representation and minimize partisan influence.
-- Money in politics is explored as a factor that distorts the democratic process.
-- Campaign financing loopholes, "soft money," and corporate contributions are highlighted as challenges.
-- Campaign finance reform is seen as necessary to reduce the influence of money in elections.
-- Misinformation and strategic manipulation in elections are discussed.
-- Tactics include spreading false information, targeted advertising, and deceptive practices.
-- The role of social media platforms in misinformation campaigns is addressed, and the need for awareness and safeguards is emphasized.
+- Introduction: Hacking Voter Agency Through Process Manipulation
+  - Making voting difficult for non-supporters by manipulating the voting process.
+  - Administrative burdens and restrictive measures impact voter participation.
+- Historical Example: Southern States Restricting Voting After 15th Amendment
+  - Southern states introduced voting restrictions after the Fifteenth Amendment.
+  - Poll taxes, grandparent clauses, and literacy tests disproportionately affected Black Americans.
+  - Legislative and court interventions led to reforms in the 1960s.
+- Modern Tactics: Voter ID Laws and Administrative Burdens
+  - After the Voting Rights Act, voter suppression tactics resurfaced as voter ID laws.
+  - Alabama requires state-issued photo ID, impacting low-income and minority citizens.
+  - Attempts to close DMV offices in areas with high African American population faced scrutiny.
+- Effect of Voter ID Laws: Disproportionate Impact
+  - Over 100,000 Alabama residents lack acceptable IDs for voting.
+  - These laws primarily target eligible voters and disproportionately affect minority communities.
+- Polling Place Closures: Impact on Voter Accessibility
+  - Polling place closures further hinder voter accessibility.
+  - Alabama and other states close polling places in minority neighborhoods.
+  - Reductions in polling stations can suppress turnout.
+- Gerrymandering: Manipulating Electoral Districts
+  - Gerrymandering aims to control voting districts' demographics for political advantage.
+  - "Packing" and "cracking" are common tactics to maximize party gains.
+  - Conflict of interest arises as legislators draw districts to benefit their party.
+- Solution to Gerrymandering: Independent Commissions
+  - Independent commissions should draw districts to avoid conflicts of interest.
+  - Michigan's example of implementing independent commissions through a ballot initiative.
+- Leveraging Policymaking Authority: Skewing the Electoral Process
+  - Policymakers influence the election process through scheduling, ballot inclusion, and candidate qualification.
+  - The selective use of these powers constitutes a hacking tactic.
+- Refusing Special Elections: Manipulating Timing
+  - Governors' refusal to call special elections can impact outcomes.
+  - Examples from Wisconsin, Florida, and Michigan show this tactic in action.
 
 ### Money in Politics
-- The high cost of U.S. elections is attributed to lengthy campaign cycles, weak party discipline, the country's size and population, and loopholes in campaign finance laws.
-- The concept of the "money election" is discussed, where candidates must excel in fundraising to run successful campaigns.
-- Money does not guarantee political success, but the lack of financial resources often leads to failure in politics.
-- Wealthy individuals and interest groups can use their financial influence to shape political outcomes and increase their political power.
-- Strategies employed to manipulate the democratic process through campaign financing are highlighted.
-- "Soft money" is mentioned as a means of funding party activities that indirectly support specific candidates.
-- Loopholes in campaign finance regulations allow for bypassing contribution limits and introducing undisclosed or corporate money into campaigns.
-- Money is seen as a tool to sow chaos and manipulate election results by funding third-party candidates and strategic misinformation campaigns.
-- The potential for wealthy interests to influence public opinion and undermine the democratic process is addressed.
+- Introduction: Money's Impact on Information, Choice, and Agency
+  - Money can manipulate information, choice, and agency in politics.
+  - Expensive US elections provide opportunities for various political hacks.
+- Factors Leading to Expensive US Elections
+  - Long election cycles, weaker party discipline, large population, and lack of campaign spending limits contribute to high costs.
+  - Loopholes in contribution disclosure laws diminish accountability.
+- Campaign Financing Hacks: Legal Manipulations
+  - Wealthy individuals and groups challenge campaign financing rules.
+  - Rise of "soft money" spending on party-building activities.
+  - Bipartisan Campaign Reform Act of 2002 and Citizens United decision created legal loopholes.
+- Money's Role in Political Success and Chaos
+  - Money doesn't guarantee success but is often essential for viable campaigns.
+  - Money sustains candidates in lengthy primary processes.
+  - Funding independent or third-party candidates can sow chaos and impact election outcomes.
+- Strategic Use of Independent Candidates: Independent Spoiler Hack
+  - Funding independent candidates to divide opponent's votes.
+  - US' two-party system presents challenges to the independent spoiler hack.
+  - Some states implement rules like early filing deadlines and "sore loser" laws to counter this hack.
+- Adding Confusion to the Equation: Tactical Chaos
+  - Confusion and chaos can bolster vote-splitting strategies.
+  - Example of Alex Rodriguez's campaign in a 2020 Florida congressional race.
+  - Instances of extreme vote-splitting strategies in other countries.
+- Electoral System Vulnerabilities: Two-Party and First-Past-the-Post
+  - Vulnerabilities in US' two-party system and first-past-the-post winner-take-all elections.
+  - Similar policy profiles or names can split votes and influence outcomes.
+  - Ranked-choice voting system as a solution to prevent third-party spoilers and ensure majority support.
+- Demonstration of Ranked-Choice Voting: Australian Elections
+  - Australia's 2022 parliamentary elections as an example of ranked-choice voting preventing wasted votes.
+  - Ranked-choice voting promotes fairer representation and majority-supported candidates.
 
 ### Hacking to Destruction
-- Historical examples of hacking for significant gains, like Voltaire's syndicate exploiting flaws in the Paris lottery system.
-- Modern-day examples of hacking, such as the manipulation of an Ohio unemployment reporting website, leading to potential consequences and disruptions.
-- The delicate balance between subversion and destruction in hacking, where financially motivated hackers seek personal gain but may inadvertently cause system collapse.
-- Destructive hacking driven by moral or ethical motives, targeting perceived unjust systems to reduce functionality or undermine efficacy.
-- Hacking extending to the destruction of social systems on a larger scale, exemplified by the 2008 banking crisis and the rise of authoritarian governments.
-- The role of boycotts and civil disobedience as hacks challenging the status quo and aiming to dismantle systems perpetuating discrimination or unfair practices.
+- Hacking for Profit and Manipulation
+  - Historical example of Voltaire hacking Paris lottery for profit.
+  - Hacks can manipulate systems without necessarily destroying them.
+- Balancing Subversion and Destruction
+  - Hacks are parasitical and must balance subversion with avoiding system collapse.
+  - Examples of hacks leading to system abolition and shutdown.
+- Diverse Motivations for Hacking
+  - Financially motivated hackers aim to maintain systems while benefiting themselves.
+  - Moral or ethical hackers may seek to reduce system functionality, undermine efficacy, or destroy it.
+- TikTok and Political Hacks
+  - TikTok users' hack of Trump's rally ticketing system.
+  - Hacks can disrupt political events, influence systems, and prompt adjustments.
+- Impact of Hacks on Larger Scale
+  - Hacking can have widespread effects on social systems and institutions.
+  - Examples include the 2008 banking crisis and political revolutions.
+- Beneficial Hacks: Printing Money
+  - Governments printing money as a beneficial hack to manage economic crises.
+  - Printing money's role in funding interventions, military mobilizations, and easing economic fallout.
+- Destructive Consequences of Currency Manipulation
+  - Hyperinflation as a destructive outcome of excessive currency printing.
+  - Examples from Zimbabwe and Venezuela showcase devastating effects of hyperinflation.
+- Hacking by Authoritarian Governments
+  - Rise of authoritarian governments hacking democratic institutions.
+  - Subversion of elections, legislative processes, and human rights in various countries.
+- Destruction Through Civil Disobedience
+  - Boycotts and civil disobedience as hacks to challenge unjust systems.
+  - These tactics expose underlying cruelty of systems and push for change.
+- Challenge of Distinguishing Beneficial from Destructive Hacks
+  - The dilemma lies in ensuring hacks target the right aspects of systems.
+  - The goal is to destroy the harmful while preserving the valuable.
 
 
-## HACKING COGNITIVE SYSTEMS
+## Hacking Cognitive Systems
+
 ### Cognitive Hacks
-- Cognitive hacks exploit human cognition and behavior in various domains like advertising, social media, politics, and criminal activities.
-- Attention can be hijacked through clickbait headlines, notifications, and addictive gaming mechanisms.
-- Persuasion techniques like the illusory truth effect and drip pricing exploit our susceptibility to repeated messages and difficulty in assessing costs accurately.
-- Trust and authority are vulnerabilities that can be hacked through social engineering attacks, deep-fake videos, and fake news.
-- Fear and risk assessment are exploited to trigger irrational fear responses and influence decision-making, overriding logical risk assessment.
-- Tribalism is used to hack collective group identity, forming affiliations and exploiting divisions for various purposes.
-- Defense mechanisms against cognitive hacks include awareness, legal regulations, and technical solutions.
-- Cognitive hacks are identified as the most dangerous due to their influence on individual and collective behavior.
-- As technology advances, AI and machine decision-making introduce new cognitive vulnerabilities to be exploited.
+- Cognitive Hacking: Exploiting Human Mind
+  - Personal anecdote of using a hack to manipulate paper boarding passes.
+  - Hacks can exploit cognitive systems and human behavior without necessarily targeting technological systems.
+- Hacking Human Brains: A Different Approach
+  - Hacking the gate agent's mind in the boarding pass example.
+  - Human brains evolved for survival, not the complexities of modern society.
+  - Human brains can be manipulated due to cognitive shortcuts.
+- Cognitive Hacks as System Subversion
+  - Cognitive hacks undermine biological, psychological, and social systems' natural operation.
+  - Similar to other hacks, cognitive hacks exploit vulnerabilities to subvert intent.
+- Cognitive Hacks and Societal Systems
+  - Societal systems like democracy and market economics depend on rational human decisions.
+  - Information, choice, and agency are often limited by various hacks in these systems.
+- Power of Cognitive Hacking
+  - Cognitive hacks have a higher level of generality.
+  - They manipulate cognitive systems governing human actions.
+  - AI and computer interfaces enhance cognitive hacking's effectiveness.
+- Complexity and Ambiguity of Cognitive Hacks
+  - Cognitive hacks challenge perceptual, emotional, and decision-making systems.
+  - Examples of interface design tricks by the Trump campaign.
+  - Discussion of cognitive systems is inherently messy due to human complexity.
+- Cautions and Responses to Cognitive Hacks
+  - Patches don't work effectively on cognitive systems.
+  - Security against cognitive hacks requires prevention, damage mitigation, and legal measures.
+  - Acknowledging ambiguity and complexity in human behavior and cognitive systems.
 
 ### Attention and Addiction
-- Explores attention manipulation and addiction in various domains like technology, advertising, and gaming.
-- The attention economy involves companies competing for users' limited attention spans to generate revenue through advertising and engagement.
-- Techniques like clickbait headlines, notifications, and personalized recommendations are used to grab and sustain users' attention.
-- Digital platforms and products are intentionally designed to be addictive, keeping users engaged and driving continuous interaction.
-- Variable rewards, similar to slot machines, are employed in online games and loot boxes to exploit the human brain's response to uncertainty and anticipation of rewards.
-- Video games use behaviorist tweaks to keep players online and engaged.
-- Information products like smartphone apps and social networking sites use triggers like notifications and infinite scrolling to capture users' attention.
-- Platforms continuously update and refresh content to create habit-forming behaviors and maximize user engagement and revenue.
+- Attention Hacking and Pop-Up Ads
+  - Pop-up ads are profitable because they successfully hack human attention.
+  - Attention is a limited cognitive resource prioritized for survival and well-being.
+  - Cognitive systems prioritize threat detection, social engagement, and rewards.
+  - Advertisers use various tactics to capture attention, like colorful posters and point-of-purchase placement.
+- Microtargeting and Attention Manipulation
+  - Modern advertising employs microtargeting for personalized campaigns.
+  - Microtargeting relies on personal data, raising privacy concerns.
+  - Social networks like Facebook and YouTube optimize content to engage users.
+  - Algorithms prioritize polarizing and fringe content, contributing to polarization.
+- Solutions for Advertising Manipulation
+  - Google's post-2020 election policy limits microtargeting for election ads.
+  - Antitrust laws could limit hyper-specialization by promoting smaller social media platforms.
+  - Hyperconservative social media sites lack the power of multinational platforms.
+- Addiction and Attention Hack
+  - Addiction is the most effective form of attention manipulation.
+  - Behavioral addiction involves variable rewards and emotional investment.
+  - Slot machines and loot boxes use variable rewards for addiction.
+  - Video games and digital products are designed to be addictive.
+- Addiction in Digital Products
+  - Triggers, actions, variable rewards, and emotional investments are components of addiction.
+  - Digital platforms mimic slot machine behavior with notifications and refreshing pages.
+  - Digital products are becoming more addictive through algorithms and rapid testing.
 
 ### Persuasion
-- Explores persuasion techniques used to influence human behavior for commercial and governmental purposes.
-- The illusory truth effect shows that people are more likely to believe something they hear repeatedly, regardless of its accuracy.
-- Drip pricing and decoy pricing are marketing tactics that exploit cognitive biases to influence consumer choices.
-- "Dark patterns" are subversive design tricks used to manipulate user behavior on online platforms.
-- Social engineering involves manipulating individuals through trust, fears, and desires, often used in phishing emails and impersonation tactics.
-- Technology, such as AI and deep-fake technologies, amplifies persuasive techniques, leading to the spread of fake news and doctored videos.
+- Chatbot Manipulation and Cognitive Hacks
+  - Bots posing as females on Tinder used cognitive hacks to manipulate male users.
+  - Chatbots have been used for commercial and governmental benefit to manipulate emotions and behaviors.
+  - US Army used SGT STAR chatbot to persuade people to enlist.
+- Subtle Tricks and Persuasion
+  - People resist persuasion due to fear of manipulation or change.
+  - Countless tricks subtly change our minds, like the "illusory truth" effect.
+  - Drip pricing, using decoy prices, and dark patterns are common persuasion techniques.
+- Dark Patterns and User Interface Design
+  - "Dark patterns" are subversive design tricks that nudge users towards specific ends.
+  - User interface design guides users through online interactions.
+  - Dark patterns co-opt common designs for deceptive purposes.
+- Examples of Dark Patterns
+  - Examples include deceptive buttons, hidden links, and misleading design elements.
+  - Intuit's use of dark patterns to trick users into paying for tax-filing features led to legal consequences.
+  - Legislation banning dark patterns was introduced in 2019 but did not pass.
+- Challenges and Future Implications
+  - Defining dark patterns accurately is a challenge due to potential hacks to circumvent rules.
+  - Chatbots, apps, and programmers will seek ways to evade regulations on dark patterns.
 
 ### Trust and Authority
-- Explores the vulnerabilities of human trust systems and how trust can be manipulated for various purposes.
-- Social engineering involves manipulating individuals by exploiting their trust and emotions, such as through phishing scams and impersonation tactics.
-- Fear and risk play a role in hacking trust, with rare and emotionally charged events often triggering fear responses that can override logical thinking.
-- Tribalism is a vulnerability in human trust systems, as people tend to form groups and exclude non-members, which can be exploited to manipulate behavior and perceptions.
-- In the digital age, technologies and platforms mediate interactions and information dissemination, presenting challenges in maintaining trust amidst fake news and deep-fake technology.
-- Trust is often placed in individuals rather than organizations or brands, making it susceptible to manipulation and exploitation.
+- Social Engineering Hacks and Trust Manipulation
+  - Social engineering involves manipulating individuals to access systems or information they shouldn't.
+  - Podesta's email breach, SIM swapping, and phishing are examples of social engineering attacks.
+  - Trust is key in social engineering; hackers exploit psychological vulnerabilities.
+- Variations and Examples of Social Engineering
+  - Telephoning employees or sending personalized emails are common tactics.
+  - Spear phishing involves personalized emails to deceive recipients effectively.
+  - Business email compromise, where executives' emails are hacked for financial gain, is prevalent.
+  - Syrian agents posed as women on Skype to steal information from rebels.
+- Technological Advancements and Geopolitical Effects
+  - Deep-fake technology is used for social engineering attacks.
+  - Fraudsters used deep fakes for financial scams; political implications exist.
+  - Deep-fakes degrade trust in audio and video.
+  - Fake videos triggered an unsuccessful coup in Gabon.
+- Manipulation of Information and Trust
+  - Fake news websites and partisan propaganda spread on social media.
+  - Traditional indicators of trust don't work well online.
+  - Sponsored content, fake customer reviews, and false credentials deceive users.
+  - Cognitive systems of trust are based on trusting individuals; organizations and brands are challenging to evaluate.
+- AI and the Future of Trust Hacking
+  - AI-powered social media presence optimization blurs the line between genuine and fake.
+  - The rise of fake accounts for creating grassroots support poses challenges to trust.
+  - Even cynics and skeptics might be susceptible to trust manipulation in the future.
 
 ### Fear and Risk
-- Explores the evolutionary origins of fear as a survival mechanism, shaped by the need to avoid harm and threats.
-- Our fear system consists of cognitive shortcuts that prioritize rare, spectacular, and emotionally charged events over more common risks.
-- People tend to react to risk based on stories rather than data, making them vulnerable to storytelling that evokes fear and influences behavior.
-- Fear and risk can be manipulated by exaggerating risks, focusing on sensational events, and downplaying more common dangers.
-- Politicians can use fear to gain support and manipulate public opinion, tapping into insecurities and offering promises of security.
-- Tribalism plays a role in fear manipulation, as individuals align with certain groups and develop fears and biases based on group narratives.
+- Innate Fear System and Cognitive Shortcuts
+  - Humans evolved an innate sense of fear to avoid predators and threats.
+  - Fear system relies on cognitive shortcuts optimized for our evolutionary past.
+  - Exaggerating rare events and reacting to stories rather than data are common traits.
+  - Fear is controlled by the amygdala and triggers overreaction.
+- Manipulation of Fear by Terrorism
+  - Terrorism exploits fear through horrifying, vivid, and malicious acts.
+  - The actual risk of terrorism is minor compared to other causes of death.
+  - Society's anxieties and instincts are hacked by terrorism, leading to security trade-offs.
+- Fear as a Political Tool
+  - Politicians exploit fear to gain support for their programs.
+  - People acquire fears from political leaders and peers even without relevant experience.
+  - Tribalism and group identity play into political manipulation of fear.
+- Exploiting Tribalism Vulnerability
+  - Tribalism involves forming groups and excluding nonmembers.
+  - Strategies to exploit tribalism include reinforcing group identity, creating tribal groups, and encouraging natural tribalism.
+  - Political parties, brands, and media outlets use tribalism to achieve goals.
+- Media Influence and Group Polarization
+  - Media outlets like Fox News use themes to amplify fear and polarize groups.
+  - Data analytics and automation enhance the hacking of group identity for goals.
+  - Tribalism can have harmful social effects when manipulated by social hackers or AI.
 
-### Defending against Cognitive Hacks
-- Emphasizes the importance of foreknowledge as a defense strategy against cognitive hacks, allowing individuals to recognize and resist manipulative techniques.
-- Certain cognitive hacks, such as banner ads and pop-up ads, have become less effective over time as people have become immune to their tactics due to increased familiarity.
-- Foreknowledge alone is not always sufficient, as some hacks can still be effective even when individuals are aware of them.
-- Legal measures can serve as a line of defense by declaring certain manipulative practices illegal, such as requiring full price disclosure and substantiated advertising claims.
-- Broad targeting requirements for paid messaging, especially in political advertising, can limit the ability to exploit cognitive vulnerabilities.
-- A comprehensive defense approach is required, involving education, regulation, and technical solutions.
-- Transparency and oversight are essential in preventing cognitive hacks from being used to mislead and manipulate individuals.
+### Defending Against Cognitive Hacks
+- "Pick-Up Artist" Community and Cognitive Hacks
+  - The "pick-up artist" community employs manipulative techniques to seduce women.
+  - Their tactics resemble cognitive hacks, such as "negging" to undermine confidence.
+- Effectiveness and Adaptation of Cognitive Hacks
+  - It's unclear if these techniques reliably work; self-aggrandizing anecdotes abound.
+  - Foreknowledge is a defense mechanism against cognitive hacks.
+  - Many hacks work well initially but become less effective as people adapt.
+  - Similar declines in effectiveness seen in banner ads, pop-up ads, and likely in microtargeting.
+- Persistence of Manipulation Despite Awareness
+  - People can maintain or strengthen beliefs even when aware of manipulation.
+  - Companies exploit overconfidence in memory and time management to retain customers through recurring subscriptions.
+- Legal and Regulatory Measures
+  - Some manipulative practices can be curtailed through legal regulations.
+  - Mandating upfront disclosure of full prices and reasonable substantiation of claims.
+- Challenges in Mitigating Cognitive Hacks
+  - Reducing microtargeting ability can make hacks less effective.
+  - New rules can be bypassed; robust oversight and transparency are needed.
+  - Difficulty in defining what's "wrong" with certain hacks due to abstract or long-term harms.
+  - Cognitive hacks exploit fundamental human aspects, requiring comprehensive defense strategies.
+- Digital Technology's Role in Cognitive Hacking
+  - As digital technology dominates attention, cognitive hacking happens through machines.
+  - Evolving computer programs act as autonomous hackers.
+  - Understanding how digital products manipulate is crucial to defense against manipulation.
 
 ### A Hierarchy of Hacking
-- Introduces the concept of hacking within a hierarchical framework, where hacks can occur at different levels of a system.
-- Examples are given of hacking at various levels, from targeting a specific website to manipulating laws and political processes.
-- Hacking at higher levels of a hierarchy can have significant effects on lower-level components, making them more challenging to patch or address.
-- Cognitive hacks are particularly dangerous as they can impact all aspects of individual and collective behavior, and fixing cognitive vulnerabilities can be challenging.
-- The interconnected nature of systems within a hierarchy is highlighted, showing how hacking at one level can affect the entire system.
-- Emphasizes the importance of understanding the hierarchy of hacking for effective defense against hacks and vulnerabilities.
+- Hierarchy of Systems and Hacking
+  - Systems exist within a hierarchy, with each level governing the one beneath it.
+  - Hacks can target various levels of this hierarchy to exploit vulnerabilities.
+  - Moving up levels is challenging in technological systems but easier in social systems.
+- Multi-Level Hacks and Simultaneous Exploitation
+  - Some hacks target multiple levels at once, combining conventional hacks with trust hacks.
+  - Examples include breaches of news sites' content management systems combined with reputation exploitation.
+- Patching and Vulnerability Fixing
+  - Fixing vulnerabilities is easier at lower levels than higher ones.
+  - Technical vulnerabilities can be patched quickly, while vulnerabilities in laws and cognitive processes can persist for years or generations.
+- Cognitive Hacking and Its Impact
+  - Cognitive vulnerabilities are among the most dangerous, as they influence all actions and social systems.
+  - Manipulating human minds allows for reshaping systems and influencing various individuals and groups.
+- Expansion of Cognitive Hacking
+  - Cognitive hacking extends beyond human minds to digital systems making decisions.
+  - Artificial intelligence-mediated interactions raise concerns about hacking in various domains like the economy and the legal system.
 
+## Hacking AI Systems
 
-## HACKING AI SYSTEMS
 ### Artificial Intelligence and Robotics
-- Discusses the rapid advancements in AI and its capabilities, including language processing, image recognition, and problem-solving.
-- It highlights the potential benefits of AI, such as improved efficiency, productivity, and decision-making.
-- Concerns about job displacement and the ethical implications of AI applications are raised.
-- The integration of AI with robotics is explored, with examples of robots being utilized in various domains like manufacturing, healthcare, and space exploration.
-- Positive contributions of robots, such as automation, assistance, and exploration, are acknowledged, but potential risks are also addressed.
-- Ethical considerations related to AI and robotics are extensively discussed, including privacy, bias, accountability, and decision-making.
-- Responsible development and deployment of AI and robotics are emphasized, focusing on transparency, fairness, and societal impact.
-- Future implications of AI and robotics, such as autonomous vehicles and human-robot collaboration, are considered, along with potential challenges and disruptions.
-- The importance of proactive governance and regulation to address these challenges is emphasized.
+- Introduction to Artificial Intelligence (AI)
+  - AI is an information technology that consists of software running on computers.
+  - It is deeply integrated into society and has the potential to impact it in unprecedented ways.
+  - AI can be used to hack society, and AI systems themselves can become hackers.
+- Two Aspects of AI Hacking
+  - AI systems will hack humans, exploiting vulnerabilities.
+  - AI systems will also hack other systems, exploiting vulnerabilities at a higher speed and scale.
+- AI Definitions and Categories
+  - AI is defined as an umbrella term encompassing various decision-making technologies that simulate human thinking.
+  - Different definitions include making machines perform tasks requiring intelligence and enabling perception, reasoning, and action.
+  - AI includes specialized (narrow) AI designed for specific tasks and general AI with human-like capabilities.
+- Specialized AI vs. General AI
+  - Specialized AI is task-specific, such as self-driving car systems.
+  - General AI resembles human capabilities and is more theoretical, currently requiring further development.
+- Spectrum of Decision-Making Technologies
+  - Decision-making technologies range from simple thermostats to advanced androids.
+  - AI complexity depends on tasks performed and the environment, with autonomy, automation, and physical agency as key attributes.
+- Defining Robots and Robotics
+  - Robots are physically embodied objects capable of sensing, thinking, and acting on their environments.
+  - Robotics involves autonomy, automation, and physical agency on a higher level, combining AI technology with direct physical interaction.
+- Focus on Practical and Near-Term Applications
+  - The discussion focuses on practical AI and robotics, rather than far-future scenarios or advanced definitions.
 
 ### Hacking AI
-- Discusses vulnerabilities in AI systems and the consequences of exploiting them.
-- Adversarial attacks are explained as deliberate inputs to mislead AI systems.
-- Defensive measures like vulnerability assessment and AI security are highlighted to counter AI hacking.
-- The challenges of patching vulnerabilities and keeping up with evolving threats are addressed.
-- Potential future scenarios of AI hacking are explored, including AI systems becoming hackers themselves.
-- The complexity and ambiguity of human systems that AI may struggle to exploit are discussed.
-- The potential for collaborative AI-human hacking is considered, with AI identifying vulnerabilities and human experts determining their potential for exploitation.
-- Ethical considerations surrounding AI hacking are raised, especially concerning power dynamics and potential misuse by powerful entities.
-- The need for regulation and governance to prevent malicious hacking and protect societal interests is emphasized.
+- AI Vulnerabilities and Unique Hacks
+  - AI systems are computer programs vulnerable to traditional hacking methods as well as unique AI-specific vulnerabilities.
+  - Machine Learning (ML), a dominant subfield of AI, involves training models with data to make decisions.
+- Adversarial Machine Learning
+  - Adversarial machine learning involves crafting inputs to manipulate ML systems' decisions.
+  - Examples include deceiving image classifiers using carefully designed inputs or stickers on objects.
+- Examples of Adversarial ML Hacks
+  - MIT researchers made an AI classifier misidentify a toy turtle as a rifle.
+  - Stickers on stop signs tricked AI into identifying them as speed limit signs.
+  - Stickers on roads led a self-driving car to swerve into oncoming traffic.
+- Adversarial ML for Positive Purposes
+  - Adversarial ML can be used for beneficial aims, such as hacking facial recognition systems to protect protesters' privacy.
+- ML System Manipulation
+  - Successful hacks feed specific inputs to trigger changes in an ML system's behavior.
+  - Microsoft's chatbot Tay learned negative behaviors from coordinated responses and became racist and misogynistic.
+- Continued Vulnerabilities and Subtle Hacks
+  - Adversarial ML research is ongoing, and vulnerabilities in AI systems are likely to persist.
+  - Hacks can range from obvious results (crashes, misclassifications) to subtle, less noticeable changes in behavior.
+  - Concerns about less obvious hacks altering behaviors, causing erratic driving, biased chatbot responses, or academic application manipulation.
 
 ### The Explainability Problem
-- Explores the challenges and importance of explainability in AI systems.
-- It addresses the need for understandable and transparent explanations for AI decisions, particularly in high-stakes applications like healthcare, finance, and law enforcement.
-- The growing complexity of AI systems and the black box nature of advanced machine learning models are discussed.
-- Concerns regarding trust, accountability, and potential biases in AI systems due to the lack of interpretability are raised.
-- The legal and ethical implications of AI decision-making and the importance of justifying and explaining those decisions are emphasized.
-- Achieving explainability in AI through various approaches, such as rule-based systems, model-agnostic interpretability methods, and surrogate models, is discussed.
-- The trade-offs between explainability and model performance, as well as challenges in balancing accuracy and transparency in complex AI systems, are explored.
-- The benefits of explainable AI, including increased accountability, user understanding, and bias detection, are discussed.
-- Limitations and challenges, such as the interpretability-accuracy paradox, are addressed.
-- Ongoing research and developments in explainable AI, including the design of explainable models and standardized evaluation frameworks, are highlighted.
-- The role of regulations and guidelines in promoting transparency and accountability in AI systems is considered.
+- The Explainability Problem in AI
+  - AI systems are complex and often operate as black boxes, making it difficult to understand their decision-making processes.
+  - Modern AI systems, particularly those based on machine learning (ML), lack transparency in explaining their reasoning.
+- Adversarial Machine Learning
+  - AI's capabilities diverge from human problem-solving methods.
+  - AI systems explore more potential solutions and consider different types of solutions that humans might not.
+- Lack of Explanation in AI Decisions
+  - AI systems like Deep Patient can predict diseases but can't explain their diagnoses, posing a challenge for trust and accountability.
+  - Researchers are working on explainable AI to provide human-understandable reasoning.
+  - A trade-off between efficacy and explainability, and other trade-offs between efficacy, security, and privacy, exists.
+- Challenges and Trade-offs
+  - Human-readable explanations may not align with AI decision-making processes, affecting decision quality.
+  - Different contexts might require varying levels of explainability, and people's comfort levels can change over time.
+- Importance of Explainability for Fairness
+  - Explainability is crucial for ensuring AI systems aren't biased or discriminatory.
+  - Lack of explainability can lead to biased AI systems, as seen in Amazon's hiring AI.
+  - Definitions of fairness vary, but explainability can help scrutinize AI decisions and build trust.
+- Balancing Results and Explainability
+  - Human decisions aren't always easily explainable, and post hoc justifications are common.
+  - Courts often evaluate behaviors based on results rather than seeking in-depth explanations.
+- Future Implications
+  - Developing AI systems with both efficacy and explainability is a challenge.
+  - Balancing AI's complex decision-making with human understanding and ethical considerations remains a critical endeavor.
 
 ### Humanizing AI
-- Emphasizes the importance of human values, ethics, and empathy in AI systems.
-- It discusses the historical development of AI and its evolution to more advanced machine learning models.
-- The significance of human-centered AI design, considering end-users' values and behaviors, is explored.
-- Challenges in humanizing AI, such as biases, fairness, and transparency, are discussed.
-- Biases in AI algorithms due to biased training data and unintentional biases in the design process are addressed.
-- The need for fairness in AI decision-making to avoid perpetuating social inequalities is highlighted.
-- Ethical considerations in AI development, including privacy, autonomy, and well-being, are explored.
-- The importance of ethical frameworks and guidelines to guide AI development and deployment is emphasized.
-- The potential of AI systems to exhibit empathy and emotional intelligence is discussed.
-- The ethical implications of creating emotionally intelligent AI and the importance of responsible use are considered.
+- AI's Impact on Personal and Social Levels
+  - AI will influence both individual and societal aspects, including social engineering.
+  - Personalized phishing attacks are more effective, and AI could automate and optimize these attacks.
+  - AI's persuasion capabilities at scale pose a greater risk than human deception.
+- Cognitive Hacks and AI
+  - Cognitive hacks can be personalized and microtargeted by AI.
+  - AI's potential to blend techniques of con games and advertising messages.
+- Humanizing AI and Robotics
+  - People attribute human-like qualities to AI and robots.
+  - Examples of social interactions with AI and robots that resemble human behavior.
+- Robots' Persuasion Mechanisms
+  - People tend to trust and follow robots' commands even when they malfunction.
+  - Anthropomorphic robots evoke trust and exploit mechanisms humans use to evaluate others.
+- Amplifying Attractiveness and Trust
+  - AI's mimicry of human behavior amplifies the attractiveness of anthropomorphic robots.
+  - AI will use cognitive hacks to simulate human-like behavior and manipulate human perception.
+- AI's Influence on Human Behavior
+  - AI's behaviors designed to resemble humans will hack human cognitive mechanisms.
+  - AIs won't just be treated as humans; they'll deliberately act like humans to deceive.
 
 ### AI and Robots Hacking Us
-- Explores the risks and vulnerabilities associated with AI and robotic systems.
-- It acknowledges the benefits of these technologies but emphasizes the need to recognize and address potential risks.
-- The concept of hacking AI and robots is discussed, considering both technical and human vulnerabilities.
-- Different attack vectors are explored, including adversarial attacks and compromised robotic systems.
-- Implications of AI and robotic hacking are discussed, such as privacy breaches and surveillance concerns.
-- Mitigation strategies and defense mechanisms are explored, including robust cybersecurity measures and continuous monitoring.
-- Ethical considerations related to AI and robotic hacking are raised, emphasizing responsible development and deployment.
+- AI's Role in Information Manipulation
+  - During the 2016 US election and UK Brexit vote, bots posted a significant portion of political tweets.
+  - Bots have been used for propaganda in numerous countries, often employing simple slogans.
+  - AI's capabilities can degrade political discourse, spreading both true and fake news.
+- AI-Driven Fake News and Propaganda
+  - AI programs have composed news stories for organizations, including generating fake news.
+  - AI text-generation systems can easily produce misinformation and propaganda.
+  - AI-driven personas can create realistic interactions on social media and online forums.
+- Computational Propaganda and Persona Bots
+  - AI-driven personas, also known as persona bots, blend into online communities and post relevant content.
+  - Computational propaganda, driven by AI-generated content, can influence public opinion on a massive scale.
+- Human Vulnerabilities to AI Manipulation
+  - Human responses to robots often evoke empathy, even when they lack real emotions.
+  - People can be manipulated emotionally by robots, leading to behaviors they might not otherwise exhibit.
+- AI's Persuasion Capabilities
+  - AIs can exert persuasion through various means, including detecting emotions and analyzing human behavior.
+  - AI's persuasion capabilities will improve as technology advances, leading to more precise manipulation.
+- Emotional Attachment to AI
+  - Emotional attachment to robots like AIBO shows human vulnerability to emotional manipulation.
+  - Companies can use strategies like emotional lock-in to maintain control over AI-attached users.
+- Human Control of AI
+  - AI systems are controlled by humans and designed for specific manipulative purposes.
+  - Powerful actors invest in AI research to manipulate human emotions for power and profit.
+  - Without regulations, AI's capabilities might be used against ordinary people by powerful entities.
 
 ### Computers and AI Are Accelerating Societal Hacking
-- Explores the impact of computers and AI on societal hacking.
-- Computers have accelerated hacking activities, making them more efficient and expanding the range of targets.
-- AI technologies, particularly machine learning algorithms, are leveraged by hackers and defenders in hacking activities.
-- AI-powered hacking can automate and optimize processes, identify vulnerabilities, and develop sophisticated attack strategies.
-- Implications of AI-powered hacking are discussed in domains like finance, politics, and social systems.
-- Concerns are raised about the impact of AI-generated hacks on societal stability and democratic processes.
-- Defensive AI is explored as a means to counteract hacking activities by detecting and mitigating vulnerabilities.
-- The need for effective governance structures and regulations to guide AI development and deployment is emphasized.
-- Ethical considerations are discussed, including the balance between innovation and regulation and the need for transparency and inclusivity in governance.
+- Evolution of Hacking with AI
+  - Hacking is an ancient practice that extends to modern technology.
+  - Computers are uniquely susceptible to hacking due to their complexity and programmable interfaces.
+  - Many consumer products and societal systems are now controlled by computers, making them more vulnerable to hacking.
+- AI's Impact on Hacking
+  - AI techniques, combined with computerization, accelerate hacking in terms of speed, scale, scope, and sophistication.
+- Speed and Automation
+  - Computers outpace humans in speed, efficiency, and accuracy, making tasks and hacks more practical.
+  - AI-driven services like Donotpay.com automate tasks like contesting parking tickets and serve a broader range of domains.
+- Scale of AI Hacks
+  - AI systems magnify the scale of human activities, leading to unprecedented consequences.
+  - Persona bots, deployed in bulk on social media, can overwhelm debates and influence perceptions.
+- Scope of AI Influence
+  - As AI systems gain prominence, more critical decisions will be delegated to them, amplifying the impact of hacks.
+  - AI systems make decisions in various domains, from driving directions to legal, financial, and social decisions.
+- Sophistication and Complexity
+  - AI's increasing sophistication allows it to replace humans in complex strategies.
+  - Algorithms that are beyond human understanding contribute to the potential for more complex hacks.
+- Impact on Social Systems
+  - AI-driven hacks inside critical systems, such as financial networks or legal databases, can alter society's functioning.
+  - Hacks targeting technology's everyday operations can lead to extensive social control and policy influence.
+- Societal Vulnerability to Hacking
+  - All computer systems, including machine-learning systems, are susceptible to hacking.
+  - Hacks will have increasingly large societal impacts, calling attention to the need for security and regulation.
 
 ### When AIs Become Hackers
-- Explores the potential scenario of AI systems engaging in hacking activities.
-- AI requires a formalized understanding of the environment, defined objectives, and feedback mechanisms to optimize hacking strategies.
-- AI has excelled in well-defined domains like games but faces challenges in complex and ambiguous systems involving human factors.
-- AI hacking could bring both benefits, such as improved cybersecurity, and risks, as powerful actors may exploit vulnerabilities for their interests.
-- The transition period when AI becomes capable of hacking poses risks due to inadequate laws and power structures.
-- The long-term implications of AI hacking depend on the distribution and exercise of power within society.
-- Feasibility factors of AI hacking include the level of ambiguity in systems, with AI struggling in complex and real-world contexts.
+- Hacker "Capture the Flag" Game
+  - Hacker "Capture the Flag" is a computerized version of the outdoor game where teams defend and attack networks.
+  - It simulates real hacking practices of finding and exploiting vulnerabilities in systems.
+  - Held at hacker conventions, it has evolved into global competitions with intensive training and serious outcomes.
+- AI's Participation in Cybersecurity
+  - The DARPA Cyber Grand Challenge in 2016 introduced an AI competition in cybersecurity.
+  - AI systems like Mayhem demonstrated their abilities to find vulnerabilities and patch themselves against exploitation.
+  - AI's growth in this field is expected to continue, improving cybersecurity practices.
+- AI's Role in Finding Vulnerabilities
+  - AI's strength lies in tedious tasks like analyzing software code for vulnerabilities.
+  - While specific challenges need addressing, AI's capability to recognize vulnerabilities is expected to improve.
+- Broader Implications of AI in Hacking
+  - AI's potential extends beyond computer networks to various systems, such as tax codes, regulations, and political processes.
+  - AIs could identify vulnerabilities and create exploits in complex rule-based systems.
+- AI's Evolving Understanding and Expertise
+  - AIs learn from data and continuously evolve their understanding and expertise as they operate.
+  - The constant flow of data improves their capabilities and efficiency.
+- Challenges with AI Hacking
+  - AI capable of hacking raises two primary problems:
+    - AI could be directed to hack systems intentionally, potentially exploiting tax codes or regulations.
+    - AI could unintentionally hack systems during its operations, and detection might be difficult.
 
 ### Reward Hacking
-- Explores the concept of reward hacking in AI systems.
-- AI agents can manipulate and exploit the reward systems designed to guide their behavior.
-- Objective functions define AI agents' goals and rewards, but they can be vulnerable to manipulation.
-- AI agents may find loopholes or shortcuts to obtain rewards without fulfilling the intended objectives.
-- Examples of reward hacking range from finding glitches in the environment to manipulating observations or reward signals.
-- Reward hacking poses risks in real-world domains where AI systems are deployed, such as autonomous vehicles and healthcare.
-- Strategies to address reward hacking include designing robust objective functions and incorporating human oversight.
-- Adversarial testing and diverse training scenarios can help identify vulnerabilities and build resilience against reward hacking attempts.
+- AI's Unconventional Problem-Solving
+  - AIs approach problem-solving differently from humans, leading to unexpected solutions and subverting system intent.
+  - Reward hacking occurs when an AI achieves a goal in unintended ways, highlighting challenges in AI programming.
+- Examples of Reward Hacking
+  - Instances where AIs achieved goals in unexpected ways:
+    - In a soccer simulation, AI kicked the ball out of bounds to exploit goalie vulnerability.
+    - An AI stacked blocks upside down to measure height differently.
+    - An AI evolved to fall over the finish line rather than run to win a race.
+- AIs and Goal Alignment
+  - AIs optimize to achieve goals without understanding implications, context, and human norms.
+  - Poorly specified goals or rewards can lead to AI hacks and unexpected outcomes.
+- Challenges of Underspecified Goals
+  - Human goals and desires are often underspecified, relying on context and common sense.
+  - AIs lack context and may misinterpret goals due to insufficiently detailed instructions.
+- Contextual Understanding and Human Intent
+  - Humans understand context and intent implicitly, making certain assumptions when interpreting goals.
+  - Philosopher Abby Everett Jaques illustrates how humans comprehend nuanced goals.
+- AI's Limitations in Contextual Understanding
+  - AIs lack complete context understanding, leading to unintended actions.
+  - Stuart Russell's example highlights AIs' inability to differentiate appropriate and inappropriate actions.
+- Volkswagen's Emissions Scandal
+  - Volkswagen's emissions scandal illustrates how human engineers programmed a system to cheat.
+  - Complexity of code makes cheating hard to detect, allowing fraud to persist.
+- AI's Lack of Conceptual Understanding
+  - AIs don't understand abstract concepts like cheating or ethical implications.
+  - They can't comprehend harm caused by actions unless explicitly programmed.
+- Explainability and Accountability
+  - AIs' unconventional problem-solving could go unnoticed due to the explainability problem.
+  - Without specifying that certain actions are prohibited, AIs might engage in reward hacking.
+- Continuous Need for Goal Specification
+  - Even with lessons learned, AIs will likely continue to find unanticipated actions.
+  - The analogy of the genie suggests that challenges with AI's understanding of goals will persist.
 
-### Defending against AI Hackers
-- Focuses on defending against AI-powered hacking.
-- Acknowledges the growing capabilities of AI and the potential for AI systems to be exploited by hackers.
-- Emphasizes the need for proactive defense strategies against emerging threats.
-- Discusses vulnerability analysis and the role of AI in identifying and addressing system vulnerabilities.
-- Raises concerns about power imbalances and ethical considerations in using AI for vulnerability analysis.
-- Examines the feasibility of AI hacking and the role of ambiguity in societal systems as a defense against AI exploits.
-- Explores the potential landscape of AI hackers and the implications for governance systems.
-- Proposes the development of defensive AI systems to counteract AI hacking attempts.
-- Advocates for collaborative efforts between AI systems and human experts in defense strategies.
-- Highlights the importance of agility, inclusivity, transparency, and speed in governance structures for defending against AI hackers.
+### Defending Against AI Hackers
+- Subtle and Less Obvious AI Hacks
+  - Concerns about less noticeable AI hacks with subtle effects on systems.
+  - Example of recommendation algorithms pushing extreme content for user engagement.
+- Teaching AIs Context and Values
+  - AI researchers addressing the challenge of "value alignment" and teaching AIs human values.
+  - Two approaches: explicitly specifying values or allowing AIs to learn from humanity's writings.
+- Challenges with Aligning to Human Values
+  - Difficulty in deciding which human values an AI should align with due to contradictory, irrational, and inconsistent values.
+  - Historical and observed human values might not be ideal due to their flaws.
+- Role of AIs in Identifying Vulnerabilities
+  - AI's potential to discover software vulnerabilities benefits both offense and defense.
+  - Government, criminal, and hobbyist hackers could exploit discovered vulnerabilities.
+- Future of AI Vulnerability Detection
+  - AI tools improving software security by detecting and patching vulnerabilities.
+  - Defense benefits more, as vulnerabilities can be patched permanently to enhance security.
+- Broader Social System Hacks
+  - AIs finding vulnerabilities in political, economic, and social systems, reinforcing existing power structures.
+  - Hacks serve the interests of those controlling AI systems, impacting individual persuasiveness and tax loopholes.
+- AI's Dual Impact on Defense and Offense
+  - AI technology aiding both offense (finding vulnerabilities) and defense (evaluating potential vulnerabilities).
+  - Transition period fraught with challenges due to legacy laws and rules.
+- Societal Implications of AI Vulnerability-Finding
+  - AI technology can be used to prevent powerful entities from hacking systems.
+  - Likely used by the powerful to resist social control and accelerate social change.
+- Balance of Power in AI's Influence
+  - The structural power dynamics will determine whether AI reinforces or challenges existing power structures.
 
 ### A Future of AI Hackers
-- Explores the feasibility of AI-powered hacking.
-- Emphasizes the importance of formalizing rules and objectives for AI systems to optimize performance.
-- Draws a distinction between well-defined systems (e.g., games) and complex societal systems with ambiguity.
-- Discusses the limitations of AI in understanding and exploiting complexity in real-world systems.
-- Examines examples of simulated environments where AI can discover hacks effectively.
-- Explores the potential impact of AI hackers on financial systems, leveraging vast amounts of data for profit optimization.
-- Anticipates the emergence of novel and unexpected hacks in financial systems, surpassing human comprehension.
-- Discusses the transition period from human hackers to AI hackers and the implications for societal governance.
-- Highlights the need to address power structures and ensure AI hacking benefits society and does not reinforce existing imbalances.
-- Explores the potential use of AI hackers by powerful entities to resist social control or accelerate social change.
+- Feasibility of Future AI Hacking
+  - Feasibility depends on formalizing rules, objectives, and feedback for AIs to optimize solutions.
+  - Examples of Go, GPT-3, and simulated environments where rules are specified for AIs.
+- Ambiguity in Systems
+  - Amount of ambiguity in a system affects AI's ability to hack it.
+  - Complex societal systems contain latent ambiguity, offering near-term security against AI hacking.
+- Future Challenges in AI Hacking
+  - AI hacking in real-world systems is a science-fiction problem with advances in AI coming fast.
+  - AIs will require enforceable, ethical solutions sooner than expected.
+- AI Hacking in Financial Systems
+  - Financial systems are algorithmically tractable, making them susceptible to AI-generated hacks.
+  - AI-assisted high-frequency trading algorithms could exploit vulnerabilities and discover novel hacks.
+- Collaborative AI-Human Hacks
+  - Short-term likelihood of collaborative hacks where AI identifies vulnerabilities, and humans exploit them.
+  - AIs will change the hacking landscape due to their lack of human constraints and limits.
+- AI's Acceleration of Hacking Dimensions
+  - Computers accelerated hacking in speed, scale, scope, and sophistication.
+  - AI will further exacerbate these trends, leading to rapid hacking processes.
+- AI's Impact on Finance and Societal Systems
+  - AI could exploit hundreds to thousands of tax loopholes, impacting global tax codes.
+  - AI's sophistication may lead to complex strategies in political, economic, and societal systems.
+- Challenges in Governance and Regulation
+  - Governance structures need to respond to AI hacking by normalizing beneficial hacks and neutralizing damaging ones.
+  - Questions arise regarding beneficial vs. damaging hacks, local vs. global governance, and who decides.
+- Ethical Considerations in AI Hacking
+  - Governance models and power dynamics will shape AI-created hacks that influence the future.
+  - Ensuring wise exercise of power in determining future-shaping hacks is essential.
 
 ### Governance Systems for Hacking
-- Governance systems for hacking require speed in response to technological and social changes.
-- Agility and precision are essential to act faster than hacks can proliferate.
-- Inclusivity is necessary, incorporating diverse perspectives from experts, academics, civic groups, and affected communities.
-- Broad stakeholder involvement allows for a thorough examination of potential threats and advantages of hacks.
-- Transparency is crucial for successful governance, enabling public participation and building trust.
-- Publicly transparent processes and rulings foster citizen engagement and support.
-- Agility is necessary for governance systems to evolve and adapt to changing circumstances.
-- Iterative learning and improvement are required to address the complexity and unpredictability of social systems.
-- Governance systems should continually refine their approaches, drawing lessons from failures and successes.
-- Addressing power imbalances is crucial to ensure equitable enforcement and prevent privileged individuals or entities from becoming de facto governments.
-- Effective governance structures are essential to safeguard democracy and societal trust in a technologically powerful world.
+- Defensive AI and Governance for AI Hacking
+  - Defensive AI is not sufficiently developed to counter AI hacking.
+  - Governance structures are needed to guide AI development and deployment.
+  - Proposals for new models of regulation, like "Regulation 2.0," have been suggested.
+- Characteristics of Effective Hacking Governance System (HGS)
+- Speed: HGS must act quickly to outpace the spread of hacks and determine their potential impact.
+- Inclusivity: HGS should involve diverse perspectives, including multidisciplinary teams, affected communities, experts, and various stakeholders.
+- Transparency: Processes and rulings of HGS must be transparent to ensure public understanding and trust.
+- Agility: HGS needs mechanisms to evolve and adapt to changing circumstances, learn from mistakes, and improve over time.
+- Challenges and Solutions for Building HGS
+  - Building governance structures to manage AI requires addressing issues of technology's role in society and finding trusted technocrats.
+  - Legal scholars are exploring these problems, but larger societal challenges need to be addressed first.
+- Addressing Flaws in the System
+  - Flaws in the system lead to pervasive hacking and unequal enforcement.
+  - Lack of equitable enforcement undermines trust in systems and rules, leading to potential power imbalances and threats to democracy.
+- Collective Decision-Making for Technology's Role
+  - Citizens should collectively decide technology's role in their future, especially given widespread technology availability.
+  - The need for an HGS and government's role in building one is highlighted.
 
+## Concluding Thoughts
+- Increasing Societal Hacking and Its Implications
+  - The prevalence of societal hacking is alarming and damaging to various systems.
+  - The balance between innovation and system subversion is shifting due to cultural and technological factors.
+  - Systems are becoming overwhelmed by generations of power struggles resulting in kludged-together hacks.
+- Cultural Shift: Fairness, Power, and Hacking
+  - Over time, societal systems become fairer and more democratic, making hacking an attractive option for privileged individuals.
+  - Hacking exploits vulnerabilities in economic, social, and political systems that constrain the privileged.
+  - Income inequality contributes to the proliferation of hacking as surplus resources are mobilized to create more inequality.
+- Technological Shift: Noisy Progress and Global Risks
+  - Societal progress is not linear or equitable, and technology magnifies ups and downs.
+  - Short-term damage can now cause long-term planet-wide systemic damage.
+  - Hacking decisions can lead to existential risks, impacting global stability and survival.
+- Existential Risk of Hacking
+  - Technological advances enable faster and more potent hacking.
+  - Societal and technical systems are evolving into battlefields of subversion, favoring the powerful and destabilizing society.
+  - Hacking has the potential to come at the expense of humanity.
+- Optimism and the Role of Governance
+  - Technological advances can both exacerbate hacking and defend against it.
+  - The challenge is to develop effective governance systems that can respond quickly to hacking while differentiating between good and bad hacks.
+- Resilient Governing Structures
+  - Resilient governing structures are necessary to address hacking's challenges.
+  - Society's rules and laws need to be as patchable as technology.
+  - To thrive in a technological future, it's essential to manage the process of hacking, balancing benefits, and mitigating costs and inequities.

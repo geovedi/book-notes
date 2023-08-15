@@ -1,304 +1,365 @@
-# Monsters
-Claire Dederer (2023)
 
-## The Child Rapist
-- Author's fascination with Roman Polanski's works despite knowledge of his crime
-- Seeing Polanski's films as still captivating despite disapproval of his actions
-- Contemplating how to reconcile love for Polanski's work with disapproval of his actions
-- Realization that problem of Polanski cannot be solved through analysis and thinking
-- Seeking guidance from intellectual historian, who suggests exploring other artists like V.S. Naipaul or Ezra Pound
-- Feeling uncertain about what to do about Polanski's work without clear answers
-- Disappointment with actions of beloved male artists throughout history
-- Interest in audience's response to problematic artists rather than the artists themselves
-- Wishing for a calculator to determine whether or not to consume work of problematic artists
-- Different opinions on how to approach the issue, from destroying all work by abusive artists to separating art and artist
-- Author grappling with these questions for years but only realizing their significance recently
-- Enraptured by the film Rosemary's Baby despite its controversy and director's problematic history with feminism
-- Feeling cursed by the film after an accident and injury on the way to a documentary recording
-- Highlighting the division between the unscathed and the broken, solidifying author's place in the latter category.
+# Monsters
+Author: Claire Dederer
+
+## Prologue: The Child Rapist
+- Introduction: Personal Dilemma
+  - The author began researching Roman Polanski for a book and was conflicted by his monstrous actions despite admiring his artistic genius.
+  - The details of Polanski's crime involving anal rape of a thirteen-year-old were disturbing, yet the author found themselves drawn to his films.
+- Watching Polanski's Films: Cozy Setting and Moral Dilemma
+  - The author watched Polanski's films during a cozy time in their Pacific Northwest home, which contrasted with the troubling subject matter.
+  - The author's love for Polanski's films was not based on forgiving his crime but recognizing his artistic greatness.
+- Seeking Resolution and Expert Advice
+  - The author sought expert advice to reconcile the dilemma of loving the work of morally reprehensible artists.
+  - An intellectual historian suggested reading about artists with similar issues, but this approach did not address the author's concerns.
+- Art vs. Morality: Autobiography of the Audience
+  - The author realized the central issue was not about artists but about the audience's conflicting emotions.
+  - The author pondered the balance between the greatness of an artist's work and the terribleness of their actions.
+- Personal Tensions and Balancing Acts
+  - Different people had varying views on how to handle the works of artists who committed heinous acts.
+  - The author acknowledged that personal desires often conflict with moral considerations, leading to a complicated relationship with art.
+- Private to Public: Changing Landscape
+  - The author's internal conflict was initially personal but became more relevant as public figures faced accusations and falls from grace.
+  - The world's cruelty became more apparent, making it impossible to ignore.
+- Fateful Experience: Cursed Influence of Art
+  - The author's connection to the curse associated with the movie "Rosemary's Baby" becomes evident.
+  - A painful accident related to watching the film underscored the intertwining of art, personal experience, and destiny.
 
 ## Roll Call
-- Famous artists and celebrities accused of wrongdoing but celebrated for their art
-- Can we separate the artist from their transgressions?
-- Reflection on the Access Hollywood tape and #MeToo movement
-- Author's personal reaction to Woody Allen scandal and impact on enjoyment of his films
-- Revisiting Woody Allen's film Annie Hall and its charm, style, and themes
-- Annie Hall considered greatest comic film of 20th century
-- Author's struggle with reconciling Woody Allen's personal life with his art
-- Gathering Woody Allen books for research with friend's help
-- Strong emotions and opinions about Woody Allen
-- Mini tour of Woody Allen's films, including Manhattan
-- Conflicted feelings about Manhattan, approaching it with an open mind
-- Nonchalant portrayal of middle-aged man dating a high schooler in the film
-- Portrayal of women as objects of desire and caricatured representations
-- Difficulty of watching Manhattan in the context of #MeToo movement
-- Power of the Weinstein story in sparking the #MeToo movement
-- Dilemma of separating the art from the artist after #MeToo movement
-- Mixed feelings towards men and patriarchal culture in fall of 2017
-- Debate over judging artwork strictly on aesthetics
-- Role of biography in shaping perception of art and question of objectivity
-- Audience's new responsibility of denouncing monsters and moral feelings
-- Recognition of human badness and fascination with people who do terrible things
-- Political impulse to blame others and create an "us vs. them" dynamic.
+- Struggling to separate the artist from their art:
+  - Questioning whether it is possible to appreciate the work of artists accused of wrongdoing
+  - Exploring the concept of separating the artist from their actions
+  - Examining the use of the word "we" in critical writing and its implications
+- The cultural shift and the rise of the #MeToo movement:
+  - Reflecting on the impact of the Harvey Weinstein scandal as a turning point
+  - Discussing the emergence and rapid spread of the #MeToo movement
+  - Highlighting the numerous accusations made against powerful men in various industries
+- Issues with Woody Allen's film "Manhattan":
+  - Engaging in a conversation about "Manhattan" and its problematic aspects
+  - Questioning the authority and objectivity of aesthetic judgment
+  - Reflecting on personal feelings and the impact of biographical knowledge
+- The audience's new role in denouncing and disassociating:
+  - Exploring the audience's collective outrage and demand for justice
+  - Discussing the impulse to disassociate from individuals accused of wrongdoing
+  - Highlighting the political aspects of blaming others and asserting moral superiority.
 
 ## The Stain
-- The author questions the meaning and implications of the word "monster" and introduces the concept of "art monsters" in Jenny Offill's novel Dept. of Speculation.
-- The limitations of calling someone a monster are explored as it diverts attention from the experiences of their victims.
-- The author's feminism conflicts with her desire to understand power dynamics as a whole.
-- The author grapples with her own attraction to artists with problematic behavior, like Roman Polanski and Woody Allen.
-- The concept of a "stain" on an artist's work is more fitting than the term "monster" because it affects the audience's perception and cannot be separated from it.
-- The stain taints the work from the moment it occurs, and retroactively changes our perception of the artist's entire life and work.
-- The author discusses personal experiences with problematic artists like Roman Polanski and Michael Jackson.
-- Biographical information is readily available due to the internet and mass media, making it impossible to escape knowledge of an artist's crimes.
-- Cancel culture is rooted in the belief that we have access to comprehensive information about everyone.
-- The stain left by an artist's abusive actions affects how the audience perceives their work and blurs the line between the person and their art.
+- Introduction
+  - The term "monster" is explored in the context of its meaning and implications.
+  - The author reflects on how the term is used to label individuals who commit terrible acts.
+  - The term gains complexity when applied to artists and their work.
+- Reconsidering "Monster"
+  - The author examines the concept of being an "art monster" as described by Jenny Offill.
+  - The term "monster" is questioned in relation to its simplicity and whether it overshadows nuanced understanding.
+  - The focus shifts to how the label keeps the accused at the center of attention.
+- Conflict of Feminism and Politics
+  - The author's feminist perspective clashes with leftist politics and the desire to grasp broader power dynamics.
+  - The dichotomy of calling men "monsters" or ignoring the problem is discussed.
+- The Challenge of Separating Art from Artist
+  - The dilemma of appreciating art made by morally questionable individuals is explored.
+  - The author's struggle with reconciling appreciation for Polanski's work despite his actions is highlighted.
+- The Concept of "Stain"
+  - The metaphor of a "stain" is introduced as a representation of how an artist's actions color their work.
+  - The stain metaphor is connected to the Michael Jackson problem and how it affects the perception of his music.
+- Unavoidable Biography and Stains
+  - The rise of information accessibility through mass media and the internet contributes to our knowledge of artists' biographies.
+  - The author's experiences with seeking information about artists in the past are contrasted with the present saturation of biography.
+  - The inevitability of "stains" due to the intimate connection between artists' actions and their work is emphasized.
+- The Internet and Cancel Culture
+  - The internet's role in propagating biography and fostering "cancel culture" is discussed.
+  - The idea that everyone with a biography is susceptible to being "canceled" is explored.
+
 
 ## The Fan
-- Rise of fan culture coincides with biography and cancel culture
-- Fans are important to the market but not considered special
-- Fans strongly identify with the art they consume and become defined by it
-- Obsession signals intense appreciation and special status
-- Fans prioritize artist's biography and feel a closer relationship with them
-- Internet and social media intensify our connection with celebrities
-- Parasocial relationships, false-yet-real-feeling connections, can be fun but not necessarily healthy
-- Brains struggle with feeling directly addressed by broadcasters and celebrities
-- Our preferences and choices as consumers matter in late capitalism
-- Dream of technology is to achieve telepathy and perfect artist-audience union
-- Parasocial relationships create confusion and belief in relationship outside the art
-- Tech giants monetize these relationships and benefit from them
-- Participants in parasocial relationships essentially work to generate profit for others
-- Our close ties to artists make it more destructive when they become controversial
-- Harry Potter books became part of children's identity and sense of belonging
-- Emergence of platforms like Tumblr led to DIY movement and fan creations
-- Harry Potter fandom provided community and belonging for queer kids
-- J.K. Rowling's alignment with gender identity movement caused backlash among former fans, especially trans community
-- Question of how to reconcile childhood intertwined with Harry Potter
-- Internet intensifies shame in fan-artist relationship
-- Emotions and identity are intertwined with beloved artists, leaving fans vulnerable in internet era.
+- The Power and Complexity of Fan Culture
+  - Fan culture has become significant in our time, especially with the rise of biographies and cancel culture.
+  - Fans are essential to the market, forming a collective audience, but they often feel unique in their intense fandom.
+  - Obsession is now commonly used to denote intense appreciation and identity tied to certain works or items.
+  - This modern usage of obsession dilutes its true meaning, which involves deep and lasting impact.
+  - Fan culture doesn't necessarily lead to prioritizing the work over an artist's biography; instead, it strengthens the connection between fans and artists.
+- Parasocial Relationships and Intimacy
+  - The internet and social media have fostered parasocial relationships, where fans feel intimately connected to artists.
+  - This feeling of connection has grown stronger with time, making people believe they have a personal bond with artists.
+  - The internet's dream of connecting without physical presence has led to this phenomenon, often monetized by tech giants.
+  - Participating in parasocial relationships inadvertently makes people create value for these tech companies.
+- Loss and Identity in Fan Communities
+  - Intense fan relationships can lead to a sense of identity derived from artists and their works.
+  - As this connection deepens, the stain of an artist's controversy can impact fans' sense of self and cause hurt.
+  - Harry Potter's impact on a generation's imagination is an example of how deeply fans can immerse themselves in a fictional world.
+  - The Harry Potter fandom, intertwined with LGBTQ+ movement and online platforms, provided a sense of belonging for many.
+- J.K. Rowling's Controversy and the Erosion of Fandom
+  - J.K. Rowling's alignment with certain gender identity beliefs sparked backlash from her trans fans.
+  - The controversy led to a sense of sadness and loss among fans whose childhood memories were tied to the Harry Potter series.
+  - The dilemma of separating an artist's work from their beliefs arises, raising questions about the role of shame and identification in fan reactions.
+- Complex Emotions and the Future of Fan Culture
+  - Internet dynamics bring forth the threat of shame and the challenge of behaving appropriately in the new landscape of fan-artist relationships.
+  - Emotions merge with those of artists, making fans vulnerable and unsure how to navigate this evolving landscape.
 
 ## The Critic
-- Seventh-grade English teacher, Ms. Smith, sparked author's interest in criticism
-- Struggle with tension between authority and subjectivity as a critic
-- Becomes film critic for local alternative paper in mid-twenties
-- Feels like outsider in group of male film critics
-- Questions own qualifications and authority as a critic
-- Reviews traditional structure and limitations in capturing subjective experience of art
-- Difficulty making definitive critical pronouncements, stuck in subjectivity
-- Subjectivity seen as something to be hidden from other critics
-- Emphasizes use of "I" in reviews to express authentic response
-- Inspired by subjective writing from childhood reflecting own experiences
-- Intimacy of reading criticism comes from shared experience between critic and reader
-- Male critics often see their perspective as universal, leaving out other experiences
-- Subjective criticism more inclusive, allows for diverse range of perspectives
-- Exclusion and lack of representation contribute to feeling of being left out for marginalized groups
-- Critics should acknowledge subjectivity and biases when engaging with art
-- Feelings and opinions influenced by history and personal circumstances
-- Straight white men should understand feelings also influenced by history
-- Author's personal experiences shape perspective on art by "monstrous men"
-- Tension between wanting to consume art and acknowledging harm caused by artists
-- Objectivity is illusion, subjectivity is human trick
-- When engaging with art by problematic artists, challenge nostalgia and consider harm caused
-- Love and emotional connection should be considered alongside critical thought
-- Question of engaging with art by problematic artists urgent for young people
-- Case of PWR BTTM shows how accusations complicate fans' relationships with music
-- Some individuals may still choose to engage with art despite harm caused by artist
-- Engaging with art is subjective, no universal rule for response
+- Introduction:
+  - The author recalls a seventh-grade teacher who introduced her to critical thinking and the idea of finding flaws in situations or works.
+  - Describes her own relentless critical faculty and the tension between authority and subjectivity.
+- Early Career as a Film Critic:
+  - Reflects on her experience as a film critic, attending screenings with other critics.
+  - Struggles with the problem of authority and questioning her qualifications as a critic.
+  - Talks about using a structured approach to reviewing films but finding it difficult to make definitive pronouncements like other critics.
+- The Subjectivity of Art Consumption:
+  - Realizes the importance of emotional aspects in consuming art and the limitations of analyzing everything through thought.
+  - Explores the tension between personal subjectivity and critical authority.
+  - Describes the pleasure derived from subjective writing and the intimacy it creates with readers.
+- The Role of Context and History:
+  - Acknowledges the influence of personal experiences, biases, and historical context on aesthetic experiences and critical judgments.
+  - Questions the idea of objectivity and the limitations of the "aesthetic experience trinity" (author's intent, its reasonableness, and accomplishment).
+- Including Monstrous Men in the Art Conversation:
+  - Shares her personal experiences with assault and molestation, positioning herself as an accuser and sympathizer.
+  - Wrestles with the conflict between her own history and the desire to appreciate art created by monstrous men.
+  - Argues for acknowledging subjectivity and the love for art while considering the history and memory associated with it.
+- Examples of Personal Dilemmas:
+  - Discusses the conflicted feelings of listening to David Bowie after allegations of inappropriate relationships with underage girls.
+  - Mentions the case of the band PWR BTTM, whose members were accused of sexual misconduct, causing a rupture in the fans' relationship with their music.
+  - Considers the critic's role in praising art despite the actions of the artists and the often complicated personal responses to such situations.
+- Trusting Personal Feelings in Criticism:
+  - Suggests that criticism involves trusting personal emotions, not only in regard to the crimes committed but also in relation to the love for the art itself.
+  - Rejects the idea of prescribing correct responses and emphasizes the importance of individual subjectivity in consuming art.
 
 ## The Genius
-- The concept of genius allows individuals to escape criticism and accountability.
-- Genius is not just talent, but a status with importance and privilege.
-- Society's obsession with genius allows us to impose our opinions onto them.
-- Genius is associated with famous men from the past like Picasso and Hemingway.
-- The contemporary ideal of genius is a master and servant to their own genius.
-- Geniuses have control over their work but lose control over themselves.
-- Geniuses channel external energy and impulses into their work.
-- The freedom and energy of genius can be confusing, leading to difficulty in differentiating between good and bad impulses.
-- Artists need to be free in all their actions to maintain creativity.
-- The artistic genius is seen as above all free, expressing freedom in content and form.
-- Artists like Joyce, Picasso, Pollock, Elvis, Hendrix, Ginsberg, and Kerouac are considered geniuses.
-- Picasso's image became inseparable from art itself through mass media.
-- Picasso's abusive behavior towards women is important to understand his work.
-- Picasso and Gauguin controlled their public and private images.
-- Picasso's masculinity shaped our perception of his art.
-- Hemingway and Picasso were the most famous figures in their fields.
-- Hemingway's fame was interwoven with his masculinity and reputation for violence.
-- Hemingway had complicated relationships and a destructive legacy.
-- Hemingway made mean remarks about fellow writers and had a misogynistic and anti-Semitic outlook.
-- Hemingway's writing style evolved influenced by his image and persona.
-- The image of the genius grants license for their actions without consequences for others.
-- A genius's demons can lead to insanity but are still appreciated.
-- Debate on whether madness makes a great artist or if freedom causes madness.
-- The idea of the artist being outside societal norms is often associated with male figures.
-- Freedom as a rock star allows for wildness and nonconformity.
-- Kanye West as a black artist faces limitations compared to white male rock stars.
-- Stars embody freedom in their contradictions and inconsistencies.
-- The allure of bad people, particularly male artists, plays a role in the idea of genius.
-- Guilt and enjoyment are involved in consuming the spectacle of badness.
+- Genius as a Status
+  - Geniuses are often immune to scrutiny and held to different behavioral standards.
+  - The concept of genius allows for the forgiveness of bad behavior and lack of accountability.
+- Masculinity and the Image of Genius
+  - The image of genius is often associated with masculinity, physicality, and rebellion against societal norms.
+  - Picasso and Hemingway embody the image of the artistic genius through their personas and work.
+- Fame and Mass Media
+  - Picasso's rise to fame coincided with the growth of mass media, which helped shape and amplify his public image.
+  - Hemingway became the epitome of the male writer, achieving unparalleled fame in his time.
+- Genius and Mental Instability
+  - The association between genius and mental instability is prevalent, with the belief that creativity often stems from personal turmoil.
+  - The freedom and license given to geniuses can lead to self-destructive tendencies and personal struggles.
+- Rock Stars and Freedom
+  - Rock stars embody the idea of freedom and excess, representing a modern manifestation of the genius persona.
+  - Society is attracted to the rebellion and rule-breaking associated with rock stars and geniuses.
+- Attraction to Badness
+  - Society is attracted to bad men and their ability to break rules and norms, leading to their romanticized status as geniuses.
+  - The allure of badness may contribute to the creation and perpetuation of the concept of genius.
 
 ## The Anti-Semite, the Racist, and the Problem of Time
-- Author reflects on conversation about meeting Trumpists with open hearts and fear felt by Jewish friend at synagogue
-- Challenge to idea that society didn't know any better in the past, using #MeToo movement as example
-- Exploration of the concept of the Past and societal injustices that were accepted and normalized
-- Questioning author's own perspective as audience member of the present and potential arrogance in thinking they are more enlightened
-- Discussion of Stephen Fry's desire to prevent Richard Wagner's expression of anti-Semitic views
-- Detail of Wagner's awareness of arguments against anti-Semitism but his choice to be consumed by it
-- Highlight of the use of the word "we" by Wagner to normalize his hateful perspective, similar to tactic used by Trump supporters
-- Challenge to idea that people in the past didn't know better, as Wagner knew better but actively chose not to act on it
-- Conflict for Stephen Fry in loving Wagner's music due to Wagner's association with Hitler and Nazism
-- Exploration of Wagner's family's support of the Nazi regime, particularly Winifred Wagner's admiration for Hitler
-- Stating that Wagner's anti-Semitism is a stain on his work and should not be excused or overlooked
-- Mention of Virginia Woolf's anti-Semitic tendencies despite being part of the Bloomsbury group and a proponent of liberalism
-- Connection between racism and domination evident in American classics like "Little House on the Prairie" and "My Antonia"
-- Highlight of the exclusion and dehumanization of Native Americans in westward expansion in America
-- Examples of racism in literature through portrayal of Indians as threats and use of blackface in "Little Town on the Prairie"
-- Importance of acknowledging and confronting anti-Semitism and racism in historical figures and literature
-- Reflection on author's childhood love for "Little House on the Prairie" and realization of its inherent racism
-- Critique of conditional tense and belief in moral superiority preventing understanding of history and our role in it
-- Exploration of the seductive belief in moral progress and its blind effect on perceiving the realities of the world
-- Questioning of what to do with art and figures from the past now seen as monstrous
-- Challenge to idea of progress and enlightenment through lack of outrage over certain actions during Trump presidency
-- Argument for cancel culture as necessary part of reckoning process and trade-off between shame and ability to speak out
-- Critique of liberal fantasy of effortless enlightenment and necessity of actively listening to those pointing out what is wrong.
+- Introduction
+  - The author suggests looking for reflections of humanity in the monsters of the past rather than just celebrating progress.
+  - Investigating the treatment of Woody Allen and Roman Polanski questions whether anti-Semitic sentiments influence public opinion.
+- Uncomfortable Specters: Anti-Semitism and Vilification
+  - The author questions the presence of anti-Semitic energy in the criticism of Allen and Polanski.
+  - Anti-Semitic trope of "taking our children" is considered in relation to the accusations against them.
+  - The inability to definitively answer this question highlights its complexity.
+- Normalization of Shocking Events
+  - By 2018, shocking events no longer had the same impact as before.
+  - Tree of Life synagogue shooting's occurrence during the Trump presidency was seen as almost expected.
+  - Community solidarity was evident, even though it couldn't prevent the violence.
+- Symbolic Significance of Violence and Creation
+  - The author attends synagogue services post-shooting, reflecting on human nature.
+  - Rabbi's metaphor of creation portrays a broken world.
+  - Acknowledgment that society was in the midst of learning its connection to history.
+- Stephen Fry and Cancel Culture
+  - Stephen Fry's hypothetical letter to Wagner reflects cancel culture dynamics.
+  - The term "cancel culture" is criticized for downplaying victims' suffering.
+  - Fry's distance from the past allows boldness in addressing historical figures.
+- Cancel Culture: Confronting the Present
+  - Cancel culture involves contemporaneous criticism rather than fantasizing about confronting historical figures.
+  - Present-time confrontations are sensible and necessary for addressing wrongdoing.
+  - Society's self-concept of enlightenment might be inaccurate, considering the prevalence of cancel culture.
+- Acknowledging Virulence and Fear
+  - The author admits to personal mistakes and fear of potential shaming.
+  - Acknowledges the virulent nature of accusations and the culture of fear.
+  - The #MeToo movement's reckoning leads to potential loss of status for accountability.
+- The Bargain of Cancel Culture
+  - Acceptance of loss of status for victims to share their experiences is necessary.
+  - Despite its depressing nature, this trade-off is essential for progress.
+  - "Cancel culture" as a term simplifies a complex process of addressing wrongs.
+- Questioning Liberal Fantasy of Enlightenment
+  - The idea of effortless enlightenment assumes constant improvement.
+  - Improvement requires listening to voices pointing out flaws.
+  - Society must be receptive to criticism to truly progress.
 
 ## The Anti-Monster
-- Lolita is perceived as a problematic book, raising questions about the author's intentions and the purpose of the story.
-- Initial reading of the book as a teenager was disturbing and unsatisfying.
-- Nabokov's portrayal of Humbert as a monster invites speculation about the author himself.
-- Lolita's storyline would likely be controversial if published today.
-- Humbert's claim of specialness and unique love for Lolita is subverted throughout the book.
-- Lolita's vulnerability and accessibility make her appealing to Humbert.
-- Humbert realizes his own ordinariness and the destruction he caused.
-- Humbert questions his own specialness compared to other perpetrators, suggesting he is no different from them.
-- Quilty and Humbert are depicted as merged together, highlighting Humbert's non-specialness.
-- Lolita herself recognizes Humbert's ordinariness after he rapes her.
-- Nabokov portrays Humbert as ordinary to emphasize the tragedy of Lolita's victimization, which is not unique.
-- The book is about the ubiquity of Lolita's plight and the destruction of her personhood.
-- Humbert gradually recognizes Lolita's personhood, but it does not redeem him from his desires.
-- Lolita's absence in the novel symbolizes the silence and erasure of other victims of child abuse.
-- Nabokov's writing may have been driven by his own monstrous desires, but he did not act on them.
-- The depiction of dark desires in literature does not justify or replace the actions themselves.
-- Nabokov took a risk in casting himself as a monster to tell the story of Lolita and create empathy for victims of child abuse.
-- The novel captures the destruction of innocence and the enormity of stealing a childhood.
+- Exploring Humbert Humbert and "Lolita" by Vladimir Nabokov:
+  - Questioning Nabokov's identity and intentions in creating Humbert Humbert, a controversial character.
+  - Reflecting on the discomfort of reading "Lolita" as a young teenager due to the lack of character development for Lolita herself.
+- Deconstructing Humbert's Claims and Themes:
+  - Debunking Humbert's assertion of unique and special love for Lolita, revealing the commonplace nature of his crimes and desires.
+  - Highlighting the prevalence of Humbert's crimes in society, challenging his perceived singularity.
+  - Examining the absence of Lolita as a character, symbolizing the silencing of real-life victims of child abuse and the destruction of innocence.
+- Nabokov's Alignment and Complex Portrayal:
+  - Questioning whether Nabokov aligns with Humbert and if his depiction of child rape reflects the disturbing normalcy of such crimes.
+  - Exploring the complexity of Nabokov's portrayal, juxtaposing his personal desires and actions.
+  - Emphasizing the writer's responsibility in delving into the darker aspects of human nature and desires.
+- Artistic Exploration and Ethical Considerations:
+  - Analyzing Nabokov's decision to write about monstrous desires without acting on them, rejecting the idea that artistic genius grants moral license.
+  - Contemplating the artist's role in portraying destroyed childhood and the associated ethical responsibilities.
+  - Equating Nabokov's portrayal of obliterated innocence with the act of retrieving evidence—a symbol of uncovering stolen childhood.
 
 ## The Silencers and the Silenced
-- The author reflects on the idea of silence and the voices that go unheard in the art world.
-- Deborah Levy's memoir reveals the absence of female writers in literary journals she read as a teenager.
-- The death of artist Ana Mendieta highlights the overshadowing and erasure of her work by her husband, Carl Andre.
-- Mendieta's feminist and confrontational earth-body works contrast Andre's minimalist sculptures.
-- Andre's controversial trial raises questions about the treatment of women of color in the art world.
-- Protests by the Women's Action Coalition raise awareness of Mendieta's silence and demand inclusion in museums.
-- A notable protest titled "Crying; A Protest" at Dia: Beacon involves women crying in front of Andre's installations.
-- The author emphasizes the importance of taking up space in cultural institutions and the need for fairness and inclusivity.
+- Silencing Voices in the Art World:
+  - Discussion starts with Deborah Levy's experience of reading literary journals dominated by male writers, normalizing the absence of female voices.
+  - Absence of representation becomes a central theme, leading to the exploration of Ana Mendieta's overshadowed career as an artist.
+- Ana Mendieta's Story and Tragic Death:
+  - Ana Mendieta's "earth-body works" and confrontational art are introduced, along with her career overshadowed by her husband, Carl Andre.
+  - Focus shifts to Mendieta's suspicious death in 1985, Andre's arrest for her murder, and the subsequent trial.
+  - Parallels are drawn between Mendieta's case and the trial of the Preppy Killer, highlighting the prevalence of male violence against women.
+- Impact of Oversight and Ongoing Efforts:
+  - Critique of Calvin Tomkins' neglect of Mendieta's work in favor of analyzing Andre's career, illustrating how external factors can affect artistic recognition.
+  - Women's Action Coalition's protests to address Mendieta's absence from art institutions are discussed, showcasing their persistence and advocacy.
+  - "Crying; A Protest" is detailed—an art museum intervention where women's tears draw attention to Mendieta's forgotten work while invoking discomfort.
+- Importance of Representation and Emotional Activism:
+  - The significance of representation within institutions and the need to claim space.
+  - Challenges the assumption that marginalized groups will automatically improve institutions, emphasizing fairness and inclusivity.
+  - The power of emotional expressions, like the protesters' tears, is highlighted as a form of impactful criticism and activism.
 
 ## Am I a Monster?
-- Author questioning their own monstrosity
-- Reflection on the selfishness required to be an artist
-- Exploration of conflict between art-making and motherhood
-- Tension between solitude for art and demands of family life
-- Reference to the "pram in the hall" trope
-- Pondering on image of writer alone, free from interruptions
-- Contemplation of selfishness and ruthlessness of writers, especially male
-- Desire to be more monstrous and fully embrace selfishness
-- Comparison of male and female artists' ambitions and boundaries
-- Reflection on author's own ambition and feelings of shame
-- Longing for the support and boundaries of a wife
-- Use of isolated island as substitute for support
-- Sacrifices and feeling like a monster to complete artistic work
-- Women prioritizing art feeling like terrible mothers, labeled as monsters
-- Motherhood creating conditions for silence and limiting artistic opportunities
-- Suggestion that artistic greatness can compensate for being a loathsome human being
-- Question raised: are all ambitious artists and finishers monsters?
+- Introduction: Reflection on Monstrosity
+  - The author contemplates the notion of being a "monster" as a writer and a mother.
+  - Lists various terrible acts she has never committed, questioning her potential monstrosity.
+- Barbarism at the Base of Art
+  - Major and minor works of art are built upon some form of barbarism.
+  - The author questions if a pile of barbarism underlies minor works of art as well.
+  - The role of selfishness in creating art is explored as an essential ingredient.
+- Selfishness as a Necessary Element
+  - Selfishness is crucial for writers and artists to create their work.
+  - Various forms of artistic selfishness are discussed, including ignoring family and personal desires.
+- Conflict: Motherhood vs. Artistry
+  - The struggle of reconciling identity as a mother and an artist is explored.
+  - The question of whether one identity interrupts the other is raised.
+  - Personal reflections on the fear of losing selfhood in motherhood are shared.
+- Lessons from Motherhood
+  - Motherhood brings challenges and lessons, impacting personal and political aspects.
+  - The erosion of self and the value of selflessness are discussed.
+  - The concept of being for something other than oneself is a transformative lesson.
+- Artistic Isolation and Ambition
+  - Artists often require solitude and isolation to work effectively.
+  - Male artists often focus on their work with little disturbance.
+  - The connection between ambition and self-confidence is highlighted, particularly for male artists.
+- Female Artists' Monstrous Aspirations
+  - Female artists wish for a "wife" to manage family responsibilities.
+  - Aspiring for selfishness to enhance artistic output is questioned.
+- Finishing Work and Monstrousness
+  - Completing artistic work is associated with a certain level of monstrousness.
+  - The sacrifices required to finish work, including neglecting other aspects of life, are discussed.
+- The Dichotomy of Ambition for Women
+  - Ambition and self-confidence for women are often perceived negatively.
+  - Ambition in women can be seen as threatening and undesirable.
+- Motherhood's Silencing Effect
+  - Motherhood creates its own silence, overshadowing women's achievements as artists.
+  - The challenge of balancing artistic pursuits and family responsibilities is explored.
 
 ## Abandoning Mothers
-- Author reflects on the concept of female monsters and women who abandon their children
-- Author contemplates this idea while staying alone in Marfa, Texas
-- Recalls meeting a man whose wife left him and their children, sparking fascination with women who leave their families
-- Explores struggles of motherhood and conflict between raising children and pursuing writing career
-- Women who have abandoned their children see it as a heinous crime
-- Mentions examples of famous writers who left their children to pursue their careers
-- Personal connection to Doris Lessing's novel, The Golden Notebook, and themes of freedom and motherhood
-- Reflects on own experience as a mother and pressures that make it difficult for women to prioritize their work
-- Questions why women struggle to see impersonal nature of societal pressures, leading some to abandon their children
-- Compares experiences of Doris Lessing and Muriel Spark, two prominent female writers
-- Mentions complicated relationship between Anne Sexton and her daughter Linda Gray Sexton
-- Reflects on societal expectations of mothers and challenges of balancing motherhood and art
-- Discusses Lessing's relationship with Jenny Diski and explores Lessing's ambivalence towards motherhood
-- Questions sacrifices made by artists who are also parents
-- Mentions Marfa, Texas as a contradiction - small town and art pilgrimage site
-- Author feels lonely and scared being defined by work rather than role as a mother
-- Questions what constitutes abandoning children and explores various scenarios
-- Society judges mothers differently than fathers when it comes to leaving children for work or art
-- Pregnancy is seen as the death of options for women and affects their artistic freedom
-- Examines Joni Mitchell's decision to give up her child and focus on her career
-- Reflects on different ways artist-mothers navigate their identities and choices
-- Mitchell faced challenges, sexism, and backlash in her career
-- Mitchell's refusal to compromise made her unlikable to some, but her music evoked strong responses
-- Author reflects on stain of knowledge about artists' lives affecting perception of their work
-- Lessing's abandonment of her children raises moral complexities
-- Mitchell and Lessing's artistic greatness may have come from mysterious sources
-- Mitchell's life as an artist inspires author, who is also a struggling female artist and mother
-- Author examines own journey as a writer through Mitchell's life
-- Author encounters a snake at the Chinati Foundation, symbolizing hidden struggles of artists beneath their achievements
+- Introduction:
+  - The author reflects on the concept of leaving and abandonment.
+  - Questions what it means to leave, especially for mothers.
+  - Explores the continuum of abandonment and its moral and ethical dimensions.
+- Different Forms of Abandonment:
+  - Discusses various ways abandonment can be perceived, including shutting out children, relying on others for childcare, and more.
+  - Reflects on the subjective nature of defining abandonment.
+  - Notes the double standards between men and women in terms of abandonment for artistic pursuits.
+- Impact on Artists and Mothers:
+  - Explores the dilemma of women artists choosing between their art and motherhood.
+  - Considers the potential conflict between motherly love and artistic aspirations.
+  - Suggests that women might be tempted to forgo motherhood to avoid the societal judgment tied to abandonment.
+- Pregnancy as a Narrative Constraint:
+  - Reflects on how pregnancy has been portrayed in literature as a limitation on options and narrative potential.
+  - Acknowledges the personal enjoyment of motherhood while recognizing its constraints in storytelling.
+- Female Rock 'n' Roll Artists' Choices:
+  - Discusses Joni Mitchell's decision to give up her child for adoption, enabling her to focus on her art.
+  - Contrasts Mitchell's approach with that of Carole King, who balanced motherhood and art.
+  - Considers how Mitchell's uncompromising artistic journey was influenced by her abandonment of her child.
+- The Art of Separating Life and Art:
+  - Examines the separation of life and art for female artists like Mitchell and Doris Lessing.
+  - Considers whether the stain of personal choices disrupts or enhances the appreciation of their work.
+  - Draws parallels between male artists and difficult behavior.
+- Vindication, Difficultness, and Vulnerability:
+  - Explores the link between great art and the need to vindicate or compensate for personal shortcomings.
+  - Emphasizes the importance of vulnerability in art and how it can be perceived by the world.
+  - Highlights Joni Mitchell's unapologetic approach to her art, which clashed with societal expectations.
+- The Impact on Perception and Artistic Legacy:
+  - Reflects on personal responses to artists' choices, shaped by individual backgrounds.
+  - Contrasts the perception of Joni Mitchell's and Carole King's contributions.
+  - Acknowledges the complexity of these perspectives within the context of the artists' biographies.
+- Metaphor of Snakes and Ambition:
+  - Relates an encounter with a snake to the metaphor of "barbarism" beneath great works of art.
+  - Discusses the cost and ambition behind artistic achievements.
+  - Suggests that artists' willpower leaves a lasting mark, even when they themselves are gone.
 
 ## Lady Lazarus
-- Author reflects on feeling powerless and overwhelmed during Brett Kavanaugh hearings
-- Female rage and violence often not given same consideration as male violence
-- Author discusses Valerie Solanas and her SCUM Manifesto, which called for elimination of men
-- Solanas believed men were inadequate and used power to compensate
-- Solanas shot Andy Warhol and Mario Amaya in 1968, but did not achieve goal of eliminating men
-- SCUM Manifesto gained attention and has been viewed as transgressive and radical
-- Author questions relationship between Solanas' act and her text
-- Solanas' manifesto seen as way for her to express her rage
-- Sylvia Plath's work often overshadowed by knowledge of her suicide
-- Plath and Solanas represent different aspects of feminist movement
-- Solanas' manifesto is call to action and memoir
-- Plath and Solanas both stained by acts of violence, creating double bind in their work
-- Work exposes limitations of radical feminism and raises questions about gender essentialism
-- Violence of male artists often tied to greatness, while violence of female artists rarely seen as sign of creative and moral strength
-- Solanas' extreme radical feminism shows limits of movement and raises questions about our preoccupation with crimes of men
+- Introduction
+  - The author reflects on their experiences during the Brett Kavanaugh confirmation hearings in 2018.
+  - They observe the sense of powerlessness that comes from watching bad news cycles and feeling like nothing is achieved through this.
+- Valerie Solanas and Sylvia Plath
+  - The author discusses leaving Marfa and embracing a feeling of belonging after hugging their child.
+  - They draw parallels between Valerie Solanas and Sylvia Plath, two women whose lives were marked by violence and artistic endeavors.
+  - The Kavanaugh hearings and the author's sense of powerlessness are contrasted with Solanas's and Plath's acts.
+- Valerie Solanas and the SCUM Manifesto
+  - Solanas's life and background are explored, including her difficult past and her work as a prostitute.
+  - She wrote the SCUM (Society for Cutting Up Men) Manifesto, advocating for the eradication of men to create a better society.
+  - Solanas's critique of the male condition and her theory of revolution are examined.
+  - The manifesto's call for violent action, the dichotomy between her radical impulse and her psychological reading, and her paradoxical vision of female violence are discussed.
+- The Shooting and Legacy of Solanas
+  - Solanas's shooting of Andy Warhol and her subsequent arrest are described.
+  - The irony of her choice of victim, her marginal life, and her ultimate death are noted.
+  - The SCUM Manifesto's reception, its evolution over time, and Solanas's ongoing rehabilitation in feminist discourse are explored.
+  - The author questions whether Solanas's manifesto or her violent act defines her legacy.
+- Sylvia Plath and Ted Hughes
+  - The author proposes the hypothetical scenario of Plath shooting Hughes instead of gassing herself.
+  - Plath's artistry, biography, and the inescapable association with her death are discussed.
+  - The struggle between reading Plath's work from a biographical perspective versus reading it for its poetic value is explored.
+  - The challenge of separating Plath's life from her art and the role of her violent act in shaping her legacy are considered.
+- Comparison and Parallels
+  - The author draws parallels between Solanas and Plath, despite their differences in artistic stature and actions.
+  - Both women's lives are marked by acts of violence that reflect their sense of powerlessness and rage.
+  - The text contrasts their expressions of violence with the male artists' acts of violence, which are often linked to their greatness.
+  - The concept of feminism as a struggle against invisible patriarchal forces is highlighted.
 
 ## Drunks
-- Author grapples with empathy for wrongdoers and monsters
-- Explores struggle with empathy for artists accused of misconduct
-- Importance of Raymond Carver's redemption story
-- Impact of Carver's writing on the literary world
-- Questions influence of Carver's editor, Gordon Lish
-- Reflects on personal journey of quitting drinking and finding redemption
-- Two types of people who stop drinking: those who don't care for it and those who care for it too much
-- Quitting drinking leads author to acknowledge own monstrosity
-- Recovery and empathy help in not drinking and continuing to live
-- Many addicts are survivors of abuse and trauma, shaping their understanding of their own monstrosity
-- Author questions what to do with art of monstrous men and role of consumer responsibility
-- Individual choices and consumer decisions aren't sufficient for dismantling systems of injustice
-- Focus on monstrous men takes attention away from holding system and perpetrators accountable
-- Biography and fandom shape relationships with artists in era of social media and internet
-- Cancellation of celebrities reinforces false dichotomy of good and bad celebrities
-- Our consumption of art doesn't make us better or worse people or solve ethical dilemmas
-- Love for art is complicated and there is no correct answer to what to do with art by monstrous men
-- Consumers are not responsible for finding the answer or solving the contradiction, and no authority exists in this matter.
-
+- Introduction: Empathy for Wrongdoers
+  - The question of empathy for those considered "monsters" or wrongdoers is persistent.
+  - The idea of having empathy for those who committed terrible acts is uncomfortable but essential.
+- Carver's Transformation and Redemption Story
+  - Raymond Carver's identity was often boiled down to his past alcoholism and abusive behavior.
+  - Carver's life story defied this narrative; he transformed from a hard drinker to a redeemed and successful writer.
+  - His stories shifted from minimalism and despair to more generous and redemptive themes, as seen in "Cathedral."
+- Personal Redemption and Alcoholism
+  - The author's personal experience with quitting drinking made them confront their own monstrosity.
+  - Alcoholism and addiction are strategies to manage pain and trauma, often stemming from abuse or personal struggles.
+- Empathy in Recovery
+  - Recovery forces people to see their own monstrous aspects and recognize their humanity.
+  - Participating in recovery circles teaches empathy by sharing stories of pain and mistakes.
+- Consumerism, Cancel Culture, and Individual Responsibility
+  - Consumerism and capitalism encourage focusing on individual ethical choices as a solution.
+  - Cancel culture tends to shift focus away from the systems that enable wrongdoing to the individual's role as a consumer.
+  - The act of canceling celebrities reinforces the concept of "good" and "bad" celebrities, perpetuating the spectacle.
+- Love for Art and Complexity
+  - Consumption of art is not the ultimate ethical gesture; it's about feelings and love.
+  - There's no single correct answer; the responsibility placed on consumers is a limited perspective.
+  - Contradictions in consuming art do not make one good or bad, and this complexity should be accepted.
 
 ## The Beloveds
-- Importance of beauty in relation to the art of monstrous individuals
-- The argument of utility vs aesthetics in choosing the best kind of tree
-- The power of beauty and its emotional force
-- Personal experience and impact of Miles Davis's music
-- Emotional connection to art and the subjective nature of art-love
-- Significance of art in shaping and marking people's lives
-- Intimacy and specificity of art-love
-- Personal and varied responses to art, described by E.M. Forster in Howard's End
-- Personal passion and emotional connection to Kind of Blue by Pearl Cleage
-- Conflicted feelings towards Miles Davis and his music due to his history of abusing women
-- Guilt and complexity of loving Davis's music despite knowledge of his abusive behavior
-- Wrestling with venerating Black men while acknowledging the harm they may have caused
-- Confirmation of Davis's abusive tendencies through his autobiography and accounts from his wife
-- Feeling of betrayal by Davis's actions against Black womanhood
-- Relationship between consuming art and the biographies of the artist and audience member
-- Subjective response to Davis's music may weaken the argument, but it is a genuine expression of emotions
-- Evolution of feelings towards Davis over time, demonstrating fluidity in relationships with problematic artists
-- Question of what to do with the art of monstrous individuals and how it parallels loving terrible people in our lives
-- Love portrayed as an act of mercy that transcends judgment and embraces flawed individuals
-- Reflection on author's own flaws and the unconditional love received from her children
-- Love described as chaotic and separate from rational judgment
-- Hopeful sentiment that artists may grow and change, and that we can continue to appreciate their work.
-
+- Introduction: Navigating the Dilemma
+  - The author introduces the dilemma of separating art from the artists' monstrous behaviors.
+  - They emphasize the difficulty in making decisions about art created by individuals with a history of terrible actions.
+  - The author acknowledges the prevalent question of whether one should continue to appreciate art despite the artist's moral flaws.
+- The Role of Beauty: A Fragile Principle
+  - The significance of beauty and aesthetics is explored as a vital aspect of art appreciation.
+  - The author discusses the distinction between the beautiful and beauty, underscoring the emotional force of the latter.
+  - Beauty is portrayed as an involuntary response that can create communities of desire.
+- Personal Connection to Art: Pearl Cleage's Perspective
+  - The author introduces Pearl Cleage's essay "Mad at Miles," which serves as a lens through which to explore the topic.
+  - Cleage's emotional journey with Miles Davis's music is discussed, highlighting how personal experiences shape the appreciation of art.
+  - The essay shows the impact of art-love on individuals' lives and its ability to connect them to specific moments and phases.
+- Subjectivity and Love for Art
+  - The author acknowledges the subjective nature of art-love, drawing parallels with the diversity of responses to music described by E. M. Forster.
+  - Cleage's subjective response to Kind of Blue is examined, emphasizing the intertwining of her personal experience with her evolving feelings toward Miles Davis.
+  - The essay's strength lies in Cleage's authentic and emotional exploration of her own feelings, demonstrating how love for art can be marked by personal connections.
+- Conflicted Emotions and Love for Problematic People
+  - The text delves into Cleage's conflicted feelings towards Miles Davis due to his abusive behavior towards women.
+  - Cleage's struggle to reconcile her love for Davis's music with his monstrous actions highlights the question of whether one can separate the two.
+  - The author relates this dilemma to broader questions about loving people who have committed terrible acts, using Cleage's essay as an example.
+- Human Love and Acceptance of Terrible People
+  - The author presents the core issue as the problem of human love, both in relation to art and personal relationships.
+  - The text explores the nature of familial love, acknowledging its complexities and unchosen nature.
+  - The author reflects on their own experience of struggling with personal flaws and receiving undeserved love, connecting this to the challenge of loving problematic individuals.
