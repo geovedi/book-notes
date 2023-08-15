@@ -1,0 +1,411 @@
+
+# The in-Between
+Author: Hadley Vlahos, RN
+
+## Introduction
+- Hospice Nursing and its Impact
+  - Hadley Vlahos, a hospice nurse, reflects on people's reactions to her job.
+  - She acknowledges the challenges and beauty in her work, guiding patients and loved ones through end-of-life moments.
+  - Hospice care provides comfort for those nearing the end of life, emphasizing quality time with loved ones.
+  - Hadley's purpose is to make patients comfortable and pain-free during their final months.
+- Personal Journey to Hospice Nursing
+  - Hadley's path to becoming a hospice nurse was non-linear.
+  - Her initial dream was to be a writer, and nursing wasn't on her radar until later.
+  - Her upbringing normalized discussions about death due to her family's involvement in the funeral business.
+  - She grew up with a clear belief system centered around her religious upbringing.
+- Turning Point: Taylor's Death
+  - The sudden death of her friend Taylor during a football game shook Hadley's understanding of death.
+  - Her once unquestioning faith was challenged, and she struggled with the concept of God's existence.
+  - The traumatic event shifted her perspective on the fragility of life.
+- College Years and Unexpected Pregnancy
+  - Hadley's college experience took a turn when she got pregnant at nineteen.
+  - She faced uncertainties about supporting herself and her child while completing her education.
+  - Nursing emerged as a practical and viable career option to provide for her family.
+- Navigating Nursing School and Early Career
+  - Hadley pursued nursing, working hard to juggle motherhood, studies, and a nursing degree.
+  - She began her nursing career with jobs in immediate care and a nursing home.
+  - She acknowledges that she initially focused on completing her tasks rather than fully engaging with patients.
+- Transformation through Hospice Work
+  - Transitioning to hospice nursing marked a significant turning point for Hadley.
+  - Her experiences in hospice have deepened her understanding of life's mysteries and the connection between medical and spiritual aspects.
+  - Despite not having all the answers, she has witnessed unexplainable occurrences in end-of-life moments.
+
+## Glenda
+- Introduction
+  - Hadley recounts an unexpected assignment that took her out of her usual routine.
+  - She received a call from her manager, Kristin, to visit a patient's home, setting the stage for a unique experience.
+- A Different Setting
+  - The patient's home was near the beach, contrasting with clinical environments.
+  - Hadley's responsibilities shifted from her son's routine to embracing the unfamiliar.
+- Meeting Ms. Glenda
+  - Introduced to Ms. Glenda, an elderly woman conversing with an unseen presence.
+  - Daughter, Maria, concerned about her mother's delusions, expected medical intervention.
+- A Unique Approach
+  - Hadley recognized the need for a distinct approach, beyond conventional medical interventions.
+  - The concept of continuous care plan, offering companionship and support, emerged.
+- Challenges and Revelation
+  - Hadley's comfort zone expanded as she embraced the unconventional nature of the assignment.
+  - Witnessed Ms. Glenda's serene interactions with her departed sister, understanding the heart of hospice care.
+- Embracing the Unseen
+  - Ms. Glenda's communion with her sister became a pivotal aspect of her end-of-life journey.
+  - Hospice nurses' shared experiences erased skepticism, affirming the connections between the living and the departing.
+- Guiding the Final Miles
+  - As Ms. Glenda's health declined, Hadley provided emotional support to both the patient and her daughter.
+  - A delicate balance between professional duty and personal connection characterized this phase.
+- The Inevitable Passage
+  - Ms. Glenda's passing marked a poignant moment that Hadley was privileged to witness.
+  - Guiding Maria through the cathartic process of saying goodbye brought emotional closure.
+- Lessons and Reflections
+  - Navigating post-passing procedures highlighted the role of a hospice nurse extending beyond the patient's last breath.
+  - Hadley's contemplation of the profound connections possible in hospice care reshaped her perspective.
+- Carrying Forward
+  - Hadley continues her hospice journey, cherishing the lessons learned from each unique interaction.
+  - Each unconventional experience has the potential to transform both patient experiences and nurse perspectives.
+
+## Carl
+- Introduction:
+  - Hadley Vlahos, a hospice nurse, shares her experiences in caring for patients nearing the end of life.
+  - The narrative highlights her interactions with Mr. Carl and his wife, Ms. Mary, along with insights into the challenges and emotions of her role.
+- Initial Patient Interaction with Mr. Carl:
+  - Hadley's nervousness as she prepares to take on her first patient, Mr. Carl.
+  - Introduction to Mr. Carl, a patient with congestive heart failure, and his wife, Ms. Mary.
+  - Challenges and expectations of being a new nurse, including the hierarchical dynamics among nurses.
+  - Building rapport with patients and gaining their trust.
+- Building Bonds and Gaining Confidence:
+  - Hadley's gradual connection with Mr. Carl and Ms. Mary.
+  - The importance of understanding patients' backgrounds and preferences.
+  - Hadley's growing comfort in her role and ability to make patients smile.
+  - Hadley's relationship with Chris, a physical therapist, and their eventual romantic involvement.
+- Witnessing Unusual Phenomena:
+  - Hadley's encounter with the phenomenon of patients experiencing end-of-life visitations.
+  - Mr. Carl's interactions with a deceased child, Anna, and his mother, indicating his imminent passing.
+  - Dr. Kumar's explanation of the "surge" of energy before death.
+  - Hadley's struggle to reconcile these experiences with her own emotions.
+- Mr. Carl's Passing and Meaningful Moments:
+  - Mr. Carl's passing and Hadley's emotional response.
+  - Reflecting on the bond between Mr. Carl and Ms. Mary.
+  - The significance of shared memories, laughter, and caring gestures.
+  - Ms. Mary's trust in Hadley's nursing skills and their mutual support.
+
+## Sue
+- Initial Encounter and Building Trust
+  - Hadley's journey as a hospice nurse begins.
+  - Meeting Ms. Sue, a skeptical patient, resistant to care.
+  - Sue's skepticism due to past experiences and fear of abandonment.
+  - Hadley's determination to gain Sue's trust and provide comfort.
+- Developing Connection and Overcoming Challenges
+  - Hadley's persistence in caring for Sue despite challenges.
+  - Establishing trust through genuine care and understanding.
+  - Overcoming Sue's skepticism and reluctance to accept help.
+  - Ms. Sue's unique personality, humor, and life stories.
+- Facing Health Challenges Together
+  - Ms. Sue's health deteriorates, moments of crisis.
+  - Hadley's quick response to emergency situations.
+  - The bond between Sue and Hadley strengthens during crises.
+  - Hadley's commitment to ensuring Sue's comfort and pain relief.
+- Spiritual Comfort and Connection
+  - Ms. Sue's attitude towards death and faith.
+  - Father Tom's role in Ms. Sue's end-of-life care.
+  - Reconnection with Father Tom, a figure from Hadley's past.
+  - The impact of spiritual support on Ms. Sue's journey.
+- Embracing the Inevitable
+  - Ms. Sue's impending passing becomes evident.
+  - Hadley's mixed emotions and personal growth.
+  - Sue's peaceful acceptance and visions of her husband.
+  - Comforting exchange between Hadley and Ms. Sue.
+- Reflecting on the Journey and Legacy
+  - Hadley's reflections on her connection with Ms. Sue.
+  - The unexpected inclusion of Hadley's name in Sue's obituary.
+  - The profound impact of their relationship on both.
+  - Ms. Sue's lasting memory and Hadley's commitment to hospice care.
+- Themes and Takeaways
+  - Building trust and connections in challenging circumstances.
+  - The transformative power of compassion and genuine care.
+  - Navigating end-of-life moments with dignity and comfort.
+  - The profound influence of human connections on personal growth.
+
+## Sandra
+- Introduction:
+  - Travis, Hadley's supervisor, asks her to handle an urgent admission despite her busy schedule.
+  - She calls her patients to reschedule appointments.
+  - Hadley reflects on her dedication to her job and her initial annoyance.
+  - She arrives at the house of a patient named Ms. Sandra.
+- Meeting Ms. Sandra:
+  - Ms. Sandra is a fifty-year-old woman with terminal breast cancer.
+  - Hadley feels guilty for her initial annoyance due to Ms. Sandra's critical condition.
+  - Ms. Sandra is in severe pain, and Hadley contacts the doctor for medication.
+  - Hadley interacts with George, Ms. Sandra's husband, who is caring and involved.
+- Challenges and Support:
+  - Hadley faces challenges in getting the pain medication for Ms. Sandra quickly.
+  - She deals with an uncooperative pharmacy technician but eventually gets the medication.
+  - Hadley offers comfort and support to Ms. Sandra while they wait for the medication to take effect.
+- Chris and Babette:
+  - The story shifts to a different context, introducing Chris and his mother, Babette.
+  - Babette has glioblastoma, an aggressive brain cancer.
+  - The family deals with the uncertainty of Babette's condition.
+  - Hadley recalls her first meeting with Chris's parents and her worries as a single mother.
+- Interactions and Realizations:
+  - Hadley's relationship with Chris's family evolves positively over time.
+  - The narrator realizes that judgments and fears are often unfounded.
+  - Babette's illness lingers, creating an underlying sense of impending loss.
+- Hospital Experience:
+  - Babette is admitted to the emergency room due to a health concern.
+  - Hadley witnesses a nurse, Theresa, showing indifference toward a cancer patient.
+  - Hadley reflects on her previous complacency when working with Theresa.
+  - The narrator feels the weight of emotional attachment to patients.
+- Ms. Sandra's Journey Continues:
+  - Ms. Sandra's condition improves after proper pain management.
+  - Her quality of life improves, and she shares her story with Hadley.
+  - Sandra's health gradually declines, but her comfort and happiness remain a priority.
+  - George becomes a primary caregiver and values Hadley's input.
+- Facing the End:
+  - Ms. Sandra's condition deteriorates further.
+  - Hadley receives a call from George, indicating a change in Ms. Sandra's condition.
+  - Hadley arrives to find Ms. Sandra actively passing away.
+  - George and Hadley provide comfort to Ms. Sandra in her final moments.
+  - The family's daughter arrives just in time to say her goodbyes.
+
+## Elizabeth
+- Introduction:
+  - Hadley visits a patient named Elizabeth on Christmas Eve.
+  - Elizabeth is in her forties and suffering from terminal lung cancer.
+- Meeting Elizabeth:
+  - Elizabeth's home is in a quiet neighborhood; her sister Julia welcomes Hadley.
+  - Elizabeth is alone and does not talk to other family members.
+  - Julia reveals that Elizabeth's father was expected to pass away before her.
+- First Interaction with Elizabeth:
+  - Elizabeth is beautiful and youthful, despite her illness.
+  - Hadley takes Elizabeth's vital signs and engages in conversation.
+  - Elizabeth was a yoga teacher, but her health condition prevents her from practicing now.
+- Reflecting on Body Image:
+  - Hadley struggles with body image and an eating disorder, exacerbated by societal pressures.
+  - Childhood memories involving her father's comments about her weight influenced her body image.
+  - Professor Lopez, Hadley's teacher, recognizes her struggles and offers support during nursing school.
+  - Despite personal difficulties, Hadley continues her studies and embraces nursing.
+- Christmas with Babette and Tom:
+  - Hadley spends Christmas with Chris's family.
+  - She recalls her past struggles and how she managed to provide gifts for her son.
+  - Elizabeth's advice to "eat the cake" stays with Hadley and changes her perspective on food.
+- A Surprise Christmas Visit to Elizabeth:
+  - On Christmas morning, Hadley gets a call about Elizabeth's declining condition.
+  - She rushes to Elizabeth's house, where Deja, a nursing aide, joins her.
+  - Deja helps prepare Elizabeth for her passing and reflects on Elizabeth's wisdom.
+- Elizabeth's Passing:
+  - Elizabeth's room is filled with a lemon scent, and instrumental music plays.
+  - Deja and Hadley reminisce about Elizabeth's positive impact on their lives.
+  - As they leave, a noticeable shift in energy indicates that Elizabeth has passed away.
+
+## Edith
+- Introduction
+  - The story revolves around a patient named Edith, who suffers from Alzheimer's disease.
+  - Hadley describes her interactions and experiences with Edith and her husband John.
+- Edith's Decline
+  - Edith's condition deteriorates over time due to Alzheimer's disease.
+  - John, her husband, is deeply committed to caring for her and visits her daily.
+  - Edith loses her ability to speak, walk, and eventually even smile.
+- Unexpected Moments
+  - Edith surprises Hadley by saying her name, even though she shouldn't be able to remember it.
+  - Edith's sudden ability to communicate astonishes Hadley and challenges her understanding of the disease.
+  - The narrative explores the possibility that Alzheimer's patients might have a connection to something beyond the physical world.
+- Kennedy Ulcer Misunderstanding
+  - Hadley discovers a large pressure ulcer on Edith's body and initially blames the nursing home for neglect.
+  - She contacts a colleague, Travis, who explains that the ulcer is a Kennedy ulcer, a natural phenomenon associated with the end of life.
+  - Hadley realizes her mistake and learns about this unique type of skin condition.
+- Coping and Emotions
+  - Hadley struggles with her emotions and fears regarding death, both in her professional life and with her own loved ones.
+  - She opens up to a chaplain named Steve about her feelings of helplessness and anticipatory grief.
+  - Steve offers understanding and reassures her that her feelings are valid and normal.
+- Closure and Beyond
+  - Edith eventually passes away, and John copes with her loss.
+  - A ceremony is held in Edith's memory, during which John spreads her ashes.
+  - John reveals an uncanny experience: Edith seemed to have foreseen a fire in their home.
+  - This incident challenges Hadley's perspective on Alzheimer's patients and suggests a connection between their worlds.
+
+## Reggie
+- Lisa's Dilemma and Reginald's Decline:
+  - Lisa's husband, Reggie, is seriously ill, and she is struggling with the impending loss.
+  - Reggie's condition is worsening, and he might not have much time left.
+  - The nurse, Hadley, discusses resuscitation with Lisa, offering her choices and trying to understand Reggie's wishes.
+- Lisa's Emotional State and Reggie's Comfort:
+  - Lisa expresses her fears and reluctance to let Reggie die.
+  - Hadley helps Lisa explore what a "good death" might mean to her and Reggie.
+  - Hadley explains the implications of resuscitation and its potential outcomes.
+  - Lisa reminisces about her life with Reggie and her lack of decision-making experience.
+- Reggie's Passing and Aftermath:
+  - Lisa eventually calls Hadley to inform her that Reggie is close to passing away.
+  - Hadley rushes to their home, where Reggie's condition has deteriorated further.
+  - Hadley guides Lisa in making Reggie comfortable, playing country music that Reggie loved.
+  - Reggie takes his last breath with Lisa by his side, and she decides not to attempt CPR.
+  - Hadley contacts the funeral home, and Reggie's body is respectfully prepared.
+- Max's Behavior and Lisa's Grief:
+  - Reggie's dog, Max, acts unusually aggressive when Reggie passes away.
+  - Lisa expresses her grief and confusion on the back porch, reflecting on her life and loss.
+  - Hadley offers support and suggests a grief support group to Lisa.
+- Hadley's Reflection and Future Plans:
+  - Hadley reflects on her experience with Reggie and Lisa, feeling uneasy about their interaction.
+  - Hadley texts Lisa in an attempt to comfort her and offers assistance.
+  - The next morning, Hadley learns about Lisa's suicide, feeling guilty for not sensing her distress.
+  - Hadley blames herself, but Steve, a colleague, consoles her and suggests seeking therapy.
+  - Steve takes Hadley to a cemetery, suggesting she consider therapy to cope with her emotions.
+- Ending with Hope:
+  - Steve reassures Hadley that while tough days may come, better days are ahead.
+
+## Lily
+- Session with Therapist:
+  - Hadley seeks therapy to cope with the stress of her life and recent deaths of Reggie and Lisa.
+  - Therapist challenges Hadley's self-image and delves into her relationships and childhood experiences.
+  - Hadley's vulnerability and relationship challenges are discussed, focusing on her lack of healthy conflict resolution skills.
+- Dealing with Guilt and Responsibility:
+  - Hadley grapples with guilt over Lisa's suicide, feeling personally responsible.
+  - Therapist helps Hadley realize she couldn't control Lisa's actions and provides perspective on her role.
+- Increased Workload and Staff Shortage:
+  - Hadley faces increased workload and staff shortage at the hospice center.
+  - Travis, the manager, discusses difficulties finding replacement nurses and proposes rotating on-call duties.
+- Working On-Call and Anxiety:
+  - Hadley agrees to take on-call shifts, which come with added stress and anxiety.
+  - Chris, her fiancé, expresses concern about her well-being and the low compensation for on-call time.
+- A Crisis Call:
+  - Hadley receives an urgent call from a young patient named Lily who is in crisis.
+  - She rushes to a condo to help Lily, who is traveling and experiencing breathing difficulties.
+- Last Moments and Bonding:
+  - Lily's friend Allison describes how Lily suddenly worsened during their trip.
+  - Hadley administers medication to ease Lily's breathing.
+  - Allison's emotional reaction and attempts to comfort Lily show the depth of their friendship.
+- A Meaningful Goodbye:
+  - Lily's condition worsens rapidly, and she passes away on the beach while Allison holds her hand.
+  - Allison's heartfelt goodbye to Lily demonstrates the power of their connection.
+- Reflection and Reconnection:
+  - Hadley reflects on her own friendships and support system.
+  - She realizes the importance of true friends who would go to great lengths for one another.
+  - Hadley asks her friend Hannah to be her bridesmaid, symbolizing their enduring bond.
+
+## Babette
+- Planning the Wedding and Facing Terminal Illness
+  - Hadley and Chris discuss potential wedding dates and decide on a spring wedding.
+  - They consider their wedding preferences and the importance of having Babette, Chris's mother, present.
+- Wedding Preparations and Babette's Declining Health
+  - They plan a wedding for May, trying to prioritize Babette's presence.
+  - Babette's health deteriorates rapidly due to her terminal illness, and she requires hospice care.
+  - The family copes with Babette's decline, considering hospice options and Babette's preferences.
+- Evacuation due to Hurricane and Babette's Deterioration
+  - A hurricane threat forces Babette's evacuation along with the family.
+  - Babette's health worsens during the evacuation, and they realize they need to take her to the hospital.
+  - Hadley realizes she left Babette's medications behind and feels guilty for not being able to keep her comfortable.
+- Babette's Final Moments
+  - Babette is taken to the hospital, struggling with agonal breathing.
+  - The family gathers around her, saying their goodbyes over the phone to Eric, Chris's brother who is unreachable.
+  - Eric finally gets through and expresses his love for Babette just as she passes away.
+  - The story concludes with the sadness of Babette's passing and Hadley's feelings of failure.
+- Themes and Emotions
+  - The input touches on themes of terminal illness, end-of-life care, family dynamics, and the challenges of balancing personal and professional roles.
+  - The narrative is filled with emotions of love, sadness, guilt, and the reality of life's unpredictability.
+
+## Albert
+- Reggie and the Developer:
+    - Hadley's interaction with Reggie, a terminally ill patient, and her experience navigating challenges.
+    - Her frustration with a developer's insensitive actions and her determination to prioritize her patients.
+- Cancer Patient and Wigs:
+    - Hadley's encounter with a young mom with cancer and her act of kindness by providing wigs.
+    - The emotional moment when the woman tries on a wig and the impact it has on her and her family.
+- Albert and Al's Friend:
+    - Hadley's relationship with Albert (Al), an immigrant facing health challenges and homelessness.
+    - Al's positive attitude despite his pain and his friendship with Gil, who helps care for him.
+- Navigating Compassion and Rules:
+    - Hadley's dilemma of providing food to Al despite company rules against it.
+    - Her conflict between compassion and following workplace policies.
+- Deja's Departure:
+    - Deja's decision to leave due to financial considerations and the challenge it presents.
+    - Hadley's effort to support Deja and the changing dynamics within the team.
+- A Unique Experience with Al:
+    - Al's claim of interacting with his deceased mother and his unusual freedom from pain.
+    - Hadley's willingness to consider the possibility of Al's experience being more than a hallucination.
+- The Passing of Al:
+    - Al's passing and the supportive community that gathers to honor him.
+    - Hadley's emotional connection with Al and his friend Gil, and the promise to attend his service.
+- Mysterious Presence:
+    - The presence that Hadley senses after Al's passing and its connection to her safety.
+    - The belief that Al's spirit is somehow watching over her.
+
+## Frank
+- Introduction:
+  - Dr. Kumar, Hadley's supervisor, discusses a new hospice consultation program for the hospital.
+  - Hadley and Amanda are assigned to provide hospice consultations in the hospital.
+- First Patient Visit - Mr. Frank:
+  - Hadley visits a terminally ill patient, Mr. Frank, in the hospital.
+  - Frank's wife, Cheryl, expresses concerns about medical expenses and treatments.
+  - Hadley explains hospice's approach to financial matters and offers guidance.
+- Spiritual Beliefs and Coincidences:
+  - Frank and Cheryl discuss spiritual beliefs and fear of death.
+  - Hadley shares her evolving beliefs about the afterlife based on her experiences in hospice.
+  - Frank and Cheryl find comfort in the idea of the unknown and their personal experiences.
+- Challenges and Comfort in Unknowns:
+  - Frank's condition deteriorates, and he begins to talk to unseen figures.
+  - Cheryl is initially alarmed, but Hadley explains the phenomenon of deceased loved ones visiting patients.
+  - Cheryl and Frank find solace in the idea that death is not something to be feared.
+- Hospice Volunteer and Empathy:
+  - Will, a hospice volunteer, helps Hadley care for Frank.
+  - Will reveals his personal motivation to prevent others from dying alone due to his own past regrets.
+  - Hadley reflects on the difference between empathy and sympathy in her nursing practice.
+- Peaceful Passing:
+  - Frank passes away with Hadley and Will by his side.
+  - Cheryl asks if it was a peaceful passing, and Hadley affirms that it was one of the most peaceful passings she's witnessed.
+
+## Adam
+- Introduction:
+  - Hadley is upset about being assigned to care for a brain cancer patient named Adam, despite her boundary of not wanting to care for such patients.
+  - Hadley calls her colleague Travis to express her frustration but hangs up on him.
+- Flashback:
+  - Hadley recalls her guilt and emotional turmoil over her inability to care for her mother-in-law, Babette, who had brain cancer.
+  - She tries to center herself before entering the hospital to care for Adam.
+- Meeting Adam and Jillian:
+  - Hadley arrives at the hospital and meets Adam, a young brain cancer patient in a coma or sleeping state.
+  - Jillian, Adam's wife, and their young son are also in the room.
+  - Hadley introduces herself and learns about Adam's gradual deterioration from Jillian.
+- Jillian's Concerns:
+  - Jillian expresses her distress and lack of preparedness for dealing with her husband's terminal illness.
+  - Hadley relates to Jillian's concerns about caregiving and offers support.
+  - Jillian reveals her preference not to have Adam pass away at home due to the impact on their son's memories.
+- Inpatient Unit Plan:
+  - Hadley suggests moving Adam to the hospice's inpatient unit for more comfortable care.
+  - The inpatient unit, however, is full, but Hadley arranges for Adam to be admitted while still receiving hospice care.
+- Difficult Decision and Support:
+  - Hadley explains the "Do Not Resuscitate" order to Jillian, who is hesitant to sign it due to feeling like she's agreeing to Adam's death.
+  - Hadley comforts Jillian and they complete the necessary paperwork.
+  - The story highlights the emotional intensity of the situation and the normalcy of Jillian's reactions.
+- Conflict Over Monitoring:
+  - A nurse insists on keeping Adam on monitors despite his hospice status.
+  - Hadley argues with the nurse and questions the necessity of continuous monitoring for a hospice patient.
+- Advocacy and Resolution:
+  - Dr. Kumar intervenes and supports Hadley's position, leading to the removal of unnecessary monitors.
+  - The conflict showcases Hadley's assertiveness and dedication to ensuring her patients' comfort and dignity.
+- Jillian's Farewell:
+  - Jillian climbs into bed with Adam as he approaches the end of his life.
+  - She sings a heartfelt song, "Hallelujah," to him, creating a touching and emotional moment.
+  - Adam takes his final breath while Jillian is singing.
+- Reflection and Comfort:
+  - Hadley returns home and seeks comfort from her husband, Chris.
+  - She discusses her emotional day and her fear of losing him.
+  - Chris offers perspective on the sequence of events surrounding Babette's passing, helping Hadley find a sense of purpose and acceptance.
+
+## Conclusion
+- Author's Reflections on Beliefs:
+  - Hadley often gets asked about her beliefs due to her close work with patients facing the end of life.
+  - She emphasizes that how one lives life is more important than religious beliefs.
+  - Inner peace and happiness are significant regardless of religious affiliation.
+- Importance of Inner Peace:
+  - Hadley has observed that people who achieve peace with their life choices and beliefs tend to have a contented end-of-life experience.
+  - Regardless of religious beliefs, end-of-life experiences vary, and loved ones are often present during the transition.
+- Visitations and Afterlife:
+  - Hadley differentiates between hallucinations and lucid visitations described by patients.
+  - Visitations bring calm and peace, contrasting with the anxiety caused by hallucinations.
+  - She believes in an afterlife due to the consistent similarities in her patients' end-of-life experiences.
+- Personal Peace and Beliefs:
+  - Hadley has found her peace in the "In-Between," combining religious experiences, acknowledging suffering, and seeing patterns in patients' experiences.
+  - She is guided and confident that there is something after this life.
+  - Hadley's work and experiences have profoundly shaped her outlook on life.
+- Career and Personal Growth:
+  - Hadley's unexpected journey into hospice nursing has transformed her as a nurse and a person.
+  - She acknowledges the value of hospice and palliative care professionals.
+  - Being surrounded by patients at the end of life has allowed her to absorb their wisdom and stories, changing her perspective.
+  - The patients' impact on her is the reason why she "always, always eats the cake."
+
