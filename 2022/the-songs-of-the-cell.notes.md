@@ -2,8 +2,6 @@
 # The Songs of the Cell
 Author: Siddhartha Mukherjee
 
-
-
 ## Prelude: "The Elementary Particles of Organisms"
 - Introduction:
   - A quote from Sherlock Holmes illustrates the idea that a small overlooked detail can lead to remarkable deductions.

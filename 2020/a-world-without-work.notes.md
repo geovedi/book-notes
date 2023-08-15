@@ -1,3 +1,4 @@
+
 # A World Without Work
 Author: Daniel Susskind
 
@@ -48,6 +49,7 @@ Author: Daniel Susskind
    - Building a world where people can thrive despite technological changes.
 
 ## The Context
+
 ### A History of Misplaced Anxiety
 - Economic Growth and Technological Progress:
   - Economic growth is relatively recent, with most of human history characterized by stagnant economic life.
@@ -178,6 +180,7 @@ Author: Daniel Susskind
   - The belief that machines are limited to human intellectual capabilities is implausible.
 
 ## The Threat
+
 ### Task Encroachment
 - Impact of Automation on Human Tasks
   - Machines are increasingly capable of performing tasks previously done by humans.
@@ -304,6 +307,7 @@ Author: Daniel Susskind
   - The focus of the book is on how society should respond to this challenge.
 
 ## The Response
+
 ### Education and Its Limits
 - Introduction
   - Entrepreneurs dropping out of education and succeeding in the labor market.
@@ -457,9 +461,9 @@ Author: Daniel Susskind
   - Anticipation of technological progress leading to both prosperity and less work for humans.
 - Emergence of New Problems
   - Identification of three new problems arising from technological progress:
-    1. Inequality: Sharing economic prosperity equitably.
-    2. Political Power: Determining control over technological advancements.
-    3. Meaning: Utilizing prosperity for a purposeful life.
+    - Inequality: Sharing economic prosperity equitably.
+    - Political Power: Determining control over technological advancements.
+    - Meaning: Utilizing prosperity for a purposeful life.
 - Optimism Amid Challenges
   - Expressing hope for the future despite challenging problems.
   - Reflecting on humanity's progress from subsistence living to present prosperity.

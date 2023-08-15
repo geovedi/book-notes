@@ -1,5 +1,5 @@
+
 # Power and Prediction
-## The Disruptive Economics of Artificial Intelligence
 Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
 
 ## Preface: Success From Away?
@@ -37,6 +37,7 @@ Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
   - Need for understanding economic dynamics and potential disruptions.
 
 ## The Between Times
+
 ### A Parable of Three Entrepreneurs
 - Introduction: The Evolution of Electricity
   - Electricity transformed society through lighting, appliances, and industrial power.
@@ -150,6 +151,7 @@ Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
   - Opportunities for AI use may not be immediately apparent due to existing decision-making structures.
 
 ## Rules
+
 ### To Decide or Not to Decide
 - Economists and Rational Decision-Making:
   - Economists acknowledge that perfect rationality is unrealistic.
@@ -235,6 +237,7 @@ Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
   - The challenge of personalized education AI is changing age-based curriculum rules.
 
 ## Systems
+
 ### Glued Versus Oiled Systems
 - AI and Covid-19: From Rules to Decisions
   - AI's potential in pandemic situations was hindered by reliance on rules rather than decisions.
@@ -324,6 +327,7 @@ Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
   - Innovations in innovation systems can lead to cascading effects in multiple domains.
 
 ## Power
+
 ### Disruption and Power
 - Introduction: AI and Transformation
   - AI has transformative potential, but real adoption and transformation require new systems driven by the technology.
@@ -420,6 +424,7 @@ Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
   - Redesigning systems for high-frequency feedback is crucial for AI's success.
 
 ## How AI Disrupts
+
 ### A Great Decoupling
 - Importance of AI in Decision-Making
   - AI's value lies in improving decision-making, not just providing insights.
@@ -500,6 +505,7 @@ Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
   - The power dynamics between those who provide judgment and those who decide are essential.
 
 ## Envisaging New Systems
+
 ### Designing Reliable Systems
 - Introduction: The Challenge of Coordinating Decisions
   - Thomas Schelling's thought experiment illustrates the challenge of coordinating decisions without communication.
@@ -606,4 +612,3 @@ Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
   - While AI is often criticized for amplifying bias, its potential to reduce bias is significant.
   - AI's ease of detection and correction of bias contrasts with human decision-making's inherent difficulties.
   - The expectation is that resistance to AI adoption will shift from concerns about discrimination to resistance from those benefiting from bias.
-

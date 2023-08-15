@@ -1,3 +1,4 @@
+
 # The Design of Everyday Things
 Author: Don Norman
 
@@ -175,4 +176,3 @@ Author: Don Norman
   - Accessible tools like 3-D printers and open-source platforms enable global collaboration and innovation.
 - Enduring Principles of Design
   - Basic design principles, such as discoverability, feedback, affordances, and mapping, remain constant despite technological changes.
-

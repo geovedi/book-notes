@@ -1,3 +1,4 @@
+
 # Atlas of the Heart
 Author: Brené Brown
 
@@ -570,4 +571,3 @@ Author: Brené Brown
    - Encourages developing confidence to navigate emotional experiences.
    - Compares emotional understanding to having a reliable map for life's adventures.
    - Emphasizes the value of connecting with one's heart and true self for meaningful connection.
-

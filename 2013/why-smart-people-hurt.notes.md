@@ -1,3 +1,4 @@
+
 # Why Smart People Hurt
 Author: Eric Maisel
 
@@ -541,49 +542,49 @@ Author: Eric Maisel
   - Natural psychology sees meaning as a subjective psychological experience.
   - Making and maintaining meaning is crucial.
 - Fifteen Tips for Daily Meaning-Making
-  1. Orient Yourself
+  - Orient Yourself
     - Start each day by orienting yourself towards meaningful intentions.
     - Thoughtfully decide where to invest meaning throughout the day.
-  2. Maintain a Morning Practice
+  - Maintain a Morning Practice
     - Have a consistent morning practice to build meaning capital.
     - Choose being or doing practices that align with your intentions.
-  3. Address Challenges
+  - Address Challenges
     - Confront your greatest meaning challenges daily.
     - Take direct aim at them and announce your actions.
-  4. Context Matters
+  - Context Matters
     - Recognize that each moment has its context for meaning.
     - Make meaning decisions based on the situation at hand.
-  5. Anticipate and Decide
+  - Anticipate and Decide
     - Plan ahead for upcoming situations.
     - Make decisions on how to approach them mindfully.
-  6. Treat Free Time Mindfully
+  - Treat Free Time Mindfully
     - Give the same consideration to free time as productive time.
     - Spend it intentionally, balancing effort and ease.
-  7. Balance Effort and Ease
+  - Balance Effort and Ease
     - Be considerate and thoughtful, but also allow spontaneity and relaxation.
     - You can ease up without sacrificing meaningfulness.
-  8. Invest in Ways of Being
+  - Invest in Ways of Being
     - Invest meaning in ways of being, not just doing.
     - Choose and invest in a specific way of being for the day.
-  9. Align Your Thoughts
+  - Align Your Thoughts
     - Continuously align your thoughts with your intentions.
     - Recognize and replace thoughts that don't serve your meaning.
-  10. Align Your Actions
+  - Align Your Actions
     - Behave in ways that align with your intentions.
     - Avoid actions that deviate from your meaningful goals.
-  11. Utilize Your Available Personality
+  - Utilize Your Available Personality
     - Rely on your available personality to manifest your intentions.
     - Let your freest and smartest self guide your actions.
-  12. Check Your Meaning Opportunities
+  - Check Your Meaning Opportunities
     - Create a menu of meaningful opportunities.
     - Regularly review your list and seize opportunities you've missed.
-  13. Address Meaning Leaks
+  - Address Meaning Leaks
     - Act swiftly when you experience a meaning leak.
     - Reinforce meaning in your chosen endeavors.
-  14. Deal with Special Circumstances
+  - Deal with Special Circumstances
     - Be aware of special blows or circumstances affecting meaning.
     - Address them promptly and take necessary actions.
-  15. Embrace Life as Practice
+  - Embrace Life as Practice
     - Consider life as your practice.
     - Focus on "doing the next right thing" in your life's project.
 - Conclusion

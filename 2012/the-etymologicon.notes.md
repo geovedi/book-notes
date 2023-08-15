@@ -1,3 +1,4 @@
+
 # The Etymologicon
 Author: Mark Forsyth
 
@@ -1519,7 +1520,7 @@ Author: Mark Forsyth
   - Story: Bishop of Avranches tested Pliny's claim with small handwriting.
   - The Iliad could fit on a small piece of paper folded into a walnut shell.
   - Feasibility experiment done in the 18th century; also done with the Bible.
-If you have more questions or need further assistance, feel free to ask!
+
 ## The Iliad
 - The Iliad and Homer:
   - The story of Troy (Ilium) is grand with heroic heroes and beautiful ladies.
@@ -1537,7 +1538,7 @@ If you have more questions or need further assistance, feel free to ask!
   - Verheyen preserved his own amputated leg for religious reasons.
   - He dissected his own leg, recorded findings in letters to the limb.
   - Verheyen went mad before his death, surrounded by dissected leg parts.
-If you have more questions or need further assistance, feel free to ask!
+
 ## The Human Body
 - Body and Language:
   - The body is the source of numerous words and phrases.
@@ -2498,4 +2499,3 @@ If you have more questions or need further assistance, feel free to ask!
 - Turning Up for a Book:
   - Despite the many things you can do to a book, you can't "turn up" for it.
   - The phrase "a turn-up for the books" is introduced, leaving the meaning to continue on the next page.
-

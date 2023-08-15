@@ -1,3 +1,4 @@
+
 # Four Thousand Weeks
 Author: Oliver Burkeman
 
@@ -34,6 +35,7 @@ Author: Oliver Burkeman
   - Embracing the inevitability of never having complete control can lead to liberation.
 
 ## Choosing to Choose
+
 ### The Limit-Embracing Life
 - Introduction: The Troubles with Time
   - Modern society's struggle with time
@@ -240,6 +242,7 @@ Author: Oliver Burkeman
   - The paradox of accepting constraints leading to a sense of liberation.
 
 ## Beyond Control
+
 ### We Never Really Have Time
 - Introduction to Hofstadter's Law and the Paradox of Planning
   - Hofstadter's law: Tasks take longer than expected, even when accounting for the law.
@@ -467,4 +470,3 @@ Author: Oliver Burkeman
   - Human lifespan is short, which can be seen as a cause for relief.
   - The quest for perfection and invincibility is impossible and can be let go.
   - Embracing what's possible becomes the focus and source of fulfillment.
-

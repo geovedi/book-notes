@@ -1,3 +1,4 @@
+
 # Unsettled
 Author: Steven E. Koonin
 
@@ -575,4 +576,3 @@ Author: Steven E. Koonin
 - Restoring Integrity and Positive Outcomes
   - The author called for restoring integrity to science informing societal decisions on climate and energy.
   - Steps should prioritize positive outcomes for society, emphasizing President Biden's call for rejecting manipulated facts.
-

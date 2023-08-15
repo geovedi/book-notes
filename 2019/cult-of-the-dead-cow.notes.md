@@ -1,3 +1,4 @@
+
 # Cult of the Dead Cow
 Author: Joseph Menn
 
@@ -418,4 +419,3 @@ Author: Joseph Menn
   - Collaboration between ethical thinkers and the tech industry is necessary to improve the world.
 - Conclusion
   - The evolution of cDc from hackers to critical thinkers demonstrates the power of ethical considerations and applied thinking in shaping technology's future.
-

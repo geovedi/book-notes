@@ -1,3 +1,4 @@
+
 # No One Understands You and What to Do About It
 Author: Heidi Grant Halvorson
 
@@ -40,6 +41,7 @@ Author: Heidi Grant Halvorson
   - Aims to equip readers with tools for shaping perceptions effectively.
 
 ## Why It’s So Hard to Understand Each Other
+
 ### You Are Surprisingly Hard to Understand
 - President Obama's Debate Performance:
   - Obama's positive self-assessment after debate with Mitt Romney.
@@ -121,6 +123,7 @@ Author: Heidi Grant Halvorson
   - Mastering perception involves understanding and working with these biases.
 
 ## The Lenses That Shape Perception
+
 ### The Trust Lens
 - Projecting Trustworthiness
   - Initial impressions focus on trust.
@@ -185,6 +188,7 @@ Author: Heidi Grant Halvorson
   - Commonality Emphasis: Highlighting shared attributes or experiences creates a sense of "us," lessening the ego threat.
 
 ## Lenses for Particular Personalities
+
 ### Eager Reward-Seekers and Vigilant Risk-Mitigators
 - Promotion and Prevention Lenses:
   - Sir Richard Branson's mindset exemplifies promotion focus, seeking opportunities for advancement, and embracing risk and adventure.
@@ -252,6 +256,7 @@ Author: Heidi Grant Halvorson
   - Effective communication requires adapting to the attachment style of the perceiver.
 
 ## Being Seen, and Seeing Others, More Accurately
+
 ### Correcting Bad Impressions and Overcoming Misunderstandings
 - Building Positive Impressions:
   - Familiarity breeds liking, not contempt. People tend to like what they're familiar with.

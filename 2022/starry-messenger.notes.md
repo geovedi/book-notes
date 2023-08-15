@@ -1,3 +1,4 @@
+
 # Starry Messenger
 Author: Neil deGrasse Tyson
 
@@ -397,4 +398,3 @@ Author: Neil deGrasse Tyson
   - Embracing life means celebrating each moment and striving to make the world better.
   - The importance of appreciating the universe's wonders and the experience of being alive is emphasized.
   - While death is a natural part of life, its inevitability should not deter us from striving for positive impact.
-

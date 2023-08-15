@@ -1,3 +1,4 @@
+
 # The Story Behind
 Author: Emily Prokop
 
@@ -524,85 +525,85 @@ Author: Emily Prokop
   - Presidents' connection to peanut farming
 
 ### Pretzels
-- **Origins and Symbolism of Pretzels**
+- Origins and Symbolism of Pretzels
   - Various stories about the origin of pretzels
   - Italian monk's creation of Pretiola or Bracellae
   - Religious symbolism behind the knotted dough
   - Holes in pretzels symbolizing the Holy Trinity and luck
-- **Popularity and Traditions**
+- Popularity and Traditions
   - Spread of pretzels throughout Europe in the Middle Ages
   - Association of pretzels with Lent and Easter
   - German pretzels and their accidental invention
   - Hard pretzels: an accidental innovation
   - Pretzels as symbols of good luck and prosperity
-- **Cultural Significance**
+- Cultural Significance
   - Pretzel necklaces in Germany on New Year's Day
   - Swiss tradition of tying the knot with a pretzel
   - Austrian pretzel lore: protection from Ottoman Turks
   - Pretzels in America and modern popularity
-- **Pretzels in Popular Culture**
+- Pretzels in Popular Culture
   - Mention of pretzels in TV shows like "The Office" and "Seinfeld"
   - George W. Bush's pretzel-choking incident and humorous response
-- **Interesting Fact**
+- Interesting Fact
   - Similarities between the origin stories of pretzels and candy canes
-- **TL;DR Summary**
+- TL;DR Summary
   - Pretzels have diverse origins with ties to religious symbolism and legends
   - Associated with Easter and Lent in Europe
   - Pretzels symbolize luck, prosperity, and protection in various cultures
 
 ### Salt Water Taffy
-- **Origin and Name of Salt Water Taffy**
+- Origin and Name of Salt Water Taffy
   - David Bradley's candy stand in Atlantic City flooded by a storm
   - Sarcastic remark leads to the name "salt water taffy"
   - Uncertainty about who overheard the conversation
   - Joseph F. Fralinger's involvement and expansion
-- **Joseph F. Fralinger's Contribution**
+- Joseph F. Fralinger's Contribution
   - Fralinger's attempt at various businesses
   - Idea to sell salt water taffy to tourists
   - Use of decorative oyster boxes for packaging
   - Original flavors and competition with Bradley
-- **Enoch James' Innovation**
+- Enoch James' Innovation
   - Enoch James and his sons claim to have been making taffy
   - Differences in James' taffy compared to Fralinger's
   - Round taffy pieces and improved taffy-making process
   - Invention of taffy-making machines and impact
-- **Trademark Disputes**
+- Trademark Disputes
   - Unregistered trademark for "salt water taffy"
   - John R. Edmiston's attempt to trademark the term
   - US Patent Office striking down Edmiston's ownership
-- **Interesting Fact**
+- Interesting Fact
   - Laffy Taffy's name and its connection to jokes on wrappers
-- **TL;DR Summary**
+- TL;DR Summary
   - Salt water taffy's name originates from a flooded candy stand
   - Became a popular souvenir in Atlantic City
   - Not actually made with salt water, despite the name
 
 ### Sliced Bread
-- **Historical Background of Bread**
+- Historical Background of Bread
   - Ancient origins of bread from wheat and water
   - Role of bread in turning nomads into settlers
   - Use of bread as payment for workers building the pyramids
-- **Invention of Sliced Bread**
+- Invention of Sliced Bread
   - Otto Rohwedder's background and jewelry business
   - Idea for pre-sliced bread and prototype development
   - Setbacks due to factory fire and perseverance
   - Introduction of the toaster before sliced bread
-- **Challenges and Solutions**
+- Challenges and Solutions
   - Staleness of open-end sliced bread
   - Failed attempts to keep sliced bread intact
   - Success with waxed paper and cellophane wrapping
   - Pre-sliced bread's popularity surpassing unsliced bread
-- **Rapid Adoption and Demand**
+- Rapid Adoption and Demand
   - Mechanism to wrap bread with Rohwedder's machine
   - High demand for bread-slicing machines
   - Sliced bread's impact on rationing during WWII
-- **Impact and Cultural Phrase**
+- Impact and Cultural Phrase
   - Time magazine's commentary on sliced bread rationing
   - Lifting of rationing and appreciation for sliced bread
   - Origins of the phrase "greatest thing since sliced bread"
-- **Additional Trivia**
+- Additional Trivia
   - Mention of Wonder Bread as the first nationwide brand
-- **TL;DR Summary**
+- TL;DR Summary
   - Bread has ancient origins and early slicing by hand
   - Otto Rohwedder invented the machine for sliced bread
   - Pre-sliced bread became popular and even rationed in WWII
@@ -610,89 +611,89 @@ Author: Emily Prokop
 ## Fun & Games
 
 ### Crossword Puzzles
-- **Origins of Crossword Puzzles**
+- Origins of Crossword Puzzles
   - Arthur Wynne's childhood game Magic Square
   - Creation of Word-Cross, adding clues and patterns
   - Evolution of grid shapes and naming transition
-- **Popularity and Growth**
+- Popularity and Growth
   - Crossword fad picked up by newspapers
   - Compilation and publication of crossword puzzle book
   - New York Times' initial criticism and eventual adoption
   - Crossword puzzles during World War II for entertainment
-- **Role in World War II**
+- Role in World War II
   - Competition to identify puzzle-solving minds
   - Use of puzzles to recruit codebreakers
   - Limitations of crossword puzzle skills in language understanding
-- **Continued Impact and Development**
+- Continued Impact and Development
   - Crossword puzzles as a daily newspaper feature
   - Wordplay-based crosswords gaining popularity
   - American Crossword Puzzle Tournament and digital adaptation
-- **Prominent Figures and Technological Shift**
+- Prominent Figures and Technological Shift
   - Will Shortz's role as the New York Times crossword editor
   - Transition of crossword puzzles to digital platforms
-- **Additional Trivia**
+- Additional Trivia
   - Crossword puzzles used for decoding in England, banned in Paris
-- **TL;DR Summary**
+- TL;DR Summary
   - Arthur Wynne originated crossword puzzles from childhood game
   - Crossword fad's growth, New York Times' shift in opinion
   - Crossword puzzles used for wartime recruitment and entertainment
 
 ### The Hula Hoop
-- **Ancient Origins of Hoops**
+- Ancient Origins of Hoops
   - Children playing with hoop-like structures in Egypt (3000 BC)
   - Greeks, Romans, and Inuit using hoops for exercise and hunting
   - Symbolic use of hoops in religious ceremonies and storytelling
-- **Hula Hoop Evolution**
+- Hula Hoop Evolution
   - European popularity of hoops with associated medical issues
   - British sailors' encounter with hula dancing in Polynesian islands
   - Émile Jaques-Dalcroze's hoop-based exercise called Eurhythmics
   - Creation of the music duo Eurythmics by Annie Lennox
-- **1950s Hula Hoop Craze**
+- 1950s Hula Hoop Craze
   - Richard Knerr and Arthur Melin's development of the Hula Hoop
   - Wham-O's trademarked Hula Hoop and massive sales in 1958
   - Mention of Hula Hoops in Billy Joel's song "We Didn't Start the Fire"
-- **Hula Hoop's Continued Influence**
+- Hula Hoop's Continued Influence
   - Subsequent popularity as a fitness trend in the 2000s
   - Celebrities like Michelle Obama, Beyoncé, and Kelly Osbourne adopting it
   - Weighted hoops aiding in both resistance workouts and beginner participation
-- **Additional Trivia**
+- Additional Trivia
   - Hula Hoops banned in Japan due to perceived indecency
-- **TL;DR Summary**
+- TL;DR Summary
   - Hoops have been used for play and exercise for millennia
   - British sailors inspired term "hula hoop" after seeing hula dancing
   - Wham-O's 1950s Hula Hoop craze and its later fitness revival
 
 ### Hypnosis
-- **Ancient Roots of Suggestion**
+- Ancient Roots of Suggestion
   - Power of suggestion traced back to ancient religious ceremonies
   - Religion, science, and medicine intertwined in ritual trances for healing
   - Precursor of modern hypnosis for pain management
-- **Franz Mesmer and Early Hypnosis**
+- Franz Mesmer and Early Hypnosis
   - Franz Mesmer's belief in magnetic fluid for healing through trances
   - Term "mesmerize" derived from his name
   - Improvements observed in participants after Mesmer's sessions
-- **James Braid and Coined Term "Hypnosis"**
+- James Braid and Coined Term "Hypnosis"
   - Scottish surgeon James Braid's investigation into trance-like states
   - Coined term "hypnosis" based on Greek deity Hypnos
   - Transition from sleep-related definition to popular usage
-- **Hypnosis and the Mind's Power**
+- Hypnosis and the Mind's Power
   - Hypnotism's ability to focus the mind on suggestion
   - Similarities between hypnosis and meditation techniques
   - Utilizing the power of suggestion for habit formation and comfort
-- **Hypnosis in Modern Context**
+- Hypnosis in Modern Context
   - Applications in pain management and hypnobirthing
   - Clinical hypnotherapy as a treatment for various conditions
   - Distinction between hypnotism shows and therapeutic hypnosis
-- **Somnambulists and Hypnotizability**
+- Somnambulists and Hypnotizability
   - One in six people considered easily hypnotizable somnambulists
   - Somnambulist origin from the Roman equivalent of Hypnos
   - Personal experiences of the narrator with hypnotism shows
-- **Misconceptions and Use of Objects**
+- Misconceptions and Use of Objects
   - Common misconceptions about hypnosis and loss of control
   - Use of objects like pocket watches to aid focus in hypnosis
-- **Additional Trivia**
+- Additional Trivia
   - Lack of nationally recognized regulations for hypnosis
-- **TL;DR Summary**
+- TL;DR Summary
   - Power of suggestion dates back to ancient rituals
   - Franz Mesmer's ideas and James Braid's term "hypnosis"
   - Hypnosis for focus, habit formation, and pain management
@@ -700,31 +701,31 @@ Author: Emily Prokop
   - Some individuals more easily hypnotizable as somnambulists
 
 ### Ping-Pong
-- **Origins and Evolution of Ping-Pong**
+- Origins and Evolution of Ping-Pong
   - Lawn tennis adapted for indoor play in the late 1800s
   - Improvised equipment and various names for the game
   - Ping-Pong term trademarked by Parker Brothers
   - Change to table tennis due to trademark issues
-- **Advancements in Equipment and Rules**
+- Advancements in Equipment and Rules
   - Introduction of sandwich rubber paddles with increased spin
   - International Table Tennis Federation's regulations for new equipment
   - Changes to rules and ball size for televised matches
-- **Global Popularity of Table Tennis**
+- Global Popularity of Table Tennis
   - Estimated 40 million competitive and recreational players
   - Popularity of ping-pong in China
   - Reference to China's "ping-pong diplomacy" in Forrest Gump
-- **Ping-Pong Diplomacy and Impact**
+- Ping-Pong Diplomacy and Impact
   - Background of US-China relations and "Bamboo Curtain"
   - Initiation of communication between China and the US
   - Glenn Cowan's interaction with Zhuang Zedong
   - "Ping-pong diplomacy" and its political outcomes
-- **Depiction in Forrest Gump**
+- Depiction in Forrest Gump
   - Forrest Gump's skill in ping-pong and its portrayal in the movie
   - Use of computer-generated imagery in ping-pong scenes
   - Movie's innovative use of computer graphics and visual effects
-- **Additional Trivia**
+- Additional Trivia
   - Justin Bieber's love for table tennis
-- **TL;DR Summary**
+- TL;DR Summary
   - Ping-Pong's origins in indoor adaptation of lawn tennis
   - Trademarked term "Ping-Pong" leads to use of "table tennis"
   - Evolution of equipment and rules, influence of television
@@ -732,30 +733,30 @@ Author: Emily Prokop
   - Depiction of ping-pong in Forrest Gump and its visual effects
 
 ### Roller Skates
-- **Early Roller Skate Inventions and Challenges**
+- Early Roller Skate Inventions and Challenges
   - John Joseph Merlin's quirky introduction of roller skates in the 1760s
   - Lack of braking mechanism and steering issues
   - Monsieur Petitbled's patent for inline skates in 1819
-- **Evolution of Roller Skates**
+- Evolution of Roller Skates
   - Introduction of inline skates in a German opera
   - Leonard Plimpton's quad skate design in 1863
   - Plimpton's rubber wheels and turning mechanism improvement
   - Foundation of New York Roller Skating Association and opening of first public rink
-- **Roller Skating's Popularity and Decline**
+- Roller Skating's Popularity and Decline
   - Roller skating popularity linked to leisure time and labor laws
   - Influence of the disco movement in the 1970s
   - Decline due to disco backlash and economic challenges in the 1980s
-- **Resurgence and Modern Trends**
+- Resurgence and Modern Trends
   - Olson brothers' invention of Rollerblade in the 1980s
   - Resurgence of rollerblading in the 1990s
   - Roller skating's nostalgia-driven resurgence and opening of new rinks
-- **Roller Skating Culture and Racing**
+- Roller Skating Culture and Racing
   - Roller skating races and roller derby as long-standing traditions
   - Creative roller derby team names and wordplay
-- **Additional Trivia**
+- Additional Trivia
   - Carhop service on roller skates in the 1950s and '60s
   - Sonic's annual Skate-Off event
-- **TL;DR Summary**
+- TL;DR Summary
   - Introduction and challenges of early roller skates
   - Evolution of roller skate designs, including quad and inline skates
   - Roller skating's historical popularity spikes and declines
@@ -764,59 +765,59 @@ Author: Emily Prokop
   - Roller derby's long-standing tradition and creative team names
 
 ### The Slinky
-- **Invention and Naming of the Slinky**
+- Invention and Naming of the Slinky
   - Richard James' accidental discovery of springy toy concept in 1943
   - Development of the springy toy while working on shipyard projects
   - Betty's contribution to naming the toy "Slinky" and its meaning
   - Initial slow sales and in-store demonstration at Gimbel's Department Store
-- **Betty's Role and Company Success**
+- Betty's Role and Company Success
   - Betty's involvement in naming, marketing, and later success of the Slinky
   - Richard's donations and departure for Bolivia, leaving Betty in charge
   - Betty's relocation of the company, TV advertising, and catchy slogans
-- **Slinky Dog and Resurgence**
+- Slinky Dog and Resurgence
   - Invention of Slinky Dog by Helen H. Malstead
   - Richard and Malstead's collaboration on Slinky Dog
   - Slinky Dog's popularity boost, especially after Toy Story inclusion
-- **Achievements and Legacy**
+- Achievements and Legacy
   - Slinky's designation as the official toy of Pennsylvania in 2001
   - Sales figures and global impact of the Slinky
   - Betty's passing and the lasting legacy of the Slinky
-- **Newton's Apple Anecdote**
+- Newton's Apple Anecdote
   - Clarification of the popular Newton's apple story
   - Continued existence of the original apple tree in the UK
-- **TL;DR Summary**
+- TL;DR Summary
   - Richard James' accidental discovery and creation of the Slinky
   - Betty's significant role in naming, marketing, and saving the company
   - Slinky Dog's invention and its connection to Toy Story
   - Slinky's recognition as Pennsylvania's official toy and its global impact
 
 ### The Treadmill
-- **Historical Origins of the Treadmill:**
+- Historical Origins of the Treadmill:
   - Treadmill's inception in ancient Rome as a human-powered crane for lifting heavy objects.
   - Roman use of treadmill within a large wheel to increase lifting efficiency.
-- **Treadmill as a Source of Power:**
+- Treadmill as a Source of Power:
   - Historical application of treadmills for various tasks using human and animal power.
   - Origin of the term "horsepower" from treadmills used for farm tasks in the 1800s.
-- **Prison Treadmill and Evolution:**
+- Prison Treadmill and Evolution:
   - Introduction of the prison treadmill by Sir William Cubitt in 1818.
   - Use of convicts to generate power on paddle wheel treadmills.
   - Treadmills used as punishment and power generation in prisons.
   - Treadmill use for prisoners abolished due to cruelty in 1889.
-- **Treadmill for Exercise and Medicine:**
+- Treadmill for Exercise and Medicine:
   - Transition of treadmills to exercise equipment in the 1950s.
   - Dr. Robert Bruce's utilization of the treadmill for heart monitoring and cardiac assessment.
   - Development of the Bruce Protocol diagnostic test and the concept of exercise cardiology.
-- **Aerobics and Treadmill Stress Test:**
+- Aerobics and Treadmill Stress Test:
   - Dr. Kenneth H. Cooper's development of aerobics in the 1960s.
   - Use of treadmills as part of cardiovascular fitness assessment and treadmill stress tests.
   - Cooper's influence on the idea of recreational running.
-- **Treadmill's Ongoing Popularity:**
+- Treadmill's Ongoing Popularity:
   - Treadmill's continued popularity as the top-selling cardiovascular exercise machine.
   - Benefits of treadmills in gyms and climate-controlled indoor settings.
   - Convenience and versatility of treadmill walking for exercise.
-- **Interesting Fact:**
+- Interesting Fact:
   - Around 40% of people who buy home exercise equipment end up using it less than expected.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Treadmill originated as a human-powered crane in ancient Rome.
   - Prison treadmills used for punishment and power generation.
   - Treadmills transitioned to exercise equipment and medical diagnostics.
@@ -824,31 +825,31 @@ Author: Emily Prokop
   - Treadmills' popularity, benefits, and climate-controlled indoor advantages.
 
 ### Water Guns
-- **Early Water Gun Origins:**
+- Early Water Gun Origins:
   - Pre-1896 history of water guns is relatively unknown.
   - Early water-filled weaponry used a cast-iron gun casing and pouch system.
   - Mechanism involved squeezing the pouch to create water pressure for spraying.
-- **Squirt-Gun Riot of 1858:**
+- Squirt-Gun Riot of 1858:
   - Story of the Squirt-Gun Riot at Amherst College in 1858.
   - Sophomores' elaborate funeral for a stolen squirt gun.
   - Clash between sophomore and junior classes with wood used as weapons.
   - President's intervention led to the Squirt-Gun Riot legend.
-- **Evolution of Water Guns:**
+- Evolution of Water Guns:
   - Evolution of squirt guns: addition of triggers, shift from cast iron to plastic.
   - Introduction of water storage in handle, resembling household spray bottles.
   - Introduction of motorized pressure tanks in 1977.
-- **Invention of the Super Soaker:**
+- Invention of the Super Soaker:
   - Lonnie Johnson's accidental discovery of high-pressure water propulsion.
   - Development of the Super Soaker using hand-pumping pressure.
   - Challenges finding manufacturers for the Super Soaker design.
   - Successful partnership with Larami leading to early 1990s popularity.
-- **Super Soaker's Impact and Growth:**
+- Super Soaker's Impact and Growth:
   - Features of the Super Soaker, including large water-bottle attachment.
   - Merger of Super Soaker and Nerf in 2010.
   - Continued growth of the Super Soaker line with new products each summer.
-- **Interesting Fact:**
+- Interesting Fact:
   - Union General Sherman's quote likening Abraham Lincoln's volunteer call to putting out flames with a squirt gun.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Early water guns used cast-iron gun casing with water pouch.
   - Squirt-Gun Riot of 1858 at Amherst College over a stolen squirt gun.
   - Lonnie Johnson's invention of the Super Soaker with high-pressure water propulsion.
@@ -857,26 +858,26 @@ Author: Emily Prokop
 ## In the Home
 
 ### Band-Aids
-- **Historical Wound Treatment:**
+- Historical Wound Treatment:
   - Egyptians used honey to treat wounds as early as 1500 BC.
   - Gauze gained popularity over time for wound care.
-- **Invention of Band-Aid:**
+- Invention of Band-Aid:
   - Josephine Dickson's challenges with treating minor cuts and burns.
   - Earle Dickson's role as a cotton buyer at Johnson & Johnson.
   - Creation of the prototype Band-Aid using gauze, crinoline, and surgical tape.
   - Johnson & Johnson's promotion of Band-Aids to Boy Scouts for first-aid kits.
   - Market success of Band-Aids after being used by Boy Scouts.
-- **Evolution and Market Dominance:**
+- Evolution and Market Dominance:
   - Johnson & Johnson's focus on adhesive quality to outperform competitors.
   - Michael Panayiotis' attempt to create diverse flesh-toned bandages.
   - Introduction of clear bandages to blend with various skin tones.
-- **Band-Aid in Pop Culture:**
+- Band-Aid in Pop Culture:
   - Band-Aid's clever brand name used for musical and film references.
   - Band-Aid collaboration to record "Do They Know It's Christmas?" in 1984.
   - The movie "Almost Famous" featuring the term "Band-Aids" as a reference to groupies.
-- **Interesting Fact:**
+- Interesting Fact:
   - Uncertainty about the origin of the term "gauze."
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Egyptians used honey for wounds since 1500 BC.
   - Josephine Dickson and Earle Dickson invented Band-Aid.
   - Band-Aid's success with Boy Scouts and dominance in the market.
@@ -884,39 +885,39 @@ Author: Emily Prokop
   - "Do They Know It's Christmas?" collaboration raised funds in 1984.
 
 ### Diapers
-- **Historical Diaper Usage:**
+- Historical Diaper Usage:
   - Early usage of milkweed leaves, animal skin, and grass/moss.
   - Nudity and clean-up in warmer climates.
   - Transition to cloth diapers in later centuries.
-- **Evolution of Diapering:**
+- Evolution of Diapering:
   - Usage of linen or flannel diapers, often changed less frequently.
   - Hygiene awareness increased, leading to more frequent diaper changes.
   - Women primarily responsible for child-rearing duties.
-- **Invention of Waterproof Covers:**
+- Invention of Waterproof Covers:
   - Marion Donovan's frustration with cloth diapers and rubber pants.
   - Creation of waterproof diaper covers using shower curtains and nylon.
   - Incorporation of plastic snaps to replace diaper pins.
-- **Disposable Diapers' Emergence:**
+- Disposable Diapers' Emergence:
   - Introduction of disposable diaper inserts in Sweden.
   - Disposable diaper covers introduced by Johnson & Johnson.
   - Development of more absorbent materials and designs.
-- **Procter & Gamble's Innovations:**
+- Procter & Gamble's Innovations:
   - Victor Mills' exploration of disposable diaper technology.
   - Introduction of Pampers, initially requiring safety pins.
   - Pampers' gradual success after cost reduction and improvements.
-- **Diaper Market Competition:**
+- Diaper Market Competition:
   - Rise of other disposable diaper brands, including Huggies.
   - Lawsuits and antitrust battles among diaper companies.
   - Kimberly-Clark's victory and prominence in the market.
-- **Toilet Training Controversy:**
+- Toilet Training Controversy:
   - Dr. T. Berry Brazelton's approach to toilet training and bedwetting.
   - Relationship between Brazelton and Pampers as a consultant.
   - Criticisms and conflicting opinions within the medical community.
-- **Reusable Diaper Trend:**
+- Reusable Diaper Trend:
   - Reintroduction of eco-friendly reusable diapers.
-- **Interesting Fact:**
+- Interesting Fact:
   - The invention of the safety pin in 1840 facilitated diaper fastening.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Diapers evolved from leaves and animal skins to cloth.
   - Marion Donovan created waterproof diaper covers with plastic snaps.
   - Disposable diaper covers and inserts were introduced.
@@ -926,39 +927,39 @@ Author: Emily Prokop
   - Reusable diaper trend re-emerged as an eco-friendly option.
 
 ### The Dishwasher
-- **Early Dishwashing Challenges:**
+- Early Dishwashing Challenges:
   - Use of pottery and cookware in ancient times.
   - Nomads settling for water availability for drinking and cleaning.
   - Washing dishes near water sources or carrying water for cleaning.
-- **Introduction of In-home Water:**
+- Introduction of In-home Water:
   - Development of waterways and indoor plumbing.
   - Improved dishwashing convenience with accessible water.
-- **Early Attempts at Automation:**
+- Early Attempts at Automation:
   - Failed attempts to invent dishwashers in history.
   - Joel Houghton's hand-turned wooden machine in 1850.
-- **Innovator Josephine Garis Cochrane:**
+- Innovator Josephine Garis Cochrane:
   - Upper-class annoyance with servants' mishandling of dishes.
   - Cochrane's background in engineering and innovation.
   - Idea of a dishwashing machine to increase efficiency.
   - Creation of a dish-rack system with water pressure.
-- **Design Development and Challenges:**
+- Design Development and Challenges:
   - Designing wire compartments for plates and cups.
   - Collaboration with mechanic George Butters.
   - Patent filing in 1886 after refining the design.
   - Frustration with others trying to alter her design.
-- **Early Success and Establishment:**
+- Early Success and Establishment:
   - Initial lack of popularity among housewives.
   - Presentation at the 1893 World's Columbian Exposition.
   - Interest from hotels and restaurants for commercial use.
   - Evolution of her company, which became KitchenAid.
-- **Dishwasher Popularity and Modern Considerations:**
+- Dishwasher Popularity and Modern Considerations:
   - Dishwasher's increasing popularity over time.
   - Dishwashers' availability for households over decades.
   - Dishwasher bulkiness and kitchen space constraints.
   - Ongoing relevance of hand-washing for some.
-- **Hygiene Fact:**
+- Hygiene Fact:
   - Soaking dishes in cool water can breed bacteria.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Early challenges of dishwashing involved water availability.
   - Josephine Garis Cochrane invented a dishwasher to protect heirloom china.
   - Collaboration with George Butters led to a successful patent.
@@ -966,29 +967,29 @@ Author: Emily Prokop
   - Dishwashers evolved in design, popularity, and household use.
 
 ### The Lead Pipe
-- **Historical Significance of Pipes and Plumbing:**
+- Historical Significance of Pipes and Plumbing:
   - Early existence of pipes and plumbing since 3000 BC.
   - Introduction of flush toilet in Crete during 1700s BC.
   - Use of lead in Roman aqueducts for water supply.
   - Lead's long-standing popularity and use in various contexts.
-- **Lead's Role in Roman Aqueducts:**
+- Lead's Role in Roman Aqueducts:
   - Lead, bronze, and marble used in Roman aqueducts.
   - Use of lead pipes for water transportation.
   - Vitruvius' caution about lead's potential health risks.
   - Mineral deposits in pipes as a buffer against lead contamination.
-- **Lead's Wider Usage and Possible Impact on Health:**
+- Lead's Wider Usage and Possible Impact on Health:
   - Lead's use in cookware, toys, paint, and gasoline.
   - Speculation about lead poisoning's contribution to Rome's fall.
   - Lead industry's continuation despite known toxicity.
   - Emergence of lead awareness in public health by the 1950s.
-- **Mr. Boddy and Lead Exposure:**
+- Mr. Boddy and Lead Exposure:
   - Rabbit hole exploration regarding Mr. Boddy's potential lead exposure.
   - Widespread lead exposure through toys, paint, gasoline, etc.
   - Impact of lead on Mr. Boddy's health even without lead pipe involvement.
-- **Lead Safety Fact:**
+- Lead Safety Fact:
   - Leachable lead in ceramic ware and FDA regulations.
   - Caution for using lead testing kits for older items.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Historical timeline of pipes and plumbing.
   - Roman aqueducts' use of lead pipes.
   - Lead's broader application and historical consequences.
@@ -996,33 +997,33 @@ Author: Emily Prokop
   - Lead safety considerations for ceramics and old items.
 
 ### The Paper Bag
-- **Historical Context of Paper Bags:**
+- Historical Context of Paper Bags:
   - Pre-1800s methods of carrying items.
   - Introduction of envelope-like paper bags by Francis Wolle in 1852.
   - Union Paper Bag Company's influence on paper bag manufacturing.
-- **Inventive Nature of Margaret "Mattie" Knight:**
+- Inventive Nature of Margaret "Mattie" Knight:
   - Background in tinkering and inventing as a child.
   - Innovative solutions for problems like cotton mill injuries.
   - Tackling the challenge of creating flat-bottomed paper bags.
   - Creation of the "plate knife holder" concept for bag folding.
-- **Challenges and Patent Dispute:**
+- Challenges and Patent Dispute:
   - Charles F. Annan's copying of Knight's design.
   - Knight's patent application and legal battle.
   - Supportive evidence, sketches, and testimony leading to her patent victory.
   - Recognition from Queen Victoria and accumulation of patents.
-- **Evolution of the Paper Bag Design:**
+- Evolution of the Paper Bag Design:
   - Charles Stilwell's improvement with pleated sides.
   - Introduction of the "SOS" (Self-Opening Sack).
   - Modern-day paper bag's basis on Stilwell's design.
   - Decline of paper bags due to plastic bags' popularity.
-- **Environmental Considerations and Usage Trends:**
+- Environmental Considerations and Usage Trends:
   - Changing customer habits due to charges for disposable bags.
   - Debate over the environmental impact of paper vs. plastic bags.
   - Recycling and reusability differences between paper and plastic.
-- **Notable Fact:**
+- Notable Fact:
   - Margaret Knight's recognition as "Lady Edison" for her inventions.
   - Knight's modest financial circumstances despite her innovative achievements.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Historical evolution of carrying methods to paper bags.
   - Margaret Knight's inventive nature and cotton mill safety solution.
   - Legal battle and victory over patent dispute for flat-bottomed bag machine.
@@ -1031,31 +1032,31 @@ Author: Emily Prokop
   - Margaret Knight's recognition and financial circumstances.
 
 ### Solar Panels
-- **Historical Significance of the Sun:**
+- Historical Significance of the Sun:
   - Ancient religions worshiped the sun, such as the Egyptian god Amun.
   - Integration of sun worship in Egyptian culture, including rulers' names.
-- **Early Harnessing of Solar Power:**
+- Early Harnessing of Solar Power:
   - Seventh century BC: Use of magnifying glass for fire.
   - Sun's roles in providing light, warmth, and electric energy.
   - Edmond Becquerel's discovery of solar-generated electrical voltage in 1839.
-- **Early Challenges and Attempts:**
+- Early Challenges and Attempts:
   - August Mouchet's solar-powered printing press in the 1860s.
   - Willoughby Smith's experiments with selenium's conductivity under sunlight.
   - Fossil-fueled power plants' dominance affecting solar energy research.
-- **Renewed Interest and Research:**
+- Renewed Interest and Research:
   - George M. Minchin's persistence in solar energy research during the 1800s.
   - Albert Einstein's revelation of light as energy packets (photons).
   - Maria Telkes' innovative solar-powered distiller and her contributions.
-- **Advancements and Solar Power Implementation:**
+- Advancements and Solar Power Implementation:
   - Construction of the first solar-heated house in 1948 by Maria Telkes and Eleanor Raymond.
   - Telkes' work on solar-powered stoves, heaters, and residences.
   - Growing capabilities and widespread use of solar panels.
   - Solar panels' role in phasing out fossil fuel consumption and reducing electricity bills.
-- **Light-hearted Note and Reference:**
+- Light-hearted Note and Reference:
   - Mention of the movie Birdemic's amusing influence on solar panel adoption.
-- **Notable Fact:**
+- Notable Fact:
   - Recommendation of the Sunshine & PowerCuts podcast for further exploration of solar power.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Ancient sun worship and its influence on culture.
   - Discovery of solar-generated electrical voltage and early attempts at harnessing solar power.
   - Challenges faced due to fossil fuels' prevalence.
@@ -1066,35 +1067,35 @@ Author: Emily Prokop
   - Recommendation of a solar power-themed podcast.
 
 ### Tissues
-- **Evolution of Handkerchiefs:**
+- Evolution of Handkerchiefs:
   - Ancient Egyptians' use of linen for handkerchiefs around 2000 BC.
   - Roman poet Catullus' written reference to handkerchiefs in the 1st century AD.
   - Early purposes: shielding from the sun, wiping sweat, and practical uses.
-- **Historical Influences:**
+- Historical Influences:
   - Handkerchiefs referred to as "couvrechef" in Old French.
   - English renaming to "Hand-Cover-Chief."
   - Catherine de Medici introducing lace-bordered and scented handkerchiefs to France.
   - Shakespeare's use of a handkerchief in Othello.
-- **Marie Antoinette's Role:**
+- Marie Antoinette's Role:
   - Marie Antoinette's association with handkerchiefs.
   - Myth and facts surrounding her use of handkerchiefs.
   - Standardization of handkerchief sizes due to her decree.
-- **Cultural Significance and Usage:**
+- Cultural Significance and Usage:
   - Taboo around displaying handkerchiefs outside clothing.
   - Integration into fashion, especially with two-piece suits.
   - Romantic connotations and gestures associated with handkerchiefs.
   - Practicality: face masks, maps for soldiers during wars.
-- **Kleenex's Emergence and Evolution:**
+- Kleenex's Emergence and Evolution:
   - Kimberly-Clark Corporation's introduction of Kleenex in 1924 for makeup removal.
   - Transition to using Kleenex as disposable tissues for blowing noses.
   - Kleenex's contribution to bandages and wound dressings during WWII.
-- **Branding and Urban Legends:**
+- Branding and Urban Legends:
   - Kleenex's transformation into a household name and generic term.
   - Origin of the term "Kleenex" and the brand's association with cleanliness.
   - Urban legend about a haunted Kleenex commercial from Japan.
-- **Notable Fact:**
+- Notable Fact:
   - Mention of the internet urban legend surrounding a haunted Kleenex commercial.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Handkerchiefs' ancient origins and various uses.
   - Influence of historical figures like Catherine de Medici and Marie Antoinette.
   - Cultural significance and romantic associations.
@@ -1102,43 +1103,43 @@ Author: Emily Prokop
   - Branding of Kleenex and urban legend about a haunted commercial.
 
 ### The Toothbrush
-- **Introduction to Nacirema Satire:**
+- Introduction to Nacirema Satire:
   - Horace Miner's 1956 satire "Body Ritual Among the Nacirema" depicts American rituals from an anthropological perspective.
   - The satire highlights the bizarre nature of common practices like teeth brushing and dental care.
   - Nacirema is "American" spelled backward, revealing the focus on American customs.
-- **Bizarre Dental Rituals:**
+- Bizarre Dental Rituals:
   - Description of the Nacirema's unusual mouth-rite involving hog hairs and magical powders.
   - Americans' tooth brushing and dental care practices seen as strange from an outsider's viewpoint.
   - We're the only species actively engaging in teeth brushing.
-- **Animal Dental Hygiene:**
+- Animal Dental Hygiene:
   - Myth of crocodiles and Egyptian plover birds performing dental hygiene debunked.
   - Some animals with high-fiber diets naturally maintain dental health.
   - Elephants cleaning tusks through various activities.
-- **Human Dental Challenges:**
+- Human Dental Challenges:
   - Sugar and processed foods deteriorate human teeth more rapidly than natural diets.
   - Explanation of the need for vigilant dental care due to dietary factors.
-- **Historical Evolution of Tooth Cleaning:**
+- Historical Evolution of Tooth Cleaning:
   - Ancient tooth cleaning methods: finger brushing, chew sticks, and tooth powder.
   - Use of unconventional substances for teeth cleaning, such as urine.
   - Evolution from horse hair and boar bristles to toothpicks made from various materials.
-- **Early Toothbrush Development:**
+- Early Toothbrush Development:
   - First recorded use of the term "toothbrush" in 1690.
   - William Addis' innovation of a toothbrush-like tool using animal bone and hair.
   - Establishment of Wisdom Toothbrushes company.
-- **Toothbrush as a Status Symbol:**
+- Toothbrush as a Status Symbol:
   - Toothbrushes as status symbols during the Industrial Revolution.
   - Lack of dental hygiene recommendations in the past.
-- **Educational Initiatives and Marketing:**
+- Educational Initiatives and Marketing:
   - Introduction of dental hygiene in schools in the early 1900s.
   - Schools' distribution and sale of toothbrushes to promote dental care.
   - Pepsodent's successful advertising campaign emphasizing dental hygiene.
-- **Modern Toothbrush Development:**
+- Modern Toothbrush Development:
   - Introduction of nylon bristles in toothbrushes in 1937.
   - Invention of the electric toothbrush in the same year.
   - Progression of toothbrush technology leading to current dental care practices.
-- **Significance of Toothbrush:**
+- Significance of Toothbrush:
   - Designation of the toothbrush as the No. 1 invention Americans can't live without in 2003.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Ancient tooth cleaning methods included finger brushing and chew sticks.
   - Human teeth are affected by modern diets, necessitating dental care.
   - William Addis' innovation led to the toothbrush's development.
@@ -1146,97 +1147,97 @@ Author: Emily Prokop
 ## Music
 
 ### Lullabies
-- **Challenges and Determination:**
+- Challenges and Determination:
   - Babies historically considered podcast killers, but determination to continue podcasting during pregnancy.
   - Gathering episodes in advance to accommodate the post-pregnancy period.
   - Exploration of baby-related topics in podcast content.
-- **Early Lullabies and Dark Themes:**
+- Early Lullabies and Dark Themes:
   - Lullabies date back to 2000 BC, with an ancient Babylonian lullaby on a clay tablet.
   - Early lullabies containing warnings or dark themes to induce sleep.
   - Analysis of "Rock-a-bye Baby" lyrics and other unsettling lullabies.
-- **Soothing Sounds and Fetal Development:**
+- Soothing Sounds and Fetal Development:
   - Lullabies' soothing tones and rhythms explained as effective sleep aids.
   - White noise machines and fetal hearing development.
   - Mother's voice and familiar voices in utero contribute to post-birth comfort.
-- **Lullaby Variations and Effects:**
+- Lullaby Variations and Effects:
   - The impact of lullabies with familiar voices on calming babies.
   - Transformation of popular songs into lullabies.
   - Lullabies' role in supporting language skills and learning for babies.
-- **Musical Impact and Mozart Effect:**
+- Musical Impact and Mozart Effect:
   - Music's benefits for babies' early learning.
   - Mixed findings regarding the "Mozart Effect" and classical music's influence on intelligence.
   - Utilizing 3/4 time signature in effective lullabies.
-- **Famous Lullabies' Origins:**
+- Famous Lullabies' Origins:
   - Origins of well-known lullabies like Brahms' "Lullaby" and "Twinkle, Twinkle, Little Star."
   - Romantic backstory of Brahms' "Lullaby."
   - Mozart's variations on the melody for "Twinkle, Twinkle, Little Star."
-- **Evolution of Lullabies:**
+- Evolution of Lullabies:
   - Complex origins of "Rock-a-bye Baby" and "Hush Little Baby."
   - Evolution of the R&B version of "Hush Little Baby."
   - Cultural and cinematic associations with lullabies.
-- **Additional Information:**
+- Additional Information:
   - Recommendation for lullaby playlist.
   - Link to a Spotify playlist for lullabies.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Lullabies have a long history, including early Babylonian examples.
   - Lullabies use 3/4 time signature to mimic rocking motion.
   - Brahms' "Lullaby" was a love song to a married woman for her child.
 
 ### Musicals
-- **Musicals Through Time:**
+- Musicals Through Time:
   - Episode presented in the style of "The Major-General's Song" from The Pirates of Penzance.
   - History of musicals traced back to ancient Greece's acoustical theaters.
   - Middle Ages reintroduced musicals through church and traveling minstrels.
   - 17th and 18th centuries featured satirical and comical musicals.
   - Opera contrasted with comedic and entertaining musicals.
-- **Musical Evolution:**
+- Musical Evolution:
   - Names like Strauss and Offenbach contributed to geographical spread.
   - Musical influence reached the USA, intertwined with Vaudeville.
   - Musical evolution continued with Broadway's emergence as a dominant force.
   - Stage revues like Ziegfeld's follies attracted international crowds.
-- **Challenges and Transformation:**
+- Challenges and Transformation:
   - Unions' influence in 1919 led to contracts and picket lines.
   - The 1920s introduced figures like Cole Porter and Hart and Rodgers.
   - Great Depression and rock 'n' roll era impacted musicals.
   - Sondheim introduced concept shows and rekindled interest.
-- **Resurgence and Modern Musicals:**
+- Resurgence and Modern Musicals:
   - Andrew Lloyd Webber's epic scores contributed to a resurgence.
   - Movies adapted into successful musicals, and Lin-Manuel's R&B hit Hamilton.
   - Episode 100 of the podcast celebrated the history of musicals.
-- **Additional Information:**
+- Additional Information:
   - Broadway illuminated with white electric bulbs in the 1890s ("The Great White Way").
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Musicals have a long history from ancient Greece.
   - Evolution through satire, comicality, and influence.
   - Broadway's rise, concept shows, and Andrew Lloyd Webber's impact.
   - Modern success with movie adaptations and Lin-Manuel's Hamilton.
 
 ### The Theremin
-- **Introduction to the Theremin:**
+- Introduction to the Theremin:
   - Unique sound of the theremin often heard in sci-fi and horror movie soundtracks.
   - Describing the theremin's sound as "Wuaaaaaaahhhh!"
-- **Inventor and Early Development:**
+- Inventor and Early Development:
   - Inventor Lev Sergeyevich Termen (Leon Theremin) from Russia, born in 1896.
   - Termen's background in physics and music, experimentation with electromagnetic fields.
   - Creation of the theremin as an instrument played without physical contact in 1920.
-- **Lenin's Support and US Debut:**
+- Lenin's Support and US Debut:
   - Vladimir Lenin's fascination with electricity and support for showcasing the theremin.
   - Termen sent to the United States in 1928 to introduce and sell the instrument.
   - RCA's interest, contract, and theremin's initial failure to sell due to stock market crash.
-- **Disappearance and Later Years:**
+- Disappearance and Later Years:
   - Termen's mysterious disappearance in 1938, resurfacing years later in Russia.
   - Diverse stories about his departure from the US.
   - Imprisonment in Russia, admission of involvement in surveillance device development.
-- **Resurgence and Pop Culture Influence:**
+- Resurgence and Pop Culture Influence:
   - Revival of the theremin's popularity through movie soundtracks in the 1950s and '60s.
   - Robert Moog's involvement, selling theremin kits, later known for Moog synthesizer.
   - Theremin's use in songs like Beach Boys' "Good Vibrations" and Led Zeppelin's "Whole Lotta Love."
-- **Misconceptions and Pop Culture References:**
+- Misconceptions and Pop Culture References:
   - Common misconception about the theremin sound in The Big Bang Theory.
   - Distinction between the theremin sound and actual vocals.
-- **Additional Information:**
+- Additional Information:
   - RCA's advertising mistake regarding ease of playing the theremin.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Leon Theremin invented the theremin in 1920, an instrument played without contact.
   - Lenin's support led to its US debut and subsequent revival through movie soundtracks.
   - Termen's mysterious disappearance and later involvement in surveillance device development.
@@ -1245,30 +1246,30 @@ Author: Emily Prokop
 ## Out & About
 
 ### The Fire Hydrant
-- **Evolution of Firefighting Techniques:**
+- Evolution of Firefighting Techniques:
   - Historical use of bucket brigades to extinguish fires.
   - Hollowed-out logs as early pipes in London during the 1600s.
   - Transition from wooden to cast-iron pipes in larger cities.
   - Frederick Graff Sr. credited with inventing above-ground fire hydrant.
-- **Frederick Graff Sr. and Hydrant Development:**
+- Frederick Graff Sr. and Hydrant Development:
   - Graff's role in creating Philadelphia's water system.
   - Creation of pillar-shaped hydrants for firefighters' easy access.
   - Evolution of Graff's hydrant design for improved functionality.
-- **Early Hydrant Design and Challenges:**
+- Early Hydrant Design and Challenges:
   - Initial metal pipes encased in wood with valve and outlet.
   - Challenge of preventing freezing water in early hydrants.
   - Solution with valve location adjustment to allow water drainage.
   - Dry-barrel and wet-barrel hydrant distinction.
-- **Hydrant Color Coding and Water Pressure:**
+- Hydrant Color Coding and Water Pressure:
   - Significance of hydrant colors in differentiating water pressure.
   - Pressure variations based on population density and fire response time.
   - Color system differentiation: yellow, red, purple, blue, green.
-- **Potential Issues and Considerations:**
+- Potential Issues and Considerations:
   - Risks of insufficient water flow causing water system contamination.
   - Introduction of Boil Water Advisory due to water quality concerns.
-- **Additional Information:**
+- Additional Information:
   - Installation of the first fire hydrant in New York City by George Smith in 1817.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Firefighting evolved from bucket brigades to more advanced methods.
   - Frederick Graff Sr. credited with inventing the above-ground fire hydrant.
   - Challenges included freezing water and design improvements.
@@ -1277,28 +1278,28 @@ Author: Emily Prokop
   - First fire hydrant installation in New York City in 1817.
 
 ### Gas Masks
-- **Evolution of Masks for Protection:**
+- Evolution of Masks for Protection:
   - Early use of sea sponge in ancient Greece to shield from fumes.
   - Invention of mask by the Banu Musa brothers in 850 AD for polluted wells.
   - Emergence of the beaked mask design during the 17th century.
   - Doctor de Lorme's creation of the beaked mask associated with hazmat suits.
-- **Parallel Development of Diving and Gas Masks:**
+- Parallel Development of Diving and Gas Masks:
   - Diving mask development paralleling gas mask advancement.
   - Lewis P. Haslett's air-purifying respirator patent in 1849.
   - Use of charcoal filters in air and water filtration.
-- **Significant Contributions and Innovations:**
+- Significant Contributions and Innovations:
   - Garrett Morgan's gas mask design for safety and rescue.
   - Mustard gas use by Germans in World War I and its impact.
   - John Scott Haldane's work on identifying and countering gas effects.
   - Incorporation of respirator tanks leading to modern respirators.
-- **Pop Culture and Practical Considerations:**
+- Pop Culture and Practical Considerations:
   - Sci-fi reference of a respirator used by a Sith Lord.
   - Recommendations for nuclear attack survival kits: NBC and CBRN-approved masks.
   - Importance of proper fit and airtight seal for gas masks.
   - Issues with facial hair and solutions to maintain a tight seal.
-- **Additional Information:**
+- Additional Information:
   - Gas masks require filter changes every three to four hours.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Masks for protection from fumes trace back to ancient Greece.
   - Beaked mask design linked to Plague Doctors developed later.
   - Diving mask and gas mask evolution run in parallel.
@@ -1307,31 +1308,31 @@ Author: Emily Prokop
   - Gas masks have a limited wear time, with filter changes needed.
 
 ### Mad Hatters
-- **Historical Use of Mercury in Hat-Making:**
+- Historical Use of Mercury in Hat-Making:
   - Mercury nitrate employed in the hat-making industry.
   - Carroting process and its origins from France to England.
   - Mercury's medical use for treating ailments like syphilis.
-- **Health Impact and Symptoms of Mercury Exposure:**
+- Health Impact and Symptoms of Mercury Exposure:
   - Symptoms of mercury exposure in patients and hat workers.
   - Development of "hatters' shakes" due to prolonged mercury exposure.
   - Association of the term "mad as a hatter" with symptoms.
-- **Danbury and "Mad as a Hatter":**
+- Danbury and "Mad as a Hatter":
   - Hat-making center in Danbury, Connecticut, with "Danbury Shakes."
   - Boston Corbett's involvement in hat industry and subsequent actions.
-- **Mercury Use Ban and Misconceptions:**
+- Mercury Use Ban and Misconceptions:
   - Prohibition of mercury use in hat making in the 1940s.
   - Misconception about the Mad Hatter character's inspiration.
-- **Lewis Carroll's Inspiration for the Mad Hatter:**
+- Lewis Carroll's Inspiration for the Mad Hatter:
   - Influence of Lewis Carroll's character creation on an eccentric.
   - Theophilus Carter's eccentricities and his association with "Mad Hatter."
   - Carroll's denial of characters based on real people, despite evidence.
-- **Ambiguity Surrounding Inspiration:**
+- Ambiguity Surrounding Inspiration:
   - Connection between Theophilus Carter and Lewis Carroll.
   - Comparisons between Carter's appearance and illustrations.
   - Uncertainty about whether Carter was the actual inspiration.
-- **Additional Information:**
+- Additional Information:
   - The phrase "mad as a hatter" predates Lewis Carroll's book.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Mercury nitrate used in hat-making industry with health risks unknown.
   - Symptoms of mercury exposure observed in patients and workers.
   - "Mad as a hatter" term linked to mercury poisoning.
@@ -1341,30 +1342,30 @@ Author: Emily Prokop
   - Theophilus Carter possibly the inspiration for the Mad Hatter, but uncertainty remains.
 
 ### The Smiley Face
-- **Origins and Creation of the Smiley Face:**
+- Origins and Creation of the Smiley Face:
   - Harvey Ross Ball's creation of the iconic smiley face.
   - Simple design with a smile and added eyes to prevent frowning.
   - Initial payment of $45 for the design's creation.
-- **Early Popularity and Adaptation:**
+- Early Popularity and Adaptation:
   - Smile face's appearance on posters, buttons, and signs.
   - The Spain brothers' involvement, adding catchphrases and copyrighting.
   - Smile face's positive impact on American morale post-Vietnam War.
-- **Global Spread and Controversies:**
+- Global Spread and Controversies:
   - Franklin Loufrani's use of the symbol in France.
   - The Smiley Company's global marketing and trademark disputes.
   - Walmart's legal battle over smiley face branding.
-- **Cultural References and Claims:**
+- Cultural References and Claims:
   - Forrest Gump's nod to the smiley face's popularity.
   - David Stern's mayoral campaign claim of inventing the smiley face.
   - Smile face's ubiquity leading to loss of meaning for Harvey Ball.
-- **Legacy and World Smile Day:**
+- Legacy and World Smile Day:
   - Creation of the World Smile Corporation by Harvey Ball.
   - Establishment of World Smile Day on the first Friday in October.
   - The Harvey Ball World Smile Foundation's charitable efforts.
-- **Conclusion and Additional Information:**
+- Conclusion and Additional Information:
   - Harvey Ball's death and ongoing use of his design by Worcester Mutual Fire Insurance.
   - Early appearance of the smiley face in the 1953 movie Lili's advertisement.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Harvey Ball designs the smiley face, paid $45 for it.
   - Smile face's popularity and adaptations, including catchphrases.
   - Global spread and trademark disputes, including Walmart's involvement.
@@ -1373,34 +1374,34 @@ Author: Emily Prokop
   - Ongoing legacy of the smiley face design and its early appearances.
 
 ### The Traffic Light
-- **Introduction and Historical Context:**
+- Introduction and Historical Context:
   - Inconvenience of traffic lights today, contrasted with their historical significance.
   - Early automobile challenges, lack of established rules, and safety issues.
   - Evolution of automobiles from the 1800s, especially with the introduction of Ford Model T.
-- **Growing Need for Traffic Control:**
+- Growing Need for Traffic Control:
   - Increase in accidents due to rising number of cars and lack of road rules.
   - Limited traffic-guiding systems like early signal outside the Houses of Parliament.
   - Need for efficient road management due to growing popularity of cars.
-- **Early Traffic Control Attempts:**
+- Early Traffic Control Attempts:
   - Development of signal box in Salt Lake City by Lester Wire.
   - First electric traffic light based on James Hoge's design in Cleveland, Ohio.
   - Influence of traffic signals on easing congestion, e.g., Dr. John A. Harriss's two-light signal.
-- **Innovations and Adoption:**
+- Innovations and Adoption:
   - Ornate signals designed by Joseph Freedlander for intersections along Fifth Avenue.
   - Invention of the three-signal traffic light by Garrett Morgan.
   - Morgan's background, education, previous inventions, and car ownership.
-- **Three-Signal Traffic Light Design:**
+- Three-Signal Traffic Light Design:
   - Inspiration for the three-signal design after witnessing an accident.
   - Patenting of the T-shaped traffic light design in 1923.
   - Sale of the patent to General Electric.
-- **Color Choices for Traffic Signals:**
+- Color Choices for Traffic Signals:
   - Theories behind the use of red and green for Stop and Go.
   - Explanation of red's visibility from a distance and green's scattering properties.
   - Utilization of yellow light's visibility for cautionary signs.
-- **Additional Information and Trivia:**
+- Additional Information and Trivia:
   - Historical context of driver's side placement in early automobiles.
   - Henry Ford's role in moving the steering wheel to the left side.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Introduction to traffic light inconvenience and historical significance.
   - Evolution of automobiles and challenges in the early 1900s.
   - Development of traffic signals and attempts at control.
@@ -1408,30 +1409,30 @@ Author: Emily Prokop
   - Color choices for traffic signals and additional trivia.
 
 ### Windshield Wipers
-- **Introduction and Historical Context:**
+- Introduction and Historical Context:
   - Importance of functional windshield wipers for safe driving in inclement weather.
   - Early challenges faced by drivers without effective windshield wipers.
-- **Mary Anderson's Invention:**
+- Mary Anderson's Invention:
   - Introduction of Mary Anderson, patent holder of early windshield wiper.
   - Anderson's observation during a streetcar ride in sleet storm.
   - Concept of a mechanism to remove debris, sketched design and patent in 1903.
   - Initial rejection and skepticism from automobile manufacturers.
-- **John Oishei and Rain Rubber:**
+- John Oishei and Rain Rubber:
   - John Oishei's accident and motivation for safer driving in rain.
   - Introduction of hand-operated Rain Rubber wipers.
   - Oishei's efforts to market the wipers despite limitations.
-- **Charlotte Bridgwood and Electric Wipers:**
+- Charlotte Bridgwood and Electric Wipers:
   - Vaudeville actress Charlotte Bridgwood's contribution to wiper development.
   - Patenting of an electric wiper system powered by car's engine.
   - Lack of recognition and compensation for Bridgwood's and Anderson's contributions.
-- **Windshield Wipers on Automobiles:**
+- Windshield Wipers on Automobiles:
   - Introduction of windshield wipers on Model T by Ford in 1913.
   - Standardization of wipers on Cadillac vehicles in 1922.
-- **Additional Information and Trivia:**
+- Additional Information and Trivia:
   - Introduction of Florence Lawrence, known as "the first movie star."
   - Lawrence's contributions to turn signals and braking signals.
   - Lack of compensation and recognition for Lawrence's innovations.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Introduction to importance of functional windshield wipers for safe driving.
   - Mary Anderson's invention of the windshield wiper mechanism.
   - John Oishei's Rain Rubber wipers and limitations.
@@ -1442,30 +1443,30 @@ Author: Emily Prokop
 ## Technology
 
 ### Caller ID
-- **Introduction:**
+- Introduction:
   - Sharing a single phone among households before widespread use of cell phones.
   - Uncertainty about callers' identities and the potential for telemarketing calls.
   - Nostalgia for the time when prank calls were common.
-- **Emergence of Caller ID:**
+- Emergence of Caller ID:
   - Theodore George Paraskevakos's development of Caller ID technology in 1968.
   - Phone companies' interest in capitalizing on the technology.
   - Dr. Shirley Ann Jackson's contributions to Caller ID, Call Waiting, and portable fax.
-- **John Harris and Caller ID Display:**
+- John Harris and Caller ID Display:
   - John Harris's idea to incorporate a screen into a telephone unit for Caller ID.
   - Collaborative effort with Kazuo Hashimoto to build the prototype.
   - Introduction of programming names and numbers into Caller ID system.
   - Additional features like personalized ringtones, call silencing, and alarms.
-- **Caller ID Adoption and Evolution:**
+- Caller ID Adoption and Evolution:
   - Early Caller ID systems appearing in households by 1984.
   - Enhancement of Caller ID with the introduction of Call Waiting in 1995.
   - Decline of landline phones and listed phone numbers due to cell phone usage.
   - Cell-to-cell calls using Caller ID less frequently, replaced by saved contacts.
-- **Current Trends and Conclusion:**
+- Current Trends and Conclusion:
   - Current ease of programming names and numbers into cell phones.
   - Mention of apps detecting spam calls.
   - Humorous reference to the "New phone, who dis?" response.
   - Note about Caller ID being a brand name but widely used generically.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Introduction of household phone sharing and uncertain caller identities.
   - Emergence of Caller ID technology by Paraskevakos and its early applications.
   - John Harris's development of Caller ID display and associated features.
@@ -1474,27 +1475,27 @@ Author: Emily Prokop
   - Note about Caller ID being a brand name but used generically.
 
 ### Kevlar
-- **Introduction:**
+- Introduction:
   - Misconception about "bulletproof" vests, their limitations, and effectiveness.
   - History of attempts to create bullet-resistant materials dating back to the 1500s.
-- **Early Innovations:**
+- Early Innovations:
   - Early armor using metal to deflect bullets, but limitations in weight and effectiveness.
   - Japan and Korea's experimentation with layered silk for bullet resistance.
   - Casimir Zeglen's quest to improve bullet-resistant clothing, using steel plate and silk layers.
   - Zeglen's live demonstration and testing of his "bulletproof cloth."
-- **Zeglen's Impact and Limitations:**
+- Zeglen's Impact and Limitations:
   - Zeglen's vest tested by the US military, found too hot and expensive.
   - Offer of the vest to President McKinley, who was shot before meeting with Zeglen.
   - Vest's potential to save McKinley revealed after his assassination.
   - Reputation impact due to inability to stop certain bullets or incidents.
-- **Innovations with Kevlar:**
+- Innovations with Kevlar:
   - Stephanie Kwolek's work at DuPont to find material to replace steel tire belting.
   - Discovery of Kevlar, its superior strength, and patenting in 1966.
   - Kevlar's initial use in police officers' protective vests and various applications.
   - Ongoing quest for bulletproof materials, including genetically-engineered Spider Silk.
-- **Interesting Fact:**
+- Interesting Fact:
   - Mention of Colombian fashion designer Miguel Caballero's stylish bulletproof clothing.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Bulletproof vests are not truly bulletproof, with historical examples.
   - Early use of silk and metal, followed by Zeglen's silk and steel design.
   - Kevlar invention by Stephanie Kwolek at DuPont for protective applications.
@@ -1502,27 +1503,27 @@ Author: Emily Prokop
   - Mention of Miguel Caballero's fashionable bulletproof clothing.
 
 ### Podcasts
-- **Introduction to Podcasting:**
+- Introduction to Podcasting:
   - Explanation of the term "podcast" and its origin from the words "iPod" and "broadcast."
   - Introduction to the term "netcast" and its coining by Leo Laporte, who prefers it.
-- **Innovations Behind Podcasting:**
+- Innovations Behind Podcasting:
   - Role of RSS feed and MP3 file in making podcasting possible.
   - RSS feed's significance in subscribing to podcasts and other content.
   - Explanation of MP3's data compression and quality preservation.
-- **Origins of Podcasting:**
+- Origins of Podcasting:
   - Adam Curry's vision of the internet as a broadcast medium.
   - Collaboration between Adam Curry and Dave Winer to utilize RSS technology for audio files.
   - Christopher Lydon as the first voice to release downloadable MP3 on an RSS feed.
   - The emergence of early podcast shows - Morning Coffee Notes and Daily Source Code.
-- **Podcasting's Impact and Growth:**
+- Podcasting's Impact and Growth:
   - Podcasting's development in response to the Iraq war.
   - Broadening scope of podcast topics and genres.
   - Growing podcast listening audience, boosted by Apple's Podcasts App in 2012.
   - The impact of shows like Serial in 2014 and grassroots growth in the industry.
-- **International Podcast Day and Interesting Fact:**
+- International Podcast Day and Interesting Fact:
   - Mention of International Podcast Day celebrated on September 30.
   - The availability of podcast versions for many book chapters in The Story Behind podcast.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Origin of the term "podcasting" from 2004, coining of the term "netcast."
   - Role of RSS feed and MP3 file in enabling podcast distribution.
   - Contribution of Adam Curry and Dave Winer to podcasting's creation.
@@ -1530,29 +1531,29 @@ Author: Emily Prokop
   - Celebration of International Podcast Day on September 30.
 
 ### Voice Recognition
-- **Early Voice Recognition:**
+- Early Voice Recognition:
   - Introduction of voice recognition in 1952 with Bell Laboratories' "Audrey" machine.
   - "Audrey's" ability to recognize spoken numbers and respond with flashing lights.
   - Continuous fine-tuning required for accurate recognition.
-- **Advancements and Department of Defense Contribution:**
+- Advancements and Department of Defense Contribution:
   - Introduction of IBM's Shoebox machine recognizing sixteen English words.
   - Defense Advanced Research Projects Agency (DARPA) and the creation of "Harpy."
   - DARPA's contribution in expanding voice recognition capabilities.
-- **Voice Recognition in Consumer Products:**
+- Voice Recognition in Consumer Products:
   - Introduction of Julie, a voice-responsive doll, despite limited technology.
   - Explanation of voice recognition process using phonemes and its limitations.
   - Introduction of Dragon Dictate and Dragon NaturallySpeaking for consumers.
   - Progressive innovations like MovieFone's voice portal (VAL) in 1996.
-- **Female Voices in Technology:**
+- Female Voices in Technology:
   - Prevalence of female voices in computer systems, navigation software, and virtual assistants.
   - Influence of movies portraying male computer voices as menacing.
   - Mention of voice-controlled software Home Automated Living (HAL).
-- **Voice Actors and Siri:**
+- Voice Actors and Siri:
   - Voice actor Susan Bennett behind the original Siri voice.
   - Siri's transition to synthesized voices and Apple's secrecy about the original voice.
-- **Interesting Fact:**
+- Interesting Fact:
   - Google search result that references WarGames and allows playing tic-tac-toe.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Early voice recognition with the "Audrey" machine recognizing numbers.
   - Advancements like IBM's Shoebox, DARPA's "Harpy," and Julie the doll.
   - Consumer software like Dragon Dictate and Dragon NaturallySpeaking.
@@ -1564,29 +1565,29 @@ Author: Emily Prokop
 ## Weapons
 
 ### Gunpowder
-- **Origins of Gunpowder:**
+- Origins of Gunpowder:
   - Chinese experiments with saltpeter (potassium nitrate) and sulfur.
   - Combination with charcoal for treating skin diseases and insect control.
   - Use of gunpowder in alchemy and its rapid combustion.
-- **Military Applications in China:**
+- Military Applications in China:
   - Chinese development of gunpowder-based weaponry.
   - Gunpowder tubes with arrows for defense against invaders.
   - Invention of cannons, grenades, and handguns.
-- **Spread to Europe and Advancements:**
+- Spread to Europe and Advancements:
   - Gunpowder's spread to Europe and the Islamic world.
   - Use of cannons during Middle Ages wars.
   - Development of handguns and infantry tactics.
-- **Guy Fawkes and Gunpowder Plot:**
+- Guy Fawkes and Gunpowder Plot:
   - Guy Fawkes Night on November 5 as a UK celebration.
   - Historical context of religious persecution in England.
   - Guy Fawkes and co-conspirators' plan to blow up Parliament.
   - Fawkes's arrest, torture, and death sentence.
   - Transformation of November 5 into a day of public Thanksgiving and bonfires.
-- **Fireworks and Celebration:**
+- Fireworks and Celebration:
   - Fireworks as part of Guy Fawkes Night celebrations.
-- **Interesting Fact:**
+- Interesting Fact:
   - Connection between King James, who commissioned the King James Bible, and the Gunpowder Plot.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Gunpowder's origin in the search for an elixir of life.
   - Chinese discovery and military applications of gunpowder.
   - Spread of gunpowder technology to Europe.
@@ -1594,26 +1595,26 @@ Author: Emily Prokop
   - Guy Fawkes Night celebration with fireworks and bonfires in the UK.
 
 ### The Revolver
-- **Origins of the Revolver:**
+- Origins of the Revolver:
   - Samuel Colt's inspiration from a ship's wheel for the revolver's design.
   - Use of clutch mechanism to create a rotating cylinder for bullet chambers.
-- **Entrepreneurial Beginnings:**
+- Entrepreneurial Beginnings:
   - Colt's financial challenges led to a street show as Dr. Coult.
   - Successful street show enabled the use of assembly-line techniques in revolver manufacturing.
   - Promotion of Colt revolvers through famous artist George Catlin's paintings and hired writers.
-- **Legacy of the Colt .45:**
+- Legacy of the Colt .45:
   - Introduction of the Colt .45 revolver, known as the Colt Single Action Army handgun.
   - Use of the Colt .45 in historic events like the Tombstone shootout.
   - Nicknames for the Colt .45: Peacemaker, Equalizer.
   - Significant figures associated with the Colt .45: Theodore Roosevelt, Wyatt Earp, Doc Holliday, Billy the Kid, Jesse James, Annie Oakley, etc.
   - Popularity boost during early cowboy movies and Western television shows.
-- **Modern Influence and Popularity:**
+- Modern Influence and Popularity:
   - Decline in popularity with the advent of double-action revolvers and semi-automatic pistols.
   - Manufacturing halt during World War II and resurgence during 1950s Westerns.
   - Association of malt liquor "Colt .45" with football player Jerry Hill, not the Peacemaker.
-- **Interesting Facts:**
+- Interesting Facts:
   - The Beatles' album "Revolver" named for spinning on a record player, not the weapon.
-- **TL;DR Summary:**
+- TL;DR Summary:
   - Samuel Colt's revolver design inspired by ship's wheel.
   - Colt's street show with laughing gas as entertainment funded revolver manufacturing.
   - Colt .45 revolver's fame through historic events and association with famous figures.

@@ -4,7 +4,6 @@ Author: Torie Bosch, Kelly Chudler
 
 ## Preface
 Author: Torie Bosch
-
 - Introduction
   - The author recounts their high school experience in the late '90s, taking a C++ coding class as the only girl.
   - They faced challenges, including lack of prior coding knowledge compared to classmates.
@@ -36,7 +35,6 @@ Author: Torie Bosch
 
 ## Introduction: Error, Failure, and Code Creation
 Author: Ellen Ullman
-
 - Willingness to Fail: Lessons from Early Programming
   - John Backus, creator of FORTRAN, emphasized that failure is inherent in coding.
   - Programmers must accept failure as a constant companion in the coding profession.
@@ -65,7 +63,6 @@ Author: Ellen Ullman
 
 ## The First Line of Code
 Author: Elena Botella
-
 - Defining Code and its Origins
   - Code is a set of instructions given to machines.
   - Early forms of code involved simple instructions for machines like light switches, levers, and buttons.
@@ -92,7 +89,6 @@ Author: Elena Botella
 
 ## Monte Carlo Algorithms: Random Numbers in Computing From the H-Bomb to Today
 Author: Benjamin Pope
-
 - Introduction
   - The first code run on the ENIAC1, a modern programmable computer, remains classified.
   - It confirmed the feasibility of a more powerful hydrogen bomb shortly after the nuclear attacks on Hiroshima and Nagasaki.
@@ -116,7 +112,6 @@ Author: Benjamin Pope
 
 ## Jean Sammet and the Code That Runs the World
 Author: Claire L. Evans
-
 - Introduction
   - Jean Sammet, born in 1928, was a proficient mathematician and a pioneer in programming.
   - Overcoming gender barriers, she entered the field of computing and became a programmer.
@@ -171,7 +166,6 @@ Author: Arthur Daemmrich
 
 ## BASIC and the Illusion of Coding Empowerment
 Author: Joy Lisi Rankin
-
 - Introduction
   - In the early 1960s, John McGeachie and Michael Busch, students at Dartmouth College, pioneered computer programming for a new network.
   - They developed the Dartmouth College Time-Sharing System (DCTSS) with teletypewriter terminals connected to a mainframe, allowing multiple users to run programs simultaneously.
@@ -197,7 +191,6 @@ Author: Joy Lisi Rankin
 
 ## The First Email: The Code That Connected Us Online
 Author: Margaret O'Mara
-
 - Introduction
   - A programming note from MIT's computer time-sharing system in the mid-1960s suggested adding a command for users to send private messages, unintentionally initiating a communication revolution.
   - The advent of all-digital computers primarily focused on calculations and lacked provisions for correspondence.
@@ -228,7 +221,6 @@ Author: Margaret O'Mara
 
 ## The Police Beat Algorithm: The Code That Launched Computational Policing and Modern Racial Profiling
 Author: Charlton McIlwain
-
 - Introduction
   - The Police Beat Algorithm (PBA) emerged in the early 1960s alongside the Black civil rights movement and the computer revolution.
   - PBA aimed to aid police departments in collecting crime data and focusing crime-fighting efforts, impacting society from the 1960s to the present.
@@ -255,7 +247,6 @@ Author: Charlton McIlwain
 
 ## "Apollo 11, Do Bailout"
 Author: Ellen R. Stofan, Nick Partridge
-
 - Introduction
   - Apollo 11's lunar module Eagle was guided by the Apollo Guidance Computer (AGC).
   - An alarm, code 1202, raised concern just minutes before the planned lunar landing.
@@ -283,7 +274,6 @@ Author: Ellen R. Stofan, Nick Partridge
 
 ## The Most Famous Comment in Unix History: "You Are Not Expected to Understand This"
 Author: David Cassel
-
 - Introduction
   - In 1975, a piece of code was written for the sixth edition of the Unix operating system.
   - It dealt with processes in time-sharing systems, where multiple users shared one central computer.
@@ -308,7 +298,6 @@ Author: David Cassel
 
 ## The Accidental Felon
 Author: Katie Hafner
-
 - Introduction
   - In 1988, the nascent Internet suffered a massive assault from a rogue program, revealing the fragility of interconnected computers.
   - Robert Tappan Morris, a Cornell University graduate student, unknowingly triggered this incident with his program.
@@ -336,7 +325,6 @@ Author: Katie Hafner
 
 ## Internet Relay Chat: From Fish-Slap to LOL
 Author: Susan C. Herring
-
 - Introduction to IRC and Virtual Performances
   - Internet Relay Chat (IRC) emerged in the late 1980s as a text chat platform on interconnected servers.
   - IRC channels were created for various topics, making it one of the earliest forms of social media.
@@ -358,7 +346,6 @@ Author: Susan C. Herring
 
 ## Hyperlink: The Idea That Led to Another, and Another, and Another
 Author: Brian McCullough
-
 - Introduction to the Linking Concept
   - Computer science divided into computers thinking for themselves and computers aiding human thought organization.
   - Ted Nelson coined "link" in Project Xanadu in the 1960s, building on Vannevar Bush's idea of associating human knowledge.
@@ -393,7 +380,6 @@ Author: Brian McCullough
 
 ## JPEG: The Unsung Hero in the Digital Revolution
 Author: Hany Farid
-
 - JPEG Compression: Enabling Efficient Data Storage
   - JPEG image format: standard compression for digital cameras, balancing file size and quality.
   - Jean-Baptiste Joseph Fourier's insights on sinusoidal representation laid foundation for digital compression.
@@ -417,7 +403,6 @@ Author: Hany Farid
 
 ## The Viral Internet Image You've Never Seen
 Author: Lily Hay Newman
-
 - Tracking Pixels: Unseen Data Collection and Marketing Power
   - Most downloaded image: transparent pixel used for data collection, tracking user activity.
   - Tracking pixels embedded in websites and emails, collecting data like IP address, browser, and operating system.
@@ -440,7 +425,6 @@ Author: Lily Hay Newman
 
 ## The Pop-Up Ad: The Code That Made the Internet Worse
 Author: Ethan Zuckerman
-
 - Origin of Pop-up Ads and User-Generated Content
   - In 1997, a line of JavaScript code introduced pop-up ads to user-generated content.
   - Created by the author at Tripod.com to address advertising challenges.
@@ -472,7 +456,6 @@ Author: Ethan Zuckerman
 
 ## Wear This Code, Go to Jail
 Author: James Grimmelmann
-
 - RSA T-shirt and Export-Control Laws
   - The RSA T-shirt bore the code for the RSA encryption algorithm in Perl.
   - The shirt was classified as a munition, prohibiting export or sharing with foreign nationals.
@@ -505,7 +488,6 @@ Author: James Grimmelmann
 
 ## Needles in the World's Biggest Haystack: The Algorithm That Ranked the Internet
 Author: John MacCormick
-
 - Google's PageRank Algorithm: Revolutionizing Web Search
   - Google's PageRank algorithm, created by Sergey Brin and Larry Page in 1998, played a crucial role in Google's rise to dominance in web search.
   - The algorithm aimed to rank search results based on their quality and authority.
@@ -536,7 +518,6 @@ Author: John MacCormick
 
 ## A Failure to Interoperate: The Lost Mars Climate Orbiter
 Author: Charles Duan
-
 - Mars Climate Orbiter: A Catastrophic Software Bug
   - The Mars Climate Orbiter's mission was to collect weather data on Mars, but it crashed due to a missing line of code.
   - The spacecraft's navigation and orientation calculations were off, leading to its loss during entry into Mars' atmosphere.
@@ -571,7 +552,6 @@ Author: Charles Duan
 
 ## The Code That Launched a Million Cat Videos
 Author: Lowen Liu
-
 - Roomba's Early Challenges and Rescuing Events
   - The Roomba robot vacuum initially faced difficulties, with sales dropping and inventory piling up.
   - A Pepsi commercial featuring the Roomba and the popularity of cat videos turned its fortunes around.
@@ -597,7 +577,6 @@ Author: Lowen Liu
 
 ## Nakamoto's Prophecy: Bitcoin and the Revolution in Trust
 Author: Quinn DuPont
-
 - Bitcoin's Emergence in Economic Crisis
   - Satoshi Nakamoto began working on Bitcoin in 2007 during economic uncertainty and banking crises.
   - Nakamoto's "Bitcoin: A Peer-to-Peer Electronic Cash System" white paper was published in 2008 amid the global economic crisis.
@@ -637,7 +616,6 @@ Author: Quinn DuPont
 
 ## The Curse of the Awesome Button
 Author: Will Oremus
-
 - Creation of the Facebook "Like" Button
   - In 2007, Facebook lacked an efficient way for users to show interest in posts beyond comments.
   - A group including Leah Pearlman, Akhil Wable, Andrew Bosworth, Justin Rosenstein, and Ezra Callahan aimed to create a universal expression of approval.
@@ -670,7 +648,6 @@ Author: Will Oremus
 
 ## The Bug No One Was Responsible For— Until Everyone Was
 Author: Josephine Wolff
-
 - Heartbleed Vulnerability and Response
   - In 2014, Colm MacCárthaigh responded to the Heartbleed vulnerability, a critical software bug affecting encryption protocols.
   - Heartbleed allowed attackers to steal sensitive data, impacting websites, services, and devices globally.
@@ -698,7 +675,6 @@ Author: Josephine Wolff
 
 ## The Volkswagen Emissions Scandal: How Digital Systems Can Be Used to Cheat
 Author: Lee Vinsel
-
 - Volkswagen Emissions Scandal: Misleading and Cheating
   - In 2015, Volkswagen was exposed for using software to manipulate air pollution tests, emitting harmful nitrogen oxide far beyond legal limits.
   - The scandal shattered VW's green image, highlighting their diesel vehicles' false eco-friendly claims.
@@ -727,7 +703,6 @@ Author: Lee Vinsel
 
 ## The Code That Brought a Language Online
 Author: Syeda Gulshan Ferdous Jana
-
 - Bangladesh's Online Revolution: Empowerment and Challenges
   - In 2005, a series of terror attacks in Bangladesh highlighted the need for real-time, reliable information dissemination.
   - A team created a citizen media platform called "Somewhere in …" to address the need for dynamic online updates during crises.
@@ -762,7 +737,6 @@ Author: Syeda Gulshan Ferdous Jana
 
 ## Telegram: The Platform That Became "The Internet" in Iran
 Author: Mahsa Alimardani, Afsaneh Rigot
-
 - Telegram's Impact and Challenges in Iran
   - Iranian authorities view the Internet as a security threat, leading to censorship and control measures.
   - Telegram, a messaging and social media app, highlights Iran's complex relationship with online technologies.
@@ -793,7 +767,6 @@ Author: Mahsa Alimardani, Afsaneh Rigot
 
 ## Encoding Gender
 Author: Meredith Broussard
-
 - Gender Identity and Computer Systems: Challenges and Progress
   - The case of Jonathan Ferguson's gender transition in 1958 highlights how gender registration was simpler then.
   - Despite advances in gender concepts and LGBTQIA+ rights, many computer systems still encode gender as binary.

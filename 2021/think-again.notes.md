@@ -1,3 +1,4 @@
+
 # Think Again
 Author: Adam Grant
 
@@ -50,6 +51,7 @@ Author: Adam Grant
   - Wisdom in letting go of treasured tools and identities for growth.
 
 ## Individual Rethinking: Updating Our Own Views
+
 ### A Preacher, a Prosecutor, a Politician, and a Scientist Walk Into Your Mind
 - Introduction: The Importance of Rethinking
   - Progress requires change and open-mindedness.
@@ -198,6 +200,7 @@ Author: Adam Grant
   - The beauty of task conflict propelling thinking forward.
 
 ## Interpersonal Rethinking: Opening Other People’s Minds
+
 ### Dances With Foes: How to Win Debates and Influence People
 - Harish's Debate Techniques:
   - Harish's success in debates attributed to his strategic approach.
@@ -298,6 +301,7 @@ Author: Adam Grant
   - While the goal of changing minds may be important, the ethical means by which change is achieved are equally significant.
 
 ## Collective Rethinking: Creating Communities of Lifelong Learners
+
 ### Charged Conversations: Depolarizing Our Divided Discussions
 - Complexity in Conversations:
   - Introduction to the Difficult Conversations Lab at Columbia University.
@@ -413,6 +417,7 @@ Author: Adam Grant
   - Learning from mistakes and reevaluating decisions is essential for creating safer and more innovative organizations.
 
 ## Conclusion
+
 ### Escaping Tunnel Vision: Reconsidering Our Best-Laid Career and Life Plans
 - Rethinking and Adapting Life Plans
   - People often struggle with their life plans, facing malaise or feeling aimless.
@@ -474,6 +479,7 @@ Author: Adam Grant
   - Curiosity about agreement and willingness to consider counterarguments.
 
 ## Actions for Impact
+
 ### Individual Rethinking
 - Develop Habit of Rethinking
   - Think scientifically: Treat opinions as hypotheses and test with data.

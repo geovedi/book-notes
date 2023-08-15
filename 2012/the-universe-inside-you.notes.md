@@ -1,6 +1,6 @@
+
 # The Universe Inside You
 Author: Brian Clegg
-
 
 ## In The Mirror
 - Introduction
@@ -24,7 +24,6 @@ Author: Brian Clegg
 - Exploration
   - Start exploring the universe with an unusual body part.
   - Investigate a human hair.
-
 
 ## A Single Hair
 - Atoms and Their Origins:
@@ -52,7 +51,6 @@ Author: Brian Clegg
   - Your hair contains atoms with origins dating back to the Big Bang, making you a part of the universe's story.
 - Signs of Life:
   - The discussion shifts towards blood and its significance as a sign of life.
-
 
 ## Locked up in a Cell
 - Introduction to Bacteria and Microorganisms:
@@ -91,7 +89,6 @@ Author: Brian Clegg
 - Role of Light in Exploration:
   - Light is a fundamental tool in both medical imaging and astronomy, enabling us to explore the human body and the universe.
 
-
 ## Through Fresh Eyes
 - Big Bang and Cosmic Background Radiation
   - The Big Bang is the best-supported scientific theory explaining the universe's beginning.
@@ -128,7 +125,6 @@ Author: Brian Clegg
   - Earth is fairly isolated, and contact with extraterrestrial life remains uncertain.
   - Humanity has observed photons from various cosmic sources, connecting the universe to Earth.
 
-
 ## Marching on The Stomach
 - Historical Pain Relief:
   - Willow bark was used to treat headaches, fevers, and inflammations in ancient times.
@@ -164,7 +160,6 @@ Author: Brian Clegg
   - Standing as a capability to be tested in a theme park.
   - Transition to the next destination in the discussion.
 
-
 ## Feeling Dizzy
 - Four Fundamental Forces of Nature:
   - Gravity: Attracts objects with mass.
@@ -196,7 +191,6 @@ Author: Brian Clegg
   - Rollercoaster Effects on Asthma: Positive emotional stress reduces perception of shortness of breath.
   - Asthma Sufferers' Response: Thrill-seeking behavior might benefit asthma sufferers.
 
-
 ## Two by Two
 - Physics vs. Biology:
   - Physics provides explanatory insights, while biology was initially focused on cataloging.
@@ -226,7 +220,6 @@ Author: Brian Clegg
 - Genetics of Human Attraction:
   - Human attraction has a genetic and brain basis, beyond just a visceral response.
 
-
 ## Crowning Glory
 - Human decision-making:
   - Humans often prioritize short-term gains over long-term benefits in decisions.
@@ -255,7 +248,6 @@ Author: Brian Clegg
 - Evolution and interconnectedness of brain and body:
   - Human brain's role in decision-making and pain management evolved over generations.
   - Complex relationship between brain, body, and environment.
-
 
 ## Mirror, Mirror
 - Mirror Reflection and Ancestry

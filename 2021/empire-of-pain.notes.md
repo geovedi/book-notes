@@ -1,3 +1,4 @@
+
 # Empire of Pain
 Author: Patrick Radden Keefe
 
@@ -33,6 +34,7 @@ Author: Patrick Radden Keefe
   - Transition from a small family business to a major pharmaceutical player.
 
 ## Patriarch
+
 ### A Good Name
 - Early Life and Education:
   - Arthur Sackler born in Brooklyn in 1913 to immigrant parents.
@@ -318,6 +320,7 @@ Author: Patrick Radden Keefe
   - The legacy of Arthur Sackler was seen as ongoing, though he had passed away prematurely.
 
 ## Dynasty
+
 ### Apollo
 - Introduction
   - Richard Kapit's encounter with the Sackler family in 1964 during his freshman year at Columbia University.
@@ -612,6 +615,7 @@ Author: Patrick Radden Keefe
   - The dismissive attitude of Sackler towards the document and the implication of his involvement.
 
 ## Legacy
+
 ### Turks
 - Purdue Pharma and Legal Challenges:
   - Purdue Pharma faced private lawsuits related to OxyContin and spent significant money to defend against them.

@@ -1,7 +1,9 @@
+
 # Your Brain Is a Time Machine
 Author: Dean Buonomano
 
 ## Brain Time
+
 ### 1:00 Flavors of Time
 - Introduction: The Complexity of Time
   - Time is a fundamental concept in human life, with its significance highlighted by the fact that even those who possess nothing else still possess time.
@@ -206,6 +208,7 @@ Author: Dean Buonomano
   - Identifying specific neurons responsible for timing is challenging, as timing is an inherent property of the brain's evolution.
 
 ## The Physical and Mental Nature of Time
+
 ### 7:00 Keeping Time
 - Coordinating Time and Inventions:
   - Coordinating time was essential due to railroads, telegraphs, and financial businesses.

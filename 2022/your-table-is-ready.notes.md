@@ -254,4 +254,3 @@ Author: Michael Cecchi-Azzolina
   - Despite the challenges, the protagonist acknowledges their love for the restaurant industry.
   - They feel compelled to return and feed their addiction to the business.
   - Determination to succeed and the joy of welcoming guests back to their table is emphasized.
-

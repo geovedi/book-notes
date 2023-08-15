@@ -1,3 +1,4 @@
+
 # Confidence Man
 Author: Maggie Haberman
 
@@ -947,4 +948,3 @@ Author: Maggie Haberman
   - Trump recognized his use of repetition to emphasize points in written interviews.
   - His affinity for venting and seeking reactions led him to view others as his psychiatrists.
   - Trump's opaque nature allowed people to read meaning into his actions, even if they were empty.
-

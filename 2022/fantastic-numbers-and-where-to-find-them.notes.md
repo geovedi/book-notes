@@ -1,3 +1,4 @@
+
 # Fantastic Numbers and Where to Find Them
 Author: Antonio Padilla
 
@@ -44,7 +45,9 @@ Author: Antonio Padilla
   - Mention of black hole singularities and the moment of the Big Bang.
 
 ## Big Numbers
+
 ### 1.000000000000000858
+
 #### A Bolt of Relativity
 - Introduction
   - Explanation of the concept of time dilation using Usain Bolt's scenario.
@@ -142,6 +145,7 @@ Author: Antonio Padilla
   - A glimpse into entropy and quantum mechanics lies ahead.
 
 ### A Googol
+
 #### The Tales of Gerard Grant
 - Introduction: The Unexpected in Physics and Mathematics
   - Childhood stories of ghostly encounters and doppelgängers.
@@ -203,6 +207,7 @@ Author: Antonio Padilla
   - The quest for a doppelgänger becomes a quantum quest due to the fundamental nature of the universe and individuals.
 
 ### A Googolplex
+
 #### The Quantum Sorcerer
 - Introduction: Quantum Mechanics and Atom's Behavior
   - Max Planck and Rutherford's atomic model
@@ -273,6 +278,7 @@ Author: Antonio Padilla
   - Formation of vast cosmic realms and potential for doppelgängers
 
 ### Graham's Number
+
 #### Black Hole Head Death
 - Introduction
   - The TV show "Think of a Number" hosted by Johnny Ball on the BBC was educational and fun.
@@ -358,6 +364,7 @@ Author: Antonio Padilla
   - Implies that in such a multiverse, Graham's number might find a home.
 
 ### Tree(3)
+
 #### The Game of Trees
 - The Longest Tennis Match and Introduction to the Game of Trees
   - Description of the historic tennis match between Mahut and Isner.
@@ -481,7 +488,9 @@ Author: Antonio Padilla
   - Reflection on the existence of self, family, friends, and the book itself.
 
 ## Little Numbers
+
 ### Zero
+
 #### A Beautiful Number
 - Introduction
   - Excitement about Liverpool Football Club's remarkable performance in the Premier League.
@@ -610,6 +619,7 @@ Author: Antonio Padilla
   - Mentioning mysteries in the world of fundamental particles and the universe's origin.
 
 ### 0.0000000000000001
+
 #### The Unexpected Higgs Boson
 - Discovery of the Higgs Boson and its Unexpected Properties:
   - On July 4, 2012, CERN announced the discovery of a new particle, believed to be the Higgs boson.
@@ -764,6 +774,7 @@ Author: Antonio Padilla
   - The Higgs remains a unique case, still waiting for a conclusive explanation.
 
 ### 10^–120
+
 #### An Embarrassing Number
 - Dining with Stern and Pauli:
   - Stern and Pauli are having a discussion in Hamburg's Haerlin restaurant in the 1920s.
@@ -903,7 +914,9 @@ Author: Antonio Padilla
   - The ongoing pursuit of understanding and pushing the boundaries of physics.
 
 ## Infinity
+
 ### Infinity
+
 #### The Infinite Gods
 - Introduction and Cantor's Struggles
   - Georg Cantor's later life marked by mental illness, tragedy, and exhaustion.

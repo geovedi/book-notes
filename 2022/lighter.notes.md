@@ -2,7 +2,6 @@
 # Lighter
 Author: Yung Pueblo
 
-
 ## Introduction: My Story
 - Introduction
   - The author reflects on a moment of crisis when they realized they had veered from their potential due to drug use and avoidance of inner sadness.
@@ -512,4 +511,3 @@ Author: Yung Pueblo
   - Importance of supportive communities for healing.
   - Balancing contribution to a better world without exhaustion.
   - Recognizing personal growth and celebrating victories.
-

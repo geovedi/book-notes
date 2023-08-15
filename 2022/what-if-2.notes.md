@@ -1,3 +1,4 @@
+
 # What If? 2
 Author: Randall Munroe
 
@@ -1499,4 +1500,3 @@ Author: Randall Munroe
   - Describing the potential outcomes of elevated CO2 levels.
   - Possibility of a runaway greenhouse effect and extreme global warming.
   - Potential for Earth to become a scorched, lifeless planet like Venus.
-

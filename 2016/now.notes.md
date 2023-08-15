@@ -1,3 +1,4 @@
+
 # Now
 Author: Richard A. Muller
 
@@ -48,6 +49,7 @@ Author: Richard A. Muller
   - The book aims to assemble the jigsaw puzzle of understanding "now."
 
 ## Amazing Time
+
 ### The Entangled Enigma
 - Introduction to the Mystery of Time:
   - Philosophers and physics' progress in understanding time.
@@ -301,6 +303,7 @@ Author: Richard A. Muller
   - Continuing mysteries and speculations in the realm of black holes.
 
 ## Broken Arrow
+
 ### An Arrow of Confusion
 - Eddington's Exploration of Time:
   - Einstein's progress in understanding time but not its movement.
@@ -647,6 +650,7 @@ Author: Richard A. Muller
   - Flow of time could be seen as the creation of new time along with new space.
 
 ## Spooky Physics
+
 ### A Cat Both Dead and Alive
 - Introduction to Quantum Physics:
   - Quantum physics emerged as a revolutionary development after relativity theory.
@@ -779,6 +783,7 @@ Author: Richard A. Muller
   - False assumptions for other particles like the proton.
 
 ## Physics and Reality
+
 ### Beyond Physics
 - Introduction
    - Meaningful but not experimentally measurable knowledge
@@ -888,6 +893,7 @@ Author: Richard A. Muller
     - Brief note on the mathematical flaw in Mill's concept of maximizing variables.
 
 ## Now
+
 ### The 4D Big Bang
 - Introduction to Time and Philosophy
   - Quotes from pop culture reflecting the complexity of time.

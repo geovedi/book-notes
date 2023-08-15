@@ -1,3 +1,4 @@
+
 # Fear
 Author: Thich Nhat Hanh
 
@@ -621,4 +622,3 @@ Author: Thich Nhat Hanh
 - Essence of Art and Mindfulness:
   - Develop mindfulness as the essence of art.
   - Mindfulness is the foundation for creating happiness and love.
-

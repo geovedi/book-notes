@@ -1,3 +1,4 @@
+
 # River of the Gods
 Author: Candice Millard
 
@@ -655,4 +656,3 @@ Author: Candice Millard
   - Richard Burton's wife, Isabel, faced challenges after his death.
   - She sought to protect his legacy and save his soul through religious beliefs.
   - Isabel's agonizing decision to burn Burton's final work, "The Scented Garden," to save his soul.
-

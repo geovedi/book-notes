@@ -1,3 +1,4 @@
+
 # The Premonition
 Author: Michael Lewis
 
@@ -452,4 +453,3 @@ Author: Michael Lewis
   - Charity Dean reflects on her interactions with Jerry, a patient and alcoholic.
   - She regrets not being fully honest with Jerry about her own struggles.
   - Dean feels she left something unsaid and incomplete, leading her to take a symbolic action.
-

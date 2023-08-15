@@ -1,3 +1,4 @@
+
 # The Price of Time
 Author: Edward Chancellor
 
@@ -28,6 +29,7 @@ Author: Edward Chancellor
   - Interest's effects extend to income and wealth distribution, foreign exchange, and influencing financial behavior.
 
 ## Of Historical Interest
+
 ### Babylonian Birth
 - Ancient Origins and Evolution of Interest:
   - Interest has been a fundamental aspect of economic systems throughout history.
@@ -189,6 +191,7 @@ Author: Edward Chancellor
   - Bernanke's commitment was put to the test during the 2008 financial crisis, where he took measures to prevent a similar catastrophe.
 
 ## How Low Rates Begot Lower Rates
+
 ### Goodhart's Law
 - Inflation Targeting and Central Bank Policy
   - The pursuit of inflation targeting as a policy strategy by central banks became widespread in the 1990s, with the aim of achieving price stability and controlling inflation.
@@ -471,6 +474,7 @@ Author: Edward Chancellor
   - Historical perspectives on interest rates and skepticism toward negative rates.
 
 ## The Game of Marbles
+
 ### The Mother and Father of All Evil
 - Introduction: The Dollar Standard and Interest Rates
   - The US dollar became the global reserve currency after the collapse of the Bretton Woods system in 1971.
@@ -596,4 +600,3 @@ Author: Edward Chancellor
 - Digital Gold Standard:
   - The idea of a digital Gold Standard as a potential solution
   - Advantages of a digital Gold Standard, including market-guided interest rates
-

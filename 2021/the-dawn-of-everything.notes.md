@@ -1,3 +1,4 @@
+
 # The Dawn of Everything
 Author: David Graeber, David Wengrow
 
@@ -364,4 +365,3 @@ Author: David Graeber, David Wengrow
   - Mythic structures of history no longer fit current evidence.
   - Change in knowledge often comes as older proponents die off.
   - Awareness of existing myths and their influence on research.
-

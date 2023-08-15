@@ -1,3 +1,4 @@
+
 # For Blood and Money
 Author: Nathan Vardi
 
@@ -613,4 +614,3 @@ Author: Nathan Vardi
   - Biotech market enthusiasm declined after the COVID-19 vaccine hype, impacting investor interest.
   - Duggan's Kartos Therapeutics explored new cancer treatments, and Rothbaum's Telios Pharma combined BTK inhibitors with other drugs for potential therapies.
   - Hamdy, Izumi, and John Byrd formed Vincerx Pharma to pursue new opportunities in the biotech field.
-

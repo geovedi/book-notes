@@ -1,3 +1,4 @@
+
 # What Happened to You?
 Author: Oprah Winfrey, Bruce D. Perry
 
@@ -27,7 +28,7 @@ Author: Oprah Winfrey, Bruce D. Perry
   - The narrator introduces the phrase "What happened to you?" as a shift in perspective that acknowledges the impact of past experiences on current behavior.
   - The phrase encourages understanding and empathy for others' experiences.
   - The importance of asking this question in fostering healing and growth is emphasized.
-- Collaborative Book: 
+- Collaborative Book:
   - Oprah and Dr. Bruce Perry's collaboration on the book is mentioned.
   - The book aims to use conversations and stories to explain the science behind trauma and development.
   - The book serves as a comprehensive guide for understanding trauma and its effects.
@@ -394,4 +395,3 @@ Author: Oprah Winfrey, Bruce D. Perry
   - Turning trauma into post-traumatic wisdom.
   - Embracing the strength built through adversity.
   - Understanding that everything happened for personal growth.
-

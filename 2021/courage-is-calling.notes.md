@@ -1,3 +1,4 @@
+
 # Courage Is Calling
 Author: Ryan Holiday
 
@@ -61,6 +62,7 @@ Author: Ryan Holiday
   - Courage empowers individuals to overcome challenges and contribute positively to the world.
 
 ## Fear
+
 ### The Call We Fear...
 - Childhood Independence:
   - Florence Nightingale exhibited fearless independence as a child.
@@ -672,6 +674,7 @@ Author: Ryan Holiday
   - Courage is the path to what we want and what the world needs.
 
 ## Courage
+
 ### The Call We Answer...
 - De Gaulle's Courageous Actions
   - Charles de Gaulle saved France by refusing to surrender to Germany.
@@ -1455,6 +1458,7 @@ Author: Ryan Holiday
   - Recognizing and wrestling with heroism's meaning.
 
 ## The Heroic
+
 ### Going Beyond the Call...
 - Setting the Stage: Greeks vs. Persians
   - Xerxes' invasion of Greece and motivation.

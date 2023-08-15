@@ -1,3 +1,4 @@
+
 # Good Inside
 Author: Becky Kennedy
 
@@ -46,6 +47,7 @@ Author: Becky Kennedy
   - Balancing these aspects leads to improved behavior, a strengthened parent-child bond, and a more peaceful home.
 
 ## Dr. Becky's Parenting Principles
+
 ### Good Inside
 - The Assumption of Internal Goodness:
   - Dr. Becky asserts that both parents and children are inherently good inside, at their core.
@@ -98,16 +100,16 @@ Author: Becky Kennedy
   - Acknowledging both parents' and children's experiences as valid and real.
   - Using the approach to navigate conflicts, boundaries, and communication.
 - Examples of Applying the Approach:
-  1. Holding Boundaries Amid Protest:
+  - Holding Boundaries Amid Protest:
      - Balancing firm decisions with validating children's feelings.
      - Acknowledging both the decision and the child's emotional response.
-  2. Getting Out of Power Struggles:
+  - Getting Out of Power Struggles:
      - Transitioning from a me-versus-you mindset to a problem-solving, me-and-you mentality.
      - Recognizing the importance of feeling seen in resolving conflicts.
-  3. Responding to Child's Rudeness:
+  - Responding to Child's Rudeness:
      - Understanding that rude behavior stems from dysregulated feelings.
      - Validating the child's underlying emotions while addressing inappropriate behavior.
-  4. Coping with Negative Self-Talk:
+  - Coping with Negative Self-Talk:
      - Countering guilt and shame with the affirmation that "Two things are true: I am having a hard time, and I am a good parent."
 - Embracing Complexity for Healthier Parenting:
   - Encouraging a mindset that allows for multiple, seemingly contradictory thoughts and emotions.
@@ -324,19 +326,19 @@ Author: Becky Kennedy
   - Children rely on adults to neutralize perceived threats and provide a sense of safety.
   - Even difficult truths can be manageable if communicated with a caring, supportive presence.
 - Methods of Truth-Telling:
-  1. Confirming Perceptions:
+  - Confirming Perceptions:
      - Validate children's perceptions of changes or events.
      - Affirm their noticing and acknowledge their feelings.
      - Help children develop stories to understand and cope with changes.
-  2. Honoring Children's Questions:
+  - Honoring Children's Questions:
      - Children's questions indicate readiness to learn and process complex topics.
      - Skirting around questions or assuming children aren't ready may lead to self-doubt.
      - Address questions honestly, offering simple explanations and emotional support.
-  3. Labeling What You Don't Know:
+  - Labeling What You Don't Know:
      - Sometimes parents lack answers to children's questions.
      - Communicate what you don't know, while reinforcing your presence and support.
      - Focus on being there for the child in the present moment, even when answers are unavailable.
-  4. Focusing on the How:
+  - Focusing on the How:
      - Delivery and presence matter more than specific wording.
      - Pace, tone, and attention to the child's emotions are impactful.
      - Preparing children for tough conversations and checking in with them during and after are essential.
@@ -365,28 +367,29 @@ Author: Becky Kennedy
   - Acknowledging the discomfort of change as evidence of growth.
   - Reframing self-care as an opportunity for personal growth alongside parenting.
 - Effective Self-Care Strategies:
-  1. Breathing:
+  - Breathing:
      - Deep breathing as a grounding technique to access coping strategies.
      - Importance of diaphragmatic or "belly" breathing for calming.
      - Technique of "hot cocoa breaths" for calming down.
-  2. Acknowledge, Validate, Permit (AVP):
+  - Acknowledge, Validate, Permit (AVP):
      - Avoiding emotions worsens distress; acceptance is key.
      - Steps of acknowledging, validating, and permitting emotions.
      - Self-regulation facilitated by allowing discomfort.
-  3. Getting Your Needs Met and Tolerating Distress:
+  - Getting Your Needs Met and Tolerating Distress:
      - Shifting from avoiding discomfort to asserting oneself.
      - Recognizing others' distress without sacrificing one's needs.
      - Differentiating between cooperation and approval from others.
-  4. Starting Small: One Thing for Myself:
+  - Starting Small: One Thing for Myself:
      - Starting with manageable self-care activities.
      - Building self-prioritization muscle gradually.
      - Importance of keeping promises to oneself.
-  5. Repair and Self-Compassion:
+  - Repair and Self-Compassion:
      - Acknowledging that mistakes are part of growth.
      - Practice of self-repair and self-compassion.
      - Parenting as a cycle-breaker, aiming for positive change.
 
 ## Building Connection and Addressing Behaviors
+
 ### Building Connection Capital
 - Importance of Problem Solving and Repair:
   - When someone helps another person with problem-solving, it strengthens their own problem-solving abilities.
@@ -402,13 +405,13 @@ Author: Becky Kennedy
   - Repairing goes beyond apologizing; it aims to reestablish connection after someone feels hurt or misunderstood.
   - Healthy relationships are defined by their ability to repair and deepen connections.
 - Components of Effective Repair:
-  1. Reflection:
+  - Reflection:
      - Share thoughts about the situation, showing active consideration.
-  2. Acknowledgment:
+  - Acknowledgment:
      - Recognize the other person's feelings and experiences.
-  3. Taking Responsibility:
+  - Taking Responsibility:
      - Express what could have been done differently and take ownership of actions.
-  4. Curiosity and Connection:
+  - Curiosity and Connection:
      - Show interest in the other person's perspective, forging closeness.
 - Benefits of Changing the Ending:
   - Repairing changes the narrative from negative to positive in memories.
@@ -1009,4 +1012,3 @@ Author: Becky Kennedy
   - Angie uses containment first when Maura escalates into a meltdown.
   - Angie reassures Maura that she's a good kid having a hard time and stays present.
   - After calming down, Angie plays the Thumbs Up/Down/to the Side game with Maura to discuss feelings.
-

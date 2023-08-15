@@ -1,3 +1,4 @@
+
 # The Light We Carry
 Author: Michelle Obama
 
@@ -27,36 +28,29 @@ Author: Michelle Obama
   - The importance of collective effort in overcoming challenges is emphasized.
 
 ## The Power of Small
-The Weight of Responsibility
 - Students in Chicago expressed worries about larger issues and feeling guilty for not doing more.
 - They carried heavy burdens of fixing societal problems, feeling helpless, and even feeling ashamed for feeling paralyzed.
 - Many people, especially young individuals, express a desire to make a difference and change the world urgently.
-Balancing Mental Health and Ambition
 - The pursuit of changing the world and making a difference often clashes with maintaining good mental health.
 - Mental health issues can arise due to the pressure of pursuing big dreams.
 - Mental health plays a vital role in achieving balance and overall wellness.
 - It's important to pay attention to signals from both the body and mind and seek help if struggling.
-Progress and Change
 - Breaking down monumental goals into smaller tasks can prevent feeling overwhelmed and futile.
 - Prioritizing achievable steps helps sustain energy and broaden possibilities.
 - Significant change often takes time, so pacing oneself is crucial.
 - Both small and large efforts contribute to progress and success.
-Celebrating Small Victories
 - Celebrating minor accomplishments is important and meaningful.
 - Happiness and well-being contribute to taking action on larger social issues.
 - Recognizing the incremental nature of change is essential.
 - Small victories accumulate, leading to greater impact and action.
-Balance and Mutual Support
 - The "three sisters" method of planting represents the balance of different elements working together.
 - Sharing benefits and protection within the community is crucial for balance.
 - Recognizing personal imbalances and seeking tools to restore equilibrium is key.
 - Small actions and practices can help untangle larger problems and feed well-being.
-The Power of Starting Small
 - Starting with small changes can lead to greater action and impact.
 - Success in smaller tasks often fosters confidence and motivation.
 - Incremental steps can lead to progress and growth.
 - Faith and patience are necessary when starting something new.
-Knitting Life's Patterns
 - Knitting serves as a metaphor for tackling challenges step by step.
 - Faith is practiced in small ways, leading to bigger outcomes.
 - Effort and patience gradually reveal patterns and answers.
@@ -340,4 +334,3 @@ Knitting Life's Patterns
   - Embracing the commitment of "Going high" as a meaningful choice.
   - Importance of embodying the motto, not just repeating it.
   - Encouragement to stay faithful, empathetic, and diligent.
-

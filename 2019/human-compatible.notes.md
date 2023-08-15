@@ -1,3 +1,4 @@
+
 # Human Compatible
 Author: Stuart Russell
 
@@ -417,6 +418,7 @@ Author: Stuart Russell
   - Anticipation of challenges with increasingly intelligent and impactful AI systems.
 
 ## How Might Ai Progress in the Future?
+
 ### The Near Future
 - AI Breakthroughs: Perception vs Reality
   - Deep Blue's victory over Kasparov in chess seen as a massive breakthrough.
@@ -986,8 +988,8 @@ Author: Stuart Russell
   - The example of a worker in an online-shopping fulfillment warehouse illustrates the potential loss of human autonomy and role elimination.
 
 ## Overly Intelligent AI
-### The Gorilla Problem
 
+### The Gorilla Problem
 - The Gorilla Problem and Superintelligent Machines
   - Concerns arise from the idea of machines surpassing human intelligence.
   - The "gorilla problem" highlights the dilemma of maintaining human supremacy in a world with superior machines.
@@ -1166,8 +1168,7 @@ Author: Stuart Russell
   - Accusing experts like Turing, Wiener, Minsky, Musk, and Gates of Luddism misinterprets the nature of concerns.
   - The accusation of Luddism is a misunderstanding, similar to accusing nuclear engineers of opposing nuclear control.
   - The notion of Luddism seems rooted in tribalism and defense of technological progress.
-
-  ### Deflection
+### Deflection
 - Acceptance of Risks with Inaction Arguments
   - Some commentators acknowledge real risks but propose arguments for not taking action.
 - Impossibility of Action Argument

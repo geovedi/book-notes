@@ -1,3 +1,4 @@
+
 # The Age of AI
 Author: Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher
 
@@ -284,4 +285,3 @@ Author: Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher
 - Conclusion
   - The profound impact of AI necessitates collaboration across various sectors of society.
   - A guiding ethic for the partnership between humans and AI is crucial for shaping the AI-driven reality.
-

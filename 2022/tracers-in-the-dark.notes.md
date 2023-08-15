@@ -1,3 +1,4 @@
+
 # Tracers in the Dark
 Author: Andy Greenberg
 
@@ -23,6 +24,7 @@ Author: Andy Greenberg
   - The reality of the situation hits Janczewski as he contemplates the potential consequences for the family.
 
 ## Men With No Names
+
 ### Eladio Guzman Fuentes
 - Bitcoin Transaction and Investigation Origins:
   - In September 2013, 525 bitcoins were moved, valued at around $70,000 initially but now worth over $15 million.
@@ -382,6 +384,7 @@ Author: Andy Greenberg
   - His legacy is cemented as the creator of Silk Road and the pioneer of the dark web black market using Bitcoin.
 
 ## Tracer for Hire
+
 ### Collapse
 - Initial Meeting and Mission
   - In Tokyo, Michael Gronager and Jesse Powell, ex-Kraken employees, are approached to track stolen bitcoins from Mt. Gox.
@@ -632,6 +635,7 @@ Author: Andy Greenberg
     - Gronager finds satisfaction in contributing to building a transparent Bitcoin system and creating an influential company.
 
 ## AlphaBay
+
 ### Alpha02
 - Robert Miller's Career Shift
   - Aspiring SWAT Agent
@@ -1129,6 +1133,7 @@ Author: Andy Greenberg
   - Levin jokingly suggested that Gambaryan and his team travel to South Korea to arrest the CSAM site's administrator.
 
 ## Welcome to Video
+
 ### Five Characters
 - Introduction: Chainalysis's Involvement in Dark Web Investigations
   - Chainalysis's Jonathan Levin visited the U.K.'s National Crime Agency to discuss collaborations and learn about ongoing cases.
@@ -1327,6 +1332,7 @@ Author: Andy Greenberg
   - The investigation's success and impact were recognized publicly, highlighting the significance of following the money and blockchain's potential.
 
 ## The Next Round
+
 ### Open Season
 - Continued Success in Digital Investigations
   - After the AlphaBay and Welcome to Video cases, IRS-CI's computer crimes unit excelled in digital follow-the-money detective work.

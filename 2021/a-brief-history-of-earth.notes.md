@@ -1,3 +1,4 @@
+
 # A Brief History of Earth
 Author: Andrew H. Knoll
 
@@ -329,4 +330,3 @@ Author: Andrew H. Knoll
   - The legacy of Earth's history and its connection to the present.
   - Unique ability of humans to comprehend and shape the future.
   - Emphasis on the responsibility to preserve and improve the world for generations to come.
-

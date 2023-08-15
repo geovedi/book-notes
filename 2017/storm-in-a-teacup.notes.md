@@ -1,3 +1,4 @@
+
 # Storm in a Teacup
 Author: Helen Czerski
 
@@ -316,4 +317,3 @@ Author: Helen Czerski
   - Humanity resides between cosmic and terrestrial scales, observing patterns.
 - Reflection and Summary
   - The narrator contemplates the complexity of the universe, reflected even in a teacup.
-

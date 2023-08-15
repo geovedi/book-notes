@@ -1,3 +1,4 @@
+
 # Chatter
 Author: Ethan Kross
 
@@ -122,32 +123,32 @@ Author: Ethan Kross
   - Finding a solution by saying one's own name.
 
 ## When I Become You
-- Section 1: Introduction
+- Introduction
   - Experiment on language and emotion involving public speaking.
   - Use of non-first-person language to manage inner voice in stressful situations.
   - Introduction to the concept of distanced self-talk.
-- Section 2: The Power of Distanced Self-Talk
+- The Power of Distanced Self-Talk
   - Using own name and second/third person for emotional distance.
   - Reduction of shame, embarrassment, and rumination with distanced self-talk.
   - Improved performance and emotional response observed in participants.
   - Distanced self-talk's role in better first impressions, problem-solving, and wise reasoning.
-- Section 3: Distanced Self-Talk and Emotional Control
+- Distanced Self-Talk and Emotional Control
   - Distanced self-talk's role in coping with challenges and adversity.
   - Reduction of protective tendencies when using distanced self-talk.
   - Influence of language on stress appraisal: challenge vs. threat mindset.
-- Section 4: The Universal "You"
+- The Universal "You"
   - Introduction to the concept of "generic 'you'" or "universal 'you'".
   - Using "you" to talk about norms that apply to everyone.
   - Universal "you" to make sense of negative experiences and connect to general life aspects.
-- Section 5: Sandberg's Example and the Universal "You"
+- Sandberg's Example and the Universal "You"
   - Sheryl Sandberg's use of universal "you" after her husband's death.
   - Universal "you" to frame difficult experiences as universal and normal.
   - Importance of the perspective gained from normalizations in language.
-- Section 6: Personal Transformation with Distanced Self-Talk
+- Personal Transformation with Distanced Self-Talk
   - Author's personal experience with distressing letter and rumination.
   - Distanced self-talk's transformation of managing inner chatter.
   - Contrast between supportive conversations and the impact of distanced self-talk.
-- Section 7: The Role of Others in Managing Inner Chatter
+- The Role of Others in Managing Inner Chatter
   - Recognizing the value and limitations of support from others.
   - Inner voice's impact on how others' advice and support affect us.
   - The complex interplay between internal and external sources of help.
@@ -189,46 +190,46 @@ Author: Ethan Kross
   - Utilizing resources in relationships and surroundings for chatter improvement.
 
 ## Outside In
-- Section: Introduction and Background
+- Introduction and Background
   - Introduction to Suzanne Bott, a journalist traumatized by witnessing violent events.
   - Mention of a rafting trip study to investigate the impact of awe on well-being and stress.
-- Section: The Power of Awe
+- The Power of Awe
   - Awe defined as the wonder experienced when encountering something powerful and unexplainable.
   - Awe as a self-transcendent emotion, blurring the line between self and surrounding world.
   - Awe triggered by nature, art, events, and monumental experiences.
   - Evolutionary basis for awe as a way to foster group unity and survival.
-- Section: Awe's Impact on Well-being
+- Awe's Impact on Well-being
   - Study on rafting trip participants' well-being before and after the trip.
   - Significant improvements in stress, PTSD levels, happiness, satisfaction, and sense of belonging.
   - The correlation between awe-inspiring experiences and positive outcomes.
-- Section: Awe's Effect on Behavior
+- Awe's Effect on Behavior
   - Awe linked to perceiving time as more available, leading to prioritizing rewarding experiences.
   - Awe associated with reduced inflammation and influencing behavior.
   - "Awe-prone" individuals perceived as humbler, demonstrating hallmark features of wisdom.
-- Section: Awe's Negative Experiences
+- Awe's Negative Experiences
   - Awe can lead to negative feelings in certain circumstances, like threats or disasters.
   - Awe-inducing experiences can be uplifting or threatening.
-- Section: Imposing Order on the Environment
+- Imposing Order on the Environment
   - Introduction to the Nadal Principle: creating order in the physical environment for internal order.
   - Rafael Nadal's tennis rituals as an example of compensatory control.
   - Seeking order to influence perceptions of control and reduce chatter.
   - The need for control and order in human lives and its benefits.
-- Section: Importance of Control and Order
+- Importance of Control and Order
   - Belief in control influencing goal pursuit, effort, persistence, and well-being.
   - Simulating order in external surroundings to gain internal order.
   - Link between perceived order and reduced anxiety.
   - Disadvantaged neighborhoods and depression due to perceived disorder.
-- Section: Extreme Cases of Order
+- Extreme Cases of Order
   - OCD as an extreme case of compensatory control.
   - Connection between need for order and psychological disorders.
-- Section: Order and Chaos in Social Context
+- Order and Chaos in Social Context
   - Proliferation of online conspiracy theories seeking order in chaos.
   - Impact of conspiracy theories on others and society.
-- Section: Interconnectedness of Environments and Minds
+- Interconnectedness of Environments and Minds
   - Connection between physical environments and psychological forces.
   - Active control of surroundings for personal benefit.
   - Legacy of environments shaping thoughts, feelings, and actions.
-- Section: Unique Methods for Harnessing Inner Voices
+- Unique Methods for Harnessing Inner Voices
   - Introduction to various methods, including Nadal's rituals, for harnessing inner voices.
   - Strange yet powerful effects of these methods.
   - Emphasis on environments and techniques as transformative tools.
