@@ -1,6 +1,6 @@
+
 # The Cathedral And The Bazaar
 Author: Eric S. Raymond
-
 
 ## The Cathedral And The Bazaar
 - Linux development process:
@@ -32,7 +32,6 @@ Author: Eric S. Raymond
   - Learnings from the Linux world
   - How these aphorisms contribute to productivity
 
-
 ## The Mail Must Get Through
 - Background and Problem:
   - Running an Internet service provider called CCIL since 1993
@@ -62,7 +61,6 @@ Author: Eric S. Raymond
   - Common goal: Best solution, shared responsibility
   - Transition handled with grace and dispatch
 
-
 ## The Importance of Having Users
 - Inheriting 'popclient':
   - Took over 'popclient' and its user base
@@ -87,7 +85,6 @@ Author: Eric S. Raymond
   - Cathedral-mode core and bazaar-mode toolbox
   - Innovation and activity concentrated in the open toolbox
 
-
 ## Release Early, Release Often
 - Early and Frequent Releases in Linux:
   - Contradiction to the belief that early releases are buggy
@@ -106,7 +103,7 @@ Author: Eric S. Raymond
   - Emphasis on avoiding bugs, simplifying design
   - Core design of Linux reflects this approach
 - Linus's Law and Debugging:
-  7. Release early. Release often. Listen to your customers.
+  - Release early. Release often. Listen to your customers.
   - Linus's Law: Given enough eyeballs, all bugs are shallow
   - Linus maximized debugging and development efforts
   - Linus focused on stimulating and rewarding hackers
@@ -121,7 +118,6 @@ Author: Eric S. Raymond
 - Linus's Release Strategy:
   - Linux kernel version numbering for stability choice
   - Users can choose stable version or cutting-edge with risks
-
 
 ## How Many Eyeballs Tame Complexity
 - Understanding Bazaar Development Mechanics:
@@ -152,7 +148,6 @@ Author: Eric S. Raymond
   - Each developer/tester samples semi-random set of state space
   - Complex bugs accentuate the role of randomness
   - Many people running traces in parallel is effective
-
 
 ## When Is a Rose Not a Rose?
 - Testing Linus Torvalds' Theory:
@@ -187,7 +182,6 @@ Author: Eric S. Raymond
   - Unsubscribing due to fetchmail's success
   - Reflecting a mature bazaar-style project
 
-
 ## Popclient Becomes Fetchmail
 - Turning Point and SMTP Forwarding:
   - Harry Hochheiser's contribution for SMTP forwarding
@@ -220,7 +214,6 @@ Author: Eric S. Raymond
   - Co-developers exploring design space
   - Diffusion-based exploration and scalable communication
 
-
 ## Fetchmail Grows Up
 - Realizing Significance and Ambition:
   - Neat and innovative design with functional code
@@ -250,7 +243,6 @@ Author: Eric S. Raymond
   - Balancing author's resistance with customer needs
   - Customer feedback importance regardless of payment
 
-
 ## A Few More Lessons From Fetchmail
 - Improving Control Syntax:
   - Experimenting with more readable rc file syntax
@@ -272,7 +264,6 @@ Author: Eric S. Raymond
   - Lack of true security from encrypted passwords in the rc file
   - Permissions and access to fetchmail rendering encryption futile
   - Emphasis on the importance of the underlying secret for security
-
 
 ## Necessary Preconditions For The Bazaar Style
 - Preconditions for Bazaar-Style Development:
@@ -302,7 +293,6 @@ Author: Eric S. Raymond
   - Charm and people skills aiding bazaar model success
   - Linus's likable personality and its impact
   - Eric's energetic extroversion and crowd engagement
-
 
 ## The Social Context of Open-Source Software
 - The Genesis of Best Hacks:
@@ -343,7 +333,6 @@ Author: Eric S. Raymond
   - Closed-source vs. open-source in an evolutionary arms race
   - Open-source communities' capacity for skilled contributions
 
-
 ## On Management And The Maginot Line
 - Skepticism and Productivity in Bazaar Model:
   - Original vision of open-source outcompeting closed software
@@ -374,10 +363,6 @@ Author: Eric S. Raymond
   - Joy in work linked to optimal challenge zone for efficiency
   - Enjoyment predicts efficiency in creative work
   - Open source's success teaches importance of play and joy
-- Closing Thoughts:
-  - Vision of open-source-dominated software world
-  - Lesson from open source: Play is economically efficient creative work mode
-
 
 ## Epilog: Netscape Embraces The Bazaar
 - Netscape's Open Source Announcement:
@@ -407,4 +392,3 @@ Author: Eric S. Raymond
   - Explosion of interest in open-source model after Netscape's release
   - Open-source development model's impact on Linux's success
   - Ongoing acceleration of the trend sparked by Mozilla
-

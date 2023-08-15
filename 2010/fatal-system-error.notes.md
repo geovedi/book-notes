@@ -1,6 +1,6 @@
+
 # Fatal System Error
 Author: Joseph Menn
-
 
 ## Wargames
 - Barrett Lyon's Early Interest in Computers
@@ -33,7 +33,6 @@ Author: Joseph Menn
   - Unbeknownst to Barrett, he was entering a realm of criminal rivalry involving the Russian mob and U.S. mafia.
   - Governments of world powers became involved, escalating the conflict to a global scale.
 
-
 ## Hardcore V5. eXe
 - Background and Setup
   - Barrett Lyon's respite after attacks on BetCRIS in 2004.
@@ -65,7 +64,6 @@ Author: Joseph Menn
   - Forwarding of findings to NHTCU and Russian authorities.
   - Russian media reports arrest of Ivan Maksakov and others a year later.
 
-
 ## In Too Deep
 - Introduction:
   - The story explores the connection between organized crime and the rise of online gambling.
@@ -94,7 +92,6 @@ Author: Joseph Menn
   - The online gambling industry operated in a legal gray area.
   - Exploited regulatory loopholes and operated from offshore locations.
   - Law enforcement struggled to keep up with the rapid growth of online gambling and associated crimes.
-
 
 ## The Turn
 - Prolexic's Formation and Initial Focus
@@ -126,7 +123,6 @@ Author: Joseph Menn
   - Prolexic was eventually sold to IPVG, a Philippines Internet company.
   - Roger Stone, with ties to Prolexic's founders, was involved in IPVG.
   - Barrett's expected payout was reduced due to financial decisions.
-
 
 ## Crackdown
 - Background and Introduction
@@ -165,7 +161,6 @@ Author: Joseph Menn
 - Extradition and Indictment
   - FBI considers extraditing Darren, Mickey, and Sacco after state grand jury indictment in Arizona.
 
-
 ## From Spam TO Identity Theft
 - The evolution of hacking and cybercrime:
   - The early days saw hacking as a curiosity and art form.
@@ -203,7 +198,6 @@ Author: Joseph Menn
   - Combating mass identity theft required cooperation from multiple governments.
   - The Internet's fundamental architecture might need a reboot to effectively combat cybercrime.
 
-
 ## Whatever IT Takes
 - Initial Meeting and Collaboration:
   - Andy arranges a meeting with Igor Yakovlev, a Russian police officer, to collaborate on a cybercrime case.
@@ -239,7 +233,6 @@ Author: Joseph Menn
   - In July 2004, the team plans a coordinated operation to arrest multiple suspects simultaneously.
   - The culmination of their efforts aims to bring the investigation to a successful conclusion.
 
-
 ## The Day of Action
 - Andy's Investigation and Cybercriminal Gang
   - Andy embarked on an investigation into cybercriminal activities in Russia.
@@ -269,7 +262,6 @@ Author: Joseph Menn
   - Brain boasted of his invincibility due to being in Kazakhstan.
   - The investigation underscored the difficulty of cross-border cooperation in tackling cybercrime.
 
-
 ## The Underground Economy
 - Global Cybercrime Landscape
   - Cybercrime groups forming around websites in various countries, including Russia and Ukraine.
@@ -297,7 +289,6 @@ Author: Joseph Menn
   - Description of Andy's deep involvement in the Russian criminal justice system.
   - Andy's use of various tactics to penetrate the cybercrime underworld and gather insights.
 
-
 ## Trial
 - Tracking and Preparations
   - Andy Crocker and MVD officers track paymaster Stran, denial-of-service gang leaders Brain and Milsan, and Bra1n’s partners in St. Petersburg.
@@ -319,7 +310,6 @@ Author: Joseph Menn
   - Pohamov named trial prosecutor of the year.
   - SOCA (Serious Organised Crime Agency) replaces NHTCU; focuses less on cybercrime.
   - SOCA faces criticisms and issues no press releases about the Russian case.
-
 
 ## Beyond Crime
 - Russian Business Network (RBN) and Cybercrime
@@ -360,7 +350,6 @@ Author: Joseph Menn
   - The need for investment in research, public education, and coordination was emphasized.
   - Obama pledged to establish a cybersecurity coordinator position.
   - However, delays in appointing a coordinator and uncertainties regarding their authority led to frustration and hopelessness.
-
 
 ## Fixing What’S Fixable
 - Introduction:
@@ -414,7 +403,6 @@ Author: Joseph Menn
   - FBI and law enforcement should cooperate openly.
   - Department of Homeland Security should lead in cybersecurity efforts.
   - Collaborative efforts needed for email and website authentication.
-
 
 ## Epilogue
 - Andy Crocker:

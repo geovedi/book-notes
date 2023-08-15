@@ -1,6 +1,6 @@
+
 # Incognito
 Author: David Eagleman
-
 
 ## There's Someone in My Head, But It's Not Me
 - Leibniz's Insights into Unconscious Urges
@@ -44,7 +44,6 @@ Author: David Eagleman
   - Connection to underlying operations of the brain.
   - Examples of complex interactions between mind and brain.
 
-
 ## The Testimony of The Senses: What Is Experience Really Like?
 - Perceptual Illusions and Brain's Processing
   - Perceptual illusions challenge traditional notions of perception.
@@ -84,7 +83,6 @@ Author: David Eagleman
   - Principles of inaccessible machinery apply to higher-level cognition.
   - Trusting sensory information can lead to errors.
 
-
 ## Mind: The Gap
 - Unconscious Brain Processes and Decision Making:
   - Unconscious processes simulate past events and use physical feelings to navigate decisions.
@@ -105,7 +103,6 @@ Author: David Eagleman
 - Unconscious Biases and Legal Implications:
   - Unconscious biases might not be suitable as legal evidence due to complex decision-making.
   - Biases may not always directly influence final behavior due to socialized mechanisms.
-
 
 ## The Kinds of Thoughts That Are Thinkable
 - Human Nature and Instincts:
@@ -139,7 +136,6 @@ Author: David Eagleman
   - Truman Show analogy: conscious self is like a monarch unaware of the workers.
   - Exploring beyond one's "umwelt" reveals deeper layers of the brain.
   - Awareness of the complexity of the brain leads to a sense of awe.
-
 
 ## The Brain Is a Team of Rivals
 - The Brain and Narrative
@@ -190,7 +186,6 @@ Author: David Eagleman
   - The role of balance in keeping secrets.
   - The role of consciousness in tipping decisions.
 
-
 ## Why Blameworthiness Is The Wrong Question
 - Neuroscientific Perspective on Behavior:
   - The notion of free will is challenged by growing understanding of brain mechanisms.
@@ -223,7 +218,6 @@ Author: David Eagleman
 - Ethical Considerations:
   - The ethical concern about scientific sentencing is countered by the question of alternatives.
   - Psychoactive drugs replaced lobotomy as a more expedient approach to mental health issues.
-
 
 ## Life After The Monarchy
 - Reductionism and its limitations:
@@ -272,5 +266,3 @@ Author: David Eagleman
   - Brain's role in creating human experiences.
   - Acknowledgment of potential limitations of current generation's understanding.
   - Possibility of future generations knowing more.
-
-

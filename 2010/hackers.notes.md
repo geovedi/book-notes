@@ -1,7 +1,9 @@
+
 # Hackers
 Author: Steven Levy
 
 ## True Hackers: Cambridge: The Fifties And Sixties
+
 ###  The Tech Model Railroad Club
 - Introduction to TMRC and TX-0 Hackers:
   - TMRC (Tech Model Railroad Club) is a club at MIT.
@@ -45,7 +47,6 @@ Author: Steven Levy
   - Meetings became convoluted and mirrored programming.
   - Humorous anecdotes about hacking parliamentary procedure.
   - TMRC members' concerns about the focus shift to computing.
-
 
 ### The Hacker Ethic
 - Emergence of a New Way of Life around TX-0:
@@ -96,7 +97,6 @@ Author: Steven Levy
   - Building a unique hacker culture at MIT.
   - Uncertainty about the possibility of duplicating the culture.
 
-
 ### Spacewar
 - Background and MIT Hacking Culture
   - Hackers at MIT in the 1960s were enthusiastic computer programmers.
@@ -127,7 +127,6 @@ Author: Steven Levy
 - Richard Greenblatt and Conclusion
   - Richard Greenblatt, a dedicated hacker, exemplified the spirit of MIT hackers.
   - MIT's hacker culture influenced the development of computing and programming practices.
-
 
 ### Greenblatt And Gosper
 - TMRC and Early Hacking Culture
@@ -160,7 +159,6 @@ Author: Steven Levy
   - They found a sense of accomplishment and satisfaction in producing and discovering new things through hacking.
   - The hackers' focus was on living the Hacker Ethic rather than convincing outsiders or skeptics about its validity.
 
-
 ### The Midnight Computer Wiring Society
 - Richard Greenblatt, a legendary hacker at MIT, gained recognition for his accomplishments in hacking and programming.
   - He was one of the developers of the first AI Lisp machine, the PDP-6.
@@ -191,7 +189,6 @@ Author: Steven Levy
 - The conflict reached a peak when Nelson needed a large screwdriver for unauthorized adjustments.
   - Nelson accessed Bennett's locked cabinet, and an electrical shock resulted, melting the screwdriver.
   - A sign reading "USED UP" was placed on the damaged screwdriver as a symbol of their contrasting philosophies.
-
 
 ### Winners And Losers
 - Hacker Ethic and MIT AI Lab:
@@ -235,7 +232,6 @@ Author: Steven Levy
   - The MIT hackers were focused on the society at Tech Square and perfecting their systems.
   - They were more concerned with the local community than spreading the Hacker Ethic beyond Cambridge.
 
-
 ### Life
 - Hacker Community and MIT's Ninth Floor:
   - The MIT hacker community in the 1960s and 1970s was centered on Tech Square's ninth floor.
@@ -272,8 +268,8 @@ Author: Steven Levy
   - A second generation of hackers emerged, focused on spreading the Hacker Ethic and computer proliferation.
   - This new generation aimed to create affordable and powerful computers to bring the hacker dream to a broader audience.
 
-
 ## Hardware Hackers: Northern California: The Seventies
+
 ### Revolt in 2100
 - Community Memory Project
   - Initiated in the early 1970s in Berkeley, California.
@@ -305,7 +301,6 @@ Author: Steven Levy
   - The project showed its potential but was deemed too risky to continue in its present state.
   - Some members pursued other endeavors while maintaining the dream of the project.
 
-
 ### Every Man a God
 - Altair 8800 and Its Introduction:
   - The Altair 8800 was a significant computer in personal computing history.
@@ -336,7 +331,6 @@ Author: Steven Levy
 - Club's Purpose and Focus:
   - Intended for enthusiasts building their own computers or devices.
   - Encouraged exchanging information, collaboration, and project development.
-
 
 ### The Homebrew Computer Club
 - Homebrew Computer Club: A Hacker Community
@@ -370,7 +364,6 @@ Author: Steven Levy
   - The act of working together and not holding back led to extraordinary outcomes.
   - Homebrew's energy and Hacker Ethic could change society's view of computers.
 
-
 ### Tiny BASIC
 - Early Hackers and Homebrew Computer Club:
   - Early computer enthusiasts like Tom Pittman and Lee Felsenstein formed a community around their passion.
@@ -395,7 +388,6 @@ Author: Steven Levy
   - The Homebrew Computer Club and its members played a pivotal role in shaping the personal computer revolution.
   - Their dedication to sharing knowledge, open design, and empowering users influenced the trajectory of the computer industry.
   - The Sol computer and the hacker ethos paved the way for computers to become more accessible and creative tools.
-
 
 ### Woz
 - Apple I Computer Introduction and Impact
@@ -433,7 +425,6 @@ Author: Steven Levy
   - Anticipation of the rush and transformation ahead
   - American manufacturing and societal reactions
 
-
 ### Secrets
 - Ted Nelson's Speech and the Computer Industry Growth:
   - Ted Nelson's speech marked a period of remarkable growth in the computer industry.
@@ -470,8 +461,8 @@ Author: Steven Levy
   - Computers were no longer mysterious black boxes but tools accessible to many.
   - The Hacker Ethic's transition from monastic MIT communities to a world with ubiquitous computers.
 
-
 ## Game Hackers: The Sierras: The Eighties
+
 ### The Wizard And The Princess
 - Background and Characters
   - Jay Sullivan and Ken Williams were skilled programmers at Informatics.
@@ -507,7 +498,6 @@ Author: Steven Levy
   - The business transitioned to an office space in Oakhurst.
   - The success of "Wizard and the Princess" continued.
   - On-Line Systems experienced rapid growth and expansion.
-
 
 ### The Brotherhood
 - Hacker Ethic Impact:
@@ -549,7 +539,6 @@ Author: Steven Levy
   - The participants shared information, discussed products, and built camaraderie.
   - The trip highlighted the unique culture and values of the Apple software community.
 
-
 ### The Third Generation
 - John Harris' Game Development and Atari's Copyright Concerns
   - John Harris created a game, "Jawbreaker," that resembled Pac-Man.
@@ -590,7 +579,6 @@ Author: Steven Levy
   - Ken expressed concern about potential copying of his own software.
   - He decided to settle the lawsuit before going to trial.
 
-
 ### Summer Camp
 - Background and Motivation
   - Warren Schwader, a programmer, joined On-Line Systems to develop games.
@@ -624,7 +612,6 @@ Author: Steven Levy
   - Ken Williams remained committed to his company despite tempting offers.
   - The text showcases the changing values and priorities in the world of computer programming and gaming.
 
-
 ### Frogger
 - Ken Williams and On-Line Systems: A Journey
   - Ken Williams was a pivotal figure in the early days of the computer software industry.
@@ -657,7 +644,6 @@ Author: Steven Levy
   - The NBC producer's interest in young programmers reflected the fascination with tech whiz kids.
   - The clash of perspectives between traditional media and the hacker mindset was evident in the programmer's response.
 
-
 ### Applefest
 - Applefest and Ultima 2:
   - Richard Garriott presented Ultima 2 at Applefest, generating excitement.
@@ -680,7 +666,6 @@ Author: Steven Levy
   - Growth in companies led to shifts in interactions among Brotherhood members.
 - Ken Williams' Home Fire:
   - A fire damaged Ken Williams' home, including an Apple I motherboard.
-
 
 ### Wizard vs. Wizards
 - Bill Gates:
@@ -738,143 +723,70 @@ Author: Steven Levy
   - Embracing the free flow of information and open ideals.
   - The shift towards entrepreneurship and commodification of hacking.
   - Zuckerberg's perspective on the future of hackers and technology.
-- Closing Note:
-  - Hackers as heroes of revolutions, from PCs to biology.
-  - Gates's view of hackers driving the next technological wave.
-  - The continuation of hacking culture's influence on the world.
-
 
 ## Who's Who: The Wizards And Their Machines
-- Bob Albrecht:
-  - Founder of People's Computer Company, exposed youngsters to computers.
-- Altair 8800:
-  - Pioneering microcomputer, galvanized hardware hackers.
-  - Building the kit led to learning hacking skills.
-- Apple II:
-  - Steve Wozniak's successful computer, sparked thriving industry.
-- Atari 800:
-  - Provided great graphics to game hackers like John Harris.
-- Bob and Carolyn Box:
-  - World-record-holding gold prospectors turned software stars.
-- Doug Carlston:
-  - Left corporate law to form Brøderbund software company.
-- Bob Davis:
-  - Left liquor store job, became bestselling author of Sierra On-Line game.
-- Peter Deutsch:
-  - Discovered TX-0 at MIT, hacked it along with masters.
-- Steve Dompier:
-  - Made Altair sing, wrote Target game on Sol.
-- John Draper:
-  - "Captain Crunch," explored phone systems, later hacked microcomputers.
-- Mark Duchaineau:
-  - Dungeonmaster who copy-protected On-Line's disks.
-- Chris Espinosa:
-  - Early Apple employee, follower of Steve Wozniak.
-- Lee Felsenstein:
-  - Designed computers with a "junkyard" approach.
-  - Central figure in Bay Area hardware hacking.
-- Ed Fredkin:
-  - Gentle founder of Information International, father figure to hackers.
-- Gordon French:
-  - Held first Homebrew Computer Club meeting.
-- Richard Garriott:
-  - Created Ultima world on computer disks.
-- Bill Gates:
-  - Harvard dropout, wrote Altair BASIC.
-- Bill Gosper:
-  - Math and LIFE hacker, guru of Hacker Ethic.
-- Richard Greenblatt:
-  - Canonical MIT hacker, hacker's hacker.
-- John Harris:
-  - Atari 800 game hacker, became Sierra On-Line's star programmer.
-- IBM PC:
-  - Included Hacker Ethic, entered personal computer market.
-- IBM 704:
-  - Hulking Giant computer in MIT's Building 26.
-- Jerry Jewell:
-  - Vietnam vet turned programmer, founded Sirius Software.
-- Steven Jobs:
-  - Visionary, cofounded Apple, made billion dollars.
-- Tom Knight:
-  - Named Incompatible Time-sharing System.
-- Alan Kotok:
-  - Legendary TX-0 and PDP-1 hacker.
-- Efrem Lipkin:
-  - Cofounded Community Memory, hacker-activist.
-- LISP Machine:
-  - Invented by Greenblatt, subject of MIT dispute.
-- "Uncle" John McCarthy:
-  - Pioneer in computer chess, artificial intelligence, LISP.
-- Bob Marsh:
-  - Founded Processor Technology, made Sol computer.
-- Roger Melen:
-  - Cofounded Cromemco, made circuit boards for Altair.
-- Louis Merton:
-  - Pseudonym for AI chess hacker.
-- Jude Milhon:
-  - Member of Community Memory collective.
-- Marvin Minsky:
-  - MIT professor who allowed hackers to run free.
-- Fred Moore:
-  - Cofounder of Homebrew Club.
-- Stewart Nelson:
-  - Cofounded Systems Concepts company.
-- Ted Nelson:
-  - Self-published influential Computer Lib book.
-- Russell Noftsker:
-  - Administrator of MIT AI lab, later president of Symbolics.
-- Adam Osborne:
-  - Founded Osborne Computer Company.
-- PDP-1:
-  - World's first personal computer for MIT hackers.
-- PDP-6:
-  - Mainframe computer cornerstone of AI lab.
-- Tom Pittman:
-  - Tiny BASIC developer.
-- Ed Roberts:
-  - Founder of MITS, shook world with Altair computer.
-- Steve (Slug) Russell:
-  - Hacked Spacewar program on PDP-1.
-- Peter Samson:
-  - MIT hacker, key figure in Bay Area hacking.
-- Bob Saunders:
-  - TMRC hacker, mastered Spacewar strategy.
-- Warren Schwader:
-  - Shifted from assembly line to software stardom.
-- David Silver:
-  - Mascot of AI lab, built tiny robot.
-- Dan Sokol:
-  - Prankster, reveled in revealing tech secrets.
-- Sol Computer:
-  - Designed by Lee Felsenstein.
-- Les Solomon:
-  - Editor of Popular Electronics.
-- Marty Spergel:
-  - Homebrew member, supplied circuits and cables.
-- Richard Stallman:
-  - Defender of hacker principles.
-- Jeff Stephenson:
-  - Joined Sierra On-Line.
-- Jay Sullivan:
-  - Programmer at Informatics.
-- Dick Sunderland:
-  - President of Sierra On-Line.
-- Gerry Sussman:
-  - MIT hacker, algorithmic magic.
-- Margot Tommervik:
-  - Cofounded magazine that deified Apple Computer.
-- Tom Swift Terminal:
-  - Lee Felsenstein's legendary terminal.
-- TX-0:
-  - World's first personal computer for MIT hackers.
-- Jim Warren:
-  - Editor of Dr. Dobbs Journal.
-- Randy Wigginton:
-  - Apple's first software employee.
-- Ken Williams:
-  - Cofounded Sierra On-Line, sold games for Apple.
-- Roberta Williams:
-  - Wrote bestselling computer games.
-- Stephen "Woz" Wozniak:
-  - Built Apple Computer for pleasure and friends.
-
+- Bob Albrecht: Founder of People's Computer Company, exposed youngsters to computers.
+- Altair 8800: Pioneering microcomputer, galvanized hardware hackers. Building the kit led to learning hacking skills.
+- Apple II: Steve Wozniak's successful computer, sparked thriving industry.
+- Atari 800: Provided great graphics to game hackers like John Harris.
+- Bob and Carolyn Box: World-record-holding gold prospectors turned software stars.
+- Doug Carlston: Left corporate law to form Brøderbund software company.
+- Bob Davis: Left liquor store job, became bestselling author of Sierra On-Line game.
+- Peter Deutsch: Discovered TX-0 at MIT, hacked it along with masters.
+- Steve Dompier: Made Altair sing, wrote Target game on Sol.
+- John Draper: "Captain Crunch," explored phone systems, later hacked microcomputers.
+- Mark Duchaineau: Dungeonmaster who copy-protected On-Line's disks.
+- Chris Espinosa: Early Apple employee, follower of Steve Wozniak.
+- Lee Felsenstein: Designed computers with a "junkyard" approach. Central figure in Bay Area hardware hacking.
+- Ed Fredkin: Gentle founder of Information International, father figure to hackers.
+- Gordon French: Held first Homebrew Computer Club meeting.
+- Richard Garriott: Created Ultima world on computer disks.
+- Bill Gates: Harvard dropout, wrote Altair BASIC.
+- Bill Gosper: Math and LIFE hacker, guru of Hacker Ethic.
+- Richard Greenblatt: Canonical MIT hacker, hacker's hacker.
+- John Harris: Atari 800 game hacker, became Sierra On-Line's star programmer.
+- IBM PC: Included Hacker Ethic, entered personal computer market.
+- IBM 704: Hulking Giant computer in MIT's Building 26.
+- Jerry Jewell: Vietnam vet turned programmer, founded Sirius Software.
+- Steven Jobs: Visionary, cofounded Apple, made billion dollars.
+- Tom Knight: Named Incompatible Time-sharing System.
+- Alan Kotok: Legendary TX-0 and PDP-1 hacker.
+- Efrem Lipkin: Cofounded Community Memory, hacker-activist.
+- LISP Machine: Invented by Greenblatt, subject of MIT dispute.
+- "Uncle" John McCarthy: Pioneer in computer chess, artificial intelligence, LISP.
+- Bob Marsh: Founded Processor Technology, made Sol computer.
+- Roger Melen: Cofounded Cromemco, made circuit boards for Altair.
+- Louis Merton: Pseudonym for AI chess hacker.
+- Jude Milhon: Member of Community Memory collective.
+- Marvin Minsky: MIT professor who allowed hackers to run free.
+- Fred Moore: Cofounder of Homebrew Club.
+- Stewart Nelson: Cofounded Systems Concepts company.
+- Ted Nelson: Self-published influential Computer Lib book.
+- Russell Noftsker: Administrator of MIT AI lab, later president of Symbolics.
+- Adam Osborne: Founded Osborne Computer Company.
+- PDP-1: World's first personal computer for MIT hackers.
+- PDP-6: Mainframe computer cornerstone of AI lab.
+- Tom Pittman: Tiny BASIC developer.
+- Ed Roberts: Founder of MITS, shook world with Altair computer.
+- Steve (Slug) Russell: Hacked Spacewar program on PDP-1.
+- Peter Samson: MIT hacker, key figure in Bay Area hacking.
+- Bob Saunders: TMRC hacker, mastered Spacewar strategy.
+- Warren Schwader: Shifted from assembly line to software stardom.
+- David Silver: Mascot of AI lab, built tiny robot.
+- Dan Sokol: Prankster, reveled in revealing tech secrets.
+- Sol Computer: Designed by Lee Felsenstein.
+- Les Solomon: Editor of Popular Electronics.
+- Marty Spergel: Homebrew member, supplied circuits and cables.
+- Richard Stallman: Defender of hacker principles.
+- Jeff Stephenson: Joined Sierra On-Line.
+- Jay Sullivan: Programmer at Informatics.
+- Dick Sunderland: President of Sierra On-Line.
+- Gerry Sussman: MIT hacker, algorithmic magic.
+- Margot Tommervik: Cofounded magazine that deified Apple Computer.
+- Tom Swift Terminal: Lee Felsenstein's legendary terminal.
+- TX-0: World's first personal computer for MIT hackers.
+- Jim Warren: Editor of Dr. Dobbs Journal.
+- Randy Wigginton: Apple's first software employee.
+- Ken Williams: Cofounded Sierra On-Line, sold games for Apple.
+- Roberta Williams: Wrote bestselling computer games.
+- Stephen "Woz" Wozniak: Built Apple Computer for pleasure and friends.

@@ -1,6 +1,6 @@
+
 # Thinking, Fast And Slow
 Author: Daniel Kahneman
-
 
 ## Introduction
 - Introduction:
@@ -40,8 +40,8 @@ Author: Daniel Kahneman
   - Two articles written by the author and Amos Tversky are provided as appendices.
   - The articles summarize their work on judgment under uncertainty and framing effects.
 
-
 ## Two Systems
+
 ### The Characters of The Story
 - Introduction:
   - Enriching vocabulary for discussing judgments, choices, policies, and decisions.
@@ -89,7 +89,6 @@ Author: Daniel Kahneman
   - Introduction of System 1 and System 2 as characters to aid understanding.
   - Reference to System 1 and System 2 in discussing various situations.
 
-
 ### Attention And Effort
 - System 2 in the Story
   - Supporting character believing herself the hero
@@ -121,7 +120,6 @@ Author: Daniel Kahneman
 - Quotations
   - Examples of using terms like pupil-dilating task, law of least effort, intuition from System 1
 
-
 ### The Lazy Controller
 - Introduction and Two Systems of Thinking:
   - Author's experience of daily walks in Berkeley and their thoughts during walks.
@@ -148,7 +146,6 @@ Author: Daniel Kahneman
   - Impulsivity, decision-making, and cognitive effort illustrated through examples.
 - Conclusion:
   - A summary of the main concepts discussed in the input.
-
 
 ### The Associative Machine
 - System 1 and Associations:
@@ -191,7 +188,6 @@ Author: Daniel Kahneman
 - Quotations on Priming:
   - Selected quotations illustrating the impact of priming and unconscious influence.
 
-
 ### Cognitive Ease
 - Cognitive Processing and Questions in the Brain
   - Multiple computations in the brain maintain answers to key questions.
@@ -232,7 +228,6 @@ Author: Daniel Kahneman
   - Repetition can lead to belief, but critical thinking is crucial.
   - Familiarity and liking are linked through the mere exposure effect.
   - Mood impacts cognitive processing and decision-making.
-
 
 ### Norms, Surprises, And Causes
 - Introduction to System 1 and System 2
@@ -293,7 +288,6 @@ Author: Daniel Kahneman
   - Calls to consider the range of normal reactions.
   - Human tendency to seek causal explanations.
 
-
 ### A Machine For Jumping to Conclusions
 - Introduction to System 1 and System 2:
   - Comedian Danny Kaye's line about "jumping to conclusions."
@@ -339,7 +333,6 @@ Author: Daniel Kahneman
   - Examples of WYSIATI in practical situations.
   - Use of WYSIATI to explain various biases.
 
-
 ### How Judgments Happen
 - System 1 and System 2 Processing
   - No limit to the number of questions answered.
@@ -381,7 +374,6 @@ Author: Daniel Kahneman
   - Judgment heuristics affect voting choices.
   - Mental shotgun leads to excess computation.
   - Intensity matching across dimensions by System 1.
-
 
 ### Answering an Easier Question
 - System 1 and Intuitive Judgments
@@ -425,8 +417,8 @@ Author: Daniel Kahneman
   - Overweights low probabilities, loss aversion.
   - Frames decisions narrowly, in isolation from others.
 
-
 ## Heuristics And Biases
+
 ### The Law of Small Numbers
 - Kidney Cancer Incidence Study:
   - Counties with lowest kidney cancer incidence are:
@@ -474,7 +466,6 @@ Author: Daniel Kahneman
   - Jumping to conclusions safer in imagination than reality
   - Many facts due to chance, causal explanations often wrong
 
-
 ### Anchors
 - Experiment involving rigged wheel of fortune:
   - Marked from 0 to 100, stops at 10 or 65.
@@ -511,7 +502,6 @@ Author: Daniel Kahneman
   - Need to be aware and counteract anchoring.
 - Quotes related to anchoring:
   - Examples of conversations about anchoring effects.
-
 
 ### The Science of Availability
 - 1971–72 in Eugene, Oregon
@@ -563,7 +553,6 @@ Author: Daniel Kahneman
   - Influence of recent experiences on perceptions.
   - Overconfidence due to recent successes.
 
-
 ### Availability, Emotion, And Risk
 - Availability Effects and Risk Perception:
   - Idea of availability relevant to risk perception.
@@ -612,7 +601,6 @@ Author: Daniel Kahneman
   - Experts and public differ in risk perception.
   - Balancing expertise and public emotions in policy-making.
 
-
 ### Tom W’s Specialty
 - Problem Setup: Tom W's Field of Study Ranking
   - Tom W is a graduate student at a state university.
@@ -650,7 +638,6 @@ Author: Daniel Kahneman
   - Examples of applying base rates, questioning evidence diagnosticity, and allowing for uncertainty.
   - Representativeness heuristic can lead to flawed judgments.
 
-
 ### Linda: Less Is More
 - Linda Problem and Conjunction Fallacy:
   - The Linda problem involves a fictional character named Linda and explores the conjunction fallacy, where people incorrectly judge the conjunction of two events to be more likely than one of the events alone.
@@ -681,7 +668,6 @@ Author: Daniel Kahneman
 - Lessons Learned:
   - The Linda problem demonstrated that intuition can override logic even when the logical answer is clear.
   - The conflict between intuition and logic highlights biases in human judgment.
-
 
 ### Causes Trump Statistics
 - Cab Problem and Bayesian Inference
@@ -716,7 +702,6 @@ Author: Daniel Kahneman
   - Surprising individual cases have a stronger impact on learning.
   - Self-encountered surprises lead to better learning outcomes.
 
-
 ### Regression to The Mean
 - Eureka Experience in Israeli Air Force Teaching:
   - Reward for improved performance is more effective than punishment for mistakes in skill training.
@@ -745,7 +730,6 @@ Author: Daniel Kahneman
   - Regression often misunderstood as causation.
   - Regression is a common source of errors in research.
   - Example of sales forecasting: Need to consider regression when forecasting based on past performance.
-
 
 ### Taming Intuitive Predictions
 - Predictive Scenarios:
@@ -791,8 +775,8 @@ Author: Daniel Kahneman
 - Speaking of Intuitive Predictions:
   - Examples of phrases involving intuitive predictions.
 
-
 ## Overconfidence
+
 ### The Illusion of Understanding
 - Nassim Taleb:
   - Trader-philosopher-statistician
@@ -825,7 +809,6 @@ Author: Daniel Kahneman
   - Illusions of understanding and simplicity appeal to readers
   - Stories of success and failure often overlook luck
   - Lessons from such stories are of limited enduring value
-
 
 ### The Illusion of Validity
 - Illusion of Validity and Skill
@@ -865,7 +848,6 @@ Author: Daniel Kahneman
   - Illusion of skill in market forecasting
   - The role of theories in predictions
   - The question of world predictability
-
 
 ### Intuitions vs. Formulas
 - Paul Meehl's Contributions:
@@ -908,7 +890,6 @@ Author: Daniel Kahneman
   - Simple combinations of scores can often outperform complex human judgments.
   - Weight data from past performance to counterbalance impressions from interviews.
 
-
 ### Expert Intuition: When Can We Trust It?
 - Professional Controversies and Intuition
   - Scientific debates often lack productive outcomes due to sarcastic exchanges.
@@ -941,7 +922,6 @@ Author: Daniel Kahneman
   - Questions to consider: expertise level, practice, regularity of environment, feedback quality.
   - Subjective confidence is not a reliable indicator of accuracy.
   - Evaluating expert intuition requires understanding learning opportunities and the environment.
-
 
 ### The Outside View
 - Curriculum Development Project
@@ -982,7 +962,6 @@ Author: Daniel Kahneman
   - Warns against the planning fallacy and overestimating best-case scenarios.
   - Encourages considering baseline predictions based on reference classes.
 
-
 ### The Engine of Capitalism
 - Optimism and Bias:
   - The planning fallacy is a manifestation of optimistic bias.
@@ -1014,8 +993,8 @@ Author: Daniel Kahneman
   - Experts may suffer from illusion of control, competitor neglect, and overconfidence.
   - Conducting premortem sessions can reveal neglected threats.
 
-
 ## Choices
+
 ### Bernoulli’s Errors
 - Introduction:
   - An encounter with a mimeographed essay discussing psychological assumptions of economic theory.
@@ -1051,7 +1030,6 @@ Author: Daniel Kahneman
   - Different candidates have different reference points for job satisfaction.
   - Alimony case demonstrates risk-seeking behavior in bad options.
 
-
 ### Prospect Theory
 - Introduction and Discovery of Flaw:
   - Amos and the author stumbled upon a flaw in Bernoulli's theory by chance.
@@ -1085,7 +1063,6 @@ Author: Daniel Kahneman
   - Loss aversion explains why losses are more impactful than equivalent gains.
   - These concepts led to new predictions and insights.
 
-
 ### The Endowment Effect
 - Indifference Map and Indifference Curves:
   - Figure 11 displays an individual's "indifference map" for two goods.
@@ -1110,7 +1087,6 @@ Author: Daniel Kahneman
   - Price changes affect demand; losses loom larger than equivalent gains.
   - People dislike selling at a loss, influencing decisions like house sales.
   - Some individuals treat spending money as losses due to loss aversion.
-
 
 ### Bad Events
 - Loss Aversion:
@@ -1160,7 +1136,6 @@ Author: Daniel Kahneman
   - Role of loss aversion in negotiation, agreement, and perception.
   - Influence of loss aversion in setting rental prices and client expectations.
 
-
 ### The Fourfold Pattern
 - System 1 and Decision Weighting:
   - When forming evaluations of complex objects or uncertain situations, people assign weights to their characteristics.
@@ -1195,7 +1170,6 @@ Author: Daniel Kahneman
   - Quoted scenarios exemplify the fourfold pattern in different decision contexts.
   - Overweighting of small probabilities, seeking certainty, and risk aversion all play roles in decision-making scenarios.
 
-
 ### Rare Events
 - Effects of Neglecting Probability and Overweighting Rare Events
   - People tend to overestimate the probabilities of unlikely events due to the confirmatory bias of memory.
@@ -1229,7 +1203,6 @@ Author: Daniel Kahneman
   - People often respond more strongly to vivid and emotional descriptions of risks, leading to biased judgments.
   - Advocates and communicators may intentionally use vivid details to manipulate perceptions of risk.
 
-
 ### Risk Policies
 - Pair of Concurrent Decisions and Prospect Theory
   - Presented with two decisions involving gain/loss choices: A vs. B and C vs. D.
@@ -1257,7 +1230,6 @@ Author: Daniel Kahneman
   - "I decided to evaluate my portfolio only once a quarter. I am too loss averse to make sensible decisions in the face of daily price fluctuations."
   - "They never buy extended warranties. That’s their risk policy."
   - "Each of our executives is loss averse in his or her domain. That’s perfectly natural, but the result is that the organization is not taking enough risk."
-
 
 ### Keeping Score
 - Money-Seeking Motivations:
@@ -1292,7 +1264,6 @@ Author: Daniel Kahneman
   - Disposition effect: reluctance to close accounts at a loss leads to suboptimal decisions.
   - Avoiding regret by sticking to familiar choices, such as a restaurant dish or stock.
   - Taboo tradeoff: reluctance to accept increased risk even for potential gains.
-
 
 ### Reversals
 - Compensation and Moral Principles:
@@ -1335,7 +1306,6 @@ Author: Daniel Kahneman
   - Broadening the frame leads to reasonable decisions.
   - Emotional reactions in isolation, careful assessment in joint evaluation.
 
-
 ### Frames And Reality
 - Framing Effects and Human Decision-Making
   - Italy and France World Cup example demonstrates different meanings based on context.
@@ -1366,8 +1336,8 @@ Author: Daniel Kahneman
   - Reframing problems changes perceptions of value.
   - Opt-in vs. opt-out choices impact behavior (mailing list example).
 
-
 ## Two Selves
+
 ### Two Selves
 - Distinct Meanings of Utility
   - Jeremy Bentham introduced the term "utility" with meanings of pain and pleasure.
@@ -1417,7 +1387,6 @@ Author: Daniel Kahneman
   - Different perspectives on experiences and memories.
   - Duration neglect affecting evaluations of experiences.
 
-
 ### Life as a Story
 - Experience and Memory
   - Jeremy Bentham's concept of utility: "pain and pleasure" govern decisions.
@@ -1464,7 +1433,6 @@ Author: Daniel Kahneman
   - Total duration neglect in the pursuit of a one-night encounter.
   - Balancing the construction of memories during vacations.
   - Alzheimer's patients losing narrative but retaining experiencing self's sensitivity to beauty.
-
 
 ### Experienced Well-Being
 - Measuring Well-Being
@@ -1523,7 +1491,6 @@ Author: Daniel Kahneman
   - Control of time as a way to increase happiness.
   - The trade-off between buying pleasurable experiences and enjoyment ability.
 
-
 ### Thinking About Life
 - Figure 16: Analysis of life satisfaction data
   - Analysis by Andrew Clark, Ed Diener, and Yannis Georgellis
@@ -1567,7 +1534,6 @@ Author: Daniel Kahneman
   - Divorce and its impact on reported happiness
   - Potential misjudgments in buying decisions
   - Miswanting due to overestimating future experiences
-
 
 ## Conclusions
 - Introduction and Overview
