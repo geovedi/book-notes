@@ -1,129 +1,326 @@
+
 # On Our Best Behavior
-Elise Loehnen (2023)
+Author: Elise Loehnen
+
+## Introduction: Genesis
+- Introduction: Personal Experience of Hyperventilation
+  - The author experienced a month of hyperventilation, struggling to take deep breaths due to oversaturation of oxygen.
+  - This hyperventilation was linked to a recurring mix-up between body and brain, causing anxiety.
+  - Initial experiences led to misconceptions and fear, while the recent episode felt different and more persistent.
+- Internal Struggle and Seeking Help
+  - Despite appearances, the author felt consumed by anxiety while appearing calm to others.
+  - Described feeling like a duck, calm on the surface but frantic underneath.
+  - Therapy sessions offered some relief, but the struggle persisted.
+- Questioning and Self-Reflection
+  - The author posed questions about the source of their anxiety and the need for perfection.
+  - Therapist observed a desire for acceptance and safety through living up to an ideal.
+  - The author's inquiry shifted towards understanding the source of the anxiety.
+- The Beginning of Exploration
+  - A seed of inquiry was planted in the author's mind during therapy.
+  - This inquiry led to the writing of a book, exploring the origins of cultural programming.
+  - The author sought to understand societal expectations and their effects on individuals.
+- The Influence of the Seven Deadly Sins
+  - The author delved into history to understand the early conflation of goodness and acceptability for women.
+  - Explored how societal programming shapes behavior and beliefs.
+  - Introduced the concept of "first nature" and "second nature," showing how society molds behavior.
+- Impact of the Seven Deadly Sins on Women
+  - The Seven Deadly Sins are deeply ingrained in culture and have influenced societal values.
+  - The author discovered that these sins correlated with personal traits and behaviors linked to being a "good woman."
+  - Explored how these sins and related expectations suppress individuality and create inner conflict.
+- Balancing and Embracing True Self
+  - The author recognized the importance of balance and self-trust.
+  - The concept of "missing the mark" was explored as alignment with one's true self.
+  - Advocated for moving beyond old stories and limiting beliefs, promoting self-determination.
+- Current Global Context and Call for Change
+  - The author acknowledged the challenges of the modern world: pandemic, racial issues, climate change, etc.
+  - Recognized the need for disruption to create change and address systemic issues.
+  - Encouraged self-determination and healing as essential steps towards building a healthier society.
+- Final Thoughts on Cultural Influence
+  - Emphasized the significance of self-awareness and self-determination in breaking free from cultural programming.
+  - Explored the idea of "goodness" and how it limits individuals' lives and potential.
+  - Expressed hope that the book would shed light on damaging beliefs and inspire personal transformation.
 
 ## A Brief History of the Patriarchy
-- Historical development and impact of patriarchy
-- Limitations of historical records
-- Transition from egalitarian societies to patriarchal systems
-- Rise of Indo-European Kurgan culture
-- Influence of monotheistic religions on patriarchy
-- Subjugation of women in biblical story of Adam and Eve
-- Origins and codification of sin, Seven Deadly Sins
-- Vilification of women, portrayal of Mary Magdalene
-- Role of confession and moral codes
-- Persecution of women during witch hunts
-- Need to reclaim and honor the feminine aspect
-- Concepts of Divine Masculine and Divine Feminine
-- Importance of balance and recognition of sacredness
-- Addressing impact of patriarchy on individuals' psyches
+- Introduction
+  - The author discusses how society tends to suppress emotions and instincts, often leading to a disconnect from one's true desires and self-knowledge.
+  - The concept of Gnosticism is introduced, advocating a return to one's innate nature and intuition.
+- Reemergence of the Feminine
+  - The patriarchal paradigm and its impact on society are explored.
+  - Two perspectives on the body are presented: one that views it as abhorrent and another that sees it as sacred.
+  - Patriarchal thinking emphasizes domination over nature, women, and one's own emotions, leading to suppression and control.
+  - The dual nature of masculine and feminine energies is discussed, emphasizing the need for balance between them.
+  - Toxic masculinity and femininity are identified as imbalanced expressions of these energies.
+- Balancing Masculine and Feminine Energies
+  - Balanced masculine energy is characterized by direction, order, and truth, while balanced feminine energy involves creativity and nurturance.
+  - The importance of both energies within each person and in the world is emphasized.
+  - The need to release and embrace the feminine energy for societal balance is highlighted.
+  - The Bahá'í Faith prophecy about the twenty-first century suggests that the female wing of humanity will fully extend, leading to balance between masculine and feminine energies.
+- Moving Beyond Patriarchy
+  - The patriarchal structure's dominance and insidious impact on society are acknowledged.
+  - The importance of acknowledging and dismantling patriarchal practices and reestablishing a responsible stewardship of the body and nature is discussed.
+  - Transitioning to balance is acknowledged as a challenging yet essential process.
+- Skip Notes
+  - Brief notes about simplification in social theory and the legacy of archaeologist Marija Gimbutas are provided, acknowledging the complexity of history.
+  - The evolution of marriage and the influence of written records on historical understanding are briefly discussed.
+  - A reference to the portrayal of the goddess Isis and the contrast between her historical representation and contemporary interpretations is mentioned.
+  - The historical context of various terms and concepts, including "gospel," witchcraft, and the symbolism of Halloween costumes, is touched upon.
+  - The impact of the Malleus Maleficarum, the transformation of the term "gossip," and the delusion of human separation from nature are briefly explained.
 
-## Sloth
-- Sloth/laziness in women's lives and societal expectations
-- Challenges idea that women are lazy, highlights pressure to constantly be productive
-- Women judged and burdened with childcare, household chores, emotional labor
-- Women's work undervalued, underpaid, especially in caregiving roles
-- Perpetual busyness leads to exhaustion, burnout, lack of self-care
-- Patriarchal roots of expectation for women to constantly strive
-- Importance of rest and relaxation for creativity, intuition, well-being
-- Embracing rest challenges societal norms, allows women to focus on what matters
-- Advocates for shift in societal attitudes towards care and recognition of its value
-- Calls for shared responsibility and support, encourages men to take on caregiving tasks
-- Acknowledges need for systemic change and dismantling of patriarchal structures
+## Sloth: Believing Sloth to Be Sinful, We Deny Ourselves Rest
+- Introduction
+  - The challenges women face in terms of work, caregiving, and societal expectations.
+  - The need for paid leave, healthcare, and support to address these challenges.
+- Self-Reflection and Overcoming Patriarchal Training
+  - The need for self-reflection and awareness to challenge patriarchal behaviors.
+  - Recognizing the impact of enforcing different standards for men and women.
+  - Refusing judgment and standing together for more opportunities and stronger communities.
+- Engaging with the Right Struggle
+  - The paradox of slowing down while actively changing the system.
+  - Lessons from the pandemic about reassessing priorities and relationships.
+  - The resistance to slowing down and using work to cover up emotions.
+- The Power of Rest and Being
+  - The misconception that busyness brings peace and security.
+  - Embracing rest to foster creativity, clarity, and self-evolution.
+  - Recognizing pain, empathy, and growth that come from slowing down.
+- Recognizing the Value of Work and Rest
+  - Balancing the worth of hard work and rest for self and society.
+  - Rejecting notions of being "anti-sloth" and reclaiming the right to rest.
+  - Prioritizing important work over busywork and finding equilibrium.
+- Embracing Sloth for Collective Progress
+  - Recognizing the societal pressure to overwork for security.
+  - The importance of addressing systemic imbalances and sharing burdens.
+  - Seeking true equity, liberation from drudgery, and a peaceful future.
+- Historical and Societal Context
+  - The historical role of women in various societal roles.
+  - Examining cultural biases, biases in wages, and caregiving expectations.
+- Challenges and Progress in Gender Equity
+  - Gender disparities in unpaid work and caregiving across cultures.
+  - The resistance to gender role changes and the backlash against women's progress.
+  - Efforts to challenge traditional views and promote equitable partnerships.
+- Economic and Societal Impact of Gender Inequity
+  - The impact of unequal wages on women's economic independence.
+  - Economic disparities, salary drops, and career setbacks for mothers.
+  - The need for paid leave and family support to address these challenges.
 
-## Envy
-- Envy is a complex emotion that impacts women's lives and relationships.
-- Envy is influenced by historical and cultural context, societal expectations, gender roles, and the patriarchy.
-- Envy arises from unfulfilled desires, comparing oneself to others, and feeling limited by societal norms.
-- Envy should be acknowledged and understood, not dismissed or suppressed.
-- Intergenerational dynamics between mothers and daughters can be strained due to conflicting ambitions and unfulfilled dreams.
-- Understanding, empathy, and open dialogue are essential in navigating these relationships.
-- Expanders are individuals who have achieved what one desires and can serve as examples of success and fulfillment.
-- It is important to find expanders who have faced similar challenges and whose accomplishments feel attainable.
-- Desire should be redefined, removing shame and judgment associated with expressing wants and dreams.
-- Women should support and uplift each other, transforming envy into inspiration and possibility in a sisterhood.
+## Envy: Believing Envy to Be Sinful, We Deny Our Own Wanting
+- Introduction: Envy, Ambivalence, and Desire
+  - The pervasive nature of envy among women and its impact on their relationships.
+  - The complex interplay between mothers and daughters, exploring their struggles with ambition and choice.
+- Historical Context and Legacy
+  - The enduring influence of the patriarchy on women's choices.
+  - Generations of women who sacrificed personal desires for safety and comfort.
+  - The unspoken rivalry between mothers and daughters due to differing life paths.
+- Ambivalence and Unlived Lives
+  - The concept that a child's life can be influenced by the unfulfilled dreams of their parents.
+  - The guilt and impact felt by children due to their parents' sacrifices.
+  - The struggle of mothers to balance their desires with societal expectations.
+- Desire as Individuation
+  - The need for women to embrace their desires as a crucial aspect of individual growth.
+  - The importance of women voicing their desires truthfully and encouraging others to do the same.
+  - Overcoming societal judgments and nurturing desires without stifling them.
+- The Buddha's Teachings on Desire
+  - Correcting misconceptions about desire and Buddhism.
+  - The balance between self-expression, attachment, and detachment.
+  - Encouraging self-expression while acknowledging that external outcomes are beyond control.
+- Expanding Desires: The Role of Expanders
+  - Introducing the concept of "expanders" and "fragment expanders."
+  - Using expanders as examples of what's achievable, breaking free from scarcity mindset.
+  - Shifting from envy to expansion, where others' success fuels personal potential.
+- Creating a New Paradigm for Expressing Desire
+  - Overcoming shame, embarrassment, and judgment associated with expressing desires.
+  - Fostering sisterhood by sharing information, resources, and aspirations.
+  - Embracing envy as an invitation for individual expression and growth.
+  - The connection between shaming others and limiting one's own potential.
 
-## Pride
-- Pride is often shamed and seen as narcissistic, especially for women.
-- Conflating pride with arrogance leads to "echoism," where individuals disconnect from their feelings of pride.
-- "Healthy narcissism" is recognizing one's specialness and feeling empowered to use one's talents.
-- Feeling pride is essential for healthy self-esteem and personal growth.
-- Everyone has a universal need to feel special.
-- Pride, equality, and individual contribution are interconnected.
-- Celebrating one's specialness without shame is necessary for self-expression and contributing to society.
-- Women should embrace their gifts and contribute them to society.
-- The cultural tendency to idolize alpha males overlooks the contributions of others.
-- Humility is knowing oneself and embracing one's true self.
-- Balance, collaboration, and recognizing the value of each individual's role are important in life.
+### Pride: Believing Pride to Be Sinful, We Deny Our Own Talents
+- Understanding Echoism, Pride, and Self-Expression
+  - Echoists: Individuals who fear being a burden and avoid seeming narcissistic.
+  - Core feature of echoism: Fear of appearing narcissistic; pride conflated with arrogance.
+  - Healthy narcissism: Balance between echoism and narcissism, essential for self-esteem.
+  - Importance of feeling special: Desire for uniqueness and significance is common in humans.
+  - Echoism's impact: Fear of pride limits self-expression; need to find a middle ground.
+- Importance of Pride and Specialness
+  - Feeling special and pride: Essential for healthy self-esteem and empowerment.
+  - Research findings: Most people believe they are better than others, indicating the desire to feel special.
+  - Ego and identity: Ego as a unique identity and purpose is crucial for a global community.
+  - Women's role: Women are conditioned to serve the whole; their gifts are essential for survival.
+  - The wounds of echoism: Lack of acknowledgment in childhood affects self-esteem.
+- Balancing Humility and Self-Knowledge
+  - Struggle with pride and humility: Finding balance in acknowledging one's uniqueness.
+  - Self-understanding: The danger of burying true self for an illusionary self.
+  - True self vs. illusion self: Embracing authenticity and vulnerability for growth.
+  - Cultivating healthy ego: Recognizing one's specialness without shame.
+- Embracing and Supporting Unique Gifts
+  - Discovering unique gifts: Importance of recognizing and nurturing individual talents.
+  - Supporting others: Celebrating others' uniqueness rather than minimizing oneself.
+  - Leadership and humility: Leadership qualities in women, balancing confidence and humility.
+  - Recognizing hidden contributions: Valuing roles beyond the spotlight.
+- Impact of Liberation and Pride
+  - Liberating oneself: Freedom and agency can't be given by others; individual journey.
+  - Modeling liberation: One's liberation can inspire others to embrace their uniqueness.
+  - Self-love and service: Importance of loving oneself before loving others.
+  - Embracing pride: Finding a middle ground between humility and celebrating one's unique self.
 
-## Gluttony
-- Complex relationship between food, body image, and societal norms
-- Discussion of psychological and emotional aspects of disordered eating
-- Highlighting struggles faced by individuals with anorexia and compulsive eating habits
-- Behaviors stem from desire for control and numbing/dissociating from emotions
-- Body as mediator between soul and external world
-- Being in a body described as challenging experience
-- Trauma, including adverse childhood events, contributes to disordered eating patterns
-- Personal stories, like Roxane Gay's memoir "Hunger," illustrate impact of trauma on body relationship
-- Body positivity and inclusivity still place emphasis on body as measure of identity and value
-- Aim for body neutrality, accepting and appreciating one's body without external validation
-- Pursuit of freedom and peace with body, listening to body, being present during meals
-- Rejection of female body in patriarchal society perpetuates body image issues
-- Need for structure that allows individuals to exist without conforming to body standards
-- Advocacy for self-acceptance and recognition of diverse body shapes and sizes.
+## Gluttony: Believing Gluttony to Be Sinful, We Deny Our Own Hunger
+- Introduction
+  - The excerpt delves into the complex relationship between body image, self-worth, and societal standards.
+  - The ongoing battle against weight, body shaming, and self-control is explored.
+- Anorexia and Compulsive Eating
+  - Marion Woodman's Jungian perspective explains anorexics' desire to feel light and untethered, while compulsive eaters seek to concretize themselves.
+  - Both behaviors are rooted in numbing and dissociation, reflecting a struggle for control.
+- Geneen Roth's Perspective
+  - Geneen Roth's views from "Women Food and God" illustrate the spectrum between "Permitters" and "Restrictors" regarding food.
+  - Restrictors focus on control and fear chaos, linking body size to personal suffering and life control.
+- Trauma and Its Effects
+  - ACEs and obesity are linked through adverse childhood events like abuse, neglect, and mental health challenges.
+  - Personal experiences, such as Roxane Gay's trauma, can lead to using food as armor against vulnerability and violation.
+- The Body's Significance
+  - The body acts as an intermediary between the soul and the world, impacting our connection and self-perception.
+  - Society's obsession with body size and appearance contributes to disconnection and self-consciousness.
+- Reconnecting to Hunger and Emotions
+  - Personal experiences involving chiropractic and MDMA-assisted therapy emphasize the disconnection from the body.
+  - Learning to listen to the body's signals and emotions is a journey towards healing and understanding.
+- Rejecting the Female Body and Body Positivity
+  - Society's obsession with body image leads to trauma and self-rejection.
+  - Body positivity may not provide genuine solutions, as it still centers on the body's exterior and dictates feelings.
+- Neutrality and Freedom
+  - The call for neutrality over body positivity to address body-related issues.
+  - Embracing freedom from societal norms allows for acceptance and genuine exploration of individual bodies.
+- Implications of Bias and Discrimination
+  - Society's bias and discrimination against different body sizes affect many aspects of life, from employment to health care.
 
-## Greed
-- Greed & financial impact on lives
-- Personal anecdote: author's experience at wellness retreat & temptation for extravagant purchases
-- Worth vs value: external validation vs personal/internal
-- Challenges for women in negotiating & advocating for worth
-- Myth of scarcity & its impact on mindset, especially for women
-- Zero-sum thinking & belief in finite resources, sufficiency as goal
-- Balancing wants & needs, importance of distinguishing them
-- Societal conditioning that restrains women from wanting more
-- Proposal: shift towards sufficiency, meeting basic needs & fostering joy and community.
+## Greed: Believing Greed to Be Sinful, We Deny Our Own Security
+- Panchakarma and Consumerism:
+  - The author embarks on a five-day Indian cleanse, during which she's supposed to relinquish decision-making power to an Ayurvedic doctor.
+  - Despite the detox process, she finds herself drawn to a gift shop with jewelry and struggles with the desire to acquire material possessions.
+  - The author learns about Vedanta, an ancient Indian philosophy, which teaches the importance of separating from desires and practicing conscious awareness.
+- Challenges in Defining Worth:
+  - The author reflects on the cultural equating of worth and value.
+  - Women often struggle to define their worth in professional settings and negotiate for themselves.
+  - Societal expectations of women being conciliatory hinder their negotiation skills.
+- Gender Disparities and Negotiations:
+  - Research indicates that women excel at making deals but not when advocating for themselves.
+  - Women tend to undervalue their own worth and struggle with self-advocacy.
+  - Women's difficulty in negotiating for themselves contributes to gender pay disparities.
+- Perceptions of Scarcity and Greed:
+  - Scarcity mindset impacts decision-making, causing tunnel vision and impaired thinking.
+  - Women often feel they don't have enough in various aspects of life, leading to anxiety and a sense of inadequacy.
+  - Greed and desires are contrasted against the concepts of needs and sufficiency.
+- A Balanced Perspective on Money and Needs:
+  - The author works on healing her relationship with money and distinguishing between wants and needs.
+  - A balanced financial perspective involves articulating needs clearly and understanding what sufficiency means.
+  - Society's obsession with more contrasts with the idea of having enough for a fulfilling life.
+- Community and Belonging:
+  - The author discusses how individuals in communal societies shared and collaborated for survival.
+  - The emphasis on "you-or-me" thinking contrasts with a more inclusive "you-and-me" perspective.
+  - Greed and scarcity are at odds with the idea of belonging and caring for one another.
+- Reframing the American Dream:
+  - The author questions the societal definition of success and prosperity.
+  - A focus on needs, sufficiency, and shared resources can lead to a more balanced and fulfilling life.
+  - American societal norms often prioritize individualism and wealth accumulation over community well-being.
 
-## Lust
-- Complex nature of human desire, focusing on women's experiences and societal perceptions
-- Stigmatization of lust and female desire throughout history
-- Shame/guilt associated with expressing sexual needs and fantasies
-- Portrayal of women's sexuality in literature, fairy tales, and popular culture
-- Societal conditioning and its impact on women's understanding of acceptable desires
-- Power dynamics and control in sexual relationships: consensual vs non-consensual acts
-- Emphasis on embracing fantasies and desires for safety and empowerment
-- Rejection of the notion that submission contradicts feminist ideals
-- Cultural and historical aspects of lust, connected to sexual repression and patriarchal control
-- Advocacy for balanced power dynamics and recognition of interdependence between genders
-- Significance of pleasure, vulnerability, and surrender in sexual experiences
-- Reconnection with the body and recognition of lust as essential to human existence
-- Emphasis on embracing and understanding desires to tap into creative potential and enhance connections with self and others.
+## Lust: Believing Lust to Be Sinful, We Deny Our Own Pleasure
+- Summary of Main Ideas
+- Introduction
+  - The author explores the dynamics of women's sexuality, desire, and cultural conditioning.
+  - The article delves into the complexities of female sexual response, societal expectations, and personal desires.
+- Desire, Identity, and Cultural Context
+  - The article questions whether lesbians possess more precise desires due to societal pressures and a need for clearer expressions.
+  - The distinction is made between heterosexual women's objectification and the liberation of mutual desire in same-sex relationships.
+  - Female fantasies often revolve around elements of dominance and submission due to cultural conditioning.
+- Power, Consent, and Fantasy
+  - Differentiating between rape and ravishment, the article highlights power dynamics and the role of mutual desire.
+  - The concept of empowering someone else to fulfill fantasies of dominance as a form of self-reassurance is explored.
+  - Women's fantasies of being dominated can be tied to societal pressures and cultural conditioning.
+- Sexual Arousal and Mind-Body Connection
+  - Excitement and arousal are generated by the mind, showing the psychological complexity of sexual responses.
+  - Fantasies reflect what's required for individuals to feel safe and become aroused.
+  - The article suggests that many women who fantasize about being dominated might do so due to feelings of being "too much."
+- Changing Cultural Paradigms
+  - The article envisions a balanced era where gender norms are transcended and power is expressed through love.
+  - The rise of the trans movement reflects a desire to move beyond binary constructs.
+  - A new era characterized by interdependence, ecological partnership, and mutual respect is proposed.
+- Sacred Sexuality and Liberation
+  - The article explores the sacred aspects of sex, vulnerability, and connection to the divine.
+  - Chastity and repression are criticized as denying human beauty and experience.
+  - The concept of liberation through sexual release is discussed, likening orgasms to a "little death."
+- Embracing Lust and Pleasure
+  - The suppression of lust and desire is related to societal fears of losing control and death.
+  - The article suggests that embracing lust is essential to reclaiming pleasure and creative potential.
+  - Lust is seen as a portal to fully experiencing the world and unlocking creative power.
 
-## Anger
-- Anger is significant and transformative, particularly for women's experiences
-- Understanding and harnessing anger is important for change and personal growth
-- Society often dismisses or invalidates women's anger
-- Anger can be a valid and necessary emotion for social justice and equality
-- Anger is rooted in personal and collective experiences of oppression and unmet needs
-- Anger can be both destructive and constructive, depending on expression and channeling
-- Women need to reclaim and redefine their anger, moving beyond stereotypes and constraints
-- Healthy anger involves integrating it with other emotions and self-reflection
-- Anger intersects with other emotions and societal structures perpetuate it
-- Individuals should take responsibility for their emotions and advocate for their needs
-- Examples from history, literature, and personal experiences demonstrate the power of anger for positive change
-- Individual and collective transformation are needed for a more equitable society
+## Anger: Believing Anger to Be Sinful, We Deny Our Own Needs
+- Introduction:
+  - The cultural perception of women's anger as negative or dangerous.
+  - The suppressed anger in women has historical roots and is deeply linked to societal expectations.
+- The Power of Anger:
+  - Anger has been vital for social progress and change.
+  - Women's anger has historically been suppressed to maintain patriarchal control.
+  - Harnessing anger can lead to healthy expression, self-empowerment, and meaningful change.
+- Anger and Gender Dynamics:
+  - Gendered expectations shape how anger is perceived and expressed.
+  - Women face a double bind in expressing anger: either seen as too aggressive or too passive.
+- Anger as a Force for Change:
+  - Viewing anger as a transformative force, not just destructive.
+  - Anger is an internal signal of unmet needs and boundaries.
+  - Women's anger is a response to injustice and an essential element of social progress.
+- Anger and Feminism:
+  - The intersection of anger and feminism.
+  - Women's collective anger challenges societal norms and systemic inequalities.
+- Anger as a Tool for Personal Growth:
+  - Personal experiences of anger leading to self-discovery.
+  - Utilizing anger to break free from societal expectations and personal limitations.
+- Navigating Anger Responsibly:
+  - The importance of expressing anger skillfully and constructively.
+  - Channeling anger into positive action, not harmful behavior.
+  - Embracing anger as part of the journey toward self-awareness and empowerment.
+- The Role of Men's Anger:
+  - The impact of toxic masculinity and its roots in unexpressed sorrow.
+  - Men must transform their destructive anger into productive change.
+- Collective Responsibility and Transformation:
+  - The need for individuals to take responsibility for their emotions.
+  - Addressing societal issues through collective action and change.
+  - Shifting from blame and shame to accountability and growth.
 
-## Sadness
-- Importance of acknowledging and embracing sadness as a human emotion
-- Challenging societal norms and toxic masculinity
-- Men need to reconnect with Divine Feminine and embrace emotional vulnerability
-- Consequences of suppressing emotions and conforming to societal expectations
-- Men outsourcing emotional processing to women in their lives
-- Significance of emotional granularity and emotional intelligence in both men and women
-- Questioning societal pressure on men to repress emotions
-- Trauma of toxic masculinity in overt and subtle forms
-- Impact of patriarchy on men and their suffering
-- Intergenerational transmission of trauma and breaking the cycle
-- Men confronting emotional struggles and reclaiming tenderness
-- Importance of mutual support for a balanced and empathetic society
-- Sadness not a weakness or solely associated with femininity
-- Embracing sadness as part of the human experience for full humanity
-- Women leading the way in acknowledging and accepting sadness for emotional growth and healing
+## Sadness: Believing Sadness to Be Sinful, We Deny Our Own Feelings
+- Introduction:
+  - The need for men to embrace their Divine Feminine and move from toxic masculinity to balanced versions.
+  - Men are expected to be dominant and in control, suppressing emotions and vulnerability.
+- Challenges for Men:
+  - Men are discouraged from expressing emotions, often outsource emotional processing to women.
+  - Boys are pushed out of their natural expressive-affiliative mode into stereotypical masculine behaviors.
+  - Emotional intelligence (EQ) is undervalued compared to intelligence quotient (IQ).
+- Parenting and Emotional Connection:
+  - Parents treat boys and girls differently in terms of emotional processing.
+  - Boys are discouraged from being vulnerable and seeking emotional nurturance.
+  - Cultivation of emotional granularity is essential.
+- Trauma and Toxic Masculinity:
+  - Both overt and subtle trauma impact men's emotional health.
+  - Disconnection from emotions leads to destructive behaviors and mental health issues.
+  - Men are affected by internalized disconnection, leading to covert depression.
+- The Path Forward:
+  - Men must acknowledge their feelings and embrace vulnerability.
+  - Toxic masculinity has societal repercussions, leading to violence and abuse.
+  - Men's liberation is essential for a more balanced society.
+  - The culture needs to shift its norms and expectations for men.
+
+## Conclusion: Realignment
+- Introduction
+  - The author reflects on a conversation with Carissa Schumacher, a woman who channels the divine, discussing the need for space and stillness.
+  - The pandemic provided an opportunity for introspection and a pause from the busyness of life.
+  - The disruption led to a reevaluation of societal norms and personal identity.
+- Reclaiming Authenticity
+  - The author explores the impact of cultural conditioning on self-identity and behavior.
+  - The concept of the Seven Deadly Sins is revisited, emphasizing their role as internal guides rather than external moral judgments.
+  - The Gospel of Mary is referenced as a source of wisdom, challenging the idea of sin and encouraging self-ownership.
+- The Seven "Forms" of Balance
+  - The author breaks down the "seven forms" presented in the Gospel of Mary, connecting them to modern issues and personal struggles.
+  - These forms represent internal struggles and points of resistance, encouraging self-awareness and balance.
+- Returning to Balance
+  - The author discusses the addiction to pleasure and power, leading to an imbalance and unsustainable behavior.
+  - The importance of embracing both masculine and feminine energies is highlighted, fostering wholeness and freedom.
+  - The author urges a shift in societal structures, encouraging equity, nurturing, and community.
+- Embracing Self and Others
+  - The need to reject external authority and embrace inner knowing is emphasized.
+  - The author encourages self-expression, embracing complexity, and avoiding judgment.
+  - The idea of surrendering to life's cycles and emotions is discussed, leading to healing and joy.
