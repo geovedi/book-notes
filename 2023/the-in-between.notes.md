@@ -64,7 +64,7 @@ Author: Hadley Vlahos, RN
 
 ## Carl
 - Introduction:
-  - Hadley Vlahos, a hospice nurse, shares her experiences in caring for patients nearing the end of life.
+  - Hadley shares her experiences in caring for patients nearing the end of life.
   - The narrative highlights her interactions with Mr. Carl and his wife, Ms. Mary, along with insights into the challenges and emotions of her role.
 - Initial Patient Interaction with Mr. Carl:
   - Hadley's nervousness as she prepares to take on her first patient, Mr. Carl.

@@ -1,0 +1,1002 @@
+
+# Unscripted
+Author: James B. Stewart
+
+## Preface
+- Introduction: CBS' Toxic Work Environment
+  - An October 2018 email to The New York Times confirmed CBS' toxic work environment allegations.
+  - Leslie Moonves, CBS chairman and CEO, had resigned following accusations of sexual advances by twelve women.
+  - The resignation marked the start of a larger story that unraveled internal investigations and board dynamics.
+- Media Investigation
+  - Media reporter Rachel Abrams and business columnist James B. Stewart at The New York Times were investigating different aspects.
+  - Abrams focused on CBS' internal investigation, questioning its sincerity.
+  - Stewart delved into the CBS board's handling of accusations against Moonves.
+- Initial Email and Collaboration
+  - A confidential source's email alerted the Times about deeper issues surrounding Moonves' departure.
+  - The source seemed credible and motivated by a desire to expose abuse of power and corporate cover-ups.
+  - Abrams and Stewart collaborated, combining their findings from different angles.
+- Explosive Revelations
+  - Multiple sources provided materials documenting a saga of sex, lies, and betrayal within CBS.
+  - Moonves was the first major CEO forced to resign due to predatory sexual behavior.
+  - CBS' influence on American politics and culture added significance to the case.
+- CBS Board and Corporate Power Dynamics
+  - Moonves reported to a board of directors, which included influential figures.
+  - National Amusements Incorporated, led by Sumner M. Redstone's family, held controlling voting power.
+  - Shari Redstone, Sumner's daughter, was in a power struggle and unprepared for the male-dominated industry.
+- Moonves' Actions and Corporate War
+  - Moonves declared war on the Redstone family by seeking to remove their voting power.
+  - The mystery arose about why Moonves risked corporate war despite impending exposure of his sexual misconduct.
+  - Historical media moguls often evaded consequences for their behavior.
+- Changing Media Landscape
+  - Traditional media faced disruption from streaming services like Netflix.
+  - The industry confronted technological advancements and evolving cultural norms.
+  - The "casting couch" culture and harassment accusations received attention.
+- Redstone Family and Governance
+  - Sumner Redstone's media empire faced turmoil due to generational transition, technological changes, and social shifts.
+  - Legal battles and internal clashes emerged as the Redstone family tried to assert control.
+  - Similar forces played out in various public companies dealing with change.
+- Inside the Drama
+  - The story revealed clashes behind the scenes at Beverly Hills mansion, CBS' headquarters, and courtrooms.
+  - Characters included corporate figures, family members, and Hollywood personalities.
+  - Access to confidential materials offered insight into the inner workings of public companies.
+- Underlying Motives
+  - Money, power, and love were insufficient for many individuals in the story.
+  - The drama extended beyond CBS and Viacom, reflecting broader issues in American business and society.
+  - A growing backlash emerged against self-serving elites who escaped consequences.
+
+## Trailer
+- George Pilgrim's Connection to the Holland-Naylor Litigation
+  - In 2014, actor George Pilgrim noticed an article about billionaire Sumner Redstone's girlfriend, Sydney Holland, in The Hollywood Reporter.
+  - Sydney Holland was engaged in litigation against Heather Naylor, who starred in the MTV series "The Electric Barbarellas."
+  - Pilgrim had personal issues with Naylor due to a previous encounter and reached out to Holland on Facebook, offering information about Naylor.
+- George Pilgrim's Background and Motives
+  - George Pilgrim, a former actor, had a history of media appearances, including reality TV and soap operas.
+  - Pilgrim had impersonated being George William Randolph Hearst III, a wealthy heir, for fame and entry to elite circles.
+  - Despite his criminal record, Pilgrim believed his acting talent was overlooked compared to other actors with records.
+- Contacting Sydney Holland
+  - Pilgrim contacted Sydney Holland via Facebook, expressing support for her legal battle against Naylor.
+  - He mentioned having information about Naylor and indicated willingness to share it.
+- Initial Attempts and Communication with Holland
+  - Pilgrim used various tactics to get Holland's attention and response.
+  - After multiple messages, Pilgrim's barrage of messages prompted Holland to inquire about his identity.
+- Conversation with Sydney Holland
+  - Holland eventually responded and arranged to meet Pilgrim at a rooftop pool at the Peninsula Beverly Hills hotel.
+  - Holland revealed that the "high-profile individual" she referred to was Sumner Redstone, a billionaire media mogul.
+  - Pilgrim learned of Redstone's ownership of Paramount and Simon & Schuster and his significant influence in Hollywood.
+- Holland's Offer and Connection to Sumner Redstone
+  - Holland offered to assist Pilgrim by buying the movie rights to his autobiography, "Citizen Pilgrim," for her production company.
+  - She promised to help him achieve his ambitions and mentioned a psychic prediction about meeting someone like him.
+- Intense Interaction and Offer Consideration
+  - During their conversation, Pilgrim and Holland shared intense moments and attraction.
+  - Pilgrim was living with another woman but Holland dismissed the concern, assuring she would take care of him.
+
+## Season 1
+
+### "I'm Going to Hell Anyway"
+- Introduction: Sumner Redstone and his Complex Relationships
+  - Sumner Redstone's connections in Hollywood and Wall Street were well-known.
+  - He was involved with Holland, his caregiver, who held substantial power.
+  - Holland aimed to control media companies, aided by her ally Manuela Herzer.
+  - Sumner and Holland were engaged, maintaining certain advantages.
+  - Shari Redstone, Sumner's daughter, had a complicated relationship with him.
+  - Holland and Herzer hoped to replace Sumner's grandchildren in his trust.
+- Sumner Redstone's Background and Rise to Power
+  - Sumner Redstone's origins from modest circumstances.
+  - His education, early career, and involvement in the movie business.
+  - His strategic acquisitions, transforming drive-ins into multiscreen theaters.
+  - A fire incident and his determination to succeed.
+- Sumner's Marriages and Relationships
+  - Sumner's relationship with Delsa Winer and its discreet nature.
+  - Marriage to Phyllis Raphael, his wife of decades.
+  - Sumner's affairs with Christine Peters and Herzer.
+  - His marriage to Paula Fortunato, her influence, and their divorce.
+- Collaborators and Business Endeavors
+  - Les Moonves, a TV executive, and his role in CBS's success.
+  - Moonves's competitive nature and connection to Sumner.
+  - Sumner's involvement in CBS's success while giving Moonves autonomy.
+  - Philippe Dauman, another close advisor to Sumner.
+- Media Attention and Personal Struggles
+  - Media attention to Sumner's life and relationships.
+  - Sumner's public appearances and health issues.
+  - Outbursts and erratic behavior, including relationships with Peters and Herzer.
+- Challenges and Divorces
+  - Sumner's objections to Tom Cruise's behavior.
+  - Divorce from Paula Fortunato and their public statements.
+  - Sumner's financial settlements with Paula.
+
+### "Sumner in a Skirt"
+- Shari's Involvement in the Family Business
+  - Sumner Redstone's children, Brent and Shari, initially pursued independent careers.
+  - Shari was initially not directly involved in the family's media and entertainment acquisitions.
+  - Sumner persuaded Shari and her husband, Ira Korff, to become more involved in National Amusements.
+  - Korff became the company's president, overseeing its international expansion.
+  - Shari joined National Amusements and contributed to its growth and adaptation to changing markets.
+- Rivalry and Struggles within the Family
+  - Sumner often tried to convince his children to join the family business full-time.
+  - Brent eventually agreed to join the National Amusements board but had less influence.
+  - Shari resisted initially, focusing on a law career and family, but later joined National Amusements.
+  - Shari's efforts led to company expansion and adapting to new industry challenges.
+  - Tensions arose between Shari and her father due to differences in management approaches and strategies.
+- Succession and Control Disputes
+  - Sumner sought to have his children succeed him in leadership roles.
+  - Brent's relationship with Sumner deteriorated due to disagreements and personal conflicts.
+  - Sumner's relationship with Shari was also strained over business decisions and leadership roles.
+  - Sumner often belittled Shari's ideas and dismissed her opinions in board meetings.
+  - Shari's growing influence led to Sumner's attempts to limit her role and control over the company.
+- Splitting Viacom and Disagreements
+  - Sumner proposed splitting Viacom into separate entities to handle different assets.
+  - Shari opposed the split, emphasizing the benefits of a vertically integrated entertainment company.
+  - Sumner's determination to proceed with the split strained his relationship with Shari.
+  - Shari felt her input was marginalized and clashed with her father over investments and decisions.
+  - Sumner's contentious investments and disregard for Shari's input further fueled conflicts.
+- Public Humiliation and Family Discord
+  - Sumner publicly criticized Shari's business judgment and abilities.
+  - Their disputes and Sumner's demeaning comments strained their relationship further.
+  - Shari's attempts to voice her opinions were met with dismissal and belittlement.
+  - Shari's efforts to uphold governance standards faced opposition from Sumner and Dauman.
+  - Shari's attempt to prevent charitable gifts led to further division and public disputes.
+- Financial Crisis and Resolutions
+  - The financial crisis in 2008 impacted National Amusements' financial stability.
+  - Shari took advantage of Sumner's vulnerability to negotiate a better position within the company.
+  - Sumner and Shari reached an agreement to avoid legal battles, granting Shari certain concessions.
+  - An uneasy truce was established between father and daughter, marked by concessions and compromises.
+  - Despite their reconciliation, deep-seated wounds from their conflicts remained.
+
+### Sumner Will Live Forever
+- Malia Andelin's Encounter with Sumner Redstone:
+  - In 2008, Malia Andelin turned to becoming a flight attendant on private jets after the real estate market crashed.
+  - She met Sumner Redstone, an influential media mogul, on a flight and experienced his inappropriate behavior.
+  - Sumner harassed Andelin with suggestive comments and requests for her contact information.
+  - Despite her refusals, Sumner persisted and eventually got her phone number.
+- Unwanted Advances and Manipulation:
+  - Sumner bombarded Andelin with calls and messages, attempting to coerce her into a dinner invitation.
+  - He sent her expensive gifts and offered her monetary compensation for lost work opportunities.
+  - Despite feeling cornered, Andelin reluctantly agreed to dinner, fearing his power and wealth.
+- Further Involvement and Manipulation:
+  - Andelin began visiting Sumner's mansion regularly, receiving monetary compensation from him.
+  - Sumner confided in Andelin and disparaged his own children in her presence.
+  - She formed an uneasy relationship with Shari, Sumner's daughter, who advised her to speak her mind to Sumner.
+- Sumner Redstone's Extravagant Relationships:
+  - Sumner had a history of dating and supporting young women financially, even while pursuing Andelin.
+  - He was involved with Rohini Singh and Terry Holbrook, showering them with gifts, money, and property.
+  - Sumner frequently altered his trust to include numerous beneficiaries, many of whom were women he dated.
+- Sumner's Public Image and Eccentric Behavior:
+  - Sumner flaunted his vitality and claimed to have reversed aging, even at age 85.
+  - He pursued unusual projects, such as a reality TV show featuring a girl group, the Electric Barbarellas.
+  - His attempts to control media narratives and unmask sources exposed his eccentric behavior.
+  - Sumner's behavior raised questions about his mental state and the appropriateness of his conduct.
+
+### The Inner Circle VIP Social Club
+- Background and Introduction
+  - In 2010, Brandon Korff sought Patti Stanger's help to find a companion for his grandfather, Sumner Redstone.
+  - Sumner's frequent dating and lavish gift-giving were causing issues, and Brandon wanted stability for his grandfather's personal life.
+- Brandon's Involvement and Relationship with Sumner
+  - Brandon Korff, Sumner's grandson, engaged Patti Stanger to find a suitable romantic partner for Sumner.
+  - Brandon had observed Sumner's behavior closely, witnessing his dating habits and extravagant lifestyle.
+  - Their relationship was sometimes strained due to Sumner's demands and their shared romantic interests.
+- Patti Stanger and Millionaire Matchmaking
+  - Patti Stanger, known as the "Millionaire Matchmaker," ran a successful matchmaking service.
+  - She interviewed millionaires, screened dates, and organized matches for her clients, all documented for her reality TV show.
+  - Stanger's no-nonsense approach often led to controversies, but she emphasized traditional values in love and relationships.
+- Patti Meets Sumner and Their Relationship Develops
+  - Patti met Sumner Redstone in person to "read his energy" and assess his suitability for matchmaking.
+  - Despite his age (86), disfigured hand, and eccentricities, Sumner intrigued Stanger.
+  - Sumner showed interest in dating middle-aged women, leading to a unique set of options.
+- Sumner's Dating Experience and Patti's Involvement
+  - Sumner's first date, Renee Suran, left him smitten, but she didn't reciprocate his feelings.
+  - Sumner often called Stanger after dates, expressing dissatisfaction with matches.
+  - Over time, Sumner and Stanger developed a close relationship with playful banter and mutual respect.
+- Sydney Holland: A New Prospect
+  - Patti Stanger suggested Sumner meet Sydney Holland, a friend of hers with similar attributes.
+  - Holland had a history of relationships with older men and had faced financial struggles.
+  - Holland's background and interests aligned well with Sumner's, making her a potential match.
+- Sumner and Sydney's Relationship
+  - Sumner and Sydney's courtship began idyllically, sharing interests and spending extensive time together.
+  - Sydney became Sumner's girlfriend, accompanying him to events and public appearances.
+  - Sumner proposed to Sydney, and she happily accepted, receiving a diamond ring and numerous gifts.
+- Sydney's Financial Situation and Influence on Sumner
+  - Sydney's financial struggles were alleviated by Sumner's generosity, making her worth millions.
+  - She became deeply involved in Sumner's life, handling various matters from club memberships to relationships with women.
+- Patti's Advice and Sumner's Double Standard
+  - Patti advised Sydney to cater to Sumner's desires and not to cheat on him.
+  - Sumner upheld a double standard, expecting loyalty from his partners while maintaining numerous affairs himself.
+
+### "What's Mine Is Yours"
+- Introduction: Alexandra's Origins and Holland's Claims
+  - Alexandra bears resemblance to Sumner Redstone, raising speculation of being his biological daughter.
+  - Some believed Alexandra's middle name "Red" alluded to Sumner Redstone.
+  - Holland hinted that Sumner assisted in conceiving Alexandra, fueling inheritance claims.
+  - Holland denied Alexandra being Sumner's child, mentioning surrogate use.
+  - Despite paternity uncertainty, Sumner shared a close bond with Alexandra.
+- Naylor vs. Holland: A Jealous Rivalry
+  - Heather Naylor, an artist, believed Holland bad-mouthed her due to Sumner's interest.
+  - Naylor convinced Sumner of her talents, promising her TV shows and record deals.
+  - Naylor presented evidence of Holland's financial discussions and shared explicit photos.
+  - Herzer downplayed Naylor's efforts, highlighting her intentions.
+- Decline of Support and Careers
+  - Naylor's efforts led to Sumner's distancing from her, causing her career to stagnate.
+  - Naylor's TV show, "The Alectrix," faced poor ratings and was eventually canceled.
+  - Naylor's contact with Sumner waned; Holland sued Naylor for theft and sued Martinez.
+- Sumner's Financial Fortunes and Generosity
+  - Sumner's stock interests and wealth recovery post-financial crisis.
+  - Forbes valued Sumner's net worth at $4.7 billion.
+  - Holland successfully achieved her $20 million goal, benefiting from Sumner's support.
+  - Sumner assured Holland and Herzer of care, amending his estate plan to include them.
+  - Cash gifts and inheritances detailed for Holland, Herzer, and their children.
+  - Holland and Herzer would oversee the Sumner Redstone Foundation, alongside charity endeavors.
+- Holland's Ventures and Sumner's Relationship with Shari
+  - Holland established Rich Hippie Productions and engaged in real estate.
+  - Holland's property ventures included flipping houses.
+  - Shari Redstone excluded from Sumner's will but retained a stake in National Amusements.
+
+### "You Know How He Is About Women"
+- Holland and Herzer's Plan to Access Sumner's Stocks
+  - Holland and Herzer aimed to access over $200 million of Sumner's Viacom and CBS stock.
+  - Unlike the locked-up National Amusements stock, these securities were unrestricted.
+  - They wanted Sumner to sell the assets immediately and give them the proceeds.
+  - Holland and Herzer consulted trusts and estates lawyer Richard B. Covey.
+  - They discussed changing the trust, controlling the Sumner Redstone Foundation, and getting money immediately.
+  - A campaign ensued, with Paz and other staff hearing their attempts.
+- Resistance and Pressure on Sumner
+  - Holland and Herzer pressured Sumner for money, highlighting Shari's potential litigation.
+  - They suggested that Shari only cared about money and might contest any bequests.
+  - They argued the only way to ensure they received the money was immediate payment.
+  - David Andelman, Sumner's lawyer, raised tax objections to stock sale.
+  - Andelman raised tax concerns, frustrating Holland's plans.
+- Stock Sale and Financial Consequences
+  - Sumner sold $236 million in stock and options, triggering a depression.
+  - Sumner's account balance was unexpectedly $90 million less than Andelman expected.
+  - The money had been transferred to Holland and Herzer, draining Sumner's account.
+  - Andelman confronted Sumner, raising concerns of undue influence.
+- Legal Maneuvers and Family Dynamics
+  - Sumner hired new lawyer Leah Bishop and met geriatric specialist Dr. Spar.
+  - Sumner resisted claims of undue influence, demonstrating estate knowledge.
+  - Dr. Spar's report aimed to insulate Holland and Herzer from undue influence claims.
+  - Shari and her children expressed concern over Sumner's actions.
+  - Shari hired lawyers and ex-FBI agent to investigate Holland and Herzer.
+  - Sumner hired legal counsel to counter Shari's efforts.
+- Birthday Celebration and Ongoing Disputes
+  - Awkward birthday celebration for Sumner's ninety-first birthday occurred amid family tensions.
+  - Sumner continued shifting assets from Shari to Holland and Herzer.
+  - Dr. Spar's evaluation emphasized Sumner's intentions regarding his estate.
+  - Shari's pleas for financial assistance went unanswered, causing family distress.
+
+### "I Want My $45 Million Back"
+- Lawsuit and Media Attention:
+  - In a million-dollar lawsuit, Holland accused Naylor and Martinez of stealing her laptop.
+  - The lawsuit gained media attention when Naylor countersued, claiming Holland controlled Redstone's life and blocked independent access to him.
+  - The story's link to Sumner Redstone made it newsworthy, attracting tabloid speculation.
+  - Vanity Fair editor Graydon Carter assigned journalist William Cohan to investigate the story.
+  - A Hollywood Reporter article caught the attention of reality-TV star George Pilgrim, who connected with Holland.
+- Affair with Pilgrim:
+  - Holland and Pilgrim engaged in an affair despite the risks of infidelity and surveillance.
+  - They met at various locations, with Holland pursuing Pilgrim aggressively.
+  - Holland claimed to love Pilgrim and promised him power and wealth from her involvement with Sumner Redstone.
+  - They planned to live together after Sumner's death.
+  - Holland ensured her financial arrangements with Sumner were "iron clad" to secure their future together.
+- Financial Support and Gifts:
+  - Holland lavishly supported Pilgrim with gifts, including a house, membership in a prestigious club, health insurance, a new car, clothing, and healing crystals.
+  - She claimed to have control over Sumner's estate and promised Pilgrim a book deal.
+  - Holland frequently used private jets to meet Pilgrim, communicated via texts, and sent provocative videos.
+- Sumner's Health Deterioration:
+  - Sumner's health worsened; he became dependent on Holland, Herzer, and nursing staff.
+  - Holland and Herzer pressured Sumner into a New York trip, leading to a decline in his health.
+  - Caregivers raised concerns about Holland's neglect and improper feeding.
+  - Pilgrim overheard instances of Holland's dismissive treatment of Sumner, both before and after a choking incident.
+- Struggles with Family and Manipulation:
+  - Holland manipulated Sumner, isolating him from his family.
+  - Shari Redstone and her son, Tyler, visited Sumner to reassure him of their love but were ordered to leave by Holland.
+  - Staff members witnessed instances of verbal abuse by Holland and Herzer, controlling Sumner's environment and emotions.
+- Shari's Contemplation and Negotiation:
+  - Shari Redstone contemplated selling her stake in National Amusements to escape the family drama.
+  - She and her brother started negotiating for Sumner to buy out her stake in the company.
+- Impact on Sumner's Health:
+  - Sumner suffered aspiration pneumonia, brain damage, and deteriorating speech.
+  - He struggled with swallowing, needed a feeding tube, and couldn't walk unassisted.
+  - The family observed Sumner's declining health and emotional distress due to manipulation and mistreatment.
+
+### "This Is Your Family"
+- Background and Relationships:
+  - In 2014, Holland was engaged to Sumner, but she started texting and communicating with Pilgrim without mentioning her engagement.
+  - Pilgrim proposed to Holland through texts, and they both decided to run away and get married.
+  - They began referring to each other as "husband" and "wife" in their texts.
+  - Holland and Pilgrim planned to have a baby through artificial insemination and surrogacy.
+  - There were doubts and confusion about Alexandra's father's identity, causing tension.
+- Family Meetings and Dynamics:
+  - Holland introduced her parents to Pilgrim in Sedona, where an uncomfortable incident occurred involving comments about weight.
+  - Despite being engaged to Sumner, Holland and Pilgrim planned for their future together.
+  - Holland spent Christmas with Herzer and her children at Sumner's mansion, while Sumner remained alone in another room.
+  - Negotiations for selling Shari's stake in National Amusements faced challenges due to disagreements.
+- Control and Manipulation:
+  - Holland and Herzer sought control over Sumner's decisions and his relationship with his family.
+  - Sumner's deteriorating mental state and manipulation by Holland and Herzer were evident through conversations and emails.
+  - Holland and Herzer used threats to exclude family members from Sumner's funeral to exert control.
+- Complaints and Legal Involvement:
+  - Staff members, including nurses, lodged complaints against Holland and Herzer for emotional and financial abuse of Sumner.
+  - The CBS compensation committee awarded large bonuses to Sumner despite his declining health and reduced participation.
+  - Investigatory efforts by Adult Protective Services were hindered by Holland and Herzer's actions.
+- Internal Struggles and Resentment:
+  - Staff members were frustrated by Holland and Herzer's behavior, and some leaked information about their actions.
+  - Jagiello, a nurse, actively reported developments to Tyler and expressed strong negative feelings toward Holland and Herzer.
+
+### "You Want to Go to War?"
+- Vanity Fair Article and Public Relations
+  - Carl Folta, Viacom's head of public relations, tried to prevent an article by Vanity Fair reporter William Cohan.
+  - Holland and Herzer posed for interviews and photos for the article despite advice against it.
+  - The article portrayed Sumner Redstone as ailing and unable to speak coherently, raising concerns about his mental and physical condition.
+  - Holland and Herzer received positive attention in the article, while Sumner's health and state of mind were questioned.
+- Family Dynamics and Reactions
+  - Shari Redstone, Sumner's daughter, had no official comment on the article but expressed concerns about the portrayal of Holland and Herzer.
+  - Holland and Herzer's attempts to present themselves as Sumner's "family" and their statements about their relationship raised suspicions and anger within the Redstone family.
+  - Sumner's actions, like transferring money and changing burial instructions, heightened family concerns about Holland and Herzer's influence.
+- Pilgrim's Reaction and Concerns
+  - Pilgrim, Holland's boyfriend, was shocked and upset by the Vanity Fair article's portrayal of her relationship with Sumner.
+  - He felt betrayed, questioned their relationship, and confronted Holland about her actions.
+  - Pilgrim faced jealousy and possessiveness from Holland, leading to arguments and tension in their relationship.
+  - He expressed concerns about his own well-being, felt isolated, and ultimately checked into an alcohol rehab program under Holland's urging.
+- Funeral Planning and Family Concerns
+  - Holland and Herzer took control of Sumner's funeral and burial arrangements, causing outrage within the Redstone family.
+  - Sumner's family was deeply religious and saw the idea of Holland and Herzer taking over funeral plans as disrespectful and unsettling.
+  - The family's strong objection to this change reflected their concern about the extent of Holland and Herzer's influence over Sumner.
+- Pilgrim's Escape and Relationship Struggles
+  - Pilgrim heard gossip about Holland's relationship with Sumner, leading to feelings of insecurity and jealousy.
+  - Pilgrim and Holland's relationship was marred by secrecy, possessiveness, and jealousy.
+  - Holland's behavior, surveillance, and the challenges within their relationship pushed Pilgrim to question his role and commitment.
+  - Pilgrim's escape from rehab and return to Sedona further strained his relationship with Holland.
+
+## Season 2
+
+### "I'd Better Not Tell Manuela"
+- Relationship Reconciliation and Romantic Weekend
+  - After a heated argument, Pilgrim realized he still loved Holland and sought reconciliation.
+  - They spent a romantic weekend at a beach hotel, expressing love for each other and getting engaged again.
+  - Holland emphasized her commitment by risking her relationship with Sumner and financial security.
+- Legal Matters and Withdrawn Lawsuit
+  - Holland's lawsuit against Naylor and Martinez ended quietly, with her withdrawing her complaint due to lack of evidence.
+  - The judge ruled that Holland had to pay Naylor's legal bill.
+  - Holland's expenses, including legal costs, were covered by Sumner.
+- Rekindling and Confrontation
+  - Following their breakup, Pilgrim commuted between Sedona and Los Angeles, staying with his former girlfriend Amy Shpall.
+  - Pilgrim consulted a lawyer, Bryan Freedman, and considered confronting Holland legally.
+  - Pilgrim met Freedman and shared explicit evidence of his affair with Holland, including photos and texts.
+  - Freedman noted Pilgrim's potential leverage due to his knowledge of the affair and his willingness to go public.
+- Legal Negotiations and Settlement
+  - Freedman negotiated with Brad Rose, Holland's attorney, resulting in an offer of $10 million over ten years, along with other provisions.
+  - Pilgrim signed on with Freedman, agreeing to a 25 percent contingency fee for pursuing legal action.
+  - Pilgrim demanded a higher settlement, eventually receiving an offer over $10 million, under strict nondisclosure terms.
+  - The settlement negotiations addressed potential revelations in Pilgrim's autobiography.
+- A Drunken Revelation and Fallout
+  - After a night of heavy drinking, Pilgrim revealed his affair with Holland to Matt Marciano at a party.
+  - Marciano shared this information with Manuela Herzer, bringing to light Holland's affair and jeopardizing her position.
+  - Herzer saw the revelation as an opportunity to gain more from Sumner's inheritance.
+- Settlement Talks Collapse
+  - The information reached Freedman, causing confusion and frustration.
+  - Pilgrim's impulsive revelation had jeopardized a significant potential settlement.
+  - Settlement talks collapsed due to Pilgrim's disclosure.
+- Confession to Sumner and Chaos
+  - Holland confessed her affair to Sumner, seeking his forgiveness and understanding.
+  - Herzer interrupted the confession with wild allegations, accusing Pilgrim of being an ex-convict and fathering Holland's child.
+  - Herzer demanded Sumner kick out Holland immediately.
+  - Sumner ordered Holland to leave within two days, while Herzer pushed for her immediate departure.
+
+### "Operation Freedom"
+- Power Shift and Isolation of Family
+  - Herzer gained control after Holland's exit, erasing Holland from Sumner's will and increasing Herzer's share to $70 million.
+  - She took over as Sumner's sole health care proxy and aimed to limit interactions with Shari and her family.
+  - Herzer installed hidden cameras, controlled staff, and restricted information flow to Sumner.
+- Control Tactics and Conflicts
+  - Herzer displayed controlling behavior, cutting off family communication and prohibiting Sumner from seeing Shari.
+  - She hired Keryn for Sumner's care, set up a trust fund, and consolidated power by making decisions for him.
+  - Herzer orchestrated sexual encounters for Sumner, with strict control over his interactions with women.
+- Holland's Influence and Efforts
+  - Sumner remained fixated on Holland, talking about her frequently and showing continued affection.
+  - Holland attempted to reconcile by sending letters and messages expressing remorse and love.
+  - Herzer intercepted Holland's letters and manipulated their content to create confusion for Sumner.
+- Deception and Manipulation
+  - Herzer repeatedly altered and fabricated letters to manipulate Sumner's perception.
+  - Staff, including nurses and others, were coerced into participating in the deception.
+  - Herzer's domineering behavior led to discontent among the staff and resentment towards her.
+- Palace Coup and Rebellion
+  - Discontent among staff members led to a plan for a "palace coup."
+  - Staff members, including Jagiello and Octaviano, coordinated to expose the truth to Sumner.
+  - Text messages were exchanged, planning for revealing the truth about Herzer's manipulation and control.
+
+### "I Never Thought I'd See You Again"
+- Viacom's Troubles and Dauman's Leadership
+  - Viacom's stock had declined by 40% due to industry changes, including cord-cutting and streaming competition from companies like Netflix.
+  - Viacom's CEO, Philippe Dauman, faced criticism for his leadership and lack of adaptability in the changing entertainment landscape.
+  - Dauman's focus on dealmaking and defensive strategies resulted in missed opportunities and strained relationships within Hollywood and cable operators.
+- Strained Relations and Shari Redstone's Concerns
+  - Dauman's relations with Hollywood royalty and cable operators were strained due to his approach to business and lack of personal connections.
+  - Shari Redstone, Sumner's daughter, felt sidelined and undermined by Dauman's alliances with Holland and Herzer.
+  - Shari confronted Dauman about his suitability as CEO, but he disagreed and clung to his leadership position.
+- Deceptive Manipulation and Suspicion
+  - Herzer continued to manipulate Sumner through fabricated letters, concealed information, and controlling behavior.
+  - Staff members grew resentful and planned to reveal the truth to Sumner, though they hesitated due to fear of repercussions.
+  - Sumner's growing suspicion of Herzer's actions led to an increasing emotional distance between them.
+- Sumner's Change of Heart and Revolt
+  - Jagiello, Octaviano, Tuanaki, and other nurses confronted Sumner about the deceptions Herzer had forced them to participate in.
+  - Sumner was shocked by the revelations and decided to take action against Herzer's control.
+  - Bishop and lawyers met with Sumner, leading to a decision to remove Herzer as health care proxy and revise his estate plan.
+- Herzer's Exile and Sumner's Decision
+  - Herzer was denied access to Sumner's mansion by order of Bishop, as Sumner was fed up with her manipulation and control.
+  - A group of nurses and staff members revealed the extent of Herzer's deception to Sumner, leading him to confront her.
+  - Sumner demanded Herzer leave his house, and Bishop supported his decision by having Herzer escorted out.
+- Changes to Estate Plan and Acknowledgment of Deception
+  - Sumner decided to remove Herzer as health care proxy, change his estate plan, and cut Herzer and her children from his will.
+  - Dr. Spar assessed Sumner's mental capacity and understanding of the changes, and Sumner acknowledged Herzer's lies about Holbrook and the fabricated letter from Holland.
+
+### "I'm Not Going to Fire Him"
+- Shari's Involvement and Communication:
+  - Shari Redstone became extensively involved in her father Sumner Redstone's life, spending a significant amount of time with him at his mansion in Los Angeles.
+  - They communicated via FaceTime when apart and discussed business, sports, movies, and other matters when together.
+  - Shari hired professionals to oversee Sumner's medical care due to his declining health.
+  - There was tension between Shari and Viacom's CEO, Philippe Dauman, as she sought to address differences and honor her father's wishes.
+- Herzer's Lawsuit and Sumner's Health:
+  - Manuela Herzer, previously close to Sumner, filed a lawsuit to regain her position as his health care proxy, citing his diminished mental capacity.
+  - Herzer's lawsuit alleged Sumner's declining mental and physical state, generating media attention and shareholder concern.
+  - Shari broke the news of the lawsuit to Sumner, who feared Herzer's reinstatement.
+  - Herzer's lawsuit raised allegations of Sumner's obsession with food and sexual activity despite medical conditions.
+- Legal and Shareholder Reactions:
+  - Herzer's lawsuit generated sensational media coverage and drew varying reactions from different parties.
+  - Sumner's lawyers portrayed Herzer as a gold digger, while Shari's spokesperson emphasized her active role in Sumner's care.
+  - Activist investors and shareholders began questioning Sumner's fitness to lead and Viacom's performance, considering potential changes in leadership.
+- CBS and Shari's Influence:
+  - CBS and Viacom faced scrutiny due to Sumner's uncertain mental state and its impact on the companies.
+  - CBS independent directors formed a special committee to explore options for reducing Sumner's controlling interest.
+  - CBS CEO Leslie Moonves sought to maintain control and influence in the face of potential changes, garnering support from his team.
+- Sumner's Family Dynamics:
+  - Sumner attempted to restore harmony within the family, expressing his desire to bring them back together in his letter to Shari.
+  - Shari's presence during the Christmas holidays marked a return to normalcy, contrasting with the previous year's tense situation involving Herzer and Holland.
+- Overall Implications:
+  - The input highlights Shari Redstone's efforts to manage her father's affairs, the legal battles surrounding Sumner's health care proxy, shareholder concerns, and potential changes in leadership within CBS and Viacom. It also reflects the complex dynamics within the Redstone family.
+
+### "This Is Your Battle, Not Mine"
+- Herzer's Lawsuit and Sumner's Mental State:
+  - Herzer filed a lawsuit to reclaim her position as Sumner's health care proxy, claiming he lacked mental capacity.
+  - Dr. Stephen Read, a psychiatric expert, examined Sumner and found signs of dementia.
+  - Sumner displayed cognitive decline, impulsive behavior, and anger outbursts during the evaluation.
+  - Read concluded that Sumner's capacity was compromised when he changed his health care directive.
+- Leadership Transition and Board Changes:
+  - Sumner resigned as executive chairman and director of both CBS and Viacom.
+  - Shari declined the chair position at CBS, nominating Les Moonves instead.
+  - Shari expressed the need for independent leadership at Viacom.
+  - Viacom directors, including Shari, elected Philippe Dauman as chair.
+- Paramount Sale and Viacom's Financial Struggles:
+  - Dauman explored selling a stake in Paramount to Dalian Wanda.
+  - Selling Paramount stake was controversial due to Sumner's legacy and studio's value.
+  - Viacom's financial performance suffered, including a disappointing box office and falling stock prices.
+  - Dauman faced criticism and accusations of poor performance from analysts.
+- Sumner's Reaction and Shari's Involvement:
+  - Sumner felt betrayed by Dauman's plans to sell a large stake in Paramount.
+  - Sumner turned against Dauman and Abrams, expressing frustration and betrayal.
+  - Sumner asked Shari to stop the sale and expressed trust in her.
+  - Shari agreed to lead the fight against Dauman's plans on behalf of her father.
+
+### "A Public Spectacle"
+- Deposition of Sumner Redstone:
+  - Loeb & Loeb lawyers met Sumner at his mansion to prepare for a deposition.
+  - Sumner's physical frailty was evident, and communication was challenging.
+  - Sumner's mental state had been questioned in the Herzer lawsuit.
+- Legal Battles and Sumner's Mental State:
+  - Judge Cowan denied Sumner's motion to dismiss the Herzer case, citing cognitive impairment.
+  - Sumner's mental capacity became a central issue in the legal proceedings.
+  - Dr. Stephen Read's evaluation suggested severe cognitive impairment.
+  - Sumner's inability to perform tasks and contradictions in his statements raised concerns.
+  - Read concluded that Sumner was vulnerable to undue influence.
+- Viability of Sumner's Leadership:
+  - Sumner's mental decline raised concerns about his ability to lead major companies.
+  - Viacom and CBS directors felt Sumner should step down from his executive positions.
+  - Sumner resigned as executive chairman and director of CBS and Viacom.
+  - Shari's preferences for leadership clashed with existing trustees, like Dauman.
+- Dauman's Leadership Struggles:
+  - Dauman took over as Viacom's chair, facing financial challenges.
+  - Viacom's poor earnings, flops at the box office, and declining stock prices under Dauman's leadership.
+  - Dauman's strategy to focus on sequels faltered, and financial losses mounted.
+  - Dauman explored selling a stake in Paramount to Dalian Wanda.
+- Klieger's Involvement and Sumner's Wishes:
+  - Klieger, a new lawyer, engaged with Sumner to represent him in various matters.
+  - Klieger interacted with Sumner, gauging his mental state and understanding.
+  - Sumner expressed strong opposition to selling Paramount or any part of it.
+  - Klieger relayed Sumner's opposition to the proposed sale to Viacom board members.
+- Herzer Lawsuit and Settlement Attempts:
+  - Herzer's lawsuit gained momentum, with Shari's deposition scheduled.
+  - Sumner's anxiety over the lawsuit and his declining health.
+  - Herzer sought a settlement through mediation to avoid further legal battles.
+  - Negotiations resulted in a proposed $35 million settlement for Herzer, which she initially declined.
+- Complications and Failed Settlement:
+  - Herzer added additional demands to the settlement agreement.
+  - Herzer's demands, including attending Sumner's funeral, were rejected by the Redstone family.
+  - Herzer eventually agreed to the earlier $35 million settlement, but it was rescinded.
+- Dauman's Replacement and Legal Proceedings:
+  - Sumner appointed Shari as his new health care agent, replacing Dauman.
+  - Preparations for Sumner's deposition in the Herzer case took place.
+  - Sumner's physical and mental condition deteriorated on the day of the deposition.
+  - Sumner's responses during the deposition were minimal and erratic.
+
+### "A Modern-Day Love Story"
+- Trial of In re: Advance Health Care Directive of Sumner M. Redstone:
+  - The trial involved the case of Sumner M. Redstone's health care directive in Los Angeles Superior Court.
+  - The proceedings brought together Herzer, a former companion of Redstone, and Shari, Redstone's daughter.
+  - The opening statements emphasized the emotional bond between Redstone and Herzer, which was later severed due to alleged emotional abuse.
+  - Redstone's testimony in a videotaped deposition was a central point of the trial, showing his strained relationship with Herzer and his preference for Shari as his health care agent.
+  - Judge Cowan's ruling sided with Shari, stating that Redstone's testimony was compelling and that the bond between a parent and child was difficult to break.
+- New Lawsuit and Allegations:
+  - After losing the health care suit, Herzer filed a new $70 million lawsuit seeking reinstatement as a beneficiary in Redstone's will.
+  - Herzer accused Shari of orchestrating a "coup" and manipulating staff to remove her, resorting to tactics like espionage and bribery.
+  - The lawsuit accused Shari of offering financial inducements to staff members to spy on Redstone.
+  - However, evidence suggested that nurses approached the Redstones about reporting activities at Beverly Park.
+- Viacom's Leadership Battle:
+  - Viacom's leadership battle centered around Dauman, its chief executive, and Redstone's control over the company.
+  - Dauman sought to sell a Paramount stake, leading to conflicts with the Redstone family.
+  - The Viacom board's independence was questioned, as they supported Dauman and didn't accept Shari's authority as Redstone's heir.
+  - Shari removed Dauman and Abrams as trustees and directors, taking control of National Amusements and Viacom's leadership.
+  - Dauman's legal challenge claimed that Shari was manipulating Redstone and that he lacked capacity, leading to open warfare between them.
+- Legal Challenges and Conflicts:
+  - Dauman countered Shari's actions by filing a lawsuit challenging his removal as trustee and director.
+  - Herzer's lawyer supported Dauman's claims that Redstone lacked capacity and was being manipulated by Shari.
+  - The legal battles exposed the deep conflicts between Shari and Dauman, who were once allies in the struggle for control over Redstone's assets.
+- Outcome and Implications:
+  - The legal battles and conflicts exposed the complex power struggles within the Redstone family and Viacom.
+  - Shari emerged as the dominant force, asserting control over her father's estate and company.
+  - The future of Viacom and Redstone's media empire remained uncertain due to the ongoing legal disputes and family tensions.
+
+### "No One Likes Drama"
+- Background and Power Struggle:
+  - Philippe Dauman files a lawsuit against Sumner Redstone, claiming he lacked mental capacity to remove him from Viacom.
+  - Redstone's deteriorating health and family conflicts create turmoil in his media empire.
+- Family Rift and Leadership Changes:
+  - Shari Redstone, Sumner's daughter, emerges as a central figure in the power struggle.
+  - Dauman and Moonves, once influential in Redstone's orbit, face exclusion from family events.
+  - Shari takes control, pushing for changes in the National Amusements board and Viacom's leadership.
+- Viacom's Struggles and Redstone's Condition:
+  - Viacom faces poor financial performance, failing movies, and declining network revenues.
+  - Sumner's mental state is questioned; his interactions with close associates become limited.
+  - Shari orchestrates management changes to address these issues.
+- Settlement and Transition:
+  - Dauman secretly negotiates a settlement with Tyler, another Redstone family member.
+  - Settlement terms include Dauman stepping down, Dooley as interim CEO, and a payout of around $72 million.
+  - Viacom board opposes the deal; a revised agreement is later reached, mirroring Tyler's earlier negotiation.
+- Shari Redstone's Accomplishments:
+  - Shari's actions lead to the removal of Dauman and his allies, saving Paramount and maintaining family control.
+  - Shari navigates family conflicts, legal battles, and business challenges, ultimately achieving her goals.
+
+### "An Overwhelming Stench of Greed"
+- Dauman's Departure and Sumner's Relaxation
+  - Dauman's departure from Viacom brings relief and relaxation to Sumner Redstone.
+  - Shari spends time with her father, helping him communicate through a Microsoft Surface Pro laptop.
+  - Sumner's communication device allows him to express emotions and interact, even though he's often unresponsive.
+  - Shari continues caring for her father, visiting him and maintaining his comfort.
+- Viacom's Turmoil and Shari's Leadership
+  - Viacom faces business challenges and declining stock prices.
+  - Shari takes charge as National Amusements amends Viacom's bylaws, giving the Redstones veto power over transactions.
+  - The possibility of merging Viacom and CBS arises, aiming to strengthen competitiveness against streaming platforms.
+  - Shari and Sumner issue a letter advocating for a merger, with certain conditions in place to protect control.
+- Viacom's Leadership Transition and Bakish's Role
+  - Viacom searches for a new CEO after Dauman's departure.
+  - Robert Bakish, known for his strategic plans, is chosen as the interim CEO to steer the company.
+  - Bakish focuses on rebuilding relationships with cable operators and internet providers, aiming to improve Viacom's position.
+  - Shari is pleased with Bakish's efforts and praises his ability to embrace change and innovation.
+- Sumner's Lawsuits and Legal Battles
+  - Despite Dauman's exit, Sumner remains determined to recover money from Holland and Herzer.
+  - Sumner files a lawsuit against Holland and Herzer, accusing them of elder abuse and manipulation.
+  - Klieger argues Sumner's case, asserting undue influence despite previous assessments of his competence.
+  - Holland countersues Shari, alleging Shari's interference and breach of promises.
+- Legal Threats and Settlements
+  - Potential witnesses' threats and legal disputes create complications.
+  - Pilgrim, a former associate of Holland, presents a threat to both Holland and the Redstones.
+  - Holland settles with Pilgrim, preventing his cooperation as a hostile witness against the Redstones.
+  - Herzer files a lawsuit against Shari, accusing her of criminal schemes and seeking damages.
+- Rebuilding Viacom and Shari's Leadership Role
+  - Bakish's leadership helps rebuild Viacom by dismantling previous silos and taking chances.
+  - Shari redecorates her father's office, symbolizing her newfound role in the company.
+  - Despite challenges, Shari embraces her position and the respect her ideas receive.
+
+### "Don't Go Near This"
+- Introduction
+  - Shari Redstone's efforts to recombine CBS and Viacom in 2017.
+  - The tense atmosphere at CBS board meetings and disputes.
+  - Shari's encounter with Charles (Chad) Gifford and Bruce Gordon at the Four Seasons Hotel.
+- Shari's Merger Plans and Challenges
+  - Shari's desire to merge CBS and Viacom due to her controlling shareholder status.
+  - Moonves' initial support for the merger but with differing views in private.
+  - Obstacles in merging companies due to valuation and autonomy concerns.
+  - CBS committee's demand for autonomy and relinquishing control from Redstones.
+- Shari's Frustration and Strategies
+  - Shari's disappointment at the merger plan's collapse.
+  - Shari's attempt to bring new, independent directors to the CBS board.
+  - Shari's choice of Harvard Law School dean Martha Minow and others for the board.
+  - Resistance from existing board members to Shari's efforts.
+- Klieger's Appointment and Shari's Growing Influence
+  - Shari nominates Klieger for a vacant board seat, representing her interests.
+  - Klieger's role as an outspoken ally on the board to bridge factions.
+  - Shari's desire to exert more influence on the CBS board.
+- #MeToo Movement and Moonves' Misconduct
+  - Emergence of #MeToo movement and its impact on the industry.
+  - Harvey Weinstein's sexual misconduct allegations and its influence on women's empowerment.
+  - Actress Illeana Douglas reveals her experience with Moonves' sexual misconduct.
+- Farrow's Investigative Journalism
+  - Ronan Farrow's investigative work on sexual misconduct cases.
+  - Douglas' account of Moonves' misconduct and corroboration through evidence.
+  - Farrow's recognition of Moonves' power and the parallels to the Weinstein case.
+- Global Impact and New Revelations
+  - Weinstein case's global media coverage and celebrity involvement.
+  - Janet Dulin Jones' observation of Moonves' misconduct and the need for exposure.
+
+## Season 3
+
+### "We All Did That"
+- Les Moonves Allegations and Response
+  - Gil Schwartz: CBS's head of corporate communications, known for his acid-tongued pseudonym Stanley Bing, known as the "Leslie whisperer."
+  - Moonves and Julie Chen's affair: Moonves's personal life not of concern unless affecting CBS.
+  - Phyllis Golden-Gottlieb's police complaint: Allegations of sexual assault by Moonves in the 1980s during their time at Lorimar.
+  - Police involvement: CBS security officer informed CBS about the complaint.
+  - Schwartz's notification to Moonves: Schwartz informed Moonves about the police complaint and advised notifying a CBS board member.
+  - Moonves's response: Moonves denied allegations and believed they wouldn't affect him.
+  - CBS's preparation: Schwartz drafted a press response in case of media inquiries.
+  - Hiring a lawyer: Moonves hired a criminal-defense lawyer, Blair Berk, to handle the situation.
+  - Police investigation conclusion: Police investigation determined that there was insufficient evidence to pursue the case.
+- Dr. Anne Peters's Account
+  - Anne Peters's encounter with Moonves: Peters, a diabetes specialist, had a disturbing encounter with Moonves during a medical appointment.
+  - Reporting the incident: Peters reported the incident at the hospital, but was discouraged from taking formal action due to Moonves's influence.
+  - Arnold Kopelson's involvement: Peters informed Kopelson about the incident; he later dismissed her concerns.
+- #MeToo Impact on CBS
+  - NBC's case: NBC fired producer Matt Zimmerman due to inappropriate conduct, related to Matt Lauer.
+  - Charlie Rose's allegations: Charlie Rose faced allegations of sexual harassment, led to his firing from CBS News.
+  - CBS's response: Moonves addressed the Rose situation, highlighting it happened on his PBS show.
+  - Moonves's statements: Moonves spoke about the #MeToo movement's impact on CBS's culture.
+- Commission on Sexual Harassment and Advancing Equality
+  - Formation of the Commission: Moonves, along with other Hollywood figures, formed a commission to address sexual harassment and promote workplace equality.
+  - Anita Hill's leadership: Anita Hill, known for her testimony against Clarence Thomas, led the commission.
+
+### "If Bobbie Talks"
+- Marv Dauer's Perspective
+  - Marv Dauer: Hollywood talent manager with connections in casting at networks, specializing in daytime genre.
+  - Financial struggles: Dauer's income had dropped, casting directors ignored him, and personal finances were strained.
+  - Hacking incident: A former client had stolen his email password and deleted his submissions for years.
+  - Press inquiries: Reporters contacted Dauer regarding a story about sexual assault involving Les Moonves.
+- Dauer's Interaction with Moonves and Bobbie Phillips
+  - Moonves's ranking: Moonves named the fourth-most-powerful person in entertainment, contrasting with Dauer's relative obscurity.
+  - Background on Dauer and Moonves: Dauer's history and limited interactions with Moonves at CBS parties.
+  - Press inquiries: Dauer received inquiries from reporters about Moonves's sexual misconduct.
+  - Moonves's encounter with Bobbie Phillips: In 1995, Dauer set up a meeting between Moonves and actress Bobbie Phillips.
+  - Phillips's reaction: Phillips was upset after the meeting, and Dauer learned that something negative had occurred.
+  - Moonves's communication with Dauer: Moonves contacted Dauer after press inquiries.
+  - Phillips's experience: Phillips experienced distress and anxiety after the meeting with Moonves, affecting her career.
+  - Moonves's acknowledgment: Moonves confirmed having a sexual encounter with Phillips but claimed it was consensual.
+  - Dauer's advice: Dauer warned Moonves that given the #MeToo movement, consensual claim might not be believed.
+- Moonves's Outlook and Concerns
+  - Moonves's response: Moonves believed he'd be fine and didn't think the #MeToo movement would impact him.
+  - Possibility of an article: Moonves mentioned a potential #MeToo article about him being published soon.
+  - Concern for his reputation: Moonves worried that if Bobbie Phillips spoke out, it could have serious consequences for his reputation.
+
+### "I Was a Good Guy"
+- Dauer's Attempts to Assist Moonves
+  - Dauer's communication with Moonves: Dauer initiated contact with Moonves, mentioning Bobbie Phillips and potential clients for CBS prime time.
+  - Exchange of contact information: Moonves gave Dauer private cell phone numbers for further communication.
+  - Initial texts: Moonves asked if everything was quiet, Dauer mentioned being affected by wildfires and expressed discomfort discussing matters over the phone.
+  - Dauer's hesitation: Dauer mentioned receiving press inquiries and the need for in-person conversation regarding sensitive information.
+  - Reporter contact: Dauer received a call from Ellen Gabler at The New York Times but hung up.
+  - Dauer's message to Moonves: Dauer informed Moonves of the reporter's call and indicated he would let him decide the next steps.
+- Discussion with Bobbie Phillips
+  - Contacting Phillips: Dauer talked to Bobbie Phillips about the reporter's calls and the potential media attention.
+  - Pressure on Phillips: Dauer highlighted Moonves's young son and encouraged Phillips not to ruin his life by speaking out.
+  - Phillips's stance: Phillips assured Dauer she didn't intend to go to the press, as she aimed to move forward and forgive.
+  - Mention of making amends: Dauer suggested Moonves wanted to make amends, which intrigued Phillips.
+  - Work opportunities: Dauer proposed sending acting offers to Phillips, and she agreed to relist him as her manager on IMDb.
+- Dauer's Strategies to Assist Moonves
+  - Strengthening Moonves's position: Dauer quickly established a rapport with Moonves, offering favors and support.
+  - Generosity towards Moonves: Dauer arranged baseball lessons and memorabilia for Moonves's son, expressed skepticism about the #MeToo movement, and reported press inquiries.
+  - Moonves's appreciation: Moonves expressed gratitude for Dauer's efforts and advice regarding not talking to the media.
+- Shifts in Industry and Shari's Involvement
+  - Industry transformations: The entertainment industry was undergoing rapid changes, with streaming platforms like Netflix and Amazon reshaping the landscape.
+  - Shari's perspective: Shari Redstone considered revisiting the merger between CBS and Viacom due to the changing industry landscape.
+- Twitter Revelation and Shari's Response
+  - Allegation on Twitter: June Seley Kimmel's tweet alleged an incident with Les Moonves from his time at 20th Century Fox.
+  - Shari's action: Shari forwarded the tweet to Martha Minow and Klieger, concerned about the implications for Moonves and potential consequences.
+- Moonves's Concealment and Dauer's Support
+  - Moonves's demeanor: Moonves didn't show his growing pressure to the board but hinted at despair to Dauer, even suggesting early retirement.
+  - Dauer's encouragement: Dauer advised Moonves not to let the situation force an early retirement and reassured him of his character.
+  - Interaction with Elisabeth Sereda: Dauer warned Moonves about Elisabeth Sereda's intentions and reported an encounter with her at a party.
+
+### "I Feel Sick All the Time"
+- Les Moonves's Personal and Professional Situation:
+  - Les Moonves, former CBS CEO, spent the holidays in New York and California with family.
+  - He denied assaulting actress Bobbie Phillips, claiming their encounter was consensual.
+  - Moonves's relationship with CBS board member Shari Redstone was strained due to Viacom merger discussions.
+- Shari Redstone's Concerns and Strategy:
+  - Shari Redstone was focused on merging CBS and Viacom to face growing competition.
+  - She sought to gauge Moonves's support for the merger and improve their relationship.
+  - Redstone enlisted lawyer Rob Klieger to mediate and persuade Moonves to be more cooperative.
+- Moonves's Reluctant Support for the Merger:
+  - Moonves reluctantly agreed to support the CBS-Viacom merger, but his body language suggested reluctance.
+  - Moonves's skepticism about the merger raised doubts about his enthusiasm for the plan.
+  - Shari Redstone received information that a New Yorker exposé on Moonves was in progress.
+- Allegations Against Moonves Surface:
+  - The #MeToo movement was gaining momentum, and rumors about Moonves's misconduct circulated.
+  - Shari Redstone learned about allegations against Moonves and initiated an internal investigation.
+  - Moonves hired lawyers Michael Aiello, Dan Petrocelli, and Ron Olson in response.
+- Aiello's Investigation and Moonves's Responses:
+  - Aiello interviewed Moonves regarding the #MeToo allegations.
+  - Moonves admitted to two past incidents, one involving an actress and another with a female TV executive.
+  - Moonves claimed that the encounters were consensual and happened before his time at CBS.
+  - Aiello's investigation seemed superficial and didn't involve interviewing potential victims or witnesses.
+- CBS Board's Handling of the Situation:
+  - The CBS board, including independent directors, relied on Aiello's conclusion and didn't delve further.
+  - Shari Redstone doubted the thoroughness of the investigation and expressed concerns to board members.
+  - Despite doubts, the board seemed eager to accept Aiello's findings and move forward.
+
+### "This Is Insanity"
+- Shari's Skepticism and Focus on Merger:
+  - Shari was skeptical about Aiello's investigation but wanted to concentrate on the CBS-Viacom merger.
+  - She believed Viacom's strategic plan was strong under Bakish's leadership, while CBS seemed stuck in the traditional media landscape.
+  - Both CBS and Viacom appointed independent directors to evaluate a potential merger, excluding Shari and her allies.
+- Rumors About Moonves:
+  - Speculation intensified about a potential New Yorker story on Moonves.
+  - Shari and Moonves showed solidarity at Super Bowl LII.
+  - The New Yorker story turned out to be about Donald Trump, not Moonves.
+- Tensions and Concerns Regarding Moonves:
+  - Tensions rose as Moonves and Shari discussed merger negotiations.
+  - Control and leadership roles in the merged companies were points of contention.
+  - Shari wanted a meaningful role for Bakish, but Moonves had concerns.
+- CBS's Bid for Viacom and Contract Changes:
+  - CBS submitted an all-stock bid to acquire Viacom, valuing it lower than its market value.
+  - Viacom's board pushed for Bakish to be the combined companies' president and COO, causing friction.
+  - Moonves's new employment agreement included changes to the "cause" termination clause, raising concerns.
+- Dauer's Birthday Party and Moonves's Relationship:
+  - Dauer organized a big birthday party, with Moonves attending.
+  - Moonves's presence was valuable in the Hollywood social scene.
+  - The party showcased Dauer's revival in the industry.
+- Ongoing Developments and Collaboration:
+  - Dauer and Moonves maintained their relationship.
+  - Dauer's clients sought opportunities at CBS.
+  - Moonves offered to help with Dauer's clients' careers.
+
+### "Pencils Down"
+- Doctor's Disclosure and CBS-Viacom Merger Negotiations:
+  - Dr. Anne Peters sought a way to reveal a harassment incident involving an unnamed patient without violating doctor-patient privilege.
+  - She published an essay describing the incident and the patient's apology.
+  - CBS and Viacom's special committees faced challenges in negotiating the merger due to disagreements over control and roles.
+- Moonves's Struggles and Shari's Influence:
+  - Moonves and Shari Redstone clashed over the future roles of executives Bakish and Gifford in the combined companies.
+  - Moonves felt pressured by Shari's involvement in Viacom and disliked her closeness with Bakish.
+  - Moonves vented to others about Shari's influence and expressed his frustrations.
+- The "Nuclear Option" and Corporate Strategy:
+  - Martin Lipton's "nuclear option" plan was presented to the CBS special committee.
+  - The plan involved issuing a dividend of additional votes to class A shareholders to dilute Redstone family control.
+  - CBS directors saw the plan as a way to protect the company's interests and stability.
+- Moonves's Concerns and Mental State:
+  - Moonves shared his apprehensions about the Redstone family's control and potential attacks on him.
+  - He expressed feeling trapped, anticipating conflicts, and seeking peace.
+  - Schwartz, his spokesperson, tried to comfort Moonves and expressed concern for his mental state.
+
+### "All Out War"
+- Moonves's Inner Struggles and Support:
+  - Moonves's inner circle, including Ianniello and Schwartz, expressed concerns about his mental state.
+  - Moonves vacillated on whether to proceed with the "nuclear option" to dilute Redstone family control.
+  - Ianniello and Schwartz reassured him, but Moonves remained conflicted.
+- Moonves's Decision and Board Actions:
+  - Moonves initially resisted the idea of filing lawsuits and waging a public war against Shari Redstone.
+  - Moonves changed his mind multiple times, oscillating between supporting and opposing the "nuclear option."
+  - The CBS special committee voted unanimously to block the merger and filed suit in Delaware to restrain Redstone's power.
+- Moonves's Emotional Strain and Supportive Allies:
+  - Moonves struggled emotionally, fearing the impact of the lawsuit and public battle.
+  - Schwartz and Ianniello provided unwavering support, assuring him of their loyalty.
+  - Moonves's concerns about Shari's intentions and potential attacks remained.
+- Shari's Reaction and CBS Board Meeting:
+  - Shari Redstone received news of a special CBS board meeting and learned she had been sued in Delaware.
+  - The lawsuit accused Shari of plotting against other directors and violating shareholder duties.
+  - Shari was shocked and hurt, feeling betrayed by her fellow board members.
+  - Her daughter Kimberlee reached out to check on her well-being.
+
+## Season 4
+
+### A "Blatant Abuse of Power"
+- CBS Lawsuit and Counterarguments:
+  - CBS's lawsuit to strip Redstone control made headlines, portraying the conflict as a matter of shareholder democracy.
+  - CBS argued that Shari Redstone's actions undermined the image of an independent board, citing instances like putting her lawyer on the board and discussing CEO replacements without board approval.
+  - National Amusements denied the allegations and claimed commitment to a well-governed process.
+- Moonves's Support for Gifford and Emotional Struggles:
+  - Moonves's focus extended to retaining Chad Gifford as a key figure.
+  - Moonves expressed his emotional struggle and concerns about Shari's intentions and power-seeking behavior.
+  - Supportive texts from allies showed his wavering confidence.
+- Court Rulings and Board Meeting:
+  - Delaware court denied CBS's request for a restraining order against National Amusements, allowing them to make changes to the bylaws.
+  - Moonves and Shari presented opposing viewpoints during the board meeting.
+  - Moonves described Shari's interference, disparagement, and negative impact on CBS, expressing his difficulty in leading under such conditions.
+- Board Decision and its Effects:
+  - The board approved a proposal to issue a dividend to dilute Redstone control, with most independent directors voting in favor.
+  - Shari, Klieger, and Andelman voted against it.
+  - The dividend resolution hinged on the court striking down National Amusements' 90% supermajority requirement for board votes.
+- Aftermath and Continued Operations:
+  - The nuclear option constrained Shari's ability to replace directors and further her plans.
+  - The network continued its regular operations, casting for shows like "Blood & Treasure" amid the turmoil.
+  - Moonves remained engaged in network matters, suggesting actors for upcoming projects.
+
+## "I Was Never a Predator"
+- Counterattack Against CBS and Lawsuit:
+  - National Amusements and the Redstones responded by seeking to block CBS's move to dilute their voting control.
+  - Counterargument emphasized that threats from Shari were based on media reports and conjecture.
+  - Lawsuit addressed Moonves's involvement and focus on his dissatisfaction with Redstone control.
+- #MeToo Allegations and Moonves's Response:
+  - Rumors of a New Yorker article concerning #MeToo allegations surfaced.
+  - Screenwriter Janet Dulin Jones shared her experience with Moonves with Ronan Farrow, initially requesting anonymity.
+  - CBS's Gil Schwartz heard rumors about the New Yorker article and remained confident about Farrow's reporting.
+- Pressure for Investigation and CBS's Response:
+  - Shari and Klieger raised concerns about harassment, bullying, and favoritism within CBS management.
+  - CBS's response to the allegations was deemed inadequate, prompting Shari and Klieger to demand an independent investigation.
+  - CBS's legal officer responded, defending their handling of the situation and criticizing Shari and Klieger for raising concerns.
+- Moonves's Efforts and Bobbie Phillips's Case:
+  - Moonves reached out to Dauer to meet again and express remorse.
+  - Moonves sought to find a part for Bobbie Phillips and confided in casting head Peter Golden.
+  - Moonves's interaction with casting led to consideration of a role for Phillips on the show "Blood & Treasure."
+- The New Yorker Call and Ongoing Developments:
+  - Chris Ender from CBS received a call from a fact-checker at The New Yorker, suggesting that the anticipated article was progressing.
+
+### "What the Hell Are You Doing?"
+- CBS Responds to New Yorker Article:
+  - Sean Lavery of The New Yorker informs CBS that they are working on a story about six incidents involving Moonves and women.
+  - Lavery identifies four women by name: Illeana Douglas, "J.D. Jones," Christine Peters, and Dinah Kirgo.
+  - CBS's communications VP Chris Ender reports to Gil Schwartz, who notifies board members and hires lawyers to manage the situation.
+  - Moonves denies remembering any of the incidents and believes Shari Redstone is behind the accounts.
+  - CBS tries to fact-check and gather information to counter the article's claims.
+- Moonves Attempts to Clarify:
+  - Moonves speaks to Ronan Farrow on the phone and provides his perspective on the incidents, pointing out supposed factual errors.
+  - Moonves contacts others mentioned in the article, like Mike Marvin, to clarify details and confronts discrepancies.
+- Klieger's Calls for Investigation:
+  - Shari Redstone and David Klieger request an independent investigation into allegations of harassment, bullying, and favoritism involving senior CBS management.
+  - CBS's response is dismissive, and they argue that allegations and media reports cannot be evidence.
+  - Klieger and Shari Redstone press for more serious investigation, highlighting concerns and demanding transparency.
+- Last-Minute Efforts:
+  - As The New Yorker's publication date nears, Moonves engages in discussions with Farrow to address errors in the story.
+  - Moonves asks Farrow for the chance to put some things on the record to potentially soften the article's impact.
+- Tensions Escalate:
+  - Moonves and CBS urgently push for actress Bobbie Phillips to take a role on a CBS show, seemingly to ensure her silence.
+  - Phillips is reluctant due to the role's demeaning description and low pay.
+  - Moonves pressures Dauer and others to convince Phillips to accept the role.
+- Article's Imminent Release:
+  - The New Yorker story is set to be published, and CBS's attempts to change or soften the narrative appear to be unsuccessful.
+  - The article's publication draws closer, and tensions rise as those involved brace for its impact.
+- Decision to Go On the Record:
+  - As The New Yorker's publication date approaches, some individuals mentioned in the story, like Mike Marvin, waver in their willingness to speak out.
+  - Eventually, Marvin decides to go on the record, and others involved also consider their options.
+  - Janet Dulin Jones decides to use her name in the article after contemplating advice from her father.
+
+### "Let's Not Get Ahead of Ourselves"
+- Introduction:
+  - The New Yorker published an article by Ronan Farrow containing allegations of sexual misconduct against CBS chairman and CEO Leslie Moonves.
+  - CBS shares dropped significantly in response to the news, highlighting the potential impact of the allegations on Moonves's position.
+- Allegations Against Moonves:
+  - Six women accused Moonves of sexual harassment spanning from the 1980s to the late 2000s.
+  - The allegations included forcible touching, kissing during business meetings, intimidation, and threats to derail careers.
+  - Moonves's behavior allegedly changed negatively towards these women after they rejected his advances.
+- Response and Impact:
+  - Moonves denied any retaliation but admitted to making advances that made women uncomfortable.
+  - CBS attempted to mitigate the impact, with some board members supporting due process for Moonves.
+  - Two high-ranking women executives at CBS publicly supported Moonves, which raised questions about objectivity.
+- Public Reaction and Fallout:
+  - Despite Moonves's denials, public calls emerged for his suspension or resignation.
+  - Moonves faced consequences beyond CBS, with universities and organizations distancing themselves from him.
+  - Moonves resigned from a sexual harassment commission and individuals like Bobbie Phillips felt manipulated after reading the New Yorker article.
+- Shari Redstone's Reaction:
+  - Shari Redstone expressed frustration with the board's response and its failure to address allegations earlier.
+  - She denied any involvement in the allegations or Ronan Farrow's investigation and demanded retractions of false statements.
+  - Redstone called for constructive conversation and decisive action in the best interests of the company.
+- Board Meeting and Moonves's Support:
+  - The board convened to discuss Moonves's situation and showed divided opinions.
+  - Some directors were adamant in supporting Moonves, emphasizing his importance to the company.
+  - The possibility of suspension was raised, but the meeting ended without immediate action.
+
+### "He Wants to Destroy Me"
+- Events Leading to Investigation and Challenges:
+  - The CBS board and special committee struggled to agree on an outside law firm for investigating allegations against Moonves.
+  - Shari Redstone's faction chose Debevoise & Plimpton with Mary Jo White, while independent directors went with Covington & Burling's Nancy Kestenbaum.
+  - The investigation was expected to suspend Moonves, but his importance to the company delayed the suspension.
+  - Shari Redstone met Moonves to address her feelings of betrayal due to his actions and lies about #MeToo issues.
+- Board Dynamics and Tensions:
+  - Tensions between Shari Redstone's faction and Moonves grew due to the lawsuit and allegations.
+  - Shari called a special board meeting, but most directors backed out, leaving only Redstone's faction present.
+  - Moonves's career was jeopardized, and his interactions with Phillips were crucial to his concerns.
+- Vanity Fair Story and Moonves's Response:
+  - Reporter William Cohan investigated an incident involving Moonves and a doctor, and another with an actress.
+  - Schwartz drafted a resignation letter for Moonves due to concerns about the story's impact.
+  - Moonves denied the more severe allegations but admitted to making a "pass" at the doctor and engaging with the actress.
+- Legal Interviews and Revelation:
+  - Moonves was interviewed by Debevoise and Covington lawyers.
+  - He revealed incidents involving the doctor and the actress, but he withheld certain details.
+  - Moonves expressed concerns about leaks and animosity from Klieger.
+- Moonves's Defense and Board Relations:
+  - Moonves defended himself against some allegations, such as the locked door incident and Douglas's retaliation claim.
+  - Moonves criticized Klieger's intentions and expressed distrust towards him.
+  - His fear of destruction by his opponents was a significant concern.
+- Overall Implications and Uncertainties:
+  - The investigation and allegations placed Moonves's career and reputation at risk.
+  - Board dynamics and tensions between factions were exacerbated by the ongoing situation.
+  - Moonves's responses during interviews and his concerns about leaks and character assassination were central to the unfolding events.
+
+### "This Is a Deal Breaker"
+- Dan Petrocelli, representing Les Moonves, informs Aiello that Moonves had a positive interview with the lawyers.
+  - Petrocelli mentions confidentiality concerns, but Aiello feels Petrocelli's response is odd.
+  - Aiello decides to inform White and Kestenbaum about his conversations with Moonves's lawyers.
+- Aiello discusses his conversations with Moonves's lawyers with White and Kestenbaum.
+  - Aiello explains Petrocelli's disclosure about the doctor incident and the recent conversation about the actress and her manager.
+  - The revelation about the actress and manager raises concerns, suggesting a potential cover-up using company resources.
+  - Lawyers call for an immediate follow-up interview with Moonves to address these concerns.
+- White and Kestenbaum brief the special committee (Gordon, Klieger, Griego) about their discussions with Moonves and the new revelations.
+  - They summarize Moonves's response to the police report, the actress, and The New Yorker incidents.
+  - Moonves's pattern of making advances and respecting rebuffs is highlighted.
+  - Concerns emerge about Moonves's lack of candor and the potential for more undisclosed incidents.
+- Moonves undergoes a follow-up interview with the lawyers.
+  - Focuses primarily on Moonves's interactions with Bobbie Phillips and her manager.
+  - Moonves struggles to reconcile different versions of events, both disclosed and concealed.
+  - Moonves's attempts to secure work for Phillips are discussed in detail.
+- The lawyers brief the special committee on Moonves's second interview.
+  - Moonves's handling of the Phillips incident raises concerns about his judgment, awareness, and use of company resources.
+  - Moonves's lack of candor and potential for more undisclosed incidents are highlighted.
+  - The committee discusses the implications of Moonves's actions and decisions.
+- The full board is briefed by the lawyers.
+  - Revelations about the police report, doctor incident, and especially the actress-manager saga surprise and concern many directors.
+  - Moonves's handling of the manager and actress situations is seen as putting the company at risk and grounds for immediate suspension.
+  - Some directors, like Arnold Kopelson, express strong support for Moonves regardless of potential future allegations.
+- The board does not take further action at this time.
+
+### "A Once-Unfathomable Outcome"
+- Moonves's Ongoing Legal and Professional Challenges:
+  - Dan Petrocelli, Moonves's lawyer, conversed with Aiello regarding Moonves's interviews with lawyers.
+  - Aiello reported to White and Kestenbaum, revealing crucial details about Moonves's interactions with an actress and her manager.
+  - Moonves's use of company resources to silence the actress raised concerns about his candor and potential cover-ups.
+  - The lawyers requested a follow-up interview with Moonves after the new revelations.
+- Second Interview with Moonves and Ongoing Investigations:
+  - Moonves underwent a second interview with the lawyers, focusing on Moonves's interactions with Phillips and Dauer.
+  - Moonves admitted his attempts to get work for Phillips to prevent her from going public with a story.
+  - Moonves discussed his interactions with Dauer, revealing additional communications, including emails and texts.
+  - He denied having a problem being alone with women and claimed innocence in many allegations.
+- Board and Lawsuit Developments:
+  - CBS board members remained in close contact during the investigation and discussed Moonves's fate.
+  - Moonves's board support declined due to the revelation of his attempts to secure work for Phillips.
+  - Negotiations began to settle the lawsuit between CBS, Shari Redstone, and National Amusements.
+  - Moonves's departure terms were agreed upon: he would resign and receive a settlement of $70 million, effectively ending the lawsuit.
+  - CBS would initiate a board overhaul, with resignations of some directors and the introduction of new ones proposed by Shari.
+- Farrow's New Yorker Articles and Impact:
+  - Ronan Farrow continued his investigation into Moonves, reaching out to various individuals involved.
+  - Farrow interviewed Phyllis Golden-Gottlieb, revealing more details of her encounter with Moonves.
+  - Farrow contacted Bobbie Phillips's lawyer and Dauer, who reported this to Moonves and ignored subsequent calls.
+  - Moonves deleted text messages and handed over a manipulated iPad in an attempt to withhold information.
+  - Farrow's articles exposed additional allegations against Moonves, further damaging his reputation.
+- Moonves's Conflicting Testimonies:
+  - Moonves admitted to additional consensual sexual encounters but dismissed the allegations as part of an effort to ruin his reputation.
+  - He admitted to having an affair with an assistant for two years, characterized by consensual sexual encounters.
+  - Moonves denied specific claims made by Farrow's articles, including forced oral sex, exposing himself, and using physical violence.
+  - He disputed Golden-Gottlieb's claims and expressed his frustration with the media's portrayal of him.
+- CBS Board's Decision and Conclusion:
+  - Farrow's articles led to a decline in board support for Moonves, and CBS board announced his resignation.
+  - Moonves's exit package was reduced to $20 million, with $120 million held pending the investigation's completion.
+  - White, Kestenbaum, and the team interviewed Bobbie Phillips, her testimony influencing the terms of Moonves's departure.
+  - Moonves's sixteen-year tenure as CBS's chief executive came to an abrupt end due to mounting allegations.
+
+## Epilogue
+- Les Moonves Scandal and Aftermath:
+  - Moonves's potential $120 million golden parachute sparked outrage, igniting protests and criticism of corporate America's tolerance for misconduct by powerful men.
+  - After revelations, CBS faced a PR nightmare and lost faith in Moonves's credibility.
+  - The new CBS board voted to fire Moonves for cause, leading to the merger of CBS and Viacom.
+  - Moonves and his lawyers attempted to gain the $120 million escrowed by CBS but ultimately agreed to forfeit it.
+  - Moonves's lawyers questioned the credibility of accusers, including Golden-Gottlieb, and faced challenges in discrediting her.
+- Legal Battles and Settlements:
+  - Lawsuits and legal battles between Sumner Redstone and former companions, like Herzer and Holland, resulted in settlements.
+  - Holland moved on with a real estate career and faced legal disputes, while Herzer engaged in various litigations.
+- Shari Redstone's Rise and ViacomCBS Merger:
+  - Shari Redstone took control and focused on the merger of Viacom and CBS, leading to the formation of ViacomCBS.
+  - Shari's efforts to reform the male-centric culture included appointing women to leadership roles.
+  - ViacomCBS struggled to compete with streaming giants like Netflix and Disney+ but initiated new projects and acquisitions.
+- Sumner Redstone's Legacy:
+  - Sumner Redstone's health deteriorated, and he passed away at the age of 97.
+  - Shari sought reassurance from his confidants about her decisions and actions.
+  - A small, intimate funeral was held, with Shari emotionally expressing her thoughts at the grave.
+- Personal Reflections and Achievements:
+  - Shari's determination and resilience were evident throughout the saga.
+  - Moonves's downfall and the legal battles reshaped CBS and Viacom, eventually leading to ViacomCBS.
+  - Shari's proactive approach aimed to transform the media landscape and diversify leadership roles.
+  - Despite the challenges and uncertainties, Shari aimed to uphold her father's legacy and achieve success in the industry.
+- Final Farewell:
+  - The funeral service reflected Sumner Redstone's personality, with the song "My Way" played as per his request.
+  - Shari paid her respects at the intimate gathering, sharing her thoughts and emotions with her father.
