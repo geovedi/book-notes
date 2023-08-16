@@ -1,0 +1,764 @@
+
+# Billionaires' Row
+Author: Katherine Clarke
+
+## Prologue: The Pinnacle
+- Childhood Fascination with the Empire State Building
+  - In 1945, young Harry Macklowe and his brother were taken by their father to visit the Empire State Building, a monumental man-made wonder that symbolized New York City's postwar economic boom.
+  - The Macklowe family journeyed from their suburban home in New Rochelle to Manhattan, passing through bustling streets filled with post-war excitement.
+- Macklowe's Background and Familiarity with New York City
+  - Macklowe's father, Mack, was born in Brooklyn and established a successful business in the suburbs during the Great Depression.
+  - Frequent trips to the city exposed Harry to the vibrant cultural scene, including attending original theater productions and admiring renowned performers.
+- The Enormity of the Empire State Building
+  - Young Harry was in awe of the city's size and the towering skyscrapers, but none could match the immense height of the Empire State Building.
+  - Immortalized in pop culture by movies like "King Kong," the building's observation deck offered breathtaking views of the city's panorama.
+- The Skyscraper Boom and Architectural Rivalry
+  - The Empire State Building was part of a skyscraper boom that altered New York City's skyline.
+  - A rivalry between architects William Van Alen and H. Craig Severance led to iconic buildings like the Chrysler building and the Bank of Manhattan Trust Building.
+  - The competition culminated with the Empire State Building becoming the world's tallest building in 1931.
+- Macklowe's Future in the Skyline Race
+  - As Harry Macklowe stood on the Empire State Building's observation deck, he had no inkling of his future involvement in a skyline-altering race.
+  - His journey would be defined not by the industrialist bravado but by the influx of global wealth.
+  - Macklowe reflected that his greatest regret was that his parents never saw his towering architectural accomplishment, comparable to the Empire State Building.
+
+## Dreaming of Sky
+
+### Saving Harry Macklowe
+- Financial Crisis and Loss of Iconic Assets
+  - In 2008, amidst the global financial crisis, Harry Macklowe faced dire financial straits, stuck in negotiations over selling the iconic General Motors Building and other prime properties in Manhattan.
+  - The General Motors Building, a crown jewel in his portfolio, had been acquired for a record-breaking $1.4 billion in 2003, featuring a significant restoration and innovative collaborations, including Apple's glass cube entrance.
+- Rise and Philosophy of Harry Macklowe
+  - Macklowe's career in real estate was built over decades, starting as a college dropout and moving through advertising to commercial real estate brokerage.
+  - He possessed an innate confidence and an ability to envision and execute projects with a determination to create value.
+  - He believed in being a visionary who recognized opportunities where others did not and was willing to take calculated risks.
+- Peak and Fall: Skyscraper Deal and Financial Troubles
+  - In 2007, Macklowe completed a record-breaking $7.25 billion deal to buy a portfolio of office buildings from Blackstone, substantially expanding his real estate holdings.
+  - However, the subprime mortgage crisis led to the inability to refinance high-interest bridge loans, resulting in dire financial consequences.
+  - The sale of the GM Building and other assets became necessary to alleviate the debt burden, leading to family tensions and an emotional reckoning.
+- Changing of the Guard: A New Leader Emerges
+  - Billy Macklowe, Harry's son, stepped in to lead the family enterprise, emphasizing a different approach to business.
+  - The Blackstone deal's failure eroded Harry's standing among lenders, pushing him out of favor in the industry.
+  - Harry's disregard for past promises to avoid personal guarantees of loans strained his relationship with his wife, Linda.
+- Hope Amidst the Chaos: The Drake Hotel Project
+  - Despite his financial hardships, Harry Macklowe held onto his vision for the Drake Hotel project, an ambitious endeavor to create a supertall tower on Park Avenue.
+  - The Drake project represented an opportunity for redemption and a legacy on the Manhattan skyline.
+  - Macklowe's efforts to stall creditors were aimed at finding the means to fund the construction of the ambitious tower.
+
+### The Original Palace Corners
+- Themed Restaurants and Automobile Legacy:
+  - The West 57th Street corridor, once home to glitzy themed restaurants, experienced a decline as the novelty wore off and Times Square's resurgence took the limelight.
+  - Automobile Row, a thriving commercial district in the early 20th century, with plush car showrooms along Broadway, faded due to high rents and changing times.
+- Fading Landmarks and Urban Decay:
+  - The New York Coliseum, a prominent convention center, lost its charm and relevance, eventually closing down due to competition from the Jacob K. Javits Convention Center.
+  - The corridor evolved into a transient neighborhood, with homeless encampments and urban decay becoming prevalent.
+- Varied Business Mix and Architectural Highlights:
+  - The West 57th Street corridor boasted a mix of ultra-luxury stores, historic apartment houses, glass office towers, and various businesses, creating a unique urban tapestry.
+  - Notable landmarks like Tiffany & Co.'s flagship store, Steinway building, Russian Tea Room, and Carnegie Hall added to the corridor's charm.
+- Transformative Projects and Luxury Living:
+  - The redevelopment of the Coliseum into the AOL Time Warner Center brought about a $1.7 billion real estate project, including a hotel, luxury shopping mall, jazz club, and high-end condominiums.
+  - 15 Central Park West, a limestone tower developed by the Zeckendorf brothers, emerged as a symbol of luxury real estate, attracting celebrities and financiers.
+- Anticipation of Change:
+  - The redeveloped Coliseum and the iconic 15 Central Park West marked the beginning of a profound transformation on the West 57th Street corridor.
+
+### The Rabbi, the Jeweler, and the Developer
+- Harry Macklowe's Struggles and Ambitions:
+  - In 2008, Harry Macklowe found himself entangled in a complex real estate venture involving the ultra-Orthodox Chabad meeting house near the Queensboro Bridge.
+  - Rabbi Yoshiyahu Pinto, known for his mysticism and influential connections, attracted prominent figures seeking blessings, advice, and even curses for their business deals.
+  - Jacob Arabo, "the Godfather of Bling," posed a challenge to Macklowe's plans by altering a deal on a townhouse adjacent to the Drake Hotel on East 57th Street.
+- Assembling the Project:
+  - Macklowe was determined to create a wall of retail at the base of his new tower, involving a painstaking process known as "assemblage."
+  - Negotiating with various tenants and owners, Macklowe used every tool to secure the pieces needed for his tower, investing large sums of his own money.
+- Financial Challenges and Unconventional Financing:
+  - The financial landscape for real estate was evolving due to regulatory changes after the 2008 financial crisis, creating a need for unconventional lenders.
+  - Traditional banks like Deutsche Bank, once major players, were cautious after their own financial missteps, pushing developers toward less regulated lenders.
+  - Developers like Macklowe had to piece together a complex web of financiers and lenders to fund their projects, navigating intricate financing arrangements.
+- Firtash Deal and Its Implications:
+  - Macklowe's quest for financing led him to Dmytro Firtash, a Ukrainian billionaire involved in natural gas deals.
+  - Firtash's involvement raised suspicions, with allegations of money laundering and ties to Russian organized crime.
+  - Firtash's deal eventually fell apart, drawing scrutiny from Robert Mueller's investigation into Russian interference in the 2016 U.S. presidential election.
+- Collapse and Fallout:
+  - CMZ Ventures, the partnership formed for the Drake project, faced collapse after the Firtash deal fell through.
+  - With the failure of the deal, Manafort's and Gates' roles came under investigation, leading to their imprisonment due to the Mueller probe.
+  - The Drake site remained vacant and overgrown as another summer passed, symbolizing the challenges and complexities of Macklowe's ambitious project.
+
+### The Chess Master
+- Background and Regulations
+  - One57, a prominent luxury residential tower in New York City, stands as a testament to the intricate process of property assemblage and development.
+  - The city's zoning regulations, particularly the Floor Area Ratio (FAR) system, allowed developers like Gary Barnett to exploit building potential to unprecedented heights, given certain rules were followed.
+  - Developers were free from public design-review processes as long as they adhered to zoning rules for their lots.
+  - Air rights, the unused space above existing buildings, became valuable commodities, often acquired to maximize construction potential.
+- Strategies for Maximizing FAR
+  - Astute developers employed various strategies to optimize their FAR usage.
+  - Manipulating floorplates, setting towers back from streets, and raising ceiling heights enabled taller buildings with more valuable views.
+  - Taller structures equated to increased value and profits through more units with captivating park views.
+- Challenges and Complexity
+  - Assembling properties necessitated patience, persuasion, substantial finances, and a deep grasp of the intricate zoning code.
+  - Barnett, a seasoned developer, excelled in leveraging New York City's complex zoning rules to his advantage.
+  - Manhattan's 57th Street had vast potential due to its high FAR, but remained underutilized until Barnett's endeavors.
+- Air Rights and Negotiations
+  - Acquiring air rights involved meticulous negotiations with property owners, including religious institutions and nonprofits.
+  - Developers used corporate entities for discreet acquisitions to prevent price escalation due to neighbors' awareness.
+  - Skillful negotiation was crucial; walking away from unfavorable deals was sometimes necessary.
+- Economic Risks and Rewards
+  - Assemblage projects were speculative and vulnerable to market fluctuations, potentially leaving developers with unsellable early acquisitions.
+  - Developers paying above-market prices for key pieces were exposed to market shifts.
+  - The assemblage's final success relied heavily on the developer's ability to bring all elements together cohesively.
+- Barnett's Journey with One57 Assemblage
+  - Barnett spent over a decade and hundreds of millions to secure parcels of land and air rights for One57.
+  - Negotiations with multiple property sellers and complex transactions were involved.
+  - The assemblage process began modestly in 1998 and gradually expanded with various acquisitions.
+- Unlocking the Site's Potential
+  - Calvary Baptist Church held the crucial air rights Barnett needed to unlock the site's full potential.
+  - Extell's proposal to buy the church's air rights faced mixed responses from the congregation.
+  - The acquisition process culminated in a landmark deal with Calvary, allowing Barnett to proceed with the tower's development.
+- Final Thoughts on Barnett's Success
+  - Barnett's persistence, ability to navigate challenges, and strategic acquisitions enabled the realization of One57.
+  - Despite economic uncertainties, Barnett's unwavering commitment distinguished him as a key figure in shaping New York's luxury real estate landscape.
+
+### California Dreaming
+- Introduction:
+  - In 2009, commercial real estate broker Woody Heller received a call about a potential deal involving Harry Macklowe's properties.
+  - Heller's reputation for navigating complex transactions made him the go-to broker in the industry.
+- Initial Approach to Macklowe:
+  - Macklowe was facing financial troubles, and a private equity fund wanted to buy his residential rental buildings.
+  - Woody Heller reached out to Macklowe, who seemed interested in selling, but his plans were unclear due to financial difficulties.
+- CIM Enters the Scene:
+  - CIM, a private equity firm with a history of successful real estate investments, expressed interest in partnering with Macklowe.
+  - CIM founders Shaul Kuba and Avi Shemesh were experienced real estate investors with a track record of profitable deals.
+- Challenges and Negotiations:
+  - Macklowe's financial troubles and the potential IPO of the three buildings complicated the deal.
+  - Macklowe considered partnering with CIM on his Drake development project.
+  - Heller played a crucial role in arranging meetings and negotiations between Macklowe and CIM.
+- CIM's Background and Strategy:
+  - CIM was founded by Kuba, Shemesh, and Richard Ressler, and it had a successful history of real estate investments.
+  - CIM's focus was on stabilized properties with reliable rental incomes, but the Drake project was a riskier venture.
+  - CIM's successful track record and conservative investing approach attracted institutional investors.
+- Building the Capital Stack:
+  - The capital stack for a real estate project consists of equity and debt layers, determining payouts and risk.
+  - Developers secure equity partners and construction loans to fund projects, considering risk and returns for all parties involved.
+- CIM and Macklowe's Partnership:
+  - CIM's partnership with Macklowe involved complex negotiations over terms and assemblage of properties.
+  - Macklowe's financial struggles and family dynamics complicated the negotiation process.
+  - The brownstones and properties acquired by Macklowe were essential for the deal's success.
+- CIM's Innovative Financing:
+  - CIM turned to Citigroup's private bank to raise over $400 million through a sale of equity stakes in the project.
+  - The private bank's global investors bought into the project, reducing CIM's risk and boosting its investment's value.
+- Children's Investment Fund and Construction Financing:
+  - The Children's Investment Fund, led by hedge fund manager Christopher Hohn, provided $400 million for construction.
+  - The fund's involvement filled the gap left by traditional banks in construction financing.
+- Facing Competition and Challenges:
+  - Construction of 432 Park Avenue faced competition from other luxury residential projects, such as One57.
+  - One57's rapid progress posed a challenge to 432 Park's success in attracting high-end buyers.
+
+### Hitting the Jackpot
+- Introduction to One57 and Its Sales Team
+  - One57 is a luxurious skyscraper in Manhattan, developed by Gary Barnett's Extell Development Company.
+  - Extell assembled a skilled sales team comprising of Tubb, Woodbrey, and Sertic to sell the opulent units.
+  - Emily Sertic joined the team in 2011, contributing her real estate expertise and unique background.
+- Challenges and Intense Environment
+  - The sales team operated in a small space, handling calls from potential buyers.
+  - Barnett's high expectations led to an intense atmosphere, demanding exceptional dedication from the team.
+  - Intense competition existed among on-site brokers to secure the best appointments with potential buyers.
+- Demand and Selling Strategies
+  - The promotional movie showcasing One57's park view evoked strong emotions from buyers.
+  - High-profile individuals, including Steve Wynn, showed interest, each having unique preferences.
+  - Sales team researched cultural norms to engage effectively with overseas buyers, addressing their sensitivities.
+- Client Privacy and Unconventional Buyers
+  - Maintaining client separation was vital due to back-to-back appointments.
+  - Buyers with diverse backgrounds visited, ranging from unconventional business success to wealthy backgrounds.
+  - Some buyers posed unique demands, like conducting sound tests for noise sensitivity and last-minute construction site tours.
+- Ackman and Dell's Record-Breaking Deals
+  - Hedge fund billionaire Bill Ackman secured one of the most expensive apartments, focusing on the unique Winter Garden unit.
+  - Michael Dell, the technology magnate, made history with a $100.47 million purchase, breaking the nine-figure mark for New York real estate.
+- Aspirational Pricing and Global Trend
+  - The market witnessed "aspirational pricing" with sellers seeking high prices based on perceived uniqueness.
+  - Old-timers in the 57th Street corridor listed properties at exorbitant prices, sometimes beyond market value.
+  - Sellers compared their properties to art, justifying the high asking prices based on uniqueness.
+- Chinese Investment and Appeal to Chinese Buyers
+  - Chinese investors flocked to the New York market due to economic growth and property market changes in China.
+  - Brokers and developers adapted to attract Chinese buyers, including designing buildings catering to their preferences.
+  - Nikki Field tapped into the Chinese market, focusing on their desire for central locations and adapting her approach.
+- Negotiating with Chinese Buyers and Cultural Adaptation
+  - Chinese buyers displayed different negotiation tactics and a desire for privacy, requiring adaptability from agents.
+  - Chinese buyers aimed to assimilate into American culture, purchasing homes as a means to adopt the lifestyle.
+- Unique Insights
+  - One57's success rested on a skilled sales team navigating challenges and diverse clientele.
+  - Unique buyers, international appeal, and adaptability played a significant role in the skyscraper's sales success.
+  - The luxury real estate market demonstrated the fusion of global influences, aspirations, and cultural adaptations.
+
+### Inventing an Icon
+- Development and Vision
+  - The development of 432 Park Avenue, a striking residential skyscraper, was marked by intense competition and a desire to stand out in New York City's skyline.
+  - Harry Macklowe, a visionary real estate developer, conceived the idea for the tower as an iconic symbol of luxury living, reaching unprecedented heights.
+- Challenges and Determination
+  - The project faced challenges due to its unique design and height, requiring groundbreaking engineering solutions to ensure stability and safety.
+  - Macklowe's perseverance and determination were evident as he overcame regulatory hurdles and financing concerns, driven by his belief in the project's potential to redefine luxury living.
+- Showcasing Distinctive Features
+  - 432 Park Avenue's unique selling points included its remarkable height, exclusive location overlooking Central Park, and luxurious amenities.
+  - Macklowe aimed to create a building that was not just a living space but a work of art, using his experience to continually refine his designs and concepts.
+- Innovative Marketing and Sales
+  - The sales office at the GM Building, boasting a pristine showroom with models, renderings, and even a scale model of the Midtown skyline, played a pivotal role in attracting potential buyers.
+  - Richard Wallgren, an experienced figure in real estate sales, led the sales efforts, combining Macklowe's personal touch with strategic marketing techniques.
+- Early Buyers and Luxury Lifestyle
+  - The early buyers, including prominent figures like Fawaz Al-Hokair and Mitch Julis, brought credibility and exclusivity to the project.
+  - The tower's residents envisioned a lavish lifestyle, customizing their spaces with designer furniture, Asian-inspired designs, and even an indoor garden.
+- Resonating Success and Celebrity Draw
+  - The success of 432 Park Avenue became evident as it stole the limelight from its rival, One57, becoming a sought-after address for billionaires worldwide.
+  - Notable individuals like Jeff Bezos and Howard M. Lorber considered the tower, with Lorber even overcoming his fear of heights to secure a prime unit.
+- Macklowe's Vision and the Future
+  - Harry Macklowe's foresight was validated as 432 Park Avenue surpassed price predictions, becoming a symbol of opulence and a cornerstone of his legacy.
+  - Amidst the tower's sunny beginnings, challenges loomed on the horizon, marking the beginning of a new chapter in its illustrious story.
+
+### Make Way for the Billionaires
+- Roth vs. Barnett: The Clash Over Central Park Views
+- Background and Rivalry:
+  - The construction of a new tower faced a major hurdle—the garage operators at 220 Central Park South resisted selling their lease to Vornado, the tower's developer.
+  - Vornado's efforts to buy out the garage operators were met with resistance, setting the stage for a clash between Roth and Barnett.
+  - Gary Barnett, a rival developer, had previously approached the garage operators to purchase a stake in the lease before Vornado's acquisition of the building.
+  - Barnett had been quietly assembling a site for another tower at 217 West 57th Street, adjacent to Roth's proposed tower, escalating the rivalry.
+- Legal Battles and Tactics:
+  - Roth aimed to remove the garage to proceed with his tower, leading to a legal battle with Barnett and the garage operators.
+  - Barnett purchased a 49 percent stake in the garage company, using it as leverage against Roth and hindering his plans.
+  - Accusations and counter-accusations ensued, with Roth serving eviction notices based on minor violations and the garage operators alleging a conspiracy.
+  - Barnett and Roth traded legal claims, each accusing the other of manipulation and breach of lease terms.
+- Court Involvement and Negotiations:
+  - A judge granted an injunction preventing Roth from terminating the garage lease, highlighting the intrigue of Manhattan's high-end real estate development.
+  - Behind the scenes, Barnett proposed a compromise, suggesting an office building on Extell's site and a residential tower on Vornado's, yet no agreement was reached.
+  - Roth grew increasingly frustrated as negotiations dragged on, causing tensions between the two developers.
+- Resolution and Reflections:
+  - The dispute concluded with a settlement where Vornado paid $194 million to Extell for a parcel and air rights, and Barnett relinquished control of the garage.
+  - The planned towers were adjusted to avoid obstructed views, and a special communication system was designed for the construction of both buildings.
+  - Despite their rivalry, Barnett and Roth dined together, concluding the deal with a gesture of mutual respect and professionalism.
+- Implications and Gracious Farewell:
+  - The clash between Roth and Barnett showcased the competitive nature of New York City's real estate development scene.
+  - The exchange between the developers demonstrated that even in intense business battles, a moment of mutual respect and grace could emerge, ultimately ending the dispute on a cordial note.
+
+### Throwing Shade
+- Shadow Debate and Public Perception:
+  - The debate over the impact of shadows on a park due to new buildings was met with skepticism from preservationists, politicians, urbanists, and the local community board.
+  - Concerns were raised about the financial gains for developers while the community sought benefits in return.
+  - The negative media coverage further tarnished Barnett's reputation, triggered by his involvement in a high-profile building project.
+- Controversy Over Tax Breaks and Donations:
+  - Extell faced controversy regarding its use of the 421-A tax abatement program, which offered tax breaks to developers in exchange for affordable housing funding.
+  - The New York Daily News criticized the inclusion of the luxury tower One57 in the program, alleging backroom deals and political donations.
+  - Extell's donations to politicians, including Governor Andrew Cuomo, raised suspicions and led to a Moreland Commission investigation into corruption.
+- Critique of 421-A Program and One57's Impact:
+  - Critics questioned why a luxury building like One57, with apartments priced up to $100 million, needed tax subsidies meant for affordable housing.
+  - The Independent Budget Office found that the 421-A deal for One57 produced only a limited number of affordable units at a high cost per unit.
+  - The controversy stemmed from the inclusion of specific projects like One57 under pre-2008 rules, allowing offsite funding for affordable housing.
+- Personal Conflicts and Business Rivalries:
+  - Barnett's relationship with Mort Zuckerman, a rival real estate developer and newspaper publisher, became strained due to a land acquisition dispute.
+  - Barnett's acquisition of land in New York's Theater District led to tension with Zuckerman, who considered it a competitive move.
+  - Barnett speculated that Zuckerman's newspaper, the Daily News, focused on attacking One57 due to a personal vendetta.
+- Moreland Commission and Dissolution:
+  - The Moreland Commission, established by Cuomo to investigate public corruption, issued subpoenas to Extell but was disbanded amid allegations of political interference.
+  - Investigators found an appearance of impropriety due to campaign contributions and targeted benefits, eroding public trust in elected representatives.
+- Expansion Amid Challenges:
+  - Despite challenges, Barnett decided to build Central Park Tower, the tallest primarily residential building globally, in the Billionaires' Row area.
+  - A deal with Nordstrom to open a large NYC store formed a cornerstone of the financing for Central Park Tower, showcasing Barnett's determination.
+- Race to the Sky and Humorous Perspective:
+  - The construction of Central Park Tower, along with other tall buildings in Billionaires' Row, led to a race to build the tallest structures.
+  - Acknowledging the competitive nature of the projects, Harry Macklowe humorously referred to it as a race fueled by "penis envy."
+
+## Turbulence
+
+### "Too Much Money"
+- Introduction to David Juracich's Wealth and Background:
+  - David Juracich, a Melbourne native, found himself in possession of an excessive amount of money and struggled to find ways to spend it.
+  - He had made a substantial fortune as a broker in the financial industry, specifically trading interest rate swaps.
+- Juracich's Background and Tokyo Experience:
+  - A former Aussie rowing champion, Juracich worked in Tokyo's trading floors, bridging Japanese and foreign markets.
+  - He embraced the fast-paced and opulent lifestyle of Tokyo during the '90s, often immersed in its vibrant club scene.
+- Transition to New York and High Spending Lifestyle:
+  - In 2003, Juracich moved to New York, initially doubting it could match his Tokyo experience, but was pleasantly surprised.
+  - He enjoyed an extravagant lifestyle, spending thousands on charity events and club services due to the high cost of partying in the city.
+- Interest in Real Estate Investing:
+  - The booming real estate market in 2007 attracted Juracich's attention as he considered settling down.
+  - Many acquaintances were making money through real estate deals, inspiring his interest in property investment.
+- Introduction to Michael Stern and Initial Ventures:
+  - Juracich met aspiring real estate developer Michael Stern in 2007, who sought capital for a luxury rental building project in Brooklyn's Gowanus neighborhood.
+  - Juracich trusted Stern's confidence and invested $2.7 million, marking the beginning of their partnership.
+- The 2008 Financial Crisis and Stern's Persistence:
+  - Despite the 2008 financial crisis causing panic, Stern encouraged Juracich to consider a second deal with him, focusing on seizing opportunities amid the market crash.
+  - Stern targeted the acquisition of the old New York Telephone Company building in Chelsea, outlining a vision to turn it into condos.
+- Wavey Dave's Investment in Chelsea Building:
+  - Juracich decided to invest in the Chelsea building, convinced that despite the economic turmoil, Manhattan would remain resilient.
+  - They raised funds and secured the deal with Property Markets Group (PMG), although facing challenges with extensions and capital gaps.
+- Entry of Kevin Maloney and PMG:
+  - Kevin Maloney from Property Markets Group stepped in to fill the capital gap, solidifying a partnership with Stern and Juracich.
+  - Maloney's involvement signaled the start of a shotgun real estate partnership with untested players in the development business.
+- The Success of the Chelsea Building and Rise of Stern:
+  - Despite their lack of experience, Stern and Juracich, in partnership with PMG, repositioned the Chelsea building, later named Walker Tower, in a resounding success.
+  - The project capitalized on a rebounding market and the demand for quality inventory, selling out at double the projected price per square foot.
+- Expansion of Partnership and More Projects:
+  - The success of Walker Tower led to further collaborations between Stern, Juracich, and PMG on various projects.
+  - They tackled additional high-end condo and luxury rental developments, further solidifying their partnership and reputation.
+- Ambitious Undertaking and Regret:
+  - In 2013, Juracich joined Stern, PMG, and others to embark on a supertall spire project near the Steinway & Sons concert hall on West 57th Street.
+  - Despite his initial success in the real estate world, Juracich would come to deeply regret his involvement in these ambitious endeavors.
+
+### New Kids on the Block
+- Introduction to Michael Stern and the Project
+   - Michael Stern emerged in the NYC real estate scene to build a tall skyscraper.
+   - Little was known about him and his background, leading to curiosity and skepticism.
+   - Stern grew up in an Orthodox Jewish family, struggled in school, and had a rebellious past.
+   - He claimed to have started his career in construction management in Miami.
+- Partnership with Property Markets Group (PMG)
+   - Stern partnered with Property Markets Group (PMG), led by Kevin Maloney.
+   - The partnership began well, but differences arose as Stern gained more attention.
+   - PMG was overshadowed by Stern's visibility and success with projects like Walker Tower.
+- The Vision for Billionaires' Row
+   - Stern and PMG ventured into Billionaires' Row with a narrow site on 57th Street.
+   - They acquired the Steinway Building and sought to merge its footprint with their lot.
+   - The plan was to build a taller tower while preserving the landmarked Steinway Hall.
+- Challenges and Approvals
+   - The proposal to build through Steinway Hall faced skepticism from the Landmarks Preservation Commission.
+   - Stern's architects presented a vision for a unique tower inspired by New York landmarks.
+   - Despite initial doubts, the commission approved the project, setting the stage for a tall skyscraper.
+- Securing Financing and Investors
+   - Stern and Maloney sought investors for the ambitious project's massive costs.
+   - Richard Bianco, head of AmBase Corporation, invested significant funds.
+   - Arthur Becker, former banker and artist, invested over $20 million through Atlantic 57 LLC.
+   - Overseas investors like Andy Ruhan and Russian partners Adoniev and Avdolyan joined in.
+- Questionable Investors and Complex Agreements
+   - Ruhan and Becker structured complex agreements to funnel profits to Russian investors.
+   - Serguei Adoniev, associated with Putin, had a history of controversial dealings.
+   - Albert Avdolyan was well connected in Russian business circles and shared in ventures with Adoniev.
+
+### The "Prince"
+- A Surprise Visit from a "Prince"
+   - Kevin Maloney received a call from a broker about a potential powerful client interested in a stake in the 111 West 57th Street tower.
+   - The visitor, claiming to be a prince, arrived in a motorcade with armed guards and offered a deal to invest in the project.
+   - Maloney, skeptical due to past experiences with imposters, agreed to bring the deal to his partners.
+- Unconventional Offer and Negotiations
+   - The prince proposed a $250 million investment for a 50 percent stake in the project.
+   - The offer seemed too good to be true, offering quick returns and no grounds for skepticism.
+   - Maloney agreed to discuss the offer with his partners, though he was doubtful about its legitimacy.
+   - The prince also negotiated a deal to purchase a penthouse at Walker Tower for $51 million.
+- The Prince's True Identity
+   - The visitor turned out to be Khadem al-Qubaisi, a key figure in the Abu Dhabi royal family.
+   - Al-Qubaisi had been involved in major financial negotiations, including the financing of Gary Barnett's One57.
+- Confirmation of Legitimacy
+   - Maloney discovered al-Qubaisi's identity after the visit and realized the offer might have been legitimate.
+   - Al-Qubaisi wired a $15 million deposit for the penthouse, setting a price record for a Manhattan condo.
+   - The partners found it difficult to believe that such a high-profile investor was genuinely interested in their project.
+- Challenges with Deal Negotiations
+   - The offer brought by al-Qubaisi sparked interest among the partners, except for Dick Bianco, the primary investor.
+   - Bianco's refusal to accept the deal puzzled the others, leading to speculation about his motivations.
+   - Various parties, including Arthur Becker and Andy Ruhan, attempted to convince Bianco to accept the deal.
+   - The negotiations reached an impasse due to Bianco's resistance and the partners' inability to reach a consensus.
+- Deal's Demise and Ongoing Plans
+   - Ultimately, the "prince" lost interest in the deal due to the prolonged negotiations.
+   - Despite this setback, the project was still moving forward with the Landmarks Commission's approval and initial funding in place.
+   - However, unforeseen challenges were on the horizon for the partners.
+
+### Supply and Demand
+- Surge in Luxury Real Estate Demand (2012-2014):
+   - The luxury real estate market boomed after the success of One57, with multiple high-priced closings and a 40% increase in the average price per square foot for luxury apartments.
+   - Numerous ultra-luxury projects were launched, listing units for record prices, targeting jet-setting billionaires and wealthy New Yorkers.
+   - Developers aimed to cater to the increasing demand for exclusive homes on 57th Street and beyond.
+- Billionaires' Row Expands (2013-2014):
+   - Several projects emerged along the 57th Street corridor, including luxury towers and condo conversions of office buildings.
+   - Developers targeted the market of ultra-rich buyers who had driven the previous successes of One57 and 432 Park.
+   - Prominent projects included the Zeckendorf brothers' limestone spire, 53 West 53rd Street by Jean Nouvel, and more.
+- Major Players and Ambitious Plans (2013-2014):
+   - Developers pursued conversions of hotels and office buildings into high-end condos.
+   - Joseph Chetrit aimed to convert the Sony Building into luxury apartments, and Vladislav Doronin considered the historic Crown Building for his Aman brand condos.
+   - Steve Witkoff planned to replace the Park Lane Hotel with a new tower, attracting attention due to its prime location.
+- Central Park Tower's Evolution (2013-2014):
+   - Gary Barnett's Central Park Tower was designed by architects Adrian Smith + Gordon Gill, known for their expertise in tall buildings.
+   - Initial debate over incorporating a spire led to settling on a height of 1,550 feet, making it the tallest residential tower in the world.
+   - The tower's cantilever design aimed to maximize Central Park views for lower-floor units, requiring complex construction and Landmarks Commission approval.
+- Market Concerns and Confidence (2014):
+   - Concerns arose about oversaturation of the luxury condo market on Billionaires' Row, with some predicting buyer behavior shifts.
+   - Brokers noted a potential decrease in buyer urgency and higher price negotiation possibilities due to increased options.
+   - Industry insiders expressed differing views on the market's future, with Gary Barnett confident in the depth of demand for ultra-high-end properties.
+- Conclusion: Mixed Prospects on Billionaires' Row:
+   - Billionaires' Row expansion led to a mix of winners and losers, with some projects thriving while others faced market challenges.
+   - Developers were confident in catering to the niche market of ultra-wealthy buyers, but concerns about oversupply and changing buyer behavior remained.
+
+### The Best Building in New York
+- Vornado's Approach to Exclusivity
+  - Vornado's chief, Steve Roth, focused on turning 220 Central Park South into the pinnacle of luxury living by considering every detail, including the doormen's uniforms designed by Zac Posen.
+  - Roth's commitment to quality and his collaboration with influential personalities like Thierry Despont aimed to make the building a masterpiece.
+  - The conservative design, reminiscent of 15 Central Park West, drew a distinguished clientele, with buyers including billionaires from finance, art, and entertainment circles.
+- Roth's Selective Approach to Buyers
+  - Roth exercised meticulous control over the buyers, aiming for exclusivity and refinement.
+  - Brokers faced rigorous scrutiny, with some even being turned away or not given appointments at the sales center.
+  - Speculation emerged that Roth preferred American buyers over foreigners, particularly those from Russia, to avoid potential scrutiny over the origin of foreign funds.
+  - Roth's approach generated mixed opinions, with concerns raised about potential violations of fair housing laws and agents boycotting the building.
+- A Discreet and Exclusive Aura
+  - Vornado adopted a unique marketing strategy by shunning public-facing campaigns and keeping the project details highly secretive.
+  - Roth's strategy was to amplify the exclusivity of 220 Central Park South, positioning it as a haven away from public attention.
+  - This aura of discretion was cultivated to appeal to high-net-worth individuals seeking a private and protected living environment.
+- A Stellar Sales Blitz and Its Impact
+  - Roth's strategy paid off, with the building achieving remarkable success in a short period, fetching sky-high prices for its units.
+  - Notable buyers included billionaire investors, art collectors, musicians, and real estate magnates.
+  - Vornado's stock price surged, reflecting the success of 220 Central Park South and solidifying Roth's position as a dominant developer.
+- Barnett's Reaction and the Next Chapter
+  - Barnett, observing Vornado's success, was both envious and motivated to compete further.
+  - He embarked on the ambitious Central Park Tower project, aiming to outdo Roth's achievements with even taller heights and higher prices.
+  - Despite concerns about market saturation and detachment of prices from real estate value, Barnett remained optimistic about the project's prospects.
+  - The Billionaires' Row rivalry between 220 Central Park South and Central Park Tower continued to unfold, with each developer vying for supremacy.
+
+### Starting Wars
+- Background and Vision of the Steinway Tower Project:
+  - Michael Stern, in collaboration with architect Gregg Pasquarelli, embarked on an ambitious project to construct the Steinway Tower at 111 West 57th Street.
+  - Inspired by iconic New York skyscrapers like the Chrysler Building, the Empire State Building, and Rockefeller Center, Stern aimed to blend Art Deco history with futuristic high-rise architecture.
+  - The tower's design included terra-cotta, bronze ornamentation, a feathered steel crown, and a sleek glass curtain wall, aiming to create a new landmark on the New York skyline.
+- Challenges in Design and Engineering:
+  - The Steinway Tower's unique feature was its slender footprint, making it the world's skinniest skyscraper, with a width-to-height ratio of 1 to 24.
+  - Engineering challenges included wind resistance, requiring massive steel rods drilled into bedrock and a 730-ton mass damper at the top, as well as creating open floor plans without structural columns.
+- Luxurious Interior Design and Amenities:
+  - The interior design by William Sofield was inspired by Gilded Age materials, featuring custom cabinetry, château-gray oak, and quartzite finishes.
+  - Nods to the site's musical past were incorporated, including an elephant motif representing Steinway piano keys.
+  - The tower would comprise sixty units, including landmarked Steinway Hall building apartments and full-floor residences in the tower, with amenities such as an indoor pool, fitness center, and art-adorned common spaces.
+- Financial Challenges and Market Dynamics:
+  - Stern secured a $725 million construction loan from AIG and Apollo Global Real Estate Finance, navigating a challenging market.
+  - The luxury real estate market was shifting, with projects like One57 and 432 Park experiencing slowed sales and concerns of oversupply.
+  - Stern aimed to attract foreign buyers but faced challenges due to capital controls in China, Middle Eastern uncertainties, and Brexit anxieties.
+- Union Conflict and Legal Battles:
+  - Stern's decision to use a mix of union and nonunion contractors in the "open shop" approach stirred conflict with construction unions, led by Gary LaBarbera.
+  - LaBarbera accused Stern of greed and safety negligence, while Stern argued that unions charged too much and relied on intimidation.
+  - The dispute escalated, with protests, public clashes, and even threats, leading to bodyguards and off-duty policemen protecting Stern.
+- Tensions Between Partners and Lawsuit from AmBase:
+  - Stern and Maloney's partnership faced internal tensions, including disagreements over Stern's public image and his level of focus.
+  - Capital calls strained the relationship, with Dick Bianco of AmBase growing suspicious of Stern and Maloney's handling of expenses and decisions.
+  - AmBase filed a lawsuit accusing Stern and Maloney of increasing their ownership interests at AmBase's expense, alleging illicit financing and lack of transparency.
+- Project's Future and Continuing Conflict:
+  - Sales for 111 West 57th Street were put on hold due to a faltering luxury market and buyer preferences for completed projects.
+  - The relationship between Stern and Maloney further soured, with allegations of overspending and exploitation of partners.
+  - The dispute between the partners, the union conflict, and the financial challenges painted a complex and uncertain future for the Steinway Tower project.
+
+### Disdain in Paradise
+- Divorce and Family Drama in the Macklowe Clan:
+  - In May 2016, Harry Macklowe, a prominent developer, stood in Florence's Palazzo Vecchio after winning an award for his yacht Unfurled.
+  - Despite outward appearances, his marriage to Linda was deteriorating due to his infatuation with Patricia Landeau and long-standing marital issues.
+  - Their 60-year marriage held significant assets, including art, real estate, and more, which complicated the impending divorce.
+  - The divorce took an unexpected turn when Linda served Harry with divorce papers in London, setting the stage for a bitter legal battle.
+- Harry's Love Triangle and Dissatisfaction:
+  - Harry's passion project, the yacht Unfurled, won a prestigious award, but his focus on Patricia Landeau strained his marriage with Linda.
+  - He found happiness with Patricia, seeing her as more stimulating and supportive compared to his marital life.
+  - Marital tensions escalated when Harry announced his intention to leave Linda for Patricia, leading to the served divorce papers in London.
+- Complex Asset Holdings and Legal Battle:
+  - The Macklowes owned substantial assets, including a vast art collection, a Plaza apartment, an East Hampton house, and two units in 432 Park.
+  - Complications arose due to differing desires for asset division, with Harry proposing a split but Linda fearing loss of her cherished possessions.
+  - The divorce turned into one of New York's costliest and messiest, shedding light on Harry's involvement in 432 Park and family dynamics.
+- Legal Clash Between Father and Son:
+  - Harry's bitter divorce fueled a clash with his son, Billy, over control of the Macklowe name and domain names.
+  - The disagreement centered around domain names owned by Macklowe Management, a company that supported both Harry's and Billy's firms.
+  - Harry demanded the transfer of domain names and threatened legal action, while Billy resisted, valuing the family name as his father's legacy.
+  - Negotiations failed, resulting in Harry suing his son for $300 million, reflecting the deepening divide within the Macklowe family.
+
+### Selling Billionaires' Row
+- Introduction: The Alexander Brothers Making Waves in Real Estate
+  - Tal and Oren Alexander, close brothers and best friends, revolutionized high-end real estate in the 2010s.
+  - They embraced social media, personal branding, and lavish lifestyles, traveling the world with clients.
+  - With a real estate background from their father, they were successful in luxury property sales.
+  - Industry gossip surrounded them due to their extravagant lifestyle, yet their success remained undeniable.
+- Early Success and Notable Deals
+  - Tal and Oren Alexander quickly gained recognition with notable deals, even while young.
+  - Their "A Team" approach and extravagant events made them a subject of admiration or ridicule.
+  - The duo achieved remarkable success, selling multimillion-dollar properties across New York and Miami.
+  - Accused of nepotism and publicity-seeking, they embraced a "never not working" attitude and maintained a strong presence at high-profile events.
+- Challenges and Triumphs: Ups and Downs in the Industry
+  - The brothers faced setbacks, like a failed $90 million deal, causing doubts about their careers.
+  - They encountered criticism for their openness but remained resolute in their ambitions.
+  - Despite challenges, they secured a game-changing deal at 220 Central Park South, reshaping luxury real estate.
+- Different Roles in Real Estate and Onsite Agents
+  - Tal and Oren Alexander focused on resale brokerage but occasionally ventured into new developments.
+  - Onsite agents dedicated their efforts to single buildings, often forgoing lucrative resale opportunities.
+  - Onsite agents' success depended on their dedication to the building's sales and the ability to adapt to various clientele.
+- Ken Griffin: A Billion-Dollar Client
+  - The Alexanders strategically targeted Ken Griffin, a billionaire actively investing in art and real estate.
+  - Griffin's record-breaking purchases made him a prime client for their real estate deals.
+  - The negotiations for Griffin's custom penthouse at 220 Central Park South showcased his tough bargaining style.
+- Griffin's Buying Spree and Influence
+  - Ken Griffin's spending spree reshaped luxury real estate and art markets.
+  - His acquisitions included luxurious properties in Miami, Chicago, London, the Hamptons, and Palm Beach.
+  - Griffin's meticulous buying decisions created a lasting impact on real estate and art.
+
+## Falling Back to Earth
+
+### Shadowy Figures
+- Kola Aluko's Rise and Fall
+  - In 2013, Nigerian oil magnate Kola Aluko launched a $500 million fund for African infrastructure projects, gaining attention for his lavish lifestyle and high-profile associations.
+  - Aluko's wealth came from oil extraction contracts with the Nigerian government, but he faced legal troubles when authorities declared him a fugitive.
+  - The US Justice Department accused Aluko of bribing Nigeria's former petroleum minister for lucrative oil contracts.
+  - The Justice Department sought the forfeiture of Aluko's assets, including a luxury apartment in One57 and his yacht Galactica Star.
+- LLCs and Luxury Real Estate
+  - Luxury real estate purchases on Billionaires' Row often involved buyers using legal entities like LLCs to maintain privacy and potentially engage in illicit financial activities.
+  - These entities provided anonymity, shielding buyers' identities from public records, and enabled money laundering and tax evasion.
+- Underused Luxury Properties and Concerns
+  - Many luxury apartments on Billionaires' Row remained vacant for extended periods, as buyers often had multiple residences.
+  - While developers didn't vet buyers extensively, cooperatives exercised rigorous financial checks to maintain a reputable environment.
+  - The influx of shadowy buyers raised concerns about the reputation and value of buildings like One57.
+- Government Initiatives and Developer Concerns
+  - In 2016, the US Treasury Department introduced rules requiring title companies to identify luxury property buyers using shell companies to curb money laundering.
+  - These rules worried developers, as they could discourage privacy-seeking buyers who still had to disclose their information to the Treasury Department.
+- Developer Struggles with Fraudulent Partners
+  - Developer Steve Witkoff faced challenges with a partner, Jho Low, whose wealth was tied to allegations of money laundering and embezzlement.
+  - Low's assets were seized by the US Department of Justice, leading to difficulties for projects like the Helmsley Park Lane Hotel redevelopment.
+- Investigations and Implications
+  - Investigations revealed that illicit funds could infiltrate US real estate projects, thanks to a lack of oversight in commercial real estate deals.
+  - Notable figures like Low and al-Qubaisi had dealings with multiple developers on Billionaires' Row, highlighting the appeal of these projects for such individuals.
+- Aftermath and Future Uncertainties
+  - Aluko's assets were seized, and his apartment at One57 was sold at a significant discount.
+  - The case exposed the potential risks associated with luxury real estate investments, causing concerns for developers and owners alike.
+  - Developers like Macklowe faced reputational damage and resentment due to their association with individuals involved in scandals.
+
+### The Music Stops
+- Market Challenges and Oversupply
+  - The real estate industry saw a prominent downturn as the market was flooded with luxury properties, leading to an oversupply crisis.
+  - Developers like Gary Barnett struggled as they faced dwindling demand and a plethora of unsold units.
+  - Properties on Billionaires' Row, epitomizing luxury, started facing difficulties due to the sudden influx of supply.
+  - One57, a high-profile luxury tower, faced issues as prices were slashed and foreclosures became rampant.
+- Shifting Strategies and Economic Factors
+  - Developers like Barnett resorted to unconventional tactics to attract buyers, such as stunts like Ryan Serhant's unconventional Flaunt photoshoot.
+  - The market was significantly impacted by global economic factors, with the slowdown in China and tightening regulations affecting foreign investment in U.S. real estate.
+  - The boom that characterized Billionaires' Row was countered by the decline in luxury sales across Manhattan.
+  - Luxury property owners faced difficulties reconciling their inflated expectations with the market reality.
+- Changing Dynamics and International Influence
+  - The concept of aspirational pricing spread beyond New York, influencing luxury markets in Los Angeles, South Florida, and other regions.
+  - The trend of attaching extravagant offerings to properties, such as free luxury cars or other incentives, emerged to sweeten high prices.
+  - Scarcity was no longer a driving factor as sellers attached soaring price tags to properties, often far exceeding their true value.
+  - The decline in foreign buyers, driven by political uncertainties and tighter regulations, added to the challenges of the luxury market.
+- Central Park Tower and Funding Struggles
+  - Gary Barnett's Central Park Tower project became emblematic of the difficulties facing developers.
+  - Barnett sought unconventional funding sources, including the EB-5 program and partnerships with foreign investors.
+  - The need for a massive $1.1 billion construction loan proved challenging in a market where lenders were cautious.
+  - Barnett's efforts to secure funding were complicated by investor concerns and uncertainty surrounding the project's success.
+
+### "Gone to Zero"
+- Financial Struggles and Intervention
+  - By early 2017, the developers of 111 West 57th Street, Michael Stern and Kevin Maloney, faced cash shortages due to escalating project costs and investor unwillingness to provide additional capital.
+  - The loans secured from Apollo and AIG were no longer sufficient to cover the remaining construction expenses, causing the project to fall "out of balance."
+  - To remedy the situation, Baupost Group, led by distressed-debt investor Seth Klarman, offered $100 million in mezzanine debt at a steep 17% interest rate.
+  - However, Dick Bianco, an initial investor and partner, was reluctant to approve the Baupost loan, believing that Stern and Maloney's financial needs were exaggerated.
+- Tensions and Legal Battles
+  - Bianco, who had invested in the project and clashed with the developers, saw the Baupost loan as unnecessary due to perceived excessive spending on aspects like the sales center and equity partner distributions.
+  - Bianco considered exercising a "put" option to force Stern and Maloney to buy out his stake at a premium.
+  - Stern and Maloney faced the challenge of securing financing and appeasing Bianco, who remained unconvinced of their financial predicament.
+  - The introduction of Spruce Capital Partners as a lender marked a turning point, as they initiated a strict foreclosure process on the project, aiming to take control if no objections were raised.
+- Unexpected Outcomes and Litigation
+  - Contrary to expectations, Stern and Maloney did not object to the strict foreclosure, leading to a radical shift in ownership structure.
+  - Bianco was baffled by their decision and struggled to comprehend their motivation.
+  - Stern and Maloney's action was not only unexpected but strategically well-executed, exploiting a change in the intercreditor agreement that allowed them to dissolve the existing ownership structure.
+  - A legal battle ensued, with Bianco's firm, AmBase, alleging fraud, cost overruns, and financial mismanagement by Stern and Maloney.
+  - Multiple lawsuits, allegations, and appeals followed, leading to a complex and protracted legal struggle between the parties.
+  - The foreclosure marked the beginning of a prolonged legal battle with various claims and counterclaims, eventually involving multiple defendants and lengthy proceedings.
+- Financial Impact on Partners
+  - The foreclosure and subsequent litigation left partners like Arthur Becker and Andy Ruhan in precarious positions.
+  - Ruhan faced not only financial difficulties but also a tumultuous divorce, which added to his personal challenges.
+  - David "Wavey Dave" Juracich, a key investor in Stern's projects, found himself in dire financial straits, partially due to investments that yielded limited success.
+
+### Knives Out
+- Divorce Drama and Building's Completion
+  - In March 2019, huge portraits of Harry Macklowe and his new wife Patricia Landeau were displayed on their building at 432 Park Avenue, which stirred both admiration and controversy.
+  - The photos were seen as a declaration of love by some and spite by others, reflecting the complexities of Macklowe's personal life.
+- The Lavish Wedding Reception and Divorce Battle
+  - Macklowe hosted a lavish wedding reception at his 432 Park apartment, attended by prominent figures in the New York business world.
+  - His divorce from Linda was marked by bitter fighting, revealing details about their financial stakes, assets, and a roller-coaster relationship.
+- Asset Valuation and Disputes
+  - The divorce proceedings involved contentious debates over valuations of various assets, such as artworks, Plaza apartment, and holdings in 432 Park.
+  - Disputes included the value of Le Nez sculpture by Alberto Giacometti, Plaza apartment, and holdings at 432 Park.
+- Harry's Stake in 432 Park
+  - Despite being the face of 432 Park, Macklowe's stake in the residential portion was limited due to his early financial issues.
+  - His share of profits from the condominium sales was significantly less than initially projected due to various factors, including a sluggish market.
+- Quality Issues and Lawsuits at 432 Park
+  - The completion of 432 Park was accompanied by complaints from buyers regarding leaks and other quality issues in their apartments.
+  - Mexican billionaire Juan Beckmann Vida's company filed a lawsuit due to damages caused by a flood event in the building, revealing construction challenges.
+
+### Casualties of War
+- Introduction
+  - Pam Liebman, CEO of the Corcoran Group, was reluctant to engage in conflicts with developer clients due to the close-knit New York real estate world.
+  - However, an exception arose when her firm was unexpectedly removed from the 111 West 57th Street project by developer Michael Stern.
+  - Liebman's firm was a prominent player in Manhattan's development scene, having marketed successful projects like One57 and 220 Central Park South.
+  - The termination of their exclusive marketing agreement was attributed to Corcoran's failure to meet sales benchmarks within 18 months.
+- Reasons for Termination
+  - Stern's JDS terminated Corcoran's agreement due to low sales at 111 West 57th Street; only four of sixty units were sold.
+  - The blame for the sales struggle was placed on external factors like infighting among partners, litigation, and negative publicity.
+  - Liebman argued that the developers' actions and statements negatively impacted buyer confidence in the project's completion.
+- Litigation and Financial Struggles
+  - Liebman decided to take legal action against the developers, marking a significant departure from her usual approach.
+  - Stern and Maloney's Steinway project faced financial woes and construction delays, burning through nearly a billion dollars.
+  - A $90 million equity infusion from Madison Realty Capital was acquired in exchange for preferred equity stakes, granting Madison decision-making power.
+- Contrasting Projects: Barnett and Barnett's Central Park Tower
+  - Gary Barnett's Extell secured financing for the Central Park Tower, offering a unique solution by segmenting the tower for financing.
+  - Barnett faced challenges in financing and lost investors due to delays, but eventually secured the needed funding.
+  - Central Park Tower's amenities and luxury features were highlighted, with ambitious pricing to match its grandeur.
+- Challenges and Competition in the Market
+  - Barnett's project faced delays, affecting its market momentum, compounded by an oversupply of condos, political uncertainty, and economic volatility.
+  - The luxury condo market was struggling, with declining sales and concerns about global economic factors affecting buyer sentiment.
+  - Notable sales were largely in projects that had contracts signed years earlier, indicating the challenges of selling in the current market.
+
+### Not a Good Look
+- Billionaires' Row and Ken Griffin's Record-Breaking Purchase:
+  - In January 2019, Ken Griffin closed on a $240 million apartment at 220 Central Park South, setting a new record for the most expensive home sold in the US.
+  - The transaction spotlighted wealth inequality and drew attention from politicians like Elizabeth Warren and Bernie Sanders.
+  - Griffin's apartment had a lower assessed value by tax collectors, resulting in a relatively low annual tax bill due to the complex tax system.
+  - The purchase fueled anti-real-estate and anti-billionaire sentiment, reflecting a growing political shift in New York.
+- Shift in Political Landscape and Real Estate Industry:
+  - The Democrat-led Senate's control in 2019 initiated changes in real estate policies, challenging the industry's influence.
+  - A proposed pied-à-terre tax targeted non-primary residences, gaining momentum due to the Griffin deal and the Democratic majority.
+  - Real estate lobbyists, including William Zeckendorf, opposed the tax, arguing that it unfairly affected buyers and neglected their economic contributions.
+  - The pied-à-terre tax was ultimately dropped, but a Mansion Tax was introduced, increasing taxes on high-value property sales.
+- Central Park Tower and Extell's Progress:
+  - Central Park Tower, developed by Gary Barnett's Extell, reached its full height of 1,550 feet in 2019, becoming the tallest residential tower globally.
+  - The topping-out event marked a milestone in construction, offering panoramic views and raising optimism among Extell's team.
+  - Despite slow sales, completing the building's construction was expected to facilitate the selling process for its units.
+- Unforeseen Challenges for Extell:
+  - However, within six months of the topping-out event, Extell would be faced with unexpected challenges and had to close their sales center.
+- Reflection on Billionaires' Row and Real Estate Industry:
+  - Billionaires' Row symbolized opulence and defiance against anti-wealth sentiment.
+  - The political landscape's transformation impacted real estate policies and relations between the industry and politics, exemplified by the shift in Albany's power dynamics and the real estate lobby's diminishing influence.
+
+### New York on Pause
+- COVID-19 Outbreak and Shutdown:
+  - In March 2020, New York governor Andrew Cuomo announced a lockdown due to the rapid spread of COVID-19, leading to an immediate halt in nonessential activities.
+  - The pandemic brought New York City to a standstill, with streets empty, Broadway dark, offices closed, and daily life disrupted.
+  - Hospitals faced shortages of equipment, and temporary facilities were set up to handle COVID-19 patients.
+- Real Estate Industry during the Pandemic:
+  - The real estate industry was severely impacted by the pandemic, as dealmaking stalled and sales offices closed.
+  - New development sales relied on digital tools like virtual tours, but interest from buyers was scarce.
+  - Manhattan's real estate market experienced a significant decline in sales, with luxury property sales down by about 67%.
+- Economic and Social Unrest:
+  - The pandemic compounded existing challenges for Manhattan's luxury market, as the city also dealt with protests following the killing of George Floyd.
+  - The presidential election added to uncertainty, affecting market stability.
+- Migration and Impact on Real Estate:
+  - Wealthy New Yorkers sought refuge in Florida and other areas, driving up demand for luxury homes there.
+  - Florida gained significant taxpayer dollars from New York, exacerbating the migration trend.
+- Developer Challenges and Responses:
+  - Developers faced difficulties in construction and sales during the pandemic.
+  - Central Park Tower, a major development, struggled to meet sales deadlines due to the lack of buyers.
+  - Financing challenges led developers like Barnett to take on high-interest loans to stay afloat.
+- Varying Real Estate Outcomes:
+  - While many real estate projects faced setbacks, some developments defied the odds and continued to close deals.
+  - Vornado's 220 Central Park South managed to close around $1 billion in deals during 2020, defying market challenges.
+- Uncertain Future:
+  - The pandemic and its aftermath left the future of Manhattan's real estate market uncertain.
+  - Opinions on the city's resilience varied, with some suggesting it would bounce back, while others questioned its future viability.
+
+### Tower of Hell
+- Sarina Abramovich's Experience and Lawsuit Against 432 Park Avenue
+  - Sarina Abramovich and her husband, Mikhail Abramovich, purchased a $17 million apartment at 432 Park Avenue in 2016 to be near their daughter, expecting luxury.
+  - However, upon arrival, they encountered construction issues, having to use a freight elevator with operators and facing a series of leaks and defects.
+  - Water damage, plumbing and mechanical issues, elevator malfunctions, and creaking walls plagued the building.
+  - Abramovich voiced her dissatisfaction to the press in February 2021, exposing the building's problems.
+  - The New York Times front-page story highlighted construction defects, causing media frenzy and social media mockery.
+  - The lawsuit filed by the condo board in September 2021 accused CIM and Macklowe of numerous construction and design defects.
+  - Allegations included severe noise, flooding, elevator malfunctions, and soaring costs due to sponsor's mismanagement.
+  - CIM responded that the building was safe, and some issues were teething problems, while residents manufactured demands.
+  - The lawsuit strained relations and raised questions about the building's future.
+- Condo Board Takes Control and Files Lawsuit
+  - Condo boards in NYC are typically controlled by developers initially; at 432 Park, control was set to shift to residents in 2020.
+  - The board comprised real estate luminaries like Meir Cohen, Joe Sitt, and Jacqueline Finkelstein-LeBow.
+  - Control shift allowed residents to address the defects, possibly through legal action.
+  - In September 2021, the board filed a $125 million lawsuit against CIM and Macklowe, alleging sponsor malfeasance.
+  - Allegations included over 1500 defects, noise issues, flooding, elevator malfunctions, and soaring costs.
+  - CIM defended the building's safety, claimed some issues were not defects but design preferences, and criticized the suit.
+- Exodus and Listing of Apartments
+  - Despite the lawsuit and media attention, owners listed their apartments with unrealistic prices.
+  - Blessings Investments listed an apartment for $90 million in 2020, despite paying $61.9 million in 2016.
+  - Fawaz Al-Hokair's penthouse hit the market in 2021 for $169 million, one of the highest ever asking prices in NYC.
+  - Mitch Julis listed his apartment for $135 million, more than double what he paid for it.
+  - Buyers were scarce, with only one major deal in the year after the lawsuit.
+- Brokers' Response and Residents' Strategies
+  - Brokers downplayed the issues, attributing them to ordinary glitches in a new building.
+  - Some downplayed the escalating costs of the building's restaurant, suggesting the expense was affordable for residents.
+  - A resident creatively circumvented the restaurant minimum spend by bulk ordering expensive bourbon.
+
+### See You in Court
+- Challenges and Legal Troubles at 111 West 57th Street
+  - The Steinway Tower at 111 West 57th Street faced various construction incidents, raising concerns about Michael Stern's development operations.
+  - A crane incident caused debris to fall from the tower, echoing a similar event at One57 eight years prior.
+  - The use of nonunion subcontractors for the project led to cable mishaps, delays, and lawsuits.
+  - JDS sued US Crane & Rigging and NYC Crane Hoist & Rigging for $90 million over the crane incident.
+  - Concrete pouring incidents caused damage to neighboring buildings, leading to further legal battles.
+  - Stern's choice of nonunion labor and construction partners contributed to issues and delays.
+- Pressure and Oversight on Stern
+  - Madison Realty Capital and Apollo pushed for Stern to be sidelined from the project after the crane collapse.
+  - Steve Witkoff, a veteran developer, was brought in as a construction consultant to oversee the tower's completion.
+  - Stern faced additional oversight and scrutiny from Witkoff's team for construction decisions.
+  - Corcoran Sunshine, a new development marketing firm, was brought back to boost sales.
+- David Juracich's Perspective and Legal Woes
+  - David "Wavey Dave" Juracich, once a successful Stern investor, faced deposition due to the Steinway Tower's litigation.
+  - Lawsuits emerged from consulting companies claiming unpaid financing assistance fees for the tower.
+  - Juracich expressed exhaustion and regret over lost money, reflecting on the challenges of property development.
+  - Juracich's experience highlighted the misconception of developers' wealth and profitability.
+- Growing Frustration and Allegations
+  - Stern's business affiliates felt cheated and disillusioned, with similar problems emerging among them.
+  - Many experienced broken promises, cost overruns, lack of progress updates, and financial issues.
+  - Investors independently turned to legal action, emphasizing the gap between Stern's vision and reality.
+  - Stern's legal troubles extended beyond 111 West 57th Street to other projects, including Brooklyn and Miami.
+- Kevin Maloney's Perspective
+  - Kevin Maloney, Stern's longtime development partner, regretted being involved in the Steinway Tower project.
+  - He expressed dissatisfaction with the project's challenges and legal troubles.
+
+### Seeds of Recovery
+- Renewed Excitement and Challenges in Luxury Real Estate
+  - Central Park Tower hosted a celebration for Iris Apfel's hundredth birthday, generating buzz and excitement.
+  - Extell aimed to rekindle interest in the tower through events and parties after completing construction.
+  - A celebrity event planner orchestrated efforts to attract potential buyers with innovative strategies.
+  - Gary Barnett faced a critical deadline for his construction loan's maturity, seeking increased sales to pay off the loan.
+- Financial Setbacks and Adjustments
+  - Extell experienced losses of $190 million in 2020 and adjusted profit expectations for Central Park Tower.
+  - Gross profit projections for the project were downgraded by over 60% due to increased construction costs and reduced prices.
+  - The company anticipated selling units at an average of $5,750 per square foot, compared to the initial projection of $7,000.
+- Shifts in Wealth and Market Dynamics
+  - The pandemic led to a significant wealth increase for a portion of the global population, benefiting billionaires and tech entrepreneurs.
+  - Cryptocurrency's popularity surged, creating a new class of crypto billionaires and boosting the NFT market.
+  - Despite pandemic challenges, Manhattan's luxury real estate market rebounded remarkably, achieving record sales in 2021.
+  - Many billionaires profited during the pandemic, leading to a surge in Forbes' billionaire list and global wealth concentration.
+- Recovery in Luxury Real Estate Market
+  - The Manhattan luxury real estate market recovered in late 2020, following the presidential election and positive vaccine news.
+  - Record deals and increased contract activity characterized the luxury market's rebound.
+  - Central Park Tower and One57 experienced sales at discounted prices to attract buyers and pay off loans.
+  - Foreign buyers had not yet returned in full force; the market's recovery was driven mainly by domestic activity.
+- Mixed Responses to Recovery and Market Adjustments
+  - The rebound led to optimism, but oversupply issues persisted for luxury high-rise developers.
+  - Developers adjusted pricing to stay competitive, selling units at significant discounts.
+  - Central Park Tower experienced a 25% discount from the original offering plan's prices.
+  - Some neighboring buildings, like One57, faced significant resale losses, highlighting market challenges.
+- Barnett's Experience and Prospects
+  - Gary Barnett faced challenges in recovering profitability despite increased sales.
+  - While the market rebounded, Barnett expected no substantial profits and lamented the high costs of development.
+  - Barnett, known for the success of One57, found himself grappling with the complexities of luxury real estate development.
+
+### Resentment
+- Iconic Sculpture Auction and the Macklowe Collection
+  - Sotheby's auctioned Alberto Giacometti's iconic sculpture "Le Nez" in November 2021, estimated between $70 to $90 million.
+  - Harry Macklowe, a real estate developer, had a profound connection with the sculpture since the 1960s, remembering it vividly.
+  - Macklowe and his ex-wife, Linda, purchased the sculpture when a dealer offered it with a 24-hour exclusive deal.
+  - The Giacometti sculpture became a highlight of the Macklowe collection, leading the first of two sales in 2021.
+- Record-Breaking Art Auction and Cryptocurrency Influence
+  - The Macklowe collection's auction was a significant event of the art auction calendar in 2021.
+  - The auction featured live and remote bidding, blending traditional and contemporary methods.
+  - Justin Sun, the creator of cryptocurrency Tron, purchased the sculpture for $78.4 million, reflecting the influence of the cryptocurrency world on art buying.
+  - The Macklowe collection ultimately sold for $922 million across two auctions, surpassing a previous record.
+- Proceeds Allocation and Resentment
+  - Some of the proceeds from the art sale were pledged to Fortress Investment Group.
+  - Macklowe intended to use the sale proceeds to address financial commitments related to an unrealized development project.
+  - Macklowe expressed bitterness about his divorce, where his ex-wife received substantial assets and he felt resentful about the outcome.
+
+## Epilogue: A Lasting Legacy
+- Brooklyn's Supertall and the Legacy of Billionaires' Row
+  - A select group of press, including the author, were invited to a cocktail party atop Brooklyn's first supertall tower in October 2021.
+  - The tower incorporated the historic Dime Savings Bank and was reminiscent of the iconic Billionaires' Row skyscrapers.
+  - The tower's design and ambition aimed to permanently alter the Brooklyn skyline.
+- Global Influence and Inspiration from Billionaires' Row
+  - The concept of skinny supertall skyscrapers inspired by Billionaires' Row was spreading to cities like Miami, Chicago, and Dubai.
+  - The party attendees were a mix of New Yorkers, including real estate agents, designers, models, and socialites.
+  - Michael Stern, known for his work on 111 West 57th Street, was the mastermind behind the Brooklyn supertall.
+- The Risks and Impact of Supertall Buildings
+  - The party on top of the supertall tower showcased the risks associated with such structures.
+  - Some criticized supertalls as wasteful spaces meant to hold wealth, not contribute to the city's culture.
+  - The impact of these towers on developers' legacies varied, with Steve Roth of Vornado being one of the most successful.
+- Developers' Continued Pursuits and Challenges
+  - Steve Roth's focus shifted to his office portfolio amid concerns about the return of workers to New York offices.
+  - Gary Barnett's early success with Central Park Tower was overshadowed by recession worries and difficulty in achieving significant profit.
+  - Other developers faced litigation and challenges, like Michael Stern and his lawsuits with partners and Kevin Maloney's ongoing legal battles.
+- Mixed Feelings and Moving Forward
+  - The financial success of these projects varied, but many developers moved forward with new projects despite past challenges.
+  - Some developers found satisfaction in the architectural and engineering accomplishments, despite financial setbacks.
+  - The trials and tribulations of building these skyscrapers became distant memories as time passed.

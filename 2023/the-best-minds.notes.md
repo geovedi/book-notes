@@ -1,0 +1,1164 @@
+
+# The Best Minds
+Author: Jonathan Rosen
+
+## The House on Mereland Road
+
+### The Suitable Playmate
+- Childhood Friends: Michael Laudor and the Neighborhood
+  - Michael Laudor, an ideal playmate and brilliant peer, lived across the street from Jonathan's family in New Rochelle.
+  - Michael's presence and friendship were the reasons Jonathan's family moved to New Rochelle.
+  - Michael's confidence and outgoing nature put Jonathan at ease despite his shyness.
+  - The two boys shared a strong connection through their fathers, both of whom were college professors.
+- Neighborhood Dynamics and Background
+  - Jonathan's family chose New Rochelle based on its Jewish community and suitable friends for their children.
+  - The neighborhood was diverse, with survivors of the Holocaust and refugees from different countries.
+  - The boys explored the neighborhood, including Wykagyl shopping center, and bonded over shared experiences.
+- Shared Interests and Literary Explorations
+  - Michael had an extensive collection of books, some supporting the structure of his house.
+  - Both boys had a love for reading and discussed a variety of genres and authors.
+  - They connected over characters like Doc Savage and other adventure novels, discussing their virtues and impact.
+- Family Stories and Multigenerational Ties
+  - Michael's house was lively, with multiple siblings and lively interactions.
+  - Michael's family had a mix of Russian and American Jewish heritage, with stories from both sides.
+  - Jonathan's family, in contrast, had a more subdued and quiet environment.
+- Grandparents and Identity
+  - Michael had a set of grandparents with various backgrounds and personalities, shaping his character.
+  - His grandfather's connection to historical figures like William Randolph Hearst influenced his perspective.
+  - Jonathan's family had a different relationship with their grandparents due to tragic losses.
+- Reflections on Friendship and Identity
+  - Michael's friendship and influence enriched Jonathan's life, providing shared experiences and interests.
+  - Despite their different backgrounds, the boys found common ground and connections.
+  - The memory of Michael and the neighborhood shaped Jonathan's view of friendship, diversity, and personal growth.
+
+### The Good Earth
+- Childhood Education and MACOS Curriculum:
+  - MACOS (Man: A Course of Study) introduced a revolutionary educational approach in the 1960s.
+  - MACOS aimed to teach empathy and cultural understanding through documentaries about the Netsilik Eskimos.
+  - The controversial curriculum included topics like wife swapping, cannibalism, and bestiality, which sparked criticism.
+  - The Netsilik were actually Christian converts living modern lives, while the films depicted their past.
+- Learning Styles and Techniques:
+  - The MACOS curriculum favored experiential learning through films and interactive games over traditional reading and writing.
+  - Michael had a photographic memory and remarkable reading speed, while Jonathan struggled with slow reading and forgetfulness.
+  - Self-directed study allowed flexibility in advancing through difficulty levels, with color-coded cards replacing books for learning.
+- Michael's Unique Learning Approach:
+  - Michael had a remarkable ability to read multiple books simultaneously, switching between them with ease.
+  - He enthusiastically shared his readings, turning Jonathan into a repository of book knowledge without reading them himself.
+  - Michael's reading habits were occasionally disruptive in class, where he read even as the teacher lectured.
+- Social Dynamics and Personal Anecdotes:
+  - Michael's storytelling ability made him a charismatic figure, sharing tales like Lord of the Flies in vivid detail.
+  - Jonathan often learned about books and stories from Michael during shared activities.
+  - Michael's recollections of being tossed off a roof and desk-overturning incidents reflected his superman-like image.
+- A Life-Altering Event:
+  - A motorized dirt bike incident in the schoolyard left Jonathan unexpectedly flying through the air.
+  - The impact resulted in a noticeable injury on the leg, prompting Michael to seek help from authorities and family.
+
+### Memory Glass
+- Friendship and School Experiences:
+  - Albert Leonard Junior High School marked the beginning of a new chapter.
+  - Despite crutches, Jonathan and Michael remained close friends, sharing recess and more.
+  - Michael's disregard for external expectations and his father's approach to school-related calls led to mythic stories.
+  - Michael dated Cybele, a girl with a Lebanese Christian background, introducing diverse perspectives to the friend group.
+  - Cybele's family's warmth and cultural openness appealed to Michael, fostering his tendency to blend into different homes.
+- Educational Paths and Challenges:
+  - Michael excelled academically, earning a place in honors classes, while Jonathan's educational journey was more varied.
+  - Michael's honors status contrasted with Jonathan's struggle in classes like algebra, leading to discussions about suitable classes.
+  - The "tracking system" separated students into classes, with the lowest considered a holding pen for varying reasons.
+  - Humanities subjects became a refuge for Jonathan, whose verbal skills compensated for slower reading and language challenges.
+- Learning and Bar Mitzvah Preparation:
+  - Michael's aptitude and skills extended beyond academics, as he swam the lake at camp and read Hebrew "like a machine."
+  - Bar mitzvah preparations highlighted the differences between Michael and Jonathan.
+  - Michael learned quickly and approached his bar mitzvah with confidence, even though he didn't comprehend the Hebrew.
+  - Jonathan struggled to memorize the Torah reading for his own bar mitzvah, fearing failure and disappointing his family.
+- Bar Mitzvah Experiences:
+  - Jonathan's bar mitzvah day arrived with overwhelming pressure and anxiety.
+  - Standing on the bimah, he realized he couldn't recall the memorized reading, leading to a series of distressing moments.
+  - Physical sickness added to the emotional turmoil, and he ended up curled on the floor of the men's room during the service.
+  - In contrast, Michael's bar mitzvah went smoothly, showcasing his ease with public speaking and reading Hebrew.
+- School Struggles and Comedic Aspirations:
+  - Jonathan's ongoing physical struggles made school presentations difficult.
+  - An oral report on circulation and the heart was marred by Jonathan's need to leave class suddenly.
+  - Michael's anecdotes, like Mr. Selleck's supposed metal plate in his head, served as distractions and sources of humor.
+
+### Strangers
+- Adolescent Changes:
+  - Jonathan observes Michael's transition from playing cello to playing the guitar.
+  - Michael's growing involvement in teenage activities, including experimenting with drugs, sets him apart.
+- Growing Disconnection:
+  - Michael's increasing participation in teenage culture, such as concerts and drugs, highlights his departure from Jonathan.
+  - Jonathan's hesitation and fear prevent him from fully engaging in these experiences.
+- Family Life and Fear in New York:
+  - The city's dangers, including murders and random attacks, affect Jonathan's family's outings and perceptions of safety.
+  - The "Son of Sam" killings, a serial murder case, add to the atmosphere of fear.
+- Friendship and Shared Moments:
+  - Michael and Jonathan maintain their friendship, engaging in activities like studying biology together.
+  - Michael's casual and supportive attitude helps sustain their bond.
+- Cultural Context and Madness:
+  - The '70s cultural landscape includes movies like "One Flew Over the Cuckoo's Nest" and "The Exorcist," reflecting societal fascination with madness and supernatural elements.
+  - Madness is explored through pop culture, with references to films, music, and even serial killers like the Son of Sam.
+- Impact of the Son of Sam:
+  - The Son of Sam case shocks society, drawing parallels to cultural references like "The Exorcist" and the Manson family murders.
+  - Media focuses on the killer's backstory, including his Jewish upbringing, adoption, and alleged involvement in a satanic cult.
+- Psychiatric Assessments and Legal Proceedings:
+  - Psychiatrists evaluate the Son of Sam's mental state, with differing opinions on his sanity.
+  - The district attorney's involvement and hiring of psychiatrist David Abrahamsen to assess the case.
+  - Abrahamsen's controversial theory linking the killer's actions to repressed sexual memories from childhood.
+- Father's Heartfelt Apology:
+  - Nathan Berkowitz, the killer's father, appears on television to express sorrow and apologize to the victims' families.
+  - Despite legal advice, he shows genuine remorse, indicating his belief in his son's guilt.
+
+### American Pie
+- New Rochelle High School and the Fire:
+  - New Rochelle High School's grand facade contrasted with its functional interior, hinting at the mythic and historical significance it held.
+  - The school's connection to Don McLean's song "American Pie" and its secret meanings about events in the community.
+  - The 1968 fire that gutted the school's interior and the aftermath, including the arrest of a white boy for arson.
+- Personal Reflections on Race and Identity:
+  - Reflections on the racial dynamics in New Rochelle, from segregation to civil rights struggles.
+  - A significant fire at the school was attributed to mental illness rather than racial tension.
+  - The complexities of racial identity in a diverse community and the struggle to understand one's place in it.
+  - The impact of civil rights leaders like Martin Luther King Jr. and Ossie Davis on Jonathan's perception of "the struggle."
+- Friendships and High School Life:
+  - Jonathan's deep friendship with Michael and their shared experiences growing up in New Rochelle.
+  - High school dynamics, including the racial and class divides among students.
+  - Participation in school clubs like the Herald newspaper and Model Congress.
+  - Michael's brother's unexpected decision to become a stand-up comedian and the admiration it garnered.
+- Confrontation and Aftermath:
+  - Jonathan's confrontation with a group of Black boys, leading to a violent beating.
+  - Feelings of shame, embarrassment, and loneliness after the incident.
+  - The aftermath of the beating, including hospitalization, recovery, and returning to school.
+- Mentorship and Growth:
+  - The role of a beloved history teacher, Greg Morrison, as a mentor and educator.
+  - Reflections on Greg's background and experiences, including his time in Africa and the Peace Corps.
+  - Greg's encouragement and guidance in literature and self-reflection.
+  - Greg's impact on Jonathan's understanding of personal struggles and history.
+- Academic Pursuits and Opportunities:
+  - Jonathan's application to the Telluride program, an all-expenses-paid summer camp for intellectual growth.
+  - The intense application process and interviews for the Telluride program.
+  - Both Jonathan and Michael are accepted into the program, each pursuing different fields of study.
+
+### Freedom Summer
+- Choosing Leadership at the Herald
+  - The Herald office was crowded with seniors who knew their college destinations.
+  - Jonathan and Michael were in line to become editor in chief and managing editor.
+  - Their fate rested with Frank Agresta, the faculty adviser.
+  - Agresta questioned both of them separately, asking about their abilities and compatibility.
+  - Michael's ultimatum: Make him editor in chief or he quits.
+  - Jonathan becomes editor in chief after Michael's resignation.
+- Impact on Their Friendship
+  - Michael's decision to quit the paper left Jonathan feeling lonely and uncertain.
+  - Michael seemed to feel wronged by both Agresta and Jonathan.
+  - Jonathan's father was angry after hearing Chuck Laudor's suggestion that Jonathan step down for Michael.
+  - Chuck's audacity surprised Jonathan, akin to finding a meteorite on his lawn.
+- Divergent Paths and Perspectives
+  - Michael and Jonathan's lives took different paths after high school.
+  - Jonathan attended a program in Baltimore and embraced a more carefree attitude.
+  - Michael attended Telluride Association Summer Program (TASP) and engaged in intellectual pursuits.
+  - Michael talked about summer girlfriend and life in Collegetown.
+  - Jonathan admired the confidence of children of divorce and their boldness.
+- Michael's Ambition and Relationships
+  - Michael pursued independence and self-expression.
+  - Michael's father, Andy Ferber, was an unconventional psychiatrist.
+  - Michael was involved with Josh Ferber's family and their intriguing dynamics.
+  - His relationship with a girl named Jo-Ann became an obsession.
+- Heading to Yale
+  - Both Jonathan and Michael got accepted to Yale.
+  - Jonathan looked forward to their continued camaraderie at college.
+  - Michael predicted they wouldn't see each other much at Yale, citing Jonathan's pace.
+
+### Message in a Bottle
+- Friendship with Michael:
+  - Rosen's friend Michael, known for his intelligence and confidence, received a letter from his parents that made Rosen feel inadequate.
+  - Michael's ability to engage in debates and confrontations with experts, such as a Harvard sociologist, impressed Rosen.
+- Debate Over Busing and School Segregation:
+  - Michael engaged in a debate about busing to address de facto segregation in schools.
+  - The history of school desegregation, including the iconic Ruby Bridges painting, was discussed.
+  - Michael challenged a Harvard sociologist's viewpoint on diversity and busing, advocating for diversity's value.
+- Psychological Impact on Segregated Children:
+  - Rosen recalls the landmark doll experiments by psychologists Clark that influenced the Supreme Court's ruling on segregation.
+  - The experiments revealed the psychological harm caused by segregation, adding a new dimension to the argument against "separate but equal."
+  - Marshall's strategy shifted from focusing on facility deficiencies to emphasizing psychological damage as evidence of inequality.
+- Yale University and Symbolism:
+  - Rosen and Michael attended Yale, a prestigious institution with historical and allegorical significance.
+  - The contrast between homelessness and the symbolic importance of Yale's campus highlighted societal disparities.
+  - The incorporation of Doonesbury comic strip in Yale's symbolism and John Hinckley Jr.'s actions were noted.
+- Yale's Role in New Haven Transformation:
+  - Yale played a significant role in New Haven's transformation, aiming to eliminate poverty and address urban renewal challenges.
+  - The president of Yale, Kingman Brewster, highlighted the university's commitment to addressing physical and human renewal issues.
+  - Utopian optimism led to urban renewal projects, displacement, and unintended consequences for New Haven's population.
+- Architectural Irony and Social Dynamics:
+  - Architectural projects, like Oriental Masonic Gardens designed by Paul Rudolph, reflected architectural innovation and the mismatch with residents' perceptions.
+  - Disorientation and poor understanding of architectural innovations led to unintended consequences.
+
+### Misreading
+- Observing Michael and Literature:
+  - Jonathan Rosen often watched Michael, an enigmatic and independent figure, crossing Old Campus.
+  - Michael was seen as a solitary genius, engaged in a struggle to find his own voice in literature.
+  - Rosen admired Michael's ability to resist conforming to societal norms and expectations.
+- Influence and Literary Tradition:
+  - Michael's most famous book, "The Anxiety of Influence," portrayed literature as a Darwinian battleground.
+  - The book explored the concept of creative supremacy and the struggle to find one's own voice in the literary tradition.
+  - Rosen was captivated by the idea of strong writers who reshape the literary landscape by misreading and misrepresenting predecessors.
+- Mother's Essays and Personal Anecdotes:
+  - Rosen's mother published essays about women writers in The New York Times.
+  - An essay titled "Sons and Mothers" discussed an incident involving Rosen and a motorcycle accident.
+  - Michael found Rosen's appearance on the Times Jumbotron amusing.
+- Michael's Unique Identity:
+  - Michael stood out due to his resistance to being absorbed into anyone else's script.
+  - His fierce independence was shaped by his experiences with battling brothers.
+- Bloom's Ideas and Personal Context:
+  - Bloom considered Freud a strong writer but criticized him as a doctor.
+  - Bloom's views on literature and anxiety differed from post-structuralist theories influenced by psychosis.
+  - Rosen's mother's friend Cynthia debated Bloom, criticizing his view of literature as idol-making.
+- Bloom's Complex Response and Beliefs:
+  - Bloom reacted strongly to being called an idol maker, using his sick child as a reason to invoke the gravity of his beliefs.
+  - He rejected divine order that allowed schizophrenia and death camps.
+  - Bloom didn't want literature to become an idol but also questioned a cosmos permitting atrocities.
+- Madness and Literary Misprision:
+  - Bloom differentiated literary misprision from the misperceptions of mental illness.
+  - He emphasized the importance of distinguishing reality from imagination for writers.
+  - Literature must convey truth, not be a lie in a world where lies are unrecognized.
+- Michael's Aspirations and Future Plans:
+  - Michael planned to become wealthy through management consulting while retaining intellectual and artistic aspirations.
+  - He aimed to spend a decade making money before pursuing writing, leaving Rosen impressed by his long-term perspective.
+- Iowa Writers' Workshop and Debra:
+  - Michael introduced Rosen to Debra, an Iowa Writers' Workshop scholar, prompting Rosen to consider applying.
+  - Michael's admiration for Debra's scholarship contrasted with his earlier disapproval of writing programs.
+- Michael's Transition and Style:
+  - Rosen accompanied Michael on a shopping trip for professional attire.
+  - Michael was transitioning to a new phase, symbolized by power suits and tailored clothing.
+- Michael's Departure and Fortunate Events:
+  - Michael left for a job at Bain & Company, a prestigious consulting firm.
+  - He had created marijuana brownies with enchanting effects and had a near-fatal car accident.
+- The End of an Era:
+  - Michael's departure marked the end of his college life and Rosen's contemplation of extending his own.
+  - Rosen and Michael's lives were taking divergent paths, with Michael's ambitions shaping his style and choices.
+
+## The House of Psychiatry
+
+### The Shadow Knows
+- Academic Pursuits and Life Choices:
+  - Rosen pursued a PhD in English literature at UC Berkeley, attracted by the renowned English Department and fond memories of a car loaned by a Shakespeare professor.
+  - The economy's challenges and competitive job market were acknowledged, but Rosen remained determined to pursue academia.
+- Love and Relationships:
+  - Rosen fell in love with Mychal, a sophomore, before graduation.
+  - The relationship added complexity to his decision to move to California for his studies.
+- Michael's Transition to Corporate World:
+  - Michael pursued a corporate consulting career at Bain & Company, embracing a ten-year plan of financial success and eventual writing.
+  - The transition marked a departure from Rosen's path but retained Michael's wit and humor.
+- Michael's Perspective on Corporate Culture:
+  - Michael observed the behavior of upwardly mobile young professionals, or "yuppies," who prioritized work, money, and status.
+  - He humorously described their habits and interactions.
+- Michael's Struggles and Concerns:
+  - Michael faced stress, heart racing, and digestive problems due to the demanding corporate environment.
+  - The pressure to perform and constant work took a toll on his health.
+- The Impact of Bain and Future Prospects:
+  - Michael saw himself as invaluable to Bain, making it unlikely they would let him leave without a fight.
+  - He was concerned about being targeted by higher-ups and the potential Machiavellian tactics within the firm.
+- Reflections on Academic Freedom and Choices:
+  - Rosen mused on the contrast between Michael's corporate world and academia.
+  - He found similarities in the emotional toll on investment bankers and the academic system.
+- Shared Dreams and Literary Aspirations:
+  - Both Michael and Rosen dreamed of writing and escaping to Paris.
+  - Their competitive bond and hope of future literary transformation kept them connected.
+- Michael's Retreat and Jo-Ann's Presence:
+  - Michael's attack on a taxi was seen as a strategic retreat from corporate life, echoing Flaubert's seizure to escape law school.
+  - Jo-Ann, Michael's old flame, appeared at a graduation party, sharing her passion for music.
+  - Michael's bitterness from high school seemed to have faded, and he interacted with Jo-Ann warmly.
+- Jo-Ann's Influence and Expressive Dance:
+  - Jo-Ann's open and enthusiastic personality contrasted with Michael's reserved demeanor.
+  - Their interactions showcased Michael's transformation, and their dance demonstrated his change in attitude.
+- Music and Relationships:
+  - Michael's admiration for Jo-Ann's music highlighted his personal growth.
+  - The interaction showed a different side of Michael, one more open and engaged with the world.
+
+### Revolving Door
+- Michael's Journey and Changes:
+  - Michael was initially pursuing a ten-year plan but shifted it to a one-year plan after leaving his corporate job at Bain.
+  - He became immersed in writing and music, living cheaply and working as a telemarketer to support himself.
+  - Michael's personality changed; he dressed down and engaged in activities like folk music jam sessions at a bookstore called Riverrun.
+  - He began to feel that he was being monitored and his phone was tapped, possibly by his former company or other groups.
+  - His behavior became secretive and erratic, causing concern among family members who feared he might have gotten into trouble.
+  - Michael's connections with the Ferber family, especially Jane Ferber, provided him with a supportive community of like-minded individuals.
+  - The Network, a group of mental health professionals, academics, and friends, shared common goals and had connections with Michael's endeavors.
+  - The passage highlights the decline of community mental health centers, the rise of board and care houses, and the challenges of providing adequate care for the mentally ill.
+- Community Mental Health Movement and Decline:
+  - The passage discusses the decline of the community mental health movement, which aimed to replace state institutions with community-based care.
+  - It portrays the challenges of providing adequate care for those with severe mental illness, often leading to criminalization or inadequate treatment.
+  - The failure of community mental health centers paradoxically led to the survival of state hospitals, which were seen as a last resort for severely ill patients.
+- Michael's Relationship with Jane Ferber:
+  - Michael had a close relationship with Jane Ferber and her family, especially Lizzie and Josh.
+  - Jane was a stabilizing and generous presence, creating a sense of belonging for those around her.
+  - Michael had a special rapport with Jane and her group of friends in the mental health and academic fields.
+  - Jane's husband had pursued unconventional paths, and Michael was welcomed into her family's circle despite his own struggles.
+- Michael's Charisma and Transformative Presence:
+  - Michael was described as charismatic and confident, with an air of arrogance that was both exasperating and charming.
+  - He transformed from a corporate employee to a passionate writer and musician, leaving a significant impact on those around him.
+  - His connections with the Network and the Ferber family showcased his ability to gather people and create a sense of community.
+
+### Going Sane
+- Berkeley's Environment and Transformation
+  - Jonathan arrives at Berkeley and describes the vibrant and diverse environment of the campus.
+  - He engages in activities like biking, swimming, and exploring the natural beauty of Strawberry Canyon.
+  - Jonathan's stamina and confidence gradually increase, reminiscent of a recovery process.
+  - Berkeley is associated with sweeping views, protests against the military-academic complex, and demonstrations against the Strategic Defense Initiative ("Star Wars") at Lawrence Livermore National Laboratory.
+- Academic and Cultural Shifts
+  - Physics graduate students at International House have concerns about the government's funding of projects like Star Wars.
+  - Physicists, biologists, and computer geeks have achieved prominence in various fields.
+  - Literature students engage in radical interpretations, linking literary analysis to political and societal issues.
+  - The concept of "human potentialities" emerges, emphasizing unlocking untapped human capabilities.
+- Influence of Aldous Huxley and Human Potential Movement
+  - Aldous Huxley's visit to Big Sur is noted, as he shares ideas about human potentialities and consciousness expansion.
+  - The Human Potential Movement is born, with Michael Murphy and Dick Price at the helm.
+  - Huxley's interest in altered states of consciousness, influenced by mescaline, leads to the term "psychedelic."
+- Mental Health and Self-Healing
+  - Jonathan discusses his experiences with panic attacks and seeks therapy at Berkeley.
+  - The brain's evolutionary stages are described, highlighting the challenges of modern thought processes.
+  - Biofeedback is introduced as a method to manage anxiety and promote relaxation.
+  - Jonathan begins to understand the concept of living in the present moment.
+- Beat Generation and Madness
+  - Jonathan reflects on the Beat Generation, characterized by a pursuit of madness and unconventional paths.
+  - Allen Ginsberg's connection to mental illness, including his mother's struggles, is explored.
+  - Ginsberg's depiction of madness in "Howl" and his transformation into a cultural icon are discussed.
+- Challenges of Mental Illness
+  - Personal stories of mentally ill individuals, including Carl Solomon and Peter Orlovsky, are shared.
+  - The struggles faced by those with mental illness are highlighted, as well as the efforts of caregivers and advocates.
+  - The police response to mentally ill individuals is examined, contrasting incidents involving Carl Solomon and Eleanor Bumpurs.
+
+### Stories
+- Growing Up and Pursuing Dreams:
+  - Jo-Ann, after completing her degree, returns to New Rochelle with a determination to become a musician.
+  - Michael, an exalted presence since high school, shows interest in Jo-Ann and impresses her with his intellect and moral grandeur.
+  - Jo-Ann hesitates due to her perception of Michael's unique way of seeing the world.
+  - Michael's pursuit of Jo-Ann intensifies as he faces challenges and depression, leading him to Europe and eventually back to New Rochelle.
+- A Troubled Reunion in Europe:
+  - Jo-Ann wins a seat at the prestigious Schleswig-Holstein Musik Festival in Germany, performing with renowned musicians and conducted by Leonard Bernstein.
+  - Michael unexpectedly appears at the festival, seeking Jo-Ann's company and believing it would help his writing.
+  - Jo-Ann agrees to Michael's presence with conditions, struggling to maintain her own focus on the festival.
+  - Jo-Ann and Michael's reunion reveals a disconnect between their perceptions, with Jo-Ann feeling that Michael doesn't truly see her.
+- Michael's Struggles and Writing:
+  - Michael faces rejection from literary magazines and journals, which he defiantly tapes to the wall.
+  - The rejection letters and the novel he's been writing torment Michael with vivid images of danger and enemies.
+  - Michael's distress extends to his mental state and his relationship with Jo-Ann, and his behaviors become erratic and fixated.
+- A Network of Support:
+  - Michael receives support from Josh Ferber's family and becomes part of their extended family network.
+  - Jane, a psychiatrist in the Network, helps Michael connect with a psychiatrist, Murray, for assistance.
+  - The Network values community care over institutionalization and aims to keep people out of hospitals.
+- Complexities of Crisis Intervention:
+  - Jane's work in crisis intervention involves assessing risks and finding alternative solutions to hospitalization.
+  - Mrs. Cruz's case highlights the ethical dilemmas in crisis intervention, where the team must decide the level of risk and the best approach.
+  - The Crisis intervention guide emphasizes helping people change without relying on institutions.
+
+### Choosing
+- Transition to New York and Personal Relationships:
+  - Completed coursework early, had a year to prepare for orals and dissertation.
+  - Moved to New York City to stay in a friend's apartment and be closer to Mychal, who was starting rabbinical school.
+  - Feelings for Mychal emerged in college; traveled to Jerusalem to be with her but then went to California.
+  - Fear of growing apart led to reconnection, despite academic pursuits and personal growth.
+  - Growing discomfort with academia and post-structuralist theory; nostalgia for literature's individuality and significance.
+- Intellectual Confusion and Postmodernism:
+  - Exploration of modernism, postmodernism, and theories from scholars like Derrida and Foucault.
+  - Understanding postmodernism as the refutation and replacement of modernism; embracing symbolic interpretations.
+  - Influence of Foucault's "Madness and Civilization" and the concept of power shaping society and discourse.
+  - Skepticism about postmodernism's arbitrary nature, its impact on literature, and the dilemma of liking culture in the context of deconstruction.
+- Family, Identity, and Literature:
+  - Personal history marked by family survival against tyranny; value of family as a life raft and resistance.
+  - Connection to "Paradise Lost" and its emotional significance in Jonathan's life.
+  - Reflection on the eternal themes found in literature, the story's impact on Jonathan's soul, and the comfort it brings.
+
+### The Break
+- Michael's Mental Health Crisis:
+  - Encounter with Michael on Mereland Road, appearing distraught and troubled.
+  - Michael reveals his struggles with his mental health, seeing two psychiatrists.
+  - He becomes increasingly paranoid, delusional, and experiences a psychotic break.
+  - Michael's belief that his parents are Nazis, patrolling the house with a knife, and his mother's distress.
+- Receiving the News:
+  - Jonathan's parents inform him about Michael's condition and hospitalization.
+  - The shock of the news and the uncertainty surrounding Michael's situation.
+  - Jonathan's concern for Michael and reflection on their past relationship.
+- Jonathan's Conversation with Chuck Laudor:
+  - Jonathan reaches out to Chuck Laudor, Michael's father, for more information.
+  - Chuck's account of Michael's struggles, including the pressure of living at home.
+  - Chuck's attempts to encourage Michael to leave home and Michael's religious observance.
+  - Chuck hints at something else but doesn't elaborate fully.
+- Jonathan's Phone Call with Michael:
+  - Jonathan calls Michael at Columbia Presbyterian's neuropsychiatric unit.
+  - Michael's groggy voice; Jonathan fears Michael won't recognize him.
+  - Michael's description of life in the unit, routines, and restrictions.
+  - Discussion of Michael's writing, the rejection letters, and his "roller coaster ride."
+  - Michael's change in religious behavior, reading scriptures, and seeking valuable words.
+- Confession and Redemption:
+  - Michael's confession of arrogance, greed, and his feelings of being distant from his true self.
+  - The novel he wrote and later burned, seen as a desecration.
+  - Michael's desire to "make valuable words" and find redemption.
+  - Recollection of a childhood memory involving Jonathan's comment about Michael being "chameleonlike."
+- Rekindling Connection and Common Ground:
+  - Michael's approval of Jonathan's activities and connections, including his girlfriend.
+  - Jonathan's transition into the sanctioned realm of illness that surrounds Michael.
+  - Jonathan's willingness to visit Michael in the hospital, despite his own uncertainties.
+  - Michael's struggle to distinguish perceptions from symptoms; his evolving religious inclinations.
+  - Jonathan and Michael agree on a visitation plan and exchange contact information.
+
+### Entanglement
+- Understanding Michael's Illness:
+  - Michael's illness discussed as an event rather than a disorder, referred to as a prison rather than a hospital.
+  - Paranoia and its exploration as a more common phenomenon, partly from literature and history.
+  - Michael's explanations for his paranoia and how it sounded rational yet coherent.
+- Jonathan's Perspective on Friendship:
+  - Jonathan's mixed emotions about his friendship with Michael.
+  - Overwhelming emotional attachment despite doubt, competitiveness, and drifting.
+  - Jonathan's expectation that Michael will recover quickly due to their past dynamics.
+- Seeking Similarities and Differences:
+  - Jonathan's listing of parallels in their lives to understand their connection or differences.
+  - Debating whether to strengthen their connection or detach due to personal differences.
+  - Jonathan's willingness to visit Michael despite concerns about contagion.
+- Aiding Michael's Requests:
+  - Jonathan's conversation with Michael about visitation, needs, and secrecy.
+  - Michael's request for a camera, tape recorder, and a specific book, The Literary Guide to the Bible.
+  - Jonathan's preparation to provide these items and his reflection on his gullibility.
+- Navigating Madness and Reality:
+  - Jonathan's contemplation of madness and the blurred line between participation and madness.
+  - Comparison to quantum entanglement and the feeling of being spookily attached to Michael.
+  - Jonathan's nightmare of struggling with Michael and waking up in distress.
+
+### Locked Ward
+- Visit to Michael in the Hospital
+  - Jonathan Rosen visits Michael in a locked ward of a hospital.
+  - Michael, suffering from mental illness, is trancelike and tense, surrounded by his parents.
+  - Michael's room has a religious setup with a kippah, Bible, and prayer books.
+  - Michael's mental state is altered due to medication, but he is able to converse coherently.
+- Michael's Mental State and Hospitalization
+  - Michael is struggling with mental illness, trapped between madness and sanity.
+  - He had applied to top law schools but ended up in the hospital before he could attend.
+  - Michael's illness makes him question his desires and motivations.
+  - Michael's parents are worried about his condition and treatment.
+- Connection and Study with Michael
+  - Jonathan brings a Bible to study with Michael, who is exploring religious texts.
+  - Michael is intrigued by the story of Cain and Abel, discussing sin and evil urges.
+  - Michael's reading skills have declined due to his illness.
+  - The study session is interrupted by Michael's father, Chuck, who disapproves.
+- Michael's Desire for Outdoor Time
+  - Michael wants to go outside and asks Jonathan to arrange a day pass.
+  - The hospital psychiatrist questions Jonathan's ability to handle any emergency if Michael were to escape.
+  - Jonathan feels uneasy about the situation and agrees not to arrange the pass.
+  - Michael's disappointment and the visit's tension linger.
+- Reflection on Michael's Illness and Rosen's Role
+  - Jonathan reflects on Michael's illness, questioning its origins and associations.
+  - He compares Michael's situation to literary and historical references.
+  - Jonathan grapples with his role in Michael's life and his inability to fully understand or assist him.
+
+### Making Illness a Weapon
+- Introduction and Background
+  - Jonathan Rosen reflects on the use of mental illness metaphors in literary theories.
+  - Mentions the historical context of France's Vichy collaboration and the 1968 Paris protests.
+  - Discusses the prevalence of mental illness metaphors in literature seminars and academic discourse.
+- Metaphor of Mental Illness in Literary Theory
+  - Mentions various literary works that heavily utilize mental illness metaphors.
+  - Describes how mental illness became a significant theme in literary theory, blending with various disciplines.
+- Linking Madness and Political Movements
+  - Discusses Félix Guattari's attempt to involve psychotic patients in the 1968 strikes.
+  - Highlights the paradox of using metaphorical schizophrenia while advocating for psychiatric treatment.
+- Frantz Fanon: Psychiatry and Colonialism
+  - Explores Frantz Fanon's views on violence as a remedy against colonial oppression.
+  - Describes Fanon's approach as a psychiatrist caring for both colonial settlers and native Algerians.
+- Intellectual Theorists vs. Practicing Psychiatrists
+  - Contrasts Fanon's intellectual theorist persona with his practical psychiatric methods.
+  - Highlights the omission of certain reforms in scholarly works like Erving Goffman's "Asylums."
+- Sartre's Interpretation of Violence and Colonialism
+  - Discusses Sartre's view of violence as a healing force against colonial oppression.
+  - Explores Sartre's notion that Europeans needed to become like Algerians to find peace and decolonize.
+- Existentialism and Philosophical Beliefs
+  - Examines existentialist ideas of freedom, authenticity, and the absurdity of life.
+  - Rosen's personal connection to existentialist works through his interactions with Michael.
+- Sartre's Role in Resistance and Paradoxes
+  - Explores Sartre's involvement in the Resistance and his dual role during WWII.
+  - Highlights the contradictions in Sartre's works and actions, particularly during difficult times.
+- The Socialist Patients' Collective and Huber's Beliefs
+  - Discusses the establishment of the Socialist Patients' Collective by Wolfgang Huber.
+  - Describes Huber's belief that capitalism caused illness and called for revolution.
+- Radicalization and Terrorism
+  - Explores the radicalization of members of the Patients' Collective, leading to terrorism.
+  - Mentions Ulrike Meinhof's role and her transition from anti-psychiatry advocacy to terrorism.
+- Impact and Personal Connection
+  - Recounts personal experiences related to the Lufthansa hijacking and Red Army Faction.
+  - Reflects on how illness remained a weapon even in Jonathan's academic experiences.
+
+### Underclass
+- Michael's Stay in the Hospital and Medication:
+  - Michael spent eight months in the locked ward at Columbia Presbyterian due to his severe mental illness.
+  - His family's intervention led to his voluntary admission, allowing doctors to adjust his medication for schizophrenia.
+  - Antipsychotic medications were used, although their mechanisms were not fully understood; they aimed to control symptoms and provide relief.
+  - Hallucinations were still present, but Michael developed the ability to recognize and manage them.
+- Changes in Psychiatry and Understanding Schizophrenia:
+  - Mainstream psychiatry transitioned from psychoanalytic to biological approaches for treating schizophrenia.
+  - There was a shift from blaming bad parenting to recognizing the organic nature of the disease.
+  - Schizophrenia had complex causes, including genetic factors, although the exact triggers remained unknown.
+  - While recovery rates varied, a substantial percentage of people with schizophrenia achieved full remission, often unnoticed due to the stigma attached to the diagnosis.
+  - Statistics and insights about schizophrenia provided by E. Fuller Torrey's "Surviving Schizophrenia" guide.
+- Michael's Illness and Recovery:
+  - Michael's illness developed gradually, culminating in full-blown psychosis and delusions.
+  - He had a long stay in the hospital, and medication led to gradual improvement.
+  - Insight was emphasized as a key to recovery, helping patients distinguish between reality and delusion.
+  - Paradoxical nature of recovery: as his clarity increased, Michael felt more alienated from himself and struggled with the identity shift.
+- Socioeconomic Impact and Support Systems:
+  - Michael's economic struggles after leaving the hospital: unemployment, lack of prospects, and dependence on public assistance.
+  - Supplemental Security Income (SSI) and Medicaid provided support for people with mental disabilities.
+  - The face of mental illness changed from terror to sadness as understanding grew, but stigma and challenges persisted.
+  - Bureaucratic difficulties: Michael's experiences at the welfare office highlighted the struggles of navigating a system designed to help but often leaving recipients feeling invisible and degraded.
+- Emotional Response and Personal Struggle:
+  - Michael's emotions shifted as he navigated recovery, including sympathy, aversion, affection, and fear.
+  - His appearance and demeanor reflected the changes he had undergone, symbolizing a sense of mourning.
+  - Anosognosia, the inability to recognize one's own illness, had bound Michael's self-awareness.
+  - His recovery journey paralleled the complexities of understanding mental illness itself, challenging clear distinctions between states of health and illness.
+- Social and Class Dynamics:
+  - Michael's feelings of poverty and invisibility were compounded by bureaucracy and dependence on public assistance.
+  - He grappled with his own privileged background juxtaposed with his current circumstances.
+  - The underclass was a somber euphemism for those trapped in poverty and dispossession, presenting both danger and vulnerability.
+- Personal and Societal Reflections:
+  - Michael's experiences exposed the fragility of identity, the dual nature of recovery, and the societal challenges faced by people with mental illnesses.
+  - Jonathan also wrestled with his own reactions and limitations in understanding and supporting Michael.
+  - The narrative highlighted the need for empathy, better support systems, and a nuanced understanding of mental illness in society.
+
+### Halfway
+- Michael's Struggle with Mental Illness and Housing:
+  - Michael, Jonathan's friend, experienced severe mental illness and lived in a halfway house called Futura House in White Plains.
+  - Halfway houses provided shelter for those with mental illness, but they were limited in availability and were considered an alternative to state hospitals.
+  - Michael's experience in the halfway house felt like being in "Limbo," a term he borrowed from a George Carlin routine.
+  - Futura House aimed to provide supportive living conditions and independence but felt restrictive and intrusive to Michael.
+  - The challenge was finding appropriate housing that accommodated Michael's needs while allowing him autonomy.
+- Deinstitutionalization and its Effects:
+  - Deinstitutionalization was a policy shift that aimed to close mental hospitals and integrate individuals with mental illness into the community.
+  - However, this process often lacked proper support and infrastructure, leaving many individuals with mental illness without adequate care or housing.
+  - The policy's implementation led to unintended consequences, including homelessness and lack of community resources for those released from institutions.
+- Struggles with Recovery and Independence:
+  - Michael's journey through recovery involved coping with cognitive impairments, medication side effects, and a loss of independence.
+  - His experience in the halfway house challenged his sense of autonomy, with strict rules and limited freedom.
+  - The notion of "small steps" and focusing on basic skills clashed with Michael's desire for intellectual engagement and his previous academic achievements.
+- The Dilemma of Supported Housing:
+  - Supported housing was an attempt to bridge the gap between institutionalization and independent living for individuals with mental illness.
+  - The availability of supported housing was limited, and transitioning from such housing to complete independence proved difficult.
+  - Michael's pursuit of finding appropriate housing and a supportive environment was hindered by the lack of suitable options.
+- Legal and Social Challenges:
+  - The Fair Housing Act was expanded to include protections for people with mental and physical disabilities.
+  - This legal change aimed to prevent discrimination against individuals with mental illness, similar to the fight for racial equality.
+  - The challenges of integrating individuals with mental illness into society mirrored the difficulties faced by other marginalized groups.
+- Yale Law School as a Beacon of Hope:
+  - Michael's dream of attending Yale Law School was disrupted by his mental illness.
+  - Despite his struggles, the possibility of attending law school remained a beacon of hope and potential healing for Michael.
+  - Guido Calabresi, the dean of Yale Law School, expressed support for allowing Michael to honor his deferred acceptance and attend classes.
+
+## The House of Law
+
+### Brains
+- Michael's Challenges and Support
+  - Michael, who suffers from schizophrenia, overcomes challenges to attend Yale Law School.
+  - His choice was wise due to Yale's unique environment, small class size, and supportive structure.
+  - His classmates provide significant assistance, unaware of his illness, reading, editing, and helping him with his work.
+  - Despite not asking for help explicitly, Michael's classmates offer support willingly due to his compassionate nature and hints of his struggles.
+  - Michael's hints communicate his need for assistance as his illness impairs his eyesight and memory, hindering his abilities.
+- Bonnie's Concerns
+  - Bonnie, a psychologist, questions Michael's readiness for the pressures of law school due to his illness.
+  - She suggests a more involved and community-centered approach to his care.
+  - Bonnie's perspective differs from the Network's and Michael's psychiatrist, Murray, who believe Yale is the best option.
+- Guido Calabresi's Role
+  - Guido Calabresi, a beloved professor and dean at Yale Law School, plays a significant role in Michael's life.
+  - His charismatic and supportive nature enhances the unique atmosphere at Yale.
+  - Guido's personal history as an immigrant and his devotion to education shape his interactions with Michael.
+  - Guido's care and encouragement bolster Michael's confidence and resilience.
+- Michael's Perspective and Struggles
+  - Michael considers law school a place where he can focus on thinking, echoing his father's educational philosophy.
+  - His struggle with his illness is symbolized by the burning room incident, where he panics and leaves the room on fire.
+  - The pressure to choose between Macy's and Yale Law School becomes emblematic of the pivotal decision he must make.
+- The Legacy of Meritocracy
+  - Michael's brilliance and genius, despite his illness, symbolize the legacy of postwar meritocracy.
+  - The integration of smart Jews into academia was a response to Cold War pragmatism and ideological inclusion.
+  - Michael's story mirrors the experience of immigrant intellectuals who sought success through education.
+- Guido's Assurances and Connection to Michael
+  - Guido's care for Michael extends to personal involvement, as he ensures a bed is brought to Michael's dorm room.
+  - Guido's reassurance and presence provide Michael with emotional support during moments of crisis.
+  - Guido's history of overcoming challenges and his commitment to excellence shape his relationship with Michael.
+
+### Mentors
+- Yale Law School's Ethos and Professors:
+  - Professors at Yale Law, like Owen Fiss, impart a distinct ethos, inspiring students with unconventional teaching methods.
+  - Michael's experience with professors, who are both brilliant and demanding, shapes his perspective on learning and intimidation.
+  - Despite suffering from schizophrenia, Michael engages with his studies, discloses his condition to professors, and emphasizes his intellectual capacity and vulnerability.
+  - The disclosure of his mental illness makes a profound impact on his professors, who recognize his intelligence and courage.
+- Yale Law's Academic Environment:
+  - Yale Law School maintains an adversarial spirit similar to the courtroom, fostering intense intellectual combat even in small seminars.
+  - Notable judges and lawyers from Yale are linked through a web of relationships, establishing a strong pipeline from classroom to courtroom.
+- Professors as Mentors:
+  - Michael finds guidance and support from his professors, particularly Joseph Goldstein and Owen Fiss.
+  - Goldstein, a lay psychoanalyst and constitutional scholar, recognizes Michael's potential and becomes a strong advocate for him.
+  - Owen Fiss teaches a meta-procedures course, focusing on Goldberg v. Kelly, a case that holds personal significance for Michael due to his experiences with welfare.
+- Michael's Struggles and Relationships:
+  - Michael's struggles with schizophrenia manifest in his fear of fire, where he needs his father's reassurance to distinguish reality from hallucination.
+  - Despite his condition, Michael's resilience and intelligence captivate his professors, leading to personalized support and opportunities.
+- Law School Experience and Future Aspirations:
+  - Michael's law school experience revolves around overcoming challenges related to his mental illness.
+  - He connects with professors who value his brilliance and potential for advocating for people with similar struggles.
+  - While not conforming to the traditional Yale lawyer mold, Michael aspires to make a difference as an eloquent advocate for those with schizophrenia.
+
+### Precedent
+- Elyn Saks and Michael: Law Students with Schizophrenia
+  - Elyn Saks graduated from Yale Law School three years before Michael arrived.
+  - Saks found Joe Goldstein, a mentor, and role model, who supported her decision to pursue psychoanalytic training alongside her law degree.
+  - Saks's own struggle with schizophrenia had dramatic interruptions during her first semester, leading to a diagnosis of chronic paranoid schizophrenia and a temporary end to her law studies.
+  - Michael, like Saks, had been admitted to law school before his psychotic break, and his application was supported by doctors' claims that his worst experiences were behind him.
+  - Michael was mentored by Joseph Goldstein, who believed in his potential and arranged paying gigs for him, despite his unconventional approach to tasks.
+- Exploring the Stigma and History of Mental Illness
+  - Both Michael and Saks faced stigma due to their diagnoses of schizophrenia, which impacted their academic journeys.
+  - The history of eugenics and forced sterilization in America highlighted how intelligence and worth were often intertwined, leading to harmful policies and attitudes.
+  - The rejection of biology and the embrace of psychoanalytic psychiatry after World War II aimed to counter the damage done by eugenics and redefine expertise.
+  - The struggle to reconcile mental illness and intelligence was present for both Saks and Michael, where feeling publishable or intelligent contrasted with feelings of worthlessness.
+- Challenges and Progress in Dealing with Mental Illness
+  - Saks faced a long journey of accepting her illness and making peace with her need for medication.
+  - Her memoir, "The Center Cannot Hold," depicts her gradual realization of the basic elements of her illness and her need for treatment.
+  - Saks was fortunate to afford daily psychoanalysis and private hospital stays, which contributed to her recovery.
+  - A conversation with a fellow patient, Eric, revealed the complexities of dealing with mental illness; he had concealed his condition and ended up killing his father.
+- Impact and Resilience
+  - The narratives of Elyn Saks and Michael underscored the challenges faced by individuals with mental illness, but also highlighted their resilience and determination.
+  - Despite their struggles, both Saks and Michael managed to navigate their academic journeys and find support from mentors who believed in their potential.
+
+### Secrets
+- Michael's Concealed Secret:
+  - Michael has learned to hide his schizophrenia, viewing it as a secret that must be kept.
+  - He shares his secret selectively with trusted classmates, swearing them to secrecy.
+- The Secret Unveiled:
+  - Michael poses hypothetical scenarios to his friends to gauge their reactions if his secret were to be revealed.
+  - He finally discloses that he has schizophrenia and prefers to call it "crazy" with a touch of humor.
+  - His friends respond with support, promising to protect his secret and offering assistance.
+- Supportive Inner Circle:
+  - Michael's closest friends provide more than just emotional support; they help him with daily tasks and stay with him during challenging moments.
+- Summer and Support Loss:
+  - Summer disrupts Michael's routine and the support system he relies on, leaving him needing a place to stay.
+  - Linus Yamane, a friend from the past, comes to his aid.
+- Linus's Background and Values:
+  - Linus is an economics professor who has a strong sense of balance and self-discovery.
+  - He values martial arts, education, and principles like humility, grace, and kindness.
+- Michael's Involvement with Law and Academics:
+  - Michael works for Professor Owen Fiss, researching a legal case.
+  - His involvement in academic law and working with scholars gives him a sense of purpose.
+- Reconnecting with Carrie:
+  - Linus reconnects with Carrie, a transfer student he had known in college.
+  - They spend time together with Michael, forming a close bond.
+- Carrie's Acceptance of Michael's Schizophrenia:
+  - After a few months, Michael reveals his schizophrenia to Carrie, who responds with tears of compassion.
+  - Carrie's nature is characterized by her deep empathy and commitment to causes and people.
+
+### The Sympathetic Light of Sickness
+- Early Views on Mental Illness and Crime
+  - Karl A. Menninger and General G. Brock Chisholm highlight the concept of morality as a source of psychological issues.
+  - Psychiatry and legal culture have historically influenced each other, leading to changes in how society views mental illness and criminal behavior.
+  - Judge David L. Bazelon's influence on shaping legal responses to severe mental illness is discussed.
+- The Shift towards Psychiatric Influence
+  - After WWII, psychiatry gained prominence due to the mental health crisis among soldiers and a need for experts in human behavior.
+  - Psychiatry began to transform from treating severe mental illness to addressing everyday psychopathology and influencing the legal system.
+- Evolution of the Insanity Defense
+  - The "M'Naghten rule" and the "product test" as new approaches to the insanity defense are discussed.
+  - The Durham ruling aimed to treat crime as a symptom of mental illness, focusing on understanding the root causes rather than moral culpability.
+  - The unintended consequences of the Durham ruling, including prolonged hospitalization of defendants, are highlighted.
+- Legal Realism, Mental Health, and Civil Rights
+  - Legal realism challenged the idea of objective justice and raised questions about the judge's own understanding of the law.
+  - The Lake v. Cameron ruling aimed to secure psychiatric patients' rights to treatment in the "least restrictive environment."
+  - Jerome Frank's legal clinic emphasized a community-based approach to legal practice, particularly in mental health law.
+- Deinstitutionalization and its Backlash
+  - The lady in the box incident in the 1980s symbolized the backlash against deinstitutionalization, revealing the complexities of mental health policy.
+  - The clash between individual autonomy and the responsibility to protect vulnerable individuals is discussed.
+  - Thomas Szasz's libertarian perspective on mental illness and individual rights is explored.
+- Unintended Consequences and Tragedies
+  - Cases where legal interventions resulted in tragic outcomes, such as the case of a young man who killed his family after being released, highlight the challenges of legal advocacy in mental health cases.
+
+### Happy Idiot
+- Transitioning from Graduate School to Work
+  - Jonathan Rosen lets go of his dream of literary success and academic life.
+  - He takes a job at a newspaper called The Forward, focusing on its culture section.
+  - Quotes John Milton's idea that "Reason is but choosing."
+  - Recounts the deep but complex rekindled friendship with Michael.
+  - Michael's calls often reveal his mood and gradually disclose his needs.
+- Michael's Struggles
+  - Michael secures a lucrative corporate associateship but faces emotional struggles.
+  - He expresses feelings of despair and suicidal thoughts to Jonathan.
+  - Michael's calls often transition from low states to higher ones through discussion.
+  - Michael's distressing thoughts are turned into a competitive conversation.
+- Misreading Michael's Intentions
+  - Jonathan occasionally misunderstands Michael's intentions and feelings.
+  - Michael's competitive spirit and distress lead to mixed signals in their conversations.
+  - Michael's mention of Jonathan's father's appearance holds deeper layers of concern.
+  - Jonathan withholds personal news, including his engagement, from Michael.
+- Michael's Mental Health and Writing
+  - Jonathan recalls Michael's past struggles, including time in a locked ward.
+  - He reflects on Michael's writing and imagination being hindered by mental health.
+  - A comparison is made to James Joyce's daughter's mental health struggles.
+  - Jonathan considers the complexities of Michael's communication about his illness.
+- Michael's Career Struggles
+  - Michael loses a job opportunity at a law firm due to his actions and expectations.
+  - He demands a private office at the firm and reveals his history of schizophrenia.
+  - Michael's law school mentor, Bo, doubts his ability to thrive in a law firm.
+  - Bo's insight into Michael's limitations and the firm's response is highlighted.
+- Michael's Disappointing Summer Associateship
+  - Michael's expectation of a private office is not met at the law firm.
+  - The firm avoids assigning him work due to his concentration issues.
+  - Michael gets paid without being given any responsibilities.
+  - He portrays the experience as a successful summer at a prestigious law firm.
+
+### Postdoc
+- Intellectual Pursuits and Changing Times:
+  - The passage opens with a reflection on the unpredictability of history, referencing the end of the Cold War and unexpected outcomes.
+  - Jonathan reflects on the past and the uncertain predictions about how events would unfold, highlighting the influence of intellect over fate.
+- Political Landscape and Yale Law School:
+  - The passage describes the changing political climate and the excitement at Yale Law School during a time when three Yale graduates were prominent candidates in the Democratic presidential primary.
+  - Guido, a prominent figure at the law school, gains recognition and even considers an interview with The New York Post.
+  - Bill Clinton, a charismatic saxophone-playing baby boomer, wins the election, symbolizing a shift from the old Yale to a new era.
+- The Clintons and the Academic World:
+  - Bill and Hillary Clinton's ties to Yale Law School are highlighted, with Hillary having worked with notable figures at the school and sharing its values.
+  - The passage emphasizes the influence of academic endorsements and intellectual prowess in Bill Clinton's election victory.
+- Changing Social Climate and Leadership:
+  - The passage underscores the changing times, with a shift from George H. W. Bush's presidency to the Clintons' era, symbolizing the emergence of the baby boomer generation.
+  - The focus on intelligence and economic matters is contrasted with the values of the past.
+- Political Strategy and Change:
+  - The passage discusses Bill Clinton's ability to navigate political challenges, including Gennifer Flowers' claims, showcasing his strategic prowess.
+  - Jonathan examines the concept of strength and intelligence in political spouses, reflecting on changing perceptions.
+- Michael's Journey and Guido's Impact:
+  - The passage introduces Michael, a central character, who had a strong connection with Guido Calabresi, a revered figure at Yale Law School.
+  - Michael's journey from despair to recognition is outlined, emphasizing Guido's instrumental role in his transformation.
+- Support and Challenges for Michael:
+  - Michael's relationship with Steve Yandle, an associate dean, is detailed, emphasizing Yandle's support for Michael's academic pursuits and advocacy.
+- Michael's Academic Journey and Personal Development:
+  - Michael's postdoctoral appointment is discussed, highlighting his new role that combines scholarship, advocacy, and interaction with students.
+  - His concept of "nurturing inclusiveness" and his engagement with disability law are explored, reflecting his vision for a better society.
+- Personal Relationships and Challenges:
+  - Michael's relationship with Carrie, a woman he is in love with, is portrayed, along with his desire for marriage and fatherhood.
+  - Michael's concerns about passing schizophrenia to his children and his employment prospects are discussed, showcasing his inner conflicts.
+
+### Thoughtful Enabling
+- Michael's Vision of Inclusion and Equality
+  - Michael Laudor, a disability rights advocate, aimed to reshape norms and laws for an inclusive community for individuals with disabilities. He critiqued narrow ADA application, proposed legal and social changes.
+  - Beyond legal reform, he aimed to dissolve able-bodied vs. disabled distinctions, envisioning an interdependent society where all contribute as patients and healers, forming unity.
+  - Laudor criticized ADA's financial-based exemptions, seeking to transform "weasel words" like "business necessity." He pressed for an "inclusiveness obligation" for true societal inclusivity.
+  - He stressed a "nurturing community" based on Martin Luther King Jr.'s "beloved community." Fundamental care and love were rights he championed.
+- Michael's Legal Arguments and Challenges
+  - Influenced by schizophrenia, Laudor's legal arguments challenged the Supreme Court's "otherwise qualified handicapped individual" interpretation for disabilities.
+  - Court saw "otherwise qualified" as performing essential job tasks with reasonable accommodations. Laudor disagreed, citing a wheelchair-bound software engineer.
+  - Laudor aimed to remove ADA's exemptions, enforcing it and eliminating economic justifications for discrimination. He sought a disability-friendly society.
+- Personal Relationships and Challenges
+  - Jonathan Rosen's friendship with Michael Laudor and connection with Rabbi Mychal were intertwined. Laudor attended Rosen and Mychal's marriage for stability.
+  - Michael admired Mychal's empathy and faith, discussing deep life and relationship matters. He confided in Mychal about girlfriend Carrie, seeking acceptance.
+  - Carrie and Michael's relationship faced religious and cultural complexities. Michael's schizophrenia added further layers, as he feared passing it to potential children.
+  - Michael's advocacy was driven by personal struggles and societal biases. Legal arguments intertwined his experiences with academic pursuits, aiming for equality.
+
+### Career Killer
+- Career Struggles and Personal Challenges
+  - Michael Laudor, battling schizophrenia, encountered hurdles pursuing a satisfying career. Despite desiring a Yale Law School professorship, he faced discrimination in academic law job searches due to his mental illness.
+  - Advised to conceal his schizophrenia in interviews, Michael struggled explaining his experience gaps, leading to unsuccessful job searches. This rejection left him despondent, despite mentor support.
+  - He moved to a Bronx apartment with girlfriend Carrie, but their differing routines strained the space.
+- Carrie's Career and Michael's Struggles
+  - Michael's girlfriend, Carrie, excelled at the Edison Project, reshaping education with technology. His gloom deepened, feeling disconnected post-Yale Law.
+  - At the Westchester Independent Living Center, Michael found purpose and created the Westchester Consumer Empowerment Center, aiding those with disabilities.
+- Legacy of the Disability Rights Movement
+  - Michael's affinity for physical disability metaphors showcased his understanding of societal barriers. The Berkeley-born disability rights movement's impact was profound, championing equal rights.
+  - Joe Bravo, wheelchair-bound director of the center, admired Michael's insight. His openness about schizophrenia resonated in the disability community.
+- Personal Loss and Reflection
+  - Father Chuck's terminal prostate cancer intensified Michael's fears and emotional turmoil. Chuck's support had been unwavering.
+  - Michael's job struggles and Chuck's decline made him rethink concealing schizophrenia. He embraced his own story's power, opting for openness in job applications.
+  - Chuck's passing led to Michael's poignant funeral speech, revealing a new facet of his public speaking abilities.
+- Unsettling Behavior and Supportive Network
+  - Grieving, Michael displayed unsettling behavior during shiva, speaking inappropriately about his parents' marriage. Myrna Rubin, part of his support network, noticed his distress.
+  - His speech's mismatched emotion highlighted his mental health challenges and emphasized the importance of his caring friends and mentors.
+
+## The House of Dreams
+
+### Role Model
+- Introduction: Michael's Inspiring Journey
+  - In 1995, The New York Times featured an article highlighting Michael B. Laudor's extraordinary journey, challenging societal norms and stigma associated with schizophrenia.
+  - The article portrayed Michael's achievements while shedding light on his battle with mental illness and determination to succeed on his own terms.
+- Challenges Faced by Michael: Navigating a Stigmatized World
+  - Michael faced the daunting challenge of finding a professorship at a law school without concealing his schizophrenia, despite warnings that mental illness could be detrimental to his career.
+  - The stigma surrounding schizophrenia and lack of representation in academia made his journey even more exceptional.
+- Coming Out and Activism: A Bold Move
+  - Michael openly declared his schizophrenia, adopting the term "flaming schizophrenic," driven by a political and religious commitment to advocate for mental health and combat societal negation.
+  - His decision to reveal his condition was a form of activism, resonating with the struggles of other marginalized groups, such as the disability rights movement.
+- Guido Calabresi's Support: A Dean's Compassion
+  - Guido Calabresi, Michael's dean at Yale Law School, offered unwavering support and understanding, likening Michael's situation to an "invisible wheelchair," and ensuring accessibility where needed.
+- Balancing Activism and Academia: A Quest for Acceptance
+  - Michael's journey aimed to harmonize his advocacy work with his academic pursuits, highlighting that his determination to become a law professor while openly discussing his schizophrenia was a form of activism itself.
+- Public Disclosure and Personal Courage
+  - Michael's decision to discuss his mental illness publicly required tremendous personal courage, as he opened up about his struggles, medication, and the effort he expended to maintain "reality contact."
+- Battling Stereotypes: High-Functioning Schizophrenia
+  - Michael encountered stereotypes and misperceptions about high-functioning individuals with schizophrenia, including doctors' suggestions that seemed limited and demeaning.
+  - These stereotypes conflicted with his pursuit of high achievement, causing confusion about whether he aimed to challenge societal norms or eliminate the perception of schizophrenia itself.
+- The Role of Supportive Care: Community and Home Care
+  - A psychologist's insight underscored the importance of community support and home care for individuals with mental illness, debunking self-fulfilling prophecies of doom associated with negative labels.
+- The Complexity of Michael's Struggles: Beyond Disclosure
+  - The challenges Michael faced extended beyond the question of whether to disclose his schizophrenia, delving into the deep-rooted complexities of his mental health battle and the impact of paranoid thinking.
+- Hope for the Future: Resuming the Job Search
+  - The article ended with a note of hope, as Michael resumed sending out résumés with the support of those who knew him well.
+  - Guido Calabresi's optimistic outlook on Michael's journey reinforced his brilliance and resilience in conquering his illness.
+
+### Twice Born
+- Introduction: Michael's Remarkable Journey
+  - The story reflects on Michael's extraordinary journey as he navigates the challenges of schizophrenia and strives for success.
+  - Joseph Campbell's concept of inward journeys of various individuals, including heroes and those with mental health conditions, is discussed as a parallel to Michael's path.
+- A Tale of Hope and Resilience: Michael's Impact
+  - Despite not securing a law professor job, Michael's story garnered widespread support and hope, especially for those dealing with schizophrenia and their families.
+  - The National Alliance on Mental Illness (NAMI) recognized the common theme of individuals going from high expectations to mental health struggles.
+- NAMI's Formation and Purpose
+  - NAMI emerged from the aftermath of deinstitutionalization, created by parents caring for mentally ill children who lacked proper support.
+  - The organization aimed to provide emotional support, information, and advocacy in the face of inadequate services and societal stigma.
+- Laurie Flynn and the Evolution of Attitudes
+  - Laurie Flynn, NAMI's director, resonated with Michael's story as her daughter struggled with mental health issues.
+  - The narrative underlines the changing perspective toward mental illness and the importance of sharing hopeful stories.
+- Media and Entertainment's Response
+  - The New York Times article sparked Hollywood and publishing interest in Michael's story, with offers from Disney, Twentieth Century Fox, and Ron Howard.
+  - These offers included film adaptations and book deals, revealing the public's thirst for new narratives.
+- The Journey to a Book Deal
+  - Michael collaborated with agent Tina Bennett to craft an eighty-page proposal for his memoir, "The Laws of Madness."
+  - The proposal was met with excitement due to its unique perspective on schizophrenia and vivid descriptions of hallucinations.
+- Michael's Struggles and Triumphs
+  - Michael's ability to control his hallucinations by visualizing them as images on a screen intrigued readers, and he continued discussing his experience with filmmakers.
+  - Jonathan emphasizes Michael's resilience and journey from battling demons to achieving success despite his mental health condition.
+- The Intersection of Personal and Professional
+  - The story delves into the emotional and personal connections that shaped Michael's interactions, including his relationship with his father.
+  - The narrative explores how personal experiences influenced the development of Michael's story.
+
+### Creativity, Inc.
+- Introduction: Michael's Success and Move to Hastings-on-Hudson
+  - Michael's success from book and movie deals led to a move to Hastings-on-Hudson with a beautiful view.
+  - Hastings-on-Hudson, a peaceful river town, became his new home.
+  - Michael's return to Riverrun Books marked his triumphant return after battling schizophrenia.
+- Living in Hastings-on-Hudson
+  - Michael and Carrie moved to a two-bedroom apartment with a balcony and a river view.
+  - The town of Hastings-on-Hudson offered a serene and quaint atmosphere.
+  - Michael incorporated his own company, Creativity, Inc., following the success.
+- Challenges and Family Planning
+  - Despite financial success, Michael and Carrie treated the earnings as a one-time windfall.
+  - They planned to start a family and focused on saving money.
+  - Their home was in the River Edge complex, offering safety and scenic beauty.
+- Career and Writing
+  - Michael embarked on his career as a writer, tackling old wounds in his memoir.
+  - He reconnected with past mentors and professors, celebrating his success.
+  - Imagine Entertainment was enthusiastic about turning his story into a movie.
+- The Movie Project
+  - Imagine Entertainment's excitement for "The Laws of Madness."
+  - The movie would focus on Michael's heroic recovery while portraying his battle with schizophrenia.
+  - Casting considerations included Danny DeVito and Leonardo DiCaprio for key roles.
+- Yale Connection and Institutional Pride
+  - Michael's connection with Yale Law School showcased his remarkable journey.
+  - Tony Kronman, dean of Yale Law School, was a friend and supporter.
+  - The law school celebrated Michael as an embodiment of looking beyond disabilities.
+- Meeting with Chris Gerolmo
+  - Chris Gerolmo's impression of meeting Michael: restrained yet determined.
+  - Gerolmo saw potential in creating a character like Michael, concealing his illness.
+  - Gerolmo's involvement in the project extended to potentially directing the movie.
+- DiCaprio's Experience and Representation of Mental Illness
+  - Leonardo DiCaprio's meeting with the Imagine team involving a unique experience.
+  - Gerolmo's creative approach helped DiCaprio understand the challenges of mental illness.
+  - The movie aimed to portray the internal struggles of living with competing realities.
+- Maslow's Hierarchy and Michael's Journey
+  - Maslow's hierarchy of needs and its relation to Michael's journey.
+  - Michael seemingly transcended the hierarchy, embodying self-actualization.
+  - Michael's story echoed the concept of self-actualization even in the face of adversity.
+- Advocacy and Impact
+  - Michael's role as an authority on mental illness in media.
+  - Michael's perspective on commitment hearings and his concern for affected individuals.
+  - Michael's experiences allowed him to provide insights into the mental health system.
+
+### Michael Called Kevin
+- Michael's Transformation:
+  - Michael's success from book and movie deals allowed him to move into a new apartment in Hastings-on-Hudson with Carrie, enjoying a view of the river.
+  - Despite his achievements, Michael still grappled with revisiting old wounds and the impact of his mental illness, schizophrenia.
+  - Hastings-on-Hudson was a peaceful place, providing a serene environment for Michael's creative endeavors as a writer.
+  - He incorporated his own company, Creativity, Inc., and was considering starting a family with Carrie.
+- Creative Ventures:
+  - Michael's book, "The Laws of Madness," became the foundation for a movie of the same name, chronicling his journey with schizophrenia.
+  - The book and movie deal brought financial stability, and Michael found himself deeply involved in the film's development.
+  - He engaged with professionals in the movie industry, discussing casting choices, adapting his story for the screen, and exploring the cinematic potential of his experiences.
+- Casting and Changes:
+  - The characters in the movie version of Michael's story were renamed, yet their essence remained true to his experiences.
+  - Leonardo DiCaprio's interest in playing Michael in the movie contributed to the project's growing excitement.
+  - The decision-making process for casting various roles became a playful yet integral part of the project's development.
+- Challenges and Considerations:
+  - Gerolmo, the screenwriter, creatively depicted the inner workings of schizophrenia through Michael's character, Kevin, in the screenplay.
+  - The film aimed to immerse the audience in Kevin's perspective, blurring the lines between reality and hallucination.
+  - The cinematic portrayal aimed to convey the challenges of mental illness and recovery in a compelling and empathetic way.
+- Michael's Self-Reflection:
+  - Michael's success led him to contemplate the meaning of self-actualization and the hierarchy of needs proposed by psychologist Abraham Maslow.
+  - Despite achieving many goals, Michael recognized that his journey was ongoing, filled with self-discovery and adaptation.
+  - The duality of being both a hero and the writer in his own story underscored the significance of both his book and the cinematic version of his experiences.
+- Growing Concerns:
+  - Bonnie, a psychologist, expressed concerns about the potential impact of Michael's success on his mental well-being.
+  - She believed that the intense focus on his accomplishments, combined with the challenges of managing schizophrenia, could lead to stress and instability.
+- Divergent Paths:
+  - Michael's direction in life diverged from the psychiatric system, and his achievements challenged traditional notions of recovery.
+  - He continued to navigate the delicate balance between his creative ambitions, managing his mental health, and maintaining a sense of calm.
+- Family Bonds:
+  - Michael's connection with his family, especially his mother, Ruth, remained strong, and they shared joyful moments even amidst the challenges he faced.
+  - His interactions with family members highlighted his ability to find solace and joy amid the complex landscape of mental illness and creative pursuits.
+
+### Shamans
+- Eddie's Perception of Michael:
+  - Michael and Carrie attend Temple Beth Shalom, and Eddie, the rabbi, appreciates their devotion and connection.
+  - Eddie, the rabbi, admires Michael as a saintly figure with an aura of righteousness, comparing him to Elie Wiesel.
+  - Eddie's feelings for Michael and Carrie lead him to give them time before Friday night services, a gesture he rarely extends.
+- Michael's Journey and Struggles:
+  - Michael is working on a book titled "The Laws of Madness" and is struggling to make progress while Hollywood is planning a movie based on it.
+  - Michael is offered opportunities and positions, but his desire to complete the book remains strong, as it holds a personal significance to him.
+- Friendship and Comparisons:
+  - Jonathan and Michael's friendship is depicted as one of writers in embryo during childhood.
+  - Michael's childhood experiences, including interactions with Cynthia and her daughter Harriet, are recalled as formative.
+- Theories and Beliefs:
+  - Michael reflects on Sapolsky's essay about the possible connection between mental illness and religious beliefs.
+  - Sapolsky's idea of "tribal visionaries" resonates with Michael, who sees himself in a similar light.
+  - Michael ponders the possibility of hallucinations and dreams as messages from God, referring to Carl Jung's viewpoint.
+- Doubts and Transformations:
+  - Michael's doubts about his faith and his journey are explored, with Sapolsky's speculations causing him to question his experiences.
+  - The passage hints at Michael's shifting mental state, demonstrated by a moment of deep, transformed expression during an interview.
+  - Hamilton's decision to leave Scribner for Dutton brings uncertainty to Michael's project and their relationship.
+- Family and Illness:
+  - Michael's father-in-law, Mike Goldstein, a psychologist, becomes terminally ill with cancer.
+  - Goldstein's engagement with Michael's conversation transcript suggests doubt about Michael's condition or intentions.
+
+### Equal Opportunity
+- Reflection on Mental Illness and Writing:
+  - Jonathan Rosen explores the intersection of mental illness and writing, focusing on the challenges of recognizing mental illnesses as disabilities and the impact of sharing one's personal story.
+  - He cites Michael Laudor's idea that society needs to acknowledge biologically driven mental illnesses as disabilities that can be accommodated with empathy and understanding.
+  - Rosen reflects on his colleague Jane Rosenman's efforts to edit Michael's book "The Laws of Madness" and his struggles with schizophrenia while attempting to write his story.
+- Writing as Healing and Identity:
+  - Rosen delves into the concept of writing as a form of redemption, suggesting that storytelling can turn personal struggles into past-tense afflictions.
+  - He contrasts his belief in the healing power of writing with the reality that many published writers face challenges and doubts during the creative process.
+  - Michael's determination to write his story without assistance is described, along with the conflict between his ideal of solitary literary purity and the interdependent world he envisioned.
+- The Writer's Journey and External Perceptions:
+  - Jonathan shares his own experiences as a novelist and the conflicts that arose with his mother, who questioned his choice of becoming a writer and worried about competition between their works.
+  - He contemplates the dichotomy between embracing two opposed ideas, and how the fear of failing to tell one's story can lead to feelings of inadequacy and darkness.
+  - Rosen discusses his own struggle with anxiety and how he turned to medication, particularly Prozac, to alleviate its effects, describing the transformative impact it had on his mental state.
+- Navigating Mental Health and Illness:
+  - Jonathan touches on the difficulties in defining mental illness and the ongoing debates about how to apply guidelines for accommodating mental disabilities in various contexts, such as the workplace.
+  - Michael's inclusive understanding of disability and community is highlighted, as he advocates for psychiatric disabilities to be treated as physical ones, as shown in his law review article.
+  - Jonathan compares his own experiences with medication and mental illness to Michael's, emphasizing the nuances and complexities of mental health diagnoses and treatments.
+- Literary and Cultural References:
+  - Rosen references works such as Anne Sexton's poetry collection "To Bedlam and Part Way Back" and its allusion to mental illness, drawing parallels between the redemptive power of literature and Michael's journey.
+  - He mentions the stigma associated with psychiatric hospitals, using examples from literature and film, including William Styron's "Darkness Visible" and the portrayal of mental institutions in "One Flew Over the Cuckoo's Nest."
+
+### The Backward Journey
+- Michael's Relationship and Film Adaptation:
+  - Michael, struggling with severe mental illness, is being portrayed in a film by the Imagine team.
+  - The film's executives consider introducing a stronger female character and reach out to Jo-Ann, Michael's ex-girlfriend, and Laurie Flynn from the National Alliance on Mental Illness (NAMI) for consultation.
+  - The film aims to portray mental illness positively, countering negative stereotypes.
+- Schizophrenia and Hero's Journey:
+  - Michael's life parallels Joseph Campbell's hero's journey, a narrative structure common in Hollywood.
+  - Campbell likened schizophrenia to a journey for self-restoration and balance, based on anthropological studies.
+  - Campbell's views were inspired by psychologist Julian Silverman and his talk at a conference on schizophrenia.
+- Carrie's Role and Tech Career:
+  - Carrie, Michael's girlfriend, plays a crucial role in his life despite his illness.
+  - She is a dedicated computer expert working at Edison Project, striving to ensure its technological advancements.
+  - Her devotion to Michael and their relationship is inspiring but also challenging due to his illness.
+- Stigma and Mental Illness Representations:
+  - Stigma surrounding mental illness persists, often reinforced by misinformed media representations.
+  - Examples include Nike's baseball ad with a voice-hearing pitcher and John Deere's offensive "schizophrenic lawn mower" commercial.
+  - Honest portrayal is key to combating stigma, but it's challenging in media.
+- Carrie's Resilience and Challenges:
+  - Carrie manages to balance her demanding tech career with her commitment to Michael.
+  - She experiences tough situations when Michael's symptoms worsen, yet her dedication remains strong.
+  - Her presence in Michael's life defies the common belief that those with schizophrenia can't maintain relationships.
+- Michael's Struggles and Support:
+  - Michael's editor and agent suggest involving an outside writer to complete his book, but he resists.
+  - His depression becomes palpable during a meeting with his editor and agent.
+  - Carrie's father's disapproval due to Michael's unemployment, Judaism, and schizophrenia adds to his struggles.
+- Mixed Emotions and Uncertainty:
+  - The text captures the profound impact of mental illness on relationships, leaving Jane, Michael's editor, feeling devastated and undone.
+  - Tina, Michael's agent, remains optimistic about the book's future.
+  - The juxtaposition of personal vulnerability and professional aspirations underscores the challenges Michael faces.
+
+### The Two Adams
+- Reconnecting and Revisiting Troubles:
+  - Carrie and Michael return to a synagogue after a long absence, causing curiosity among their acquaintances.
+  - Eddie, a central character, recalls their previous involvement and attempts to understand their mysterious disappearance.
+- Eddie's Role and Concern:
+  - Eddie, a rabbi, meets with Michael to discuss his struggles, listening empathetically as Michael shares his mental and emotional burdens.
+  - Eddie recommends a book called "The Lonely Man of Faith" to Michael, encouraging him to read it and discuss it in the future.
+- Concept of Two Adams:
+  - Eddie introduces the concept of "Adam the first" and "Adam the second" from the book, representing different aspects of human nature.
+  - The two Adams symbolize a struggle between worldly achievement and spiritual longing, reflecting Michael's internal conflict.
+- Missing Third Adam:
+  - Eddie contemplates the idea of a potential "third Adam" that combines the attributes of the first two, acknowledging both secular success and spiritual connection.
+- Michael's Condition and Delusions:
+  - Unbeknownst to Eddie, Michael has stopped taking his medication, leading to delusions, such as believing that there are two versions of Carrie.
+- Network's Concern for Michael:
+  - The "Network" of friends, including Jane and Myrna, express growing worry about Michael's deteriorating mental state.
+  - Jane's attempts to reach out to Michael's psychiatrist for intervention are met with limited options due to the absence of imminent danger.
+- Challenges with Mental Health System:
+  - The group discusses the limitations of the mental health system, especially in addressing cases where patients are not overtly violent.
+  - They fear that Michael might reach a point of no return if not properly cared for.
+- Carrie's Response and Family Tragedy:
+  - Carrie acknowledges Michael's condition and reaches out to her sister to convey that she won't be returning to work.
+  - It is revealed that something tragic has happened, indicating that Michael might have harmed Carrie.
+- Sudden Shift of Priorities:
+  - The news of the tragedy overshadows previously important matters like a business trip and technology presentations, reflecting the sudden shift in perspective.
+
+### Personal Emergency
+- Discovery of the Tragedy:
+  - On June 17, Eddie noticed a helicopter over Hastings, and soon after, he was informed by the police that Carrie was dead and Michael had killed her.
+  - Newspapers initially reported Michael as wanted for questioning, but it was evident he was the prime suspect.
+- Investigation and Reaction:
+  - The investigation was led by Lieutenant Vince Schiavone, who coordinated with Yonkers' police due to the rarity of homicides in Hastings.
+  - Carrie's body was found with multiple stab wounds and signs of struggle. The medical examiner's report revealed she was pregnant, deepening the tragedy.
+  - Friends and acquaintances were in shock, feeling a mix of horror and sorrow for the loss and the events that unfolded.
+- Michael's Disappearance:
+  - Michael fled the scene in Carrie's car, and despite efforts by the police and a crisis intervention team, he couldn't be located.
+  - The police were aware of his schizophrenia and his history of erratic behavior.
+- Impact on the Community:
+  - The tragic events had a profound effect on those who knew the couple, creating a sense of disbelief, horror, and grief.
+  - Eddie, as a rabbi, had interactions with both Michael and Carrie, making the situation deeply personal for him.
+- Emotional Responses:
+  - Lizzie, Carrie's sister, was in shock and disbelief, unable to comprehend the tragic reality.
+  - Friends and family members were haunted by thoughts of what could have been done differently to prevent the tragedy.
+- Personal Connections:
+  - The text explores the personal connections between the characters and how they navigated their emotions and reactions to the events.
+  - Jane Ferber reaches out to her daughter, Lizzie, and tries to protect her from the horrifying news.
+- Community Support:
+  - Eddie's encounter with Wally Urtz, the store manager, highlights the role of the community in offering support during difficult times.
+  - Wally's story emphasizes the importance of facing challenges and adversity with resilience and determination.
+- Aftermath and Reflection:
+  - The tragedy raises questions about the struggles of individuals with mental illness, the gaps in mental health support, and the impact on those around them.
+  - The narrative showcases the complexities of human emotions, relationships, and the profound effects of unexpected and traumatic events.
+
+### Going Back
+- Sentimental Journeys:
+  - Michael's trip triggers memories of his time at Farm Camp Lowy and his experiences as a counselor. He recalls helping children but later stopping his interventions.
+  - He reminisces about his interactions with fellow counselors and the sense of timelessness that permeated those moments.
+- In Search of Ithaca:
+  - Michael's ultimate goal is Ithaca, where he has connections through Carrie's family and his experiences at Cornell University.
+  - He reflects on the Stone Arch Bridge in Ithaca, a symbolic location that connects campus to Collegetown, carrying memories of youthful freedom and exploration.
+- Yearning for the Past:
+  - The journey by bus seems to stretch beyond its physical duration due to Michael's internal turmoil, reflecting his desire to turn back time.
+  - He longs to revisit the age of sixteen, a time of literature, revolution, summer romance, and youthful defiance.
+- The Weight of Grief and Guilt:
+  - Michael's emotional turmoil is juxtaposed against the Stone Arch Bridge, which symbolizes both the excitement of exploration and the dark depths of cascading water.
+  - The Grateful Dead song's lyrics, "If the thunder don't get you...," seem to echo in his mind, hinting at the impending storm of consequences he faces.
+- Emotional Climax:
+  - In Collegetown, Michael's agitation continues, and he stands on the Stone Arch Bridge, gazing into the gorge, where rushing water represents the overwhelming power of his guilt and the consequences of his actions.
+  - The roaring water and the illuminated darkness reflect the turmoil within him as he faces the weight of his choices and their irreversible impact.
+
+### The Fatal Funnel
+- Officer Ellen Brewer and the Encounter:
+  - Ellen Brewer, a former detective turned patrolwoman, responds to a strange encounter in Collegetown on June 17, 1998.
+  - She notices a tall, silhouetted figure dressed in black moving strangely across the engineering quad, sparking her caution.
+  - The man approaches her, raising his hand as if hailing a taxi, and she slows her car to assess the situation.
+  - He appears disoriented and distressed, mentioning something about killing someone, possibly his girlfriend or a "windup doll."
+- Michael's Behavior and Statements:
+  - The man, Michael Laudor, seems to be incoherently confessing or sharing a delusion about harming someone.
+  - Michael's statements fluctuate between confessing to harming his girlfriend, referred to as Carrie, and expressing uncertainty about whether she's real or a doll.
+  - He provides disjointed details about his journey, from driving Carrie's car to Binghamton, taking a bus to Cornell, and encountering the police car.
+- Arrival at Cornell PD:
+  - Michael's agitation prompts Ellen Brewer to request backup and approach him with caution.
+  - They move Michael to Barton Hall, the police station, where they continue questioning him about his actions.
+  - Michael mentions having possibly killed Carrie and expresses urgency to check on her.
+- Discovery of Blood and Evidence:
+  - The blood on Michael's clothing raises suspicion, leading to the meticulous collection of evidence from his clothing and body.
+  - Ellen Brewer, certified as a crime scene technician, assists in gathering and cataloging evidence.
+  - The evidence points toward a serious crime, and the investigation expands.
+- Sergeant Mospan's Management:
+  - Sergeant Mospan coordinates the efforts of various law enforcement agencies and directs the investigation.
+  - The investigation involves tracing Michael's journey, gathering physical evidence, and coordinating with Hastings-on-Hudson authorities.
+  - The police work through the night, coordinating interviews and evidence processing, with the case attracting attention.
+- Michael's Aggression and Arrest:
+  - Michael's behavior becomes increasingly erratic and violent, prompting officers to use force to subdue him.
+  - He attacks Officer Brewer, leaving her injured, and engages in a physical struggle with other officers.
+  - Eventually, they manage to restrain and shackle him, preventing further violence.
+- Aftermath and Reflection:
+  - Officer Brewer undergoes therapy and shares her experience in lectures, emphasizing the dangers of complacency, the "fatal funnel," and the importance of mental health awareness for law enforcement.
+  - The lecture is titled "The Three Faces of Michael Laudor," highlighting the multifaceted nature of encounters and the need for preparedness.
+
+### Cain and Abel
+- The Murder and Investigation:
+  - Michael Laudor was charged with the murder of his pregnant fiancée, leading to a media frenzy.
+  - Westchester County District Attorney Jeanine Pirro emphasized the severity of the crime and hinted at Michael's mental illness without disclosing details.
+  - As the investigation unfolded, the detectives stopped at various places, like Binghamton, to arrange logistics and interview colleagues of the victim.
+- Michael's Mental State and Arrest:
+  - Michael, suffering from schizophrenia, remained mostly silent during the investigation and arrest.
+  - He had been arraigned in Ithaca, transferred to the Ithaca City Jail, and subsequently brought back to Westchester.
+- Media Sensation and Reaction:
+  - The media frenzy surrounding Michael's case brought his celebrity connections, educational achievements, and mental illness into the spotlight.
+  - Michael's deteriorating appearance and the shocking "PSYCHO" headline highlighted the tragic transformation he had undergone.
+- Impact on Friends and Mental Health Advocates:
+  - Michael's fall from grace deeply affected friends and colleagues who struggled to reconcile the extremes of his illness.
+  - Organizations like the National Alliance on Mental Illness (NAMI) had mixed feelings about his case, as it challenged the narrative of success despite mental health struggles.
+- Elyn Saks and Michael's Tragedy:
+  - Elyn Saks, a tenured USC law school professor who had her struggles with schizophrenia, initially hesitated to write her memoir, but later felt compelled to share her story due to Michael's case.
+- Dreams and Reflections:
+  - Jonathan experiences vivid and unsettling dreams that blur the line between reality and imagination.
+  - Memories of Michael's childhood, his struggles, and his connections to friends and family are mixed with guilt and sadness.
+- Media Intrusion and Family's Response:
+  - Ruth Laudor, Michael's mother, faces the intrusion of reporters seeking comments from her and the family.
+  - The family remains mostly silent, declining to make statements as the media scrutinizes their lives.
+- Legal Proceedings and Mental Health Care:
+  - Michael's arraignment and legal proceedings draw media attention, and Lieutenant Vince Schiavone tries to manage the situation to prevent chaos.
+  - Michael's lawyer seeks psychiatric care and medication for him, acknowledging his mental health issues as a significant factor in the case.
+
+### The Eternal Optimist
+- Identification and Grief:
+  - ADA Barbara Egenhauser accompanied Carrie Costello's parents to the morgue to identify their daughter's body.
+  - Lieutenant Vince Schiavone also joined them and was deeply affected by the heartbreaking task.
+- Personal Connections and Victims' Circles:
+  - Vince and Barbara's familiarity with each other brought comfort during the difficult moment.
+  - The concept of the "circle of victimization" is introduced, explaining how suffering extends outward from a crime, affecting an ever-expanding group of people.
+- Costellos' Meeting with DA Pirro:
+  - Carrie's parents met with District Attorney Jeanine Pirro, who had a chapter in her legal memoir dedicated to the case.
+  - The Costellos were deeply affected by their daughter's sudden and violent murder, as her life was overshadowed by the media focus on Michael Laudor.
+- Impact on Various Individuals:
+  - Carrie's colleagues, including Tom, dealt with profound grief and shock.
+  - The loss created waves of emotion and grief, and they found solace in attending the Chicago conference in Carrie's honor.
+  - The tragedy shifted their perspective from manageable stress to an overwhelming loss.
+- Barb's Memories and Carrie's Legacy:
+  - Barb recalled fond memories of Carrie's laughter and determination, emphasizing her relentless optimism.
+  - Barb organized a memorial service in Chicago, where attendees shared stories and remembered Carrie's vibrant spirit.
+- Media Coverage and Carrie's Identity:
+  - Media coverage shifted from focusing solely on Michael to providing more information about Carrie's life and character.
+  - The article acknowledged Carrie's role as a technology administrator and highlighted her work ethic and character.
+
+### Endings
+- The Failed System of Mental Health Care:
+  - The narrative explores the challenges within the mental health care system through the story of Michael Laudor, who struggled with schizophrenia and its consequences.
+  - James, a Yale-trained lawyer, tries to help a man with mental illness navigate the system, showcasing its complexity and lack of support.
+  - Michael's case illustrates how the criminal justice system is more interested in him than the mental health system, even though he needs proper treatment and care.
+- Michael's Tragic Journey:
+  - Michael Laudor's battle with schizophrenia leads him through various phases, including an initial improvement with medication and subsequent relapses.
+  - He becomes a cautionary tale after tragically killing his girlfriend and unborn child during a relapse, marking a turning point in his life.
+- Media's Role and Hollywood's Approach:
+  - The media portrays Michael's story, highlighting his struggles with mental illness and the failures of the mental health care system.
+  - The Hollywood industry's interest in depicting mental health issues for commercial purposes is discussed, with reference to films like "Shine" and "Psycho."
+- A Complex Portrayal:
+  - The need for a nuanced portrayal of mental illness in media is emphasized, aiming to avoid stigmatization and oversimplification.
+  - Rona Purdy advocates for sharing the pain and challenges faced by loved ones trying to support individuals with mental illness.
+- Gerolmo's Struggle and Hollywood's Commercialism:
+  - Chris Gerolmo, a director-screenwriter, attempts to craft a truthful and complex movie about Michael's story, incorporating both triumph and tragedy.
+  - However, Hollywood's preference for commercial success over authenticity hinders the production of such a film.
+- Comparing Stories:
+  - John Nash's story is juxtaposed with Michael's, highlighting the stark contrast between an inspirational narrative and the tragic reality of mental illness.
+
+## Epilogue: No Going Back
+- Introduction:
+  - Jonathan Rosen reflects on the assessment of Michael, who killed his fiancée Carrie due to his delusions.
+  - Park Dietz, a forensic psychiatrist, had to untangle the stories he received to understand Michael's actions.
+- Personal Connections and Engagements:
+  - Bo Burt, who taught with Jim Ponet, engaged with the project, prompting reflections on his own role.
+  - Bo's death two years later affected Jonathan personally, revealing the complexity of their engagement.
+- Yale Law School's Role:
+  - Owen Fiss, a Yale Law professor, acknowledges that while Yale was a gift to Michael, it might have had a dark side.
+  - Fiss delves into the connections between Hollywood, Yale Law School, and Michael's story, emphasizing unasked questions.
+- Stigma and Questions Unasked:
+  - The Times' article about Michael's violence potential raises questions about stigma and the way inquiries are framed.
+  - Fiss questions why significant parties, including Michael's friends and Carrie, didn't ask certain questions.
+- Failed Asylums and Reckoning:
+  - The dismantling of old hospitals and the failure of community care reflect a lost concept of asylum.
+  - A partial reckoning is necessary to move forward, acknowledging the destructive effects of gifts and the need for introspection.
+- Bronowski's Wisdom and Humility:
+  - Reflections on a TV series and Jacob Bronowski's plea for humility at Auschwitz.
+  - Bronowski's beliefs in the worth of individuals, scientific skepticism, and moral foundation are highlighted.
+- Schizophrenia and Complexity:
+  - Schizophrenia's complexity is explained; it affects imagination, belief, and interconnected brain networks.
+  - Schizophrenia serves as a reminder of the remarkable capabilities of the human mind.
+- Lessons from Michael's Story:
+  - Madelon Baranoski's assessment of Michael reveals how even successful individuals can suffer from severe mental illness.
+  - Mental health professionals often miss the severity of conditions, leading to tragic outcomes.
+- Carrie's Memory:
+  - Eddie Schecter memorializes Carrie in a synagogue, prompting poignant reflections on her death.

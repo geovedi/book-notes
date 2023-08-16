@@ -1,0 +1,632 @@
+
+# It. Goes. So. Fast.
+Author: Mary Louise Kelly
+
+## Introduction
+
+## Changing Places
+- Balancing Work and Parenthood
+  - The chapter begins by discussing the subjectivity of perceiving facts and the challenges of reporting with objectivity.
+  - Mary recounts her time on extended, unpaid leave from NPR while struggling with work-life balance.
+  - Despite her successful career in journalism, Mary faced the dilemma of choosing between her job and taking care of her two-year-old son, Alexander, who wasn't speaking.
+- Alexander's Speech Delay and the Struggle for Solutions
+  - Mary's concern grew when Alexander showed delays in speech development and communication.
+  - The pediatrician raised concerns about his lack of speech and recommended interventions.
+  - Mary and her husband realized the need for intensive speech therapy and the challenges it posed due to their demanding jobs and limited resources.
+  - Mary's emotions and difficulties in finding a balance between work and her son's therapy are described.
+- The Unexpected Encounter
+  - Mary reflects on an encounter with Annie, a fellow reporter, who represented a life she had given up – a successful career in journalism.
+  - Feeling inadequate and reflecting on the paths not taken, Mary confronts her own choices and aspirations.
+- Finding Meaning in Choices
+  - Mary grapples with the significance of her choices, finding solace in the fact that the work she and her husband were doing with their son was valuable.
+  - She ponders the elusive concept of "having it all" and how the balance between work and family might not be simultaneous but achievable over time.
+- Reflection and Growth
+  - Mary recounts her return to work and her new beat covering the Department of Defense.
+  - Meanwhile, Annie had left journalism to start a writing consultancy business, allowing her to work from home.
+  - Mary and Annie's paths diverged, leading them to different life choices.
+- Epiphany and Triumph
+  - Mary's son, Alexander, eventually begins speaking after months of therapy.
+  - His growth and achievement, such as delivering a speech, highlight the transformation from a child who wouldn't speak to a confident young individual.
+  - Mary's realization of the significance of her son's progress prompts her to appreciate the journey they undertook together.
+- Reconciliation and Reflection
+  - Mary reflects on Annie and the lessons learned from their encounter.
+  - She contemplates the perceptions they had of themselves, the pressure to accomplish the impossible, and the acceptance that they were doing their best.
+- The Power of Perspective
+  - Mary delves into the impact of perspective on life and choices, emphasizing the importance of how we view ourselves and the world.
+  - She concludes by underscoring the significance of choosing what to see, and how it affects one's outlook on life.
+
+## Sticking the Landing
+- The Decision to Write a Book
+  - The chapter opens with Mary discussing her decision to write a book, chronicling her experiences throughout the upcoming year in real time.
+  - She acknowledges the seeming insanity of taking on this project while already working full-time and trying to be present for her family.
+  - Mary reflects on her desire to make this year different from her usual work-heavy schedule, aiming to prioritize family and capture meaningful moments.
+- Contrasts in Deadlines and Work
+  - Mary describes her work in daily broadcast news, highlighting the love-hate relationship she has with deadlines.
+  - The intensity of producing a two-hour newsmagazine daily is revealed, emphasizing the pressure and productivity that deadlines impose.
+  - Despite the challenges, Mary finds joy in the dynamic nature of her job and the fresh possibilities each new day brings.
+- The Transience of News
+  - Mary delves into the transient nature of news reporting, where stories quickly fade from public consciousness as the news cycle moves on.
+  - The ephemerality of work is contrasted with her desire for the upcoming year to leave a lasting impact and be more deliberate and intentional.
+- Seeking Meaning and Intention
+  - Mary expresses her yearning for the present year to stand out and "stick" in her memory.
+  - She wishes to be more intentional about navigating her life and to make deliberate choices that resonate with her values.
+  - Mary wants to document her experiences and decisions in real time, examining both the mistakes and the potential successes.
+- Focusing on the College Visit
+  - Mary previews the upcoming focus of her narrative: a college visit.
+  - The chapter ends with a hint at the challenges, choices, and insights that will unfold during this significant event in her family's life.
+
+## Chicago
+- Exploring the University of Chicago
+  - Mary and her son James visit the University of Chicago for an official visit and information session.
+  - They attend a lecture where an admissions officer presents the university's highlights and answers questions from parents and potential applicants.
+  - The chapter introduces the picturesque campus, the eager parents, and the admissions officer's enthusiastic sales pitch.
+- Touring the Campus
+  - Mary and James embark on a campus tour with a peppy guide, exploring facilities like dining halls, libraries, and the gym.
+  - They encounter other undergraduates who add an element of excitement to the tour with their personalities and camaraderie.
+  - James is intrigued by statistics about UChicago's law school acceptance rate and shows a keen interest in the academic offerings.
+- Reflecting on Ambition and Success
+  - The chapter delves into the idea of ambition and success, as Mary contemplates the treadmill-like pursuit of achievement.
+  - Mary references George Saunders' perspective on the constant renewal of ambition and the danger of losing sight of the big questions in life.
+  - She acknowledges her own ambitious nature and the relentless cycle of accomplishment and recognition in her field of journalism.
+- Prioritizing Happiness and Fulfillment
+  - Mary contemplates her wishes for her son's future, expressing that her deepest desire is for him to be happy, find meaningful connections, and lead a fulfilling life.
+  - She questions the emphasis on constant success and the need to prioritize moments of enjoyment and contentment.
+  - The contrast between her ambitions for her son's happiness and the perpetual pursuit of achievement in the professional world is highlighted.
+- Letting Go and Embracing Change
+  - The chapter explores the dynamic between parents and their growing children as they navigate life transitions.
+  - Mary reflects on how James has evolved from a small child to a young adult, ready to venture out into the world and make his own choices.
+  - The emotional process of letting go and allowing children to become independent is portrayed as both bittersweet and gratifying.
+- The Role Reversal
+  - The chapter concludes with a poignant moment as James demonstrates concern for his mother's well-being, showcasing his growing empathy and responsibility.
+  - Mary reflects on the changing roles between parent and child, where the child's care for the parent becomes apparent.
+  - The scene captures the beauty of their evolving relationship while acknowledging the poignancy of watching one's child transition into adulthood.
+
+## Keeping Watch
+- Thunderstorm Discomfort
+  - The chapter opens with Mary waking up at 3 a.m. due to a severe thunderstorm, which wakes both her and her dog, Thunder.
+  - The dog is terrified of thunderstorms, and Mary reflects on her own discomfort around dogs due to allergies.
+- Parental Reluctance to Get a Dog
+  - Mary and her husband, Nick, were not dog people and had never considered getting a dog for their family.
+  - Their son, Alexander, persistently requested a dog through heartfelt letters and appeals, ultimately leading them to consider getting a dog.
+- Alexander's Determination
+  - Alexander's request for a dog was accompanied by a persuasive letter emphasizing companionship, comfort, and reducing screen time.
+  - Despite their initial resistance, the family gave in and adopted Shadow, a Bernedoodle.
+- Parenting and Change
+  - Mary reflects on the changes in their family dynamic and responsibilities, as Alexander takes care of Shadow diligently.
+  - She ponders the bittersweet nature of parenthood, where children grow and evolve, necessitating both independence and parental guidance.
+- Protecting and Letting Go
+  - Mary recalls a stormy night when her son James was a baby and reflects on the responsibility and instinct to protect her children from the outside world.
+  - Sitting with her son Alexander and their dog Shadow during the thunderstorm, she realizes that Alexander is growing and no longer needs her constant protection.
+- The Evolution of Relationships
+  - Mary contemplates the evolving relationships between parents and children, highlighting the changing dynamics as children become more independent.
+  - She realizes that despite growing up, her children will always need her in some capacity, much like how she still needs her mother's influence and guidance.
+- The Power of Words
+  - Mary remembers her tradition of telling bedtime stories to her children, a ritual she cherished.
+  - Sitting with Shadow during the storm, she finds herself instinctively using those same comforting words, demonstrating the lasting impact of maternal love and reassurance.
+- Generational Connection
+  - Mary recognizes the interconnectedness of generations and how the guidance and love of previous generations continue to influence her life.
+  - She likens her role to those of her ancestors, nurturing and protecting her own children.
+- Accepting Change and Letting Go
+  - Mary acknowledges that the growing independence of her children is natural and necessary.
+  - She learns to accept that her children are ready to navigate the world on their own, and this realization both saddens and empowers her.
+- The Unbreakable Bond
+  - The chapter concludes with Mary acknowledging that, despite the changing dynamics and growing independence, her children will always have a bond with her.
+  - The legacy of love, protection, and guidance passed down through generations will continue to shape their lives.
+
+## The Helicopter
+- Hitting the Wall in Baghdad: The Turning Point
+  - Mary recounts a pivotal moment in her life when she hit the wall while covering a U.S. defense secretary's visit to Baghdad. The urgency of her son's illness juxtaposed with her demanding career prompts her to question the balance between work and family.
+  - She reflects on societal expectations and pressures faced by working parents, especially women, and the challenges of juggling responsibilities in both the professional and personal spheres.
+- Dilemmas and Choices: Redefining Success
+  - Mary grapples with the decision to leave her job at NPR, a career she deeply loved, in order to prioritize her family. She contemplates the meaning of female professional success and questions the prevailing norms that often undermine the value of work-family balance.
+  - She emphasizes the importance of acknowledging the accomplishments of working parents who navigate the intricate dance of blending their careers and family responsibilities.
+- A Renewed Passion and Compelling Stories
+  - Fueled by her experience, Mary turns to writing novels, which provides her with an opportunity to craft engaging narratives and embark on a new creative journey.
+  - She discusses the realization that success isn't limited to traditional career trajectories and that there's merit in celebrating diverse ways of achieving fulfillment and professional accomplishment.
+- A Reentry into the Newsroom: Chasing Passion and Challenges
+  - Mary's passion for journalism draws her back to the newsroom, where she thrives on the adrenaline and dynamism of breaking news stories. She acknowledges the chaotic and demanding nature of journalism, especially in the era of fast-paced news cycles.
+  - She highlights the intrinsic satisfaction she derives from being a part of impactful news reporting, despite the challenges and sacrifices it entails for her and her family.
+- The Struggle Continues: Reflections on Priorities
+  - Mary candidly shares her ongoing battle to balance her demanding career with her family life, acknowledging moments when she prioritized work over family and vice versa.
+  - As her children grow older and approach significant life transitions, she contemplates the trade-offs she's made and questions what truly matters in the long run.
+- The Inevitable Regrets and Unseen Impact
+  - Reflecting on her choices, Mary confronts the notion that the most regrettable moments are often the countless small absences that go unnoticed, and she examines the impact of those absences on her family and herself.
+  - She engages in a heartwarming exchange with her son, finding solace in the fact that her perceived shortcomings may not be as significant to her family as she once believed.
+
+## Turning Heads
+- Introduction
+  - Mary expresses nostalgia for the attention she used to receive from catcalling and wolf whistles.
+  - She acknowledges her feminist perspective and the surprising change in her feelings over time.
+- Shifting Perspectives on Aging and Visibility
+  - Mary reflects on how her view of being catcalled has changed from her younger self's perspective.
+  - She clarifies that she doesn't endorse inappropriate behavior but emphasizes her observation of changing external perceptions.
+- Changing Self-Perception
+  - Mary discusses how societal views and definitions of her identity are transforming as she ages.
+  - She provides examples of experiences like no longer being carded for alcohol and her hairdresser's preference for maintaining her natural hair color.
+- Loss of Youth and Language
+  - Mary's friend shares a story about feeling invisible when men's attention shifts from her to her teenage daughter.
+  - The loss of youth and beauty is compared to losing fluency in a language once spoken confidently.
+- Society's Emphasis on Youth and Beauty
+  - The connection between looking good and looking young is explored.
+  - Mary questions why the media predominantly features younger women and discusses the beauty industry's focus on anti-aging products.
+- Challenging Stereotypes and Expectations
+  - Mary highlights the societal pressures on women to maintain youthful appearances.
+  - She shares an anecdote about a congresswoman's decision to embrace her gray hair and the unexpected backlash she faced.
+- Nancy Pelosi's Image Management
+  - Mary contrasts Nancy Pelosi's image control and maintenance of her hair color to sustain her authority and presence.
+- Acknowledging Contradictory Desires
+  - Mary acknowledges the paradox of desiring both empowerment and visibility through catcalling.
+  - She suggests that the allure of youth represents possibilities and adventures, which can feel limited as one ages.
+- The Power of a Moment
+  - Mary describes the fleeting empowerment that comes from catcalling, wherein a woman feels seen and alive.
+  - She encourages embracing these moments without necessarily being offended, viewing them as gifts.
+
+## Zero
+- The Dreaded Story Unveiled:
+  - Mary reveals her hesitation to write this chapter, which revolves around her son Alexander's difficult birth.
+  - She describes the medical envelope she had never opened, containing details of Alexander's birth, revealing his life-threatening condition.
+- A Fight for Survival:
+  - Mary delves into the medical account of Alexander's birth, narrating the life-threatening circumstances he faced.
+  - Alexander's breech position, nuchal cord, and failed attempts at delivery are detailed, leading to an emergency Cesarean section.
+- A Mother's Grief and Hope:
+  - The emotional turmoil of witnessing her son's struggle for survival leaves a lasting impact on Mary.
+  - Alexander's initial Apgar score of 0 and subsequent improvement are highlighted, bringing tears to Mary's eyes.
+  - Despite the challenges, Alexander's resilience shines through, marked by his strong cry that sounds just like him.
+- Healing and Progress:
+  - The chapter transitions to Alexander's recovery in the neonatal intensive care unit (NICU).
+  - Mary reflects on the uncertainties surrounding Alexander's stroke, its possible causes, and its resolution over time.
+- Life's Choices and Regrets:
+  - Mary contemplates the decisions she made to travel for work, notably to Pakistan, despite the risks.
+  - She acknowledges that leaving her family, including young Alexander, brought a sense of regret, though not necessarily regretting the overall experience.
+- Cherishing Fleeting Moments:
+  - Mary emphasizes the fleeting nature of the intense mother-child bond.
+  - The contrast between her children's early dependency and their growing independence is highlighted, underscoring the temporary nature of their need for her.
+- The Paradox of Emotions:
+  - Mary discusses the paradoxes inherent in motherhood, such as the simultaneous feelings of needing to leave and longing to stay.
+  - She acknowledges that lovingly letting go is an intrinsic part of raising children and allowing them to grow.
+- Lessons from the Past:
+  - Mary reflects on her earlier attempts to make a countdown calendar for her children during her work trips, highlighting her own evolution as a mother.
+- Treasure the Present:
+  - The chapter concludes with a profound lesson learned: the value of cherishing the present moment.
+  - Mary encourages readers to treasure the intense and unconditional love their children offer, regardless of their age.
+
+## We Will Not Be Intimidated
+- Pompeo's Interview and Confrontation:
+  - Mary recalls her contentious interview with Mike Pompeo, where he berated her and accused her of lying.
+  - She reflects on Pompeo's behavior and the discomfort she felt as a journalist who was subjected to his hostility.
+  - The incident highlighted the importance of questioning those in power and maintaining the integrity of journalism.
+- Dershowitz's Role and Mixed Feelings:
+  - Mary contrasts her personal connection with Alan Dershowitz, who was once a mentor, with his recent support of Pompeo at the White House.
+  - Dershowitz's explanation for congratulating Pompeo raises questions about compromising principles for political alliances.
+  - Despite initial negative emotions, Mary finds common ground with Dershowitz's willingness to support actions that could promote Middle East peace.
+- Taking a Stand and Finding Voice:
+  - Witnessing Dershowitz's behavior prompts Mary to consider speaking out against bullies and injustice.
+  - She reflects on her experiences with Pompeo and his Iranian counterpart during tense diplomatic situations and the significance of unbiased reporting.
+  - Her decision to write an op-ed for the New York Times becomes an opportunity to address larger issues, including the need to stand up to intimidation.
+- Larger Implications and Defending Values:
+  - Mary discusses the complexities of making difficult choices when values conflict, emphasizing the importance of being able to defend one's decisions to a child or an older self.
+  - She recalls a childhood incident involving her sons standing up against a bully, drawing parallels between personal experiences and taking action in adulthood.
+  - Mary expresses pride in the principles upheld by NPR and its CEO's stance against intimidation in journalism.
+- Impact of Speaking Up:
+  - Reflecting on her op-ed and NPR's CEO's response to the Pompeo incident, Mary contemplates the potential influence of raising one's voice against powerful individuals.
+  - The chapter underscores that using a platform to speak up matters, as it may inspire others and contribute to meaningful change.
+  - Mary acknowledges the larger context of media challenges during the Trump administration, where misinformation and hostility toward the press were prevalent.
+- Journalistic Commitment and Personal Growth:
+  - The chapter concludes with a younger producer expressing pride in working as a journalist and emphasizing the value of journalism in facing challenges head-on.
+  - Mary acknowledges the ongoing learning process for both herself and her colleagues, highlighting the importance of journalism's role in holding power accountable.
+
+## Showing Up
+- Weekend Runs and Solitude:
+  - Mary values her weekend runs as a time for solitude and reflection.
+  - She disconnects from distractions and enjoys her own thoughts during these runs.
+  - A call from her son during one run prompts her to consider her presence in her children's lives.
+- A Wake-Up Call from Her Son:
+  - Mary receives a call from her son, James, who needs help moving a car.
+  - She realizes that her son hadn't noticed she was away, making her question her significance in his life.
+  - She reflects on the changing dynamics of motherhood as her children become more independent.
+- A Shift in Priorities:
+  - Mary decides to prioritize attending her sons' soccer games over work commitments.
+  - She aims to be present for her children during their important events, particularly their last season playing together.
+  - Mary values the rare opportunity to support both sons on the same team and be a part of their shared experience.
+- Balancing Writing and Motherhood:
+  - Mary faces the challenge of juggling writing with her sons' needs and activities.
+  - She acknowledges the joy of helping her sons with their schoolwork and contributing to their growth.
+  - The process of writing often leads to unexpected directions and insights.
+- Seizing the Opportunity:
+  - Mary seizes a chance to write intensively during a week of solitude in a beach house.
+  - Despite her dedication to her work, Mary experiences internal conflict and regret over missing a crucial soccer game.
+- A Missed Soccer Game:
+  - Due to unforeseen circumstances, Mary is unable to attend a significant soccer game.
+  - The game marks a defining moment in her son's high school career, causing mixed emotions for Mary.
+- A Bittersweet Mixture of Emotions:
+  - Mary experiences a complex blend of emotions, ranging from happiness for her son's achievement to frustration and shame.
+  - She regrets not being physically present to witness the momentous goal scored by her son.
+  - A sense of shame lingers, as she had promised to prioritize her family over work but failed to do so in this instance.
+- Final Reflections:
+  - The chapter underscores the importance of prioritizing meaningful moments with loved ones over work commitments.
+  - It highlights the challenges of balancing personal aspirations, family responsibilities, and being present for significant life events.
+  - Mary's introspection serves as a lesson in making deliberate choices and cherishing the moments that truly matter.
+
+## Coda
+- Perpetual Soccer Obsession:
+  - Mary highlights the constant nature of soccer season, extending beyond official tournaments.
+  - Soccer games from various leagues and tournaments seem to continue indefinitely, leaving no respite.
+  - This unending cycle resembles the nature of high school sports, especially for travel teams.
+- Soccer's Impact on Family Life:
+  - Mary reminisces about times when her family was engrossed in watching soccer matches on TV, ignoring everything else.
+  - The sport's omnipresence is portrayed humorously, with different leagues and championships overlapping.
+- The Unpredictable Off-Season:
+  - The concept of an "off-season" in soccer and youth sports is questioned.
+  - Mary humorously shares instances of off-seasons being far from restful, often filled with intense practices and games.
+- Challenges of Prioritizing:
+  - Mary expected a low-key postseason after her son's victorious game, but soccer's grip continued.
+  - More games loom on the horizon, leading to personal dilemmas about work commitments and family attendance.
+  - Mary's own experience parallels her sons' as they tackle school, extracurricular activities, and soccer.
+- Generations United by Support:
+  - Mary's mother, although unfamiliar with soccer, senses her daughter's need for support and steps in.
+  - The grandmother's presence serves as a surrogate and source of encouragement, even though she doesn't fully understand the game.
+- Shared Passion and Determination:
+  - Mother and grandmother join forces to cheer for the boys, exemplifying the interconnectedness of generations.
+  - Despite the support, the team faces losses, and the boys experience emotional turmoil.
+  - James becomes unwaveringly focused on the DC State Athletic Association championship, determined to succeed.
+- A Climactic Championship Game:
+  - The anticipation builds as the championship game approaches, showcasing the boys' dedication and determination.
+  - The match takes place in freezing conditions under bright lights, with a massive student turnout.
+  - The suspenseful game remains goalless for most of the match, both teams fiercely competing.
+- Triumphant Victory:
+  - A sudden turn of events leads to a triumphant goal for Mary's son's team, followed by another.
+  - The team secures a 2–0 win, with the victory celebrated by ecstatic parents and supporters.
+  - Emotions run high as the boys take victory laps and receive the championship trophy.
+- Embracing the Improbable:
+  - Mary acknowledges that the scenario might seem too perfect for fiction, but it indeed unfolded as described.
+  - The joy of witnessing her son's success and the team's win surpasses any fictional happy ending.
+  - Mary reflects on the profound impact of simply being present for significant moments.
+- A Heartfelt Connection:
+  - The chapter concludes with a heartfelt conversation between Mary and her mother.
+  - The mother's response focuses on Mary's experience and happiness, emphasizing their close bond.
+  - Mary realizes the significance of sharing the moment with her son and cherishing the support of her own mother.
+
+## What We Pass On
+- A Tradition of James:
+  - Mary delves into a multi-generational tradition of naming sons "James" in her husband's family.
+  - The repetition of the name James, going back several generations, highlights a unique family connection.
+- Complexities of Name Selection:
+  - Mary's husband, Nick, and his family's commitment to carrying on the name James lead to humorous distinctions among relatives.
+  - Mary's son, James, becomes known as "Wee James," adding a playful dimension to the naming tradition.
+- Family Names and Identity:
+  - Mary reveals her own name selection process for her children, which is less formal and strategic than her husband's.
+  - She narrates the decision-making behind her sons' names, with "James" and "Nicholas" appearing frequently to honor her husband's lineage.
+- A Chance Connection:
+  - A serendipitous encounter on social media leads to an unexpected revelation involving a chicken named after Mary.
+  - Mary discovers that someone named a chicken "Mary Louise Klucky" in her honor.
+- Unexpected Bond with a Chicken:
+  - Mary reflects on the surprising bond she feels with a chicken, touched by the shared name.
+  - This connection prompts thoughts about the significance of having namesakes, both human and avian.
+- Family Ties and Lost Opportunities:
+  - Mary examines the absence of someone carrying her name in her family lineage, a contrast to the abundant Jameses on her husband's side.
+  - A sense of regret emerges for not having passed on her name to her children.
+- Father's Wisdom and Knowledge:
+  - Mary fondly recalls her father's vast knowledge and insatiable curiosity, traits that set him apart.
+  - She shares anecdotes of her father's penchant for sharing information with his family, sometimes to comical extremes.
+- Inherited Traits and Affection:
+  - Mary reflects on the aspects of her father she inherited, from her last name to physical characteristics and shared interests.
+  - She divulges her father's cocktail recipe, emphasizing his love for simplicity, coldness, and strength in drinks.
+- Lasting Tribute through a Cocktail:
+  - Mary cherishes the opportunity to learn her father's cocktail-making process.
+  - She appreciates the connection she feels while making his drink, and her intention to pass on the tradition to her sons.
+- Preserving Memories:
+  - Mary captures her father's legacy through the cocktail recipe he loved, signifying both his interests and the shared bond.
+  - She expresses her longing for her father and the void his absence has left.
+
+## We're Nearly Home
+- Grief and Unexpected Triggers:
+  - Struggling to Find Words:
+    - Mary attempts to write about her father's influence on her life and her connection to her sons but finds herself unable to articulate her feelings.
+  - The Lingering Grief:
+    - Nine months after her father's passing, Mary describes how the fog of grief has lifted but what remains is a sharp pain that unexpectedly surfaces.
+  - Emotional Responses to Milestones:
+    - Mary anticipates feeling sad on specific occasions like her father's birthday and her first Father's Day without him.
+    - Unexpected moments trigger grief, such as Thanksgiving dinner without her father's customary presence.
+- A Mundane Trigger:
+  - Unanticipated Grief on a Regular Errand:
+    - A seemingly ordinary task, getting a haircut, unexpectedly brings on feelings of grief and loss.
+    - Mary reflects on how the mundane can trigger deep emotions tied to memories.
+  - A Haircut and Emotional Resonance:
+    - Mary decides to change her hairstyle and embrace her natural gray hair.
+    - Her hairdresser dissuades her from going gray immediately, which leads to an emotional moment.
+  - A Glimpse of Her Father:
+    - While the hairdresser's hands touch her hair, Mary experiences an overwhelming emotional response.
+    - Tears flow as Mary realizes that her father had seen her with this exact hair before his passing.
+  - Reflecting on Final Moments:
+    - The memory of her father's last moments and the sight of her own hair against his cheek brings on a wave of grief and longing.
+  - Beauty and Catharsis:
+    - The hairdresser's gentle understanding and gestures, including providing tea and a magazine, offer solace.
+    - The haircut and styling revive Mary's sense of feeling pretty and help soothe her emotions.
+
+## Letting the Silence Play Out
+- Dealing with Hearing Loss and Challenges at Work
+  - Mary reveals being close to deaf, relying on hearing aids.
+  - Despite challenges, Mary anchors a national news broadcast, requiring active listening.
+  - The ideal work environment at NPR studios contrasts with remote work during the pandemic, posing challenges.
+  - Accommodations were necessary to maintain effective communication.
+  - Memories of reporting experiences while struggling to hear highlight Mary's dedication.
+- Journey with Hearing Aids and Rediscovering Sound
+  - Mary's gradual acceptance of needing hearing aids.
+  - Initial astonishment at hearing previously unnoticed sounds.
+  - Challenges of sensory overload and adjusting to heightened auditory experiences.
+  - Profound impact on personal interactions, such as hearing children's conversations.
+- Difficulties of Communication with Teenagers
+  - Mary discusses challenges of communicating with teenagers.
+  - Personal anecdotes of misunderstandings and conflicts.
+  - Humorous reference to a Bulgarian saying reflecting life's hardships and humor.
+  - Despite the difficulties, Mary recognizes the evolving dynamics with her sons.
+- Transitioning into Parenthood and Letting Go
+  - Reflecting on past mistakes in parenting and yearning to listen more.
+  - Transition from being an enforcer to being a listener.
+  - Desire to listen without judgment but with pure love.
+  - Struggles of hearing and understanding conversations, particularly with teenagers.
+  - Emotional realization that listening with love is more important than the challenges faced.
+
+## The Call
+- Unexpected Call and Joyful News
+  - Mary receives an unusual call during her work, disrupting her routine.
+  - James, the caller, excitedly announces his acceptance into the University of Chicago.
+  - James's application process involves early decision, binding his acceptance to the university.
+  - The celebratory moment is shared between Mary and James, with joyous reactions.
+- Contrasting News and Emotional Impact
+  - Mary attempts to shift focus back to her anchoring duties after the call.
+  - She prepares for a live interview concerning a trial involving the shooting of a Black man by a white police officer.
+  - The officer's mistaken use of her gun instead of a Taser led to the fatal shooting.
+  - Mary reflects on the victim's age, only twenty years old, connecting it to her own son, James.
+  - The emotional impact of the case becomes palpable as Mary envisions the victim's mother and her grief.
+- Contemplating Injustice and Inequity
+  - Mary highlights the stark injustice and inequity in society, particularly for children of color.
+  - She questions why some mothers receive news of joy while others endure unimaginable sorrow.
+  - Contrasting the beginning of one boy's life with another's tragic end prompts reflections on societal failures.
+  - Mary emphasizes society's responsibility to protect and uplift its children.
+- Personal Reflection and Empathy
+  - Mary reflects on her own son, James, and contemplates his safety and future.
+  - Memories of James's cheerful voice and excitement juxtaposed with the victim's tragedy weigh on Mary's mind.
+  - She sends a heartfelt prayer to the victim's mother, acknowledging her pain and expressing sympathy.
+  - Mary takes a moment to collect herself, acknowledging the unfairness of life.
+- Facing Challenges and Moving Forward
+  - Despite the emotional turmoil, Mary proceeds with the interview and anchors the rest of the show.
+  - The chapter concludes with Mary pondering her sons' safety as they navigate the world.
+  - A prayerful hope for her sons' safety underscores the chapter's themes of contrasts and emotions.
+
+## Listen to Your Own Mom on the Radio
+- Parenting and Professional Balance
+  - Mary recalls her work as a reporter, often heard on NPR during morning routines.
+  - She reflects on her reports airing during breakfast time while she was with her children.
+  - A preschool incident involving James and his friend's comment about hearing her on the radio makes her realize how children perceive daily life.
+- Distinct Personalities and Attachment
+  - Mary contrasts the personalities of her two sons, James and Alexander.
+  - James is portrayed as independent and non-clingy, content with various caregivers.
+  - Alexander, however, clung tightly to his parents, seeking comfort in their presence.
+  - Mary ponders the inherent differences in their natures, emphasizing the inherent traits in children.
+- Exploring Parenting Philosophies
+  - Mary mentions an article about a hands-off parenting philosophy.
+  - The parenting guru's advice includes allowing children to navigate certain challenges themselves.
+  - The story of Jasmine, a two-year-old, getting down from a structure alone resonates with Mary.
+  - The concept of not intervening instantly aligns with Mary's experiences and inclinations.
+- Parenting's Impact and Accepting Differences
+  - Despite earnest efforts, Mary recognizes that children will become who they are meant to be.
+  - She acknowledges her children's distinctiveness and inherent qualities.
+  - Mary reminisces about moments she cherishes, like James' stick collection and Alexander's attachment.
+  - A recent realization about James' independence during her absence prompts mixed emotions.
+- Curating Family Legends and Memories
+  - Mary reflects on curating family photo albums.
+  - She highlights the idea that photos capture moments but not the full story.
+  - The process of selecting which memories to keep and display is likened to crafting a fairy tale.
+  - The photo album illustrates the boys' growth and identity exploration over the years.
+- Shifting Parental Roles and Memories
+  - Mary addresses her longing for the past, when her child wanted her constant presence.
+  - She explores the possibility of her son, James, not noticing her absence for a few days.
+  - Reflecting on the hypothetical situation brings her comfort, accepting the inevitable changes in parenting roles.
+
+## This Was Vladimir Putin's Fault
+- Introduction
+  - The chapter is a personal reflection by Mary on her experiences as a journalist covering the conflict in Donbas, Ukraine.
+  - It highlights her mother's supportive role, her colleagues' assistance, and her own thoughts on age, technology, and parenthood.
+- The Mother's Support
+  - Mary's mother plays a vital role in her life, providing love, prayers, and understanding.
+  - She sends quick and caring responses to Mary's updates, showing quiet concern for her safety.
+  - Despite her fears, Mary's mother respects her decision to cover dangerous assignments and sends her love and prayers.
+- Challenges and Logistics
+  - Mary discusses the logistics of her assignment, including travel advisories, checkpoints, and changes in drivers during the journey.
+  - She reflects on her colleagues' assistance in adapting to new technology and the challenges of using older devices.
+- Contemplations on Age and Parenthood
+  - Mary ponders her physical stamina, age difference among her colleagues, and her aptitude for trying new technology.
+  - With her children growing up, she contemplates the freedom to travel without guilt but questions if she's becoming too old for this work.
+  - She contemplates how being a mother has altered her perspective on storytelling, focusing on human-interest elements.
+- Love and Hope Amidst Conflict
+  - Mary recounts an interview with Hanna Hopko, highlighting the story of her daughter's guinea pig as a symbol of hope amidst conflict.
+  - The guinea pig represents love and humanity in a challenging situation.
+  - Mary emphasizes how motherhood has shifted her journalistic focus from just geopolitical details to human stories.
+- Messages from Home and Encouragement
+  - Mary receives a reassuring text from her mother, implying competence and permission to pursue her chosen life.
+  - Her mother's love serves as a powerful source of courage and encouragement, even from thousands of miles away.
+
+## The Forces of Nature
+- Introduction
+  - The chapter reflects on the importance of friendships in different life stages and the changing dynamics of relationships over time.
+  - Mary introduces her college roommates, referred to as the "Forces of Nature" (FONs), and describes how their bonds have evolved.
+- The FONs and Their Dynamic
+  - Mary details her tight-knit group of college roommates, who have remained close friends through different life stages.
+  - The group's nickname, "Forces of Nature," reflects their unpredictability, shared experiences, and lifelong friendships.
+  - Despite not all having lived together, their strong bond and shared history have kept them connected.
+- Gatherings and Celebrations
+  - The FONs gather annually, initially for weddings and baby showers, and later for milestone birthdays.
+  - The chapter highlights a memorable dinner party in New York, just before the pandemic, as a moment of pure friendship and camaraderie.
+  - Despite living in different places, they maintain constant communication through text threads and video calls.
+- The Impact of Aging
+  - Mary discusses a self-help book titled "Goddesses Never Age" and the concept of aging gracefully.
+  - Reflecting on turning fifty, Mary realizes the continuing influence of her close friendships, even as life's stages change.
+  - The chapter humorously contrasts the aging process with the enduring bond among friends.
+- The Circular Nature of Relationships
+  - The chapter explores the cyclical nature of relationships as people age.
+  - Mary sees a reversal in her dependency on her parents, from her teenage years to her adulthood and parenting years.
+  - She notes the role reversal as she becomes a caregiver for her parents in their old age.
+- Transitions and Parenting
+  - Mary's role as a mother has defined her for the last eighteen years.
+  - As her children become more independent, she contemplates the upcoming stages of her life and the freedom to pursue personal interests.
+  - The dynamics of parenting and friendship shift, as the focus shifts from raising children to reconnecting with friends.
+- Passing the Torch to the Next Generation
+  - Mary highlights the friendship between her son and her friend's son, showcasing the cyclical nature of relationships.
+  - She reflects on how her son's journey to college mirrors her own years ago, emphasizing the passing of time and the evolving stages of life.
+  - The chapter closes with a sense of disbelief at how quickly time has passed and how friends have grown older together.
+
+## Retirement
+- James's Decision to Quit Soccer
+  - James, Mary's son, announces his decision to stop playing soccer during a family dinner, indicating his intent to step away from the sport.
+  - He has chosen to attend the University of Chicago and has already embraced the college logo, wearing related clothing.
+  - Mary reflects on James's contemplation of his soccer skills and the trade-offs of being on the varsity team in college.
+- Understanding James's Choice
+  - Mary's husband, Nick, understands James's decision, implying that he saw this coming.
+  - Nick's reaction contrasts with Mary's concerns, as she realizes that Nick foresaw James eventually quitting soccer.
+  - Despite soccer being an integral part of James's life since childhood, both parents acknowledge that his choice is a natural progression.
+- The Pros and Cons of Playing Soccer
+  - The chapter outlines the rigorous commitments required for playing college soccer, including daily practice, frequent travel, and missing holidays and breaks.
+  - James had contemplated the demands of playing soccer at the college level, which echoed his experiences during high school.
+  - Mary recalls the injuries James sustained during his soccer journey and expresses relief that he won't face such risks anymore.
+- Reflecting on James's Soccer Journey
+  - Mary reminisces about James's soccer journey, recounting his progression from childhood playgroups to competitive teams.
+  - A slideshow of memories showcases James's enthusiasm and dedication to soccer throughout the years.
+  - Despite the joy he derived from playing, James's decision to quit highlights the dynamic nature of interests and priorities.
+- Parenting and Sporting Choices
+  - Mary and her husband encouraged their sons to explore various sports, though they were not sports enthusiasts themselves.
+  - James's deep passion for soccer became evident through his genuine joy and determination on the field.
+  - The chapter underlines the common thread of authentic happiness displayed on James's face while playing soccer.
+- Transition to New Beginnings
+  - The chapter captures the poignant moment when Mary realizes that James has played his last competitive soccer game.
+  - Mary acknowledges the significant role she played as a soccer mom, reminiscing about washing uniforms, signing up for snack duties, and more.
+  - James's decision to quit soccer signifies his transition to college life, where he expresses excitement about exploring new activities and areas in Chicago.
+- Symbolic Transition and Moving Forward
+  - Mary bids farewell to James's soccer journey and expresses pride in his accomplishments.
+  - James physically scrapes off old stickers from his bed, representing his symbolic detachment from past interests.
+  - He replaces the old stickers with University of Chicago ones, signaling his readiness to embrace new experiences and challenges.
+
+## We're Nearly Home (Second Attempt)
+- Introduction
+  - The chapter reflects on Mary's father's deep love for running and the significance it held within their family, highlighting the Peachtree Road Race as a central element.
+  - Mary shares her father's dedication to running and how he encouraged her and her brother to join him in races, nurturing a sense of camaraderie and family connection.
+- The Peachtree Road Race Tradition
+  - The Peachtree Road Race in Atlanta, held on the Fourth of July, was a cherished family tradition, drawing Mary's father, herself, and her brother to run it annually.
+  - The chapter describes the challenging nature of the race's 6.2-mile course down Peachtree Road, known for its sweltering heat and lack of shade.
+  - Mary humorously recalls her attempts to avoid running, while also participating by decorating posters and cheering on the racers.
+- Running with the Family
+  - Mary recounts the mandatory participation in family road races during her and her brother's childhood, emphasizing her father's encouragement and hope for their participation.
+  - Running was a shared activity that Mary and her father could bond over, allowing them to connect in moments when their communication might have faltered.
+  - The chapter highlights Mary's realization, as a parent herself, of the challenges of understanding her teenagers' thoughts and feelings.
+- Endurance and Connection
+  - Mary's father embodied the lesson of perseverance and never giving up, even promoting the idea of taking walk breaks during runs.
+  - He believed that everyone could be a runner and encouraged others to give running a try.
+  - Despite Mary's initial resistance, she began to find enjoyment in running, cherishing the moments spent with her father on the track.
+- Running as a Lifeline
+  - Running became a source of solace for Mary during challenging times, a way to navigate difficulties and find a way forward.
+  - Mary's father's advice to run and then have a cup of coffee resonated with her as a means of gaining perspective and finding a path through adversity.
+- Honoring the Memory
+  - Mary shares the experience of the first anniversary of her father's death, marking it with the Jewish tradition of Yahrzeit.
+  - Friends of the family (FONs) showed their support by making a donation to a nonprofit organization called GirlTrek, in memory of her father's love for running.
+  - The chapter underscores the profound impact of strong female friends during times of grief and loss, drawing comfort and love from their presence.
+- Renewed Commitment and Connection
+  - Despite initial hesitation, Mary decides to run the Peachtree Road Race in Atlanta again, this time in person, with her brother and his wife joining her.
+  - The significance of her father's love continues to resonate through the channels of her family and friends.
+  - The chapter ends on a poignant note, envisioning her father's voice encouraging her during the race, emphasizing his lasting presence and influence.
+
+## War
+- Introduction: A Moment of Crisis and Complexity
+  - The chapter opens with Mary recounting a chaotic day in the midst of live war coverage, where she receives urgent calls from her son during a significant global event.
+  - As the Russia-Ukraine conflict unfolds, Mary, a journalist, navigates her dual roles as a mother and a professional covering the crisis.
+- Dual Responsibilities: On-Air Amidst Family Concerns
+  - Mary grapples with the challenge of being on-air during a critical moment while her son's urgent calls go unanswered.
+  - She reflects on the complexity of juggling live coverage of a significant event with the personal responsibility of being there for her family.
+- Ukraine's Invasion: Reporting Amidst Global Tensions
+  - The chapter portrays Mary's engagement in live war coverage as Russia invades Ukraine, impacting her ability to address her son's concerns.
+  - As a journalist, she multitasks between monitoring news updates, following the president's speech, and managing her son's urgent calls.
+- A Mother's Dilemma: A Son with Covid
+  - Amidst the global crisis, Mary receives news that her son has tested positive for Covid-19, adding another layer of concern and complexity.
+  - She struggles to balance her professional responsibilities with her son's health, while also managing the logistics of his quarantine.
+- Connections in Crisis: The Humanity of Those Affected
+  - Amid the chaos, Mary maintains a connection with a Ukrainian activist, Hanna Hopko, and her experiences during the conflict.
+  - Mary's interactions with Hopko and others demonstrate the human impact of the crisis, making the distant conflict more personal.
+- Small Acts of Solidarity: Sausage, Support, and Hope
+  - Mary discovers an unexpected act of solidarity from an American butcher who names a sausage after Hanna Hopko and raises funds for Ukrainian refugees.
+  - This small gesture illustrates the power of human connections and the significance of support, even in the midst of global turmoil.
+- Returning to the Field: Journalistic Passion vs. Family
+  - Mary grapples with the decision to return to Ukraine as part of the news team on the ground.
+  - Despite her professional commitment and desire to contribute, she's torn between her journalistic passion and the imminent graduation of her son.
+- Balancing Commitments: A Heartfelt Choice
+  - Mary contemplates the conflicting factors—her journalistic duty and her son's senior year—and ultimately decides to decline the assignment.
+  - The chapter concludes with a poignant reflection on the intricate balance between career, family, and personal sacrifices during times of crisis.
+
+## Curveball
+- Gratitude and Joy Amidst Spring: Family and Achievements
+  - The chapter begins with Mary reflecting on the mix of gratitude and sorrow brought by spring, highlighting moments of joy and accomplishments.
+  - Mary's friend Kat visits with her children, and the sons share amusing stories of their camp experiences, creating a light-hearted atmosphere.
+  - Alexander, Mary's son, delivers an impactful speech about Ukraine and Russia, drawing parallels with the story of David and Goliath.
+  - Mary follows other positive developments, including the safety of Hanna Hopko's family, a memoir by Marie Yovanovitch, and Brooke Shields' empowering message for aging women.
+  - Ketanji Brown Jackson's nomination to the Supreme Court, representing the accomplishments of their generation, adds to the sense of progress.
+- Transition and Loss: Bittersweet Changes
+  - The chapter acknowledges the departure of their longtime housekeeper, marking the end of an era and bringing mixed emotions.
+  - The passing of Mary Louise Klucky, Mary's namesake chicken, underlines the cycle of life, highlighting the dual roles of animals in their household.
+  - The war in Ukraine continues with ongoing suffering and devastation, capturing the harsh reality of conflict.
+  - A personal setback occurs as Mary's mother falls and fractures her pelvis, leading to hospitalization and subsequent rehabilitation.
+- Navigating Complex Family Dynamics: A Time of Transition
+  - The challenges of caring for Mary's mother become apparent as they coordinate her care and adjust to her new living situation.
+  - Despite her mother's resilient spirit, the struggles of old age evoke empathy and reflection on the challenges of growing older.
+- An Unexpected Proposal: Disruption and Change
+  - The chapter concludes with a dramatic turn as Mary's husband, Nick, proposes separating and alternating their time living at home for the sake of their teenage sons.
+  - The shock of this announcement disrupts the stability of the household, leaving Mary feeling unmoored and apprehensive about the impending changes.
+
+## Darkness and Light
+- Drawing Inspiration from Resilience: A Motto for Endurance
+  - The chapter opens with Mary finding strength in Winston Churchill's quote "When you are going through hell, keep going," which empowers her to face each day's challenges.
+  - Mary shares her morning routine of whispering these words and subsequently going for a run past a statue of Winston Churchill, a personal source of motivation.
+- Reflecting on Noteworthy Individuals: Churchill and Mandela
+  - Mary discusses the statues of Winston Churchill and Nelson Mandela she passes during her runs, pondering their resilience and courage.
+  - She considers the weight of their struggles compared to her own, finding inspiration from their examples and channeling their strength during tough times.
+- Celebrating Milestones Amidst Turmoil: Graduation Season
+  - The chapter shifts to a cheerful tone as Mary navigates the flurry of high school graduation events and parties.
+  - Mary reflects on the joy of seeing her son and his friends celebrating their achievements and milestones, contrasting it with her personal struggles.
+- Juxtaposing Happiness and Loneliness: A Dissonance in Life
+  - Mary captures the emotional dissonance she experiences between the jubilation of graduation events and the loneliness she feels at home, as her marriage faces challenges.
+  - She contemplates the process of grieving a marriage's decline and the complexities of relationships.
+- Struggling for a Resilient Marriage: Seeking Guidance
+  - Mary turns to Winston Churchill's famous words and grapples with the vows of her marriage, exploring the meaning of never giving in.
+  - She reflects on the resilience of love and the struggles it entails, quoting from Jonathan Safran Foer's novel to emphasize that love isn't devoid of struggle.
+- Revisiting the Past: Rediscovering Her Younger Self
+  - Mary delves into her past by revisiting her old journals, tracing her thoughts and experiences from youth to adulthood.
+  - She finds solace in the familiarity of her young self's struggles and recognizes her personal growth and evolution.
+- Seeking Perspective and Lightness: A New Outlook
+  - Mary embraces a new perspective and aims to take life less seriously, focusing on finding laughter and lightness even amid challenges.
+  - She contrasts her past journal entries with her present self, resolving to maintain a positive outlook despite difficulties.
+- Embracing Identity and Change: A Journey of Growth
+  - The chapter concludes with Mary realizing that her younger self is still her, and she feels a sense of empathy and support for her past struggles.
+  - Mary internalizes the idea that pain is a part of growth and transformation, and she finds solace in this concept.
+
+## Two Walks
+- Unnoticed Last Times:
+  - Mary introduces the concept of not realizing when something precious is happening for the last time.
+  - Examples include the last cuddle before a child grows taller, the last use of endearing names, and the shift from being read bedtime stories to reading alone.
+- Father's Last Walk:
+  - Mary's father, battling metastatic cancer, expresses a desire to go for a walk despite his pain, which becomes the last time they walk together.
+  - Mary recalls her anger at the cancer's grip and the conflicting feelings of wanting her father to rest.
+  - Through this experience, her father imparts wisdom about family and responsibility, underscoring the depth of parental love.
+- Enduring Life Lessons:
+  - Reflecting on parental roles, Mary notes the challenge of passing on values to children and wondering if they truly absorb these lessons.
+  - She expresses gratitude for her father's guidance and recalls his advice about prioritizing family.
+- Symbolic Carpenters' Talk:
+  - During their last walk, the father talks about teaching carpentry to his grandsons, using power tools, symbolizing love and legacy.
+  - Mary realizes that these words are an expression of profound affection for his family.
+- Graduation Day and Reflection:
+  - The chapter shifts to a graduation ceremony at Washington National Cathedral, where Mary's son is part of the graduating class.
+  - She reflects on the passage of time, from her children's childhood to adulthood, paralleling the transformation witnessed in a fresco in Florence.
+  - Mary acknowledges the support and contribution of teachers, mentors, and loved ones in shaping her children's lives.
+- Cherished Moments and Moving Forward:
+  - Mary captures a candid photo of her son wearing her father's tie, symbolizing generations and their interconnectedness.
+  - She contemplates the changes brought by Act III of her life, contemplating career choices, her relationship with her husband, and where to live.
+  - Amid uncertainties, Mary acknowledges the value of rituals, comfort, and small moments shared with loved ones.
+- Embracing Change and Gratitude:
+  - As the chapter concludes, Mary witnesses her son's joyful post-graduation celebration, symbolizing the transition from childhood to adulthood.
+  - She expresses her pride, love, and encouragement to her sons, embodying the mix of emotions that come with letting go.
