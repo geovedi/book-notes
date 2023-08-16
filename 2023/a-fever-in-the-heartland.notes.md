@@ -1,0 +1,793 @@
+
+# A Fever in the Heartland
+Author: Timothy Egan
+
+## Introduction: The Quintessential Americans
+- Setting the Stage: Rise of the Klan in Indiana
+  - In 1925, David C. Stephenson, known as "Steve" or the "Old Man," was a key figure in Indiana, having utilized the Ku Klux Klan (KKK) to gain control over the state.
+  - Stephenson, the Grand Dragon of the KKK's largest realm, was a charismatic and influential leader with a powerful mystique. He held sway over the state's institutions and its influential citizens.
+- Stephenson's Power and Influence
+  - Stephenson, the Grand Dragon, had connections to influential people, including the White House. He exercised control over a vast network of Klansmen and private police.
+  - Indiana was dominated by the Klan, with its influence reaching political offices, law enforcement, and social structures.
+  - Stephenson's vision aimed at propagating white supremacy and controlling societal behavior, backed by eugenicist ideas and discriminatory laws.
+- The Klan's Influence Beyond Indiana
+  - The Klan's influence was not limited to Indiana; it spread across the country, even gaining a foothold in the North.
+  - Klan-backed politicians, like Ed Jackson in Indiana and others in different states, sought to enforce their ideals and suppress various groups, targeting immigrants, Catholics, Jews, and African Americans.
+  - The Klan's influence extended to senators, representatives, and even governors in various states.
+- Tension and Repression in Society
+  - The 1920s in America was a time of rapid change, with urbanization and technological advancements contrasting with societal repression.
+  - The Klan advocated for Prohibition, targeting immigrants and Black individuals, using its influence to implement restrictive laws.
+- Resistance and Marginal Heroes
+  - While the Klan held immense power, there were those who resisted its influence, including rabbis, African American figures, lawyers, and poets.
+  - These resisters stood up against discrimination and oppression, although they were often marginalized in the larger narrative.
+- Madge Oberholtzer: A Catalyst for Change
+  - Madge Oberholtzer, an independent and bold woman, crossed paths with Stephenson, the Grand Dragon, at a banquet.
+  - Stephenson held immense power over Indiana, and Madge was in a precarious position, looking for help with her job.
+  - Stephenson's interactions with Madge, who had the potential to expose his darker side, would lead to a trial that would challenge his hold over the state.
+
+## An Empire of Hate
+
+### Birth and Death of the Klan
+- Formation of the Ku Klux Klan (1866-1872)
+  - The Ku Klux Klan (KKK) emerged as a secret club in Pulaski, Tennessee in 1866, consisting mainly of former Confederate soldiers disillusioned by their defeat.
+  - Initially, the Klan's members engaged in silly rituals and costumes, with the name derived from the Greek word "kuklos" meaning circle and the word "klan" chosen for alliteration.
+  - The Klan quickly transformed from a social club to a violent organization, engaging in arson, beatings, and terror against newly freed Black people in the South.
+  - Nathan Bedford Forrest, a Confederate general known for the Fort Pillow Massacre, became the first Grand Wizard of the Klan, leading its expansion.
+- Rise of Klan Violence and Federal Response
+  - The Klan's violence escalated with the aim of suppressing Black political participation, economic advancement, and equal rights.
+  - African Americans were lynched, churches and schools were destroyed, and white allies were attacked.
+  - President Andrew Johnson's lenient approach and lack of action against the Klan allowed its activities to intensify.
+  - Reconstruction efforts mandated by Congress were met with brutal resistance by the Klan and their sympathizers.
+  - President Ulysses S. Grant, recognizing the Klan's violent intent, used federal authority and troops to suppress its activities, declaring it the most atrocious organization in the civilized world.
+- Federal Efforts and Klan Disbandment
+  - Grant utilized the Ku Klux Klan Acts to target the Klan's activities, sending federal authorities and troops to prosecute and convict thousands of Klansmen across the South.
+  - The Klan, facing significant opposition, formally disbanded under the order of Nathan Bedford Forrest and the organization's records were destroyed.
+  - Grant's actions marked a significant victory in suppressing the Klan's violence and ensuring the protection of newly acquired civil rights for African Americans.
+- Legacy and Continued Struggle
+  - Despite Grant's efforts, racism and violence against Black people persisted beyond the Klan's formal disbandment.
+  - Frederick Douglass, a prominent Black leader and activist, recognized the ongoing challenges and the necessity of continued efforts to secure full rights for African Americans.
+  - The Ku Klux Klan's rise and suppression marked a critical period in American history, highlighting the struggle for racial equality and the need for ongoing vigilance against hate-based violence and discrimination.
+
+### An Opening in Indiana
+- Historical Background
+  - The story begins in 1922 in Evansville, Indiana, with the emergence of the Ku Klux Klan (KKK).
+  - Klansmen wearing white robes and masks stormed a church service, leaving a cash-filled envelope for the minister.
+  - D. C. Stephenson, an ambitious man, joined the Klan, seeing it as an opportunity for power and influence.
+- Klan's Foundations
+  - The Klan aimed to build its base with the endorsement of Protestant clergy.
+  - Stephenson's charm, education, and knack for persuasion made him a significant figure in the Klan.
+  - The KKK's recruiter, Joe Huffington, worked in Indiana to establish a northern base.
+- Evansville's Environment
+  - Evansville, Indiana, was a city with a predominantly white and native-born population, heavily Protestant.
+  - The city was deeply segregated, with Black residents facing discrimination and harassment.
+- Klan's Appeal and Propaganda
+  - The Klan targeted social anxieties and resentments, using racism, xenophobia, and bigotry to recruit members.
+  - The film "The Birth of a Nation" fueled racial propaganda and shaped the Klan's narrative.
+  - William J. Simmons and his partners Clarke and Tyler played significant roles in the Klan's resurgence.
+- Klan's Expansion and Influence
+  - Stephenson developed a strategy to expand Klan influence across Indiana through churches and fraternal organizations.
+  - Fear of the unfamiliar fueled the Klan's growth, and membership fees were a source of income.
+  - The Klan used religious rhetoric to present itself as a force for patriotism and righteousness.
+- Stephenson's Personal Life
+  - Stephenson's marriage to Violet was troubled, marked by infidelity, abuse, and manipulation.
+  - Violent fights and abusive behavior by Stephenson toward Violet took place, revealing a dark side.
+
+### Men With Badges
+- Shift from Horses to Machines
+  - In the 1920s, Indiana saw a shift from horses to automobiles, as cars became the new fascination.
+  - The love for automobiles was widespread, with a growing number of manufacturers and cars on the road.
+  - Horse theft declined, and the Horse Thief Detective Association, once vigilant, saw a decline in purpose.
+- Klan's Use of Vigilante Groups
+  - D. C. Stephenson saw an opportunity to use the Horse Thief Detective Association's decline to his advantage.
+  - He addressed the association's convention and appealed to their fears and resentments.
+  - The vigilante groups transformed into the Klan's morality police, enforcing social norms and targeting various groups.
+- Klan's Northward Expansion
+  - Stephenson's efforts helped the Klan expand into the North, contrary to expectations.
+  - The Klan's rebranding resonated with certain Northern sentiments and racial prejudices.
+  - The film "The Birth of a Nation" fueled racial propaganda and found an audience in the North as well.
+- Indiana's Historical and Cultural Context
+  - Indiana had Southern influences, and its treatment of African Americans had been harsh.
+  - Despite past divisions, the new Klan gained traction in Indiana, a state that had fought against the Confederacy.
+- Klan's Recruitment and Membership Process
+  - Stephenson's recruitment tactics emphasized secrecy, mystery, and a sense of belonging.
+  - New initiates faced a vetting process, answering questions about race, religion, and Americanism.
+  - Initiates took oaths and donned the Klan's iconic robes, becoming part of a unified force.
+- Stephenson's Financial Gains
+  - The Klan's recruitment efforts were financially lucrative, with high initiation fees, dues, and uniform costs.
+  - Stephenson profited immensely, accumulating wealth through membership fees and contributions.
+- Klansmen's Motivations
+  - Klansmen joined the Klan for a mix of reasons: love of mystery, racial pride, and hatred of perceived threats.
+  - The Klan provided a sense of empowerment to its members, fostering a mystic glorification of self.
+- Klan's Influence and Crimes
+  - The Klan's vigilante groups operated openly, targeting adulterers, bootleggers, and dissenters.
+  - Crimes committed by the vigilantes were not punished, creating an environment of impunity.
+  - The appeal of membership in the Klan was rooted in the allure of a vast, mysterious empire.
+
+### A Coup and a Clash
+- Rise of D. C. Stephenson and Hiram Evans
+  - In 1922, D. C. Stephenson emerged as a charismatic and cunning figure, adept at manipulating people's fears and capitalizing on their desire to blame others for their problems.
+  - Stephenson positioned himself as a master of mass psychology and drew inspiration from Mussolini's methods to shape his own rise to power within the Ku Klux Klan.
+  - Hiram Evans, another Klan leader, sought control of America through peaceful means, intending to use political influence to amend the Constitution and curtail rights of Black people and certain religions.
+  - Stephenson and Evans aimed to infiltrate Congress with dual-oath members who would support their agenda, and organized a coup to take control of the Klan away from its founder, William Simmons.
+- Klan's Expansion and Tactics
+  - Stephenson's leadership resulted in rapid Klan expansion across multiple states, using methods of fear, propaganda, and control.
+  - The Klan utilized a mix of violence and public relations: they orchestrated violent acts like beatings, burnings, and brandings at night, while during the day, they distributed money to charities, churches, and even built an orphanage to improve their public image.
+  - The Klan achieved significant political influence by orchestrating rallies, parades, and using tactics like distributing questionnaires to target specific groups, particularly Catholics and Jews, and subsequently spread rumors to tarnish their reputations and remove them from office.
+  - The Klan's influence extended to judicial matters, as Klan members worked to exclude certain groups, like Blacks, Jews, and Catholics, from jury service and other civic participation in Delaware County.
+- Resistance and Persistence
+  - Despite the Klan's growing power, there were individuals who resisted its influence, like newspaper editor George Dale, who used satire and wit to expose the Klan's hypocrisy and racism.
+  - Dale's persistent efforts to uncover the Klan's sinister intentions led to his assault by Klan members and his subsequent imprisonment without trial, highlighting the real power that the Klan wielded over the law and the justice system.
+  - Muncie, Indiana, where the Klan had a strong presence, was chosen as a study location by social scientists Helen and Robert Lynd, revealing the pervasive racial segregation and discrimination present in the supposedly "typical American" city.
+- Internal Power Struggles
+  - Internal tensions within the Klan led to a coup orchestrated by Stephenson and Evans, resulting in Hiram Evans becoming the new Imperial Wizard and Simmons being named Emperor for Life, but with limited power.
+  - Stephenson gained control over recruitment in a significant portion of the country, consolidating his position and expanding the Klan's reach from the Atlantic coast to the Great Lakes and the Canadian border.
+- Influence on Women and Future Plans
+  - Stephenson and Evans believed in involving white women in the Klan's mission, seeing them as essential to the cause of protecting the white race.
+  - Despite Stephenson's own disregard for the principles he professed, he aimed to bring women into the Klan's fold to solidify the family's role in shaping the future.
+  - With Stephenson's rise to power and manipulation of the Klan's direction, he intended to further his own material gains, from acquiring properties to influencing politics and society.
+
+### Woman of the Year
+- Daisy Douglas Barr's Rise and Transformation:
+  - Daisy Douglas Barr was a charismatic preacher in Indiana who attracted large crowds with her sermons.
+  - She started as a Quaker but developed a unique approach, delivering simple yet intellectually agile speeches.
+  - Her early focus was on moral upliftment and combating societal issues like sex and alcohol.
+  - She campaigned for temperance and women's voting rights, becoming a significant figure in the suffrage movement.
+- Barr's Shift towards Extremism:
+  - Over time, Barr's message evolved from temperance and suffrage to advocating white supremacy and racial animus.
+  - She aligned herself with the Anti-Saloon League and the Ku Klux Klan (KKK), sharing their values of militant evangelism.
+  - Barr's shift was influenced by the rising political power of women and the Klan's desire to expand its reach.
+  - Her rhetoric propagated racial theories, targeting immigrants, Jews, and Catholics as threats to white Protestant society.
+- Klan's Influence and Tactics:
+  - Barr collaborated with D. C. Stephenson, the leader of the KKK in Indiana, who saw her as a valuable asset.
+  - Stephenson envisioned a more family-friendly Klan, incorporating women, children, and even poison squads to spread disinformation.
+  - The Ku Klux Kiddies and Klan Klubs were introduced, attracting children and teens into the Klan's fold.
+  - The poison squads propagated false stories, intimidating businesses and politicians, and furthering Klan's influence.
+- Barr's Complicity and Influence:
+  - Daisy Barr's involvement in the Klan led to her transformation into an Imperial Empress of the Women of the Ku Klux Klan.
+  - She actively promoted the Klan's views through speeches, parades, and rallies, targeting Jews, Catholics, immigrants, and racial diversity.
+  - Barr's collaboration with Stephenson and her rise to power within the Klan helped expand the organization's reach.
+- Klan's Widespread Growth and Objectives:
+  - The Klan's membership surged across the country, especially in Northern states like Indiana.
+  - The organization aimed to recruit ten million members, with the women's Klan alone attracting around 250,000 members in a short time.
+  - The Klan combined men's muscle, women's poison-spreading, and ministers' blessings to achieve its goals.
+
+### The Other Indiana
+- Introduction: The Birth of Recorded Black Jazz
+  - In 1923, recorded Black jazz emerged in a gray wooden shed near a railroad spur in a town plagued by Ku Klux Klan presence.
+  - This groundbreaking music was alive, original, and captivating, changing the world of sound and entertainment forever.
+  - The initial recording almost didn't occur due to the hostile environment and Klan activity.
+- King Oliver's Creole Jazz Band in Richmond: Facing Klan Opposition
+  - King Oliver's Creole Jazz Band arrived in Richmond, Indiana, facing hostility from the Ku Klux Klan.
+  - The town was swarming with Klansmen due to a large gathering, making their stay challenging.
+  - The band found accommodations in Goose Town, a neighborhood populated by Italians and Blacks.
+- Klan Influence and Racial Tensions: Richmond's Troubled Atmosphere
+  - The Klan's presence was strong in Richmond, recruiting many white men and promoting racism.
+  - Racial discrimination extended to daily life, affecting everything from coffee purchases to children's activities.
+  - The Klan's efforts to soften its image through gestures like donating Bibles clashed with its hateful actions.
+- The Recording Shed and Gennett Studio: Making Jazz History
+  - The recording took place in a former kiln house turned into a recording shed by the Gennett brothers.
+  - Gennett, known for its pianos, embraced jazz and supported artists regardless of race.
+  - King Oliver's band, led by Louis Armstrong, recorded their music there, overcoming challenges like passing trains.
+- Klan Parade and the Recording Process: Tensions and Triumph
+  - On the recording day, the Klan staged a massive parade and cross burnings, causing tensions in Richmond.
+  - Despite the Klan's presence, King Oliver's band recorded energetic numbers like "Workingman's Blues" and "Alligator Hop."
+  - The musicians had to pack up quickly and escape town after recording, evading the Klan parade.
+- Jazz in Indiana Avenue: Underground Clubs and the Great Migration
+  - About seventy miles from Richmond, Indianapolis' Indiana Avenue featured vibrant underground jazz clubs.
+  - The Great Migration brought African Americans to Northern cities for better opportunities, though racism persisted.
+  - The Avenue provided both entertainment and business opportunities for the Black community.
+- Madam C. J. Walker and the Fight for Equality: Business Success and Racial Struggles
+  - Madam C. J. Walker's successful hair products business catered to Black customers and empowered women.
+  - Despite her accomplishments, she faced racial segregation, exemplified by discriminatory movie theater policies.
+  - The Great Migration transformed Northern demographics, but racial discrimination remained deeply ingrained.
+- Racial Segregation and Klan Influence: Examples of Northern Racism
+  - Northern cities harbored racial segregation, often with "sundown laws" and discriminatory housing practices.
+  - Klan influence in Indianapolis aimed to restrict Black residents to specific areas and excluded them from mainstream society.
+  - Instances of violence, such as the Blanford incident, reflected the deep-rooted racial tensions.
+- Frederick Douglass and Tulsa Race Massacre: Racism's Deep Roots
+  - Frederick Douglass addressed the issue of racism in America, emphasizing the need for loyalty to the Constitution.
+  - The Tulsa Race Massacre of 1921 marked a dark chapter, revealing Klan involvement and racial violence.
+  - The massacre fueled Klan growth and exposed the flawed legal system's inability to deliver justice.
+
+### The Unmasking
+- Background and Introduction:
+  - In 1923, a fiery Irish American lawyer named Patrick H. O'Donnell took a stand against the Ku Klux Klan (KKK).
+  - O'Donnell was deeply disturbed by the Klan's recruitment efforts in Chicago and its attempt to strip people of their rights and liberties, paralleling what had happened to his own Irish ancestors.
+- O'Donnell's Strategy Against the Klan:
+  - O'Donnell organized a coalition against the Klan, uniting cops, firemen, priests, Black clergy, and Jewish community leaders.
+  - He founded the American Unity League and published a newspaper called Tolerance, dedicated to exposing and opposing the Klan.
+  - O'Donnell's approach was to reveal the names of Klan members to strip them of secrecy, aiming to dismantle their power.
+- Unmasking the Klan's Members:
+  - O'Donnell obtained membership rolls from insiders, published the names in Tolerance, and exposed prominent figures.
+  - The revelations caused an uproar in Chicago, leading to public outrage, bank withdrawals, and citywide investigations.
+  - The American Unity League gained traction, with people joining forces to combat the Klan's influence.
+- O'Donnell's Speech and Efforts in Indiana:
+  - O'Donnell continued his efforts by targeting Klan strongholds, including Indiana, where the Klan was thriving.
+  - In an impassioned speech on Saint Patrick's Day, O'Donnell denounced the Klan as un-American and warned of its corruptive potential.
+  - He rallied people to unite against the Klan, comparing it to driving snakes out of Ireland, and ignited a movement for change.
+- Klan's Reaction and Resilience:
+  - The Klan responded with anger, intimidation, and campaigns against Catholics, Jews, and other groups they deemed enemies.
+  - Despite O'Donnell's efforts to expose the Klan's true nature, its membership continued to grow, and rallies attracted more followers.
+  - The mainstream press often overlooked O'Donnell's revelations, and journalists were even known to join the Klan.
+- Stephenson's Rise and Influence:
+  - D. C. Stephenson, the leader of the Klan in Indiana, wielded significant power and influence.
+  - He exploited the fear and prejudice of the majority to further the Klan's agenda, expanding its reach and membership.
+
+### Creating D. C. Stephenson
+- Background and Early Life of D. C. Stephenson
+  - D. C. Stephenson, a prominent figure in the Ku Klux Klan, carefully constructed a fictional biography that hid his true origins.
+  - Born in Hill County, Texas in 1891, he came from humble beginnings as the son of an itinerant laborer.
+  - Stephenson's upbringing was marked by a lack of stability, moving frequently and dropping out of school in eighth grade.
+  - He developed a knack for storytelling and a flair for writing, working in small Oklahoma newspapers and wooing women.
+- Marriages, Abandonment, and Troubled Relationships
+  - Stephenson's first marriage to Nettie was marked by his inability to hold a job, infidelity, and abuse.
+  - Nettie endured physical abuse from Stephenson, leading to his eventual desertion of her while she was pregnant.
+  - His second marriage to Violet was characterized by manipulation and financial exploitation, as he borrowed money from her mother.
+  - Stephenson's violent and unstable behavior in relationships hinted at his complex character.
+- Stephenson's Influence in the Klan and Education
+  - Stephenson's ambition extended to influencing education, as he envisioned creating a university to produce loyal Klansmen with a strong academic foundation.
+  - He targeted Valparaiso University in Indiana, nearly bankrupt at the time, as a potential institution to be taken over by the Klan.
+  - His plans were met with skepticism and ridicule by mainstream media, but he secured funding to keep Valparaiso University afloat and aligned with the Klan's ideals.
+- Klan Activities and Show of Force
+  - Stephenson orchestrated impressive Klan rallies, parades, and events, drawing large crowds with performances and rhetoric.
+  - Klansmen participated in provocative activities such as cross burnings, hate speeches, and even assaults on individuals who defied them.
+  - Stephenson's leadership in the Klan led to a significant display of power, and he often used his status to manipulate law enforcement.
+- Brushes with the Law and the Masked Power
+  - Stephenson's interactions with law enforcement revealed his ability to evade consequences, as seen in an incident involving indecent exposure.
+  - His affiliation with the Horse Thief Detective Association and special deputy status helped him escape an arrest, underscoring his influence.
+  - The divide between Stephenson's public and private personas grew stronger, granting him an unchecked sense of power and authority.
+
+### A Master Race in the Midwest
+- 1923: Klan's Obsession with Racial Purity and Eugenics
+  - D. C. Stephenson's speech on eugenics in 1923 conveyed his belief in racial purity and superiority.
+  - He claimed that certain ethnicities were predestined to become degenerates or failures, labeling new immigrants and African Americans as inferior.
+  - The Klan's focus on racial purity extended to various aspects of society.
+- Promotion of Racial Purity and Immigration Control:
+  - Stephenson and the Klan aimed to curtail immigration, particularly of groups they deemed undesirable.
+  - Eugenics was seen as a means to enhance white racial superiority and keep out those who did not fit their ideals.
+  - "Better Baby" contests at state fairs reinforced the concept of ideal white infants, excluding non-white and immigrant babies.
+- Eugenics Legislation and Forced Sterilization:
+  - Indiana implemented the world's first eugenic sterilization law in 1907, targeting "undesirables."
+  - The law aimed to prevent those considered "mentally deficient" or "morons" from reproducing.
+  - Around 2,500 people were forcibly sterilized in Indiana by the 1920s.
+  - Congress and many states drafted laws based on eugenics principles, forcibly sterilizing about 70,000 people in the US.
+- Influence of Eugenicists and Associations with Racism:
+  - Stephenson and the Klan cited experts like Dr. Harry H. Laughlin, who advocated for eugenic sterilization laws.
+  - Laughlin's ideas influenced Nazi Germany's proto-Nazi scientists.
+  - Eugenicists like Charles Davenport expressed racist beliefs about the potential consequences of racial mixing.
+- African American Resistance and Cultural Expression:
+  - African American leaders like James W. Johnson, the head of the NAACP, countered Klan rhetoric through cultural expression and activism.
+  - Johnson emphasized the positive contributions of Black Americans to American culture, highlighting achievements like jazz.
+  - Despite eugenicists' momentum, African Americans like Johnson continued to assert their identity and contributions.
+- The Klan's Mission and Extreme Statements:
+  - Stephenson's speech portrayed the Klan's mission as a struggle to save America from inferior races.
+  - The Klan's message spread rapidly through reprinted speeches and was further radicalized by local speakers.
+  - Extreme statements advocating violence against Catholics, Jews, and African Americans gained applause at Klan gatherings.
+
+### Independence Day
+- 1923: The Grand Fourth of July Klan Rally in Kokomo
+  - In 1923, the largest-ever Klan gathering was held in Kokomo, Indiana, on the Fourth of July.
+  - The event featured a biplane drop, attended by a massive crowd of white-sheeted Klansmen and women.
+  - Participants came from the Midwest, representing Klan chapters from around the region.
+  - The plane, branded with a Klan symbol, circled overhead and garnered great excitement.
+- Kokomo's Klan Dominance and Composition:
+  - Kokomo was a Klan stronghold, with a majority of its 30,000 residents being Klan members.
+  - Klansmen occupied positions in government, law enforcement, and various institutions.
+  - The town's averageness and Klan's messaging gave the hate group a sense of purpose and belonging.
+  - The Klan had a significant influence over local news, moral guidance, and community dynamics.
+- Klan Rituals and Activities:
+  - The rally included a parade, speeches, and the unveiling of a giant burning cross.
+  - Participants sang anthems and marched on white horses, reinforcing their white supremacist ideals.
+  - Klansmen contributed money to build a Klan-exclusive hospital, rejecting treatment from a Catholic-run hospital.
+  - The rally's secretive nature and strong influence over the crowd highlighted the Klan's power.
+- Stephenson's Ascension and Inauguration:
+  - The rally marked D. C. Stephenson's formal crowning as Grand Dragon of the Realm of Indiana.
+  - The Imperial Wizard, Evans, proclaimed Stephenson's new title and praised the Klan's accomplishments.
+  - Stephenson delivered a speech filled with praise for the Klan's ideals, discussing potential changes to the Constitution.
+  - The event solidified Stephenson's position, further validating his leadership within the Klan.
+- Kokomo's Paradoxical Love for the Klan:
+  - The town's fascination with the Klan was rooted in small-town monotony, religious fundamentalism, and bigotry.
+  - The Klan filled a psychological need for hatred and faith in something greater.
+  - The hate group appealed to those who felt unbalanced or venal, and it initially attracted the ignorant.
+  - While initially appealing to a certain demographic, the Klan eventually gained influence over enlightened elements.
+- Stephenson's Manipulation and Asher's Insight:
+  - Asher, Stephenson's pilot, marveled at his boss's ability to manipulate and deceive the masses.
+  - He noted how preachers were particularly susceptible to Stephenson's charm and religious facade.
+  - Asher observed Steve's violent and erratic behavior, from charismatic leadership to abusive conduct.
+  - The discrepancy between public persona and private character highlighted Stephenson's complexity.
+
+### Governors, Guns, and God
+- 1923: Rise of Klan Power and Stephenson's Luxurious Lifestyle
+  - In 1923, Stephenson, known as the Grand Dragon, reveled in his opulent life after the coronation in Kokomo. He owned a lavish yacht, the Reomar II, and lived in luxury comparable to his mansion, summer home, and private transport.
+  - His yacht, anchored on Lake Erie, hosted influential Midwest figures for political plotting and indulgence. The Klan aimed for a Constitutional Convention to shape an exclusive Americanism.
+- Harding's Death and Klan Influence
+  - In August 1923, President Warren G. Harding's sudden death fueled rumors of assassination. The Klan falsely claimed him as one of their own, despite his election win through a landslide.
+  - The Klan, despite claiming Harding, had flourished under his presidency, with its influence extending to various levels of government, even governors, senators, and mayors.
+- Klan's Reach Beyond Indiana
+  - The Klan's reach expanded across states: Ohio, Pennsylvania, Colorado, Oregon. It gained significant political influence, installing Klansmen in key positions.
+  - The Klan's targets included African Americans, Jews, and Catholics. Violence and intimidation were central to their approach.
+- Imperial Wizard Evans and Stephenson's Power Struggles
+  - Stephenson and Imperial Wizard Evans were key architects of the Klan's strategy, but tension simmered between them. Evans rejected a plan to buy Valparaiso University and questioned Stephenson's financial gains.
+  - Despite differences, they shared the vision of a powerful Klan shaping national politics, leveraging its substantial membership.
+- Klan's Presidential Candidate Search
+  - The Klan leadership sought a presidential candidate for - The Democratic side saw McAdoo, who aligned with Klan values, especially on racial segregation.
+  - Coolidge, the new president, didn't oppose the Klan, and both parties catered to its growing influence.
+- Klan's March and Violent Clash in Carnegie
+  - Klan rallies and marches sparked conflict. In a march on Carnegie, Pennsylvania, Klansmen clashed with the townspeople. Violence escalated into a deadly riot, leading to a Klansman's death and further emboldening the Klan's rhetoric against immigrants.
+- Stephenson's Manipulation of Power
+  - Stephenson exploited his influence, using both political allies and uniformed police who answered to the Klan.
+  - Fear was a tool for the Klan to consolidate power, as evidenced by the manipulation of events like the Carnegie clash.
+
+## Monster of the Midway
+
+### Lord of the Manor
+- Introduction:
+  - The narrative revolves around Madge Oberholtzer, a woman in 1920s Indiana.
+  - The story highlights her life, values, and interactions with D.C. Stephenson, a powerful Klan leader.
+- Madge's Background and Irvington:
+  - Madge Oberholtzer lived in Irvington, a town founded on open-mindedness and progressiveness.
+  - She was a strong-willed, independent woman, breaking societal norms and pursuing her own path.
+  - Irvington had a mix of architectural beauty and diversity, with a heritage of inclusivity and women's rights.
+- Madge's Journey and Independence:
+  - Madge's journey included education, jobs, and self-discovery.
+  - She embraced the changing times, voting, working, and owning property, displaying her independence.
+  - She took a daring cross-country road trip, reflecting her spirit of adventure.
+- Madge's Financial Struggles and Fateful Decision:
+  - Madge faced financial difficulties due to job loss and family mortgage burdens.
+  - Fearing job loss, she approached D.C. Stephenson, a prominent Klan leader, for help.
+  - Despite her disagreement with the Klan's values, she saw it as a solution to her problems.
+- Stephenson's Lavish Parties and True Nature:
+  - Stephenson held extravagant parties, showcasing wealth and power, and attracting high society.
+  - He projected an image of Klan leadership, while his true self was darker and more sinister.
+  - His behavior ranged from extravagance to violence and sexual assault, hidden behind his public persona.
+- The Klan's Influence and Double Standards:
+  - The Klan's influence extended to politics, law enforcement, and social life.
+  - Despite Stephenson's morally questionable actions, many chose to ignore or downplay them.
+  - The organization's contradictory values, preaching purity while tolerating Stephenson's behavior, were evident.
+- Stephenson's Crimes and Consequences:
+  - Stephenson committed sexual assault, faced legal trouble, and tried to manipulate his victims.
+  - Despite the severity of his actions, he escaped punishment due to his power and influence.
+  - The public's reaction varied from condemnation to selective amnesia, reflecting the complex social dynamics of the time.
+
+### Rage of the Resistance
+- Background:
+  - In 1924, Patrick O'Donnell took on the Ku Klux Klan through his newspaper, Tolerance.
+  - His exposure of Klan membership led to a peak circulation of 150,000.
+- O'Donnell's Crusade:
+  - O'Donnell obtained secret documents revealing Klan strength and plans.
+  - He warned of Klan's threats against Notre Dame University and its president.
+  - O'Donnell's efforts were met with backlash, including attempts to discredit him.
+- Wrigley's Involvement:
+  - O'Donnell published a Klan initiation form supposedly signed by William Wrigley Jr.
+  - Thousands boycotted Wrigley's products and Cubs games.
+  - The signature was later revealed to be forged, leading to O'Donnell's downfall.
+- Klan's Attempt to Target Notre Dame:
+  - Klan planned a show of strength in South Bend to crush resistance and challenge rival leadership.
+  - Notre Dame students opposed Klan presence and engaged in clashes.
+  - Notre Dame students' defiance and actions led to Klan's retreat and defeat.
+- Various Heroes in the Battle:
+  - Congressman William E. Wilson stood up to the Klan's demands and lost popularity.
+  - Rabbi Morris Feuerlicht and journalist George Dale continued to resist Klan's influence.
+  - Daisy Barr's exposure and failure to establish a Klan-run hospital marked a turning point.
+- Governor McCray's Integrity:
+  - Klan plotted to bribe Governor Warren T. McCray for a Klan district attorney.
+  - McCray refused the bribe, choosing to protect his integrity despite his personal struggles.
+- Remy's Stand:
+  - William H. Remy, appointed prosecutor, resisted Klan's attempts to control his office.
+  - Remy's determination to uphold integrity led to clashes with the Klan.
+- Remy's Resolve:
+  - Remy was determined to remain unbiased, despite Klan's pressure.
+  - His resolve led to his isolation within the Republican Party.
+
+### The Klan on Top
+- Klan's Expansion and Influence:
+  - By the mid-1920s, the Ku Klux Klan (KKK) had gained immense power and influence across the United States.
+  - The Klan's presence was pervasive, with large gatherings, rallies, and picnics, particularly in Colorado, Washington state, and Kansas.
+  - The Klan targeted various ethnic groups, including Jews, Italians, Blacks, and Latinos, spreading fear and hatred.
+  - Klan membership soared, reaching an all-time high of 60,000 people in Kansas, and the organization's influence extended to law enforcement.
+  - The Klan's growth was fueled by its opposition to immigration, culminating in the passage of the National Origins Act of 1924, which limited immigration from certain countries, aligning with the Klan's discriminatory agenda.
+- Political Manipulation and Electoral Success:
+  - Klan leaders strategically aimed to influence elections openly and without subterfuge.
+  - In Indiana, Klan Grand Dragon Stephenson gathered voter information and orchestrated a clear Klan-supported candidate slate for the primary.
+  - The Republican primary for governor saw the Klansman Ed Jackson emerge victorious, revealing the extent of public support for the Klan's agenda.
+  - The Immigration Act of 1924 further bolstered Klan claims of influence in Congress, as strict quotas were enacted, restricting immigration from certain regions.
+  - The Klan wielded its influence in presidential elections as well, working to secure positions of power for its members within the major parties.
+- Democratic Party and Klan Intrigue:
+  - The Democratic Party's 1924 national convention in New York City was marred by the Klan's substantial presence, particularly from Indiana, Ohio, and Illinois.
+  - The Klan favored candidates like William McAdoo and Senator Ralston, but strongly opposed Al Smith due to his Catholicism and anti-Prohibition stance.
+  - A contentious debate ensued within the Democratic Party regarding whether to denounce the Klan, reflecting deep divisions.
+  - Eventually, a narrow vote favored the Klan's values, highlighting the party's internal struggles and its alliance with the hate group.
+- Klan's Consolidation and Struggles:
+  - Klan leader Stephenson's power struggle with Evans escalated, leading to Stephenson's expulsion from the national Klan.
+  - Stephenson responded by establishing his own Northern Klan, independent of Atlanta's leadership, maintaining control over his vast membership and financial resources.
+  - Stephenson used his media influence to promote the Klan's ideologies through movies, records, and propaganda.
+  - Stephenson's new Klan continued to exert considerable political pressure and control, influencing electoral outcomes.
+- Changing Political Landscape:
+  - The Klan's influence brought about significant political realignment, particularly in the Black community.
+  - African Americans, who had been traditionally aligned with the Republican Party, started shifting away due to the party's alignment with the Klan.
+  - Black voters in Indiana took a stand against the Klan-supported Republican Party, marking the beginning of a broader shift in political loyalties.
+  - Klan-backed candidates secured positions of power across various states, including governors, senators, and city officials.
+- Stephenson's Downfall:
+  - Despite his political successes, Stephenson's personal actions would lead to his downfall.
+  - Stephenson sexually assaulted Lucille Fuller, a woman he hired as an actress, which marked a turning point.
+  - Fuller's experience and Stephenson's arrogance showcased his hubris and abuse of power.
+  - Stephenson's fall from grace was imminent, but his legacy of hatred and discrimination lingered, shaping the political landscape for years to come.
+
+### Hoosier Hysteria
+- Introduction: Jefferson Davis Monument and Klan's Influence
+  - The year 1925 saw the unveiling of the Jefferson Davis Monument, a grand obelisk commemorating the leader of the Confederacy, despite his defeat and indictment for treason.
+  - The monument symbolized the revisionist narrative of the Civil War, glorifying traitors and slaveholders as heroes.
+  - Gutzon Borglum, a Klan insider and sculptor, worked on a marble carving of Alexander Stephens, the Confederacy's vice president, perpetuating racist ideologies.
+- Klan's Political Control and Legislative Agenda
+  - D.C. Stephenson, the Grand Dragon of the Ku Klux Klan (Klan), wielded immense political power, controlling the Indiana government and enacting the Klan's agenda.
+  - The "Klan Legislature" consisted of members who upheld the Klan's values, with legislation aimed at enforcing morality, restricting certain groups, and promoting white supremacy.
+  - The Klan's legislative goals included eugenics laws, abolishing parochial schools, criminalizing adultery, censoring movies, promoting Bible reading, and controlling road-building contracts.
+- Madge Oberholtzer's Encounter with Stephenson
+  - Madge Oberholtzer, facing a desperate situation, sought the help of D.C. Stephenson to save her job.
+  - Stephenson offered to use his influence to kill a bill threatening her job but demanded favors in return.
+- Madge's Interaction with Stephenson
+  - Madge initially hesitated but eventually met Stephenson on several occasions, with the intention of using his influence and then distancing herself from him.
+  - Despite Stephenson's charm and power, Madge sensed menace and inconsistencies in his behavior, including paranoia, shaky hands, and fondling his gun.
+  - Stephenson's stories were inconsistent, and he frequently started drinking early in the day.
+- Stephenson's Dark Ceremonies and Threats
+  - Stephenson hosted extravagant parties at his mansion and staged ceremonies celebrating his control and victories.
+  - In a bizarre and unsettling ceremony, he burned a newspaper clipping and made a dark toast while naked young women appeared.
+  - Stephenson made unsettling statements to Madge, claiming he wouldn't hurt her even if she asked and asking if she was afraid of him.
+
+### The Last Train to Chicago
+- Summary of the Incident Involving D.C. Stephenson and Madge Oberholtzer
+- Background and Initial Contact:
+  - In 1925, D.C. Stephenson, a powerful figure in the Ku Klux Klan, summoned Madge Oberholtzer, a woman with whom he had a working relationship, to his home in Indiana.
+  - Madge had been involved in educational initiatives and had written a book on health and nutrition, aligned with Stephenson's interests.
+- The Kidnapping:
+  - Stephenson orchestrated a series of insistent phone calls to Madge, coercing her to meet him despite her hesitation.
+  - With the help of his men, Stephenson lured Madge to his mansion under false pretenses.
+  - Madge was forcefully given drinks against her will, leading to her feeling dizzy and nauseated.
+- The Assault and Abduction:
+  - Stephenson and his men physically restrained Madge, subjected her to sexual assault, and injured her severely.
+  - Madge tried to escape but was unsuccessful, and the men forced her to accompany them to Chicago, though they didn't cross state lines to avoid federal jurisdiction.
+- Escape Attempt and Poisoning:
+  - In an attempt to escape the horrific situation, Madge managed to secretly acquire poison and consumed it.
+  - Her suicide attempt was unsuccessful, and she was discovered by Stephenson's men, who rushed to find help to save her life.
+- Return to Indianapolis:
+  - Stephenson, fearing an investigation if Madge died, decided to return to Indianapolis.
+  - Despite her pleas for medical attention, Stephenson subjected Madge to further pain and humiliation during the journey back.
+- Threats and Ultimatum:
+  - Back at Stephenson's compound, he gave Madge an ultimatum: marry him or die.
+  - Madge refused, and Stephenson and his men dragged her to a loft above the garage, where she continued to suffer.
+- Release and Aftermath:
+  - Madge was eventually brought back to her house, visibly battered and bloodied.
+  - The incident caused significant physical and emotional trauma to Madge.
+  - The story highlights the power and impunity Stephenson wielded due to his Klan connections, as well as the extreme abuse of authority and violence he perpetrated.
+- Consequences:
+  - The incident sheds light on the deeply disturbing nature of Stephenson's actions and the level of control he exerted over his victims.
+  - It also underscores the broader social issues of the time, such as racial and religious discrimination, corruption, and the pervasive influence of the Ku Klux Klan.
+- Impact:
+  - Madge's ordeal serves as a tragic example of how powerful individuals could exploit their positions and abuse vulnerable individuals, leaving lasting scars on the victims and the community.
+
+### A Vigil in Irvington
+- Background and Initial Events:
+  - In 1925, a young attorney named Asa Smith receives a distressing call from Matilda Oberholtzer about her missing daughter, Madge.
+  - Madge had been last seen with D. C. Stephenson, a powerful figure linked to the Ku Klux Klan (Klan) and Indiana politics.
+  - Smith had a personal aversion to the Klan due to its hypocrisy and secrecy, stemming from his own family's history and his war experiences.
+- Madge's Disappearance and Torture:
+  - Matilda tells Smith about Madge's mysterious disappearance, four calls from Stephenson, and a strange man taking Madge away.
+  - Madge's mother suspects something sinister and Smith, along with Ermina Moore, seeks help from a private detective.
+  - Madge is found in a deteriorated state, with severe injuries, suggesting she had been tortured.
+- Madge's Statement and Stephenson's Influence:
+  - Madge provides a detailed account of her ordeal, describing being assaulted by Stephenson and suffering brutal injuries.
+  - Stephenson's power within the Klan and the political sphere raises concerns about seeking justice.
+  - The idea of a "dying declaration" is suggested to use Madge's statement as evidence against Stephenson.
+- Legal Action and Stephenson's Arrest:
+  - Asa Smith presents Madge's statement to Marion County prosecutor Will Remy, revealing Stephenson's crimes.
+  - Remy faces resistance from the police, many of whom are Klan members, when attempting to arrest Stephenson.
+  - Stephenson is eventually arrested on multiple felony charges related to Madge's assault and kidnapping.
+- Stephenson's Response and Indictment:
+  - Stephenson dismisses the charges as a "frame-up" and claims innocence.
+  - He is indicted, along with his associates Gentry and Klinck, on five felony charges.
+  - Stephenson posts bail and remains confident, dressing impeccably and denying the allegations.
+
+### The Witness
+- The Tragic Story of Madge Oberholtzer and the Klan's Influence in 1920s Indianapolis
+- Madge Oberholtzer's Struggle for Life and Love:
+  - In 1925, Madge Oberholtzer's life took a tragic turn as her health deteriorated and her fate hung in the balance.
+  - Despite medical efforts, her kidneys failed, and her condition worsened due to the effects of poison she had ingested.
+  - Despite her family's desperate attempts, Madge's life slipped away, leaving behind a heartbroken community.
+- Klan's Growing Influence and Stephenson's Arrest:
+  - D.C. Stephenson, a prominent Klansman, was arrested and charged with abducting and assaulting Madge.
+  - The arrest stirred public attention, revealing the extent of Klan's power and dominance in Indianapolis.
+  - Stephenson's arrest prompted questions about the involvement of other Klansmen in the city's political landscape.
+- The Reach of the Klan's Power:
+  - The Klan's influence extended beyond the streets, infiltrating political circles and even local elections.
+  - Klansmen sought control over municipal government, aiming to enforce segregation and discriminatory policies.
+  - Klansmen like Stephenson aligned themselves with political figures, gaining significant support in city council races.
+- Madge's Death Sparks Outrage and a Shift in Perspective:
+  - Madge's death prompted widespread outrage and protests, with women demanding justice for her.
+  - Despite attempts to tarnish Madge's reputation, the community rallied behind her memory and condemned the Klan's actions.
+  - Women's voices grew stronger in opposition to the Klan, challenging its dominance and power over the city.
+- Stephenson's Legal Battle and Klan's Decline:
+  - D.C. Stephenson faced legal proceedings for his involvement in Madge's case, with the prosecutor building a strong case against him.
+  - The trial revealed shocking stories of Stephenson's misconduct and abuse of power against women.
+  - As the trial unfolded, the public's perception of the Klan shifted, leading to a decline in its influence and public support.
+- Legacy of Hate and the Persistence of Virtue:
+  - The trial showcased the dangers of hate-fueled ideologies like the Klan's, which posed a direct threat to justice and morality.
+  - Despite the Klan's grip on the city's political landscape, the legacy of Madge and the public's rejection of hatred marked a turning point.
+  - The collective response to Madge's tragedy highlighted the power of virtue and unity against divisive forces.
+
+## Reckoning
+
+### Big Man in a Small Town
+- Spring 1925: The Rise of the Klan in Noblesville
+  - Noblesville, a serene town along the White River, known for its Victorian Gothic buildings and old-world charm, was dramatically affected by the rise of the secretive Ku Klux Klan.
+  - Reverend Aubrey H. Moore, a respected local preacher, delivered a sermon praising the Klan, warning against racial mixing, and attacking Jews. This endorsement propelled the Klan's dominance in Noblesville.
+  - The Klan rapidly gained influence, and a massive rally drew 12,000 attendees, more than twice the town's population. Cross burnings and initiation ceremonies were part of the spectacle.
+  - Civil War veteran William Stern was one of the few voices of dissent, asserting that all people were equal in the eyes of God. His opposition and the gradual decline of the Klan in Noblesville hinted at broader changes.
+- The Stephenson Trial Moves to Noblesville
+  - The trial of D. C. Stephenson and his associates was relocated from Indianapolis to Noblesville, drawing the attention of the entire state to this small town.
+  - Stephenson, the Grand Dragon of the Klan, was indicted for murder, rape, and kidnapping. The trial venue change was strategically orchestrated by his defense team.
+  - The trial's move to Noblesville placed it in a community heavily influenced by the Klan, raising concerns about a fair trial and exposing the Klan's pervasive influence in Indiana.
+- Stephenson's Legal Maneuvers and Revelations
+  - Stephenson hired seven lawyers, including Ephraim Inman as lead counsel, and sought to dismiss the indictment and suppress key evidence, especially Madge's dying declaration.
+  - Madge's dying declaration revealed that she had taken the poison much earlier than previously believed and had not informed anyone until several hours later, seemingly undermining the murder charges against Stephenson.
+  - Stephenson's legal team gained access to Madge's statement and rejoiced at the new evidence that could potentially exonerate their client.
+- Madge's Words Shake Indiana and the Klan
+  - Madge's dying declaration included Stephenson's boast that "I am the law in Indiana," highlighting the extent of his power and control over the state.
+  - This revelation sent shockwaves throughout Indiana and beyond, solidifying the notion that the Klan controlled the state's political and legal apparatus.
+  - The impact of Madge's statement on public perception of the Klan marked a significant turning point, as the public began to see the Klan for what it truly was—a ruthless and corrupt organization.
+- Evans Struggles to Contain the Fallout
+  - Imperial Wizard Hiram Evans attempted to dissociate the Klan from Stephenson and his crimes in order to save the organization's reputation and influence.
+  - Stephenson's indictment and the exposure of his crimes led to bad publicity for the Klan and created tension within the organization.
+  - Evans struggled to regain control and address the negative attention by organizing rallies and promoting issues that aligned with the Klan's agenda.
+- Klan's National Reach and Decline
+  - The Klan continued to expand its influence nationally, with significant political power in Washington, D.C., promoting causes like prohibition, racial segregation, and opposition to the teaching of evolution.
+  - The Scopes Monkey Trial, in which a teacher was fined for teaching evolution, was a focal point for the Klan's anti-evolution stance.
+  - Despite the Klan's outward efforts, signs of its decline were visible, particularly in the decline of Klan support in Muncie, Indiana.
+- The Convergence of Two Americas
+  - In August 1925, the Klan planned a mass rally in Washington, D.C., while D. C. Stephenson's trial was set to begin.
+  - This simultaneous clash of events highlighted the contrasting forces at play—Klan dominance and the legal pursuit of justice.
+  - The Klan's Imperial Wizard, Hiram Evans, was scheduled to speak in Noblesville, underscoring the ongoing influence of the Klan even amid mounting challenges.
+
+### One Nation Under a Shroud
+- Introduction: Ku Klux Klan Parade in 1925
+  - In the summer of 1925, the Ku Klux Klan orchestrated a massive parade down Pennsylvania Avenue in Washington, D.C.
+  - The parade showcased the Klan's presence and power, with thousands of participants marching in robes and masks, cheered by a large crowd of spectators.
+  - The parade was widely covered by the press, both praising and criticizing the event, highlighting the Klan's influence and its divisive ideologies.
+- Marching Unveiled: Klan's Bold Display
+  - Around 50,000 Klan members, mostly from Northern states, participated in the parade, defying expectations.
+  - The parade stretched from the Capitol to the Treasury Building, featuring white-robed marchers forming letters and symbols, with spectators ten deep along the route.
+  - The march demonstrated the Klan's confidence, and even the police presence didn't deter their bold display of power.
+- Messages of Power and Division: Klan's Dual Narrative
+  - The parade aimed to impress government and citizens, presenting a positive image, but also distributing leaflets spreading divisive ideologies.
+  - Thousands of leaflets warned of perceived threats, attributing control of various industries to specific groups like Jews, Greeks, Italians, and Irish Catholics.
+  - While seeking mainstream acceptance, the Klan continued to spread discriminatory narratives through its propaganda.
+- Coolidge's Silence: Political Inaction and Klan Influence
+  - President Coolidge's lack of response to the parade showcased his reluctance to take a stand against the Klan.
+  - Coolidge's silence stood in contrast to historical efforts by Ulysses Grant to suppress the Klan, leaving the organization unchecked.
+  - The President's non-committal attitude highlighted the Klan's influence and political sway during that period.
+- Weather's Twist: Rain Dampens Parade's End
+  - Despite the Klan's efforts, rain interrupted the parade's finale, with heavy downpours dispersing the crowd and quenching the planned grandeur.
+  - The sudden rain marked an unexpected end to the parade, causing disappointment for the organizers and participants.
+- Stephenson's Comforts and Influences: In Jail and Beyond
+  - Klan leader Stephenson, accused of murder, enjoyed privileges in jail, receiving gifts, fine liquor, and special treatment.
+  - Stephenson's connections extended beyond his jail cell, with prominent figures supporting him financially, politically, and socially.
+  - He maintained a loyal local following and bolstered his reputation through various means, even amidst his legal troubles.
+- Klan's Community and Ideological Resilience: Noblesville
+  - The local community in Noblesville remained largely supportive of the Klan, despite the negative publicity surrounding Stephenson's trial.
+  - The Noblesville Ledger defended the Klan, asserting it stood for preserving white supremacy and the purity of the white race.
+  - Imperial Wizard Hiram Evans addressed a Chautauqua gathering, championing Klan achievements and ideals, asserting the organization's importance for America's survival.
+- Shifts and Continuations: Legal Developments
+  - The trial saw significant changes, including the resignation of Judge Fred Hines and the announcement that the trial would not be dismissed.
+  - A new judge, William Sparks, would preside over the trial, with the proceedings resuming in October.
+  - Stephenson's trial for murder faced legal obstacles and shifts, revealing the complexity of the case and the Klan's enduring influence.
+
+### To Slay a Dragon
+- Introduction and Trial Preparation
+  - The autumn of 1925 marked a critical period for prosecutor Will Remy, who was facing a daunting trial against D. C. Stephenson.
+  - Remy's appearance was deteriorating due to stress and threats to his life.
+  - Despite his youth, Remy was a war veteran who sought to convict Stephenson, a powerful figure in the Klan, and break the influence of the Ku Klux Klan in Indiana.
+  - Remy's larger goal was to separate Stephenson from the Klan and destroy the Klan's power.
+- Jury Selection and Background
+  - The jury selection process began with challenges, only white men were considered, and Remy questioned them about Klan affiliation indirectly.
+  - Twelve middle-aged white men were selected as jurors, mostly farmers with ties to the Klan.
+- Opening Statements and Strategies
+  - The trial commenced with opening statements.
+  - Prosecutor Remy aimed to prove Stephenson's guilt by emphasizing the dying declaration and physical evidence of assault on Madge Oberholtzer.
+  - Defense attorney Inman chose not to give an opening statement, focusing on later strategies.
+- Prosecution's Case
+  - Matilda Oberholtzer, Madge's mother, testified about her daughter's abduction and condition.
+  - Dr. Kingsbury detailed Madge's account of the assault, wounds, and poisoning with bichloride of mercury.
+  - Family attorney Asa Smith's testimony regarding the dying declaration was challenged by the defense, insinuating forgery.
+- Defense's Strategy and Cross-Examination
+  - Defense attorney Inman questioned Smith's credibility and motives.
+  - The defense aimed to create doubt about Madge's relationship with Stephenson and the authenticity of her statement.
+  - Inman implied that the Oberholtzer family sought money from Stephenson.
+- Judge's Ruling and Upcoming Testimony
+  - The judge ruled to admit the dying declaration with certain exceptions.
+  - The defense sought to portray Madge's connection to Stephenson as romantic, but that part of the statement was excluded.
+  - Remy prepared to present Madge's words as a powerful testimony against Stephenson and the Klan.
+
+### She Said
+- Crucial Testimony and Klan's Political Activities
+  - In November 1925, the pivotal moment arrived in court as Prosecutor Remy presented Madge Oberholtzer's dying declaration to the jury.
+  - The courtroom was tense as Remy recounted Madge's horrifying account of the assault and events leading to it.
+  - The same day, the Klan held a get-out-the-vote rally in Indianapolis, coinciding with the trial and election season.
+  - The trial focused on D. C. Stephenson, a prominent Klan figure, and his alleged crimes.
+- Madge Oberholtzer's Testimony
+  - Remy read Madge's statement, meticulously detailing her ordeal at Stephenson's hands.
+  - The courtroom was captivated by Madge's words, describing her initial encounter with Stephenson, his manipulation, and the terror she endured.
+  - The narrative included her abduction, forced drinks, kidnapping, and poisoning with bichloride of mercury.
+  - Madge's suffering and desperation were palpable as she recounted being confined, poisoned, and subjected to Stephenson's cruelty.
+  - Despite her dire situation, she attempted suicide to prevent disgrace for her mother.
+- Prosecution's Presentation and Evidence
+  - Remy gained confidence while presenting Madge's words, evoking the emotional weight of her testimony.
+  - Witnesses corroborated Madge's story, including hotel employees who testified about the bloodied room and overturned furniture.
+  - The defense sought to undermine Madge's credibility and create doubt, focusing on details like how she addressed Stephenson.
+- Touching Indictment and Ongoing Klan Activities
+  - The climax of Madge's testimony came when Levi Thomas, a Black Pullman porter, identified Stephenson by touching him in court.
+  - Thomas's symbolic gesture triggered applause and indicated public sentiment against Stephenson.
+  - After the trial proceedings, the Klan held a rally with thousands in attendance, displaying its political influence.
+  - Stephenson tried to manipulate the election by offering money to a mayoral candidate to withdraw from the race, but his attempt failed.
+- Klan's Religious Influence and Future Implications
+  - The following day, Klansmen attended Sunday services, where Klan preacher Reverend Aubrey Moore delivered a sermon filled with divisive rhetoric.
+  - Moore's message promoted racial segregation and anti-Semitic sentiments, highlighting the Klan's religious and political influence.
+  - The trial and its revelations had significant implications for the Klan's image and political power.
+
+### Inside and Outside
+- Political Manipulation and Bribery
+  - In November 1925, the text highlights the Old Man's belief in using "cold, hard cash" to secure election victories, similar to his approach in the mayor's race.
+  - Stephenson had spent a considerable amount of money to help Jackson become the governor.
+  - Stephenson continued to wield money's power during his trial, bribing Sheriff Gooding for special treatment and unrestricted access to visitors.
+  - Not only did he manage to pay off reporters for favorable coverage, but he also spread lies and rumors about Madge Oberholtzer to tarnish her reputation.
+  - Stephenson fabricated stories about Madge's personal life, hoping to undermine her credibility.
+- Paid Witnesses and Manipulated Testimonies
+  - Stephenson enlisted Klan enforcers, including Carl Losey, to gather witnesses to testify against Madge.
+  - Dozens of people were coerced into providing false accounts to discredit Madge's character.
+  - Stephenson's aim was to portray Madge as a promiscuous woman acting against a "great man."
+  - Witnesses were manipulated and given stories to tell under oath, furthering Stephenson's agenda.
+- Juror Manipulation and Public Sentiment
+  - There were suspicions that Stephenson aimed to bribe some of the jurors to secure a favorable outcome.
+  - Niblack and Feightner investigated leads on potential juror bribery.
+  - The jurors were mostly farmers who could be financially vulnerable, making them potential targets for manipulation.
+  - Jurors' reactions during the trial were mixed, showing both empathy for Madge's story and skepticism fueled by Inman's cross-examinations.
+- Klan's Decline and Stephenson's Concerns
+  - The Klan's reputation continued to deteriorate, with revelations damaging its image.
+  - Klan members questioned the organization's values and influence, leading to growing skepticism and criticism.
+  - Evans attempted to revamp the Klan's image but faced negative coverage from various sources.
+  - Stephenson's main concern was saving himself, and he sought support from his loyal circle to protect his secrets.
+- Legal Challenges and Stephenson's Financial Struggles
+  - Remy's medical experts testified about Madge's cause of death, highlighting the role of Stephenson's brutality in her demise.
+  - Stephenson's legal fees exceeded his resources, and he faced financial challenges due to an insurance claim denial.
+  - Stephenson's financial crisis strained his relationship with his loyalists, as he needed more funds to cover expenses.
+  - Stephenson's frustration was evident when he rejected $17,000 in cash from Asher, expecting a larger amount.
+- Election Results and Klan's Political Victory
+  - The mayoral race resulted in a Ku Klux Klan victory, with Duvall winning by a significant margin.
+  - The Klan-backed slate achieved full success, promising to enforce segregation and Klan principles across various aspects of city governance.
+  - Despite this political win, Stephenson's legal situation remained uncertain.
+
+### He Said
+- Defense Strategy and Witness Testimonies:
+  - The defense opened its case with medical experts to challenge the state's evidence.
+  - Their goal was to show that Madge alone was responsible for her death and that Stephenson couldn't have saved her.
+  - Witnesses testified that milk could counteract the effects of poison, and Stephenson had tried to help Madge by giving her milk.
+  - The defense introduced stories suggesting Madge's alleged promiscuity and involvement with other men.
+  - Cora Householder, a witness, claimed her husband had an affair with Madge.
+  - The defense aimed to portray Madge as someone different from the innocent victim presented by the prosecution.
+- Counterarguments and Unreliable Witnesses:
+  - The prosecutor cross-examined witnesses, highlighting inconsistencies and unreliable testimonies.
+  - The defense's attempt to paint Madge as a "flapper" and show her relationship with Stephenson faced skepticism.
+  - Some witnesses were members of the Ku Klux Klan and had vested interests in supporting Stephenson's side.
+  - The prosecutor tried to counter the defense's narrative, questioning the credibility and motivations of witnesses.
+- Political Influence and Manipulation:
+  - The defense highlighted the Klan's political influence, including control over the legislature.
+  - Witness testimonies indicated Stephenson's power in manipulating the legislative process.
+  - The prosecutor attempted to expose the extent of the Klan's political reach and control.
+- Closing of Defense and Unanswered Questions:
+  - The defense presented its witnesses to undermine the prosecution's case.
+  - Stephenson's teenage chauffeur, Shorty DeFriese, who could have been a crucial witness, was missing.
+  - Remy wanted to present additional character witnesses for Madge, but the judge limited their number.
+  - The defense's portrayal of Madge as less virtuous conflicted with the prosecution's narrative.
+- Stephenson's Public Image:
+  - Stephenson seemed confident during the trial, often eating mints and displaying his diamond.
+  - His supporters, including Klansmen, attended the trial to show solidarity.
+  - Stephenson's expectation of political support and possible pardon was evident through his conversations and actions.
+
+### The Closers
+- Trial's Dramatic Setting and Significance
+  - The trial of the century unfolded in Indiana amidst a storm, with closing arguments commencing on November 12, 1925.
+  - The courtroom was packed, and even spectators stood in the back, eager to witness history.
+  - The case was driven by the passionate young prosecutor Remy, fueled by his determination to expose the control of the Ku Klux Klan's Grand Dragon, Stephenson, over the state.
+  - Remy aimed to counter Inman's eloquence by using Stephenson's own words against him, particularly his boast, "I am the law."
+- Prosecution's Closing Argument
+  - Remy, a methodical prosecutor, meticulously laid out his case over three hours.
+  - He confronted the defense's lack of opening statements and highlighted the testimony of Stephenson's associates.
+  - Remy emphasized Stephenson's declaration, "I am the law," aiming to show his immense control and influence.
+  - The prosecutor challenged the jury's regional pride, urging them to assert their judgment independent of Stephenson's power.
+  - He invoked Stephenson's arrogance and indifference during Madge's suffering and questioned his previous "worse messes."
+  - Remy highlighted Stephenson's close associates, linking them to his authority.
+  - The prosecutor underscored the gravity of Stephenson's actions that led to Madge's demise, culminating in a powerful call for justice and the law's triumph.
+- Defense's Counterarguments
+  - The defense began with Ira Holmes, known for his support of racial segregation and Klan-related cases.
+  - Holmes swiftly dismissed Stephenson's guilt, arguing that aiding suicide wasn't a crime in Indiana.
+  - He cast doubts on Madge's dying declaration, suggesting it was influenced by others' motives for financial gain.
+  - The defense questioned Madge's actions, from her visit to Stephenson's house to her supposed silence during critical moments.
+  - Charles Cox, a former chief justice, passionately likened Stephenson's reign to medieval tyranny, emphasizing the need to restore justice.
+  - Floyd Christian, another defense attorney, played on sympathy and compared Stephenson to historical martyrs, portraying him as a victim of circumstances.
+  - The defense attempted to shift responsibility away from Stephenson, suggesting Madge's actions and decisions contributed to her fate.
+- Inman's Persuasive Appeal
+  - Inman, the defense's final speaker, presented a sympathetic persona and downplayed the charges.
+  - He implied that the train incident was consensual, suggesting Madge bore some responsibility.
+  - Inman made a last-ditch effort to paint Stephenson as a misunderstood figure, appealing to the sense of belonging to the Klan community.
+  - He spoke of the "best people" in the country supporting Stephenson, implying their support should influence the jury's decision.
+
+### Verdict
+- Verdict and Deliberation:
+  - The trial's closing arguments took place amidst a storm, attracting a packed courtroom eager for a verdict.
+  - Prosecutor Remy sought to undermine the Grand Dragon's control and eloquence, emphasizing his words: "I am the law."
+  - Defense attorney Holmes countered, discrediting Madge's statements and asserting Stephenson's innocence.
+- Jury's Decision:
+  - Deliberation began with lunch, and the jury engaged in heated discussions about the verdict.
+  - Key question: Was it murder or suicide? If homicide, then what degree?
+  - Finally, a guilty verdict of second-degree murder for Stephenson was reached, with not guilty verdicts for Klinck and Gentry.
+  - Stephenson remained stoic, his arrogance showing defiance even in defeat.
+  - Stephenson's legal team planned to appeal immediately, while the Earls faced arson charges.
+- Stephenson's Reaction and Sentencing:
+  - Stephenson's reaction to the verdict was mixed—surprised by guilt but still confident.
+  - Judge Sparks sentenced Stephenson to life in prison for second-degree murder.
+  - Stephenson proclaimed his innocence, dismissed the court's proceedings, and verbally attacked those who opposed him.
+- Imprisonment and Transformation:
+  - Days later, Stephenson was transferred to Michigan City's state penitentiary, stripped of his belongings, and given a new identity: convict No. 11148.
+  - Stephenson's self-invention persisted even in incarceration, as he lied about his age and listed his profession as "lawyer."
+  - A measuring of his head for identification marked the end of his grand persona.
+- Significance and Reflection:
+  - Stephenson's conviction marked a victory for Madge Oberholtzer's voice and the state's triumph over the Klan's influence.
+  - The jury's verdict revealed Stephenson's evil deeds and shattered his aura of power and invincibility.
+  - The downfall of the Grand Dragon symbolized the potential demise of the Klan's grip on Middle America.
+
+### Dirt From the Dragon
+- Introduction
+  - D.C. Stephenson's rise and fall within the Ku Klux Klan (KKK) during the 1920s.
+  - His conviction for the murder of Madge Oberholtzer, the events that led to it, and its aftermath.
+- Stephenson's Imprisonment and Influence
+  - Stephenson's time in prison marked by complaints about living conditions and his grip on secrets.
+  - Despite incarceration, Stephenson retained control over individuals outside the penitentiary through blackmail and manipulation.
+- Decline of the Klan's Power
+  - The downfall of the KKK in Indiana due to revelations of corruption, violence, and atrocities.
+  - Scandals involving prominent Klansmen and their crimes eroded the Klan's credibility and support.
+- Legal Battles and Revelations
+  - Legal actions against the Klan and its leaders exposed corruption and power abuse.
+  - Journalists like George Dale and Thomas Adams played crucial roles in unmasking the Klan's hold on the state's government and judicial system.
+- Impact on Society and Politics
+  - Public and political backlash against the Klan's influence and atrocities.
+  - Political officials indicted, tried, and convicted, signaling the end of the Klan's control over the state.
+- Lingering Effects and Final Days
+  - Lingering racial tensions and hate manifest in acts like the lynching of Black teenagers.
+  - The brutal lynching in Marion, Indiana serves as a gruesome reminder of the depth of hatred and prejudice.
+
+## Epilogue
+- Unveiling the Truth and Remembering the Past
+  - In 1998, a plaque commemorating the D.C. Stephenson trial was placed at the entrance of a prominent courtroom in Indiana.
+  - Discovery of a steamer trunk containing Klan paraphernalia sparked shock and embarrassment, prompting debates on preserving or erasing this history.
+- Shift of Focus and Historical Preservation
+  - Klan materials found in the barn were turned over to the historical society, though their existence posed a moral dilemma.
+  - The town decided to shift focus towards commemorating the trial and the decline of Klan influence in the state.
+- The Legacy of D.C. Stephenson Trial
+  - The trial of D.C. Stephenson marked a pivotal moment, leading to the rapid decline of Klan power in Indiana.
+  - A jury of Hamilton County citizens convicted Stephenson for the murder of Madge Oberholtzer, the trial's outcome serving as a turning point.
+- The Courage of Madge Oberholtzer
+  - Madge Oberholtzer's tragic ordeal and her brave stance against Stephenson played a crucial role in exposing the dark underbelly of the Klan's influence.
+  - Her actions revealed how a charismatic predator like Stephenson could manipulate and control a citizen-run government.
+- Impact on Political Landscape and Social Progress
+  - Stephenson's conviction and the decline of the Klan marked a significant turning point in Indiana's history.
+  - Post-Stephenson era saw important advancements, such as the integration of the military, the end of "separate but equal," and the Civil Rights Act.
+- Long-Term Effects and Lingering Hatred
+  - Despite the Klan's collapse, the echoes of its ideology persisted in American society.
+  - The Klan's influence extended beyond its existence, impacting legislation like the 1924 Immigration Act and contributing to pervasive hatred.
+- Final Days of Key Figures and Klan's Demise
+  - Stephenson's life after prison was marked by failed attempts to reintegrate into society, followed by a descent into obscurity and death.
+  - Klan's decline continued after Stephenson's time, as leaders like Hiram Evans faced legal troubles and internal disintegration.
+- Heroes and Advocates for Change
+  - Individuals like George Dale, Clarence Dearth, Lucian Meriwether, and James Cameron played roles in exposing and combating Klan corruption.
+  - Their efforts, alongside the decline of the Klan, contributed to a changing political landscape and social progress.
+- Continued Impact and Progress
+  - Modern legislation and changes, such as the federal anti-lynching bill, reflect ongoing efforts to address historical injustices.
+  - Figures like James Weldon Johnson and Will Remy left lasting legacies in civil rights advocacy and legal reform.
