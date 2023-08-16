@@ -1,0 +1,297 @@
+
+# Saving Time
+Author: Jenny Odell
+
+## Introduction: A Message for the Meantime
+- Commodification of Time, Nature, and Labor:
+  - Rock, sugar, and labor-time are commodities with both standardized and linked attributes.
+  - Standardization and divisibility are common, but they're also linked to human and ecological exhaustion.
+  - Entrainment occurs when adapting one's temporal rhythms to external demands, reflecting hierarchies.
+- Experience Economy and Leisure:
+  - Travel influencers, like Morris, are key in the experience economy, turning nature into consumable backdrops.
+  - Instagram transforms global sites into experiences, blurring lines between leisure and consumerism.
+  - Nature becomes a backdrop devoid of agency in the experience economy, contrasting with living phenomena.
+- The Ijen Volcano and Nature's Agency:
+  - The Ijen volcano's history and formation are described, emphasizing its dynamic, living nature.
+  - Nature is portrayed as an acting subject rather than a passive object.
+  - The lava's movement and actions challenge human-centered perceptions of time and existence.
+- Temporal Perception and Renewal:
+  - Observations of natural phenomena during the Covid-19 pandemic highlight shifts in perception.
+  - Sunrises as fleeting moments symbolize renewal, creation, and time passing.
+  - Watching sunrises bridges the gap between time and space, offering a sense of renewal and connection.
+- Multiple Senses of Time and Change:
+  - Different senses of time discussed in the book: chronos, kairos, agency, and structural limits.
+  - Bias and change are influenced by both individuals and institutions in a reciprocal relationship.
+  - Cultural shifts, such as mutual aid, challenge dominant ideas of value, responsibility, and kinship.
+- Navigating Dissonance and Structural Change:
+  - The book offers conceptual tools for rethinking personal time's connection to the larger temporal landscape.
+  - The dissonance between personal and abstract time is explored rather than despaired over.
+  - Structural changes are necessary for reshaping time's valuation and understanding.
+- Towards Emancipatory Culture Shifts:
+  - Change requires a shift in cultural narratives and paradigms.
+  - Culture shift involves accessible models of happiness, purpose, and connection, challenging the American Dream.
+  - Moments of cultural upwelling, as seen in uprisings, challenge dominant perspectives.
+- Confronting Nihilism and Shaping the Future:
+  - The book is a response to nihilism, aiming to provoke thought and spark change.
+  - Moments like the pandemic and uprisings create opportunities for cultural shift and reevaluation.
+  - Time is a site of potential and unpredictability, calling for a changed perception to initiate action.
+- The Potential of Time's Irreducibility:
+  - A meditation on time reveals its inventive and irreducible nature.
+  - Rethinking time could lead to a changed perspective on life and the planet's potential.
+  - The idea of "saving" time also implies time saving us, fostering hope for the future.
+- Future Possibilities and Conversations:
+  - The book's ideas are part of a larger conversation involving activists, policy writers, and thinkers.
+  - It emphasizes the importance of collaboration in shifting perspectives on time.
+  - The goal is to contribute to a future where time's nature is understood and leveraged for positive change.
+
+## Whose Time, Whose Money?
+- Observations on Fungible Time and Labor:
+  - The concept of time as money is deeply ingrained in industrial society.
+  - American clocks in the 19th century held an ambiguous position, symbolizing progress and cyclical nature.
+  - Mechanical efficiency isn't solely the domain of capitalists; humans have designed labor-saving systems for centuries.
+- Taylorism and Mechanical Efficiency:
+  - Taylorism, as outlined by Frederick Winslow Taylor, focused on breaking down tasks for maximum efficiency.
+  - Scientific management sought to streamline labor processes, leading to intense time measurements and motion studies.
+  - Taylorism aimed to concentrate knowledge in employers' hands, de-skilling labor and polarizing different types of time.
+- Division of Labor and Time Control:
+  - The divide between timed and timer is significant, reflecting the power dynamics between management and workers.
+  - Standard time and control have been historically associated, impacting various labor divisions.
+  - Capitalism's division of labor has run along gendered and racialized lines, with waged and unwaged work distinctions.
+- Content Moderation and Algorithmic Work:
+  - Content moderation is a form of cyborg work, requiring both machine-like processing and human empathy.
+  - Algorithmic systems often lack the nuance to distinguish complex human behaviors and intentions.
+  - Workers in algorithmic roles are subjected to gamification and efficiency metrics, intensifying their labor.
+- The Shift Toward Data and Automation:
+  - Work is shifting towards data-driven and automated roles, leading to the reconfiguration of labor content, conditions, and geography.
+  - The concept of time as fungible labor is upheld by the digital workplace, where productivity takes precedence.
+  - The tragedy of fungible labor time involves coercion, exploitation, and the reduction of people to machines.
+- Expanding Perspectives on Labor and Time:
+  - Overemphasis on fungible time limits understanding of time and labor's complexity.
+  - The industrial view of time as money confines individuals to a view of time as private property.
+  - The division between "Above the API" jobs (automation) and "Below the API" jobs (human execution) is widening.
+- Reflection on Time and Labor:
+  - Social media and modern technology consume time, impacting both personal and professional lives.
+  - The modern work environment and technology resemble a dystopian cycle, where individuals are absorbed into an algorithmic realm.
+
+## Self Timer
+- Burnout and Achievement-Subjects
+  - Burnout is not just about work and economic security; even those who are comfortable experience burnout.
+  - Byung-Chul Han's concept of "achievement-subjects" explains that the drive to maximize production is deeply ingrained.
+  - Achievement-subjects are like self-propelled entrepreneurs who constantly chase productivity and achievement.
+  - Excessive work and performance lead to "auto-exploitation" and contribute to burnout.
+- The Cycle of Comparison and Competition
+  - The societal focus on achievement and success leads to constant comparison and competition.
+  - Cultural notions of the good life are influenced by the capitalist "logic of increase."
+  - Social media amplifies the cycle of upward social comparison, leading to dissatisfaction and burnout.
+  - The pursuit of "better" and "more" becomes relentless due to societal pressure and comparison.
+- Historical Roots of Productivity Ideals
+  - Historical figures like Francis Galton and his eugenicist ideas contribute to the societal obsession with efficiency and achievement.
+  - Galton's view of intelligence linked to speed and adaptability influenced perceptions of progress and worth.
+  - Grading systems, like A-F grades, were standardized to serve industrial efficiency and social control.
+  - The connection between work measurement and eugenics shows how productivity ideals are deeply rooted.
+- The Cult of Busyness and Its Impact
+  - The cult of busyness emphasizes constant productivity and achievement.
+  - The concept of "busy" becomes synonymous with "good" in a culture that values ceaseless striving.
+  - Differentiating between self-timers (privileged) and the timed (less privileged) is important.
+  - Solidarity should be fostered among those who recognize the negative impact of this culture.
+- The "Lie-Flat" Movement and Privilege
+  - The "lie-flat" movement challenges the constant pressure to be productive and successful.
+  - Privilege influences who can afford to "lie flat" and who cannot.
+  - An understanding of shared consequences and causes can lead to solidarity and positive change.
+  - Fortifying "walled gardens" of authenticity can either deepen the status quo or create genuine change.
+- Rethinking Expansion and Leisure
+  - Rethinking the culture of expansion challenges the notion that more is always better.
+  - Choosing to live a life with less ambition doesn't equate to settling for less meaning.
+  - The imperative to "live your best life" may actually mean "live the best life" in terms of high achievement.
+  - Finding humor and dignity in rejecting the culture of endless expansion can lead to healthier perspectives.
+
+## Can There Be Leisure?
+- Leisure and Perception
+  - The concept of leisure has evolved over time, with ambivalence and complexity.
+  - Leisure as a distinct category of time arises in contrast to work time.
+  - Historical perspectives include pragmatists and visionaries like Aristotle and Pieper.
+  - Leisure implies a vertical crack in the horizontal scale of work and not-work.
+  - A state of leisured mind allows for a pause to question the bounds of work.
+- Nature and Leisure
+  - Experiences of leisure intersect with natural environments, often affected by human presence.
+  - Observation of nature reveals diverse signs of habitation, shelter, and coexistence.
+  - Leisure experiences in natural settings can evoke a sense of interconnectedness.
+  - Elements like birdsong and cessation of wind provide moments of recognition and awe.
+- Leisure and Inequity
+  - Leisure has been entangled with social hierarchies, colonialism, and power dynamics.
+  - Aristotle's view of leisure rested on a social hierarchy, favoring the leisured class.
+  - Historical perspectives on leisure often underscored class divisions and cultural norms.
+  - The availability and nature of leisure have varied for different social groups.
+  - Blue-collar workers desired liberation from wage labor and control over their time.
+- The Political Dimension of Leisure
+  - Leisure can be politically subversive and imaginative, challenging existing norms.
+  - Communal care, rest, and leisure can challenge capitalist and colonial systems.
+  - The Nap Ministry and other initiatives explore rest as a form of resistance.
+  - Leisure spaces like churches, kitchens, and activist hubs have political implications.
+  - Experiences of leisure can foster a deeper sense of humanity and connection.
+- Personal Experiences and Reflections
+  - Personal anecdotes illustrate the complexity and depth of leisure experiences.
+  - The interplay between personal experiences and broader societal issues is highlighted.
+  - Leisure experiences can provide a break from the oppressive weight of daily life.
+  - Moments of gratitude, self-reflection, and awe can emerge from leisure experiences.
+  - Leisure serves as a pause to question and resist the confines of societal structures.
+
+## Putting Time Back in Its Place
+- Nature's Temporal Interplay: A Different Perception of Time and Agency
+  - Kimmerer's Experience with Mosses and Ownership
+    - Estate designers extract moss-covered rocks for garden decoration using explosives.
+    - Owner's behavior raises questions about ownership and value of living entities.
+    - Kimmerer emphasizes innate sovereignty of objects and ownership's impact.
+  - Indigenous and Western Perspectives on Agency
+    - Barbara Ehrenreich's perspective on agency rooted in cellular biology.
+    - Nahua children's view of living beings influenced by culture and material.
+    - Rocks challenge Western mindset about agency and life.
+    - Tinker's belief that rocks have consciousness questions anthropocentrism.
+  - Shifting Views of Respect, Agency, and Experience
+    - Galton's view of humans as conscious machines and determinism.
+    - Bergson's concept of experience and creative evolution.
+    - Yunkaporta's concept of "Turnaround" events and mini-creation events.
+    - Indigenous thinkers embrace contingency and humbling aspects of the world.
+- Reframing Time and Experience: Unfreezing and Emulating Nature
+  - Time's Frozen Perception and Négritude Movement
+    - Léopold Sédar Senghor critiques European "look that freezes."
+    - Bergson's intuition and duration resonate with Négritude's critique.
+    - Senghor's notion of freezing contrasts with Bergson's philosophy.
+  - Memory, Place, and Stereotypical Characters
+    - Memories associated with physical objects, landscapes, and places.
+    - Keith H. Basso's study on linking stories with physical environment.
+    - Rhimes emphasizes characters' hopes, desires, and attitudes toward time.
+  - Winged Migration and Empathy for Nonhuman Animals
+    - Winged Migration documentary's attempt to capture birds' experiences.
+    - Similarity principle applies to human outgroups and animal subsets.
+    - Film transforms birds from objects to characters, fostering empathy.
+- Transcending Conventional Time: Embracing Continuity and Process
+  - Nature's Enduring Timelines and Indigenous Wisdom
+    - Loons' millions of years on Earth inspire imagining human endurance.
+    - Indigenous understanding of time and adaptation challenges Western view.
+    - Unfolding creation events and metaphors in cultural practice.
+  - Time's Interplay with Experience and Ethics
+    - Mel Baggs' "In My Language" video illustrates interaction and experience.
+    - Ana's experience raising digients and the value of time and experience.
+    - Recognition of co-creation events and their non-linear nature.
+  - Embracing Continuity and Reclaiming Perspective
+    - Indigenous cultures' appreciation for unfolding, enduring processes.
+    - Nurturing co-creation and recognizing non-linearity in human experience.
+    - Relearning to hear the world and embrace its agency in time.
+
+## A Change of Subject
+- Reclaiming the Past and Shifting Perspectives:
+  - Recovering past and present contingencies is one way to approach understanding our world.
+  - Shifting the temporal center of gravity involves learning from those whose worlds have ended due to industrialization.
+  - The example of Cancer Alley in Louisiana illustrates the concept of slow violence, where harms are gradual and lack public spectacle.
+  - Spectacle and perception differ between those who view events from a distance and those who experience them firsthand.
+- Localized Climate Impact:
+  - Climate change has severe localized effects, as seen in places like the Philippines with increased storm activity and rising sea levels.
+  - Climate effects can vary based on perspective, with people who have experienced generations of environmental crisis providing a different viewpoint.
+- Colonization and Environmental Destruction:
+  - The Anthropocene concept often ignores the extinctions and environmental destruction already suffered by Black and indigenous communities.
+  - Communities subjected to toxic pollution hold testimonies and experiences that testify to gradual environmental destruction.
+  - Some communities have always been in jeopardy due to narratives that commodify and destroy their environments.
+- Questioning Narratives and Reckoning with Loss:
+  - Rather than passively accepting narratives, we should question and challenge them.
+  - The future is not just about what is coming, but also about reckoning with past and ongoing loss.
+  - Grief can serve as a form of subjecthood, connecting people and driving them to face the world's challenges together.
+- Subjecthood of Nonhuman Entities and Moral Dimensions:
+  - Denying the subjecthood of nonhuman entities perpetuates colonial thinking.
+  - The climate crisis has moral dimensions intertwined with injustices, akin to past issues like slavery.
+  - Energy companies' perspectives on extraction parallel plantation owners' views on slavery.
+  - Acknowledging the subjecthood of the nonhuman is necessary for addressing the climate crisis effectively.
+- Legal and Indigenous Approaches:
+  - Legal approaches have granted legal personhood to natural entities in various countries.
+  - Indigenous communities are increasingly involved in climate action, including controlled burns and legal personhood for rivers.
+  - Indigenous viewpoints and practices offer insights into sustainable relationships with the environment.
+- Shifting Paradigms and Film Reference:
+  - Shifting paradigms are necessary for addressing the climate crisis beyond a technocratic perspective.
+  - Embracing multiple worldviews and considering the perspectives of nonhuman entities enriches our understanding.
+  - A film reference underscores the importance of acknowledging and facing the challenges posed by climate change.
+
+## Uncommon Times
+- Language as Power and Liberation:
+  - Language is a powerful tool that can be used both to harm and to liberate.
+  - Different groups utilize linguistic innovation, such as dog whistles and branding, to convey hidden meanings and manipulate perceptions.
+  - James C. Scott's concept of "public transcript" and "private transcript" highlights the contrast between official expressions and hidden forms of resistance.
+- Alternative Temporalities:
+  - Different cultures and communities have their own concepts of time that challenge the dominant Western perspective.
+  - "Filipino time," initially perceived negatively as lateness, can be reclaimed to resist Western notions of time.
+  - "Colored people time" and "Indian time" similarly challenge Western constructs of time and represent forms of resistance against its imposition.
+- Resistance and Reappropriation:
+  - Linguistic tools, like "colored people time," provide marginalized groups with agency to navigate their own temporality.
+  - "Indian time" emerged as a response to the imposition of measured time by colonial forces.
+  - Vernelda Grant from the San Carlos Apache Tribe highlights how "Indian time" reflects a more natural relationship with time.
+- Labor and Socioeconomic Critique:
+  - The concept of "wages for housework" emerged in the 1970s, challenging the undervaluation of unpaid domestic labor.
+  - This movement sought to reframe the value of care and housework and to challenge traditional economic models.
+  - Kathi Weeks and Selma James offered critiques and alternatives to current remuneration systems, advocating for universal basic income and care income respectively.
+- Reimagining Time and Relationships:
+  - Time is often commodified and equated with money, leading to scarcity and pressure.
+  - The idea that "time is beans" challenges the commodification of time and emphasizes the interconnectedness of time among individuals.
+  - Gardening time involves stewarding different rhythms of life and recognizing the diverse experiences of time.
+- Collective Action and Liberation:
+  - The exchange of time can challenge the zero-sum mindset and foster mutual benefit.
+  - Activists and social movements have used linguistic strategies and collective actions to challenge oppressive structures.
+  - Liberation involves rethinking assumptions about time, labor, and value in both individual and collective contexts.
+
+## Life Extension
+- Introduction and Setting
+  - The reflection on a walk through a cemetery, observing the surroundings and nature.
+  - Explores themes of life, time, and mortality.
+  - Considers the view of the bay, reflecting on the narrator's life experiences in that space.
+- Reflection on Self and Time
+  - Discusses biases and perspectives we have towards ourselves and others, influenced by our access to their mental states.
+  - Reflects on the act of journaling and revisiting old journals, seeing the evolution of one's self over time.
+  - Explores the concept of change and the interconnectedness of different life stages, using the "Up" documentary series as an example.
+  - Compares the portrayal of individuals on social media with the depth and complexity of people's lives in reality.
+- Death and Boundaries of Self
+  - Explores the concept of death and the limits of individual existence.
+  - Discusses cultural and religious perspectives on death, where the deceased become part of the earth or other natural elements.
+  - Considers the continuation of the deceased's influence in the lives of those who remember them.
+  - Suggests embracing the notion of life's continuation through others after one's death.
+- Embracing Life and Aliveness
+  - Emphasizes the importance of embracing life fully, appreciating connections and moments of encounter.
+  - Reflects on lucid dreams and the awareness of being alive within them.
+  - Discusses the concept of being "moved" and the ego-dissolving state that comes with it.
+  - Advocates for focusing on the present moment and experiencing life's beauty and agency.
+- Transcending Boundaries and Embracing Ongoing Life
+  - Acknowledges the illusion of the bounded self and the porous nature of identity.
+  - Discusses the ongoing nature of life's impact through relationships and experiences.
+  - Sees death as an embrace of ongoing life, characterized by endless possibility.
+  - Compares the idea of death as an embrace to rain, something to be welcomed when it comes.
+- Observing Nature and Embracing Time
+  - Observes the natural surroundings, such as birds, boulders, and the changing sky.
+  - Reflects on the passage of time as Earth rotates, altering the view and shadows.
+  - Draws parallels between the changing scenery and the inevitability of life's progression.
+
+## Conclusion: Halving Time
+- Introduction and Reflections on the Pandemic Experience:
+  - Author discusses the impact of the pandemic on temporalities worldwide.
+  - Contrasts those who resist returning to "normal" with those who see value in interruptions and disruptions.
+  - Explores the idea that doubt and interruption can lead to growth and agency.
+- Exploring Non-Time and Agency:
+  - Hannah Arendt's concept of "non-time" as a region of agency within historical and biographical time.
+  - Arendt's distinction between deep thought and habitual thinking, and the creation of a public space for freedom.
+  - The value of going "off script" and creating new territories of ideas and actions.
+  - Discomfort and doubt in leaving the familiar behind to embrace agency.
+- Living in the Gap between Past and Future:
+  - The importance of dwelling between the waves of past and future.
+  - The concept of "gap" as a region of potential and agency.
+  - The human condition of existing in the gap, where anything new can happen.
+  - The idea of "having time" as creating a cut in chronological continuity.
+- Writing as a Time Capsule and Connection:
+  - Writing as a transmission of fragments across time and space.
+  - Acknowledging the author's current state of doubt and its potential connection with the reader's state.
+  - Anecdote about encountering an ochre sea star and reflections on interconnectedness.
+- Sea Stars, Time, and Interconnectedness:
+  - The significance of sea stars as keystone species in ecosystems.
+  - Observations of the effects of sea star wasting syndrome on ecosystems.
+  - Discovery of ancient sea star ancestors and their orientation switch.
+  - The impermanence of life and existence, symbolized by the sea star's survival.
+- Tidal Oscillations of Life and Existence:
+  - The symbolic significance of tidal rhythms and their relation to existence.
+  - The author's feeling of rushing along with the water's movement.
+  - Connection between heartbeats and the repetition of existence.
+  - The continuous process of growth, change, and recurrence.

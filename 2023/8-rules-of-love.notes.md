@@ -27,14 +27,14 @@ Author: Jay Shetty
   - The Vanaprastha ashram involves healing and resolving conflicts to protect love.
   - The Sannyasa ashram aims for perfecting love by extending love to everyone and every moment.
 - The Eight Rules for Love:
-  - Learning to love oneself in solitude.
-  - Developing qualities like compassion and empathy.
-  - Recognizing genuine love based on personality, values, and commitment.
-  - Growing together and learning from each other.
-  - Prioritizing and managing personal space within a relationship.
-  - Resolving conflicts to protect the love.
-  - Knowing when to break up and dealing with it.
-  - Striving to love continuously and unconditionally.
+  - *Let yourself be alone*: Learning to love oneself in solitude.
+  - *Don't ignore your karma*: Developing qualities like compassion and empathy.
+  - *Define love before you think it, feel it, or say it*: Recognizing genuine love based on personality, values, and commitment.
+  - *Your partner is your guru*: Growing together and learning from each other.
+  - *Purpose comes first*: Prioritizing and managing personal space within a relationship.
+  - *Win or lose together*: Resolving conflicts to protect the love.
+  - *You don't break in a breakup*: Knowing when to break up and dealing with it.
+  - *Love again and again*: Striving to love continuously and unconditionally.
 - Personal Experience and Imperfections:
   - The author shares a personal story of proposing in an elaborate way, which was less personal for his partner.
   - The idea that love requires navigation through imperfections and learning from them.
