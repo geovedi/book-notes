@@ -964,7 +964,7 @@ Author: Jonathan Rosen
   - His depression becomes palpable during a meeting with his editor and agent.
   - Carrie's father's disapproval due to Michael's unemployment, Judaism, and schizophrenia adds to his struggles.
 - Mixed Emotions and Uncertainty:
-  - The text captures the profound impact of mental illness on relationships, leaving Jane, Michael's editor, feeling devastated and undone.
+  - The profound impact of mental illness on relationships, leaving Jane, Michael's editor, feeling devastated and undone.
   - Tina, Michael's agent, remains optimistic about the book's future.
   - The juxtaposition of personal vulnerability and professional aspirations underscores the challenges Michael faces.
 
@@ -1012,7 +1012,7 @@ Author: Jonathan Rosen
   - Lizzie, Carrie's sister, was in shock and disbelief, unable to comprehend the tragic reality.
   - Friends and family members were haunted by thoughts of what could have been done differently to prevent the tragedy.
 - Personal Connections:
-  - The text explores the personal connections between the characters and how they navigated their emotions and reactions to the events.
+  - The personal connections between the characters and how they navigated their emotions and reactions to the events.
   - Jane Ferber reaches out to her daughter, Lizzie, and tries to protect her from the horrifying news.
 - Community Support:
   - Eddie's encounter with Wally Urtz, the store manager, highlights the role of the community in offering support during difficult times.

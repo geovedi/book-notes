@@ -224,9 +224,6 @@ Author: Carl Sagan
   - If life exists on Mars, it should be preserved and protected, regardless of its form.
   - Exploration and potential colonization raise ethical concerns about contamination and preservation of Martian environments.
   - Lowell's concept of Martian canals is now understood as a misconception, but the idea of modifying Mars for habitability persists.
-- Concluding Thoughts
-  - The text reflects on the excitement of exploring other worlds and the possibilities they hold.
-  - The ultimate goal is to uncover the mysteries of Mars, whether it harbors life or not, and to do so responsibly.
 
 ## Travelers' Tales
 - Jupiter and Its Moons

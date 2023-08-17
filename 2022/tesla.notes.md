@@ -61,7 +61,7 @@ Author: Marc J. Seifer
 
 ## Gay Nineties
 - Introduction:
-  - The text discusses interactions and relationships involving Nikola Tesla, including his interactions with prominent figures like Stanford White, Theodore Dreiser, and George E. Hale.
+  - Interactions and relationships involving Nikola Tesla, including his interactions with prominent figures like Stanford White, Theodore Dreiser, and George E. Hale.
 - Interactions with Stanford White:
   - Tesla's experiments deeply impressed Stanford White, a renowned architect.
   - White's admiration for Tesla's work led to a sense of camaraderie between them.

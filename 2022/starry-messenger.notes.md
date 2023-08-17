@@ -23,11 +23,11 @@ Author: Neil deGrasse Tyson
   - "Starry Messenger" offers ways to channel emotional and intellectual energies in alignment with the universe's principles.
   - Topics like war, politics, religion, truth, beauty, gender, and race are recontextualized for accountability and wisdom.
 - Alien Observers:
-  - The text contemplates how space aliens, unbiased by preconceived notions, might perceive humanity.
+  - How space aliens, unbiased by preconceived notions, might perceive humanity.
   - These impartial observers reveal inconsistencies, hypocrisies, and foolish behaviors in human existence.
 - The Universe's Insights:
   - "Starry Messenger" encapsulates insights drawn from the universe, delivered through scientific methods and tools.
-  - The text provides a trove of wisdom, bridging the gap between cosmic understanding and human affairs.
+  - A trove of wisdom, bridging the gap between cosmic understanding and human affairs.
 
 ## Overture: Science & Society
 - Introduction:
@@ -281,7 +281,7 @@ Author: Neil deGrasse Tyson
 
 ## Color & Race
 - Race and Skin Color:
-  - The text discusses the notion of racial superiority and how it's influenced by perceptions of skin color.
+  - The notion of racial superiority and how it's influenced by perceptions of skin color.
   - It highlights differences in skin conditions, like psoriasis, and references the "Black don't crack" saying about aging.
   - The author recounts personal anecdotes about differences in reactions to poison ivy between white and black kids.
   - Suicide rates, eating disorders, and even play preferences (like treehouses) are explored within a racial context.
@@ -292,7 +292,7 @@ Author: Neil deGrasse Tyson
   - Egyptian civilization and scientific achievements are acknowledged, emphasizing that it predated Europe's advances.
   - The author highlights an initiative seeking to nurture scientific talent across Africa.
 - Shared Ancestry:
-  - The text explores the concept of shared ancestry among all humans.
+  - The concept of shared ancestry among all humans.
   - The phenomenon of pedigree collapse is explained, leading to the conclusion that any two people on Earth share a common ancestor.
   - The quote "we're all just next of kin" underlines the unity of the human race.
 - Progress and Aspiration:

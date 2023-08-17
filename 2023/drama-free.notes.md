@@ -25,7 +25,7 @@ Author: Nedra Glover Tawwab
   - It acknowledges that uncovering overwhelming aspects may necessitate therapy for deeper exploration, especially for intense emotional reactions.
 - Empowerment and Identity: Creating Healthy Relationships
   - The book emphasizes that change is possible and that one's identity can evolve within family relationships. Cultural values can impact how family dynamics are addressed, but adults can assert their identity and seek a life aligned with their desires.
-  - The text underlines that family relationships have profound effects, laden with expectations and wounds, but the power lies in choosing how to live and make healthy decisions.
+  - Family relationships have profound effects, laden with expectations and wounds, but the power lies in choosing how to live and make healthy decisions.
   - The author believes in readers' capacity to create healthy relationships, drawing inspiration from their own experiences and those they have witnessed.
 
 ## Unlearning Dysfunction
@@ -171,7 +171,7 @@ Author: Nedra Glover Tawwab
   - Journaling and reflection are tools to become aware of repeated patterns and their origins.
   - Self-awareness is crucial to breaking negative patterns and fostering healthier relationships.
 - Reflection on Childhood Issues:
-  - The text encourages reflecting on personal patterns, using prompts to identify issues.
+  - Reflecting on personal patterns, using prompts to identify issues.
   - The goal is to recognize and address challenges stemming from childhood experiences.
 
 ### Trauma Across Generations

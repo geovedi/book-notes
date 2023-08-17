@@ -312,7 +312,7 @@ Author: Claire Dederer
 - Comparison and Parallels
   - The author draws parallels between Solanas and Plath, despite their differences in artistic stature and actions.
   - Both women's lives are marked by acts of violence that reflect their sense of powerlessness and rage.
-  - The text contrasts their expressions of violence with the male artists' acts of violence, which are often linked to their greatness.
+  - Comparing their expressions of violence with the male artists' acts of violence, which are often linked to their greatness.
   - The concept of feminism as a struggle against invisible patriarchal forces is highlighted.
 
 ## Drunks
@@ -356,10 +356,10 @@ Author: Claire Dederer
   - Cleage's subjective response to Kind of Blue is examined, emphasizing the intertwining of her personal experience with her evolving feelings toward Miles Davis.
   - The essay's strength lies in Cleage's authentic and emotional exploration of her own feelings, demonstrating how love for art can be marked by personal connections.
 - Conflicted Emotions and Love for Problematic People
-  - The text delves into Cleage's conflicted feelings towards Miles Davis due to his abusive behavior towards women.
+  - Cleage's conflicted feelings towards Miles Davis due to his abusive behavior towards women.
   - Cleage's struggle to reconcile her love for Davis's music with his monstrous actions highlights the question of whether one can separate the two.
   - The author relates this dilemma to broader questions about loving people who have committed terrible acts, using Cleage's essay as an example.
 - Human Love and Acceptance of Terrible People
   - The author presents the core issue as the problem of human love, both in relation to art and personal relationships.
-  - The text explores the nature of familial love, acknowledging its complexities and unchosen nature.
+  - The nature of familial love, acknowledging its complexities and unchosen nature.
   - The author reflects on their own experience of struggling with personal flaws and receiving undeserved love, connecting this to the challenge of loving problematic individuals.

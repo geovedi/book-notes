@@ -248,7 +248,7 @@ Author: Mark Forsyth
   - A medieval recipe for "Porpoise Pudding" shows its origins.
   - Puddings were essentially a peculiar type of sausage.
 - Glamorous People and Sausage Poison:
-  - The text teases a connection between glamorous individuals and "sausage poison."
+  - A connection between glamorous individuals and "sausage poison."
 
 ## Sausage Poison in Your Face
 - Origin of Sausage and Botulism:
@@ -269,7 +269,7 @@ Author: Mark Forsyth
   - Botulinum toxin evolved into "Botox" to sound more glamorous and appealing.
   - Botox injections became trendy, especially among celebrities, to reduce signs of aging.
 - Toxophilite: A Word Play:
-  - The text hints at the word "toxophilite."
+  - Hint at the word "toxophilite."
   - The relationship between "toxophilite" and the previous topic is left as a question for the reader.
 
 ## Bows And Arrows And Cats
@@ -526,7 +526,7 @@ Author: Mark Forsyth
   - Example of naming based on characteristics.
   - Poppycock originated from Dutch word pappe-cack.
 - Connection to Psychiatry and Pasta:
-  - The text hints at a connection between butterflies, psychiatry, and pasta.
+  - Hint at a connection between butterflies, psychiatry, and pasta.
 
 ## Butterflies of The World
 - Butterfly Names:
@@ -1145,8 +1145,6 @@ Author: Mark Forsyth
 - Limited Success of Early Torpedoes:
   - Bushnell and Fulton's torpedoes were ineffective in practice.
   - Torpedo technology improved over decades, with a Russian ship torpedoing an Ottoman one in 1878.
-- Connection to Mount Vernon, Portobello Road, and Groggy Feeling:
-  - The text leaves this as a teaser for the next story.
 
 ## From Mount Vernon to Portobello Road With a Hangover
 - George Washington's Influence:

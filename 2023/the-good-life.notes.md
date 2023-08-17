@@ -4,7 +4,7 @@ Author: Robert Waldinger, Marc Schulz
 
 ## What Makes a Good Life?
 - Introduction and Background
-  - The text discusses a study known as the Harvard Study, which is a longitudinal study tracking the lives of participants over decades.
+  - A study known as the Harvard Study, which is a longitudinal study tracking the lives of participants over decades.
   - The study aims to understand the nature of memory, events processing, and life satisfaction, focusing on the present state of participants rather than their past.
   - It highlights the rarity and challenges of maintaining long-term prospective studies due to participant dropouts, funding issues, and changing circumstances.
 - Scope and Structure of the Study
@@ -22,10 +22,10 @@ Author: Robert Waldinger, Marc Schulz
   - The convergence of scientific knowledge and ancient wisdom highlights the enduring significance of questions about human well-being.
   - Throughout history, philosophers and religions have recognized the importance of healthy relationships for a good life.
 - Change and Adaptation
-  - The text challenges the notion that personality traits, childhood experiences, or current circumstances define a person's fate.
+  - Challenge the notion that personality traits, childhood experiences, or current circumstances define a person's fate.
   - Research shows that change and personal growth are possible regardless of one's background or history.
 - Relationships and Their Impact
-  - The text delves into various aspects of relationships, including intimacy, family, workplace, and friendships, highlighting their profound influence on well-being.
+  - Various aspects of relationships, including intimacy, family, workplace, and friendships, highlighting their profound influence on well-being.
   - Quality of relationships, not quantity, matters most, and warm, connected relationships provide protection against life's challenges.
 - Call to Action
   - The authors, Bob and Marc, introduce themselves and their roles in the Harvard Study.

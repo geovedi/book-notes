@@ -144,7 +144,7 @@ Author: Samantha Irby
 
 ## Two Old Nuns Having Amzing [Sic] Lesbian Sex
 - Exploring Unconventional Erotica in Films:
-  - The text discusses explicit sexual content in films and contrasts it with unexpected actions.
+  - Explicit sexual content in films and contrasts it with unexpected actions.
   - It comments on the blending of explicit content and storytelling reminiscent of Lifetime movies.
 - Fantasies, Desires, and Realism:
   - Sam reflects on personal sexual preferences, fantasies, and what appeals to them.

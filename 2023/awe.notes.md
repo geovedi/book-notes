@@ -31,7 +31,7 @@ Author: Dacher Keltner
 
 ### Eight Wonders of Life (An Awe Movement Begins)
   - Introduction and Exploration of Awe:
-    - The text discusses awe-inspiring GIFs and their mysterious nature.
+    - Awe-inspiring GIFs and their mysterious nature.
     - Describes various awe-inducing experiences, like road races, bird swarms, star-filled skies, and art.
     - Aims to differentiate awe from fear, horror, and beauty.
     - Notes differences in vocalizations, facial expressions, music, and art related to awe.
@@ -87,7 +87,7 @@ Author: Dacher Keltner
 
 ### Evolution of the Soul (What Our Tears, Chills, and Whoas Tell Us About the Why of Awe)
   - Introduction
-    - The text discusses the concept of awe and its various manifestations.
+    - The concept of awe and its various manifestations.
     - Awe is described as an emotion that transcends the self and connects us with larger patterns in nature, community, and culture.
     - The reader's personal experience of awe is shared, evoking strong emotions through poetic lines.
   - Awe in Literature and Poetry
@@ -311,7 +311,7 @@ Author: Dacher Keltner
 
 ### Life and Death (How Awe Helps Us Understand the Cycle of Life and Death)
 - Introduction:
-  - The text reflects on the awe-inspiring aspects of life's beginnings and endings, capturing moments of wonder from birth to death.
+  - The awe-inspiring aspects of life's beginnings and endings, capturing moments of wonder from birth to death.
 - Birth and Early Life:
   - People across cultures are awestruck by the appearance of new life, whether through childbirth or witnessing infants.
   - Childbirth is considered an act of courage and a gift, triggering various emotional responses and bodily sensations.

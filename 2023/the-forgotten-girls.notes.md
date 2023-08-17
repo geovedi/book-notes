@@ -303,7 +303,7 @@ Author: Monica Potts
 
 ### Leaving and Staying
 - Introduction
-  - The text delves into the concept of the "rural brain drain," where young people from small towns often leave for college and don't return, resulting in the decline of these communities.
+  - The concept of the "rural brain drain," where young people from small towns often leave for college and don't return, resulting in the decline of these communities.
   - It explores the experiences of individuals who stay, their limited prospects, and the impact of this trend on rural hometowns.
 - Leaving Home for College and Urbanization
   - Many young people leave their rural hometowns for college, seeking better opportunities in urban areas.

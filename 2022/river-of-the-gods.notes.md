@@ -531,7 +531,7 @@ Author: Candice Millard
 
 ## The Prince
 - Introduction
-  - The text discusses the challenges and achievements of Speke's expedition to find the source of the White Nile in Africa.
+  - The challenges and achievements of Speke's expedition to find the source of the White Nile in Africa.
 - Speke's Determination and Leadership
   - Speke, a military officer, struggled with maintaining control over his men and maintaining discipline during the expedition.
   - He faced a dilemma of maintaining command while avoiding allowing an inferior officer to strike a crew member.

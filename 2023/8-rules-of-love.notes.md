@@ -69,7 +69,7 @@ Author: Jay Shetty
 
 ### RULE 2: Don't Ignore Your Karma
 - Introduction
-  - The text explores the idea of preparing oneself for love through self-examination and understanding the influences that shape our perceptions of love.
+  - The idea of preparing oneself for love through self-examination and understanding the influences that shape our perceptions of love.
   - The importance of looking beyond societal norms and media influences in order to build meaningful relationships is highlighted.
 - Examining Influences on Love
   - Media and societal influences significantly impact how people perceive and approach love and relationships.
@@ -92,9 +92,6 @@ Author: Jay Shetty
 - Check-In and Preparation for Love
   - Suggests setting aside time for self-reflection and self-care at the beginning and end of each day.
   - Recommends choosing a daily action to improve the day and evaluating its impact in the evening.
-- Conclusion
-  - Summarizes the key concepts explored in the text: preparing for love through self-examination, understanding influences, and addressing emotional gaps.
-  - Emphasizes that love grows through practice, leading to recognizing, defining, developing, and embracing love.
 
 ### Write a Love Letter to Yourself
 - Importance of Self-Awareness through Writing
@@ -149,7 +146,7 @@ Author: Jay Shetty
 
 ### RULE 3: Define Love Before You Think It, Feel It, or Say It
 - Introduction:
-  - The text discusses the interplay between sentiment and structure in both corporate settings and relationships.
+  - The interplay between sentiment and structure in both corporate settings and relationships.
   - Leaders are encouraged to incorporate sentiment in corporate settings, while adding structure to relationships with strong sentiment.
 - Relationship Rhythms and Boundaries:
   - Establishing rhythms and routines helps maintain a steady and gradual pace in relationships.

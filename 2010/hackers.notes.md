@@ -610,7 +610,7 @@ Author: Steven Levy
   - The Brotherhood companies, including On-Line, held a significant share of the computer game market.
   - The industry attracted attention from venture capitalists and potential buyout offers.
   - Ken Williams remained committed to his company despite tempting offers.
-  - The text showcases the changing values and priorities in the world of computer programming and gaming.
+  - Showcase the changing values and priorities in the world of computer programming and gaming.
 
 ### Frogger
 - Ken Williams and On-Line Systems: A Journey

@@ -92,7 +92,7 @@ Author: Heidi Grant
   - Not asking for help can deprive others of the chance to experience the benefits of helping.
   - Asking for help provides an opportunity for others to feel good about themselves and you.
 - Overall Message:
-  - The text emphasizes that seeking help is not a negative act.
+  - Seeking help is not a negative act.
   - People benefit from helping and appreciate the opportunity to provide assistance.
   - Asking for help creates positive outcomes for both the helper and the one seeking help.
 

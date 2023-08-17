@@ -399,7 +399,7 @@ Author: Siddhartha Mukherjee
   - The gene therapy would involve altering liver cell genes responsible for cholesterol metabolism.
   - Successful gene editing could provide lifelong protection against coronary artery disease and heart attacks.
 - A Holistic Approach to Heart Health:
-  - The text underscores how understanding cellular biology, genetics, and clinical observations has led to effective strategies for heart attack prevention.
+  - Understanding cellular biology, genetics, and clinical observations has led to effective strategies for heart attack prevention.
   - Medical progress has transformed heart attack management from bedrest and morphine to sophisticated diagnostics and treatments.
 
 ### The Guardian Cell: Neutrophils and Their Kampf Against Pathogens
@@ -427,7 +427,7 @@ Author: Siddhartha Mukherjee
 - Manipulating Innate Immunity:
   - A new type of therapy involving super-phagocytes, genetically modified monocytes, is being developed to target specific cancer cells.
   - This approach fuses innate immunity's aggressiveness with adaptive immunity's specificity.
-  - The text discusses potential applications of manipulating innate immunity against cancer, autoimmune diseases, and vaccine development.
+  - Potential applications of manipulating innate immunity against cancer, autoimmune diseases, and vaccine development.
 
 ### The Defending Cell: When a Body Meets a Body
 - Antibody Therapy and Discovery

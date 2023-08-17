@@ -892,7 +892,7 @@ Author: Ashlee Vance
 
 ### These Rockets: They're Expensive
 - Introduction
-  - The text discusses events after a 2018 trip to Ukraine, focusing on Max Polyakov, his Oktoberfest party, and his investment in the rocket business.
+  - Events after a 2018 trip to Ukraine, focusing on Max Polyakov, his Oktoberfest party, and his investment in the rocket business.
 - Max Polyakov's Background and Mansion
   - Polyakov, a wealthy entrepreneur, organized an Oktoberfest party in his Menlo Park mansion.
   - He purchased the mansion on a whim and later acquired the adjacent property to expand his compound.

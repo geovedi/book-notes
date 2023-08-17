@@ -365,7 +365,7 @@ Author: Maggie Haberman
 
 ## Many People Are Saying
 - Introduction
-  - The text discusses Donald Trump's presidential campaign and his use of controversial rhetoric and tactics to appeal to voters.
+  - Donald Trump's presidential campaign and his use of controversial rhetoric and tactics to appeal to voters.
 - Trump's Anti-Muslim Sentiment
   - Trump's campaign began in 2015 with anti-immigrant rhetoric, particularly targeting Mexican immigrants.
   - The Paris attacks in November 2015 fueled his fear-based appeal, and he focused on anti-Muslim sentiment.
@@ -522,7 +522,7 @@ Author: Maggie Haberman
 
 ## Out Like Flynn
 - Introduction:
-  - The text discusses events surrounding Michael Flynn, Donald Trump's national security adviser, during the transition period and early days of Trump's presidency.
+  - Events surrounding Michael Flynn, Donald Trump's national security adviser, during the transition period and early days of Trump's presidency.
   - It reveals warnings about Flynn's suitability for the role and his interactions with Russian officials.
 - Flynn's Background and Transition:
   - Michael Flynn joined Trump's campaign despite lacking significant foreign-policy experience.

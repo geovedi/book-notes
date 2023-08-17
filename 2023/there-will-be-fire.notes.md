@@ -307,7 +307,7 @@ Author: Rory Carroll
   - Margaret Thatcher's public persona was known for its strength and conviction.
   - Behind closed doors, she displayed moments of vulnerability and compassion.
   - Thatcher's diligent work ethic, strong convictions, and unyielding will contributed to her reputation as the Iron Lady.
-  - The text portrays Thatcher's multifaceted character, including her emotional side and dedication to her duties.
+  - Thatcher's multifaceted character, including her emotional side and dedication to her duties.
 
 ### Blackpool
 - Background and Setup:
