@@ -1,0 +1,461 @@
+
+# Courtiers
+Author: Valentine Low
+
+## Prologue
+- Introduction: A Unique Royal Tour
+  - The Duke and Duchess of Sussex embarked on a royal tour, distinct from previous ones.
+  - Their tour began with the revelation of Meghan's pregnancy and garnered widespread attention.
+  - Despite successes in Australia, Fiji, and Tonga, signs of strain emerged during the South Pacific leg of the tour.
+- Harry's Transformation and Tensions with Media:
+  - Harry's image had transformed positively over time, shifting from his past youthful escapades to his notable service accomplishments.
+  - Creation of the Invictus Games highlighted his dedication to injured servicemen and women.
+  - His newfound happiness with Meghan contributed to a positive shift in his overall demeanor.
+  - During the tour, tensions between Harry and the media escalated, contrasting Meghan's warmth with Harry's distant demeanor.
+  - Harry's reluctance to engage with the media led to a notable incident on the plane back to Sydney.
+  - In a surprising move, he appeared and thanked the press, though his attitude came across as sulky and dismissive.
+  - Meghan stood by him, yet her involvement was minimal, and her comment on Sunday lunch highlighted the couple's underlying distance from the media.
+- Media Fallout and Internal Struggles:
+  - Harry's remarks on the plane had a counterproductive effect, worsening relations with the media.
+  - Despite their invitation, he incorrectly stated that the media wasn't invited.
+  - The incident revealed deeper issues: the Sussexes' disdain for the press and their deteriorating rapport with their staff.
+  - Behind-the-scenes tensions were concealed from the media on the plane.
+  - The true reasons behind Meghan's difficulties in Fiji and her diamond earrings would only emerge much later.
+  - Key advisors, including Meghan's assistant private secretary Amy Pickerill and private secretary Samantha Cohen, eventually departed due to mounting tension.
+  - Jason Knauf, their communications secretary, who wasn't on the tour due to injury, would later compose a significant email outlining bullying allegations, further straining their relationships.
+- Power Dynamics and Fundamental Questions:
+  - Harry's behavior on the tour raised important questions about the relationship between royals and their courtiers.
+  - It sparked inquiries into power dynamics: who holds the authority, and to what degree do royal servants influence decisions?
+  - The tension between serving the royal family's interests and maintaining a sense of autonomy for courtiers came to the forefront.
+  - The complexities of this relationship begged the question: who, or what, do these courtiers truly serve?
+
+## Starched Shirts
+- The Royal Dilemma and Denial of the Mountbatten Name:
+  - Prince Philip's frustration over being denied the Mountbatten name for his children.
+  - Queen Elizabeth's family, cabinet, and Lascelles united in maintaining the Windsor name.
+  - Blame shifted towards Churchill and Lascelles for influencing the decision.
+- Princess Margaret's Forbidden Love:
+  - Princess Margaret's romance with Group Captain Peter Townsend during the Queen's coronation.
+  - The Royal Marriages Act's impact on their relationship due to Townsend's divorced status.
+  - Lascelles' role in advising against the marriage and Townsend's refusal to leave court.
+  - The cabinet's decision leading to a two-year separation for Margaret and Townsend.
+- Margaret's Struggle and Decision:
+  - Margaret's loneliness and conflict during the separation period.
+  - The impact of the Royal Marriages Act and potential loss of succession rights on their decision.
+  - Margaret's bitterness towards Lascelles for not revealing the government's stance.
+  - Margaret's eventual marriage to Tony Armstrong-Jones and Townsend's marriage to Marie-Luce Jamagne.
+- Lascelles' Legacy and Retirement:
+  - Lascelles' retirement without accepting a peerage.
+  - Lascelles' contrasting facets as a diarist, including wit and judgements.
+  - A strained relationship between the Queen Mother and Lascelles in his later years.
+- The Transition to Adeane and Altrincham's Critique:
+  - Michael Adeane succeeding Lascelles as private secretary.
+  - Adeane's cautious approach and conservative influence.
+  - Lord Altrincham's criticism of the monarchy's stagnancy, including the Queen's speeches.
+  - Mixed reactions within the palace to Altrincham's critique.
+- Slow Changes and Adeane's Role:
+  - Gradual changes influenced by Altrincham's critique.
+  - Adeane's defense against criticism, highlighting his civility and shrewdness.
+  - Adeane symbolizing the past, while Britain and the royal family were evolving.
+
+## Dignified Slavery
+- Background and Introduction
+  - Martin Charteris, a long-serving and influential figure, joined Princess Elizabeth's household in 1950 as her private secretary, later becoming her assistant private secretary, holding the position for twenty years.
+  - Charteris, an old Etonian and former soldier who served in WWII, was known for his astute judgment, charm, and political sensitivity.
+- Charteris's Relationship with the Queen
+  - Charteris was regarded as the best private secretary by William Heseltine, displaying wit, charm, and an understanding of the Queen's evolving needs.
+  - Charteris's admiration for the Queen and their strong bond, based on mutual respect and humor, played a pivotal role in their effective collaboration.
+- Influence on the Monarchy
+  - Charteris understood the changing role of the monarchy, believing that it should not lead the times but should avoid lagging too far behind.
+  - His persuasive abilities and understanding of the Queen's strengths and weaknesses made him a successful advisor, helping the Queen adapt to changing societal dynamics.
+- Humor and Innovation
+  - Under Charteris's influence, the Queen's speeches became notably funnier, departing from the more serious tone associated with her previous private secretary, Michael Adeane.
+  - Charteris encouraged the Queen to celebrate her Silver Jubilee in 1977, resulting in a speech that reflected her commitment to the United Kingdom and its benefits.
+- Personal and Professional Bond
+  - Charteris's unique achievement was his personal and professional connection with the Queen, appreciating her strengths and acknowledging her weaknesses.
+  - He guided and opened doors for her, respecting her agency rather than attempting to manipulate her image or decisions.
+- Legacy
+  - Charteris's influence continued even after his retirement in 1977, leaving an indelible impact on the Queen's approach to her role and responsibilities.
+  - His legacy emphasizes that an effective courtier is more than a mere functionary, requiring a genuine bond of understanding and shared values with the royal they serve.
+
+## Growing Up
+- Charles's Formative Relationships: Checketts, Colborne, and Adeane
+  - Checketts: A Supportive Figure
+    - Charles's stay in Australia at Geelong Church of England Grammar School helped him mature and gain self-assurance.
+    - Squadron Leader David Checketts accompanied Charles, becoming his equerry and confidant.
+    - Checketts provided normality and encouragement, fostering a relaxed side of Charles's personality.
+    - Their relationship endured, with Checketts becoming Charles's private secretary.
+  - Colborne: A Father Figure
+    - Michael Colborne, a chief petty officer, acted as a father figure to Charles during their time in the Royal Navy.
+    - Colborne was an encourager and a realist, helping Charles through personal struggles and providing comfort.
+    - The deteriorating relationship between Charles and Diana strained Colborne's position.
+    - Despite differences, Charles valued Colborne's honesty and support.
+  - Adeane: Clashes of Vision
+    - Edward Adeane, an erudite courtier from Eton and Cambridge, took over as private secretary.
+    - Adeane and Charles clashed over priorities and ideals: Adeane was out of touch with Charles's pursuits.
+    - Adeane disapproved of Charles's focus on youth initiatives like The Prince's Trust and Operation Raleigh.
+    - Their most notable conflict arose from Charles's architectural speech, which ignited controversy.
+    - Adeane's resignation marked the culmination of his frustration with Charles's independent stance.
+- Impact and Perspectives
+  - Positive and Negative Influences
+    - Checketts and Colborne played vital roles in Charles's growth, offering companionship, guidance, and encouragement.
+    - Adeane's presence brought clashes due to differing worldviews and expectations.
+  - Charles's Vision and Independence
+    - Charles showed a distinct vision in championing causes like youth development and architectural critique.
+    - His ability to defy traditional norms and pursue his convictions contributed to his growth and impact.
+  - Influence on Royal Relationships
+    - Checketts and Colborne contributed positively to Charles's life, while Adeane's struggles highlighted Charles's tendency to defy traditional advisors.
+
+## Cocktail Hour
+- Jamie Lowther-Pinkerton: The Queen Mother's Equerry
+  - Winter in Germany, 1984: Jamie Lowther-Pinkerton, a young army officer, becomes the Queen Mother's equerry.
+  - A lunch meeting with the Queen Mother defies expectations of formality.
+  - Lowther-Pinkerton's experience with the Queen Mother is marked by kindness and humor.
+  - Martin Gilliat, the Queen Mother's private secretary, played a significant role in shaping the household.
+- Martin Gilliat: A Unique Courtier
+  - Gilliat was a vital figure in the Queen Mother's household, known for his unconventional approach.
+  - His background included military service and survival during World War II.
+  - Gilliat's diplomatic skills and unorthodox manner endeared him to the Queen Mother.
+  - He maintained an efficient yet enjoyable household, focusing on making people feel at home.
+- William Tallon: The Flamboyant Page
+  - William Tallon, known as Backstairs Billy, was a flamboyant and lively figure in the Queen Mother's life.
+  - Tallon's role was to keep the Queen Mother and her guests entertained and at ease.
+  - His adventurous personal life occasionally made headlines but did not affect his position.
+  - Tallon's unwavering loyalty to the Queen Mother led to his continued presence in the household.
+- Brian McGrath: Prince Philip's Private Secretary
+  - Brian McGrath, Prince Philip's private secretary, brought a modern and informal approach to the office.
+  - McGrath's background included military service and a successful career in the wine trade.
+  - His rapport with Prince Philip allowed for open and honest communication.
+  - McGrath's role extended beyond the standard retirement age due to his indispensable contributions.
+- The Dynamics of Friendship and Service
+  - The relationships between courtiers and royals often blurred the lines between friendship and service.
+  - McGrath's case exemplifies the idea of courtiers evolving into friends.
+  - The nuanced nature of these relationships raises questions about the nature of friendship in royal households.
+
+## A Zero-Sum Game
+- Crisis and Evolution in the Royal Court
+  - Richard Aylard faced career consequences after advising Prince Charles to admit to breaking his marriage vows, leading to criticism and blame.
+  - Aylard's accountability for Charles's confession strained relationships and led to his eventual departure.
+  - Charles's confession was prompted by the emergence of the 'Camillagate' recording, revealing intimate conversations with Camilla Parker Bowles.
+- Mark Bolland's Entry and Role:
+  - Mark Bolland, a charismatic and openly gay figure, joined the royal household, aiming to reshape its image.
+  - Bolland's strategies included improving Charles's public reputation and making Camilla more acceptable to the British public.
+  - Bolland's charm and connections with media figures aided his mission, and he successfully orchestrated Camilla's transformation.
+- Challenges and Conflicts:
+  - Bolland's success didn't come without conflicts, especially with other palaces and royals.
+  - Bolland's strategies sometimes upset other royals and created tensions among the courtiers.
+  - His divisive tactics led to erosion of trust and damaged relationships, ultimately causing his departure from the palace.
+- Princess Diana's Death and the Royal Response:
+  - The death of Princess Diana in 1997 triggered one of the biggest crises in the modern history of the monarchy.
+  - The royal family, led by Queen Elizabeth II, initially struggled to respond effectively to the public grief and expectations.
+- Navigating Public Sentiment:
+  - Initially perceived as uncaring, the royal family gradually adapted to the public sentiment.
+  - The royal family's presence and actions were scrutinized, with criticisms about their emotional detachment.
+- Queen's Response and Recovery:
+  - Queen Elizabeth II took on a more proactive role, including delivering a televised broadcast to the nation.
+  - The Queen's speech acknowledged lessons from Diana's life and the nation's reaction to her death, leading to a shift in public perception.
+- Continuing Recovery:
+  - While the Queen's response improved the situation, the monarchy continued its journey toward recovery.
+  - The crisis underscored the need for adaptability and understanding of public sentiment for the monarchy's long-term survival.
+
+## Palace Wars
+- Power Struggles and Failed Plans in the Royal Household
+  - Different perspectives on events and individuals within Buckingham Palace.
+  - Fractured relationships and varying opinions created tension.
+- Failed Attempt at Unified Royal Communications
+  - Sir Christopher Geidt's plan to merge press offices of royal households.
+  - Purpose: improve coordination, flexibility, and transition during reign changes.
+  - Kyriacou's opposition to the plan, causing Charles's team to return to Clarence House.
+  - Kyriacou's view: Autonomy of households essential for individual plans and interests.
+  - Lack of trust and unity led to the plan's collapse.
+- Impact on Relations and Failed Collaboration
+  - Relationship strain between Osman and Kyriacou.
+  - Queen's efforts to integrate Osman into Buckingham Palace.
+  - Kensington Palace's reservations due to logistics and location change.
+  - Royal Communications not a complete failure but failed to achieve unified operation.
+- Michael Fawcett's Rise and Influence
+  - Fawcett's humble origins and rise within royal circles.
+  - Indispensable role and loyalty in Prince Charles's life.
+  - Fawcett's power, charm, and influence in managing events and social engagements.
+- Fawcett's Controversial Reputation
+  - Mixed opinions on Fawcett's personality and behavior.
+  - Loyalty, charm, and tough approach to managing events.
+  - Fawcett's ability to deliver what the prince wanted, particularly in entertaining.
+- Downfall of Fawcett
+  - Allegations of assisting a Saudi donor with securing knighthood and citizenship.
+  - Fawcett's resignation from multiple roles due to the allegations.
+  - Prince Charles's acceptance of the situation, ending Fawcett's influence.
+
+## Household Tails
+- Modernizing the Royal Household: An Evolution of Roles and Reforms
+  - The changes in the British royal household over the years have been marked by adaptations and innovations in response to shifts in public perception and societal expectations.
+  - The Queen's transition to a more modernized monarchy involved reshaping the royal family's image and role in contemporary society.
+- Themed Days and Public Engagement
+  - Themed days were introduced to focus on various aspects of the country, such as arts and employment, aimed at diversifying the royal family's engagement with the public.
+  - Simon Lewis, the palace's first communications secretary, initiated polling to assess the royal family's popularity compared to other institutions, yielding consistently positive results.
+- Financial Transparency and Adaptations
+  - The royal family's shift towards paying income tax represented a significant change, driven by discussions within the household and an internal desire to evolve.
+  - Sir Michael Peat played a pivotal role in brokering an agreement with the Treasury, allowing the Queen to pay tax without substantial financial strain.
+  - The Queen's private secretary, Sir Robert Fellowes, played a key role in convincing her of the need for financial adaptations and was supported by Prince Philip's perspective.
+- Transition and New Approaches
+  - The departure of Lord Chamberlain Earl Peel marked a shift towards a more hands-on approach to the role.
+  - Lord Parker of Minsmere's appointment in 2021 signified a departure from the traditional aristocratic appointments and a move towards a more contemporary figure.
+- The Role of Lord Chamberlain
+  - The Lord Chamberlain's role is both strategic and advisory, focusing on fostering a positive working atmosphere within the royal household.
+  - The tradition of the Lord Chamberlain leading the Queen into events, even walking backward during state banquets, has evolved, reflecting practical considerations and changing sensibilities.
+- Changing Selection Criteria and Diversity
+  - The selection of Lord Chamberlain has evolved from being a political appointment to a sovereign-led choice, reflecting the personal and advisory nature of the role.
+  - The predominance of candidates from the Foreign Office suggests a connection between those who interact with the Queen and their potential appointment to key roles.
+  - The lack of diversity in the royal household has been a notable concern, potentially stemming from traditional selection processes and contributing to a slow pace of change.
+
+## Shelf Life
+- Engagement Styles and Differences:
+  - William and Harry's engagement styles evolved differently due to their distinct personalities and preferences.
+  - They had varying approaches to charitable work, with Harry favoring immediate action and William focusing on long-term strategic impact.
+  - Their military roles also showcased their differences, with Harry gravitating towards instantaneous decision-making and William towards more behind-the-scenes work.
+  - Their differing characters led to some tensions, but Kate often played a peacemaking role between the two brothers.
+- Areas of Focus:
+  - Both brothers shared interests in conservation, armed forces, and homelessness.
+  - They divided their responsibilities, with Harry leading in military matters and William focusing on conservation efforts.
+  - Harry felt a time constraint on his impact and saw a limited window of opportunity to make a difference, which drove his approach.
+- Formality and Dress Code:
+  - The princes' team aimed to strike a balance between informality and formality in their interactions.
+  - There was a transition from informal dressing and casual atmospheres to a more professional approach in their offices.
+  - William wanted to maintain a familial, comfortable atmosphere in their workspace while emphasizing professionalism.
+- Changing Traditions:
+  - The announcement of Kate's pregnancy and Prince George's christening marked important moments for the royal family.
+  - The choice of godparents for Prince George's christening signified a departure from tradition, with non-royal friends taking prominent roles.
+  - Jamie Lowther-Pinkerton, a significant figure in the princes' lives, had a unique relationship with them that went beyond the typical adviser role.
+- Lowther-Pinkerton's Role:
+  - Jamie Lowther-Pinkerton was more than an adviser; he was a close confidant, mentor, and friend to William and Harry.
+  - He was involved in their lives from the beginning, offering guidance and companionship, and played a crucial role in their personal development.
+  - Despite the professional nature of their relationship during his time as private secretary, he eventually became a genuine friend to both William and Harry.
+  - Following Meghan and Harry's separation from the royal family, their relationship with Lowther-Pinkerton changed, but he still remained fond of both brothers.
+
+## The Golden Triangle
+- Relationships Between Palace and Government Officials
+  - Robin Butler, a former cabinet secretary, formed strong relationships with the Queen's private secretaries and the Prime Minister's officials, creating a "Golden Triangle" of collaboration.
+  - Close relations were vital for handling crises like Princess Diana's death and navigating constitutional matters.
+  - The Queen's private secretaries, like Robert Fellowes and Christopher Geidt, played essential roles in communication between the palace and the government.
+  - The Golden Triangle's importance was demonstrated during the 2010 election and coalition talks, ensuring a smooth transition of power.
+- Challenges and Criticisms of the Golden Triangle
+  - The Golden Triangle's effectiveness and closeness between palace and government officials have faced criticism over the years.
+  - Calls for clearer rules and principles to prevent personal politics from interfering with monarch's decisions were made after historical incidents, like George V's crisis in 1910.
+  - Challenges of maintaining impartiality and openness while preserving the Queen's role in constitutional matters were evident.
+- Royal Finances and Devolution
+  - A notable incident involved Sir Alan Reid, the Keeper of the Privy Purse, making off-message comments about funding the monarchy in relation to Scottish devolution.
+  - Reid's comments sparked controversy, leading to speculations of political motivations and potential revenge for the Queen's remarks during the Scottish independence referendum.
+  - Despite Reid's comments, Scotland continued to contribute to the Sovereign Grant, and the controversy prompted a public apology and clarification.
+- Intricacies of Palace Dynamics
+  - The incident highlighted the complex dynamics within the palace, with conflicts arising between officials like Reid and Christopher Geidt, the Queen's private secretary.
+  - Reid's motivations for his statements remained unclear, causing strain in his relationship with Geidt.
+
+## Sticking the Knife In
+- Background and Odd Speech:
+  - Christopher Geidt, the Queen's private secretary, made a speech urging a unified vision and better coordination within the royal family.
+  - Geidt's approach appeared unusual and even a power play, leaving many confused about his intentions.
+  - The speech marked a shift in the dynamics and revealed tensions behind the scenes.
+- Geidt's Communication and Leadership Style:
+  - Geidt was erudite and intelligent, but his communication skills were lacking.
+  - Colleagues criticized his indirect and metaphorical way of speaking, leaving others bewildered.
+  - Geidt's proposal of a streamlined monarchy and coordination seemed to be his vision but was hard to grasp.
+- Clashes and Tensions:
+  - Clive Alderton, a key figure, clashed with Geidt and played a role in his downfall.
+  - The Duke of York, Prince Andrew, held animosity toward Geidt due to past issues.
+  - Geidt's support for a slimmed-down monarchy and his opposition to Andrew's daughters' full-time roles led to tension.
+- Geidt's Struggles and Departure:
+  - Geidt took a sabbatical in 2014, prompting speculation about his return and potential successors.
+  - Despite his significant contributions, Geidt's support waned, impacting his position.
+  - The Queen asked Geidt to stay as private secretary until her reign's end, but his support dwindled further.
+- Key Players and Decision-Making:
+  - Alan Reid, the Keeper of the Privy Purse, had concerns about Geidt's position and lacked trust in his relationship with Prince Charles.
+  - The Prince of Wales and the Duke of York formed an alliance, leading to Geidt's removal.
+  - Lord Peel, with close ties to the Prince of Wales, conveyed the decision to Geidt.
+- Reactions and Regrets:
+  - Geidt was hurt by his dismissal after many years of dedicated service.
+  - Colleagues praised his integrity and thoughtfulness, emphasizing his positive impact.
+  - Prince William expressed anger over the handling of Geidt's departure, feeling it was unkind and unjust.
+- Questions and Controversies:
+  - The Queen's decision to agree with Geidt's removal remains perplexing.
+  - Some speculate that she wanted to avoid conflict in her later years.
+  - A former senior courtier expressed disbelief at how the situation unfolded and criticized the handling of the situation.
+- Historical Perspective:
+  - Geidt's forced resignation stands as a rare occurrence in the history of royal private secretaries.
+  - His departure echoes the case of Lord Knollys in 1913, marking a significant event in the monarchy's history.
+
+## They Are All Being Nasty to Me
+- Background and Initial Decision Making
+  - The Channel 4 documentary "The Prince & the Paedophile" scrutinized Prince Andrew's association with Epstein.
+  - Virginia Giuffre's interview with BBC's Panorama added pressure, prompting a response from Andrew's team.
+  - A surprise invitation from Newsnight led to negotiations, involving producer Emily Maitlis.
+- Meetings and Unexpected Participants
+  - Unconventionally, Emily Maitlis joined the negotiations to potentially add star quality.
+  - Buckingham Palace surprised by Andrew's decision to participate, seeking face-to-face talks for interview terms.
+  - Princess Beatrice's unexpected presence and influence during negotiations.
+- Andrew's Interview Preparation and Execution
+  - Andrew's eagerness to clear his name prompted him to agree to the interview.
+  - Past media blunders, like the Sunday Times interview, should have cautioned against letting Andrew face tough questioning.
+  - Lack of control over the interview's scope and duration surprised Newsnight team.
+  - Despite seasoned interviewers having stricter conditions, Andrew faced minimal restrictions.
+  - Andrew's lack of preparation and media understanding became apparent during the interview.
+  - Failure to express sympathy for Epstein's victims and poorly rehearsed lines reflected Andrew's unprofessional approach.
+  - Andrew's relaxed demeanor post-interview contrasted with the disaster it had been perceived as.
+- Consequences and Aftermath
+  - Following the interview, Andrew relinquished royal duties and patronages, while Amanda Thirsk, who advised the interview, faced media backlash.
+  - Virginia Giuffre, empowered by the interview, pursued legal action against Andrew.
+  - Giuffre's legal team utilized inconsistencies from the interview in their case.
+  - Subsequent stripping of Andrew's titles and affiliations, with an out-of-court settlement for Giuffre's case.
+  - The costly aftermath, estimated between £7 million and £12 million, underscored the financial and reputational impact.
+  - In hindsight, the decision to participate in Newsnight was widely seen as misguided, with the absence of experienced advisors contributing to the outcome.
+  - The contrasting influence of Christopher Geidt in past royal matters left many feeling that his presence could have prevented this outcome.
+- Lessons Learned
+  - The ill-fated Newsnight interview demonstrated the importance of careful media management.
+  - Andrew's lack of preparation and media awareness, coupled with the absence of experienced advisors, led to dire consequences.
+  - The fallout revealed the significance of institutional control and seasoned guidance in critical situations.
+
+## This Is Rather Fun
+- Introduction:
+  - The passage describes events involving Prince Harry, his interactions with staff, his frustrations, and his relationship with the media.
+  - It highlights his determination to protect his girlfriend Meghan Markle from media intrusion.
+- Working with Prince Harry:
+  - Prince Harry was known for his energy, enthusiasm, and informal approach, making him different from other royals.
+  - He often pushed for enjoyable and unconventional experiences during royal tours, focusing on both serious and lighthearted moments.
+- Initiatives and Achievements:
+  - Prince Harry's involvement in projects like the Invictus Games demonstrated his commitment to causes such as veterans, social change through sports, and HIV/Aids awareness.
+  - His creative ideas and impulsive nature led to successful initiatives like the Invictus Games, showcasing his ability to turn concepts into reality.
+- Challenges and Frustrations:
+  - Prince Harry's frustration stemmed from division of responsibilities with his brother, his sense of being held back by bureaucracy, and his battle with inaccurate media reporting.
+  - He engaged in constant battles with the media, focusing on addressing inaccuracies and seeking justice.
+- Media Intrusion and Meghan Markle:
+  - The media's intense scrutiny of Prince Harry's relationships was a source of frustration for him.
+  - When his relationship with Meghan Markle became public, Harry became determined to protect her from media intrusion due to past experiences with previous girlfriends.
+- Protecting Meghan:
+  - The decision to release a statement confirming Meghan Markle as Harry's girlfriend was made to address media abuse and harassment she faced.
+  - This action caused tensions within the royal households but eventually led to greater understanding after open discussions.
+
+## Wild About Harry
+- Introduction:
+  - Meghan Markle's entrance into the British royal family was met with both excitement and challenges.
+  - Initially, it was Meghan's approachable and modern style that drew positive attention, but the behind-the-scenes struggles were not widely known.
+- Challenges in the Palace:
+  - Meghan's first months as a royal were not smooth, leading to concerns about her adapting to her new role.
+  - The media portrayed tensions between her and Kate Middleton, as well as reports of her demanding behavior towards staff.
+- Samantha Cohen's Role:
+  - Samantha Cohen, a key member of the Queen's household, played a crucial role in guiding Meghan and Harry during their early married life.
+  - Cohen, with her experience and close relationship with Harry, was tasked with modernizing Buckingham Palace's press office.
+- Early Signs of Trouble:
+  - Meghan's treatment of staff members became a concern, with several departures raising questions about her behavior.
+  - Melissa Touabti, Meghan's PA, left after just six months, reportedly due to Meghan's demanding nature.
+- Clashes Over Gifts and Fashion:
+  - Tensions arose between Meghan and staff over her acceptance of free gifts from commercial organizations, which went against royal protocols.
+  - Reports suggest that Meghan's behavior regarding fashion freebies started when she was first unveiled as Harry's girlfriend.
+- Strained Relations and Bullying Allegations:
+  - Rumors of a strained relationship between Meghan and Kate escalated, along with allegations that Kate was reduced to tears during a fitting.
+  - Jason Knauf, a palace aide, raised concerns about Meghan's bullying behavior towards staff and her treatment of them.
+- Bullying Claims and Responses:
+  - Knauf's email expressed concerns about Meghan bullying staff, which was later supported by other sources.
+  - Meghan's legal team denied the allegations, emphasizing her commitment to compassion and her denial of bullying behavior.
+- Cultural Differences and Challenges:
+  - Meghan's direct communication style, attributed to cultural differences, was considered a factor in early challenges.
+  - Some sources noted that Meghan's approach clashed with the refined tradition of the monarchy.
+- Earrings Controversy:
+  - Meghan's choice to wear diamond earrings, a gift from the Crown Prince of Saudi Arabia, led to controversy due to his suspected involvement in a journalist's murder.
+  - Meghan's reasons for wearing the earrings and her knowledge of the political situation were questioned.
+- UN Women Incident:
+  - Meghan's visit to a market as part of her UN Women involvement was cut short due to the presence of UN Women branding, causing confusion and questions about her stance on the organization.
+  - The incident raised concerns about Meghan's priorities and behavior, leading to a reshuffling of security personnel.
+
+## Exit Plans
+- Introduction:
+  - Prince Harry's interview with Tom Bradby revealed a rift with Prince William.
+  - Harry acknowledged their different paths but emphasized mutual support.
+- Escalating Tensions:
+  - Palace source confirmed concern over Harry and Meghan's fragile state.
+  - Prince William's attempt to visit Harry after the documentary caused confusion.
+  - Harry's fear of press leak led him to cancel the visit, causing heartbreak.
+- Meghan's Struggles:
+  - Meghan's emotional crisis, exposed in the documentary, lasted months.
+  - She discussed pressure from online abuse and media coverage, her mental state, and lack of support.
+  - Meghan claimed that the palace refused her request for help.
+- Controversial Claims and Responses:
+  - Meghan's claim about losing personal documents was questioned due to travel history.
+  - Several inaccurate or misleading statements were noted in her Oprah interview.
+  - Central claim of palace not protecting her reputation examined.
+- Kate and Meghan's Relationship:
+  - Meghan addressed the narrative of Kate crying before her wedding.
+  - Meghan's insistence on denying the story created tension with media advisers.
+  - Meghan later changed her stance, saying Kate owned up and apologized.
+- Meghan's Interaction with Media Advisers:
+  - Meghan sought to involve media advisers in publicizing an employee's departure.
+  - Adviser Jason Knauf refused due to differing interpretation of events.
+- Meghan's Exit and Palace Dynamics:
+  - Relations between Meghan and senior advisers deteriorated during the Africa tour.
+  - Meghan's team called her a 'narcissistic sociopath', feeling they were played.
+  - Conflicting perspectives on Meghan's pleas for help and motivations behind them.
+- Palace's Duty of Care and Meghan's Narrative:
+  - Adviser Sam Cohen emphasized the importance of showing duty of care.
+  - Meghan shifted narrative to focus on her mental health, overshadowing palace support.
+  - Meghan's visit to HR and conflicting interpretations of her motives.
+- Exit Negotiations and Palace Inflexibility:
+  - Harry and Meghan's dissatisfaction with the royal family grew after their Canada trip.
+  - Palace's inflexible approach to exit negotiations fueled frustration and unhappiness.
+  - The Sandringham summit highlighted both sides' difficulties in communication.
+
+## The Greatest Kindness
+- Introduction
+  - Among royal watchers, a common question is whether Christopher Geidt could have handled the Sussexes' negotiations better.
+  - The negotiations after the Sussexes' bid for freedom were challenging, resulting in significant losses for both parties.
+  - The departure of the Sussexes from the royal family had a lasting impact and brought up questions about how the situation could have been managed differently.
+- Assessment of Edward Young
+  - Comparisons are drawn between Christopher Geidt and Edward Young, former and current private secretaries to the Queen.
+  - Edward Young's approach is characterized as cautious, diligent, and risk-averse.
+  - Young's management style is considered different from Geidt's, with strengths in different areas.
+  - Young's strengths include diplomacy, careful decision-making, and trustworthiness.
+- Royal Achievements and Challenges
+  - Edward Young played key roles in successful royal events like the Diamond Jubilee and London 2012 Olympics.
+  - He navigated sensitive situations and communication effectively.
+  - The improved relations between Buckingham Palace and Clarence House are credited to Young's diplomatic skills.
+  - However, there are concerns about Young's cautiousness inhibiting innovation.
+- Geidt's Hypothetical Impact
+  - The notion that Christopher Geidt would have handled the Sussexes' situation better is examined.
+  - Geidt's reputation and skills are considered, but it's noted that Edward Young wasn't alone in handling negotiations.
+  - Clive Alderton and Simon Case were also involved in the negotiations.
+  - The Sussexes' departure wasn't just about private secretaries; the Queen's decision played a significant role.
+- Meghan's Mental Health and the Crisis
+  - Meghan's mental health struggles in January 2019 are highlighted.
+  - Questions arise about whether proper support was provided and why Meghan didn't seek help from her husband or trusted friends.
+  - Concerns about Meghan's ability to earn money within the royal family are discussed.
+  - The crisis in Meghan and Harry's marriage was deep-rooted, and their expectations differed significantly from the institution's rules.
+- Meghan's Legal Victory
+  - Meghan's victory over the Mail on Sunday is discussed.
+  - The Court of Appeal ruled in her favor regarding a breach of privacy and copyright.
+  - Meghan's denial of collaboration with authors of Finding Freedom contradicted by Jason Knauf's statement.
+  - Meghan's apology and clarification about her knowledge of staff interactions with authors.
+
+## On Behalf of the People
+- Writing about the Royal Family: Predictability and Surprises
+  - Writing about the royal family is often predictable, except when Prince Harry is involved.
+  - Buckingham Palace statements are usually bland and uninformative.
+  - A surprise occurred when allegations of bullying against the Duchess of Sussex were reported.
+  - Meghan's account of her time within the institution differed from the palace's perspective.
+  - The Sussexes issued a statement condemning the report, while the palace initiated an inquiry.
+  - The inquiry's swiftness was unusual for the palace, showing an eagerness to address the allegations.
+  - The palace's response to the Oprah interview and issues of racism sparked debates.
+  - Diversity within the palace staff and the need for change were highlighted by recent events.
+- Role of Courtiers: Family and Institutional Loyalties
+  - Courtiers serve both the royal family and the institution, often navigating conflicting loyalties.
+  - The tension between personal loyalty to royals and duty to the institution is a challenge.
+  - Courtiers must make decisions balancing the interests of their principal and the monarchy.
+  - Meghan's potential to positively transform the monarchy was hindered by various factors.
+- Innovation and Change Within the Monarchy
+  - Innovations within the monarchy are often driven by the royals themselves.
+  - Initiatives like the Invictus Games, the Prince's Trust, and the Earthshot Prize showcase innovation.
+  - Prince William's efforts demonstrate a desire to modernize and connect with the public.
+  - The monarchy's approach to change has been criticized for being slow and resistant.
+- The Future of the Monarchy and Courtiers
+  - Prince William's efforts to listen and modernize the monarchy bode well for the future.
+  - He aims to be more communicative and responsive to societal concerns.
+  - The monarchy needs to ensure that its senior advisers are diverse and reflective of society.
+  - Courtiers should manage personal and political aspects, offering advice to the royals.
+  - Ultimately, final decisions rest with the royal family, requiring courtiers to be faithful advisors.
+  - Courtiers must remain focused on their roles without being swayed by power or luxury.

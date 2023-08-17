@@ -1,0 +1,1032 @@
+
+# Rough Sleepers
+Author: Tracy Kidder
+
+## The Van
+- The Outreach Van's Nightly Rounds:
+  - The story starts with the outreach van stopping in a South Boston neighborhood to check on homeless individuals.
+  - Dr. Jim O'Connell, a long-time participant, approaches a man named Johnny, known as a rough sleeper, and engages in conversation.
+  - Dr. Jim has been part of the Boston Health Care for the Homeless Program, overseeing a large medical organization that serves thousands of homeless people.
+  - The van, supported by the Pine Street Inn, reaches out to rough sleepers, providing them with food, blankets, medical care, and connecting them to resources.
+- The Reality of Rough Sleepers:
+  - Rough sleepers have their territories where they spend their days panhandling and return to their chosen sleeping spots at night.
+  - These individuals are often referred to as "rough sleepers" and exhibit patterns of homelessness.
+  - The van is a vital tool for checking on these individuals' well-being, providing medical aid, and assisting those in distress.
+- Jim's Approach and Street Team:
+  - Dr. Jim O'Connell carries a doctor's bag and diagnostic equipment as he treats rough sleepers on the streets.
+  - He leads the Street Team, a subset of the Program, focused on aiding the homeless who avoid shelters.
+  - The team's essential tools include medical supplies, a flashlight, and a cellphone, allowing them to provide immediate care.
+- Challenges and Personal Connections:
+  - Rough sleepers have diverse backgrounds and needs, with homelessness often affecting Black and Latino communities disproportionately.
+  - Dr. Jim builds personal relationships with many of his patients, offering medical care and emotional support.
+  - The story highlights various encounters with patients, including those struggling with addiction, mental health issues, and physical ailments.
+- A Glimpse into the Nightly Routine:
+  - The van travels through Boston streets, making stops at familiar locations where rough sleepers gather.
+  - Dr. Jim reconnects with patients, offers medical assistance, and encourages them to visit the Street Clinic for further care.
+  - The challenges of reaching homeless individuals, especially during cold nights, are depicted.
+- Ethical Dilemmas and Impact:
+  - The narrative delves into the ethical challenges of helping rough sleepers, especially when their situations are complex and outcomes uncertain.
+  - Dr. Jim reflects on the limitations of their efforts, considering the value of compassionate care despite difficult circumstances.
+  - The story captures moments of both affirmation and frustration as the van's team interacts with rough sleepers.
+- Mass Eviction and Mixed Reactions:
+  - The story takes a turn when a mass eviction of homeless individuals from a train station occurs due to rising temperatures.
+  - Jim grapples with conflicting emotions, feeling disheartened by the eviction despite understanding the logistical challenges.
+  - Many of the Street Team's patients are affected by the eviction, highlighting the vulnerability and struggles of rough sleepers.
+
+## The Art of Healing
+
+### Conscripted
+- Jim's Journey to Serving the Homeless:
+  - Jim O'Connell, a doctor to the homeless, reflects on his career and motivations.
+  - He discusses the sadness and moral outrage that come from witnessing the deaths of many of his patients.
+  - Despite the challenges, he finds fulfillment in providing care to those who've had few chances in life.
+- Early Life and Career Exploration:
+  - Jim grew up in a working-class Irish American family in Newport, Rhode Island.
+  - He attended Notre Dame, majoring in philosophy, and later pursued further studies in England.
+  - After various adventures, including teaching literature in Hawaii and tending bar, he discovered a passion for connecting ideas to action.
+- Defining Moment and Path to Medicine:
+  - While aiding a motorbike crash victim in England, Jim realized the power of helping those in need.
+  - He decided to become a country doctor and pursued medical studies at Harvard, excelling in his learning and training.
+- Entering the Medical World:
+  - Jim completed his residency at Massachusetts General Hospital, receiving prestigious offers.
+  - He was introduced to Dr. Tom Durant, a powerful figure with a humanitarian focus.
+  - Durant's impact and philosophy of physicians as societal doctors influenced Jim's perspective.
+- A Critical Decision:
+  - Despite the promise of a successful mainstream medical career, Jim was asked by Potts and Durant to join the Health Care for the Homeless program.
+  - This initiative aimed to integrate homeless individuals into mainstream medical care and alleviate the burden on emergency departments.
+  - Jim expressed concerns about potential marginalization within his profession but was assured by Potts of Mass General's support.
+- Commitment to Serving the Marginalized:
+  - Jim's agreement to the program marked his commitment to giving back and making a difference.
+  - He agreed to dedicate a year to this cause, anticipating it to be a temporary detour.
+  - Potts emphasized Mass General's involvement in the initiative, making Jim a full member of the hospital's efforts.
+
+### Foot Soaking
+- Beginning of Jim's Service to the Homeless:
+  - On July 1, 1985, after finishing his residency, Jim O'Connell started his work in the Health Care for the Homeless program.
+  - He traveled by train to the Pine Street Inn homeless shelter in Boston's South End, unsure of what to expect.
+  - Jim was directed to the nurses' clinic, where he encountered skeptical nurses who were initially unwelcoming.
+- Nurses' Perspective and Clinic Philosophy:
+  - Nurses at the Pine Street clinic had created a unique environment, independent of mainstream medical institutions, based on the feminist movement's changes in nursing.
+  - The clinic was a place for homeless individuals to receive care and attention, free from the dismissive treatment often found in hospitals.
+  - Barbara Blakeney, a retired nurse and advocate, highlighted the importance of nurses' compassionate approach to patients' human context and their resistance to the medicalization of care.
+- Introduction to the Clinic and its Purpose:
+  - Jim met Barbara McInnis, a significant figure in the Boston homeless health care community, and felt that she embodied the spirit of kindness and service.
+  - Nurses at the clinic warned Jim about his potential short-term commitment and his motivations for joining.
+  - Barbara McInnis explained the necessity of retraining him to listen and connect with homeless patients, whose trauma often made them resistant to traditional medical approaches.
+- The Transition to the Clinic's Methodology:
+  - Initially, Jim soaked patients' feet in plastic tubs as per the clinic's approach.
+  - This process allowed him to learn the importance of patience, listening, and humility in working with homeless individuals.
+  - Barbara McInnis emphasized the value of the clinic's human-centered care and encouraged Jim to shift his perspective away from clinical diagnosis and treatment.
+- Connecting with Patients Through Foot Soaking:
+  - Jim found himself soaking the feet of regular homeless patients, including Mr. Carr, a man he previously encountered at Mass General's emergency room.
+  - Through foot soaking, Jim began to build connections with patients and gain their trust.
+  - The act of soaking feet, though seemingly simple, revealed important medical and diagnostic information while offering relief to patients.
+- Lessons Learned and Clinical Insights:
+  - The foot soaking technique reversed the traditional doctor-patient hierarchy, placing the doctor in a position of service to the patient.
+  - Feet were crucial indicators of internal health problems, such as neuropathies and deficiencies.
+  - Jim's internship at the Pine Street clinic eventually ended, and he reflected on the valuable lessons he learned during his time there.
+
+### Disaster Medicine
+- Early Challenges and Lessons Learned
+  - Jim Fadiman, a doctor in Boston, started his career by focusing on homelessness medicine.
+  - He learned that homeless patients faced unique challenges and taught him the true meaning of "patient-centered" care.
+- Santo's Case: A Lesson in Patient Preferences
+  - Jim encountered Santo, a man with advanced esophageal cancer living in a shelter.
+  - Despite efforts to provide nursing home care, Santo preferred to stay with his drinking friends, emphasizing the importance of patient choices.
+- Overwhelming Workload and Dedication
+  - Jim's schedule was intense, working at multiple clinics, shelters, and even as a medical director at a detox facility.
+  - His commitment to patients led him to work around a hundred hours per week, with colleagues sharing similar dedication.
+- Emotional Toll and Coping Strategies
+  - Jim's medical school training in "compartmentalization" helped him manage emotional aspects of patient care.
+  - However, the accumulation of challenges and preventable deaths took a toll on his emotional well-being.
+- Catharsis and Philosophical Reflections
+  - Friday nights at Doyle's Cafe allowed Jim and colleagues to share their frustrations and find catharsis through discussions and beer.
+  - Jim often thought about Albert Camus' essay "The Myth of Sisyphus," relating the struggle to the nature of his work.
+- Barbara's Guidance and Maintaining Perspective
+  - Barbara, a colleague, reminded Jim that he couldn't fix everything and shouldn't strive to be a "saint or zealot."
+  - Her advice to focus on doing the job and not trying to be all-powerful resonated with Jim's approach.
+- Personal Growth and Reshaping Priorities
+  - Jim initially considered working at a prestigious institution but decided to stay in homelessness medicine.
+  - He embraced his role, recognizing the significance of caring for the sick in a world full of challenges.
+
+## The Pantheon
+
+### Numbers
+- Emergence and Driving Factors
+  - The modern era of American homelessness started in the 1980s, with rising visibility and scale of the problem.
+  - Various factors contributed: treatment of Vietnam veterans, inadequate care for mentally ill individuals, job and wage decline, racist housing policies, drug and AIDS epidemics, complicated Social Security disability applications.
+- Political Context and Shifting Responsibility
+  - While Reagan's administration is often criticized for deep cuts in programs for the poor and housing supply decline, Democrats also played a role.
+  - Homelessness persisted and grew across multiple presidencies, reflecting complex and systemic issues.
+- Elusive Numbers and Underestimated Problem
+  - Counting homelessness was challenging; official counts overlooked various situations like hospitalization or temporary stays with friends.
+  - Estimates of homelessness varied greatly, with nongovernmental sources suggesting higher numbers, highlighting the difficulty in accurately measuring the issue.
+- Housing Insecurity and Future Concerns
+  - "Housing insecurity" was widespread, with millions of households at risk of eviction or struggling to pay rent.
+  - Evictions and housing costs were likely to drive homelessness rates higher, particularly in cities like New York and Los Angeles.
+- Local Impact and Massachusetts' Situation
+  - Massachusetts experienced a significant increase in homelessness between 2012 and 2017.
+  - In Boston alone, an estimated 24,000 to 36,000 people experienced homelessness at some point during a single year.
+- Diverse Homeless Categories and Challenges
+  - Homelessness had complex categories: "hidden," "transitional," "episodic," and "chronic."
+  - Chronic homelessness had subgroups—shelter-based and rough sleepers—with different demographics and challenges.
+- Street Team's Focus on Rough Sleepers
+  - The Street Team targeted hardcore rough sleepers, around 300 to 400 individuals.
+  - These patients faced harsh realities, with elevated death rates and unique challenges.
+- Jim's Role and Dedication
+  - Jim Fadiman, instrumental in the Program, focused on overseeing the operation and leading the Street Team.
+  - He directed his doctoring efforts towards rough sleepers, driven by the challenges they faced and the personal connections he formed.
+- Challenges and Humanity
+  - The challenges inherent in homelessness work appeared to captivate Jim, drawing him to the field.
+  - The faces of those affected kept him engaged and dedicated to making a difference.
+
+### A New Face
+- Natural Pre-admiration
+  - Jim possessed the skill of "pre-admiration," treating individuals with respect regardless of their appearance or situation.
+  - This quality contrasted prejudice and showcased his innate ability to connect with people from all walks of life.
+- Street Clinic and Transforming Spaces
+  - The Street Clinic, established in 2002, provided a dedicated space for homeless patients at Massachusetts General Hospital.
+  - Originally sharing space with traditional patients, it later gained its own area, fostering a more comfortable environment for both groups.
+- Balancing Chaos and Order
+  - The clinic's waiting room presented a mix of chaos and order, with homeless patients and their belongings coexisting with staff and volunteers.
+  - Street Team members engaged in tasks ranging from helping patients fill out forms to offering advice, consolation, and mediation.
+- Jim's Role as Physician and Listener
+  - Jim embraced the roles of both physician and listener during clinic days.
+  - Rough sleepers often required extended visits, not only for medical reasons but also for emotional support.
+  - His background as a bartender aided his ability to engage with diverse people, a skill honed by listening to a wide array of patrons.
+- Meeting Tony: A Complex Encounter
+  - On a September 2016 Thursday, a new patient, Anthony Columbo, arrived seeking "Dr. Jim."
+  - Tony's appearance and demeanor were distinctive; he was lean, muscular, and wearing layers of clothing.
+  - He introduced himself as Tony, sharing his health challenges, drug usage, and need for Suboxone.
+- Ethical Dilemmas and Decision-Making
+  - Jim hesitated to prescribe Suboxone immediately due to concerns about potential misuse.
+  - He considered taking a urine sample and prescribing the medication the following week.
+  - Tony's desperation and vulnerability led Jim to make a decision based on compassion and the desire to help.
+- Aiding Beyond Medical Care
+  - The encounter extended beyond medical concerns as Tony revealed he lacked identification.
+  - Jim offered to accompany Tony to the pharmacy and vouched for his identity, reflecting his commitment to comprehensive care.
+- Navigating Challenges and Providing Support
+  - The process at the pharmacy was not smooth; Medicaid initially didn't cover Tony's Suboxone.
+  - Jim offered to pay for the prescription, but eventually, Medicaid covered the cost.
+  - Jim's willingness to assist financially demonstrated his understanding of patients' needs and his commitment to providing effective support.
+- A Meaningful Connection
+  - Jim's interaction with Tony extended beyond medical care; he bought Tony a sandwich and gave him a twenty-dollar bill.
+  - Jim's habit of discreetly giving money to patients had developed over time, showing his concern for their well-being.
+  - The experience left a therapeutic impact, potentially incentivizing Tony's return and underscoring the importance of connection and empathy.
+
+### The Street Team Meeting
+- Changing Faces and Challenges
+  - Street Team experienced turnover in its members over the years, with unique challenges faced by each individual.
+  - Long hours, demanding clinical work, and the need for continuity of care posed difficulties for team members.
+- A Calling and Dual Nature of Work
+  - A nurse practitioner shared the demanding nature of the job, highlighting the need for dedication and considering it almost a calling.
+  - The work's highs and lows were pronounced, requiring a deep commitment.
+- Current Team Composition
+  - The current core Street Team consisted of eight members, including an assistant, team manager, recovery coach, psychiatrists, and nurse practitioners.
+  - Regular meetings twice a week facilitated communication and coordination.
+- Challenges of Scheduling and Patient Flow
+  - Rough sleepers faced challenges in keeping appointments due to the chaotic nature of their lives.
+  - Patient attendance varied, sometimes influenced by weather conditions or Social Security checks.
+- Complex Clinic Environment
+  - Mass General's Wang Center provided a space for rough sleepers to wait for appointments.
+  - Patients would interact with each other, some checking vital signs while others engaged in conversations.
+- Wide Range of Medical and Psychosocial Issues
+  - Medical conditions like hypertension, diabetes, and emphysema were common among patients.
+  - Psychosocial issues took precedence in discussions, focusing on loneliness, domestic violence, addiction, and mental health challenges.
+- Street Team's Multidimensional Approach
+  - The team discussed complex matters beyond medical conditions, such as loneliness, attacks, substance abuse, and more.
+  - Their collective knowledge encompassed various dimensions of each patient's life.
+- Specialties Within the Team
+  - Each team member had specific expertise, with roles ranging from case management to addiction treatment.
+  - Beckie Tachick managed housing opportunities, while Mike Jellison provided insights into addiction and its treatment.
+- Institutional Memory and Values
+  - Jim served as the institutional memory of the team, imparting wisdom from previous Street Teams.
+  - Continuity of care was a fundamental principle, emphasizing the importance of multiple providers seeing each patient.
+- Balancing Certainty and Complexity
+  - Jim's preference for uncertainty and complexity contrasted with the residency-influenced drive for certainty in medicine.
+  - The idea of "negative capability" was valued, where accepting complexity was as important as finding immediate solutions.
+- Individual Differences and Team Harmony
+  - Some tension existed between Jim and Kevin, the younger doctor, stemming from differences in experience and approaches.
+  - The team's diversity allowed for honest discussions about patient preferences and team dynamics.
+- Dr. Jim Bonnar's Influence
+  - Dr. Jim Bonnar, an experienced psychiatrist, played a significant role in the team meetings.
+  - He shared insights about patients' psychological struggles, the prevalence of childhood trauma, and the complexities of treating mental health issues.
+- Background of Patient Trauma
+  - Dr. Bonnar and Jim carried the weight of patients' traumatic childhood experiences.
+  - A large percentage of homeless patients suffered from substance abuse, mental illness, and severe childhood trauma.
+- Street Team's Role in Repairing
+  - Although working downstream from prevention, the Street Team aimed to provide repairs for patients' troubled pasts.
+  - The team's dedication was driven by the desire to alleviate suffering and provide meaningful care.
+
+### Angels Without Wings
+- Tony's Profound Admiration
+  - Tony Columbo, a homeless patient, praised Dr. Jim and the Street Team in an enthusiastic and exaggerated manner, referring to Jim as the "cawnahstone" (cornerstone) of the Program.
+  - Tony expressed gratitude for the compassion and care that Jim and the team provided to everyone, emphasizing their impact on the lives of rough sleepers.
+- Jim's Humble Reaction and Qualifications
+  - Jim, characterized as modest and self-effacing, tried to downplay Tony's praise, quoting Barbara McInnis on the interesting and complex nature of their work.
+  - Despite Jim's humility, being called a "saint" improved his reputation in the eyes of many.
+- Tony's Fond Memories and Tribute
+  - Tony recounted their first meeting, recalling Jim's kindness and compassion.
+  - He described Jim as more caring and concerned about his health than anyone else.
+- Acknowledgment of Street Challenges
+  - Jim mentioned the chaos downstairs, referring to the challenges and issues faced by homeless individuals in the waiting area.
+  - Tony's praise seemed aimed at preempting judgment and affirming his own worth in the eyes of the doctor.
+- Jim's Approach and Tony's Complex Moral Code
+  - Jim smiled and listened to Tony's tribute, acknowledging his role in the patients' lives.
+  - Tony's moral code involved hiding his vices from Jim out of respect and admiration, reflecting a complex sense of honor.
+- Medical Interaction with Tony
+  - Jim discussed Tony's medical records and praised his improved health, emphasizing his positive urine test results.
+  - Tony's blood pressure, which had been high earlier, had improved during the visit, showcasing the positive impact of their care.
+- Patient-Specific Challenges and Support
+  - Tony's appointments often had extended discussions due to the complex challenges of his life on the streets.
+  - Support included budgeting for cash gifts, assisting in finding housing, refilling prescriptions, providing essential items, and addressing everyday needs.
+- Sharing Street Knowledge
+  - Tony shared insights about drug use trends on the streets, discussing various substances and their effects.
+  - He also mentioned the "right to shit," referring to the importance of access to bathroom facilities for homeless individuals.
+- Exchange of Street News and Updates
+  - Tony updated Jim on rumors and events within the homeless community, such as drug use trends and recent deaths.
+  - Jim valued Tony's information as it kept him informed about the patients' lives.
+- Tony's Potential Pantheon
+  - Jim remembered other memorable patients from his past, like David and Harrison, two former professors with unique backgrounds and challenges.
+  - He considered Tony a candidate for his own pantheon of vivid and distinct patients.
+- Impact of Tony's Presence
+  - Jim saw Tony as unique compared to past patients, as he was more integrated into the homeless community.
+  - Tony's dynamic presence made him stand out and created an unexpected connection with the team.
+- Tony's Code and Enforcer Role
+  - Jim described Tony's moral code, focusing on not hurting others, as well as his role as an enforcer within the homeless community.
+  - Tony's influence extended beyond his personal circumstances.
+
+### The Memorial Service
+- An Unofficial Gathering Space
+  - Homeless individuals often gather in specific places, leading others to avoid those areas.
+  - The Street Team's patients had claimed an outdoor area called Mousey Park, situated at Mass General, where they congregated to socialize, argue, drink, and sometimes even sleep.
+- Mousey Park's Significance
+  - Mousey Park was a concrete seating area near Mass General's towering buildings and bustling Cambridge Street.
+  - Named after a deceased homeless man, this space held historical importance within the homeless community.
+  - The Street Team organized annual memorial services at Mousey Park to honor those who had died while homeless in Boston.
+- Annual Memorial Service
+  - The memorial service took place on a chilly day in late March.
+  - Around three dozen daffodils were placed around a tree trunk, each representing a person who had died homeless in the past year.
+  - The congregation included security guards, Street Team members, churchgoers from St. Paul's Cathedral, and about twenty rough sleepers.
+  - Inequality was evident not just in clothing but in the stark divide between the smiles of the rich and poor.
+- The Ceremony and Participants
+  - Jim and Tony stood out among the attendees: Jim was hatless, and Tony's tall stature was noticeable.
+  - The ceremony was conducted by Reverend Tina, who asked Tony to start the proceedings by calling out a name.
+  - The wind and noise from the traffic on Cambridge Street created a somber atmosphere.
+- Brief yet Poignant
+  - The ceremony lasted only thirty minutes due to the cold and the work commitments of many attendees.
+  - As people dispersed, a group of homeless men huddled by the benches, Tony at the forefront.
+  - The men concealed a communal bottle of vodka behind Tony, wanting to keep their drinking hidden from Dr. Jim.
+  - Tony guarded the bottle while the group shared it, ensuring that Jim wouldn't see them.
+- Tony's Vigilant Role
+  - The men playfully watched out for Dr. Jim, knowing he wouldn't approve of their drinking.
+  - Tony maintained his watchful stance while the bottle was passed among the group.
+  - As the ceremony ended and the crowd dispersed, Jim's silver hair fluttered in the wind as he walked away.
+
+## Against Medical Advice
+
+### No Loud Voices
+- Modest Beginnings
+  - Jim and his colleagues, in establishing the Boston Health Care for the Homeless Program, lacked a dedicated location and operated as guests in various settings.
+  - Diplomacy was crucial due to their small and unproven team status, ensuring they didn't offend the hospitals, shelters, and government entities that supported them.
+- Gaining Authority through Experience
+  - Jim's approach involved accumulating experience to gain authority, which they used to advocate for patients.
+  - Avoiding a strident stance, they aimed to be relied upon for accurate information and calm problem-solving rather than confrontational approaches.
+- Jim's Diplomatic Nature
+  - Jim's demeanor was mild, using polite language even addressing cab drivers as "sir."
+  - He had distinctive laughs: one expressing delight and the other accompanying cautious statements, reflecting his sensitivity to others' comfort.
+  - His reluctance to be forceful sometimes posed challenges, with colleagues wishing he'd be more assertive and direct.
+- The Challenge of Temperance
+  - Even during frustrating moments in his exam room, Jim maintained his composure and avoided raising his voice.
+  - He attributed this restraint to his intern experience and even recalled his childhood anxiety before ball games, preferring sleep as an escape.
+- A Challenging Childhood
+  - Jim's father lacked formal education, worked multiple jobs, and believed mental illness was a matter of character.
+  - Jim's mother faced severe bipolar depression, leading to sudden disappearances and hospital stays.
+  - The family had to cope with her episodes, impacting the children's behavior and creating a guarded atmosphere.
+- Navigating Mental Illness
+  - Mental illness was misunderstood during that generation, seen as a character flaw, and treated with diversions instead of proper care.
+  - Jim's father, while not complaining, struggled through these difficult times as the family grew.
+  - The family dynamics shifted when a new wave of siblings arrived, creating a larger and more challenging family structure.
+- A Profound Revelation
+  - A pivotal moment occurred when Jim's father tearfully explained their mother's absence due to needing professional care and medication.
+  - This revelation offered insight into their mother's struggles, as they now understood she was suffering from a sickness, contrary to their childhood assumptions.
+
+### Upside-Down Medicine
+- Prediction of Corporate Management
+  - In the 1980s, Paul Starr predicted the encroachment of corporate management in medical practices, leading to diminished physician autonomy and increased regulation.
+  - Medical work rules aimed at productivity emerged, impacting doctors' time and interaction with patients.
+- Evolution of Medical Practice
+  - Despite remaining the highest-paid professionals in the U.S., doctors experienced increased work regulation and productivity expectations.
+  - The organization Jim and his colleagues formed in 1985 defied this trend, dedicating ample time to patient care and adopting a patient-centered approach.
+- Patient Engagement and Unconventional Approach
+  - Their mission involved finding and persuading homeless patients to receive care.
+  - Engaging patients required courting and building trust, often with those who had been neglected by the healthcare system.
+  - Anecdote about Jim's encounter with the elderly professor, Harrison, highlighted the effort needed to connect with homeless patients.
+- Human-Centered Medicine
+  - Rather than a focus on vital signs, the priority was being present and standing with patients in their struggles, a philosophy reminiscent of a family doctor from Jim's childhood.
+  - The Program aimed to mend broken individuals by addressing complex medical and social problems faced by homeless patients.
+- Financial Transition and Expansion
+  - The Program's unconventional approach persisted for the first four years, financed by grants that allowed them to focus on patients.
+  - Transitioning to Medicaid funding presented complexities, requiring them to understand intricate rules for reimbursement and billing.
+- Growth and Landscape of Care
+  - The Program's approach gained support from influential figures in Massachusetts, expanding its reach and patient care.
+  - The practice grew from a handful of clinicians serving 1,246 homeless patients to dozens of clinicians attending to over six thousand patients.
+- Building Bridges Despite Criticism
+  - The Program faced criticism, with questions arising about why taxpayer money supported healthcare for homeless individuals.
+  - Jim and his team countered this criticism by emphasizing their role in easing the burden on medical organizations and providing necessary care to marginalized individuals.
+- Sustaining and Adapting
+  - Despite financial success and clinical recognition, Jim's personal life suffered due to the all-encompassing nature of his work.
+  - After a decade as both senior doctor and executive director, he chose to focus on doctoring while relinquishing some administrative duties.
+- Challenges and Evolution of Leadership
+  - Tensions emerged among colleagues regarding the efficiency of the Program's operations, especially concerning Medicaid changes.
+  - Medicaid's potential threat was mitigated by supporters like Bruce Bullen, and a new executive director, Bob Taube, was brought in to oversee administration.
+- Managing Change and Maintaining Values
+  - Taube's leadership brought financial stability but also led to changes that met resistance from clinicians.
+  - Jim's difficulty in saying no complicated management efforts, but Taube's approach facilitated understanding and cooperation.
+- Medicine's Inefficiency and Patient-Centered Approach
+  - Despite administrative changes, Jim's core view of medicine remained unaltered: it's not meant to be efficient but rather patient-centered and attentive.
+
+### Death by Housing
+- A Snapshot of Lives
+  - A photograph taken by a homeless woman captured a group of friends, most of them rough sleepers, sitting together in a park.
+  - Six years later, only one of them was alive; the rest had died from diseases linked to their difficult lives, including alcoholism and tobacco use.
+- Discovering the Cycle
+  - Jim and his team discovered that histories of trauma, abuse, and neglect often led to mental disorders, substance abuse, and early deaths among their patients.
+  - This realization underscored the critical importance of providing comprehensive care and support to the homeless population.
+- Housing First Philosophy
+  - The Housing First concept aimed to provide housing to chronically homeless individuals without requiring them to be "stabilized" first.
+  - The idea was supported by data indicating that a small percentage of shelter users consumed a disproportionately large share of resources.
+- A Test of Housing First
+  - The Street Team received twenty-four housing vouchers as part of a pilot project to implement Housing First principles.
+  - They found that most rough sleepers accepted the vouchers, a significant opportunity for those who had been on the streets for years.
+  - The Street Team continued to provide medical care for these housed individuals despite Medicaid regulations.
+- Challenges of Housing Transition
+  - Housing proved to be a complex transition for many rough sleepers due to lack of experience with indoor living.
+  - Apartments often located in unfamiliar areas, led to social isolation and difficulties in adapting to a structured indoor life.
+  - Patients with schizophrenia fared better than those with more extroverted personalities, who often faced eviction due to partying and disruptions.
+- Lessons from a New York Model
+  - A New York model, Permanent Supportive Housing (PSH), showed success by combining housing with comprehensive support from specialized teams.
+  - New York's model achieved an 88 percent retention rate over five years, proving that stable housing coupled with support can lead to positive outcomes.
+- Mixed Results and Challenges
+  - The Street Team's housing experiment didn't achieve the same level of resources as the New York model.
+  - Despite initial success, many of the rough sleepers housed through vouchers faced eviction, alcohol-related deaths, or a lack of support and community.
+- Assessment of the Housing First Approach
+  - A study conducted over fourteen years revealed that only 12 percent of the originally housed individuals remained in stable housing.
+  - While the Housing First philosophy held moral value, the study showed that housing alone wasn't sufficient to ensure long-term stability.
+- Importance of Comprehensive Support
+  - The study highlighted the need for extensive support beyond just housing, including treatment for underlying health issues and life skills education.
+  - Insufficient support for patients' transition from street to apartment living led to challenges and often short-lived housing stability.
+- Hope and Success Stories
+  - Despite challenges, some individuals experienced positive transformations through housing.
+  - A man in his fifties, who had battled alcoholism and lived on the streets, found success in an apartment near a supportive community and gained skills, even becoming a board member of the Program.
+
+### Eulogies for Barbara
+- Tragic End to a Dedicated Life
+  - Barbara McInnis passed away in 2003 due to complications arising from a minor car accident that resulted in a crack in her femur.
+  - Anesthesia interacted fatally with her diabetes medication during her hospital stay.
+- Fond Memories and Impact
+  - Memories of Barbara persisted in the lives of those she had touched.
+  - Larry Adams and others recalled her compassionate intervention when Larry was contemplating suicide.
+- A Song and Legacy
+  - Barbara was celebrated in a folk song, "A Song for Barbara," for her selfless dedication to helping the poor and homeless.
+  - Even after her death, she continued to inspire and influence Jim and his work.
+- Challenges and Criticisms of Homelessness Advocacy
+  - Critics claimed the Program was part of the "homelessness industry" and diverted resources from creating permanent supportive housing.
+  - Critics argued that focusing on health care for the homeless inadvertently supported the unjust system by treating illnesses rather than prioritizing housing.
+- Response and Barbara's Wisdom
+  - Jim responded to these criticisms by invoking Barbara's philosophy.
+  - He quoted her as saying, "Let's just do the best we can right now and take care of these folks," emphasizing the importance of providing immediate help to those in need.
+- Legacy in Infrastructure
+  - In 2008, the Program established a new headquarters named after Barbara McInnis, housed in a former city morgue on Albany Street.
+  - The building, often referred to as "Seven-Eighty," included a respite hospital with 104 beds, carrying on Barbara's spirit of care for the homeless.
+- Challenges and Realities in the Neighborhood
+  - The neighborhood around the new headquarters was affected by Boston's narcotics epidemic.
+  - The area witnessed scenes of drug addiction and homelessness, creating a challenging environment for the Program.
+- Methadone Mile and Collateral Damage
+  - The nickname "Methadone Mile" referred to the stretch of road that housed two methadone clinics to manage drug addiction.
+  - The influx of people seeking methadone attracted drug dealers, leading to various negative consequences, including rising cases of HIV and street gangs.
+- Efforts to Maintain Peace
+  - Despite the challenging environment, Seven-Eighty aimed to provide a sanctuary for homeless individuals.
+  - The building had a team of security guards and a metal detector to ensure safety.
+- Services Offered
+  - The lobby of Seven-Eighty served as a hub of vital services for the homeless.
+  - Patients visited the pharmacy, dental clinic, and medical clinic, with special care provided for transgender individuals and those with HIV and hepatitis C.
+- Addressing the Drug Epidemic
+  - The drug epidemic had permeated Seven-Eighty's lobby, necessitating vigilance and quick response to potential overdoses.
+  - A soundproof recovery room known as SPOT offered a safe space for individuals to sleep off the effects of drug cocktails.
+- Jim's Evolving Perspective
+  - Jim initially doubted the efficacy of SPOT, but he eventually recognized its value as a compassionate and gentle solution for a vulnerable population.
+
+### Living Life Backwards
+- Jim's Personal Life and Responsibilities
+  - Jim turned sixty-nine in March 2017.
+  - While many of his college friends had retired and had grandchildren, Jim remained active, going to work daily.
+  - He helped care for his three-year-old daughter, Gabriella, a surprise addition to his and Jill's lives.
+- Gabriella's Impact and Reflections
+  - Spending time with Gabriella made Jim feel like he was experiencing his own youth as a bystander.
+  - He often marveled at how close he had come to missing out on such an experience.
+- Home and Daily Routine
+  - Jim, Jill, and Gabriella lived in a three-bedroom house in an outlying corner of Boston.
+  - Jim usually left home around 6:30 AM to avoid traffic, heading to his workplaces at Seven-Eighty and Mass General.
+- Jim's Varied Work Responsibilities
+  - Jim had carved out his current job, which involved a mix of office and fieldwork.
+  - His tasks included Street Team meetings, clinic visits, street rounds, and interactions with senior management.
+  - He also maintained his role as medical director at Andrew House, a detox facility.
+- Guidance and Assistance from Afar
+  - Jim often received calls from nurses at Andrew House while driving between his various work sites.
+  - He provided instructions and diagnoses over the phone, ensuring quality care for patients even from a distance.
+- Lectures and Ambassadorship
+  - Jim spent about a week each month traveling to give lectures on homelessness and medicine.
+  - The board encouraged his efforts, viewing him as an ambassador for the Program and its mission.
+- Stepping Back and Future Vision
+  - The board had gently suggested that Jim consider "stepping back" from patient care and Street Team duties.
+  - Jim entertained the idea of focusing on more leisurely activities, like taking patients on outings.
+- Pride in the Program's Evolution
+  - Reflecting on his career, Jim acknowledged that the Program had grown to become the country's largest medical system devoted to homeless care.
+  - He emphasized its design, offering comprehensive medical care to the homeless population and seeing patients both in clinics and at home.
+- Jim's Evolving Role and Purpose
+  - Jim humorously referred to himself as "redundant," though he still remained dedicated to his medical role.
+  - He continued to care for long-standing patients like Frankie, Susie, BJ, and Tony, standing by them as they faced challenges.
+- Continuing Commitment
+  - Despite the changes and the passing of some long-time patients, Jim intended to keep growing old alongside his patients.
+
+## Searching for Meaning
+
+### A History of Tony
+- Background of Patients and their Stories:
+  - Some homeless patients, like the man who pretended to be a judge, never shared much about their pasts with the doctor.
+  - Jim attended funerals of patients with unknown histories to avoid tainting their memory with past deeds.
+  - Jim restrained his curiosity about patients' pasts when helping them apply for Social Security Disability.
+- Tony Columbo's Early Life:
+  - Tony was born on the Charlestown Bridge in Boston and grew up in the harsh North End.
+  - The neighborhood, despite its reputation, had its share of problems, such as racial inequality and domestic violence.
+  - Witnessed his first murder at a young age, revealing the violence of his environment.
+  - Tony's family struggled with domestic violence, his father's genetics, and poverty.
+- Challenging Adolescence:
+  - Tony's rebellious and criminal behavior escalated during adolescence.
+  - Involved in activities like manufacturing angel dust and committing arson and vandalism.
+  - Engaged in martial arts, spent time in juvenile detention and mental health centers.
+  - Attempted suicide but was unsuccessful due to quick police intervention.
+  - Various diagnoses were given, and he was medicated with psychoactive drugs.
+- Prison Life and Transformation:
+  - Tony was sentenced to prison for a violent sexual crime involving assault with intent to commit rape.
+  - He served 18 years and developed a reputation for protecting inmates and counseling young convicts.
+  - Developed relationships, earned respect, and even received the nickname "Big Tony."
+  - Tony described his experiences, including violence, protection, and camaraderie.
+- Release and Struggles:
+  - Upon release in 2013, Tony faced challenges adapting to a rapidly changing world.
+  - He struggled with technological advancements, unfamiliar social norms, and homelessness.
+  - Tried to adjust to freedom, staying with friends temporarily, and sleeping on the streets.
+  - Re-arrested and imprisoned for failing to register as a sex offender after release.
+  - Experienced despair and pain, turning to substances like Suboxone, cocaine, and synthetic marijuana.
+- Seeking Help and Connection:
+  - Encouraged by a friend, Tony visited Mass General Clinic where Dr. Jim practiced.
+  - Hesitant due to past experiences with doctors, he was initially skeptical of receiving genuine care.
+  - Billy Goat, a friend, insisted that Dr. Jim would truly help him, urging him to give it a chance.
+- Tony's Journey Continues:
+  - The story of Tony Columbo demonstrates his complex life, struggles, transformations, and efforts to find connection and care amidst adversity.
+
+### Inventing a Purpose
+- Introduction:
+  - The story is set in early spring 2017 and revolves around Tony, who had followed Billy Goat's advice six months ago.
+  - Tony excitedly tells Jim about his plan to check out a studio apartment, hoping for positive changes in his life.
+- Tony's Hopeful Plans:
+  - Tony is enthusiastic about moving to a studio apartment in Allston, regardless of the area, as he feels well-connected and supported by people.
+  - He anticipates a fully furnished place through assistance from friends at the VA and others who care.
+- Setback and Disappointment:
+  - Beckie, the Street Team's manager, informs Tony that he cannot get the apartment due to housing voucher restrictions for level-three sex offenders.
+  - Tony's optimism is shattered as the landlord's agency refuses his eligibility, leaving him without a home.
+- Impact on Tony's Life:
+  - Jim reflects on the challenges faced by level-three sex offenders in finding housing and employment, leaving them vulnerable to homelessness.
+  - Tony's situation appears bleak due to his classification, limiting his access to a normal life.
+- Tony's Coping Mechanisms:
+  - Tony hides his past as a level-three sex offender from others, including his rough sleeping peers, demonstrating a survival skill he developed in prison.
+  - Despite claiming to have no feelings or hope, he yearns for positive change, partly inspired by Dr. Jim and the Street Team's support.
+- Transformation through Connection:
+  - Tony's encounters with Jim and the Street Team evoke a desire to change, leading him to quit destructive behaviors like substance abuse.
+  - He develops a sense of belonging within the Street Team community, considering them his new family after losing his own.
+- Tony's Aspirations:
+  - Tony desires to serve as a peer counselor and share his experiences to encourage others on their journey to recovery.
+  - He envisions a role assisting Jim during street rounds, seeking purpose and a place for himself within the Street Team.
+
+### The Social Director
+- Jim's Concerns and Challenges:
+  - In 2017, Jim faced worries related to President Trump's efforts to dismantle Obamacare, potentially impacting funding for healthcare programs like the Street Team.
+  - He was involved in compiling a study for the National Academies of Sciences, aiming to demonstrate the health and cost-saving benefits of housing for homeless individuals, despite a lack of comprehensive supporting studies.
+- Jim's Connection to McInnis House:
+  - Visiting patients at McInnis House, especially Street Team patients, acted as therapy for Jim, rejuvenating his spirit and dedication.
+  - McInnis House's respite facility was multi-floored, offering a serene environment compared to the chaotic outside streets.
+  - The respite's structure included common areas, nursing stations, and bedrooms to provide accommodation for homeless patients.
+- Tony's Presence and Contributions:
+  - Tony, a key figure among patients, exhibited resourcefulness by scavenging discarded items from the dining room's trash bin.
+  - His involvement grew, leading to roles like a triage nurse, helping patients in need of special assistance.
+  - Tony's insights into illicit activities within the respite, his role as a social director, and his unofficial monitoring of the premises showcased his evolving responsibilities.
+- Tony's Vigilance and Concerns:
+  - Tony's vigilance extended to identifying spots not covered by security cameras where illicit activities occurred.
+  - He conveyed information to Jim and the respite's manager, Omar, about potential security risks and hidden areas for drug-related activities.
+  - Tony's vigilance stemmed from his care for the well-being of the nurses, patients' safety, and the continued operation of McInnis House.
+- Jim's Perspective on Tony:
+  - Jim appreciated Tony's proactive role, acknowledging his value as a resource due to his keen observation and willingness to engage in various responsibilities.
+  - Tony's influence expanded beyond just monitoring; he became a counselor and mediator, with a vested interest in keeping the respite safe and functional.
+- Tony's Challenges and Instability:
+  - Despite Tony's involvement, he had periods of instability due to his struggles with addiction and difficult circumstances of rough sleeping.
+  - A dramatic incident involving Tony's arrest and brief stay in the ER highlighted the fragile nature of his life on the streets.
+- Jim's Emotional Concern for Tony:
+  - Jim's anxiety about Tony's safety and the challenges he faced was akin to a parental worry, as he recognized the vulnerability and uncertainties of Tony's situation.
+  - The narrative underscores the fragility of Tony's life on the streets and Jim's fear of receiving the worst news about his well-being.
+
+### Autumn Street Rounds
+- Introduction:
+  - A day in the life of Jim O'Connell, a physician working with Boston's homeless population.
+  - Jim's team, known as the Street Team, provides medical care and assistance to homeless individuals.
+- Characters and Setting:
+  - Tony, John Cotrone, BJ, and Karl, who are homeless individuals with their own unique stories.
+  - The scenes take place in various locations, including Mousey Park, Finagle a Bagel coffeehouse, and South Station.
+- John Cotrone:
+  - John Cotrone is a former rough sleeper who has become an essential part of Jim's team.
+  - He gathers news, notes patient whereabouts, and provides Jim with information about patients during rounds.
+  - John's resourcefulness and dedication highlight the innovative roles some homeless individuals create for themselves.
+- Jim's Approach and Challenges:
+  - Jim's approach to his work involves developing connections with his patients and addressing their immediate medical needs.
+  - He navigates challenges such as establishing boundaries, deciding whether to pink-paper mentally ill patients, and dealing with the system's limitations.
+- BJ's Story:
+  - BJ, a homeless individual, undergoes an amputation due to an incurable infection.
+  - Despite his challenges, BJ maintains a sense of humor and resilience, expressing his desire to walk again and stay sober.
+- Reflections and Philosophies:
+  - Jim's work is both fulfilling and discouraging; he finds joy in daily interactions but is aware of the limits of his impact.
+  - Jim's experiences reflect the complex dynamics of homelessness, trauma, addiction, and the struggle for human dignity.
+
+### Success
+- Introduction: Joanne's Themes and Caution
+  - Joanne's career emphasized caution and managing expectations among new Street Team members.
+  - Looming changes in healthcare finance raised concerns about limited success metrics.
+  - Defense: Emphasis on palliative care for chronic illnesses rather than cure.
+- Examples of Successful Recovery
+  - Joe Meuse: Overcame chronic homelessness, now has an apartment, job, and stability.
+  - Board members' stories: Larry, Sara, and Derek, all once homeless, found success.
+- Joanne's Journey from Homelessness to Recovery
+  - Childhood abuse, trauma, early pregnancy, addiction, and struggles.
+  - Emptiness led her to seek external solutions, but eventually found healing from within.
+  - Catholic school background and faith's role in her recovery.
+- Medical Challenges and Joanne's Resilience
+  - Confronted with HIV, AIDS, hepatitis C, rheumatoid arthritis, and pulmonary hypertension.
+  - Despite health issues, remained sober and rebuilt relationships.
+  - Gradual recovery: Hidden from Jim initially, eventual engagement with McInnis House.
+- Joanne's Contribution and Lessons for Medical Professionals
+  - Transition to housing involved struggles, learning to adapt, and creating a housing guide.
+  - Compassion and listening are key: Address patients as equals, consider their experiences.
+  - Joanne's involvement with Health Care for the Homeless, her busy schedule, and dedication.
+- Importance of Truth and Honest Communication
+  - Doctors should provide honest information, even if uncomfortable for patients.
+  - Joanne's appreciation for doctors who communicate truthfully and compassionately.
+  - Laughter and applause highlight the audience's engagement.
+
+## A System of Friends
+
+### Winter Comes
+- Tony's Interactions and Challenges:
+  - On a chilly December night, Jim encountered Tony outside a shelter. Tony requested a "loan" and shared his struggles, like visiting the ER for knee pain and dealing with homelessness.
+  - Tony tried to help BJ, a legless man, with survival, often overseeing his needs, finding sleeping spots, and providing food and blankets.
+- Jim's Compassionate Approach:
+  - Jim found joy in his work as a street team member, emphasizing the importance of building friendships and breaking professional boundaries to help the homeless population.
+  - He visited John Cotrone, an elderly man in the hospital, understanding the significance of companionship during difficult times.
+- Challenges and Loss:
+  - BJ faced challenges as a disabled homeless person, and Tony tried his best to support him. BJ's health deteriorated, prompting concerns about his alcohol consumption and well-being.
+  - Tony's dedication to caring for BJ was contrasted with his frustrations due to the difficulties of helping the homeless.
+- Tragic Events and Relationships:
+  - Rocky, Tony's friend, passed away in a hospital room. Tony was deeply affected and attended to Rocky's needs during his final moments.
+  - Tony's relationship with BJ was marked by his attempts to keep BJ safe and cared for despite BJ's resistance to help.
+- Stories of Survival and Struggle:
+  - Angie, a woman with a difficult past of abuse and addiction, shared her experiences of homelessness, sobriety, and her current challenges.
+  - Tony faced health issues, including hepatitis C, and legal troubles related to his sex offender status. His situation was discussed by the team, highlighting his struggles.
+- Challenges of Winter and Shelter Shortages:
+  - As winter arrived, the homeless faced challenges like frostbite. McInnis House, a shelter, became full, leaving some without a place to stay.
+  - Jim encountered difficulties finding shelter for patients like the woman in Mousey Park, highlighting the lack of options for the homeless during the cold season.
+
+## Tony's World
+- Tony's Unexpected Gestures of Kindness and Alarming Behavior:
+  - On a cold day, Tony surprises Jim's family with a gift-wrapped doll for Gabriella.
+  - Tony's tendency to make sudden appearances and departures puzzles the Street Team.
+  - His dramatic encounter with a drug dealer, Deuce, and his vow to keep meth out of Boston.
+- Exploring Tony's Underground World:
+  - Jim joins Tony in exploring the underground tunnels and stations of Boston's subway system.
+  - Tony's strategies for accessing train platforms without a pass or money.
+  - His special places, including a spot on a subway platform where he once contemplated suicide.
+  - Tony's encounters with cops, secrets of hidden rooms, and his knack for finding useful items.
+- Tony's Life of Survival and Vulnerabilities:
+  - Tony's resourceful scavenging for food and cigarettes, often from dumpsters or discarded items.
+  - His trust and vulnerability in relationships often leading to theft by friends.
+  - His struggles with staying awake, exhaustion, and sleeping on the streets.
+  - Tony's sense of cleanliness and maintaining personal hygiene.
+- Tony's Observations and Acquaintances:
+  - Tony's knack for observing details in the city, sharing stories and trivia about landmarks.
+  - His interest in protecting vulnerable women as nighttime companions.
+  - His frequent interactions with law enforcement officers and his evasive techniques.
+- Challenges of Substance Abuse and Homelessness:
+  - The role of substance abuse in Tony's life, including crack cocaine and K2.
+  - The Street Team's understanding of how drugs and alcohol can become coping mechanisms for homeless individuals.
+  - The complexities of managing homelessness and addiction simultaneously.
+- Tony's Memory and Perceptive Abilities:
+  - Tony's remarkable memory and ability to notice and remember details.
+  - His ability to recite historical information and stories about Boston's landmarks.
+  - Jim's acknowledgment of Tony's perceptiveness and insights, tempered by his difficulty managing himself.
+
+### The Beauty of Human Connection
+- Eileen Reilly and the Street Team: A Journey of Compassion
+  - Eileen Reilly, a psychiatrist with decades of experience in the Street Team, finds their work to be timeless and unchanging, offering both comfort and terror.
+  - The Street Team's unique approach to outreach transforms familiar places into symbols of connection with homeless individuals like Harmony and Jake.
+  - The organization fosters human connection and dignity through open dialogue, contrasting with the aggressive atmosphere of many institutions.
+  - Julie, Jim's assistant, is drawn to the team's compassionate work and sacrifices her high-powered job to become a part of it.
+  - Julie's genuine care, grounded demeanor, and feminine energy contribute to the organization's calm and empathetic environment.
+- Inside Seven-Eighty: The Heart of the Street Team
+  - Seven-Eighty serves as the headquarters for the Street Team, embodying a sense of belonging and community.
+  - Jim's photographs of patients line the walls, marking the team's territory and commitment to their cause.
+  - Monday meetings are informal, fostering camaraderie among team members and providing a space to discuss patients, challenges, and odd occurrences.
+  - The question "Who are we worried about?" becomes a routine, reflecting the team's dedication to their most vulnerable patients.
+- Trials and Triumphs: Human Stories of Struggle and Resilience
+  - The winter's bitter cold tests the Street Team's resolve as they encounter patients like BJ and Arnold struggling with homelessness.
+  - Arnold's defiance of authority and a broken soul are revealed as he navigates rejection from shelters and nursing homes.
+  - Jim's efforts to help Arnold demonstrate the complexity of aiding homeless individuals, even as they battle health issues and isolation.
+- Compassion in Action: The Unyielding Spirit of the Street Team
+  - Julie's dedication shines as she remains committed to helping homeless individuals, even in the face of bureaucratic obstacles.
+  - Angie's struggles to find housing and the team's unwavering support highlight the importance of human connection.
+  - Jim's determination to bring comfort and relief to those like Arnold underscores the team's mission to alleviate suffering and provide hope.
+  - The Street Team's ongoing challenges demonstrate the dire need for holistic, compassionate solutions for homelessness.
+
+### Sisyphus
+- Tony's Role and Relationships:
+  - Tony's role is to gather patients, hand out cigarettes, and maintain a sense of camaraderie.
+  - His relationships with other patients, like Ronnie and Nick, involve playful interactions and discussions about the respite's food.
+- Tony's Departure and Return:
+  - Tony leaves McInnis House due to overwhelming requests for help; Jim gives him money and cigarettes.
+  - Tony's departures are cyclical, sometimes abrupt and erratic; he spends time outside, struggling with his mental health and addiction.
+  - His return to McInnis House brings stability, rest, and medical treatment that positively transforms him.
+- Challenges and Patterns:
+  - Tony's life is marked by cycles of breakdowns and moments of sanity, with periods of being helpful and moments of self-doubt.
+  - He struggles with his past, his time in prison, and feelings of betrayal, even while taking on roles of mediation and support.
+- Tony's Insights and Interests:
+  - Tony defies expectations; despite a tough background, he rejects prejudice, values open-mindedness, and appreciates art and psychology.
+  - He engages in deep discussions about paintings at the Museum of Fine Arts, showing insight and sensitivity.
+- Personal Growth and What Could Have Been:
+  - The story suggests Tony's potential for growth and transformation if given the right circumstances.
+  - Despite his challenging life, Tony displays moments of wisdom and empathy, challenging the limitations society places on him.
+
+### Boundaries and Limits
+- Memorial Service and Changing Landscape:
+  - The 2018 memorial service in Mousey Park paid tribute to deceased rough sleepers with sunflowers bearing their names.
+  - Tony's absence was deliberate, preventing him from leaving McInnis House prematurely.
+  - Jim realized the growing gap between the old generation of rough sleepers he knew and the new faces replacing them, evoking a sense of evolving community dynamics.
+- Retreat and Team's Reflection:
+  - The team held a retreat in a skyscraper conference room, reflecting on their role in light of changing circumstances.
+  - Jim shared historical photos and discussed the program's origin as a catalyst to shift homeless care from charity to comprehensive healthcare.
+  - They questioned their role in the context of the increasing number of new homeless individuals and the dilemma of selecting whom to focus on.
+- Challenges and Questions:
+  - The team grappled with limited resources and overwhelming substance use disorder cases, feeling the pressure to help more effectively.
+  - Dr. Bonnar emphasized the importance of the team's role as the primary connection to humanity for the patients.
+  - Balancing the desire to help everyone with the need for boundaries and self-care was a central challenge discussed.
+- Facing Burnout and Complexities:
+  - Jim acknowledged that the process of addressing the multifaceted reasons behind homelessness can be lifelong and Sisyphean.
+  - The team openly voiced their struggles and dilemmas, recognizing the complexity of their task and its potential for burnout.
+  - They pondered how to derive joy and fulfillment from their work amid the enduring challenges of the homeless population.
+- Evolution and Resilience:
+  - The team's reflections didn't convey pride or complaints, but rather an honest acknowledgment of the daunting nature of their work.
+  - Despite the difficulties, no one discussed quitting, indicating their dedication and resilience.
+  - The conversation highlighted the need for adaptability and finding personal fulfillment within the complexities of their mission.
+
+### The Gala
+- Jim's Approach to Advocacy:
+  - When Jim spoke about homelessness, he used photos and stories to convey the harsh realities in an agreeable tone.
+  - His presentations aimed to make the homeless situation more relatable and visible, breaking through desensitization.
+- Impactful Talk at Engineering Firm:
+  - Jim's talk at a technology branch of General Electric resonated emotionally with an employee who had become desensitized to homeless individuals.
+  - The employee confessed to gradually ignoring homeless people, emphasizing they weren't inherently bad.
+- Medicine That Matters Gala:
+  - Jim annually spoke at the Program's Medicine That Matters Gala, a significant fundraising event.
+  - The gala drew a diverse crowd including medical professionals, donors, politicians, and prominent citizens.
+  - Private donations supported the program, and the governor of Massachusetts attended.
+- Michael Henry's Journey:
+  - Jim shared the story of Michael Henry, a longtime rough sleeper diagnosed with advanced cancer.
+  - Michael's life had Dickensian elements, marked by a troubled childhood and decades of homelessness.
+  - Despite being left off the city's "chronic list," Michael's persistence and Beckie's efforts secured him housing through creative administrative means.
+  - The audience was shown pictures of Michael's progress, highlighting his journey from the streets to housing.
+- Rebecca's Struggle and Triumph:
+  - Jim recounted the story of Rebecca, a woman who transformed her life from homelessness to stable housing.
+  - Rebecca conquered addiction, obtained a job, and furnished her apartment meticulously.
+  - Her determination and achievements were laudable, including being the first Street Team patient with a valid driver's license.
+  - Eventually diagnosed with late-stage lung cancer, Rebecca fought it with surgery, radiation, chemotherapy, and immunotherapy.
+  - Despite her resilience, gentrification forced her eviction from the apartment she'd called home for almost a decade.
+- Heartfelt Ending:
+  - Jim's candid storytelling transitioned into a tribute to the donors' role in supporting the program.
+  - He expressed gratitude for the privilege of caring for homeless individuals, emphasizing the courage they exhibited in their lives.
+  - Jim concluded with appreciation and a touch of nervousness, leaving the stage.
+
+### The Prism
+- Complexity of Homelessness and Housing:
+  - Jim's initial view was that providing homes would remedy homelessness, but his perspective evolved over time.
+  - Housing First approach highlighted complexities; housing without support often led to eviction and problems.
+  - Housing was intertwined with systemic weaknesses in health care, public health, welfare, education, legal, and correctional systems.
+- Poverty and Homelessness:
+  - Poverty and homelessness were closely related, but not uniformly distributed among groups.
+  - Racial disparities existed, with Black Americans overrepresented among homeless individuals.
+  - Gentrification, insufficient investments in public housing, tax and zoning codes, contributed to homelessness.
+  - Fear of losing housing due to poverty led to physical and mental health issues, perpetuating the cycle.
+- Health Impact and Environment:
+  - Homelessness was linked to health issues such as diabetes, injuries, PTSD, and varied life expectancies.
+  - Environment played a significant role, with violence-prone neighborhoods contributing to health disparities.
+  - Poor living conditions and environments led to worsening health outcomes for homeless individuals.
+- Challenges in Housing Solutions:
+  - Housing solutions were more complex than originally perceived, requiring comprehensive changes across sectors.
+  - Costs of housing initiatives increased, and homelessness persisted due to broader systemic challenges.
+  - Different successful housing initiatives were seen in Denver and San Francisco but faced ongoing challenges.
+- Addressing Homelessness:
+  - Initiatives to combat homelessness included projects converting buildings, rental assistance, and job training.
+  - Public support for remedies was evident, with voter-approved bonds and tax increases to fund solutions.
+  - Organizations like Community Solutions aimed for functional zero homelessness through collaborative, data-driven approaches.
+- Rosanne Haggerty's Approach:
+  - Rosanne Haggerty's approach echoed the public health strategy during Boston's AIDS epidemic.
+  - Creating unified systems in communities, involving multiple agencies to solve homelessness individually.
+  - The strategy involved data-based improvement, ensuring each person's homelessness causes were diagnosed.
+- Challenges in Large Metropolises:
+  - Large cities like New York and Los Angeles faced immense challenges due to fragmented authority and inadequate strategies.
+  - Despite efforts, lack of vision and system for delivery resulted in increased homelessness and public outcry.
+- Reality of Housing Solutions:
+  - Changing zoning laws in Boston wouldn't yield quick results due to costs and time needed for affordable housing.
+  - Current needs for housing and growth in homelessness posed significant challenges for cities.
+- Jim's Role and Perspective:
+  - Jim's work and focus remained on patient care and tackling homelessness at the individual level.
+  - He recognized the limitations of his impact but found fulfillment in patient care and the clinic environment.
+  - Rosanne Haggerty acknowledged that Jim's role was vital within a broader context of systemic changes.
+
+## The Night Watchman
+
+### The Worry List
+- Tony Columbo's Struggles:
+  - Tony Columbo's challenges with substance abuse and mental health persisted.
+  - His behavior alternated between hyperactivity and moments of decline.
+  - Efforts to encourage self-care and address drug issues were unsuccessful.
+- Impact of Jim's Absence:
+  - Tony's difficulties often escalated when Jim was away on trips.
+  - Absence correlated with Tony's abrupt declines and worsening behavior.
+- Concerns and Interventions:
+  - During a team meeting, Tony's deteriorating condition was discussed.
+  - Kevin expressed concern about Tony's erratic behavior and drug issues.
+  - Mike shared difficulties in helping Tony address his drug problem.
+- Changing Patterns:
+  - Tony's pattern included stays at McInnis House, followed by quick exits.
+  - His intervals between hospitalization, disappearance, and resurfacing shortened.
+  - Tony's appearance transformed from a cocaine-depleted look to a revived state.
+- Continued Struggles and Involvement:
+  - Tony faced fear of pursuit by drug dealers and paranoia, leading to hospital visits.
+  - Frequent transitions occurred between McInnis House, mental hospitals, and the streets.
+  - Tony's condition resulted in a continuous cycle of distress and recovery.
+- Tony's Dark Fantasies:
+  - Tony developed a new fantasy about causing harm to those close to him.
+  - This fear led him to leave McInnis House, believing he posed a threat.
+  - He expressed desire to camp in tunnels in another town to prevent harm.
+- Hospitalization and Injury:
+  - Tony was found injured near a hotel, with a knife wound and broken ribs.
+  - Jim visited him in the hospital and discussed his condition.
+  - Surgery was performed to address the knife wound, and Jim commended the result.
+- Supportive Approach:
+  - Jim assured Tony of McInnis House's availability upon hospital discharge.
+  - He offered Tony rest and promised to check on him the next day.
+  - Tony humorously asked for a new life or a gun, to which Jim responded with a supportive remark.
+
+### Button-Down-Shirt Moments
+- Redefining Success in Street Medicine:
+  - Recovery coach Mike employs a perspective that measures sobriety in hours rather than focusing on long-term outcomes.
+  - Mike's buoyancy stems from celebrating small achievements and signs of progress in patients' lives.
+- Angie's Progress and New Family:
+  - Beckie secures housing for Angie, a patient previously fearful of returning to the streets.
+  - Angie's subsidized apartment offers improved living conditions with sea air, gulls, and a kitchen.
+  - She reunites with her daughter and grandson, fostering a newfound family connection.
+- Jim's Anecdotes and Lessons:
+  - Jim imparts lessons through anecdotes, such as the story about Listerine and its alcohol content.
+  - He recalls an era when alcohol-containing Listerine was consumed due to alcohol sale restrictions.
+  - Listerine-related incidents occasionally appeared in patient reports.
+- Transformation of Michael's Life:
+  - Jim had previously showcased Michael, a Black man battling metastatic cancer who lived outdoors for decades.
+  - Michael's promise of housing was fulfilled through Beckie's efforts, providing him a comfortable studio apartment.
+  - Visiting Michael's new home, Jim captures the transformation in photos—Michael with his cat, framed pictures on the walls, and a grin.
+  - Michael's journey from outdoor living to domestication highlights the positive impact of supportive efforts.
+- Positive Outcomes and Improvements:
+  - Celebrating success stories such as Angie and Michael demonstrates the impact of the Program's work.
+    - Mike's approach, Jim's anecdotes, and the efforts of the team contribute to improved lives for their homeless patients.
+
+### The Hug
+- Board Inquiry and Gift-Giving Controversy:
+  - Jim faces a board arraignment for giving money to patients, considered "unprofessional."
+  - An incident involving a veteran named John Jones seeking money from Jim serves as a precursor to the controversy.
+  - The board investigation clears Jim but requests him to cease his practice of giving money to homeless patients.
+  - Despite the cessation of cash gifts, many patients still prefer seeing Jim over other providers.
+- Tony's Emotional Struggles and McInnis House:
+  - Jim maintains a close relationship with Tony, even entrusting him with responsibilities during his stable periods.
+  - Tony's emotional state fluctuates, and Jim's concern for his well-being remains consistent.
+  - McInnis House, mostly funded by Medicaid, provides respite for homeless patients, focusing on their needs over revenue.
+  - Tony's complex medical history and substance abuse issues are reflected in his records, prompting Jim to seek solutions.
+- Housing Challenges and Optimism:
+  - Jim ponders the possibility of housing Tony to improve his stability and well-being.
+  - Tony's sociable nature could present challenges to his housing prospects, but success is not impossible.
+  - Jim envisions a positive scenario where Tony's adherence to medication leads to employment and personal growth.
+  - The ultimate goal is Tony's survival and stability through housing, even if significant challenges remain.
+
+### The Law of Pariahs
+- Legal Challenges for Sex Offenders:
+  - Massachusetts, like other states, has a system to monitor and regulate sex offenders after their release from prison.
+  - Lawsuits have arisen challenging the constitutionality of these measures, with a recent Supreme Court case examining Alaska's Sex Offender Registration Act (ASORA).
+  - The question of whether registration laws are punitive or protective becomes pivotal in these legal battles.
+- Consequences of Registration for Tony:
+  - Tony, a former sex offender, faces severe consequences due to Massachusetts's registration law.
+  - Upon release, his information is published online, and he must regularly register with the Boston Police Department.
+  - These requirements, not originally part of his sentence, lead to homelessness and disqualification from housing and job-training programs.
+  - Massachusetts law offers the possibility of reducing his sex offender level, but it's challenging given his circumstances.
+- Challenges to Obtaining Housing and Legal Compliance:
+  - Tony's efforts to secure housing are hindered by his level-three sex offender status.
+  - Homelessness jeopardizes his compliance with registration laws, resulting in arrest warrants.
+  - Tony faces steep penalties if convicted for failure to register, including potential jail time.
+  - Beckie focuses on securing a special housing voucher for level-three offenders, while Jim works on legal compliance.
+- Hurdles and Strategies:
+  - Returning to the chronic list and avoiding new arrest warrants are crucial steps for Tony's housing prospects.
+  - Beckie and Jim collaborate to address these challenges, aiming to secure Tony's housing and legal status.
+
+### In Boston Municipal Court
+- Court Proceedings and Legal Challenges:
+  - In 2019, a campaign to assist Tony began, aiming to clear his arrest warrants and secure housing.
+  - Jim accompanied Tony to court where he faced charges related to failing to register as a sex offender.
+  - The legal process was plagued by delays, with Tony's lawyer absent at first and other cases taking precedence.
+  - The court system handling cases of the poor struggled with a shortage of lawyers, causing further delays and inefficiencies.
+- Supportive Measures and Frustrations:
+  - Beckie's efforts successfully reinstated Tony on the chronic list, facilitating eligibility for a housing voucher.
+  - Tony's compliance with registration requirements was inconsistent, causing concern about his ability to secure housing.
+  - Tony's oscillating behavior, including meth use and claims of bug infestations, complicated his situation.
+  - Medical issues also arose, with acute urinary retention causing Tony significant pain and discomfort.
+- Tony's Court Appearances and Interactions:
+  - Tony's next court appearance in May was marked by his erratic behavior and a makeshift fishing pole for cash.
+  - Conversations with Jim revealed Tony's fears, beliefs, and sense of impending misfortune.
+  - An encounter with his old friend from prison, Isaac, highlighted the challenges and risks of life on the streets.
+- Court Outcome and Frustration:
+  - Tony's case was once again continued due to lack of necessary documentation and records.
+  - Despite efforts to resolve the legal issues and secure housing, the court proceedings seemed to be mired in inefficiency and lack of progress.
+
+### Childhood
+- Tony's Absence and Gloomy Emails
+   - Tony's absence is noticed by the narrator, and they receive occasional gloomy emails from him.
+   - These emails reveal a hidden sadness behind Tony's cheerful demeanor.
+- Concerns over Tony's Fentanyl Use
+   - Tony's most recent urine sample tests positive for fentanyl, causing alarm.
+   - However, Tony soon enters a revival stage and appears to be doing better.
+   - He attends the annual memorial service with other Street Team patients.
+- Annual Memorial Service in Mousey Park
+   - The memorial service takes place in Mousey Park, where Jim delivers a eulogy for the dead and the impending demolition of the park.
+   - Many Street Team patients, including Tony, attend the service.
+   - The death count is lower than the previous year, with only eighteen casualties.
+- Changes in the Church and Revival Stage
+   - Reverend Tina has been replaced by Reverend Laura at the church.
+   - Tony attends the service and shows support for Reverend Laura by holding an umbrella over her.
+   - During the service, Tony offers up a name in remembrance of someone who has passed away.
+- Tony's Tour of His Childhood Neighborhood
+   - Tony takes Jim on a tour of his old neighborhood, recounting stories from his youth.
+   - They visit significant locations, including Hanover Street, Prado park, and the site of a murder.
+   - The tour includes historical and cultural landmarks, such as the statue of Paul Revere and Copp's Hill Burying Ground.
+- Reconnecting with the Past and Childhood Memories
+   - Tony encounters an elderly woman who grew up in the neighborhood.
+   - He and the woman reminisce about old friends and shared memories.
+   - Tony recalls the sense of community in the neighborhood and how they looked out for one another.
+- Darker Episodes of Tony's Childhood
+   - Tony reveals the basement where he and two other boys were once chained up and abused by a local pederast.
+   - His account of the incident appears nonchalant, as if such horrors were commonplace in the neighborhood.
+   - Jim reflects on Tony's vivid memory of traumatic events and wonders about his psychological response to these experiences.
+- Tony's Struggle to Leave the Streets
+   - The narrator expresses concern about Tony's well-being and suggests the importance of him finding housing.
+   - Tony acknowledges that leaving the streets isdifficult for him and mentions that even if he were to find housing, he might not be seen often.
+   - Jim discusses Tony's challenge of managing his numerous friends and Tony's tendency to say yes to everyone.
+- Momentary Distraction and Future Plans
+   - Tony gets momentarily distracted by Mafia films playing in a restaurant during their lunch.
+   - Before turning his attention to the films, Tony mentions his plan to call a housing agent and visit a potential new place.
+   - Jim expresses hope that Tony will be able to find stable housing and leave the streets behind.
+
+### A Free Man
+- Courtroom Struggles and Tony's Descent:
+  - Tony's efforts to clear his warrants faced challenges due to changing judges, including "Hang-'em-high" who issued default arrest warrants for lateness.
+  - A new charge of trespassing raised concerns, as a sympathetic cop might not have cited Tony.
+  - Tony was ordered to stand trial for failure to register, prompting his belief that he'd end up in jail if he returned in August.
+  - Tony's physical state deteriorated, with injuries and overdose incidents leading to hospital visits.
+  - Jim received updates while away and witnessed Tony's worsening condition upon his return.
+- Confusion and Desperation:
+  - Tony's behavior became erratic, accusing Heather, his favorite nurse, of poisoning him at McInnis House.
+  - Jim intervened and convinced Tony to stay, providing temporary stability.
+  - Tony's experiences portrayed a cycle of decline and renewal, often triggered by external factors.
+- Chaos and Court Proceedings:
+  - Tony left McInnis House without approval, and Jim anticipated him not showing up for a hearing.
+  - Contrary to expectations, Tony arrived, citing an incident where he helped BJ and explaining his timely presence in court.
+  - The judge was different this time, adopting a kindlier demeanor, but still reprimanding late defendants.
+- Legal Resolution and a Glimmer of Hope:
+  - Tony's lawyer, despite being occupied with multiple cases, advocated passionately for his situation, emphasizing the support from Boston Health Care for the Homeless Program.
+  - The judge acknowledged the program's value and facilitated the case's resolution, clearing Tony's warrants.
+  - Despite the legal progress, Tony's status as a sex offender remained, a fact he couldn't escape.
+- A Symbolic Turning Point:
+  - The official clearance brought relief to Tony, as he no longer had to fear being picked up by the police.
+  - Jim's reaction to the news conveyed his happiness and optimism for Tony's future.
+
+### Confession
+- Continued Struggles and Hospital Visits:
+  - Despite efforts, Tony's situation remained precarious as he continued to struggle with alcohol, disappear from shelters, and face hospitalizations.
+  - Tony's emotional state was turbulent, with moments of despair, guilt, and vulnerability surfacing during interactions with Jim.
+- Emotional Unburdening and Past Trauma:
+  - During a car conversation, Tony shared traumatic childhood experiences, including sexual abuse by a priest, shedding light on his deep emotional scars.
+  - Tony's storytelling included distressing memories of abuse, family upheavals, and internal struggles with faith and self-worth.
+- Temporary Relief and Tony's Search for Meaning:
+  - Unable to find an available bed at McInnis House, Jim provided Tony with emergency funds for a hotel room, acknowledging Tony's need for temporary respite.
+  - Tony expressed a desire for something to hold onto, even a verse from the Bible, as he grappled with his overwhelming emotions.
+- A Conversation of Hope and Appreciation:
+  - In a subsequent discussion, Jim spoke to Tony about the meaning he found in helping others and how their shared experiences led to the creation of a supportive community of friends.
+  - Jim assured Tony that he had enriched their lives, though it remained uncertain if these words could truly ease Tony's pain.
+- Continued Struggles and Moments of Clarity:
+  - Tony's struggles persisted, with episodes of erratic behavior and rapid speech interspersed with moments of clarity, acknowledging the existence of goodness in the world.
+- Worries and Hospitalization:
+  - Jim faced his own health issues, undergoing shoulder surgery and discovering a heart anomaly requiring a pacemaker.
+  - Worries about Jim's health reached Mousey Park, leading to concern from Tony and other friends.
+- An Unexpected Visitor and Reassurance:
+  - After Jim's night alone in the ICU, he was surprised to find Billy Bianchino, a long-time patient and a member of the Mousey Park crew, visiting him.
+  - Billy's unexpected presence brought reassurance and camaraderie during a vulnerable time.
+
+### The Night Watchman
+- Tragic Loss and Comfort Amid the Cold:
+  - Elizabeth found solace and warmth in sleeping next to Tony during chilly nights, driven not by romantic involvement but by the need for companionship and protection from the harsh elements.
+  - Tony's presence brought comfort to Elizabeth, who had faced past traumas and feared attacks while sleeping on the streets.
+- Final Night and Worries:
+  - On October 27, 2019, Tony passed away in his sleep on a concrete floor near the Wyndham hotel.
+  - Elizabeth's concern grew as she had witnessed Tony in pain and refusal to return to the hospital, raising worries that he might not want to live anymore.
+- Sorrow and Remembrances:
+  - Tony's death reverberated through the community of rough sleepers and the Street Team, leaving people in tears and shock.
+  - Friends shared stories of Tony's vigilance and protection for those sleeping, especially women, even if he needed similar care himself.
+- Medical History and Severe Infections:
+  - Tony's last week was marked by repeated visits to the hospital due to severe abdominal pain and infections.
+  - He left the hospital against medical advice (AMA) several times, and it was revealed that he pulled out his catheter at one point.
+- Possible Causes of Death:
+  - Jim suspected that Tony's death was due to a combination of untreated infection leading to sepsis and drug use to manage pain.
+  - Tony's history of trauma, abuse, and chronic illness underscored his emotional struggles and complex health challenges.
+- Community Reflections:
+  - The Street Team discussed Tony's passing and the lasting impact he had on their lives.
+  - Tony's generous and protective nature was remembered fondly, despite the hardships he faced.
+- Autopsy Report and Personal Reflections:
+  - The autopsy report indicated that Tony's cause of death was a drug overdose involving alcohol, cocaine, and fentanyl, raising questions about his self-medication to manage pain.
+  - Jim pondered the complexities of Tony's life and how to reconcile his past with the compassionate person he had become.
+- Honoring Tony's Memory:
+  - A makeshift memorial, a drawing and words of remembrance, was created for Tony in Mousey Park by a fellow patient.
+  - Tony's life was commemorated in conversations, eulogies, and stories shared by patients and healthcare providers.
+- Legacy of Kindness and Protection:
+  - Despite Tony's troubled past, he had become a caring protector and friend to many on the streets, leaving a lasting impression on the community.
+  - His story reminded everyone that judgments should be based on present actions rather than past mistakes.
+
+## The Portrait Gallery
+
+### A Pandemic Season
+- Covid's Impact on Vulnerable Communities:
+  - Boston faced severe Covid infections, particularly among nursing homes, jails, and low-income neighborhoods where people with risky jobs lived.
+  - Homeless individuals were expected to be at high risk, yet outdoor living and their untouchable status may have provided some protection during the virus's first wave.
+- Collaborative Response to Protect the Homeless:
+  - Boston's collective effort involving hospitals, health departments, shelters, and officials aimed to safeguard the homeless population.
+  - Testing, isolation units, medical tents, and a field hospital were set up to manage the crisis, with the Street Team actively participating.
+- Jim's Health and Distant Involvement:
+  - Jim faced health challenges himself, battling an autoimmune disorder that required immunosuppressant treatment.
+  - He quarantined with his family, offering encouragement and guidance remotely while observing the Program's response to the crisis.
+- Reflective Moments and Future Plans:
+  - Despite his cheerful demeanor, Jim expressed thoughts about the potential end of his career and feeling irrelevant.
+  - His time away from direct involvement led to contemplation about the direction his life was taking.
+- Return Amidst Covid's Second Wave:
+  - Jim returned to the Street Team, donning a surgical mask due to his immunosuppressant medication, as a new season of Covid emerged.
+  - The team underwent changes with new members and a need for stability and fine-tuning.
+- Adapting to New Realities:
+  - The pandemic necessitated adjustments, transforming Thursday clinic days into street rounds to minimize indoor contact.
+  - Street Team's patients remained relatively untouched by Covid while still suffering typical hardships of rough sleepers.
+- Street Rounds and Familiar Faces:
+  - Jim and Jen, the physician assistant, conducted street rounds, providing care and flu shots to homeless individuals.
+  - Jim's conversational style was characterized by active listening and genuine interest, creating meaningful connections with the people he encountered.
+
+### The Portrait Gallery
+- Photographs as Chronicles of Lives:
+  - Jim's office hallway displays a poignant exhibition of 29 patient photographs, capturing Street Team history through the years.
+  - Jim personally took most photos, carefully selecting faces that resonated with him, spending nearly $100 each for framing.
+  - The portraits tell stories of individuals, both living and deceased, highlighting their unique struggles, personalities, and connections to Jim.
+- Faces with Stories:
+  - Each photograph evokes memories of patients Jim deeply cared about, showing them in various stages of their lives.
+  - The Judge, an aging gentleman with a legal background, used his role to cope with life's hardships, reminiscent of Tony's approach.
+  - Other subjects include Kay, Lena, James Smith (Liam O'Sullivan), Jimmy Dagget, and more, each with their distinctive narratives.
+- Challenges and Triumphs:
+  - The pictures capture a range of experiences—alcoholism, homelessness, disease, and survival strategies.
+  - Some faced tragic ends due to addiction, medical complications, or exposure, highlighting the harsh realities of life on the streets.
+- Connections and Relationships:
+  - Jim's personal anecdotes reveal his close relationships with these individuals, often fostering deep connections that transcended their circumstances.
+  - Love stories, friendships, and support networks emerged among the homeless, creating unique dynamics within the community.
+- Symbolism and Reflections:
+  - The photographs symbolize a silent record of lives lived, acknowledging their existence and struggles amidst the broader society.
+  - Jim's intention to create another gallery in McInnis House's atrium reflects his dedication to preserving these stories and memories.
+- Gretel's Transformative Portrait:
+  - Gretel's portrait, dressed up for the occasion, carries a profound message—hoping for her daughters to find a dignified memory of her.
+  - Her transformation and survival post-liver transplant demonstrate the power of support and the will to overcome adversity.
+- Loneliness and the Human Experience:
+  - Jim's realization that loneliness drives many human actions highlights the universal need for connection and belonging.
+  - Photographs become a way to combat the emptiness, telling the stories of lives that might otherwise be forgotten.
+- Awaiting Reunion:
+  - Gretel's portrait, saved for her daughters, symbolizes the anticipation of reconnection, preserving the possibility of closure for her family.

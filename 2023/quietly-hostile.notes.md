@@ -1,0 +1,511 @@
+
+# Quietly Hostile
+Author: Samantha Irby
+
+## I Like It!
+- Challenging Conformity and Embracing Preferences
+  - Humorously challenges the concept of giving advice while acknowledging the difficulty of making changes in one's life that deviate from the current routine.
+  - Sam emphasizes the embarrassment and self-consciousness that can arise when falling short of personal goals, even for seemingly simple tasks like drinking more water or going to bed earlier.
+  - There's a recurring theme of societal judgment, where people may dismiss or criticize the things others enjoy, leading to feelings of inadequacy and defensiveness.
+- Embracing Personal Preferences and Defying Critics
+  - Sam proposes a coping mechanism: unapologetically expressing enjoyment of things they like. This seemingly simple tactic defies those who criticize personal tastes and preferences.
+  - Highlights the subtle manipulation by individuals who belittle others' choices, making them feel the need to justify their preferences or apologize for them.
+- Overcoming Judgment with Confidence
+  - Sam shares personal experiences of being questioned or criticized for their choices, from coffee orders to entertainment preferences.
+  - Instead of succumbing to embarrassment, Sam suggests confidently responding with a simple "I like it!" as a way to disarm critics and rob them of the opportunity to feel superior.
+  - This tactic shifts the power dynamic and prevents the judgmental person from engaging in further argument.
+- Practice in Self-Acceptance and Defying Norms
+  - Sam playfully presents scenarios where the "I like it!" response can be employed, showcasing how this simple phrase can neutralize criticism across various aspects of life.
+  - The overarching message is to embrace personal preferences without feeling compelled to justify them to others, even when faced with societal norms or trendy opinions.
+- Empowerment Through Personal Assertion
+  - Ultimately encourages readers to embrace their likes and dislikes confidently, without fearing judgment or the need for constant validation from others.
+  - By using the "I like it!" response, individuals can assert their autonomy and stand firm in their choices, reclaiming their sense of self-worth and enjoyment.
+
+## The Last Normal Day
+- Navigating Uncertainty Amidst a Changing World
+  - Sam reflects on the chaotic period before the COVID-19 pandemic took hold, describing the struggles and adjustments they faced during this time.
+  - Sam was initially in Chicago for work on a TV show, expecting a different experience than what reality brought: a focus on work, the challenges of winter, and the limitations of social activities.
+  - The contrast between their expectations and the reality of societal changes due to the pandemic highlights the uncertainty and unpreparedness that characterized this period.
+- Rapid Shifts in Daily Life and Information Overload
+  - As the pandemic news unfolded, Sam felt uncertain and bombarded by conflicting information from cable news, struggling to distinguish between significant events and trivial matters.
+  - Sam's workplace maintained operations, initially adhering to preventive measures that were not yet comprehensive, exemplifying the general lack of understanding about the virus's seriousness.
+- Transition to Remote Work and Heightened Awareness
+  - Transitioning to remote work via Zoom marked a shift towards acknowledging the severity of the pandemic. Sam's boss urged them to leave Chicago, emphasizing the growing threat.
+  - Sam's internal struggle between urgency and caution, coupled with their pondering over the perceived need for excessive items, showcases the personal psychological impact of the pandemic's uncertainty.
+- Journeying Home Amidst a Changing Landscape
+  - Sam's journey home to Michigan involved apprehension about potential virus exposure during pit stops and interactions with public spaces.
+  - They described the eeriness of the deserted highways and the strange mix of relief and fear that came with the deserted roads.
+- Finding Comfort in Familiar Rituals and Places
+  - Sam finds solace in a familiar rest stop, the Flying J Travel Center in Indiana, and the simple pleasure of indulging in comfort food, such as corn dogs.
+  - The ambience and offerings of the travel center offer a moment of respite amidst the overwhelming changes and uncertainty brought about by the pandemic.
+- Emotions and Coping in Times of Crisis
+  - Sam's internal conflict and moments of stress are poignantly captured, reflecting the emotional toll that the sudden shifts and uncertainties of the pandemic imposed on individuals.
+  - Their actions, like washing hands compulsively and overusing hand sanitizers, depict the heightened fear and anxiety that accompanied the early days of the pandemic.
+- Reflecting on Choices and Uncertainty
+  - Sam ponders over their decisions to purchase unnecessary items and create a cozy environment within their temporary living space.
+  - This introspection hints at Sam's deeper motivations and provides insight into how personal tendencies and vulnerabilities shaped their response to the crisis.
+
+## David Matthews's Greatest Romantic Hit
+- Introduction
+  - Sam expresses their unapologetic love for Dave Matthews' music and discusses the surprise and mockery they face for their admiration.
+- Misconceptions and Passion for Dave Matthews
+  - Despite not fitting the stereotypical demographic, Sam passionately defends their love for Dave Matthews' music.
+  - They appreciate the depth of his love songs, which often delve into themes of heartache, regret, and desire, contrary to the common belief of his music being solely jam-band focused.
+- Favorite Romantic Dave Matthews Songs
+  - "If Only": The emotional plea for reconciliation resonates with Sam, reflecting on the power of regret and desire in romance.
+  - "That Girl Is You": The song's playful depiction of a dance floor attraction and the vivid imagery it conjures amuses Sam.
+  - "Little Thing" (Live at Luther College): The song's falsetto-driven emotion connects with Sam's tendency to romanticize brief encounters with strangers.
+  - "Here On Out": The idea of a partner's laugh lighting up one's life strikes a chord with Sam's desire for authentic connection.
+  - "Stay or Leave" (live Vegas version): Reflecting on the desire for a relationship that others admire, Sam humorously acknowledges the reality of their own partnership.
+  - "You & Me" (Planet Hollywood acoustic version): Sam resonates with the sentiment of escaping from the world together with a loved one.
+  - "I'll Back You Up": The desire for unwavering support and trust in a partner's understanding resonates with Sam's longing.
+  - "Say Goodbye": The contradictory nature of desiring a passionate night while knowing it's temporary reflects the reality of short-term affairs.
+  - "The Space Between": Acknowledging the value of silent understanding in a long-term relationship, Sam emphasizes the importance of quiet companionship.
+- Personal Reflections and Live Experience
+  - Sam reminisces about their first Dave Matthews concert, highlighting the sense of belonging in an older audience and the overwhelming emotional experience of seeing a beloved artist live.
+  - Sam humorously muses on their past aspirations to become a singer-songwriter, contrasting their road-trip fantasies with the reality of their specific needs and comforts.
+- Final Thoughts on Dave Matthews' Music
+  - Sam expresses the timeless nature of personal musical preferences, acknowledging that songs can remain relevant despite the passage of time.
+  - Sam finds honesty and humor in Dave Matthews' lyrics, appreciating the admission of fallibility and the exploration of intimate desires in his songs.
+
+## Chub Street Diet
+- Sam Irby's Boring Week Diary
+  - Sam Irby recounts her incredibly uneventful week in a town lacking culinary excitement.
+  - She was asked to participate in a project but had a mundane experience to share.
+- Wednesday, February 9
+  - Sam wakes up in a silent house after her wife's morning routine and wonders if she died.
+  - She pays for a house cleaning service but leaves to avoid their unpredictable arrival.
+  - She consumes probiotic crystals and pre-cleans before dropping her dog at school.
+  - Sam drives around aimlessly, visits a car wash, and ends up at Dunkin' for coffee.
+- Thursday, February 10
+  - Sam has a work meeting she's unprepared for, dealing with scheduling and uncertainty.
+  - She avoids eating during Zoom meetings to prevent awkward moments.
+  - She makes her signature "hot bread" for breakfast and drinks BIOLYTE, dreaming of in-home health care.
+  - Sam prepares kale and white bean soup while enjoying music, and later gets takeout.
+- Friday, February 11
+  - Sam's podcast appearance gets canceled, so she heads to her office and orders takeout.
+  - Her stepkids aren't home, allowing her and her wife to enjoy takeout without cooking.
+- Saturday, February 12
+  - Sam celebrates her birthday with simplicity, reflecting and consuming DripDrop electrolytes.
+  - The day is spent watching the Super Bowl with dips and dip vessels, enjoying the laziness.
+- Sunday, February 13
+  - Valentine's Day dinner is low-key, with ordered flowers and sushi.
+  - Sam recounts her reluctance to visit a florist and the couple's relaxed evening.
+- Monday, February 14
+  - Sam writes about Valentine's Day, describing her marriage's easygoing routine.
+  - She orders sushi for dinner and reflects on their contented love.
+
+## My Firstborn Dog
+- Introduction:
+  - Sam recalls a conversation with a man reminiscing about the past and suggesting they had a child together.
+  - Sam reflects on the absurdity of the idea and lists various reasons why having a child would not be a good idea for them.
+- Reasons Against Having a Child:
+  - Sam humorously imagines what their child might be like, highlighting qualities such as being overweight and raised on unconventional themed dinners.
+  - Concerns about passing on personal health issues and neglecting proper medical care for the child.
+  - Sam's lack of patience for dealing with children and their preference for watching TV rather than engaging in educational activities.
+  - The challenge of instilling discipline and healthy coping mechanisms in a child when Sam struggles with these traits themselves.
+  - Genetic predisposition for bad teeth and poor oral health, leading to potential self-esteem issues.
+  - Sam's own quiet hostility and lack of effective communication skills, which they fear would be mirrored in their child's behavior.
+- Personal Reflections:
+  - Sam reminisces about their own past and how they prioritized their own desires over the responsibilities of parenting.
+  - The decision to never become pregnant and to go to great lengths to avoid having a child.
+- Desire for a Dog Instead:
+  - Transition to Sam's experience adopting a dog named Bubbles (later named Abraham) from a shelter.
+  - Initial reluctance to have a dog but realizing it might alleviate boredom and provide new conversation topics for Sam and their partner.
+  - Sam's enthusiasm for adopting Granny and Felicity, two chihuahuas, despite their immediate adoption by other families.
+  - A detailed list of Bubbles' undesirable behaviors and habits, including excessive barking, naughtiness, and sensitivity.
+- Challenges of Dog Ownership:
+  - Enrolling Bubbles in puppy training class and Sam's unsuccessful attempts to make him behave.
+  - Difficulty finding a suitable daycare for Bubbles due to his behavior.
+  - The experience of Bubbles' first day at daycare, where he stood out as unruly and loud among other well-behaved dogs.
+  - Sam's amusement at Bubbles' report cards from daycare, showing his chaotic interactions with other dogs.
+
+## Body Horror!
+- Introduction:
+  - Sam reflects on a pivotal moment in their mid-to-late twenties when they realized the effects of aging and the need to embrace adulthood.
+- Chasing Adult Milestones:
+  - Sam recalls setting adult-like goals, but struggling to adhere to them due to their innate tendencies and lack of awareness regarding self-care.
+- Romantic Misadventures:
+  - Sam discusses their journey through romantic mistakes, driven by the urgency to catch up with others' experiences.
+  - Describes an awkward encounter involving bathroom activities with a romantic partner.
+  - Chronicles a progressively strange and uncomfortable experience involving bathroom-related fantasies with another partner.
+- Physical Changes and Humor:
+  - Sam's struggles with bladder control, escalating with age, become a central theme of their story.
+  - Humorous anecdotes about instances of involuntary urination and Sam's candid reflection on the indignities of aging.
+- Everyday Challenges:
+  - Sam humorously shares various situations where they unexpectedly urinate, highlighting the loss of bladder control.
+  - Lists instances where laughter, sneezing, and other ordinary activities lead to inadvertent urination.
+- Hydration Dilemmas:
+  - Sam ponders the necessity of staying hydrated and questions the wisdom of consuming copious amounts of water.
+  - Asks if maintaining hydration really leads to improved skin or if it's a marketing ploy.
+- Navigating Medication:
+  - Expresses frustration with the need for various medications to maintain bodily functions as the body ages.
+  - Sam contemplates the inconvenience and necessity of taking multiple pills.
+
+## Two Old Nuns Having Amzing [Sic] Lesbian Sex
+- Exploring Unconventional Erotica in Films:
+  - The text discusses explicit sexual content in films and contrasts it with unexpected actions.
+  - It comments on the blending of explicit content and storytelling reminiscent of Lifetime movies.
+- Fantasies, Desires, and Realism:
+  - Sam reflects on personal sexual preferences, fantasies, and what appeals to them.
+  - Expresses an appreciation for realistic, amateur, or genuine content over contrived scenarios.
+  - Touches on the intrigue of taboo and the dynamics of attraction.
+- Intimacy and Relationships:
+  - Discusses personal experiences and desires regarding intimacy, longing, and companionship.
+  - Reflects on the complexities of sexual relationships and the mixture of emotions they bring.
+  - Imagines intimate scenarios involving deep connections and communication.
+- Depictions in Adult Films and Real-Life Comparisons:
+  - Critiques the portrayal of explicit scenes in adult films, often appearing uncomfortable or unrealistic.
+  - Questions the duration of explicit scenes and the possibility of enjoyment in their extended length.
+  - Ponders whether anyone genuinely analyzes the cinematography or engages with the narrative.
+- Narrative Elements and Emotional Dynamics:
+  - Explores a fictional scene involving two nuns, their interactions, and emotional dynamics.
+  - Describes a poignant interaction between "Mean Nun" and "Sick Nun" involving forgiveness and longing.
+  - Notes the emotional depth and sensitivities portrayed in the interaction.
+- Sensual Moments and Realism in Film:
+  - Describes in detail a sensual encounter between the nuns, including their physical and emotional responses.
+  - Reflects on the realism of the scenario, expressing personal resonance with genuine portrayals.
+  - Expresses frustration with technical difficulties while viewing the video.
+- Longer Duration and Climactic Scenes:
+  - Considers the length of explicit scenes in adult films and the feasibility of such duration.
+  - Reflects on personal preferences and the relatability of the content.
+  - Describes the climax of the scene involving both nuns reaching orgasm and sharing the experience.
+- Overall Impact and Identity Shift:
+  - Concludes with a humorous remark about the impact of the content on personal identity and outlook.
+  - Hints at a transformed perspective and a sense of mild shock or change.
+
+## Qvc, Ilysm
+- Isaac Mizrahi Live! Essentials Pima Cotton Mock Neck Top #A462479
+  - Sam is drawn to persuasive product descriptions and stories.
+  - The host and guests on QVC create compelling narratives about products.
+  - The host Jayne and guest Jackie discuss the features and benefits of a mock neck top made of pima cotton.
+  - Jackie explains the qualities of pima cotton and the versatility of the top.
+  - Sam is captivated by the storytelling and ends up purchasing the shirt.
+- Cable Salesman and QVC Addiction
+  - Sam recounts the experience of dealing with a cable salesman during the pandemic.
+  - QVC becomes a source of comfort and entertainment during the pandemic.
+  - Sam is enamored with QVC hosts and their ability to make products appealing.
+  - The host's enthusiasm makes Sam want to buy items they don't necessarily need.
+- Peter Thomas Roth Anti-Aging Cleansing Gel Duo #A331311
+  - Sam watches QVC despite having sensitive skin, attracted by the promise of transformation.
+  - Sam describes the host Julia's introduction to the cleanser and the audience's anticipation.
+  - Sam questions the use of beauty products and reflects on their experiences.
+  - Sam finds the description of the cleanser's scent intriguing and entertaining.
+  - Julia's description of the product's effects and benefits captivates Sam, even though they might not use all the recommended skincare products.
+- QVC Hosts and Product Presentations
+  - Sam admires the skills of QVC hosts in presenting products and maintaining enthusiasm.
+  - The hosts can effectively describe products, making the audience want to buy them.
+  - Sam humorously presents their own attempt at describing an ordinary item in a sales pitch.
+  - The host Carolyn's presentation of a chore coat convinces Sam to consider buying it.
+  - Sam finds QVC hosts geniuses who could excel in various aspects of their life.
+- KitchenAid Nine-Cup Food Processor Plus with Spatula & Blade Storage #K50013
+  - Sam watches Rick's presentation of a food processor and is intrigued by the display.
+  - Sam considers buying string lights seen in the background.
+  - Rick introduces the Bose Wave Music System IV and plays music to showcase its quality.
+  - Sam hesitates to listen to the QCard offer due to their credit score.
+  - Rick promotes the variety of music the Bose Wave can play, showcasing its versatility.
+  - Brett, the "DJ of the day," plays a song by Hall & Oates, further captivating Sam.
+- Impulse Buying and Enjoying QVC
+  - Sam acknowledges their impulse buying habits, driven by affordable prices.
+  - Despite Sam's recognition of their shopping tendencies, they enjoy the experience.
+  - Sam loves receiving mail and finds joy in QVC's offerings.
+
+## Superfan!!!!!!!
+- General Impressions and Relationships:
+  - The commentary explores various episodes and characters of the TV show "Sex and the City," delving into relationships and character dynamics.
+  - It highlights Sam's fondness for certain characters like Aidan and their frustration with Carrie's treatment of him.
+  - Aidan is described as being more considerate, patient, and loving compared to Big.
+  - Sam finds humor in the cardboard baby Trey got Charlotte and expresses the opinion that Charlotte projected a fantasy onto him.
+  - The friendship dynamic between Miranda and Sam is praised for its authenticity and knowing glances.
+  - Sam criticizes the decision to make Carrie Brady's godmother, favoring someone more financially responsible like Sam.
+- Fashion and Reality:
+  - Sam offers a lighthearted take on Carrie's outfits, acknowledging their impact while admitting a lack of fashion knowledge.
+  - They appreciate moments where Carrie wears relatable and attainable outfits.
+- Dating and Relationships:
+  - The commentary discusses the influence of the "He's Just Not That Into You" episode, emphasizing how it shifted perceptions about dating.
+  - Sam expresses skepticism about unrealistic aspects of casual sex depicted in the show.
+  - They mention Sam's potential for a deeply smitten relationship, suggesting a different storyline for her character.
+- Alternate Storylines:
+  - The commentary proposes alternative outcomes for various episodes, like Steve realizing he's better than Miranda, different romantic choices for her, and the absence of Petrovsky.
+- Final Thoughts on Carrie and Big:
+  - Sam critiques Big's character, considering him noncommittal and manipulative.
+  - They envision an alternative ending where Carrie leaves a letter for Big and heads towards Aidan's farm, or even getting a ride from Ben Affleck.
+
+## I Like to Get High at Night and Think About Whales
+- Finding Relaxation Through White Noise:
+  - Sam describes their use of a White Noise app on their phone, which offers various soothing sounds for sleep.
+  - They reminisce about a hotel experience in Detroit with disruptive noise, leading to their reliance on orange foam earplugs and the app's simulated box fan sound.
+- Fascination with Whales on Social Media:
+  - Sam shares their engagement with Instagram accounts showcasing images and videos of whales in their natural behaviors.
+  - They contrast their preference for wholesome content like whales with their avoidance of negative parts of the internet.
+- Awe for Whales and Existence:
+  - Sam expresses profound wonder and appreciation for the existence of whales and their colossal size.
+  - They highlight the incredible fact of sharing the planet with these massive creatures and the privilege of observing them through technology.
+- Escaping to Ocean Imagery:
+  - Sam describes their imaginative and possibly psychedelic experience of lying still with water sounds in their headphones, envisioning themselves floating on a raft in the ocean.
+  - They detail the sensation of a whale swimming up from the depths and porpoising beside them, evoking both fear and fascination.
+- Emotional Complexity of Whale Proximity:
+  - Sam portrays their mixed emotional response to the idea of being close to a massive whale, a combination of awe, terror, and an almost sexual sensation.
+  - They convey the intensity of this mental scenario, involving clear skies, twinkling stars, lapping waves, and the presence of the colossal creature.
+- Favorite Sleep Inducer:
+  - Sam concludes by sharing that imagining this scenario is their preferred method of drifting off to sleep, referring to it as "YEARNING FOR THE CHILLNESS OF WHALES."
+
+## Oh, So You Actually Don't Wanna Make a Show About a Horny Fat Bitch With Diarrhea? Okay!
+- Introduction: Sam's Quirky Life
+  - The episode opens with Sam and her quirky, messy life, including her roommate Brandon and her unconventional interactions with him.
+- Writing Dreams and Delusions
+  - Sam contemplates writing again and desires to impress her crush, Brandon, with her work.
+  - She reflects on her past experiences and creative endeavors, such as a monologue she wrote for a play.
+- Dive Bar Shenanigans
+  - Sam hangs out at a dive bar with her friend Jenny, recounting their wild past and current disagreements.
+  - The scene introduces Fernando, the host of an open-mic storytelling show happening at the bar.
+- Awkward Moments and Personal Quirks
+  - Sam's interactions at the bar include texting Jenny's mom and discussing her intestinal issues openly.
+  - The episode humorously portrays Sam's gastrointestinal problems and her awkward social interactions.
+- Embarrassing Situations Unfold
+  - Sam ends up vomiting at a wedding venue, causing chaos and hilariously disrupting the wedding festivities.
+  - The show delves into Sam's embarrassment and her attempts to navigate the situation.
+- Hospital Visit and Reflections
+  - Sam's condition worsens, and she finds herself in the hospital, facing various medical tests and uncertainties.
+  - The episode reflects on Sam's health struggles and her interactions with Dr. Mehta.
+- Crush and Comedy
+  - Sam receives a text from Brandon, reigniting her crush on him and motivating her to start a blog.
+  - The show explores Sam's romantic interests and comedic perspective on her life's challenges.
+- Voicemails and Relationships
+  - Sam listens to a series of voicemails, highlighting her relationships with various characters, including her boss, friends, and potential romantic interests.
+  - The voicemails showcase the dynamics in Sam's life and her quirky interactions with those around her.
+- Conclusion: Quirky Resolutions
+  - The episode ends with Sam walking along the street, reflecting on her experiences and interactions.
+  - A voicemail from Dennis adds a comedic touch, wrapping up the episode with a glimpse of the ongoing chaos in Sam's life.
+- Themes and Humor
+  - The episode humorously explores themes of health issues, personal quirks, relationships, and pursuing creative aspirations.
+  - Sam's unique perspective and interactions create comedic moments that highlight the challenges of her everyday life.
+- Character Development and Story Arcs
+  - Sam's character is introduced with her quirks, health struggles, and crush on Brandon.
+  - The episode presents potential storylines involving Sam's relationships, health issues, and creative endeavors.
+- Setting and Atmosphere
+  - The dive bar, wedding venue, and hospital provide contrasting settings for humorous and awkward interactions.
+  - The atmosphere of the episode reflects Sam's chaotic and unconventional life.
+- Hopes and Ambitions
+  - Sam's desire to impress Brandon and start a blog showcases her aspirations and potential character growth.
+  - The episode hints at Sam's personal development and her pursuit of self-expression.
+- Humorous Situations and Timing
+  - The comedic timing of awkward moments, bodily functions, and unexpected disruptions adds humor to the episode.
+  - Sam's reactions to various situations create a relatable and amusing viewing experience.
+- Ongoing Story Potential
+  - The episode sets the stage for potential future developments, including Sam's relationships, health issues, and creative endeavors.
+  - The show leaves room for further exploration of Sam's quirky life and the challenges she faces.
+
+## What if I Died Like Elvis
+- Initial Health Crisis and Hospital Arrival:
+  - Sam experienced sudden anaphylactic shock and sought medical help.
+  - Despite feeling sick, they attempted humor, resulting in a nurse's quick response.
+  - The nurse rushed Sam to the triage room for assessment.
+- Humorous Descriptions Amid Medical Crisis:
+  - Sam's humorous thoughts persisted despite their worsening condition.
+  - Swollen fingers, difficulty breathing, and ballooning tongue led to comedic observations.
+  - The medical team's swift actions and chaotic scene were ironically described.
+- Personal Reflections Amid Emergency:
+  - Sam pondered their inclination to make jokes even in dire situations.
+  - Thoughts about death and dying with a sense of absurdity were prevalent.
+  - Sam's reflections on their weight, sharing finances, and pandemic fears arose.
+- Medical Procedures and Doctor's Instructions:
+  - Sam received intense medical attention, including IV, EpiPen, and heart monitors.
+  - The medical staff worked efficiently to address the anaphylactic shock symptoms.
+  - Sam contemplated their calm demeanor in emergencies.
+- Realization and Comedy Amid Recovery:
+  - Recovery included antihistamines, prednisone, and monitoring of swelling.
+  - Sam suppressed humor during crucial moments, trying to cooperate.
+  - A lighthearted perspective was maintained, even in stressful times.
+- Medical Insight and Humor in Adversity:
+  - Sam discussed their role at an animal hospital and ability to stay composed.
+  - The contrast between composure in emergencies and personal anxieties was noted.
+  - Sam found humor in newfound knowledge about the body, contrasting it with discomfort.
+- Epipen, Medication, and Future Precautions:
+  - Sam left the hospital with an EpiPen prescription and reflections on its implications.
+  - They highlighted encounters with insufferable individuals and their own fears of becoming one.
+  - Sam sought an allergist's advice, sharing experiences like eczema, wheezing, and fragrance sensitivities.
+- Adjusting to New Realities and Sacrifices:
+  - Sam learned about their anaphylactic trigger - a coloring agent in probiotics.
+  - Future avoidance of artificial colors and fragrances was necessary, leading to humorous thoughts.
+  - Sam acknowledged potential awkwardness in asking others to accommodate their sensitivities.
+
+## Shit Happens
+- Public Toilet Clogging and Consequences
+  - Clogging public toilets is embarrassing and inconvenient for others.
+  - Sam describes the awkwardness of having to deal with clogs and toilet paper blockages.
+  - The etiquette is to address the issue, either by plunging, breaking up the mess, or alerting someone to fix it.
+- Using Someone Else's Shower and Bathroom
+  - Guests using hosts' showers should feel comfortable using available products.
+  - Sam humorously discusses their well-stocked bathroom and the assortment of products they offer.
+  - It's fine to use the provided products or bring your own if you prefer.
+- Bathroom Social Interactions
+  - Awkward bathroom encounters, like running into colleagues or talking on the phone, are amusingly discussed.
+  - Sam humorously critiques people who engage in conversations within public restrooms.
+  - The etiquette is to avoid unnecessary interactions, especially when someone is occupied.
+- Toilet Seat Etiquette and Squatting
+  - Sam criticizes squatting over toilet seats, which often leads to messy bathrooms.
+  - Proper hygiene and cleanliness are essential for shared spaces.
+  - A humorous perspective on toilet seat behavior is presented.
+- Bathroom Attendants and Tipping
+  - A discussion about tipping bathroom attendants, showing appreciation for their service.
+  - Sam recalls an experience of encountering a helpful bathroom attendant during a makeover mishap.
+- Hosting Guests: Bathroom Essentials
+  - When hosting friends, providing essential items in the bathroom is crucial.
+  - Sam shares personal preferences and tips on creating a guest-friendly bathroom.
+  - Humorous anecdotes are used to emphasize the importance of a well-prepared bathroom.
+- Challenges of Bathroom Use During Travel
+  - Sam shares the challenges of using public restrooms during cross-country travel.
+  - They humorously describe the struggle of finding appropriate bathrooms and dealing with intestinal unpredictability.
+  - Sam suggests using headphones to create privacy and reduce embarrassment.
+- Bathroom Signage and Odor Control
+  - Sam discusses the need for bathroom signs requesting proper hygiene behavior.
+  - They mention using air fresheners and Poo-Pourri to control odors and maintain comfort for others.
+  - Humor is used to convey the message of respectful bathroom etiquette.
+- Creating a Comfortable Guest Bathroom
+  - Sam emphasizes the need for a well-equipped guest bathroom, including a good toilet and quality toilet paper.
+  - Personal hygiene products should be readily available to accommodate guests' needs.
+  - The importance of pain relief and convenience items is humorously highlighted.
+- Stall Choice in Public Restrooms
+  - Sam jokes about the obvious choice in selecting a stall in a public restroom.
+  - The etiquette is to avoid choosing the middle stall if others are available, for everyone's comfort.
+
+## Food Fight
+- Marriage and the Unforeseen Challenges of Cohabitation
+  - The traditional marriage vows cover better and worse, sickness and health, but the intricacies of cohabitation are often overlooked.
+  - When getting married, there's usually no counseling about sharing a living space, particularly the kitchen and the refrigerator.
+  - Living alone allows for personal culinary choices, but cohabitation demands navigating shared spaces and habits.
+  - Sam's experience highlights the challenges of merging two people's kitchen habits and preferences.
+- Navigating the Kitchen in a Relationship
+  - Sam's solitary kitchen was efficient, with minimal ingredients and items used as needed.
+  - Meeting a partner led to the revelation of vastly different kitchen habits and storage preferences.
+  - When cohabiting, the kitchen turned into a collection of various sauces, condiments, and ingredients that created chaos.
+- Refrigerator Chaos and Storage Philosophies
+  - The refrigerator became a battleground of condiments, sauces, and ingredients, causing difficulty in locating desired items.
+  - Sam describes a lengthy list of items crowding the fridge, including multiple types of sauces, cheeses, pickles, dressings, and more.
+  - The clash in condiment storage philosophies led to a chaotic refrigerator space.
+- The Challenges of Shared Space
+  - Sam humorously laments the complexities of sharing a living space, particularly a refrigerator.
+  - Differences in organizing and storing items can lead to friction, even though other aspects of the relationship may be strong.
+  - Sam wonders why premarital counseling doesn't address such practical issues as shared kitchen space.
+
+## O Brother, Where Art Thou?
+- Exploring Family Dynamics and Reconnecting with Siblings
+  - Sam reflects on the curious experience of not having to wonder about the activities of one's biological child.
+  - Sam's deadbeat father's ability to disconnect from his own child's life sparks fascination and curiosity.
+  - Observations about Bad Dad's capacity to neglect someone with shared genetic material prompt pondering on daily life while parts of one's DNA are elsewhere.
+  - Personal experiences and an absent father lead to contemplation on cohabiting with individuals who share genetic traits but not emotional connections.
+- Siblings, Estrangement, and Shared History
+  - Sam's relationship with their sisters is marked by distance and awkwardness, stemming from an age gap and differing perspectives.
+  - Raised in the care of various guardians and officials, the sisters' bond was never fostered.
+  - Despite the disconnected relationship, Sam finds a level of comfort and acceptance in the distant familiarity of their sisters' presence.
+- Final Goodbyes and Emotional Farewells
+  - Sam's mother's impending death prompts a poignant recollection of a crucial moment at the hospital.
+  - Sam and their sisters are given a limited time to bid farewell, offering emotional yet chaotic interactions in the hospital room.
+  - Amid the grief, an unexpected and humorous moment arises when Sam's dying mother quips a bitter question about being loved.
+  - The experience of saying goodbye to a dying loved one becomes a bittersweet memory, carrying elements of humor and raw emotion.
+- Unconventional Mourning and Complex Grief
+  - Sam reflects on the aftermath of their mother's death, highlighting the difficulty in recalling certain memories from that time.
+  - The concept of living with grief akin to remembering the death of a famous person resonates with Sam.
+  - The grief-induced process of idealizing parents for a life that could have been leads to introspective thoughts about their upbringing.
+- Resolution and Closure in Unexpected Ways
+  - Sam finds a sense of closure in the journey of dealing with their father's ashes.
+  - Despite the complex history, the act of disposing of the ashes unburdens Sam, allowing them to move beyond the need for a fatherly figure.
+  - A year later, Sam receives a message on Instagram from someone who believes they might be their half-sibling.
+  - Initial hesitation and skepticism give way to a willingness to connect and uncover the truth about this potential sibling.
+- Nervous Anticipation and the First Contact
+  - Sam's apprehension about contacting their potential half-brother reflects insecurities about their own identity and life choices.
+  - The idea of reuniting with family after so many years carries uncertainty and fear of rejection.
+  - Sam plans for the conversation with their potential sibling, aiming for a genuine and honest interaction.
+- The Reconnection with a Sibling
+  - Unexpectedly, Sam receives a call from their potential half-brother.
+  - The conversation begins with warmth and familiarity as he addresses Sam as his sister.
+  - Sam's anxieties and doubts about how they might be perceived or whether they'd live up to expectations are present in the background.
+
+## How to Look Cool in Front of Teens?
+- Engaging with Teenagers:
+  - Avoid attempting to bond over popular trends like TikTok challenges or videos.
+  - Acknowledge generational gaps and avoid trying to fit into their social media world.
+  - Respect their space and don't pry into their online activity or opinions.
+  - Be cautious about discussing their appearance or body, as it can lead to discomfort.
+- Sharing Interests:
+  - Teenagers may not appreciate your favorite TV shows or movies, as their comments can be disruptive.
+  - Maintain your own preferences without feeling the need to include them in your interests.
+- Communication and Arguments:
+  - Refrain from debating with teens, as they often reject your viewpoints.
+  - Their information sources are different and they might consider your knowledge outdated.
+  - Accept that your experiences might not resonate with them, as their issues differ from what you faced.
+- Energy and Engagement:
+  - Recognize that teenagers possess abundant energy and enthusiasm, even for trivial matters.
+  - Choose your battles wisely, and avoid engaging in lengthy debates over minor issues.
+- Noise and Personal Space:
+  - Embrace the use of discreet earplugs to cope with noise and maintain your own peace.
+  - Ignore unnecessary noise and commotion, projecting a relaxed demeanor.
+- Connecting with Teens:
+  - Respect their personal interests even if they differ from yours.
+  - Refrain from forcing books or reading habits on them, as they might not appreciate it.
+  - Accept the differences between your generation and theirs, and avoid imposing past experiences on them.
+- Buying Gifts and Showing Thoughtfulness:
+  - Offer small gifts that parents might refuse, earning you the reputation of being "cooler" than their parents.
+  - Engage in activities that give you joy, like online shopping, while catering to their interests.
+- Presenting Yourself:
+  - Play music loudly in the car to appear more relatable and appealing to teens.
+  - Consider getting tattoos, as they can project an edgy and cool image.
+
+## We Used to Get Dressed Up to Go to Red Lobster
+- Mall Madness and the Cheesecake Factory:
+  - Sam heads to a new Cheesecake Factory at a mall's grand opening and reflects on its appeal.
+  - The Cheesecake Factory becomes an unexpectedly exciting destination despite the chaos.
+- Salad Bar Philosophy:
+  - Sam contemplates the complexities of creating a salad at a buffet.
+  - Humorous considerations about health, toppings, and nutritious choices at salad bars are explored.
+- Bizarre Coincidences and Adventures:
+  - Sam reminisces about odd coincidences, like wanting a certain soap and discovering it's the day of a new restaurant's grand opening.
+  - The unexpected turns of fate and decisions that lead to memorable experiences are highlighted.
+- Coffee Shop Culture:
+  - Sam humorously observes the intricacies of ordering coffee in cafes.
+  - An exploration of complicated coffee orders and navigating coffee culture ensues.
+- Red Lobster Memories:
+  - Fond memories of childhood celebrations at Red Lobster are recounted.
+  - Sam reflects on the appeal of classic drinks and the nostalgia associated with certain establishments.
+- Dabbling in Politics:
+  - Sam recalls a surprising entry into a political campaign job.
+  - The experience of working in the campaign, the responsibilities, and interactions are shared.
+- Bill Clinton and Maggiano's Fundraiser:
+  - The excitement of Bill Clinton's visit to a fundraiser at Maggiano's is described.
+  - The anticipation, atmosphere, and experience of working the coat check during the event are detailed.
+- A Nostalgic Farewell:
+  - A lighthearted farewell to a discontinued KFC dessert is given.
+  - Humorous memories and reflections on quirky food items bring the narrative to a close.
+
+## Please Invite Me to Your Party
+- Appreciating the Effort in Cleaning and Preparation:
+  - Acknowledges the meticulous cleaning and preparation efforts, from scrubbing baseboards to polishing silverware.
+  - Shares relatable experiences of anxiously cleaning every corner and worrying about small details.
+- Noticing and Admiring the Host's Attention to Detail:
+  - Observes and appreciates the host's efforts, such as wiping off toothpaste flecks from the mirror and arranging toothbrushes neatly.
+  - Notices stylish home decor choices like an Anthropologie shower curtain and Aesop hand soap, and even explores intriguing brands.
+- Adventurous Attitude Towards Party Foods:
+  - Expresses willingness to try various party foods, both homemade and store-bought.
+  - Describes embracing the challenge of consuming unfamiliar and potentially messy foods without judgement.
+- Thoughtful Contributions and Efforts:
+  - Plans to bring well-thought-out food items, seeking recommendations and choosing high-quality items like gourmet cheese and expensive crackers.
+  - Demonstrates a desire to contribute positively to the party atmosphere.
+- Supportive Appearance Choices:
+  - Arrives early and dresses in a way that allows the host to shine, opting for an unassuming, background-blending outfit.
+  - Embraces the idea of not drawing attention from the host's glamour.
+- Versatile Music and Storytelling Skills:
+  - Offers to curate music playlists suitable for different moods and occasions, ensuring a continuous and enjoyable listening experience.
+  - Expresses readiness to engage in storytelling, lighten the atmosphere, and make connections with various guests.
+- Respectful Social Behavior:
+  - Commits to not saying awkward or off-putting things that could jeopardize the host's relationships.
+  - Highlights a deep reservoir of humor, anecdotes, and social skills to engage diverse acquaintances.
+- Privacy and Respect for the Host:
+  - Assures the host that there won't be intrusive online postings or unflattering pictures shared.
+  - Stresses the intention to maintain respect for the host's privacy and belongings.
+- Helping with Cleanup and Furry Friend Companionship:
+  - Offers to help with post-party cleanup, relishing the chance to understand the dynamics of the event and speculate about guests' interactions.
+  - Mentions a willingness to keep the host's cat company during the party, contributing to both its well-being and cleanup efforts.
+- Eager Anticipation for an Invitation:
+  - Expresses a strong desire to be invited to the party, emphasizing the great qualities as a guest.
+  - Humorously asserts the excitement to participate while humorously suggesting that the invitation might be more valuable than actual attendance.
