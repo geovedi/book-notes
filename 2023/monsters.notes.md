@@ -1,5 +1,5 @@
 
-# Monsters
+# Monsters: A Fan's Dilemma
 Author: Claire Dederer
 
 ## Prologue: The Child Rapist

@@ -1,5 +1,5 @@
 
-# The Best Minds
+# The Best Minds: A Story of Friendship, Madness, and the Tragedy of Good Intentions
 Author: Jonathan Rosen
 
 ## The House on Mereland Road

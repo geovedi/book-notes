@@ -1,5 +1,5 @@
 
-# On the Origin of Time
+# On the Origin of Time: Stephen Hawking's Final Theory
 Author: Thomas Hertog
 
 ## Preface

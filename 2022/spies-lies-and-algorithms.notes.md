@@ -1,5 +1,5 @@
 
-# Spies, Lies, and Algorithms
+# Spies, Lies, and Algorithms: The History and Future of American Intelligence
 Author: Amy B. Zegart
 
 ## Intelligence Challenges in the Digital Age: Cloaks, Daggers, and Tweets

@@ -1,6 +1,6 @@
 
-# Unscripted
-Author: James B. Stewart
+# Unscripted: The Epic Battle for a Media Empire and the Redstone Family Legacy
+Author: James B. Stewart, Rachel Abrams
 
 ## Preface
 - Introduction: CBS' Toxic Work Environment

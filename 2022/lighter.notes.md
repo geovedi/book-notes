@@ -1,5 +1,5 @@
 
-# Lighter
+# Lighter: Let Go of the Past, Connect with the Present, and Expand the Future
 Author: Yung Pueblo
 
 ## Introduction: My Story

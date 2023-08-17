@@ -1,5 +1,5 @@
 
-# The Universe in Your Hand
+# The Universe in Your Hand: A Journey Through Space, Time, and Beyond
 Author: Christophe Galfard
 
 ## The Cosmos

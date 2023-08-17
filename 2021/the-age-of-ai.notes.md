@@ -1,5 +1,5 @@
 
-# The Age of AI
+# The Age of AI: And Our Human Future
 Author: Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher
 
 ## Preface

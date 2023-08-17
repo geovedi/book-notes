@@ -1,5 +1,5 @@
 
-# Now
+# Now: The Physics of Time
 Author: Richard A. Muller
 
 ## Introduction

@@ -1,5 +1,5 @@
 
-# Physics of The Impossible
+# Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel
 Author: Michio Kaku
 
 ## Class I Impossibilities

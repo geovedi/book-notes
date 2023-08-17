@@ -1,5 +1,5 @@
 
-# For Blood and Money
+# For Blood and Money: Billionaires, Biotech, and the Quest for a Blockbuster Drug
 Author: Nathan Vardi
 
 ## Prologue: Sidelines

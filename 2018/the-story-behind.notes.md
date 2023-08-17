@@ -1,5 +1,5 @@
 
-# The Story Behind
+# The Story Behind: The Extraordinary History Behind Ordinary Objects
 Author: Emily Prokop
 
 ## Introduction

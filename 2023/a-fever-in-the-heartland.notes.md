@@ -1,5 +1,5 @@
 
-# A Fever in the Heartland
+# A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them
 Author: Timothy Egan
 
 ## Introduction: The Quintessential Americans

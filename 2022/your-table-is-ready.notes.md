@@ -1,5 +1,5 @@
 
-# Your Table Is Ready
+# Your Table Is Ready: Tales of a New York City Maître D'
 Author: Michael Cecchi-Azzolina
 
 ## Introduction

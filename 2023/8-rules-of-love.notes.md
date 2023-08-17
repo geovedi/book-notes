@@ -1,5 +1,5 @@
 
-# 8 Rules of Love
+# 8 Rules of Love: How to Find It, Keep It, and Let It Go
 Author: Jay Shetty
 
 ## Introduction

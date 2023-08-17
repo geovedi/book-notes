@@ -1,5 +1,5 @@
 
-# Chatter
+# Chatter: The Voice in Our Head, Why It Matters, and How to Harness It
 Author: Ethan Kross
 
 ## Introduction

@@ -1,5 +1,5 @@
 
-# Lost in Thought
+# Lost in Thought: The Hidden Pleasures of an Intellectual Life
 Author: Zena Hitz
 
 ## Prologue: How Washing Dishes Restored My Intellectual Life

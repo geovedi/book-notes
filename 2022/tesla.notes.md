@@ -1,7 +1,5 @@
 
-# Tesla
-
-## Wizard at War
+# Tesla: Wizard at War
 Author: Marc J. Seifer
 
 ## Interview With Nikola Tesla

@@ -1,5 +1,5 @@
 
-# Bittersweet
+# Bittersweet: How Sorrow and Longing Make Us Whole
 Author: Susan Cain
 
 ## Prelude

@@ -1,5 +1,5 @@
 
-# A World Without Work
+# A World Without Work: Technology, Automation and How We Should Respond
 Author: Daniel Susskind
 
 ## Introduction

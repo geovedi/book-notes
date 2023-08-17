@@ -1,5 +1,5 @@
 
-# Fear
+# Fear: Essential Wisdom for Getting Through the Storm
 Author: Thich Nhat Hanh
 
 ## Introduction: Fearlessness

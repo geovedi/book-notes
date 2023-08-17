@@ -1,5 +1,5 @@
 
-# There Will Be Fire
+# There Will Be Fire: Margaret Thatcher, the IRA, and Two Minutes That Changed History
 Author: Rory Carroll
 
 ## A Note to Readers

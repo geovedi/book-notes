@@ -1,5 +1,5 @@
 
-# Good Inside
+# Good Inside: A Guide to Becoming the Parent You Want to Be
 Author: Becky Kennedy
 
 ## Introduction

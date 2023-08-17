@@ -1,5 +1,5 @@
 
-# Eleven Minutes
+# Eleven Minutes: A Novel
 Author: Paulo Coelho
 
 ## Part 1

@@ -1,5 +1,5 @@
 
-# The Etymologicon
+# The Etymologicon: A Circular Stroll Through the Hidden Connections of the English Language
 Author: Mark Forsyth
 
 ## A Turn-up For The Books

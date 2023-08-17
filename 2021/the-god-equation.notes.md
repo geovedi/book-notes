@@ -1,5 +1,5 @@
 
-# The God Equation
+# The God Equation: The Quest for a Theory of Everything
 Author: Michio Kaku
 
 ## Introduction to the Final Theory

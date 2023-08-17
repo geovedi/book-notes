@@ -1,5 +1,5 @@
 
-# You Are Not Expected to Understand This
+# "You Are Not Expected to Understand This": How 26 Lines of Code Changed the World
 Author: Torie Bosch, Kelly Chudler
 
 ## Preface

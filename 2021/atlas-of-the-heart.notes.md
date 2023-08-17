@@ -1,5 +1,5 @@
 
-# Atlas of the Heart
+# Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience
 Author: Brené Brown
 
 ## Introduction

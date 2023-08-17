@@ -1,5 +1,5 @@
 
-# Rough Sleepers
+# Rough Sleepers: Dr. Jim O'Connell's urgent mission to bring healing to homeless people
 Author: Tracy Kidder
 
 ## The Van

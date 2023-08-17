@@ -1,5 +1,5 @@
 
-# Your Brain Is a Time Machine
+# Your Brain Is a Time Machine: The Neuroscience and Physics of Time
 Author: Dean Buonomano
 
 ## Brain Time

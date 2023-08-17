@@ -1,5 +1,5 @@
 
-# Starry Messenger
+# Starry Messenger: Cosmic Perspectives on Civilisation
 Author: Neil deGrasse Tyson
 
 ## Preface

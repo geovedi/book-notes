@@ -1,5 +1,5 @@
 
-# Don't Make Me Think, Revisited
+# Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
 Author: Steve Krug
 
 ## Guiding Principles

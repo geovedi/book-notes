@@ -1,5 +1,5 @@
 
-# The Chaos Machine
+# The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World
 Author: Max Fisher
 
 ## Prologue: Consequences

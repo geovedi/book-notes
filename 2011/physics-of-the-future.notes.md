@@ -1,5 +1,5 @@
 
-# Physics of The Future
+# Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100
 Author: Michio Kaku
 
 ## Introduction: Predicting The Next 100 Years

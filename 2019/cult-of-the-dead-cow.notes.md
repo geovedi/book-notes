@@ -1,5 +1,5 @@
 
-# Cult of the Dead Cow
+# Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World
 Author: Joseph Menn
 
 ## An Evening in San Francisco

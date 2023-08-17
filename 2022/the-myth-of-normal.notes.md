@@ -1,5 +1,5 @@
 
-# The Myth of Normal
+# The Myth of Normal: Trauma, Illness & Healing in a Toxic Culture
 Author: Gabor Maté
 
 ## Introduction: Why Normal Is a Myth (And Why That Matters)

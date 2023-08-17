@@ -1,5 +1,5 @@
 
-# Life in Five Senses
+# Life in Five Senses: How Exploring the Senses Got Me Out of My Head and Into the World
 Author: Gretchen Rubin
 
 ## Seeing What Was Missing

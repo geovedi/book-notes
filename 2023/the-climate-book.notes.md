@@ -1,5 +1,5 @@
 
-# The Climate Book
+# The Climate Book: The Facts and the Solutions
 Author: Greta Thunberg
 
 ## How Climate Works, the Climate Book

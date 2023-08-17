@@ -1,5 +1,5 @@
 
-# Dinner With the President
+# Dinner with the President: Food, Politics, and a History of Breaking Bread at the White House
 Author: Alex Prud'homme
 
 ## George Washington

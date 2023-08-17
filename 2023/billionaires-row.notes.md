@@ -1,5 +1,5 @@
 
-# Billionaires' Row
+# Billionaires' Row: Tycoons, High Rollers, and the Epic Race to Build the World's Most Exclusive Skyscrapers
 Author: Katherine Clarke
 
 ## Prologue: The Pinnacle

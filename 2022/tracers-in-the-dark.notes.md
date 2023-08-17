@@ -1,5 +1,5 @@
 
-# Tracers in the Dark
+# Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency
 Author: Andy Greenberg
 
 ## Prologue: Proof of Concept

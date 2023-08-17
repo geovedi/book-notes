@@ -1,5 +1,5 @@
 
-# The Good Life
+# The Good Life: Lessons from the World's Longest Scientific Study of Happiness
 Author: Robert Waldinger, Marc Schulz
 
 ## What Makes a Good Life?

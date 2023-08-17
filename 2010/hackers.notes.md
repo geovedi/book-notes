@@ -1,5 +1,5 @@
 
-# Hackers
+# Hackers: Heroes of the Computer Revolution
 Author: Steven Levy
 
 ## True Hackers: Cambridge: The Fifties And Sixties

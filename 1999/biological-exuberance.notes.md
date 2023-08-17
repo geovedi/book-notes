@@ -1,4 +1,4 @@
-# Biological Exuberance
+# Biological Exuberance: Animal Homosexuality and Natural Diversity
 Author: Bruce Bagemihl
 
 

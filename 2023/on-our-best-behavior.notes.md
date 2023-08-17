@@ -1,5 +1,5 @@
 
-# On Our Best Behavior
+# On Our Best Behavior: The Seven Deadly Sins and the Price Women Pay to Be Good
 Author: Elise Loehnen
 
 ## Introduction: Genesis

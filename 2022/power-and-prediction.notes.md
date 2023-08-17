@@ -1,5 +1,5 @@
 
-# Power and Prediction
+# Power and Prediction: The Disruptive Economics of Artificial Intelligence
 Author: Ajay Agrawal, Joshua Gans. Avi Goldfarb
 
 ## Preface: Success From Away?

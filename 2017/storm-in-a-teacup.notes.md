@@ -1,5 +1,5 @@
 
-# Storm in a Teacup
+# Storm in a Teacup: The Physics of Everyday Life
 Author: Helen Czerski
 
 ## Introduction

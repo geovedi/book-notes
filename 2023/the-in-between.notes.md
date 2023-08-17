@@ -1,5 +1,5 @@
 
-# The In-Between
+# The In-Between: Unforgettable Encounters During Life's Final Moments
 Author: Hadley Vlahos
 
 ## Introduction

@@ -1,5 +1,5 @@
 
-# The Creative Act
+# The Creative Act: A Way of Being
 Author: Rick Rubin
 
 ## Everyone Is a Creator

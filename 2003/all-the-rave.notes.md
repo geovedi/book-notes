@@ -1,5 +1,5 @@
 
-# All the Rave
+# All the Rave: The Rise and Fall of Shawn Fanning's Napster
 Author: Joseph Menn
 
 ## Prologue: A Party Out of Control

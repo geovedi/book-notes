@@ -1,5 +1,5 @@
 
-# The Dawn of Everything
+# The Dawn of Everything: A New History of Humanity
 Author: David Graeber, David Wengrow
 
 ## Farewell to Humanity's Childhood

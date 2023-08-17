@@ -1,5 +1,5 @@
 
-# Awe
+# Awe: The New Science of Everyday Wonder and How It Can Transform Your Life
 Author: Dacher Keltner
 
 ## Introduction

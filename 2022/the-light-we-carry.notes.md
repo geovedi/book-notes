@@ -1,5 +1,5 @@
 
-# The Light We Carry
+# The Light We Carry: Overcoming in Uncertain Times
 Author: Michelle Obama
 
 ## Introduction

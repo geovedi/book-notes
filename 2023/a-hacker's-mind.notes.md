@@ -1,5 +1,5 @@
 
-# A Hacker's Mind
+# A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back
 Author: Bruce Schneier
 
 

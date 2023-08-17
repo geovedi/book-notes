@@ -1,5 +1,5 @@
 
-# An Ugly Truth
+# An Ugly Truth: Inside Facebook's Battle for Domination
 Author: Sheera Frenkel, Cecilia Kang
 
 ## Prologue: At Any Cost

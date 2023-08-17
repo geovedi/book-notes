@@ -1,5 +1,5 @@
 
-# Algorithms to Live By
+# Algorithms to Live By: The Computer Science of Human Decisions
 Author: Brian Christian, Tom Griffiths
 
 ## Introduction

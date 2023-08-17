@@ -1,5 +1,5 @@
 
-# The Second Machine Age
+# The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies
 Author: Erik Brynjolfsson, Andrew Mcafee, Jeff Cummings
 
 ## The Big Stories

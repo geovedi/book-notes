@@ -1,5 +1,5 @@
 
-# The Price of Time
+# The Price of Time: The Real Story of Interest
 Author: Edward Chancellor
 
 ## Introduction: The Anarchist and the Capitalist

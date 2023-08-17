@@ -1,5 +1,5 @@
 
-# Confidence Man
+# Confidence Man: The Making of Donald Trump and the Breaking of America
 Author: Maggie Haberman
 
 ## Prologue

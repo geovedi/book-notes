@@ -1,5 +1,5 @@
 
-# Quietly Hostile
+# Quietly Hostile: Essays
 Author: Samantha Irby
 
 ## I Like It!

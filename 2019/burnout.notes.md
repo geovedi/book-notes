@@ -1,5 +1,5 @@
 
-# Burnout
+# Burnout: The Secret to Unlocking the Stress Cycle
 Author: Emily Nagoski, Amelia Nagoski
 
 ## Introduction

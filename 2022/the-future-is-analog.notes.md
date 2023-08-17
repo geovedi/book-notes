@@ -1,5 +1,5 @@
 
-# The Future Is Analog
+# The Future Is Analog: How to Create a More Human World
 Author: David Sax
 
 ## Introduction

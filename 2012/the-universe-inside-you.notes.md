@@ -1,5 +1,5 @@
 
-# The Universe Inside You
+# The Universe Inside You: The Extreme Science of the Human Body From Quantum Theory to the Mysteries of the Brain
 Author: Brian Clegg
 
 ## In The Mirror

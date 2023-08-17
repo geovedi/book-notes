@@ -1,5 +1,5 @@
 
-# Incognito
+# Incognito: The Secret Lives of the Brain
 Author: David Eagleman
 
 ## There's Someone in My Head, But It's Not Me

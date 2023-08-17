@@ -1,5 +1,5 @@
 
-# A Brief History of Earth
+# A Brief History of Earth: Four Billion Years in Eight Chapters
 Author: Andrew H. Knoll
 
 ## Prologue: An Invitation

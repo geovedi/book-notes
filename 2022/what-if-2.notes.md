@@ -1,5 +1,5 @@
 
-# What If? 2
+# What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions
 Author: Randall Munroe
 
 ## Introduction

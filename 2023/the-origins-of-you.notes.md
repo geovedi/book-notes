@@ -1,5 +1,5 @@
 
-# The Origins of You
+# The Origins of You: How Breaking Family Patterns Can Liberate the Way We Live and Love
 Author: Vienna Pharaon
 
 ## Introduction: My Family of Origin and Yours

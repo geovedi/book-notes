@@ -1,5 +1,5 @@
 
-# The Ransomware Hunting Team
+# The Ransomware Hunting Team: A Band of Misfits' Improbable Crusade to Save the World from Cybercrime
 Author: Renee Dudley, Daniel Golden
 
 ## Introduction: "Are You Indeed a Barbarian?"

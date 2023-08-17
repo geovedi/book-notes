@@ -1,5 +1,5 @@
 
-# You Don't Owe Anyone
+# You Don't Owe Anyone: Free Yourself from the Weight of Expectations
 Author: Caroline Garnet McGraw
 
 ## Introduction: What if You Didn't Owe Anyone?

@@ -1,6 +1,6 @@
 
-# Sensitive
-Author: Jennifer Granneman, Andrew Jacob
+# Sensitive: The Hidden Power of the Highly Sensitive Person in a Loud, Fast, Too-Much World
+Author: Jennifer Granneman, Andre Sólo
 
 ## Introduction
 - Introduction

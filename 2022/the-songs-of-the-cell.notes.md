@@ -1,5 +1,5 @@
 
-# The Songs of the Cell
+# The Song of the Cell: An Exploration of Medicine and the New Human
 Author: Siddhartha Mukherjee
 
 ## Prelude: "The Elementary Particles of Organisms"

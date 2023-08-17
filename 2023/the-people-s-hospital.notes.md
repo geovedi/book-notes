@@ -1,5 +1,5 @@
 
-# The People's Hospital
+# The People's Hospital: Hope and Peril in American Medicine
 Author: Ricardo Nuila
 
 ### Histories

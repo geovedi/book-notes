@@ -1,5 +1,5 @@
 
-# Reinforcements
+# Reinforcements: How to Get People to Help You
 Author: Heidi Grant
 
 ## Asking for Help Is the Worst

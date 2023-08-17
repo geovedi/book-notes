@@ -1,5 +1,5 @@
 
-# Empire of Pain
+# Empire of Pain: The Secret History of the Sackler Dynasty
 Author: Patrick Radden Keefe
 
 ## Prologue: The Taproot

@@ -1,5 +1,5 @@
 
-# Fatal System Error
+# Fatal System Error: The Hunt for the New Crime Lords Who Are Bringing Down the Internet
 Author: Joseph Menn
 
 ## Wargames

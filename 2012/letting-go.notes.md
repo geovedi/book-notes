@@ -1,5 +1,5 @@
 
-# Letting Go
+# Letting Go: The Pathway of Surrender
 Author: David R. Hawkins
 
 ## Introduction

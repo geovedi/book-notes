@@ -1,5 +1,5 @@
 
-# Four Thousand Weeks
+# Four Thousand Weeks: Time Management for Mortals
 Author: Oliver Burkeman
 
 ## Introduction: In the Long Run, We're All Dead

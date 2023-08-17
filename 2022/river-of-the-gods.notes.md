@@ -1,5 +1,5 @@
 
-# River of the Gods
+# River of the Gods: Genius, Courage, and Betrayal in the Search for the Source of the Nile
 Author: Candice Millard
 
 ## Prologue: Obsession

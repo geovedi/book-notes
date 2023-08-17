@@ -1,5 +1,5 @@
 
-# Confronting Capitalism
+# Confronting Capitalism: Real Solutions for a Troubled Economic System
 Author: Philip Kotler
 
 ## Introduction: Creating High-Performance Capitalism

@@ -1,5 +1,5 @@
 
-# Fuzz
+# Fuzz: When Nature Breaks the Law
 Author: Mary Roach
 
 ## A Quick Word of Introduction

@@ -1,5 +1,5 @@
 
-# The Age of Spiritual Machines
+# The Age of Spiritual Machines: When Computers Exceed Human Intelligence
 Author: Ray Kurzweil
 
 ## Prologue: An Inexorable Emergence

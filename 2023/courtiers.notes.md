@@ -1,5 +1,5 @@
 
-# Courtiers
+# Courtiers: Intrigue, Ambition, and the Power Players Behind the House of Windsor
 Author: Valentine Low
 
 ## Prologue

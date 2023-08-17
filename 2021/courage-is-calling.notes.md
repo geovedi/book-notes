@@ -1,5 +1,5 @@
 
-# Courage Is Calling
+# Courage Is Calling: Fortune Favors the Brave
 Author: Ryan Holiday
 
 ## The Four Virtues

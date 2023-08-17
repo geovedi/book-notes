@@ -1,5 +1,5 @@
 
-# Drama Free
+# Drama Free: A Guide to Managing Unhealthy Family Relationships
 Author: Nedra Glover Tawwab
 
 ## Introduction

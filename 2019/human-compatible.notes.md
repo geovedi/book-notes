@@ -1,5 +1,5 @@
 
-# Human Compatible
+# Human Compatible: Artificial Intelligence and the Problem of Control
 Author: Stuart Russell
 
 ## If We Succeed

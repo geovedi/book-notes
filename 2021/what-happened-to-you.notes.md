@@ -1,5 +1,5 @@
 
-# What Happened to You?
+# What Happened to You?: Conversations on Trauma, Resilience, and Healing
 Author: Oprah Winfrey, Bruce D. Perry
 
 ## Introduction

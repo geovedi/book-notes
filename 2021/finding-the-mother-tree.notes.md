@@ -1,5 +1,5 @@
 
-# Finding the Mother Tree
+# Finding the Mother Tree: Discovering the Wisdom of the Forest
 Author: Suzanne Simard
 
 # Introduction

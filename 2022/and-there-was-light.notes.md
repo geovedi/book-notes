@@ -1,5 +1,5 @@
 
-# And There Was Light
+# And There Was Light: Abraham Lincoln and the American Struggle
 Author: Jon Meacham
 
 ## Prologue: A Big, Inconsistent, Brave Man

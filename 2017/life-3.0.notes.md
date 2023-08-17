@@ -1,5 +1,5 @@
 
-# Life 3.0
+# Life 3.0: Being Human in the Age of Artificial Intelligence
 Author: Max Tegmark
 
 ## Prelude
