@@ -1,6 +1,6 @@
 
-# The in-Between
-Author: Hadley Vlahos, RN
+# The In-Between
+Author: Hadley Vlahos
 
 ## Introduction
 - Hospice Nursing and its Impact

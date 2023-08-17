@@ -1,6 +1,6 @@
 
 # Generations
-Author: Jean M. Twenge, PhD
+Author: Jean M. Twenge
 
 ## The How and Why of Generations
 - Generational Differences and Stereotypes
