@@ -35,6 +35,7 @@
 - Thich Nhat Hanh - **Fear: Essential Wisdom for Getting Through the Storm** • [notes](https://github.com/geovedi/book-notes/blob/main/2012/fear.notes.md)
 
 ## 2013
+- Alex F. Osborn - **Applied Imagination: Principles and Procedures of Creative Writing** • [notes](https://github.com/geovedi/book-notes/blob/main/2013/applied-imagination.notes.md)
 - Don Norman - **The Design of Everyday Things** • [notes](https://github.com/geovedi/book-notes/blob/main/2013/the-design-of-everyday-things.notes.md)
 - Eric Maisel - **Why Smart People Hurt: A Guide for the Bright, the Sensitive, and the Creative (Creative Thinking & Positive Thinking Book, Mastering Creative Anxiety)** • [notes](https://github.com/geovedi/book-notes/blob/main/2013/why-smart-people-hurt.notes.md)
 
@@ -49,6 +50,7 @@
 - Philip Kotler - **Confronting Capitalism: Real Solutions for a Troubled Economic System** • [notes](https://github.com/geovedi/book-notes/blob/main/2015/confronting-capitalism.notes.md)
 
 ## 2016
+- Angela Duckworth - **Grit: The Power of Passion and Perseverance** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/grit.notes.md)
 - Brian Christian, Tom Griffiths - **Algorithms to Live By: The Computer Science of Human Decisions** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/algorithms-to-live-by.notes.md)
 - Richard A. Muller - **Now: The Physics of Time** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/now.notes.md)
 
