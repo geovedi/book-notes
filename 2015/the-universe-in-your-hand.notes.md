@@ -6,34 +6,34 @@ Author: Christophe Galfard
 
 ### A Silent Boom
 - Island Scene:
- - Volcanic island on a warm, cloudless summer night.
- - Still ocean with tiny waves against white sand.
- - Peaceful atmosphere, exotic scents.
- - Human lying on the beach, eyes closed.
- - Startled by a distant wild shriek.
+  - Volcanic island on a warm, cloudless summer night.
+  - Still ocean with tiny waves against white sand.
+  - Peaceful atmosphere, exotic scents.
+  - Human lying on the beach, eyes closed.
+  - Startled by a distant wild shriek.
 - Transition to Outer Space:
- - Suddenly transported to outer space, ethereal form.
- - Observing a planet glowing with dark orange light.
- - Presence of a massive spinning star, growing in size.
- - Planet's surface covered with molten rocks.
- - Star's immense size compared to the planet.
+  - Suddenly transported to outer space, ethereal form.
+  - Observing a planet glowing with dark orange light.
+  - Presence of a massive spinning star, growing in size.
+  - Planet's surface covered with molten rocks.
+  - Star's immense size compared to the planet.
 - Explosion of the Star:
- - Star's growth continues, ejects million-degree-hot plasma.
- - Star reaches immense size, explodes spectacularly.
- - Shock wave passes through the observer's form.
- - Star's explosion creates colorful cloud spreading into space.
- - Realization that the star was the Sun, and the planet was Earth.
+  - Star's growth continues, ejects million-degree-hot plasma.
+  - Star reaches immense size, explodes spectacularly.
+  - Shock wave passes through the observer's form.
+  - Star's explosion creates colorful cloud spreading into space.
+  - Realization that the star was the Sun, and the planet was Earth.
 - Return to the Beach:
- - Return to present, on the beach, with friends approaching.
- - Uncertainty whether the experience was a dream.
- - Contemplation of the Sun's eventual explosion.
- - Questions about humanity's survival and cosmic oblivion.
+  - Return to present, on the beach, with friends approaching.
+  - Uncertainty whether the experience was a dream.
+  - Contemplation of the Sun's eventual explosion.
+  - Questions about humanity's survival and cosmic oblivion.
 - Resolution and New Perspective:
- - Whispering of the wind, waves, stars, and birds.
- - Path of survival: knowledge, science, and a human journey.
- - Desire to learn about the universe, its composition, and history.
- - Profound perspective on matter, time, space, and forces.
- - Feeling of an extraordinary journey awaiting beyond.
+  - Whispering of the wind, waves, stars, and birds.
+  - Path of survival: knowledge, science, and a human journey.
+  - Desire to learn about the universe, its composition, and history.
+  - Profound perspective on matter, time, space, and forces.
+  - Feeling of an extraordinary journey awaiting beyond.
 
 ### The Moon
 - Introduction to Time Travel and Exploration:
@@ -421,77 +421,77 @@ Author: Christophe Galfard
 
 ### Expansion
 - Introduction to Light and Matter Interaction in Space:
- - Knowledge about the universe comes from light reaching us.
- - Understanding requires deciphering light's information and its interaction with matter.
- - Atoms are building blocks, composed of nuclei and electrons organized in layers.
- - Electrons move in orbitals around nuclei, but not like planets around a star.
- - Electronic orbitals have forbidden zones and require energy to transition.
- - Electrons gain or emit energy to move between orbitals, involving specific light rays.
+  - Knowledge about the universe comes from light reaching us.
+  - Understanding requires deciphering light's information and its interaction with matter.
+  - Atoms are building blocks, composed of nuclei and electrons organized in layers.
+  - Electrons move in orbitals around nuclei, but not like planets around a star.
+  - Electronic orbitals have forbidden zones and require energy to transition.
+  - Electrons gain or emit energy to move between orbitals, involving specific light rays.
 - Using Light to Understand Matter Composition:
- - Different energies correspond to different light sources.
- - Absorption lines in spectra indicate elements present in the path of light.
- - Scientists can identify matter composition using spectra without direct observation.
- - All stars and cosmic objects are made of the same atoms as Earth.
+  - Different energies correspond to different light sources.
+  - Absorption lines in spectra indicate elements present in the path of light.
+  - Scientists can identify matter composition using spectra without direct observation.
+  - All stars and cosmic objects are made of the same atoms as Earth.
 - The Mystery of Redshift and Cosmic Expansion:
- - Observations reveal redshift in distant galaxies' light.
- - Colors shift towards red as light travels through expanding universe.
- - Continuous stretching of the universe leads to redshift.
- - Redshift in starlight helps estimate their distance from Earth.
- - The universe's expansion is confirmed by experiments.
- - Einstein's objections to the expanding universe were disproven.
+  - Observations reveal redshift in distant galaxies' light.
+  - Colors shift towards red as light travels through expanding universe.
+  - Continuous stretching of the universe leads to redshift.
+  - Redshift in starlight helps estimate their distance from Earth.
+  - The universe's expansion is confirmed by experiments.
+  - Einstein's objections to the expanding universe were disproven.
 - The Perspective of the Expanding Universe:
- - The expansion means the universe itself is growing.
- - The "center of the universe" is relative and everywhere.
- - Cosmological principles assume no preferred position, making everywhere a center.
- - Earth-centered universe is a local view based on Earth's history.
+  - The expansion means the universe itself is growing.
+  - The "center of the universe" is relative and everywhere.
+  - Cosmological principles assume no preferred position, making everywhere a center.
+  - Earth-centered universe is a local view based on Earth's history.
 - Implications of Cosmic Rule Number Three:
- - Cosmic rule number three states large-scale uniformity.
- - It doesn't apply to local observations, but on grand scales.
- - Earth is at the center of its visible universe, as are other observers.
+  - Cosmic rule number three states large-scale uniformity.
+  - It doesn't apply to local observations, but on grand scales.
+  - Earth is at the center of its visible universe, as are other observers.
 - Consequences of Universal Expansion:
- - Far galaxies recede due to expansion, closer objects are gravitationally bound.
- - Hubble's law describes the relationship between distance and recession velocity.
- - Realization that distant objects were closer in the past.
- - The concept of the universe being smaller in the past.
+  - Far galaxies recede due to expansion, closer objects are gravitationally bound.
+  - Hubble's law describes the relationship between distance and recession velocity.
+  - Realization that distant objects were closer in the past.
+  - The concept of the universe being smaller in the past.
 - Looking to the Cosmic Wall:
- - The end of the visible universe is a dark wall.
- - The wall's properties support the idea of the universe's smaller past.
- - More insights about the cosmic wall will be discussed later.
+  - The end of the visible universe is a dark wall.
+  - The wall's properties support the idea of the universe's smaller past.
+  - More insights about the cosmic wall will be discussed later.
 
 ### Feeling Gravity
 - Gravity and Its Effects:
- - Gravity is one of the fundamental forces governing the universe.
- - Gravity affects everything and is affected by everything, creating a mutual force.
- - Objects heavier than air fall due to gravity.
- - Helium balloons rise in the sky because air below them is denser.
- - Earth's gravity creates a slope, causing objects to fall towards the ground.
- - Objects lighter than air don't fall because they are pushed upwards by denser air.
+  - Gravity is one of the fundamental forces governing the universe.
+  - Gravity affects everything and is affected by everything, creating a mutual force.
+  - Objects heavier than air fall due to gravity.
+  - Helium balloons rise in the sky because air below them is denser.
+  - Earth's gravity creates a slope, causing objects to fall towards the ground.
+  - Objects lighter than air don't fall because they are pushed upwards by denser air.
 - Gravity in Space:
- - Without Earth's gravity, there's no notion of up, down, left, or right.
- - Objects fall down slopes created by mass and energy in the fabric of the universe.
- - Earth is a massive ball with things sticking to its surface due to the curved slope it creates.
- - Everything, including light, follows the curves and slopes in spacetime.
+  - Without Earth's gravity, there's no notion of up, down, left, or right.
+  - Objects fall down slopes created by mass and energy in the fabric of the universe.
+  - Earth is a massive ball with things sticking to its surface due to the curved slope it creates.
+  - Everything, including light, follows the curves and slopes in spacetime.
 - Experiment in Space:
- - The narrator finds themselves in outer space, experiencing weightlessness.
- - They let go of a vase and observe its motion.
- - Gravity is still at work, but the vase doesn't fall in the absence of a planet.
+  - The narrator finds themselves in outer space, experiencing weightlessness.
+  - They let go of a vase and observe its motion.
+  - Gravity is still at work, but the vase doesn't fall in the absence of a planet.
 - Gravity and Falling:
- - Everything in the universe falls down curves created by matter and energy.
- - Objects falling towards planets or each other follow the same curves regardless of mass.
+  - Everything in the universe falls down curves created by matter and energy.
+  - Objects falling towards planets or each other follow the same curves regardless of mass.
 - Einstein's Insights:
- - Einstein's theory of relativity explains gravity as geometry of spacetime.
- - Mass and energy bend spacetime, creating slopes.
- - Mass and energy are interchangeable (E = mc^2).
- - Gravity is not a force but a result of curved spacetime.
- - The bending of spacetime also affects time.
+  - Einstein's theory of relativity explains gravity as geometry of spacetime.
+  - Mass and energy bend spacetime, creating slopes.
+  - Mass and energy are interchangeable (E = mc^2).
+  - Gravity is not a force but a result of curved spacetime.
+  - The bending of spacetime also affects time.
 - Spacetime Bending and Celestial Bodies:
- - Earth's gravity bends spacetime, creating an equilibrium with its atmosphere.
- - Moon's bending of spacetime causes tides on Earth.
- - Sun's bending of spacetime affects planets' orbits.
- - Stars' bending of spacetime creates a galaxy's gravitational field.
+  - Earth's gravity bends spacetime, creating an equilibrium with its atmosphere.
+  - Moon's bending of spacetime causes tides on Earth.
+  - Sun's bending of spacetime affects planets' orbits.
+  - Stars' bending of spacetime creates a galaxy's gravitational field.
 - Universe's History and Expansion:
- - Einstein's theory suggests the universe might have a history, being smaller in the past.
- - The narrator contemplates what this expansion might mean.
+  - Einstein's theory suggests the universe might have a history, being smaller in the past.
+  - The narrator contemplates what this expansion might mean.
 
 ### Cosmology
 - Complexity and Uncertainty in Understanding the Universe
@@ -662,655 +662,655 @@ Author: Christophe Galfard
 
 ### A Time of Our Own
 - Introduction to Relativity
- - Speed changes affect space and time.
- - The concept of universal time is debunked.
- - Illustration of time dilation in the airplane scenario.
+  - Speed changes affect space and time.
+  - The concept of universal time is debunked.
+  - Illustration of time dilation in the airplane scenario.
 - Special Theory of Relativity
- - Clocks in motion tick differently than slow-moving ones.
- - Einstein's work on moving bodies and theory of special relativity.
- - Twin paradox explained with Paul Langevin's example.
+  - Clocks in motion tick differently than slow-moving ones.
+  - Einstein's work on moving bodies and theory of special relativity.
+  - Twin paradox explained with Paul Langevin's example.
 - Time Dilation and Length Contraction
- - Introduction to time dilation and length contraction.
- - Earth-based observer's perspective versus traveling observer's perspective.
- - Consequences of fixed speed of light on time and space measurements.
+  - Introduction to time dilation and length contraction.
+  - Earth-based observer's perspective versus traveling observer's perspective.
+  - Consequences of fixed speed of light on time and space measurements.
 - Impact of High-Speed Travel
- - Discussion of time and space distortions at different velocities.
- - Objects appear closer and lengths contract with increasing speed.
- - Einstein's theory of special relativity explains observer-independent velocities.
+  - Discussion of time and space distortions at different velocities.
+  - Objects appear closer and lengths contract with increasing speed.
+  - Einstein's theory of special relativity explains observer-independent velocities.
 - Combining Gravity with High-Speed Travel
- - Transition to gravity's role in the scenario.
- - Explanation of gravity as the curvature of spacetime.
- - Accumulating energy and mass leads to a collapse into a black hole.
+  - Transition to gravity's role in the scenario.
+  - Explanation of gravity as the curvature of spacetime.
+  - Accumulating energy and mass leads to a collapse into a black hole.
 - Return to Reality
- - Return to the airplane scenario and the dream aspect.
- - Sense of relief upon realizing it was all a dream.
- - Description of the present time and surroundings.
+  - Return to the airplane scenario and the dream aspect.
+  - Sense of relief upon realizing it was all a dream.
+  - Description of the present time and surroundings.
 
 ### How to Never Get Old
 - Introduction to Relativistic Speeds and Time Dilation:
- - Universe appearance at high speeds
- - Relativistic speeds and their effects
- - Einstein's special theory of relativity
- - Challenges in verifying the theory
- - Hafele and Keating's experiment
+  - Universe appearance at high speeds
+  - Relativistic speeds and their effects
+  - Einstein's special theory of relativity
+  - Challenges in verifying the theory
+  - Hafele and Keating's experiment
 - Hafele and Keating's Experiment:
- - Experiment setup with atomic clocks
- - Planes' flight directions and Earth's rotation
- - Clock synchronization and predictions
- - Detected time differences
- - Role of relativistic and gravitational effects
+  - Experiment setup with atomic clocks
+  - Planes' flight directions and Earth's rotation
+  - Clock synchronization and predictions
+  - Detected time differences
+  - Role of relativistic and gravitational effects
 - Nature's Relativity and Implications:
- - Time dilation due to velocities
- - Einstein's general theory of relativity
- - Effects of gravity on spacetime
- - Combined predictions and experimental confirmation
- - Precision and acceptance of spacetime theories
+  - Time dilation due to velocities
+  - Einstein's general theory of relativity
+  - Effects of gravity on spacetime
+  - Combined predictions and experimental confirmation
+  - Precision and acceptance of spacetime theories
 - Relative Nature of Time and Distances:
- - Abstract concept of spacetime
- - Time and distances as observer-dependent
- - Dependence on gravity and velocity
- - Implications for the speed of light
- - Special relativity's impact on technology and matter
+  - Abstract concept of spacetime
+  - Time and distances as observer-dependent
+  - Dependence on gravity and velocity
+  - Implications for the speed of light
+  - Special relativity's impact on technology and matter
 - GPS and Relativity:
- - Use of general relativity in GPS
- - Curvature of spacetime around Earth
- - Importance of correcting for time dilation
- - GPS functionality and accuracy
- - Practical application of Einstein's theories
+  - Use of general relativity in GPS
+  - Curvature of spacetime around Earth
+  - Importance of correcting for time dilation
+  - GPS functionality and accuracy
+  - Practical application of Einstein's theories
 - Limitations and Future Possibilities:
- - Time travel and speed limits
- - Speed of light as ultimate barrier
- - Masslessness requirement for light speed
- - Time freeze at light speed
- - Preservation of light's images through time
+  - Time travel and speed limits
+  - Speed of light as ultimate barrier
+  - Masslessness requirement for light speed
+  - Time freeze at light speed
+  - Preservation of light's images through time
 - Eternal vs. Aging:
- - Impossibility of eternal life
- - Transition to light for timelessness
- - Potential for future exploration
- - No effect on personal aging or time perception
- - Possibility of time difference perception by others
+  - Impossibility of eternal life
+  - Transition to light for timelessness
+  - Potential for future exploration
+  - No effect on personal aging or time perception
+  - Possibility of time difference perception by others
 - Weird World of Relativity:
- - Introduction to the strange universe
- - Contrast between everyday and relativistic experiences
- - Transition to the world of the very small
- - Suggestion of a magical aspect to reality
+  - Introduction to the strange universe
+  - Contrast between everyday and relativistic experiences
+  - Transition to the world of the very small
+  - Suggestion of a magical aspect to reality
 
 ## A Dive Into the Quantum World
 
 ### A Lump of Gold and a Magnet
 - Return Home and Discovery:
- - Great-aunt's departure to Sydney
- - Collection of crystal vases left behind
- - Treasure discovery: gold cube behind a brick
- - Curiosity about the nature of matter
+  - Great-aunt's departure to Sydney
+  - Collection of crystal vases left behind
+  - Treasure discovery: gold cube behind a brick
+  - Curiosity about the nature of matter
 - Exploring the Nature of Gold:
- - Cutting gold into smaller pieces
- - Consistency of gold's properties throughout
- - Concept of halving and atom of gold
- - Limitation of cutting after several halvings
+  - Cutting gold into smaller pieces
+  - Consistency of gold's properties throughout
+  - Concept of halving and atom of gold
+  - Limitation of cutting after several halvings
 - Atoms and Their Composition:
- - All matter composed of atoms
- - Atom's internal structure a mystery
- - Hunch about smaller constituents within atoms
- - Variation in number of constituents among atoms
+  - All matter composed of atoms
+  - Atom's internal structure a mystery
+  - Hunch about smaller constituents within atoms
+  - Variation in number of constituents among atoms
 - Intriguing Matter Properties:
- - Diverse properties of pure materials
- - Connection between atoms and material properties
- - Valuation of materials based on properties
- - Cheese made of atoms but with different structure
+  - Diverse properties of pure materials
+  - Connection between atoms and material properties
+  - Valuation of materials based on properties
+  - Cheese made of atoms but with different structure
 - Questions about Atomic Structure:
- - Inquiry into atomic composition
- - Matter's internal constituents and their nature
- - Distinctive features and shapes of materials
- - Difficulty in differentiating materials at atomic level
+  - Inquiry into atomic composition
+  - Matter's internal constituents and their nature
+  - Distinctive features and shapes of materials
+  - Difficulty in differentiating materials at atomic level
 - Magnetism and Interaction:
- - Magnet discovery behind a palm tree magnet
- - Astonishment at magnet's interaction with fridge
- - Experimenting with the magnet and fridge
- - Comparison to historical and scientific inquiry
+  - Magnet discovery behind a palm tree magnet
+  - Astonishment at magnet's interaction with fridge
+  - Experimenting with the magnet and fridge
+  - Comparison to historical and scientific inquiry
 - The Mystery of Magnetism:
- - Magnet's attraction to the fridge
- - Early descriptions of "spooky action at a distance"
- - Comparison to gravity's invisible force
- - Einstein's insight into gravity as spacetime curvature
+  - Magnet's attraction to the fridge
+  - Early descriptions of "spooky action at a distance"
+  - Comparison to gravity's invisible force
+  - Einstein's insight into gravity as spacetime curvature
 - Quantum Fields and Exploration:
- - Introduction of quantum field concept
- - Quantum fields' role in explaining magnetism
- - Upcoming exploration of quantum fields' marvel
+  - Introduction of quantum field concept
+  - Quantum fields' role in explaining magnetism
+  - Upcoming exploration of quantum fields' marvel
 
 ### Like a Fish in the Sea
 - Fish's Perspective and Space Exploration:
- - Imagining life as a fish and ascending to the surface
- - Encounter with the "ceiling" of water and atmosphere
- - Perception of outer space as empty and devoid of air
+  - Imagining life as a fish and ascending to the surface
+  - Encounter with the "ceiling" of water and atmosphere
+  - Perception of outer space as empty and devoid of air
 - Introduction to the Quantum World:
- - Transition to the quantum world from outer space
- - Quantum world's prevalence and significance
- - Quantum world's presence in all matter and spaces
+  - Transition to the quantum world from outer space
+  - Quantum world's prevalence and significance
+  - Quantum world's presence in all matter and spaces
 - Magnet Experiment in Outer Space:
- - Revisiting the magnet experiment in space
- - Perception of nothingness and focus on the magnet
- - Transformation into a mini-version and shrinkage
- - Entering the quantum world and electromagnetic field
+  - Revisiting the magnet experiment in space
+  - Perception of nothingness and focus on the magnet
+  - Transformation into a mini-version and shrinkage
+  - Entering the quantum world and electromagnetic field
 - Interaction and Virtual Particles:
- - Search for connections between magnet and fridge
- - Exploration of electromagnetic force and virtual particles
- - Understanding the electromagnetic field's existence
- - Perception of virtual particles and electromagnetic charge
+  - Search for connections between magnet and fridge
+  - Exploration of electromagnetic force and virtual particles
+  - Understanding the electromagnetic field's existence
+  - Perception of virtual particles and electromagnetic charge
 - Charge Interactions and Field Rules:
- - Observing charge interactions based on polarity
- - Repulsion and attraction between charged particles
- - Description of neutral objects and field's rules
+  - Observing charge interactions based on polarity
+  - Repulsion and attraction between charged particles
+  - Description of neutral objects and field's rules
 - Realism of the Electromagnetic Field:
- - Dismissing skepticism about the field's reality
- - Role of the electromagnetic field in the universe
- - Birth of charged particles and light from the field
- - Fundamental nature of the electromagnetic field
+  - Dismissing skepticism about the field's reality
+  - Role of the electromagnetic field in the universe
+  - Birth of charged particles and light from the field
+  - Fundamental nature of the electromagnetic field
 - Existence of Quantum Fields:
- - Introduction to other quantum fields in the universe
- - Understanding matter and light as ripples of fields
- - Conceptualizing humans and matter as expressions of fields
- - Human evolution and awareness of quantum fields
+  - Introduction to other quantum fields in the universe
+  - Understanding matter and light as ripples of fields
+  - Conceptualizing humans and matter as expressions of fields
+  - Human evolution and awareness of quantum fields
 
 ### Entering the Atom
 - Introduction:
- - Curiosity sparked by a magnet on the fridge.
- - Questions about atomic structure and charges arise.
- - Enter a "mini-you" state to explore atoms and particles.
+  - Curiosity sparked by a magnet on the fridge.
+  - Questions about atomic structure and charges arise.
+  - Enter a "mini-you" state to explore atoms and particles.
 - Hydrogen Atom:
- - Encounter the smallest atom: hydrogen.
- - Visualizing a moving wave around the atomic nucleus.
- - The core is the atomic nucleus, and the wave is an electron.
- - Puzzling revelation that the electron is not a tiny dot.
+  - Encounter the smallest atom: hydrogen.
+  - Visualizing a moving wave around the atomic nucleus.
+  - The core is the atomic nucleus, and the wave is an electron.
+  - Puzzling revelation that the electron is not a tiny dot.
 - Quantum Behavior:
- - Electron's unpredictable behavior: uncertainty of position and velocity.
- - Energy and time, position and velocity are interconnected.
- - Quantum jumps or tunnelling: particles crossing barriers.
+  - Electron's unpredictable behavior: uncertainty of position and velocity.
+  - Energy and time, position and velocity are interconnected.
+  - Quantum jumps or tunnelling: particles crossing barriers.
 - Interpretation and Quantum Laws:
- - Quantum terms and their meaning.
- - Quantum laws don't apply at macro scales.
- - Quantum tunnelling allows particles to cross barriers.
+  - Quantum terms and their meaning.
+  - Quantum laws don't apply at macro scales.
+  - Quantum tunnelling allows particles to cross barriers.
 - Scanning Tunnelling Microscope:
- - German physicists create a scanning tunnelling microscope.
- - Use quantum tunnelling to image surfaces at the atomic scale.
- - Microscope's incredible precision in imaging atoms.
+  - German physicists create a scanning tunnelling microscope.
+  - Use quantum tunnelling to image surfaces at the atomic scale.
+  - Microscope's incredible precision in imaging atoms.
 - Fundamental Particles:
- - Electrons as fundamental particles of electromagnetic field.
- - Virtual particles and force carriers.
- - Atoms not fundamental, made up of electrons and other particles.
+  - Electrons as fundamental particles of electromagnetic field.
+  - Virtual particles and force carriers.
+  - Atoms not fundamental, made up of electrons and other particles.
 - Interplay of Electrons and Photons:
- - Electrons and photons can interact and turn into each other.
- - Sunlight excites electrons, creating heat.
- - Matter and light can transform within our world.
+  - Electrons and photons can interact and turn into each other.
+  - Sunlight excites electrons, creating heat.
+  - Matter and light can transform within our world.
 
 ### The Tough Electron World
 - Electromagnetism and Light Interaction:
- - Discoveries from the last two chapters, including electromagnetism's 'action at a distance' and matter-light interactions.
- - Light hits matter, exciting electrons, creating colors, and making objects visible.
- - Importance of electrons and photons in perception and understanding the universe.
+  - Discoveries from the last two chapters, including electromagnetism's 'action at a distance' and matter-light interactions.
+  - Light hits matter, exciting electrons, creating colors, and making objects visible.
+  - Importance of electrons and photons in perception and understanding the universe.
 - Atomic Structure and Electron Behavior:
- - The nucleus of atoms and its charge.
- - Observation of atoms revealing a lot of empty space between the nucleus and electrons.
- - Questioning why magnets don't pass through surfaces and the role of electrons.
- - Electrons' wave-like behavior and Pauli exclusion principle.
- - Electrons arrange in layers around the nucleus, determining the atom's properties.
- - Chemical and mechanical properties linked to the number of electrons and their arrangement.
+  - The nucleus of atoms and its charge.
+  - Observation of atoms revealing a lot of empty space between the nucleus and electrons.
+  - Questioning why magnets don't pass through surfaces and the role of electrons.
+  - Electrons' wave-like behavior and Pauli exclusion principle.
+  - Electrons arrange in layers around the nucleus, determining the atom's properties.
+  - Chemical and mechanical properties linked to the number of electrons and their arrangement.
 - Molecules and Molecular Formation:
- - Sharing electrons leads to molecules' formation.
- - Atoms sharing electrons create chains of molecules with varying complexity.
- - CHNOPS: Carbon, Hydrogen, Nitrogen, Oxygen, Phosphorus, and Sulfur – fundamental elements for life.
- - Molecules' assembly in outer space, particularly water, and the role of stars in molecule creation.
+  - Sharing electrons leads to molecules' formation.
+  - Atoms sharing electrons create chains of molecules with varying complexity.
+  - CHNOPS: Carbon, Hydrogen, Nitrogen, Oxygen, Phosphorus, and Sulfur – fundamental elements for life.
+  - Molecules' assembly in outer space, particularly water, and the role of stars in molecule creation.
 - Ions, Chemical Reactions, and Energy Release:
- - Atoms losing electrons become ions, seeking bonds to form molecules.
- - Electron bonds within molecules can also be broken, releasing energy.
- - Chemical reactions in the body release energy from food consumption.
+  - Atoms losing electrons become ions, seeking bonds to form molecules.
+  - Electron bonds within molecules can also be broken, releasing energy.
+  - Chemical reactions in the body release energy from food consumption.
 - Electron Behavior and Practical Implications:
- - Recap of electron's behavior, Pauli's exclusion principle, and electron layers.
- - Electron behavior explains solidity, interaction with walls, chairs, and other objects.
- - Practical applications in magnets sticking to surfaces and daily experiences.
- - Light's behavior, photons, and lasers as concentrated light.
+  - Recap of electron's behavior, Pauli's exclusion principle, and electron layers.
+  - Electron behavior explains solidity, interaction with walls, chairs, and other objects.
+  - Practical applications in magnets sticking to surfaces and daily experiences.
+  - Light's behavior, photons, and lasers as concentrated light.
 - Universe Beyond Electrons:
- - Introduction to particles beyond electrons and light.
- - Some particles not part of atoms shoot through matter with minimal interaction.
- - Implication that these particles don't belong to atoms and perceive the universe differently.
+  - Introduction to particles beyond electrons and light.
+  - Some particles not part of atoms shoot through matter with minimal interaction.
+  - Implication that these particles don't belong to atoms and perceive the universe differently.
 - Human Understanding of Matter:
- - Summarizing knowledge gained from understanding electrons and light.
- - Implications for daily experiences, perception, and interactions.
- - Reference to embracing someone and electrons' influence on personal space.
- - Announcement of humanity's comprehensive understanding of matter as of 2014.
+  - Summarizing knowledge gained from understanding electrons and light.
+  - Implications for daily experiences, perception, and interactions.
+  - Reference to embracing someone and electrons' influence on personal space.
+  - Announcement of humanity's comprehensive understanding of matter as of 2014.
 
 ### A Peculiar Jail
 - Exploring the Hydrogen Atom:
- - Diving Deeper: Your journey begins with the decision to delve into the hydrogen atom's core, leaving behind the distractions of the physical world.
- - The Hydrogen Core: As you approach the core, you notice the presence of evanescent pearls of light, indicating the electric charge of the core and dispelling the idea of emptiness within the atom.
- - Discovering Protons: Within the core, you encounter a mass heavier than the electron, known as a proton, possessing a positive charge. The proton is revealed as not having a specific shape but holds a significant role.
+  - Diving Deeper: Your journey begins with the decision to delve into the hydrogen atom's core, leaving behind the distractions of the physical world.
+  - The Hydrogen Core: As you approach the core, you notice the presence of evanescent pearls of light, indicating the electric charge of the core and dispelling the idea of emptiness within the atom.
+  - Discovering Protons: Within the core, you encounter a mass heavier than the electron, known as a proton, possessing a positive charge. The proton is revealed as not having a specific shape but holds a significant role.
 - Unveiling Quarks and Gluons:
- - Quark Exploration: Your curiosity prompts you to further investigate the proton's inner world, and amidst the overwhelming force, you uncover three distinct quarks – the building blocks of protons and neutrons.
- - Strong Force and Gluons: Observing the behavior of quarks, you recognize the existence of a powerful force that holds them together within the proton. This force, carried by gluons, is the cornerstone of the strong interaction.
- - Quark Confinement: Quarks, confined within the protons, possess a peculiar freedom. The closer they are, the more liberty they experience, contrasting the common notion of freedom.
+  - Quark Exploration: Your curiosity prompts you to further investigate the proton's inner world, and amidst the overwhelming force, you uncover three distinct quarks – the building blocks of protons and neutrons.
+  - Strong Force and Gluons: Observing the behavior of quarks, you recognize the existence of a powerful force that holds them together within the proton. This force, carried by gluons, is the cornerstone of the strong interaction.
+  - Quark Confinement: Quarks, confined within the protons, possess a peculiar freedom. The closer they are, the more liberty they experience, contrasting the common notion of freedom.
 - The Essence of Nuclei:
- - The Complexity of Atomic Nuclei: Transitioning to atomic nuclei, you discover a much larger scale. Gold atoms hold a nucleus with multiple protons and neutrons, surrounded by a flurry of electrons.
- - Neutrons and Quark Jails: Among the protons, you notice uncharged spheres known as neutrons, similar to quarks, but with a different combination of up and down quarks.
- - Gluons and Strong Force: Curiously observing the protons within the nucleus, you witness the strong nuclear force in action. Gluons appear and disappear, keeping quarks bound together and allowing the stability of atomic nuclei.
+  - The Complexity of Atomic Nuclei: Transitioning to atomic nuclei, you discover a much larger scale. Gold atoms hold a nucleus with multiple protons and neutrons, surrounded by a flurry of electrons.
+  - Neutrons and Quark Jails: Among the protons, you notice uncharged spheres known as neutrons, similar to quarks, but with a different combination of up and down quarks.
+  - Gluons and Strong Force: Curiously observing the protons within the nucleus, you witness the strong nuclear force in action. Gluons appear and disappear, keeping quarks bound together and allowing the stability of atomic nuclei.
 - Mesons and Strong Nuclear Force:
- - Meson Exchange: You delve deeper into the interactions within the nucleus and encounter mesons, particles created when gluons pair up. These mesons act as messengers between quarks, ensuring the stability of atomic nuclei.
- - Force of Attraction: The strong nuclear force, carried by mesons, proves to be an attractive and potent force responsible for holding neutrons and protons together within atomic nuclei.
- - The Missing Mass and Fusion: Understanding the inner workings of stars, you realize that the energy released during nuclear fusion, involving neutrons and protons, results in the firing of excess gluons and quarks, leading to a decrease in mass. This missing mass is converted into energy, fueling the brilliance of stars.
+  - Meson Exchange: You delve deeper into the interactions within the nucleus and encounter mesons, particles created when gluons pair up. These mesons act as messengers between quarks, ensuring the stability of atomic nuclei.
+  - Force of Attraction: The strong nuclear force, carried by mesons, proves to be an attractive and potent force responsible for holding neutrons and protons together within atomic nuclei.
+  - The Missing Mass and Fusion: Understanding the inner workings of stars, you realize that the energy released during nuclear fusion, involving neutrons and protons, results in the firing of excess gluons and quarks, leading to a decrease in mass. This missing mass is converted into energy, fueling the brilliance of stars.
 - Interconnected Universe:
- - Universal Links: Your journey culminates in the recognition that the universe operates on interconnected principles. Matter, light, forces, and particles are intricately woven together, governing everything around us, even if much of it remains hidden from our direct senses.
+  - Universal Links: Your journey culminates in the recognition that the universe operates on interconnected principles. Matter, light, forces, and particles are intricately woven together, governing everything around us, even if much of it remains hidden from our direct senses.
 
 ### The Last Force
 - Introduction to Quantum Fields and Forces
- - Existence of electromagnetic and strong interaction quantum fields.
- - Electromagnetic force and stability of electrons around atomic cores.
- - Strong interaction's role in binding neutrons and protons in atomic nuclei.
+  - Existence of electromagnetic and strong interaction quantum fields.
+  - Electromagnetic force and stability of electrons around atomic cores.
+  - Strong interaction's role in binding neutrons and protons in atomic nuclei.
 - Exploring the Universe on Quantum Scales
- - Interactions of particles and force carriers shaping matter's tangibility.
- - Photons and electrons exchanging roles, turning into each other.
- - Gluons and quarks within atoms of gold and hydrogen.
- - Fusion in stars creating gold, and the process of radioactive decay.
+  - Interactions of particles and force carriers shaping matter's tangibility.
+  - Photons and electrons exchanging roles, turning into each other.
+  - Gluons and quarks within atoms of gold and hydrogen.
+  - Fusion in stars creating gold, and the process of radioactive decay.
 - Radioactivity and Weak Nuclear Force
- - Spontaneous splitting of atomic cores, radioactive decay.
- - Weak nuclear force and its fundamental particles, W and Z bosons.
- - Decay of atomic core, neutrino's role, its elusive nature.
- - Neutrinos' interaction only with weak nuclear field and gravity.
- - Neutrinos' abundance and their ability to pass through matter.
- - Radioactive danger from emitted particles, alpha particles, electrons, and gamma rays.
- - Radioactive burns, genetic mutations, and cancer risks.
- - Natural occurrence of radioactivity, its role in Earth's heat and energy.
+  - Spontaneous splitting of atomic cores, radioactive decay.
+  - Weak nuclear force and its fundamental particles, W and Z bosons.
+  - Decay of atomic core, neutrino's role, its elusive nature.
+  - Neutrinos' interaction only with weak nuclear field and gravity.
+  - Neutrinos' abundance and their ability to pass through matter.
+  - Radioactive danger from emitted particles, alpha particles, electrons, and gamma rays.
+  - Radioactive burns, genetic mutations, and cancer risks.
+  - Natural occurrence of radioactivity, its role in Earth's heat and energy.
 - Nuclear Energy and Importance of Radioactivity
- - Utilization of extreme energies in atomic energy, fission, and fusion.
- - Importance of nuclear forces in the existence of life on Earth.
- - Hope for safe and clean nuclear technologies.
+  - Utilization of extreme energies in atomic energy, fission, and fusion.
+  - Importance of nuclear forces in the existence of life on Earth.
+  - Hope for safe and clean nuclear technologies.
 
 ## To the Origin of Space and Time
 
 ### To Be Confident
 - Introduction to Theoretical Physics and Quantum World
- - Transition from mathematics to theoretical physics.
- - Beauty and significance of mathematics in understanding the universe.
- - Plato's view on mathematics as the language of gods.
- - Pursuit of deep thinking about the real world.
+  - Transition from mathematics to theoretical physics.
+  - Beauty and significance of mathematics in understanding the universe.
+  - Plato's view on mathematics as the language of gods.
+  - Pursuit of deep thinking about the real world.
 - Exploring Quantum Mechanics and Fundamental Nature
- - Importance of the quantum world and its foundational role.
- - Quantum mechanics as the foundation of the universe's building blocks.
- - Quantum understanding essential for large-scale universe models.
- - Nobel Prize winners' profound statements about quantum mechanics.
+  - Importance of the quantum world and its foundational role.
+  - Quantum mechanics as the foundation of the universe's building blocks.
+  - Quantum understanding essential for large-scale universe models.
+  - Nobel Prize winners' profound statements about quantum mechanics.
 - Challenges and Excitement of Advanced Studies
- - Pursuing advanced studies at Cambridge University.
- - Concentration on the quantum world during summer break.
- - Role of quantum mechanics in understanding the universe.
- - Learning from intellectual pioneers' theories and thoughts.
+  - Pursuing advanced studies at Cambridge University.
+  - Concentration on the quantum world during summer break.
+  - Role of quantum mechanics in understanding the universe.
+  - Learning from intellectual pioneers' theories and thoughts.
 - Transition to Studying Black Holes and the Universe
- - Opportunity to work with Stephen Hawking on black holes and universe origins.
- - Shift from theoretical concepts to practical application.
- - Deep thinking as a necessity in studying complex subjects.
+  - Opportunity to work with Stephen Hawking on black holes and universe origins.
+  - Shift from theoretical concepts to practical application.
+  - Deep thinking as a necessity in studying complex subjects.
 - Exploring Electromagnetism and Weak Force Unification
- - 1979 Nobel Prize for Glashow, Salam, and Weinberg.
- - Electromagnetism and weak force linked as aspects of a single force.
- - Concept of the electroweak field during the early universe.
- - Unification of known forces as a significant breakthrough.
- - Goal of unifying forces to create a single theory.
+  - 1979 Nobel Prize for Glashow, Salam, and Weinberg.
+  - Electromagnetism and weak force linked as aspects of a single force.
+  - Concept of the electroweak field during the early universe.
+  - Unification of known forces as a significant breakthrough.
+  - Goal of unifying forces to create a single theory.
 - Journey towards Understanding the Origin of Space and Time
- - Quest for unification driving exploration of the cosmos.
- - Travel to the origin of space, time, within black holes, and beyond the universe.
- - Emptiness as a starting point for exploration and understanding.
+  - Quest for unification driving exploration of the cosmos.
+  - Travel to the origin of space, time, within black holes, and beyond the universe.
+  - Emptiness as a starting point for exploration and understanding.
 
 ### No Such Thing as Nothing
 - Fields and Fundamental Forces:
- - Different types of fields (electric, magnetic, weak nuclear, strong nuclear) govern interactions in the universe.
- - Each field has associated particles and force carriers.
- - Gravity, although not fully understood quantum mechanically, is considered a field as well.
+  - Different types of fields (electric, magnetic, weak nuclear, strong nuclear) govern interactions in the universe.
+  - Each field has associated particles and force carriers.
+  - Gravity, although not fully understood quantum mechanically, is considered a field as well.
 - Gravity and Gravitons:
- - Gravitational field exists wherever gravity acts, but its quantum nature is unresolved.
- - Hypothetical particles called "gravitons" might mediate gravitational interactions.
- - Gravity's action is currently best explained by spacetime curvature.
+  - Gravitational field exists wherever gravity acts, but its quantum nature is unresolved.
+  - Hypothetical particles called "gravitons" might mediate gravitational interactions.
+  - Gravity's action is currently best explained by spacetime curvature.
 - Unification of Fields:
- - Theoretical physicists aim to unify the four known fundamental fields into a single framework.
- - Merging fields requires immense energy, akin to the early universe's conditions.
- - Electromagnetic and weak fields merged into the electroweak field under extreme conditions.
+  - Theoretical physicists aim to unify the four known fundamental fields into a single framework.
+  - Merging fields requires immense energy, akin to the early universe's conditions.
+  - Electromagnetic and weak fields merged into the electroweak field under extreme conditions.
 - Grand Unified Theory and Energy:
- - Physicists seek a Grand Unified Theory (GUT) merging electroweak and strong fields.
- - Enormous energy is needed to achieve such unification.
- - Particle accelerators create high-energy collisions to explore fundamental particles and fields.
+  - Physicists seek a Grand Unified Theory (GUT) merging electroweak and strong fields.
+  - Enormous energy is needed to achieve such unification.
+  - Particle accelerators create high-energy collisions to explore fundamental particles and fields.
 - Discovery of Electroweak Field:
- - Particle accelerators detected new particles (W and Z bosons) confirming electroweak field's existence.
- - Achievements in particle physics demonstrate the complex nature of the universe.
- - Uniting fields provides insights into the fundamental forces and particles.
+  - Particle accelerators detected new particles (W and Z bosons) confirming electroweak field's existence.
+  - Achievements in particle physics demonstrate the complex nature of the universe.
+  - Uniting fields provides insights into the fundamental forces and particles.
 - Higgs Field and Mass Generation:
- - The Higgs field is responsible for giving mass to some particles in the universe.
- - Detection of the Higgs boson confirmed the existence of the Higgs field.
- - Most of the mass of neutrons and protons comes from the quark-gluon interactions.
+  - The Higgs field is responsible for giving mass to some particles in the universe.
+  - Detection of the Higgs boson confirmed the existence of the Higgs field.
+  - Most of the mass of neutrons and protons comes from the quark-gluon interactions.
 - Antimatter and Particle Creation:
- - Particles popping out of vacuum imply a new type of matter, antimatter.
- - Nature imposes a cost for particle appearance, leading to antimatter creation.
- - Understanding antimatter contributes to comprehending the universe's fundamental behavior.
+  - Particles popping out of vacuum imply a new type of matter, antimatter.
+  - Nature imposes a cost for particle appearance, leading to antimatter creation.
+  - Understanding antimatter contributes to comprehending the universe's fundamental behavior.
 
 ### Antimatter
 - Exploring the Unknown:
- - Earth's surface was largely uncharted for most of history.
- - Explorers ventured beyond their homelands to discover new landmasses and civilizations.
- - Understanding Earth's surface and space exploration have expanded human knowledge.
+  - Earth's surface was largely uncharted for most of history.
+  - Explorers ventured beyond their homelands to discover new landmasses and civilizations.
+  - Understanding Earth's surface and space exploration have expanded human knowledge.
 - From Surface to Space:
- - Satellite images provide comprehensive views of Earth's surface today.
- - Early explorers sailed to discover islands and continents.
- - The shift towards exploring space led to the fascination with the universe above.
+  - Satellite images provide comprehensive views of Earth's surface today.
+  - Early explorers sailed to discover islands and continents.
+  - The shift towards exploring space led to the fascination with the universe above.
 - Mind-Bending Distances:
- - Human-made satellites have traveled hundreds of millions of kilometers from Earth.
- - Interplanetary exploration involves using robots and technology.
- - Despite vast distances, interplanetary exploration captures human curiosity.
+  - Human-made satellites have traveled hundreds of millions of kilometers from Earth.
+  - Interplanetary exploration involves using robots and technology.
+  - Despite vast distances, interplanetary exploration captures human curiosity.
 - Science as Exploration:
- - Science enables exploration from the depths of the oceans to the farthest reaches of the universe.
- - Theoretical research allows the mind to explore the unknown.
- - Science can take individuals to uncharted territories and expand their understanding.
+  - Science enables exploration from the depths of the oceans to the farthest reaches of the universe.
+  - Theoretical research allows the mind to explore the unknown.
+  - Science can take individuals to uncharted territories and expand their understanding.
 - Paul Dirac and Antimatter:
- - Paul Dirac, a British scientist, discovered antimatter while building on Einstein's and quantum mechanics' work.
- - Antimatter corresponds to particles with opposite charge to their regular counterparts.
- - Antiparticles are created in pairs and can annihilate upon collision.
+  - Paul Dirac, a British scientist, discovered antimatter while building on Einstein's and quantum mechanics' work.
+  - Antimatter corresponds to particles with opposite charge to their regular counterparts.
+  - Antiparticles are created in pairs and can annihilate upon collision.
 - Discovery of Positrons:
- - Paul Dirac's insight led to the concept of antimatter and the existence of antiparticles.
- - Carl D. Anderson detected anti-electrons, also known as positrons, in 1933.
- - Antiparticles are counterparts to regular particles, with opposite charge.
+  - Paul Dirac's insight led to the concept of antimatter and the existence of antiparticles.
+  - Carl D. Anderson detected anti-electrons, also known as positrons, in 1933.
+  - Antiparticles are counterparts to regular particles, with opposite charge.
 - Existence of Antimatter:
- - All particles have corresponding antiparticles, but not all are observed in large quantities.
- - Antiparticles annihilate upon contact with their regular counterparts.
- - Some particles, like photons, are their own antiparticles due to their lack of charge.
+  - All particles have corresponding antiparticles, but not all are observed in large quantities.
+  - Antiparticles annihilate upon contact with their regular counterparts.
+  - Some particles, like photons, are their own antiparticles due to their lack of charge.
 - Presence of Antimatter:
- - Antimatter is created in instances of radioactive decay.
- - Antimatter annihilation produces powerful gamma rays.
- - Medical technology like PET scans detects antimatter interactions for diagnostics.
+  - Antimatter is created in instances of radioactive decay.
+  - Antimatter annihilation produces powerful gamma rays.
+  - Medical technology like PET scans detects antimatter interactions for diagnostics.
 - Preparation for Cosmic Exploration:
- - Understanding fields, charges, and antimatter sets the stage for further exploration.
- - The journey beyond the known universe, starting with the Big Bang, awaits.
- - Readers are encouraged to be prepared for the upcoming journey of discovery.
+  - Understanding fields, charges, and antimatter sets the stage for further exploration.
+  - The journey beyond the known universe, starting with the Big Bang, awaits.
+  - Readers are encouraged to be prepared for the upcoming journey of discovery.
 
 ### The Wall Beyond the Wall
 - Universe and Fields:
- - Universe largely consists of emptiness and is fixed and unchanging.
- - Introduction of the concept of fields, which fill the universe.
- - Fields are interconnected and govern various phenomena like time, mass, speed, distance.
+  - Universe largely consists of emptiness and is fixed and unchanging.
+  - Introduction of the concept of fields, which fill the universe.
+  - Fields are interconnected and govern various phenomena like time, mass, speed, distance.
 - Journey Through Time:
- - Embark on a journey through the history of the universe.
- - Starting point is Earth's present, progressively moving backward in time.
- - Different stages described, from distant ancestors to cosmic events.
+  - Embark on a journey through the history of the universe.
+  - Starting point is Earth's present, progressively moving backward in time.
+  - Different stages described, from distant ancestors to cosmic events.
 - Approaching the Big Bang:
- - Continuously rewinding time brings you closer to the Big Bang.
- - Universe becomes more energetic, denser, and hotter.
- - Known laws of physics begin to break down, including gravity and quantum effects.
+  - Continuously rewinding time brings you closer to the Big Bang.
+  - Universe becomes more energetic, denser, and hotter.
+  - Known laws of physics begin to break down, including gravity and quantum effects.
 - The Planck Era:
- - Reach a point where known notions of space and time break down.
- - Quantum gravity and quantum effects become dominant.
- - Universe enters a realm where current understanding of physics is insufficient.
+  - Reach a point where known notions of space and time break down.
+  - Quantum gravity and quantum effects become dominant.
+  - Universe enters a realm where current understanding of physics is insufficient.
 - Limitations and Insights:
- - Realization that understanding the entire universe requires laws and initial conditions.
- - Laws of physics alone are insufficient without a solid initial condition.
- - Uncertainty about whether familiar laws applied at the universe's inception.
+  - Realization that understanding the entire universe requires laws and initial conditions.
+  - Laws of physics alone are insufficient without a solid initial condition.
+  - Uncertainty about whether familiar laws applied at the universe's inception.
 - Epiphany and Realization:
- - Feeling of awe and amazement after journeying through space and time.
- - Idea of having god-like knowledge due to understanding gravity and fields.
- - Attempt to share this newfound insight with others.
+  - Feeling of awe and amazement after journeying through space and time.
+  - Idea of having god-like knowledge due to understanding gravity and fields.
+  - Attempt to share this newfound insight with others.
 - Limitations of Knowledge:
- - Recognizing the requirement for both laws and initial conditions.
- - Lack of a definitive initial condition for the universe.
- - Doubt about whether known laws applied at the universe's birth.
+  - Recognizing the requirement for both laws and initial conditions.
+  - Lack of a definitive initial condition for the universe.
+  - Doubt about whether known laws applied at the universe's birth.
 - Reflecting on Missing Information:
- - A sense that crucial information is still missing.
- - Uncertainty about whether laws and conditions were consistent at the beginning.
+  - A sense that crucial information is still missing.
+  - Uncertainty about whether laws and conditions were consistent at the beginning.
 
 ### Lost Pasts Are Everywhere
 - Initial Confusion and Displacement:
- - Reflection on familiar concepts: space, time, spacetime, particles, fields, gravity.
- - Feeling of being fazed and confused by the current situation.
- - Unexpected shift from familiar surroundings to a plane seat in 2415.
- - Disembarking from the plane and wandering through glass-walled corridors.
+  - Reflection on familiar concepts: space, time, spacetime, particles, fields, gravity.
+  - Feeling of being fazed and confused by the current situation.
+  - Unexpected shift from familiar surroundings to a plane seat in 2415.
+  - Disembarking from the plane and wandering through glass-walled corridors.
 - Journey through Time and Space:
- - Recall of recent experiences, such as contacting great-auntie and exploring the universe.
- - Mentions of Earth's centrality and a sphere containing humanity's accessible past.
- - Existence of another layer of reality beyond Earth's accessible history.
+  - Recall of recent experiences, such as contacting great-auntie and exploring the universe.
+  - Mentions of Earth's centrality and a sphere containing humanity's accessible past.
+  - Existence of another layer of reality beyond Earth's accessible history.
 - Existential Questions and Loneliness:
- - Contemplation of the vastness of the universe and one's smallness within it.
- - Wondering about the purpose of existence and humanity's place in the cosmos.
- - Feeling of isolation and longing, pondering the potential loneliness of existence.
+  - Contemplation of the vastness of the universe and one's smallness within it.
+  - Wondering about the purpose of existence and humanity's place in the cosmos.
+  - Feeling of isolation and longing, pondering the potential loneliness of existence.
 - Possibilities and Questions About Time:
- - Speculation on the future of humanity's technological journey.
- - Wondering if distant worlds will become more accessible.
- - Reference to time travel as a human fantasy; Stephen Hawking's party anecdote.
+  - Speculation on the future of humanity's technological journey.
+  - Wondering if distant worlds will become more accessible.
+  - Reference to time travel as a human fantasy; Stephen Hawking's party anecdote.
 - Unveiling a New Journey:
- - Arrival at a futuristic airport or "timeport."
- - Observation of customs procedures and a sense of anxiety about reality.
- - Questions about the continuity of the past and the potential to revisit it.
+  - Arrival at a futuristic airport or "timeport."
+  - Observation of customs procedures and a sense of anxiety about reality.
+  - Questions about the continuity of the past and the potential to revisit it.
 - Interplay of Time, Space, and People:
- - Reflection on the relationship between time, space, and particles.
- - Difficulty in imagining simultaneous existence across different times for humans.
- - Thoughts on particles' behavior and human bodies in relation to time.
+  - Reflection on the relationship between time, space, and particles.
+  - Difficulty in imagining simultaneous existence across different times for humans.
+  - Thoughts on particles' behavior and human bodies in relation to time.
 - Comfort in the Legacy of Lives:
- - Comfort derived from the idea of memories and images spreading through space.
- - Notion that light and particles create a memory of people's existence.
- - Understanding that the memories of loved ones keep traveling and persisting.
+  - Comfort derived from the idea of memories and images spreading through space.
+  - Notion that light and particles create a memory of people's existence.
+  - Understanding that the memories of loved ones keep traveling and persisting.
 - Intriguing Reflections and Discoveries:
- - Sensation of interconnectedness through time, space, and fields.
- - Interaction with a customs officer in the futuristic timeport.
- - Recognition of a familiar yellow tube, leading to contemplation.
+  - Sensation of interconnectedness through time, space, and fields.
+  - Interaction with a customs officer in the futuristic timeport.
+  - Recognition of a familiar yellow tube, leading to contemplation.
 - Uncertainty and Quest for Understanding:
- - Acknowledgment of the challenges in understanding the universe.
- - Mention of quantum field theory and Einstein's theory of gravity.
- - The concept of a theory of Everything and its unknown nature.
+  - Acknowledgment of the challenges in understanding the universe.
+  - Mention of quantum field theory and Einstein's theory of gravity.
+  - The concept of a theory of Everything and its unknown nature.
 - Clues and Future Prospects:
- - Mention of a clue regarding quantum gravity and the Planck wall.
- - Suggestion that the unification of quantum fields with gravity holds answers.
- - The robot's purpose of taking the protagonist to a black hole.
+  - Mention of a clue regarding quantum gravity and the Planck wall.
+  - Suggestion that the unification of quantum fields with gravity holds answers.
+  - The robot's purpose of taking the protagonist to a black hole.
 - Revisiting a Black Hole:
- - Reference to a previous encounter with a black hole.
- - Anticipation of exploring a black hole more closely.
+  - Reference to a previous encounter with a black hole.
+  - Anticipation of exploring a black hole more closely.
 
 ## Unexpected Mysteries
 
 ### The Universe
 - The Peculiar Universe and Predictability:
- - Reflection on the term "universe" meaning "turned into one."
- - Introduction of the repeatability of experiments within the universe.
- - Use of ballistics as an example of predictability based on initial conditions.
+  - Reflection on the term "universe" meaning "turned into one."
+  - Introduction of the repeatability of experiments within the universe.
+  - Use of ballistics as an example of predictability based on initial conditions.
 - Challenges in Understanding the Universe:
- - Difficulty in predicting the universe's evolution from initial conditions.
- - Mention of reaching an initial event by reversing time.
- - Arrival at the Planck wall, where space and time originated.
+  - Difficulty in predicting the universe's evolution from initial conditions.
+  - Mention of reaching an initial event by reversing time.
+  - Arrival at the Planck wall, where space and time originated.
 - Multiverse and Different Realities:
- - Speculation on the possibility of a multiverse with diverse realities.
- - Introduction of the concept of a multiverse as a solution to mysteries.
- - Theoretical physics's role in answering questions about the multiverse.
+  - Speculation on the possibility of a multiverse with diverse realities.
+  - Introduction of the concept of a multiverse as a solution to mysteries.
+  - Theoretical physics's role in answering questions about the multiverse.
 - Transition to Mixing Gravity and Quantum Physics:
- - Transition from previous explorations of space, time, and particles.
- - Introduction of the aim to combine gravity and quantum physics.
- - Preparation to jump between the very small and the very big.
+  - Transition from previous explorations of space, time, and particles.
+  - Introduction of the aim to combine gravity and quantum physics.
+  - Preparation to jump between the very small and the very big.
 - Three Kinds of Mysteries in Physics:
- - Differentiating between theoretical, observational, and comprehension mysteries.
- - Mention of black holes and pre-spacetime physics as examples.
- - These concepts as bridges to understanding a unified theory.
+  - Differentiating between theoretical, observational, and comprehension mysteries.
+  - Mention of black holes and pre-spacetime physics as examples.
+  - These concepts as bridges to understanding a unified theory.
 - Similarities of Black Holes and Universe's Origins:
- - Comparison of black holes and universe's birth involving energy confinement.
- - Similarities in the merging of the very big and very small.
- - Accessibility of black holes for study, unlike the universe's origin.
+  - Comparison of black holes and universe's birth involving energy confinement.
+  - Similarities in the merging of the very big and very small.
+  - Accessibility of black holes for study, unlike the universe's origin.
 - Utilizing Black Holes for Study:
- - Abundance of black holes in various galaxies.
- - Range of black hole sizes, from supermassive to microscopic.
- - Connection between black holes and the Planck scale.
+  - Abundance of black holes in various galaxies.
+  - Range of black hole sizes, from supermassive to microscopic.
+  - Connection between black holes and the Planck scale.
 - Common Aspects of Black Holes and Universe's Birth:
- - Shared characteristics involving quantum and gravitational effects.
- - Mention of the Planck wall and its significance.
- - Difference in examining the universe from within compared to the outside.
+  - Shared characteristics involving quantum and gravitational effects.
+  - Mention of the Planck wall and its significance.
+  - Difference in examining the universe from within compared to the outside.
 - The Promise of String Theories:
- - Introduction to string theories as a way to unify space, time, and fields.
- - Acknowledgment of the complexity and potential strangeness of string theories.
- - Recognition of the mysteries string theories aim to address.
+  - Introduction to string theories as a way to unify space, time, and fields.
+  - Acknowledgment of the complexity and potential strangeness of string theories.
+  - Recognition of the mysteries string theories aim to address.
 - Acknowledging the Unknown:
- - Acknowledgment of the gaps and unknowns in twentieth-century physics.
- - Understanding unknowns as windows to future scientific exploration.
- - Anticipation of further revolutions in thought and perception.
+  - Acknowledgment of the gaps and unknowns in twentieth-century physics.
+  - Understanding unknowns as windows to future scientific exploration.
+  - Anticipation of further revolutions in thought and perception.
 - Upcoming Journey and Challenges:
- - Overview of upcoming content and mental exercises.
- - Expectation of encountering challenges in understanding quantum fields.
- - Mention of exploring parallel universes and bridging the tiny and large scales.
+  - Overview of upcoming content and mental exercises.
+  - Expectation of encountering challenges in understanding quantum fields.
+  - Mention of exploring parallel universes and bridging the tiny and large scales.
 - From Quantum Fields to Einstein's Theory:
- - Plan to examine quantum fields and particles within quantum gravity.
- - Anticipation of encountering a cat in a quantum state.
- - Transition to exploring the big picture, including Einstein's theory of gravity.
+  - Plan to examine quantum fields and particles within quantum gravity.
+  - Anticipation of encountering a cat in a quantum state.
+  - Transition to exploring the big picture, including Einstein's theory of gravity.
 - Mysteries Across Scales:
- - Acknowledgment that the universe on both small and large scales is full of mysteries.
- - Recognizing the unknown aspects of the universe's galaxies and expansion.
- - Realization that Einstein's theory is incomplete and requires expansion.
+  - Acknowledgment that the universe on both small and large scales is full of mysteries.
+  - Recognizing the unknown aspects of the universe's galaxies and expansion.
+  - Realization that Einstein's theory is incomplete and requires expansion.
 - Completing a Journey of Understanding:
- - Overview of the knowledge gained so far about the universe.
- - Comparing the reader's understanding to that of a graduate student.
- - Anticipation of progressing further to understand what doesn't work.
+  - Overview of the knowledge gained so far about the universe.
+  - Comparing the reader's understanding to that of a graduate student.
+  - Anticipation of progressing further to understand what doesn't work.
 
 ### Quantum Infinities
 - Quantum Fluctuations and Virtual Particles:
- - Introduction of outer-space vacuum's fluctuating fields.
- - Fluctuations turning into particles through quantum processes.
- - Illustration of a mini-self immersed in quantum fields, observing interactions.
+  - Introduction of outer-space vacuum's fluctuating fields.
+  - Fluctuations turning into particles through quantum processes.
+  - Illustration of a mini-self immersed in quantum fields, observing interactions.
 - Interactions of Virtual Photons and Electrons:
- - Depiction of electrons as tennis players interacting via virtual photons.
- - Virtual photons deflected, creating virtual particle–antiparticle pairs.
- - Proliferation of particle–antiparticle pairs during interactions.
+  - Depiction of electrons as tennis players interacting via virtual photons.
+  - Virtual photons deflected, creating virtual particle–antiparticle pairs.
+  - Proliferation of particle–antiparticle pairs during interactions.
 - Infinite Possibilities and Quantum Fluctuations:
- - Consequences of quantum rules: if possible, it happens.
- - Description of the spontaneous appearance of virtual pairs.
- - Infinite creation of particle–antiparticle pairs due to interactions.
+  - Consequences of quantum rules: if possible, it happens.
+  - Description of the spontaneous appearance of virtual pairs.
+  - Infinite creation of particle–antiparticle pairs due to interactions.
 - Challenges with Vacuum Fluctuations:
- - Introduction to the concept of quantum fluctuations in the vacuum.
- - Existence of virtual pairs due to available energy.
- - Possibility of infinite energy at each point, conflicting with reality.
+  - Introduction to the concept of quantum fluctuations in the vacuum.
+  - Existence of virtual pairs due to available energy.
+  - Possibility of infinite energy at each point, conflicting with reality.
 - The Cunning Trick of Renormalization:
- - Explanation of renormalization to handle infinities.
- - Successful application of renormalization in quantum field theory.
- - Acknowledgment of the frustrations caused by infinities.
+  - Explanation of renormalization to handle infinities.
+  - Successful application of renormalization in quantum field theory.
+  - Acknowledgment of the frustrations caused by infinities.
 - Wilson's Approach and Cut-Offs:
- - Introduction of Kenneth Geddes Wilson's approach.
- - Coarse-graining and introducing a cut-off to manage infinities.
- - Wilson's contribution leading to the 1982 Nobel Prize.
+  - Introduction of Kenneth Geddes Wilson's approach.
+  - Coarse-graining and introducing a cut-off to manage infinities.
+  - Wilson's contribution leading to the 1982 Nobel Prize.
 - Challenges of Quantum Gravity:
- - Need to incorporate gravity into quantum field theories.
- - Limitations of renormalization in the context of gravity.
- - Gravity's interaction with itself and emergence of infinities.
+  - Need to incorporate gravity into quantum field theories.
+  - Limitations of renormalization in the context of gravity.
+  - Gravity's interaction with itself and emergence of infinities.
 - Gravitons and Their Duality:
- - Identification of gravitons as force carriers of gravity.
- - Gravitons behaving both as particles and waves.
- - Potential role of gravitons in describing gravity.
+  - Identification of gravitons as force carriers of gravity.
+  - Gravitons behaving both as particles and waves.
+  - Potential role of gravitons in describing gravity.
 - Incompatibility of General Relativity and Quantum Theory:
- - Contrasting nature of spacetime in general relativity and quantum field theory.
- - Incompatibility arising due to distinct notions of space and time.
- - Struggle to bridge the gap between the two theories.
+  - Contrasting nature of spacetime in general relativity and quantum field theory.
+  - Incompatibility arising due to distinct notions of space and time.
+  - Struggle to bridge the gap between the two theories.
 - Stagnation and Interaction Between Fields:
- - Feynman's frustration with the isolation of gravity research.
- - Limited progress due to lack of experimental activity in gravity research.
- - Introduction of new technologies and cross-pollination of ideas.
+  - Feynman's frustration with the isolation of gravity research.
+  - Limited progress due to lack of experimental activity in gravity research.
+  - Introduction of new technologies and cross-pollination of ideas.
 - Anticipating Part Seven:
- - Mention of crazy ideas and new perspectives in Part Seven.
- - Introduction to the upcoming exploration of ideas bridging the theories.
- - Transition to the next phase of understanding.
+  - Mention of crazy ideas and new perspectives in Part Seven.
+  - Introduction to the upcoming exploration of ideas bridging the theories.
+  - Transition to the next phase of understanding.
 
 ### To Be, and Not to Be, Rather
 - Quantum World and Superposition:
- - Particles take all possible and impossible paths in the quantum world.
- - Quantum aspects of particles allow for multiple life-paths simultaneously.
- - Despite being made of quantum particles, we don't experience quantum effects.
- - Heisenberg uncertainty principle: Cannot know both position and velocity of a particle precisely.
- - Quantum wave collapse: Measurement collapses a particle's possibilities into a definite state.
- - Schrödinger's cat thought experiment: Cat is both alive and dead until observed.
- - Haroche and Wineland experiment: Confirmed superpositions and existence of parallel states.
- - Hugh Everett's interpretation: All possibilities exist in parallel universes.
+  - Particles take all possible and impossible paths in the quantum world.
+  - Quantum aspects of particles allow for multiple life-paths simultaneously.
+  - Despite being made of quantum particles, we don't experience quantum effects.
+  - Heisenberg uncertainty principle: Cannot know both position and velocity of a particle precisely.
+  - Quantum wave collapse: Measurement collapses a particle's possibilities into a definite state.
+  - Schrödinger's cat thought experiment: Cat is both alive and dead until observed.
+  - Haroche and Wineland experiment: Confirmed superpositions and existence of parallel states.
+  - Hugh Everett's interpretation: All possibilities exist in parallel universes.
 - Mystery of Quantum Effects:
- - Why do quantum effects not appear in our macroscopic world?
- - Mystery of quantum wave collapse: Why does one state become real while others vanish?
- - Various theories: Unobserved possibilities fading away, consciousness affecting reality, Everett's branching universes.
- - Theoretical models incorporating Everett's interpretation.
+  - Why do quantum effects not appear in our macroscopic world?
+  - Mystery of quantum wave collapse: Why does one state become real while others vanish?
+  - Various theories: Unobserved possibilities fading away, consciousness affecting reality, Everett's branching universes.
+  - Theoretical models incorporating Everett's interpretation.
 - Limits of Current Knowledge:
- - General relativity and quantum field theory's incompatibility.
- - Quantum laws do not rule our daily lives as they should.
- - Quantum physics' strange effects not apparent at larger scales.
- - Einstein's theory also holds mysteries.
+  - General relativity and quantum field theory's incompatibility.
+  - Quantum laws do not rule our daily lives as they should.
+  - Quantum physics' strange effects not apparent at larger scales.
+  - Einstein's theory also holds mysteries.
 
 ### Dark Matter
 - Einstein's Theory and Galactic Motion:
- - You are in space, leaving the quantum world behind, focusing on Einstein's theory of gravity.
- - Stars and planets in our galaxy move as expected under Einstein's theory.
- - Stars' velocities around the Milky Way are consistent with stable orbits.
- - Einstein's theory works well in predicting galactic motion.
+  - You are in space, leaving the quantum world behind, focusing on Einstein's theory of gravity.
+  - Stars and planets in our galaxy move as expected under Einstein's theory.
+  - Stars' velocities around the Milky Way are consistent with stable orbits.
+  - Einstein's theory works well in predicting galactic motion.
 - Mystery of Missing Matter:
- - Dutch astronomer Jan Oort measured star velocities around the Milky Way in the 1930s.
- - The observed velocities do not match the expected velocities based on visible matter's gravitational pull.
- - There is a significant discrepancy – not enough visible matter to keep stars in their orbits.
- - Five times more matter is needed to explain observed motions.
- - The missing matter phenomenon challenges our understanding of gravity and matter distribution.
+  - Dutch astronomer Jan Oort measured star velocities around the Milky Way in the 1930s.
+  - The observed velocities do not match the expected velocities based on visible matter's gravitational pull.
+  - There is a significant discrepancy – not enough visible matter to keep stars in their orbits.
+  - Five times more matter is needed to explain observed motions.
+  - The missing matter phenomenon challenges our understanding of gravity and matter distribution.
 - Dark Matter Hypothesis:
- - Jan Oort proposed the concept of "dark matter" – undetectable matter that interacts only through gravity.
- - Dark matter's existence is inferred from its gravitational effects on visible matter.
- - Dark matter's presence influences the movement of galaxies as well as the motion of individual stars within galaxies.
- - Observations of galaxies' motions and gravitational lensing support the presence of dark matter.
- - Dark matter remains a mystery – its composition is unknown, and it does not interact with light.
- - For every kilogram of visible matter, there's about five kilograms of dark matter.
+  - Jan Oort proposed the concept of "dark matter" – undetectable matter that interacts only through gravity.
+  - Dark matter's existence is inferred from its gravitational effects on visible matter.
+  - Dark matter's presence influences the movement of galaxies as well as the motion of individual stars within galaxies.
+  - Observations of galaxies' motions and gravitational lensing support the presence of dark matter.
+  - Dark matter remains a mystery – its composition is unknown, and it does not interact with light.
+  - For every kilogram of visible matter, there's about five kilograms of dark matter.
 - Invisible Universe:
- - Dark matter is unexpected and ubiquitous, present around galaxies and throughout the universe.
- - It raises questions about the validity of Einstein's theory at large scales.
- - Despite extensive research, the nature of dark matter remains unsolved.
- - Dark matter's existence highlights the vastness of the invisible universe compared to the visible one.
+  - Dark matter is unexpected and ubiquitous, present around galaxies and throughout the universe.
+  - It raises questions about the validity of Einstein's theory at large scales.
+  - Despite extensive research, the nature of dark matter remains unsolved.
+  - Dark matter's existence highlights the vastness of the invisible universe compared to the visible one.
 
 ### Dark Energy
 - Cosmic Dynamics and Galactic Collisions:
- - Galaxies have undergone collisions and mergers over eons.
- - Galactic violence and mergers are common in space, often involving dark matter.
- - Dark matter plays a crucial role in galactic dynamics, affecting the movement of stars.
+  - Galaxies have undergone collisions and mergers over eons.
+  - Galactic violence and mergers are common in space, often involving dark matter.
+  - Dark matter plays a crucial role in galactic dynamics, affecting the movement of stars.
 - Mystery of Galactic Movements and Dark Energy:
- - Observations reveal galaxies' movements not conforming to expected expansion patterns.
- - Observations of galaxies' expansion suggest a mysterious gravitational force acting against gravity.
- - Dark energy, an anti-gravitational force, is proposed to explain accelerated cosmic expansion.
- - Dark energy's existence contradicts expectations and requires a reevaluation of the universe's energy content.
+  - Observations reveal galaxies' movements not conforming to expected expansion patterns.
+  - Observations of galaxies' expansion suggest a mysterious gravitational force acting against gravity.
+  - Dark energy, an anti-gravitational force, is proposed to explain accelerated cosmic expansion.
+  - Dark energy's existence contradicts expectations and requires a reevaluation of the universe's energy content.
 - Methods for Estimating Cosmic Distances:
- - Apparent Motion: Nearby objects appear to move faster against the background.
- - Cepheid Stars: Bright stars with regular oscillations; their brightness relates to their distance.
- - Hubble's Law: Distant galaxies recede at speeds proportional to their distances.
+  - Apparent Motion: Nearby objects appear to move faster against the background.
+  - Cepheid Stars: Bright stars with regular oscillations; their brightness relates to their distance.
+  - Hubble's Law: Distant galaxies recede at speeds proportional to their distances.
 - White Dwarf Explosions and Dark Energy:
- - White dwarfs, extremely dense objects, can explode as type Ia supernovae.
- - Type Ia supernovae are used as standard candles to measure cosmic distances.
- - Observations of distant type Ia supernovae revealed an unexpected acceleration in the universe's expansion.
- - Dark energy is proposed to explain this accelerated expansion.
- - Dark energy's existence and properties challenge our understanding of the universe's fate.
+  - White dwarfs, extremely dense objects, can explode as type Ia supernovae.
+  - Type Ia supernovae are used as standard candles to measure cosmic distances.
+  - Observations of distant type Ia supernovae revealed an unexpected acceleration in the universe's expansion.
+  - Dark energy is proposed to explain this accelerated expansion.
+  - Dark energy's existence and properties challenge our understanding of the universe's fate.
 - Einstein's Cosmological Constant:
- - Einstein introduced the cosmological constant to maintain a static universe.
- - Hubble's discovery of cosmic expansion led Einstein to withdraw the constant.
- - Ironically, the cosmological constant might explain dark energy's effects.
- - Dark energy's source and nature remain significant questions in cosmology.
+  - Einstein introduced the cosmological constant to maintain a static universe.
+  - Hubble's discovery of cosmic expansion led Einstein to withdraw the constant.
+  - Ironically, the cosmological constant might explain dark energy's effects.
+  - Dark energy's source and nature remain significant questions in cosmology.
 - Dark Energy and Dark Matter in the Universe:
- - Dark energy accounts for 72% of the universe's content.
- - Dark matter constitutes 23%, and known matter (including light) is only 4.6%.
- - Einstein's ideas, including his "biggest blunder," have shaped our understanding of the universe's structure.
- - Dark energy and dark matter pose profound questions and may hold keys to unknown aspects of reality.
+  - Dark energy accounts for 72% of the universe's content.
+  - Dark matter constitutes 23%, and known matter (including light) is only 4.6%.
+  - Einstein's ideas, including his "biggest blunder," have shaped our understanding of the universe's structure.
+  - Dark energy and dark matter pose profound questions and may hold keys to unknown aspects of reality.
 
 ### Singularities
 - Gravity and Spacetime:
- - Quantum field theory's quantum infinities and their impact on spacetime.
- - Limitations of handling infinities in quantum field theory.
- - Focus shifts to gravity's behavior without quantum considerations.
+  - Quantum field theory's quantum infinities and their impact on spacetime.
+  - Limitations of handling infinities in quantum field theory.
+  - Focus shifts to gravity's behavior without quantum considerations.
 - Spacetime and High Densities:
- - Matter can cause spacetime to bend and curve.
- - Analogy of marbles on a rubber sheet to illustrate bending spacetime.
- - High density causes spacetime to bend steeply, leading to collapse.
- - Collapsing spacetime leads to singularities – points of infinite density.
+  - Matter can cause spacetime to bend and curve.
+  - Analogy of marbles on a rubber sheet to illustrate bending spacetime.
+  - High density causes spacetime to bend steeply, leading to collapse.
+  - Collapsing spacetime leads to singularities – points of infinite density.
 - Singularities and Theoretical Breakdown:
- - Singularities arise from extreme mass/energy concentration.
- - Roger Penrose and Stephen Hawking's theorems predict collapses within general relativity.
- - Singularities indicate limitations of general relativity and predict its eventual breakdown.
- - Black holes and the universe's birth involve singularities.
+  - Singularities arise from extreme mass/energy concentration.
+  - Roger Penrose and Stephen Hawking's theorems predict collapses within general relativity.
+  - Singularities indicate limitations of general relativity and predict its eventual breakdown.
+  - Black holes and the universe's birth involve singularities.
 - Challenges of Singularities and Quantum Gravity:
- - Conceptual challenges of understanding singularities where space and time break down.
- - Need for a theory involving both gravity and quantum aspects.
- - Black holes and the universe's birth require a theory of quantum gravity.
- - Penrose and Hawking's theorems highlight the limitations of both gravity and quantum mechanics.
+  - Conceptual challenges of understanding singularities where space and time break down.
+  - Need for a theory involving both gravity and quantum aspects.
+  - Black holes and the universe's birth require a theory of quantum gravity.
+  - Penrose and Hawking's theorems highlight the limitations of both gravity and quantum mechanics.
 - Quest for a Unified Theory:
- - Difficulties in reconciling gravity and quantum mechanics.
- - Quantum vision of the world also presents challenges.
- - The need to integrate both gravity and quantum mechanics.
- - The upcoming journey involves probing a black hole to explore these concepts.
+  - Difficulties in reconciling gravity and quantum mechanics.
+  - Quantum vision of the world also presents challenges.
+  - The need to integrate both gravity and quantum mechanics.
+  - The upcoming journey involves probing a black hole to explore these concepts.
 
 ### Grey Is the New Black
 - Black Holes and Information Loss:
@@ -1350,220 +1350,220 @@ Author: Christophe Galfard
 
 ### Back to the Beginning
 - The Observable Universe and Cosmic Background:
- - The visible universe is not infinite, and Earth is at its center.
- - Cosmic surroundings appear spherical due to light from distant directions.
- - The visible universe is a sphere formed by the light of distant pasts.
- - Cosmic microwave background radiation – evidence of Big Bang theory.
+  - The visible universe is not infinite, and Earth is at its center.
+  - Cosmic surroundings appear spherical due to light from distant directions.
+  - The visible universe is a sphere formed by the light of distant pasts.
+  - Cosmic microwave background radiation – evidence of Big Bang theory.
 - Uniformity of Radiation and Inflation:
- - Cosmic microwave background radiation shows uniform temperature.
- - Radiation's uniformity contradicts expected universe expansion.
- - Cosmological inflation epoch proposed to explain uniformity.
- - Inflation suggests the possibility of multiple Big Bangs.
+  - Cosmic microwave background radiation shows uniform temperature.
+  - Radiation's uniformity contradicts expected universe expansion.
+  - Cosmological inflation epoch proposed to explain uniformity.
+  - Inflation suggests the possibility of multiple Big Bangs.
 - Temperature Anomalies and Equilibrium:
- - Cosmic microwave background radiation has consistent temperature.
- - Opposite parts of the sky share the same temperature.
- - Equilibrium temperature is achieved through contact or interaction.
- - Light from opposite directions cannot have been in touch due to distance.
+  - Cosmic microwave background radiation has consistent temperature.
+  - Opposite parts of the sky share the same temperature.
+  - Equilibrium temperature is achieved through contact or interaction.
+  - Light from opposite directions cannot have been in touch due to distance.
 - Violation of Light Speed and Inflation:
- - Uniform radiation implies past contact of distant points.
- - Faster-than-light travel is impossible for signals.
- - Inflation proposes rapid universe expansion before the Big Bang.
- - Inflation allows distant points to have been in contact.
+  - Uniform radiation implies past contact of distant points.
+  - Faster-than-light travel is impossible for signals.
+  - Inflation proposes rapid universe expansion before the Big Bang.
+  - Inflation allows distant points to have been in contact.
 - Inflaton Field and Inflation:
- - Inflaton field introduced to explain inflation.
- - Inflation suggests extreme expansion before the Big Bang.
- - Inflaton particles (inflatons) not yet detected.
- - Inflaton field's role in universe history and expansion.
+  - Inflaton field introduced to explain inflation.
+  - Inflation suggests extreme expansion before the Big Bang.
+  - Inflaton particles (inflatons) not yet detected.
+  - Inflaton field's role in universe history and expansion.
 - Phases of Inflaton Field:
- - Inflaton field initiates rapid separation of universe regions.
- - Big Bang follows with appearance of particles and fields.
- - Inflaton field quiets down, and normal expansion begins.
- - After 8 billion years, inflaton field's vacuum triggers acceleration.
+  - Inflaton field initiates rapid separation of universe regions.
+  - Big Bang follows with appearance of particles and fields.
+  - Inflaton field quiets down, and normal expansion begins.
+  - After 8 billion years, inflaton field's vacuum triggers acceleration.
 - Antipodal Points and Inflation Confirmation:
- - Antipodal parts of the sky have the same temperature.
- - Explanation lies in the past contact due to inflation.
- - Inflation's significance in understanding cosmic history.
- - Possibility of confirming inflation through observation.
+  - Antipodal parts of the sky have the same temperature.
+  - Explanation lies in the past contact due to inflation.
+  - Inflation's significance in understanding cosmic history.
+  - Possibility of confirming inflation through observation.
 
 ### Many Big Bangs
 - Inflation and Macroscopic Quantum Behavior:
- - Schrödinger's cat experiment turned microscopic behavior macroscopic.
- - Inflation achieves the same transformation without a cat.
- - Inflation occurred before the Big Bang, making the universe macroscopic.
- - Inflaton field's particles (inflatons) decayed into energy, initiating the Big Bang.
+  - Schrödinger's cat experiment turned microscopic behavior macroscopic.
+  - Inflation achieves the same transformation without a cat.
+  - Inflation occurred before the Big Bang, making the universe macroscopic.
+  - Inflaton field's particles (inflatons) decayed into energy, initiating the Big Bang.
 - Inflation's Role in Universe Formation:
- - Inflation rapidly expanded the universe, freezing quantum fluctuations.
- - Frozen fluctuations seen in cosmic microwave background radiation.
- - Inflation predicts smoothness of background radiation.
- - Predicts tiny temperature differences (anisotropies) in radiation.
+  - Inflation rapidly expanded the universe, freezing quantum fluctuations.
+  - Frozen fluctuations seen in cosmic microwave background radiation.
+  - Inflation predicts smoothness of background radiation.
+  - Predicts tiny temperature differences (anisotropies) in radiation.
 - Detection of Anisotropies and Cosmic Structures:
- - Astrophysicists Smoot and Mather detected background radiation properties.
- - Detected anisotropies indicate quantum fluctuations' influence.
- - Anisotropies likely led to star and galaxy formation through gravity.
- - Inflation connects quantum fluctuations to cosmic structures.
+  - Astrophysicists Smoot and Mather detected background radiation properties.
+  - Detected anisotropies indicate quantum fluctuations' influence.
+  - Anisotropies likely led to star and galaxy formation through gravity.
+  - Inflation connects quantum fluctuations to cosmic structures.
 - Inflation's Range from Quantum to Cosmic:
- - Inflation encompasses quantum fluctuations to cosmic structures.
- - Potential connection between inflation and dark energy.
- - Inflation has explanatory power for various cosmic phenomena.
- - Eternal inflation proposes infinite bubble universes.
+  - Inflation encompasses quantum fluctuations to cosmic structures.
+  - Potential connection between inflation and dark energy.
+  - Inflation has explanatory power for various cosmic phenomena.
+  - Eternal inflation proposes infinite bubble universes.
 - Eternal Inflation and Bubble Universes:
- - Eternal inflation suggests inflation never ceases.
- - Bubble universes emerge within existing universes.
- - Universes within universes within universes – a multiverse.
- - You and I could live in one bubble universe.
+  - Eternal inflation suggests inflation never ceases.
+  - Bubble universes emerge within existing universes.
+  - Universes within universes within universes – a multiverse.
+  - You and I could live in one bubble universe.
 - Eternal Inflation's Impact and Future Bubbles:
- - Cold death of our universe may lead to new bubble universes.
- - Eternal inflation might sound crazy but paves the way for string theory.
- - Bubble universes serve as an introduction to string theory's complexity.
- - Eternal inflation challenges conventional notions of universe beginnings.
+  - Cold death of our universe may lead to new bubble universes.
+  - Eternal inflation might sound crazy but paves the way for string theory.
+  - Bubble universes serve as an introduction to string theory's complexity.
+  - Eternal inflation challenges conventional notions of universe beginnings.
 - Exploring Beyond Inflation:
- - Eternal-inflation scenario lacks a definitive beginning.
- - Other possibilities exist beyond eternal inflation.
- - The historical first possibility is yet to be explored.
+  - Eternal-inflation scenario lacks a definitive beginning.
+  - Other possibilities exist beyond eternal inflation.
+  - The historical first possibility is yet to be explored.
 
 ### A Universe Without Boundary
 - Imagining a Single Universe and Rewinding Time:
- - Inflation occurred before the Big Bang.
- - Eternal inflation suggests infinite universes emerging.
- - Focus on a single universe's 'beginning' and inflation.
+  - Inflation occurred before the Big Bang.
+  - Eternal inflation suggests infinite universes emerging.
+  - Focus on a single universe's 'beginning' and inflation.
 - Big Bang and Planck Era:
- - The Big Bang marked the dramatic expansion of the universe.
- - Reverse view of inflation shows a collapse.
- - Reaching the Planck era leads to problems.
- - Planck wall hides the very birth of space and time.
- - Quantum gravity needed for this realm of new concepts.
- - Stephen Hawking's attempt to deal with this problem.
+  - The Big Bang marked the dramatic expansion of the universe.
+  - Reverse view of inflation shows a collapse.
+  - Reaching the Planck era leads to problems.
+  - Planck wall hides the very birth of space and time.
+  - Quantum gravity needed for this realm of new concepts.
+  - Stephen Hawking's attempt to deal with this problem.
 - Quantum Possibilities and Imaginary Time:
- - Quantum behavior relates to the invisibility of the universe's past.
- - Similar to quantum world where unobserved possibilities occur.
- - Young universe hidden by Planck wall follows quantum rules.
- - Hawking applied this idea in the early universe.
- - Imaginary time used due to inaccessibility of time beyond Planck scale.
+  - Quantum behavior relates to the invisibility of the universe's past.
+  - Similar to quantum world where unobserved possibilities occur.
+  - Young universe hidden by Planck wall follows quantum rules.
+  - Hawking applied this idea in the early universe.
+  - Imaginary time used due to inaccessibility of time beyond Planck scale.
 - Hawking's Approach to Universe's Origin:
- - Hawking's collaboration with James Hartle on quantum black holes.
- - Formula proposed that changed how the universe is understood.
- - Considered all possible past histories of the universe.
- - No-boundary proposal suggests universes came from nothing.
- - Mathematical formula known as the Hartle–Hawking wave-function.
- - Universe had no beginning according to this view.
+  - Hawking's collaboration with James Hartle on quantum black holes.
+  - Formula proposed that changed how the universe is understood.
+  - Considered all possible past histories of the universe.
+  - No-boundary proposal suggests universes came from nothing.
+  - Mathematical formula known as the Hartle–Hawking wave-function.
+  - Universe had no beginning according to this view.
 - Significance of Hawking's Proposal:
- - Difficulty of calculations within the proposed framework.
- - Despite challenges, a mathematical formula for universe's origin.
- - Humanity's quest for understanding nature's laws evolving.
- - Question of universe's origin enters a new era of mathematical exploration.
+  - Difficulty of calculations within the proposed framework.
+  - Despite challenges, a mathematical formula for universe's origin.
+  - Humanity's quest for understanding nature's laws evolving.
+  - Question of universe's origin enters a new era of mathematical exploration.
 - Origins Rooted in Twentieth Century Minds:
- - Hawking's idea linked to Dirac and Feynman's works on quantum fields.
- - Visible universe remains roughly 13.8 billion light years in radius.
- - Collecting light from outer space reveals both past and small scale.
- - Transition to exploring the very small, unveiling a new reality.
- - Window opens onto a reality larger than previously imagined.
+  - Hawking's idea linked to Dirac and Feynman's works on quantum fields.
+  - Visible universe remains roughly 13.8 billion light years in radius.
+  - Collecting light from outer space reveals both past and small scale.
+  - Transition to exploring the very small, unveiling a new reality.
+  - Window opens onto a reality larger than previously imagined.
 
 ### An Uncharted Piece of Reality
 - Zooming In and the Quantum Fields:
- - Visible universe is a sphere of immense radius.
- - Filaments of galaxies, quantum fields, Higgs field, inflaton field, and dark energy.
- - Quantum fields felt but not directly seen, making up matter.
+  - Visible universe is a sphere of immense radius.
+  - Filaments of galaxies, quantum fields, Higgs field, inflaton field, and dark energy.
+  - Quantum fields felt but not directly seen, making up matter.
 - From Galaxies to Quantum Fields:
- - Zooming in reveals galaxies, stars, planets, asteroids, living beings.
- - Further zooming leads to atoms, particles, and quantum field territory.
- - Gravity at this scale is overshadowed by quantum forces.
- - Need to address the infinities plaguing quantum field theories.
+  - Zooming in reveals galaxies, stars, planets, asteroids, living beings.
+  - Further zooming leads to atoms, particles, and quantum field territory.
+  - Gravity at this scale is overshadowed by quantum forces.
+  - Need to address the infinities plaguing quantum field theories.
 - The Challenge of Infinities:
- - Quantum fields face renormalization for dealing with infinities.
- - Quantum gravity's attempt to treat gravity as a quantum field faced failure.
- - The problem lies in unremovable infinities causing spacetime collapse.
+  - Quantum fields face renormalization for dealing with infinities.
+  - Quantum gravity's attempt to treat gravity as a quantum field faced failure.
+  - The problem lies in unremovable infinities causing spacetime collapse.
 - The Planck Scale and Quantum Gravity:
- - Universe's description using twenty-first-century physics has limits.
- - Limit exists at both very large and very small scales.
- - These limits are Planck scales, unreachable in experiments.
- - Quantum gravity inferred from Hawking's work on black holes.
+  - Universe's description using twenty-first-century physics has limits.
+  - Limit exists at both very large and very small scales.
+  - These limits are Planck scales, unreachable in experiments.
+  - Quantum gravity inferred from Hawking's work on black holes.
 - Unreachable Territory and Theoretical Ideas:
- - Probing beyond the Planck scale leads to a Planck-size black hole.
- - Nature beyond Planck scale remains unknown and unprobed.
- - Possibility of new physics or quantum gravity before Planck scale.
- - Grand-unification scale as a theoretical milestone below Planck scale.
+  - Probing beyond the Planck scale leads to a Planck-size black hole.
+  - Nature beyond Planck scale remains unknown and unprobed.
+  - Possibility of new physics or quantum gravity before Planck scale.
+  - Grand-unification scale as a theoretical milestone below Planck scale.
 - Unspoiled Territory and Experimental Gap:
- - A realm between at least 100 Planck lengths and the Planck length itself.
- - No experiments to reveal this territory's properties.
- - A theoretical physicist's perspective using limited resolution analogy.
- - Uncertainty about what lies beyond the known scales.
+  - A realm between at least 100 Planck lengths and the Planck length itself.
+  - No experiments to reveal this territory's properties.
+  - A theoretical physicist's perspective using limited resolution analogy.
+  - Uncertainty about what lies beyond the known scales.
 - Speculating on Changes and New Realities:
- - Space, time, gravity, matter, and light potentially changing before Planck scale.
- - Possibility of drastic shifts in the nature of these fundamental aspects.
- - Hypothesis of a convergence into a unified entity.
- - Transition from what is known to the unknown and theoretical.
+  - Space, time, gravity, matter, and light potentially changing before Planck scale.
+  - Possibility of drastic shifts in the nature of these fundamental aspects.
+  - Hypothesis of a convergence into a unified entity.
+  - Transition from what is known to the unknown and theoretical.
 - A Journey Through Theoretical Space:
- - Embarking on a journey beyond the known.
- - Theoretical nature of the discussed concepts.
- - The work of dedicated scientists shaping this exploration.
+  - Embarking on a journey beyond the known.
+  - Theoretical nature of the discussed concepts.
+  - The work of dedicated scientists shaping this exploration.
 
 ### A Theory of Strings
 - Journey through Uncharted Realms:
- - In outer space, with a blue electric haze around a robot companion.
- - Escaping a black hole, witnessing galaxies, and exploring the cosmos.
- - Experiencing quantum fluctuations, stars, black holes, and quantum gravity hints.
+  - In outer space, with a blue electric haze around a robot companion.
+  - Escaping a black hole, witnessing galaxies, and exploring the cosmos.
+  - Experiencing quantum fluctuations, stars, black holes, and quantum gravity hints.
 - Entering the Quantum String Realm:
- - Shrinking further, observing particles, light, and vacuum fluctuations.
- - Reaching the grand-unification scale, where quantum fields unite.
- - Discovering a quantum string, wiggling and fundamental in nature.
+  - Shrinking further, observing particles, light, and vacuum fluctuations.
+  - Reaching the grand-unification scale, where quantum fields unite.
+  - Discovering a quantum string, wiggling and fundamental in nature.
 - Quantum Strings and Universe Origin:
- - Quantum string's vibrations may explain the universe, including gravity.
- - Open strings vibrate as light particles, electromagnetic force carriers.
- - Closed strings vibrate as gravitons, carriers of gravitational force.
+  - Quantum string's vibrations may explain the universe, including gravity.
+  - Open strings vibrate as light particles, electromagnetic force carriers.
+  - Closed strings vibrate as gravitons, carriers of gravitational force.
 - Strings and Reality's Evolution:
- - Strings redefine reality's fundamental aspects.
- - Particles as string vibrations, interactions across the whole string.
- - Eliminating infinities by redefining space-time notions.
+  - Strings redefine reality's fundamental aspects.
+  - Particles as string vibrations, interactions across the whole string.
+  - Eliminating infinities by redefining space-time notions.
 - Strings and Extra Dimensions:
- - Transitioning to strings requires accepting ten-dimensional space.
- - Six extra dimensions intertwining with the usual three.
- - Matter's origins in extra dimensions, branes as parallel universes.
+  - Transitioning to strings requires accepting ten-dimensional space.
+  - Six extra dimensions intertwining with the usual three.
+  - Matter's origins in extra dimensions, branes as parallel universes.
 - Multiverse and String Possibilities:
- - Possibility of countless parallel universes with various dimensions.
- - Anthropic principle: Specific dimensions needed for human existence.
- - Different branes and their interactions may explain the universe.
+  - Possibility of countless parallel universes with various dimensions.
+  - Anthropic principle: Specific dimensions needed for human existence.
+  - Different branes and their interactions may explain the universe.
 - Exploring Branes and Black Holes:
- - Branes as parallel universes with interactions via gravity.
- - Speculating on black holes as portals between branes.
- - Linking dark matter, dark energy to brane existence.
+  - Branes as parallel universes with interactions via gravity.
+  - Speculating on black holes as portals between branes.
+  - Linking dark matter, dark energy to brane existence.
 - Return to Familiar Reality:
- - Bubbles of new inflationary universes appearing in the brane.
- - Sudden return to the beach, friends, and reality.
- - Gazing at the stars and meeting legendary scientists' ethereal forms.
+  - Bubbles of new inflationary universes appearing in the brane.
+  - Sudden return to the beach, friends, and reality.
+  - Gazing at the stars and meeting legendary scientists' ethereal forms.
 - Reawakening to Everyday Life:
- - Transition back to reality, confusion, checking surroundings.
- - Confirming reality with a call to great-auntie.
- - Blinking, contemplating the extraordinary journey.
+  - Transition back to reality, confusion, checking surroundings.
+  - Confirming reality with a call to great-auntie.
+  - Blinking, contemplating the extraordinary journey.
 
 ## Epilogue
 - Exploring Reality and Gedanken Experiments
- - Philosophers and physicists have used gedanken experiments throughout history to understand the laws of nature.
- - Gedanken experiments are thought experiments that project into situations not possible physically, revealing hidden laws and realities.
- - Schrödinger's cat and Einstein's special relativity are examples of such thought experiments that led to profound insights.
+  - Philosophers and physicists have used gedanken experiments throughout history to understand the laws of nature.
+  - Gedanken experiments are thought experiments that project into situations not possible physically, revealing hidden laws and realities.
+  - Schrödinger's cat and Einstein's special relativity are examples of such thought experiments that led to profound insights.
 - The Power of Imagination and Intuition
- - Imagination and intuition have played crucial roles in scientific discoveries, sometimes even more important than knowledge.
- - Einstein's famous quote, "Imagination is more important than knowledge," highlights the significance of creative thinking in scientific progress.
- - Many faces in the stars represent the scientists who shaped our understanding of the universe, emphasizing their role in advancing human knowledge.
+  - Imagination and intuition have played crucial roles in scientific discoveries, sometimes even more important than knowledge.
+  - Einstein's famous quote, "Imagination is more important than knowledge," highlights the significance of creative thinking in scientific progress.
+  - Many faces in the stars represent the scientists who shaped our understanding of the universe, emphasizing their role in advancing human knowledge.
 - The Tools of Survival: Brains, Minds, and Science
- - Our brains, minds, and imagination are the tools that will enable our species to survive and thrive.
- - Science and exploration provide us with the means to discover other planets and possibilities for humanity's future.
- - Although interstellar travel is currently impossible, future technological advancements may change what's feasible.
+  - Our brains, minds, and imagination are the tools that will enable our species to survive and thrive.
+  - Science and exploration provide us with the means to discover other planets and possibilities for humanity's future.
+  - Although interstellar travel is currently impossible, future technological advancements may change what's feasible.
 - Beyond Our Visible Universe
- - Newton's laws work well for scales that humans can comprehend but have limitations.
- - Quantum field theories and general relativity extend our understanding to the very small and large, respectively.
- - String theory and branes offer a potential theory of everything and provide a framework for exploring beyond our current understanding.
+  - Newton's laws work well for scales that humans can comprehend but have limitations.
+  - Quantum field theories and general relativity extend our understanding to the very small and large, respectively.
+  - String theory and branes offer a potential theory of everything and provide a framework for exploring beyond our current understanding.
 - Einstein's Revolution and General Relativity
- - Einstein's general theory of relativity revolutionized our understanding of gravity, showing that it's due to curves in spacetime caused by matter.
- - Gravitational effects include the bending of light and the deflection of starlight near the Sun, confirmed during a solar eclipse in 1919.
- - The cosmic microwave background radiation and the concept of the surface of last scattering reveal insights into the early universe.
+  - Einstein's general theory of relativity revolutionized our understanding of gravity, showing that it's due to curves in spacetime caused by matter.
+  - Gravitational effects include the bending of light and the deflection of starlight near the Sun, confirmed during a solar eclipse in 1919.
+  - The cosmic microwave background radiation and the concept of the surface of last scattering reveal insights into the early universe.
 - Particle Accelerators and Quantum Field Theories
- - Particle accelerators have allowed us to recreate early universe conditions and probe the world of particles and light.
- - Quantum field theories describe the universe's behavior on a small scale and provide insight into its composition.
+  - Particle accelerators have allowed us to recreate early universe conditions and probe the world of particles and light.
+  - Quantum field theories describe the universe's behavior on a small scale and provide insight into its composition.
 - Entering the World of Strings and Branes
- - String theory and branes represent possible theories of quantum gravity and unification of fundamental forces.
- - They introduce extra dimensions and open up possibilities for parallel universes and alternate realities.
- - Theoretical physicists and scientists explore these ideas, seeking to understand the universe's fundamental nature.
+  - String theory and branes represent possible theories of quantum gravity and unification of fundamental forces.
+  - They introduce extra dimensions and open up possibilities for parallel universes and alternate realities.
+  - Theoretical physicists and scientists explore these ideas, seeking to understand the universe's fundamental nature.
 - The Promise of Future Discoveries
- - The future may bring new insights that extend our current understanding of the universe.
- - General relativity and quantum field theories may eventually become perfect theories with clear boundaries and complementary explanations.
- - Despite current limitations, science's exploration of unknowns contributes to human progress and the advancement of knowledge.
+  - The future may bring new insights that extend our current understanding of the universe.
+  - General relativity and quantum field theories may eventually become perfect theories with clear boundaries and complementary explanations.
+  - Despite current limitations, science's exploration of unknowns contributes to human progress and the advancement of knowledge.
