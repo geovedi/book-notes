@@ -299,83 +299,83 @@ Author: Katherine Clarke
 
 ### New Kids on the Block
 - Introduction to Michael Stern and the Project
-   - Michael Stern emerged in the NYC real estate scene to build a tall skyscraper.
-   - Little was known about him and his background, leading to curiosity and skepticism.
-   - Stern grew up in an Orthodox Jewish family, struggled in school, and had a rebellious past.
-   - He claimed to have started his career in construction management in Miami.
+  - Michael Stern emerged in the NYC real estate scene to build a tall skyscraper.
+  - Little was known about him and his background, leading to curiosity and skepticism.
+  - Stern grew up in an Orthodox Jewish family, struggled in school, and had a rebellious past.
+  - He claimed to have started his career in construction management in Miami.
 - Partnership with Property Markets Group (PMG)
-   - Stern partnered with Property Markets Group (PMG), led by Kevin Maloney.
-   - The partnership began well, but differences arose as Stern gained more attention.
-   - PMG was overshadowed by Stern's visibility and success with projects like Walker Tower.
+  - Stern partnered with Property Markets Group (PMG), led by Kevin Maloney.
+  - The partnership began well, but differences arose as Stern gained more attention.
+  - PMG was overshadowed by Stern's visibility and success with projects like Walker Tower.
 - The Vision for Billionaires' Row
-   - Stern and PMG ventured into Billionaires' Row with a narrow site on 57th Street.
-   - They acquired the Steinway Building and sought to merge its footprint with their lot.
-   - The plan was to build a taller tower while preserving the landmarked Steinway Hall.
+  - Stern and PMG ventured into Billionaires' Row with a narrow site on 57th Street.
+  - They acquired the Steinway Building and sought to merge its footprint with their lot.
+  - The plan was to build a taller tower while preserving the landmarked Steinway Hall.
 - Challenges and Approvals
-   - The proposal to build through Steinway Hall faced skepticism from the Landmarks Preservation Commission.
-   - Stern's architects presented a vision for a unique tower inspired by New York landmarks.
-   - Despite initial doubts, the commission approved the project, setting the stage for a tall skyscraper.
+  - The proposal to build through Steinway Hall faced skepticism from the Landmarks Preservation Commission.
+  - Stern's architects presented a vision for a unique tower inspired by New York landmarks.
+  - Despite initial doubts, the commission approved the project, setting the stage for a tall skyscraper.
 - Securing Financing and Investors
-   - Stern and Maloney sought investors for the ambitious project's massive costs.
-   - Richard Bianco, head of AmBase Corporation, invested significant funds.
-   - Arthur Becker, former banker and artist, invested over $20 million through Atlantic 57 LLC.
-   - Overseas investors like Andy Ruhan and Russian partners Adoniev and Avdolyan joined in.
+  - Stern and Maloney sought investors for the ambitious project's massive costs.
+  - Richard Bianco, head of AmBase Corporation, invested significant funds.
+  - Arthur Becker, former banker and artist, invested over $20 million through Atlantic 57 LLC.
+  - Overseas investors like Andy Ruhan and Russian partners Adoniev and Avdolyan joined in.
 - Questionable Investors and Complex Agreements
-   - Ruhan and Becker structured complex agreements to funnel profits to Russian investors.
-   - Serguei Adoniev, associated with Putin, had a history of controversial dealings.
-   - Albert Avdolyan was well connected in Russian business circles and shared in ventures with Adoniev.
+  - Ruhan and Becker structured complex agreements to funnel profits to Russian investors.
+  - Serguei Adoniev, associated with Putin, had a history of controversial dealings.
+  - Albert Avdolyan was well connected in Russian business circles and shared in ventures with Adoniev.
 
 ### The "Prince"
 - A Surprise Visit from a "Prince"
-   - Kevin Maloney received a call from a broker about a potential powerful client interested in a stake in the 111 West 57th Street tower.
-   - The visitor, claiming to be a prince, arrived in a motorcade with armed guards and offered a deal to invest in the project.
-   - Maloney, skeptical due to past experiences with imposters, agreed to bring the deal to his partners.
+  - Kevin Maloney received a call from a broker about a potential powerful client interested in a stake in the 111 West 57th Street tower.
+  - The visitor, claiming to be a prince, arrived in a motorcade with armed guards and offered a deal to invest in the project.
+  - Maloney, skeptical due to past experiences with imposters, agreed to bring the deal to his partners.
 - Unconventional Offer and Negotiations
-   - The prince proposed a $250 million investment for a 50 percent stake in the project.
-   - The offer seemed too good to be true, offering quick returns and no grounds for skepticism.
-   - Maloney agreed to discuss the offer with his partners, though he was doubtful about its legitimacy.
-   - The prince also negotiated a deal to purchase a penthouse at Walker Tower for $51 million.
+  - The prince proposed a $250 million investment for a 50 percent stake in the project.
+  - The offer seemed too good to be true, offering quick returns and no grounds for skepticism.
+  - Maloney agreed to discuss the offer with his partners, though he was doubtful about its legitimacy.
+  - The prince also negotiated a deal to purchase a penthouse at Walker Tower for $51 million.
 - The Prince's True Identity
-   - The visitor turned out to be Khadem al-Qubaisi, a key figure in the Abu Dhabi royal family.
-   - Al-Qubaisi had been involved in major financial negotiations, including the financing of Gary Barnett's One57.
+  - The visitor turned out to be Khadem al-Qubaisi, a key figure in the Abu Dhabi royal family.
+  - Al-Qubaisi had been involved in major financial negotiations, including the financing of Gary Barnett's One57.
 - Confirmation of Legitimacy
-   - Maloney discovered al-Qubaisi's identity after the visit and realized the offer might have been legitimate.
-   - Al-Qubaisi wired a $15 million deposit for the penthouse, setting a price record for a Manhattan condo.
-   - The partners found it difficult to believe that such a high-profile investor was genuinely interested in their project.
+  - Maloney discovered al-Qubaisi's identity after the visit and realized the offer might have been legitimate.
+  - Al-Qubaisi wired a $15 million deposit for the penthouse, setting a price record for a Manhattan condo.
+  - The partners found it difficult to believe that such a high-profile investor was genuinely interested in their project.
 - Challenges with Deal Negotiations
-   - The offer brought by al-Qubaisi sparked interest among the partners, except for Dick Bianco, the primary investor.
-   - Bianco's refusal to accept the deal puzzled the others, leading to speculation about his motivations.
-   - Various parties, including Arthur Becker and Andy Ruhan, attempted to convince Bianco to accept the deal.
-   - The negotiations reached an impasse due to Bianco's resistance and the partners' inability to reach a consensus.
+  - The offer brought by al-Qubaisi sparked interest among the partners, except for Dick Bianco, the primary investor.
+  - Bianco's refusal to accept the deal puzzled the others, leading to speculation about his motivations.
+  - Various parties, including Arthur Becker and Andy Ruhan, attempted to convince Bianco to accept the deal.
+  - The negotiations reached an impasse due to Bianco's resistance and the partners' inability to reach a consensus.
 - Deal's Demise and Ongoing Plans
-   - Ultimately, the "prince" lost interest in the deal due to the prolonged negotiations.
-   - Despite this setback, the project was still moving forward with the Landmarks Commission's approval and initial funding in place.
-   - However, unforeseen challenges were on the horizon for the partners.
+  - Ultimately, the "prince" lost interest in the deal due to the prolonged negotiations.
+  - Despite this setback, the project was still moving forward with the Landmarks Commission's approval and initial funding in place.
+  - However, unforeseen challenges were on the horizon for the partners.
 
 ### Supply and Demand
 - Surge in Luxury Real Estate Demand (2012-2014):
-   - The luxury real estate market boomed after the success of One57, with multiple high-priced closings and a 40% increase in the average price per square foot for luxury apartments.
-   - Numerous ultra-luxury projects were launched, listing units for record prices, targeting jet-setting billionaires and wealthy New Yorkers.
-   - Developers aimed to cater to the increasing demand for exclusive homes on 57th Street and beyond.
+  - The luxury real estate market boomed after the success of One57, with multiple high-priced closings and a 40% increase in the average price per square foot for luxury apartments.
+  - Numerous ultra-luxury projects were launched, listing units for record prices, targeting jet-setting billionaires and wealthy New Yorkers.
+  - Developers aimed to cater to the increasing demand for exclusive homes on 57th Street and beyond.
 - Billionaires' Row Expands (2013-2014):
-   - Several projects emerged along the 57th Street corridor, including luxury towers and condo conversions of office buildings.
-   - Developers targeted the market of ultra-rich buyers who had driven the previous successes of One57 and 432 Park.
-   - Prominent projects included the Zeckendorf brothers' limestone spire, 53 West 53rd Street by Jean Nouvel, and more.
+  - Several projects emerged along the 57th Street corridor, including luxury towers and condo conversions of office buildings.
+  - Developers targeted the market of ultra-rich buyers who had driven the previous successes of One57 and 432 Park.
+  - Prominent projects included the Zeckendorf brothers' limestone spire, 53 West 53rd Street by Jean Nouvel, and more.
 - Major Players and Ambitious Plans (2013-2014):
-   - Developers pursued conversions of hotels and office buildings into high-end condos.
-   - Joseph Chetrit aimed to convert the Sony Building into luxury apartments, and Vladislav Doronin considered the historic Crown Building for his Aman brand condos.
-   - Steve Witkoff planned to replace the Park Lane Hotel with a new tower, attracting attention due to its prime location.
+  - Developers pursued conversions of hotels and office buildings into high-end condos.
+  - Joseph Chetrit aimed to convert the Sony Building into luxury apartments, and Vladislav Doronin considered the historic Crown Building for his Aman brand condos.
+  - Steve Witkoff planned to replace the Park Lane Hotel with a new tower, attracting attention due to its prime location.
 - Central Park Tower's Evolution (2013-2014):
-   - Gary Barnett's Central Park Tower was designed by architects Adrian Smith + Gordon Gill, known for their expertise in tall buildings.
-   - Initial debate over incorporating a spire led to settling on a height of 1,550 feet, making it the tallest residential tower in the world.
-   - The tower's cantilever design aimed to maximize Central Park views for lower-floor units, requiring complex construction and Landmarks Commission approval.
+  - Gary Barnett's Central Park Tower was designed by architects Adrian Smith + Gordon Gill, known for their expertise in tall buildings.
+  - Initial debate over incorporating a spire led to settling on a height of 1,550 feet, making it the tallest residential tower in the world.
+  - The tower's cantilever design aimed to maximize Central Park views for lower-floor units, requiring complex construction and Landmarks Commission approval.
 - Market Concerns and Confidence (2014):
-   - Concerns arose about oversaturation of the luxury condo market on Billionaires' Row, with some predicting buyer behavior shifts.
-   - Brokers noted a potential decrease in buyer urgency and higher price negotiation possibilities due to increased options.
-   - Industry insiders expressed differing views on the market's future, with Gary Barnett confident in the depth of demand for ultra-high-end properties.
+  - Concerns arose about oversaturation of the luxury condo market on Billionaires' Row, with some predicting buyer behavior shifts.
+  - Brokers noted a potential decrease in buyer urgency and higher price negotiation possibilities due to increased options.
+  - Industry insiders expressed differing views on the market's future, with Gary Barnett confident in the depth of demand for ultra-high-end properties.
 - Conclusion: Mixed Prospects on Billionaires' Row:
-   - Billionaires' Row expansion led to a mix of winners and losers, with some projects thriving while others faced market challenges.
-   - Developers were confident in catering to the niche market of ultra-wealthy buyers, but concerns about oversupply and changing buyer behavior remained.
+  - Billionaires' Row expansion led to a mix of winners and losers, with some projects thriving while others faced market challenges.
+  - Developers were confident in catering to the niche market of ultra-wealthy buyers, but concerns about oversupply and changing buyer behavior remained.
 
 ### The Best Building in New York
 - Vornado's Approach to Exclusivity

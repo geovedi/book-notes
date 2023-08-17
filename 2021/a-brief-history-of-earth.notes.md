@@ -143,42 +143,42 @@ Author: Andrew H. Knoll
 
 ## Oxygen Earth
 - Introduction
-   - Exploring the differences between the young Earth and the present atmosphere.
-   - Understanding the transition from an oxygen-free environment to one that supports complex life forms.
+  - Exploring the differences between the young Earth and the present atmosphere.
+  - Understanding the transition from an oxygen-free environment to one that supports complex life forms.
 - Evidence from Ancient Atmosphere
-   - Oldest samples from air bubbles trapped in Antarctic ice around two million years ago.
-   - Inferences about older air and oceans derived from chemical signatures in rocks.
-   - Earth's early atmosphere reconstructed from rocks and minerals reflecting ancient conditions.
-   - Dales Gorge in Australia as a site providing insights into Earth's ancient atmosphere.
+  - Oldest samples from air bubbles trapped in Antarctic ice around two million years ago.
+  - Inferences about older air and oceans derived from chemical signatures in rocks.
+  - Earth's early atmosphere reconstructed from rocks and minerals reflecting ancient conditions.
+  - Dales Gorge in Australia as a site providing insights into Earth's ancient atmosphere.
 - Iron Formation and Oxygen-Free Oceans
-   - Iron formations as indicators of oceans devoid of oxygen.
-   - Oxygen-free oceans likely existed beneath oxygen-poor air.
-   - Iron formations widely distributed in sedimentary basins older than 2.4 billion years.
-   - Oxygen-sensitive minerals like pyrite and their role in indicating atmospheric conditions.
+  - Iron formations as indicators of oceans devoid of oxygen.
+  - Oxygen-free oceans likely existed beneath oxygen-poor air.
+  - Iron formations widely distributed in sedimentary basins older than 2.4 billion years.
+  - Oxygen-sensitive minerals like pyrite and their role in indicating atmospheric conditions.
 - Geological Proxies for Oxygen Changes
-   - Ancient weathering horizons showing contact with oxygen around 2.4 billion years ago.
-   - Chemical weathering as a contributor to soil and altered minerals on rock surfaces.
-   - Sulfur isotopes in pyrite and gypsum reflecting atmospheric changes over time.
-   - Evidence pointing towards the emergence of oxygen in the atmosphere around 2.4 billion years ago.
+  - Ancient weathering horizons showing contact with oxygen around 2.4 billion years ago.
+  - Chemical weathering as a contributor to soil and altered minerals on rock surfaces.
+  - Sulfur isotopes in pyrite and gypsum reflecting atmospheric changes over time.
+  - Evidence pointing towards the emergence of oxygen in the atmosphere around 2.4 billion years ago.
 - Life in Oxygen-Free Environments
-   - Oxygen-free habitats sustaining life through alternative photosynthetic pathways.
-   - Microorganisms utilizing hydrogen sulfide, hydrogen gas, and other sources of electrons.
-   - Bacterial photosynthesis and respiration patterns in different environments.
-   - Oxygen-free ecosystems supporting various microbial life forms.
+  - Oxygen-free habitats sustaining life through alternative photosynthetic pathways.
+  - Microorganisms utilizing hydrogen sulfide, hydrogen gas, and other sources of electrons.
+  - Bacterial photosynthesis and respiration patterns in different environments.
+  - Oxygen-free ecosystems supporting various microbial life forms.
 - Eukaryotes and Oxygen Interaction
-   - Eukaryotes dependent on oxygen for respiration and biomolecule formation.
-   - Emergence of eukaryotic cells in sedimentary rocks around 1.6–1.8 billion years ago.
-   - Early eukaryotes coexisting with bacteria and archaea in microbial ecosystems.
-   - Increasing eukaryotic diversity and emergence of algae and simple multicellular structures.
+  - Eukaryotes dependent on oxygen for respiration and biomolecule formation.
+  - Emergence of eukaryotic cells in sedimentary rocks around 1.6–1.8 billion years ago.
+  - Early eukaryotes coexisting with bacteria and archaea in microbial ecosystems.
+  - Increasing eukaryotic diversity and emergence of algae and simple multicellular structures.
 - Oxygen's Impact on Eukaryotic Evolution
-   - Oxygen-enriched environment leading to increased productivity and energetic ecosystems.
-   - Eukaryotic cells' ability to engage in respiration and photosynthesis.
-   - Evolutionary development of organelles like mitochondria and chloroplasts.
-   - Eukaryotic cells' partnership with cyanobacteria and archaea for metabolic functions.
+  - Oxygen-enriched environment leading to increased productivity and energetic ecosystems.
+  - Eukaryotic cells' ability to engage in respiration and photosynthesis.
+  - Evolutionary development of organelles like mitochondria and chloroplasts.
+  - Eukaryotic cells' partnership with cyanobacteria and archaea for metabolic functions.
 - Emergence of Animals
-   - Fossil evidence indicating diverse eukaryotic life forms before the rise of animals.
-   - Complex organisms emerging in uppermost Proterozoic rocks.
-   - Transition to an age dominated by animal life around three billion years after the origin of life.
+  - Fossil evidence indicating diverse eukaryotic life forms before the rise of animals.
+  - Complex organisms emerging in uppermost Proterozoic rocks.
+  - Transition to an age dominated by animal life around three billion years after the origin of life.
 
 ## Animal Earth
 - Introduction to Fossil Discoveries and Mistaken Point:

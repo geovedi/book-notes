@@ -907,34 +907,34 @@ Author: Gabor Maté
 
 ### Foes to Friends: Working With the Obstacles to Healing
 - Healing and Self-Understanding:
-   - Healing is not a linear process but involves understanding oneself deeply.
-   - The journey towards wholeness requires engaging with obstacles like guilt, self-loathing, and emotional blocks.
-   - The concept of compassionate self-inquiry is introduced, focusing on understanding the purpose and origins of inner struggles.
+  - Healing is not a linear process but involves understanding oneself deeply.
+  - The journey towards wholeness requires engaging with obstacles like guilt, self-loathing, and emotional blocks.
+  - The concept of compassionate self-inquiry is introduced, focusing on understanding the purpose and origins of inner struggles.
 - Understanding Guilt and Self-Loathing:
-   - Guilt and self-loathing are explored as protective mechanisms rooted in childhood experiences.
-   - The concept of "stupid friends" is introduced, referring to inner parts that hold onto outdated beliefs for protection.
-   - Guilt and self-loathing often stem from early experiences where children suppress their true selves to maintain attachment relationships.
-   - Unhealthy guilt and self-accusation are responses to childhood traumas and serve as mechanisms to preserve relationships.
+  - Guilt and self-loathing are explored as protective mechanisms rooted in childhood experiences.
+  - The concept of "stupid friends" is introduced, referring to inner parts that hold onto outdated beliefs for protection.
+  - Guilt and self-loathing often stem from early experiences where children suppress their true selves to maintain attachment relationships.
+  - Unhealthy guilt and self-accusation are responses to childhood traumas and serve as mechanisms to preserve relationships.
 - Memory and Childhood Trauma:
-   - Childhood trauma is not solely about external events but internal disconnections.
-   - Reconnection and healing are possible in the present, irrespective of memory gaps from the past.
-   - Triggers provide opportunities to examine and understand the emotional reactions stemming from childhood experiences.
-   - The term "trigger" is analyzed, highlighting its significance in understanding internal reactions and emotional charges.
+  - Childhood trauma is not solely about external events but internal disconnections.
+  - Reconnection and healing are possible in the present, irrespective of memory gaps from the past.
+  - Triggers provide opportunities to examine and understand the emotional reactions stemming from childhood experiences.
+  - The term "trigger" is analyzed, highlighting its significance in understanding internal reactions and emotional charges.
 - Revisiting the Myth of a "Happy Childhood":
-   - The idea of a "happy childhood" can mask underlying emotional wounds.
-   - The role of context and emotional openness is crucial in understanding the complexities of childhood experiences.
-   - The absence of a trusted adult to confide in during challenging times can lead to emotional disconnection and suppressed pain.
-   - Happy memories often omit important emotional experiences that hinder holistic healing and self-understanding.
+  - The idea of a "happy childhood" can mask underlying emotional wounds.
+  - The role of context and emotional openness is crucial in understanding the complexities of childhood experiences.
+  - The absence of a trusted adult to confide in during challenging times can lead to emotional disconnection and suppressed pain.
+  - Happy memories often omit important emotional experiences that hinder holistic healing and self-understanding.
 - Comparative Trauma and Validating Feelings:
-   - Comparing one's trauma to others is not productive; everyone's pain is valid.
-   - The lack of a "big life circumstance" doesn't negate the emotional impact of personal experiences.
-   - A hypothetical scenario is presented to highlight the unfairness of dismissing one's feelings based on comparisons.
-   - The need to recognize and validate one's emotions, regardless of external circumstances, is emphasized.
+  - Comparing one's trauma to others is not productive; everyone's pain is valid.
+  - The lack of a "big life circumstance" doesn't negate the emotional impact of personal experiences.
+  - A hypothetical scenario is presented to highlight the unfairness of dismissing one's feelings based on comparisons.
+  - The need to recognize and validate one's emotions, regardless of external circumstances, is emphasized.
 - Integration and Wholeness:
-   - Inner protective mechanisms can be appreciated for their past roles but may no longer serve in the same way.
-   - The journey toward healing involves recognizing and integrating these mechanisms.
-   - An analogy of an inner home renovation is used to illustrate the process of rediscovering oneself.
-   - The ultimate goal is to remember and embrace one's authentic self.
+  - Inner protective mechanisms can be appreciated for their past roles but may no longer serve in the same way.
+  - The journey toward healing involves recognizing and integrating these mechanisms.
+  - An analogy of an inner home renovation is used to illustrate the process of rediscovering oneself.
+  - The ultimate goal is to remember and embrace one's authentic self.
 
 ### Jesus in the Tipi: Psychedelics and Healing
 - Introduction and Personal Experience:

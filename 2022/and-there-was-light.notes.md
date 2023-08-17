@@ -225,26 +225,26 @@ Author: Jon Meacham
 
 ### The Conscience of the Nation Must Be Roused
 - Introduction
-   - The motto of Frederick Douglass's North Star newspaper highlights ideals of equality and unity.
-   - Lincoln's democratic spirit and his exploration of ideas about power, faith, equality, and slavery defined his intellectual journey.
+  - The motto of Frederick Douglass's North Star newspaper highlights ideals of equality and unity.
+  - Lincoln's democratic spirit and his exploration of ideas about power, faith, equality, and slavery defined his intellectual journey.
 - Formation of Ideas
-   - Lincoln was deeply influenced by historical figures and philosophical ideas.
-   - His understanding of power, faith, and equality evolved through engagement with various sources.
+  - Lincoln was deeply influenced by historical figures and philosophical ideas.
+  - His understanding of power, faith, and equality evolved through engagement with various sources.
 - Lincoln's Legal and Political Development
-   - Lincoln's legal career, marked by diverse cases, honed his ability to frame arguments and deploy precedents.
-   - He engaged with the works of influential figures like Theodore Parker and Ralph Waldo Emerson.
+  - Lincoln's legal career, marked by diverse cases, honed his ability to frame arguments and deploy precedents.
+  - He engaged with the works of influential figures like Theodore Parker and Ralph Waldo Emerson.
 - Democratic Revolution and American Ideals
-   - Lincoln supported the Hungarian reformer Louis Kossuth's call for democracy and linked it to American principles.
-   - He drew inspiration from the American Revolution and the ideals of the Declaration of Independence.
+  - Lincoln supported the Hungarian reformer Louis Kossuth's call for democracy and linked it to American principles.
+  - He drew inspiration from the American Revolution and the ideals of the Declaration of Independence.
 - Lincoln's Egalitarian Vision
-   - Lincoln acknowledged the Declaration's principle of equality but did not initially extend it fully to all citizens.
-   - He believed in the goal of realizing equality, although he fell short of complete abolitionist aims.
+  - Lincoln acknowledged the Declaration's principle of equality but did not initially extend it fully to all citizens.
+  - He believed in the goal of realizing equality, although he fell short of complete abolitionist aims.
 - Grief and Religious Reflections
-   - The death of his son Eddy prompted Lincoln's contemplation of traditional religion.
-   - He exchanged letters expressing condolences with his father, emphasizing faith and divine providence.
+  - The death of his son Eddy prompted Lincoln's contemplation of traditional religion.
+  - He exchanged letters expressing condolences with his father, emphasizing faith and divine providence.
 - Belief in Human Agency
-   - Lincoln's view of determinism and fatalism evolved as he recognized individual efforts' impact on history.
-   - He believed in the power of human agency and character to shape events and influence the world.
+  - Lincoln's view of determinism and fatalism evolved as he recognized individual efforts' impact on history.
+  - He believed in the power of human agency and character to shape events and influence the world.
 
 ### To Understand the Moral Universe
 - Theodore Parker and Abraham Lincoln: A Perspective on their Views

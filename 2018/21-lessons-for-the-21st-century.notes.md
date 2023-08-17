@@ -57,47 +57,47 @@ Author: Yuval Noah Harari
 
 ### Disillusionment
 - Introduction
-   - Humans think in stories rather than facts or equations.
-   - Three grand stories shaped the 20th century: fascist, communist, and liberal.
-   - Liberalism emerged as dominant, celebrating liberty and progress.
+  - Humans think in stories rather than facts or equations.
+  - Three grand stories shaped the 20th century: fascist, communist, and liberal.
+  - Liberalism emerged as dominant, celebrating liberty and progress.
 - Rise and Fall of Liberal Story
-   - The liberal story's triumph and global adoption.
-   - Liberalism's celebration of freedom, democracy, and open markets.
-   - Disillusionment with liberalism post-2008 global financial crisis.
-   - Resurgence of walls, nationalism, illiberal democracies.
+  - The liberal story's triumph and global adoption.
+  - Liberalism's celebration of freedom, democracy, and open markets.
+  - Disillusionment with liberalism post-2008 global financial crisis.
+  - Resurgence of walls, nationalism, illiberal democracies.
 - Technological Disruption
-   - Accelerating pace of technological disruption.
-   - Incompatibility of liberal political system with information and biotechnology revolutions.
-   - Internet, AI, blockchain, and their potential implications.
-   - Uncertainty regarding governance and decision-making in a tech-driven world.
+  - Accelerating pace of technological disruption.
+  - Incompatibility of liberal political system with information and biotechnology revolutions.
+  - Internet, AI, blockchain, and their potential implications.
+  - Uncertainty regarding governance and decision-making in a tech-driven world.
 - Impact on Societies and Minds
-   - Biotech and infotech granting control over our bodies and minds.
-   - Ecological and mental consequences of manipulation.
-   - Likelihood of unintended disruptions due to manipulation.
-   - Similarities to ecological disruptions caused by past innovations.
+  - Biotech and infotech granting control over our bodies and minds.
+  - Ecological and mental consequences of manipulation.
+  - Likelihood of unintended disruptions due to manipulation.
+  - Similarities to ecological disruptions caused by past innovations.
 - Current Political Landscape
-   - Oligarchies using crises to prolong rule.
-   - Fragile legitimacy of ruling oligarchies; reliance on ideologies as smokescreens.
-   - Nostalgic fantasies and identity-based politics emerging as alternatives.
-   - The Trump moment and different nationalist trajectories.
+  - Oligarchies using crises to prolong rule.
+  - Fragile legitimacy of ruling oligarchies; reliance on ideologies as smokescreens.
+  - Nostalgic fantasies and identity-based politics emerging as alternatives.
+  - The Trump moment and different nationalist trajectories.
 - Search for Alternatives
-   - Liberalism's recurring crises; resilience against historical challenges.
-   - No appealing alternative to liberal package.
-   - Potential abandonment of the single global story; focus on local narratives.
-   - Rise of isolationist sentiments and nationalist dreams.
+  - Liberalism's recurring crises; resilience against historical challenges.
+  - No appealing alternative to liberal package.
+  - Potential abandonment of the single global story; focus on local narratives.
+  - Rise of isolationist sentiments and nationalist dreams.
 - Future Possibilities
-   - Challenging ecological collapse and technological disruption.
-   - Limits of economic growth; ecological and technological crises.
-   - Urgent need to create new narratives for the world.
-   - Questions about liberal reinvention, ancient wisdom, and breaking with the past.
+  - Challenging ecological collapse and technological disruption.
+  - Limits of economic growth; ecological and technological crises.
+  - Urgent need to create new narratives for the world.
+  - Questions about liberal reinvention, ancient wisdom, and breaking with the past.
 - Technological Challenge
-   - Inevitability of technological revolutions' impact.
-   - Job market transformation due to AI and automation.
-   - Potential emergence of a new useless class.
-   - Social and political consequences; impact on existing ideologies.
+  - Inevitability of technological revolutions' impact.
+  - Job market transformation due to AI and automation.
+  - Potential emergence of a new useless class.
+  - Social and political consequences; impact on existing ideologies.
 - Conclusion
-   - Urgent need to address challenges posed by technological disruption.
-   - Necessity to adapt existing ideologies or craft new narratives for the future.
+  - Urgent need to address challenges posed by technological disruption.
+  - Necessity to adapt existing ideologies or craft new narratives for the future.
 
 ### Work
 - Impact of AI and Automation on Jobs
@@ -667,49 +667,49 @@ Author: Yuval Noah Harari
 
 ### Science Fiction
 - The Power of Belief and Fictions:
-   - Humans control the world through cooperation and belief in fictions.
-   - Holy books, currency, corporations, and nations gain significance through shared beliefs.
-   - Humans often blur the line between fiction and reality, impacting their perceptions and behaviors.
-   - Blurring the line serves various purposes from entertainment to survival.
-   - People often prefer power over truth, shaping their actions and perspectives.
+  - Humans control the world through cooperation and belief in fictions.
+  - Holy books, currency, corporations, and nations gain significance through shared beliefs.
+  - Humans often blur the line between fiction and reality, impacting their perceptions and behaviors.
+  - Blurring the line serves various purposes from entertainment to survival.
+  - People often prefer power over truth, shaping their actions and perspectives.
 - Fake News and Reality:
-   - Fake news is a serious issue that can distort reality.
-   - Politicians and priests shouldn't have a free license to lie.
-   - Distinguishing between reliable sources and propaganda is crucial.
-   - While myths can cause suffering, the underlying suffering is real.
-   - Striving to differentiate reality from fiction remains important.
+  - Fake news is a serious issue that can distort reality.
+  - Politicians and priests shouldn't have a free license to lie.
+  - Distinguishing between reliable sources and propaganda is crucial.
+  - While myths can cause suffering, the underlying suffering is real.
+  - Striving to differentiate reality from fiction remains important.
 - Challenging Perceptions of Reality:
-   - Science fiction plays a significant role in shaping societal views of technology and developments.
-   - The distinction between intelligence and consciousness is often blurred in science fiction.
-   - AI and technological advancements require responsible portrayal in fiction.
-   - Reality is complex and often defies clear categorization.
+  - Science fiction plays a significant role in shaping societal views of technology and developments.
+  - The distinction between intelligence and consciousness is often blurred in science fiction.
+  - AI and technological advancements require responsible portrayal in fiction.
+  - Reality is complex and often defies clear categorization.
 - Exploring Manipulation and Control:
-   - Artistic creations influence beliefs and actions.
-   - Humans are manipulated by technology and societal constructs.
-   - People are already trapped within their own minds and societal norms.
-   - Authenticity and free will are questioned in the context of manipulation.
+  - Artistic creations influence beliefs and actions.
+  - Humans are manipulated by technology and societal constructs.
+  - People are already trapped within their own minds and societal norms.
+  - Authenticity and free will are questioned in the context of manipulation.
 - "Inside Out" and the Illusion of Authenticity:
-   - "Inside Out" movie challenges the idea of an authentic self.
-   - Riley's experiences are shaped by biochemical mechanisms.
-   - The movie suggests authenticity is a myth and the self is a complex interplay of mechanisms.
-   - The brain itself is a matrix and authentic self doesn't exist.
+  - "Inside Out" movie challenges the idea of an authentic self.
+  - Riley's experiences are shaped by biochemical mechanisms.
+  - The movie suggests authenticity is a myth and the self is a complex interplay of mechanisms.
+  - The brain itself is a matrix and authentic self doesn't exist.
 - "Brave New World" and Control through Pleasure:
-   - "Brave New World" envisions a consumerist society controlled through pleasure and contentment.
-   - Love, beauty, and nobility are replaced by manipulation and instant gratification.
-   - Control through pleasure is more effective than control through fear.
-   - The book questions the value of authenticity and challenges the pursuit of discomfort.
+  - "Brave New World" envisions a consumerist society controlled through pleasure and contentment.
+  - Love, beauty, and nobility are replaced by manipulation and instant gratification.
+  - Control through pleasure is more effective than control through fear.
+  - The book questions the value of authenticity and challenges the pursuit of discomfort.
 - Rejecting Comfort and Embracing Complexity:
-   - The dialogue between John the Savage and Mustapha Mond reveals contrasting views.
-   - John desires genuine experiences, challenges, and freedom despite potential suffering.
-   - John's rejection of comfort reflects a desire for authenticity and growth.
-   - The book underscores the complexity of human experiences and emotions.
+  - The dialogue between John the Savage and Mustapha Mond reveals contrasting views.
+  - John desires genuine experiences, challenges, and freedom despite potential suffering.
+  - John's rejection of comfort reflects a desire for authenticity and growth.
+  - The book underscores the complexity of human experiences and emotions.
 - Escape and the Exploration of Self:
-   - Escaping the matrix requires escaping the self.
-   - Huxley questions whether escape is possible since the self is part of the matrix.
-   - The possibility of escaping the narrow definition of self is raised.
-   - Challenging perceptions of self becomes vital in the modern era.
+  - Escaping the matrix requires escaping the self.
+  - Huxley questions whether escape is possible since the self is part of the matrix.
+  - The possibility of escaping the narrow definition of self is raised.
+  - Challenging perceptions of self becomes vital in the modern era.
 - Conclusion:
-   - The concepts discussed in the input underline the influence of belief, fiction, manipulation, and the complex nature of reality and self.
+  - The concepts discussed in the input underline the influence of belief, fiction, manipulation, and the complex nature of reality and self.
 
 ## Resilience
 

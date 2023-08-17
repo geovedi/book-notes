@@ -870,40 +870,40 @@ Author: Tracy Kidder
 
 ### Childhood
 - Tony's Absence and Gloomy Emails
-   - Tony's absence is noticed by the narrator, and they receive occasional gloomy emails from him.
-   - These emails reveal a hidden sadness behind Tony's cheerful demeanor.
+  - Tony's absence is noticed by the narrator, and they receive occasional gloomy emails from him.
+  - These emails reveal a hidden sadness behind Tony's cheerful demeanor.
 - Concerns over Tony's Fentanyl Use
-   - Tony's most recent urine sample tests positive for fentanyl, causing alarm.
-   - However, Tony soon enters a revival stage and appears to be doing better.
-   - He attends the annual memorial service with other Street Team patients.
+  - Tony's most recent urine sample tests positive for fentanyl, causing alarm.
+  - However, Tony soon enters a revival stage and appears to be doing better.
+  - He attends the annual memorial service with other Street Team patients.
 - Annual Memorial Service in Mousey Park
-   - The memorial service takes place in Mousey Park, where Jim delivers a eulogy for the dead and the impending demolition of the park.
-   - Many Street Team patients, including Tony, attend the service.
-   - The death count is lower than the previous year, with only eighteen casualties.
+  - The memorial service takes place in Mousey Park, where Jim delivers a eulogy for the dead and the impending demolition of the park.
+  - Many Street Team patients, including Tony, attend the service.
+  - The death count is lower than the previous year, with only eighteen casualties.
 - Changes in the Church and Revival Stage
-   - Reverend Tina has been replaced by Reverend Laura at the church.
-   - Tony attends the service and shows support for Reverend Laura by holding an umbrella over her.
-   - During the service, Tony offers up a name in remembrance of someone who has passed away.
+  - Reverend Tina has been replaced by Reverend Laura at the church.
+  - Tony attends the service and shows support for Reverend Laura by holding an umbrella over her.
+  - During the service, Tony offers up a name in remembrance of someone who has passed away.
 - Tony's Tour of His Childhood Neighborhood
-   - Tony takes Jim on a tour of his old neighborhood, recounting stories from his youth.
-   - They visit significant locations, including Hanover Street, Prado park, and the site of a murder.
-   - The tour includes historical and cultural landmarks, such as the statue of Paul Revere and Copp's Hill Burying Ground.
+  - Tony takes Jim on a tour of his old neighborhood, recounting stories from his youth.
+  - They visit significant locations, including Hanover Street, Prado park, and the site of a murder.
+  - The tour includes historical and cultural landmarks, such as the statue of Paul Revere and Copp's Hill Burying Ground.
 - Reconnecting with the Past and Childhood Memories
-   - Tony encounters an elderly woman who grew up in the neighborhood.
-   - He and the woman reminisce about old friends and shared memories.
-   - Tony recalls the sense of community in the neighborhood and how they looked out for one another.
+  - Tony encounters an elderly woman who grew up in the neighborhood.
+  - He and the woman reminisce about old friends and shared memories.
+  - Tony recalls the sense of community in the neighborhood and how they looked out for one another.
 - Darker Episodes of Tony's Childhood
-   - Tony reveals the basement where he and two other boys were once chained up and abused by a local pederast.
-   - His account of the incident appears nonchalant, as if such horrors were commonplace in the neighborhood.
-   - Jim reflects on Tony's vivid memory of traumatic events and wonders about his psychological response to these experiences.
+  - Tony reveals the basement where he and two other boys were once chained up and abused by a local pederast.
+  - His account of the incident appears nonchalant, as if such horrors were commonplace in the neighborhood.
+  - Jim reflects on Tony's vivid memory of traumatic events and wonders about his psychological response to these experiences.
 - Tony's Struggle to Leave the Streets
-   - The narrator expresses concern about Tony's well-being and suggests the importance of him finding housing.
-   - Tony acknowledges that leaving the streets isdifficult for him and mentions that even if he were to find housing, he might not be seen often.
-   - Jim discusses Tony's challenge of managing his numerous friends and Tony's tendency to say yes to everyone.
+  - The narrator expresses concern about Tony's well-being and suggests the importance of him finding housing.
+  - Tony acknowledges that leaving the streets isdifficult for him and mentions that even if he were to find housing, he might not be seen often.
+  - Jim discusses Tony's challenge of managing his numerous friends and Tony's tendency to say yes to everyone.
 - Momentary Distraction and Future Plans
-   - Tony gets momentarily distracted by Mafia films playing in a restaurant during their lunch.
-   - Before turning his attention to the films, Tony mentions his plan to call a housing agent and visit a potential new place.
-   - Jim expresses hope that Tony will be able to find stable housing and leave the streets behind.
+  - Tony gets momentarily distracted by Mafia films playing in a restaurant during their lunch.
+  - Before turning his attention to the films, Tony mentions his plan to call a housing agent and visit a potential new place.
+  - Jim expresses hope that Tony will be able to find stable housing and leave the streets behind.
 
 ### A Free Man
 - Courtroom Struggles and Tony's Descent:

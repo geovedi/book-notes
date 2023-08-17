@@ -4,37 +4,37 @@ Author: David Graeber, David Wengrow
 
 ## Farewell to Humanity's Childhood
 - Introduction
-   - Pinker's perspective on modern life as superior to the past
-   - Importance of measuring human happiness for comparison
-   - Empirical data challenges Pinker's conclusions
+  - Pinker's perspective on modern life as superior to the past
+  - Importance of measuring human happiness for comparison
+  - Empirical data challenges Pinker's conclusions
 - Indigenous Perspectives
-   - Helena Valero's case challenges Western civilization's superiority
-   - Historical instances of captured individuals choosing indigenous societies
-   - Amerindians returning to indigenous societies from European settings
-   - Eloquent commentaries on indigenous societal virtues
-   - Social bonds and happiness in Native American communities
+  - Helena Valero's case challenges Western civilization's superiority
+  - Historical instances of captured individuals choosing indigenous societies
+  - Amerindians returning to indigenous societies from European settings
+  - Eloquent commentaries on indigenous societal virtues
+  - Social bonds and happiness in Native American communities
 - Conventional Historical Narratives
-   - Critique of standard world-historical narratives
-   - Oversimplification and reduction of people's experiences
-   - Impact on our sense of human possibility and history
+  - Critique of standard world-historical narratives
+  - Oversimplification and reduction of people's experiences
+  - Impact on our sense of human possibility and history
 - Alternative Trade and Exchange
-   - Challenging the assumption of capitalist trade as ancient
-   - Ethnographic examples of precious objects traveling without markets
-   - Different forms of long-distance exchange without conventional trade
+  - Challenging the assumption of capitalist trade as ancient
+  - Ethnographic examples of precious objects traveling without markets
+  - Different forms of long-distance exchange without conventional trade
 - Restoring Humanity to History
-   - Introducing a new science of history
-   - Questioning the origin of inequality as the central issue
-   - Revisiting encounters between European colonists and Native Americans
-   - Implications for understanding agriculture, property, democracy, etc.
-   - Indigenous perspectives shaping Enlightenment and history's perception
+  - Introducing a new science of history
+  - Questioning the origin of inequality as the central issue
+  - Revisiting encounters between European colonists and Native Americans
+  - Implications for understanding agriculture, property, democracy, etc.
+  - Indigenous perspectives shaping Enlightenment and history's perception
 - Exploring Lost Possibilities
-   - Reassessing Rousseau's idea of lost qualities
-   - Identifying and characterizing what has been lost
-   - Implications for modern possibilities of social change
+  - Reassessing Rousseau's idea of lost qualities
+  - Identifying and characterizing what has been lost
+  - Implications for modern possibilities of social change
 - Evolution of Thought
-   - Authors' shift from European to indigenous perspectives
-   - Indigenous thinkers' influence on European Enlightenment
-   - Moving forward with the exploration of history from diverse viewpoints
+  - Authors' shift from European to indigenous perspectives
+  - Indigenous thinkers' influence on European Enlightenment
+  - Moving forward with the exploration of history from diverse viewpoints
 
 ## Wicked Liberty
 - Introduction: The Myth of the Noble Savage

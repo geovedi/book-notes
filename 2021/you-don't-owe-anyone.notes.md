@@ -397,39 +397,39 @@ Author: Caroline Garnet McGraw
 
 ## Epilogue: You Don't Owe Anyone, Period (You Are Free)
 - Introduction and Perspective on Authority and Transformation
-   - Sue Monk Kidd's perspective on ultimate authority
-   - The phoenix as a symbol of transformation and change
-   - Embracing discomfort for positive change
+  - Sue Monk Kidd's perspective on ultimate authority
+  - The phoenix as a symbol of transformation and change
+  - Embracing discomfort for positive change
 - Choosing Transformation and Growth
-   - Choosing discomfort as a catalyst for growth
-   - Brooke Castillo's concept of discomfort and change
-   - Pain of growth vs. pain of stagnation
-   - Making choices that align with personal growth
+  - Choosing discomfort as a catalyst for growth
+  - Brooke Castillo's concept of discomfort and change
+  - Pain of growth vs. pain of stagnation
+  - Making choices that align with personal growth
 - Transformation in Everyday Moments
-   - Transformation as a process in daily life
-   - Small sparks of change leading to transformation
-   - Everyday interactions and choices as manifestations of change
+  - Transformation as a process in daily life
+  - Small sparks of change leading to transformation
+  - Everyday interactions and choices as manifestations of change
 - Challenging Self-Criticism and Finding Self-Acceptance
-   - Self-criticism and internal bullying
-   - Realization of self-imposed suffering
-   - Acceptance of oneself and being authentic
-   - Recognizing and acknowledging the divine presence within
+  - Self-criticism and internal bullying
+  - Realization of self-imposed suffering
+  - Acceptance of oneself and being authentic
+  - Recognizing and acknowledging the divine presence within
 - Dancing and Letting Go of the Past
-   - Dancing as a form of release and connection
-   - Letting go of past wrongdoings and judgments
-   - Love, humility, and forgiveness as the keys to being human
-   - Dancing as a way to transcend concepts of wrongdoing
+  - Dancing as a form of release and connection
+  - Letting go of past wrongdoings and judgments
+  - Love, humility, and forgiveness as the keys to being human
+  - Dancing as a way to transcend concepts of wrongdoing
 - Letting Go of External Expectations
-   - Releasing the weight of religious authority
-   - Letting go of old beliefs and expectations
-   - Embracing humility and patience over perfection
-   - Choosing to trust inner knowing and intuition
+  - Releasing the weight of religious authority
+  - Letting go of old beliefs and expectations
+  - Embracing humility and patience over perfection
+  - Choosing to trust inner knowing and intuition
 - Embracing Freedom and Perfect Paths
-   - Acknowledging the perfect path for oneself
-   - Avoiding judgment of others' paths
-   - The beauty of unfolding stories
-   - Trusting the heart's promises and embracing lightness
+  - Acknowledging the perfect path for oneself
+  - Avoiding judgment of others' paths
+  - The beauty of unfolding stories
+  - Trusting the heart's promises and embracing lightness
 - Symbolic Transformation and Conclusion
-   - Recycling the Bible as a symbolic act
-   - Realization of ongoing transformation
-   - Trusting the process and embracing grace
+  - Recycling the Bible as a symbolic act
+  - Realization of ongoing transformation
+  - Trusting the process and embracing grace

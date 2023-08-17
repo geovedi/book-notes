@@ -73,17 +73,17 @@ Author: Christophe Galfard
   - A cataclysmic event that led to the Moon's formation.
   - Reflections on the significance of such cosmic impacts.
 - Earth from the Moon and Fragility of Life:
-   - Viewing Earth from the Moon, the beauty and fragility observed.
-   - Earth's healing ability and its past cosmic impacts.
-   - Sense of vulnerability despite Earth's ability to recover.
+  - Viewing Earth from the Moon, the beauty and fragility observed.
+  - Earth's healing ability and its past cosmic impacts.
+  - Sense of vulnerability despite Earth's ability to recover.
 - Protection from Cosmic Hazards:
-   - The Moon's role in protecting Earth from stray planets.
-   - Presence of asteroids and comets as hazards.
-   - Acknowledging danger while appreciating the Moon's shielding.
+  - The Moon's role in protecting Earth from stray planets.
+  - Presence of asteroids and comets as hazards.
+  - Acknowledging danger while appreciating the Moon's shielding.
 - Exploring the Sun's Brilliance:
-   - Transition from Moon to observing the Sun's brilliance.
-   - The Sun as a powerful source of energy.
-   - Beginning the exploration of the Sun's nature and why it shines.
+  - Transition from Moon to observing the Sun's brilliance.
+  - The Sun as a powerful source of energy.
+  - Beginning the exploration of the Sun's nature and why it shines.
 
 ### The Sun
 - Energy of the Sun and Perspective on Size:
@@ -123,13 +123,13 @@ Author: Christophe Galfard
   - Significance of equilibrium for the existence of life and planets.
   - Inevitable change in equilibrium as Sun's core runs out of fuel.
 - Sun's End and Explosive Transformation:
-   - Sun's future: core running dry, gravity taking over.
-   - Shrinking, denser Sun followed by reborn fusion reaction.
-   - Description of Sun's growth, explosion, and stardust creation.
+  - Sun's future: core running dry, gravity taking over.
+  - Shrinking, denser Sun followed by reborn fusion reaction.
+  - Description of Sun's growth, explosion, and stardust creation.
 - Future Stardust and Estimated Timing:
-   - Formation of heavy atoms like gold in Sun's explosive death.
-   - Stardust clouds seeding future worlds, originating from dying stars.
-   - Scientists estimate Sun's explosion in about 5 billion years.
+  - Formation of heavy atoms like gold in Sun's explosive death.
+  - Stardust clouds seeding future worlds, originating from dying stars.
+  - Scientists estimate Sun's explosion in about 5 billion years.
 
 ### Our Cosmic Family
 - Sun's Influence and Celestial Energy Sharing:
@@ -407,17 +407,17 @@ Author: Christophe Galfard
   - Confirming that the farthest stars we see may already be gone.
   - Discussing the example of the Sun's light reaching Earth.
 - Observable Star Events:
-   - Illustrating the time difference between observed and actual events.
-   - Using the example of an observed star explosion.
-   - Time dilation effect: seeing events as they occurred far in the past.
+  - Illustrating the time difference between observed and actual events.
+  - Using the example of an observed star explosion.
+  - Time dilation effect: seeing events as they occurred far in the past.
 - Light as Our Window to the Universe:
-   - Acknowledging the importance of using light to explore space.
-   - Dispelling notions of instantaneous travel or teleportation.
-   - Describing the night sky as a collection of historical postcards from various times and places.
+  - Acknowledging the importance of using light to explore space.
+  - Dispelling notions of instantaneous travel or teleportation.
+  - Describing the night sky as a collection of historical postcards from various times and places.
 - Patchwork of Universe's History:
-   - Visualizing the act of reconstructing the universe's history.
-   - Concluding that exploring the universe is akin to assembling historical postcards.
-   - The journey through space and time in Part One involved piecing together these postcards.
+  - Visualizing the act of reconstructing the universe's history.
+  - Concluding that exploring the universe is akin to assembling historical postcards.
+  - The journey through space and time in Part One involved piecing together these postcards.
 
 ### Expansion
 - Introduction to Light and Matter Interaction in Space:
@@ -654,11 +654,11 @@ Author: Christophe Galfard
   - Checking smartphone for signal (none).
   - Discrepancy between elapsed time on watch and the year 2415.
 - Questions and Doubts
-   - Considering various possibilities: prank, drugging, reality.
-   - Concerns about debts, commitments, and practical matters.
+  - Considering various possibilities: prank, drugging, reality.
+  - Concerns about debts, commitments, and practical matters.
 - Analyzing the Time Difference
-   - Puzzlement over time outside the plane racing ahead while inside did not.
-   - Acknowledging the absurdity and accepting the situation.
+  - Puzzlement over time outside the plane racing ahead while inside did not.
+  - Acknowledging the absurdity and accepting the situation.
 
 ### A Time of Our Own
 - Introduction to Relativity

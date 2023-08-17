@@ -136,74 +136,74 @@ Author: Max Fisher
 
 ## Awakening the Machine
 - Introduction
-   - Social media platforms and algorithms play a significant role in people's lives.
-   - Their pursuit of engagement has led to unintended consequences.
-   - The addictive nature of these platforms has deep societal implications.
+  - Social media platforms and algorithms play a significant role in people's lives.
+  - Their pursuit of engagement has led to unintended consequences.
+  - The addictive nature of these platforms has deep societal implications.
 - Escalation of Engagement
-   - Social networks aim to capture more attention by upgrading systems.
-   - The online ad supply increases, driving down ad prices.
-   - Human attention becomes a scarce commodity.
-   - Companies like Facebook and YouTube seek growth and users' time on site to sustain profits.
+  - Social networks aim to capture more attention by upgrading systems.
+  - The online ad supply increases, driving down ad prices.
+  - Human attention becomes a scarce commodity.
+  - Companies like Facebook and YouTube seek growth and users' time on site to sustain profits.
 - Dark Patterns and Manipulation
-   - Social media platforms use dark patterns to manipulate user behavior.
-   - Google's CEO Wojcicki takes over YouTube and focuses on growth.
-   - Algorithms push emotionally engaging content, fostering hyperpartisanship.
-   - Algorithms are designed to keep users scrolling and engaged.
+  - Social media platforms use dark patterns to manipulate user behavior.
+  - Google's CEO Wojcicki takes over YouTube and focuses on growth.
+  - Algorithms push emotionally engaging content, fostering hyperpartisanship.
+  - Algorithms are designed to keep users scrolling and engaged.
 - Algorithmic Control and Power
-   - Algorithmic decision-making shifts to machine learning and deep learning.
-   - Algorithms control content selection and user experiences.
-   - Facebook and other platforms use algorithms to drive engagement and influence behavior.
-   - Algorithms influence users' perceptions and attitudes towards current events.
+  - Algorithmic decision-making shifts to machine learning and deep learning.
+  - Algorithms control content selection and user experiences.
+  - Facebook and other platforms use algorithms to drive engagement and influence behavior.
+  - Algorithms influence users' perceptions and attitudes towards current events.
 - Warnings and Ethical Concerns
-   - Insiders voice concerns about algorithmic manipulation.
-   - Algorithms push conspiracy theories and false information.
-   - Social media platforms prioritize engagement over truth and responsible content.
-   - Efforts to raise alarms with companies and public go largely ignored.
+  - Insiders voice concerns about algorithmic manipulation.
+  - Algorithms push conspiracy theories and false information.
+  - Social media platforms prioritize engagement over truth and responsible content.
+  - Efforts to raise alarms with companies and public go largely ignored.
 - Algorithmic Influence on Society
-   - Algorithmic recommendations shape user perceptions.
-   - The illusory truth effect leads to the acceptance of false information.
-   - Algorithms reward inflammatory language and extreme content.
-   - Twitter's algorithm causes a shift towards more divisive and sensational content.
+  - Algorithmic recommendations shape user perceptions.
+  - The illusory truth effect leads to the acceptance of false information.
+  - Algorithms reward inflammatory language and extreme content.
+  - Twitter's algorithm causes a shift towards more divisive and sensational content.
 - Unseen Manipulation and Societal Consequences
-   - Algorithms quietly influence policy, beliefs, and behaviors.
-   - YouTube's recommendation engine promotes conspiracies.
-   - The public remains unaware of algorithmic manipulation.
-   - The addictive nature of algorithms exacerbates societal divides.
+  - Algorithms quietly influence policy, beliefs, and behaviors.
+  - YouTube's recommendation engine promotes conspiracies.
+  - The public remains unaware of algorithmic manipulation.
+  - The addictive nature of algorithms exacerbates societal divides.
 
 ## The Fun House Mirror
 - Introduction: The Unintended Consequences of Social Media Platforms
-   - Social media platforms unintentionally amplify dangerous forces due to their fundamental design.
-   - Tweaking algorithms to influence users' behavior only results in different versions of the same problem.
-   - The real problem lies with the platforms themselves, not isolated attributes that can be fixed.
+  - Social media platforms unintentionally amplify dangerous forces due to their fundamental design.
+  - Tweaking algorithms to influence users' behavior only results in different versions of the same problem.
+  - The real problem lies with the platforms themselves, not isolated attributes that can be fixed.
 - Impact on Individuals and Behavior
-   - Social scientists recognize the negative impact of social media on behavior and emotional responses.
-   - Users fall into feedback loops, chasing outrage and validation through sharing.
-   - Neural pathways activated by social media influence behavior, perception of reality, and moral judgment.
-   - Online outrage and conflict can transform positive social emotions into tools for self-destruction.
+  - Social scientists recognize the negative impact of social media on behavior and emotional responses.
+  - Users fall into feedback loops, chasing outrage and validation through sharing.
+  - Neural pathways activated by social media influence behavior, perception of reality, and moral judgment.
+  - Online outrage and conflict can transform positive social emotions into tools for self-destruction.
 - Efforts to Understand Influence and Manipulation
-   - Researchers aim to understand Russian influence on social media and how platforms shape information flow.
-   - Limited access to platform data hinders in-depth analysis of influence and manipulation.
-   - Academic researchers and tech insiders collaborate to reveal the extent of Russian interference.
+  - Researchers aim to understand Russian influence on social media and how platforms shape information flow.
+  - Limited access to platform data hinders in-depth analysis of influence and manipulation.
+  - Academic researchers and tech insiders collaborate to reveal the extent of Russian interference.
 - Platform Accountability and Congressional Intervention
-   - Social media platforms' lack of transparency prompts researchers and lawmakers to demand accountability.
-   - Congressional hearings pressure platforms to address their role in misinformation and manipulation.
-   - Senate Intelligence Committee pushes for disclosure of political ads and targeting information.
-   - Platforms disclose Russian interference's scope, but further investigation is needed.
+  - Social media platforms' lack of transparency prompts researchers and lawmakers to demand accountability.
+  - Congressional hearings pressure platforms to address their role in misinformation and manipulation.
+  - Senate Intelligence Committee pushes for disclosure of political ads and targeting information.
+  - Platforms disclose Russian interference's scope, but further investigation is needed.
 - Spread of Misinformation and Manipulation Strategies
-   - Russian and other actors exploit social media to manipulate public opinion.
-   - Influence comes from making content viral, using emotional language and appealing to group identity.
-   - Examples like the Heart of Texas Facebook page showcase how divisive content gains traction.
-   - Everyday individuals emulate manipulation tactics to radicalize and exploit social media platforms.
+  - Russian and other actors exploit social media to manipulate public opinion.
+  - Influence comes from making content viral, using emotional language and appealing to group identity.
+  - Examples like the Heart of Texas Facebook page showcase how divisive content gains traction.
+  - Everyday individuals emulate manipulation tactics to radicalize and exploit social media platforms.
 - Social Media's Effect on Human Perception and Belief
-   - Social media's influence model (MAD): Motivation, Attention, and Design.
-   - Moral-emotional language gains attention and shapes perceptions, regardless of context.
-   - Users' behavior shifts from external rewards to internal compulsion, reinforcing extreme content.
-   - Exposure to moral-emotional content leads to more frequent expressions of outrage and violence.
+  - Social media's influence model (MAD): Motivation, Attention, and Design.
+  - Moral-emotional language gains attention and shapes perceptions, regardless of context.
+  - Users' behavior shifts from external rewards to internal compulsion, reinforcing extreme content.
+  - Exposure to moral-emotional content leads to more frequent expressions of outrage and violence.
 - Global Consequences and Societal Implications
-   - Social media shapes people's moral compass, pushing societies toward conflict and polarization.
-   - The evolution of social media platforms worsens their toxic effects over time.
-   - Designers and engineers have different goals from users, leading to unintended consequences.
-   - Social media's distortion of psychology has far-reaching consequences on society and politics.
+  - Social media shapes people's moral compass, pushing societies toward conflict and polarization.
+  - The evolution of social media platforms worsens their toxic effects over time.
+  - Designers and engineers have different goals from users, leading to unintended consequences.
+  - Social media's distortion of psychology has far-reaching consequences on society and politics.
 
 ## The Germs and the Wind
 - Introduction:

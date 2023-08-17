@@ -91,31 +91,31 @@ Author: Suzanne Simard
 
 ## Parched
 - Bull Riding and Rodeo Atmosphere:
-   - Kelly, a skilled bull rider, competes at a rodeo event.
-   - He faces a tough bull but handles it skillfully.
-   - The audience cheers for him, appreciating his effort.
+  - Kelly, a skilled bull rider, competes at a rodeo event.
+  - He faces a tough bull but handles it skillfully.
+  - The audience cheers for him, appreciating his effort.
 - Family Background and Struggles:
-   - Kelly's family history is marked by broken marriages and challenges.
-   - His efforts to support his parents during their hospital stays show his determination.
-   - Despite his family's troubles, Kelly finds solace in rodeo and bull riding.
+  - Kelly's family history is marked by broken marriages and challenges.
+  - His efforts to support his parents during their hospital stays show his determination.
+  - Despite his family's troubles, Kelly finds solace in rodeo and bull riding.
 - Connection and Conversation:
-   - Kelly's sister, Suzie, visits him after his bull ride.
-   - They share a close bond and engage in a genuine conversation.
-   - A shy girl catches Kelly's attention, and he acknowledges Suzie's presence.
+  - Kelly's sister, Suzie, visits him after his bull ride.
+  - They share a close bond and engage in a genuine conversation.
+  - A shy girl catches Kelly's attention, and he acknowledges Suzie's presence.
 - Discovering Mycorrhizal Fungi:
-   - Suzie reflects on her work in forestry and struggling seedlings.
-   - She finds three unique mushrooms and explores their potential significance.
-   - Realizes that these mushrooms are mycorrhizal fungi, forming beneficial relationships with trees.
+  - Suzie reflects on her work in forestry and struggling seedlings.
+  - She finds three unique mushrooms and explores their potential significance.
+  - Realizes that these mushrooms are mycorrhizal fungi, forming beneficial relationships with trees.
 - Importance of Cooperation and Mutualism:
-   - Suzie learns about the mycorrhizal symbiosis that enhances plant growth.
-   - Cooperation between fungi and plants helped ancient plants transition to land.
-   - Questions the industry's focus on competition rather than cooperation.
+  - Suzie learns about the mycorrhizal symbiosis that enhances plant growth.
+  - Cooperation between fungi and plants helped ancient plants transition to land.
+  - Questions the industry's focus on competition rather than cooperation.
 - Ideas for Restoration:
-   - Suzie contemplates the role of fungi in supporting tree clusters in different environments.
-   - Considers testing her hypothesis and convincing the company to embrace cooperation for plantation restoration.
+  - Suzie contemplates the role of fungi in supporting tree clusters in different environments.
+  - Considers testing her hypothesis and convincing the company to embrace cooperation for plantation restoration.
 - Reflection on Nature and Connection:
-   - Suzie admires the natural rhythms of the environment and the cleansing breeze.
-   - Ponders the strength gained from pushing limits and the bonds formed through suffering.
+  - Suzie admires the natural rhythms of the environment and the cleansing breeze.
+  - Ponders the strength gained from pushing limits and the bonds formed through suffering.
 
 ## Treed
 - Exploring the Wilderness
@@ -146,35 +146,35 @@ Author: Suzanne Simard
 
 ## Killing Soil
 - Experimenting with Forest Growth and Soil Relationships:
-   - Suzie conducted experiments to understand the relationships between different tree species and their growth conditions.
-   - Various tree species displayed preferences for certain neighboring plants and soil conditions.
-   - Mycorrhizal fungi played a crucial role in tree health and growth, and their absence led to tree mortality.
-   - Suzie faced challenges in finding suitable sites for experiments due to the diverse landscape of British Columbia.
+  - Suzie conducted experiments to understand the relationships between different tree species and their growth conditions.
+  - Various tree species displayed preferences for certain neighboring plants and soil conditions.
+  - Mycorrhizal fungi played a crucial role in tree health and growth, and their absence led to tree mortality.
+  - Suzie faced challenges in finding suitable sites for experiments due to the diverse landscape of British Columbia.
 - Challenges and Failures in Experimentation:
-   - Suzie struggled to find appropriate flat sites and faced opposition from a rancher.
-   - Soil preparation, including removal of diseased trees and stumps, was essential for successful planting.
-   - Initial plantation attempts failed due to grass competition and displacement of forest floor and topsoil.
-   - Suzie's perseverance led to multiple replanting attempts, all resulting in seedling death.
+  - Suzie struggled to find appropriate flat sites and faced opposition from a rancher.
+  - Soil preparation, including removal of diseased trees and stumps, was essential for successful planting.
+  - Initial plantation attempts failed due to grass competition and displacement of forest floor and topsoil.
+  - Suzie's perseverance led to multiple replanting attempts, all resulting in seedling death.
 - Significance of Mycorrhizal Fungi and Soil Types:
-   - Different tree species had distinct mycorrhizal fungi requirements for optimal growth.
-   - Trees formed symbiotic relationships with specific fungi that impacted nutrient uptake.
-   - The absence of the right mycorrhizal fungi negatively affected tree health and root development.
+  - Different tree species had distinct mycorrhizal fungi requirements for optimal growth.
+  - Trees formed symbiotic relationships with specific fungi that impacted nutrient uptake.
+  - The absence of the right mycorrhizal fungi negatively affected tree health and root development.
 - Discovery and Revelations:
-   - Experiment success was achieved by introducing soil from old-growth forest areas, rich in beneficial fungi.
-   - Seedlings planted in this soil showed improved growth and diverse fungal colonization on root tips.
-   - Suzie's partner, Jean, also recognized the importance of the findings, marking a significant discovery.
+  - Experiment success was achieved by introducing soil from old-growth forest areas, rich in beneficial fungi.
+  - Seedlings planted in this soil showed improved growth and diverse fungal colonization on root tips.
+  - Suzie's partner, Jean, also recognized the importance of the findings, marking a significant discovery.
 - Environmental Concerns and Advocacy:
-   - Clear-cutting and monoculture planting practices were causing widespread forest transformation.
-   - Suzie felt a responsibility to protect forest ecosystems and their connections, advocating against harmful policies.
-   - The negative impact of chemical spraying on native plants and the importance of alder's nitrogen-fixing ability were highlighted.
+  - Clear-cutting and monoculture planting practices were causing widespread forest transformation.
+  - Suzie felt a responsibility to protect forest ecosystems and their connections, advocating against harmful policies.
+  - The negative impact of chemical spraying on native plants and the importance of alder's nitrogen-fixing ability were highlighted.
 - Educational Pursuits and Further Experimentation:
-   - Suzie pursued higher education to deepen their understanding and skills.
-   - A focus on studying alder's impact on pine growth was driven by the belief in alder's positive soil-enriching influence.
+  - Suzie pursued higher education to deepen their understanding and skills.
+  - A focus on studying alder's impact on pine growth was driven by the belief in alder's positive soil-enriching influence.
 - Unanticipated Impact:
-   - Suzie's initial hunch about alder's positive impact proved to be highly accurate, revealing a significant ecological insight.
+  - Suzie's initial hunch about alder's positive impact proved to be highly accurate, revealing a significant ecological insight.
 - Challenges and Lessons Learned:
-   - Suzie acknowledged the potential resistance and challenges they might face due to their unconventional ideas.
-   - Suzie's conviction and determination to uncover the truth about tree-soil relationships persisted despite uncertainties.
+  - Suzie acknowledged the potential resistance and challenges they might face due to their unconventional ideas.
+  - Suzie's conviction and determination to uncover the truth about tree-soil relationships persisted despite uncertainties.
 
 ## Alder Swales
 - Introduction
@@ -318,34 +318,34 @@ Author: Suzanne Simard
 
 ## Miss Birch
 - Introduction and Dilemma:
-   - author's family living in Nelson; proximity to relatives.
-   - Remote location lacks job opportunities.
-   - Suzie's passion for research and pursuit of a job offer in Vancouver.
-   - Decision-making process involving family, financial uncertainties, and career goals.
+  - author's family living in Nelson; proximity to relatives.
+  - Remote location lacks job opportunities.
+  - Suzie's passion for research and pursuit of a job offer in Vancouver.
+  - Decision-making process involving family, financial uncertainties, and career goals.
 - Conflict and Decision:
-   - Don's resistance to city living due to upbringing in natural surroundings.
-   - Don's preference for a laid-back life near nature.
-   - author's desire for the job opportunity and career advancement.
-   - Internal struggle between personal goals and family well-being.
-   - Don's skepticism about academic life and concerns about raising children in the city.
+  - Don's resistance to city living due to upbringing in natural surroundings.
+  - Don's preference for a laid-back life near nature.
+  - author's desire for the job opportunity and career advancement.
+  - Internal struggle between personal goals and family well-being.
+  - Don's skepticism about academic life and concerns about raising children in the city.
 - Exploring Options:
-   - Consideration of moving to Nelson for a better quality of life.
-   - Land exploration near Kootenay River but impractical due to lack of amenities.
-   - Lifestyle differences and adjustments between city and forest living.
+  - Consideration of moving to Nelson for a better quality of life.
+  - Land exploration near Kootenay River but impractical due to lack of amenities.
+  - Lifestyle differences and adjustments between city and forest living.
 - Professional Challenges:
-   - Initial hardships in balancing work, family, and teaching responsibilities.
-   - Fear of failing in academic career, driven by pressure from university expectations.
-   - Struggle to manage workload, maintain health, and sustain energy levels.
+  - Initial hardships in balancing work, family, and teaching responsibilities.
+  - Fear of failing in academic career, driven by pressure from university expectations.
+  - Struggle to manage workload, maintain health, and sustain energy levels.
 - Shifts and Achievements:
-   - Don's adaptation to being a primary caregiver, facing work challenges.
-   - Mixed experience of raising kids in the city: closer supervision, urban activities.
-   - author's academic progress: tenure, successful research projects, grant funding.
-   - Increasing complexity of forest intelligence research, discoveries about ecosystems.
-   - The symbolic shattered picture representing the complexity and change in life.
+  - Don's adaptation to being a primary caregiver, facing work challenges.
+  - Mixed experience of raising kids in the city: closer supervision, urban activities.
+  - author's academic progress: tenure, successful research projects, grant funding.
+  - Increasing complexity of forest intelligence research, discoveries about ecosystems.
+  - The symbolic shattered picture representing the complexity and change in life.
 - Final Decisions and Resolutions:
-   - Decision to move to Nelson due to job commitments and family needs.
-   - Plan for commuting between Vancouver and Nelson for work and family time.
-   - author's continued commitment to understanding and nurturing forest ecosystems.
+  - Decision to move to Nelson due to job commitments and family needs.
+  - Plan for commuting between Vancouver and Nelson for work and family time.
+  - author's continued commitment to understanding and nurturing forest ecosystems.
 
 ## Nine-Hour Commute
 - Forest Ecology and Mother Trees:

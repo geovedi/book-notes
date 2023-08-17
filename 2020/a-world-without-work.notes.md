@@ -4,49 +4,49 @@ Author: Daniel Susskind
 
 ## Introduction
 - Introduction
-   - The "Great Manure Crisis" of the 1890s due to horse transportation's impact on cities.
-   - Technological advancements led to the decline of horse reliance.
+  - The "Great Manure Crisis" of the 1890s due to horse transportation's impact on cities.
+  - Technological advancements led to the decline of horse reliance.
 - Technological Progress and Work
-   - Horse-drawn transportation relied heavily on horses, causing manure and carcass problems.
-   - Technological advancements like internal combustion engines replaced horses.
-   - The advent of the combustion engine led to the rise of automobiles.
-   - Policymakers initially concerned but technology resolved the crisis.
+  - Horse-drawn transportation relied heavily on horses, causing manure and carcass problems.
+  - Technological advancements like internal combustion engines replaced horses.
+  - The advent of the combustion engine led to the rise of automobiles.
+  - Policymakers initially concerned but technology resolved the crisis.
 - Technological Unemployment
-   - Wassily Leontief's concern about new technology displacing human workers.
-   - Current fears of automation replacing jobs in the US and the UK.
-   - The question of whether there will be sufficient work in the 21st century.
+  - Wassily Leontief's concern about new technology displacing human workers.
+  - Current fears of automation replacing jobs in the US and the UK.
+  - The question of whether there will be sufficient work in the 21st century.
 - Impact of Automation on Work
-   - Historical instances of automation anxiety, which turned out to be misplaced.
-   - Shift from blue-collar to white-collar jobs affected by automation.
-   - Artificial Intelligence (AI) resurgence and its impact on jobs.
-   - Gradual reduction in the demand for human labor due to automation.
+  - Historical instances of automation anxiety, which turned out to be misplaced.
+  - Shift from blue-collar to white-collar jobs affected by automation.
+  - Artificial Intelligence (AI) resurgence and its impact on jobs.
+  - Gradual reduction in the demand for human labor due to automation.
 - Expectations of Technological Unemployment
-   - Speculative claim by computer scientists of machines outperforming humans.
-   - Skepticism about radical predictions, as some tasks will remain beyond automation.
-   - Prediction that machines will not replace everything, but they will handle more tasks.
+  - Speculative claim by computer scientists of machines outperforming humans.
+  - Skepticism about radical predictions, as some tasks will remain beyond automation.
+  - Prediction that machines will not replace everything, but they will handle more tasks.
 - Effects of Technological Unemployment
-   - Slow transition towards machines doing more tasks.
-   - Shrinking set of activities for humans to engage in.
-   - Demand for human work dwindling over time.
-   - Comparison to past shifts in farming and manufacturing due to automation.
+  - Slow transition towards machines doing more tasks.
+  - Shrinking set of activities for humans to engage in.
+  - Demand for human work dwindling over time.
+  - Comparison to past shifts in farming and manufacturing due to automation.
 - Challenges of Economic Inequality and Political Power
-   - Technological unemployment exacerbating existing economic inequalities.
-   - The increasing dominance of large technology companies (Big Tech).
-   - Concerns about the political power of Big Tech companies.
+  - Technological unemployment exacerbating existing economic inequalities.
+  - The increasing dominance of large technology companies (Big Tech).
+  - Concerns about the political power of Big Tech companies.
 - The Quest for Meaningful Work
-   - The role of work beyond income, providing direction and purpose.
-   - The potential loss of meaning in a world with reduced work opportunities.
+  - The role of work beyond income, providing direction and purpose.
+  - The potential loss of meaning in a world with reduced work opportunities.
 - Addressing the Challenges
-   - The need to address economic sharing and prosperity in a changing labor market.
-   - Strategies to counter the political power of Big Tech.
-   - Navigating the challenge of finding meaning in a world with less work.
+  - The need to address economic sharing and prosperity in a changing labor market.
+  - Strategies to counter the political power of Big Tech.
+  - Navigating the challenge of finding meaning in a world with less work.
 - Personal Journey and Optimism
-   - The author's personal journey and background on the topic.
-   - Technological progress solving the historical problem of economic scarcity.
-   - Optimism about shaping a future where everyone can flourish despite technological changes.
+  - The author's personal journey and background on the topic.
+  - Technological progress solving the historical problem of economic scarcity.
+  - Optimism about shaping a future where everyone can flourish despite technological changes.
 - Conclusion
-   - Embracing technological advancements and their implications.
-   - Building a world where people can thrive despite technological changes.
+  - Embracing technological advancements and their implications.
+  - Building a world where people can thrive despite technological changes.
 
 ## The Context
 

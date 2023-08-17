@@ -322,24 +322,24 @@ Author: Edward Chancellor
 
 ### A Big Fat Ugly Bubble
 - Wealth Definition and Perspective:
-   - John Stuart Mill's perspective on wealth as anything exchangeable is contrasted with Ruskin's view of intrinsic value.
-   - Wealth should possess inner quality and utility according to Ruskin and Soddy.
-   - Wealth's moral acquisition and concerns about immoral means are highlighted.
+  - John Stuart Mill's perspective on wealth as anything exchangeable is contrasted with Ruskin's view of intrinsic value.
+  - Wealth should possess inner quality and utility according to Ruskin and Soddy.
+  - Wealth's moral acquisition and concerns about immoral means are highlighted.
 - Impact of Interest Rates:
-   - Lowering interest rates since the 1980s has increased US household asset values.
-   - Modern economists believe wealth is created in financial markets.
+  - Lowering interest rates since the 1980s has increased US household asset values.
+  - Modern economists believe wealth is created in financial markets.
 - Financialization and Bubble Economy:
-   - Financialization grew as the economy shifted from manufacturing to services.
-   - The 2008 financial crisis accelerated financialization.
-   - Ultra-low interest rates inflated asset prices and distorted the economy.
-   - Profits detached from real economic activity, leading to a "profits bubble."
+  - Financialization grew as the economy shifted from manufacturing to services.
+  - The 2008 financial crisis accelerated financialization.
+  - Ultra-low interest rates inflated asset prices and distorted the economy.
+  - Profits detached from real economic activity, leading to a "profits bubble."
 - The Truman Show Allegory:
-   - The Truman Show is likened to the bubble economy, controlled and sustained.
-   - Central banks use extreme measures to maintain the bubble.
-   - Financial crises and abnormal economic outcomes hint at the system's instability.
+  - The Truman Show is likened to the bubble economy, controlled and sustained.
+  - Central banks use extreme measures to maintain the bubble.
+  - Financial crises and abnormal economic outcomes hint at the system's instability.
 - Challenges to Conventional Explanations:
-   - Conventional explanations like secular stagnation and technological change fall short.
-   - Discrepancies in economic outcomes raise questions about the bubble economy's sustainability.
+  - Conventional explanations like secular stagnation and technological change fall short.
+  - Discrepancies in economic outcomes raise questions about the bubble economy's sustainability.
 
 ### Your Mother Needs to Die
 - Interest, Saving, and Consumption

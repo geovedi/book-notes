@@ -40,33 +40,33 @@ Author: Brian Christian, Tom Griffiths
 
 ## Optimal Stopping: When to Stop Looking
 - Optimal Stopping and Decision-Making:
-   - Optimal stopping problems involve making decisions based on uncertain future outcomes.
-   - Such problems occur in various real-life scenarios, including dating, job hunting, real estate, and parking.
+  - Optimal stopping problems involve making decisions based on uncertain future outcomes.
+  - Such problems occur in various real-life scenarios, including dating, job hunting, real estate, and parking.
 - Dating and Secretary Problem:
-   - The secretary problem illustrates the dilemma of choosing the best candidate from a sequence of applicants.
-   - The "37% Rule" suggests a strategy to maximize the chances of selecting the best candidate by observing and not committing immediately.
+  - The secretary problem illustrates the dilemma of choosing the best candidate from a sequence of applicants.
+  - The "37% Rule" suggests a strategy to maximize the chances of selecting the best candidate by observing and not committing immediately.
 - Extensions of the Secretary Problem:
-   - Variations include multi-stage decisions and dealing with unknown time frames.
-   - The "Look-Then-Leap Rule" provides an optimal strategy when there's a sequence of opportunities, each with an associated cost.
+  - Variations include multi-stage decisions and dealing with unknown time frames.
+  - The "Look-Then-Leap Rule" provides an optimal strategy when there's a sequence of opportunities, each with an associated cost.
 - Real Estate and House Selling:
-   - Selling a house involves optimal stopping decisions.
-   - The goal is not necessarily to secure the best offer, but to maximize earnings through the process.
-   - Waiting has a cost measured in dollars, and a good offer today may be better than a slightly better one later.
+  - Selling a house involves optimal stopping decisions.
+  - The goal is not necessarily to secure the best offer, but to maximize earnings through the process.
+  - Waiting has a cost measured in dollars, and a good offer today may be better than a slightly better one later.
 - Parking and Urban Planning:
-   - Parking can be treated as an optimal stopping problem in urban planning.
-   - Factors like parking supply, demand, and occupancy rate affect the search for parking spots.
-   - Solutions involve adaptive pricing and finding the optimal balance between walking, searching, and cost.
+  - Parking can be treated as an optimal stopping problem in urban planning.
+  - Factors like parking supply, demand, and occupancy rate affect the search for parking spots.
+  - Solutions involve adaptive pricing and finding the optimal balance between walking, searching, and cost.
 - Quitting While Ahead and the "Burglar Problem":
-   - The concept of quitting while ahead applies to various scenarios, including wealth accumulation and decision-making.
-   - The "burglar problem" demonstrates the optimal number of sequential robberies to maximize expected gains.
+  - The concept of quitting while ahead applies to various scenarios, including wealth accumulation and decision-making.
+  - The "burglar problem" demonstrates the optimal number of sequential robberies to maximize expected gains.
 - Human Decision-Making and Time Considerations:
-   - Human decision-making often diverges from optimal strategies due to time considerations and impatience.
-   - Endogenous time costs influence decision-making and can explain deviations from optimal solutions.
-   - Time is a fundamental factor in decision-making, turning all choices into optimal stopping problems.
+  - Human decision-making often diverges from optimal strategies due to time considerations and impatience.
+  - Endogenous time costs influence decision-making and can explain deviations from optimal solutions.
+  - Time is a fundamental factor in decision-making, turning all choices into optimal stopping problems.
 - Conclusion and Philosophical Implications:
-   - Optimal stopping reflects the nature of life itself, where every decision point is unique and irrevocable.
-   - Hesitation and inaction are as consequential as taking action.
-   - Rational decision-making involves not just exhaustive evaluation, but also determining when to stop.
+  - Optimal stopping reflects the nature of life itself, where every decision point is unique and irrevocable.
+  - Hesitation and inaction are as consequential as taking action.
+  - Rational decision-making involves not just exhaustive evaluation, but also determining when to stop.
 
 ## Explore/Exploit: The Latest vs. The Greatest
 - Multi-Armed Bandit Problem and Decision Making
@@ -240,34 +240,34 @@ Author: Brian Christian, Tom Griffiths
 
 ## Relaxation: Let It Slide
 - Optimization Problems and Relaxation Techniques
-   - Optimization problems are common in various fields.
-   - Discrete optimization problems involve stark either/or choices.
-   - Computer scientists face hard discrete optimization problems.
-   - Learning to relax and using relaxation techniques for problem-solving.
+  - Optimization problems are common in various fields.
+  - Discrete optimization problems involve stark either/or choices.
+  - Computer scientists face hard discrete optimization problems.
+  - Learning to relax and using relaxation techniques for problem-solving.
 - Constraint Relaxation
-   - Constraint Relaxation involves removing certain constraints to simplify a problem.
-   - Researchers work on a looser version of the problem to make progress.
-   - Examples of Constraint Relaxation: party invitations, fire truck placements.
-   - Continuous Relaxation provides a lower bound solution that aids in understanding the problem.
+  - Constraint Relaxation involves removing certain constraints to simplify a problem.
+  - Researchers work on a looser version of the problem to make progress.
+  - Examples of Constraint Relaxation: party invitations, fire truck placements.
+  - Continuous Relaxation provides a lower bound solution that aids in understanding the problem.
 - Continuous Relaxation
-   - Continuous Relaxation converts discrete choices into continuous options.
-   - Fractional solutions are obtained and can be rounded or interpreted as probabilities.
-   - It offers a starting point for finding solutions and provides lower bounds.
-   - Continuous Relaxation applied to sports scheduling and other complex problems.
+  - Continuous Relaxation converts discrete choices into continuous options.
+  - Fractional solutions are obtained and can be rounded or interpreted as probabilities.
+  - It offers a starting point for finding solutions and provides lower bounds.
+  - Continuous Relaxation applied to sports scheduling and other complex problems.
 - Lagrangian Relaxation
-   - Lagrangian Relaxation involves converting impossible constraints into penalties.
-   - Softening hard constraints to achieve feasible solutions.
-   - Achieving approximate solutions that satisfy multiple constraints.
-   - Examples of Lagrangian Relaxation in sports scheduling and dealing with complex constraints.
+  - Lagrangian Relaxation involves converting impossible constraints into penalties.
+  - Softening hard constraints to achieve feasible solutions.
+  - Achieving approximate solutions that satisfy multiple constraints.
+  - Examples of Lagrangian Relaxation in sports scheduling and dealing with complex constraints.
 - Benefits of Relaxation Techniques
-   - Relaxations provide bounds on the quality of solutions.
-   - They offer both lower and upper bounds, aiding in decision-making.
-   - Strategies for making progress when faced with hard problems.
-   - Understanding the balance between optimal solutions and practicality.
+  - Relaxations provide bounds on the quality of solutions.
+  - They offer both lower and upper bounds, aiding in decision-making.
+  - Strategies for making progress when faced with hard problems.
+  - Understanding the balance between optimal solutions and practicality.
 - Efficiency and Complexity
-   - Discussion on algorithmic efficiency (polynomial time) and complexity (exponential time).
-   - Polynomial time solutions are more manageable compared to exponential time.
-   - The significance of the division between polynomial and exponential time in computer science.
+  - Discussion on algorithmic efficiency (polynomial time) and complexity (exponential time).
+  - Polynomial time solutions are more manageable compared to exponential time.
+  - The significance of the division between polynomial and exponential time in computer science.
 
 ## Randomness: When to Leave It to Chance
 - Randomness and Tradeoffs
@@ -302,32 +302,32 @@ Author: Brian Christian, Tom Griffiths
 
 ## Networking: How We Connect
 - Bufferbloat:
-   - The concept of "bufferbloat."
-   - Bufferbloat refers to the problem of excessive buffering in networks, causing latency and congestion.
+  - The concept of "bufferbloat."
+  - Bufferbloat refers to the problem of excessive buffering in networks, causing latency and congestion.
 - Bufferbloat in Practice:
-   - Provides examples of bufferbloat in real-life scenarios, such as waiting for responses from Katy Perry on Twitter.
-   - Explains how modern communication devices are always buffered, leading to the feeling of needing to consume everything.
+  - Provides examples of bufferbloat in real-life scenarios, such as waiting for responses from Katy Perry on Twitter.
+  - Explains how modern communication devices are always buffered, leading to the feeling of needing to consume everything.
 - Shift to Always Connected and Buffered:
-   - Contrasts the modern "always connected" state with the traditional expectation of leaving messages and waiting for responses.
-   - Describes how modern communication has transitioned from rejection to deferral.
+  - Contrasts the modern "always connected" state with the traditional expectation of leaving messages and waiting for responses.
+  - Describes how modern communication has transitioned from rejection to deferral.
 - The Virtue of Dropped Balls:
-   - Explores the idea that dropping messages strategically can be beneficial under overload.
-   - Compares the strategic dropping of messages to the operation of buffers.
+  - Explores the idea that dropping messages strategically can be beneficial under overload.
+  - Compares the strategic dropping of messages to the operation of buffers.
 - Buffer's Role in Utilization and Throughput:
-   - Describes how buffers aim to prevent idleness by maintaining continuous throughput.
-   - Illustrates the concept using a doughnut shop analogy.
+  - Describes how buffers aim to prevent idleness by maintaining continuous throughput.
+  - Illustrates the concept using a doughnut shop analogy.
 - Evolving Communication Patterns:
-   - Discusses how communication patterns have evolved with the rise of digital communication.
-   - Highlights the change from knocking on doors to virtual waiting in lines.
+  - Discusses how communication patterns have evolved with the rise of digital communication.
+  - Highlights the change from knocking on doors to virtual waiting in lines.
 - Bufferbloat in Digital Communication:
-   - Analyzes the impact of bufferbloat on digital communication, causing delays and latency.
-   - Points out the irony of vacation email autoresponders, which communicate latency but not bufferbloat.
+  - Analyzes the impact of bufferbloat on digital communication, causing delays and latency.
+  - Points out the irony of vacation email autoresponders, which communicate latency but not bufferbloat.
 - Efforts to Address Bufferbloat:
-   - Discusses ongoing efforts to address bufferbloat through changes in network hardware and operating systems.
-   - Introduces the Explicit Congestion Notification (ECN) proposal as a potential solution.
+  - Discusses ongoing efforts to address bufferbloat through changes in network hardware and operating systems.
+  - Introduces the Explicit Congestion Notification (ECN) proposal as a potential solution.
 - The Future of Low Latency:
-   - Envisions the possibilities of a future with reduced latency and its implications.
-   - Discusses how low latency can benefit interactive processes like gaming and music.
+  - Envisions the possibilities of a future with reduced latency and its implications.
+  - Discusses how low latency can benefit interactive processes like gaming and music.
 - Importance of Prioritizing Latency:
     - Advocates for considering latency as a significant factor in network design.
     - Criticizes the focus on bandwidth alone as an indicator of network performance.
@@ -336,39 +336,39 @@ Author: Brian Christian, Tom Griffiths
 
 ## Game Theory: The Minds of Others
 - Tragedy of the Commons and Misinformation Cascade
-   - Tragedy of the Commons illustrates collective harm due to individual rational actions.
-   - An "information cascade" can cause rational agents to follow others' actions, leading to misinformation spread.
-   - Example: Oil drilling rights auction with companies influenced by others' bids.
-   - Information cascade diminishes public information's value.
+  - Tragedy of the Commons illustrates collective harm due to individual rational actions.
+  - An "information cascade" can cause rational agents to follow others' actions, leading to misinformation spread.
+  - Example: Oil drilling rights auction with companies influenced by others' bids.
+  - Information cascade diminishes public information's value.
 - Real-World Examples of Information Cascades
-   - Lawrence's developmental biology text priced at millions due to algorithmic pricing.
-   - Stock market "flash crash" of 2010: extreme price fluctuations.
-   - Both human and algorithmic behaviors contribute to market irrationality.
+  - Lawrence's developmental biology text priced at millions due to algorithmic pricing.
+  - Stock market "flash crash" of 2010: extreme price fluctuations.
+  - Both human and algorithmic behaviors contribute to market irrationality.
 - Types of Investors and Market Behavior
-   - "Fundamental" investors value a company based on its real worth.
-   - "Technical" investors focus on market fluctuations.
-   - Algorithmic trading disrupts the balance between these strategies.
+  - "Fundamental" investors value a company based on its real worth.
+  - "Technical" investors focus on market fluctuations.
+  - Algorithmic trading disrupts the balance between these strategies.
 - Information Cascades in Bubbles, Fads, and Herd Behavior
-   - Information cascades explain bubbles, fads, and herd behavior.
-   - Markets can spike and collapse even without irrationality.
-   - Caution against prioritizing consensus over facts.
+  - Information cascades explain bubbles, fads, and herd behavior.
+  - Markets can spike and collapse even without irrationality.
+  - Caution against prioritizing consensus over facts.
 - Challenges of Information Cascades
-   - Actions may not reflect true beliefs, causing misinterpretation.
-   - Doubts should be communicated to prevent misjudgment.
-   - Sometimes games have inherently flawed rules, leading to failure.
+  - Actions may not reflect true beliefs, causing misinterpretation.
+  - Doubts should be communicated to prevent misjudgment.
+  - Sometimes games have inherently flawed rules, leading to failure.
 - Vickrey Auction: Truthful Mechanism
-   - Vickrey auction: sealed-bid process where winner pays second-highest bid.
-   - Incentivizes honesty; no better strategy than true value bid.
-   - Vickrey auction is "strategy-proof" and efficient.
+  - Vickrey auction: sealed-bid process where winner pays second-highest bid.
+  - Incentivizes honesty; no better strategy than true value bid.
+  - Vickrey auction is "strategy-proof" and efficient.
 - Revelation Principle and Honesty
-   - Revelation principle transforms strategic masking into honesty.
-   - Behavior incorporated into game rules leads to honesty.
-   - Honest behavior aligns interests and eliminates optimization against.
+  - Revelation principle transforms strategic masking into honesty.
+  - Behavior incorporated into game rules leads to honesty.
+  - Honest behavior aligns interests and eliminates optimization against.
 - Algorithmic Game Theory's Practical Applications
-   - Algorithmic game theory aids packet routing, spectrum auctions, matching algorithms.
-   - Ongoing exploration of theory's potential applications.
+  - Algorithmic game theory aids packet routing, spectrum auctions, matching algorithms.
+  - Ongoing exploration of theory's potential applications.
 - Choosing Games Wisely and Conclusion
-   - Interactions need not be daunting if the right game is chosen.
-   - Seek games where honesty is dominant strategy.
-   - Recursion, equilibria, and information cascades challenge rational behavior.
-   - Make choices that empower honesty and align with true self.
+  - Interactions need not be daunting if the right game is chosen.
+  - Seek games where honesty is dominant strategy.
+  - Recursion, equilibria, and information cascades challenge rational behavior.
+  - Make choices that empower honesty and align with true self.

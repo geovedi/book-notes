@@ -347,46 +347,46 @@ Author: Dean Buonomano
 
 ### 11:00 Mental Time Travel
 - Immediate vs. Delayed Gratification:
-   - Humans have a natural bias toward immediate gratification.
-   - Temporal discounting tasks quantify the balance between immediate and delayed rewards.
-   - People's choices show individual variability and correlate with health, finances, and substance abuse.
-   - Immediate rewards are preferred, exploited by financial institutions and marketers.
+  - Humans have a natural bias toward immediate gratification.
+  - Temporal discounting tasks quantify the balance between immediate and delayed rewards.
+  - People's choices show individual variability and correlate with health, finances, and substance abuse.
+  - Immediate rewards are preferred, exploited by financial institutions and marketers.
 - Prefrontal Cortex and Mental Time Travel:
-   - The prefrontal cortex plays a critical role in mental time travel.
-   - Lesions in this area affect decision-making, long-term planning, and delaying gratification.
-   - Brain imaging studies link prefrontal cortex activity with delayed gratification and mental time travel.
-   - Mental time travel involves various cognitive functions and brain areas.
+  - The prefrontal cortex plays a critical role in mental time travel.
+  - Lesions in this area affect decision-making, long-term planning, and delaying gratification.
+  - Brain imaging studies link prefrontal cortex activity with delayed gratification and mental time travel.
+  - Mental time travel involves various cognitive functions and brain areas.
 - Evolution of Mental Time Travel:
-   - Humans' unique cognitive abilities are attributed to brain size and specialization.
-   - Mental time travel involves accessing past memories, simulating future scenarios, and learning from them.
-   - Brain areas like the medial temporal lobes and prefrontal cortex contribute to mental time travel.
-   - Mental time travel enabled humans to actively shape their future through innovation.
+  - Humans' unique cognitive abilities are attributed to brain size and specialization.
+  - Mental time travel involves accessing past memories, simulating future scenarios, and learning from them.
+  - Brain areas like the medial temporal lobes and prefrontal cortex contribute to mental time travel.
+  - Mental time travel enabled humans to actively shape their future through innovation.
 - Challenges and Paradoxes of Mental Time Travel:
-   - Mental time travel allows escaping the present and envisioning better futures.
-   - Eastern philosophies emphasize living in the present for happiness and focus.
-   - However, future-oriented thinking is essential for survival, progress, and addressing challenges.
-   - Mental time travel is both a solution and a cause of human troubles, presenting a paradox.
+  - Mental time travel allows escaping the present and envisioning better futures.
+  - Eastern philosophies emphasize living in the present for happiness and focus.
+  - However, future-oriented thinking is essential for survival, progress, and addressing challenges.
+  - Mental time travel is both a solution and a cause of human troubles, presenting a paradox.
 - Comparison with Other Species:
-   - Animals like scrub jays and great apes can guide actions toward future outcomes.
-   - Humans possess an advanced capacity for future-oriented thinking beyond other species.
-   - Semantic understanding of time, language, memory, and spatialization contribute to human mental time travel.
+  - Animals like scrub jays and great apes can guide actions toward future outcomes.
+  - Humans possess an advanced capacity for future-oriented thinking beyond other species.
+  - Semantic understanding of time, language, memory, and spatialization contribute to human mental time travel.
 - Balancing Immediate and Long-Term Goals:
-   - Learning to balance immediate desires with long-term planning benefits from practice and education.
-   - Mental time travel and engaging in mental imagery help shift from impulsive to patient decisions.
-   - Financial stability, health, and successful planning result from mastering this balance.
+  - Learning to balance immediate desires with long-term planning benefits from practice and education.
+  - Mental time travel and engaging in mental imagery help shift from impulsive to patient decisions.
+  - Financial stability, health, and successful planning result from mastering this balance.
 - Impact of Immediate Gratification:
-   - Immediate rewards lead to impulsive behavior, affecting health and finances.
-   - Credit cards exploit humans' bias toward immediate gratification, leading to overspending.
-   - Consumer behaviors influenced by immediate rewards contribute to debt accumulation.
+  - Immediate rewards lead to impulsive behavior, affecting health and finances.
+  - Credit cards exploit humans' bias toward immediate gratification, leading to overspending.
+  - Consumer behaviors influenced by immediate rewards contribute to debt accumulation.
 - Variability in Temporal Discounting:
-   - Temporal discounting varies in individuals, affecting choices between immediate and delayed rewards.
-   - The preference for immediate rewards changes when both options are postponed to the future.
-   - Manipulating temporal context influences people's decision-making regarding rewards.
+  - Temporal discounting varies in individuals, affecting choices between immediate and delayed rewards.
+  - The preference for immediate rewards changes when both options are postponed to the future.
+  - Manipulating temporal context influences people's decision-making regarding rewards.
 - Complexity of Mental Time Travel:
-   - Mental time travel involves various cognitive processes, including memory access and manipulation.
-   - The prefrontal cortex and medial temporal lobes play complementary roles.
-   - Mental time travel requires a collective effort of brain areas, not a single isolated region.
-   - Representing time is crucial, although measuring time passage isn't necessary for mental time travel.
+  - Mental time travel involves various cognitive processes, including memory access and manipulation.
+  - The prefrontal cortex and medial temporal lobes play complementary roles.
+  - Mental time travel requires a collective effort of brain areas, not a single isolated region.
+  - Representing time is crucial, although measuring time passage isn't necessary for mental time travel.
 - Balancing Present and Future:
     - Living in the present reduces worries, fears, and despair.
     - However, modern life requires foresight and planning for survival, progress, and well-being.

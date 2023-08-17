@@ -4,40 +4,40 @@ Author: Stephen Hawking
 
 ## Why We Must Ask the Big Questions
 - Introduction and Perspective on Big Questions:
-   - People's fascination with fundamental questions about the universe's origin and meaning.
-   - The transition from creation accounts to various superstitions.
-   - Science's capacity to provide profound answers and the author's role as a physicist.
+  - People's fascination with fundamental questions about the universe's origin and meaning.
+  - The transition from creation accounts to various superstitions.
+  - Science's capacity to provide profound answers and the author's role as a physicist.
 - Personal Background and Curiosity:
-   - The author's upbringing with curiosity nurtured by parents.
-   - Early interest in science and fascination with the cosmos.
-   - The author's inclination towards theoretical physics.
+  - The author's upbringing with curiosity nurtured by parents.
+  - Early interest in science and fascination with the cosmos.
+  - The author's inclination towards theoretical physics.
 - Scientific Journey and Contributions:
-   - Pursuit of theoretical physics and seeking answers to significant questions.
-   - Evolution of the author's understanding and contribution to changing perspectives on the universe.
-   - Gratitude for the opportunity to contribute to scientific progress.
+  - Pursuit of theoretical physics and seeking answers to significant questions.
+  - Evolution of the author's understanding and contribution to changing perspectives on the universe.
+  - Gratitude for the opportunity to contribute to scientific progress.
 - Perspective from Space Exploration:
-   - The space age's impact on humanity's perspective and unity.
-   - Reflection on seeing Earth from space—emphasizing one planet, one human race.
-   - Call for immediate global action and sustainable development.
+  - The space age's impact on humanity's perspective and unity.
+  - Reflection on seeing Earth from space—emphasizing one planet, one human race.
+  - Call for immediate global action and sustainable development.
 - Early Life and Education:
-   - Growing up during World War II and post-war experiences.
-   - Early education, interest in astronomy, and questions about the universe's origin.
+  - Growing up during World War II and post-war experiences.
+  - Early education, interest in astronomy, and questions about the universe's origin.
 - Challenges and Determination:
-   - Overcoming practical challenges, pursuing theoretical physics.
-   - Initial lack of effort in education and change of attitude after illness.
-   - Seizing the moment and acting with hope despite obstacles.
+  - Overcoming practical challenges, pursuing theoretical physics.
+  - Initial lack of effort in education and change of attitude after illness.
+  - Seizing the moment and acting with hope despite obstacles.
 - Black Hole Theory and Breakthroughs:
-   - Focus on black holes, contributions to black hole theory.
-   - Discovery of Hawking radiation and its significance.
-   - Successes in black hole research even before observational evidence.
+  - Focus on black holes, contributions to black hole theory.
+  - Discovery of Hawking radiation and its significance.
+  - Successes in black hole research even before observational evidence.
 - Innovation and Communication:
-   - Introduction of communication technology for Stephen Hawking's speech.
-   - Evolution of communication methods, highlighting Acat and its capabilities.
-   - Importance of communicating scientific insights to the public.
+  - Introduction of communication technology for Stephen Hawking's speech.
+  - Evolution of communication methods, highlighting Acat and its capabilities.
+  - Importance of communicating scientific insights to the public.
 - A Brief History of Time and Fame:
-   - Motivation to write "A Brief History of Time" to explain scientific progress.
-   - Unexpected success of the book, combining personal story and scientific content.
-   - Becoming a well-known scientist and the challenges and advantages of fame.
+  - Motivation to write "A Brief History of Time" to explain scientific progress.
+  - Unexpected success of the book, combining personal story and scientific content.
+  - Becoming a well-known scientist and the challenges and advantages of fame.
 - Life with Disabilities and Triumphs:
     - Dealing with physical challenges due to ALS, reliance on technology.
     - Finding ways to communicate and continue scientific work.
@@ -306,78 +306,78 @@ Author: Stephen Hawking
 
 ## Will We Survive on Earth?
 - Introduction and Doomsday Clock:
-   - Bulletin of the Atomic Scientists' Doomsday Clock measures global catastrophe imminence.
-   - Clock's history since 1947, symbolizing the proximity of Doomsday.
-   - Recent move to two minutes to midnight raises alarm due to political instability and environmental threats.
+  - Bulletin of the Atomic Scientists' Doomsday Clock measures global catastrophe imminence.
+  - Clock's history since 1947, symbolizing the proximity of Doomsday.
+  - Recent move to two minutes to midnight raises alarm due to political instability and environmental threats.
 - Human Perception of Time:
-   - Personal connection to time, including author's book "A Brief History of Time."
-   - Awareness of time's passage due to health concerns and limited lifespan.
-   - Societal challenges with political instability and populism.
+  - Personal connection to time, including author's book "A Brief History of Time."
+  - Awareness of time's passage due to health concerns and limited lifespan.
+  - Societal challenges with political instability and populism.
 - Environmental Threats:
-   - Earth's resources being depleted; climate change, deforestation, and population growth.
-   - Climate change's disastrous consequences: rising temperatures, sea levels, and loss of biodiversity.
-   - Urgent need for action to reduce carbon emissions and counteract global warming.
+  - Earth's resources being depleted; climate change, deforestation, and population growth.
+  - Climate change's disastrous consequences: rising temperatures, sea levels, and loss of biodiversity.
+  - Urgent need for action to reduce carbon emissions and counteract global warming.
 - Nuclear Threat:
-   - Persistent nuclear threat, even with reduced tensions between major powers.
-   - Risk of accidents or terrorists obtaining nuclear weapons; increased instability with more nations possessing them.
-   - Potential nuclear conflict or environmental catastrophe within the next millennium.
+  - Persistent nuclear threat, even with reduced tensions between major powers.
+  - Risk of accidents or terrorists obtaining nuclear weapons; increased instability with more nations possessing them.
+  - Potential nuclear conflict or environmental catastrophe within the next millennium.
 - Space Exploration and Survival:
-   - Earth's limitations for resources and habitability; necessity of space exploration.
-   - Risks from cosmic phenomena like asteroid collisions; vulnerability without defense.
-   - Humanity's need to spread to other worlds for long-term survival.
+  - Earth's limitations for resources and habitability; necessity of space exploration.
+  - Risks from cosmic phenomena like asteroid collisions; vulnerability without defense.
+  - Humanity's need to spread to other worlds for long-term survival.
 - Future of Science and Technology:
-   - Anticipation of a unified theory of everything combining quantum mechanics and general relativity.
-   - Steady progress towards understanding fundamental laws of the universe.
-   - Expectation of exponential growth in complexity and knowledge.
+  - Anticipation of a unified theory of everything combining quantum mechanics and general relativity.
+  - Steady progress towards understanding fundamental laws of the universe.
+  - Expectation of exponential growth in complexity and knowledge.
 - Biological Evolution and Genetic Engineering:
-   - Evolutionary development of DNA from simple to complex.
-   - Potential for genetic engineering to accelerate human evolution, raising ethical and social concerns.
-   - Speculation about humans' future abilities and societal divisions due to genetic enhancement.
+  - Evolutionary development of DNA from simple to complex.
+  - Potential for genetic engineering to accelerate human evolution, raising ethical and social concerns.
+  - Speculation about humans' future abilities and societal divisions due to genetic enhancement.
 - Rapid Growth in Complexity:
-   - Accelerating complexity in both biological and electronic domains.
-   - Projection of computers reaching human brain-like complexity.
-   - Expectation of significant changes by the end of the next millennium.
+  - Accelerating complexity in both biological and electronic domains.
+  - Projection of computers reaching human brain-like complexity.
+  - Expectation of significant changes by the end of the next millennium.
 - Changing World Order and Threats:
-   - Anticipation of a different future world order.
-   - Vulnerability to threats like asteroid impacts and climate change.
+  - Anticipation of a different future world order.
+  - Vulnerability to threats like asteroid impacts and climate change.
 - Conclusion:
     - Emphasis on the urgency to address environmental threats.
     - Hope for a future that balances technological advancement and ethical considerations.
 
 ## Should We Colonise Space?
 - Justification for Space Exploration:
-   - Questioning the purpose of space exploration and resource allocation.
-   - Comparing space exploration to castaways not attempting to escape a desert island.
-   - Importance of exploring the solar system to find potential human habitats.
+  - Questioning the purpose of space exploration and resource allocation.
+  - Comparing space exploration to castaways not attempting to escape a desert island.
+  - Importance of exploring the solar system to find potential human habitats.
 - Historical Analogies and Impact of Exploration:
-   - Drawing parallels with Columbus' voyage to the New World in 1492.
-   - Mentioning societal impact: Big Mac, KFC, and larger effects of space exploration.
-   - Asserting that venturing into space will profoundly transform the human race's future.
+  - Drawing parallels with Columbus' voyage to the New World in 1492.
+  - Mentioning societal impact: Big Mac, KFC, and larger effects of space exploration.
+  - Asserting that venturing into space will profoundly transform the human race's future.
 - Space's Role in Shaping Perspective:
-   - Acknowledging that space exploration won't solve immediate Earthly problems.
-   - Advocating for a new perspective that shifts focus outward and unites humanity.
+  - Acknowledging that space exploration won't solve immediate Earthly problems.
+  - Advocating for a new perspective that shifts focus outward and unites humanity.
 - Long-Term Strategy and Timeline:
-   - Advocating for long-term space exploration spanning hundreds of years.
-   - Mentioning Moon base plans within thirty years, Mars landing in fifty, and outer planet exploration in 200 years.
+  - Advocating for long-term space exploration spanning hundreds of years.
+  - Mentioning Moon base plans within thirty years, Mars landing in fifty, and outer planet exploration in 200 years.
 - Funding and Priorities:
-   - Highlighting the affordability of space exploration within a small portion of global GDP.
-   - Balancing the importance of solving Earth's problems with space exploration.
+  - Highlighting the affordability of space exploration within a small portion of global GDP.
+  - Balancing the importance of solving Earth's problems with space exploration.
 - Past and Present Space Exploration:
-   - Reflecting on the impact of the Moon landings in the 1960s.
-   - Emphasizing the need for a new crewed space flight program to reignite public enthusiasm.
+  - Reflecting on the impact of the Moon landings in the 1960s.
+  - Emphasizing the need for a new crewed space flight program to reignite public enthusiasm.
 - Potential Benefits and Challenges of Space Colonization:
-   - Discussing physiological changes in zero gravity; importance of planetary or lunar bases.
-   - Moon's potential for oxygen and power, Mars as the next target.
-   - Mars' history, water, atmosphere, and potential for past or current life.
-   - Cautions against contaminating Mars or bringing back Martian life.
+  - Discussing physiological changes in zero gravity; importance of planetary or lunar bases.
+  - Moon's potential for oxygen and power, Mars as the next target.
+  - Mars' history, water, atmosphere, and potential for past or current life.
+  - Cautions against contaminating Mars or bringing back Martian life.
 - Exploring Beyond the Solar System:
-   - Highlighting the discovery of exoplanets and potential for habitable worlds.
-   - Discussing the limitations of current propulsion technologies for interstellar travel.
-   - Introducing Breakthrough Starshot initiative for interstellar exploration.
+  - Highlighting the discovery of exoplanets and potential for habitable worlds.
+  - Discussing the limitations of current propulsion technologies for interstellar travel.
+  - Introducing Breakthrough Starshot initiative for interstellar exploration.
 - Breakthrough Starshot Initiative:
-   - Describing Star Chip and light sail concept, propelled by lasers.
-   - Exploring potential travel times to Mars, Pluto, Voyager, and Alpha Centauri.
-   - Highlighting the challenges of engineering, surviving space conditions, and laser accuracy.
+  - Describing Star Chip and light sail concept, propelled by lasers.
+  - Exploring potential travel times to Mars, Pluto, Voyager, and Alpha Centauri.
+  - Highlighting the challenges of engineering, surviving space conditions, and laser accuracy.
 - Possibilities and Implications:
     - Envisioning a future where space travel becomes more accessible and transformative.
     - Mentioning potential for human culture to go interstellar, even if not for human travel.

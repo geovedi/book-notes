@@ -281,44 +281,44 @@ Author: Brené Brown
 
 ## Places We Go When We Fall Short: Shame, Self-Compassion, Perfectionism, Guilt, Humiliation, Embarrassment
 - Introduction:
-   - Introduction to the topic of shame, guilt, humiliation, and embarrassment.
-   - The significance of understanding these emotions for personal growth and societal dynamics.
+  - Introduction to the topic of shame, guilt, humiliation, and embarrassment.
+  - The significance of understanding these emotions for personal growth and societal dynamics.
 - Definitions and Differentiation:
-   - Explanation of shame, guilt, humiliation, and embarrassment as distinct emotions.
-   - Different focus, triggers, and outcomes of each emotion.
-   - The role of self-compassion and empathy in managing these emotions.
+  - Explanation of shame, guilt, humiliation, and embarrassment as distinct emotions.
+  - Different focus, triggers, and outcomes of each emotion.
+  - The role of self-compassion and empathy in managing these emotions.
 - Shame:
-   - Universality of shame and its impact on human connection.
-   - The fear of disconnection as a core element of shame.
-   - The definition of shame as feeling unworthy of love, belonging, and connection.
-   - The importance of empathy and self-compassion in countering shame.
-   - The impact of silence, secrecy, and judgment on shame.
+  - Universality of shame and its impact on human connection.
+  - The fear of disconnection as a core element of shame.
+  - The definition of shame as feeling unworthy of love, belonging, and connection.
+  - The importance of empathy and self-compassion in countering shame.
+  - The impact of silence, secrecy, and judgment on shame.
 - Guilt:
-   - Guilt as an emotion related to actions that go against personal values.
-   - Distinction between guilt and shame in terms of self-awareness and change.
-   - The discomfort of cognitive dissonance as a driving force for positive change.
+  - Guilt as an emotion related to actions that go against personal values.
+  - Distinction between guilt and shame in terms of self-awareness and change.
+  - The discomfort of cognitive dissonance as a driving force for positive change.
 - Humiliation:
-   - Definition of humiliation as unjust degradation or ridicule of one's identity.
-   - Link between humiliation, violence, aggression, and depression.
-   - Understanding the relationship between bullying, humiliation, and aggression.
-   - The need to address humiliation and foster safety in various contexts.
+  - Definition of humiliation as unjust degradation or ridicule of one's identity.
+  - Link between humiliation, violence, aggression, and depression.
+  - Understanding the relationship between bullying, humiliation, and aggression.
+  - The need to address humiliation and foster safety in various contexts.
 - Perfectionism:
-   - Perfectionism as a self-destructive and addictive belief system.
-   - Impact of perfectionism on achievement, self-worth, and social connections.
-   - Comparison of healthy striving and perfectionism.
-   - The concept of "good-enoughism" and its importance in overcoming perfectionism.
+  - Perfectionism as a self-destructive and addictive belief system.
+  - Impact of perfectionism on achievement, self-worth, and social connections.
+  - Comparison of healthy striving and perfectionism.
+  - The concept of "good-enoughism" and its importance in overcoming perfectionism.
 - Embarrassment:
-   - Explanation of embarrassment as a fleeting response to minor incidents.
-   - Physiological marker of embarrassment—blushing.
-   - Types of events triggering embarrassment: social mistakes, attention, sticky situations.
-   - The experience of secondhand embarrassment and its impact.
+  - Explanation of embarrassment as a fleeting response to minor incidents.
+  - Physiological marker of embarrassment—blushing.
+  - Types of events triggering embarrassment: social mistakes, attention, sticky situations.
+  - The experience of secondhand embarrassment and its impact.
 - Connection to Aggression and Violence:
-   - Link between humiliation, aggression, violence, and political instability.
-   - The negative impact of dehumanizing and humiliating behaviors.
-   - The dangers of using shame and humiliation as social justice tools.
+  - Link between humiliation, aggression, violence, and political instability.
+  - The negative impact of dehumanizing and humiliating behaviors.
+  - The dangers of using shame and humiliation as social justice tools.
 - Importance of Empathy:
-   - Empathy as a key factor in countering shame and humiliation.
-   - Recognizing the value of empathy in preventing harm and promoting understanding.
+  - Empathy as a key factor in countering shame and humiliation.
+  - Recognizing the value of empathy in preventing harm and promoting understanding.
 - Conclusion:
     - Reflecting on the interconnectedness of shame, guilt, humiliation, and embarrassment.
     - Emphasizing the significance of self-compassion, empathy, and understanding in managing these emotions.
@@ -417,48 +417,48 @@ Author: Brené Brown
 
 ## Places We Go When Life Is Good: Joy, Happiness, Calm, Contentment, Gratitude, Foreboding Joy, Relief, Tranquility
 - Introduction: Emotions and Wishes
-   - Dolly Parton's quote about joy, happiness, and love.
-   - Personal connection to Dolly Parton's songs.
-   - Importance of joy, happiness, and love.
+  - Dolly Parton's quote about joy, happiness, and love.
+  - Personal connection to Dolly Parton's songs.
+  - Importance of joy, happiness, and love.
 - Differentiating Joy and Happiness
-   - Joy and happiness are distinct emotions.
-   - Joy is sudden, intense, and connected to deep spiritual experiences.
-   - Happiness is stable, self-focused, and often the result of effort.
-   - Joy involves a connection with others or the universe.
-   - Happiness can feel more external and circumstantial.
+  - Joy and happiness are distinct emotions.
+  - Joy is sudden, intense, and connected to deep spiritual experiences.
+  - Happiness is stable, self-focused, and often the result of effort.
+  - Joy involves a connection with others or the universe.
+  - Happiness can feel more external and circumstantial.
 - Calm and its Characteristics
-   - Calm is about managing emotional reactivity and gaining perspective.
-   - Calm people bring perspective to situations and handle emotions.
-   - Practices for cultivating and maintaining calm: breath, perspective, curiosity.
-   - Calm as an intention to avoid spreading anxiety.
+  - Calm is about managing emotional reactivity and gaining perspective.
+  - Calm people bring perspective to situations and handle emotions.
+  - Practices for cultivating and maintaining calm: breath, perspective, curiosity.
+  - Calm as an intention to avoid spreading anxiety.
 - Contentment and Its Significance
-   - Contentment is about feeling completeness, appreciation, and "enoughness."
-   - Contentment is a low-arousal positive emotion.
-   - Contentment is positively correlated with life satisfaction and well-being.
-   - A single item about life satisfaction captures a significant portion of contentment.
+  - Contentment is about feeling completeness, appreciation, and "enoughness."
+  - Contentment is a low-arousal positive emotion.
+  - Contentment is positively correlated with life satisfaction and well-being.
+  - A single item about life satisfaction captures a significant portion of contentment.
 - The Nature of Gratitude
-   - Gratitude is an emotion that reflects appreciation and connection.
-   - Gratitude is good for physical, emotional, and mental well-being.
-   - Emmons' explanation: Gratitude allows us to appreciate value and avoid adaptation.
-   - Gratitude as a practice: journals, meditations, art, check-ins.
+  - Gratitude is an emotion that reflects appreciation and connection.
+  - Gratitude is good for physical, emotional, and mental well-being.
+  - Emmons' explanation: Gratitude allows us to appreciate value and avoid adaptation.
+  - Gratitude as a practice: journals, meditations, art, check-ins.
 - Foreboding Joy and Vulnerability
-   - Joy is the most vulnerable human emotion.
-   - "Foreboding joy" is the fear of inviting disaster by experiencing joy.
-   - Practicing gratitude can counteract foreboding joy.
-   - People who lean into joy use gratitude as a tool.
+  - Joy is the most vulnerable human emotion.
+  - "Foreboding joy" is the fear of inviting disaster by experiencing joy.
+  - Practicing gratitude can counteract foreboding joy.
+  - People who lean into joy use gratitude as a tool.
 - Relief and Tranquility
-   - Relief involves tension leaving the body and a feeling of safety.
-   - Sighing serves as a reset button for the body.
-   - Tranquility is associated with the absence of demands and pressure.
-   - Tranquil environments provide restorative elements.
+  - Relief involves tension leaving the body and a feeling of safety.
+  - Sighing serves as a reset button for the body.
+  - Tranquility is associated with the absence of demands and pressure.
+  - Tranquil environments provide restorative elements.
 - Differentiating Contentment and Tranquility
-   - Contentment involves a sense of completion.
-   - Tranquility is the enjoyment of doing nothing.
-   - Tranquility focuses on the feeling of immersion and absence of demands.
+  - Contentment involves a sense of completion.
+  - Tranquility is the enjoyment of doing nothing.
+  - Tranquility focuses on the feeling of immersion and absence of demands.
 - Closing Thoughts
-   - The power of emotions: joy, gratitude, contentment, tranquility.
-   - Embracing positive emotions enriches life.
-   - The value of practicing gratitude to enhance positive emotions.
+  - The power of emotions: joy, gratitude, contentment, tranquility.
+  - Embracing positive emotions enriches life.
+  - The value of practicing gratitude to enhance positive emotions.
 
 ## Places We Go When We Feel Wronged: Anger, Contempt, Disgust, Dehumanization, Hate, Self-Righteousness
 - Emotions and Their Complexities
@@ -535,39 +535,39 @@ Author: Brené Brown
 
 ## Cultivating Meaningful Connection
 - Introduction and Circle of Science:
-   - Emphasizes the importance of data-driven theorizing in science.
-   - Describes the circle of science as a process of inductive and deductive reasoning.
-   - Advocates for empirically based theories to enhance scientific rigor.
+  - Emphasizes the importance of data-driven theorizing in science.
+  - Describes the circle of science as a process of inductive and deductive reasoning.
+  - Advocates for empirically based theories to enhance scientific rigor.
 - Understanding Theory:
-   - Defines theory as a set of interrelated constructs, definitions, and propositions.
-   - Compares everyday theories to research-based theories generated from observations and data.
-   - Highlights the iterative nature of research and theory development.
+  - Defines theory as a set of interrelated constructs, definitions, and propositions.
+  - Compares everyday theories to research-based theories generated from observations and data.
+  - Highlights the iterative nature of research and theory development.
 - Near Enemies Concept:
-   - Introduces the Buddhist concept of near enemies, which are emotions that resemble desired qualities but undermine them.
-   - Discusses the significance of near enemies in understanding human behavior.
-   - Presents examples of near enemies, such as compassion versus pity and love versus attachment.
+  - Introduces the Buddhist concept of near enemies, which are emotions that resemble desired qualities but undermine them.
+  - Discusses the significance of near enemies in understanding human behavior.
+  - Presents examples of near enemies, such as compassion versus pity and love versus attachment.
 - Cultivating Meaningful Connection Theory:
-   - Introduces a theory on cultivating meaningful connection.
-   - Discusses the concept of grounded confidence, emphasizing vulnerability and growth.
-   - Explains the courage to walk alongside, focusing on being present and supportive.
-   - Explores story stewardship, highlighting the importance of listening and trust-building.
+  - Introduces a theory on cultivating meaningful connection.
+  - Discusses the concept of grounded confidence, emphasizing vulnerability and growth.
+  - Explains the courage to walk alongside, focusing on being present and supportive.
+  - Explores story stewardship, highlighting the importance of listening and trust-building.
 - Challenges in Connection:
-   - Explores challenges in recognizing others' emotions accurately.
-   - Emphasizes the necessity of asking and listening to understand others' feelings.
-   - Introduces the concept of story stewardship, respecting and believing in people's stories.
+  - Explores challenges in recognizing others' emotions accurately.
+  - Emphasizes the necessity of asking and listening to understand others' feelings.
+  - Introduces the concept of story stewardship, respecting and believing in people's stories.
 - Story Stewardship and Language:
-   - Defines story stewardship as the responsible handling of personal stories.
-   - Discusses narrative takeover and tap-out as challenges to effective story stewardship.
-   - Explores language as a crucial tool for understanding and expressing emotions and experiences.
+  - Defines story stewardship as the responsible handling of personal stories.
+  - Discusses narrative takeover and tap-out as challenges to effective story stewardship.
+  - Explores language as a crucial tool for understanding and expressing emotions and experiences.
 - Atlas of the Heart:
-   - Acknowledges the complexity of human experiences, including pain and gifts.
-   - Reflects on the importance of not looking away from pain and connecting with others.
-   - Highlights the layers of biology, biography, behavior, and backstory in emotions and experiences.
+  - Acknowledges the complexity of human experiences, including pain and gifts.
+  - Reflects on the importance of not looking away from pain and connecting with others.
+  - Highlights the layers of biology, biography, behavior, and backstory in emotions and experiences.
 - Connection with Self and Others:
-   - Stresses the connection with oneself as a prerequisite for deep connections with others.
-   - Emphasizes the significance of understanding personal needs, beliefs, and identity.
-   - Discusses the range of emotions and experiences that shape individuals and relationships.
+  - Stresses the connection with oneself as a prerequisite for deep connections with others.
+  - Emphasizes the significance of understanding personal needs, beliefs, and identity.
+  - Discusses the range of emotions and experiences that shape individuals and relationships.
 - Conclusion:
-   - Encourages developing confidence to navigate emotional experiences.
-   - Compares emotional understanding to having a reliable map for life's adventures.
-   - Emphasizes the value of connecting with one's heart and true self for meaningful connection.
+  - Encourages developing confidence to navigate emotional experiences.
+  - Compares emotional understanding to having a reliable map for life's adventures.
+  - Emphasizes the value of connecting with one's heart and true self for meaningful connection.

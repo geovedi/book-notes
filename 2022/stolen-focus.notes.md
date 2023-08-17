@@ -167,36 +167,36 @@ Author: Johann Hari
 
 ## Cause Five: The Disruption of Mind-Wandering
 - Introduction:
-   - The dominant metaphor for attention is a spotlight, focusing on one thing while ignoring others.
-   - Attention is essential for focus, but there are various forms of attention beyond spotlight focus.
+  - The dominant metaphor for attention is a spotlight, focusing on one thing while ignoring others.
+  - Attention is essential for focus, but there are various forms of attention beyond spotlight focus.
 - Mind-Wandering and Creativity:
-   - Mind-wandering is not a distraction; it's a different form of attention.
-   - Mind-wandering allows for making sense of the world and forming connections between ideas.
-   - It contributes to creativity and problem-solving by generating unique insights.
-   - The default mode network becomes active during mind-wandering, contrary to earlier beliefs.
+  - Mind-wandering is not a distraction; it's a different form of attention.
+  - Mind-wandering allows for making sense of the world and forming connections between ideas.
+  - It contributes to creativity and problem-solving by generating unique insights.
+  - The default mode network becomes active during mind-wandering, contrary to earlier beliefs.
 - Benefits and Mechanisms of Mind-Wandering:
-   - Mind-wandering helps us to understand complex themes and make connections.
-   - It involves mental time-travel, contemplating the past and predicting the future.
-   - Mind-wandering requires mental space and aids in organizing personal goals.
+  - Mind-wandering helps us to understand complex themes and make connections.
+  - It involves mental time-travel, contemplating the past and predicting the future.
+  - Mind-wandering requires mental space and aids in organizing personal goals.
 - Mind-Wandering and Stress:
-   - Mind-wandering can lead to rumination and negative feelings in stressful situations.
-   - In low-stress and safe environments, mind-wandering fosters creativity and positive thinking.
+  - Mind-wandering can lead to rumination and negative feelings in stressful situations.
+  - In low-stress and safe environments, mind-wandering fosters creativity and positive thinking.
 - Digital Distraction and Ego:
-   - The digital world's constant stimulation suppresses mind-wandering and deep thinking.
-   - Email and social media are sources of distraction and affirmation for the ego.
-   - The desire for recognition often fuels the urge to send emails and engage on social media.
+  - The digital world's constant stimulation suppresses mind-wandering and deep thinking.
+  - Email and social media are sources of distraction and affirmation for the ego.
+  - The desire for recognition often fuels the urge to send emails and engage on social media.
 - Returning to the Online World:
-   - Transitioning back to the online world after a break can be challenging.
-   - Freedom and kSafe are tools to limit digital distractions and replicate the Provincetown experience.
-   - Social media engagement can lead to shallower interactions and loss of complexity and compassion.
+  - Transitioning back to the online world after a break can be challenging.
+  - Freedom and kSafe are tools to limit digital distractions and replicate the Provincetown experience.
+  - Social media engagement can lead to shallower interactions and loss of complexity and compassion.
 - Struggles and Insights:
-   - Maintaining lessons from Provincetown can be difficult in the face of digital temptations.
-   - The author struggled with maintaining pre-commitment and fell back into digital distractions.
-   - The realization that something larger was affecting focus led to introspection.
+  - Maintaining lessons from Provincetown can be difficult in the face of digital temptations.
+  - The author struggled with maintaining pre-commitment and fell back into digital distractions.
+  - The realization that something larger was affecting focus led to introspection.
 - Complex Nature of Attention:
-   - Attention and focus are complex phenomena with multiple facets.
-   - Mind-wandering has positive aspects, but its impact is affected by stress and environment.
-   - Digital distractions and ego-driven desires challenge sustained focus and deep thinking.
+  - Attention and focus are complex phenomena with multiple facets.
+  - Mind-wandering has positive aspects, but its impact is affected by stress and environment.
+  - Digital distractions and ego-driven desires challenge sustained focus and deep thinking.
 
 ## Cause Six: The Rise of Technology That Can Track and Manipulate You (Part One)
 - Tristan Harris: The Dilemma at Google
@@ -269,62 +269,62 @@ Author: Johann Hari
 
 ## Cause Seven: The Rise of Cruel Optimism (Or: Why Individual Changes Are an Important Start, but Not Enough)
 - Introduction to Attention and Technology's Impact:
-   - Nir Eyal, an Israeli-American tech designer, reflects on his realization about the negative impact of technology on his relationship with his daughter.
-   - Moments of connection between parents and children are crucial, and technology distractions can lead to missed opportunities.
+  - Nir Eyal, an Israeli-American tech designer, reflects on his realization about the negative impact of technology on his relationship with his daughter.
+  - Moments of connection between parents and children are crucial, and technology distractions can lead to missed opportunities.
 - Nir Eyal's Perspective on Solutions:
-   - Nir Eyal's background in persuasive technology and his work with influential companies in Silicon Valley.
-   - His daughter's exposure to technology addiction prompts him to address the crisis.
-   - He advocates for individual strategies to resist technology distractions, suggesting a different approach from other experts.
+  - Nir Eyal's background in persuasive technology and his work with influential companies in Silicon Valley.
+  - His daughter's exposure to technology addiction prompts him to address the crisis.
+  - He advocates for individual strategies to resist technology distractions, suggesting a different approach from other experts.
 - Nir Eyal's Approach to Overcoming Distraction:
-   - The concept of "internal triggers" - moments pushing individuals to give in to bad habits.
-   - Identifying triggers and introducing breaks between impulse and behavior to disrupt habits.
-   - Techniques such as the "ten-minute rule," time-boxing, changing notification settings, and deleting apps from devices.
+  - The concept of "internal triggers" - moments pushing individuals to give in to bad habits.
+  - Identifying triggers and introducing breaks between impulse and behavior to disrupt habits.
+  - Techniques such as the "ten-minute rule," time-boxing, changing notification settings, and deleting apps from devices.
 - Critique of Nir Eyal's Approach:
-   - Comparison with the obesity crisis: Environmental changes led to obesity, yet individual blame is often placed.
-   - Parallel to attention problems: Eyal's approach focuses on individual behavior change while ignoring systemic issues.
-   - The concept of "cruel optimism": Simplistic individual solutions fail to address deeper social causes.
+  - Comparison with the obesity crisis: Environmental changes led to obesity, yet individual blame is often placed.
+  - Parallel to attention problems: Eyal's approach focuses on individual behavior change while ignoring systemic issues.
+  - The concept of "cruel optimism": Simplistic individual solutions fail to address deeper social causes.
 - The Limitations of Individual Solutions:
-   - Analogy with obesity: Diet books didn't solve obesity; individual solutions miss systemic analysis.
-   - Stress and anxiety: External factors like overwork contribute to stress, making simplistic solutions inadequate.
-   - Eyal's "cookbook" for designing apps: The digital model hooks users, but the solution should not solely rely on individual change.
+  - Analogy with obesity: Diet books didn't solve obesity; individual solutions miss systemic analysis.
+  - Stress and anxiety: External factors like overwork contribute to stress, making simplistic solutions inadequate.
+  - Eyal's "cookbook" for designing apps: The digital model hooks users, but the solution should not solely rely on individual change.
 - The Need for Systemic Change:
-   - Shifting consciousness about technology's impact, similar to the obesity crisis.
-   - Awareness of technology companies working against self-control.
-   - Advocating for collective action to address attention problems and compel changes in tech industry practices.
+  - Shifting consciousness about technology's impact, similar to the obesity crisis.
+  - Awareness of technology companies working against self-control.
+  - Advocating for collective action to address attention problems and compel changes in tech industry practices.
 - Balancing Individual and Collective Efforts:
-   - Recognition that individual strategies are important but insufficient.
-   - Authentic optimism: Acknowledging barriers and working together to dismantle them.
+  - Recognition that individual strategies are important but insufficient.
+  - Authentic optimism: Acknowledging barriers and working together to dismantle them.
 
 ## The First Glimpses of the Deeper Solution
 - Introduction and Urgent Questions
-   - The author ponders the impact of technology on attention and focus.
-   - Two questions arise: How to prevent technology from harming attention? How to make corporations introduce changes?
+  - The author ponders the impact of technology on attention and focus.
+  - Two questions arise: How to prevent technology from harming attention? How to make corporations introduce changes?
 - Proposed Solutions
-   - Suggests changes to invasive tech to prevent harm to attention and focus.
-   - Advocates for compelling corporations to implement changes.
-   - Discusses the idea of banning surveillance capitalism to address the root cause.
+  - Suggests changes to invasive tech to prevent harm to attention and focus.
+  - Advocates for compelling corporations to implement changes.
+  - Discusses the idea of banning surveillance capitalism to address the root cause.
 - Historical Precedents for Change
-   - Draws parallels between harmful products like lead paint and surveillance capitalism.
-   - Describes banning specific elements without eliminating the entire product.
+  - Draws parallels between harmful products like lead paint and surveillance capitalism.
+  - Describes banning specific elements without eliminating the entire product.
 - Potential Changes to Social Media
-   - Proposes redesigning social media to align with users' well-being.
-   - Examples include batching notifications, removing infinite scroll, turning off polarizing content.
-   - Discusses changing financial incentives through subscriptions or public ownership.
+  - Proposes redesigning social media to align with users' well-being.
+  - Examples include batching notifications, removing infinite scroll, turning off polarizing content.
+  - Discusses changing financial incentives through subscriptions or public ownership.
 - Challenges to Implementing Change
-   - Addresses skepticism about the feasibility of regulatory changes.
-   - Highlights differences in scientific interpretations regarding tech's impact.
-   - Contrasts potential benefits of taking action versus inaction.
+  - Addresses skepticism about the feasibility of regulatory changes.
+  - Highlights differences in scientific interpretations regarding tech's impact.
+  - Contrasts potential benefits of taking action versus inaction.
 - Lessons from Historical Movements
-   - Draws parallels between current issues and historical struggles for women's rights and LGBTQ+ rights.
-   - Emphasizes the power of ordinary people to challenge and change powerful systems.
+  - Draws parallels between current issues and historical struggles for women's rights and LGBTQ+ rights.
+  - Emphasizes the power of ordinary people to challenge and change powerful systems.
 - Potential Consequences of Inaction
-   - Warns of increasing sophistication in invasive technologies.
-   - Describes "style transfer" technology and its potential misuse.
-   - Discusses the dangers of unchecked tech development and its impact on free will.
+  - Warns of increasing sophistication in invasive technologies.
+  - Describes "style transfer" technology and its potential misuse.
+  - Discusses the dangers of unchecked tech development and its impact on free will.
 - The Urgency for a Movement
-   - Portrays the current movement for humane technology as early-stage.
-   - Compares it to the early stages of feminist movements.
-   - Calls for individuals to decide whether to join the movement or let invasive technologies prevail.
+  - Portrays the current movement for humane technology as early-stage.
+  - Compares it to the early stages of feminist movements.
+  - Calls for individuals to decide whether to join the movement or let invasive technologies prevail.
 
 ## Cause Eight: The Surge in Stress and How It Is Triggering Vigilance
 - Introduction: The Impact of Attention Problems and Stress

@@ -143,32 +143,32 @@ Author: Helen Czerski
 
 ## A Moment in Time: The March to Equilibrium
 - Introduction
-   - Locks and equilibrium illustration.
-   - Controlling equilibrium positions to achieve desired outcomes.
-   - Equilibrium's relation to time and direction.
+  - Locks and equilibrium illustration.
+  - Controlling equilibrium positions to achieve desired outcomes.
+  - Equilibrium's relation to time and direction.
 - Hoover Dam and Energy Control
-   - The Hoover Dam's role in controlling water flow and generating energy.
-   - Equilibrium management as a means to control energy release.
-   - Transition from fossil fuels to renewable energy sources.
+  - The Hoover Dam's role in controlling water flow and generating energy.
+  - Equilibrium management as a means to control energy release.
+  - Transition from fossil fuels to renewable energy sources.
 - Oscillations and Natural Frequencies
-   - Objects have natural frequencies due to their size and shape.
-   - Oscillation examples: pendulum, metronome, tuning fork, and buildings.
-   - Resonance and matching frequencies lead to energy transfer.
+  - Objects have natural frequencies due to their size and shape.
+  - Oscillation examples: pendulum, metronome, tuning fork, and buildings.
+  - Resonance and matching frequencies lead to energy transfer.
 - Earthquakes and Building Stability
-   - Tall buildings' response to earthquakes.
-   - Taipei 101's tuned mass damper for earthquake resistance.
-   - Natural frequencies' impact on building stability during quakes.
+  - Tall buildings' response to earthquakes.
+  - Taipei 101's tuned mass damper for earthquake resistance.
+  - Natural frequencies' impact on building stability during quakes.
 - Life and Non-Equilibrium Systems
-   - Life defined by maintaining non-equilibrium states.
-   - Photosynthesis as a process that maintains non-equilibrium.
-   - Life's origin and evolution linked to non-equilibrium systems.
+  - Life defined by maintaining non-equilibrium states.
+  - Photosynthesis as a process that maintains non-equilibrium.
+  - Life's origin and evolution linked to non-equilibrium systems.
 - Life's Potential Existence Beyond Earth
-   - Likelihood of life existing elsewhere in the universe.
-   - Challenges in detecting extraterrestrial life.
-   - Detecting potential signs of life through atmospheric analysis.
+  - Likelihood of life existing elsewhere in the universe.
+  - Challenges in detecting extraterrestrial life.
+  - Detecting potential signs of life through atmospheric analysis.
 - Conclusion
-   - Life's role in controlling energy flow away from equilibrium.
-   - The potential for identifying non-equilibrium atmospheres on exoplanets.
+  - Life's role in controlling energy flow away from equilibrium.
+  - The potential for identifying non-equilibrium atmospheres on exoplanets.
 
 ## Making Waves: From Water to WiFi
 - Introduction

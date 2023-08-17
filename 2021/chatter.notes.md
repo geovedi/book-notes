@@ -37,31 +37,31 @@ Author: Ethan Kross
 
 ## Why We Talk to Ourselves
 - Introduction
-   - The sidewalks of New York City as avenues of anonymity.
-   - The hidden "thoughtscape" of inner conversations in people's minds.
-   - Andrew Irving's study on New Yorkers' inner voices.
+  - The sidewalks of New York City as avenues of anonymity.
+  - The hidden "thoughtscape" of inner conversations in people's minds.
+  - Andrew Irving's study on New Yorkers' inner voices.
 - Diverse Inner Dialogues
-   - New Yorkers' internal conversations range from mundane observations to personal concerns.
-   - Narratives often shift abruptly from everyday thoughts to deeper emotions and worries.
-   - Examples of individuals like Meredith, Tony, and Laura showcasing different aspects of inner monologues.
+  - New Yorkers' internal conversations range from mundane observations to personal concerns.
+  - Narratives often shift abruptly from everyday thoughts to deeper emotions and worries.
+  - Examples of individuals like Meredith, Tony, and Laura showcasing different aspects of inner monologues.
 - Value of Inner Voice
-   - Inner voice as a tool for handling challenges and working through emotions.
-   - Importance of mental time travel and introspection for understanding experiences.
-   - Humans' ability to simulate events and plan for contingencies, both awake and in dreams.
+  - Inner voice as a tool for handling challenges and working through emotions.
+  - Importance of mental time travel and introspection for understanding experiences.
+  - Humans' ability to simulate events and plan for contingencies, both awake and in dreams.
 - Narrative Construction
-   - The role of inner voice in constructing personal narratives and shaping identity.
-   - Use of language to make sense of experiences and create cohesive life stories.
+  - The role of inner voice in constructing personal narratives and shaping identity.
+  - Use of language to make sense of experiences and create cohesive life stories.
 - Jill Bolte Taylor's Experience
-   - Description of Jill Bolte Taylor's stroke and its impact on her inner voice.
-   - Taylor's shift from fear of losing her identity to embracing the relief of inner silence.
-   - Taylor's recovery and her belief in the importance of managing self-talk.
+  - Description of Jill Bolte Taylor's stroke and its impact on her inner voice.
+  - Taylor's shift from fear of losing her identity to embracing the relief of inner silence.
+  - Taylor's recovery and her belief in the importance of managing self-talk.
 - Impact of Inner Voice
-   - The dominance of inner experiences over external activities in influencing happiness.
-   - Chatter's potential to overwhelm and detract from positive experiences.
-   - Acknowledgment that while the inner voice has immense value, it can also lead to harmful effects if uncontrolled.
+  - The dominance of inner experiences over external activities in influencing happiness.
+  - Chatter's potential to overwhelm and detract from positive experiences.
+  - Acknowledgment that while the inner voice has immense value, it can also lead to harmful effects if uncontrolled.
 - Conclusion
-   - Need to understand and manage the inner voice to avoid negative impacts.
-   - The complex interplay between the positive and potentially negative aspects of our inner dialogues.
+  - Need to understand and manage the inner voice to avoid negative impacts.
+  - The complex interplay between the positive and potentially negative aspects of our inner dialogues.
 
 ## When Talking to Ourselves Backfires
 - Effects of Chatter on Behavior and Communication
