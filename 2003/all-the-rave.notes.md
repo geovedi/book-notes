@@ -493,38 +493,38 @@ Author: Joseph Menn
   - Industry resistance prevented Hilbers' call for a legal moratorium, propelling a summary judgment pursuit against Napster. Yet
 
 ## The Coup
-- - Background and Acquisition Strategy:
+- Background and Acquisition Strategy:
   - Napster, once revolutionary, faced financial troubles under CEO Konrad Hilbers, prompting Bertelsmann's interest in acquisition.
   - Thomas Middelhoff of Bertelsmann proposed a strategy to acquire Napster, aiming to strengthen bargaining power with record labels.
   - Bertelsmann held control through loans and warrants, ensuring protection in case Napster failed, and saw potential beyond music distribution.
-- - Negotiations, Turmoil, and Fanning's Role:
+- Negotiations, Turmoil, and Fanning's Role:
   - Negotiations involved intricate dynamics, board concerns, and challenges regarding lawsuit settlements.
   - Thomas Middelhoff's determination conflicted with board nervousness and missed deadlines for Napster's relaunch.
   - John Fanning's actions within Napster's board complicated the acquisition process.
-- - Legal Maneuvers and Unraveling:
+- Legal Maneuvers and Unraveling:
   - John Fanning aimed to gain control through changing shares and altering the board's composition.
   - The lawsuit against other directors escalated tension, revealing conflicts over interests.
   - Amidst financial troubles and internal disagreements, Napster's leadership struggled to find resolution.
-- - The End of an Era:
+- The End of an Era:
   - Resignations among executives and employees reflected dissatisfaction with the company's direction.
   - The board's refusal to approve a purchase deal resulted in significant job losses and discontent.
   - Napster's journey showcased the tension between idealism and commercial interests.
-- - The Acquisitional Shuffle:
+- The Acquisitional Shuffle:
   - Napster filed for bankruptcy, targeting legal liabilities and control change, opening doors for Bertelsmann's acquisition.
   - Bertelsmann's agreement to the Chapter 11 sale led to a rehire of Napster's leaders and plans for a legitimate peer-to-peer service.
-- - Transition and Leadership Uncertainty:
+- Transition and Leadership Uncertainty:
   - Gunther Thielen's appointment at Bertelsmann raised questions about Napster's future in a changing media landscape.
   - The AOL Time Warner merger's failure heightened uncertainties about Napster's profitability.
-- - Ownership Disputes and Legal Battles:
+- Ownership Disputes and Legal Battles:
   - The music industry questioned Bertelsmann's role, alleging it was more than a lender, raising concerns about equity ownership.
   - Evidence emerged of Bertelsmann's significant control and involvement, suggesting potential legal liabilities.
-- - Liquidation and Redemption:
+- Liquidation and Redemption:
   - Legal challenges led to a failed deal with Bertelsmann, prompting Napster's liquidation decision.
   - Roxio Inc. stepped in as the top bidder for Napster's assets, aiming to navigate the challenges of online music distribution.
-- - Roxio's Vision and Fanning's Impact:
+- Roxio's Vision and Fanning's Impact:
   - Roxio's acquisition aimed to combine Napster's technology with controlled distribution, led by Chris Gorog.
   - Shawn Fanning's engagement with Roxio held the potential to shape Napster's future direction.
-- - Legal Struggles and Finality:
+- Legal Struggles and Finality:
   - John Fanning's attempts to halt the sale were overruled by the court, allowing the acquisition by Roxio to proceed.
   - Roxio's acquisition marked the end of Napster's era as a company, concluding a saga of innovation, turmoil, and legal battles.
 
