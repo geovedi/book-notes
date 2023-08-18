@@ -67,6 +67,7 @@
 - Dean Buonomano - **Your Brain Is a Time Machine: The Neuroscience and Physics of Time** • [notes](https://github.com/geovedi/book-notes/blob/main/2017/your-brain-is-a-time-machine.notes.md)
 - Helen Czerski - **Storm in a Teacup: The Physics of Everyday Life** • [notes](https://github.com/geovedi/book-notes/blob/main/2017/storm-in-a-teacup.notes.md)
 - Max Tegmark - **Life 3.0: Being Human in the Age of Artificial Intelligence** • [notes](https://github.com/geovedi/book-notes/blob/main/2017/life-3.0.notes.md)
+- Peter Shankman - **Faster Than Normal: Turbocharge Your Focus, Productivity, and Success With the Secrets of the ADHD Brain** • [notes](https://github.com/geovedi/book-notes/blob/main/2017/faster-than-normal.notes.md)
 
 ## 2018
 - Emily Prokop - **The Story Behind: The Extraordinary History Behind Ordinary Objects** • [notes](https://github.com/geovedi/book-notes/blob/main/2018/the-story-behind.notes.md)
