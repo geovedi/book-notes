@@ -88,6 +88,7 @@
 ## 2020
 - Daniel Susskind - **A World Without Work: Technology, Automation and How We Should Respond** • [notes](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.notes.md)
 - Darrell Rigby, Sarah Elk, Steve Berez - **Doing Agile Right: Transformation Without Chaos** • [notes](https://github.com/geovedi/book-notes/blob/main/2020/doing-agile-right.notes.md)
+- Melanie Mitchell - **Artificial Intelligence: A Guide for Thinking Humans** • [notes](https://github.com/geovedi/book-notes/blob/main/2020/artificial-intelligence.notes.md)
 - Zena Hitz - **Lost in Thought: The Hidden Pleasures of an Intellectual Life** • [notes](https://github.com/geovedi/book-notes/blob/main/2020/lost-in-thought.notes.md)
 
 ## 2021
