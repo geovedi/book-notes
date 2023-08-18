@@ -27,6 +27,7 @@
 ## 2011
 - Daniel Kahneman - **Thinking, Fast And Slow** • [notes](https://github.com/geovedi/book-notes/blob/main/2011/thinking-fast-and-slow.notes.md)
 - David Eagleman - **Incognito: The Secret Lives of the Brain** • [notes](https://github.com/geovedi/book-notes/blob/main/2011/incognito.notes.md)
+- Eric Ries - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** • [notes](https://github.com/geovedi/book-notes/blob/main/2011/the-lean-startup.notes.md)
 - Michio Kaku - **Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100** • [notes](https://github.com/geovedi/book-notes/blob/main/2011/physics-of-the-future.notes.md)
 
 ## 2012
@@ -42,11 +43,13 @@
 
 ## 2014
 - Erik Brynjolfsson, Andrew Mcafee, Jeff Cummings - **The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies** • [notes](https://github.com/geovedi/book-notes/blob/main/2014/the-second-machine-age.notes.md)
+- Gary Antonacci - **Dual Momentum Investing: An Innovative Strategy for Higher Returns With Lower Risk** • [notes](https://github.com/geovedi/book-notes/blob/main/2014/dual-momentum-investing.notes.md)
 - Steve Krug - **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** • [notes](https://github.com/geovedi/book-notes/blob/main/2014/don-t-make-me-think-revisited.notes.md)
 
 ## 2015
 - Ashlee Vance - **Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future** • [notes](https://github.com/geovedi/book-notes/blob/main/2015/elon-musk.notes.md)
 - Christophe Galfard - **The Universe in Your Hand: A Journey Through Space, Time, and Beyond** • [notes](https://github.com/geovedi/book-notes/blob/main/2015/the-universe-in-your-hand.notes.md)
+- Edmond Lau - **The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact** • [notes](https://github.com/geovedi/book-notes/blob/main/2015/the-effective-engineer.notes.md)
 - Heidi Grant Halvorson - **No One Understands You and What to Do About It** • [notes](https://github.com/geovedi/book-notes/blob/main/2015/no-one-understands-you.notes.md)
 - Philip Kotler - **Confronting Capitalism: Real Solutions for a Troubled Economic System** • [notes](https://github.com/geovedi/book-notes/blob/main/2015/confronting-capitalism.notes.md)
 
@@ -75,6 +78,7 @@
 
 ## 2020
 - Daniel Susskind - **A World Without Work: Technology, Automation and How We Should Respond** • [notes](https://github.com/geovedi/book-notes/blob/main/2020/a-world-without-work.notes.md)
+- Darrell Rigby, Sarah Elk, Steve Berez - **Doing Agile Right: Transformation Without Chaos** • [notes](https://github.com/geovedi/book-notes/blob/main/2020/doing-agile-right.notes.md)
 - Zena Hitz - **Lost in Thought: The Hidden Pleasures of an Intellectual Life** • [notes](https://github.com/geovedi/book-notes/blob/main/2020/lost-in-thought.notes.md)
 
 ## 2021
