@@ -5,6 +5,7 @@
 
 ## 1999
 - Bruce Bagemihl - **Biological Exuberance: Animal Homosexuality and Natural Diversity** • [notes](https://github.com/geovedi/book-notes/blob/main/1999/biological-exuberance.notes.md)
+- Daniel J. Siegel - **The Developing Mind** • [notes](https://github.com/geovedi/book-notes/blob/main/1999/the-developing-mind.notes.md)
 
 ## 2000
 - Charles Petzold - **Code: The Hidden Language of Computer Hardware and Software** • [notes](https://github.com/geovedi/book-notes/blob/main/2000/code.notes.md)
@@ -51,7 +52,9 @@
 
 ## 2016
 - Angela Duckworth - **Grit: The Power of Passion and Perseverance** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/grit.notes.md)
+- Antonio Garcia-Martinez - **Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/chaos-monkeys.notes.md)
 - Brian Christian, Tom Griffiths - **Algorithms to Live By: The Computer Science of Human Decisions** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/algorithms-to-live-by.notes.md)
+- Charles Duhigg - **Smarter Faster Better: The Secrets of Being Productive in Life and Business** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/smarter-faster-better.notes.md)
 - Richard A. Muller - **Now: The Physics of Time** • [notes](https://github.com/geovedi/book-notes/blob/main/2016/now.notes.md)
 
 ## 2017
