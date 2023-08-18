@@ -22,6 +22,9 @@
 ## 2008
 - Michio Kaku - **Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel** • [notes](https://github.com/geovedi/book-notes/blob/main/2008/physics-of-the-impossible.notes.md)
 
+## 2009
+- Kensuke Watanabe - **Problem Solving 101: A Simple Book for Smart People** • [notes](https://github.com/geovedi/book-notes/blob/main/2009/problem-solving-101.notes.md)
+
 ## 2010
 - Eric S. Raymond - **The Cathedral And The Bazaar** • [notes](https://github.com/geovedi/book-notes/blob/main/2010/the-cathedral-and-the-bazaar.notes.md)
 - Joseph Menn - **Fatal System Error: The Hunt for the New Crime Lords Who Are Bringing Down the Internet** • [notes](https://github.com/geovedi/book-notes/blob/main/2010/fatal-system-error.notes.md)
@@ -79,6 +82,7 @@
 - Emily Nagoski, Amelia Nagoski - **Burnout: The Secret to Unlocking the Stress Cycle** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/burnout.notes.md)
 - Gregory Zuckerman - **The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/the-man-who-solved-the-market.notes.md)
 - Joseph Menn - **Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/cult-of-the-dead-cow.notes.md)
+- Julie Zhuo - **The Making of a Manager: What to Do When Everyone Looks to You** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/the-making-of-a-manager.notes.md)
 - Stuart Russell - **Human Compatible: Artificial Intelligence and the Problem of Control** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/human-compatible.notes.md)
 
 ## 2020
