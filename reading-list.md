@@ -3,6 +3,9 @@
 ## 1985
 - Carl Sagan - **Cosmos** • [notes](https://github.com/geovedi/book-notes/blob/main/1985/cosmos.notes.md)
 
+## 1991
+- Jose Silva & Philip Miele - **The Silva Mind Control Method** • [notes](https://github.com/geovedi/book-notes/blob/main/1991/the-silva-mind-control-method.notes.md)
+
 ## 1999
 - Bruce Bagemihl - **Biological Exuberance: Animal Homosexuality and Natural Diversity** • [notes](https://github.com/geovedi/book-notes/blob/main/1999/biological-exuberance.notes.md)
 - Daniel J. Siegel - **The Developing Mind** • [notes](https://github.com/geovedi/book-notes/blob/main/1999/the-developing-mind.notes.md)
@@ -73,6 +76,7 @@
 
 ## 2019
 - Emily Nagoski, Amelia Nagoski - **Burnout: The Secret to Unlocking the Stress Cycle** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/burnout.notes.md)
+- Gregory Zuckerman - **The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/the-man-who-solved-the-market.notes.md)
 - Joseph Menn - **Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/cult-of-the-dead-cow.notes.md)
 - Stuart Russell - **Human Compatible: Artificial Intelligence and the Problem of Control** • [notes](https://github.com/geovedi/book-notes/blob/main/2019/human-compatible.notes.md)
 
