@@ -21,6 +21,7 @@
 
 ## 2006
 - Michio Kaku - *Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos* • [notes](https://github.com/geovedi/book-notes/blob/main/2006/parallel-worlds.notes.md)
+- Steven D. Levitt, Stephen J. Dubner - *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything* • [notes](https://github.com/geovedi/book-notes/blob/main/2006/freakonomics.notes.md)
 
 ## 2008
 - Michio Kaku - *Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel* • [notes](https://github.com/geovedi/book-notes/blob/main/2008/physics-of-the-impossible.notes.md)
@@ -82,6 +83,7 @@
 - Emily Prokop - *The Story Behind: The Extraordinary History Behind Ordinary Objects* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/the-story-behind.notes.md)
 - Heidi Grant - *Reinforcements: How to Get People to Help You* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/reinforcements.notes.md)
 - Peter Stanyer, Stephen Satchell - *Guide to Investment Strategy* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/guide-to-investment-strategy.notes.md)
+- Reid Hoffman, Chris Yeh, Bill Gates - *Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/blitzscaling.notes.md)
 - Stephen Hawking - *Brief Answers to the Big Questions* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/brief-answers-to-the-big-questions.notes.md)
 - Yuval Noah Harari - *21 Lessons for the 21st Century* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/21-lessons-for-the-21st-century.notes.md)
 

@@ -1,0 +1,316 @@
+
+# Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
+Author: Steven D. Levitt, Stephen J. Dubner
+
+
+## Introduction: The Hidden Side of Everything
+- The Crime Wave and the Superpredator
+  - The early 1990s in the United States experienced a surge in crime rates, including violent crime, gun violence, carjacking, and other criminal activities.
+  - Experts predicted a grim future due to the rise of the "superpredator," a ruthless young criminal.
+  - Criminologists, political scientists, and even President Clinton anticipated a spike in teenage homicides.
+  - Media coverage intensified the fear of crime, creating a perception of widespread danger.
+  - Cities were often portrayed as dangerous and crime-ridden, influencing public perceptions.
+  - Politicians capitalized on the crime issue to gain support and propose stringent law enforcement policies.
+  - The "superpredator" concept lacked solid evidence and was largely based on speculative projections.
+- The Unexpected Crime Drop
+  - Crime rates defied predictions and decreased during the 1990s.
+  - This decline encompassed all crime categories and geographical locations.
+  - Despite experts' forecasts, teenage murder rates notably dropped.
+  - Theories emerged to explain the crime decrease, including economic growth, gun control, and innovative policing strategies.
+  - The crime drop's effects varied, with some regions experiencing more significant reductions.
+  - Demographic shifts, such as an aging population, were additional contributors to lowered crime rates.
+  - Reduced crack cocaine use during the era also played a role in decreasing violent crimes.
+  - The adoption of technology and surveillance by law enforcement agencies contributed to the overall decline in crime.
+- The Unacknowledged Factor: Abortion and Crime
+  - Norma McCorvey (Jane Roe) inadvertently played a pivotal role in the crime drop by influencing the availability of abortion.
+  - Children born into adverse family environments faced a higher likelihood of becoming criminals.
+  - Poor, unmarried, and teenage mothers, who were more likely to have high-risk children, opted for abortions after Roe v. Wade.
+  - The reduction in the pool of potential criminals due to abortion contributed significantly to the massive crime drop of the 1990s.
+  - The "Donohue-Levitt Hypothesis" postulated a connection between legalized abortion and decreased crime rates.
+  - This hypothesis suggested that unwanted children, who might have been born due to illegal abortions, could have been more prone to criminal behavior.
+  - Research indicated that regions with higher abortion rates experienced more substantial reductions in crime.
+  - The controversial link between abortion, crime, and social policy gave rise to ethical and moral debates.
+- Real Estate Agents and Incentives
+  - Real estate agents possess specialized knowledge about the housing market, property values, and negotiation strategies, giving them a significant informational advantage over their clients.
+  - The traditional 6 percent commission on real estate sales is typically divided between the seller's agent and the buyer's agent, both of whom then share a portion with their respective agencies.
+  - The financial incentive structure can lead agents to focus on completing transactions quickly, potentially affecting the level of effort and negotiation put into each deal.
+  - When agents sell their own properties, they are more motivated to maximize their profit, leading them to be more patient and hold out for higher offers than they might advise their clients to accept.
+  - This misalignment of incentives between agents and clients highlights the importance of considering agents' motivations in real estate transactions.
+  - Real estate agents' commission-based compensation creates a potential conflict of interest, where their financial gain depends on the transaction amount rather than the optimal outcome for their clients.
+  - The disparity between agents' personal gains when selling their own homes and when representing clients underscores the impact of self-interest on decision-making in the real estate industry.
+  - The role of real estate agents goes beyond providing information; they act as intermediaries who facilitate transactions while navigating the complexities of pricing, negotiation, and market trends.
+  - Recognizing the influence of incentives on agents' behavior can empower clients to approach real estate transactions with a more informed perspective, considering both the agent's motivations and their own goals.
+  - Ultimately, understanding the economic dynamics at play helps individuals navigate the world of real estate more effectively, aligning their interests with agents' incentives for a mutually beneficial outcome.
+- Money and Elections
+  - The belief that money heavily influences elections is prevalent.
+  - A correlation exists between higher campaign spending and winning, yet causation is not direct.
+  - Campaign finance incentives contribute to higher funding for competitive races and established candidates.
+  - Candidate appeal holds more weight than the monetary amount spent, as evidenced by election data.
+  - The idea that money drives election outcomes originates from observing candidates with higher spending tend to secure victory.
+  - However, this relationship is nuanced; candidates with existing popularity tend to attract more funds.
+  - Campaign finance dynamics encourage contributions to competitive races and proven incumbents.
+  - Election results are influenced by factors beyond spending; personal appeal, strategic allocation of funds, and other considerations matter.
+  - Examining election data demonstrates that a candidate's qualities and likability significantly impact voter decisions, surpassing the direct effect of campaign expenditures.
+- The Correlation and Causation Pitfall
+  - Correlation between two factors (X and Y) doesn't imply a cause-and-effect relationship; direction isn't inherently revealed.
+  - Instances like the police/murder correlation and doctor behavior in birth procedures underscore this concept.
+  - While correlation exists, understanding causation requires delving deeper into the relationship.
+  - The police/murder example illustrates how a third factor, like population density or economic conditions, could influence both police presence and murder rates.
+  - Analyzing doctors and cesarean-section deliveries demonstrates that correlation doesn't reveal if declining birth rates influence doctors' choices or if cesarean-sections cause birth rates to decline.
+  - Identifying causation necessitates complex analyses, experimentation, and considering multiple variables that may contribute to observed correlations.
+- The Power of Data and Economics
+  - Economics is a science of measurement and analysis that uses quantitative methods to understand and predict human behavior.
+  - It provides tools for assessing cause-and-effect relationships in complex scenarios, allowing the identification of hidden connections.
+  - Through empirical methods, economics offers insights into intricate phenomena, revealing patterns that lead to profound insights in various fields.
+  - The application of economic tools helps unveil causal relationships in intricate situations, providing a deeper understanding of hidden dynamics.
+  - Economics delves into the hidden side of diverse subjects, exposing connections and influences that might not be immediately apparent.
+- The Worldview of Incentives and Data Analysis
+  - Incentives are central to understanding human behavior and decision-making.
+  - Conventional wisdom can be inaccurate, as demonstrated in various scenarios.
+  - Dramatic effects often have distant, subtle causes that may not be immediately obvious.
+  - Expertise can be exploited for personal gain, but data analysis can expose hidden truths.
+  - Incentives play a pivotal role in shaping individual actions and choices.
+  - Conventional wisdom is often based on assumptions that don't hold up when scrutinized through data.
+  - The origins of significant outcomes may be rooted in remote and indirect influences, confounding initial assumptions.
+  - Experts' opinions and biases can affect their analyses and recommendations.
+  - Data analysis has the power to challenge preconceived notions and reveal the truth, even when expertise is valuable.
+- The Philosophy of Adam Smith and Objective Analysis
+  - Adam Smith's philosophy delved into the interplay between individual desires and societal norms, aiming to understand the broader impact of personal choices.
+  - He explored how personal decisions could send ripples through society, impacting various aspects.
+  - Economics equips us with tools to analyze and evaluate cases objectively, enabling impartial examination.
+  - The book's goal is to uncover hidden insights by posing unasked questions and utilizing data analysis.
+  - This philosophy aligns with the objective analysis that this book embraces.
+  - The interplay of self-interest and societal norms fascinated Adam Smith.
+  - He sought to grasp how individual decisions could shape the fabric of society.
+  - Economics serves as a toolkit for impartially dissecting diverse scenarios.
+  - Objective data examination offers a clearer view of reality, devoid of subjective biases.
+  - This book embodies the spirit of objective analysis, unearthing concealed insights by exploring captivating cases.
+
+## What Do Schoolteachers and Sumo Wrestlers Have in Common?
+- Effects of Presence and Reputation on Honesty:
+  - The bagel business of Paul Feldman reveals the impact of personal presence on theft rates.
+  - The initial expectation of a 95 percent payment rate was influenced by Feldman's presence deterring theft.
+  - Psychological and economic research suggests that people's willingness to pay is influenced by who is providing the service.
+  - Feldman considers a company "honest" if its payment rate is above 90 percent, showing the correlation between reputation and honesty.
+  - The context of the "crime" plays a significant role in shaping people's perception of dishonest behavior.
+- Innovative Anti-Theft Measures:
+  - Feldman's progression from open baskets to plywood boxes highlights the evolution of anti-theft measures.
+  - Small plywood boxes with slots on top became the most effective solution, resulting in minimal losses.
+  - The success of the wooden box solution is a testament to the nuanced social calculus of theft.
+  - The distinction between eating an unpaid bagel and more severe thefts is influenced by the context of the situation.
+  - The bagel example illustrates that personal behavior can vary based on the perceived severity of the "crime."
+- Trends in Payment Rates:
+  - A long, slow decline in payment rates began in 1992, dropping to about 87 percent by 2001.
+  - Following September 11, 2001, there was a 2 percent spike in payment rates, possibly due to patriotic or empathetic reasons.
+  - Smaller offices exhibit higher payment rates compared to larger offices, reflecting similarities with street crime trends.
+  - Weather significantly affects payment rates; pleasant weather increases honesty, while cold, rainy, or windy weather leads to higher cheating.
+  - Holidays, like Christmas and Thanksgiving, show a drop in payment rates, indicating the influence of personal mood and anxieties on honesty.
+- Factors Influencing Honesty:
+  - Personal morale and job satisfaction play a significant role in office honesty.
+  - Employees tend to be more honest when they have positive feelings toward their boss and job.
+  - Employees higher up the corporate ladder are more likely to cheat, suggesting a connection between dishonesty and position.
+  - The presence of social incentives and shame in smaller communities leads to lower crime rates, paralleling honesty trends in offices.
+  - Honesty is at the intersection of morality and economics, reflecting the innate honesty of mankind as theorized by Adam Smith.
+- Comparison to Philosophical Thought:
+  - The "Ring of Gyges" tale from Plato's Republic challenges the idea of inherent human goodness without enforcement.
+  - The story of Gyges, who became invisible and acted immorally, poses a moral question about the temptation of evil when unseen.
+  - Paul Feldman aligns with the philosophies of Socrates and Adam Smith, believing that people are generally good, even when not monitored.
+  - The bagel business's success in maintaining honesty counters the skepticism of economists who initially doubted the honor-system scheme.
+  - The connection between personal presence, reputation, and honesty reaffirms Adam Smith's idea of innate principles in human nature that promote the happiness and welfare of others.
+
+## How Is the Ku Klux Klan Like a Group of Real-Estate Agents?
+- Misuse of Information in Various Fields
+  - Cases of information abuse span diverse domains, encompassing contexts like financial fraud, business deception, and more.
+  - A common thread linking these instances is the manipulation or concealment of information, aiming to create an unfair information advantage.
+  - Often, these crimes evade detection until a significant event or revelation brings them to the forefront.
+  - Corporate scandals frequently expose the misuse of financial information, artificially inflating stock values and misleading investors.
+  - Product misrepresentation occurs through deceptive labeling, where terms like "organic" or "natural" are employed to sway consumer perception.
+  - Cybersecurity breaches underscore the vulnerability of personal data, underlining the potential for malicious exploitation.
+- Expertise and Information Asymmetry
+  - Experts leverage their informational advantage to manipulate information, capitalizing on the disparity in knowledge between themselves and the public.
+  - This manipulation can induce fear and prompt people to make decisions based on misinformation provided by experts.
+  - Various domains, such as medicine and finance, witness the strategic use of information by experts to influence choices and generate personal gain.
+  - In the medical realm, professionals might selectively present treatment options, maintaining control over patients' decision-making processes.
+  - Similarly, financial advisors employ opaque language around complex investments to rationalize high fees and ensure clients' reliance on their expertise.
+  - Manipulation of scientific information by experts can involve downplaying risks associated with particular products or practices, skewing public perception.
+- Real Estate Agents and Information Manipulation
+  - Real estate agents strategically manipulate information for personal financial gain.
+  - Their practices include contrasting the presentation of their own properties with those of their clients'.
+  - Language nuances within real estate advertisements can subtly sway how a property's value is perceived, influencing buyer decisions.
+  - Agents employ tactics such as withholding crucial property history or structural details to ensure a successful sale.
+  - Misleading visual representations and staging techniques are utilized to enhance property appeal.
+  - Timed listing placements and price adjustments are orchestrated to induce buyer urgency and a perception of value.
+- Discrimination and Preferences in Online Dating
+  - Online dating offers insights into individuals' preferences and biases, shedding light on societal norms.
+  - Preferences align with gender stereotypes; men prioritize appearance, women value income, and race and occupation play roles.
+  - Online dating platforms provide a unique window into studying romantic biases and societal preconceptions.
+  - Patterns observed in data reinforce existing beliefs about attraction, reflecting deeply ingrained stereotypes.
+  - Preferences extend beyond looks and income to include factors like race and specific job roles.
+- Inconsistent Preferences and Public Declarations
+  - In various contexts, people's public statements often diverge from their genuine preferences, revealing cognitive dissonance.
+  - Examples include instances like race preferences in dating and voters' claims in elections.
+  - The phenomenon of cognitive dissonance highlights the incongruity between outward statements and inner beliefs.
+  - To reduce internal conflict, individuals tend to rationalize their actions and convictions.
+  - This discrepancy is evident in personal relationships, commerce, politics, and even prevalent in matters like environmental concerns and consumer decisions.
+  - The intricate interplay between stated words and actual behavior underscores the multifaceted nature of human choices, influenced by societal pressures and internal tensions.
+- David Duke and Manipulation of Information
+  - David Duke, a white supremacist, manipulated information to advance his personal cause, exploiting both supporters and the broader public.
+  - His tactics included amassing a mailing list to further his political and financial interests, demonstrating the potency of information manipulation.
+  - Duke's manipulation extended to larger propaganda efforts, leveraging information to reinforce the biases and fears of his followers.
+  - By presenting distorted information as truth, he adeptly utilized selective messaging and framing techniques to bolster his extremist agenda.
+  - David Duke's case stands as a stark reminder of the potential consequences when information manipulation is used to fuel and promote dangerous ideologies.
+
+## Why Do Drug Dealers Still Live With Their Moms?
+- Crack Dealing as a Competitive Field
+  - The Black Disciples gang exemplifies skewed income distribution, with top members earning the majority.
+  - The gang's structure mirrors capitalism, where higher positions yield higher wages.
+  - Gang wages resemble the income disparity seen in corporate America.
+  - Foot soldiers compare to low-wage workers, often holding legal jobs for extra income.
+  - Leaders prioritize maintaining control and dominance to prevent subordinates from challenging their position.
+- Harsh Realities of Crack Dealing
+  - Crack dealing involves terrible job conditions, including standing on the street corner all day.
+  - Foot soldiers face constant risks of arrest, violence, and death.
+  - An adverse-events index shows the bleak reality: multiple arrests, wounds, and a 1-in-4 chance of being killed.
+  - The danger of crack dealing surpasses even the most dangerous legal jobs in the US.
+  - Despite the dangers, individuals are attracted by the allure of success and potential rewards.
+- Economic Factors in Crack Dealing
+  - The crack dealing economy operates as a tournament, with competition to reach the top.
+  - Incentives and specialized skills play roles in determining wages.
+  - The unique dynamics of glamour professions, where individuals vie for recognition and success.
+  - Comparing prostitution's higher earnings to architecture, influenced by supply, demand, and specialization.
+  - Scarce supply of potential prostitutes leads to higher wages despite the nature of the work.
+- Rise of Crack Cocaine
+  - Crack cocaine's introduction mirrored the introduction of nylon stockings, both offering mass appeal.
+  - The cocaine market transformed with the invention of crack, providing a more affordable high.
+  - Colombian cocaine influx and connections with street gangs fueled the crack epidemic.
+  - The commercialization of street gangs occurred due to crack's profitability and the decline of traditional jobs.
+  - The rise of crack resulted in negative societal impacts on infant mortality, education, and crime rates.
+- Unintended Consequences of Crack
+  - The crack epidemic exacerbated urban crime rates, leading to increased violence.
+  - Despite predictions of a youth violence "bloodbath," crime rates began to fall.
+  - Oscar Danilo Blandon's actions may have triggered a ripple effect of despair.
+  - A counter ripple effect, not widely recognized, contributed to the decline in crime rates.
+  - The complex interplay of factors shapes the consequences of crack's emergence.
+
+## Where Have All the Criminals Gone?
+- Tougher Gun Laws and Crime
+  - Debates on gun laws are polarized, with advocates and opponents taking opposing stances.
+  - Guns raise complex issues based on who wields them; they disrupt the natural order by changing power dynamics in conflicts.
+  - The introduction of guns can escalate violence, especially in situations where one party is armed and the other is not.
+  - Gun availability in the United States is high, contributing to a greater proportion of homicides involving guns.
+  - Research suggests a link between gun availability and higher homicide rates in the U.S.
+  - Switzerland's high gun ownership doesn't lead to crime, implying that guns themselves don't cause crime.
+  - Gun-control laws like the Brady Act and local initiatives have shown limited effectiveness in reducing crime.
+  - The idea of "more guns, less crime" suggests that law-abiding citizens carrying guns may deter criminals, but this theory is debated.
+- Changes in Drug Markets and Crime
+  - The rise of crack cocaine led to a surge in violent crime in the 1980s.
+  - The crack market's violence involved territorial disputes and conflict among dealers.
+  - The violence related to crack cocaine began to decrease around 1991 due to changes in the market.
+  - The price of cocaine fell, profits declined, and younger dealers no longer found it worth the risk.
+  - The decrease in crack-related violence accounted for a portion of the overall crime drop in the 1990s.
+- Demographic Trends and Crime
+  - The aging of the population was suggested as a possible explanation for the crime drop.
+  - Demographic data indicated that the elderly are less likely to engage in criminal activities.
+  - However, the aging population alone couldn't explain the sudden decline in crime rates.
+  - The impact of legalized abortion on crime reduction is explored as a significant factor.
+  - Early-legalizing states experienced crime drops earlier, and a correlation exists between abortion rates and crime rates.
+  - Studies in Australia and Canada also show a link between legalized abortion and reduced crime rates.
+  - The reduction in crime due to abortion is an unintended benefit, raising moral and ethical questions.
+  - Economists suggest that the trade-off between abortion and crime reduction may be inefficient and thought-provoking.
+- Moral and Ethical Considerations
+  - The value of a fetus versus a newborn is debated based on various perspectives.
+  - People with strong pro-life or pro-choice beliefs have differing opinions on the value of fetuses.
+  - A hypothetical calculation is presented, considering a value ratio of newborns to fetuses.
+  - The number of abortions and the equivalent loss of human lives are explored.
+  - The link between abortion and crime suggests that women make informed decisions about raising children.
+  - Once a child is born, questions arise about what parents are supposed to do to support their upbringing.
+
+## What Makes a Perfect Parent?
+- Parenting and Education Factors:
+  - Income gap between black and white adults is largely attributed to a black-white education gap.
+  - Reducing the black-white test score gap is crucial for promoting racial equality.
+  - Various factors contribute to the black-white test gap, including poverty, genetic makeup, summer setback, racial bias, and cultural influences.
+  - The "Acting White" phenomenon can create disincentives for black students to excel academically.
+  - Roland G. Fryer Jr.'s study explores the impact of "acting white" on educational choices.
+- Understanding School Performance Factors:
+  - The Early Childhood Longitudinal Study (ECLS) investigates the academic progress of children from kindergarten to fifth grade.
+  - Regression analysis helps identify correlations between variables in complex data.
+  - The ECLS data reveal insights into factors affecting early school years performance.
+  - The black-white test score gap is initially eliminated when controlling for parental income, education, and other factors.
+  - A child's school quality has a significant impact on academic progress.
+- Factors Correlated with Test Scores:
+  - Positive Correlation: Children with highly educated parents tend to perform well in school.
+  - Positive Correlation: Children from higher socioeconomic status families have better test scores.
+  - Positive Correlation: Older maternal age at the first child's birth often leads to better school performance.
+  - Negative Correlation: Low birthweight is associated with poorer academic outcomes.
+  - Positive Correlation: Children from homes where English is spoken perform better in school.
+  - Negative Correlation: Adopted children tend to have lower initial test scores.
+  - Positive Correlation: Parental involvement in the Parent-Teacher Association (PTA) is linked to better test scores.
+  - Positive Correlation: Having many books in the home is associated with higher academic achievement.
+- Factors with Limited Impact on Test Scores:
+  - Intact family structure does not significantly affect children's early academic performance.
+  - Moving to a better neighborhood does not lead to better school test scores.
+  - Maternal employment status between birth and kindergarten does not have a significant impact on academic outcomes.
+  - Attendance in Head Start, a federal preschool program, does not translate into better long-term test scores.
+  - Frequent visits to museums do not show a strong correlation with better academic performance.
+  - Regular spanking of children does not have a notable effect on test scores.
+  - Frequent television watching does not significantly impact early school test scores.
+  - Regular parental reading to children does not strongly correlate with improved early test scores.
+- Parental Influence and Importance:
+  - Parental attributes, such as education, socioeconomic status, and health, play a significant role in children's educational success.
+  - Parents' attributes and qualities influence children's academic outcomes more than specific techniques.
+  - Parenting techniques and practices matter less than the characteristics of the parents themselves.
+  - Overbearing parenting techniques can't overcome fundamental attributes of the parents.
+  - Adoption studies show that adoptive parents' advantages do not strongly impact initial test scores, but their influence becomes more pronounced as children become adults.
+
+## Perfect Parenting, Part II; Or: Would a Roshanda by Any Other Name Smell as Sweet?
+- Baby Naming Trends:
+  - Baby naming trends have evolved significantly over time, influenced by cultural shifts and socioeconomic factors.
+  - Names that signify high education and affluence are currently popular, often reflecting Hebrew and Irish traditions.
+  - Names tend to cycle in and out of popularity quickly, even among the most popular ones.
+  - The turnover rate of popular names is high, with some names disappearing and others replacing them rapidly.
+  - Names that were once popular among certain income levels can shift to become popular among a wider range of socioeconomic groups.
+- Diversity and Turnover of Names:
+  - The proliferation of names has led to increased diversity, even among the most popular names.
+  - Comparing the top names from different years reveals how quickly names can rise and fall in popularity.
+  - A significant shift is observed in popular black boy names over a decade, highlighting diversity in naming choices.
+  - Popular white girl names from 1960 have entirely disappeared from the top ten by 2000.
+  - Even when comparing popular white girl names from 1980 to 2000, only one name remains in the top ten.
+- Factors Influencing Naming Trends:
+  - Naming trends are not solely driven by celebrities; their impact on names is relatively weak.
+  - Popularity of certain names is often driven by higher-income, highly educated parents.
+  - High-end names tend to trickle down to lower socioeconomic levels over time.
+  - Parents are inclined to choose names that sound "successful" and may be influenced by the choices of higher-status families.
+  - Once a name becomes too common, even lower-end parents might avoid using it, causing it to fall out of favor.
+- Predicting Future High-End Names:
+  - New high-end names are likely to come from less common, smart-sounding names.
+  - Some obscure names, including modern Hebrew names, might become popular in the future.
+  - The process of naming involves signaling parents' expectations of their children's success.
+  - A variety of motives, ranging from tradition to trendiness, influence parents' naming choices.
+  - The significance of a name may not impact a child's life significantly, but parents use names to convey their best intentions.
+
+## Epilogue: Two Paths to Harvard
+- Freakonomics and Its Approach:
+  - Freakonomics lacks a single "unifying theme" but does share a common thread in its application.
+  - The central idea involves sensibly understanding real-world human behavior through a unique perspective.
+  - This approach involves looking, discerning, and measuring with a novel perspective, not necessarily complex thinking.
+  - It doesn't require sophisticated thought; it's about identifying insights that individuals like gang members or sumo wrestlers often grasp on their own.
+  - This approach doesn't promise substantial material life improvement but leads to subtle changes in thinking.
+- Impact of Freakonomics-Style Thinking:
+  - The application of Freakonomics-style thinking can lead to skepticism of conventional wisdom.
+  - It encourages seeking out hints that challenge apparent truths, often involving data analysis.
+  - A balance between intelligence and intuition can spark new ideas and perspectives.
+  - Some ideas may be uncomfortable or unpopular, as they challenge established beliefs.
+  - This thinking isn't tied to morality but represents the actual world, rather than an ideal world.
+- Questioning and Data-Driven Insights:
+  - Reading Freakonomics often prompts asking numerous questions, many of which may not yield significant results.
+  - Some questions, however, can lead to interesting and surprising answers.
+  - An example is the question of how much parents truly matter in a child's success.
+  - Data reveals that parents influence some aspects significantly and have no impact on others.
+  - Despite efforts, a random effect plays a considerable role in outcomes.
+- Parenting and Random Effects:
+  - Parents strive to help their children succeed, even if it means giving them a high-end first name.
+  - However, a significant random effect can override even the best parenting efforts.
+  - Instances exist where intelligent and devoted parents have a child who faces challenges.
+  - Conversely, children can succeed despite challenging parental circumstances.
+  - A comparison of two boys illustrates this: one became a Harvard economist studying underachievement, the other became infamous as Ted Kaczynski.
