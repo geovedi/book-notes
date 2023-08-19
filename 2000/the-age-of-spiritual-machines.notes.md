@@ -412,11 +412,11 @@ Author: Ray Kurzweil
   - Discussion about bioengineering's potential risks and the power of technologies in the 21st century.
   - Mention of nanopathogens, nanotechnology, and cautious manufacturing techniques.
 - Turing Test and Virtual Assistant Interaction:
-  - Narrator's role as a Turing Test judge, evaluating the performance of a computer named Sheila.
+  - Ray's role as a Turing Test judge, evaluating the performance of a computer named Sheila.
   - Personal experiences and interactions with George, the male virtual assistant.
   - Reflections on gender preferences in virtual personalities and subsequent developments.
 - Future Plans and Communication:
-  - Mention of plans to deliver a lecture based on the narrator's experience as a Turing Test judge.
+  - Mention of plans to deliver a lecture based on Ray's experience as a Turing Test judge.
   - Discussion about future communication with the virtual assistant.
 
 ### 2029

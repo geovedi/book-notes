@@ -1943,31 +1943,31 @@ Author: Ryan Holiday
 
 ## Afterword
 - Confronting Moral Dilemmas
-  - CEO Dov Charney asked the author to leak revenge porn; the author refused.
+  - CEO Dov Charney asked Ryan to leak revenge porn; Ryan refused.
   - The choice not to participate seemed morally courageous at the time.
-  - Author questions the sufficiency of this decision over time.
+  - Ryan questions the sufficiency of this decision over time.
 - Internal Conflict and Compromise
-  - Despite refusing, author questions why they didn't quit or take a stronger stand.
+  - Despite refusing, Ryan questions why they didn't quit or take a stronger stand.
   - Moral quandaries persisted during their time at American Apparel.
   - Stayed due to wanting to protect colleagues, believing in the company's mission, and personal fears.
 - Realizations and Consequences
   - Realizes hesitating compromised their integrity and placed safety over what was right.
   - Maintained advisory role at the company, trying to steer decisions ethically.
-  - Despite contributing positively, author acknowledges complicity in company's problems.
+  - Despite contributing positively, Ryan acknowledges complicity in company's problems.
 - Challenges and Change
   - Company's decline due to CEO's erratic behavior.
-  - Author's discussions with the board about CEO's removal.
-  - Eventually, CEO was fired, but author questions their role in the timing.
+  - Ryan's discussions with the board about CEO's removal.
+  - Eventually, CEO was fired, but Ryan questions their role in the timing.
 - Transition and Rebuilding
-  - Author transitions to writing, maintaining involvement with American Apparel.
-  - Tensions escalate, leading author to advocate CEO's removal.
-  - CEO's return to the company's fold under pressure leads author to quit.
+  - Ryan transitions to writing, maintaining involvement with American Apparel.
+  - Tensions escalate, leading Ryan to advocate CEO's removal.
+  - CEO's return to the company's fold under pressure leads Ryan to quit.
 - Confronting Fear and Threats
-  - Author faces death threats and intimidation due to their writing.
+  - Ryan faces death threats and intimidation due to their writing.
   - Reflects on how fear can inhibit action and authenticity.
-  - Despite challenges, author realizes the importance of staying true to one's convictions.
+  - Despite challenges, Ryan realizes the importance of staying true to one's convictions.
 - Prioritizing Truth and Courage
-  - Author's experience at American Apparel teaches the importance of listening to one's inner voice.
+  - Ryan's experience at American Apparel teaches the importance of listening to one's inner voice.
   - Embracing courage, even when it leads to hardship or backlash.
   - Recognizing that standing up for truth might lead to consequences, but it's essential.
 - Everyday Courage

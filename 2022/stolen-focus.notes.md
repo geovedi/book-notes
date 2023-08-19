@@ -4,21 +4,21 @@ Author: Johann Hari
 
 ## Introduction: Walking in Memphis
 - Introduction:
-  - The author's godson developed a strong obsession with Elvis Presley as a child.
-  - The godson's struggle with attention and focus, amidst the distractions of modern technology, prompted the author's exploration of the attention crisis.
+  - Hari's godson developed a strong obsession with Elvis Presley as a child.
+  - The godson's struggle with attention and focus, amidst the distractions of modern technology, prompted Hari's exploration of the attention crisis.
 - Obsession with Elvis:
   - The godson's intense fascination with Elvis Presley, singing and imitating him with sincerity, unaware of the comedic aspect.
 - Promise to Visit Graceland:
   - The godson's request to visit Graceland, Elvis Presley's mansion.
-  - The author's agreement to take him to Graceland without much thought.
+  - Hari's agreement to take him to Graceland without much thought.
 - Growing Attention Crisis:
   - A decade later, the godson, named Adam, is consumed by digital distractions, struggling with focus.
   - Adam's constant phone usage and lack of sustained attention raise concerns about his ability to engage with the world.
 - Attention Crisis in Society:
-  - The author observes a broader problem affecting society: declining attention spans and difficulty focusing.
+  - Hari observes a broader problem affecting society: declining attention spans and difficulty focusing.
   - The impact of distractions on individuals and society, leading to difficulties in problem-solving and democracy.
 - Reasons Behind Attention Crisis:
-  - The author interviews experts to understand the root causes of the attention crisis.
+  - Hari interviews experts to understand the root causes of the attention crisis.
   - Mention of various factors affecting attention, including digital technology and societal changes.
 - Attention as a Limited Resource:
   - Attention is likened to a limited resource, and its depletion can hinder individual accomplishments and goals.
@@ -27,16 +27,16 @@ Author: Johann Hari
   - Democracy's effectiveness relies on people's ability to pay attention, analyze issues, and hold leaders accountable.
 - Need for Collective Action:
   - While personal responsibility is important, systemic issues require collective solutions.
-  - The author emphasizes the need to address larger factors causing the attention crisis.
+  - Hari emphasizes the need to address larger factors causing the attention crisis.
 - Hope for Change:
-  - The author believes that understanding the problem is the first step toward solving it.
+  - Hari believes that understanding the problem is the first step toward solving it.
   - Change is possible through collective effort and reevaluating societal structures.
 
 ## Cause One: The Increase in Speed, Switching and Filtering
 - Introduction:
   - Multitasking is a concept that originated from computer science, referring to the ability of machines to perform multiple tasks simultaneously.
   - People have adopted the idea of multitasking for themselves, believing they can effectively handle several tasks at once.
-  - The author initially disagreed with the notion that humans can't multitask effectively.
+  - Hari initially disagreed with the notion that humans can't multitask effectively.
 - The Illusion of Multitasking:
   - Research suggests that the human brain doesn't truly multitask but switches rapidly between tasks, leading to decreased focus and performance.
   - Switching between tasks incurs a "switch cost effect," slowing down performance and making people less efficient.
@@ -87,7 +87,7 @@ Author: Johann Hari
   - Relief from distraction through rest is insufficient; a positive goal is needed.
 - Achieving Flow in Practice:
   - Flow involves replacing distractions with sources of engagement.
-  - Personal experience of author's journey to find flow.
+  - Personal experience of Hari's journey to find flow.
   - Flow leads to improved focus, relaxation, and openness.
   - Flow can be integrated into everyday life for everyone.
 - Reflections on Flow and Life:
@@ -126,24 +126,24 @@ Author: Johann Hari
   - Many solutions seem obvious, such as slowing down and prioritizing sleep, but society is moving in the opposite direction.
   - Understanding the forces behind this gap is essential to addressing the issue.
 - Uncovering the Causes of the Gap:
-  - The author embarks on a journey to understand the forces that hinder people from adopting beneficial practices.
+  - Hari embarks on a journey to understand the forces that hinder people from adopting beneficial practices.
   - Investigating the societal, psychological, and cultural factors that contribute to the paradox.
 
 ## Cause Four: The Collapse of Sustained Reading
 - Introduction
-  - The author discusses Tim's Used Books in Provincetown, where the allure of old books and the unique atmosphere is described.
-  - The author talks about a conversation with a young woman at the bookstore who could only read the first chapter or two of a book due to an inability to focus.
+  - Hari discusses Tim's Used Books in Provincetown, where the allure of old books and the unique atmosphere is described.
+  - Hari talks about a conversation with a young woman at the bookstore who could only read the first chapter or two of a book due to an inability to focus.
   - The decline in reading for pleasure among Americans is highlighted, with statistics showing a drop in reading frequency over the years.
 - Impact of Distractions on Reading
-  - The author explores the decrease in Americans' reading time and the rise of digital distractions, such as online conversations and smartphones.
+  - Hari explores the decrease in Americans' reading time and the rise of digital distractions, such as online conversations and smartphones.
   - Complex literary fiction is particularly affected, with fewer Americans reading for pleasure.
   - Similar trends are observed in Britain and other countries, with a decline in the market for novels.
 - Flow and Deep Focus in Reading
   - The concept of flow in reading is discussed, where reading is considered a form of focus that is being undermined by constant distractions.
   - Reading a book allows for deep focus and immersion, providing a medium for understanding complex ideas.
-  - The author reflects on a personal experience of deeper reading immersion while in Provincetown.
+  - Hari reflects on a personal experience of deeper reading immersion while in Provincetown.
 - Influence of Technology on Reading Habits
-  - The author recalls "The Shallows" by Nicholas Carr, discussing how the migration to the internet affects reading patterns.
+  - Hari recalls "The Shallows" by Nicholas Carr, discussing how the migration to the internet affects reading patterns.
   - Different reading behaviors emerge when reading from screens compared to reading from printed books.
   - The transformation in reading habits affects the way people engage with texts and influences cognitive abilities.
 - McLuhan's Theory on Medium and Message
@@ -191,7 +191,7 @@ Author: Johann Hari
   - Social media engagement can lead to shallower interactions and loss of complexity and compassion.
 - Struggles and Insights:
   - Maintaining lessons from Provincetown can be difficult in the face of digital temptations.
-  - The author struggled with maintaining pre-commitment and fell back into digital distractions.
+  - Hari struggled with maintaining pre-commitment and fell back into digital distractions.
   - The realization that something larger was affecting focus led to introspection.
 - Complex Nature of Attention:
   - Attention and focus are complex phenomena with multiple facets.
@@ -297,7 +297,7 @@ Author: Johann Hari
 
 ## The First Glimpses of the Deeper Solution
 - Introduction and Urgent Questions
-  - The author ponders the impact of technology on attention and focus.
+  - Hari ponders the impact of technology on attention and focus.
   - Two questions arise: How to prevent technology from harming attention? How to make corporations introduce changes?
 - Proposed Solutions
   - Suggests changes to invasive tech to prevent harm to attention and focus.
@@ -328,7 +328,7 @@ Author: Johann Hari
 
 ## Cause Eight: The Surge in Stress and How It Is Triggering Vigilance
 - Introduction: The Impact of Attention Problems and Stress
-  - The author initially attributed attention problems to internet and cellphone usage.
+  - Hari initially attributed attention problems to internet and cellphone usage.
   - Realized that the business model behind tech and societal vulnerabilities play a role.
   - Commissioned a scientific opinion poll on attention issues in the US and Britain.
   - Discovered that stress and life circumstances were more prominent factors than phones.

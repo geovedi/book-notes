@@ -9,7 +9,7 @@ Author: Oliver Burkeman
 - Brevity of Life and Philosophical Reflections
   - Human existence's central problem is the brevity of life.
   - Philosophers throughout history, like Seneca, have pondered this problem.
-  - The author uses the concept of "four thousand weeks" to highlight life's shortness.
+  - Burkeman uses the concept of "four thousand weeks" to highlight life's shortness.
 - Modern Views on Time Management
   - Modern time management focuses on productivity, work tasks, routines, and efficiency.
   - Lack of consideration for experiencing wonder, engaging with society, and environmental concerns.

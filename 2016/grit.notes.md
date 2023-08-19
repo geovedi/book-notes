@@ -18,7 +18,7 @@ Author: Angela Duckworth
   - Grittier individuals tend to persevere, consistently working hard and maintaining a strong sense of direction despite setbacks and challenges.
 - Grit vs. Talent
   - Grit and talent are distinct qualities, with grit often prevailing over talent in determining success in demanding situations.
-  - The author's research revealed that at West Point, the highest Whole Candidate Scores did not ensure success, as both high and low scorers dropped out.
+  - Angela's research revealed that at West Point, the highest Whole Candidate Scores did not ensure success, as both high and low scorers dropped out.
   - Grit was found to be an even more reliable predictor of success in comparison to other traits like intelligence, extroversion, emotional stability, and conscientiousness.
   - The concept of grit extends beyond West Point, affecting success in fields such as sales, education, and the military, as well as being present in various personal pursuits.
 
@@ -32,7 +32,7 @@ Author: Angela Duckworth
   - Scott Barry Kaufman's journey from being labeled a slow learner to discovering his potential illustrates the power of effort and determination.
   - The negative consequences of segregating "gifted" and "non-gifted" individuals from an early age and relying solely on IQ scores are evident.
 - Shifting the Focus: Talent vs. Effort
-  - The stories of Scott and the author's personal experiences demonstrate the flaws in measuring and valuing talent.
+  - The stories of Scott and Angela's personal experiences demonstrate the flaws in measuring and valuing talent.
   - Tests of talent and grit, though imperfect, should not overshadow the significance of effort.
   - The need to reevaluate the emphasis on talent and acknowledge that effort plays a pivotal role in personal and professional growth.
 
@@ -121,10 +121,10 @@ Author: Angela Duckworth
 
 ### Purpose
 - Discovering Purpose Through Experiences
-  - The author recalls their transformative experience in college when they stumbled upon a program called Summerbridge that aimed to teach middle school students from disadvantaged backgrounds during summer.
-  - Initially, the author's involvement seemed like a simple teaching opportunity, but it turned out to be a life-changing encounter that highlighted the potential impact of a teacher-student connection.
-  - Reflecting on the summer, the author realized that their purpose was not just to teach, but to make a significant difference in the lives of young learners.
-  - The story emphasizes how the author and a colleague's dedication to starting the Summerbridge program was fueled by their deep sense of purpose, despite initial challenges and lack of resources.
+  - Angela recalls their transformative experience in college when they stumbled upon a program called Summerbridge that aimed to teach middle school students from disadvantaged backgrounds during summer.
+  - Initially, Angela's involvement seemed like a simple teaching opportunity, but it turned out to be a life-changing encounter that highlighted the potential impact of a teacher-student connection.
+  - Reflecting on the summer, Angela realized that their purpose was not just to teach, but to make a significant difference in the lives of young learners.
+  - The story emphasizes how Angela and a colleague's dedication to starting the Summerbridge program was fueled by their deep sense of purpose, despite initial challenges and lack of resources.
 - The Intersection of Self-Oriented and Other-Oriented Motivations
   - The concept of "grit" and "purpose" is explored in relation to personal and prosocial motivations.
   - Grit, defined as perseverance and passion for long-term goals, is not necessarily opposed to caring for others.
@@ -200,7 +200,7 @@ Author: Angela Duckworth
   - The rule underscores the importance of personal choice in selecting a hard thing aligned with one's interests.
 - Long-Term Commitment and Growth in Grit:
   - The Hard Thing Rule evolves as children grow, transitioning into a requirement for committing to at least one activity for an extended period, fostering long-term grit development.
-  - The perspective of Lucy and Amanda, the author's daughters, reflects the desire to become grittier as they age and the recognition that grit is a skill requiring practice.
+  - The perspective of Lucy and Amanda, Angela's daughters, reflects the desire to become grittier as they age and the recognition that grit is a skill requiring practice.
 
 ### A Culture of Grit
 - Introduction
@@ -232,7 +232,7 @@ Author: Angela Duckworth
 - Introduction to Grit and its Importance
   - The book emphasizes the significance of grit in achieving one's potential.
   - Grit is defined as passion and perseverance towards long-term goals, surpassing the distraction of talent obsession.
-  - The author's intention in writing the book is to share the value of grit and its role in success.
+  - Angela's intention in writing the book is to share the value of grit and its role in success.
 - Growing Grit: Inward and Outward Paths
   - Grit can be developed both "from the inside out" and "from the outside in."
   - Individuals can cultivate grit by nurturing interests, practicing challenges that exceed skills, connecting work to a larger purpose, and maintaining hope.

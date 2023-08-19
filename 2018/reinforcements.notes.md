@@ -100,8 +100,8 @@ Author: Heidi Grant
 
 ### The Inherent Paradox in Asking for Help
 - Introduction: A Personal Experience with Help
-  - Author's experience helping a friend assemble an IKEA bookshelf.
-  - Despite personal reluctance, the author eagerly agrees to help.
+  - Heidi's experience helping a friend assemble an IKEA bookshelf.
+  - Despite personal reluctance, Heidi eagerly agrees to help.
   - The friend's gratitude triggers thoughts about the nature of being helpful.
 - Four Possible Responses to a Request for Help
   - People's reactions to requests for help: "No," Silence, Grudging Yes, Enthusiastic Yes.
@@ -318,7 +318,7 @@ Author: Heidi Grant
   - The desire to feel effective shapes choices, actions, and overall well-being.
   - Helping others and seeing the impact boosts feelings of effectiveness and satisfaction.
 - Personal Reflection and Encouragement:
-  - The author reflects on their own struggles with seeking help.
+  - Heidi reflects on their own struggles with seeking help.
   - People's fears about asking for help are often unfounded.
   - Asking for help provides an opportunity for others to feel good about themselves.
   - Encouragement is given to embrace the lessons and seek help together.

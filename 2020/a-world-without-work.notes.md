@@ -41,7 +41,7 @@ Author: Daniel Susskind
   - Strategies to counter the political power of Big Tech.
   - Navigating the challenge of finding meaning in a world with less work.
 - Personal Journey and Optimism
-  - The author's personal journey and background on the topic.
+  - Susskind's personal journey and background on the topic.
   - Technological progress solving the historical problem of economic scarcity.
   - Optimism about shaping a future where everyone can flourish despite technological changes.
 - Conclusion
@@ -113,7 +113,7 @@ Author: Daniel Susskind
   - Shaping public perception of automation's effects on jobs.
   - Optimistic assumption about the sustainability of labor demand.
 - Critique and Transition to Future Discussion:
-  - The author's skepticism regarding the sustainability of the optimistic assumption.
+  - Susskind's skepticism regarding the sustainability of the optimistic assumption.
   - Anticipation of a discussion on changes in technology and artificial intelligence.
 
 ### The Pragmatist Revolution

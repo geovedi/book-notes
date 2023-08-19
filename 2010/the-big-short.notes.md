@@ -327,9 +327,9 @@ Author: Michael Lewis
 
 ## Everything Is Correlated
 - Perceptions and Realities of Wall Street Culture:
-  - The author reflects on sitting in a restaurant, contemplating the juxtaposition of two men seated together yet disconnected.
+  - Lewis reflects on sitting in a restaurant, contemplating the juxtaposition of two men seated together yet disconnected.
   - During the publication of his book about the financial 1980s, the social disruption caused by the collapse of the savings and loan industry and the rise of hostile takeovers had given way to a brief period of scrutiny.
-  - The author's book was interpreted by many as a whistleblowing account amid the anti-Wall Street sentiment.
+  - Lewis's book was interpreted by many as a whistleblowing account amid the anti-Wall Street sentiment.
   - The crisis led to Rudolph Giuliani's political rise, but the reckoning felt more like a witch hunt rather than a true reassessment of the financial system.
   - Despite the fall of key figures like Michael Milken and Gutfreund, the underlying issues were not addressed, and the Wall Street trading culture was superficially cleaned up.
 - Evolution of Wall Street and the Financial Crisis:
@@ -348,7 +348,7 @@ Author: Michael Lewis
   - The Wall Street firms' financial risk became difficult to quantify due to the complexity of credit default swaps (CDS) and derivatives.
   - The failure of a major bank like Citigroup could trigger a massive payout of unknown proportions through credit default swaps.
   - The partnership-to-corporation shift turned banks into speculative objects, emphasizing side bets rather than social and economic relevance.
-  - The author engages in a conversation with John Gutfreund, the former Salomon Brothers CEO, reflecting on the pivotal decision to go public.
+  - Lewis engages in a conversation with John Gutfreund, the former Salomon Brothers CEO, reflecting on the pivotal decision to go public.
 - Gutfreund's Influence and Legacy:
   - Gutfreund's decision to make Salomon Brothers a public corporation in 1981 signaled the beginning of Wall Street's transformation.
   - The conversion transferred financial risk to shareholders and laid the groundwork for the financial system's dysfunction.
@@ -359,5 +359,5 @@ Author: Michael Lewis
   - Eisman's frustration with the financial industry's discrediting and subsequent enrichment using government interventions reflects the ongoing dysfunction.
   - The 2008 crisis was more complex than a simple panic; it highlighted the collapse of major Wall Street firms and the widespread losses.
   - The transformation of Wall Street over the decades contributed to a flawed system that favored speculation over real economic value.
-  - The author's encounter with Gutfreund prompts reflection on the changes and complexity of the financial world.
+  - Lewis's encounter with Gutfreund prompts reflection on the changes and complexity of the financial world.
   - The article ends with a metaphorical observation on the appeal of gaining something for nothing, echoing the themes of Wall Street's incentives and consequences.

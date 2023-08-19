@@ -146,13 +146,13 @@ Author: Hadley Vlahos
   - Hadley recalls her first meeting with Chris's parents and her worries as a single mother.
 - Interactions and Realizations:
   - Hadley's relationship with Chris's family evolves positively over time.
-  - The narrator realizes that judgments and fears are often unfounded.
+  - Hadley realizes that judgments and fears are often unfounded.
   - Babette's illness lingers, creating an underlying sense of impending loss.
 - Hospital Experience:
   - Babette is admitted to the emergency room due to a health concern.
   - Hadley witnesses a nurse, Theresa, showing indifference toward a cancer patient.
   - Hadley reflects on her previous complacency when working with Theresa.
-  - The narrator feels the weight of emotional attachment to patients.
+  - Hadley feels the weight of emotional attachment to patients.
 - Ms. Sandra's Journey Continues:
   - Ms. Sandra's condition improves after proper pain management.
   - Her quality of life improves, and she shares her story with Hadley.

@@ -4,19 +4,19 @@ Author: Charles Duhigg
 
 ## Introduction
 - Introduction to Productivity and Personal Experience:
-  - Introduction to the author's journey into exploring productivity in the summer of 2011.
-  - Describes the author's hectic life juggling book writing, a full-time working wife, and two children.
-  - Highlights the contrast between the author's busy life and the seemingly effortless productivity of Atul Gawande, a successful surgeon, writer, and educator.
+  - Introduction to Duhigg's journey into exploring productivity in the summer of 2011.
+  - Describes Duhigg's hectic life juggling book writing, a full-time working wife, and two children.
+  - Highlights the contrast between Duhigg's busy life and the seemingly effortless productivity of Atul Gawande, a successful surgeon, writer, and educator.
   - Defines productivity as optimizing energy, intellect, and time for meaningful rewards without excessive stress.
 - Atul Gawande's Example:
   - Atul Gawande as a successful and multifaceted individual, excelling in medicine, writing, teaching, and philanthropy.
-  - The author's attempt to contact Gawande for insights on productivity.
+  - Duhigg's attempt to contact Gawande for insights on productivity.
   - Gawande's initial unavailability due to his commitments and personal life.
 - Realization and Seeking Answers:
-  - Author's realization that he is overworked, contrasting his nonstop schedule with Gawande's balanced life.
-  - Recognition that there are people who know how to be more productive, prompting the author's quest for their secrets.
+  - Duhigg's realization that he is overworked, contrasting his nonstop schedule with Gawande's balanced life.
+  - Recognition that there are people who know how to be more productive, prompting Duhigg's quest for their secrets.
 - The Journey of Investigation:
-  - Author's pursuit of knowledge through interactions with neurologists, businesspeople, psychologists, and various productivity experts.
+  - Duhigg's pursuit of knowledge through interactions with neurologists, businesspeople, psychologists, and various productivity experts.
   - Examples of different successful entities, such as Disney's filmmakers, Google's data scientists, Saturday Night Live's writers, and FBI agents, who share productivity insights.
   - Observation of recurring key concepts and ideas during these conversations.
 - Eight Core Ideas of Productivity:

@@ -11,7 +11,7 @@ Author: Edmond Lau
   - The pivotal concept introduced in Chapter 1 is "leverage."
 
 - The Pursuit of Enhanced Effectiveness:
-  - The author's professional journey encompasses startups and renowned tech giants such as Microsoft and Google.
+  - Lau's professional journey encompasses startups and renowned tech giants such as Microsoft and Google.
   - The initial phase of the career was marked by exhaustive work hours, rapid growth, and emotional fluctuations.
   - This period prompted contemplation: Is extensive work the cornerstone of startup triumph?
   - Lessons derived from experiences and setbacks prompted a reevaluation of the belief that long hours automatically lead to success.

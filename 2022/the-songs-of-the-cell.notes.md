@@ -17,7 +17,7 @@ Author: Siddhartha Mukherjee
   - They highlighted that living beings are aggregates of individualized independent cells.
   - Their insights extended beyond the recognition of cells; they proposed a deep unity of organization and function in living organisms.
 - Thematic Link to Modern Articles:
-  - The author wrote three articles about cellular medicine, cancer ecology, and viral behavior.
+  - Mukherjee wrote three articles about cellular medicine, cancer ecology, and viral behavior.
   - These articles centered on cells and cellular reengineering, hinting at an unfolding revolution in biology and medicine.
 - The Unwritten History of Cells:
   - The book chronicles the history of cells, from their discovery in the 1660s to present advancements.
@@ -25,15 +25,15 @@ Author: Siddhartha Mukherjee
   - Scientists are pushing boundaries by gene editing embryos and using cell transplantation for augmentation.
 - Purpose and Scope of the Book:
   - The book isn't a comprehensive history but focuses on how the concept of cells and cellular physiology impacted medicine, science, and culture.
-  - The author envisions a future where cellular manipulation leads to new forms and synthetic versions of cells and human parts.
+  - Mukherjee envisions a future where cellular manipulation leads to new forms and synthetic versions of cells and human parts.
 - Acknowledging Limitations and Gratitude:
-  - The author acknowledges that the story of cell biology is vast and interconnected with various fields.
+  - Mukherjee acknowledges that the story of cell biology is vast and interconnected with various fields.
   - The passage includes footnotes and endnotes to provide additional information.
-  - The author expresses gratitude to patients who participated in scientific endeavors and excitement for the emergence of cell biology in medicine.
+  - Mukherjee expresses gratitude to patients who participated in scientific endeavors and excitement for the emergence of cell biology in medicine.
 
 ## Introduction: "We Shall Always Return to the Cell"
 - Introduction
-  - The author, a cell biologist, reflects on their fascination with the world of cells and their role in both scientific and personal aspects of life.
+  - Mukherjee, a cell biologist, reflects on their fascination with the world of cells and their role in both scientific and personal aspects of life.
   - Describes writing during the Covid-19 pandemic, witnessing its impact on New York and the world.
 - Pandemic and Cells
   - Recounts the overwhelming effects of the pandemic on hospitals, cities, and countries.
@@ -47,13 +47,13 @@ Author: Siddhartha Mukherjee
 - Medical Quest and Structure
   - Describes the protagonists' aim to seek cellular therapies and rebuild humans using cellular technology.
   - Outlines the book's unique structure, with each part exploring a fundamental property of complex beings and associated cellular technology.
-  - Emphasizes the interweaving of history, personal history, physiology, pathology, and the author's growth as a scientist.
+  - Emphasizes the interweaving of history, personal history, physiology, pathology, and Mukherjee's growth as a scientist.
 - Dedication and Inspiration
   - Introduces Rudolf Virchow as an inspiration for promoting free thinking and advancing cellular pathology understanding.
   - Explains the book's dedication to patients like Emily Whitehead, pioneers in using cellular therapy to transform cellular pathology into medicine.
 - RNA's Role and Neurobiology
   - Discusses the multifaceted roles of RNA beyond protein coding, including regulation and unknown tasks.
-  - Shares the author's experience in neurobiology, focusing on glial cells and lineage tracing with Connie Cepko at Harvard Medical School.
+  - Shares Mukherjee's experience in neurobiology, focusing on glial cells and lineage tracing with Connie Cepko at Harvard Medical School.
 
 ## Part One: Discovery
 - Shared Human Features
@@ -519,7 +519,7 @@ Author: Siddhartha Mukherjee
 - Introduction:
   - The COVID-19 pandemic struck the world unexpectedly, causing widespread devastation.
   - Initial confidence in understanding immunity and cell biology was shaken by the virus's unique behavior.
-  - The author reflects on the pandemic's impact on global health and society.
+  - Mukherjee reflects on the pandemic's impact on global health and society.
 - Early Understanding of Immunity:
   - In 2018, breakthroughs in understanding immunity were celebrated, with expectations of better cancer treatments.
   - The immune system was seen as a complex yet knowable machine with potential for manipulation.
@@ -532,7 +532,7 @@ Author: Siddhartha Mukherjee
 - Personal Impact and Emotional Toll:
   - The pandemic left indelible images of tragedy, including mass graves, overwhelmed hospitals, and exhausted healthcare workers.
   - Emotional stories and personal experiences showcase the pandemic's human toll.
-  - The author mourns the loss of a friend's cousin and highlights the virus's unpredictability.
+  - Mukherjee mourns the loss of a friend's cousin and highlights the virus's unpredictability.
 - Cell Biology and the Pandemic:
   - SARS-CoV-2's behavior prompted intense scientific investigation into the immune system's response.
   - Notable discoveries were made about early presymptomatic infections and asymptomatic transmission.
@@ -564,15 +564,15 @@ Author: Siddhartha Mukherjee
   - The sudden appearance of crowds is a universal and mysterious phenomenon.
   - Elias Canetti's observations highlight the sudden emergence of crowds.
 - Personal Experience during the Pandemic:
-  - The author, a doctor, experienced a lack of motivation to write during the early days of the pandemic.
+  - Mukherjee, a doctor, experienced a lack of motivation to write during the early days of the pandemic.
   - Essential medical work continued during the pandemic, with the Cancer Center maintaining critical procedures.
-  - The collapse of infrastructure and homeostasis during the crisis was a focus of the author's thoughts.
+  - The collapse of infrastructure and homeostasis during the crisis was a focus of Mukherjee's thoughts.
 - Reflections on Medicine and Homeostasis:
-  - The author's frustration led to writing an essay discussing the collapse of self-regulating systems during the pandemic.
+  - Mukherjee's frustration led to writing an essay discussing the collapse of self-regulating systems during the pandemic.
   - Medicine is a complex system of processes and interactions rather than just a doctor with a black bag.
   - Turbulence exposed the sensitivity of self-regulating systems, mirroring the body's sensitivity during critical illness.
 - Turning to Normalcy and Restoration:
-  - The author's interest shifted from illness and battle metaphors to normalcy, restoration, and cellular systems.
+  - Mukherjee's interest shifted from illness and battle metaphors to normalcy, restoration, and cellular systems.
   - The heart symbolizes belonging and attachment, making it a fitting focus for exploration.
   - Human attachment and belonging are intricately linked to the heart as an organ.
 - The Heart's Central Role:

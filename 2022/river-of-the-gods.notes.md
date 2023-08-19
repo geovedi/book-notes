@@ -341,7 +341,7 @@ Author: Candice Millard
 ## An Old Enemy
 - Introduction
   - The challenges of an expedition in Africa are highlighted, with a focus on the difficulties posed by the men, donkeys, and unpredictable weather.
-  - The author describes the fierce nature of the donkeys and the struggles to manage their loads during the march.
+  - Millard describes the fierce nature of the donkeys and the struggles to manage their loads during the march.
   - The rugged terrain and extreme weather conditions add to the expedition's hardships.
 - Flora and Fauna
   - The expedition encounters diverse landscapes, including grasslands, jungles, and mountains.

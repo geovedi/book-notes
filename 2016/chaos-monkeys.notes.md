@@ -84,8 +84,8 @@ Author: Antonio Garcia-Martinez
   - The role of perceived respectability and identity in interactions with authorities.
 - Startup Happy Hour and Alcohol-Induced Events:
   - Description of Adchemy's weekly volatile happy hour tradition.
-  - The narrator's own experience with excessive drinking during happy hours.
-  - A detailed account of the narrator's drunken escapades during one such event.
+  - Antonio's own experience with excessive drinking during happy hours.
+  - A detailed account of Antonio's drunken escapades during one such event.
   - Impulsive actions, memory gaps, and interactions with colleagues.
 - Negotiating with the Police and Learning from Weak Positions:
   - Negotiating with the police officer to avoid being arrested.
@@ -107,8 +107,8 @@ Author: Antonio Garcia-Martinez
   - Introduction to real-time bidding (RTB) exchanges and their significance.
   - Comparison of RTB exchanges to stock exchanges.
   - Transformation in the media world similar to financial industry shifts.
-  - The narrator's involvement in building an RTB bidding engine for Adchemy.
-  - The experience's impact on the narrator's future work in the field.
+  - Antonio's involvement in building an RTB bidding engine for Adchemy.
+  - The experience's impact on Antonio's future work in the field.
 
 ### Knowing How to Swim
 - Introduction:
@@ -497,27 +497,27 @@ Author: Antonio Garcia-Martinez
   - Token agreements were signed, mainly reaffirming preexisting agreements.
   - A zipped codebase was sent to lawyers, possibly encrypted for amusement.
 - Personal Feelings and Experiences:
-  - The narrator reflects on strong negative feelings towards Murthy.
-  - The narrator anticipates witnessing Murthy's funeral.
+  - Antonio reflects on strong negative feelings towards Murthy.
+  - Antonio anticipates witnessing Murthy's funeral.
   - Adchemy's eventual downfall and acquisition after raising substantial capital.
   - Employees who invested in Adchemy lost their savings due to the company's failure.
   - Murthy's legacy in Silicon Valley remains tied to this chapter.
 - Transition and Relationships:
   - AdGrok's focus shifted towards a proper launch.
-  - The narrator's relationship with British Trader faced friction.
-  - The narrator's dissatisfaction with British Trader's behavior and role.
+  - Antonio's relationship with British Trader faced friction.
+  - Antonio's dissatisfaction with British Trader's behavior and role.
   - British Trader's brother was an officer in the British Army.
   - The household had distinct British customs and habits.
 - Changes in Personal Dynamics:
-  - British Trader's desire for control clashed with the narrator's independence.
-  - The narrator's decision to leave British Trader and move out.
+  - British Trader's desire for control clashed with Antonio's independence.
+  - Antonio's decision to leave British Trader and move out.
   - A period of mutual indulgence and passion after the breakup.
   - British Trader unexpectedly becomes pregnant after the breakup.
   - British Trader's decision to keep the child despite the breakup.
   - Speculation on whether the pregnancy was planned on British Trader's part.
   - Reflection on the complexity of personal relationships and schemes.
 - Impact on AdGrok and Risk Perception:
-  - The narrator's decision to withhold the pregnancy news from the AdGrok team.
+  - Antonio's decision to withhold the pregnancy news from the AdGrok team.
   - Considering the added risk of another child amidst startup uncertainties.
   - Accepting the situation as part of existing risk factors.
   - Comparing the redundancy in technology to redundancy in heredity.
@@ -531,13 +531,13 @@ Author: Antonio Garcia-Martinez
 - Challenges of Media Coverage and Launch:
   - Tech press prefers stories involving funding, failure, acquisitions, and scandals.
   - The metaphor of marketing being like sex, and losers paying for it.
-  - The narrator's repetitive interviews for media coverage.
+  - Antonio's repetitive interviews for media coverage.
   - Launch details being held under embargo for a coordinated release.
   - Scheduling the launch around journalist interviews.
 - Balancing Startup and Personal Life:
   - Zoë's first birthday coincided with the planned launch date.
   - The startup's priority took precedence over personal events.
-  - The narrator reflects on the trade-offs between startup commitments and personal moments.
+  - Antonio reflects on the trade-offs between startup commitments and personal moments.
 - Launch Experience and Challenges:
   - The launch led to new user sign-ups and customer support interactions.
   - Description of the startup's launch trajectory, often referred to as the "trough of despair."
@@ -1152,7 +1152,7 @@ Author: Antonio Garcia-Martinez
 - Symbolism of Preservation and Revolution:
   - The significance of the conference rooms' names inspired by countries that "tipped" to Facebook usage.
   - A reflection on the historical concept of the last area falling to revolutionary violence.
-  - The narrator's act of preserving a conference room sign ("SPAIN") as a memento of the transition.
+  - Antonio's act of preserving a conference room sign ("SPAIN") as a memento of the transition.
 - Artistic Expression and Chaos:
   - Facebook's penchant for office graffiti art, from past murals by artist David Choe to the new corporate campus's reception areas.
   - Mark Zuckerberg's unexpected announcement that employees would decorate the new campus themselves.
@@ -1173,7 +1173,7 @@ Author: Antonio Garcia-Martinez
 ### O Death
 - Lessons from History and Humility:
   - Reflection on a quote expressing the dread of a country's downfall even in moments of triumph.
-  - Drawing parallels between the quote's sentiment and the narrator's own country's potential fate.
+  - Drawing parallels between the quote's sentiment and Antonio's own country's potential fate.
   - The value of contemplating one's situation and the mutability of fortune during times of success.
 - Sun Microsystems and Facebook's Cautionary Tale:
   - The history of Sun Microsystems as a tech giant that powered the early Internet.
@@ -1199,7 +1199,7 @@ Author: Antonio Garcia-Martinez
   - The idea of integrating the innovative spirit of startups into the larger, established organization.
   - Examples of acquisition outcomes, including adaptation to new circumstances or struggle to fit in.
 - Transition and Identity:
-  - The narrator's personal experience transitioning from a startup founder to a Facebook employee.
+  - Antonio's personal experience transitioning from a startup founder to a Facebook employee.
   - The sense of being treated as a champion while feeling like a survivor of a shipwreck.
   - The concept of "acting like you belong" in a fast-paced and competitive workplace.
 - Corporate Values and Reminders of Failure:
@@ -1212,7 +1212,7 @@ Author: Antonio Garcia-Martinez
   - The continuous reminders of the cost of failure and the discipline required to prevent decay.
   - A comparison to the United States' Fourth of July celebration, reflecting a constant sense of urgency.
 - Shift from Naivety to Complex Reality:
-  - The narrator's initial adoption of Facebook's values and their later realization of the company's complexity.
+  - Antonio's initial adoption of Facebook's values and their later realization of the company's complexity.
   - The contrast between the simplified version of Facebook's reality and the intricate truth.
 
 ### The Barbaric Yawn
@@ -1235,17 +1235,17 @@ Author: Antonio Garcia-Martinez
   - The realization that staying for four years in a large company might not be feasible.
   - How impatient startup entrepreneurs might find it difficult to adhere to vesting schedules.
 - Personal Interactions and Desires:
-  - The narrator's attraction to PMMess, a product marketing manager.
+  - Antonio's attraction to PMMess, a product marketing manager.
   - Descriptions of PMMess's appearance and style.
-  - Playful and intellectual interactions between the narrator and PMMess.
+  - Playful and intellectual interactions between Antonio and PMMess.
   - Experiences of socializing during happy hour events at Facebook.
 - Shady Lady Bar and Encounters:
   - The Shady Lady Bar's atmosphere and appearance within Facebook's premises.
   - The humorous discovery of Thunderbird wine in the bar's fridge.
-  - The narrator's flirtatious interactions with PMMess during happy hour.
-  - The narrator's humorous attempt to remove PMMess's bra.
+  - Antonio's flirtatious interactions with PMMess during happy hour.
+  - Antonio's humorous attempt to remove PMMess's bra.
 - Maintaining Professionalism:
-  - The narrator's decision to not escalate the situation to a more intimate level.
+  - Antonio's decision to not escalate the situation to a more intimate level.
   - The subtle continuation of flirtatious interactions while returning to work.
   - The recognition of Facebook's limitations in providing a racetrack-like experience.
 
@@ -1438,14 +1438,14 @@ Author: Antonio Garcia-Martinez
 ### IPA > IPO
 - The Setting and Context
   - The passage takes place on the day of Facebook's initial public offering (IPO).
-  - The narrator, an employee at Facebook, recalls the atmosphere leading up to the IPO.
+  - Antonio, an employee at Facebook, recalls the atmosphere leading up to the IPO.
   - The setting is described, including the location of the company, its history, and the anticipation surrounding the IPO.
 - Preparation and Unconventional Plans
-  - The narrator contacts Jimmy, their "exotic beer dealer," to secure beer for the IPO celebration.
+  - Antonio contacts Jimmy, their "exotic beer dealer," to secure beer for the IPO celebration.
   - Facebook's decision to hold the IPO event at its own headquarters is highlighted.
   - The concept of a hackathon the night before the IPO is introduced, aiming to keep employees occupied and prevent them from focusing on the stock price.
 - Brewing and Pre-IPO Festivities
-  - The narrator sets up a brewing station in the company courtyard to brew beer for the celebration.
+  - Antonio sets up a brewing station in the company courtyard to brew beer for the celebration.
   - Zuck, Facebook's CEO, passes by the brewing scene but seems uninterested.
   - The atmosphere of camaraderie, fueled by the brewing and beer, begins to grow among employees.
   - The idea of hackathons and long hours at tech companies is explored, with a touch of humor.
@@ -1455,11 +1455,11 @@ Author: Antonio Garcia-Martinez
   - Zuck's speech emphasizes the importance of focusing on the company's mission even after going public.
   - The anticipation builds up to the moment when Zuck rings the opening bell to start trading.
 - Reflections on Capitalism and Meaning
-  - The narrator reflects on the IPO ritual, comparing it to Mr. Market's valuation.
+  - Antonio reflects on the IPO ritual, comparing it to Mr. Market's valuation.
   - The concept of capitalism and the pursuit of valuation is critiqued for its impact on desacralizing aspects of life.
   - The passage questions the cultural significance of events like IPOs and how they relate to personal meaning and values.
 - Financial Considerations and Life Changes
-  - The narrator breaks down their compensation package, including stock options and salary.
+  - Antonio breaks down their compensation package, including stock options and salary.
   - The concept of "fuck-you money" is introduced, signifying financial independence.
   - The passage hints at the transformations in lifestyle that occur when one achieves financial security.
   - There's a focus on the changing attitude towards expenses and a new level of comfort in spending.
@@ -1489,7 +1489,7 @@ Author: Antonio Garcia-Martinez
   - The stock opened at $42 and closed at $38.37, a move that confounded typical expectations.
   - The success of this departure from the norm is attributed to strategic decisions made on the Facebook side.
 - Inside Look at Facebook's IPO Process
-  - The inner workings of Facebook's IPO negotiations are considered beyond the narrator's knowledge.
+  - The inner workings of Facebook's IPO negotiations are considered beyond Antonio's knowledge.
   - David Ebersman, Facebook's CFO, is credited for securing a high and fair offering price.
   - Facebook's approach to the IPO process is commended, resulting in a successful outcome and financial gain for the company.
 - Impact on Facebook and Employees

@@ -860,7 +860,7 @@ Author: Becky Kennedy
 ### Building Confidence
 - Introduction: Challenging Traditional Views of Confidence
   - Confidence is often misunderstood as feeling good, proud, or happy with oneself.
-  - The author suggests reframing confidence as the ability to embrace a wide range of feelings and to trust oneself.
+  - Dr. Becky suggests reframing confidence as the ability to embrace a wide range of feelings and to trust oneself.
 - True Confidence: Embracing Feelings and Self-Trust
   - Confidence means believing in one's feelings and self, regardless of the emotion experienced.
   - It's about being at ease with oneself across various emotions and situations.

@@ -8,7 +8,7 @@ Author: Philip Kotler
   - Examine capitalism's strengths and shortcomings.
   - Propose solutions to improve capitalism's performance.
   - Address the need for concise accounts of economic systems.
-  - Leverage the author's unique background for insights.
+  - Leverage Kotler's unique background for insights.
 - Capitalism's Current State
   - Capitalism is predominant globally.
   - Different countries have varying approaches to capitalism.
@@ -482,6 +482,6 @@ Author: Philip Kotler
   - Short-term solutions prevail over longer-term, intricate ones.
   - Despite challenges, optimism prevails in seeking intelligent, committed solutions.
 - Proposed Solutions:
-  - The author presents preliminary solutions for each problem.
+  - Kotler presents preliminary solutions for each problem.
   - Recognizes these ideas need extensive discussion and refinement.
   - Aims to enhance capitalism's effectiveness for global well-being.

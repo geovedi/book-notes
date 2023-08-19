@@ -4,8 +4,8 @@ Author: Antonio Padilla
 
 ### A Chapter That's Not a Number
 - Introduction: Zero and the Turning Point
-  - The author recounts receiving a zero on a math coursework at Cambridge University, feeling like an imposter.
-  - The significance of mathematical rigor and its impact on the author's perspective.
+  - Antonio recounts receiving a zero on a math coursework at Cambridge University, feeling like an imposter.
+  - The significance of mathematical rigor and its impact on Antonio's perspective.
   - The desire to give numbers a purpose, leading to an interest in physics.
 - Graham's Number and the Physical World
   - Introduction to Graham's number, a massive number with physics-related applications.
@@ -27,7 +27,7 @@ Author: Antonio Padilla
   - Exploration of the unexpected nature of the universe's fine-tuning.
 - The Significance of Small Numbers
   - Introduction to the role of small numbers in uncovering unexpected phenomena.
-  - Relating small numbers to the author's hypothetical X Factor win.
+  - Relating small numbers to Antonio's hypothetical X Factor win.
   - Using small numbers to explore the microworld of particle physics and the Higgs boson.
 - Zero's Beauty and Symmetry
   - Revisiting the initial disdain for zero and its historical significance.
@@ -165,12 +165,12 @@ Author: Antonio Padilla
   - Tegmark's vision of a vast universe with identical copies of individuals.
   - Connection to the holographic principle, a central idea in physics.
 - Estimating the Distance to Doppelgängers
-  - The author's skepticism about Tegmark's claim initially.
-  - The author's pursuit to estimate the distance to cosmological doppelgängers.
+  - Antonio's skepticism about Tegmark's claim initially.
+  - Antonio's pursuit to estimate the distance to cosmological doppelgängers.
   - The journey's basis in entropy, quantum theory, and the holographic nature of reality.
 - The Holographic Journey
   - The forthcoming story involving entropy, quantum mechanics, and self-identity.
-  - The author's conservative estimate of the distance to doppelgängers.
+  - Antonio's conservative estimate of the distance to doppelgängers.
 
 #### The Entropic Captor
 - Premier League and Entropy:
@@ -331,7 +331,7 @@ Author: Antonio Padilla
 
 #### Think of a Number
 - Misadventures and Brain Function:
-  - The narrator reflects on a comical incident involving vacuuming water and electricity.
+  - Antonio reflects on a comical incident involving vacuuming water and electricity.
   - Discusses how memories, knowledge, and thoughts are stored in the brain using neuron patterns.
   - Explores the efficiency of neural networks in storing information and suggests the brain might mimic black hole storage techniques.
 - Efficient Information Storage in Black Holes:
@@ -570,7 +570,7 @@ Author: Antonio Padilla
 - Philosophical Perspectives on Zero:
   - Different philosophical viewpoints on the existence of zero.
   - Platonists' abstract view of numbers, nominalists' practical perspective, and fictionalists' denial of numbers.
-  - Author's belief in the existence of numbers and their representation in the empty set.
+  - Antonio's belief in the existence of numbers and their representation in the empty set.
 - Zero and Nothing:
   - Distinguishing between the weaker form of nothing and absolute Nothing.
   - Explaining the connection between zero and the symmetry of nothing.
@@ -582,7 +582,7 @@ Author: Antonio Padilla
 
 #### Finding Zero
 - Lockdown Learning and Symmetry:
-  - During lockdown, teaching symmetry to the author's daughter.
+  - During lockdown, teaching symmetry to Antonio's daughter.
   - Studying reflection and rotational symmetries in shapes.
   - Introducing the concepts of discrete and continuous symmetries.
 - Symmetries in Nature:

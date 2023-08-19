@@ -870,7 +870,7 @@ Author: Tracy Kidder
 
 ### Childhood
 - Tony's Absence and Gloomy Emails
-  - Tony's absence is noticed by the narrator, and they receive occasional gloomy emails from him.
+  - Tony's absence is noticed by Tracy, and they receive occasional gloomy emails from him.
   - These emails reveal a hidden sadness behind Tony's cheerful demeanor.
 - Concerns over Tony's Fentanyl Use
   - Tony's most recent urine sample tests positive for fentanyl, causing alarm.
@@ -897,7 +897,7 @@ Author: Tracy Kidder
   - His account of the incident appears nonchalant, as if such horrors were commonplace in the neighborhood.
   - Jim reflects on Tony's vivid memory of traumatic events and wonders about his psychological response to these experiences.
 - Tony's Struggle to Leave the Streets
-  - The narrator expresses concern about Tony's well-being and suggests the importance of him finding housing.
+  - Tracy expresses concern about Tony's well-being and suggests the importance of him finding housing.
   - Tony acknowledges that leaving the streets isdifficult for him and mentions that even if he were to find housing, he might not be seen often.
   - Jim discusses Tony's challenge of managing his numerous friends and Tony's tendency to say yes to everyone.
 - Momentary Distraction and Future Plans

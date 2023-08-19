@@ -179,12 +179,12 @@ Author: Mary Roach
 
 ## The Monkey Fix: Birth Control for Marauding Macaques
 - Introduction
-  - The author attempts to contact Indian officials regarding the issue of monkeys in cities.
+  - Mary attempts to contact Indian officials regarding the issue of monkeys in cities.
   - Tyagi and Singh from SDMC and the Forest Department have been avoiding responsibility for dealing with the monkey problem.
 - Responsibility Dispute
   - SDMC claims monkeys are wild animals, making them the Forest Department's responsibility.
   - The Forest Department argues that urban monkeys are not wild and thus not under their jurisdiction.
-  - Sterilization of Delhi macaques is suggested, but Tyagi directs the author to Mr. Ishwar Singh for details.
+  - Sterilization of Delhi macaques is suggested, but Tyagi directs Mary to Mr. Ishwar Singh for details.
   - Fines for feeding monkeys at temples have not been issued due to religious sensitivities.
 - Control Measures
   - Affluent residents hire "monkey wallahs" with leashed langurs to control monkeys.
@@ -204,7 +204,7 @@ Author: Mary Roach
   - Over 21,000 macaques have been relocated to Asola Bhatti Wildlife Sanctuary over 12 years.
   - Food is provided to the monkeys, but plans for planting fruit trees have not been realized.
 - Visit to Sanctuary
-  - The author and journalist Nila visit the sanctuary, gaining access through Gurji.
+  - Mary and journalist Nila visit the sanctuary, gaining access through Gurji.
   - Gurji reveals that the city spends 40,000 rupees daily on macaque food.
   - Gurji used to be a macaque caretaker and discusses the feeding habits and behavior of monkeys.
 - Sterilization Efforts
@@ -222,7 +222,7 @@ Author: Mary Roach
 
 ## Mercurial Cougars: How Do You Count What You Can't See?
 - Introduction and Tracking Animals
-  - The author explores the woods and compares it to reading Chinese editions of their books.
+  - Mary explores the woods and compares it to reading Chinese editions of their books.
   - Introduction to Dellinger, who tracks animals and finds drag marks from a mountain lion.
   - Discussion of blending modern wildlife biology with natural history.
 - Wildlife Biology and Natural History
@@ -503,8 +503,8 @@ Author: Mary Roach
   - The narrative shifts from stoat hatred to appreciation of their survival traits.
   - The impact of language and terminology on public opinion, such as using terms like "rodent-free living," is noted.
 - Personal Views and Reflections:
-  - The author expresses conflicted feelings about predator control methods and the killing of species to protect others.
-  - The author reflects on the challenges of advocating for predator eradication while considering the broader ethical implications.
+  - Mary expresses conflicted feelings about predator control methods and the killing of species to protect others.
+  - Mary reflects on the challenges of advocating for predator eradication while considering the broader ethical implications.
   - The idea of preserving native species while managing the effects of introduced species is discussed.
   - The role of human intervention and the dynamic nature of ecosystems are considered.
 - Unique New Zealand Wildlife and Cultural Aspects:
@@ -516,7 +516,7 @@ Author: Mary Roach
 - Wildlife Coexistence and Control
   - Introduction
     - The conversation revolves around the idea of eliminating mice from various environments and whether it's necessary or beneficial.
-    - Aaron, the narrator, visits Roger's property to collect wild mice for a study (SNE) and discusses the role of mice in ecosystems.
+    - Aaron, Mary, visits Roger's property to collect wild mice for a study (SNE) and discusses the role of mice in ecosystems.
   - Roger and His Farm
     - Roger runs a feed lot for cattle, dealing with mice infestations and the challenges they pose to his operations.
     - Roger's practical approach involves coexistence with rodents and recognizing their role in the ecosystem.
@@ -536,7 +536,7 @@ Author: Mary Roach
     - Strategies to deter starlings and blackbirds are discussed, noting the psychological benefits of such efforts even if they're not always effective.
 - Personal Perspectives and Ethical Considerations
   - Personal Impact
-    - The narrator's journey in confronting their personal feelings towards coexisting with wildlife is described.
+    - Mary's journey in confronting their personal feelings towards coexisting with wildlife is described.
     - The decision not to set traps for a roof rat showcases a change in attitude toward humane methods of control.
   - Ethical Dilemmas
     - The dilemma of how to treat trespassing wildlife is explored, highlighting the historical lack of compassion and the need for more humane approaches.

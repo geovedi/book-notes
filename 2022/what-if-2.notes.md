@@ -608,7 +608,7 @@ Author: Randall Munroe
   - Highlighting the infeasibility of paying the $2 undecillion settlement.
   - Recognizing that the requested amount is astronomically unattainable.
 - Legal Perspective and Defense Costs
-  - Mentioning Kevin, the author of a legal humor blog, who reported on the case.
+  - Mentioning Kevin, Munroe of a legal humor blog, who reported on the case.
   - Considering the hourly rate of highly paid lawyer Ted Olson for defense.
   - Calculating the theoretical cost of hiring all Ted Olsons in the galaxy to defend the case.
 
@@ -974,7 +974,7 @@ Author: Randall Munroe
   - A lava lamp made of actual lava would cool down quickly.
   - Within a minute, the lava would solidify, stop glowing, and become uninteresting.
 - Imaginative Scenarios
-  - The author humorously contemplates a volcanic eruption emitting compact fluorescent bulbs instead of tephra.
+  - Munroe humorously contemplates a volcanic eruption emitting compact fluorescent bulbs instead of tephra.
   - Such a scenario would release significant amounts of mercury into the atmosphere.
 
 ## Sisyphean Refrigerators
@@ -1188,7 +1188,7 @@ Author: Randall Munroe
 
 ## Read All the Laws
 - Navigating the World of Laws: How Much Reading is Required?
-  - The author contemplates the extensive volume of governing documents an individual must read to comprehend applicable laws.
+  - Munroe contemplates the extensive volume of governing documents an individual must read to comprehend applicable laws.
 - Calculation of Pages:
   - Detailed breakdown of applicable documents, including federal and state constitutions, laws, ordinances, adds up to around 145,000 pages.
 - Inclusion of Regulations:

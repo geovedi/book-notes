@@ -33,10 +33,10 @@ Author: Susan Cain
 
 ## Introduction: The Power of Bittersweet
 - Personal Experience and Questioning
-  - The author recalls listening to bittersweet music as a law student.
+  - Susan recalls listening to bittersweet music as a law student.
   - Music's impact on the heart, love, and connection with others.
   - The incongruity of finding joy in mournful songs.
-  - The author's ongoing curiosity about the relationship between sadness and upliftment.
+  - Susan's ongoing curiosity about the relationship between sadness and upliftment.
 - Melancholic Personality Traits
   - Aristotle's pondering of melancholic personalities in history.
   - The ancient belief in four humors and their influence on temperament.
@@ -68,9 +68,9 @@ Author: Susan Cain
   - The connection between bittersweetness and the longing for the ideal world.
   - Resonance of this theme across religious and philosophical traditions.
 - Journey of Discovery
-  - The author's personal exploration of the questions raised by bittersweetness.
+  - Susan's personal exploration of the questions raised by bittersweetness.
   - Seeking answers about sadness, love, creativity, and cultural norms.
-  - The evolution of the author's perspective from agnosticism to embracing spiritual longing.
+  - The evolution of Susan's perspective from agnosticism to embracing spiritual longing.
   - Embracing the idea that transformation can be experienced without subscribing to specific conceptions of God.
 - Bittersweet Quiz and Traits
   - Introduction of the Bittersweet Quiz to gauge one's inclination towards bittersweetness.
@@ -115,7 +115,7 @@ Author: Susan Cain
   - Buddhism and Sufism both address longing but differ in interpretation.
   - Buddhism views longing as an unproductive mind state to overcome, whereas Sufism sees it as spiritually valuable.
 - Meeting LVL and the Golden Sufi Center:
-  - The author decides to meet LVL at a retreat called "Journey of the Soul."
+  - Susan decides to meet LVL at a retreat called "Journey of the Soul."
   - LVL's teaching focuses on different stages of the spiritual journey: from God, of remembrance, and in God.
 - Energy and Power Sources:
   - Sufis use the energy of love as the greatest power for the spiritual journey.
@@ -160,7 +160,7 @@ Author: Susan Cain
   - Min found new love and embarked on various creative projects.
   - She commissioned a new violin, embracing change and growth.
 - Meeting with the Min Kym: A New Perspective
-  - The author encounters Min Kym, finding her transformed and resilient.
+  - Susan encounters Min Kym, finding her transformed and resilient.
   - Min's journey is a reminder that the world is full of individuals adapting to change.
   - The power of Min's music lies in its ability to resonate with others' pain and transformation.
 
@@ -176,8 +176,8 @@ Author: Susan Cain
   - After the trauma of September 11, 2001, many individuals were motivated to help and make a difference.
   - People applied for careers as firefighters, teachers, healthcare workers, and joined organizations like Teach for America.
   - Personal accounts of individuals, like a firefighter and an actor, showcase the shift in perspective and motivation after the tragedy.
-- Author Rene Denfeld's Transformation
-  - Author Rene Denfeld's background of childhood abuse, neglect, and trauma.
+- Rene Denfeld's Transformation
+  - Rene Denfeld's background of childhood abuse, neglect, and trauma.
   - Her family's varied responses to trauma, including suicide and striving for normalcy.
   - Denfeld's journey from a traumatic past to becoming a chief investigator, novelist, and adoptive parent.
   - How Denfeld's story exemplifies the wounded healer concept.
@@ -195,9 +195,9 @@ Author: Susan Cain
   - How metta meditation can reshape perspectives and foster connections with others.
   - A fictional story about Franz Kafka teaching a girl the essence of love through imaginative storytelling.
 - A Mother's Alzheimer's Journey
-  - The author's mother's experience with Alzheimer's disease.
+  - Susan's mother's experience with Alzheimer's disease.
   - The impact of the disease on memory and perception of past events.
-  - A touching exchange between the author and her mother about being a good daughter and mother's expression of love.
+  - A touching exchange between Susan and her mother about being a good daughter and mother's expression of love.
 
 ## Part II: Winners and Losers: How Can We Live and Work Authentically in a "Tyranny of Positivity"?
 
@@ -213,7 +213,7 @@ Author: Susan Cain
   - Combined with growing inequality and social issues, this pressure creates a strong need to appear as a winner.
   - Society's limited capacity to produce winners intensifies this pressure, leading to a constant pursuit of victory.
 - Reflections on Personal Experience
-  - The author reflects on personal experiences as a student dealing with the expectations of effortless perfection.
+  - Susan reflects on personal experiences as a student dealing with the expectations of effortless perfection.
   - Questions whether a therapist recognizes the struggles of the past self and others like them.
   - Admits to not being comforted by knowing others' struggles, due to perceiving a sense of "wrongness" in them.
 - Transition to Adulthood and Embracing Humanity
@@ -231,8 +231,8 @@ Author: Susan Cain
   - The conference includes unique events, such as a salon on melancholia and fado music performances.
   - Lisbon, known for saudade, the Portuguese expression of melancholic longing, is an ideal location for such a conference.
   - Tim, one of the attendees, believes in embracing "comfortable sadness" and emphasizes the European perspective on melancholy.
-- Susan's Workshop: Embracing Vulnerability
-  - Susan leads a signature workshop that is considered highly valuable.
+- Susan David's Workshop: Embracing Vulnerability
+  - Ms. David leads a signature workshop that is considered highly valuable.
   - The workshop involves personal reflection, including writing "I am" statements about one's self-conceptions that hold them back.
   - Attendees share their statements and reflect on the emotions they evoke, realizing their common struggles.
   - Participants empathize with each other's struggles, fostering a sense of connection and understanding.
@@ -244,35 +244,35 @@ Author: Susan Cain
   - Participants are prompted to consider advice from people who empower or encourage them.
   - The story of a friend's advice resonates and brings insight into the importance of self-confidence.
 - Exploring Lisbon: The Poetry and Rain
-  - The tour of Lisbon, focusing on poet Fernando Pessoa, becomes an opportunity for deep conversation between the narrator and Susan.
+  - The tour of Lisbon, focusing on poet Fernando Pessoa, becomes an opportunity for deep conversation between Susan and Ms. David.
   - Pessoa's observation that life is inherently painful aligns with the exploration of human emotions.
-  - Despite missing the tour, the narrator realizes the true value of the friendship with Susan.
+  - Despite missing the tour, Susan realizes the true value of the friendship with Ms. David.
 
 ## Part III: Mortality, Impermanence, and Grief: How Should We Live, Knowing That We and Everyone We Love Will Die?
 
 ### Should We Try to Live Forever?
 - Introduction:
   - The excerpt contemplates the idea of achieving immortality and the impact on human existence.
-  - It introduces the author's personal experience of grief after losing a loved one and the questions it raises about the meaning of life.
+  - It introduces Susan's personal experience of grief after losing a loved one and the questions it raises about the meaning of life.
 - The Quest for Immortality:
   - Introduces the concept of "immortalists" who believe in achieving eternal life through technology and healthy living.
   - Describes the atmosphere at the RAADfest conference, where these ideas are discussed and celebrated.
   - Highlights the charismatic leadership of figures like Aubrey de Grey, who champion radical life extension.
 - Challenging Questions:
-  - The author reflects on the existential dilemmas posed by the quest for immortality.
+  - Susan reflects on the existential dilemmas posed by the quest for immortality.
   - Questions whether immortality would truly bring fulfillment and the loss of vulnerability and love.
   - Considers the philosophical, ethical, and practical implications of overcoming death.
 - The Urgency of Immortality:
   - Immortalists are driven by a sense of urgency to combat death, having personally faced its effects in their lives.
   - Grief and loss motivate them to work towards eliminating death as a threat to humanity.
-  - The author interviews Keith Comito, a computer programmer and advocate for lifespan extension, who shares his personal journey.
+  - Susan interviews Keith Comito, a computer programmer and advocate for lifespan extension, who shares his personal journey.
 - Philosophical Reflections:
   - Considers objections to immortality, such as the possibility of overpopulation and loss of humanity.
   - Explores the potential consequences of living without the fear of death, including a shift towards a more peaceful world.
 - Yearning for Perfection and Unity:
   - Suggests that the pursuit of immortality might be rooted in a deeper longing for a perfect world.
   - Links the desire for immortality to concepts from various spiritual traditions, including Buddhism, Christianity, and Sufism.
-  - Contrasts the views of the immortalists, who see overcoming death as a path to harmony, with the author's belief that sorrow and mortality serve as unifying forces.
+  - Contrasts the views of the immortalists, who see overcoming death as a path to harmony, with Susan's belief that sorrow and mortality serve as unifying forces.
 
 ### Should We Try to "Get Over" Grief and Impermanence?
 - Introduction and Background:
@@ -301,7 +301,7 @@ Author: Susan Cain
   - Humans come in various psychological varieties, and perspectives on life and death differ widely.
   - Lois's perspective of recovering "pieces" of herself illustrates the complexity of grief and healing.
 - Moving Forward with Grief:
-  - Author Nora McInerny emphasizes the distinction between "moving on" and "moving forward" in dealing with grief.
+  - Nora McInerny emphasizes the distinction between "moving on" and "moving forward" in dealing with grief.
   - Grief is a multitasking emotion that can coexist with happiness, love, and the ability to move forward without completely leaving behind the past.
 
 ### Do We Inherit the Pain of Our Parents and Ancestors? And, if So, Can We Transform It Generations Later?
@@ -329,30 +329,30 @@ Author: Susan Cain
 ## Coda: How to Go Home
 - Introduction
   - The passage discusses the concept of living a bittersweet life and finding enchantment in it.
-  - It narrates a personal journey of the author who was a lawyer and explores the transformation of desires and longings into creative offerings.
+  - It narrates a personal journey of Susan who was a lawyer and explores the transformation of desires and longings into creative offerings.
 - Discovering Longing and Transformation
-  - The author reflects on their attraction to bittersweet experiences and the magnetism of the bittersweet.
+  - Susan reflects on their attraction to bittersweet experiences and the magnetism of the bittersweet.
   - They recall their life as a lawyer, driven by ambition but unfulfilled in terms of personal dreams.
-  - A pivotal moment comes when the author is denied partnership in the law firm, leading to a shift in priorities.
+  - A pivotal moment comes when Susan is denied partnership in the law firm, leading to a shift in priorities.
 - Rediscovering Purpose and Passion
-  - The author experiences a personal crisis and a breakup, which leads to their relationship with music and Raul.
+  - Susan experiences a personal crisis and a breakup, which leads to their relationship with music and Raul.
   - Through Raul, they realize that their longing for a perfect and beautiful world was misdirected, and they begin their journey towards writing.
   - The idea of finding home, authenticity, and purpose emerges as essential.
 - Deepening the Search for Meaning
-  - The author poses questions to the reader about their own longings and the symbols in their lives.
+  - Susan poses questions to the reader about their own longings and the symbols in their lives.
   - They encourage introspection to find one's unique mission and calling, as well as to embrace the bittersweet nature of life.
 - Transcending Pain Through Creativity
-  - The author emphasizes the role of creativity in transforming pain into beauty, citing Leonard Cohen's idea.
+  - Susan emphasizes the role of creativity in transforming pain into beauty, citing Leonard Cohen's idea.
   - They explore the connection between personal sorrow and the potential for creative expression.
 - Shaping Life's Lessons and Legacy
-  - The author reflects on life's challenges, connecting the struggle to find one's place with larger, universal themes.
+  - Susan reflects on life's challenges, connecting the struggle to find one's place with larger, universal themes.
   - They discuss the Kabbalah's metaphor of gathering broken shards of light and finding beauty in darkness.
 - Applying Lessons to Different Domains
-  - The author suggests practical applications of these insights in various contexts, such as education, work, art, and relationships.
+  - Susan suggests practical applications of these insights in various contexts, such as education, work, art, and relationships.
   - They emphasize the need to make space for both the bitter and the sweet in these domains.
 - Finding Meaning in Everyday Expressions
-  - The author's father's life is cited as an example of living a meaningful, humble existence.
+  - Susan's father's life is cited as an example of living a meaningful, humble existence.
   - The connection between sublime domains like music, art, and medicine is highlighted, alluding to their shared manifestation of divinity and love.
 - Eternal Manifestations and Moving Forward
   - The passage concludes by discussing the lasting impact of loved ones and how different manifestations of love persist even after death.
-  - The author reflects on a poignant moment with their father and expresses hope for well-being.
+  - Susan reflects on a poignant moment with their father and expresses hope for well-being.

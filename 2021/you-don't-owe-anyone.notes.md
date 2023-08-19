@@ -187,43 +187,43 @@ Author: Caroline Garnet McGraw
 
 ## You Don't Owe Anyone Your Forgiveness
 - Personal Struggles and Relationships
-  - The author reflects on a drinking incident and the kindness of her friend, Brooke.
-  - Party culture conflicts with the author's religious beliefs, causing inner turmoil.
-  - The author's complex relationship with her brother Willie is described.
-  - A traumatic incident occurs when Willie has a meltdown and bites the author.
-  - The author's panic and self-blame lead her to make a hasty decision to leave home.
+  - Caroline reflects on a drinking incident and the kindness of her friend, Brooke.
+  - Party culture conflicts with Caroline's religious beliefs, causing inner turmoil.
+  - Caroline's complex relationship with her brother Willie is described.
+  - A traumatic incident occurs when Willie has a meltdown and bites Caroline.
+  - Caroline's panic and self-blame lead her to make a hasty decision to leave home.
   - A letter from the family, including a remorseful message from Willie, triggers deep self-reflection.
   - The concept of "weird shame" is introduced, describing an unexplained feeling of wrongdoing.
 - Exploring Weird Shame
-  - The author advises embracing and exploring feelings of "weird shame" rather than suppressing them.
+  - Caroline advises embracing and exploring feelings of "weird shame" rather than suppressing them.
   - She suggests sitting with the uncomfortable feeling and investigating its origin.
   - The practice involves setting a timer for reflection, acknowledging judgments, and identifying the source of shame.
   - Curiosity is encouraged, and the process is about creating space for personal truth to emerge.
 - Self-Forgiveness and Healing
-  - The author shares a self-forgiveness process learned from spiritual psychology.
+  - Caroline shares a self-forgiveness process learned from spiritual psychology.
   - The process begins by connecting with a place of love within oneself.
   - Intentions for healing are set, and self-judgments and limiting beliefs are identified.
   - Self-forgiveness scripts are provided for addressing judgments and limiting beliefs.
   - Examples of these scripts include forgiving oneself for judging and accepting limiting beliefs.
   - The importance of practicing self-compassion and the transformative power of kindness is emphasized.
 - Transformation and Growth
-  - The author reflects on how recognizing her own self-judgments and biases led to growth.
+  - Caroline reflects on how recognizing her own self-judgments and biases led to growth.
   - The practice of self-forgiveness leads to a shift in perspective and acceptance of oneself.
   - Over time, practicing self-compassion can impact personal relationships positively.
 
 ## You Don't Owe Anyone Superhuman Strength
 - Introduction and Personal Struggle
-  - The author used self-improvement as a means to avoid confronting their grief and pain.
+  - Caroline used self-improvement as a means to avoid confronting their grief and pain.
   - Overworking replaced previous self-destructive behaviors.
-  - The author's experiences with self-harm and exhaustion led to physical ailments.
+  - Caroline's experiences with self-harm and exhaustion led to physical ailments.
 - Relationships and Boundaries
-  - The author tried to prove their worth to someone by overextending themselves.
-  - The author's focus shifted to self-care after a shingles diagnosis.
+  - Caroline tried to prove their worth to someone by overextending themselves.
+  - Caroline's focus shifted to self-care after a shingles diagnosis.
   - They learned to set boundaries and prioritize their own well-being.
 - Family Dynamics and Emotional Impact
-  - The author's sibling, Willie, struggled with emotional issues and harmed others, causing distress to their parents.
+  - Caroline's sibling, Willie, struggled with emotional issues and harmed others, causing distress to their parents.
   - An incident involving Willie's behavior on a family trip highlighted strained relationships and emotional struggles.
-  - The author faced challenges in balancing their own introverted needs with their mother's extroverted expectations.
+  - Caroline faced challenges in balancing their own introverted needs with their mother's extroverted expectations.
 - Identifying Troubled Relationships
   - The importance of recognizing troubled relationships and facing the truth is emphasized.
   - Various terms and definitions related to dysfunctional relationship dynamics are introduced.
@@ -231,7 +231,7 @@ Author: Caroline Garnet McGraw
 - Healing and Personal Growth
   - Verbal and emotional abuse's damaging impact is acknowledged.
   - Healing begins with recognizing harm and using precise language to describe it.
-  - The author's experiences with Raymond taught them the difference between genuine and counterfeit strength.
+  - Caroline's experiences with Raymond taught them the difference between genuine and counterfeit strength.
   - Emphasis on listening to one's body, trusting inner knowing, and turning towards healing.
 - Connecting with Inner Truth and Trusting Body Signals
   - Overcoming perfectionism and people-pleasing involves listening to one's body.
@@ -329,7 +329,7 @@ Author: Caroline Garnet McGraw
 ## You Don't Owe Anyone Your Time and Energy
 - Letting Go and Moving On:
   - The significance of letting go of sentimental objects as a metaphor for moving away from family.
-  - The narrator's experience of parting with personal items before moving.
+  - Caroline's experience of parting with personal items before moving.
   - The mixed emotions of leaving a familiar place and embracing change.
   - The necessity of making difficult decisions for personal growth.
 - Seeking Help and Embracing Change:
@@ -338,7 +338,7 @@ Author: Caroline Garnet McGraw
   - Drawing parallels to biblical stories of reaching out for change.
   - The importance of taking a stand for oneself and investing effort for transformation.
 - The Power of Reaching for Dreams:
-  - The narrator's personal journey of pursuing new opportunities.
+  - Caroline's personal journey of pursuing new opportunities.
   - The need to allocate time and energy wisely.
   - Transitioning from indiscriminate allocation to intentional stewardship.
   - Emphasizing the value of personal dreams and aspirations.

@@ -428,7 +428,7 @@ Author: Gary Antonacci
   - Investors can contemplate more intricate models such as Global Balanced Momentum and Dual Momentum Sector Rotation.
   
 - Accessing Performance Updates
-  - The author's website furnishes performance updates for various dual momentum models, including GEM, GBM, and DMSR.
+  - Antonacci's website furnishes performance updates for various dual momentum models, including GEM, GBM, and DMSR.
 
 ## Final Thoughts
 - The Old Investment Paradigm:

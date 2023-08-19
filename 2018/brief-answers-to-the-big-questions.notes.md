@@ -6,14 +6,14 @@ Author: Stephen Hawking
 - Introduction and Perspective on Big Questions:
   - People's fascination with fundamental questions about the universe's origin and meaning.
   - The transition from creation accounts to various superstitions.
-  - Science's capacity to provide profound answers and the author's role as a physicist.
+  - Science's capacity to provide profound answers and Hawking's role as a physicist.
 - Personal Background and Curiosity:
-  - The author's upbringing with curiosity nurtured by parents.
+  - Hawking's upbringing with curiosity nurtured by parents.
   - Early interest in science and fascination with the cosmos.
-  - The author's inclination towards theoretical physics.
+  - Hawking's inclination towards theoretical physics.
 - Scientific Journey and Contributions:
   - Pursuit of theoretical physics and seeking answers to significant questions.
-  - Evolution of the author's understanding and contribution to changing perspectives on the universe.
+  - Evolution of Hawking's understanding and contribution to changing perspectives on the universe.
   - Gratitude for the opportunity to contribute to scientific progress.
 - Perspective from Space Exploration:
   - The space age's impact on humanity's perspective and unity.
@@ -49,7 +49,7 @@ Author: Stephen Hawking
 - Message for the Future:
     - Encouragement to shape a future worth visiting.
     - Emphasis on bravery, curiosity, determination, and overcoming odds.
-    - Sharing the author's fulfilled dream of becoming a scientist and seeking answers.
+    - Sharing Hawking's fulfilled dream of becoming a scientist and seeking answers.
 - Conclusion:
     - Appreciation for the journey, gratitude for personal relationships.
     - Triumph in humanity's understanding of universal laws.
@@ -60,10 +60,10 @@ Author: Stephen Hawking
   - Science increasingly answers questions that were once within religion's domain.
   - Religion provided early explanations for existence, but science offers more consistent answers.
   - People often turn to religion for comfort and distrust or misunderstand science.
-  - A Times headline juxtaposed the author's views against the notion of God creating the universe.
+  - A Times headline juxtaposed Hawking's views against the notion of God creating the universe.
 - Exploring the Universe:
   - Science aims to find rational frameworks for understanding the universe.
-  - Disabled individuals historically believed to be cursed, but the author attributes events to natural laws.
+  - Disabled individuals historically believed to be cursed, but Hawking attributes events to natural laws.
   - A philosopher named Aristarchus challenged divine explanations and deduced Earth's motion.
 - Laws of Nature and God:
   - The universe operates under unchangeable laws of nature.
@@ -97,8 +97,8 @@ Author: Stephen Hawking
   - Influence and genes allow individuals to live on beyond death.
 - Gratitude and Questions:
   - Life offers one chance to appreciate the universe's grand design.
-  - Author expresses gratitude for this opportunity.
-  - Author would ask God about the universe's complex aspects if such a deity existed.
+  - Hawking expresses gratitude for this opportunity.
+  - Hawking would ask God about the universe's complex aspects if such a deity existed.
 
 ## How Did It All Begin?
 - Hamlet's Analogy and Questions about the Universe:
@@ -301,7 +301,7 @@ Author: Stephen Hawking
   - Possibilities and mysteries posed by M-theory.
 - Conclusion and Time Travel Party:
   - The potential existence of Chronology Protection Laws.
-  - Summary of the party for time travelers held by the author.
+  - Summary of the party for time travelers held by Hawking.
   - Hopeful acknowledgment of possibilities for future discoveries.
 
 ## Will We Survive on Earth?
@@ -310,7 +310,7 @@ Author: Stephen Hawking
   - Clock's history since 1947, symbolizing the proximity of Doomsday.
   - Recent move to two minutes to midnight raises alarm due to political instability and environmental threats.
 - Human Perception of Time:
-  - Personal connection to time, including author's book "A Brief History of Time."
+  - Personal connection to time, including Hawking's book "A Brief History of Time."
   - Awareness of time's passage due to health concerns and limited lifespan.
   - Societal challenges with political instability and populism.
 - Environmental Threats:

@@ -4,7 +4,7 @@ Author: Eric Ries
 
 ## Introduction
 - The Beginning of the Lean Startup Concept:
-  - The author recounts their personal journey of starting a company that eventually failed.
+  - Eric recounts their personal journey of starting a company that eventually failed.
   - Contrasts the glamorous portrayal of successful entrepreneurs in media with the reality of many startup failures.
   - Rejects the oversimplified idea that success hinges solely on determination, brilliance, and timing.
   - Highlights the essential role of meticulous processes in converting product insights into a triumphant company.
@@ -501,14 +501,14 @@ Author: Eric Ries
 - Global Impact of the Lean Startup Movement:
   - The influence of the Lean Startup movement has expanded worldwide in recent years.
   - Aspiring entrepreneurs have access to a wealth of resources, encompassing events, books, and blogs.
-  - The author offers a compilation of valuable resources for further study and practical application.
+  - Eric offers a compilation of valuable resources for further study and practical application.
   - The emphasis lies on taking action rather than solely consuming information, as action-driven learning is more potent.
   - The significance of local resources is underscored, and startup ecosystems have flourished beyond Silicon Valley.
   - Various startup hubs across the globe are now vibrant entrepreneurial communities.
   
 - Official Website and Supplementary Materials:
   - The official website for the Lean Startup is located at http://theleanstartup.com; it provides case studies, additional reading material, and more.
-  - The author's blog, "Startup Lessons Learned," is featured on the website, along with video presentations, slides, and audio recordings.
+  - Eric's blog, "Startup Lessons Learned," is featured on the website, along with video presentations, slides, and audio recordings.
   
 - Lean Startup Meetups:
   - Worldwide, there is a proliferation of Lean Startup meetup groups, with over a hundred such groups at the time of writing.
@@ -528,6 +528,6 @@ Author: Eric Ries
   - Access the Lean Startup Circle mailing list at http://leanstartupcircle.com/.
   
 - Startup Lessons Learned Conference:
-  - The author has successfully organized the Startup Lessons Learned Conference for two consecutive years.
+  - Eric has successfully organized the Startup Lessons Learned Conference for two consecutive years.
   - Detailed information about this conference, also known as SLLConf, is accessible at http://sllconf.com.
 

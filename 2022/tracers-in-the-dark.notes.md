@@ -117,11 +117,11 @@ Author: Andy Greenberg
 
 ### Cryptoanarchy
 - Introduction to Bitcoin:
-  - The author's interest in Bitcoin started in 2011 when they attempted to buy bitcoins on MtGox.com.
+  - Greenberg's interest in Bitcoin started in 2011 when they attempted to buy bitcoins on MtGox.com.
   - Bitcoin had rapidly appreciated in value, from half a penny to just under a dollar within a year.
-  - Reflecting on this experience, the author regrets not persisting, as those bitcoins would be worth millions a decade later.
+  - Reflecting on this experience, Greenberg regrets not persisting, as those bitcoins would be worth millions a decade later.
 - Gavin Andresen's Introduction of Bitcoin:
-  - The author's interest was piqued by a YouTube video of Gavin Andresen's talk in 2011.
+  - Greenberg's interest was piqued by a YouTube video of Gavin Andresen's talk in 2011.
   - Bitcoin was introduced as a "new kind of money" that used cryptography to ensure security.
   - Bitcoin's inventor, Satoshi Nakamoto, created it as a response to the 2008 financial crisis.
 - Bitcoin's Key Features:
@@ -130,7 +130,7 @@ Author: Andy Greenberg
   - Scarcity and controlled distribution made Bitcoin appealing to those skeptical of government control over money.
 - Cypherpunks and Bitcoin's Ideological Background:
   - Andresen described Nakamoto as inspired by the cypherpunks, who aimed to use encryption software to empower individuals.
-  - The author had been researching the cypherpunk movement, a group of libertarian activists using encryption for privacy.
+  - Greenberg had been researching the cypherpunk movement, a group of libertarian activists using encryption for privacy.
   - Cypherpunks shared innovations, ideas, and manifestos on the Cypherpunks Mailing List.
   - Julian Assange, VPNs, and Tor were influenced by cypherpunk discussions.
 - Bitcoin and Financial Privacy:
@@ -145,17 +145,17 @@ Author: Andy Greenberg
 
 ### Silk Road
 - Impact of Forbes Article and Satoshi's Rejection:
-  - The author tracked down Gavin Andresen, interviewed him, and published a one-page article about Bitcoin in Forbes.
-  - The author attempted to interview Satoshi Nakamoto but was declined; this was one of Satoshi's last known communications.
+  - Greenberg tracked down Gavin Andresen, interviewed him, and published a one-page article about Bitcoin in Forbes.
+  - Greenberg attempted to interview Satoshi Nakamoto but was declined; this was one of Satoshi's last known communications.
   - Satoshi Nakamoto disappeared from the internet after the article's release, leaving their identity unknown.
 - Exploring Bitcoin's Usage:
-  - The author's focus was on Bitcoin's potential as "anonymous, private money" and how it was being used.
+  - Greenberg's focus was on Bitcoin's potential as "anonymous, private money" and how it was being used.
   - Gavin Andresen mentioned the Silk Road, a dark web site that sold illegal drugs, as an example of Bitcoin usage.
 - Dark Web and Tor:
   - The Silk Road was a dark web e-commerce market hidden through Tor.
   - Tor provided anonymity, allowing access to dark web sites without revealing users' locations.
 - Initial Doubts about Silk Road:
-  - The author initially found the Silk Road unimpressive due to its design and slow pages.
+  - Greenberg initially found the Silk Road unimpressive due to its design and slow pages.
   - Doubts arose about the Silk Road's credibility and whether it could truly facilitate illegal drug trade.
 - Chuck Schumer's Outcry:
   - Senator Chuck Schumer described the Silk Road as a major threat, facilitated by both Tor and Bitcoin.
@@ -184,7 +184,7 @@ Author: Andy Greenberg
   - He became a prominent and outspoken figure on the site, advocating libertarian ideals.
   - DPR emphasized Silk Road as a "community" and its vendors as "heroes," expressing broader goals.
 - Forbes Interview with Dread Pirate Roberts:
-  - The author developed an obsession with DPR and sought to interview him for Forbes.
+  - Greenberg developed an obsession with DPR and sought to interview him for Forbes.
   - DPR agreed to an in-depth interview via the Silk Road's messaging system.
   - He provided insights into his motivations, ambitions, and views on the Silk Road's impact.
 - Silk Road's Concealed Bitcoin Transactions:
@@ -1452,7 +1452,7 @@ Author: Andy Greenberg
   - She didn't want to participate in the blockchain analysis industry.
   - She believes in privacy technologies and highlighting privacy vulnerabilities.
 - Meeting with Tigran Gambaryan:
-  - In 2021, Tigran Gambaryan meets with the author.
+  - In 2021, Tigran Gambaryan meets with Greenberg.
   - He has left the IRS after a decade and joined Binance, a major cryptocurrency exchange.
   - Gambaryan believes the golden era of crypto tracing might not be over due to untapped leads.
   - Privacy concerns and potential abuses of blockchain analysis tools are discussed.

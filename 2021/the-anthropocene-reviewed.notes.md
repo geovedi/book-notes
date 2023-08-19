@@ -14,10 +14,10 @@ Author: John Green
   - Fascination with the format of book reviews and the challenge of conveying information in limited words.
   - The rise of the five-star rating scale and its application to various aspects of life.
 - Struggles with Health and Identity
-  - The impact of labyrinthitis on the author's life and mental state.
+  - The impact of labyrinthitis on John's life and mental state.
   - Exploring the concept of disease as a metaphor and its portrayal in novels.
   - Reflection on the symbolism of balance and the temporary nature of consciousness.
-  - Reevaluation of the author's direction and creative aspirations during recovery.
+  - Reevaluation of John's direction and creative aspirations during recovery.
 - Transitioning Perspectives in Writing
   - Moving away from disinterested observation in writing reviews.
   - Sarah's insight about the importance of personal experience and memoir in reviews.
@@ -32,7 +32,7 @@ Author: John Green
   - Maurice Sendak's sentiments about missing people, loving the world, and aging.
   - Finding a growing love for the world and embracing both beauty and suffering.
   - The desire to experience life fully, even in the face of discomfort and pain.
-  - Sendak's message to live life fully and the author's attempt to do so.
+  - Sendak's message to live life fully and John's attempt to do so.
 
 ## "You'll Never Walk Alone"
 - Introduction and Shared Human Experience
@@ -115,7 +115,7 @@ Author: John Green
   - Funding Newton's Principia and recognizing its significance.
   - Acknowledging that Halley's ideas weren't always accurate.
 - Personal Connection and Time Perspective
-  - The author's memory of building a bench with their dad.
+  - John's memory of building a bench with their dad.
   - Reflecting on the importance of the bench and their experience with Halley's comet.
   - A later visit to the bench with a significant other.
   - Details about Halley's comet, its composition, and historical interactions with Earth.
@@ -149,10 +149,10 @@ Author: John Green
   - The historical context and inaccuracy of the sentence's portrayal.
   - Reflections on ambivalences and ironies in the novel.
 - Finding Awe and Wonder
-  - Personal anecdote involving the author's son and a brown oak leaf.
+  - Personal anecdote involving John's son and a brown oak leaf.
   - Appreciating aesthetic beauty in ordinary things.
   - The importance of attentiveness and willingness to experience awe.
-  - The author's fondness for humanity's capacity for wonder.
+  - John's fondness for humanity's capacity for wonder.
 
 ## Lascaux Cave Paintings
 - Introduction to Hand Stencils and Art
@@ -383,9 +383,9 @@ Author: John Green
 
 ## Staphylococcus Aureus
 - Introduction and Personal Experience with Infection
-  - Author's experience with a Staphylococcus aureus infection.
+  - John's experience with a Staphylococcus aureus infection.
   - The life-threatening nature of infections before antibiotics.
-  - Author's unique colonization by Staphylococcus aureus.
+  - John's unique colonization by Staphylococcus aureus.
 - Staphylococcus in History and War
   - The danger of staph infections in history.
   - Role of staph infections during wars.
@@ -410,26 +410,26 @@ Author: John Green
   - The impact of penicillin on human life and longevity.
   - Life's desire to exist and thrive.
   - Comparison between life's desire and staph's growth.
-  - Recognition of staph's inherent nature and the author's desire to survive.
+  - Recognition of staph's inherent nature and John's desire to survive.
 
 ## The Internet
 - Introduction to Early Internet Experience
-  - Author's initial encounter with the internet in the early 1990s.
+  - John's initial encounter with the internet in the early 1990s.
   - Description of the internet as a box with technical installation.
   - Limited capabilities of early internet with green letters on a black screen.
 - Initial Dislike and Discovery of Online Interaction
-  - Author's skepticism about the internet's value.
+  - John's skepticism about the internet's value.
   - Introduction to online interaction and global connectivity.
   - Usage of the internet for language practice and learning.
 - Connection and Sharing on CompuServe Teen Forum
-  - Author's discovery of the CompuServe Teen Forum.
+  - John's discovery of the CompuServe Teen Forum.
   - Anonymity and openness in online interactions.
   - Sharing personal experiences and emotions online.
   - Formation of deep connections and friendships.
 - Emergence of Online Culture and Creativity
   - Description of the emerging online culture.
   - Introduction to ASCII art and text-based memes.
-  - Author's increasing involvement and time spent online.
+  - John's increasing involvement and time spent online.
 - Challenges and Transition to Moderator Role
   - Discussion of internet charges and affordability.
   - Becoming a moderator for the Teen Forum.
@@ -446,38 +446,38 @@ Author: John Green
   - Pondering the internet's profound impact on life and thinking.
 - Uncertainty about the Internet's Meaning
   - Stan Muller's perspective on living in the middle of history.
-  - Author's realization of living in the midst of internet history.
+  - John's realization of living in the midst of internet history.
   - Acknowledgment of not fully understanding the internet's significance.
 
 ## Academic Decathlon
 - Introduction to Boarding School and Friendship
-  - Author's enrollment in a boarding school in Alabama.
+  - John's enrollment in a boarding school in Alabama.
   - Close friendship with roommate Todd.
-  - Todd's remark about the author's stream-of-consciousness sharing.
+  - Todd's remark about John's stream-of-consciousness sharing.
 - Supportive Friendship and SAT Adventure
-  - Author and Todd's supportive and candid relationship.
+  - John and Todd's supportive and candid relationship.
   - Journey to Georgia for the SAT.
   - Todd's exceptional performance and a humorous incident.
 - Academic Decathlon and Todd's Plan
-  - Todd's suggestion for the author to join the Academic Decathlon team.
+  - Todd's suggestion for John to join the Academic Decathlon team.
   - The structure of Academic Decathlon with varying GPA levels.
-  - Todd's belief in the author's potential despite poor grades.
+  - Todd's belief in John's potential despite poor grades.
 - Learning and Growth through Academic Decathlon
   - Teamwork and studying together for Academic Decathlon.
   - Learning various subjects and expanding knowledge.
-  - The author's improvement and confidence boost due to Todd's guidance.
+  - John's improvement and confidence boost due to Todd's guidance.
 - Success at State Level and Nationals
-  - The author's achievement in Academic Decathlon.
+  - John's achievement in Academic Decathlon.
   - Medals won and overall team success.
   - Growing academic confidence leading to improved grades.
 - Reflection on Present and the Role of Rivers
-  - The author's reflection on current stress and concerns.
+  - John's reflection on current stress and concerns.
   - Seeking solace and normalcy in being outdoors.
   - Comparison of the river's continuous flow to life's journey.
 - The Impact of Todd's Friendship
   - Memories of shared moments and experiences with Todd.
   - Todd's enduring influence and the impact of his friendship.
-  - Todd's love carrying the author through challenges.
+  - Todd's love carrying John through challenges.
 - Nostalgic Remembrance and Conclusion
   - Nostalgic memory of an Academic Decathlon victory.
   - The passage of time and the significance of shared memories.
@@ -493,7 +493,7 @@ Author: John Green
   - Associations of the sun with gods and religious references.
   - The sun's enigmatic nature and its parallels to the divine.
 - Personal Reflection on Belief and God
-  - The author's struggle to answer questions about belief in God.
+  - John's struggle to answer questions about belief in God.
   - Equating belief to the experience of sunlight and existence.
   - The connection between personal faith and the universe's elements.
 - Navigating Sentimentality and Symbolism
@@ -505,12 +505,12 @@ Author: John Green
   - Tacita Dean's observation on color as a fiction of light.
   - Balancing scientific understanding and emotional response to sunsets.
 - Awe and Gratitude for Sunsets
-  - The author's personal experience of feeling small yet grateful.
+  - John's personal experience of feeling small yet grateful.
   - Toni Morrison's perspective on the sufficiency of beauty.
   - Viewing sunsets as enough in themselves.
 - Vulnerability and Beauty
   - Reflection on vulnerability through the example of a dog.
-  - The author's fear of exposing vulnerability and earnestness.
+  - John's fear of exposing vulnerability and earnestness.
   - Embracing vulnerability as a means to perceive beauty.
 - The Act of Embracing Beauty
   - Photographer Alec Soth's view on vulnerability and beauty.
@@ -592,20 +592,20 @@ Author: John Green
   - Acknowledging human tendency to follow societal norms.
   - Realization of the underlying similarities between animals and humans.
 - The Personal Struggle
-  - Admitting to the author's personal inclination to follow norms.
+  - Admitting to John's personal inclination to follow norms.
   - Recognizing one's own mindless actions despite possessing deep thoughts.
-  - The author's fear of being led to a precipice by external forces.
+  - John's fear of being led to a precipice by external forces.
 - The Significance of the Lemming Myth
   - Emphasizing that the lemming myth survives for its relevance to human behavior.
   - Linking the myth to a deeper understanding of human nature.
   - The enduring nature of the myth as a means of self-reflection.
 - Absurdity of the Anthropocene and Conclusion
   - Penguins of Madagascar as a lighthearted approach to addressing Anthropocene issues.
-  - Affirming the author's provocative opinion on the movie's opening sequence.
+  - Affirming John's provocative opinion on the movie's opening sequence.
 
 ## Piggly Wiggly
 - Introduction and Background
-  - Introduction to the time period (1920) and the author's great-grandfather's occupation.
+  - Introduction to the time period (1920) and John's great-grandfather's occupation.
   - Description of traditional full-service grocery stores of the early 20th century.
   - Mention of the rise of self-service grocery stores and the impact of Clarence Saunders.
 - Clarence Saunders and Piggly Wiggly
@@ -722,21 +722,21 @@ Author: John Green
   - Introduction to the movie "Harvey" and its main character, Elwood P. Dowd.
   - Mention of Josephine Hull winning an Oscar for her role in the film.
   - The film's origins in a Pulitzer Prize–winning play by Mary Chase.
-  - Author's personal connection to "Harvey" during a difficult period in 2001.
+  - John's personal connection to "Harvey" during a difficult period in 2001.
   - Depiction of depression's effects and hopelessness.
 - Experience of Depression
-  - Description of the author's emotional state during the depression.
+  - Description of John's emotional state during the depression.
   - Susan Sontag's quote about "Depression is melancholy minus its charms."
   - The overwhelming psychic pain of depression.
   - William Styron's description of hopelessness and pain.
-  - The connection between hope and survival for the author.
+  - The connection between hope and survival for John.
 - Coping and Reflection on Pain
-  - Author's struggle with eating and excessive consumption of Sprite.
+  - John's struggle with eating and excessive consumption of Sprite.
   - Reflection on staring through a Sprite bottle at a kitchen window.
   - Desire to be free from pain and its all-encompassing presence.
   - A day of contemplating resolutions and reaching out to parents.
 - Support and Quitting Job
-  - Parents' rapid response to the author's distress.
+  - Parents' rapid response to John's distress.
   - Plan to leave job, go back home, and seek treatment.
   - Quitting the job despite loving it and caring for own well-being.
   - Interaction with magazine publisher, Bill Ott, and his unique character.
@@ -750,15 +750,15 @@ Author: John Green
   - Highlights of Elwood P. Dowd's character and his relationship with Harvey.
   - Elwood's kindness and extraordinary attributes despite mental illness.
   - Lines of dialogue that showcase Elwood's unique perspective.
-- Impact of "Harvey" on the Author
-  - Author's identification with Elwood's struggles and hopelessness.
+- Impact of "Harvey" on John
+  - John's identification with Elwood's struggles and hopelessness.
   - The personal significance of Elwood's choice to be pleasant over smart.
-  - The movie's effect on the author's recovery and mental state.
+  - The movie's effect on John's recovery and mental state.
   - Elwood's representation of hope that isn't insincere or superficial.
 - The Power of Hope
   - Emphasis on the genuine nature of hope.
   - Emily Dickinson's poem about hope as a resilient force.
-  - Author's ongoing experience with depression and hope.
+  - John's ongoing experience with depression and hope.
   - The significance of relearning how to listen to hope.
 - Offering Hope to Others
   - Hopeful wishes for the readers' well-being.
@@ -809,7 +809,7 @@ Author: John Green
 - Personal Connection to Amy Krouse Rosenthal
   - Interaction with Amy Krouse Rosenthal in the context of Booklist magazine.
   - Mention of Amy's column in Might magazine and a shared snippet.
-  - Evolution of the author's relationship with Amy.
+  - Evolution of John's relationship with Amy.
 - Origin and Evolution of "Auld Lang Syne"
   - Uncertainty about the origin of "Auld Lang Syne."
   - Introduction of the song's first verse and its variations over centuries.
@@ -821,7 +821,7 @@ Author: John Green
   - Themes of wistfulness and acknowledging human longing.
   - The song's resonance in different cultural contexts and media.
 - Facing Mortality and Amy's Writing
-  - Transition to discussing the author's experience with Amy's illness.
+  - Transition to discussing John's experience with Amy's illness.
   - Reflection on mortality and love surviving death.
   - Amy's writing exploring the finite nature of life and the infinite nature of consciousness.
   - Amy's memoir and its themes of consciousness and love in the face of mortality.
@@ -843,7 +843,7 @@ Author: John Green
 ## Googling Strangers
 - Introduction and Lack of Inborn Gift
   - Childhood perception of not having a specific talent.
-  - Introduction of the author's ability for googling strangers.
+  - Introduction of John's ability for googling strangers.
   - Explanation of personal knack for researching strangers.
 - Personal Use of Googling Strangers
   - Application of googling strangers in daily life.
@@ -856,14 +856,14 @@ Author: John Green
   - Paradox of giving personal information to corporations for comfort.
   - Struggle with creating secure security questions due to available information.
 - Recollection of Traumatic Experience at Hospital
-  - The author's role as a student chaplain in a children's hospital.
+  - John's role as a student chaplain in a children's hospital.
   - Experience of being on call in the hospital's Emergency Department.
   - Arrival of a severely burned three-year-old child.
   - Uncertainty about conveying suffering through language.
 - Interaction with Trauma Team and Parents
   - Reaction of the trauma team to the child's injuries.
   - Description of the child's conscious state and intense pain.
-  - The author's involvement in assisting the medical team.
+  - John's involvement in assisting the medical team.
   - Attempt to create space for medical treatment and communication.
 - Conversation with Parents and Doctor
   - Interaction with the parents of the injured child.
@@ -889,7 +889,7 @@ Author: John Green
 ## Indianapolis
 - Introduction to Indianapolis
   - Indianapolis introduction as the sixteenth largest city in the U.S.
-  - Author's relocation to Indianapolis from New York City.
+  - John's relocation to Indianapolis from New York City.
   - Initial impressions of Indianapolis upon arrival.
 - First Home and Mixed Feelings
   - Moving to a house in Indianapolis with Sarah.
@@ -906,22 +906,22 @@ Author: John Green
   - Vonnegut's perspective on home and Indianapolis.
   - Linking Vonnegut's ideas to the city's character.
 - Perspective Shift and Community
-  - Author's interaction with neighbors who appreciate Indianapolis.
+  - John's interaction with neighbors who appreciate Indianapolis.
   - Discovery of the economic and racial diversity of the area.
   - Realization of the community's diversity and positive aspects.
-  - The author's recognition of his own perspective's role.
+  - John's recognition of his own perspective's role.
 - The Significance of Place in Novels
-  - Importance of Indianapolis in the author's novels.
+  - Importance of Indianapolis in John's novels.
   - Notable scenes set at the corner of 86th and Ditch.
   - Connection between readers' appreciation and the city's portrayal.
 - The Need for Stable Communities
   - Kurt Vonnegut's insight into creating stable communities.
   - The challenge of curing the disease of loneliness.
-  - The author's aspiration to create a stable community.
+  - John's aspiration to create a stable community.
   - Home as a vital space for creativity and personal well-being.
 - Embracing Indianapolis
-  - Reevaluation of the author's perspective on Indianapolis.
-  - Acknowledgment of the author's luck in making Indianapolis home.
+  - Reevaluation of John's perspective on Indianapolis.
+  - Acknowledgment of John's luck in making Indianapolis home.
 
 ## Kentucky Bluegrass
 - Introduction to Benevolent Aliens
@@ -947,7 +947,7 @@ Author: John Green
   - Acknowledgment of some benefits of lawn grass.
   - Suggestion of alternatives, such as edible plant cultivation.
 - Personal Perspective and Lawn Maintenance
-  - The author's personal experience with lawn ownership.
+  - John's personal experience with lawn ownership.
   - Continuation of lawn maintenance despite awareness of its impact.
   - Reflection on the physical disconnection from nature during lawn upkeep.
 
@@ -967,9 +967,9 @@ Author: John Green
 - Pursuit of Winning and Going Faster
   - Reflection on humanity's tendency to compete and win.
   - Concerns about how the drive to win has both advanced and affected humanity.
-  - Distinction between the race's meaning and the author's experience on race day.
+  - Distinction between the race's meaning and John's experience on race day.
 - Race Day Experience and Traditions
-  - Detailed description of the author's race day routine.
+  - Detailed description of John's race day routine.
   - Gathering with friends, biking to various locations, and engaging in traditions.
   - Highlighting the sense of community and continuity through traditions.
 - The Impact of the Pandemic
@@ -1042,10 +1042,10 @@ Author: John Green
 - Introduction to Wendover and the Bonneville Salt Flats
   - Description of a visit to Wendover, a border town between Utah and Nevada.
   - Introduction to the Bonneville Salt Flats, a unique salt-encrusted land near the Great Salt Lake.
-  - Relationship between the author and Sarah, highlighting the significance of "third things" in their relationship.
+  - Relationship between John and Sarah, highlighting the significance of "third things" in their relationship.
 - The Power of "Third Things"
   - Donald Hall's concept of "third things" in relationships.
-  - Examples of "third things" in the author's relationship with Sarah.
+  - Examples of "third things" in John's relationship with Sarah.
   - Art as the first "third thing" that brought them together.
 - Fond Memories and Beginnings
   - Initial interactions and forming a two-person book club.
@@ -1057,15 +1057,15 @@ Author: John Green
   - Description of the town's historical context, including its role in World War II.
 - The Fascination with Casinos
   - Personal enjoyment of casinos despite acknowledging their negative aspects.
-  - The author's affinity for playing cards and engaging with strangers in casinos.
+  - John's affinity for playing cards and engaging with strangers in casinos.
   - Encounter with Marjorie and their conversation about her marriage.
 - Conversational Comfort and Uncertainty
-  - The author's contrast between his reluctance to converse in most situations and his ease at the blackjack table.
+  - John's contrast between his reluctance to converse in most situations and his ease at the blackjack table.
   - Interaction with Anne and the dealer, James, during a blackjack game.
   - The idea of avoiding certain subjects and self-protective conversational tactics.
 - Reflecting on the Past
-  - Connection between James's comment about being a kid and the author's reflections on the past.
-  - The author's internal discomfort and recollections sparked by James's comment.
+  - Connection between James's comment about being a kid and John's reflections on the past.
+  - John's internal discomfort and recollections sparked by James's comment.
   - The idea that past experiences and selves persist within a person.
 - The Bonneville Salt Flats: Geology and Philosophy
   - Description of the Bonneville Salt Flats and its geological history.
@@ -1076,7 +1076,7 @@ Author: John Green
   - Dual human perspectives: believing the world exists for our benefit and nature's disregard for human existence.
   - The use of the Bonneville Salt Flats for mining, drag racing, movies, and photoshoots.
 - A Sense of Isolation
-  - The author's experience of feeling isolated while walking on the salt flats.
+  - John's experience of feeling isolated while walking on the salt flats.
   - The surprise of encountering a mirage and its significance.
   - Sarah's intervention and their shared gaze that brings calmness.
 - Nostalgia and Present Moments
@@ -1086,18 +1086,18 @@ Author: John Green
 
 ## Hiroyuki Doi's Circle Drawings
 - Repetition and Engrossment
-  - Author's unusual habit of signing his name repeatedly.
+  - John's unusual habit of signing his name repeatedly.
   - Signing sheets for his novel and the satisfaction derived from the task.
   - Connection between repetitive actions and obsessive-compulsive disorder.
   - Enjoyment of doodling as a repetitive activity.
 - Benefits of Repetitive Tasks
   - Repetitive actions engaging the brain and relieving stress.
   - Study indicating that doodling aids memory retention.
-  - Author's engagement in repetitive tasks during moments of burnout.
+  - John's engagement in repetitive tasks during moments of burnout.
 - Personal Experience with Repetition
   - Signing sheets of paper for books as a personal activity.
-  - The author's focus on the task for engrossment.
-  - Clarification of the author's aim to feel "engrossed."
+  - John's focus on the task for engrossment.
+  - Clarification of John's aim to feel "engrossed."
 - Intriguing Ink Drawings by Hiroyuki Doi
   - Introduction to Hiroyuki Doi's intricate ink drawings.
   - Description of Doi's drawings as conglomerations of circles forming intricate abstractions.
@@ -1111,7 +1111,7 @@ Author: John Green
   - The immersive nature of Doi's artwork.
   - Doi's drawings as a means to find relief from consuming pain.
 - Grief and Relief through Art
-  - Author's personal experience of grief as a series of fading circles.
+  - John's personal experience of grief as a series of fading circles.
   - Comparison of grief to tightly packed circles.
   - Desperation for relief from grief and the desire for calmness.
 - The Calming Flow State
@@ -1134,24 +1134,24 @@ Author: John Green
 ## Whispering
 - Introduction to "Airport Alex" and Punctuality
   - Introduction to Alex, a calm and easygoing friend.
-  - Author's contrasting personality as "Airport Alex."
-  - Author's perpetual worry about punctuality and its source in fear.
+  - John's contrasting personality as "Airport Alex."
+  - John's perpetual worry about punctuality and its source in fear.
   - Concept of "Airport Alex" as an identifier for moments of stress.
 - Morning Routine and Punctuality Struggles
-  - Description of the author's morning routine with his daughter.
-  - The author's role as the Keeper of the Schedule.
+  - Description of John's morning routine with his daughter.
+  - John's role as the Keeper of the Schedule.
   - The experience of time for small children.
-  - Author's anxiety about being late for daycare.
+  - John's anxiety about being late for daycare.
 - A Child's Perspective on Time
-  - Description of the author's daughter's nonchalant attitude toward time.
+  - Description of John's daughter's nonchalant attitude toward time.
   - Small children's perception of time not governed by clocks.
-  - The author's role as the Maintainer of Punctuality.
+  - John's role as the Maintainer of Punctuality.
 - Racing Against Time
-  - The author's constant worry about being late.
+  - John's constant worry about being late.
   - The idea of punctuality being driven by fear.
   - The frantic attempt to manage time and avoid tardiness.
 - A Whisper of Relief
-  - The author's experience with his daughter during a busy morning.
+  - John's experience with his daughter during a busy morning.
   - The child's secretive whisper during a time of chaos.
   - The significance of the whisper in offering relief and connection.
 - The Power of Whispering
@@ -1163,15 +1163,15 @@ Author: John Green
   - Whispering as an intimate form of speech.
   - Whispering as a way to communicate discreetly.
 - The Absence of Whispering During the Pandemic
-  - The author's lack of exposure to whispers during the pandemic.
+  - John's lack of exposure to whispers during the pandemic.
   - Reflection on the last whisper heard before the pandemic.
   - The absence of whispers and missing its intimacy.
 - Whispering with Loved Ones
   - Whispering as a way to convey fears and concerns.
-  - The author's children whispering worries to him.
+  - John's children whispering worries to him.
   - The courage required for children to share worries through whispers.
 - Parenthood and Communication
-  - Author's reflections on his role as a parent in conversations.
+  - John's reflections on his role as a parent in conversations.
   - Acknowledgment of uncertainty in responding to children's fears.
   - The importance of listening and allowing children to express themselves.
 
@@ -1191,7 +1191,7 @@ Author: John Green
   - Acknowledgment of complexity in defining life.
 - Personal Experience with Viral Meningitis
   - Personal encounter with a strand of RNA causing viral meningitis.
-  - Severe symptoms and effects of the virus on the author.
+  - Severe symptoms and effects of the virus on John.
   - Comparison of bacterial and viral meningitis.
   - Virginia Woolf's description of the inadequacy of language for pain.
 - The Inexpressible Nature of Pain
@@ -1222,7 +1222,7 @@ Author: John Green
 ## Plague
 - Introduction and Personal Experience
   - Calling pharmacy to refill prescription during a pandemic.
-  - Importance of Mirtazapine medication for the author.
+  - Importance of Mirtazapine medication for John.
   - Encounter with a sympathetic pharmacy worker.
   - The imperfection of the world.
 - Pandemics and Historical Precedents
@@ -1273,17 +1273,17 @@ Author: John Green
   - Use of the pathetic fallacy in literature to relate emotions to nature.
 - Gardening and Groundhog Nemesis
   - Gardening as recommended therapy.
-  - Introduction of the author's nemesis, a groundhog.
+  - Introduction of John's nemesis, a groundhog.
   - Frustration and attempts to deter the groundhog.
   - The groundhog as a source of purpose.
 - Winter and Reflection
   - Reflection on the current winter season.
-  - Author's activity of clearing the garden in winter.
+  - John's activity of clearing the garden in winter.
   - Inner dialogue about productivity and procrastination.
-  - The author's desire for solitude and time to oneself.
+  - John's desire for solitude and time to oneself.
 - Embracing the Local and Unromantic
   - Wintry mix weather phenomenon in Indianapolis.
-  - The author's connection to unlovely Midwestern weather.
+  - John's connection to unlovely Midwestern weather.
   - Developing an appreciation for a place over time.
   - The tension between romanticism and practicality in weather descriptions.
 - Emotions, Weather, and Human Perception
@@ -1292,24 +1292,24 @@ Author: John Green
   - Human tendency to see the world through personal emotions.
   - The contrast between nature's indifference and human emotions.
 - Nature's Scorn and Making Meaning
-  - The author's nemesis as a symbol of nature's scorn.
+  - John's nemesis as a symbol of nature's scorn.
   - Humans attributing meaning to the world around them.
   - The nature of meaning-making as inherent to human consciousness.
-  - The author's choice of how to imbue meaning to experiences.
+  - John's choice of how to imbue meaning to experiences.
 - Finding Beauty in the Present
-  - The author's experience with wintry mix weather.
+  - John's experience with wintry mix weather.
   - The importance of perspective and company in shaping experiences.
   - The role of context and companionship in perceiving beauty.
   - Embracing the current moment and appreciating the experience.
 - Conclusion and Reflection
-  - The author's reflection on the experience.
+  - John's reflection on the experience.
   - The significance of how something is perceived rather than what is perceived.
   - Giving the wintry mix weather a positive evaluation.
 
 ## The Hot Dogs of Bæjarins Beztu Pylsur
 - European Travel and Personalities
   - Introduction to the summer of 2008 trip to Europe with friends Laura and Ryan.
-  - Contrasting travel styles: author's more relaxed approach vs. Laura and Ryan's adventurous spirit.
+  - Contrasting travel styles: John's more relaxed approach vs. Laura and Ryan's adventurous spirit.
   - The focus on Iceland due to its unique attractions and free stopovers offered by Icelandair.
 - Swedish Experience and Introduction to Iceland
   - Positive experiences in Sweden and Denmark.
@@ -1318,11 +1318,11 @@ Author: John Green
   - A sudden roar and eruption of celebration from the people.
 - Spontaneous Celebration and Emotional Outpouring
   - The crowd's emotional response to an unknown event.
-  - The author's enthusiastic participation in the celebration.
+  - John's enthusiastic participation in the celebration.
   - Discovering that Iceland had won its first team Olympic medal in men's handball.
-  - Comparing the celebration to reactions in the author's home country.
+  - Comparing the celebration to reactions in John's home country.
 - Embracing Icelandic Culture
-  - The author's change of perspective after the celebration.
+  - John's change of perspective after the celebration.
   - A visit to a museum and exploration of Iceland's history.
   - Highlighting the country's unique qualities and natural wonders.
   - Humorous experience with a tour guide in adverse weather conditions.
@@ -1342,19 +1342,19 @@ Author: John Green
   - Description of the app's original design with handwriting-like font and yellow background.
   - Explanation of skeuomorphic design, retaining elements of original objects' design in digital interfaces.
 - Transition from Physical to Digital Note-Taking
-  - Author's history of taking notes in book margins.
+  - John's history of taking notes in book margins.
   - Reluctance to abandon physical note-taking with pen and book.
   - Gradual shift to using the Notes app on iPhone due to convenience and accessibility.
 - The Challenge of Comprehensible Digital Notes
   - The Notes app's digital format not making notes more understandable.
   - Examples of puzzling and context-lacking notes.
-  - Notes serving as a form of autobiography, reflecting the author's interests and concerns.
+  - Notes serving as a form of autobiography, reflecting John's interests and concerns.
 - Annual Snapshot of Notes and Autobiographical Insights
   - A yearly breakdown of selected notes from the Notes app.
-  - Each year's note reflecting the author's thoughts, observations, and feelings.
+  - Each year's note reflecting John's thoughts, observations, and feelings.
   - Reflections on specific notes and their origins, some with explanations and others remaining unclear.
 - Transition to Different Note-Taking App
-  - Author's shift to a different note-taking app in 2020.
+  - John's shift to a different note-taking app in 2020.
   - Comparison of Notes app to marginalia in an old book – both becoming relics.
   - Highlighting a note about sending quotes to Sarah Manguso.
 - Reflections on Selected Notes
@@ -1362,7 +1362,7 @@ Author: John Green
   - Exploration of notes reflecting thoughts on life, memory, and conversations.
   - Explanation of notes serving as chronicling and idea storage.
 - Memorable and Quirky Notes
-  - The author's method of dealing with social anxiety through note-taking.
+  - John's method of dealing with social anxiety through note-taking.
   - Example of a memorable line heard in a bar, which might be used in a novel.
   - Personal reflection on a note about drinking Strawberry Hill and its change in taste over time.
 - The Nature of Memory and Literal Interpretation
@@ -1370,15 +1370,15 @@ Author: John Green
   - Reflection on a note about a repeated phrase, despite its meaning being forgotten.
   - Exploration of a note about a literal interpretation in a religious context.
 - A Glimpse of Creative Process
-  - The author's memory of a pivotal moment when one sentence was saved from a scrapped novel.
+  - John's memory of a pivotal moment when one sentence was saved from a scrapped novel.
   - Personal attachment to the sentence and its use in a subsequent work.
 - Inception of Digital Note-Taking
-  - The author's first note in the Notes app, inspired by a song lyric.
+  - John's first note in the Notes app, inspired by a song lyric.
   - Meaning of the lyric and its nostalgic significance.
 
 ## The Mountain Goats
 - Unconditional Love for the Mountain Goats
-  - Author's profound and unconditional love for the band the Mountain Goats.
+  - John's profound and unconditional love for the band the Mountain Goats.
   - Absence of a favorite song or album; all songs are favorites.
   - Introduction to the band's influence through a friend's recommendation.
 - Initial Connection and Growth
@@ -1386,16 +1386,16 @@ Author: John Green
   - Early connection to the band's album "Tallahassee."
   - Exploration of Darnielle's portrayal of love in songs like "International Small Arms Traffic Blues" and "Louisiana graveyard."
 - Personal Moments and Evolving Connection
-  - The Mountain Goats' songs accompanying the author through life's milestones.
-  - Role of the band's music during significant life events, like the birth of the author's kids and experiences of grief.
+  - The Mountain Goats' songs accompanying John through life's milestones.
+  - Role of the band's music during significant life events, like the birth of John's kids and experiences of grief.
   - Reflecting on the impact of the song "This Year" during challenging times.
 - Profound Influence on Identity and Values
-  - The Mountain Goats' influence on shaping the author's thinking and listening habits.
-  - The profound impact of the band on the author's identity and sense of self.
+  - The Mountain Goats' influence on shaping John's thinking and listening habits.
+  - The profound impact of the band on John's identity and sense of self.
   - Importance of certain lines in Mountain Goats songs as guiding principles in life.
 - Guiding Light and Witnessing Others
   - Highlighting a significant couplet from the band's lyrics.
-  - Discussion of the couplet's meaning and its impact on the author's perspective.
+  - Discussion of the couplet's meaning and its impact on John's perspective.
   - Connection between the couplet and the desire to bring light to the world and appreciate the light in others.
 
 ## The Qwerty Keyboard
@@ -1404,7 +1404,7 @@ Author: John Green
   - Home keys' lack of common letters like "e" and "t."
   - Overview of the keyboard's historical development and unique layout.
 - Childhood Fascination with Inventors
-  - Author's fascination with inventors and their inventions.
+  - John's fascination with inventors and their inventions.
   - Childhood example of writing about Thomas Edison.
   - Acknowledgment of Edison's collaborative nature in inventing.
 - Building Collaborative Systems
@@ -1430,13 +1430,13 @@ Author: John Green
   - Brief mention of the Dvorak Simplified Keyboard.
   - Strengths of QWERTY layout in terms of hand alternation.
 - Personal Connection and Writing Path
-  - Author's personal relationship with typing.
+  - John's personal relationship with typing.
   - Typing as a skill developed for video games and excellence.
   - Typing speed as a representation of thinking speed.
 - Identity and Communication through Typing
   - Online identity and anonymity linked to typing.
   - Typing as a way to transcend physical limitations.
-  - Author's ongoing connection to typing as a means of self-expression.
+  - John's ongoing connection to typing as a means of self-expression.
 
 ## The World's Largest Ball of Paint
 - Introduction to American Eccentricity
@@ -1445,7 +1445,7 @@ Author: John Green
 - Geographic Cures and Personal Experiences
   - Personal experience of visiting world's largest balls on a road trip.
   - Reference to the Emily Dickinson poem "I felt a Funeral, in my Brain."
-  - Author's attempt at a geographical cure during a difficult time.
+  - John's attempt at a geographical cure during a difficult time.
 - Roadside Attractions and Collaboration
   - Interest in roadside attractions as a junction of large systems and individual efforts.
   - Role of the interstate highway system and need for extraordinary attractions.
@@ -1453,7 +1453,7 @@ Author: John Green
 - Individual Pursuits and Obsessions
   - Joel Waul's example of obsessively creating the world's largest ball of rubber bands.
   - Waul's practical idea and dedication to his creation.
-  - Author's fascination with individuals dedicating themselves to seemingly insignificant projects.
+  - John's fascination with individuals dedicating themselves to seemingly insignificant projects.
 - The World's Largest Ball of Paint
   - Story of the world's largest ball of paint in Alexandria, Indiana.
   - How Mike Carmichael started and maintained the ball of paint.
@@ -1461,13 +1461,13 @@ Author: John Green
 - Rethinking the Role of Genius
   - Childhood belief in art being driven by individual geniuses.
   - Recognition of circumstance's role in greatness.
-  - Evolution of the author's perspective on genius and collaborative work.
+  - Evolution of John's perspective on genius and collaborative work.
 - Art as a Collective Effort
   - The idea that even the most extraordinary genius relies on collaboration.
   - Rejection of the idea that art needs to be solely driven by individual brilliance.
   - Comparison of great achievements and shifts in history to collaboration.
 - Personal Impact on Art and Life
-  - Author's personal aspirations for artistic genius.
+  - John's personal aspirations for artistic genius.
   - Acknowledgment of the potential overemphasis on individual importance.
   - Emphasis on the meaningfulness of personal contributions.
 - The Meaning of Art
@@ -1477,15 +1477,15 @@ Author: John Green
 
 ## Sycamore Trees
 - Introduction to the "Why?" Game
-  - Introduction to the "Why?" game children play with the author.
+  - Introduction to the "Why?" game children play with John.
   - Explanation of the recursive questioning in the game.
 - Teenage Nihilism and the "What's Even the Point?" Game
-  - Author's use of the "Why?" game as a teenager.
-  - Introduction to the "What's Even the Point?" game in the author's mind.
-  - Author's embrace of nihilism and certainty about meaninglessness.
-- Author's Experience with the "What's Even the Point?" Game
+  - John's use of the "Why?" game as a teenager.
+  - Introduction to the "What's Even the Point?" game in John's mind.
+  - John's embrace of nihilism and certainty about meaninglessness.
+- John's Experience with the "What's Even the Point?" Game
   - Personal experience of feeling the "chill in the air" and playing the game.
-  - The author's struggle with finding purpose in actions and existence.
+  - John's struggle with finding purpose in actions and existence.
   - Disgust with his own attempts to find meaning and hope.
 - The Overwhelming Sensation of Despair
   - Experience of a blizzard-like blinding white light during the game.
@@ -1520,22 +1520,22 @@ Author: John Green
   - The immense American sycamore tree as a symbol.
   - Feeling the solace and relief in the shade of the tree.
 - A Father's Love and Conclusion
-  - Interaction with the author's son.
+  - Interaction with John's son.
   - Expression of love and difficulty in doing so.
 
 ## "New Partner"
 - The Magic of a Song
   - Heartbreak and falling in love as overwhelming experiences.
   - The song "New Partner" by Palace Music as a magical song.
-  - The song's ability to transport the author to different moments.
+  - The song's ability to transport John to different moments.
 - Song's Mysterious Lyrics
-  - "New Partner" as the author's favorite song.
+  - "New Partner" as John's favorite song.
   - Mystery behind the song's lyrics and meaning.
   - Quoted lyrics and their unclear significance.
 - Personal Memories Attached to the Song
   - The transformative power of the song to evoke past moments.
   - Connection between heartbreak and falling in love.
-  - The song's ability to transport the author to different life stages.
+  - The song's ability to transport John to different life stages.
 - Art's Role in Survival
   - Reference to Kaveh Akbar's perspective on art's survival.
   - Importance of art that resonates with personal experiences.
@@ -1563,11 +1563,11 @@ Author: John Green
 - Facing the Challenges of Parenthood
   - Transition to fatherhood and feelings of unpreparedness.
   - Struggle to soothe a crying baby and feelings of incompetence.
-  - The author's use of the song to manage frustration and stress.
+  - John's use of the song to manage frustration and stress.
 - The Song Evolving with Time
-  - Evolution of the author's relationship with the song.
+  - Evolution of John's relationship with the song.
   - Connecting the song to different life stages.
-  - Sharing the song with the author's own son.
+  - Sharing the song with John's own son.
 - Symbolic Significance and Conclusion
   - The song symbolizing past and present love.
   - Dancing to the song with Sarah and their son.
@@ -1576,14 +1576,14 @@ Author: John Green
 
 ## Three Farmers on Their Way to a Dance
 - The Power of Photographs
-  - Presence of daily-viewed photographs depicting the author and his partner.
+  - Presence of daily-viewed photographs depicting John and his partner.
   - Changing perception of the same photograph over the years.
   - Acknowledgment of how future perspectives alter the interpretation of the picture.
 - The Photograph by August Sander
   - Introduction to the photograph "Young Farmers, 1914" by August Sander.
   - Sander's extensive project "People of the 20th Century."
   - The photograph's significance as a well-known portrayal of young farmers.
-- The Author's Obsession with the Photograph
+- John's Obsession with the Photograph
   - Discovery of the photograph through Richard Powers's novel.
   - Personal fascination and years spent researching the depicted boys.
   - Description of the photograph and its captivating elements.
@@ -1629,15 +1629,15 @@ Author: John Green
   - The German translation's intriguing title "Wie hat Ihnen das Anthropozän bis jetzt gefallen?"
   - Reflecting on the translation's meaning: "How Have You Enjoyed the Anthropocene So Far?"
 - Meaning of Life and Perspectives
-  - Long-standing joke between the author and his brother about the meaning of life.
+  - Long-standing joke between John and his brother about the meaning of life.
   - Different responses from the brother, emphasizing caring for others and paying attention.
   - The concept of humans being tools for the universe to know itself.
 - Perception and Attention
   - John Ashbery's "Self-Portrait in a Convex Mirror" and its lines about attention.
-  - The author's attempt to focus attention on the present moment.
+  - John's attempt to focus attention on the present moment.
   - Use of quotes and the aspiration to open the room of attention.
 - Learning from Others
-  - Desire to learn from John Ashbery and the author's brother.
+  - Desire to learn from John Ashbery and John's brother.
   - The pursuit of making meaning and understanding its significance.
   - Exploration of personal actions within the larger world.
 - Connection with Earth and Creation

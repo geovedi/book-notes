@@ -469,7 +469,7 @@ Author: Ashlee Vance
 
 ### Chris Kemp on Chris Kemp, Spring 2017
 - Introduction and Intent
-  - The narrator had the opportunity to closely observe Stealth Space's operations, recording conversations and experiences.
+  - Vance had the opportunity to closely observe Stealth Space's operations, recording conversations and experiences.
   - The goal was to convey how engineers thought, solved problems, and handled challenges in the space business.
 - Chris Kemp's Background
   - Chris Kemp's childhood in upstate New York, then Alabama, where his father was a neurobiologist.
@@ -923,7 +923,7 @@ Author: Ashlee Vance
 
 ### Limits
 - Introduction:
-  - The narrator meets Polyakov and Anisimov for a trip to Firefly Farm.
+  - Vance meets Polyakov and Anisimov for a trip to Firefly Farm.
   - The company's successful engine test is celebrated with a pig roast.
   - Polyakov's mood deteriorates due to various frustrations.
 - Polyakov's Frustrations:
@@ -935,7 +935,7 @@ Author: Ashlee Vance
   - Polyakov and Markusic argue; Polyakov decides to leave and skip upcoming events.
   - On the flight home, Polyakov expresses frustration and disappointment.
 - Empathy for Polyakov:
-  - The narrator's perspective on Polyakov's character and motivations.
+  - Vance's perspective on Polyakov's character and motivations.
   - Polyakov's genuine dedication to rockets for higher purposes.
 - Tension and Discontent:
   - Firefly ships its rocket from Texas to Vandenberg, facing delays.
@@ -951,7 +951,7 @@ Author: Ashlee Vance
 
 ### Flameout
 - US Government Intervention:
-  - In December 2020, Polyakov informs the narrator that the US government is blocking Firefly from obtaining a launch license.
+  - In December 2020, Polyakov informs Vance that the US government is blocking Firefly from obtaining a launch license.
   - Pressure from various agencies forces Polyakov to step away from Firefly, sell most of his shares, and relinquish control.
   - The government demands Polyakov's departure from the board of directors and implements restrictions on his actions.
 - Polyakov's Reaction and Situation:
@@ -968,7 +968,7 @@ Author: Ashlee Vance
   - Polyakov's stake is reduced to about 50%, with the company now valued at over $1 billion.
   - NASA awards Firefly a $93 million contract for a lunar lander, utilizing acquired technology.
 - Polyakov's Interactions and Further Ventures:
-  - Polyakov's relationship with the narrator becomes strained after a story linking his situation to another Russian founder's experience.
+  - Polyakov's relationship with Vance becomes strained after a story linking his situation to another Russian founder's experience.
   - He moves his family to Scotland, acquires estates, and considers selling gaming companies.
   - Polyakov discusses the unfair treatment of other companies with foreign investments.
 - Polyakov's Regret and Defiance:

@@ -4,11 +4,11 @@ Author: David Sax
 
 ## Introduction
 - Introduction
-  - The author recounts a trip to South Korea to speak about his book, "The Revenge of Analog."
-  - The conference focused on emerging digital technologies, but the author remained interested in the analog future.
-  - The author's background in witnessing the rise of digital technology and its promises is discussed.
+  - Sax recounts a trip to South Korea to speak about his book, "The Revenge of Analog."
+  - The conference focused on emerging digital technologies, but Sax remained interested in the analog future.
+  - Sax's background in witnessing the rise of digital technology and its promises is discussed.
 - The Digital Promise
-  - The author reflects on the rapid transformation brought about by digital technology.
+  - Sax reflects on the rapid transformation brought about by digital technology.
   - The promise of the digital future included consistent improvements and advancements across all aspects of life.
   - Moore's Law, predicting exponential growth in computer power, was seen as proof of the inevitable digital future.
   - The digital transformation was hailed as progress, and various aspects of life were rapidly digitized.
@@ -19,11 +19,11 @@ Author: David Sax
 - The Disillusionment
   - The reality of the digital future during the pandemic was not as liberating as anticipated.
   - Screen overload, physical strain, anxiety, and isolation were some negative effects.
-  - The author's personal experiences during the pandemic highlighted the shortcomings of the digital-dominated life.
+  - Sax's personal experiences during the pandemic highlighted the shortcomings of the digital-dominated life.
 - Reflecting on Analog
-  - The author looks back at past predictions of a future resembling E. M. Forster's "The Machine Stops."
+  - Sax looks back at past predictions of a future resembling E. M. Forster's "The Machine Stops."
   - The pandemic provided an opportunity to experience the mediated digital world compared to the real analog world.
-  - The author contemplates whether the analog world can offer something more fulfilling than the digital one.
+  - Sax contemplates whether the analog world can offer something more fulfilling than the digital one.
 - Defining Analog
   - The term "analog" is used broadly to mean "not digital."
   - Analog is described as messy, imperfect, and encompassing a diverse spectrum of experiences.
@@ -31,9 +31,9 @@ Author: David Sax
 - Analog's Promise
   - Analog future is defined as one that elevates the most valuable aspects of the real world.
   - Real experiences, emotions, relationships, and human existence become central.
-  - The author's aim is not to reject digital technology but to build a future where it complements analog experiences.
+  - Sax's aim is not to reject digital technology but to build a future where it complements analog experiences.
 - Exploring the Analog Future
-  - The author engaged with people worldwide to learn from their pandemic experiences.
+  - Sax engaged with people worldwide to learn from their pandemic experiences.
   - The book's chapters are organized according to a typical week, addressing work, school, shopping, culture, and more.
   - Personal experiences are shared to highlight the contrast between analog and digital during lockdown.
 - The Balance

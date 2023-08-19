@@ -7,7 +7,7 @@ Author: Gabor Maté
   - The society's fixation on health and wellness has led to a multibillion-dollar industry.
   - Media bombards people with health-related information, pushing self-improvement methods.
   - Despite efforts to improve health, collective health is deteriorating.
-  - The author, a physician, notices links between individual health and social-emotional contexts.
+  - Maté, a physician, notices links between individual health and social-emotional contexts.
 - The Toxic Culture and Health:
   - The book focuses on the concept of a "toxic culture" affecting health.
   - Toxic culture includes social structures, beliefs, values, and assumptions.
@@ -289,7 +289,7 @@ Author: Gabor Maté
 
 ### Trouble at the Threshold: Before We Come Into the World
 - Introduction
-  - The excerpt discusses the author's personal experience during their partner's pregnancy and the impact of stress and emotions on the developing baby.
+  - The excerpt discusses Maté's personal experience during their partner's pregnancy and the impact of stress and emotions on the developing baby.
   - It touches upon the complex interplay of psychological states between partners and the importance of support during pregnancy.
 - Impact of Maternal Stress on Development
   - Maternal stress during pregnancy has profound effects on the developing fetus.
@@ -313,7 +313,7 @@ Author: Gabor Maté
 ### What Choice Do I Have? Childbirth in a Medicalized Culture
 - Introduction and Historical Context
   - Introduction to the concept of rehumanizing birth and acknowledging limits to dominating nature.
-  - Author's experience as a family physician performing episiotomies during deliveries.
+  - Maté's experience as a family physician performing episiotomies during deliveries.
   - Discovery of alternative birthing practices challenging conventional medical interventions.
   - Highlights of traditional practices validated by solid medical research.
   - Importance of aligning medical practice with both scientific advances and traditional wisdom.
@@ -345,7 +345,7 @@ Author: Gabor Maté
 
 ### Horticulture on the Moon: Parenting, Undermined
 - Introduction
-  - Author's background and experience in parenting.
+  - Maté's background and experience in parenting.
   - Significance of addressing parental stress and its effects on child development.
   - Mention of a newspaper article opposing the notion of letting babies cry themselves to sleep.
 - Parental Stress and Child Development
@@ -658,7 +658,7 @@ Author: Gabor Maté
 ### Society's Shock Absorbers: Why Women Have It Worse
 - Introduction: Gender and Health Disparities
   - The chapter explores why women experience chronic illness and mental health conditions more frequently than men.
-  - The author suggests that the answers lie in societal dynamics and patriarchal influences.
+  - Maté suggests that the answers lie in societal dynamics and patriarchal influences.
 - Patriarchy's Impact on Women's Health
   - Patriarchy's role in women's chronic illness and mental health conditions is examined.
   - Subdued expression of anger in women leads to emotional distress and negative health outcomes.
@@ -938,31 +938,31 @@ Author: Gabor Maté
 
 ### Jesus in the Tipi: Psychedelics and Healing
 - Introduction and Personal Experience:
-  - The author recounts an experience where Shipibo shamans expelled them from a retreat.
+  - Maté recounts an experience where Shipibo shamans expelled them from a retreat.
   - They reflect on their role as a healer using ayahuasca, a plant medicine.
-  - The author's past ceremonies have yielded minimal results, leaving them skeptical about personal transformation.
+  - Maté's past ceremonies have yielded minimal results, leaving them skeptical about personal transformation.
 - Temple of the Way of Light and Shamans:
-  - The author describes the Temple of the Way of Light as a reputable place for ayahuasca ceremonies.
+  - Maté describes the Temple of the Way of Light as a reputable place for ayahuasca ceremonies.
   - The temple is run by an Englishman named Matthew, working with Shipibo shamans.
   - The shamans and the staff aim to provide an authentic and meaningful experience for Western participants.
 - Ayahuasca Ceremonies and Personal Transformation:
-  - The author's role involves facilitating ayahuasca ceremonies and helping participants set intentions.
+  - Maté's role involves facilitating ayahuasca ceremonies and helping participants set intentions.
   - They describe the process of plant sessions at night and their facilitation during the day.
-  - The author expresses skepticism about their own personal healing through ayahuasca.
+  - Maté expresses skepticism about their own personal healing through ayahuasca.
 - Experiencing the Ceremony and Insights:
-  - The author joins the group for ceremonies, but nothing transformative happens for them.
+  - Maté joins the group for ceremonies, but nothing transformative happens for them.
   - Despite disappointments, they continue participating, reflecting on the experiences of others.
-  - The shamans meet with the author, revealing that their energy is disturbing and dense.
+  - The shamans meet with Maté, revealing that their energy is disturbing and dense.
 - Transformation and Healing:
-  - The shamans suggest that the author's unresolved energy is affecting the group negatively.
-  - Initially taken aback, the author accepts the shamans' insights and agrees to work on their energy.
-  - The author spends days in isolation, receiving special ceremonies from the shamans.
+  - The shamans suggest that Maté's unresolved energy is affecting the group negatively.
+  - Initially taken aback, Maté accepts the shamans' insights and agrees to work on their energy.
+  - Maté spends days in isolation, receiving special ceremonies from the shamans.
 - Case Studies and Healing Power of Psychedelics:
-  - The author presents cases of individuals who have experienced healing through psychedelics.
+  - Maté presents cases of individuals who have experienced healing through psychedelics.
   - The story of Mee Ok, a Korean adoptee, highlights the transformational power of ayahuasca.
   - The body-mind unity is discussed as a mechanism for healing and transformation.
 - Psychedelics as Transformational Tools:
-  - The author introduces the idea of psychedelics as transformational teachers.
+  - Maté introduces the idea of psychedelics as transformational teachers.
   - Plant medicines have been traditionally used for guidance, wisdom, and connection.
   - Wade Davis emphasizes the profound insights gained through psychedelics.
 - Mechanisms of Transformation through Psychedelics:

@@ -472,7 +472,7 @@ Author: Christophe Galfard
   - Earth is a massive ball with things sticking to its surface due to the curved slope it creates.
   - Everything, including light, follows the curves and slopes in spacetime.
 - Experiment in Space:
-  - The narrator finds themselves in outer space, experiencing weightlessness.
+  - Christophe finds themselves in outer space, experiencing weightlessness.
   - They let go of a vase and observe its motion.
   - Gravity is still at work, but the vase doesn't fall in the absence of a planet.
 - Gravity and Falling:
@@ -491,7 +491,7 @@ Author: Christophe Galfard
   - Stars' bending of spacetime creates a galaxy's gravitational field.
 - Universe's History and Expansion:
   - Einstein's theory suggests the universe might have a history, being smaller in the past.
-  - The narrator contemplates what this expansion might mean.
+  - Christophe contemplates what this expansion might mean.
 
 ### Cosmology
 - Complexity and Uncertainty in Understanding the Universe

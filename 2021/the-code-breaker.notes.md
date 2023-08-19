@@ -1166,7 +1166,7 @@ Author: Walter Isaacson
 
 ### I Learn to Edit
 - Hands-On CRISPR Experience
-  - Author's decision to become a part of the CRISPR world by learning DNA editing.
+  - Isaacson's decision to become a part of the CRISPR world by learning DNA editing.
   - Time spent in Doudna's lab to experience CRISPR editing firsthand.
   - Aim to replicate major CRISPR advances: editing DNA in a test tube and editing human cells.
 - Working with Gavin Knott
@@ -1207,9 +1207,9 @@ Author: Walter Isaacson
   - Watson's contrasting attributes: scientific achievements and reprehensible failings.
   - Comparison to the "Jefferson Conundrum" of respecting greatness with accompanying flaws.
   - His influence on the story of CRISPR and his views on genetic enhancement.
-  - The author's decision to visit Watson before the 2019 CRISPR meeting.
+  - Isaacson's decision to visit Watson before the 2019 CRISPR meeting.
 - Conversation with Watson
-  - Watson's frail appearance during the author's visit in 2019.
+  - Watson's frail appearance during Isaacson's visit in 2019.
   - Watson's continued focus on equitable CRISPR use and his desire to prevent patents for genetic engineering techniques.
   - His unfiltered and contrarian nature that influenced his scientific pursuits and statements.
   - The mention of his past controversial comments on race and intelligence.
@@ -1221,7 +1221,7 @@ Author: Walter Isaacson
 
 ### Doudna Pays a Visit
 - Visit to James Watson's Home
-  - The author visits James Watson's home as per his request during a meeting he is barred from attending.
+  - Isaacson visits James Watson's home as per his request during a meeting he is barred from attending.
   - Watson discusses the conference book containing scientific paper abstracts, including Rosalind Franklin's image on the cover.
   - The conversation takes place in a sunlit room, with art, classical music, Elizabeth Watson, and Rufus present.
   - Careful conversation ensues, with Watson showing a measured approach.

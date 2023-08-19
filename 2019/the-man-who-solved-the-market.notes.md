@@ -4,9 +4,9 @@ Author: Gregory Zuckerman
 
 ## Introduction
 - Initial Challenges:
-  - The author's endeavor involves initiating discussions with Nick Patterson, a British mathematician, about Renaissance Technologies, the enigmatic company formed by James Simons.
+  - Zuckerman's endeavor involves initiating discussions with Nick Patterson, a British mathematician, about Renaissance Technologies, the enigmatic company formed by James Simons.
   - Simons and his team exhibit a marked reluctance to share information, mirroring their secrecy through the implementation of extensive nondisclosure agreements that span thirty pages, binding their employees to silence.
-  - Despite facing uncooperativeness, the author remains resolute in the pursuit of crafting a book detailing Simons' creation of an innovative and influential financial powerhouse, unearthing insights even without direct cooperation.
+  - Despite facing uncooperativeness, Zuckerman remains resolute in the pursuit of crafting a book detailing Simons' creation of an innovative and influential financial powerhouse, unearthing insights even without direct cooperation.
 - Simons' Enigmatic Persona and Success:
   - James Simons, the visionary behind Renaissance Technologies, engineers the establishment of a financial juggernaut that wields significant sway and accumulates immense wealth.
   - Renaissance's track record of exceptional triumph becomes evident through the generation of over $100 billion in trading profits since 1988, a figure surpassing even renowned figures like Warren Buffett and George Soros.

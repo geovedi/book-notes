@@ -25,7 +25,7 @@ Author: Maggie Haberman
   - He often projected confidence, practiced bullying, and created an atmosphere of competition among his staff.
   - His behavior influenced those around him to adopt similar tactics.
 - Journalist's Perspective
-  - The author's personal experiences covering Trump are shared.
+  - Haberman's personal experiences covering Trump are shared.
   - Trump's thin-skinned and media-centric behavior, as well as his penchant for anger and manipulation, are discussed.
 
 ## The Power of Negative Thinking
@@ -335,15 +335,15 @@ Author: Maggie Haberman
 
 ## Make or Break
 - Introduction:
-  - In 2015, the author, a reporter at The New York Times, was approached by Sam Nunberg to break news about Trump's candidacy announcement.
-  - The author was initially skeptical due to Trump's previous announcements and antics.
-  - Despite skepticism, the author had taken Trump seriously as a political force since 2011.
+  - In 2015, Haberman, a reporter at The New York Times, was approached by Sam Nunberg to break news about Trump's candidacy announcement.
+  - Haberman was initially skeptical due to Trump's previous announcements and antics.
+  - Despite skepticism, Haberman had taken Trump seriously as a political force since 2011.
 - Early Signs of Candidacy:
-  - Trump's advisers, including Nunberg and Roger Stone, maintained contact with the author.
+  - Trump's advisers, including Nunberg and Roger Stone, maintained contact with Haberman.
   - Trump had hinted at running for president multiple times but often pulled back before taking real steps.
-  - The author thought Trump never seriously intended to run for president but might have been manipulated.
+  - Haberman thought Trump never seriously intended to run for president but might have been manipulated.
 - Shaping Trump's Candidacy:
-  - Nunberg urged the author to meet with Trump to understand his campaign plans.
+  - Nunberg urged Haberman to meet with Trump to understand his campaign plans.
   - Trump's initial disinterest in political issues; Stone and Nunberg suggested he focus on immigration.
   - The idea of a physical barrier along the border resonated with Trump as a political cause.
   - Trump's about-face on the birther issue due to potential backlash and the need for visible Black supporters.
@@ -701,7 +701,7 @@ Author: Maggie Haberman
   - Flags lowered to honor McCain's death; Trump wanted them raised, causing backlash.
   - McCain's opposition to Trump's policies and their clash during the 2016 election.
   - Anonymous op-ed from a White House official discussing internal resistance.
-  - Taylor's warning about Trump's leadership and the subsequent hunt for the author.
+  - Taylor's warning about Trump's leadership and the subsequent hunt for Haberman.
 - Trump's Involvement in Party Politics
   - Trump's involvement in party endorsements and conflicts within the Republican Party.
   - Trump's ambivalent attitude towards the Republican establishment and the party's leadership.

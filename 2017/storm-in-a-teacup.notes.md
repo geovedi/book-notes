@@ -316,4 +316,4 @@ Author: Helen Czerski
   - Light connects humans to the universe.
   - Humanity resides between cosmic and terrestrial scales, observing patterns.
 - Reflection and Summary
-  - The narrator contemplates the complexity of the universe, reflected even in a teacup.
+  - Helen contemplates the complexity of the universe, reflected even in a teacup.

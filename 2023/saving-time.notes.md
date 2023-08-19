@@ -240,7 +240,7 @@ Author: Jenny Odell
 - Introduction and Setting
   - The reflection on a walk through a cemetery, observing the surroundings and nature.
   - Explores themes of life, time, and mortality.
-  - Considers the view of the bay, reflecting on the narrator's life experiences in that space.
+  - Considers the view of the bay, reflecting on Jenny's life experiences in that space.
 - Reflection on Self and Time
   - Discusses biases and perspectives we have towards ourselves and others, influenced by our access to their mental states.
   - Reflects on the act of journaling and revisiting old journals, seeing the evolution of one's self over time.

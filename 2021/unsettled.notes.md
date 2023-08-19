@@ -14,10 +14,10 @@ Author: Steven E. Koonin
   - The disconnect between research literature, assessment reports, media coverage, and public understanding.
   - Difficulties in comprehending the complex data and analyses.
   - Scientists' role in conveying accurate and complete information to policymakers.
-- Author's Background and Motivation:
-  - The author's experience as a scientist in climate and energy fields.
+- Koonin's Background and Motivation:
+  - Koonin's experience as a scientist in climate and energy fields.
   - Early involvement in climate science, policy, and renewable energy initiatives.
-  - The doubts and realizations that led the author to question prevailing climate narratives.
+  - The doubts and realizations that led Koonin to question prevailing climate narratives.
 - Scientific Integrity and Communication:
   - The importance of scientific integrity in communicating climate science.
   - Tension between objectivity and advocacy in climate science communication.
@@ -45,7 +45,7 @@ Author: Steven E. Koonin
 
 ## The Science
 - Introduction:
-  - The author draws parallels between parenting and climate science.
+  - Koonin draws parallels between parenting and climate science.
   - The core questions of climate science: human influence, climate response, and impacts.
   - The complexity and uncertainties in climate science.
 - Understanding Uncertainties in Science:
@@ -69,7 +69,7 @@ Author: Steven E. Koonin
 - Inaccuracies in Communication and Unsupportive Hyperbole:
   - Organizations rely on assessment reports for climate communication.
   - An example of unsupported hyperbole in an AAAS report.
-  - The author's alternate statement based on assessment reports.
+  - Koonin's alternate statement based on assessment reports.
   - The tendency toward exaggerated communication about climate.
 - Imparting Information Impartially:
   - Moving away from persuasion towards impartial information.
@@ -135,8 +135,8 @@ Author: Steven E. Koonin
 
 ### Emissions Explained and Extrapolated
 - Introduction and Personal Anecdote:
-  - The author recalls an event at Buckingham Palace involving Prince Philip and climate discussion.
-  - The topic of the evening was climate and energy, and the author engaged in a conversation about carbon dioxide emissions and global temperatures.
+  - Koonin recalls an event at Buckingham Palace involving Prince Philip and climate discussion.
+  - The topic of the evening was climate and energy, and Koonin engaged in a conversation about carbon dioxide emissions and global temperatures.
 - The Significance of Greenhouse Gases:
   - Carbon dioxide (CO2) and methane (CH4) are significant human-caused greenhouse gases affecting the climate.
   - Efforts to reduce climate impact focus on reducing emissions due to the increasing concentrations of these gases.
@@ -392,7 +392,7 @@ Author: Steven E. Koonin
 
 ### Fixing the Broken Science
 - Introduction: The Need for a Red Team Exercise
-  - The author became aware of problems in climate science narratives since the American Physical Society workshop in 2014.
+  - Koonin became aware of problems in climate science narratives since the American Physical Society workshop in 2014.
   - Hurricane data misrepresentation in the 2014 National Climate Assessment led to the idea of a Red Team exercise.
   - Red Team exercise involves a group of scientists questioning an assessment report to identify weak points.
 - Red Team Review and Its Importance
@@ -408,7 +408,7 @@ Author: Steven E. Koonin
   - IPCC's "Summaries for Policymakers" can be influenced by governments with specific policy agendas.
   - Objectivity in assessment processes and products can be compromised due to various opportunities for influence.
 - Introducing the Red Team Concept and Public Reception
-  - The author presented the Red Team idea at a conference, receiving a favorable response from experts.
+  - Koonin presented the Red Team idea at a conference, receiving a favorable response from experts.
   - The concept was highlighted during the March for Science in 2017.
   - The Wall Street Journal published an opinion piece advocating for a Red Team review of climate science assessments.
 - Objections and Responses to the Red Team Proposal
@@ -416,7 +416,7 @@ Author: Steven E. Koonin
   - Some individuals object to challenges to the consensus on climate change, leading to political interference.
   - Advocates for the Red Team concept point out specific flaws in assessment reports, highlighting the need for a new review process.
 - Improving Climate Communications
-  - The author calls for improvements in how assessment reports are communicated to the public.
+  - Koonin calls for improvements in how assessment reports are communicated to the public.
   - A Climate Communications Initiative by the National Academies aims to inform without advocating.
   - Principles for transparent, complete, and unbiased communication on climate should be adopted.
 - Recognizing Red Flags in Climate Reporting
@@ -435,14 +435,14 @@ Author: Steven E. Koonin
 ## The Response
 - Introduction
   - Scientists cannot predict the future of climate problems with certainty.
-  - The author emphasizes reliance on data and critical thinking to identify and solve climate-related issues.
+  - Koonin emphasizes reliance on data and critical thinking to identify and solve climate-related issues.
   - Different solutions are proposed for addressing climate change, ranging from drastic emissions reduction to business as usual.
 - Discussion of Possible Responses
-  - The author introduces the concepts of "could," "should," and "will" in relation to climate responses.
-  - In 2004, the author transitioned to BP's chief scientist role to study energy technologies and responses to climate change.
-  - While the author couldn't provide definitive answers for "should," they contributed to the "could" and "will" questions.
+  - Koonin introduces the concepts of "could," "should," and "will" in relation to climate responses.
+  - In 2004, Koonin transitioned to BP's chief scientist role to study energy technologies and responses to climate change.
+  - While Koonin couldn't provide definitive answers for "should," they contributed to the "could" and "will" questions.
 - Addressing Climate Change
-  - The author has worked on the "could" question for fifteen years, presenting the big picture in various public presentations.
+  - Koonin has worked on the "could" question for fifteen years, presenting the big picture in various public presentations.
   - Assessment reports from the UN's IPCC recommend reducing emissions to prevent severe climate impacts.
   - "Mitigation" strategies include transitioning to low-carbon energy sources, conservation, and achieving "net zero carbon" by midcentury.
 - Challenges and Possibilities
@@ -454,7 +454,7 @@ Author: Steven E. Koonin
   - Discussion of the challenges posed by climate change and the need to address human-caused climate problems.
   - Acknowledgment of the limitations of scientific predictions and the importance of data-driven solutions.
   - Distinction between "could," "should," and "will" questions in addressing climate change.
-  - Introduction to the author's perspective and experience in analyzing energy technologies and climate response strategies.
+  - Introduction to Koonin's perspective and experience in analyzing energy technologies and climate response strategies.
 - Understanding Emissions and Concentration:
   - Focus on the importance of understanding the impact of emissions on the concentration of carbon dioxide (CO2) in the atmosphere.
   - Explanation of how emissions contribute to increasing concentrations due to cumulative effects.
@@ -477,8 +477,8 @@ Author: Steven E. Koonin
   - Emphasis on the need for transformational action to address emissions reduction effectively.
   - Discussion of the inherent difficulties in achieving global emissions reduction due to the diverse priorities of developed and developing countries.
   - Exploration of the potential of adaptation as a more realistic societal response to climate change.
-- Conclusion and Author's Perspective:
-  - Author's alignment with the view that complete elimination of net emissions is unlikely in the specified timeframes.
+- Conclusion and Koonin's Perspective:
+  - Koonin's alignment with the view that complete elimination of net emissions is unlikely in the specified timeframes.
   - Assertion that society will likely focus on adaptation strategies in response to climate change.
   - Emphasis on informed perspectives and discussions to address the complexities of climate response.
 
@@ -550,10 +550,10 @@ Author: Steven E. Koonin
   - The necessity of preparing for known past climate changes and extreme weather events was underscored.
 
 ## Closing Thoughts
-- Author's Journey and Perspectives
-  - The book reflects a 15-year journey in climate and energy, evolving the author's views.
-  - Initially motivated to address climate catastrophe, the author became critical of how climate science is presented.
-  - The author sought to synthesize experiences, understanding the complexity of climate and energy.
+- Koonin's Journey and Perspectives
+  - The book reflects a 15-year journey in climate and energy, evolving Koonin's views.
+  - Initially motivated to address climate catastrophe, Koonin became critical of how climate science is presented.
+  - Koonin sought to synthesize experiences, understanding the complexity of climate and energy.
   - The richness of the subjects, gaps in knowledge, and importance of the topics were highlighted.
   - Dismay was expressed about misrepresentations by some climate scientists and scientists' complicity in these misrepresentations.
   - Difficulties in understanding assessment reports and the media's role in creating hysteria were noted.
@@ -569,10 +569,10 @@ Author: Steven E. Koonin
 - Approaches to Decarbonization and Adaptation
   - Skepticism was expressed about forced and urgent decarbonization through carbon pricing or regulation.
   - The uncertainty and potential downsides of mitigation were noted, especially regarding energy needs for the poor.
-  - The author advocated waiting for a better understanding of climate's response to human influences before drastic measures.
+  - Koonin advocated waiting for a better understanding of climate's response to human influences before drastic measures.
   - Adapting to changing climates was considered effective, emphasizing regional projections and cost-benefit assessment.
   - Promoting economic development and strong institutions in developing countries for better adaptation was suggested.
   - Geoengineering options and research were seen as prudent strategies in case of significant climate deterioration.
 - Restoring Integrity and Positive Outcomes
-  - The author called for restoring integrity to science informing societal decisions on climate and energy.
+  - Koonin called for restoring integrity to science informing societal decisions on climate and energy.
   - Steps should prioritize positive outcomes for society, emphasizing President Biden's call for rejecting manipulated facts.

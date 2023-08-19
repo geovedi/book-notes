@@ -283,14 +283,14 @@ Author: Neil deGrasse Tyson
 - Race and Skin Color:
   - The notion of racial superiority and how it's influenced by perceptions of skin color.
   - It highlights differences in skin conditions, like psoriasis, and references the "Black don't crack" saying about aging.
-  - The author recounts personal anecdotes about differences in reactions to poison ivy between white and black kids.
+  - Neil recounts personal anecdotes about differences in reactions to poison ivy between white and black kids.
   - Suicide rates, eating disorders, and even play preferences (like treehouses) are explored within a racial context.
-  - The author points out how both white and black anthropologists have overlooked some aspects of race.
+  - Neil points out how both white and black anthropologists have overlooked some aspects of race.
 - African Diversity:
   - The African continent is described as having tremendous genetic diversity among its population.
   - Height and running ability disparities, as well as intelligence and chess skills, are mentioned among Africans.
   - Egyptian civilization and scientific achievements are acknowledged, emphasizing that it predated Europe's advances.
-  - The author highlights an initiative seeking to nurture scientific talent across Africa.
+  - Neil highlights an initiative seeking to nurture scientific talent across Africa.
 - Shared Ancestry:
   - The concept of shared ancestry among all humans.
   - The phenomenon of pedigree collapse is explained, leading to the conclusion that any two people on Earth share a common ancestor.
@@ -298,10 +298,10 @@ Author: Neil deGrasse Tyson
 - Progress and Aspiration:
   - Societal progress towards diversity and equality is discussed, referencing Martin Luther King Jr.'s vision.
   - The idea of time travel is introduced to illustrate how different identities might experience different historical eras.
-  - The author reflects on the current state and envisions a future where diversity is embraced and distinctions become irrelevant.
+  - Neil reflects on the current state and envisions a future where diversity is embraced and distinctions become irrelevant.
 - Alien Perspective:
   - An extraterrestrial perspective is used as a thought experiment to show how humans segregate based on differences.
-  - The author compares human behavior to how animals view each other, suggesting we often overlook subtle distinctions.
+  - Neil compares human behavior to how animals view each other, suggesting we often overlook subtle distinctions.
   - The visiting alien's observations emphasize our continued divisiveness based on inconsequential traits.
 
 ## Law & Order

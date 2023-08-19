@@ -4,34 +4,34 @@ Author: Yung Pueblo
 
 ## Introduction: My Story
 - Introduction
-  - The author reflects on a moment of crisis when they realized they had veered from their potential due to drug use and avoidance of inner sadness.
+  - Yung reflects on a moment of crisis when they realized they had veered from their potential due to drug use and avoidance of inner sadness.
   - The turning point occurred during a health scare in 2011, leading them to reevaluate their life choices.
 - Past and Present Struggles
-  - The author recalls their earlier years as an activist and organizer, feeling nourished by helping others.
+  - Yung recalls their earlier years as an activist and organizer, feeling nourished by helping others.
   - They acknowledge losing their path and resorting to drugs to escape their emotions.
   - The pressure of being an immigrant family and struggling with poverty shaped their early life.
 - Awakening and Resolution
-  - Faced with a life-threatening situation, the author is motivated by their parents' sacrifices and decides to turn their life around.
+  - Faced with a life-threatening situation, Yung is motivated by their parents' sacrifices and decides to turn their life around.
   - They discard self-prescribed "painkillers" and commit to radical honesty and healthier habits.
   - The journey is challenging but brings gradual positive changes and improved relationships.
 - Meditation and Deeper Healing
-  - The author explores Vipassana meditation and experiences a deeper level of healing and self-awareness.
+  - Yung explores Vipassana meditation and experiences a deeper level of healing and self-awareness.
   - Meditation helps them connect with their inner self, overcome fear, and find a sense of clarity and freedom.
 - Continued Growth and Wisdom
-  - The author acknowledges that the healing process isn't linear, but progress is evident.
+  - Yung acknowledges that the healing process isn't linear, but progress is evident.
   - They emphasize the ongoing nature of growth, highlighting that they're not enlightened but feel lighter.
   - The idea that humanity is still maturing and can collectively transition to a more compassionate world is introduced.
 - Connecting Personal and Global Transformation
-  - The author sees personal healing as the foundation for global transformation and a more compassionate world.
+  - Yung sees personal healing as the foundation for global transformation and a more compassionate world.
   - The book aims to bridge personal and global transformation, demystifying healing and its benefits.
   - It explores shared experiences in navigating the inner world and the potential for systemic compassion.
-- Author's Reflection and Gratitude
-  - The author expresses surprise at the impact their writing has had globally.
+- Yung's Reflection and Gratitude
+  - Yung expresses surprise at the impact their writing has had globally.
   - They consider their writing a tool for processing their understanding of healing and express gratitude for readers' trust.
 
 ## Self-Love
 - Introduction:
-  - The author reflects on their journey of overcoming addiction and realizing the void they were trying to fill with temporary pleasures.
+  - Yung reflects on their journey of overcoming addiction and realizing the void they were trying to fill with temporary pleasures.
   - Self-love was the missing element that allowed them to address this void and find genuine fulfillment.
 - Exploring Self-Love:
   - Self-love involves embracing one's emotions, accepting oneself unconditionally, and nurturing personal growth.
@@ -62,11 +62,11 @@ Author: Yung Pueblo
 
 ## Healing
 - Introduction:
-  - The author discusses recognizing and addressing tension within oneself.
+  - Yung discusses recognizing and addressing tension within oneself.
   - Differentiating between healing and liberation in the context of personal growth.
   - Personal experiences influenced by the Buddha's teachings and meditation.
 - Healing and Liberation:
-  - The author's initial approach to meditation for healing and transformation.
+  - Yung's initial approach to meditation for healing and transformation.
   - Gradual understanding of the nuances of the Buddha's teaching and the possibility of full liberation.
   - Connection between collective liberation and personal inner dynamics.
 - Path of Liberation:
@@ -78,11 +78,11 @@ Author: Yung Pueblo
   - Healing methods like meditation, therapy, and techniques for positive impact.
   - Healing as a universal need for individuals with heavy minds and overwhelming emotions.
 - Personal Experience:
-  - The author's journey: seeking healing, discovering a serious liberation path.
+  - Yung's journey: seeking healing, discovering a serious liberation path.
   - Continuation of the path with much ground to cover.
   - Similarities in the healing experience regardless of tradition.
 - Diverse Approaches to Healing:
-  - Meditation as the author's healing avenue, but not the sole method.
+  - Meditation as Yung's healing avenue, but not the sole method.
   - Pluralism in introspective methods yielding substantial results.
   - Unique conditioning in each individual's healing journey.
 - Finding Your Own Way:

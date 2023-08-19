@@ -611,17 +611,17 @@ Author: Jose Silva & Philip Miele
   - Christ's admonition to keep healing incidents private has deeper meaning.
 
 ## Some Speculations
-- Background of the Author and Practical Approach:
+- Background of José and Practical Approach:
   - Chapters 3 to 15 are designed to tackle everyday challenges through enhanced mental engagement.
-  - The author's practical methodology is a result of more than three decades of dedicated study and experimentation.
-  - The author's own humble upbringing influenced his focus on pragmatic matters.
+  - José's practical methodology is a result of more than three decades of dedicated study and experimentation.
+  - José's own humble upbringing influenced his focus on pragmatic matters.
   - The journey of exploration and its discoveries and influences evoke both speculation and amazement.
   - The central emphasis lies in adopting a highly pragmatic and actionable approach to life's intricacies.
 - Consistency of Discoveries with Religious Beliefs:
-  - The author's revelations are grounded in practicality and do not clash with religious convictions.
-  - Unlike previous eras marked by strained relations between science and religion, the author's stance remains unaffected.
-  - Personal experiences have not led the author to encounter any discord between scientific findings and his religious faith.
-  - The author is intrigued by the remarkable harmony between his discoveries and diverse religious beliefs or worldviews.
+  - José's revelations are grounded in practicality and do not clash with religious convictions.
+  - Unlike previous eras marked by strained relations between science and religion, José's stance remains unaffected.
+  - Personal experiences have not led José to encounter any discord between scientific findings and his religious faith.
+  - José is intrigued by the remarkable harmony between his discoveries and diverse religious beliefs or worldviews.
   - The community of Mind Control graduates encompasses individuals from various belief systems and fields of expertise.
 - Universal Principles and Queries:
   - The universe adheres to discernible laws that science progressively uncovers.
@@ -630,7 +630,7 @@ Author: Jose Silva & Philip Miele
   - The notion of the universe possessing self-awareness is rationally conceivable.
   - The universe's responsiveness to us signifies its interconnectedness, not indifference.
   - Meditation offers abundant benefits without harm.
-  - The author envisions reality as a collective dream, offering tantalizing glimpses into its nature.
+  - José envisions reality as a collective dream, offering tantalizing glimpses into its nature.
   - Perception serves practical comprehension but doesn't guarantee objective reality.
   - Energy underlies all, from colors to sounds to matter.
   - Energy is fundamental, devoid of opposites as everything consists of energy.
@@ -643,19 +643,19 @@ Author: Jose Silva & Philip Miele
   - Early experiences with hypnosis revealed peculiar time perceptions.
   - Shifting meditative orientation affects the perception of time.
 - Higher Intelligence, Faith, and Communication:
-  - The author alludes to Higher Intelligence, a distinct concept from the conventional notion of God.
+  - José alludes to Higher Intelligence, a distinct concept from the conventional notion of God.
   - The universe's efficiency and accountability underscore the absence of waste.
   - Distinct purposes underlie communication with Higher Intelligence and God.
   - A spectrum of intelligence spans from inanimate entities to a divine deity.
-  - The author advocates for scientific engagement with varied levels of intelligence.
+  - José advocates for scientific engagement with varied levels of intelligence.
   - The subsequent ideas venture into the realm of speculation, grounded in faith.
 - Evolution of Brain and Mind:
   - The evolutionary phase of brain development has recently concluded.
   - The focus has now shifted towards cultivating the mind.
   - Psychic abilities are poised to become commonplace as the mind continues to evolve.
-  - The author's perspective on the world's ongoing evolution of truth and reality.
+  - José's perspective on the world's ongoing evolution of truth and reality.
 - Diverse Perspectives Among Mind Control Graduates:
-  - It is important to note that Mind Control graduates may diverge from the author's viewpoints.
+  - It is important to note that Mind Control graduates may diverge from José's viewpoints.
   - For instance, varied dietary choices, such as vegetarianism, emerge among graduates.
   - Preferences and beliefs can markedly differ among the Mind Control community.
 

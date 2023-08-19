@@ -4,15 +4,15 @@ Author: Ethan Kross
 
 ## Introduction
 - Introduction and Personal Experience:
-  - The narrator describes a gripping scenario where they stand in their living room, anxious and ready to protect their family from a perceived threat.
+  - Ethan describes a gripping scenario where they stand in their living room, anxious and ready to protect their family from a perceived threat.
   - Fear overwhelms rational thought, leading to distressing self-blame and worst-case scenarios.
 - Background and Career:
-  - The narrator is a scientist specializing in self-control and introspection at the University of Michigan.
+  - Ethan is a scientist specializing in self-control and introspection at the University of Michigan.
   - They discuss their expertise in understanding inner conversations and negative thought spirals.
 - The Letter and Chatter:
-  - The narrator receives a threatening letter after appearing on the news for research on the connection between physical and emotional pain.
+  - Ethan receives a threatening letter after appearing on the news for research on the connection between physical and emotional pain.
   - The letter's disturbing content leaves them anxious and unsure how to handle the situation.
-  - Despite advice to not worry, the narrator's mind spirals into obsessive thoughts and worst-case scenarios.
+  - Despite advice to not worry, Ethan's mind spirals into obsessive thoughts and worst-case scenarios.
   - Anxiety takes a toll on their well-being, relationships, and even physical health.
 - Default State of Mind:
   - Humans spend a significant portion of their waking hours not living in the present; their minds frequently wander.
@@ -31,7 +31,7 @@ Author: Ethan Kross
   - Personal anecdotes, scientific techniques, and real-life stories will illustrate these concepts.
   - The key isn't to eliminate the inner voice but to learn how to engage with it more effectively.
 - Unveiling the Puzzle:
-  - The narrator highlights the need to understand why humans have an inner voice.
+  - Ethan highlights the need to understand why humans have an inner voice.
   - The rest of the book will delve into techniques for taming and utilizing the inner voice.
   - The mind and the world offer tools to navigate the challenges of inner chatter.
 
@@ -118,7 +118,7 @@ Author: Ethan Kross
   - Tracey's work as a covert agent and her contributions.
   - Tracey's continued use of journaling and academic success.
 - Personal Experience and the Way Out:
-  - The author's experience of receiving a threatening letter.
+  - Ethan's experience of receiving a threatening letter.
   - Struggling with immersion in own chatter and Solomon's Paradox.
   - Finding a solution by saying one's own name.
 
@@ -145,7 +145,7 @@ Author: Ethan Kross
   - Universal "you" to frame difficult experiences as universal and normal.
   - Importance of the perspective gained from normalizations in language.
 - Personal Transformation with Distanced Self-Talk
-  - Author's personal experience with distressing letter and rumination.
+  - Ethan's personal experience with distressing letter and rumination.
   - Distanced self-talk's transformation of managing inner chatter.
   - Contrast between supportive conversations and the impact of distanced self-talk.
 - The Role of Others in Managing Inner Chatter
@@ -302,7 +302,7 @@ Author: Ethan Kross
   - Immersing in life's joyful moments to savor them.
   - Celebrating the human mind's capacity to find meaning in both positive and negative experiences.
 - Concluding Remarks:
-  - Author's reflection on the impact of Arielle's question.
+  - Ethan's reflection on the impact of Arielle's question.
   - Writing the book to share scientific discoveries and tools for emotional management.
   - The book's audience and purpose in helping people understand and control their inner voices.
 

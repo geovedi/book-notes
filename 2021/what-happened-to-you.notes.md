@@ -4,20 +4,20 @@ Author: Oprah Winfrey, Bruce D. Perry
 
 ## Introduction
 - Childhood Trauma and Corporal Punishment:
-  - The narrator describes experiences of being subjected to corporal punishment as a child, especially from her grandmother.
+  - Oprah describes experiences of being subjected to corporal punishment as a child, especially from her grandmother.
   - Corporal punishment was widely accepted in their community during that time.
-  - The narrator recounts a particularly severe beating and how it affected her emotionally and physically.
+  - Oprah recounts a particularly severe beating and how it affected her emotionally and physically.
 - The Effects of Trauma:
-  - The narrator explains how the trauma from childhood punishments shaped her behavior and relationships for decades.
+  - Oprah explains how the trauma from childhood punishments shaped her behavior and relationships for decades.
   - She became a people pleaser and had difficulty setting boundaries.
   - The trauma affected her relationships and sense of self-worth.
   - The idea of conditioning compliance through trauma-defined relationships is discussed.
 - Brain Adaptation and Resilience:
-  - The narrator mentions conversations with Dr. Bruce Perry and the impact of childhood trauma on the brain.
+  - Oprah mentions conversations with Dr. Bruce Perry and the impact of childhood trauma on the brain.
   - The brain's ability to adapt to trauma is emphasized, offering hope for healing and recovery.
   - Understanding the brain's response to stress and trauma helps shape behavior and relationships.
 - Oprah's Involvement and Advocacy:
-  - The narrator talks about how Oprah Winfrey became involved in advocating against child abuse and trauma.
+  - Dr. Perry talks about how Oprah Winfrey became involved in advocating against child abuse and trauma.
   - A meeting initiated by Oprah led to the drafting of the National Child Protection Act to track child abusers.
   - Oprah's focus on trauma-related topics in her show is highlighted.
 - Oprah's Contribution to Trauma Awareness:
@@ -25,7 +25,7 @@ Author: Oprah Winfrey, Bruce D. Perry
   - The impact of Oprah's show in exploring issues like abuse, neglect, racism, and resilience is highlighted.
   - Oprah's dedication to championing individuals impacted by adversity and trauma is acknowledged.
 - "What Happened to You?" Perspective:
-  - The narrator introduces the phrase "What happened to you?" as a shift in perspective that acknowledges the impact of past experiences on current behavior.
+  - Oprah introduces the phrase "What happened to you?" as a shift in perspective that acknowledges the impact of past experiences on current behavior.
   - The phrase encourages understanding and empathy for others' experiences.
   - The importance of asking this question in fostering healing and growth is emphasized.
 - Collaborative Book:
@@ -33,7 +33,7 @@ Author: Oprah Winfrey, Bruce D. Perry
   - The book aims to use conversations and stories to explain the science behind trauma and development.
   - The book serves as a comprehensive guide for understanding trauma and its effects.
 - Hope for Understanding and Healing:
-  - The narrator and Dr. Perry's intention in sharing stories and concepts is to help readers gain insights for better lives.
+  - Oprah and Dr. Perry's intention in sharing stories and concepts is to help readers gain insights for better lives.
   - The book offers hope for healing, resilience, and personal growth.
   - The goal is to encourage readers to reflect on their experiences and gain a deeper understanding of themselves.
 - The Culmination of Decades of Conversations:

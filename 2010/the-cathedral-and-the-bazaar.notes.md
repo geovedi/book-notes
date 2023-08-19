@@ -22,9 +22,9 @@ Author: Eric S. Raymond
   - Bazaar-style development
   - Diversity of agendas and approaches
   - Coherent and stable system emerges
-  - Success surprises the author
+  - Success surprises Eric
 - Understanding Linux's success:
-  - The author's journey to comprehend
+  - Eric's journey to comprehend
   - Project to test the bazaar style
   - Significant success in running the project
 - Proposed aphorisms about open-source development:
@@ -296,7 +296,7 @@ Author: Eric S. Raymond
 
 ## The Social Context of Open-Source Software
 - The Genesis of Best Hacks:
-  - Best hacks start as personal solutions to the author's problems
+  - Best hacks start as personal solutions to Eric's problems
   - Problem-solving leads to wider user applicability
   - Rule 18: Start with a problem interesting to you
 - Evolution in the Presence of a Community:

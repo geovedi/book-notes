@@ -4,7 +4,7 @@ Author: Michael Lewis
 
 ## Introduction: The Missing Americans
 - Introduction to the Book:
-  - The author started the book due to a mix of obligation and opportunism.
+  - Lewis started the book due to a mix of obligation and opportunism.
   - The book "The Fifth Risk" framed the federal government as a manager of existential risks during the Trump administration.
   - The federal government was portrayed as a collection of experts managing various risks.
 - Government Mismanagement and Neglect:
@@ -36,9 +36,9 @@ Author: Michael Lewis
 - Message for Management:
   - The story suggests that there are things to be proud of, implying that the problem isn't the "players."
   - The record of performance defines the society's identity.
-- Author's Perspective:
-  - The author's role is to find stories in material and hopes readers will find additional meanings.
-  - The author's opinion: the story is about society's talents, leadership, and the gap between reputation and performance.
+- Lewis's Perspective:
+  - Lewis's role is to find stories in material and hopes readers will find additional meanings.
+  - Lewis's opinion: the story is about society's talents, leadership, and the gap between reputation and performance.
 
 ## Prologue: The Looking Glass
 - Introduction to Laura Glass and Her Father:

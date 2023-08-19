@@ -5,7 +5,7 @@ Author: Max Fisher
 ## Prologue: Consequences
 - Introduction:
   - Facebook's headquarters is often compared to a secretive and opulent center of power.
-  - The author obtained internal documents revealing Facebook's influence on global politics and speech.
+  - Fisher obtained internal documents revealing Facebook's influence on global politics and speech.
   - Social media's negative impact and its connection to real-world events became evident.
   - Social media's dangers were once attributed to misuse by bad actors, but this viewpoint evolved.
 - Jacob's Observations:

@@ -8,7 +8,7 @@ Author: Richard A. Muller
   - Understanding "now" requires knowledge of various concepts in physics.
   - The goal of the book is to present essential physics and provide a clear picture of "now."
 - Author's Background and Approach:
-  - The author's background is in experimental physics.
+  - Muller's background is in experimental physics.
   - Projects related to understanding time include measuring microwave debris from the Big Bang and determining the universe's past expansion.
   - The book offers insights into challenges and frustrations of experimental physics.
 - Structure of the Book:
@@ -25,7 +25,7 @@ Author: Richard A. Muller
 - Part II: Broken Arrow:
   - Discussion of Arthur Eddington's theory on the arrow of time.
   - Eddington attributed time's flow to entropy increase.
-  - The author argues that time's flow causes entropy increase, not vice versa.
+  - Muller argues that time's flow causes entropy increase, not vice versa.
 - Part III: Spooky Physics:
   - Quantum physics' success and its unsettling features.
   - Quantum waves' behavior challenges Einstein's principles.
@@ -511,7 +511,7 @@ Author: Richard A. Muller
   - Comparison to Luis Alvarez's practice of setting time aside for creative thinking.
   - The necessity of dedicating time to unconventional problem-solving.
 - Further References
-  - Mention of a Scientific American article by the author.
+  - Mention of a Scientific American article by Muller.
 
 ### The End of Time
 - Predicting the Future of the Universe
@@ -564,7 +564,7 @@ Author: Richard A. Muller
   - Doubts about Eddington's explanation of the arrow of time.
   - Entropy and order in the universe both increasing over time.
 - Critique of Eddington's Explanation
-  - The author's confession to doubting entropy's role in the arrow of time.
+  - Muller's confession to doubting entropy's role in the arrow of time.
   - Difficulty in writing about Eddington's case while presenting objections.
   - Mention of alternative explanations, including quantum physics and Big Bang.
 - Validating Theories: Einstein's Example
@@ -852,7 +852,7 @@ Author: Richard A. Muller
   - Entropy as a fundamental law in the universe and its relation to structured life.
   - The question of whether humans possess true free will or if it's an illusion.
 - Personal Anecdote and Initial Doubts
-  - The author's personal experience with naming their child.
+  - Muller's personal experience with naming their child.
   - Doubts about the nature of free will arising in 1980.
   - The influence of external factors on decision-making and the concept of predetermined behavior.
 - Physics and Determinism

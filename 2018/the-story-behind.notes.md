@@ -4,7 +4,7 @@ Author: Emily Prokop
 
 ## Introduction
 - Introduction
-  - Curiosity about history and the things around the author
+  - Curiosity about history and the things around Emily
   - Impact of the internet in accessing information quickly
   - The desire for immediate answers to questions
 - Personal Connection to History
@@ -687,7 +687,7 @@ Author: Emily Prokop
 - Somnambulists and Hypnotizability
   - One in six people considered easily hypnotizable somnambulists
   - Somnambulist origin from the Roman equivalent of Hypnos
-  - Personal experiences of the narrator with hypnotism shows
+  - Personal experiences of Emily with hypnotism shows
 - Misconceptions and Use of Objects
   - Common misconceptions about hypnosis and loss of control
   - Use of objects like pocket watches to aid focus in hypnosis

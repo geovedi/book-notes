@@ -4,7 +4,7 @@ Author: Gretchen Rubin
 
 ## Seeing What Was Missing
 - Introduction: Pink Eye Awakening
-  - An ordinary trip to the eye doctor became a turning point in the narrator's life.
+  - An ordinary trip to the eye doctor became a turning point in Rubin's life.
   - Discovered pink eye symptoms and realized the importance of appreciating senses.
   - Doctor's revelation about detached retina risk shifted perspective on life.
 - Rediscovering the Senses: A Profound Experience
@@ -45,7 +45,7 @@ Author: Gretchen Rubin
 
 ## Coming to My Senses
 - Pink-Eye Revelation: Awakening to the Power of Senses
-  - A simple visit to the eye doctor sparks a profound awakening for the narrator.
+  - A simple visit to the eye doctor sparks a profound awakening for Rubin.
   - Pink eye diagnosis prompts awareness of senses, fear of potential loss of vision.
   - Reflection on life's fleeting nature and desire to appreciate every moment more deeply.
 - Understanding the Senses

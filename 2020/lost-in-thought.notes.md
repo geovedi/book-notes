@@ -4,25 +4,25 @@ Author: Zena Hitz
 
 ## Prologue: How Washing Dishes Restored My Intellectual Life
 - Introduction and Personal Struggles:
-  - The author explores their journey through different career paths, including academic pursuits, human rights work, and politics.
-  - The author's discontent and search for meaning lead to an existential crisis and a shift in academic focus.
+  - Zena explores their journey through different career paths, including academic pursuits, human rights work, and politics.
+  - Zena's discontent and search for meaning lead to an existential crisis and a shift in academic focus.
 - Dissatisfaction and Change:
-  - The author's academic focus changes from ancient self-knowledge to ancient critiques of democracy.
+  - Zena's academic focus changes from ancient self-knowledge to ancient critiques of democracy.
   - Discontent and doubts about the academic path raise questions about life's purpose and societal values.
   - Reflection on the contrast between high-prestige academics and world savers in larger institutions.
 - Exploration of Religion and Service:
-  - The author's exploration of various religions and spiritual practices begins, including an eventual attraction to Catholicism.
+  - Zena's exploration of various religions and spiritual practices begins, including an eventual attraction to Catholicism.
   - Volunteering in the community, engaging with refugees, and finding a nun friend provide insights into human suffering and connection.
   - The decision to join the Catholic Church and a deepening commitment to social service unfold.
 - Challenges of Academic Life:
-  - The author's academic career is marked by uncertainty, transitions, and a feeling of emptiness.
+  - Zena's academic career is marked by uncertainty, transitions, and a feeling of emptiness.
   - The contrast between academic pursuits and the meaningful person-to-person service becomes evident.
   - Teaching loses the collaborative, passionate essence experienced as a student.
 - Revelation and Transformation:
-  - A pivotal moment of revelation occurs during mass, prompting the author to consider their deeper purpose.
-  - The desire to integrate intellectual work with genuine love for others leads the author to a transformative decision.
+  - A pivotal moment of revelation occurs during mass, prompting Zena to consider their deeper purpose.
+  - The desire to integrate intellectual work with genuine love for others leads Zena to a transformative decision.
 - Life in a Community:
-  - The author joins a community in Canada, focusing on work, service, friendship, and spiritual growth.
+  - Zena joins a community in Canada, focusing on work, service, friendship, and spiritual growth.
   - Intellectual pursuits are limited within the community, raising questions about the nature and value of hidden learning.
 - Hidden Learning and Intellectual Life:
   - Intellectual activity is central to human flourishing, nourishing the inner core and serving as an essential form of loving service.
@@ -30,9 +30,9 @@ Author: Zena Hitz
   - Intellectual life is not solely a professional endeavor; it's a universal human good available to all.
 - Universal Nature of Intellectual Activity:
   - Intellectual activity is a natural human good, transcending religious boundaries and being practiced by the ancient Greeks.
-  - The author emphasizes that intellectual goods, contemplation, and learning are accessible to all, regardless of religious beliefs.
+  - Zena emphasizes that intellectual goods, contemplation, and learning are accessible to all, regardless of religious beliefs.
 - Conclusion and Open Exploration:
-  - The author concludes by presenting their journey as an exploration open to all readers, inviting them to engage in their own thinking.
+  - Zena concludes by presenting their journey as an exploration open to all readers, inviting them to engage in their own thinking.
 
 ## Introduction: Learning, Leisure, And Happiness
 - Introduction to Learning and Contemplation:

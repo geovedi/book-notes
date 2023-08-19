@@ -4,7 +4,7 @@ Author: Daniel Kahneman
 
 ## Introduction
 - Introduction:
-  - The author's aim is to enrich readers' vocabulary for discussing judgments, choices, policies, and decisions.
+  - Kahneman's aim is to enrich readers' vocabulary for discussing judgments, choices, policies, and decisions.
   - Intelligent gossip is a motive for self-criticism and improvement.
   - The hope is that discussing biases can lead to self-awareness and enhanced decision-making.
 - Biases and Gossip:
@@ -16,7 +16,7 @@ Author: Daniel Kahneman
   - Discussion centers around biases of intuition and the role of biases in decision-making.
   - The objective is to identify and comprehend errors in judgment and choice.
 - Historical Context:
-  - The author's research with Amos Tversky on intuitive statistics is traced back to 1969.
+  - Kahneman's research with Amos Tversky on intuitive statistics is traced back to 1969.
   - They examined people's intuitive grasp of statistics and found biases in judgments.
   - Expert intuition is grounded in recognition and practice rather than magic.
 - Two Systems of Thinking:
@@ -37,7 +37,7 @@ Author: Daniel Kahneman
   - The book concludes by discussing the implications of the distinctions made throughout the text.
   - Emphasizes the importance of improving judgments and decisions.
 - Appendixes:
-  - Two articles written by the author and Amos Tversky are provided as appendices.
+  - Two articles written by Kahneman and Amos Tversky are provided as appendices.
   - The articles summarize their work on judgment under uncertainty and framing effects.
 
 ## Two Systems
@@ -1032,7 +1032,7 @@ Author: Daniel Kahneman
 
 ### Prospect Theory
 - Introduction and Discovery of Flaw:
-  - Amos and the author stumbled upon a flaw in Bernoulli's theory by chance.
+  - Amos and Kahneman stumbled upon a flaw in Bernoulli's theory by chance.
   - Examined utility of money experiments and questioned assumptions.
   - Raised doubts about evaluating gambles with small differences in wealth.
 - Transition to Directly Studying Wealth:

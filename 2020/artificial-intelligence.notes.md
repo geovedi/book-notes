@@ -4,13 +4,13 @@ Author: Melanie Mitchell
 
 ## Prologue: Terrified
 - AI and GEB:
-  - The author reflects on the pace of computer advancement and acknowledges that computers can't appreciate irony.
+  - Melanie reflects on the pace of computer advancement and acknowledges that computers can't appreciate irony.
   - Shares an incident of getting lost in Googleplex, Google's headquarters, highlighting the irony.
   - Recalls the creation of Google's AI research group, Google Brain, and the acquisition of AI start-ups.
   - Google's founders, Larry Page and Sergey Brin, are motivated to create artificial intelligence.
   - Discusses the growth of Google from a search portal to an applied AI company.
   - Google's aspiration, as expressed by its DeepMind group, is to "Solve intelligence and use it to solve everything else."
-  - The author is excited to attend an AI meeting at Google, inspired by his passion for AI since graduate school and admiration for Google's accomplishments.
+  - Melanie is excited to attend an AI meeting at Google, inspired by her passion for AI since graduate school and admiration for Google's accomplishments.
   - The meeting is organized to have AI researchers converse with Douglas Hofstadter, the AI legend and author of "Gödel, Escher, Bach."
 - Chess and the First Seed of Doubt:
   - Describes Hofstadter's initial skepticism about the feasibility of AI, how AI evolved over the years, and his work on simulating intelligence.
@@ -37,9 +37,9 @@ Author: Melanie Mitchell
   - His worry that AI might trivialize complex aspects of humanity, reducing them to algorithms.
   - Hofstadter's concern about AI mechanizing what he values most in humanity, eroding the deep essence of emotions and creativity.
 - I Am Confused:
-  - The author's reflection on the diverse views within the AI field regarding its progress and potential.
+  - Melanie's reflection on the diverse views within the AI field regarding its progress and potential.
   - The contrasting opinions of AI researchers and prominent figures, both optimistic and cautious.
-  - The author's personal confusion and questioning of his own stance after attending the Google AI meeting.
+  - Melanie's personal confusion and questioning of her own stance after attending the Google AI meeting.
   - The need to critically examine the progress and potential of AI based on expert opinions.
 
 ## Background

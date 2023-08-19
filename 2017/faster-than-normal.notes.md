@@ -98,7 +98,7 @@ Author: Peter Shankman
   - The sharing of a personal narrative recounting the rediscovery of the significance of physical exercise after a period of neglect.
   - The emphasis on the symbiotic relationship between outdoor activities, the release of endorphins, and the fostering of enhanced mental well-being.
 - A Rule Is Born
-  - The introspective contemplation of the author prompted by personal experiences, culminating in the recognition of the imperative for transformative change.
+  - The introspective contemplation of Peter prompted by personal experiences, culminating in the recognition of the imperative for transformative change.
   - The discourse on the conscious decision to prioritize the pursuit of exercise and well-being after a spell of unhealthy habits.
   - The analogy drawn to the airplane oxygen mask paradigm, serving as a reminder of the intrinsic value of self-care amid life's demands.
 - Sustaining Vigilance through Self-Check

@@ -888,19 +888,19 @@ Author: Patrick Radden Keefe
 
 ## Afterword
 - Unsettling Encounters and Intimidation
-  - Author recounts a suspicious incident involving a stranger observing his house.
+  - Keefe recounts a suspicious incident involving a stranger observing his house.
   - The visitor's presence raises concerns about surveillance and intimidation.
-  - The author's family takes measures to observe and document the stranger's activities.
-  - The incident reminds the author of instances involving Nan Goldin and private investigators.
-- Author's Introduction to Opioid Crisis
-  - Author initially focused on writing about the drug trade between Mexico and the US.
+  - Keefe's family takes measures to observe and document the stranger's activities.
+  - The incident reminds Keefe of instances involving Nan Goldin and private investigators.
+- Keefe's Introduction to Opioid Crisis
+  - Keefe initially focused on writing about the drug trade between Mexico and the US.
   - Exploration of Mexican drug cartels' business aspects leads to interest in OxyContin.
   - Sackler family's connection to OxyContin is surprising given their philanthropic image.
-  - Author's research and articles shed light on the Sacklers' role in the opioid crisis.
+  - Keefe's research and articles shed light on the Sacklers' role in the opioid crisis.
 - Initial Denial and Denouncement
   - Family members and Purdue Pharma deny any knowledge of surveillance.
-  - Author's attempts to secure interviews with Sacklers are met with silence.
-  - Impact of the author's New Yorker article on readers and opioid crisis awareness.
+  - Keefe's attempts to secure interviews with Sacklers are met with silence.
+  - Impact of Keefe's New Yorker article on readers and opioid crisis awareness.
   - Nan Goldin's activism and movement against the Sacklers gain traction.
 - Challenges and Shifts in Focus
   - Initial difficulty in accessing information due to the secretive nature of the family.
@@ -908,12 +908,12 @@ Author: Patrick Radden Keefe
   - Decision to write a book exploring the Sacklers' dynasty, power, and corruption.
   - Acknowledgment of focusing on the Sacklers' story rather than certain public health aspects.
 - Balancing Compassion and Accountability
-  - Clarification of author's intention not to stigmatize opioid users.
+  - Clarification of Keefe's intention not to stigmatize opioid users.
   - Concerns from readers about jeopardizing access to necessary medication.
   - Recognizing that Purdue is not the sole culprit, but it played a significant role.
   - Acknowledgment of the complexity surrounding appropriate pain management.
 - Sacklers' Response and Legal Tactics
-  - Sackler family's mixed response to the author's inquiries for the book.
+  - Sackler family's mixed response to Keefe's inquiries for the book.
   - Role of attorney Tom Clare in defending Sackler interests and issuing threats.
   - Parallel drawn between family's historical tactics and modern legal actions.
   - Reaction to public disclosure of family's actions and its impact on the Sackler name.

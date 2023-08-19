@@ -36,20 +36,20 @@ Author: Michael Cecchi-Azzolina
   - The candy store, owned by Fran and Lou, is described as a rundown yet bustling establishment in Brooklyn.
   - Fran is known for her beauty routine and interactions with customers, while Lou is often drunk and argumentative.
   - Regular customers include various personalities like Sam the Shylock and local sports enthusiasts.
-  - The narrator, introduced by Johnny, starts working at the store as a young teenager.
+  - Michael, introduced by Johnny, starts working at the store as a young teenager.
 - Candy Store Operations:
   - The candy store is a cash business, with cash often stored in the till.
-  - Johnny, the narrator's friend and coworker, is promoted to night manager and begins embezzling money from the till.
-  - The narrator and Howie, another worker, engage in various schemes to steal and distribute items from the store, including bakery goods, ice cream, soda, and cigarettes.
-  - Saturday nights become an opportunity for the narrator and Howie to take extra cash from the overflowing till.
+  - Johnny, Michael's friend and coworker, is promoted to night manager and begins embezzling money from the till.
+  - Michael and Howie, another worker, engage in various schemes to steal and distribute items from the store, including bakery goods, ice cream, soda, and cigarettes.
+  - Saturday nights become an opportunity for Michael and Howie to take extra cash from the overflowing till.
 - Expansion into Illicit Activities:
   - Lorenzo, a relative of Johnny, provides drugs confiscated from his police work.
-  - The narrator starts selling drugs to high school kids, hidden in egg cream orders.
-  - The city experiences a rise in crime, including drugs and violence, affecting the narrator's neighborhood and school.
+  - Michael starts selling drugs to high school kids, hidden in egg cream orders.
+  - The city experiences a rise in crime, including drugs and violence, affecting Michael's neighborhood and school.
 - Personal Awakening and Decision to Leave:
-  - The narrator has a profound experience while on LSD, leading to a realization that staying in the neighborhood will lead to negative outcomes.
-  - Feeling trapped by the violence and drug culture, the narrator decides to leave Brooklyn for Hollywood Beach, Florida.
-  - The story ends with the narrator making the decision to move to Florida within a week.
+  - Michael has a profound experience while on LSD, leading to a realization that staying in the neighborhood will lead to negative outcomes.
+  - Feeling trapped by the violence and drug culture, Michael decides to leave Brooklyn for Hollywood Beach, Florida.
+  - The story ends with Michael making the decision to move to Florida within a week.
 
 ## Part II
 - Work at La Rousse Restaurant:
@@ -84,7 +84,7 @@ Author: Michael Cecchi-Azzolina
 
 ## Part III
 - A Dangerous Encounter
-  - The narrator, Mikey, encounters two men discussing a situation.
+  - Michael, Mikey, encounters two men discussing a situation.
   - He fears for his life and wonders about the outcome of their conversation.
   - Vinny, one of the men, gives Mikey money and T asks to speak with him.
 - Meeting T: A Surprising Conversation
@@ -116,7 +116,7 @@ Author: Michael Cecchi-Azzolina
 
 ## Part IV
 - Introduction
-  - Narrator returns home broke after traveling, gets a server job offer at Raoul's, a renowned SoHo bistro.
+  - Michael returns home broke after traveling, gets a server job offer at Raoul's, a renowned SoHo bistro.
 - Restaurant Background
   - Founded in 1975 by French brothers Serge and Guy Raoul, attracted artists and celebrities.
   - Notable figures like James Signorelli brought SNL crew to the restaurant.
@@ -124,11 +124,11 @@ Author: Michael Cecchi-Azzolina
   - Antique bar, rows of tables, fish tank, intimate booths, and donated art create ambiance.
   - Parisian-style intimacy, embodied by provocative artwork and antique aesthetics.
 - Interview and Hiring Process
-  - Narrator seeks job for earnings and flexibility, faces challenges to secure an interview.
+  - Michael seeks job for earnings and flexibility, faces challenges to secure an interview.
   - Interview with tough general manager, conducted in front of staff, tests readiness.
 - The Interview Experience
   - Prepared for questions, maintains composure during challenging interview.
-  - GM probes narrator's server readiness and motivation, met with confidence.
+  - GM probes Michael's server readiness and motivation, met with confidence.
 - Transition to the Back Room
   - Hired for Siberia, a lower-traffic area, plans to excel and move to front room.
   - Goal to access higher tips and more opportunities for advancement.
@@ -157,7 +157,7 @@ Author: Michael Cecchi-Azzolina
   - Raoul's stays open post 9/11, offers solace amid loss, particularly Cantor Fitzgerald patrons.
   - Collective grief and somber atmosphere shared by patrons.
 - Father Reunion and Mob Stories
-  - Narrator reconnects with father Fred, delves into Mob connections, violent tales.
+  - Michael reconnects with father Fred, delves into Mob connections, violent tales.
   - Fred's involvement in Lucchese family, life stories, and emotional meetings.
 - Family Bonds and Personal Growth
   - Relationship development with newfound family, introduction to half-sisters.
@@ -165,9 +165,9 @@ Author: Michael Cecchi-Azzolina
 
 ## Part V
 - Introduction and Setting:
-  - The input discusses the challenges faced by the narrator, an experienced restaurateur, while managing and reviving a restaurant named Bobo.
+  - The input discusses the challenges faced by Michael, an experienced restaurateur, while managing and reviving a restaurant named Bobo.
   - Bobo had initially attracted attention due to its stylish ambiance and attractive crowd, but the quality of food and service became problematic over time.
-  - The narrator joined Bobo to improve its operations and bring it back to success.
+  - Michael joined Bobo to improve its operations and bring it back to success.
 - Initial Struggles and Observations:
   - Frank Bruni's early review compared Bobo to a good-looking individual who doesn't need to try hard to attract attention due to its appearance.
   - The initial dining experience for guests was positive, driven by the restaurant's aesthetics, but doubts and questions arose by the end of the meal.
@@ -182,20 +182,20 @@ Author: Michael Cecchi-Azzolina
   - The restaurant staff implemented drills and protocols to quickly address potential violations during inspections.
   - The impact of fines and the DOH's focus on levying fines was noted.
 - The Resurrection of Bobo:
-  - The narrator took over management and aimed to resurrect the restaurant's reputation.
+  - Michael took over management and aimed to resurrect the restaurant's reputation.
   - Initial challenges included changing staff attitudes, improving service, and re-establishing a connection with guests.
-  - The importance of a warm greeting and engaging staff was highlighted, and the narrator hired a new host and bartenders.
+  - The importance of a warm greeting and engaging staff was highlighted, and Michael hired a new host and bartenders.
   - The staff worked together to improve the restaurant's overall experience, focusing on service and food quality.
 - The Role of the Owner:
-  - The narrator emphasized the importance of the owner's presence and involvement in the restaurant's success.
+  - Michael emphasized the importance of the owner's presence and involvement in the restaurant's success.
   - Successful owners such as Danny Meyer and Stephen Starr were mentioned as examples of those who understood the value of direct engagement with guests.
 - Challenges and Changes in Leadership:
   - Challenges persisted as the restaurant faced construction, rat infestations, and an adjacent building's impact on the garden.
   - Carlos, the owner, became less present as he focused on expanding the restaurant group and establishing Casa Nela, an umbrella organization.
   - Casa Nela aimed to oversee HR, Events, and PR for multiple restaurants but faced challenges due to lack of experienced personnel and resources.
 - Decision to Move On:
-  - As the restaurant's quality and operations were undermined, the narrator's commitment wavered.
-  - Overworked and underpaid staff, inexperienced management in the group's new office, and declining quality led the narrator to decide to leave Bobo.
+  - As the restaurant's quality and operations were undermined, Michael's commitment wavered.
+  - Overworked and underpaid staff, inexperienced management in the group's new office, and declining quality led Michael to decide to leave Bobo.
 
 ## Part VI
 - Restaurant Success and Accolades:

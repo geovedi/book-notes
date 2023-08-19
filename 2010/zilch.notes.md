@@ -9,29 +9,29 @@ Author: Nancy Lublin
   - The company's advertising budget was slashed to $2 million, causing panic and concern among the team.
   - The top executive suggests pooling resources from other departments to salvage $1.5 million more for the campaign.
 - Divergent Thinking from the Land of Zilch:
-  - The narrator, with a background in not-for-profit leadership, offers unique suggestions that differ from the corporate mindset.
+  - Nancy, with a background in not-for-profit leadership, offers unique suggestions that differ from the corporate mindset.
   - Suggests leveraging free online tools like Twitter for promotion, using partnerships as distribution channels, and generating buzz from news outlets.
   - Her ideas are met with silence and confusion from the corporate team, highlighting the contrast in thinking.
 - Not-for-Profit Strengths and Approach:
-  - Narrator highlights the prowess of not-for-profit organizations in accomplishing more with limited resources.
+  - Nancy highlights the prowess of not-for-profit organizations in accomplishing more with limited resources.
   - Not-for-profits exhibit commitment, creativity, and passion among employees despite lower salaries.
   - Engaging board members who volunteer their time and donations to support the cause.
   - Skillfully acquiring donors while promising minimal returns, focusing on doing good.
   - Efficiently managing volunteers to achieve remarkable outcomes without financial incentives or competition.
 - Transition to Writing a Business Book:
-  - The narrator decides to write a book about the lessons corporate entities can learn from not-for-profits.
+  - Nancy decides to write a book about the lessons corporate entities can learn from not-for-profits.
   - Emphasis on running not-for-profit businesses for seventeen years, aiming to share experiences and insights.
   - The book won't solely address doing good or spirituality but will focus on practical lessons derived from not-for-profit practices.
 - Integration of Not-for-Profit Practices into Corporations:
   - The ongoing discourse about not-for-profits adopting business strategies now extends to corporations adopting not-for-profit practices.
-  - The narrator uses her experience to demonstrate how not-for-profits have become proficient in efficiency and innovation.
-  - The narrator refers to her own experience franchising Dress for Success and learning from Harvard Business School case studies.
+  - Nancy uses her experience to demonstrate how not-for-profits have become proficient in efficiency and innovation.
+  - Nancy refers to her own experience franchising Dress for Success and learning from Harvard Business School case studies.
 - Corporate Changes and Learning from Not-for-Profits:
-  - Narrator highlights corporate shifts such as budget reductions, search for strategies, and productivity enhancement.
+  - Nancy highlights corporate shifts such as budget reductions, search for strategies, and productivity enhancement.
   - Attributes these shifts to concepts not-for-profits have been applying for years.
   - Encourages corporations to consider adopting practices from not-for-profit management to navigate challenges.
 - The Power of Zero - Key Concept:
-  - The narrator identifies the core concept of not-for-profit success: achieving more with less.
+  - Nancy identifies the core concept of not-for-profit success: achieving more with less.
   - Not-for-profits thrive with limited resources, motivating innovation, passion, and creativity.
   - Zero serves as a starting point, inspiring constant innovation, consistent with the not-for-profit approach.
 - Lessons from Not-for-Profit World:
@@ -43,7 +43,7 @@ Author: Nancy Lublin
   - Identifying passionate employees and empowering them to make a difference, much like not-for-profit leaders.
   - Creating distinct, consistent, and relevant brands without relying solely on research and focus groups.
 - Relevance of Not-for-Profits in Modern Landscape:
-  - The narrator emphasizes the growing influence of not-for-profits, referencing examples like Wikipedia and Mozilla.
+  - Nancy emphasizes the growing influence of not-for-profits, referencing examples like Wikipedia and Mozilla.
   - Recognizes that not all not-for-profits excel, but focuses on showcasing successful leaders.
   - Features interviews with not-for-profit rock stars, sharing insights and strategies.
 

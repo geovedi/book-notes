@@ -1,6 +1,6 @@
 
 # Cosmos
-Author: Carl Sagan
+Sagan: Carl Sagan
 
 ## Introduction
 - Ancient Cosmic Connections:
@@ -12,9 +12,9 @@ Author: Carl Sagan
   - However, science also shows that humans are deeply connected to the Cosmos, born from it, and our fate entwined with it.
   - Basic human events trace back to the universe's origins, emphasizing the cosmic perspective.
 - Cosmic Exploration and Public Engagement:
-  - In the 1970s, the author participated in exploring Mars with the Viking Lander team, marking historic achievement.
+  - In the 1970s, Sagan participated in exploring Mars with the Viking Lander team, marking historic achievement.
   - Despite such remarkable accomplishments, public awareness was limited due to media's inattention.
-  - The author and colleagues recognized the potential of TV to engage the public and established a production company.
+  - Sagan and colleagues recognized the potential of TV to engage the public and established a production company.
 - The Birth of "Cosmos" TV Series:
   - A production company aimed to communicate science through TV, leading to the creation of the "Cosmos" television series.
   - The series focused on astronomy with a broad human perspective, striving to engage both hearts and minds.
@@ -30,7 +30,7 @@ Author: Carl Sagan
 - Challenges and the Human Epoch:
   - The rapid pace of scientific discovery allows us to explore the universe and potentially cause catastrophic consequences.
   - Our time is critical for humanity, as science shapes our destiny.
-  - The author expresses gratitude to those involved in the "Cosmos" project and acknowledges their contributions.
+  - Sagan expresses gratitude to those involved in the "Cosmos" project and acknowledges their contributions.
 
 ## The Shores of the Cosmic Ocean
 - Ancient Alexandria: A Center of Learning
@@ -155,7 +155,7 @@ Author: Carl Sagan
   - The carbon and water-based nature of Earth's life forms may not be the same on Mars.
 - Carbon Chauvinism and Water as Solvent:
   - Carbon and water are vital for life on Earth due to their properties.
-  - The author ponders whether his affinity for these materials stems from his composition.
+  - Sagan ponders whether his affinity for these materials stems from his composition.
   - The possibility of alternative life forms with different elemental and solvent bases is considered.
 - The Essence of Life:
   - Life is more than the sum of its molecular components; it's about their arrangement.
@@ -165,12 +165,12 @@ Author: Carl Sagan
   - While life might exist elsewhere on Mars, the Viking missions did not find it in the specific areas explored.
 - Future Mars Exploration:
   - The Viking missions were groundbreaking and provided valuable data about Mars.
-  - The author suggests using automated devices to collect soil samples and return them to Earth for detailed analysis.
+  - Sagan suggests using automated devices to collect soil samples and return them to Earth for detailed analysis.
 - Contamination and Sample Return:
   - Returning Martian samples to Earth carries the risk of potential contamination and public health hazards.
   - The challenge lies in ensuring that the containment procedure is impeccably reliable.
 - Roving Vehicles for Exploration:
-  - The author emphasizes the need for roving vehicles to explore Mars more extensively.
+  - Sagan emphasizes the need for roving vehicles to explore Mars more extensively.
   - NASA is developing rovers capable of traversing Martian terrain and conducting advanced experiments.
 - Envisioning Mars' Potential:
   - The concept of terraforming Mars to make it habitable for humans is discussed.

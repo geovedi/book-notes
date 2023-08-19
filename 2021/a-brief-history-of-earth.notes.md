@@ -218,7 +218,7 @@ Author: Andrew H. Knoll
 
 ## Green Earth
 - Introduction:
-  - The author recalls a flight over Siberia, reflecting on Earth's transformation.
+  - Knoll recalls a flight over Siberia, reflecting on Earth's transformation.
   - Plants' colonization of land led to significant biological revolution.
 - Early Plant Evolution:
   - Microbes likely colonized land early in Earth's history.
