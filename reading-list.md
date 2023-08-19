@@ -19,6 +19,9 @@
 - Joseph Menn - **All the Rave: The Rise and Fall of Shawn Fanning's Napster** • [notes](https://github.com/geovedi/book-notes/blob/main/2003/all-the-rave.notes.md)
 - Paulo Coelho - **Eleven Minutes: A Novel** • [notes](https://github.com/geovedi/book-notes/blob/main/2003/eleven-minutes.notes.md)
 
+## 2006
+- Michio Kaku - **Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos** • [notes](https://github.com/geovedi/book-notes/blob/main/2006/parallel-worlds.notes.md)
+
 ## 2008
 - Michio Kaku - **Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel** • [notes](https://github.com/geovedi/book-notes/blob/main/2008/physics-of-the-impossible.notes.md)
 
@@ -28,6 +31,7 @@
 ## 2010
 - Eric S. Raymond - **The Cathedral And The Bazaar** • [notes](https://github.com/geovedi/book-notes/blob/main/2010/the-cathedral-and-the-bazaar.notes.md)
 - Joseph Menn - **Fatal System Error: The Hunt for the New Crime Lords Who Are Bringing Down the Internet** • [notes](https://github.com/geovedi/book-notes/blob/main/2010/fatal-system-error.notes.md)
+- Michael Lewis - **The Big Short: Inside the Doomsday Machine** • [notes](https://github.com/geovedi/book-notes/blob/main/2010/the-big-short.notes.md)
 - Steven Levy - **Hackers: Heroes of the Computer Revolution** • [notes](https://github.com/geovedi/book-notes/blob/main/2010/hackers.notes.md)
 
 ## 2011
