@@ -5725,13 +5725,26 @@ Author: Neal Stephenson
 
 ## The Characters
 
-1. **Lawrence Pritchard Waterhouse:** One of the central characters, Waterhouse is a brilliant mathematician and cryptanalyst. He's highly analytical, methodical, and introverted. He is deeply involved in code-breaking during World War II and the creation of a cryptographic system called "Pontifex." Waterhouse's obsession with patterns and logic sometimes hinders his ability to connect with others on an emotional level.
-2. **Bobby Shaftoe:** Another central character, Shaftoe is a Marine during World War II and a key player in the story. He's resourceful, adventurous, and has a strong sense of duty. Despite his rough exterior, he has a clever mind and displays a remarkable capacity for survival. His actions often drive the plot forward, and he becomes involved in various escapades across the globe.
-3. **Randy Waterhouse:** Lawrence Waterhouse's grandson, Randy is a programmer and entrepreneur in the present-day storyline. He's depicted as intelligent, logical, and somewhat socially awkward. Randy's pursuit of a digital currency and his involvement in the data haven movement showcase his innovative thinking and his desire to challenge established systems.
-4. **Amy Shaftoe:** Daughter of Bobby Shaftoe, Amy is a linguist and cryptanalyst. She's independent, sharp-witted, and resourceful. Amy's interest in languages and deciphering codes mirrors her father's adventurous spirit, and her interactions with other characters often bring a humanizing and emotional touch to the narrative.
-5. **Goto Dengo:** Goto Dengo is a Japanese soldier during World War II who becomes entangled in the storyline due to his interactions with Bobby Shaftoe and Lawrence Waterhouse. He struggles with his loyalty to his superiors and his own moral compass, leading to complex decisions that have far-reaching consequences.
-6. **Enoch Root:** A mysterious and enigmatic figure, Enoch Root appears in both the World War II and modern-day storylines. He seems to have an uncanny ability to bridge the gap between different time periods and is connected to various characters. Root's role often involves guiding and influencing the main characters' trajectories.
-7. **Beryl J. Morgan:** A wealthy and influential figure in the modern-day storyline, Beryl is an eccentric entrepreneur with a keen interest in technology and cryptography. She's a mentor to Randy Waterhouse and embodies a combination of intelligence, ambition, and eccentricity.
-8. **Douglas Shaftoe:** The father of Bobby Shaftoe, Douglas is a former World War I soldier and a math genius. He plays a role in the earlier parts of the book and his legacy influences the Shaftoe family's future.
-
+- World War II storyline characters
+  - Lawrence Pritchard Waterhouse: A mathematician and cryptanalyst who works for the United States and the Allies during World War II. He is involved in various codebreaking and intelligence activities.
+  - Bobby Shaftoe: A Marine and mathematical genius who becomes involved in covert operations and special missions during the war.
+  - Goto Dengo: A Japanese soldier who becomes central to the events surrounding the Yūgumo-class destroyer and the creation of a gold cache.
+  - Rudy von Hacklheber: A German soldier and mathematician who plays a role in the German cryptographic efforts and interacts with other characters.
+  - General Douglas MacArthur: An actual historical figure and the Supreme Commander of the Allied forces in the Pacific Theater during World War II.
+  - Corporal Detachment Goto: A member of the Japanese military who is tasked with protecting a stash of gold.
+  - Enoch Root: A mysterious character who appears in different historical periods, including World War II, with connections to various events.
+  - Douglas Shaftoe: Bobby Shaftoe's brother, who also serves in the military and participates in covert operations.
+  - Rulag Jakob Shaftoe: Another of Bobby Shaftoe's brothers, involved in the war effort and other military actions.
+  - Ronald Reagan: An actual historical figure who makes a brief appearance as an officer in the U.S. Army Air Forces.
+  - Bobby Junior: Bobby Shaftoe's son, who is mentioned in relation to the war.
+- Present-day storyline characters
+  - Randy Waterhouse: A computer programmer, entrepreneur, and grandson of Lawrence Pritchard Waterhouse. He is involved in modern technology, cryptography, and the development of data havens.
+  - Avi Halaby: A wealthy businessman and Randy's friend, who is interested in technology investments and becomes involved in various business ventures.
+  - Amy Shaftoe: Bobby Shaftoe's granddaughter and a fellow computer programmer. She collaborates with Randy on technology projects and cryptography.
+  - Charlene "Charly" Hamilton: A diver and business partner of Randy and Avi, involved in the development of undersea fiber-optic cables.
+  - Doug "Douggy" Shaftoe: Another descendant of Bobby Shaftoe and a modern-day computer programmer.
+  - Enoch Root: A mysterious character who appears across different time periods, including the present day, with connections to various events and characters.
+  - Goto Dengo (present-day character): The elderly Goto Dengo appears in the present day, involved in events related to the Yūgumo-class destroyer and its gold cache.
+  - Cebu: A Filipino martial artist and friend of Randy, involved in various martial arts and adventure activities.
+  - The Dentist: A criminal figure involved in various illicit activities, who crosses paths with some of the main characters.
 
