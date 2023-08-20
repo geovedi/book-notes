@@ -65,6 +65,7 @@
 - Edmond Lau - *The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact* • [notes](https://github.com/geovedi/book-notes/blob/main/2015/the-effective-engineer.notes.md)
 - Heidi Grant Halvorson - *No One Understands You and What to Do About It* • [notes](https://github.com/geovedi/book-notes/blob/main/2015/no-one-understands-you.notes.md)
 - Philip Kotler - *Confronting Capitalism: Real Solutions for a Troubled Economic System* • [notes](https://github.com/geovedi/book-notes/blob/main/2015/confronting-capitalism.notes.md)
+- Steven D. Levitt, Stephen J. Dubner - *When to Rob a Bank: ..And 131 More Warped Suggestions and Well-Intended Rants* • [notes](https://github.com/geovedi/book-notes/blob/main/2015/when-to-rob-a-bank.notes.md)
 
 ## 2016
 - Angela Duckworth - *Grit: The Power of Passion and Perseverance* • [notes](https://github.com/geovedi/book-notes/blob/main/2016/grit.notes.md)
@@ -85,6 +86,7 @@
 - Peter Stanyer, Stephen Satchell - *Guide to Investment Strategy* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/guide-to-investment-strategy.notes.md)
 - Reid Hoffman, Chris Yeh, Bill Gates - *Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/blitzscaling.notes.md)
 - Stephen Hawking - *Brief Answers to the Big Questions* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/brief-answers-to-the-big-questions.notes.md)
+- Tom Goodwin - *Digital Darwinism: Survival of the Fittest in the Age of Business Disruption* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/digital-darwinism.notes.md)
 - Yuval Noah Harari - *21 Lessons for the 21st Century* • [notes](https://github.com/geovedi/book-notes/blob/main/2018/21-lessons-for-the-21st-century.notes.md)
 
 ## 2019
