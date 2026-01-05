@@ -27,12 +27,12 @@ A collection of 168 books in this category.
 ## 2023
 
 - **[2023 Outlive Diet Recipes](../2023/2023-outlive-diet-recipes.md)** - Jesse Smith
-- **[2023-the-book-of-korean-self-care.md](../2023/2023-the-book-of-korean-self-care.md)** - Isa Kujawski
 - **[How (Not) to Do It All](../2023/2023-how-not-to-do-it-all.md)** - Dr Emma Short
 - **[Orthopaedic Knowledge Update: Trauma 6](../2023/2023-orthopaedic-knowledge-update-trauma.md)** - William M. Ricci, MD, FAAOS, Samir Mehta, MD, FAAOS
 - **[Outlive: The Science and Art of Longevity](../2023/2023-outlive-the-science-and-art-of-longevity.md)** - Peter Attia, MD
 - **[Rough Sleepers](../2023/2023-rough-sleepers.md)** - Tracy Kidder
 - **[The Bacteria and the Brain](../2023/2023-the-bacteria-and-the-brain.md)** - Iris Sommer
+- **[The Book of Korean Self-Care: K-beauty, healing foods, traditional medicine, mindfulness, and much more](../2023/2023-the-book-of-korean-self-care.md)** - Isa Kujawski
 - **[The Book of Nordic Self-Care](../2023/2023-the-book-of-nordic-self-care.md)** - Elisabeth Carlsson
 - **[The In-Between](../2023/2023-the-in-between.md)** - Hadley Vlahos R.N.
 - **[The Only Neurology Book You'll Ever Need](../2023/2023-the-only-neurology-book-youll-ever-need.md)** - Alison I. Thaler, Malcolm S. Thaler

@@ -1,5 +1,3 @@
-# 2016-chaos-monkeys.md
-
 # Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
 **Author**: Antonio Garcia Martinez | **Year**: 2016 | **Category**: Business & Finance
 

@@ -394,13 +394,13 @@ A collection of 571 books in this category.
 - **[2016 List Building Strategies for Affiliate Marketers](../2016/2016-list-building-strategies-for-affiliate-marketers.md)** - Anthony Ekanem
 - **[2016 Work-From-Home Business Ideas](../2016/2016-work-from-home-business-ideas.md)** - Anthony Ekanem
 - **[2016-The-A-to-Z-of-Internet-Marketing](../2016/2016-the-a-to-z-of-internet-marketing.md)** - Anthony Ekanem
-- **[2016-chaos-monkeys.md](../2016/2016-chaos-monkeys.md)** - Antonio Garcia Martinez
 - **[2018-Freelancing on Upwork: A Bite-Sized Guide](../2016/2016-freelancing-on-upwork-a-bite-sized-guide.md)** - Madison Hall
 - **[37 Rules for a Successful Online Business: How to Quit Your Job, Move to Paradise and Make Money while You Sleep](../2016/2016-37-rules-for-a-successful-online-business.md)** - Samuel River
 - **[6 Keys to Success: How to Run a Band, Be Famous and Change the World](../2016/2016-6-keys-to-success-how-to-run-a-band-be-famous-and-change-the-world.md)** - Dan Van Casteele
 - **[Business Adventures: Tips and Tricks to Maximize Profits](../2016/2016-business-adventures.md)** - Larry Ellison
 - **[Business Branding](../2016/2016-business-branding.md)** - Anthony Ekanem
 - **[Business Plans That Get Investment](../2016/2016-business-plans-that-get-investment.md)** - David Bateman
+- **[Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](../2016/2016-chaos-monkeys.md)** - Antonio Garcia Martinez
 - **[Content Marketing: A Beginner's Guide to Dominating the Market with Content Marketing](../2016/2016-content-marketing.md)** - Eric J Scott
 - **[Copywriting Mastery](../2016/2016-copywriting-mastery.md)** - Anthony Ekanem
 - **[Cost Per Action Cash](../2016/2016-cost-per-action-cash.md)** - Anthony Ekanem

@@ -266,8 +266,8 @@ A collection of 634 books in this category.
 
 ## 2011
 
-- **[2011-is-everyone-hanging-out-without-me.md](../2011/2011-is-everyone-hanging-out-without-me.md)** - Unknown
 - **[Bossypants](../2011/2011-bossypants.md)** - Tina Fey
+- **[Is Everyone Hanging Out Without Me? (And Other Concerns)](../2011/2011-is-everyone-hanging-out-without-me.md)** - Unknown
 - **[The Silent Woman](../2011/2011-the-silent-woman.md)** - Janet Malcolm
 - **[The Wilder Life: My Adventures in the Lost World of Little House on the Prairie](../2011/2011-the-wilder-life.md)** - Wendy McClure
 
@@ -522,7 +522,7 @@ A collection of 634 books in this category.
 
 ## 1933
 
-- **[1933-down-and-out-in-paris-and-london.md](../pre-2000/1933-down-and-out-in-paris-and-london.md)** - George Orwell
+- **[Down and Out in Paris and London](../pre-2000/1933-down-and-out-in-paris-and-london.md)** - George Orwell
 
 ## 1932
 

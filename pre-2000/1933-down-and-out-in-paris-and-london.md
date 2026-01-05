@@ -1,5 +1,3 @@
-# 1933-down-and-out-in-paris-and-london.md
-
 # Down and Out in Paris and London
 **Author**: George Orwell | **Year**: 1933
 **Category**: Fiction & Literature

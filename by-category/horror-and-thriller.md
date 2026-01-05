@@ -13,12 +13,12 @@ A collection of 98 books in this category.
 ## 2024
 
 - **[2024 Modern Gothic Stories](../2024/2024-modern-gothic-stories.md)** - Michael Bird, Pete Hartley, Edward Karshner, Rose Biggin, Lauren Archer, and Lerah Mae Barcenilla
-- **[2024-the-canal-murders.md](../2024/2024-the-canal-murders.md)** - J. R. Ellis
 - **[Basilisk](../2024/2024-basilisk.md)** - Graham Masterton
 - **[Bury Your Gays](../2024/2024-bury-your-gays.md)** - Chuck Tingle
 - **[Ghost Music](../2024/2024-ghost-music.md)** - Graham Masterton
 - **[Petrified](../2024/2024-petrified.md)** - Graham Masterton
 - **[Stay in the Light](../2024/2024-stay-in-the-light.md)** - A.M. Shine
+- **[The Canal Murders](../2024/2024-the-canal-murders.md)** - J. R. Ellis
 
 ## 2023
 

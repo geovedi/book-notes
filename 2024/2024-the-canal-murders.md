@@ -1,4 +1,4 @@
-# 2024-the-canal-murders.md
+# The Canal Murders
 **Original Title**: The Canal Murders
 **Authors**: J. R. Ellis | **Year**: 2024
 **Category**: Horror & Thriller 

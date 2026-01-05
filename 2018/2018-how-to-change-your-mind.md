@@ -1,5 +1,3 @@
-# 2018-how-to-change-your-mind.md
-
 # How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence
 **Category**: Science & Nature
 **Author**: Michael Pollan | **Year**: 2018

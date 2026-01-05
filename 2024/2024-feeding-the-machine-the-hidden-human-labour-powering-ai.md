@@ -1,5 +1,3 @@
-# 2024-feeding-the-machine-the-hidden-human-labour-powering-ai.md
-
 # Feeding the Machine: The Hidden Human Labour Powering AI
 **Authors**: James Muldoon, Mark Graham, Callum Cant | **Year**: 2024
 **Category**: Technology & Computing

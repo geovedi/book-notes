@@ -14,8 +14,6 @@ A collection of 151 books in this category.
 ## 2024
 
 - **[15 Math Concepts Every Data Scientist Should Know](../2024/2024-15-math-concepts-every-data-scientist-should-know.md)** - David Hoyle
-- **[2024-feeding-the-machine-the-hidden-human-labour-powering-ai.md](../2024/2024-feeding-the-machine-the-hidden-human-labour-powering-ai.md)** - James Muldoon, Mark Graham, Callum Cant
-- **[2024-the-singularity-is-nearer.md](../2024/2024-the-singularity-is-nearer.md)** - Ray Kurzweil
 - **[An Introduction to Robust Combinatorial Optimization: Concepts, Models and Algorithms for Decision Making Under Uncertainty](../2024/2024-an-introduction-to-robust-combinatorial-optimization.md)** - Marc Goerigk, Michael Hartisch
 - **[Applying Artificial Intelligence in Cybersecurity Analytics and Cyber Threat Detection](../2024/2024-applying-artificial-intelligence-in-cybersecurity-analytics-and-cyber-threat-detection.md)** - Dr. Shilpa Mahajan, Dr. Mehak Khurana, Dr. Vania Vieira Estrela
 - **[Artificial Intelligence Ethics and International Law](../2024/2024-artificial-intelligence-ethics-and-international-law.md)** - Abhivardhan
@@ -28,12 +26,14 @@ A collection of 151 books in this category.
 - **[Data Analytics for Intelligent Systems: Techniques and Solutions](../2024/2024-data-analytics-for-intelligent-systems.md)** - Unknown
 - **[Digital Liberty](../2024/2024-digital-liberty.md)** - Matt Stroud
 - **[Feeding the Machine](../2024/2024-feeding-the-machine.md)** - James Muldoon, Mark Graham, Callum Cant
+- **[Feeding the Machine: The Hidden Human Labour Powering AI](../2024/2024-feeding-the-machine-the-hidden-human-labour-powering-ai.md)** - James Muldoon, Mark Graham, Callum Cant
 - **[Generative AI with Amazon Bedrock](../2024/2024-generative-ai-with-amazon-bedrock.md)** - Shikhar Kwatra, Bunny Kaushik
 - **[Hands-On Salesforce Data Cloud: Implementing and Managing a Customer Data Platform](../2024/2024-hands-on-salesforce-data-cloud.md)** - Joyce Kay Avila
 - **[Mastering Multi-Cloud Paradigm for Enterprises](../2024/2024-mastering-multi-cloud-paradigm-for-enterprises.md)** - Barjender Paul
 - **[Mathematical Models Using Artificial Intelligence for Surveillance Systems](../2024/2024-mathematical-models-using-artificial-intelligence-for-surveillance-systems.md)** - Unknown
 - **[OSINT: The Authoritative Guide to Due Diligence](../2024/2024-osint-the-authoritative-guide-to-due-diligence.md)** - Cynthia Hetherington, MLS, MSM, CFE, CII, OSC
 - **[The Business of Metaverse: How Organizations Can Optimize the Opportunities of Web3 and AI](../2024/2024-the-business-of-metaverse.md)** - David Palmer
+- **[The Singularity Is Nearer](../2024/2024-the-singularity-is-nearer.md)** - Ray Kurzweil
 
 ## 2023
 

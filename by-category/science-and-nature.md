@@ -124,7 +124,6 @@ A collection of 366 books in this category.
 ## 2018
 
 - **[2018 A Brief History of Time](../2018/2018-a-brief-history-of-time.md)** - Stephen Hawking (original), Goldmine Reads (summary)
-- **[2018-how-to-change-your-mind.md](../2018/2018-how-to-change-your-mind.md)** - Michael Pollan
 - **[A Richness of Martens](../2018/2018-a-richness-of-martens.md)** - Polly Pullar, with foreword by John Lister-Kaye
 - **[Astroquizzical: A Curious Journey Through Our Cosmic Family Tree](../2018/2018-astroquizzical.md)** - Jillian Scudder
 - **[Brief Answers to the Big Questions](../2018/2018-brief-answers-to-the-big-questions.md)** - Stephen Hawking
@@ -135,6 +134,7 @@ A collection of 366 books in this category.
 - **[Enlightenment Now](../2018/2018-enlightenment-now.md)** - Steven Pinker
 - **[Factfulness](../2018/2018-factfulness.md)** - Hans Rosling, Ola Rosling, and Anna Rosling Rönnlund
 - **[Gravitational Waves](../2018/2018-gravitational-waves.md)** - Brian Clegg
+- **[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](../2018/2018-how-to-change-your-mind.md)** - Michael Pollan
 - **[How to Write a Scientific Paper](../2018/2018-how-to-write-a-scientific-paper.md)** - Jari Saramäki
 - **[Infinity in the Palm of Your Hand](../2018/2018-infinity-in-the-palm-of-your-hand.md)** - Marcus Chown
 - **[Island Genius: Deep Exploration of Savant Syndrome's Important Implications for Cognitive Neuroscience and Human Potential](../2018/2018-island-genius-savant-syndrome.md)** - Darold A. Treffert

@@ -1,4 +1,4 @@
-# 2023-the-book-of-korean-self-care.md
+# The Book of Korean Self-Care: K-beauty, healing foods, traditional medicine, mindfulness, and much more
 **Original Title**: The Book of Korean Self-Care: K-beauty, healing foods, traditional medicine, mindfulness, and much more
 **Authors**: Isa Kujawski | **Year**: 2023
 **Category**: Health & Medicine
