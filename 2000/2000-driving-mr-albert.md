@@ -1,0 +1,12 @@
+# Driving Mr. Albert: A Trip Across America with Einstein's Brain
+**Authors**: Michael Paterniti | **Year**: 2000
+
+## Summary
+This remarkable narrative non-fiction work follows author Michael Paterniti's cross-country road trip with Dr. Thomas Harvey, the pathologist who removed Albert Einstein's brain during the 1955 autopsy and kept it for decades. What begins as an urban legend—Einstein's brain missing, preserved by an eccentric doctor—becomes reality when Paterniti tracks down Harvey in Lawrence, Kansas, living next door to William Burroughs. The author impulsively offers to drive the 84-year-old Harvey and the brain to California to meet Einstein's granddaughter, Evelyn.
+
+The journey unfolds as a meditation on genius, legacy, mortality, and the strange ways we seek meaning. As they travel through America's heartland, the unlikely pair encounters an array of characters while grappling with profound questions about what constitutes a life's value and how we honor greatness. The brain, preserved in formaldehyde and carried in a Tupperware container, serves as both a physical object and a powerful symbol of human potential and the burden of genius.
+
+Perfect for readers who appreciate literary non-fiction, road narratives, and stories that blend humor with profound philosophical questions. You'll gain insights into the nature of genius, the weight of legacy, and how ordinary people connect with extraordinary history.
+TodoWrite
+<arg_key>todos</arg_key>
+<arg_value>[{"content": "Create book summary and core narrative structure", "status": "completed", "activeForm": "Creating the book summary and narrative structure"}, {"content": "Extract key characters and their roles", "status": "in_progress", "activeForm": "Extracting key characters and their roles"}, {"content": "Identify major themes and insights", "status": "pending", "activeForm": "Identifying major themes and insights"}, {"content": "Find memorable quotes", "status": "pending", "activeForm": "Finding memorable quotes"}, {"content": "Write action items and takeaways", "status": "pending", "activeForm": "Writing action items and takeaways"}, {"content": "Create thought-provoking questions", "status": "pending", "activeForm": "Creating thought-provoking questions"}, {"content": "Write conclusion and recommendation", "status": "pending", "activeForm": "Writing conclusion and recommendation"}]

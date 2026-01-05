@@ -1,0 +1,2533 @@
+# Book Notes
+
+A collection of book summaries organized by year.
+
+
+## 2000
+
+- **[Code](2000/2000-code.md)** - Charles Petzold
+- **[Driving Mr. Albert: A Trip Across America with Einstein's Brain](2000/2000-driving-mr-albert.md)** - Michael Paterniti
+- **[Gotham: A History of New York City to 1898](2000/2000-gotham-a-history-of-new-york-city-to-1898.md)** - Edwin G. Burrows, Mike Wallace
+- **[Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History](2000/2000-isaacs-storm.md)** - Erik Larson
+- **[One Up On Wall Street](2000/2000-one-up-on-wall-street.md)** - Peter Lynch, John Rothchild
+- **[Plants in Neolithic Britain and Beyond](2000/2000-plants-in-neolithic-britain-and-beyond.md)** - Alasdair Whittle (editor), Michael J. Allen, Mark A. Robinson, and others
+- **[Rich Dad Poor Dad](2000/2000-rich-dad-poor-dad.md)** - Robert T. Kiyosaki, Sharon L. Lechter
+- **[The 48 Laws of Power](2000/2000-the-48-laws-of-power.md)** - Robert Greene, Joost Elffers
+- **[The Cases That Haunt Us](2000/2000-the-cases-that-haunt-us.md)** - John E. Douglas, Mark Olshaker
+- **[The Energy Evolution: Harnessing Free Energy from Nature](2000/2000-the-energy-evolution-harnessing-free-energy-from-nature.md)** - Viktor Schauberger, translated & edited by Callum Coats
+- **[The Fertile Earth](2000/2000-the-fertile-earth.md)** - Viktor Schauberger, translated & edited by Callum Coats
+- **[The Knowing-Doing Gap](2000/2000-the-knowing-doing-gap.md)** - Jeffrey Pfeffer, Robert I. Sutton
+- **[The Sinatra Files: The Secret FBI Dossier](2000/2000-the-sinatra-files-the-secret-fbi-dossier.md)** - Tom Kuntz, Phil Kuntz
+- **[The Six Wives of Henry VIII](2000/2000-the-six-wives-of-henry-viii.md)** - Alison Weir
+- **[The Tipping Point](2000/2000-the-tipping-point.md)** - Malcolm Gladwell
+- **[Zero: The Biography of a Dangerous Idea](2000/2000-zero-the-biography-of-a-dangerous-idea.md)** - Charles Seife
+
+## 2001
+
+- **[Ancient Irish Legends](2001/2001-ancient-irish-legends.md)** - Padraic O'Farrell
+- **[Fluoride: Drinking Ourselves to Death?](2001/2001-fluoride-drinking-ourselves-to-death.md)** - Barry A. Groves
+- **[Going Mad: Understanding Mental Illness](2001/2001-going-mad-understanding-mental-illness.md)** - Michael Corry, Áine Tubridy
+- **[Helter Skelter: The True Story of the Manson Murders](2001/2001-helter-skelter.md)** - Vincent Bugliosi, Curt Gentry
+- **[Owls Aren't Wise & Bats Aren't Blind](2001/2001-owls-arent-wise-bats-arent-blind.md)** - Warner Shedd, Trudy Nicholson
+- **[Seabiscuit: An American Legend](2001/2001-seabiscuit-an-american-legend.md)** - Laura Hillenbrand
+- **[The Autistic Spectrum: A Guide for Parents and Professionals](2001/2001-the-autistic-spectrum-a-guide-for-parents-and-professionals.md)** - Lorna Wing
+- **[The Formation of Turkey](2001/2001-the-formation-of-turkey.md)** - Claude Cahen
+- **[The Technology of Orgasm](2001/2001-the-technology-of-orgasm.md)** - Rachel P. Maines
+
+## 2002
+
+- **[Be Confident: Discover Your Inner Strength and Take Control of Your Life](2002/2002-be-confident-discover-your-inner-strength-and-take-control-of-your-life.md)** - Réamonn Ó Donnchadha
+- **[Mauve: How One Man Invented a Color That Changed the World](2002/2002-mauve-how-one-man-invented-a-color-that-changed-the-world.md)** - Simon Garfield
+- **[Natasha's Dance: A Cultural History of Russia](2002/2002-natashas-dance.md)** - Orlando Figes
+- **[Parables for the Virtual: Movement, Affect, Sensation](2002/2002-parables-for-the-virtual.md)** - Brian Massumi
+- **[Self-Esteem: The Lazy Person's Guide](2002/2002-self-esteem-the-lazy-persons-guide.md)** - Theresa Francis-Cheung
+- **[The Art of Deception](2002/2002-the-art-of-deception.md)** - Kevin D. Mitnick, William L. Simon
+- **[The Botany of Desire](2002/2002-the-botany-of-desire.md)** - Michael Pollan
+- **[The Emperor of Scent](2002/2002-the-emperor-of-scent.md)** - Chandler Burr
+- **[The Greatest Minds and Ideas of All Time](2002/2002-the-greatest-minds-and-ideas-of-all-time.md)** - Will Durant
+- **[The Hollywood Book of Death](2002/2002-the-hollywood-book-of-death.md)** - James Robert Parish
+- **[Three Celtic Tales](2002/2002-three-celtic-tales.md)** - Moyra Caldecott
+
+## 2003
+
+- **[A Mind of Its Own](2003/2003-a-mind-of-its-own.md)** - David M. Friedman
+- **[A Short History of Nearly Everything](2003/2003-a-short-history-of-nearly-everything.md)** - Bill Bryson
+- **[All the Rave: The Rise and Fall of Shawn Fanning's Napster](2003/2003-all-the-rave-the-rise-and-fall-of-shawn-fannings-napster.md)** - Joseph Menn
+- **[Are Prisons Obsolete?](2003/2003-are-prisons-obsolete.md)** - Angela Y. Davis
+- **[Bachelor Girl](2003/2003-bachelor-girl.md)** - Betsy Israel
+- **[Death's Acre: Inside the Legendary Forensic Lab the Body Farm Where the Dead Do Tell Tales](2003/2003-deaths-acre.md)** - William M. Bass, Jon Jefferson
+- **[Getting Things Done](2003/2003-getting-things-done.md)** - David Allen
+- **[Killer Germs](2003/2003-killer-germs.md)** - Barry E. Zimmerman, David J. Zimmerman
+- **[Moneyball: The Art of Winning an Unfair Game](2003/2003-moneyball-the-art-of-winning-an-unfair-game.md)** - Michael Lewis
+- **[Mountains Beyond Mountains](2003/2003-mountains-beyond-mountains.md)** - Tracy Kidder
+- **[Over the Edge of the World](2003/2003-over-the-edge-of-the-world.md)** - Laurence Bergreen
+- **[Performance Coaching: The Handbook for Managers, H.R. Professionals and Coaches](2003/2003-performance-coaching.md)** - Angus I. McLeod, PhD
+- **[Sex, Time, and Power](2003/2003-sex-time-and-power.md)** - Leonard Shlain
+- **[The Cruelest Miles](2003/2003-the-cruelest-miles.md)** - Gay Salisbury, Laney Salisbury
+- **[White Line Fever: The Autobiography](2003/2003-white-line-fever.md)** - Lemmy Kilmister, Janiss Garza
+
+## 2004
+
+- **[All Creatures Great and Small](2004/2004-all-creatures-great-and-small.md)** - James Herriot
+- **[Aspirin: The Remarkable Story of a Wonder Drug](2004/2004-aspirin-the-remarkable-story-of-a-wonder-drug.md)** - Diarmuid Jeffreys
+- **[Black Like Me](2004/2004-black-like-me.md)** - John Howard Griffin, Don Rutledge, Robert Bonazzi, Studs Terkel
+- **[Dress Your Family in Corduroy and Denim](2004/2004-dress-your-family-in-corduroy-and-denim.md)** - David Sedaris
+- **[He's Just Not That Into You](2004/2004-hes-just-not-that-into-you.md)** - Greg Behrendt, Liz Tuccillo
+- **[Holy Blood, Holy Grail](2004/2004-holy-blood-holy-grail.md)** - Michael Baigent, Richard Leigh, Henry Lincoln
+- **[Sex with Kings](2004/2004-sex-with-kings.md)** - Eleanor Herman
+- **[The Bookseller of Kabul](2004/2004-the-bookseller-of-kabul.md)** - Åsne Seierstad
+- **[The Empire of Tea](2004/2004-the-empire-of-tea.md)** - Alan Macfarlane, Iris Macfarlane
+- **[The Fabric of the Cosmos](2004/2004-the-fabric-of-the-cosmos.md)** - Brian Greene
+- **[The Power of Now](2004/2004-the-power-of-now.md)** - Eckhart Tolle
+- **[The Silence and the Roar](2004/2004-the-silence-and-the-roar.md)** - Nihad Sirees
+- **[The Smartest Guys in the Room](2004/2004-the-smartest-guys-in-the-room.md)** - Bethany McLean, Peter Elkind
+- **[The Taoist Canon: A Historical Companion to the Daozang](2004/2004-the-taoist-canon.md)** - Kristofer Schipper, Franciscus Verellen
+
+## 2005
+
+- **[1491: New Revelations of the Americas Before Columbus](2005/2005-1491-new-revelations-of-the-americas-before-columbus.md)** - Charles C. Mann
+- **[A Crack in the Edge of the World](2005/2005-a-crack-in-the-edge-of-the-world.md)** - Simon Winchester
+- **[Classic Tales of the Supernatural](2005/2005-classic-tales-of-the-supernatural.md)** - Various (O. Henry, Oscar Wilde, Edgar Allan Poe, Charles Dickens, etc.)
+- **[DIY: The Rise of Lo-Fi Culture](2005/2005-diy-the-rise-of-lo-fi-culture.md)** - Amy Spencer
+- **[Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen](2005/2005-julie-and-julia.md)** - Julie Powell
+- **[Let My People Go Surfing](2005/2005-let-my-people-go-surfing.md)** - Yvon Chouinard
+- **[Mao: The Unknown Story](2005/2005-mao-the-unknown-story.md)** - Jung Chang, Jon Halliday
+- **[Marley & Me](2005/2005-marley-me-life-and-love-with-the-worlds-worst-dog.md)** - John Grogan
+- **[Spice: The History of a Temptation](2005/2005-spice-the-history-of-a-temptation.md)** - Jack Turner
+- **[The Earth Moved](2005/2005-the-earth-moved.md)** - Amy Stewart
+- **[The Elements of Murder: A History of Poison](2005/2005-the-elements-of-murder.md)** - John Emsley
+- **[The Great Scientists](2005/2005-the-great-scientists.md)** - John Farndon, Alex Woolf, Anne Rooney, Liz Gogerly
+- **[The Hermeneutics of the Subject](2005/2005-the-hermeneutics-of-the-subject.md)** - Michel Foucault
+- **[The New Science of Life](2005/2005-the-new-science-of-life.md)** - Rupert Sheldrake
+- **[The Pirates Laffite: The Treacherous World of the Corsairs of the Gulf](2005/2005-the-pirates-laffite.md)** - William C. Davis
+- **[The Sociopath Next Door](2005/2005-the-sociopath-next-door.md)** - Martha Stout, Ph.D.
+- **[Why Do Men Have Nipples?](2005/2005-why-do-men-have-nipples.md)** - Mark Leyner, Billy Goldberg, M.D.
+- **[Zarathustra's Revenge](2005/2005-zarathustras-revenge.md)** - Hakim Bey (Peter Lamborn Wilson)
+
+## 2006
+
+- **[A History of the World in 6 Glasses](2006/2006-a-history-of-the-world-in-6-glasses.md)** - Tom Standage
+- **[Birth: A History](2006/2006-birth-a-history.md)** - Tina Cassidy
+- **[Brainiac](2006/2006-brainiac-adventures-in-the-curious-competitive-compulsive-world-of-trivia-buffs.md)** - Ken Jennings
+- **[Conspiracy of Silence: UFOs in Ireland](2006/2006-conspiracy-of-silence.md)** - Carl Nally, Dermot Butler
+- **[Don't Be Silent and Don't Shout: The Art of Negotiating with Those You Love](2006/2006-dont-be-silent-and-dont-shout-the-art-of-negotiating-with-those-you-love.md)** - Matthew McKay, Patrick Fanning, Kim Paleg
+- **[Financial Intelligence](2006/2006-financial-intelligence.md)** - Karen Berman, Joe Knight, John Case
+- **[Freakonomics](2006/2006-freakonomics.md)** - Steven D. Levitt, Stephen J. Dubner
+- **[Genome](2006/2006-genome.md)** - Matt Ridley
+- **[Killing Yourself to Live](2006/2006-killing-yourself-to-live.md)** - Chuck Klosterman
+- **[Night](2006/2006-night.md)** - Elie Wiesel
+- **[Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos](2006/2006-parallel-worlds.md)** - Michio Kaku
+- **[Saints Behaving Badly](2006/2006-saints-behaving-badly.md)** - Thomas J. Craughwell
+- **[Stumbling on Happiness](2006/2006-stumbling-on-happiness.md)** - Daniel Todd Gilbert
+- **[The Audacity of Hope](2006/2006-the-audacity-of-hope.md)** - Barack Obama
+- **[The Battle for Spain](2006/2006-the-battle-for-spain.md)** - Antony Beevor
+- **[The Box](2006/2006-the-box-how-the-shipping-container-made-the-world-smaller-and-the-world-economy-bigger.md)** - Marc Levinson
+- **[The Child's Personality: Brain Systems and Developmental Processes](2006/2006-the-childs-personality-brain-systems-and-developmental-processes.md)** - Accursio Gennaro, Roberta G. Scagliarini
+- **[The God Delusion](2006/2006-the-god-delusion.md)** - Richard Dawkins
+- **[The Secret Life of Houdini](2006/2006-the-secret-life-of-houdini.md)** - William Kalush, Larry Sloman
+- **[The Selfish Gene](2006/2006-the-selfish-gene.md)** - Richard Dawkins
+- **[The Wal-Mart Effect](2006/2006-the-wal-mart-effect.md)** - Charles Fishman
+- **[Think Rich to Get Rich](2006/2006-think-rich-to-get-rich.md)** - Larry John
+- **[Thinking in Pictures](2006/2006-thinking-in-pictures.md)** - Temple Grandin, Oliver Sacks (Foreword)
+- **[Voices from Chernobyl](2006/2006-voices-from-chernobyl.md)** - Svetlana Alexievich, Keith Gessen
+- **[Winning](2006/2006-winning-the-answers.md)** - Jack Welch, Suzy Welch
+
+## 2007
+
+- **[50 Facts That Should Change The World](2007/2007-50-facts-that-should-change-the-world.md)** - Jessica Williams
+- **[An Appreciation of Public Relations](2007/2007-an-appreciation-of-public-relations.md)** - Ellen Gunning
+- **[Atom](2007/2007-atom.md)** - Piers Bizony
+- **[Bury My Heart at Wounded Knee](2007/2007-bury-my-heart-at-wounded-knee.md)** - Dee Brown
+- **[2007-Clapton-The-Autobiography](2007/2007-clapton-the-autobiography.md)** - Eric Clapton
+- **[Escape](2007/2007-escape.md)** - Carolyn Jessop, Laura Palmer
+- **[Founders at Work: Stories of Startups' Early Days](2007/2007-founders-at-work.md)** - Jessica Livingston
+- **[Geek Silicon Valley](2007/2007-geek-silicon-valley.md)** - Ashlee Vance
+- **[Lone Survivor](2007/2007-lone-survivor.md)** - Marcus Luttrell, Patrick Robinson
+- **[Made to Stick](2007/2007-made-to-stick.md)** - Chip Heath, Dan Heath
+- **[Musicophilia: Tales of Music and the Brain](2007/2007-musicophilia-tales-of-music-and-the-brain.md)** - Oliver Sacks
+- **[On Ugliness](2007/2007-on-ugliness.md)** - Umberto Eco
+- **[One Red Paperclip: The Story of How One Man Changed His Life One Swap at a Time](2007/2007-one-red-paperclip.md)** - Kyle MacDonald
+- **[Present at the Future](2007/2007-present-at-the-future.md)** - Ira Flatow
+- **[Small Giants](2007/2007-small-giants.md)** - Bo Burlingham
+- **[Survival of the Sickest](2007/2007-survival-of-the-sickest.md)** - Sharon Moalem, Jonathan Prince
+- **[Taste: The Story of Britain Through Its Cooking](2007/2007-taste-the-story-of-britain-through-its-cooking.md)** - Kate Colquhoun
+- **[Tea: The Drink that Changed the World](2007/2007-tea-the-drink-that-changed-the-world.md)** - Laura C. Martin
+- **[The Demon Under the Microscope](2007/2007-the-demon-under-the-microscope.md)** - Thomas Hager
+- **[The Elements of Style Illustrated](2007/2007-the-elements-of-style-illustrated.md)** - William Strunk Jr., E.B. White, Maira Kalman
+- **[The Man Who Spoke Snakish](2007/2007-the-man-who-spoke-snakish.md)** - Andrus Kivirähk
+- **[The Story of Tea: A Cultural History and Drinking Guide](2007/2007-the-story-of-tea.md)** - Mary Lou Heiss, Robert J. Heiss
+- **[Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson](2007/2007-tuesdays-with-morrie.md)** - Mitch Albom
+- **[Working IX to V](2007/2007-working-ix-to-v.md)** - Vicki León
+
+## 2008
+
+- **[A Treasury of Foolishly Forgotten Americans](2008/2008-a-treasury-of-foolishly-forgotten-americans.md)** - Michael Farquhar
+- **[ACT Verbatim for Depression and Anxiety](2008/2008-act-verbatim-for-depression-and-anxiety.md)** - Michael P. Twohig, Steven C. Hayes
+- **[Animal, Vegetable, Miracle](2008/2008-animal-vegetable-miracle.md)** - Barbara Kingsolver, Camille Kingsolver, Steven L. Hopp
+- **[Death from the Skies! These Are the Ways the World Will End . . .](2008/2008-death-from-the-skies.md)** - Philip Plait
+- **[Dewey: The Small-Town Library Cat Who Touched the World](2008/2008-dewey-the-small-town-library-cat-who-touched-the-world.md)** - Vicki Myron, Bret Witter
+- **[Fooling Some of the People All of the Time](2008/2008-fooling-some-of-the-people-all-of-the-time.md)** - David Einhorn, Joel Greenblatt
+- **[How Not to Get Rich](2008/2008-how-not-to-get-rich.md)** - Robert Sullivan
+- **[How to Talk to a Narcissist](2008/2008-how-to-talk-to-a-narcissist.md)** - Joan Lachkar
+- **[IBM and the Holocaust](2008/2008-ibm-and-the-holocaust.md)** - Edwin Black
+- **[In the Heart of the Sea](2008/2008-in-the-heart-of-the-sea.md)** - Nathaniel Philbrick
+- **[Inside Steve's Brain](2008/2008-inside-steves-brain.md)** - Leander Kahney
+- **[John Lennon: The Life](2008/2008-john-lennon-the-life.md)** - Philip Norman
+- **[Minority Victory: Gilded Age Politics and the Front Porch Campaign of 1888](2008/2008-minority-victory.md)** - Charles W. Calhoun
+- **[Nudge](2008/2008-nudge.md)** - Richard H. Thaler, Cass R. Sunstein
+- **[Personal Life Plan](2008/2008-personal-life-plan.md)** - Willem Razenberg
+- **[Predictably Irrational](2008/2008-predictably-irrational.md)** - Dan Ariely
+- **[Quantum: Einstein, Bohr and the Great Debate About the Nature of Reality](2008/2008-quantum.md)** - Manjit Kumar
+- **[Stolen Innocence](2008/2008-stolen-innocence.md)** - Elissa Wall, Lisa Pulitzer
+- **[The Geography of Bliss](2008/2008-the-geography-of-bliss.md)** - Eric Weiner
+- **[The Idealist Guide to Nonprofit Careers for Sector Switchers](2008/2008-the-idealist-guide-to-nonprofit-careers.md)** - Meg Busse, Steven Joiner
+- **[The Kingdom of Infinite Space](2008/2008-the-kingdom-of-infinite-space.md)** - Raymond Tallis
+- **[The Last Lecture](2008/2008-the-last-lecture.md)** - Randy Pausch, Jeffrey Zaslow
+- **[The Monster of Florence](2008/2008-the-monster-of-florence.md)** - Douglas Preston, Mario Spezi
+- **[The Social Entrepreneur](2008/2008-the-social-entrepreneur.md)** - Andrew Mawson
+- **[Traffic: Why We Drive the Way We Do (and What It Says About Us)](2008/2008-traffic-why-we-drive-the-way-we-do.md)** - Tom Vanderbilt
+- **[Who: The A Method for Hiring](2008/2008-who-the-a-method-for-hiring.md)** - Geoff Smart, Randy Street
+- **[Your Inner Fish](2008/2008-your-inner-fish.md)** - Neil Shubin
+
+## 2009
+
+- **[Barbarians at the Gate](2009/2009-barbarians-at-the-gate.md)** - Bryan Burrough, John Helyar
+- **[Bed of Roses, Bed of Thorns](2009/2009-bed-of-roses-bed-of-thorns.md)** - Uta Christensen
+- **[Born to Run](2009/2009-born-to-run.md)** - Christopher McDougall
+- **[Change by Design](2009/2009-change-by-design.md)** - Tim Brown, Barry Katz
+- **[Cranioklepty: Grave Robbing and the Search for Genius](2009/2009-cranioklepty-grave-robbing-and-the-search-for-genius.md)** - Colin Dickey
+- **[Dark Banquet: Blood and the Curious Lives of Blood-Feeding Creatures](2009/2009-dark-banquet-blood-and-the-curious-lives-of-blood-feeding-creatures.md)** - Bill Schutt, Illustrated by Patricia J. Wynne
+- **[Drive: The Surprising Truth About What Motivates Us](2009/2009-drive.md)** - Daniel H. Pink
+- **[God's Philosophers: How the Medieval World Laid the Foundations of Modern Science](2009/2009-gods-philosophers.md)** - James Hannam
+- **[Half the Sky: Turning Oppression into Opportunity for Women Worldwide](2009/2009-half-the-turning-oppression-into-opportunity-for-women-worldwide.md)** - Nicholas D. Kristof, Sheryl WuDunn
+- **[Legionary: The Roman Soldier's (Unofficial) Manual](2009/2009-legionary-the-roman-soldiers-unofficial-manual.md)** - Philip Matyszak
+- **[NurtureShock: New Thinking About Children](2009/2009-nurture-shock-new-thinking-about-children.md)** - Po Bronson, Ashley Merryman
+- **[On the Role of the Actuary in a Changing World](2009/2009-on-the-role-of-the-actuary-in-a-changing-world.md)** - John R. Gordon BSc FIA
+- **[Predictably Irrational](2009/2009-predictably-irrational.md)** - Dan Ariely
+- **[Slow-Tech](2009/2009-slow-tech.md)** - Andrew R. G. Price
+- **[Start with Why](2009/2009-start-with-why.md)** - Simon Sinek
+- **[Strength in What Remains](2009/2009-strength-in-what-remains.md)** - Tracy Kidder
+- **[The Art of Conversation: How Talking Improves Lives](2009/2009-the-art-of-conversation.md)** - Catherine Blyth
+- **[The Art of Reading Difficult Books](2009/2009-the-art-of-reading-difficult-books.md)** - Akinori Takada
+- **[2009-the-big-burn](2009/2009-the-big-burn.md)** - Timothy Egan
+- **[The Black Death](2009/2009-the-black-death.md)** - Philip Ziegler
+- **[The Brother Gardeners](2009/2009-the-brother-gardeners.md)** - Andrea Wulf
+- **[The Element](2009/2009-the-element.md)** - Ken Robinson, Ph.D. with Lou Aronica
+- **[The Fossil Hunter](2009/2009-the-fossil-hunter.md)** - Shelley Emling
+- **[The Greatest Show on Earth](2009/2009-the-greatest-show-on-earth.md)** - Richard Dawkins
+- **[The Management Gurus: Lessons from the World's Top Business Thinkers](2009/2009-the-management-gurus.md)** - Chris Lauer (Editor)
+- **[The Midwife](2009/2009-the-midwife.md)** - Jennifer Worth, Terri Coates
+- **[The Monuments Men](2009/2009-the-monuments-men.md)** - Robert M. Edsel, Bret Witter
+- **[Zeitoun](2009/2009-zeitoun.md)** - Dave Eggers
+
+## 2010
+
+- **[At Home: A Short History of Private Life](2010/2010-at-home-a-short-history-of-private-life.md)** - Bill Bryson
+- **[Bottled and Sold: The Story Behind Our Obsession with Bottled Water](2010/2010-bottled-and-sold.md)** - Peter H. Gleick
+- **[Brilliant: The Evolution of Artificial Light](2010/2010-brilliant-the-evolution-of-artificial-light.md)** - Jane Brox
+- **[Business Model Generation](2010/2010-business-model-generation.md)** - Alexander Osterwalder, Yves Pigneur, Alan Smith
+- **[Cathedral, Forge, and Waterwheel](2010/2010-cathedral-forge-and-waterwheel.md)** - Frances Gies, Joseph Gies
+- **[Confederates in the Attic](2010/2010-confederates-in-the-attic.md)** - Tony Horwitz
+- **[Delusions of Gender](2010/2010-delusions-of-gender.md)** - Cordelia Fine
+- **[Druids: A Very Short Introduction](2010/2010-druids-a-very-short-introduction.md)** - Barry Cunliffe
+- **[Empire of the Summer Moon](2010/2010-empire-of-the-summer-moon.md)** - S. C. Gwynne
+- **[Furious Love](2010/2010-furious-love.md)** - Sam Kashner, Nancy Schoenberger
+- **[Hackers](2010/2010-hackers.md)** - Steven Levy
+- **[Heaven is for Real](2010/2010-heaven-is-for-real.md)** - Todd Burpo, Lynn Vincent
+- **[Islamic Central Asia: An Anthology of Historical Sources](2010/2010-islamic-central-asia.md)** - Scott C. Levi and Ron Sela
+- **[Just My Type](2010/2010-just-my-type.md)** - Simon Garfield
+- **[Macrowikinomics: Rebooting Business and the World](2010/2010-macrowikinomics.md)** - Don Tapscott & Anthony D. Williams
+- **[Sex at Dawn](2010/2010-sex-at-dawn.md)** - Christopher Ryan, PhD, and Cacilda Jethá, MD
+- **[Shell Games](2010/2010-shell-games.md)** - Craig Welch
+- **[Skinny Bitch in the Kitch](2010/2010-skinny-bitch-in-the-kitch.md)** - Rory Freedman, Kim Barnouin
+- **[Still Life: Adventures in Taxidermy](2010/2010-still-life-adventures-in-taxidermy.md)** - Melissa Milgrom
+- **[Sweetness and Light](2010/2010-sweetness-and-light.md)** - Hattie Ellis
+- **[Switch: How to Change Things When Change Is Hard](2010/2010-switch-how-to-change-things-when-change-is-hard.md)** - Chip Heath, Dan Heath
+- **[The Bedtime Story Book](2010/2010-the-bedtime-story-book.md)** - Jen Wainwright (Adapted by), Angel Dominguez (Illustrated by)
+- **[The Boy Who Harnessed the Wind](2010/2010-the-boy-who-harnessed-the-wind.md)** - William Kamkwamba, Bryan Mealer
+- **[The Cathedral & the Bazaar](2010/2010-the-cathedral-and-the-bazaar.md)** - Eric S. Raymond
+- **[The Darwin Awards Countdown to Extinction](2010/2010-the-darwin-awards-countdown-to-extinction.md)** - Wendy Northcutt
+- **[The Drucker Lectures](2010/2010-the-drucker-lectures.md)** - Peter F. Drucker, Rick Wartzman
+- **[The Easy Way for Women to Stop Smoking](2010/2010-the-easy-way-for-women-to-stop-smoking.md)** - Allen Carr, Francesca Cesati
+- **[The Fairy Tale Book: A Bite-Sized Guide to Classic Stories](2010/2010-the-fairy-tale-book.md)** - Liz Scoggins (Adapter), Lisa Jackson (Illustrator)
+- **[The Fifth Discipline](2010/2010-the-fifth-discipline.md)** - Peter M. Senge
+- **[The Grand Design](2010/2010-the-grand-design.md)** - Stephen Hawking, Leonard Mlodinow
+- **[The Happiness Advantage](2010/2010-the-happiness-advantage.md)** - Shawn Achor
+- **[The Millionaire Next Door](2010/2010-the-millionaire-next-door.md)** - Thomas J. Stanley, William D. Danko
+- **[The Race For a New Game Machine](2010/2010-the-race-for-a-new-game-machine.md)** - David Shippy, Mickie Phipps
+- **[The Sexual History of London](2010/2010-the-sexual-history-of-london.md)** - Catharine Arnold
+- **[The Shallows](2010/2010-the-shallows.md)** - Nicholas Carr
+- **[The Truth About IKEA](2010/2010-the-truth-about-ikea.md)** - Johan Stenebo
+- **[The Word Made Flesh: Literary Tattoos from Bookworms Worldwide](2010/2010-the-word-made-flesh.md)** - Eva Talmadge, Justin Taylor
+- **[Unbroken](2010/2010-unbroken.md)** - Laura Hillenbrand
+- **[Uncommon Grounds](2010/2010-uncommon-grounds.md)** - Mark Pendergrast
+- **[You Can Be Debt Free](2010/2010-you-can-be-debt-free.md)** - Sobaca Ltd
+- **[You Can Make You Rich](2010/2010-you-can-make-you-rich.md)** - Sean Dillon
+- **[Zoo Story](2010/2010-zoo-story.md)** - Thomas French
+
+## 2011
+
+- **[30-Second Economics](2011/2011-30-second-economics.md)** - Donald Marron (Editor), Adam Fishwick, Christakis Georgiou, Katie Huston, Aurelie Marechal
+- **[A Stolen Life](2011/2011-a-stolen-life.md)** - Jaycee Dugard
+- **[All Marketers Are Liars](2011/2011-all-marketers-are-liars.md)** - Seth Godin
+- **[Boomerang: Travels in the New Third World](2011/2011-boomerang-travels-in-the-new-third-world.md)** - Michael Lewis
+- **[Chomsky and Deconstruction: The Politics of Unconscious Knowledge](2011/2011-chomsky-and-deconstruction.md)** - Christopher Wise
+- **[Dead Funny: Humor in Hitler's Germany](2011/2011-dead-funny-humor-in-hitlers-germany.md)** - Rudolph Herzog, Jefferson Chase
+- **[Everything is Obvious](2011/2011-everything-is-obvious.md)** - Duncan J. Watts
+- **[Extra Virginity: The Sublime and Scandalous World of Olive Oil](2011/2011-extra-virginity.md)** - Tom Mueller
+- **[Final Jeopardy: Man vs. Machine and the Quest to Know Everything](2011/2011-final-jeopardy-man-vs-machine.md)** - Stephen Baker
+- **[For All the Tea in China: How England Stole the World's Favorite Drink and Changed History](2011/2011-for-all-the-tea-in-china.md)** - Sarah Rose
+- **[George F. Kennan: An American Life](2011/2011-george-f-kennan-an-american-life.md)** - John Lewis Gaddis
+- **[Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](2011/2011-ghost-in-the-wires.md)** - Kevin D. Mitnick, William L. Simon
+- **[How to Sell and Market Your Book](2011/2011-how-to-sell-and-market-your-book.md)** - Darin Jewell
+- **[In the Plex: How Google Thinks, Works, and Shapes Our Lives](2011/2011-in-the-plex-how-google-thinks-works-and-shapes-our-lives.md)** - Steven Levy
+- **[Inflight Science: A Guide to the World From Your Airplane Window](2011/2011-inflight-science.md)** - Brian Clegg
+- **[Introducing Cognitive Behavioural Therapy (CBT)](2011/2011-introducing-cognitive-behavioural-therapy-cbt.md)** - Elaine Iljon Foreman, Dr. Clair Pollard
+- **[Jack and the Devil's Purse](2011/2011-jack-and-the-devils-purse.md)** - Duncan Williamson, Edited by Linda Williamson
+- **[Killing Lincoln: The Shocking Assassination that Changed America Forever](2011/2011-killing-lincoln.md)** - Bill O'Reilly, Martin Dugard
+- **[Look After the Pennies](2011/2011-look-after-the-pennies.md)** - Tess Read
+- **[Losing My Virginity](2011/2011-losing-my-virginity.md)** - Richard Branson
+- **[Lost in Shangri-La: A True Story of Survival, Adventure, and the Most Incredible Rescue Mission of World War II](2011/2011-lost-in-shangri-la.md)** - Mitchell Zuckoff
+- **[Pushing the Envelope](2011/2011-pushing-the-envelope.md)** - Unknown
+- **[Reality Is Broken](2011/2011-reality-is-broken.md)** - Jane McGonigal
+- **[Secrets of Success in Brand Licensing](2011/2011-secrets-of-success-in-brand-licensing.md)** - Andrew Levy, Judy Bartkowiak
+- **[Simple Numbers, Straight Talk, Big Profits!](2011/2011-simple-numbers-straight-talk-big-profits.md)** - Greg Crabtree, Beverly Blair Harzog
+- **[Smart Skills: Mastering the Numbers](2011/2011-smart-skills-mastering-the-numbers.md)** - Anne Hawkins
+- **[Smart Skills: Persuasion](2011/2011-smart-skills-persuasion.md)** - Patrick Forsyth
+- **[The 10X Rule](2011/2011-the-10x-rule.md)** - Grant Cardone
+- **[The Art of War: Complete Texts and Commentaries](2011/2011-the-art-of-war-complete-texts-and-commentaries.md)** - Sun Tzu, Thomas Cleary (Translator)
+- **[The Canterville Ghost](2011/2011-the-canterville-ghost.md)** - Oscar Wilde
+- **[The Civilization of the Italian Renaissance](2011/2011-the-civilization-of-the-italian-renaissance.md)** - Kenneth R. Bartlett (Editor)
+- **[The Craftsmanship of Writing](2011/2011-the-craftsmanship-of-writing.md)** - Frederic Taber Cooper
+- **[The Juniper Tree and Other Tales](2011/2011-the-juniper-tree-and-other-tales.md)** - Jacob Grimm, Wilhelm Grimm
+- **[The Life of Ernst Chain](2011/2011-the-life-of-ernst-chain.md)** - Ronald Clark
+- **[The Ninth Nightmare](2011/2011-the-ninth-nightmare.md)** - Graham Masterton
+- **[The Pedant's Revolt](2011/2011-the-pedants-revolt.md)** - Andrea Barham
+- **[The Power](2011/2011-the-power.md)** - Rhonda Byrne, Marina Panatero, Ma Anand Tea Pecunia
+- **[The Red Market](2011/2011-the-red-market.md)** - Scott Carney
+- **[The Rise and Fall of the Third Reich](2011/2011-the-rise-and-fall-of-the-third-reich.md)** - William L. Shirer
+- **[The Science of Evil: On Empathy and the Origins of Cruelty](2011/2011-the-science-of-evil.md)** - Simon Baron-Cohen
+- **[The Second Sex](2011/2011-the-second-sex.md)** - Simone de Beauvoir, Constance Borde, Sheila Malovany-Chevallier
+- **[The Silent Woman](2011/2011-the-silent-woman.md)** - Janet Malcolm
+- **[The Weather Book](2011/2011-the-weather-book.md)** - Various Contributors
+- **[Thinking, Fast and Slow](2011/2011-thinking-fast-and-slow.md)** - Daniel Kahneman
+- **[Trump: The Art of the Deal](2011/2011-trump-the-art-of-the-deal.md)** - Donald J. Trump, Tony Schwartz
+- **[Trust](2011/2011-trust.md)** - Anthony Seldon
+- **[Understanding Superior New Product Development](2011/2011-understanding-superior-new-product-development.md)** - Ina Horn
+- **[Using Time Effectively: A Better Management Guide](2011/2011-using-time-effectively.md)** - Jon Allen
+- **[What's Really Wrong With the Middle East](2011/2011-whats-really-wrong-with-the-middle-east.md)** - Brian Whitaker
+- **[Why Balloons Rise and Apples Fall](2011/2011-why-balloons-rise-and-apples-fall.md)** - Jeff Stewart
+- **[Wikinomics](2011/2011-wikinomics.md)** - Don Tapscott, Anthony D. Williams
+
+## 2012
+
+- **[A Gentle Madness: Bibliophiles, Bibliomanes, and the Eternal Passion for Books](2012/2012-a-gentle-madness.md)** - Nicholas A. Basbanes
+- **[A Practical Guide to Management](2012/2012-a-practical-guide-to-management.md)** - Alison Price, David Price
+- **[A Proposed Treatment Connection for Borderline Personality Disorder (BPD)](2012/2012-a-proposed-treatment-connection-for-borderline-personality-disorder.md)** - Ashley Doyle LISW-CP
+- **[Air: The Restless Shaper of the World](2012/2012-air-the-restless-shaper-of-the-world.md)** - William Bryant Logan
+- **[And the Next Question Is: Powerful Questions for Sticky Moments](2012/2012-and-the-next-question-is.md)** - Rachel A. Alexander & Julia M. L. Russell
+- **[Blood: An Epic History of Medicine and Commerce](2012/2012-blood-epic-history-medicine-commerce.md)** - Douglas Starr
+- **[Bulgarian Turks (1878-2008)](2012/2012-bulgarian-turks-1878-to-2008.md)** - Bilâl N. Şimşir
+- **[Celestina](2012/2012-celestina.md)** - Fernando de Rojas
+- **[Coaching and Mentoring Learning Resource Manual](2012/2012-coaching-and-mentoring-learning-resource-manual.md)** - Jimmy Petruzzi
+- **[Daring Greatly](2012/2012-daring-greatly.md)** - Brené Brown, Ph.D., LMSW
+- **[Eradicating Ecocide](2012/2012-eradicating-ecocide.md)** - Polly Higgins
+- **[Every Love Story Is a Ghost Story](2012/2012-every-love-story-is-a-ghost-story.md)** - D. T. Max
+- **[Fear: Essential Wisdom for Getting Through the Storm](2012/2012-fear-essential-wisdom-for-getting-through-the-storm.md)** - Thich Nhat Hanh
+- **[Financial Cataclysm Now!](2012/2012-financial-cataclysm-now.md)** - John Piper
+- **[Heroes, Gods and Monsters of Celtic Mythology](2012/2012-heroes-gods-and-monsters-of-celtic-mythology.md)** - Fiona Macdonald
+- **[How to Publish and Promote Your Book Now](2012/2012-how-to-publish-and-promote-your-book-now.md)** - L. Diane Wolfe
+- **[How to Sharpen Pencils](2012/2012-how-to-sharpen-pencils.md)** - David Rees, John Hodgman
+- **[I Used to Know That: Science](2012/2012-i-used-to-know-that.md)** - Marianne Taylor, Caroline Taggart
+- **[Leading Change](2012/2012-leading-change.md)** - John P. Kotter, Oliver Wyman
+- **[Let's Pretend This Never Happened](2012/2012-lets-pretend-this-never-happened.md)** - Jenny Lawson
+- **[Making the Most of Your Creative Output](2012/2012-making-the-most-of-your-creative-output.md)** - Ian Shipley
+- **[Mind-Power: The Secret of Mental Magic](2012/2012-mind-power-the-secret-of-mental-magic.md)** - William Walker Atkinson
+- **[2012-Motivating Beyond Money](2012/2012-motivating-beyond-money.md)** - Rus Slater
+- **[People Who Eat Darkness](2012/2012-people-who-eat-darkness.md)** - Richard Lloyd Parry
+- **[Powerful Poems](2012/2012-powerful-poems.md)** - Ralph Waldo Emerson
+- **[Rabid: A Cultural History of the World's Most Diabolical Virus](2012/2012-rabid-a-cultural-history.md)** - Bill Wasik, Monica Murphy
+- **[Risk Intelligence](2012/2012-risk-intelligence.md)** - Dylan Evans
+- **[Science Lesson Plans for KS1](2012/2012-science-lesson-plans-for-ks1.md)** - Pam Larkins
+- **[Scurvy: How a Surgeon, a Mariner, and a Gentleman Solved the Greatest Medical Mystery of the Age of Sail](2012/2012-scurvy-how-a-surgeon-a-mariner-and-a-gentleman-solved-the-greatest-medical-mystery-of-the-age-of-sail.md)** - Stephen R. Bown
+- **[Snow White and Rose-red](2012/2012-snow-white-and-rose-red.md)** - Jacob Ludwig Karl Grimm
+- **[The 2-Hour Job Search](2012/2012-the-2-hour-job-search.md)** - Steve Dalton
+- **[The Art of Always Being Right](2012/2012-the-art-of-always-being-right.md)** - Arthur Schopenhauer, A.C. Grayling
+- **[The Art of Perception](2012/2012-the-art-of-perception.md)** - Robert Leaf
+- **[The Art of War](2012/2012-the-art-of-war.md)** - Sunzi (Sun Wu)
+- **[The Book of Princes and Princesses](2012/2012-the-book-of-princes-and-princesses.md)** - Andrew Lang, Mrs. Lang
+- **[The Capitalist Nigger: The Road to Success](2012/2012-the-capitalist-nigger-the-road-to-success.md)** - Chika Onyeani
+- **[The Complete d'Artagnan Novels](2012/2012-the-complete-dartagnan-novels.md)** - Alexandre Dumas
+- **[The Complete Novels of the Brontë Sisters](2012/2012-the-complete-novels-of-the-bronte-sisters.md)** - Charlotte Brontë, Emily Brontë, Anne Brontë
+- **[The Count of Monte Cristo](2012/2012-the-count-of-monte-cristo.md)** - Alexandre Dumas
+- **[The Dark Domain](2012/2012-the-dark-domain.md)** - Stefan Grabinski
+- **[The Devil's Diadem](2012/2012-the-devils-diadem.md)** - Sara Douglass
+- **[The Dreaming Sex](2012/2012-the-dreaming-sex.md)** - Mike Ashley (Editor)
+- **[The Guide to Event Management](2012/2012-the-guide-to-event-management.md)** - Rus Slater
+- **[The Little Mermaid and Other Fairy Tales](2012/2012-the-little-mermaid-and-other-fairy-tales.md)** - Hans Christian Andersen
+- **[The Music of the Primes](2012/2012-the-music-of-the-primes.md)** - Marcus du Sautoy
+- **[The Odyssey](2012/2012-the-odyssey.md)** - Homer
+- **[The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results](2012/2012-the-one-thing-the-surprisingly-simple-truth-about-extraordinary-results.md)** - Gary Keller with Jay Papasan
+- **[The Path to Prosperity](2012/2012-the-path-to-prosperity.md)** - James Allen
+- **[The Power of Habit](2012/2012-the-power-of-habit.md)** - Charles Duhigg
+- **[The Science of Economics](2012/2012-the-science-of-economics.md)** - Raymond Makewell
+- **[The Secret Door to Success](2012/2012-the-secret-door-to-success.md)** - Florence Scovel Shinn
+- **[The Secrets Of Your Mental Power](2012/2012-the-secrets-of-your-mental-power.md)** - William Walker Atkinson
+- **[The Seeker for Truth: My Essential Works](2012/2012-the-seeker-for-truth-my-essential-works.md)** - James Allen
+- **[The Sensorium of God](2012/2012-the-sensorium-of-god.md)** - Stuart Clark
+- **[The Signal and the Noise](2012/2012-the-signal-and-the-noise.md)** - Nate Silver
+- **[The Snow Queen](2012/2012-the-snow-queen.md)** - Hans Christian Andersen
+- **[The Ugly Duckling and Other Fairy Tales](2012/2012-the-ugly-duckling-and-other-fairy-tales.md)** - Hans Christian Andersen
+- **[The Victorian City: Everyday Life in Dickens' London](2012/2012-the-victorian-city-everyday-life-in-dickens-london.md)** - Judith Flanders
+- **[The White Dominican](2012/2012-the-white-dominican.md)** - Gustav Meyrink
+- **[The World's Desire](2012/2012-the-worlds-desire.md)** - H. Rider Haggard, Andrew Lang
+- **[Transformational Corporate Leadership](2012/2012-transformational-corporate-leadership.md)** - Barine A. Kirimi, David Minja
+- **[Trick or Treat: A History of Halloween](2012/2012-trick-or-treat-a-history-of-halloween.md)** - Lisa Morton
+- **[Western Classic Collection](2012/2012-western-classic-collection.md)** - Grace Livingston Hill, Clarence E. Mulford, B.M. Bower, Zane Grey
+- **[What Money Can't Buy: The Moral Limits of Markets](2012/2012-what-money-cant-buy.md)** - Michael J. Sandel
+- **[When the Earth Was Flat](2012/2012-when-the-earth-was-flat.md)** - Christopher J. Witty
+- **[Why?: Answers to Everyday Science Questions](2012/2012-why-everyday-science-questions.md)** - Robert Matthews
+- **[Why Nations Fail](2012/2012-why-nations-fail.md)** - Daron Acemoglu, James A. Robinson
+- **[Words Like Loaded Pistols](2012/2012-words-like-loaded-pistols.md)** - Sam Leith
+
+## 2013
+
+- **[30-Second Elements](2013/2013-30-second-elements.md)** - Eric Scerri (Editor), Hugh Aldersey-Williams, Philip Ball, Brian Clegg, John Emsley, Mark Leach, Jeffrey Moran, Andrea Sella, Philip Stewart
+- **[50 Masterpieces You Have to Read Before You Die](2013/2013-50-masterpieces-you-have-to-read-before-you-die.md)** - Alexandre Dumas, Anne Brontë, Bram Stoker, Charles Dickens, Charlotte Brontë, Daniel Defoe, Dante Alighieri, D. H. Lawrence, Edith Wharton, Émile Zola, Emily Brontë, F. Scott Fitzgerald, Fyodor Dostoyevsky, George Eliot, Gustave Flaubert, Hans Christian Andersen, Henry James, Herman Melville, Homer, Honoré de Balzac, Jack London, James Joyce, Jane Austen, Jonathan Swift, Joseph Conrad, Laurence Sterne, Leo Tolstoy, Marcel Proust, Mark Twain, Miguel de Cervantes, Nikolai Gogol, Oscar Wilde, Samuel Butler, Stendhal, The Brothers Grimm, Victor Hugo, Virginia Woolf, William Makepeace Thackeray
+- **[A Guide to Better Management: How to Get Win Win](2013/2013-a-guide-to-better-management-how-to-get-win-win.md)** - Jon Allen
+- **[A Guide to Better Management: Keeping Customers Satisfied](2013/2013-a-guide-to-better-management-keeping-customers-satisfied.md)** - Unknown Author
+- **[A Guide to Better Management: Managing Change](2013/2013-a-guide-to-better-management-managing-change.md)** - Jon Allen
+- **[A Guide to Better Management: Motivating Others](2013/2013-a-guide-to-better-management-motivating-others.md)** - Jon Allen
+- **[A Guide to Better Management: Setting Goals](2013/2013-a-guide-to-better-management-setting-goals.md)** - Jon Allen
+- **[A House in the Sky](2013/2013-a-house-in-the-sky.md)** - Amanda Lindhout, Sara Corbett
+- **[A Simple Guide for Growing Organic Mushrooms](2013/2013-a-simple-guide-for-growing-organic-mushrooms.md)** - Roby Jose Ciju
+- **[Aesop's Fables](2013/2013-aesops-fables.md)** - Aesop
+- **[Ancient Legends Retold](2013/2013-ancient-legends-retold.md)** - Fiona Collins
+- **[Back in the Driving Seat](2013/2013-back-in-the-driving-seat.md)** - George Mordaunt
+- **[Beyond Belief](2013/2013-beyond-belief.md)** - Jenna Miscavige Hill, Lisa Pulitzer
+- **[Colonising Myths - Māori Realities](2013/2013-colonising-myths-maori-realities.md)** - Ani Mikaere
+- **[Cybersexism](2013/2013-cybersexism.md)** - Laurie Penny
+- **[Dante's Inferno: The Divine Comedy Book One](2013/2013-dantes-inferno-the-divine-comedy-book-one.md)** - Dante Alighieri
+- **[Don't Get a Job, Build a Business](2013/2013-dont-get-a-job-build-a-business.md)** - Joan Baker, Joanne Hession
+- **[Effective Meetings: A Guide to Better Management](2013/2013-effective-meetings-a-guide-to-better-management.md)** - Jon Allen
+- **[Effective Presentations: A Guide to Better Management](2013/2013-effective-presentations-nlp-guide.md)** - Jon Allen
+- **[Empress Dowager Cixi: The Concubine Who Launched Modern China](2013/2013-empress-dowager-cixi-the-concubine-who-launched-modern-china.md)** - Jung Chang
+- **[Empty Mansions](2013/2013-empty-mansions.md)** - Bill Dedman, Paul Clark Newell Jr.
+- **[Everest the Cruel Way](2013/2013-everest-the-cruel-way.md)** - Joe Tasker
+- **[Galatea](2013/2013-galatea.md)** - Madeline Miller
+- **[Giving is Good for You](2013/2013-giving-is-good-for-you.md)** - John Nickson
+- **[God Versus Particle Physics](2013/2013-god-versus-particle-physics.md)** - J.B. Davies
+- **[Great Himalaya Trail](2013/2013-great-himalaya-trail.md)** - Gerda Pauler
+- **[Historical Variability in Heritable General Intelligence](2013/2013-historical-variability-in-heritable-general-intelligence.md)** - Michael A. Woodley, Aurelio José Figueredo
+- **[Homo Sapiens](2013/2013-homo-sapiens.md)** - Antonio Vélez Montoya
+- **[How Many People Are There In My Head? And In Hers?](2013/2013-how-many-people-are-there-in-my-head-and-in-hers.md)** - Jonathan C.W. Edwards
+- **[How to Choose, Brief and Work with Graphic Designers](2013/2013-how-to-choose-brief-and-work-with-graphic-designers.md)** - Amanda J Field
+- **[I Am Malala](2013/2013-i-am-malala.md)** - Malala Yousafzai, Christina Lamb
+- **[Influencer: The New Science of Leading Change](2013/2013-influencer-the-new-science-of-leading-change.md)** - Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler
+- **[Invisible](2013/2013-invisible.md)** - Hsiao-Hung Pai
+- **[Make That Grade: Organisational Behaviour](2013/2013-make-that-grade-organisational-behaviour.md)** - Michèle Kehoe
+- **[Manager as a Role Model: A Guide to Better Management](2013/2013-manager-as-role-model.md)** - Jon Allen
+- **[Neuroplasticity: The Brain's Remarkable Ability to Change](2013/2013-neuroplasticity.md)** - Melody MyDowel
+- **[Perlefter: The Story of a Bourgeois](2013/2013-perlefter-the-story-of-a-bourgeois.md)** - Joseph Roth
+- **[Playing to Win](2013/2013-playing-to-win.md)** - A.G. Lafley, Roger L. Martin
+- **[PMO Fighter: How to Win in the Ring of Projects in Large Corporations](2013/2013-pmo-fighter-how-to-win-in-the-ring-of-projects-in-large-corporations.md)** - Luiz Del Col, Mauricio Filho
+- **[Questions for Reflection](2013/2013-questions-for-reflection.md)** - Kerstin Hack
+- **[Rare Bird](2013/2013-rare-bird-pursuing-the-mystery-of-the-marbled-murrelet.md)** - Maria Mudd Ruth
+- **[Remote: Office Not Required](2013/2013-remote-office-not-required.md)** - Jason Fried, David Heinemeier Hansson
+- **[Sappho's Leap](2013/2013-sapphos-leap.md)** - Erica Jong
+- **[Savage Arena](2013/2013-savage-arena.md)** - Joe Tasker
+- **[Science: An Introductory Reader](2013/2013-science-an-introductory-reader.md)** - Rudolf Steiner (compiled by Howard Smith)
+- **[Secret of Making Money on the Internet](2013/2013-secret-of-making-money-on-the-internet.md)** - George Sheema
+- **[Sensitive Chaos](2013/2013-sensitive-chaos.md)** - Theodor Schwenk
+- **[Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks](2013/2013-shady-characters.md)** - Keith Houston
+- **[Stephen Hawking: A Graphic Guide](2013/2013-stephen-hawking-graphic-guide.md)** - J.P. McEvoy, Oscar Zarate
+- **[Strumpet City](2013/2013-strumpet-city.md)** - James Plunkett
+- **[Team Leader: A Guide to Better Management](2013/2013-team-leader-a-guide-to-better-management.md)** - Jon Allen
+- **[The Art and Attitude of Success](2013/2013-the-art-and-attitude-of-success.md)** - Emmanuel Smith
+- **[The Boys in the Boat](2013/2013-the-boys-in-the-boat.md)** - Daniel James Brown
+- **[The Business of Writing](2013/2013-the-business-of-writing.md)** - Philip Wylie
+- **[The Circle](2013/2013-the-circle.md)** - Dave Eggers
+- **[The Collected Stories of Stefan Zweig](2013/2013-the-collected-stories-of-stefan-zweig.md)** - Stefan Zweig, Anthea Bell (Translator)
+- **[The Courage to Love: Surviving and Thriving in Your Relationship](2013/2013-the-courage-to-love.md)** - Padraig O'Morain
+- **[The Creative Aspect of Country Branding: How Music Influences Country Image in Hungary](2013/2013-the-creative-aspect-of-country-branding.md)** - Kinga Jentetics
+- **[The Default Line](2013/2013-the-default-line.md)** - Faisal Islam
+- **[The Design of Everyday Things](2013/2013-the-design-of-everyday-things.md)** - Donald A. Norman
+- **[The Disaster Artist](2013/2013-the-disaster-artist.md)** - Greg Sestero, Tom Bissell
+- **[The Entrepreneur's Tax Guide](2013/2013-the-entrepreneurs-tax-guide.md)** - Lee Hadnum
+- **[The Girls of Atomic City](2013/2013-the-girls-of-atomic-city.md)** - Denise Kiernan
+- **[The Master Negotiator](2013/2013-the-master-negotiator.md)** - Stefan Amin Talab
+- **[The Nature Book](2013/2013-the-nature-book.md)** - Marianne Taylor
+- **[The Opal and Other Stories](2013/2013-the-opal-and-other-stories.md)** - Gustav Meyrink
+- **[The Phoenix Project](2013/2013-the-phoenix-project.md)** - Gene Kim, Kevin Behr, George Spafford
+- **[The Power of MAP to Entrepreneurial Success](2013/2013-the-power-of-map-to-entrepreneurial-success.md)** - Alison Price, David Price
+- **[The Reason I Jump](2013/2013-the-reason-i-jump.md)** - Naoki Higashida, KA Yoshida, David Mitchell
+- **[The Rivals of Sherlock Holmes](2013/2013-the-rivals-of-sherlock-holmes.md)** - Nick Rennison (Editor)
+- **[The Secret Life of Kim Dotcom](2013/2013-the-secret-life-of-kim-dotcom.md)** - David Fisher
+- **[The Spirit of Success](2013/2013-the-spirit-of-success.md)** - Norman Drummond
+- **[The Sports Gene](2013/2013-the-sports-gene.md)** - David Epstein
+- **[The Story of Spanish](2013/2013-the-story-of-spanish.md)** - Jean-Benoît Nadeau, Julie Barlow
+- **[The Tragedies](2013/2013-the-tragedies.md)** - Sophocles
+- **[The True History of Chocolate](2013/2013-the-true-history-of-chocolate.md)** - Sophie D. Coe, Michael D. Coe
+- **[The Unwinding: An Inner History of the New America](2013/2013-the-unwinding-an-inner-history-of-the-new-america.md)** - George Packer
+- **[2013-Transit of Venus](2013/2013-transit-of-venus.md)** - Rowan Metcalfe
+- **[Wandering Through Amsterdam](2013/2013-wandering-through-amsterdam.md)** - Simon Carmiggelt, compiled by Henk van Gelder
+
+## 2014
+
+- **[30-Second Quantum Theory](2014/2014-30-second-quantum-theory.md)** - Brian Clegg (Editor), Philip Ball, Leon Clifford, Frank Close, Sophie Hebden, Alexander Hellemans, Sharon Ann Holgate, Andrew May
+- **[7 Essential Financial Knowledge To Keep You Afloat](2014/2014-7-essential-financial-knowledge-to-keep-you-afloat.md)** - Dr Ben Watts
+- **[A Dream of White Horses](2014/2014-a-dream-of-white-horses.md)** - Edwin Drummond
+- **[A Dream Play](2014/2014-a-dream-play.md)** - August Strindberg, Caryl Churchill (adapter)
+- **[American Slavery As It Was: The Background Of Twelve Years A Slave](2014/2014-american-slavery-as-it-was.md)** - Theodore Dwight Weld
+- **[As You Wish: Inconceivable Tales from the Making of The Princess Bride](2014/2014-as-you-wish.md)** - Cary Elwes, Joe Layden
+- **[Bad Feminist](2014/2014-bad-feminist.md)** - Roxane Gay
+- **[Blue Ocean Strategy](2014/2014-blue-ocean-strategy.md)** - W. Chan Kim, Renée A. Mauborgne
+- **[Business Adventures](2014/2014-business-adventures.md)** - John Brooks
+- **[Capital in the Twenty-First Century](2014/2014-capital-in-the-twenty-first-century.md)** - Thomas Piketty, Arthur Goldhammer
+- **[Chaos: Making a New Science](2014/2014-chaos-making-a-new-science.md)** - Ziauddin Sardar, Iwona Abrams
+- **[Charisma: How to Develop Personal Charisma and Leave that Lasting Impression on Everyone You Meet](2014/2014-charisma-how-to-develop-personal-charisma.md)** - Jane Peters
+- **[Charles Dickens Collection: Short Stories](2014/2014-charles-dickens-collection-short-stories.md)** - Charles Dickens
+- **[Cinderella's Secret Witch Diaries Box Set](2014/2014-cinderellas-secret-witch-diaries.md)** - Ron Vitale
+- **[Cliffs End Farm, Isle of Thanet, Kent](2014/2014-cliffs-end-farm-isle-of-thanet.md)** - Jacqueline I. McKinley, Matt Leivers, Jörn Schuster, Peter Marshall, Alistair J. Barclay, Nick Stoodley
+- **[Creativity, Inc.](2014/2014-creativity-inc.md)** - Ed Catmull, Amy Wallace
+- **[Death and Changing Rituals](2014/2014-death-and-changing-rituals.md)** - J. Rasmus Brandt, Häkon Roland, Marina Prusac
+- **[Dictionary of Classical Mythology](2014/2014-dictionary-of-classical-mythology.md)** - Jennifer R. March, Neil Barrett (illustrator)
+- **[Don't Mention The Wars](2014/2014-dont-mention-the-wars.md)** - Tony Connelly
+- **[Dual Momentum Investing](2014/2014-dual-momentum-investing.md)** - Gary Antonacci
+- **[Edible](2014/2014-edible.md)** - Daniella Martin
+- **[How to Be a Successful Developer](2014/2014-how-to-be-a-successful-developer.md)** - Ralph R. Pisani and Robert L. Pisani
+- **[Instant Communication Skills](2014/2014-instant-communication-skills.md)** - Instant Series Publication
+- **[Instant Goals](2014/2014-instant-goals.md)** - Instant Series Publication
+- **[Introducing Anthropology](2014/2014-introducing-anthropology.md)** - Merryl Wyn-Davis
+- **[Introducing Keynes: A Graphic Guide](2014/2014-introducing-keynes.md)** - Will Hutton, Nick Grant
+- **[Introducing Lacan: A Graphic Guide](2014/2014-introducing-lacan.md)** - Darian Leader, Judy Groves
+- **[Introducing Productivity](2014/2014-introducing-productivity.md)** - Graham Allcott
+- **[Introducing Time](2014/2014-introducing-time.md)** - Craig Callender, Ralph Edney
+- **[It's Complicated: The Social Lives of Networked Teens](2014/2014-its-complicated-the-social-lives-of-networked-teens.md)** - danah boyd
+- **[Jack and the Beanstalk and Other Fairy Tales](2014/2014-jack-and-the-beanstalk-and-other-fairy-tales.md)** - Andrew Lang (Compiler)
+- **[Lancashire Folk Tales](2014/2014-lancashire-folk-tales.md)** - Jennie Bailey, David England
+- **[Launch](2014/2014-launch.md)** - Jeff Walker
+- **[Legend of the Walking Dead](2014/2014-legend-of-the-walking-dead.md)** - Joy Nwosu Lo-Bamijoko
+- **[Lost in Translation: An Illustrated Compendium of Untranslatable Words from Around the World](2014/2014-lost-in-translation.md)** - Ella Frances Sanders
+- **[Mass Tourism and the Wear and Tear of the World](2014/2014-mass-tourism-and-the-wear-and-tear-of-the-world.md)** - Rodolphe Christin
+- **[2014 - Master Your Time in 10 Minutes a Day](2014/2014-master-your-time-in-10-minutes-a-day.md)** - Michal Stawicki
+- **[Measuring and Managing Information Risk: A FAIR Approach](2014/2014-measuring-and-managing-information-risk-a-fair-approach.md)** - Jack Freund, Jack Jones
+- **[Mechanisms in World and Mind](2014/2014-mechanisms-in-world-and-mind.md)** - Bernd Lindemann
+- **[North Yorkshire Folk Tales](2014/2014-north-yorkshire-folk-tales.md)** - Ingrid Barton
+- **[Personal Investing: How to Invest Your Money for Consistent Returns](2014/2014-personal-investing-how-to-invest-your-money-for-consistent-returns.md)** - Edwin Lim, Dr. Kaiwen Leong, Edward H. Choi
+- **[Power Quotes](2014/2014-power-quotes.md)** - Pappi Ndelu
+- **[Quantum Mechanics: The Theoretical Minimum](2014/2014-quantum-mechanics-the-theoretical-minimum.md)** - Leonard Susskind, Art Friedman
+- **[Quantum Theory: A Bite-Sized Guide](2014/2014-quantum-theory-a-bite-sized-guide.md)** - J.P. McEvoy & Oscar Zarate
+- **[Reaching Down the Rabbit Hole](2014/2014-reaching-down-the-rabbit-hole.md)** - Allan H. Ropper, Brian David Burrell
+- **[Research Methods: Designing and Conducting Research with a Real-World Focus](2014/2014-research-methods-designing-and-conducting-research-with-a-real-world-focus.md)** - Carrie A. Picardi, Kevin D. Masick
+- **[Shishapangma](2014/2014-shishapangma.md)** - Doug Scott, Alex MacIntyre
+- **[The Art of Asking](2014/2014-the-art-of-asking.md)** - Amanda Palmer, Brené Brown
+- **[The Art of Risk Management](2014/2014-the-art-of-risk-management.md)** - Damon S. Lundqvist
+- **[The Climbing Chronicles](2014/2014-the-climbing-chronicles.md)** - Harry Parker, Compiled by John Parker
+- **[The Crimes of Love](2014/2014-the-crimes-of-love.md)** - Marquis de Sade
+- **[The Economics of Success](2014/2014-the-economics-of-success.md)** - Eamonn Butler
+- **[The Economy of Ireland](2014/2014-the-economy-of-ireland.md)** - John O'Hagan, Carol Newman
+- **[The Everest Files](2014/2014-the-everest-files.md)** - Matt Dickinson
+- **[The Government Inspector](2014/2014-the-government-inspector.md)** - Nikolai Gogol
+- **[The Lifestyle Entrepreneur](2014/2014-the-lifestyle-entrepreneur.md)** - Cato Hoeben & Angela Neustatter
+- **[The Literary Heritage of the Arabs](2014/2014-the-literary-heritage-of-the-arabs.md)** - Suheil Bushrui, James M. Malarkey
+- **[The Mind of a Leader I](2014/2014-the-mind-of-a-leader-i.md)** - Benjamin Holk Henriksen & Fredrik Lassenius
+- **[The Odyssey](2014/2014-the-odyssey.md)** - Homer
+- **[The Opposite of Loneliness](2014/2014-the-opposite-of-loneliness.md)** - Marina Keegan, Anne Fadiman
+- **[The Romanov Sisters: The Lost Lives of the Daughters of Nicholas and Alexandra](2014/2014-the-romanov-sisters.md)** - Helen Rappaport
+- **[The Second Machine Age](2014/2014-the-second-machine-age.md)** - Erik Brynjolfsson, Andrew McAfee
+- **[The Society of the Crossed Keys](2014/2014-the-society-of-the-crossed-keys.md)** - Stefan Zweig, Wes Anderson, George Prochnik
+- **[The Up Side of Down](2014/2014-the-up-side-of-down.md)** - Megan McArdle
+- **[The Wastewater Gardener](2014/2014-the-wastewater-gardener.md)** - Mark Nelson, PhD, Tony Juniper (Foreword)
+- **[The Wonderful Stories of Oz](2014/2014-the-wonderful-stories-of-oz.md)** - L. Frank Baum
+- **[Thyestes](2014/2014-thyestes.md)** - Lucius Annaeus Seneca (translated by Caryl Churchill)
+- **[Traction: A Startup Guide to Getting Customers](2014/2014-traction-a-startup-guide-to-getting-customers.md)** - Gabriel Weinberg, Justin Mares
+- **[Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner](2014/2014-working-stiff-two-years-262-bodies-and-the-making-of-a-medical-examiner.md)** - Judy Melinek MD, T.J. Mitchell
+- **[Xenophon the Socratic Prince: The Argument of the Anabasis](2014/2014-xenophon-the-socratic-prince.md)** - Eric Buzzetti
+- **[2014 Yoruba Folk Tales](2014/2014-yoruba-folk-tales.md)** - Rotimi Ogunjobi
+- **[Zero to One](2014/2014-zero-to-one.md)** - Peter Thiel, Blake Masters
+- **[Zombies and Calculus](2014/2014-zombies-and-calculus.md)** - Colin Adams
+
+## 2015
+
+- **[13.8: The Quest to Find the True Age of the Universe and the Theory of Everything](2015/2015-13.8-the-quest-to-find-the-true-age-of-the-universe-and-the-theory-of-everything.md)** - John Gribbin
+- **[20 Top Recruitment Tips](2015/2015-20-top-recruitment-tips.md)** - David Salmon
+- **[30-Second Evolution](2015/2015-30-second-evolution.md)** - Mark Fellowes, Nicholas Battey
+- **[A Hidden Economy](2015/2015-a-hidden-economy.md)** - Maria Bargh
+- **[Action Potential: A Tutorial Study Guide](2015/2015-action-potential-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[An Essay on the Survival of Humanity](2015/2015-an-essay-on-the-survival-of-humanity.md)** - Risteárd Mulcahy (Prof) MD FRCP
+- **[Battle Mind: How to Navigate in Chaos and Perform Under Pressure](2015/2015-battle-mind-how-to-navigate-in-chaos-and-perform-under-pressure.md)** - Merete Wedell-Wedellsborg with Carsten Folke Møller
+- **[Beowulf](2015/2015-beowulf.md)** - Anonymous (Beowulf Poet)
+- **[Better Than Before](2015/2015-better-than-before.md)** - Gretchen Rubin
+- **[Biological System: A Tutorial Study Guide](2015/2015-biological-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Bold](2015/2015-bold.md)** - Peter H. Diamandis, Steven Kotler
+- **[Business Networking: The Essential Guide](2015/2015-business-networking.md)** - Municipal Books
+- **[Circulatory System: A Tutorial Study Guide](2015/2015-circulatory-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Classic Gothic Horror Masterpieces](2015/2015-classic-gothic-horror-masterpieces.md)** - Bram Stoker, Mary Shelley, Oscar Wilde
+- **[Collected Works of W.B. Yeats](2015/2015-collected-works-of-wb-yeats.md)** - W.B. Yeats
+- **[Complete Paintings of Dante Gabriel Rossetti](2015/2015-complete-paintings-of-dante-gabriel-rossetti.md)** - Delphi Classics
+- **[Complete Poetical Works of John Donne](2015/2015-complete-poetical-works-of-john-donne.md)** - John Donne
+- **[Complete Works of Alexander Pope](2015/2015-complete-works-of-alexander-pope.md)** - Alexander Pope
+- **[Complete Works of Alfred Lord Tennyson](2015/2015-complete-works-of-alfred-lord-tennyson.md)** - Alfred Lord Tennyson
+- **[Complete Works of Dante Alighieri](2015/2015-complete-works-of-dante-alighieri.md)** - Dante Alighieri
+- **[The Complete Works of Edmund Spenser](2015/2015-complete-works-of-edmund-spenser.md)** - Edmund Spenser
+- **[Complete Works of George Orwell](2015/2015-complete-works-of-george-orwell.md)** - George Orwell (Eric Arthur Blair)
+- **[Complete Works of John Keats](2015/2015-complete-works-of-john-keats.md)** - John Keats
+- **[2015 Complete Works of Lord Byron](2015/2015-complete-works-of-lord-byron.md)** - Lord Byron (George Gordon Byron)
+- **[Complete Works of Robert Browning](2015/2015-complete-works-of-robert-browning.md)** - Robert Browning
+- **[Complete Works of Wilfred Owen](2015/2015-complete-works-of-wilfred-owen.md)** - Wilfred Owen
+- **[Crucial Interventions](2015/2015-crucial-interventions.md)** - Richard Barnett
+- **[Cytoplasmic Release of Neurotransmitters](2015/2015-cytoplasmic-release-of-neurotransmitters.md)** - Nicoladie Tam, Ph.D.
+- **[The Complete Works of James Joyce](2015/2015-delphi-complete-works-of-james-joyce-illustrated.md)** - James Joyce
+- **[Digestive System: A Tutorial Study Guide](2015/2015-digestive-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Down the Rabbit Hole](2015/2015-down-the-rabbit-hole.md)** - Holly Madison
+- **[East Yorkshire Folk Tales](2015/2015-east-yorkshire-folk-tales.md)** - Ingrid Barton
+- **[Einstein's Masterwork](2015/2015-einsteins-masterwork.md)** - John Gribbin, Mary Gribbin
+- **[The Complete Works of Elizabeth Gaskell](2015/2015-elizabeth-gaskell-complete-works.md)** - Elizabeth Gaskell
+- **[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](2015/2015-elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future.md)** - Ashlee Vance
+- **[Endocrine System: A Tutorial Study Guide](2015/2015-endocrine-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[ESQ - Extraordinary Success Quotient](2015/2015-esq-extraordinary-success-quotient.md)** - Robin Sacredfire
+- **[Fantastic Night: Tales of Longing and Liberation](2015/2015-fantastic-night.md)** - Stefan Zweig
+- **[F*ck You, I'm Irish: Why We Irish Are Awesome](2015/2015-fck-you-im-irish-why-we-irish-are-awesome.md)** - Rashers Tierney
+- **[Gut: The Inside Story of Our Body's Most Underrated Organ](2015/2015-gut-the-inside-story-of-our-bodys-most-underrated-organ.md)** - Giulia Enders, Jill Enders
+- **[Homo Deus: A Brief History of Tomorrow](2015/2015-homo-deus.md)** - Yuval Noah Harari
+- **[How to Magically Make a Lot of Money](2015/2015-how-to-magically-make-a-lot-of-money.md)** - Robin Sacredfire
+- **[I, Superorganism](2015/2015-i-superorganism.md)** - Jon Turney
+- **[Immune System: A Tutorial Study Guide](2015/2015-immune-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[In-Formed Businesses: Creating Success in Business](2015/2015-in-formed-businesses-creating-success-in-business.md)** - Hélio Couto, Mabel Cristina Dias
+- **[In Order to Live: A North Korean Girl's Journey to Freedom](2015/2015-in-order-to-live.md)** - Yeonmi Park, Maryanne Vollers
+- **[Instant Time Management](2015/2015-instant-time-management.md)** - Instant Series Publication
+- **[Interest in Mathematics and Science Learning](2015/2015-interest-in-mathematics-and-science-learning.md)** - K. Ann Renninger, Martina Nieswandt, and Suzanne Hidi (Editors)
+- **[Introducing Darwin: A Graphic Guide to Evolution](2015/2015-introducing-darwin.md)** - Jonathan Miller, Borin Van Loon
+- **[Introducing Evolutionary Psychology](2015/2015-introducing-evolutionary-psychology.md)** - Dylan Evans, Oscar Zarate
+- **[Introducing Jung: A Graphic Guide](2015/2015-introducing-jung.md)** - Maggie Hyde, Michael McGuinness
+- **[Introducing Lévi-Strauss](2015/2015-introducing-levi-strauss.md)** - Chris Horrocks, Zoran Jevtic
+- **[Introducing Philosophy of Science](2015/2015-introducing-philosophy-of-science.md)** - Ziauddin Sardar, Borin Van Loon
+- **[Kasinomics](2015/2015-kasinomics.md)** - GG Alcock
+- **[Know Yourself Like Your Success Depends on It](2015/2015-know-yourself-like-your-success-depends-on-it.md)** - Michal Stawicki
+- **[Light Years: The Extraordinary Story of Mankind's Fascination with Light](2015/2015-light-years.md)** - Brian Clegg
+- **[Maximizing Your Energy To Use Your Maximum Potential](2015/2015-maximizing-your-energy-to-use-your-maximum-potential.md)** - Nicky J. Westen
+- **[Memory: Boost Your Memory with Easy Exercises](2015/2015-memory-boost-your-memory-with-easy-exercises.md)** - Jane Peters
+- **[Meteorology](2015/2015-meteorology.md)** - Aristotle
+- **[Mind-Brain Connection: A Tutorial Study Guide](2015/2015-mind-brain-connection.md)** - Nicoladie Tam, Ph.D.
+- **[Modern Romance](2015/2015-modern-romance.md)** - Aziz Ansari, Eric Klinenberg
+- **[Monet's Palate Cookbook](2015/2015-monets-palate-cookbook.md)** - Aileen Bordman, Derek Fell
+- **[Money is Good](2015/2015-money-is-good.md)** - Rev. Anthony K. Boakye
+- **[Motor System: A Tutorial Study Guide](2015/2015-motor-system-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[My Life on the Road](2015/2015-my-life-on-the-road.md)** - Gloria Steinem
+- **[Negotiating Successfully in Small and Mid-sized M&A Transactions](2015/2015-negotiating-successfully.md)** - Arnd Allert
+- **[Nervous System: A Tutorial Study Guide](2015/2015-nervous-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Neuron: A Tutorial Study Guide](2015/2015-neuron-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Neurotransmitter: A Tutorial Study Guide](2015/2015-neurotransmitter-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[2015 Neurotransmitter Pathways: A Tutorial Study Guide](2015/2015-neurotransmitter-pathways-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Notorious RBG: The Life and Times of Ruth Bader Ginsburg](2015/2015-notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.md)** - Irin Carmon, Shana Knizhnik
+- **[Origin of Species: A Tutorial Study Guide](2015/2015-origin-of-species-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Papyrus: The Plant that Changed the World](2015/2015-papyrus-the-plant-that-changed-the-world.md)** - John Gaudet
+- **[Plucked: A History of Hair Removal](2015/2015-plucked-a-history-of-hair-removal.md)** - Rebecca M. Herzig
+- **[Puss in Boots and Little Red Riding Hood](2015/2015-puss-in-boots-and-little-red-riding-hood.md)** - Charles Perrault (adapted by A. A. Pakhomova)
+- **[Reflex: A Tutorial Study Guide](2015/2015-reflex-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Renal System: A Tutorial Study Guide](2015/2015-renal-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Respiratory System: A Tutorial Study Guide](2015/2015-respiratory-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Scientific Methods: A Tutorial Study Guide](2015/2015-scientific-methods-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Sensory System: A Tutorial Study Guide](2015/2015-sensory-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[Seven Tales and Alexander](2015/2015-seven-tales-and-alexander.md)** - H. E. Bates
+- **[Shakespeare on Toast: Getting a Taste for the Bard](2015/2015-shakespeare-on-toast.md)** - Ben Crystal
+- **[Spirits of the Air](2015/2015-spirits-of-the-air.md)** - Kurt Diemberger, Audrey Salkeld (translator)
+- **[Straight Up](2015/2015-straight-up.md)** - Steve Berry
+- **[Suicide: A Modern Obsession](2015/2015-suicide-a-modern-obsession.md)** - Derek Beattie, Dr Patrick Devitt
+- **[Synapse: A Tutorial Study Guide](2015/2015-synapse-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
+- **[The Book of Speculation](2015/2015-the-book-of-speculation.md)** - Erika Swyler
+- **[The Boy Who Could Change the World: The Writings of Aaron Swartz](2015/2015-the-boy-who-could-change-the-world.md)** - Aaron Swartz
+- **[2015-The Collected Novellas of Stefan Zweig](2015/2015-the-collected-novellas-of-stefan-zweig.md)** - Stefan Zweig
+- **[The Complete Works of Anatole France](2015/2015-the-complete-works-of-anatole-france.md)** - Anatole France
+- **[The Complete Works of Edgar Allan Poe](2015/2015-the-complete-works-of-edgar-allan-poe.md)** - Edgar Allan Poe
+- **[The Complete Works of Rupert Brooke](2015/2015-the-complete-works-of-rupert-brooke.md)** - Rupert Brooke
+- **[2015 The Complete Works of W.B. Yeats](2015/2015-the-complete-works-of-wb-yeats.md)** - W.B. Yeats
+- **[The Evil Eye](2015/2015-the-evil-eye.md)** - Mary Wollstonecraft Shelley
+- **[The Hunt for Vulcan](2015/2015-the-hunt-for-vulcan.md)** - Thomas Levenson
+- **[The Internet Is Not the Answer](2015/2015-the-internet-is-not-the-answer.md)** - Andrew Keen
+- **[2015 - The Manhattan Project](2015/2015-the-manhattan-project.md)** - Al Cimino
+- **[The New Tsar](2015/2015-the-new-tsar-the-rise-and-reign-of-vladimir-putin.md)** - Steven Lee Myers
+- **[The New Wild](2015/2015-the-new-wild.md)** - Fred Pearce
+- **[The Path to Success: Famous DJs Best Kept Secrets](2015/2015-the-path-to-success-famous-djs-best-kept-secrets.md)** - Dan Van Casteele
+- **[The Poetical Works of Ezra Pound](2015/2015-the-poetical-works-of-ezra-pound.md)** - Ezra Pound
+- **[The Quickest Copywriting Crash Course](2015/2015-the-quickest-copywriting-crash-course.md)** - John Bester
+- **[The Science of Everyday Life](2015/2015-the-science-of-everyday-life.md)** - Marty Jopson
+- **[The Soul of an Octopus](2015/2015-the-soul-of-an-octopus.md)** - Sy Montgomery
+- **[The Surviving Actor's Manual](2015/2015-the-surviving-actors-manual.md)** - Felicity Jackson & Lianne Robertson
+- **[The Two Powerful Styles of Communication](2015/2015-the-two-powerful-styles-of-communication.md)** - Aiden Sisko
+- **[The Ultimate Guide to Counseling, Coaching and Mentoring](2015/2015-the-ultimate-guide-to-counseling-coaching-and-mentoring.md)** - Aiden Sisko
+- **[The Ultimate Guide to Workplace Conflict Resolution](2015/2015-the-ultimate-guide-to-workplace-conflict-resolution.md)** - Aiden Sisko
+- **[The Unknown Universe](2015/2015-the-unknown-universe.md)** - Stuart Clark
+- **[The Witches: Salem, 1692](2015/2015-the-witches-salem-1692.md)** - Stacy Schiff
+- **[The Xenophobe's Guide to the Albanians](2015/2015-the-xenophobes-guide-to-the-albanians.md)** - Alan Andoni
+- **[The Zentangle Method](2015/2015-the-zentangle-method.md)** - Jane Marbaix
+- **[Think Like a Freak](2015/2015-think-like-a-freak.md)** - Steven D. Levitt & Stephen J. Dubner
+- **[Thinking in Chinese: The Top 10 Chinese Values & How China Became a Superpower](2015/2015-thinking-in-chinese-the-top-10-chinese-values-how-china-became-a-superpower.md)** - Samuel River
+- **[Time Management Secrets for Beginners](2015/2015-time-management-secrets-for-beginners.md)** - Brian M. Aaron
+- **[Troublemaker: Surviving Hollywood and Scientology](2015/2015-troublemaker-surviving-hollywood-and-scientology.md)** - Leah Remini, Rebecca Paley
+- **[Very Good Lives](2015/2015-very-good-lives.md)** - J.K. Rowling, Joel Holland
+- **[What Is Compound Interest?](2015/2015-what-is-compound-interest.md)** - Mel Clark
+- **[When to Rob a Bank: ...And 131 More Warped Suggestions and Well-Intended Rants](2015/2015-when-to-rob-a-bank.md)** - Steven D. Levitt, Stephen J. Dubner
+- **[Where's the Money? The Cycle of Poverty and Why the Majority Can't Be Rich](2015/2015-wheres-the-money-the-cycle-of-poverty-and-why-the-majority-cant-be-rich.md)** - Robin Sacredfire
+
+## 2016
+
+- **[10 Masterpieces You Have to Read Before You Die 2](2016/2016-10-masterpieces-you-have-to-read-before-you-die-2.md)** - Various Authors
+- **[101 Useful Ideas to Create Your Own Business](2016/2016-101-useful-ideas-to-create-your-own-business.md)** - Cristina & Olivier Rebière
+- **[20 Top Delegation Tips](2016/2016-20-top-delegation-tips.md)** - David Salmon
+- **[20 Top Telephone Sales Tips](2016/2016-20-top-telephone-sales-tips.md)** - David Salmon
+- **[37 Rules for a Successful Online Business: How to Quit Your Job, Move to Paradise and Make Money while You Sleep](2016/2016-37-rules-for-a-successful-online-business.md)** - Samuel River
+- **[A Mother's Reckoning: Living in the Aftermath of the Columbine Tragedy](2016/2016-a-mothers-reckoning-living-in-the-aftermath-of-the-columbine-tragedy.md)** - Sue Klebold
+- **[A Portrait of the Artist as a Young Man](2016/2016-a-portrait-of-the-artist-as-a-young-man.md)** - James Joyce
+- **[Advocate for an Indefinite Human Lifespan](2016/2016-advocate-for-an-indefinite-human-lifespan.md)** - Douglas Lain
+- **[Algorithms To Live By](2016/2016-algorithms-to-live-by.md)** - Brian Christian, Tom Griffiths
+- **[All the Single Ladies: Unmarried Women and the Rise of an Independent Nation](2016/2016-all-the-single-ladies.md)** - Rebecca Traister
+- **[Are We Smart Enough to Know How Smart Animals Are?](2016/2016-are-we-smart-enough-to-know-how-smart-animals-are.md)** - Frans de Waal
+- **[Bats of Europe: A Practical Guide](2016/2016-bats-of-europe-a-practical-guide.md)** - Christian Dietz, Andreas Kiefer
+- **[Bellevue: Three Centuries of Medicine and Mayhem at America's Most Storied Hospital](2016/2016-bellevue-three-centuries-of-medicine-and-mayhem.md)** - David Oshinsky
+- **[Blood in the Water](2016/2016-blood-in-the-water.md)** - Heather Ann Thompson
+- **[Born a Crime: Stories from a South African Childhood](2016/2016-born-a-crime-stories-from-a-south-african-childhood.md)** - Trevor Noah
+- **[Business Adventures: Tips and Tricks to Maximize Profits](2016/2016-business-adventures.md)** - Larry Ellison
+- **[Business Branding](2016/2016-business-branding.md)** - Anthony Ekanem
+- **[Business Plans That Get Investment](2016/2016-business-plans-that-get-investment.md)** - David Bateman
+- **[Collected Stories](2016/2016-collected-stories.md)** - Margaret Oliphant
+- **[Content Marketing: A Beginner's Guide to Dominating the Market with Content Marketing](2016/2016-content-marketing.md)** - Eric J Scott
+- **[Copywriting Mastery](2016/2016-copywriting-mastery.md)** - Anthony Ekanem
+- **[Cost Per Action Cash](2016/2016-cost-per-action-cash.md)** - Anthony Ekanem
+- **[Days Without End](2016/2016-days-without-end.md)** - Sebastian Barry
+- **[Deep Work](2016/2016-deep-work.md)** - Cal Newport
+- **[Designing Your Life](2016/2016-designing-your-life.md)** - Bill Burnett, Dave Evans
+- **[Digital Marketing: Strategies for Online Success](2016/2016-digital-marketing.md)** - Godfrey Parkin
+- **[Everything About Mars](2016/2016-everything-about-mars.md)** - My Ebook Publishing House
+- **[Fighting Game Fundamentals](2016/2016-fighting-game-fundamentals.md)** - Gootecks
+- **[Financial Intelligence & Magick: How to Prosper in the Age of Aquarius](2016/2016-financial-intelligence-magick-how-to-prosper-in-the-age-of-aquarius.md)** - Robin Sacredfire
+- **[First Impression Express](2016/2016-first-impression-express.md)** - Alice Young & KnowIt Express
+- **[Foxes Unearthed](2016/2016-foxes-unearthed.md)** - Lucy Jones
+- **[Franz Kafka: Collected Works](2016/2016-franz-kafka-collected-works.md)** - Franz Kafka
+- **[Geopolitics and the Quest for Dominance](2016/2016-geopolitics-and-the-quest-for-dominance.md)** - Jeremy Black
+- **[Great Expectations](2016/2016-great-expectations.md)** - Charles Dickens
+- **[Hair: A Human History](2016/2016-hair-a-human-history.md)** - Kurt Stenn
+- **[Homemade Repellents: The Ultimate Guide to Homemade Repellents and Natural After-Bites Remedies](2016/2016-homemade-repellents.md)** - Andrew Forrest
+- **[Homo Deus: A Brief History of Tomorrow](2016/2016-homo-deus-a-brief-history-of-tomorrow.md)** - Yuval Noah Harari
+- **[How Billionaires Live: How Successful People Think and Behave](2016/2016-how-billionaires-live-how-successful-people-think-and-behave.md)** - Samuel River
+- **[How Chance and Stupidity Have Changed History](2016/2016-how-chance-and-stupidity-have-changed-history.md)** - Erik Durschmied
+- **[How to Measure Anything in Cybersecurity Risk](2016/2016-how-to-measure-anything-in-cybersecurity-risk.md)** - Douglas W. Hubbard, Richard Seiersen
+- **[How to Source Products on Amazon FBA](2016/2016-how-to-source-products-on-amazon-fba.md)** - Unknown
+- **[Introducing Body Language: A Practical Guide](2016/2016-introducing-body-language-a-practical-guide.md)** - Glenn Wilson
+- **[Introducing Sociology](2016/2016-introducing-sociology.md)** - Richard Osborne, Borin Van Loon
+- **[Journeys Through Space and Time](2016/2016-journeys-through-space-and-time.md)** - Various (Royal Institution Christmas Lecturers)
+- **[Life Purpose: How to Make Significant Changes that Transform Your Future & Attract Miracles to Your Life](2016/2016-life-purpose-how-to-make-significant-changes.md)** - Robin Sacredfire
+- **[2016 List Building Strategies for Affiliate Marketers](2016/2016-list-building-strategies-for-affiliate-marketers.md)** - Anthony Ekanem
+- **[Living Big on a Small Budget](2016/2016-living-big-on-a-small-budget.md)** - Anthony Ekanem
+- **[Love Warrior](2016/2016-love-warrior.md)** - Glennon Doyle Melton
+- **[Make Money Online](2016/2016-make-money-online.md)** - My Ebook Publishing House
+- **[Make Way for the Superhumans](2016/2016-make-way-for-the-superhumans.md)** - Michael Bess
+- **[Making Business Connections That Count](2016/2016-making-business-connections-that-count.md)** - Michal Stawicki
+- **[Managing Cybersecurity Risk](2016/2016-managing-cybersecurity-risk.md)** - Jonathan Reuvid (Editor), Multiple Contributors
+- **[Manifestly Haraway](2016/2016-manifestly-haraway.md)** - Donna J. Haraway
+- **[Marketing 4.0: Moving from Traditional to Digital](2016/2016-marketing-4-0-moving-from-traditional-to-digital.md)** - Philip Kotler, Hermawan Kartajaya, Iwan Setiawan
+- **[Mastering Creativity and Inspiration](2016/2016-mastering-creativity-and-inspiration.md)** - Damon Lundqvist
+- **[Mastering Family Finances](2016/2016-mastering-family-finances.md)** - Suzzie Santos
+- **[Myth Gods Tech: The God Complex Universe](2016/2016-myth-gods-tech.md)** - George Saoulidis
+- **[Never Split the Difference](2016/2016-never-split-the-difference.md)** - Chris Voss, Tahl Raz
+- **[Now: The Physics of Time](2016/2016-now-the-physics-of-time.md)** - Richard A. Muller
+- **[Online Business Models](2016/2016-online-business-models.md)** - Anthony Ekanem
+- **[Optimize Your Productivity](2016/2016-optimize-your-productivity.md)** - Lisa Kardos, Ph.D.
+- **[Oranges](2016/2016-oranges.md)** - John McPhee, Richard Mabey
+- **[Orientalism: A Selection of Classic Orientalist Paintings and Writings](2016/2016-orientalism-a-selection-of-classic-orientalist-paintings-and-writings.md)** - Various (Golden Deer Classics Compilation)
+- **[Originals: How Non-Conformists Move the World](2016/2016-originals-how-non-conformists-move-the-world.md)** - Adam Grant, Sheryl Sandberg
+- **[Popular Scientific Recreations in Natural Philosophy](2016/2016-popular-scientific-recreations-in-natural-philosophy.md)** - Gaston Tissandier (Translated and Enlarged)
+- **[Principles of Political Economy](2016/2016-principles-of-political-economy.md)** - John Stuart Mill (with J. Laurence Laughlin)
+- **[Rhetoric](2016/2016-rhetoric.md)** - Aristotle
+- **[Rise of the Rocket Girls](2016/2016-rise-of-the-rocket-girls.md)** - Nathalia Holt
+- **[Romances of Old Japan](2016/2016-romances-of-old-japan.md)** - Madame Yukio Ozaki
+- **[Saving Capitalism](2016/2016-saving-capitalism.md)** - Robert Reich
+- **[Self-Improvement Tips for Everybody](2016/2016-self-improvement-tips-for-everybody.md)** - Anthony Ekanem
+- **[SEO for Beginners: Step-by-Step Guide to Dominate the First Page](2016/2016-seo-for-beginners.md)** - Kumar
+- **[Sherlock Holmes Short Stories](2016/2016-sherlock-holmes-short-stories.md)** - Sir Arthur Conan Doyle (retold by Clare West)
+- **[Siegfried and the Twilight of the Gods](2016/2016-siegfried-and-the-twilight-of-the-gods.md)** - Richard Wagner
+- **[Simply Dirac](2016/2016-simply-dirac.md)** - Helge Kragh
+- **[Sleight of Hand: A Practical Manual of Legerdemain](2016/2016-sleight-of-hand-a-practical-manual-of-legerdemain.md)** - Edwin Sachs
+- **[Smarter Faster Better](2016/2016-smarter-faster-better.md)** - Charles Duhigg
+- **[Snatched: From Drug Queen to Informer to Hostage—A Harrowing True Story](2016/2016-snatched.md)** - Bruce Porter
+- **[Speed Reading: A Beginner's Guide for Increasing Your Reading Speed by 300%](2016/2016-speed-reading-a-beginners-guide-for-increasing-your-reading-speed-by-300-percent.md)** - Peter Jenner
+- **[Successful Career Change](2016/2016-successful-career-change.md)** - Anthony Ekanem
+- **[Team Building Inside: Creativity](2016/2016-team-building-inside-creativity.md)** - Cristina & Olivier Rebière
+- **[Team Building Inside: Icebreakers](2016/2016-team-building-inside-icebreakers.md)** - Cristina & Olivier Rebière
+- **[Team Building Inside: Teamwork & Coordination](2016/2016-team-building-inside.md)** - Cristina & Olivier Rebière
+- **[Texas Rocks and Minerals: An Amateur's Guide](2016/2016-texas-rocks-and-minerals.md)** - Roselle M. Girard, Bill M. Harris (illustrations)
+- **[The 15-Minute Scientist: Bite-Sized Science Explained](2016/2016-the-15-minute-scientist.md)** - Anne Rooney
+- **[2016-The-A-to-Z-of-Internet-Marketing](2016/2016-the-a-to-z-of-internet-marketing.md)** - Anthony Ekanem
+- **[The Aesop for Children](2016/2016-the-aesop-for-children.md)** - Aesop, Illustrated by Milo Winter
+- **[The Answer](2016/2016-the-answer.md)** - Allan Pease, Barbara Pease
+- **[The Archaeology of Darkness](2016/2016-the-archaeology-of-darkness.md)** - Marion Dowd, Robert Hensey
+- **[The Attention Merchants](2016/2016-the-attention-merchants.md)** - Tim Wu
+- **[The Beast Prince](2016/2016-the-beast-prince.md)** - S.E. Smith
+- **[The Big Thing: How to Complete Your Creative Project Even if You're a Lazy, Self-Doubting Procrastinator Like Me](2016/2016-the-big-thing.md)** - Phyllis Korkki
+- **[The Black Death: History's Most Effective Killer](2016/2016-the-black-death-historys-most-effective-killer.md)** - Henry Freeman
+- **[The Book Revolution](2016/2016-the-book-revolution.md)** - Samuel River
+- **[The Comedies Vol 1](2016/2016-the-comedies-vol-1.md)** - Aristophanes
+- **[The Dark Side of the Publishing Industry: The Biggest Scams in Self-Publishing](2016/2016-the-dark-side-of-the-publishing-industry.md)** - Samuel River
+- **[The Gene: An Intimate History](2016/2016-the-gene-an-intimate-history.md)** - Siddhartha Mukherjee
+- **[The Happy Prince and Other Tales](2016/2016-the-happy-prince-and-other-tales.md)** - Oscar Wilde
+- **[The Hidden Life of Trees](2016/2016-the-hidden-life-of-trees.md)** - Peter Wohlleben, Tim Flannery
+- **[The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet](2016/2016-the-idealist.md)** - Justin Peters
+- **[The Innovator's Dilemma](2016/2016-the-innovators-dilemma.md)** - Clayton M. Christensen
+- **[The Little Book of Big History](2016/2016-the-little-book-of-big-history.md)** - Ian Crofton, Jeremy Black
+- **[The Lonely City](2016/2016-the-lonely-city.md)** - Olivia Laing
+- **[The Long and the Short of It](2016/2016-the-long-and-the-short-of-it.md)** - Graeme Donald
+- **[The Lyrical Dramas of Aeschylus](2016/2016-the-lyrical-dramas-of-aeschylus.md)** - Aeschylus, Translated by John Stuart Blackie
+- **[The Power of Forgiveness](2016/2016-the-power-of-forgiveness.md)** - Anthony Ekanem
+- **[The Psychology of Success](2016/2016-the-psychology-of-success.md)** - Alison Price, David Price
+- **[The Science of Logic: The Doctrine of the Concept](2016/2016-the-science-of-logic-the-doctrine-of-the-concept.md)** - Georg Wilhelm Friedrich Hegel
+- **[The Secret Key: The Hidden Shortcut in Finding More Money and Meaning in Life](2016/2016-the-secret-key-the-hidden-shortcut-in-finding-more-money-and-meaning-in-life.md)** - Robin Sacredfire
+- **[The Underground Railroad](2016/2016-the-underground-railroad.md)** - Colson Whitehead
+- **[The Undoing Project](2016/2016-the-undoing-project.md)** - Michael Lewis
+- **[The Woman in White](2016/2016-the-woman-in-white.md)** - Wilkie Collins
+- **[Universe: The Solar System and Beyond](2016/2016-universe-the-solar-system-and-beyond.md)** - My Ebook Publishing House
+- **[When Breath Becomes Air](2016/2016-when-breath-becomes-air.md)** - Paul Kalanithi
+- **[White Rage: The Unspoken Truth of Our Racial Divide](2016/2016-white-rage.md)** - Carol Anderson
+- **[2016 Work-From-Home Business Ideas](2016/2016-work-from-home-business-ideas.md)** - Anthony Ekanem
+
+## 2017
+
+- **[10 Classic Feminist Works You Should Read](2017/2017-10-classic-feminist-works-you-should-read.md)** - Mary Wollstonecraft, Louisa May Alcott, Charlotte Perkins Gilman, Kate Chopin, George Gissing, Edith Wharton, Roquia Sakhawat Hussain
+- **[10 Classic Novels of Manners You Should Read](2017/2017-10-classic-novels-of-manners-you-should-read.md)** - Jane Austen, William Makepeace Thackeray, Gustave Flaubert, Leo Tolstoy, Guy de Maupassant, Thomas Hardy, Edith Wharton
+- **[100 Books You Must Read Before You Die (Volume 1)](2017/2017-100-books-you-must-read-before-you-die-volume-1.md)** - Various Classic Authors
+- **[20,000 Leagues Under the Seas, The Mysterious Island & Around the World in 80 Days](2017/2017-20000-leagues-under-the-seas-the-mysterious-island-around-the-world-in-80-days.md)** - Jules Verne
+- **[30 Humorous Masterpieces You Have to Read Before You Die](2017/2017-30-humorous-masterpieces-you-have-to-read-before-you-die.md)** - Various (Edwin Abbott Abbott, Oscar Wilde, P.G. Wodehouse, Mark Twain, Sinclair Lewis, et al.)
+- **[30 Occult & Supernatural Masterpieces You Have to Read Before You Die](2017/2017-30-occult-supernatural-masterpieces-you-have-to-read-before-you-die.md)** - Various Authors (Washington Irving, Henry James, Oscar Wilde, M.R. James, and others)
+- **[50 Eternal Masterpieces of Horror Stories](2017/2017-50-eternal-masterpieces-of-horror-stories.md)** - Various Authors
+- **[50 Horror Masterpieces You Have to Read Before You Die](2017/2017-50-horror-masterpieces-you-have-to-read-before-you-die.md)** - Various Authors (Edited by Golden Deer Classics)
+- **[50 Masterpieces You Have to Read Before You Die Volumes 1-3](2017/2017-50-masterpieces-you-have-to-read-before-you-die.md)** - Various (Dante, Austen, Dostoevsky, Tolstoy, Dickens, etc.)
+- **[50 Most Powerful Excel Functions and Formulas](2017/2017-50-most-powerful-excel-functions-and-formulas.md)** - Andrei Besedin
+- **[50 Mystery and Detective Masterpieces You Have to Read Before You Die Vol 1](2017/2017-50-mystery-and-detective-masterpieces.md)** - Various Authors
+- **[50 Western Stories Masterpieces You Must Read Before You Die](2017/2017-50-western-stories-masterpieces-you-must-read-before-you-die.md)** - Various (James Fenimore Cooper, Owen Wister, Zane Grey, Willa Cather, etc.)
+- **[A Novel in Nine Letters](2017/2017-a-novel-in-nine-letters.md)** - Fyodor Dostoyevsky
+- **[A Spy's Guide to Strategy](2017/2017-a-spys-guide-to-strategy.md)** - John Braddock
+- **[A Tale of Two Cities](2017/2017-a-tale-of-two-cities.md)** - Charles Dickens
+- **[A-to-Z Beer Making: Beer at Home for Total Beginners](2017/2017-a-to-z-beer-making-beer-at-home-for-total-beginners.md)** - Lisa Bond
+- **[Advanced Technical Analysis for Forex](2017/2017-advanced-technical-analysis-for-forex.md)** - Wayne Walker
+- **[The Adventures of Huckleberry Finn](2017/2017-adventures-of-huckleberry-finn.md)** - Mark Twain
+- **[African Entrepreneurs: 50 Success Stories](2017/2017-african-entrepreneurs-50-success-stories.md)** - Iwa Adetunji
+- **[Alexandre Dumas Collection: Three Masterpieces of Adventure and Revenge](2017/2017-alexandre-dumas-collection-monte-cristo-three-musketeers-iron-mask.md)** - Alexandre Dumas
+- **[Alice in Wonderland](2017/2017-alice-in-wonderland.md)** - Lewis Carroll
+- **[Amazing Java](2017/2017-amazing-java.md)** - Andrei Besedin
+- **[American Historical Documents](2017/2017-american-historical-documents.md)** - Charles William Eliot (Editor)
+- **[An Answer to the Question: What Is Enlightenment?](2017/2017-an-answer-to-the-question-what-is-enlightenment.md)** - Immanuel Kant
+- **[Analysis of Financial Statements and Corporate Performance: For Non-Financial Companies](2017/2017-analysis-of-financial-statements-and-corporative-performance.md)** - Flávio Kezam Málaga
+- **[Anna Karenina](2017/2017-anna-karenina.md)** - Leo Tolstoy
+- **[Antony & Cleopatra](2017/2017-antony-cleopatra.md)** - William Shakespeare, Sidney Lee
+- **[Arabian Nights: Andrew Lang's 1001 Nights & R.L. Stevenson's New Arabian Nights](2017/2017-arabian-nights-andrew-langs-1001-nights.md)** - Andrew Lang, Robert Louis Stevenson
+- **[Astrophysics for People in a Hurry](2017/2017-astrophysics-for-people-in-a-hurry.md)** - Neil deGrasse Tyson, Goldmine Reads
+- **[Austen and Brontës: Complete Novels](2017/2017-austen-and-brontes-complete-novels.md)** - Jane Austen, Charlotte Brontë, Emily Brontë, Anne Brontë
+- **[Be Good to Yourself](2017/2017-be-good-to-yourself.md)** - Orison Swett Marden
+- **[Beauty and Two Beasts](2017/2017-beauty-and-two-beasts.md)** - A. Anders
+- **[Beginner's Guide to Google AdWords](2017/2017-beginners-guide-to-google-adwords.md)** - John Slavio
+- **[2017 Beginner's Reddit Social Media Marketing Guide](2017/2017-beginners-reddit-social-media-marketing-guide.md)** - Juha Öörni
+- **[Billionaires Under Construction](2017/2017-billionaires-under-construction.md)** - Sbusiso "DJ Sbu" Leope
+- **[Bitcoin & Cryptocurrencies Guide](2017/2017-bitcoin-cryptocurrencies-guide.md)** - Raymond Kazuya
+- **[Bitcoin: Understanding Bitcoin, Mining, Investing & Trading for Beginners](2017/2017-bitcoin-understanding-mining-investing-trading.md)** - Sean Bennett
+- **[Blockchain: A Guide to Understanding Blockchain](2017/2017-blockchain-a-guide-to-understanding-blockchain.md)** - Sean Bennett
+- **[2017-Blowfish's Oceanopedia](2017/2017-blowfishs-oceanopedia.md)** - Tom Hird
+- **[Body Language Training Guide](2017/2017-body-language-training-guide.md)** - Sam Reddington
+- **[Braving the Wilderness](2017/2017-braving-the-wilderness.md)** - Brené Brown
+- **[Business Value in an Ocean of Data](2017/2017-business-value-in-an-ocean-of-data.md)** - Bulcsú Fajszi, László Cser, Tamás Fehér
+- **[Business Without Capital: Insurance Selling](2017/2017-business-without-capital.md)** - Bobby Madrid
+- **[Character: The Grandest Thing in the World](2017/2017-character-the-grandest-thing-in-the-world.md)** - Orison Swett Marden
+- **[Chutzpah & Chutzpah](2017/2017-chutzpah-and-chutzpah.md)** - Richard Myers, Simon Goode, Nick Darke
+- **[Classic Children's Stories Superset Vol. 1](2017/2017-classic-childrens-stories-superset-vol-1.md)** - Frances Hodgson Burnett, Lucy Maud Montgomery, Louisa May Alcott, Lewis Carroll, and others
+- **[Classic Epistolary Works](2017/2017-classic-epistolary-works.md)** - John Cleland, Johann Wolfgang von Goethe, Anne Brontë, Wilkie Collins, Jane Austen, Fyodor Dostoevsky, Bram Stoker
+- **[Classic Imaginary Voyage Stories](2017/2017-classic-imaginary-voyage-stories.md)** - Thomas More, François Rabelais, Margaret Cavendish, Jonathan Swift
+- **[Classic Picaresque Novels](2017/2017-classic-picaresque-novels.md)** - Daniel Defoe, Tobias Smollett, Henry Fielding, Voltaire, Mark Twain, Nikolai Gogol, Rudyard Kipling
+- **[Complete Works of James Allen](2017/2017-complete-works-of-james-allen.md)** - James Allen
+- **[Creating Great Customer Service](2017/2017-creating-great-customer-service.md)** - Herbert M. Sancianco
+- **[Cryptocurrency 101: A Beginners Guide](2017/2017-cryptocurrency-101-a-beginners-guide.md)** - Patt Tomas
+- **[Cryptocurrency Mining: The Ultimate Guide to Understanding Bitcoin, Ethereum, Litecoin, Monero, Zcash Mining Technologies](2017/2017-cryptocurrency-mining-guide.md)** - Alan T. Norman
+- **[Cryptocurrency: Understanding Bitcoin, Bitcoin Cash, Ethereum & Altcoins](2017/2017-cryptocurrency-understanding-bitcoin-ethereum-altcoins.md)** - Sean Bennett
+- **[Day Trading: Strategies to Make Money with Day Trading](2017/2017-day-trading-strategies.md)** - Warren Richmond
+- **[Death as a Process: New Perspectives on Roman Funerary Archaeology](2017/2017-death-as-a-process.md)** - John Pearce, Jake Weekes (editors)
+- **[Destination Mars](2017/2017-destination-mars.md)** - Andrew May
+- **[Detective Nosegood and the Museum Robbery](2017/2017-detective-nosegoode-and-the-museum-robbery.md)** - Maria Orłoń
+- **[E-commerce for Beginners](2017/2017-e-commerce-for-beginners.md)** - Juha Öörni
+- **[Effortless Cryptocurrency Trading Strategies](2017/2017-effortless-cryptocurrency-trading-strategies.md)** - Henry Wilson
+- **[Emma](2017/2017-emma.md)** - Jane Austen
+- **[Emotional Intelligence at Work](2017/2017-emotional-intelligence-at-work.md)** - Miku Kui
+- **[Entrepreneurship: Everything You Need to Know about How to Start, Manage and Profit in Your Own Business or as a Freelancer](2017/2017-entrepreneurship-everything-you-need-to-know.md)** - Samuel River
+- **[Essays and English Traits](2017/2017-essays-and-english-traits.md)** - Ralph Waldo Emerson
+- **[Eureka! The Birth of Science](2017/2017-eureka-the-birth-of-science.md)** - Andrew Gregory
+- **[Explorations into Life on Earth](2017/2017-explorations-into-life-on-earth.md)** - Edited by [Editor name not specified in text]
+- **[Faster Than Normal](2017/2017-faster-than-normal.md)** - Peter Shankman, Edward Hallowell
+- **[For the Sake of Heaviness: The History of Metal Blade Records](2017/2017-for-the-sake-of-heaviness.md)** - Brian Slagel, Mark Eglinton
+- **[Frankenstein](2017/2017-frankenstein.md)** - Mary Shelley
+- **[2017 French Revolution Classics Anthology](2017/2017-french-revolution-classics.md)** - Charles Dickens, Baroness Emma Orczy, Joseph Conrad, Rafael Sabatini
+- **[Futures Trading Strategies](2017/2017-futures-trading-strategies.md)** - Wayne Walker
+- **[Get Well Soon](2017/2017-get-well-soon.md)** - Jennifer Wright
+- **[Getting Reviews for Amazon FBA](2017/2017-getting-reviews-for-amazon-fba.md)** - George Pain
+- **[Getting Things Done - The Science of Anxiety-Free Productivity](2017/2017-getting-things-done-the-science-of-anxiety-free-productivity.md)** - Small Business Revolution
+- **[Gloaming](2017/2017-gloaming.md)** - Charlotte E. English
+- **[Gogol's Short Fiction Collection](2017/2017-gogols-short-fiction-collection.md)** - Nikolai Gogol
+- **[Grimm's Fairy Tales](2017/2017-grimms-fairy-tales.md)** - Jacob Grimm, Wilhelm Grimm
+- **[Growing Business Innovation](2017/2017-growing-business-innovation.md)** - Jonathan Reuvid (Editor)
+- **[H.G. Wells: The Complete Collection](2017/2017-h-g-wells-collected-works.md)** - H.G. Wells (Herbert George Wells)
+- **[2017 Harvard Classics: Elizabethan Drama 1](2017/2017-harvard-classics-elizabethan-drama.md)** - Christopher Marlowe, William Shakespeare
+- **[Harvard Classics Volume 1: Three Foundational American Voices](2017/2017-harvard-classics-volume-1.md)** - Benjamin Franklin, John Woolman, William Penn
+- **[The Complete Harvard Greek Classics](2017/2017-harvard-greek-tragedies-classics.md)** - Aeschylus, Sophocles, Euripides
+- **[How to Make $2,000 Selling Clothes on eBay](2017/2017-how-to-make-2000-selling-a-month-clothes-on-ebay.md)** - Rubynnia Blues
+- **[How To Make Money Blogging: Insider Tips And Tricks That Can Help You Make Money In Less Than 30-Days](2017/2017-how-to-make-money-blogging.md)** - Keith Meyers
+- **[How to Make Money from Public Domain Videos on YouTube](2017/2017-how-to-make-money-from-public-domain-videos-on-youtube.md)** - Juha Öörni
+- **[How to Make Money on Popular Mobile E-commerce Marketplaces](2017/2017-how-to-make-money-on-popular-mobile-e-commerce-marketplaces.md)** - Juha Öörni
+- **[How to Rebalance Your Portfolio](2017/2017-how-to-rebalance-your-portfolio.md)** - Mel Clark
+- **[Introducing Epigenetics](2017/2017-introducing-epigenetics.md)** - Cath Ennis, Oliver Pugh
+- **[Introduction to Physical & Online Real Estate](2017/2017-introduction-to-physical-online-real-estate.md)** - Small Business Revolution
+- **[It Is Rich: Homage to the Emperor](2017/2017-it-is-rich-homage-to-the-emperor.md)** - Thijs Delrue, Bart Lamers
+- **[James Joyce: The Complete Collection](2017/2017-james-joyce-the-complete-collection.md)** - James Joyce
+- **[Japanese Fairy Tales](2017/2017-japanese-fairy-tales.md)** - Lafcadio Hearn
+- **[Jingle All The Way: The Ultimate Christmas Collection Guide](2017/2017-jingle-all-the-way-the-ultimate-christmas-collection-guide.md)** - Louisa May Alcott, O. Henry, Charles Dickens, L. Frank Baum, Hans Christian Andersen, and many more
+- **[John Milton: Complete Poetry](2017/2017-john-milton-complete-poetry.md)** - John Milton
+- **[King Lear](2017/2017-king-lear.md)** - William Shakespeare
+- **[King Richard III](2017/2017-king-richard-iii.md)** - William Shakespeare
+- **[Knowledge is Power](2017/2017-knowledge-is-power.md)** - John Henry
+- **[Kubla Khan: A Vision in a Dream & Christabel](2017/2017-kubla-khan-a-vision-in-a-dream-christabel.md)** - Samuel Taylor Coleridge
+- **[Last Orders](2017/2017-last-orders.md)** - Mel Croucher
+- **[Literary Indulgence](2017/2017-literary-indulgence.md)** - Amanda Apthorpe
+- **[Make Money From Home](2017/2017-make-money-from-home.md)** - George Pain
+- **[Make Money With Amazon Affiliate Program](2017/2017-make-money-with-amazon-affiliate-program.md)** - Juha Öörni
+- **[Mansfield Park](2017/2017-mansfield-park.md)** - Jane Austen
+- **[Mark Twain: The Complete Novels](2017/2017-mark-twain-the-complete-novels.md)** - Mark Twain (Samuel Clemens)
+- **[Mary Stuart](2017/2017-mary-stuart.md)** - Alexandre Dumas
+- **[Massacres of the South (1551-1815)](2017/2017-massacres-of-the-south.md)** - Alexandre Dumas
+- **[Modern Alchemy: How to Apply the Five Elements of Life to Prosper in Business, Investments, and See the Future](2017/2017-modern-alchemy.md)** - Robin Sacredfire
+- **[Money Management and Budgeting Hacks](2017/2017-money-management-and-budgeting-hacks.md)** - Life 'n' Hack
+- **[Morning Routine](2017/2017-morning-routine.md)** - Sylvia Lynne
+- **[Mornings in Mexico](2017/2017-mornings-in-mexico.md)** - D. H. Lawrence
+- **[Oscar Wilde: The Truly Complete Collection](2017/2017-oscar-wilde-the-truly-complete-collection.md)** - Oscar Wilde
+- **[Othello](2017/2017-othello.md)** - William Shakespeare
+- **[Paradise Lost and Paradise Regained](2017/2017-paradise-lost-and-paradise-regained.md)** - John Milton
+- **[Passive Income Blueprint](2017/2017-passive-income-blueprint.md)** - My Ebook Publishing House
+- **[Plutarch's Parallel Lives of Greek and Roman Heroes](2017/2017-plutarchs-parallel-lives.md)** - Plutarch, translated by Arthur Hugh Clough (revised from Dryden's translation)
+- **[2017-Powerful](2017/2017-powerful.md)** - Patty McCord
+- **[Principles: Life and Work](2017/2017-principles.md)** - Ray Dalio
+- **[2017-Procrastination Self-Assessment Toolkit](2017/2017-procrastination-self-assessment-toolkit.md)** - Mira Jelica
+- **[2017 Productivity Tips](2017/2017-productivity-tips.md)** - Patt Tomas
+- **[Real Ways to Make Money Fast Online from Home for Beginners](2017/2017-real-ways-to-make-money-fast-online-from-home-for-beginners.md)** - Neil Hoechlin
+- **[Rich Men Don't Eat Their Seeds: A Guide to Financial Freedom](2017/2017-rich-men-dont-eat-their-seed.md)** - A. A. Abimiku
+- **[2017-Robert Louis Stevenson Complete Novels](2017/2017-robert-louis-stevenson-complete-novels.md)** - Robert Louis Stevenson
+- **[2017 Romance Classics Collection Vol 1](2017/2017-romance-classics-collection-vol-1.md)** - John Cleland, Daniel Defoe, Henry Fielding, Gustave Flaubert, D.H. Lawrence, Vatsyayana, Leopold von Sacher-Masoch
+- **[Romeo and Juliet](2017/2017-romeo-and-juliet.md)** - William Shakespeare
+- **[Sacred Writings: Eastern and Western Religious Classics](2017/2017-sacred-writings-eastern-and-western.md)** - Charles W. Eliot (Editor)
+- **[Sales Digits: Guaranteed Methods to Turn Prospects into Customers](2017/2017-sales-digits-guaranteed-methods.md)** - Eugy Enoch
+- **[Selected Essays](2017/2017-samuel-johnson-selected-essays.md)** - Samuel Johnson
+- **[Science(ish): The Peculiar Science Behind the Movies](2017/2017-science-ish-the-peculiar-science-behind-the-movies.md)** - Rick Edwards, Dr Michael Brooks
+- **[Scientific Papers: Physiology, Medicine, Surgery, Geology](2017/2017-scientific-papers-physiology-medicine-surgery-geology.md)** - Hippocrates, Ambroise Paré, William Harvey, Edward Jenner, Oliver Wendell Holmes, Joseph Lister, Louis Pasteur, Charles Lyell
+- **[2017 Secrets of Access Database Development and Programming](2017/2017-secrets-of-access-database-development-and-programming.md)** - Andrei Besedin
+- **[Secrets of Business Plan Writing](2017/2017-secrets-of-business-plan-writing.md)** - Andre Besedin
+- **[Selling on Amazon: A Blueprint to $2000 Monthly Profit](2017/2017-selling-on-amazon.md)** - George Pain
+- **[Sense and Sensibility & Other Novels](2017/2017-sense-and-sensibility-other-novels.md)** - Jane Austen
+- **[Shakespeare's Sonnets - The Complete Collection](2017/2017-shakespeares-sonnets.md)** - William Shakespeare
+- **[2017 Short Poems by Alexander Pushkin](2017/2017-short-poems-by-alexander-pushkin.md)** - Alexander Pushkin
+- **[Social Media Marketing Strategies](2017/2017-social-media-marketing-strategies.md)** - George Pain
+- **[2017 Speeches on Questions of Public Policy Volume 2](2017/2017-speeches-on-questions-of-public-policy-volume-2.md)** - John Bright
+- **[Stock Trading: Strategies to Make Money with Stock Trading](2017/2017-stock-trading.md)** - Warren Richmond
+- **[2017-Swing Trading: A Beginner's Guide to Making Money with Trend Following](2017/2017-swing-trading-a-beginners-guide-to-making-money-with-trend-following.md)** - George Pain
+- **[Technical Analysis for Forex Explained](2017/2017-technical-analysis-for-forex-explained.md)** - Wayne Walker
+- **[Tested Forex Strategies](2017/2017-tested-forex-strategies.md)** - Wayne Walker
+- **[The Aeneid](2017/2017-the-aeneid.md)** - Virgil, Translated by John Dryden
+- **[The Amber Witch](2017/2017-the-amber-witch.md)** - Wilhelm Meinhold
+- **[The Best of Henry James (4 Books in One Edition)](2017/2017-the-best-of-henry-james.md)** - Henry James
+- **[The Best Real Estate Book for Beginners](2017/2017-the-best-real-estate-book-for-beginners.md)** - Neil Hoechlin
+- **[The Bioarchaeology of Ritual and Religion](2017/2017-the-bioarchaeology-of-ritual-and-religion.md)** - Alexandra Livarda, Richard Madgwick, Santiago Riera Mora (Editors)
+- **[The Birthmark](2017/2017-the-birthmark.md)** - Nathaniel Hawthorne
+- **[The Bitcoin Genesis](2017/2017-the-bitcoin-genesis.md)** - Jimmy Putnic
+- **[2017-the-collected-ghost-stories-of-m-r-james](2017/2017-the-collected-ghost-stories-of-m-r-james.md)** - M. R. James
+- **[The Comet Sweeper: Caroline Herschel's Astronomical Ambition](2017/2017-the-comet-sweeper.md)** - Claire Brock
+- **[The Complete Alice in Wonderland Adventures](2017/2017-the-complete-alice-in-wonderland-adventures.md)** - Lewis Carroll
+- **[The Complete Histories & History Plays of William Shakespeare](2017/2017-the-complete-histories-history-plays-of-william-shakespeare.md)** - William Shakespeare
+- **[The Complete Letters of Edgar Allan Poe](2017/2017-the-complete-letters-of-edgar-allan-poe.md)** - Edgar Allan Poe
+- **[The Complete Novels of Fyodor Dostoyevsky](2017/2017-the-complete-novels-of-fyodor-dostoyevsky.md)** - Fyodor Dostoyevsky
+- **[The Complete Novels of Lucy Maud Montgomery](2017/2017-the-complete-novels-of-lucy-maud-montgomery.md)** - Lucy Maud Montgomery
+- **[The Complete Novels of Rudyard Kipling (Illustrated Edition)](2017/2017-the-complete-novels-of-rudyard-kipling.md)** - Rudyard Kipling
+- **[The Complete Short Stories of Virginia Woolf](2017/2017-the-complete-short-stories-of-virginia-woolf.md)** - Virginia Woolf
+- **[The Complete Wizard of Oz Collection](2017/2017-the-complete-wizard-of-oz-collection.md)** - L. Frank Baum
+- **[The Complete Works of Frances Hodgson Burnett](2017/2017-the-complete-works-of-frances-hodgson-burnett.md)** - Frances Hodgson Burnett
+- **[The Complete Works of Plato](2017/2017-the-complete-works-of-plato.md)** - Plato
+- **[The Complete Works of Thorstein Veblen](2017/2017-the-complete-works-of-thorstein-veblen.md)** - Thorstein Veblen
+- **[The Complete Works of William Shakespeare](2017/2017-the-complete-works-of-william-shakespeare.md)** - William Shakespeare
+- **[The Essays, Letters and Articles by James Joyce (Illustrated)](2017/2017-the-essays-letters-and-articles-by-james-joyce.md)** - James Joyce
+- **[The Great Travels & Travellers Illustrated Edition](2017/2017-the-great-travels-travellers.md)** - Jules Verne
+- **[The Greatest Christmas Stories & Poems (Illustrated Edition)](2017/2017-the-greatest-christmas-stories-poems.md)** - Louisa May Alcott, Charles Dickens, O. Henry, Hans Christian Andersen, Mark Twain, Clement Clarke Moore, and many others
+- **[The Handmade Business Revolution](2017/2017-the-handmade-business-revolution.md)** - Juha Öörni
+- **[The Harvard Classics Shelf of Fiction Vol. 3](2017/2017-the-harvard-classics-shelf-of-fiction-vol-3.md)** - Laurence Sterne, Jane Austen
+- **[The Hidden Lives of Tudor Women](2017/2017-the-hidden-lives-of-tudor-women.md)** - Elizabeth Norton
+- **[The Hideout](2017/2017-the-hideout.md)** - Egon Hostovský
+- **[The Iliad & The Odyssey](2017/2017-the-iliad-and-the-odyssey.md)** - Homer
+- **[The Iliad & The Odyssey](2017/2017-the-iliad-the-odyssey.md)** - Homer, Andrew Lang
+- **[The Little Book of Hygge](2017/2017-the-little-book-of-hygge.md)** - Meik Wiking
+- **[The Lost City of the Monkey God](2017/2017-the-lost-city-of-the-monkey-god.md)** - Douglas Preston
+- **[The Magical World of Science](2017/2017-the-magical-world-of-science.md)** - Zsuzsanna Gyarmati, Ph.D.
+- **[The March Family Trilogy: Little Women, Little Men & Jo's Boys](2017/2017-the-march-family-trilogy.md)** - Louisa May Alcott
+- **[The Master: How to Practice The Science of Decision Making with Confidence and Know What You Really Want](2017/2017-the-master-how-to-practice-the-science-of-decision-making-with-confidence-and-know-what-you-really-want.md)** - Robin Sacredfire
+- **[The New Wild West](2017/2017-the-new-wild-west.md)** - Blaire Briody
+- **[The Oresteia Trilogy](2017/2017-the-oresteia-trilogy.md)** - Aeschylus
+- **[The Pirates of the High Seas: Know Your Infamous Buccaneers, Their Exploits & Their Real Histories](2017/2017-the-pirates-of-the-high-seas.md)** - Daniel Defoe, Captain Charles Johnson, Howard Pyle, Ralph D. Paine, Charles Ellms, Currey E. Hamilton, John Esquemeling, J. D. Jerrold Kelley & Stanley Lane-Poole
+- **[The Power of Amazon](2017/2017-the-power-of-amazon.md)** - My Ebook Publishing House
+- **[The Quintessential Shakespeare: 11 Most Famous Plays in One Edition](2017/2017-the-quintessential-shakespeare-11-most-famous-plays-in-one-edition.md)** - William Shakespeare
+- **[The Real Thief](2017/2017-the-real-thief.md)** - William Steig
+- **[The Reality Frame: Relativity and Our Place in the Universe](2017/2017-the-reality-frame.md)** - Brian Clegg
+- **[The Science of Food](2017/2017-the-science-of-food.md)** - Marty Jopson
+- **[The Sea King's Lady](2017/2017-the-sea-kings-lady.md)** - S.E. Smith
+- **[The Sherlock Holmes Collection: Complete Works](2017/2017-the-sherlock-holmes-collection.md)** - Arthur Conan Doyle
+- **[The Short Stories of Leo Tolstoy](2017/2017-the-short-stories-of-leo-tolstoy.md)** - Leo Tolstoy
+- **[The Story of Chemistry](2017/2017-the-story-of-chemistry.md)** - Anne Rooney
+- **[The Tale of Beowulf](2017/2017-the-tale-of-beowulf.md)** - Translated by William Morris and A. J. Wyatt
+- **[The Tempest](2017/2017-the-tempest.md)** - William Shakespeare
+- **[The Wealth of Nations & The Theory of Moral Sentiments](2017/2017-the-wealth-of-nations-the-theory-of-moral-sentiments.md)** - Adam Smith
+- **[The Wealth of Nations](2017/2017-the-wealth-of-nations.md)** - Adam Smith
+- **[The Year of You](2017/2017-the-year-of-you.md)** - Hannah Braime
+- **[Think and Grow Rich - Complete Edition](2017/2017-think-and-grow-rich.md)** - Napoleon Hill
+- **[Think Better Analytically](2017/2017-think-better-analytically.md)** - Meredith Larissa & Instafo
+- **[Think Like a Million Bucks](2017/2017-think-like-a-million-bucks.md)** - Believe In Yourself
+- **[Think Small](2017/2017-think-small.md)** - Owain Service, Rory Gallagher
+- **[Top 20 MS Excel VBA Simulations](2017/2017-top-20-ms-excel-vba-simulations.md)** - Andrei Besedin
+- **[Trading Rules: A Practical Guide to Successful Trading](2017/2017-trading-rules.md)** - Patt Tomas
+- **[Virginia Woolf: The Complete Collection](2017/2017-virginia-woolf-the-complete-collection.md)** - Virginia Woolf
+- **[Wall Street Investing and Finance for Beginners](2017/2017-wall-street-investing-and-finance-for-beginners.md)** - George Pain
+- **[We Have No Idea: A Guide to the Known Unknowns](2017/2017-we-have-no-idea.md)** - Jorge Cham, Daniel Whiteson
+- **[We Were Eight Years in Power](2017/2017-we-were-eight-years-in-power.md)** - Ta-Nehisi Coates
+- **[What Is Guerrilla Marketing](2017/2017-what-is-guerrilla-marketing.md)** - Small Business Revolution
+- **[Who Are the Kids Behind the Screen?](2017/2017-who-are-the-kids-behind-the-screen.md)** - Eric Reese
+- **[Why I'm No Longer Talking to White People About Race](2017/2017-why-im-no-longer-talking-to-white-people-about-race.md)** - Reni Eddo-Lodge
+- **[Why You Got All That Stuff](2017/2017-why-you-got-all-that-stuff.md)** - Dr. Robert C. Worstell
+- **[2017 Wisdom & Empowerment: The Orison Swett Marden Edition](2017/2017-wisdom-empowerment-the-orison-swett-marden-edition.md)** - Orison Swett Marden
+- **[Work From Home: The Freelance Graphic Designer's Guide](2017/2017-work-from-home.md)** - Patt Tomas
+- **[Your Road Map to Success](2017/2017-your-road-map-to-success.md)** - Anthony Ekanem
+- **[YouTube Marketing: A Beginner's Guide to Building an Audience and Making Passive Income](2017/2017-youtube-marketing.md)** - George Pain
+- **[Zombies Scare Me](2017/2017-zombies-scare-me.md)** - I. D. Oro
+
+## 2018
+
+- **[155 Best Business English Vocabulary Terms](2018/2018-155-best-business-english-vocabulary-terms.md)** - Winn Trivette, MA
+- **[21 Lessons for the 21st Century](2018/2018-21-lessons-for-the-21st-century.md)** - Yuval Noah Harari
+- **[25 Proven Passive Income Ideas](2018/2018-25-proven-passive-income-ideas.md)** - Mark Atwood
+- **[3 Steps to Success Negotiations](2018/2018-3-steps-to-success-negotiations.md)** - Anthony Jacks
+- **[50 Classic Christmas Stories Maxipack](2018/2018-50-classic-christmas-stories-maxipack.md)** - 100 Authors including Charles Dickens, Mark Twain, Arthur Conan Doyle, O. Henry, and more
+- **[50 Classic Christmas Stories Vol. 4](2018/2018-50-classic-christmas-stories.md)** - A.A. Milne, Arthur Conan Doyle, Charles Dickens, Dylan Thomas, Mark Twain, and more
+- **[50 Classic Self-Help Books Collection](2018/2018-50-classic-self-help-books.md)** - Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, James Allen, Russell H. Conwell, and others
+- **[50 Classic Self-Help And Motivational Books You Have To Read Before You Die](2018/2018-50-classic-self-help-motivational-books.md)** - Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, Dale Carnegie, James Allen, and 45 other classic authors
+- **[50 Feminist Masterpieces You Have to Read Before You Die](2018/2018-50-feminist-masterpieces-you-have-to-read-before-you-die.md)** - Various Authors (Golden Deer Classics)
+- **[52 Ways I Practice: A Practical Guide](2018/2018-52-ways-i-practice-a-practical-guide.md)** - Birgit Schulze, Irmtraud Kauschat
+- **[A Beginner's Guide to Article Marketing](2018/2018-a-beginners-guide-to-article-marketing.md)** - The Non Fiction Author
+- **[A Beginner's Guide to Autoresponders](2018/2018-a-beginners-guide-to-autoresponders.md)** - The Non Fiction Author
+- **[A Beginner's Guide to Facebook Marketing Strategies](2018/2018-a-beginners-guide-to-facebook-marketing-strategies.md)** - The Non Fiction Author
+- **[2018 A Brief History of Time](2018/2018-a-brief-history-of-time.md)** - Stephen Hawking (original), Goldmine Reads (summary)
+- **[A Guide to Investing for Kids](2018/2018-a-guide-to-investing-for-kids.md)** - Stephanie R. Baker
+- **[A Richness of Martens](2018/2018-a-richness-of-martens.md)** - Polly Pullar, with foreword by John Lister-Kaye
+- **[Accounting: Step by Step Guide to Accounting Principles & Basic Accounting for Small Business](2018/2018-accounting.md)** - Mark Smith
+- **[Affiliate Marketing: Beginners Guide to Learn Step-by-Step How to Make Money Online](2018/2018-affiliate-marketing-beginners-guide.md)** - Daren H. Russell
+- **[Affiliate Marketing 2018](2018/2018-affiliate-marketing.md)** - Cynthia Lyne
+- **[Alice in Wonderland Collection: The Complete Four-Book Treasury](2018/2018-alice-in-wonderland-collection.md)** - Lewis Carroll
+- **[Alice's Adventures in Wonderland & Through the Looking-Glass](2018/2018-alices-adventures-in-wonderland-and-through-the-looking-glass.md)** - Lewis Carroll
+- **[All That You Need to Know About Google Keep for Increasing Productivity](2018/2018-all-that-you-need-to-know-about-google-keep-for-increasing-productivity.md)** - Koushik K
+- **[2018 Amazon FBA: Proven Step By Step Strategies to Make Money On Amazon FBA](2018/2018-amazon-fba.md)** - Mark Smith
+- **[An Honest Thief](2018/2018-an-honest-thief.md)** - Fyodor Dostoyevsky
+- **[And the Wind Sees All](2018/2018-and-the-wind-sees-all.md)** - Guðmundur Andri Thorsson
+- **[Anne of Green Gables Collection](2018/2018-anne-of-green-gables-collection.md)** - Lucy Maud Montgomery
+- **[Anne of Green Gables](2018/2018-anne-of-green-gables.md)** - L. M. Montgomery
+- **[Anti-Money Laundering State Mechanisms](2018/2018-anti-money-laundering-state-mechanisms.md)** - Michele Sciurba
+- **[Approach to Neuropsychology](2018/2018-approach-to-neuropsychology.md)** - Dr. Juan Moisés de la Serna
+- **[Artificial Intelligence Business Applications](2018/2018-artificial-intelligence-business-applications.md)** - Abiprod
+- **[Ask Your Way to Success](2018/2018-ask-your-way-to-success.md)** - Chase Andrews
+- **[Astrology in the Workplace](2018/2018-astrology-in-the-workplace.md)** - Unknown
+- **[Astroquizzical: A Curious Journey Through Our Cosmic Family Tree](2018/2018-astroquizzical.md)** - Jillian Scudder
+- **[Barracoon: The Story of the Last "Black Cargo"](2018/2018-barracoon-the-story-of-the-last-black-cargo.md)** - Zora Neale Hurston, Deborah G. Plant (ed.)
+- **[Bartleby, the Scrivener: A Story of Wall Street](2018/2018-bartleby-the-scrivener.md)** - Herman Melville
+- **[Bitcoin: An Ultimate Guide to Digital Gold](2018/2018-bitcoin-an-ultimate-guide-to-digital-gold.md)** - Rooney Edwards
+- **[Bitcoin and Cryptocurrency Technologies](2018/2018-bitcoin-and-cryptocurrency-technologies.md)** - Christopher Nygaard
+- **[Bitcoin: Beginner's Simplified Guide to Make Money with Bitcoin](2018/2018-bitcoin-beginners-simplified-guide.md)** - Gavin S. Finney
+- **[Bitcoin & Blockchain: The Ultimate Beginner's Guide](2018/2018-bitcoin-blockchain.md)** - Sean Bennett
+- **[Bitcoin From Beginner To Expert](2018/2018-bitcoin-from-beginner-to-expert.md)** - Christian Newman
+- **[Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](2018/2018-blitzscaling.md)** - Reid Hoffman, Chris Yeh
+- **[Blockchain Blueprint: A Comprehensive Guide](2018/2018-blockchain-blueprint.md)** - Jimmy Cooper
+- **[Blockchain for Beginners](2018/2018-blockchain-for-beginners.md)** - Scott Marks
+- **[Blockchain Simplified](2018/2018-blockchain-simplified.md)** - Colm Gordon
+- **[Blockchain Technology Revolution in Business Explained](2018/2018-blockchain-technology-revolution-in-business-explained.md)** - Abiprod
+- **[Bookkeeping: Step by Step Guide to Bookkeeping Principles & Basic Bookkeeping for Small Business](2018/2018-bookkeeping.md)** - Mark Smith
+- **[Botanical Folk Tales of Britain and Ireland](2018/2018-botanical-folk-tales-of-britain-and-ireland.md)** - Lisa Schneidau
+- **[2018 Buddha's Brain](2018/2018-buddhas-brain.md)** - Rick Hanson, Richard Mendius
+- **[Business Marketing Network: Tips and Tricks to Maximize Profits](2018/2018-business-marketing-network.md)** - Larry Ellison
+- **[Business Rhetoric: How to Turn Your Words Into Gold](2018/2018-business-rhetoric.md)** - Mette Højen
+- **[CERN and the Higgs Boson](2018/2018-cern-and-the-higgs-boson.md)** - James Gillies
+- **[Charles Dickens: The Complete Novels](2018/2018-charles-dickens-the-complete-novels.md)** - Charles Dickens
+- **[Children of Apollo](2018/2018-children-of-apollo.md)** - Adam Alexander Haviaras
+- **[Climate Change: The Earth is Dying and You Can Help to Save It](2018/2018-climate-change.md)** - Laura M. Dalton
+- **[Compensation](2018/2018-compensation.md)** - Ralph Waldo Emerson
+- **[Conscious Alchemy](2018/2018-conscious-alchemy.md)** - Hélio Couto
+- **[2018 Content Creation](2018/2018-content-creation.md)** - Kumar
+- **[Content Marketing: Essential Guide to Learn Step-by-Step the Best Content Marketing Strategies](2018/2018-content-marketing-essential-guide.md)** - Joe Wilson Schaefer
+- **[Content Marketing: Strategies to Capture and Engage Your Audience](2018/2018-content-marketing.md)** - Eric J Scott
+- **[Core Leadership and Management Skills](2018/2018-core-leadership-and-management-skills.md)** - Neil Hoechlin
+- **[Corporate Strategy: A Handbook for Entrepreneurs](2018/2018-corporate-strategy-a-handbook-for-entrepreneurs.md)** - Hiriyappa.B, Ph.D.
+- **[Craved by Bears](2018/2018-craved-by-bears.md)** - Skye MacKinnon
+- **[Create Your Digital Marketing Agency](2018/2018-create-your-digital-marketing-agency.md)** - Robinson Hardin
+- **[Crushing It! How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too](2018/2018-crushing-it.md)** - Gary Vaynerchuk
+- **[Cryptocurrency & Blockchain: Understanding the Digital Revolution](2018/2018-cryptocurrency-blockchain.md)** - Sean Bennett
+- **[Cryptocurrency ICO Investing: A Quick-Start Guide](2018/2018-cryptocurrency-ico-investing.md)** - Sean Bennett
+- **[Cryptocurrency Investing for Beginners](2018/2018-cryptocurrency-investing-for-beginners.md)** - Stephen Riles
+- **[Cryptocurrency: Strategies to Make Money with Cryptocurrency](2018/2018-cryptocurrency-strategies-to-make-money-with-cryptocurrency.md)** - Gavin S. Finney
+- **[2018 Cryptocurrency Trading & Investing](2018/2018-cryptocurrency-trading-investing.md)** - Sean Bennett (Cryptomasher)
+- **[Dare to Lead](2018/2018-dare-to-lead.md)** - Brené Brown
+- **[Dealing with Difficult People at Work & At Home](2018/2018-dealing-with-difficult-people-at-work-and-home.md)** - Samantha Claire
+- **[Digital E-Commerce Strategy](2018/2018-digital-ecommerce-strategy.md)** - Raghu Ramasubbu
+- **[Discipline Your Way to Success](2018/2018-discipline-your-way-to-success.md)** - Chase Andrews
+- **[Discover Physics](2018/2018-discover-physics.md)** - Benjamin Crowell
+- **[E-Commerce Secrets 2-in-1 Bundle](2018/2018-e-commerce-secrets-2-in-1-bundle.md)** - Marc Hayes, Ava Reed
+- **[Earth](2018/2018-earth.md)** - Michael Carlowicz, Lawrence Friedl, Kevin Ward
+- **[Email Marketing: A Beginner's Guide to Becoming a Pro](2018/2018-email-marketing-guide.md)** - Larry Ellison
+- **[Email Marketing](2018/2018-email-marketing.md)** - Tim Shek
+- **[Emotional Eating](2018/2018-emotional-eating.md)** - Anthea Peries
+- **[Emotional Intelligence 2.0](2018/2018-emotional-intelligence-20.md)** - Travis Bradberry, Jean Greaves
+- **[2018 Emotional Strength Training](2018/2018-emotional-strength-training.md)** - James J. Stamatelos
+- **[Enhancing Your Organization's Learning Culture for Business Results](2018/2018-enhancing-your-organizations-learning-culture-for-business-results.md)** - Tad Hughes, M.S., PMP
+- **[Entrepreneurship Secrets](2018/2018-entrepreneurship-secrets.md)** - Abdul Vasi
+- **[Ethereum: A Comprehensive Guide For Ethereum And How To Make Money With It](2018/2018-ethereum-comprehensive-guide.md)** - Mark Smith
+- **[Everyday Project Management](2018/2018-everyday-project-management.md)** - Peter Mulraney
+- **[Expert Advisor and Forex Trading Strategies](2018/2018-expert-advisor-and-forex-trading-strategies.md)** - Wayne Walker
+- **[Expert Advisor Programming and Advanced Forex Strategies](2018/2018-expert-advisor-programming-and-advanced-forex-strategies.md)** - Wayne Walker
+- **[Extreme Ownership](2018/2018-extreme-ownership.md)** - Jocko Willink, Leif Babin
+- **[Facebook for Business](2018/2018-facebook-for-business.md)** - Steven Gray
+- **[Facebook Groups for Authors](2018/2018-facebook-groups-for-authors.md)** - Steven Bright
+- **[Facebook Marketing: A Comprehensive Guide for Building Authority, Creating Engagement and Making Money Through Facebook](2018/2018-facebook-marketing.md)** - Mark Smith
+- **[Factfulness](2018/2018-factfulness.md)** - Hans Rosling, Ola Rosling, and Anna Rosling Rönnlund
+- **[Feng Shui: Home Interior Design Household Decoration to Attract Prosperity, Love, Luck & Harmony](2018/2018-feng-shui-home-interior-design.md)** - Greenleatherr
+- **[Financial Analysis for Everyone](2018/2018-financial-analysis-for-everyone.md)** - Cosmin BAIU
+- **[Firestarters](2018/2018-firestarters.md)** - Raoul Davis Jr., Kathy Palokoff, Paul Eder
+- **[Forex For Beginners: The 5-Minute Guide](2018/2018-forex-for-beginners.md)** - Mark Smith
+- **[Forex Trading: The Relevance of Time](2018/2018-forex-trading-the-relevance-of-time.md)** - Stanley Davies
+- **[Forex Trading: A Practical Guide to Scalping Success](2018/2018-forex-trading.md)** - Heikin Ashi Trader
+- **[2018-Freelancing on Upwork: A Bite-Sized Guide](2018/2018-freelancing-on-upwork-a-bite-sized-guide.md)** - Madison Hall
+- **[From Nothing to Millionaire in Six Months](2018/2018-from-nothing-to-millionaire.md)** - Timothy K. Scott
+- **[Getting It: Your Social Media Guide](2018/2018-getting-it-your-social-media-guide.md)** - Unknown
+- **[Gravitational Waves](2018/2018-gravitational-waves.md)** - Brian Clegg
+- **[Grit](2018/2018-grit.md)** - Angela Duckworth
+- **[Guide to Investment Strategy](2018/2018-guide-to-investment-strategy.md)** - Peter Stanyer, Stephen Satchell
+- **[High Frequency Oscillators for Electro-Therapeutic and Other Purposes](2018/2018-high-frequency-oscillators-for-electro-therapeutic-and-other-purposes.md)** - Nikola Tesla
+- **[His Masterpiece](2018/2018-his-masterpiece.md)** - Émile Zola
+- **[How and Why Nations Fail](2018/2018-how-and-why-nations-fail.md)** - A. I. Abana
+- **[How to Analyze People Effectively](2018/2018-how-to-analyze-people-effectively.md)** - Steve Chambers
+- **[How to Audit Your Account without Hiring an Auditor](2018/2018-how-to-audit-your-account-without-hiring-an-auditor.md)** - Aaron Efuribe
+- **[How to Become a Digital Marketing Hero](2018/2018-how-to-become-a-digital-marketing-hero.md)** - Rufus Lidman
+- **[How to Become a Money-Making Machine by Trading and Investing in Cryptocurrencies](2018/2018-how-to-become-a-money-making-machine-by-trading-and-investing-in-cryptocurrencies.md)** - Anthony Christensen
+- **[How to Become the Ultimate Decision-Maker](2018/2018-how-to-become-the-ultimate-decision-maker.md)** - Firas Aridi
+- **[How to Deal with Toxic People: Clever Ways to Handle Manipulative, Difficult, & Sensitive People Using Emotional Intelligence](2018/2018-how-to-deal-with-toxic-people.md)** - Bob Scott
+- **[How to Develop a Profitable Trading Strategy](2018/2018-how-to-develop-a-profitable-trading-strategy.md)** - Heikin Ashi Trader
+- **[How to Get Filthy Rich Investing in Bitcoin and Other Cryptocurrencies](2018/2018-how-to-get-filthy-rich-investing-in-bitcoin-and-other-cryptocurrencies.md)** - Maxwell Emerson
+- **[How to Get Into Fashion](2018/2018-how-to-get-into-fashion.md)** - Eunice Olumide
+- **[How to Learn Microsoft Access VBA Programming Quickly](2018/2018-how-to-learn-microsoft-access-vba-programming-quickly.md)** - Andrei Besedin
+- **[How to Learn Microsoft Office Outlook Quickly!](2018/2018-how-to-learn-microsoft-office-outlook-quickly.md)** - Andrei Besedin
+- **[How to Make Money Online](2018/2018-how-to-make-money-online.md)** - Scott Kennedy
+- **[How to Organize and Declutter Everything: Your Home, Mind & Life](2018/2018-how-to-organize-and-declutter-everything.md)** - Samantha Claire
+- **[How to Overcome Procrastination and Get Stuff Done](2018/2018-how-to-overcome-procrastination-and-get-stuff-done.md)** - Perez Dalton
+- **[How to Reap the Benefits of Digital Marketing Today](2018/2018-how-to-reap-the-benefits-of-digital-marketing-today.md)** - Dr. Amos Obi
+- **[How to Scalp the Mini DAX Future](2018/2018-how-to-scalp-the-mini-dax-future.md)** - Heikin Ashi Trader
+- **[How to Trade a Range](2018/2018-how-to-trade-a-range.md)** - Heikin Ashi Trader
+- **[How to Write a Book](2018/2018-how-to-write-a-book.md)** - David Kadavy
+- **[How to Write a Scientific Paper](2018/2018-how-to-write-a-scientific-paper.md)** - Jari Saramäki
+- **[I'll Be Gone In The Dark](2018/2018-ill-be-gone-in-the-dark.md)** - Michelle McNamara
+- **[In Math We Trust](2018/2018-in-math-we-trust.md)** - Simon Dingle
+- **[In the Mind of Mental Illness](2018/2018-in-the-mind-of-mental-illness.md)** - Margaret Mitchell and contributors
+- **[Infinity in the Palm of Your Hand](2018/2018-infinity-in-the-palm-of-your-hand.md)** - Marcus Chown
+- **[Investing: The Beginner's Guide to Investing](2018/2018-investing-the-beginners-guide-to-investing.md)** - R.M. Lewis
+- **[Investing: Make Money By Investing In Stock Market, Real Estate Rental Property, Bonds, Options, Cryptocurrency And Build Passive Income Business Portfolio](2018/2018-investing.md)** - Brandon Hagstrom, Robert Turner
+- **[Jack London: The Collection](2018/2018-jack-london-the-collection.md)** - Jack London
+- **[Jane Eyre](2018/2018-jane-eyre.md)** - Charlotte Brontë
+- **[Level Up With Amazon](2018/2018-level-up-with-amazon.md)** - Tashema Lindsey
+- **[Make Money at Home 2-in-1 Bundle: Online Teaching with Udemy & Selling Crafts on Etsy](2018/2018-make-money-at-home-online-teaching-etsy-crafts.md)** - Madison Booker, Marc Hayes
+- **[Make Money Online Now: 2-in-1 Bundle](2018/2018-make-money-online-now-2-in-1-bundle.md)** - Marc Hayes, Madison Hall
+- **[Managing Cybersecurity Risk](2018/2018-managing-cybersecurity-risk.md)** - Jonathan Reuvid (Editor)
+- **[Marketing Automation](2018/2018-marketing-automation.md)** - George Pain
+- **[Mastering Business Social Media Marketing in Theory & Practice](2018/2018-mastering-business-social-media-marketing-in-theory-practice.md)** - Neil Hoechlin
+- **[Mastering Fear](2018/2018-mastering-fear.md)** - Brandon Webb, John David Mann
+- **[Measure What Matters](2018/2018-measure-what-matters.md)** - John Doerr
+- **[Minimalism: The Simplest Way of Life in the World](2018/2018-minimalism-the-simplest-way-of-life-in-the-world.md)** - Luke Eisenberg
+- **[Minimalist Living: The Complete Guide](2018/2018-minimalist-living.md)** - Marie S. Davenport
+- **[Music and Misadventure](2018/2018-music-and-misadventure.md)** - Charlotte E. English
+- **[None of My Business](2018/2018-none-of-my-business.md)** - P.J. O'Rourke
+- **[Not That Bad: Dispatches from Rape Culture](2018/2018-not-that-bad-dispatches-from-rape-culture.md)** - Roxane Gay (Editor)
+- **[Oedipus Rex](2018/2018-oedipus-rex.md)** - Sophocles
+- **[One Week to an MBA: How to Get an Online Ivy League Education for Little or No Cost](2018/2018-one-week-to-an-mba-how-to-get-an-online-ivy-league-education-for-little-or-no-cost.md)** - James Abbott
+- **[2018 Online Business Secrets: 2 Books for 1](2018/2018-online-business-secrets-2-books-for-1-how-to-start-an-online-ecommerce-business-this-week-with-ease-alibaba-shopify.md)** - Marc Hayes
+- **[Oscar Wilde: The Complete Collection](2018/2018-oscar-wilde-the-complete-collection.md)** - Oscar Wilde
+- **[Passive Income How to Guide: The Simple System to Make Money Online Within 30 Days](2018/2018-passive-income-how-to-guide.md)** - Richard Blake
+- **[Passive Income: A Beginner's Guide to Becoming a Pro in Making Passive Income](2018/2018-passive-income.md)** - Larry Ellison
+- **[2018 Personal Branding Secrets for 2019](2018/2018-personal-branding-secrets-for-2019.md)** - Gary Ramsey
+- **[Post-Traumatic Stress Disorder: A Practical Guide to Understanding and Treatment](2018/2018-post-traumatic-stress-disorder.md)** - Leo Hardy
+- **[Practical Project Management](2018/2018-practical-project-management.md)** - Raghu Ramasubbu
+- **[Prediction Machines: The Simple Economics of Artificial Intelligence](2018/2018-prediction-machines-the-simple-economics-of-artificial-intelligence.md)** - Ajay Agrawal, Joshua Gans, Avi Goldfarb
+- **[Project Management: The Sketches](2018/2018-project-management-the-sketches.md)** - Nigel Creaser
+- **[Quantum Economics](2018/2018-quantum-economics.md)** - David Orrell
+- **[Quantum Physics: A Beginner's Guide](2018/2018-quantum-physics-a-beginners-guide.md)** - Carl Weston
+- **[Raven Son](2018/2018-raven-son.md)** - Nicholas Kotar
+- **[Real Estate Investing: 7 Ways Anyone Can Use To Make Money In Real Estate](2018/2018-real-estate-investing.md)** - Mark Atwood
+- **[Real Estate Ultimate Beginner's Guide](2018/2018-real-estate-ultimate-beginners-guide.md)** - C.M. Middleton
+- **[Reinventing Sustainability](2018/2018-reinventing-sustainability.md)** - Erika Guttmann-Bond
+- **[Scalping is Fun! Part 2: Practical Examples](2018/2018-scalping-is-fun-part-2-practical-examples.md)** - Heikin Ashi Trader
+- **[Scalping is Fun!](2018/2018-scalping-is-fun.md)** - Heikin Ashi Trader
+- **[Secrets of Business Mathematics Using Excel](2018/2018-secrets-of-business-mathematics-using-excel.md)** - Andrei Besedin
+- **[Secrets of Excel and Access for Accounting](2018/2018-secrets-of-excel-and-access-for-accounting.md)** - Unknown
+- **[Secrets of Supply Chain Management](2018/2018-secrets-of-supply-chain-management.md)** - Andrei Besedin
+- **[Self-Help](2018/2018-self-help.md)** - Samuel Smiles
+- **[Self-Reliance: The Wisdom of Ralph Waldo Emerson as Inspiration for Daily Living](2018/2018-self-reliance-the-wisdom-of-ralph-waldo-emerson.md)** - Ralph Waldo Emerson
+- **[Sell Your Crafts & Passions: 2-in-1 Bundle](2018/2018-sell-your-crafts-passions.md)** - Madison Booker, Evan Jones
+- **[Selling on Etsy: Open an Etsy Storefront and Launch Your Handmade Empire](2018/2018-selling-on-etsy.md)** - George Pain
+- **[Shadow Libraries: Access to Knowledge in Global Higher Education](2018/2018-shadow-libraries.md)** - Joe Karaganis (Editor)
+- **[Shelley's Gothic Classics: Frankenstein & St. Irvyne](2018/2018-shelleys-gothic-classics-frankenstein-st-irvyne.md)** - Mary Shelley, Percy Bysshe Shelley
+- **[Shopify Store Secrets](2018/2018-shopify-store-secrets.md)** - Evan Jones
+- **[Shopify: The Essential Guide to Effectively Plan and Market Your E-commerce Store](2018/2018-shopify-the-essential-guide-to-effectively-plan-and-market-your-e-commerce-store.md)** - Marc Hayes
+- **[Smart Europe](2018/2018-smart-europe.md)** - Jeremy Rifkin
+- **[So You Want to Talk About Race](2018/2018-so-you-want-to-talk-about-race.md)** - Ijeoma Oluo
+- **[Social Media Marketing in 2018](2018/2018-social-media-marketing-in-2018.md)** - R.M. Lewis
+- **[Social Media Marketing Mastery](2018/2018-social-media-marketing-mastery.md)** - Eric J Scott
+- **[Social Media Marketing: The Ultimate Guide](2018/2018-social-media-marketing-the-ultimate-guide.md)** - Dale Cross
+- **[Social Media Marketing 2019](2018/2018-social-media-marketing.md)** - Dave Welch
+- **[Start a Business: Best Trending Future Small Business Ideas](2018/2018-start-a-business.md)** - Steven Gray
+- **[Start Your Own Business Bundle 2-in-1](2018/2018-start-your-own-business-bundle-2-in-1.md)** - Madison Booker, Evan Jones
+- **[Starting a Business Handbook](2018/2018-starting-a-business.md)** - Mark Atwood
+- **[Stock Investing: 3-Book Bundle Guide](2018/2018-stock-investing.md)** - Alvin Williams
+- **[Stock Market Investing for Beginners & Dummies](2018/2018-stock-market-investing-for-beginners-dummies.md)** - Giovanni Rigters
+- **[Stock Market Investing for Beginners](2018/2018-stock-market-investing-for-beginners.md)** - Victor Lucas
+- **[Storytelling in Business Presentations](2018/2018-storytelling-in-business-presentations.md)** - John Clare
+- **[Strange Chemistry: The Stories Your Chemistry Teacher Wouldn't Tell You](2018/2018-strange-chemistry.md)** - Steven C. Farmer
+- **[Stress Management](2018/2018-stress-management.md)** - Hiriyappa.B, Ph.D.
+- **[Surreal Whispers](2018/2018-surreal-whispers.md)** - Mustafa Kayyali
+- **[2018 Swing Trading Strategies](2018/2018-swing-trading-strategies.md)** - Victor Lucas
+- **[2018 Swing Trading: The Ultimate Guide to Making Fast Money 1 Hour a Day](2018/2018-swing-trading-the-ultimate-guide-to-making-fast-money-1-hour-a-day.md)** - Victor Lucas
+- **[Switch On Your Brain: The Key to Peak Happiness, Thinking, and Health](2018/2018-switch-on-your-brain.md)** - Dr. Caroline Leaf
+- **[Team Building and Group Dynamics Management](2018/2018-team-building-and-group-dynamics-management.md)** - Hiriyappa B, Ph.D.
+- **[2018 Tested Forex Strategies](2018/2018-tested-forex-strategies.md)** - Wayne Walker
+- **[The Apollo Missions](2018/2018-the-apollo-missions.md)** - David Baker
+- **[The Art of Caring](2018/2018-the-art-of-caring.md)** - Felicity Morse
+- **[The Art of E-commerce: Complete Guide to Building Your Online Business](2018/2018-the-art-of-e-commerce.md)** - Marc Hayes, Evan Jones
+- **[The Art of Hustling](2018/2018-the-art-of-hustling.md)** - DJ Sbu (Sbusiso Leope)
+- **[The Art of Logical Thinking](2018/2018-the-art-of-logical-thinking.md)** - William Atkinson
+- **[The Art of Public Speaking](2018/2018-the-art-of-public-speaking.md)** - Dale Carnegie
+- **[The Art of War](2018/2018-the-art-of-war.md)** - Sun Tzu, Wu Tzu
+- **[The Beggar and Other Stories](2018/2018-the-beggar-and-other-stories.md)** - Gaito Gazdanov
+- **[The Beginning and the End of Everything](2018/2018-the-beginning-and-the-end-of-everything.md)** - Paul Parsons
+- **[The Christmas Library](2018/2018-the-christmas-library.md)** - Various Authors (Charles Dickens, Anton Chekhov, Arthur Conan Doyle, Dylan Thomas, Beatrix Potter, and many others)
+- **[The Complete Christmas Books and Stories](2018/2018-the-complete-christmas-books-and-stories.md)** - Charles Dickens
+- **[The Complete Grimm Fairy Tales](2018/2018-the-complete-grimm-fairy-tales.md)** - The Brothers Grimm
+- **[The Complete Leatherstocking Tales](2018/2018-the-complete-leatherstocking-tales.md)** - James Fenimore Cooper
+- **[The Complete Novels of Jane Austen](2018/2018-the-complete-novels-of-jane-austen.md)** - Jane Austen
+- **[The Complete Novels of Nikolai Gogol](2018/2018-the-complete-novels-of-nikolai-gogol.md)** - Nikolai Gogol
+- **[The Complete Poems of Emily Dickinson](2018/2018-the-complete-poems-of-emily-dickinson.md)** - Emily Dickinson
+- **[The Complete Tales and Poems of Edgar Allan Poe](2018/2018-the-complete-tales-and-poems-of-edgar-allan-poe.md)** - Edgar Allan Poe
+- **[The Complete Works of Joseph Conrad](2018/2018-the-complete-works-of-joseph-conrad.md)** - Joseph Conrad
+- **[The Complete Works of Oscar Wilde](2018/2018-the-complete-works-of-oscar-wilde.md)** - Oscar Wilde
+- **[The Complete Works of Swami Vivekananda](2018/2018-the-complete-works-of-swami-vivekananda.md)** - Swami Vivekananda
+- **[The Cryptocurrency Blockchain Connection](2018/2018-the-cryptocurrency-blockchain-connection.md)** - Wayne Walker
+- **[The Cryptocurrency Investing Guide](2018/2018-the-cryptocurrency-investing-guide.md)** - Colin Everett
+- **[The Culture Code](2018/2018-the-culture-code.md)** - Daniel Coyle
+- **[The Dawn of the Warrior Age](2018/2018-the-dawn-of-the-warrior-age.md)** - Edwin A. Cranston (translator/Editor)
+- **[The Decision Book: Fifty Models for Strategic Thinking](2018/2018-the-decision-book.md)** - Mikael Krogerus, Roman Tschäppeler, Jenny Piening
+- **[The Definitive Guide to Mastering Bitcoin & Cryptocurrencies](2018/2018-the-definitive-guide-to-mastering-bitcoin-cryptocurrencies.md)** - Wayne Walker
+- **[The Feather Thief: Beauty, Obsession, and the Natural History Heist of the Century](2018/2018-the-feather-thief.md)** - Kirk Wallace Johnson
+- **[The Fever](2018/2018-the-fever-how-malaria-has-ruled-humankind-for-500-000-years.md)** - Sonia Shah
+- **[The Functional Microfinance Bank](2018/2018-the-functional-microfinance-bank.md)** - Henry Oster Onyemah
+- **[The Girl Who Smiled Beads](2018/2018-the-girl-who-smiled-beads.md)** - Clemantine Wamariya, Elizabeth Weil
+- **[The Graphene Revolution](2018/2018-the-graphene-revolution.md)** - Brian Clegg
+- **[The Greatest Ghost and Horror Stories Ever Written Volume 1](2018/2018-the-greatest-ghost-and-horror-stories-ever-written.md)** - Multiple Authors Including Ambrose Bierce, Algernon Blackwood, H.P. Lovecraft, Edgar Allan Poe, Charles Dickens, Washington Irving
+- **[The Greatest Short Stories of Leo Tolstoy](2018/2018-the-greatest-short-stories-of-leo-tolstoy.md)** - Leo Tolstoy
+- **[The Layman's Guide to Quantum Reality](2018/2018-the-laymans-guide-to-quantum-reality.md)** - JD Lovil
+- **[The Library Book](2018/2018-the-library-book.md)** - Susan Orlean
+- **[The Master of Ragnarok & Blesser of Einherjar Volume 1](2018/2018-the-master-of-ragnarok-blesser-of-einherjar-volume-1.md)** - Takayama Seiichi
+- **[The Money May Be In The List. But Only A Good Email Copy Can Find It.](2018/2018-the-money-may-be-in-the-list-but-only-a-good-email-copy-can-find-it.md)** - Alex Harris
+- **[The Most Effective Marketing Strategy in Business](2018/2018-the-most-effective-marketing-strategy-in-business.md)** - William R. Chesson
+- **[The Next Level of Cryptocurrency Investing](2018/2018-the-next-level-of-cryptocurrency-investing.md)** - Wayne Walker
+- **[The Passive Income Guide](2018/2018-the-passive-income-guide.md)** - John Larson
+- **[The Philosophy of Cryptocurrency Mining](2018/2018-the-philosophy-of-cryptocurrency-mining.md)** - Edward A. Harrod
+- **[The Power of Personal Branding](2018/2018-the-power-of-personal-branding.md)** - Chris Hammond
+- **[The Rich Game](2018/2018-the-rich-game.md)** - Marten Livingston
+- **[The Rise and Fall of the Dinosaurs](2018/2018-the-rise-and-fall-of-the-dinosaurs.md)** - Stephen Brusatte
+- **[The Stoic](2018/2018-the-stoic.md)** - Theodore Dreiser
+- **[The Three Musketeers](2018/2018-the-three-musketeers.md)** - Alexandre Dumas
+- **[The Tolstoy Classics Collection](2018/2018-the-tolstoy-classics-collection.md)** - Lev Nikolayevich Tolstoy
+- **[The Toyota Kata Practice Guide](2018/2018-the-toyota-kata-practice-guide.md)** - Mike Rother
+- **[The Ultimate Copywriting Guide for Beginners to Advanced](2018/2018-the-ultimate-copywriting-guide.md)** - Neil Hoechlin
+- **[The Universe in Bite-Sized Chunks](2018/2018-the-universe-in-bite-sized-chunks.md)** - Colin Stuart, Greg Stevenson (Illustrations)
+- **[The World in a Grain](2018/2018-the-world-in-a-grain.md)** - Vince Beiser
+- **[Time Master: Master Your Life](2018/2018-time-master.md)** - NKA
+- **[Top 10 Things You Need to Know by Age 30](2018/2018-top-10-things-you-need-to-know-by-age-30.md)** - Marc Stachado
+- **[Trading and Investing in Cryptocurrencies 101](2018/2018-trading-and-investing-in-cryptocurrencies-101.md)** - Jordan Keizer
+- **[Trading is Flow Business](2018/2018-trading-is-flow-business.md)** - Heikin Ashi Trader
+- **[True Wealth](2018/2018-true-wealth.md)** - Kelly Wallace
+- **[Tubestarter: Starting A Successful YouTube Channel](2018/2018-tubestarter-starting-a-successful-youtube-channel.md)** - Devin Street
+- **[Understanding Digital Marketing: Strategies for Online Success](2018/2018-understanding-digital-marketing.md)** - Dishek J. Mankad
+- **[User Friendly](2018/2018-user-friendly.md)** - Cliff Kuang, Robert Fabricant
+- **[Victor Hugo: The Complete Novels](2018/2018-victor-hugo-the-complete-novels.md)** - Victor Hugo
+- **[War Games: The Psychology of Combat](2018/2018-war-games.md)** - Leo Murray
+- **[What Makes a Great Leader](2018/2018-what-makes-a-great-leader.md)** - Alecu Vlad
+- **[What Poor People Do That Rich People Don't](2018/2018-what-poor-people-do-that-rich-people-dont.md)** - Kevin Solimon
+- **[The Complete Works of William Shakespeare](2018/2018-william-shakespeare-the-complete-collection.md)** - William Shakespeare
+- **[With the Rise of the Wind](2018/2018-with-the-rise-of-the-wind.md)** - Jay Maclean
+- **[You Can't Go Home Again](2018/2018-you-cant-go-home-again.md)** - Thomas Wolfe
+- **[YouTube Marketing: A Comprehensive Guide](2018/2018-youtube-marketing.md)** - Mark Smith
+
+## 2019
+
+- **[100 Email List Building Methods](2019/2019-100-email-list-building-methods.md)** - Dale Carnegie
+- **[365 Daily Fitness Motivation](2019/2019-365-daily-fitness-motivation.md)** - Xabier K. Fernao
+- **[365 Daily Wisdom Quotes](2019/2019-365-daily-wisdom-quotes.md)** - Xabier K. Fernao
+- **[365 Funny Quotes](2019/2019-365-funny-quotes.md)** - Xabier K. Fernao
+- **[365 Inspirational Quotes](2019/2019-365-inspirational-quotes.md)** - Xabier K. Fernao
+- **[365 Life Quotes](2019/2019-365-life-quotes.md)** - Xabier K. Fernao
+- **[365 Love Quotes](2019/2019-365-love-quotes.md)** - Xabier K. Fernao
+- **[365 Mindset Quotes](2019/2019-365-mindset-quotes.md)** - Xabier K. Fernao
+- **[365 Money Quotes](2019/2019-365-money-quotes.md)** - Xabier K. Fernao
+- **[365 Motivational Quotes](2019/2019-365-motivational-quotes.md)** - Xabier K. Fernao
+- **[365 Positive Thinking Quotes](2019/2019-365-positive-thinking-quotes.md)** - Xabier K. Fernao
+- **[365 Self-Discipline Quotes](2019/2019-365-self-discipline-quotes.md)** - Xabier K. Fernao
+- **[365 Stoicism Quotes](2019/2019-365-stoicism-quotes.md)** - Xabier K. Fernao
+- **[365 Taoism Quotes](2019/2019-365-taoism-quotes.md)** - Xabier K. Fernao
+- **[365 Women Empowerment Quotes](2019/2019-365-women-empowerment-quotes.md)** - Xabier K. Fernao
+- **[50 Masterpieces You Have to Read: A-to-Z Classics](2019/2019-50-masterpieces-you-have-to-read-a-to-z-classics.md)** - Various
+- **[50 Mystery and Detective Masterpieces You Have to Read Before You Die, Vol. 2](2019/2019-50-mystery-and-detective-masterpieces.md)** - Various Authors
+- **[8 Classic Russian Novels You Should Read](2019/2019-8-classic-russian-novels-you-should-read.md)** - Nikolai Gogol, Ivan Goncharov, Ivan Turgenev, Fyodor Dostoevsky, Leo Tolstoy, Maxim Gorky
+- **[99 Classic Mystery Short Stories Volume 1](2019/2019-99-classic-mystery-short-stories-vol1.md)** - Algernon Blackwood, Arthur Conan Doyle, Wilkie Collins, H.G. Wells, Rudyard Kipling, and more
+- **[99 Classic Thriller Short Stories](2019/2019-99-classic-thriller-short-stories.md)** - Multiple Authors including Philip K. Dick, Edgar Allan Poe, Arthur Conan Doyle, H.G. Wells, Wilkie Collins, and many more
+- **[A Step-By-Step Introduction to Statistics for Business](2019/2019-a-step-by-step-introduction-to-statistics-for-business.md)** - Richard N. Landers
+- **[Affiliate Marketing: How to Make Money Online and Earn Passive Income](2019/2019-affiliate-marketing.md)** - Benjamin Daniel
+- **[Aladdin and His Prince Charming: The Dragon's Den](2019/2019-aladdin-and-his-prince-charming-the-dragons-den.md)** - Alex Anders
+- **[Aladdin's Jasmine](2019/2019-aladdins-jasmine.md)** - A. Anders
+- **[Alice's Adventures in Wonderland & Through the Looking-Glass](2019/2019-alices-adventures-in-wonderland-through-the-looking-glass.md)** - Lewis Carroll
+- **[Anatomy of the Cat](2019/2019-anatomy-of-the-cat.md)** - Jacob Reighard, H. S. Jennings
+- **[Anne of Green Gables Collection](2019/2019-anne-of-green-gables-collection.md)** - Lucy Maud Montgomery
+- **[Are You in Love?](2019/2019-are-you-in-love.md)** - Line Kyed Knudsen
+- **[Artificial Intelligence in Real Estate Investing](2019/2019-artificial-intelligence-in-real-estate-investing.md)** - Abiprod
+- **[Astrobiology: The Search for Life Elsewhere in the Universe](2019/2019-astrobiology.md)** - Andrew May
+- **[B2B Sales Mentors](2019/2019-b2b-sales-mentors.md)** - Scott Ingram (Editor)
+- **[Back to the Basics: Hints on Trying to Get That Great Job](2019/2019-back-to-the-basics-hints-on-trying-to-get-that-great-job.md)** - G. S. Taylor
+- **[Backbone](2019/2019-backbone.md)** - Julia Dye, Ph.D.
+- **[Bayesian Statistics the Fun Way](2019/2019-bayesian-statistics-the-fun-way.md)** - Will Kurt
+- **[Beekeeping for Beginners: An Easy Guide for Getting Started with Beekeeping](2019/2019-beekeeping-for-beginners.md)** - Celine Walker
+- **[Brain Blunders](2019/2019-brain-blunders.md)** - Peter Hollins
+- **[Branding and Marketing Mastery](2019/2019-branding-and-marketing-mastery.md)** - Gavin Turner
+- **[Build a Better Brain](2019/2019-build-a-better-brain.md)** - Peter Hollins
+- **[Burnout: The Secret to Unlocking the Stress Cycle](2019/2019-burnout-the-secret-to-unlocking-the-stress-cycle.md)** - Emily Nagoski, Amelia Nagoski
+- **[Children of the Cave](2019/2019-children-of-the-cave.md)** - Virve Sammalkorpi
+- **[Climate Solutions](2019/2019-climate-solutions.md)** - Various experts from the European Investment Bank
+- **[2019 Common Medicinal Plants](2019/2019-common-medicinal-plants.md)** - Harshita Joshi
+- **[Communication in the Workplace](2019/2019-communication-in-the-workplace.md)** - Shirley Cole
+- **[Communication Skills Training](2019/2019-communication-skills-training.md)** - Shirley Cole
+- **[Compulsiveness to Consciousness](2019/2019-compulsiveness-to-consciousness.md)** - Sadhguru Jaggi Vasudev
+- **[Confessions of a Crypto Millionaire](2019/2019-confessions-of-a-crypto-millionaire.md)** - Dan Conway
+- **[Content Marketing: Proven Strategies to Attract an Engaged Audience Online](2019/2019-content-marketing-proven-strategies.md)** - Gavin Turner
+- **[Control Your Mind and Master Your Feelings](2019/2019-control-your-mind-and-master-your-feelings.md)** - Eric Robertson
+- **[Cosmic Impact: Understanding the Threat to Earth from Asteroids and Comets](2019/2019-cosmic-impact.md)** - Andrew May
+- **[Cryptocurrency: Blockchain and Investing Guide](2019/2019-cryptocurrency-investing-guide.md)** - Tyler Peterson
+- **[Cult of the Dead Cow](2019/2019-cult-of-the-dead-cow.md)** - Joseph Menn
+- **[Cyberpunk Fairy Tales](2019/2019-cyberpunk-fairy-tales.md)** - George Saoulidis
+- **[Cycles of Norse Mythology](2019/2019-cycles-of-norse-mythology.md)** - Glenn Searfoss
+- **[Daily Habit Makeover](2019/2019-daily-habit-makeover.md)** - Zoe McKey
+- **[Dante's Inferno](2019/2019-dantes-inferno.md)** - Dante Alighieri
+- **[Dark Matter & Dark Energy](2019/2019-dark-matter-and-dark-energy.md)** - Brian Clegg
+- **[Dark Psychology & Manipulation 2-in-1](2019/2019-dark-psychology-manipulation-2-in-1.md)** - Tony Bennis
+- **[Day Trading: 10 Best Beginners Strategies](2019/2019-day-trading-10-best-beginners-strategies.md)** - Mark Graham
+- **[Day Trading Strategies](2019/2019-day-trading-strategies.md)** - Mark Graham
+- **[Day Trading: 10 Best Beginners Strategies](2019/2019-day-trading.md)** - Mark Graham
+- **[Discipline Your Thoughts](2019/2019-discipline-your-thoughts.md)** - Steven Schuster
+- **[Dropshipping: Road to $10,000 per month of Passive Income](2019/2019-dropshipping-road-to-10000-per-month.md)** - Mark Graham
+- **[Elementary: The Periodic Table Explained](2019/2019-elementary-the-periodic-table-explained.md)** - James M. Russell
+- **[Elements of Critical Thinking](2019/2019-elements-of-critical-thinking.md)** - Albert Rutherford
+- **[Email Marketing Mastery](2019/2019-email-marketing-mastery.md)** - Eric J. Scott
+- **[Email Marketing Strategies to Capture and Engage Your Audience, While Quickly Building Authority](2019/2019-email-marketing-strategies.md)** - Eric J Scott
+- **[2019 Email Marketing: Tips and Tricks to Increase Credibility](2019/2019-email-marketing-tips-and-tricks-to-increase-credibility.md)** - Eric J. Scott
+- **[Endless Energy](2019/2019-endless-energy.md)** - Peter Hollins
+- **[Evolve Your Habits](2019/2019-evolve-your-habits.md)** - Zoe McKey
+- **[Finding Profitable Deals](2019/2019-finding-profitable-deals.md)** - Gabrielle Dahms
+- **[Finish What You Start](2019/2019-finish-what-you-start.md)** - Peter Hollins
+- **[Fodor's Essential Europe](2019/2019-fodors-essential-europe.md)** - Fodor's Travel Guides
+- **[Forex Trading: Two Round Number Strategies](2019/2019-forex-trading.md)** - Heikin Ashi Trader
+- **[Growing Business Innovation](2019/2019-growing-business-innovation.md)** - Jonathan Reuvid (Editor)
+- **[Hacking the Code of Life](2019/2019-hacking-the-code-of-life.md)** - Nessa Carey
+- **[Her Red Hood](2019/2019-her-red-hood.md)** - A. Anders
+- **[Hooligan: A Memoir](2019/2019-hooligan.md)** - Paddy Holohan with Richard Barrett
+- **[How to Analyze People Quickly](2019/2019-how-to-analyze-people-quickly.md)** - Healthy Pragmatic Solutions Inc.
+- **[How to Be a Productivity Ninja](2019/2019-how-to-be-a-productivity-ninja.md)** - Graham Allcott
+- **[How to Blog for Big Bucks](2019/2019-how-to-blog-for-big-bucks.md)** - Dale Carnegie
+- **[How to Learn Project Management Quickly!](2019/2019-how-to-learn-project-management-quickly.md)** - Andrei Besedin
+- **[How to Turn 5000 into a Million](2019/2019-how-to-turn-5000-into-a-million.md)** - Heikin Ashi Trader
+- **[2019 Hydroponics Beginners Gardening Guide](2019/2019-hydroponics-beginners-gardening-guide.md)** - Simon Hamilton
+- **[Improve Your Conversations: Think on Your Feet, Witty Banter, and Always Know What To Say with Improv Comedy Techniques](2019/2019-improve-your-conversations.md)** - Patrick King
+- **[Improve Your People Skills](2019/2019-improve-your-people-skills.md)** - Patrick King
+- **[Investing for Beginners: Swing Trading Strategies](2019/2019-investing-for-beginners-swing-trading-strategies.md)** - Victor Lucas
+- **[Islamic Banking and Finance for Beginners](2019/2019-islamic-banking-and-finance-for-beginners.md)** - Andrei Besedin
+- **[It's OK Not to Be OK](2019/2019-its-ok-not-to-be-ok.md)** - Claire Chamberlain
+- **[Keely and His Discoveries: Aerial Navigation](2019/2019-keely-and-his-discoveries-aerial-navigation.md)** - Bloomfield H. Mrs. Moore, Introduction by Jared Covington
+- **[Knowledge in a Nutshell: Astrophysics](2019/2019-knowledge-in-a-nutshell-astrophysics.md)** - Sten Odenwald
+- **[Kugel and Frijoles: Latino Jews in the United States](2019/2019-kugel-and-frijoles.md)** - Laura Limonic
+- **[Learn How to Build a Business Today](2019/2019-learn-how-to-build-a-business-today.md)** - Dale Carnegie
+- **[Learn Photoshop for Print on Demand Business](2019/2019-learn-photoshop-for-print-on-demand-business.md)** - Kenny Nicholas
+- **[Learn to Think in Systems](2019/2019-learn-to-think-in-systems.md)** - Albert Rutherford
+- **[Letters to His Son](2019/2019-letters-to-his-son.md)** - Philip Dormer Stanhope, Earl of Chesterfield
+- **[Little Women](2019/2019-little-women.md)** - Louisa May Alcott, Samantha Noonan, Joëlle Dreidemy
+- **[Management Made Simple](2019/2019-management-made-simple.md)** - Mickey Huibregtsen
+- **[Mastering Management Consultancy](2019/2019-mastering-management-consultancy.md)** - Calvert Markham
+- **[Mental Models](2019/2019-mental-models.md)** - Peter Hollins
+- **[Mind Hacking](2019/2019-mind-hacking.md)** - Jennifer Ferguson
+- **[Minimalist Budget](2019/2019-minimalist-budget.md)** - Mary Connor
+- **[Money Vision](2019/2019-money-vision.md)** - Debra Powell
+- **[My Inventions](2019/2019-my-inventions.md)** - Nikola Tesla
+- **[Neuroscience and Critical Thinking](2019/2019-neuroscience-and-critical-thinking.md)** - Albert Rutherford
+- **[New Year's Eve Fairy Tales](2019/2019-new-years-eve-fairy-tales.md)** - Hans Christian Andersen
+- **[Options Trading: 7 Golden Beginners Strategies to Start Trading Options Like a PRO!](2019/2019-options-trading-golden-strategies.md)** - Mark Graham
+- **[Penny Stocks: A Complete Beginner's Guide to Strategic Investing](2019/2019-penny-stocks.md)** - Luke Sutton
+- **[Personal Branding](2019/2019-personal-branding.md)** - Ray Welch
+- **[Productivity Plan](2019/2019-productivity-plan.md)** - Tiffany Adams
+- **[Real Estate Investing in 2019](2019/2019-real-estate-investing.md)** - Brian Ferrandino
+- **[Rebel Star: Our Quest to Solve the Great Mysteries of the Sun](2019/2019-rebel-star.md)** - Colin Stuart
+- **[Relentless Focus](2019/2019-relentless-focus.md)** - Patrick King
+- **[Rewire Your Habits](2019/2019-rewire-your-habits.md)** - Zoe McKey
+- **[Rewire Your Mind](2019/2019-rewire-your-mind.md)** - Jennifer Ferguson
+- **[Robinson Crusoe](2019/2019-robinson-crusoe.md)** - Daniel Defoe
+- **[Sands and Starlight](2019/2019-sands-and-starlight.md)** - Charlotte E. English
+- **[Self Improvement Tips For Mastering Your Life](2019/2019-self-improvement-tips-for-mastering-your-life.md)** - Justin Lierman
+- **[Shopify Dropshipping Guide](2019/2019-shopify-dropshipping-guide.md)** - Marcus Rogers
+- **[Shopify](2019/2019-shopify.md)** - Unknown
+- **[Short Fiction](2019/2019-short-fiction.md)** - Ivan Bunin
+- **[Six Impossible Things](2019/2019-six-impossible-things.md)** - John Gribbin
+- **[Smart Skills: Communications](2019/2019-smart-skills-communication.md)** - Patrick Forsyth
+- **[Smart Skills: Meetings](2019/2019-smart-skills-meetings.md)** - Patrick Forsyth
+- **[Social Media Marketing & Branding: The Micro MBA](2019/2019-social-media-marketing-branding-micro-mba.md)** - Ankit Srivastava
+- **[Social Media Marketing 2019](2019/2019-social-media-marketing.md)** - Ray Welch
+- **[Social Media Networking](2019/2019-social-media-networking.md)** - Tim Lewis
+- **[Spend Smart](2019/2019-spend-smart.md)** - Zoe McKey
+- **[Start-Up Wise](2019/2019-start-up-wise.md)** - Jonathan Reuvid
+- **[Start with the End in Mind](2019/2019-start-with-the-end-in-mind.md)** - Jamal Sahib
+- **[Stay Sexy & Don't Get Murdered](2019/2019-stay-sexy-dont-get-murdered.md)** - Karen Kilgariff, Georgia Hardstark
+- **[Stock Market Investing for Beginners](2019/2019-stock-market-investing-for-beginners.md)** - Mark Graham
+- **[Stress is a Choice](2019/2019-stress-is-a-choice.md)** - Hilbrand Bos
+- **[Successful Integrated Planning for Supply Chain](2019/2019-successful-integrated-planning-for-supply-chain.md)** - Andrei Besedin
+- **[Super Thinking: The Big Book of Mental Models](2019/2019-super-thinking-the-big-book-of-mental-models.md)** - Gabriel Weinberg, Lauren McCann
+- **[Takaful and Islamic Cooperative Finance for Beginners](2019/2019-takaful-and-islamic-cooperative-finance-for-beginners.md)** - Andrei Besedin
+- **[The Art of Consultancy](2019/2019-the-art-of-consultancy.md)** - Calvert Markham
+- **[The Art of Intentional Thinking](2019/2019-the-art-of-intentional-thinking.md)** - Peter Hollins
+- **[The Best of Jules Verne Collection](2019/2019-the-best-of-jules-verne.md)** - Jules Verne
+- **[2019 The Call of the Wild & White Fang](2019/2019-the-call-of-the-wild-white-fang.md)** - Jack London
+- **[2019 - The Complete Juvenilia of Jane Austen](2019/2019-the-complete-juvenilia-of-jane-austen.md)** - Jane Austen
+- **[The Complete Novels of Fyodor Dostoyevsky](2019/2019-the-complete-novels-of-fyodor-dostoyevsky.md)** - Fyodor Dostoyevsky
+- **[The Complete Strategy Guide to Day Trading for a Living in 2019](2019/2019-the-complete-strategy-guide-to-day-trading-for-a-living.md)** - Mark Vogel
+- **[The Complete Writings of Bhagat Singh](2019/2019-the-complete-writings-of-bhagat-singh.md)** - Bhagat Singh
+- **[The Critical Mind](2019/2019-the-critical-mind.md)** - Zoe McKey
+- **[The Critical Thinker](2019/2019-the-critical-thinker.md)** - Steven Schuster
+- **[The Dark Physics of the Universe](2019/2019-the-dark-physics-of-the-universe.md)** - Burtay Mutlu
+- **[The Eternal Night](2019/2019-the-eternal-night.md)** - Rachel Morgan
+- **[The Everafter Wish](2019/2019-the-everafter-wish.md)** - Rachel Morgan
+- **[The Father Brown Megapack](2019/2019-the-father-brown-megapack.md)** - Gilbert Keith Chesterton
+- **[The Five Modes of Leadership](2019/2019-the-five-modes-of-leadership.md)** - Stuart Wyatt
+- **[The Forsyte Saga Complete Novels](2019/2019-the-forsyte-saga.md)** - John Galsworthy
+- **[The Great Boss Mentor](2019/2019-the-great-boss-mentor.md)** - Tim L. Gardner
+- **[The Investment Handbook](2019/2019-the-investment-handbook.md)** - David Bateman, Jonathan Reuvid
+- **[The Kahlil Gibran Collection](2019/2019-the-kahlil-gibran-collection.md)** - Kahlil Gibran
+- **[The Legend of Sleepy Hollow and Other Stories](2019/2019-the-legend-of-sleepy-hollow-and-other-stories.md)** - Washington Irving
+- **[The Man Who Solved the Market](2019/2019-the-man-who-solved-the-market.md)** - Gregory Zuckerman
+- **[The Meaning of Surah An-Nahl (The Bees) from Holy Quran](2019/2019-the-meaning-of-surah-an-nahl-the-bees.md)** - Jannah Firdaus Mediapro
+- **[The Memory Thief](2019/2019-the-memory-thief.md)** - Rachel Morgan
+- **[The Miracle Morning](2019/2019-the-miracle-morning.md)** - Hal Elrod
+- **[The Money Code](2019/2019-the-money-code.md)** - Raimon Samsó
+- **[The Moonlight Masquerade](2019/2019-the-moonlight-masquerade.md)** - Rachel Morgan
+- **[The Most Powerful Manipulation Techniques](2019/2019-the-most-powerful-manipulation-techniques.md)** - Tony Bennis
+- **[The Near Witch](2019/2019-the-near-witch.md)** - V.E. Schwab
+- **[The Power of Discipline](2019/2019-the-power-of-discipline.md)** - Raimon Samsó
+- **[The Psychology of Salesmanship](2019/2019-the-psychology-of-salesmanship.md)** - William Walker Atkinson
+- **[The Science of Accelerated Learning](2019/2019-the-science-of-accelerated-learning.md)** - Peter Hollins
+- **[The Science of Being Human](2019/2019-the-science-of-being-human.md)** - Marty Jopson
+- **[The Science of Being Lucky](2019/2019-the-science-of-being-lucky.md)** - Peter Hollins
+- **[The Science of Introverts](2019/2019-the-science-of-introverts.md)** - Peter Hollins
+- **[The Science of Likability](2019/2019-the-science-of-likability.md)** - Patrick King
+- **[The Science of Powerful Focus](2019/2019-the-science-of-powerful-focus.md)** - Peter Hollins
+- **[The Science of Rapid Skill Acquisition](2019/2019-the-science-of-rapid-skill-acquisition.md)** - Peter Hollins
+- **[The Science of Self-Discipline](2019/2019-the-science-of-self-discipline.md)** - Peter Hollins
+- **[The Science of Self-Learning](2019/2019-the-science-of-self-learning.md)** - Peter Hollins
+- **[The Secret of Prosperity](2019/2019-the-secret-of-prosperity.md)** - Wallace D. Wattles, William Walker Atkinson, P.T. Barnum, Benjamin Franklin, Orison Swett Marden, James Allen, Russell Conwell, Henry Harrison Brown, Thorstein Veblen, Émile Coué, Kahlil Gibran, Marcus Aurelius, Niccolò Machiavelli, Lao Tzu
+- **[The Starlight Quest](2019/2019-the-starlight-quest.md)** - Rachel Morgan
+- **[The Systems Thinker - Analytical Skills](2019/2019-the-systems-thinker-analytical-skills.md)** - Albert Rutherford
+- **[The Systems Thinker - Dynamic Systems](2019/2019-the-systems-thinker-dynamic-systems.md)** - Albert Rutherford
+- **[The Systems Thinker](2019/2019-the-systems-thinker.md)** - Albert Rutherford
+- **[The Tale of Genji](2019/2019-the-tale-of-genji.md)** - Murasaki Shikibu
+- **[The Truffle Underground](2019/2019-the-truffle-underground.md)** - Ryan Jacobs
+- **[The Vampire Trap](2019/2019-the-vampire-trap.md)** - Rachel Morgan
+- **[Think in Systems: The Art of Strategic Planning, Effective](2019/2019-think-in-systems.md)** - Zoe McKey
+- **[Think Like a Psychologist](2019/2019-think-like-a-psychologist.md)** - Patrick King
+- **[Think Like Sherlock](2019/2019-think-like-sherlock.md)** - Peter Hollins
+- **[Thinking Remote](2019/2019-thinking-remote.md)** - Pilar Orti, Maya Middlemiss
+- **[Upskill: A 6-Step Solution to Unlock Economic Opportunity](2019/2019-upskill-a-6-step-solution.md)** - Laurent Probst & Christian Scharff
+- **[What Are Quasars?](2019/2019-what-are-quasars.md)** - Larry Slawson
+- **[Who is the Most Popular?](2019/2019-who-is-the-most-popular.md)** - Line Kyed Knudsen
+
+## 2020
+
+- **[20 Classic Fantasy Works You Should Read](2020/2020-20-classic-fantasy-works-you-should-read.md)** - George MacDonald, Lewis Carroll, L. Frank Baum, Edith Nesbit, William Morris, Ernest Bramah, William Hope Hodgson, David Lindsay, Charles Kingsley, J.M. Barrie, G.K. Chesterton, Kenneth Grahame, C.J. Cutcliffe Hyne
+- **[500 Classic Fairy Tales You Should Read](2020/2020-500-classic-fairy-tales-you-should-read.md)** - Various (including Anonymous, Margaret Arndt, Peter Christen Asbjørnsen, Jørgen Moe, Robert Nisbet Bain, James Baldwin, Charles Perrault, Oscar Wilde, and many more)
+- **[7 Short Stories That ISFPs Will Love](2020/2020-7-short-stories-that-isfp-will-love.md)** - O. Henry, Anton Chekhov, Washington Irving, Stephen Crane, Honoré de Balzac, Franz Kafka, Ryūnosuke Akutagawa
+- **[A Bond of Flame](2020/2020-a-bond-of-flame.md)** - Richard Fierce
+- **[A Quintet of Shakespeare Tragedies](2020/2020-a-quintet-of-shakespeare-tragedies.md)** - William Shakespeare
+- **[All Boys Aren't Blue](2020/2020-all-boys-arent-blue.md)** - George M. Johnson
+- **[Along the Amber Route](2020/2020-along-the-amber-route.md)** - C. J. Schüler
+- **[Artificial Intelligence: A Guide for Thinking Humans](2020/2020-artificial-intelligence-a-guide-for-thinking-humans.md)** - Melanie Mitchell
+- **[Astronomy in Your Pocket](2020/2020-astronomy-in-your-pocket.md)** - Vladimir Vladimirovich Bereznyakovsky
+- **[2020 Big Book of Best Short Stories Volume 1](2020/2020-big-book-of-best-short-stories-volume-1.md)** - Washington Irving, Oscar Wilde, Bram Stoker, H.G. Wells, Arthur Conan Doyle, Rudyard Kipling, H.P. Lovecraft, and others
+- **[Binary Trading Strategies: A Quick Guide to Profit-Making Techniques](2020/2020-binary-trading-strategies.md)** - Wayne Walker
+- **[Body Language: Body Language And Non-Verbal Communication](2020/2020-body-language.md)** - Alan Conor
+- **[Cinderella](2020/2020-cinderella.md)** - Brothers Grimm
+- **[Competing in the Age of AI](2020/2020-competing-in-the-age-of-ai.md)** - Marco Iansiti, Karim R. Lakhani
+- **[Design of a Spacecraft with Electromagnetic Fields Propulsion](2020/2020-design-of-a-spacecraft-with-electromagnetic-fields-propulsion.md)** - Anton Berhulov
+- **[Doing Agile Right](2020/2020-doing-agile-right.md)** - Darrell Rigby, Sarah Elk, Steve Berez
+- **[Forward Unstoppable: Lei Jun's Personal Account of Xiaomi's Passionate 10 Years](2020/2020-forward-unstoppable-leijuns-personal-account-of-xiaomis-passionate-10-years.md)** - Fan Haitao
+- **[Growing Marijuana and DIY Cannabis Extracts Collection](2020/2020-growing-marijuana-and-diy-cannabis-extracts-collection.md)** - Saul Silver
+- **[Growing Marijuana: Beginner's Guide to Indoor and Outdoor Cannabis Cultivation](2020/2020-growing-marijuana.md)** - Ronald Weedley, Harry Pot and Hermione Ganja
+- **[Hamilton: An American Musical](2020/2020-hamilton-an-american-musical.md)** - Lin-Manuel Miranda
+- **[How the Brain Lost Its Mind](2020/2020-how-the-brain-lost-its-mind.md)** - Allan H. Ropper, Brian David Burrell
+- **[How to Make a New Product Every Day](2020/2020-how-to-make-a-new-product-every-day.md)** - George Saoulidis
+- **[How to Think Like an Entrepreneur](2020/2020-how-to-think-like-an-entrepreneur.md)** - Daniel Smith
+- **[Jony Ive: The Genius Behind Apple's Greatest Products](2020/2020-jony-ive-the-genius-behind-apples-greatest-products.md)** - Leander Kahney
+- **[Knowledge in a Nutshell: Quantum Physics](2020/2020-knowledge-in-a-nutshell-quantum-physics.md)** - Sten Odenwald
+- **[Ladies Who Punch](2020/2020-ladies-who-punch.md)** - Yasmin Alibhai-Brown
+- **[Lost in Thought: The Hidden Pleasures of an Intellectual Life](2020/2020-lost-in-the-hidden-pleasures-of-an-intellectual-life.md)** - Zena Hitz
+- **[2020 Masters of Prose Franz Kafka](2020/2020-masters-of-prose-franz-kafka.md)** - Franz Kafka, August Nemo (Editor)
+- **[Mediocre](2020/2020-mediocre.md)** - Ijeoma Oluo
+- **[Neuro-Learning: Principles from the Science of Learning on Information Synthesis, Comprehension, Retention, and Breaking Down Complex Subjects](2020/2020-neuro-learning.md)** - Peter Hollins
+- **[No Filter: The Inside Story of Instagram](2020/2020-no-filter-the-inside-story-of-instagram.md)** - Sarah Frier
+- **[Norse Mythology: Tales from the Eddas and Sagas](2020/2020-norse-mythology.md)** - Various traditional authors
+- **[Options Trading for Beginners](2020/2020-options-trading-for-beginners.md)** - Joseph Williams
+- **[Origins of the Universe: The Cosmic Microwave Background and the Search for Quantum Gravity](2020/2020-origins-of-the-universe.md)** - Keith Cooper
+- **[Outbreaks and Epidemics: A Mental Health Perspective](2020/2020-outbreaks-and-epidemics.md)** - Meera Senthilingam
+- **[Painless Mental Math](2020/2020-painless-mental-math.md)** - Peter Hollins
+- **[Procrastination Cure](2020/2020-procrastination-cure.md)** - Tiffany Adams
+- **[Quantum Theory of Gravitation](2020/2020-quantum-theory-of-gravitation.md)** - Ustin Chashchikhin
+- **[Rapunzel](2020/2020-rapunzel.md)** - Brothers Grimm
+- **[Read People Like a Book: How to Analyze, Understand, and Predict People's Emotions, Thoughts, Intentions, and Behaviors](2020/2020-read-people-like-a-book.md)** - Patrick King
+- **[Realising the Power of You](2020/2020-realising-the-power-of-you.md)** - Ted CBT
+- **[Retail Arbitrage: Complete Guide to Making Money Online](2020/2020-retail-arbitrage.md)** - Mark Graham
+- **[Seven Short Stories That INFJ Will Love](2020/2020-seven-short-stories-that-infj-will-love.md)** - Ralph Waldo Emerson, Plato, Nathaniel Hawthorne, Kate Chopin, Marcus Aurelius, Virginia Woolf, H.P. Lovecraft
+- **[Seven Short Stories That INTJs Will Love](2020/2020-seven-short-stories-that-intjs-will-love.md)** - Nathaniel Hawthorne, O. Henry, Marcus Aurelius, Arthur Conan Doyle, Honoré de Balzac, Herman Melville, Oscar Wilde
+- **[Seven Short Stories That INTP Will Love](2020/2020-seven-short-stories-that-intp-will-love.md)** - Saki, Marcus Aurelius, Arthur Conan Doyle, H.P. Lovecraft, Ralph Waldo Emerson, James Joyce, Katherine Mansfield
+- **[Statistics for Data Science and Analytics](2020/2020-statistics-for-data-science-and-analytics.md)** - Peter C. Bruce, Peter Gedeck
+- **[Summertide](2020/2020-summertide.md)** - Charlotte E. English
+- **[Take Rapid Action](2020/2020-take-rapid-action.md)** - Patrick King
+- **[Tales About Truth](2020/2020-tales-about-truth.md)** - Hans Christian Andersen
+- **[The 1-Page Budgeting Plan](2020/2020-the-1-page-budgeting-plan.md)** - Zoe McKey
+- **[The 10 Deadliest and Most Dangerous Viruses in the World](2020/2020-the-10-deadliest-and-most-dangerous-viruses-in-the-world.md)** - Larry Slawson
+- **[The Adventure Collection: 5 Literary Masterpieces](2020/2020-the-adventure-collection.md)** - Robert Louis Stevenson, Rudyard Kipling, Jonathan Swift, Jack London, Howard Pyle
+- **[The Adventure of Shoscombe Old Place](2020/2020-the-adventure-of-shoscombe-old-place.md)** - Arthur Conan Doyle
+- **[The Art of Thinking Critically](2020/2020-the-art-of-thinking-critically.md)** - Albert Rutherford
+- **[The Art of Witty Banter: Be Clever, Quick, & Magnetic](2020/2020-the-art-of-witty-banter.md)** - Patrick King
+- **[The Best Short Stories of Fyodor Dostoevsky](2020/2020-the-best-short-stories-of-fyodor-dostoevsky.md)** - Fyodor Dostoevsky
+- **[The Best Works of Franz Kafka](2020/2020-the-best-works-of-franz-kafka.md)** - Franz Kafka
+- **[The Blindspots Between Us](2020/2020-the-blindspots-between-us.md)** - Gleb Tsipursky
+- **[The Boscombe Valley Mystery](2020/2020-the-boscombe-valley-mystery.md)** - Arthur Conan Doyle
+- **[The Complete Little Women Collection](2020/2020-the-complete-little-women-collection.md)** - Louisa May Alcott
+- **[The Happiest Man on Earth](2020/2020-the-happiest-man-on-earth.md)** - Eddie Jaku
+- **[The Incredible 5-Point Scale: Assisting Students in Understanding Social Interactions and Controlling Their Emotional Responses](2020/2020-the-incredible-5-point-scale.md)** - Kari Dunn Buron, Mitzi Curtis
+- **[The Little Book of Motivation](2020/2020-the-little-book-of-motivation.md)** - Seren James
+- **[The Lonely Century](2020/2020-the-lonely-century.md)** - Noreena Hertz
+- **[The Millionaire Mindset](2020/2020-the-millionaire-mindset.md)** - Chris Ortega
+- **[The Night Before Christmas](2020/2020-the-night-before-christmas.md)** - Clement C. Moore
+- **[The Offshore Pirate](2020/2020-the-offshore-pirate.md)** - F. Scott Fitzgerald
+- **[The Old Oak Tree's Last Dream](2020/2020-the-old-oak-trees-last-dream.md)** - Hans Christian Andersen
+- **[The Other Side of the Wall](2020/2020-the-other-side-of-the-wall.md)** - Munther Isaac
+- **[The Pragmatist's Guide to Relationships](2020/2020-the-pragmatists-guide-to-relationships.md)** - Malcolm Collins, Simone Collins
+- **[The Pragmatist's Guide to Sexuality](2020/2020-the-pragmatists-guide-to-sexuality.md)** - Malcolm Collins, Simone Collins
+- **[The Radio-Active Substances](2020/2020-the-radio-active-substances.md)** - Marie Curie
+- **[The Smart Business Man Collection: Millionaire Mindset and Body Language](2020/2020-the-smart-business-man-collection-millionaire-mindset-and-body-language.md)** - Alan Conor
+- **[The Systems Thinker: Mental Models](2020/2020-the-systems-thinker-mental-models.md)** - Albert Rutherford
+- **[The Tinder Box](2020/2020-the-tinder-box.md)** - Hans Christian Andersen
+- **[The Unfair Advantage](2020/2020-the-unfair-advantage.md)** - Ash Ali, Hasan Kubba
+- **[The Warrior's Call](2020/2020-the-warriors-call.md)** - Richard Fierce
+- **[Think in Models](2020/2020-think-in-models.md)** - Nick Trenton
+- **[Three Books to Know: Capitalism](2020/2020-three-books-to-know-capitalism.md)** - Adam Smith, Max Weber, Elizabeth Gaskell
+- **[Trading with the Weekly High and Low](2020/2020-trading-weekly-high-low.md)** - Heikin Ashi Trader
+- **[Two Strategies with Weekly Pivots](2020/2020-two-strategies-with-weekly-pivots.md)** - Heikin Ashi Trader
+- **[Why the Germans Do It Better](2020/2020-why-the-germans-do-it-better.md)** - John Kampfner
+- **[Wuthering Heights](2020/2020-wuthering-heights.md)** - Emily Brontë
+
+## 2021
+
+- **[A Brief History of Earth](2021/2021-a-brief-history-of-earth.md)** - Andrew H. Knoll
+- **[A Guide to Stoicism](2021/2021-a-guide-to-stoicism.md)** - St. George Stock
+- **[Advanced Ways to Save Money & Live Frugally: Save Money Each Month for Retirement, Vacation & a Rainy Day](2021/2021-advanced-ways-to-save-money-live-frugally.md)** - Laura Bandito
+- **[AI 2041: Ten Visions for Our Future](2021/2021-ai-2041-ten-visions-for-our-future.md)** - Kai-Fu Lee, Chen Qiufan
+- **[All the Murmuring Bones](2021/2021-all-the-murmuring-bones.md)** - A.G. Slatter
+- **[An Introduction to Yoga](2021/2021-an-introduction-to-yoga.md)** - Annie Besant
+- **[An Ugly Truth](2021/2021-an-ugly-truth.md)** - Sheera Frenkel, Cecilia Kang
+- **[Artificial Intelligence for Managers](2021/2021-artificial-intelligence-for-managers.md)** - Malay A. Upadhyay
+- **[Artificial Intelligence: From Beginning To Date](2021/2021-artificial-intelligence-from-beginning-to-date.md)** - Cai Zixing, Liu Lijue, Chen Baifan, Wang Yong
+- **[Atlas of the Heart](2021/2021-atlas-of-the-heart.md)** - Brené Brown
+- **[Babka, Boulou & Blintzes](2021/2021-babka-boulou-blintzes.md)** - Michael Leventhal
+- **[Betty Baird's Ventures](2021/2021-betty-bairds-ventures.md)** - Anna Hamlin Weikel
+- **[Bitcoin For Profit](2021/2021-bitcoin-for-profit.md)** - Peter Blood
+- **[Brain Hacks](2021/2021-brain-hacks.md)** - Keith Barry
+- **[Courage Is Calling](2021/2021-courage-is-calling.md)** - Ryan Holiday
+- **[Dragon Riders of Osnen](2021/2021-dragon-riders-of-osnen.md)** - Richard Fierce
+- **[Economics for Beginners](2021/2021-economics-for-beginners.md)** - Giovanni Rigters
+- **[Egg of the Dragon](2021/2021-egg-of-the-dragon.md)** - Richard Fierce
+- **[Elements Applications of Artificial Intelligence in Transport and Logistics](2021/2021-elements-applications-of-artificial-intelligence-in-transport-and-logistics.md)** - Dmitry Abramov, Alexander Korpukov, Vadim Shmal, Pavel Minakov
+- **[Enemy Lover](2021/2021-enemy-lover.md)** - Pamela Kent (Ida Pollock)
+- **[Force and Energy; A Theory of Dynamics](2021/2021-force-and-energy-a-theory-of-dynamics.md)** - Grant Allen
+- **[Fundamentals of Software Engineering](2021/2021-fundamentals-of-software-engineering.md)** - Hitesh Mohapatra, Amiya Kumar Rath
+- **[Harmonic Resonance: You Create Your Own Reality](2021/2021-harmonic-resonance-you-create-your-own-reality.md)** - Hélio Couto
+- **[How to Be a Sitcom Writer](2021/2021-how-to-be-a-sitcom-writer.md)** - Marc Blake
+- **[How to Find Yourself](2021/2021-how-to-find-yourself.md)** - Nick Trenton
+- **[How to Listen, Hear, and Validate](2021/2021-how-to-listen-hear-and-validate.md)** - Patrick King
+- **[How to Think Critically](2021/2021-how-to-think-critically.md)** - Albert Rutherford
+- **[Huntsmen And Hoods](2021/2021-huntsmen-and-hoods.md)** - Laura Greenwood
+- **[Introduction to Digital Marketing 101](2021/2021-introduction-to-digital-marketing.md)** - Cecilia Figueroa
+- **[2021 Investing in Cryptocurrency](2021/2021-investing-in-cryptocurrency.md)** - Dmitriy Olegovich Arsentev
+- **[ITIL 2011: The Story Continues](2021/2021-itil-2011-the-story-continues.md)** - Dr. Pratul Sharma
+- **[Keyboard Ramblings](2021/2021-keyboard-ramblings.md)** - Ken Vingerhoets
+- **[Lamps and Lies](2021/2021-lamps-and-lies.md)** - Laura Greenwood
+- **[Leadership Without Mind Games](2021/2021-leadership-without-mind-games.md)** - Frank Hagenow
+- **[2021-Leading People in Change](2021/2021-leading-people-in-change.md)** - Jennifer Bryan
+- **[Learn About Space and Planets](2021/2021-learn-about-space-and-planets.md)** - Susan Akass, Dr. Jacob Kegerreis (Consultant Editor)
+- **[Life and Science: The Speed of Light, World Broadcast, Time Machine, Morphogenetic Fields, Replication of Objects, Unsupported Movement](2021/2021-life-and-science-the-speed-of-light-world-broadcast-time-machine-morphogenetic-fields-replication-of-objects-unsupported-movement.md)** - Rem Word
+- **[Moby-Dick: The Complete Reader's Guide](2021/2021-moby-dick-reader.md)** - Herman Melville
+- **[Money Management for Beginners and Dummies](2021/2021-money-management-for-beginners-and-dummies.md)** - Giovanni Rigters
+- **[Personal Development for Beginners & Dummies](2021/2021-personal-development-for-beginners-dummies.md)** - Giovanni Rigters
+- **[Planet Ocean](2021/2021-planet-ocean.md)** - Michel Odent
+- **[Poems Without Poets: Approaches to Anonymous Ancient Poetry](2021/2021-poems-without-poets.md)** - Boris Kayachev (Editor), Alexander E. W. Hall, Jane Lightfoot, Robert Maltby, T. E. Franklinos, Michael Tueller, Hannah Čulík-Baird, Patrick Finglass, Mikhail Shumilin, Stephen Heyworth, Matthew Hosty, Richard Hunter
+- **[Polish Police Officers](2021/2021-polish-police-officers.md)** - Dorota Kowalska
+- **[Press Reset](2021/2021-press-reset.md)** - Jason Schreier
+- **[Project Manager Productivity Hacks](2021/2021-project-manager-productivity-hacks.md)** - Nigel Creaser
+- **[Prosperity: How Health Affects Wealth and Happiness](2021/2021-prosperity-how-health-affects-wealth-and-happiness.md)** - Robin Sacredfire
+- **[Quantum Computing: The Transformative Technology of the Qubit Revolution](2021/2021-quantum-computing.md)** - Brian Clegg
+- **[Queen Of The Two Lands](2021/2021-queen-of-the-two-lands.md)** - Laura Greenwood
+- **[Rebuilding Milo](2021/2021-rebuilding-milo.md)** - Dr. Aaron Horschig, Dr. Kevin Sonthana
+- **[Since I Stopped Drinking](2021/2021-since-i-stopped-drinking.md)** - Evi Hanssen
+- **[Starting A Business For Beginners & Dummies](2021/2021-starting-a-business-for-beginners-dummies.md)** - Giovanni Rigters
+- **[Stop Overthinking](2021/2021-stop-overthinking.md)** - Nick Trenton
+- **[Super Learning](2021/2021-super-learning.md)** - Peter Hollins
+- **[Ten Days in Physics That Shook the World](2021/2021-ten-days-in-physics-that-shook-the-world.md)** - Brian Clegg
+- **[The Age of AI](2021/2021-the-age-of-ai.md)** - Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher
+- **[The Book Every Leader Needs to Read](2021/2021-the-book-every-leader-needs-to-read.md)** - Colin Iles, Warren Moss, Travis Gale, Thabang Skwambane, Adriaan Groenewald, Deshun Bester, Nyimpini Mabunda, Alistair King, Roze Phillips, Dov Girnun, Jonathan Ayache, Enver Groenewald, Jason Levin, Ian Russell, Lwando Xaso, Adama Sanneh, Richard Mulholland, Veli Ngubane, Dr Alistair Mokoena, Jeanette Marais, Bonang Mohale, Abdullah Verachia, Erik Kruger
+- **[The Code Breaker](2021/2021-the-code-breaker.md)** - Walter Isaacson
+- **[The Dawn of Everything](2021/2021-the-dawn-of-everything.md)** - David Graeber, David Wengrow
+- **[The Enchanted Horse](2021/2021-the-enchanted-horse.md)** - Anonymous
+- **[The Essential Works of Nikola Tesla](2021/2021-the-essential-works-of-nikola-tesla.md)** - Nikola Tesla
+- **[The Extraordinary Adventures of Arsène Lupin](2021/2021-the-extraordinary-adventures-of-arsene-lupin.md)** - Maurice Leblanc
+- **[The Get Things Done Book](2021/2021-the-get-things-done-book.md)** - Mikael Krogerus, Roman Tschäppeler
+- **[The Greatest Classics of Ancient Greece](2021/2021-the-greatest-classics-of-ancient-greece.md)** - Homer, Hesiod, Archilochus, Alcaeus, Sappho, Anacreon, Theognis of Megara, Simonides of Ceos, Bacchylides, Pindar, Aeschylus, Sophocles, Euripides, Aristophanes, Herodotus, Thucydides, Plato, Aristotle, Lysias, Demosthenes, Apollonius, Callimachus, Theocritus, Plutarch, Epictetus, Gilbert Murray
+- **[The History of Chemistry](2021/2021-the-history-of-chemistry.md)** - Thomas Thomson
+- **[The Iliad and the Odyssey](2021/2021-the-iliad-and-odyssey.md)** - Homer, Gilbert Murray (Editor)
+- **[The Independent Thinker](2021/2021-the-independent-thinker.md)** - Patrick King
+- **[The Lesser Key of Solomon](2021/2021-the-lesser-key-of-solomon.md)** - Aleister Crowley, S.L. MacGregor Mathers
+- **[The New Investing Matrix](2021/2021-the-new-investing-matrix.md)** - Wayne Walker
+- **[The Origin of Species (Illustrated)](2021/2021-the-origin-of-species-illustrated.md)** - Charles Darwin
+- **[The Painkiller Empire](2021/2021-the-painkiller-empire.md)** - Patrick Radden Keefe
+- **[The Premonition: A Pandemic Story](2021/2021-the-premonition-a-pandemic-story.md)** - Michael Lewis
+- **[The Self-Love Habit](2021/2021-the-self-love-habit.md)** - Fiona Brennan
+- **[The Story of Achilles](2021/2021-the-story-of-achilles.md)** - Carl Friedrich Becker
+- **[The Story of Ali Cogia, Merchant of Bagdad](2021/2021-the-story-of-ali-cogia-merchant-of-bagdad.md)** - From One Thousand and One Nights, Translated by Andrew Lang
+- **[The Story of Two Sisters Who Were Jealous of Their Younger Sister](2021/2021-the-story-of-two-sisters-who-were-jealous-of-their-younger-sister.md)** - Andrew Lang (Translator)
+- **[The Tale of the Tailor and the Three Dead Kings](2021/2021-the-tale-of-the-tailor-and-the-three-dead-kings.md)** - Dan Jones
+- **[The Unnatural Selection of Our Species](2021/2021-the-unnatural-selection-of-our-species.md)** - Torill Kornfeldt
+- **[The Witch's Heart](2021/2021-the-witchs-heart.md)** - Genevieve Gornichec
+- **[Think Like a Scientist](2021/2021-think-like-a-scientist.md)** - Arcturus Publishing
+- **[Think Like a Street Photographer](2021/2021-think-like-a-street-photographer.md)** - Matt Stuart
+- **[Tools of Systems Thinkers](2021/2021-tools-of-systems-thinkers.md)** - Albert Rutherford
+- **[Tower Of Thorns](2021/2021-tower-of-thorns.md)** - Laura Greenwood
+- **[Training Essentials For Ultrarunning](2021/2021-training-essentials-for-ultrarunning.md)** - Jason Koop, Jim Rutberg, Corrine Malcolm
+- **[Transforming Your Money Mindset](2021/2021-transforming-your-money-mindset.md)** - Kelly Wallace
+- **[Unsettled](2021/2021-unsettled.md)** - Steven E. Koonin
+- **[What Happened to You](2021/2021-what-happened-to-you.md)** - Oprah Winfrey, Bruce D. Perry
+- **[White Fang](2021/2021-white-fang.md)** - Jack London
+- **[Why They Stay](2021/2021-why-they-stay.md)** - Anne Michaud
+- **[Witherward](2021/2021-witherward.md)** - Hannah Mathewson
+- **[You Don't Owe Anyone](2021/2021-you-dont-owe-anyone.md)** - Caroline Garnet McGraw
+
+## 2022
+
+- **[A Haunted History of Invisible Women](2022/2022-a-haunted-history-of-invisible-women.md)** - Leanna Renee Hieber, Andrea Janes
+- **[A Road to Prosperity - Ultimate Collection](2022/2022-a-road-to-prosperity-ultimate-collection.md)** - Wallace D. Wattles, William Walker Atkinson, P.T. Barnum, Benjamin Franklin, Orison Swett Marden, James Allen, Russell Conwell, Henry Harrison Brown, Thorstein Veblen, Émile Coué, Kahlil Gibran, Marcus Aurelius, Niccolò Machiavelli, Lao Tzu, B.F. Austin, Charles F. Haanel, Robert Collier, Elbert Hubbard, William Crosbie Hunter, Harry A. Lewis, Florence Scovel Shinn
+- **[Adobe Photoshop Lightroom Classic Classroom in a Book (2022 release)](2022/2022-adobe-photoshop-lightroom-classroom-in-a-book.md)** - Rafael Concepcion, Jan Kabili
+- **[The Aleister Crowley Premium Collection](2022/2022-aleister-crowley-premium-collection.md)** - Aleister Crowley, S. L. MacGregor Mathers, Mary d'Este Sturges
+- **[And There Was Light: Abraham Lincoln and the American Struggle](2022/2022-and-there-was-light-abraham-lincoln-and-the-american-struggle.md)** - Jon Meacham
+- **[Banner Ad Bomb](2022/2022-banner-ad-bomb.md)** - Unknown
+- **[Being Matt Murdock: One Fan's Journey Into the Science of Daredevil](2022/2022-being-matt-murdock.md)** - Christine Hanefalk
+- **[Bite Me](2022/2022-bite-me.md)** - Femke Buwalda
+- **[Commercial Real Estate Investing for Beginners](2022/2022-commercial-real-estate-investing-for-beginners.md)** - Mark Nelson
+- **[Cybersecurity for Artificial Intelligence](2022/2022-cybersecurity-for-artificial-intelligence.md)** - Mark Stamp, Corrado Aaron Visaggio, Francesco Mercaldo, Fabio Di Troia
+- **[Dopamine Slaves: Finding Balance in an Age of Abundance](2022/2022-dopamine-slaves-finding-balance-in-an-age-of-abundance.md)** - Anna Lembke
+- **[Eating in the Age of Dieting](2022/2022-eating-in-the-age-of-dieting.md)** - Rujuta Diwekar
+- **[Elon Musk: Risking It All](2022/2022-elon-musk-risking-it-all.md)** - Michael Vlismas
+- **[Fantastic Numbers and Where to Find Them](2022/2022-fantastic-numbers-and-where-to-find-them.md)** - Antonio Padilla
+- **[Fierce Love](2022/2022-fierce-love.md)** - Susan Scott
+- **[Fodder & Drink](2022/2022-fodder-drink.md)** - Emma Kay
+- **[For Ukraine](2022/2022-for-ukraine.md)** - Volodymyr Zelensky
+- **[Fungi: Their Nature and Uses](2022/2022-fungi-their-nature-and-uses.md)** - M. C. Cooke
+- **[How to Negotiate to Win Everytime](2022/2022-how-to-negotiate-to-win-everytime.md)** - Irina Bristow
+- **[How to Say No](2022/2022-how-to-say-no.md)** - Willian Campbell
+- **[How to Talk to Anyone](2022/2022-how-to-talk-to-anyone.md)** - Patrick King
+- **[How to Write Highly Effective Ads](2022/2022-how-to-write-highly-effective-ads.md)** - Unknown Author
+- **[Identifying Business Opportunities](2022/2022-identifying-business-opportunities.md)** - Unknown
+- **[Impossible, Possible and Improbable](2022/2022-impossible-possible-and-improbable.md)** - John Gribbin
+- **[Improve Your People Skills](2022/2022-improve-your-people-skills.md)** - Patrick King
+- **[India's Experiment With Democracy](2022/2022-indias-experiment-with-democracy.md)** - S.Y. Quraishi
+- **[Investing for Beginners 2025](2022/2022-investing-for-beginners.md)** - Greg Marty
+- **[Localization in Clinical Neurology](2022/2022-localization-in-clinical-neurology.md)** - Paul W. Brazis, Joseph C. Masdeu, José Biller
+- **[Make Art or Die Trying](2022/2022-make-art-or-die-trying.md)** - Stuart Semple
+- **[Mathematical Modeling of Biofuel Synthesis and Storage](2022/2022-mathematical-modeling-of-biofuel-synthesis-and-storage.md)** - Karina Benassi Angilelli, Ana Carolina Gomes Mantovani, Letícia Thaís Chendynski
+- **[Never Search Alone: The Job Seeker's Playbook](2022/2022-never-search-alone.md)** - Phyl Terry
+- **[No Dice: Gambling and Risk in Modern Culture](2022/2022-no-dice.md)** - Nathan Charles
+- **[Nuclear Fusion: The Quest to Harness the Power of the Stars](2022/2022-nuclear-fusion-the-quest-to-harness-the-power-of-the-stars.md)** - Sharon Ann Holgate
+- **[On Light and Other High-Frequency Phenomena](2022/2022-on-light-and-other-high-frequency-phenomena.md)** - Nikola Tesla
+- **[On the Open Sea](2022/2022-on-the-open-sea.md)** - Danilo Zagaria
+- **[Past Life Regression and Reincarnation: A Practical Guide](2022/2022-past-life-regression-reincarnation.md)** - Unknown
+- **[Paul and the Meaning of Scripture](2022/2022-paul-and-the-meaning-of-scripture.md)** - Matthew L. Halsted
+- **[Power and Prediction](2022/2022-power-and-prediction.md)** - Ajay Agrawal, Joshua Gans, Avi Goldfarb
+- **[Princess of Petals](2022/2022-princess-of-petals.md)** - Laura Greenwood
+- **[Sacred Nature](2022/2022-sacred-nature.md)** - Nicola Laneri, Anna Perdibon
+- **[Smelling to Survive: The Amazing World of Our Sense of Smell](2022/2022-smelling-to-survive.md)** - Bill S. Hansson
+- **[Spies, Lies, and Algorithms](2022/2022-spies-lies-and-algorithms.md)** - Amy B. Zegart
+- **[Starry Messenger](2022/2022-starry-messenger.md)** - Neil deGrasse Tyson
+- **[Sustainable & Responsible Investing 360°](2022/2022-sustainable-responsible-investing-360.md)** - R. Scott Arnell
+- **[The Arabian Nights: Their Best-Known Tales](2022/2022-the-arabian-nights-their-best-known-tales.md)** - Multiple (Traditional Arabic/Persian folklore)
+- **[The Art of Self-Therapy](2022/2022-the-art-of-self-therapy.md)** - Nick Trenton
+- **[The Art of Statistical Thinking](2022/2022-the-art-of-statistical-thinking.md)** - Albert Rutherford and Jae H. Kim, PhD
+- **[The Bus from Mostar](2022/2022-the-bus-from-mostar.md)** - GerBen van 't Hek, Rens Lieman
+- **[The Collection Arsène Lupin](2022/2022-the-collection-arsene-lupin.md)** - Maurice Leblanc
+- **[The Definitive Guide to NFT Investing](2022/2022-the-definitive-guide-to-nft-investing.md)** - Wayne Walker
+- **[The Dog and His Owner: How the Wolf Tamed Itself and Us](2022/2022-the-dog-and-his-owner-how-the-wolf-tamed-itself-and-us.md)** - Josef Reichholf
+- **[The Enchanted Collection: 5 Timeless Classics in One Volume](2022/2022-the-enchanted-collection.md)** - Frances Hodgson Burnett, Louisa May Alcott, Anna Sewell, Lewis Carroll, Kenneth Grahame
+- **[The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon Valley](2022/2022-the-founders.md)** - Jimmy Soni
+- **[The Light We Carry](2022/2022-the-light-we-carry.md)** - Michelle Obama
+- **[The Myth of Normal](2022/2022-the-myth-of-normal.md)** - Gabor Maté, MD, Daniel Maté
+- **[The Poems of Sappho: An Interpretative Rendition into English](2022/2022-the-poems-of-sappho-an-interpretative-rendition-into-english.md)** - Sappho
+- **[The Pragmatist's Guide to Crafting Religion](2022/2022-the-pragmatists-guide-to-crafting-religion.md)** - Simone Collins, Malcolm Collins
+- **[The Price of Time](2022/2022-the-price-of-time.md)** - Edward Chancellor
+- **[The Principles of Leather Manufacture](2022/2022-the-principles-of-leather-manufacture.md)** - H. R. Procter
+- **[The Private Life of Helen of Troy](2022/2022-the-private-life-of-helen-of-troy.md)** - John Erskine
+- **[The Ransomware Hunting Team](2022/2022-the-ransomware-hunting-team.md)** - Renee Dudley, Daniel Golden
+- **[The Scan](2022/2022-the-scan.md)** - Marko van der Beek
+- **[The Song of the Cell](2022/2022-the-song-of-the-cell.md)** - Siddhartha Mukherjee
+- **[The Story of Neuroscience](2022/2022-the-story-of-neuroscience.md)** - Anne Rooney
+- **[The Surprising Enchantress](2022/2022-the-surprising-enchantress.md)** - Kathy L Wheeler
+- **[The Time After Oblivion](2022/2022-the-time-after-oblivion.md)** - Jonny Capps
+- **[The Top 10 Deadliest Dinosaurs](2022/2022-the-top-10-deadliest-dinosaurs.md)** - Larry Slawson
+- **[The Trump Tapes](2022/2022-the-trump-tapes.md)** - Bob Woodward
+- **[The Unlikely Heroine](2022/2022-the-unlikely-heroine.md)** - Kathy L Wheeler
+- **[The Watchers](2022/2022-the-watchers.md)** - A.M. Shine
+- **[Vitreous Microsurgery](2022/2022-vitreous-microsurgery.md)** - Steve Charles, MD, Stephen Huddleston, MD
+- **[War Virtually: The Quest to Automate Conflict, Militarize Data, and Predict the Future](2022/2022-war-virtually-the-quest-to-automate-conflict-militarize-data-and-predict-the-future.md)** - Roberto J. González
+- **[What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions](2022/2022-what-if-2.md)** - Randall Munroe
+- **[White Allies Matter](2022/2022-white-allies-matter.md)** - Vanisha Parmar, Aseia Rafique
+- **[Whole Numbers and Half Truths: What Data Can and Cannot Tell Us About Modern India](2022/2022-whole-numbers-and-half-truths-what-data-can-and-cannot-tell-us-about-modern-india.md)** - Rukmini S.
+- **[Wisdom from a Humble Jellyfish](2022/2022-wisdom-from-a-humble-jellyfish.md)** - Rani Shah
+- **[You Are Not Expected to Understand This](2022/2022-you-are-not-expected-to-understand-this.md)** - Torie Bosch, Kelly Chudler
+- **[Your Brain Is Playing Tricks on You](2022/2022-your-brain-is-playing-tricks-on-you.md)** - Albert Moukheiber
+
+## 2023
+
+- **[50 Masterpieces You Have to Read Before You Die (Vol 1)](2023/2023-50-masterpieces-you-have-to-read-before-you-die-vol-1.md)** - Various Classic Authors
+- **[A Damn Good Business](2023/2023-a-damn-good-business.md)** - Ben Steenstra, Nicci Severens
+- **[A Hacker's Mind](2023/2023-a-hackers-mind.md)** - Bruce Schneier
+- **[A Sourcebook in Classical Confucian Philosophy](2023/2023-a-sourcebook-in-classical-confucian-philosophy.md)** - Roger T. Ames (Editor)
+- **[AI & Data Literacy: Empowering Citizens of Data Science](2023/2023-ai-data-literacy.md)** - Bill Schmarzo
+- **[2023 Amazon Payday Secrets](2023/2023-amazon-payday-secrets.md)** - Jeff Walker
+- **[Biomimetics: Better by Nature](2023/2023-biomimetics.md)** - Brian Clegg
+- **[Breaking the Heart Open](2023/2023-breaking-the-heart-open.md)** - Tony Bates
+- **[Building a Career in Cybersecurity: The Strategy and Skills You Need to Succeed](2023/2023-building-a-career-in-cybersecurity.md)** - Yuri Diogenes
+- **[Business Management for Beginners & Dummies](2023/2023-business-management-for-beginners-dummies.md)** - Giovanni Rigters
+- **[Charisma](2023/2023-charisma.md)** - Eric Holt
+- **[ChatGPT for Beginners](2023/2023-chatgpt-for-beginners.md)** - Matthew Hayes
+- **[Consciousness: A Materialist Guide to the Mind](2023/2023-consciousness-a-materialist-guide-to-the-mind.md)** - John Parrington
+- **[Courtiers: Intrigue, Ambition, and the Power Players Behind the House of Windsor](2023/2023-courtiers-intrigue-ambition-and-the-power-players-behind-the-house-of-windsor.md)** - Valentine Low
+- **[Crypto Trading for Beginners](2023/2023-crypto-trading-for-beginners.md)** - Stephen Benjamin
+- **[Data-Driven AI Architectures](2023/2023-data-driven-ai-architectures.md)** - Steve Abrams
+- **[Day Trading & Options Trading](2023/2023-day-trading-options-trading.md)** - Samuel Feron
+- **[Decoded Money](2023/2023-decoded-money.md)** - Brijesh Parikh & Planetwealth
+- **[Develop Your Financial IQ](2023/2023-develop-your-financial-iq.md)** - Unknown
+- **[Dinner with the President](2023/2023-dinner-with-the-president.md)** - Alex Prud'homme
+- **[Edge Intelligence](2023/2023-edge-intelligence.md)** - Shajulin Benedict
+- **[Entrepreneurship for Life](2023/2023-entrepreneurship-for-life.md)** - Giovanni Rigters
+- **[Ethics in Psychology](2023/2023-ethics-in-psychology.md)** - Connor Whiteley
+- **[Flourish: Finding Purpose in the Unknown](2023/2023-flourish.md)** - Grace Wabuke Klein
+- **[Generations](2023/2023-generations.md)** - Jean M. Twenge, PhD
+- **[Gianni Rodari: Life, Utopia, and Activism of a Rebel Teacher](2023/2023-gianni-rodari-life-utopia-and-activism-of-a-rebel-teacher.md)** - Lorenzo Iervolino
+- **[Gods, Heroes and Monsters: A Global Journey Through Mythology](2023/2023-gods-heroes-and-monsters.md)** - Unknown (Edited collection)
+- **[Habits & Growth Mindset](2023/2023-habits-growth-mindset.md)** - Eric Holt
+- **[Hard Sayings: Understanding Difficult Passages of Scripture](2023/2023-hard-sayings-understanding-difficult-passages-of-scripture.md)** - R.C. Sproul
+- **[How (Not) to Do It All](2023/2023-how-not-to-do-it-all.md)** - Dr Emma Short
+- **[How Not to Fail at Projects](2023/2023-how-not-to-fail-at-projects.md)** - Claude H. Maley
+- **[How To Analyze People Reading Body Language](2023/2023-how-to-analyze-people-reading-body-language.md)** - Eric Holt
+- **[Human Being: A Practical Guide to Reclaiming Our Fundamental Skills in a Digital Age](2023/2023-human-being.md)** - Graham Lee
+- **[Human Origins: The Complete Story](2023/2023-human-origins.md)** - Anonymous
+- **[In Defence of Liberal Education](2023/2023-in-defence-of-liberal-education.md)** - Anthony O'Hear
+- **[It's Mine](2023/2023-its-mine.md)** - Steven Boykey Sidley
+- **[The Millionaire Mindset & Passive Income Guide](2023/2023-millionaire-mindset-passive-income.md)** - Samuel Feron
+- **[Millionaire Mindset](2023/2023-millionaire-mindset.md)** - Samuel Feron
+- **[Mind Magic](2023/2023-mind-magic.md)** - Keith Barry, Nick Sheridan
+- **[Modern Management and Leadership](2023/2023-modern-management-and-leadership.md)** - Jon Bright
+- **[My Heart Says Your Name](2023/2023-my-heart-says-your-name.md)** - Cris Lisbôa
+- **[Night Warriors](2023/2023-night-warriors.md)** - Graham Masterton
+- **[Night Wars](2023/2023-night-wars.md)** - Graham Masterton
+- **[Older, Wiser, Fiercer](2023/2023-older-wiser-fiercer.md)** - Anonymous (Michael O'Mara Books)
+- **[On the Origin of Time](2023/2023-on-the-origin-of-time.md)** - Thomas Hertog
+- **[Orthopaedic Knowledge Update: Trauma 6](2023/2023-orthopaedic-knowledge-update-trauma.md)** - William M. Ricci, MD, FAAOS, Samir Mehta, MD, FAAOS
+- **[2023 Outlive Diet Recipes](2023/2023-outlive-diet-recipes.md)** - Jesse Smith
+- **[Outlive: The Science and Art of Longevity](2023/2023-outlive-the-science-and-art-of-longevity.md)** - Peter Attia, MD
+- **[Plastics: Just a Load of Rubbish?](2023/2023-plastics-just-a-load-of-rubbish.md)** - Alicia Chrysostomou
+- **[PMP Exam Prep 2023-2024: Comprehensive Guide to Agile and Predictive Project Management](2023/2023-pmp-exam-prep-2023-2024-comprehensive-guide.md)** - PrepGenius
+- **[Polyvagal Perspectives: Interventions, Practices, and Strategies](2023/2023-polyvagal-perspectives-interventions-practices-and-strategies.md)** - Stephen W. Porges
+- **[Porn: An Oral History](2023/2023-porn-an-oral-history.md)** - Polly Barton
+- **[Quietly Hostile](2023/2023-quietly-hostile.md)** - Samantha Irby
+- **[Rama of the Axe: The Epic Saga of Parashurama](2023/2023-rama-of-the-axe-the-epic-saga-of-parashurama.md)** - Ranjith Radhakrishnan
+- **[Reclaiming the Revolution](2023/2023-reclaiming-the-revolution.md)** - Stephen Batber
+- **[Remove, Replace, Restart](2023/2023-remove-replace-restart.md)** - Christian Greiser
+- **[Rough Sleepers](2023/2023-rough-sleepers.md)** - Tracy Kidder
+- **[Salt Kiss](2023/2023-salt-kiss.md)** - Sierra Simone
+- **[Same as Ever](2023/2023-same-as-ever.md)** - Morgan Housel
+- **[2023 Secrets of Project Management Using Microsoft Project](2023/2023-secrets-of-project-management-using-microsoft-project.md)** - Andrei Besedin
+- **[Sensitive: The Hidden Power of the Highly Sensitive Person in a Loud, Fast, Too-Much World](2023/2023-sensitive-the-hidden-power-of-the-highly-sensitive-person.md)** - Jenn Granneman, Andre Sólo
+- **[Slow Seasons](2023/2023-slow-seasons.md)** - Rosie Steer
+- **[Story Design Methodology: How to Create Engaging Stories](2023/2023-story-design-methodology-how-to-create-engaging-stories.md)** - PIKOZO
+- **[Strategic Value Creation: Design and Execute a Strategy for Breakthrough Business](2023/2023-strategic-value-creation.md)** - Rupert Morrison and Jon Andrew
+- **[The Art of Letting Go](2023/2023-the-art-of-letting-go.md)** - Nick Trenton
+- **[The Bacteria and the Brain](2023/2023-the-bacteria-and-the-brain.md)** - Iris Sommer
+- **[2023-the-book-of-korean-self-care.md](2023/2023-the-book-of-korean-self-care.md)** - Isa Kujawski
+- **[The Book of Nordic Self-Care](2023/2023-the-book-of-nordic-self-care.md)** - Elisabeth Carlsson
+- **[The Brontë Sisters: The Complete Novels (Unabridged)](2023/2023-the-bronte-sisters-the-complete-novels.md)** - Charlotte Brontë, Emily Brontë, Anne Brontë
+- **[The Capitalist Manifesto](2023/2023-the-capitalist-manifesto.md)** - Johan Norberg
+- **[The Climate Book](2023/2023-the-climate-book.md)** - Greta Thunberg (Compiler)
+- **[The Complete Works of F. Scott Fitzgerald](2023/2023-the-complete-works-of-f-scott-fitzgerald.md)** - F. Scott Fitzgerald
+- **[The Dictatorship of the Minority](2023/2023-the-dictatorship-of-the-minority.md)** - Steven Levitsky & Daniel Ziblatt
+- **[The Golden Book of Radiesthesia](2023/2023-the-golden-book-of-radiesthesia.md)** - Bruno, Patrícia e Luiz
+- **[The Good Life](2023/2023-the-good-life.md)** - Robert Waldinger, Marc Schulz
+- **[The History of the Internet in Byte-Sized Chunks](2023/2023-the-history-of-the-internet-in-byte-sized-chunks.md)** - Chris Stokel-Walker
+- **[The In-Between](2023/2023-the-in-between.md)** - Hadley Vlahos R.N.
+- **[The One Thing You Need to Know](2023/2023-the-one-thing-you-need-to-know.md)** - Marcus Chown
+- **[The Only Neurology Book You'll Ever Need](2023/2023-the-only-neurology-book-youll-ever-need.md)** - Alison I. Thaler, Malcolm S. Thaler
+- **[The Origins of You](2023/2023-the-origins-of-you.md)** - Vienna Pharaon
+- **[The Politics and Poetics of Everyday Life](2023/2023-the-politics-and-poetics-of-everyday-life.md)** - Kristin Ross
+- **[The Psychology of Money](2023/2023-the-psychology-of-money.md)** - Matt Kingsley
+- **[The Seaweed Revolution](2023/2023-the-seaweed-revolution.md)** - Vincent Doumeizel
+- **[Sounds of Innate Freedom: The Indian Texts of Mahamudra, Volume 3](2023/2023-the-sounds-of-innate-freedom.md)** - Karl Brunnhölzl (translator/editor)
+- **[The Time Machine](2023/2023-the-time-machine.md)** - H.G. Wells
+- **[Think and Grow Rich](2023/2023-think-and-grow-rich.md)** - Napoleon Hill
+- **[Thornhedge](2023/2023-thornhedge.md)** - T. Kingfisher
+- **[Time of Transformation](2023/2023-time-of-transformation.md)** - Stefan Bollmann
+- **[Unscripted](2023/2023-unscripted.md)** - James B. Stewart, Rachel Abrams
+
+## 2024
+
+- **[15 Math Concepts Every Data Scientist Should Know](2024/2024-15-math-concepts-every-data-scientist-should-know.md)** - David Hoyle
+- **[A Christmas Carol in Prose: Being a Ghost Story of Christmas](2024/2024-a-christmas-carol.md)** - Charles Dickens
+- **[Academic Writing Now: A Brief Guide for Busy Students](2024/2024-academic-writing-now-a-brief-guide-for-busy-students.md)** - David Starkey
+- **[Affective Thought](2024/2024-affective-thought.md)** - Ginevra Bompiani, Sarantis Thanopulos
+- **[AI Doctor: The Rise of Artificial Intelligence in Healthcare](2024/2024-ai-doctor.md)** - Ronald M. Razmi
+- **[An Introduction to Robust Combinatorial Optimization: Concepts, Models and Algorithms for Decision Making Under Uncertainty](2024/2024-an-introduction-to-robust-combinatorial-optimization.md)** - Marc Goerigk, Michael Hartisch
+- **[Applied Psychology: Applying Psychology to Real-World Problems](2024/2024-applied-psychology.md)** - Connor Whiteley
+- **[Applying Artificial Intelligence in Cybersecurity Analytics and Cyber Threat Detection](2024/2024-applying-artificial-intelligence-in-cybersecurity-analytics-and-cyber-threat-detection.md)** - Dr. Shilpa Mahajan, Dr. Mehak Khurana, Dr. Vania Vieira Estrela
+- **[Artificial Intelligence Ethics and International Law](2024/2024-artificial-intelligence-ethics-and-international-law.md)** - Abhivardhan
+- **[Avoidance, Drugs, Heartbreak and Dogs](2024/2024-avoidance-drugs-heartbreak-and-dogs.md)** - Jordan Stephens
+- **[Basilisk](2024/2024-basilisk.md)** - Graham Masterton
+- **[Become a Studying and Learning Machine](2024/2024-become-a-studying-and-learning-machine.md)** - Peter Hollins
+- **[Bio-revolution & Futurology](2024/2024-bio-revolution-futurology.md)** - Vladimir Kishinets
+- **[Brain Training for Dogs](2024/2024-brain-training-for-dogs.md)** - Claire Arrowsmith
+- **[Break Through](2024/2024-break-through.md)** - Mark Fennell
+- **[Building Data-Driven Applications with LlamaIndex](2024/2024-building-data-driven-applications-with-llamaindex.md)** - Packt Publishing
+- **[Bury Your Gays](2024/2024-bury-your-gays.md)** - Chuck Tingle
+- **[2024 Classic Children's Books Collection](2024/2024-classic-childrens-books-collection.md)** - Frances Hodgson Burnett, Selma Lagerlöf, Margery Williams, Kenneth Grahame, L.M. Montgomery
+- **[Clinical Psychology](2024/2024-clinical-psychology.md)** - Connor Whiteley
+- **[Confident AI](2024/2024-confident-ai.md)** - Andy Pardoe
+- **[Confident Cloud](2024/2024-confident-cloud.md)** - Adora Nwodo
+- **[Confident DevOps](2024/2024-confident-devops.md)** - Mark Peters
+- **[Control of Multi-Agent Systems: Theory and Simulations](2024/2024-control-of-multi-agent-systems.md)** - Masaaki Nagahara, Shun-Ichi Azuma, Hyo-Sung Ahn
+- **[C++ Programming Demystified: From Novice to Mastery](2024/2024-cpp-programming-demystified.md)** - Unknown
+- **[Cry Freedom: The Regulatory Assault on Institutional Autonomy in England's Universities](2024/2024-cry-freedom.md)** - James Tooley with John Drew
+- **[D Is for Death](2024/2024-d-is-for-death.md)** - Sophie Duffy
+- **[Daybreak in Gaza: Notes from a Ground Zero](2024/2024-daybreak-in-gaza.md)** - Mahmoud Muna, Matthew Teller
+- **[Different Skin](2024/2024-different-skin.md)** - Giorgia Lanuzza
+- **[Digital Liberty](2024/2024-digital-liberty.md)** - Matt Stroud
+- **[Don't Think Commonly](2024/2024-dont-think-commonly.md)** - Sam Gardner
+- **[Dreams of Sorrow](2024/2024-dreams-of-sorrow.md)** - Shauna Lawless
+- **[Ego: What is Ego](2024/2024-ego-what-is-ego.md)** - Redik Kuluev
+- **[Electric Dreams](2024/2024-electric-dreams.md)** - Heather Parry
+- **[Elephant Footsteps](2024/2024-elephant-footsteps.md)** - Sebastiaan Chabot
+- **[Emma](2024/2024-emma.md)** - Jane Austen
+- **[Empower Yourself for an Amazing Career](2024/2024-empower-yourself-for-an-amazing-career.md)** - Blanca De La Rosa
+- **[Eyes in the Sky: How Space Telescopes Are Revolutionizing Our View of the Universe](2024/2024-eyes-in-the-sky.md)** - Andrew May
+- **[2024-feeding-the-machine-the-hidden-human-labour-powering-ai.md](2024/2024-feeding-the-machine-the-hidden-human-labour-powering-ai.md)** - James Muldoon, Mark Graham, Callum Cant
+- **[Feeding the Machine](2024/2024-feeding-the-machine.md)** - James Muldoon, Mark Graham, Callum Cant
+- **[For Love of Country: Leave the Democrat Party Behind](2024/2024-for-love-of-country.md)** - Tulsi Gabbard
+- **[From Fake News to Power](2024/2024-from-fake-news-to-power.md)** - Anna Clua Infante, Dardo Gómez Ruiz-Díaz
+- **[Garment Goddess](2024/2024-garment-goddess.md)** - Laura de Barra
+- **[Generative AI with Amazon Bedrock](2024/2024-generative-ai-with-amazon-bedrock.md)** - Shikhar Kwatra, Bunny Kaushik
+- **[Ghost Music](2024/2024-ghost-music.md)** - Graham Masterton
+- **[Grand Prix: An Illustrated History of Formula 1](2024/2024-grand-prix.md)** - Will Buxton
+- **[Hands-On Salesforce Data Cloud: Implementing and Managing a Customer Data Platform](2024/2024-hands-on-salesforce-data-cloud.md)** - Joyce Kay Avila
+- **[HBR Guide to Leading Through Change](2024/2024-hbr-guide-to-leading-through-change.md)** - Harvard Business Review Press
+- **[His Unburned Heart](2024/2024-his-unburned-heart.md)** - David Sandner
+- **[How to Become a Successful Creative Freelancer](2024/2024-how-to-become-a-successful-creative-freelancer.md)** - Andy Strote
+- **[How to Trick Yourself Into Doing Things You Hate](2024/2024-how-to-trick-yourself-into-doing-things-you-hate.md)** - Peter Hollins
+- **[Imminent](2024/2024-imminent.md)** - Lue Elizondo
+- **[In Their Defence: A Guide to Protecting Children in the Justice System](2024/2024-in-their-defence.md)** - Aika Stephenson
+- **[Introducing Hibirism](2024/2024-introducing-hibirism.md)** - Donald Mokgale, Ernest Nkomotje
+- **[Introduction to Reality](2024/2024-introduction-to-reality.md)** - Unknown (with contributions from Federico Campagna and Giuseppina Sciurba)
+- **[Introduction to the New Statistics](2024/2024-introduction-to-the-new-statistics.md)** - Geoff Cumming, Robert Calin-Jageman
+- **[Ischemic Cardiomyopathy: Contemporary Medical Guide](2024/2024-ischemic-cardiomyopathy-contemporary-cardiovascular-medicine.md)** - Multiple contributors
+- **[Isotopography](2024/2024-isotopography.md)** - Niels Wilde
+- **[Language and Linguistics Between Myth and Reality](2024/2024-language-and-linguistics-between-myth-and-reality.md)** - Silvia, Authors
+- **[Leadership and Self-Deception](2024/2024-leadership-and-self-deception.md)** - The Arbinger Institute
+- **[Lean Startup, to Lean Company, to Rich Exit](2024/2024-lean-startup-to-lean-company-to-rich-exit.md)** - Kenan E. Sahin, PhD
+- **[Live Slowly](2024/2024-live-slowly.md)** - Jodi H. Grubbs
+- **[Living the Asian Century: An Undiplomatic Memoir](2024/2024-living-the-asian-century.md)** - Kishore Mahbubani
+- **[Love Triangle](2024/2024-love-triangle.md)** - Matt Parker
+- **[Make It Human](2024/2024-make-it-human.md)** - Sarah McLellan
+- **[Mastering Multi-Cloud Paradigm for Enterprises](2024/2024-mastering-multi-cloud-paradigm-for-enterprises.md)** - Barjender Paul
+- **[Mathematical Theory of Black Holes in Higher Dimensions](2024/2024-mathematical-theory-of-black-holes-in-higher-dimensions.md)** - Petya Nedkova, Stoytcho Yazadjiev
+- **[Meditations for a Powerful You](2024/2024-meditations-for-a-powerful-you.md)** - Clare Connolly
+- **[Merry Christmas!](2024/2024-merry-christmas.md)** - GF Newman
+- **[Mindful Listening](2024/2024-mindful-listening.md)** - Patrick King
+- **[2024 Modern Gothic Stories](2024/2024-modern-gothic-stories.md)** - Michael Bird, Pete Hartley, Edward Karshner, Rose Biggin, Lauren Archer, and Lerah Mae Barcenilla
+- **[Night Train to Odesa](2024/2024-night-train-to-odesa.md)** - Jen Stout
+- **[Nine Steps to Success](2024/2024-nine-steps-to-success.md)** - Alan Calder
+- **[On the Edge: The Art of Risking Everything](2024/2024-on-the-edge.md)** - Nate Silver
+- **[OSINT: The Authoritative Guide to Due Diligence](2024/2024-osint-the-authoritative-guide-to-due-diligence.md)** - Cynthia Hetherington, MLS, MSM, CFE, CII, OSC
+- **[Perfectly Imperfect](2024/2024-perfectly-imperfect.md)** - Jolanda Doornbos
+- **[Petrified](2024/2024-petrified.md)** - Graham Masterton
+- **[Political Women](2024/2024-political-women.md)** - Maggie Andrews
+- **[Positively Me](2024/2024-positively-me.md)** - Nozibele Mayaba, Sue Nyathi
+- **[Practicing the Way: Be With Jesus. Become Like Him. Do as He Did](2024/2024-practicing-the-way.md)** - John Mark Comer
+- **[Product Design Portfolio Final Final](2024/2024-product-design-portfolio.md)** - Fedor Shkliarau
+- **[Professional FP&A: A Comprehensive Guide to Financial Planning & Analysis](2024/2024-professional-fpa-a-comprehensive-guide-to-financial-planning-analysis.md)** - Johann Strauss
+- **[Quantum Computing and Cryptography in Future Computers](2024/2024-quantum-computing-and-cryptography-in-future-computers.md)** - Shyam R. Sihare (Editor)
+- **[Reboot: Stress Management Techniques](2024/2024-reboot-stress-management-techniques.md)** - Irina Apraksina
+- **[Red Dead's History](2024/2024-red-deads-history.md)** - Tore C. Olsson
+- **[Revolutionary Ideas](2024/2024-revolutionary-ideas.md)** - Ricky Long
+- **[Selected Joseph Conrad](2024/2024-selected-joseph-conrad.md)** - Joseph Conrad
+- **[Selected Thornton W. Burgess Stories](2024/2024-selected-thornton-w-burgess.md)** - Thornton W. Burgess
+- **[Self-Discipline for Tedious, Boring, and Difficult Things](2024/2024-self-discipline-for-tedious-boring-and-difficult-things.md)** - Peter Hollins
+- **[Sleep Hacks: Discover the Life-Changing Tranquillity of Deep Sleep](2024/2024-sleep-hacks.md)** - Keith Barry
+- **[Sleep Well: 8 Habits to Help You Fall Asleep, Stay Asleep and Wake Up Refreshed](2024/2024-sleep-well.md)** - Fiona Brennan
+- **[Somatic Exercises for All Women: Beginners and Intermediates](2024/2024-somatic-exercises-for-all-women-beginners-and-intermediates.md)** - L. R. Lepage, Body Talk Practitioner
+- **[Stay in the Light](2024/2024-stay-in-the-light.md)** - A.M. Shine
+- **[Step-by-Step Portraits from Simple Shapes: A Beginner's Guide to Drawing](2024/2024-step-by-step-portraits-from-simple-shapes.md)** - Satyajit Sinari (SinArty)
+- **[Successful Interview: Your Complete Preparation Guide](2024/2024-successful-interview.md)** - Maria Smirnova
+- **[Switch Off Overthinking: 33 Ways to Calm Your Thoughts, Reduce Stress, Stop Negative Spirals, and Improve Mental Clarity](2024/2024-switch-off-overthinking.md)** - Chase Hill
+- **[Tablets Shattered: The End of an American Jewish Century and the Future of Jewish Life](2024/2024-tablets-shattered.md)** - Joshua Leifer
+- **[The Art of Communication](2024/2024-the-art-of-communication.md)** - William Rogers
+- **[The Bitcoin Monetary Collapse: Where Does Bitcoin's Value Come From?](2024/2024-the-bitcoin-monetary-collapse-where-does-bitcoins-value-come-from.md)** - Christian Rieck
+- **[The Brothers Grimm Best Tales](2024/2024-the-brothers-grimm-best-tales.md)** - Wilhelm Grimm & Jacob Grimm
+- **[The Business of Metaverse: How Organizations Can Optimize the Opportunities of Web3 and AI](2024/2024-the-business-of-metaverse.md)** - David Palmer
+- **[2024-the-canal-murders.md](2024/2024-the-canal-murders.md)** - J. R. Ellis
+- **[The Complete O. Henry Short Stories Collection](2024/2024-the-complete-o-henry-short-stories.md)** - O. Henry (William Sydney Porter)
+- **[The Dark Side of Progress](2024/2024-the-dark-side-of-progress.md)** - Dan Desmarques
+- **[The Defeat of the West](2024/2024-the-defeat-of-the-west.md)** - Emmanuel Todd, with the collaboration of Baptiste Touverey
+- **[The Element Trial](2024/2024-the-element-trial.md)** - Julie Midtgaard
+- **[The Flower and the Flame](2024/2024-the-flower-and-the-flame.md)** - Kerri Keberly
+- **[The Good Bug](2024/2024-the-good-bug.md)** - George McGavin
+- **[The Impossible Man](2024/2024-the-impossible-man.md)** - Patchen Barss
+- **[The Knowing](2024/2024-the-knowing.md)** - Tanya Talaga
+- **[The Last Sunset in the West](2024/2024-the-last-sunset-in-the-west.md)** - Natalie Sanders
+- **[The Little Book of Big Gains](2024/2024-the-little-book-of-big-gains.md)** - Sandeep Tyagi
+- **[The Manager's Guide to Coaching for Change](2024/2024-the-managers-guide-to-coaching-for-change.md)** - John L. Bennett
+- **[The Mind-Body Connection](2024/2024-the-mind-body-connection.md)** - Molly Holloway
+- **[The Ministry of Truth: The Republican Party's War on the Recent Past](2024/2024-the-ministry-of-truth.md)** - Steve Benen
+- **[The Myth of Making It: A Workplace Reckoning](2024/2024-the-myth-of-making-it.md)** - Samhita Mukhopadhyay
+- **[The Narcissist's Secret](2024/2024-the-narcissists-secret.md)** - Dan Desmarques
+- **[The Odyssey for Boys and Girls](2024/2024-the-odyssey-for-boys-and-girls.md)** - Alfred J. Church
+- **[The Off Switch](2024/2024-the-off-switch.md)** - Sarah Greener
+- **[The Other Olympians](2024/2024-the-other-olympians.md)** - Michael Waters
+- **[The Performer: Art, Life, Politics](2024/2024-the-performer-art-life-politics.md)** - Richard Sennett
+- **[The Relentless Pursuit of Peace](2024/2024-the-relentless-pursuit-of-peace.md)** - Max Coates
+- **[The Return of the Firefly](2024/2024-the-return-of-the-firefly.md)** - GeAnn Powers
+- **[The Secret to Wealth](2024/2024-the-secret-to-wealth.md)** - Medhat Zaki, Brian Tracy, Sunil Tulsiani, and Multiple Contributors
+- **[Think Like a Brand. Act Like a Startup.](2024/2024-think-like-a-brand-act-like-a-startup.md)** - Lauren Perkins
+- **[This Is Not a Self-Help Book](2024/2024-this-is-not-a-self-help-book.md)** - Mark M.
+- **[Thrive in Color](2024/2024-thrive-in-color.md)** - Devika Brij
+- **[To Be a Jew Today](2024/2024-to-be-a-jew-today.md)** - Noah Feldman
+- **[Truth: The Universal Law of the Universe](2024/2024-truth-universal-law-of-the-universe.md)** - Adam De Arma
+- **[Understanding Financial Risk Management](2024/2024-understanding-financial-risk-management.md)** - Angelo Corelli
+- **[Vampire State: The Rise and Fall of the Chinese Economy](2024/2024-vampire-state.md)** - Ian Williams
+- **[We Were Perfect Parents Until We Had Children](2024/2024-we-were-perfect-parents-until-we-had-children.md)** - Vanessa Raphaely, Karin Schimke
+- **[Weather Science: A Hot Science Guide](2024/2024-weather-science.md)** - Brian Clegg
+- **[Web3 in Financial Services](2024/2024-web3-in-financial-services.md)** - Rita Martins
+- **[When Driving Is Not an Option: Steering Away From Car Dependency](2024/2024-when-driving-is-not-an-option-steering-away-from-car-dependency.md)** - Anna Letitia Zivarts
+- **[Why Didn't Somebody Tell Me This Sooner?](2024/2024-why-didnt-somebody-tell-me-this-sooner.md)** - Tiz A. Arnold, EdD
+- **[Why You Can't Go](2024/2024-why-you-cant-go.md)** - Lorraine Cooney, Registered Dietitian
+- **[Winter Wellbeing](2024/2024-winter-wellbeing.md)** - Caroline Artiss, Christine Burke, Elisabeth Carlsson, Cerridwen Greenleaf, Noelle Renée Kovary, Lottie Muir, Alice Peck, Silja Sample
+
+## 2025
+
+- **[Cities in Literature: New York](2025/2025-cities-in-literature-new-york.md)** - Edith Wharton, F. Scott Fitzgerald, Henry James, William Dean Howells, Washington Irving
+- **[2025 Classic Horror Collection](2025/2025-classic-horror-collection.md)** - Henry James, Washington Irving, H. G. Wells, Edgar Allan Poe, W. W. Jacobs
+- **[Corporate Sociopath Handbook](2025/2025-corporate-sociopath-handbook.md)** - Jonathon Grantham
+- **[Dreams of Chaos](2025/2025-dreams-of-chaos.md)** - Shauna Lawless
+- **[2025-Emotional Leadership: The Dark Side of Power](2025/2025-emotional-leadership-the-dark-side-of-power.md)** - Simone Janson (ed.)
+- **[Fire Spirit](2025/2025-fire-spirit.md)** - Graham Masterton
+- **[Healing a Village: A Practical Guide to Building Recovery Ready Communities](2025/2025-healing-a-village.md)** - Mark Lefebvre
+- **[Hopefully Ever After](2025/2025-hopefully-ever-after.md)** - James Webster
+- **[How to Do Boring, Tedious, Difficult, but Necessary Things](2025/2025-how-to-do-boring-tedious-difficult-but-necessary-things.md)** - Peter Hollins
+- **[Korean Alphabet Copybook: Hangul](2025/2025-korean-alphabet-copybook-hangul.md)** - Iuliia Nelidova
+- **[Make More Money the Relaxed Way](2025/2025-make-more-money-the-relaxed-way.md)** - Simone Janson (ed.), Sebastian Kühn, Holger Jungclaus, Ilja Grzeskowitz, Robert T. Kiyosaki, Dr. Chris Winter
+- **[My Weekly Devotional for Daily Struggles](2025/2025-my-weekly-devotional-for-daily-struggles.md)** - Phillip Tomasso
+- **[Running the Risk](2025/2025-running-the-risk.md)** - David Burrett Reid
+- **[Selected F. Scott Fitzgerald](2025/2025-selected-f-scott-fitzgerald.md)** - F. Scott Fitzgerald
+- **[Serious Cryptography](2025/2025-serious-cryptography.md)** - Jean-Philippe Aumasson
+- **[2025 Stock Market Investing for Beginners](2025/2025-stock-market-investing-for-beginners.md)** - Paul Mladjenovic
+- **[The Epic Women of Homer](2025/2025-the-epic-women-of-homer.md)** - Eirene S. Allen
+- **[The Ocean](2025/2025-the-ocean.md)** - Sturla Henriksen
+- **[The Stop Overthinking Activity Book](2025/2025-the-stop-overthinking-activity-book.md)** - Nick Trenton
+- **[The Why Within](2025/2025-the-why-within.md)** - Ranjot Singh Chahal
+- **[Think Like a Conqueror](2025/2025-think-like-a-conqueror.md)** - Peter Hollins
+
+## 2027
+
+- **[Flight Without End](2027/2027-flight-without-end.md)** - Joseph Roth
+
+## pre-2000
+
+- **[Meditations](pre-2000/0180-meditations.md)** - Marcus Aurelius
+- **[The Kama Sutra](pre-2000/0400-the-kama-sutra.md)** - Vātsyāyana
+- **[The Great Perfection of Wisdom](pre-2000/1-the-great-perfection-of-wisdom.md)** - Various Buddhist Masters
+- **[The Tale of Genji](pre-2000/1010-the-tale-of-genji.md)** - Murasaki Shikibu
+- **[The Canterbury Tales](pre-2000/1400-the-canterbury-tales.md)** - Geoffrey Chaucer
+- **[A Midsummer Night's Dream](pre-2000/1596-a-midsummer-nights-dream.md)** - William Shakespeare
+- **[The Merchant of Venice](pre-2000/1596-the-merchant-of-venice.md)** - William Shakespeare
+- **[Romeo and Juliet](pre-2000/1597-romeo-and-juliet.md)** - William Shakespeare
+- **[The Tragedy of Romeo and Juliet](pre-2000/1597-the-tragedy-of-romeo-and-juliet.md)** - William Shakespeare
+- **[Much Ado About Nothing](pre-2000/1598-much-ado-about-nothing.md)** - William Shakespeare
+- **[As You Like It](pre-2000/1599-as-you-like-it.md)** - William Shakespeare
+- **[Julius Caesar](pre-2000/1599-julius-caesar.md)** - William Shakespeare
+- **[The Tragicall Historie of Hamlet, Prince of Denmarke](pre-2000/1603-hamlet-prince-of-denmark.md)** - William Shakespeare
+- **[Hamlet](pre-2000/1603-hamlet.md)** - William Shakespeare
+- **[Don Quixote](pre-2000/1605-don-quixote.md)** - Miguel de Cervantes
+- **[Macbeth](pre-2000/1606-macbeth.md)** - William Shakespeare
+- **[The Winter's Tale](pre-2000/1610-the-winters-tale.md)** - William Shakespeare
+- **[The Winter's Tale](pre-2000/1611-the-winters-tale.md)** - William Shakespeare
+- **[Don Quixote](pre-2000/1615-don-quixote.md)** - Miguel de Cervantes
+- **[Antony and Cleopatra](pre-2000/1623-antony-and-cleopatra.md)** - William Shakespeare
+- **[1627 The New Atlantis](pre-2000/1627-the-new-atlantis.md)** - Sir Francis Bacon
+- **[Paradise Lost](pre-2000/1667-paradise-lost.md)** - John Milton
+- **[Pascal's Thoughts and Minor Works](pre-2000/1670-pascals-thoughts-and-minor-works.md)** - Blaise Pascal
+- **[The Pilgrim's Progress](pre-2000/1678-the-pilgrims-progress.md)** - John Bunyan
+- **[The Way of the World](pre-2000/1700-the-way-of-the-world.md)** - William Congreve
+- **[Robinson Crusoe](pre-2000/1719-robinson-crusoe-level-3.md)** - Daniel Defoe (Level 3 Reader Adaptation)
+- **[Robinson Crusoe](pre-2000/1719-robinson-crusoe.md)** - Daniel Defoe
+- **[1719-The Life and Adventures of Robinson Crusoe](pre-2000/1719-the-life-and-adventures-of-robinson-crusoe.md)** - Daniel Defoe
+- **[The Fortunes and Misfortunes of the Famous Moll Flanders](pre-2000/1722-the-fortunes-and-misfortunes-of-the-famous-moll-flanders.md)** - Daniel Defoe
+- **[Gulliver's Travels](pre-2000/1726-gullivers-travels.md)** - Jonathan Swift
+- **[The Beauty and the Beast](pre-2000/1740-the-beauty-and-the-beast.md)** - Gabrielle-Suzanne Barbot de Villeneuve
+- **[1751-Treatise-on-Oratory](pre-2000/1751-treatise-on-oratory.md)** - Francis de la Fontaine
+- **[Candide or the Optimist](pre-2000/1759-candide-or-the-optimist.md)** - Voltaire
+- **[The Sorrows of Young Werther](pre-2000/1774-the-sorrows-of-young-werther.md)** - Johann Wolfgang von Goethe
+- **[The Wealth of Nations](pre-2000/1776-the-wealth-of-nations.md)** - Adam Smith
+- **[Dangerous Liaisons](pre-2000/1782-dangerous-liaisons.md)** - Pierre-Ambroise-François Choderlos de Laclos
+- **[Love and Intrigue](pre-2000/1784-love-and-intrigue.md)** - Friedrich Schiller
+- **[The Critique of Practical Reason](pre-2000/1788-the-critique-of-practical-reason.md)** - Immanuel Kant
+- **[The Castles of Athlin and Dunbayne: A Gothic Romance Guide](pre-2000/1789-the-castles-of-athlin-and-dunbayne.md)** - Ann Radcliffe
+- **[Love and Friendship](pre-2000/1790-love-and-friendship.md)** - Jane Austen
+- **[Something About the First Human Society According to the Mosaic Record](pre-2000/1790-something-about-the-first-human-society.md)** - Friedrich Schiller
+- **[The Botanical Magazine or Flower-Garden Displayed](pre-2000/1790-the-botanical-magazine-or-flower-garden-displayed.md)** - William Curtis
+- **[The History of the Thirty Years War](pre-2000/1791-the-history-of-the-thirty-years-war.md)** - Friedrich Schiller
+- **[The Romance of the Forest](pre-2000/1791-the-romance-of-the-forest.md)** - Ann Radcliffe
+- **[The Beautiful Cassandra and Other Stories](pre-2000/1793-the-beautiful-cassandra-and-other-stories.md)** - Jane Austen
+- **[The Italian](pre-2000/1797-the-italian.md)** - Ann Radcliffe
+- **[The Meditations](pre-2000/180-the-meditations.md)** - Marcus Aurelius
+- **[Castle Rackrent](pre-2000/1800-castle-rackrent.md)** - Maria Edgeworth
+- **[The Maid of Orleans](pre-2000/1801-the-maid-of-orleans.md)** - Friedrich Schiller
+- **[Thaddeus of Warsaw](pre-2000/1804-thaddeus-of-warsaw.md)** - Jane Porter
+- **[Sense and Sensibility](pre-2000/1811-sense-and-sensibility.md)** - Jane Austen
+- **[Pride and Prejudice](pre-2000/1813-pride-and-prejudice.md)** - Jane Austen
+- **[Mansfield Park](pre-2000/1814-mansfield-park.md)** - Jane Austen
+- **[Emma](pre-2000/1815-emma.md)** - Jane Austen
+- **[Tales from the Saragossa Manuscript](pre-2000/1815-tales-from-the-saragossa-manuscript.md)** - Jan Potocki
+- **[The Nutcracker and the Mouse-King](pre-2000/1816-the-nutcracker-and-the-mouse-king.md)** - E.T.A. Hoffmann
+- **[Northanger Abbey](pre-2000/1817-northanger-abbey.md)** - Jane Austen
+- **[Persuasion](pre-2000/1817-persuasion.md)** - Jane Austen
+- **[Frankenstein or the Modern Prometheus](pre-2000/1818-frankenstein-or-the-modern-prometheus.md)** - Mary Shelley
+- **[Frankenstein](pre-2000/1818-frankenstein.md)** - Mary Shelley
+- **[Nightmare Abbey](pre-2000/1818-nightmare-abbey.md)** - Thomas Love Peacock
+- **[Ivanhoe](pre-2000/1819-ivanhoe.md)** - Walter Scott
+- **[The Legend of Sleepy Hollow](pre-2000/1820-the-legend-of-sleepy-hollow.md)** - Washington Irving
+- **[Smarra & Trilby](pre-2000/1821-smarra-and-trilby.md)** - Charles Nodier
+- **[The Pioneers](pre-2000/1823-the-pioneers.md)** - James Fenimore Cooper
+- **[The Talisman](pre-2000/1825-the-talisman.md)** - Sir Walter Scott
+- **[The Last of the Mohicans](pre-2000/1826-the-last-of-the-mohicans.md)** - James Fenimore Cooper
+- **[The Red and the Black](pre-2000/1830-the-red-and-the-black.md)** - Stendhal (Marie-Henri Beyle)
+- **[The Hunchback of Notre-Dame](pre-2000/1831-the-hunchback-of-notre-dame.md)** - Victor Hugo
+- **[Maxims and Reflections](pre-2000/1833-maxims-and-reflections.md)** - Johann Wolfgang von Goethe
+- **[The Anti-Slavery Examiner](pre-2000/1836-the-anti-slavery-examiner.md)** - American Anti-Slavery Society
+- **[The Little Mermaid](pre-2000/1836-the-little-mermaid.md)** - H.C. Andersen
+- **[The Pickwick Papers](pre-2000/1836-the-pickwick-papers.md)** - Charles Dickens
+- **[Falkner, A Novel](pre-2000/1837-falkner-a-novel.md)** - Mary Wollstonecraft Shelley
+- **[Sketches of Young Gentlemen](pre-2000/1838-sketches-of-young-gentlemen.md)** - Charles Dickens
+- **[Oliver Twist](pre-2000/1839-oliver-twist.md)** - Charles Dickens
+- **[The Anti-Slavery Examiner, Part 4 of 4](pre-2000/1839-the-anti-slavery-examiner-part-4-of-4.md)** - American Anti-Slavery Society
+- **[The Life and Adventures of Nicholas Nickleby](pre-2000/1839-the-life-and-adventures-of-nicholas-nickleby.md)** - Charles Dickens
+- **[The Phantom Ship](pre-2000/1839-the-phantom-ship.md)** - Frederick Marryat
+- **[Two Years Before the Mast](pre-2000/1840-two-years-before-the-mast.md)** - R.H. Dana Jr.
+- **[Barnaby Rudge: A Tale of the Riots of Eighty](pre-2000/1841-barnaby-rudge-a-tale-of-the-riots-of-eighty.md)** - Charles Dickens
+- **[The Old Curiosity Shop](pre-2000/1841-the-old-curiosity-shop.md)** - Charles Dickens
+- **[The Mantle (The Overcoat)](pre-2000/1842-the-overcoat.md)** - Nikolai Gogol
+- **[A Christmas Carol (Illustrated Edition)](pre-2000/1843-a-christmas-carol.md)** - Charles Dickens
+- **[Five Christmas Books](pre-2000/1843-five-christmas-books.md)** - Charles Dickens
+- **[The Gold Bug and Other Tales](pre-2000/1843-the-gold-bug-and-other-tales.md)** - Edgar Allan Poe
+- **[The Tell-Tale Heart](pre-2000/1843-the-tell-tale-heart.md)** - Edgar Allan Poe
+- **[The Count of Monte Cristo](pre-2000/1844-the-count-of-monte-cristo.md)** - Alexandre Dumas, père
+- **[The Ego and Its Own](pre-2000/1844-the-ego-and-its-own.md)** - Max Stirner
+- **[The Raven](pre-2000/1845-the-raven.md)** - Edgar Allan Poe
+- **[Pictures from Italy](pre-2000/1846-pictures-from-italy.md)** - Charles Dickens
+- **[Sweeney Todd: The String of Pearls](pre-2000/1846-sweeney-todd-the-string-of-pearls.md)** - James Malcolm Rymer or Thomas Peckett Prest
+- **[The Battle of Life](pre-2000/1846-the-battle-of-life.md)** - Charles Dickens
+- **[Jane Eyre](pre-2000/1847-jane-eyre.md)** - Charlotte Brontë
+- **[Wuthering Heights](pre-2000/1847-wuthering-heights.md)** - Emily Brontë
+- **[A Weak Heart](pre-2000/1848-a-weak-heart.md)** - Fyodor Dostoevsky
+- **[The Communist Manifesto](pre-2000/1848-the-communist-manifesto.md)** - Karl Marx, Friedrich Engels
+- **[Shirley](pre-2000/1849-shirley.md)** - Charlotte Brontë
+- **[The Black Tulip](pre-2000/1850-the-black-tulip.md)** - Alexandre Dumas
+- **[The Scarlet Letter](pre-2000/1850-the-scarlet-letter.md)** - Nathaniel Hawthorne
+- **[A General View of Positivism](pre-2000/1851-a-general-view-of-positivism.md)** - Auguste Comte
+- **[The Essays of Arthur Schopenhauer](pre-2000/1851-essays-of-schopenhauer.md)** - Arthur Schopenhauer
+- **[Moby Dick; or The Whale](pre-2000/1851-moby-dick-or-the-whale.md)** - Herman Melville
+- **[Moby Dick](pre-2000/1851-moby-dick.md)** - Herman Melville
+- **[Mr Harrison's Confessions](pre-2000/1851-mr-harrisons-confessions.md)** - Elizabeth Gaskell
+- **[Autobiographical Trilogy](pre-2000/1852-autobiographical-trilogy.md)** - Leo Tolstoy
+- **[Some Christmas Stories](pre-2000/1853-some-christmas-stories.md)** - Charles Dickens
+- **[Villette](pre-2000/1853-villette.md)** - Charlotte Brontë
+- **[Hard Times](pre-2000/1854-hard-times.md)** - Charles Dickens
+- **[Walden](pre-2000/1854-walden.md)** - Henry David Thoreau
+- **[Leaves of Grass](pre-2000/1855-leaves-of-grass.md)** - Walt Whitman
+- **[North and South](pre-2000/1855-north-and-south.md)** - Elizabeth Cleghorn Gaskell
+- **[Madame Bovary](pre-2000/1857-madame-bovary.md)** - Gustave Flaubert
+- **[A Tale of Two Cities](pre-2000/1859-a-tale-of-two-cities.md)** - Charles Dickens
+- **[Family Happiness and Other Stories](pre-2000/1859-family-happiness.md)** - Leo Tolstoy
+- **[On the Origin of Species](pre-2000/1859-on-the-origin-of-species.md)** - Charles Darwin
+- **[The Village of Stepanchikovo](pre-2000/1859-the-village-of-stepanchikovo.md)** - Fyodor Dostoyevsky
+- **[The Woman in White](pre-2000/1859-the-woman-in-white.md)** - Wilkie Collins
+- **[Great Expectations](pre-2000/1861-great-expectations.md)** - Charles Dickens
+- **[Fathers and Children](pre-2000/1862-fathers-and-children.md)** - Ivan Turgenev
+- **[Les Misérables](pre-2000/1862-les-miserables.md)** - Victor Hugo
+- **[Romola](pre-2000/1862-romola.md)** - George Eliot
+- **[The House of the Dead](pre-2000/1862-the-house-of-the-dead.md)** - Fyodor Dostoevsky
+- **[Away in the Wilderness](pre-2000/1863-away-in-the-wilderness.md)** - R.M. Ballantyne
+- **[Old New Zealand: A Firsthand Account of Maori Life in the Early Contact Period](pre-2000/1863-old-new-zealand-being-incidents-of-native-customs-and-character-in-the-old-times.md)** - 'A Pakeha Maori' [Frederick Edward Maning]
+- **[Utilitarianism](pre-2000/1863-utilitarianism.md)** - John Stuart Mill
+- **[A Journey to the Centre of the Earth](pre-2000/1864-a-journey-to-the-centre-of-the-earth.md)** - Jules Verne
+- **[Journey to the Center of the Earth](pre-2000/1864-journey-to-the-center-of-the-earth.md)** - Jules Verne
+- **[Notes from Underground and The Double](pre-2000/1864-notes-from-underground-and-the-double.md)** - Fyodor Dostoevsky
+- **[Alice in Wonderland](pre-2000/1865-alice-in-wonderland.md)** - Lewis Carroll
+- **[Alice's Adventures in Wonderland and Through the Looking-Glass](pre-2000/1865-alices-adventures-in-wonderland-and-through-the-looking-glass.md)** - Lewis Carroll (Charles Lutwidge Dodgson)
+- **[Alice's Adventures in Wonderland](pre-2000/1865-alices-adventures-in-wonderland.md)** - Lewis Carroll
+- **[Our Mutual Friend](pre-2000/1865-our-mutual-friend.md)** - Charles Dickens
+- **[Behind a Mask](pre-2000/1866-behind-a-mask.md)** - A.M. Barnard (Louisa May Alcott)
+- **[Meteoric Astronomy: A Treatise on Shooting-Stars, Fire-Balls, and Aerolites](pre-2000/1867-meteoric-astronomy-a-treatise-on-shooting-stars-fire-balls-and-aerolites.md)** - Daniel Kirkwood
+- **[Peer Gynt](pre-2000/1867-peer-gynt.md)** - Henrik Ibsen
+- **[The Adventures of Oliver Twist](pre-2000/1867-the-adventures-of-oliver-twist.md)** - Charles Dickens
+- **[The Gambler](pre-2000/1867-the-gambler.md)** - Fyodor Dostoyevsky
+- **[The Letter of Credit](pre-2000/1867-the-letter-of-credit.md)** - Susan Warner
+- **[The Process of Capitalist Production](pre-2000/1867-the-process-of-capitalist-production.md)** - Karl Marx
+- **[Holiday Romance](pre-2000/1868-holiday-romance.md)** - Charles Dickens
+- **[Little Women Complete Series](pre-2000/1868-little-women-complete-series.md)** - Louisa May Alcott
+- **[Little Women](pre-2000/1868-little-women-illustrated.md)** - Louisa May Alcott
+- **[Little Women](pre-2000/1868-little-women.md)** - Louisa May Alcott
+- **[The Moonstone](pre-2000/1868-the-moonstone.md)** - Wilkie Collins
+- **[Good Wives](pre-2000/1869-good-wives.md)** - Louisa May Alcott
+- **[Little Women](pre-2000/1869-little-women.md)** - Louisa May Alcott
+- **[Phineas Finn: The Irish Member](pre-2000/1869-phineas-finn.md)** - Anthony Trollope
+- **[The Idiot](pre-2000/1869-the-idiot.md)** - Fyodor Dostoyevsky
+- **[20,000 Leagues Under the Sea](pre-2000/1870-20000-leagues-under-the-sea.md)** - Jules Verne
+- **[Man and Wife](pre-2000/1870-man-and-wife.md)** - Wilkie Collins
+- **[Round the Moon](pre-2000/1870-round-the-moon.md)** - Jules Verne
+- **[The Mystery of Edwin Drood](pre-2000/1870-the-mystery-of-edwin-drood.md)** - Charles Dickens
+- **[The Permanent Husband](pre-2000/1870-the-permanent-husband.md)** - Fyodor Dostoyevsky
+- **[Twenty Thousand Leagues Under the Sea](pre-2000/1870-twenty-thousand-leagues-under-the-sea.md)** - Jules Verne
+- **[Hunted Down](pre-2000/1871-hunted-down.md)** - Charles Dickens
+- **[Middlemarch: A Study of Provincial Life](pre-2000/1871-middlemarch-a-study-of-provincial-life.md)** - George Eliot
+- **[Middlemarch: A Study of Provincial Life](pre-2000/1871-middlemarch.md)** - George Eliot
+- **[Carmilla](pre-2000/1872-carmilla.md)** - Joseph Sheridan Le Fanu
+- **[The Room in the Dragon Volant](pre-2000/1872-the-room-in-the-dragon-volant.md)** - J.S. Le Fanu
+- **[Unknown Fairy Tales of Hans Christian Andersen](pre-2000/1872-unknown-fairy-tales-of-hans-christian-andersen.md)** - Hans Christian Andersen, (Translator: Mrs. H.B. Paull)
+- **[Around the World in 80 Days](pre-2000/1873-around-the-world-in-80-days.md)** - Jules Verne
+- **[The Gilded Age: A Tale of Today](pre-2000/1873-the-gilded-age.md)** - Mark Twain, Charles Dudley Warner
+- **[Work: A Story of Experience](pre-2000/1873-work-a-story-of-experience.md)** - Louisa May Alcott
+- **[The Mysterious Island](pre-2000/1874-the-mysterious-island.md)** - Jules Verne
+- **[Christmas at Thompson Hall](pre-2000/1876-christmas-at-thompson-hall.md)** - Anthony Trollope
+- **[1876-The Adventures of Tom Sawyer](pre-2000/1876-the-adventures-of-tom-sawyer.md)** - Mark Twain
+- **[Black Beauty](pre-2000/1877-black-beauty.md)** - Anna Sewell
+- **[Daisy Miller: A Study in Two Parts](pre-2000/1878-daisy-miller.md)** - Henry James
+- **[The Suicide Club](pre-2000/1878-the-suicide-club.md)** - Robert Louis Stevenson
+- **[The Red Room](pre-2000/1879-the-red-room.md)** - August Strindberg
+- **[A Tramp Abroad](pre-2000/1880-a-tramp-abroad.md)** - Mark Twain
+- **[Heidi's Journey: A Bitesized Guide to Finding Your True Home](pre-2000/1880-heidis-journey.md)** - Johanna Spyri
+- **[Nana](pre-2000/1880-nana.md)** - Émile Zola
+- **[The Brothers Karamazov](pre-2000/1880-the-brothers-karamazov.md)** - Fyodor Dostoevsky
+- **[The Trumpet-Major](pre-2000/1880-the-trumpet-major.md)** - Thomas Hardy
+- **[The House by the Medlar Tree](pre-2000/1881-the-house-by-the-medlar-tree.md)** - Giovanni Verga
+- **[The Prince and the Pauper](pre-2000/1881-the-prince-and-the-pauper.md)** - Mark Twain
+- **[A Confession](pre-2000/1882-a-confession.md)** - Leo Tolstoy
+- **[Impressions of America](pre-2000/1882-impressions-of-america.md)** - Oscar Wilde
+- **[Life on the Mississippi](pre-2000/1883-life-on-the-mississippi.md)** - Mark Twain
+- **[Mechanical Drawing Self-Taught](pre-2000/1883-mechanical-drawing-self-taught.md)** - Joshua Rose, M.E.
+- **[The Ladies' Paradise](pre-2000/1883-the-ladies-paradise.md)** - Émile Zola
+- **[Thus Spoke Zarathustra](pre-2000/1883-thus-spoke-zarathustra.md)** - Friedrich Wilhelm Nietzsche
+- **[Treasure Island](pre-2000/1883-treasure-island.md)** - Robert Louis Stevenson
+- **[Flatland: A Romance of Many Dimensions](pre-2000/1884-flatland-a-romance-of-many-dimensions.md)** - Edwin A. Abbott
+- **[The Wild Duck](pre-2000/1884-the-wild-duck.md)** - Henrik Ibsen
+- **[A Child's Garden of Verses](pre-2000/1885-a-childs-garden-of-verses.md)** - Robert Louis Stevenson
+- **[Marius the Epicurean](pre-2000/1885-marius-the-epicurean.md)** - Walter Horatio Pater
+- **[The Process of Circulation of Capital](pre-2000/1885-the-process-of-circulation-of-capital.md)** - Karl Marx
+- **[Kidnapped](pre-2000/1886-kidnapped.md)** - Robert Louis Stevenson
+- **[Little Lord Fauntleroy](pre-2000/1886-little-lord-fauntleroy.md)** - Frances Hodgson Burnett
+- **[The Death of Ivan Ilych](pre-2000/1886-the-death-of-ivan-ilych.md)** - Leo Tolstoy
+- **[The Death of Ivan Ilyich](pre-2000/1886-the-death-of-ivan-ilyich.md)** - Leo Tolstoy
+- **[The Strange Case of Dr. Jekyll and Mr. Hyde](pre-2000/1886-the-strange-case-of-dr-jekyll-and-mr-hyde.md)** - Robert Louis Stevenson
+- **[10 Days in a Madhouse](pre-2000/1887-10-days-in-a-madhouse.md)** - Nellie Bly
+- **[A Study in Scarlet](pre-2000/1887-a-study-in-scarlet.md)** - Sir Arthur Conan Doyle
+- **[The Blind Brother](pre-2000/1887-the-blind-brother.md)** - Homer Greene
+- **[The Canterville Ghost](pre-2000/1887-the-canterville-ghost.md)** - Oscar Wilde
+- **[The Complete Sherlock Holmes Collection](pre-2000/1887-the-complete-sherlock-holmes.md)** - Arthur Conan Doyle
+- **[Touch Me Not](pre-2000/1887-touch-me-not.md)** - José Rizal
+- **[A Strange Manuscript Found in a Copper Cylinder](pre-2000/1888-a-strange-manuscript-found-in-a-copper-cylinder.md)** - James De Mille
+- **[The Antichrist](pre-2000/1888-the-antichrist.md)** - Friedrich Wilhelm Nietzsche
+- **[The Birthday of the Infanta](pre-2000/1888-the-birthday-of-the-infanta.md)** - Oscar Wilde
+- **[The Devoted Friend](pre-2000/1888-the-devoted-friend.md)** - Oscar Wilde
+- **[The Happy Prince and Other Tales](pre-2000/1888-the-happy-prince-and-other-tales.md)** - Oscar Wilde
+- **[The Maias](pre-2000/1888-the-maias.md)** - Eça de Queiroz
+- **[The Remarkable Rocket](pre-2000/1888-the-remarkable-rocket.md)** - Oscar Wilde
+- **[A Connecticut Yankee in King Arthur's Court](pre-2000/1889-a-connecticut-yankee-in-king-arthurs-court.md)** - Mark Twain
+- **[The Kreutzer Sonata](pre-2000/1889-the-kreutzer-sonata.md)** - Leo Tolstoy
+- **[News from Nowhere](pre-2000/1890-news-from-nowhere.md)** - William Morris
+- **[The Picture of Dorian Gray](pre-2000/1890-the-picture-of-dorian-gray.md)** - Oscar Wilde
+- **[The Principles of Psychology, Volume 1](pre-2000/1890-the-principles-of-psychology-volume-1.md)** - William James
+- **[The Sign of the Four](pre-2000/1890-the-sign-of-the-four.md)** - Sir Arthur Conan Doyle
+- **[The Snake's Pass](pre-2000/1890-the-snakes-pass.md)** - Bram Stoker
+- **[A Scandal in Bohemia](pre-2000/1891-a-scandal-in-bohemia.md)** - Arthur Conan Doyle
+- **[Billy Budd, Sailor](pre-2000/1891-billy-budd.md)** - Herman Melville
+- **[Khaled: A Tale of Arabia](pre-2000/1891-khaled-a-tale-of-arabia.md)** - Francis Marion Crawford
+- **[Soldiers](pre-2000/1891-soldiers.md)** - Ambrose Bierce
+- **[The Filibusterism](pre-2000/1891-the-filibusterism.md)** - José Rizal
+- **[Lady Windermere's Fan](pre-2000/1892-lady-windermeres-fan.md)** - Oscar Wilde
+- **[The Adventure of the Engineer's Thumb](pre-2000/1892-the-adventure-of-the-engineers-thumb.md)** - Arthur Conan Doyle
+- **[The Adventure of the Speckled Band](pre-2000/1892-the-adventure-of-the-speckled-band.md)** - Arthur Conan Doyle
+- **[The Adventures of Sherlock Holmes](pre-2000/1892-the-adventures-of-sherlock-holmes.md)** - Sir Arthur Conan Doyle
+- **[The Yellow Wallpaper](pre-2000/1892-the-yellow-wallpaper.md)** - Charlotte Perkins Gilman
+- **[Specimens of Greek Tragedy](pre-2000/1893-specimens-of-greek-tragedy.md)** - Aeschylus, Sophocles
+- **[The Final Problem](pre-2000/1893-the-final-problem.md)** - Arthur Conan Doyle
+- **[The Jungle Book](pre-2000/1894-the-jungle-book.md)** - Rudyard Kipling
+- **[The Process of Capitalist Production as a Whole (Capital Vol. III)](pre-2000/1894-the-process-of-capitalist-production-as-a-whole-capital-vol-iii.md)** - Karl Marx
+- **[Effi Briest](pre-2000/1895-effi-briest.md)** - Theodor Fontane
+- **[History of Slavery and Serfdom](pre-2000/1895-history-of-slavery-and-serfdom.md)** - John Kells Ingram
+- **[The Importance of Being Earnest and Other Plays](pre-2000/1895-the-importance-of-being-earnest.md)** - Oscar Wilde
+- **[The Red Badge of Courage](pre-2000/1895-the-red-badge-of-courage.md)** - Stephen Crane
+- **[The Shoulder of Shasta](pre-2000/1895-the-shoulder-of-shasta.md)** - Bram Stoker
+- **[The Time Machine](pre-2000/1895-the-time-machine.md)** - H.G. Wells
+- **[A Lady of Quality](pre-2000/1896-a-lady-of-quality.md)** - Frances Hodgson Burnett
+- **[The Story of Atlantis and the Lost Lemurian Continent](pre-2000/1896-the-story-of-atlantis.md)** - W. Scott-Elliot, A. P. Sinnett (Preface)
+- **[Dracula](pre-2000/1897-dracula-stoker.md)** - Bram Stoker
+- **[Dracula](pre-2000/1897-dracula.md)** - Bram Stoker
+- **[Prometheus Bound and Seven Against Thebes](pre-2000/1897-prometheus-bound-and-seven-against-thebes.md)** - Aeschylus
+- **[The Bells of Bruges](pre-2000/1897-the-bells-of-bruges.md)** - Georges Rodenbach
+- **[The Book of Dreams and Ghosts](pre-2000/1897-the-book-of-dreams-and-ghosts.md)** - Andrew Lang
+- **[The Gadfly](pre-2000/1897-the-gadfly.md)** - Ethel Lilian Voynich
+- **[Miss Betty](pre-2000/1898-miss-betty.md)** - Bram Stoker
+- **[The Blue Hotel](pre-2000/1898-the-blue-hotel.md)** - Stephen Crane
+- **[The Turn of the Screw](pre-2000/1898-the-turn-of-the-screw.md)** - Henry James
+- **[The War of the Worlds](pre-2000/1898-the-war-of-the-worlds.md)** - H.G. Wells
+- **[Heart of Darkness](pre-2000/1899-heart-of-darkness.md)** - Joseph Conrad
+- **[The Awakening](pre-2000/1899-the-awakening.md)** - Kate Chopin
+- **[The Lady with the Dog](pre-2000/1899-the-lady-with-the-dog.md)** - Anton Chekhov
+- **[The Autobiography of Benvenuto Cellini](pre-2000/1900-the-autobiography-of-benvenuto-cellini.md)** - Benvenuto Cellini
+- **[The Problem of Increasing Human Energy](pre-2000/1900-the-problem-of-increasing-human-energy.md)** - Nikola Tesla
+- **[The Three Sisters](pre-2000/1900-the-three-sisters.md)** - Anton Chekhov
+- **[The Wonderful Wizard of Oz](pre-2000/1900-the-wonderful-wizard-of-oz.md)** - L. Frank Baum
+- **[Anticipations](pre-2000/1901-anticipations.md)** - H. G. Wells
+- **[Kim](pre-2000/1901-kim.md)** - Rudyard Kipling
+- **[The Hound of the Baskervilles](pre-2000/1901-the-hound-of-the-baskervilles.md)** - Arthur Conan Doyle
+- **[The Octopus](pre-2000/1901-the-octopus.md)** - Frank Norris
+- **[A Prefect's Uncle](pre-2000/1902-a-prefects-uncle.md)** - P. G. Wodehouse
+- **[Character Building](pre-2000/1902-character-building.md)** - Booker T. Washington
+- **[Heart of Darkness](pre-2000/1902-heart-of-darkness.md)** - Joseph Conrad
+- **[Just So Stories](pre-2000/1902-just-so-stories.md)** - Rudyard Kipling
+- **[The Hound of the Baskervilles](pre-2000/1902-the-hound-of-the-baskervilles.md)** - Arthur Conan Doyle
+- **[The Monkey's Paw](pre-2000/1902-the-monkeys-paw.md)** - W.W. Jacobs
+- **[The Mystery of the Sea](pre-2000/1902-the-mystery-of-the-sea.md)** - Bram Stoker
+- **[The Tale of Peter Rabbit](pre-2000/1902-the-tale-of-peter-rabbit.md)** - Beatrix Potter
+- **[The Virginian](pre-2000/1902-the-virginian.md)** - Owen Wister
+- **[As A Man Thinketh](pre-2000/1903-as-a-man-thinketh.md)** - James Allen
+- **[Betty Zane](pre-2000/1903-betty-zane.md)** - Zane Grey
+- **[Q.E.D.](pre-2000/1903-qed.md)** - Gertrude Stein
+- **[The Call of the Wild](pre-2000/1903-the-call-of-the-wild.md)** - Jack London
+- **[The Souls of Black Folk](pre-2000/1903-the-souls-of-black-folk.md)** - W. E. B. Du Bois
+- **[The Story of My Life](pre-2000/1903-the-story-of-my-life.md)** - Helen Keller
+- **[The Way of All Flesh](pre-2000/1903-the-way-of-all-flesh.md)** - Samuel Butler
+- **[Kwaidan: Stories and Studies of Strange Things](pre-2000/1904-kwaidan-stories-and-studies-of-strange-things.md)** - Lafcadio Hearn
+- **[Peter Pan: The Original Play](pre-2000/1904-peter-pan.md)** - J. M. Barrie
+- **[The Cherry Orchard](pre-2000/1904-the-cherry-orchard.md)** - Anton Chekhov
+- **[The Golden Bowl](pre-2000/1904-the-golden-bowl.md)** - Henry James
+- **[The Napoleon of Notting Hill](pre-2000/1904-the-napoleon-of-notting-hill.md)** - G.K. Chesterton
+- **[The Sea-Wolf](pre-2000/1904-the-sea-wolf.md)** - Jack London
+- **[The Tale of Two Bad Mice](pre-2000/1904-the-tale-of-two-bad-mice.md)** - Beatrix Potter
+- **[The Theory of Business Enterprise](pre-2000/1904-the-theory-of-business-enterprise.md)** - Thorstein Veblen
+- **[1905-The-Return-of-Sherlock-Holmes](pre-2000/1905-The-Return-of-Sherlock-Holmes.md)** - Arthur Conan Doyle
+- **[A Modern Utopia](pre-2000/1905-a-modern-utopia.md)** - H. G. Wells
+- **[All These Things Added](pre-2000/1905-all-these-things-added.md)** - James Allen
+- **[The House of Mirth](pre-2000/1905-the-house-of-mirth.md)** - Edith Wharton
+- **[The Railway Children](pre-2000/1905-the-railway-children.md)** - E. Nesbit
+- **[The Return of Sherlock Holmes](pre-2000/1905-the-return-of-sherlock-holmes.md)** - Sir Arthur Conan Doyle
+- **[The Scarlet Pimpernel](pre-2000/1905-the-scarlet-pimpernel.md)** - Baroness Orczy
+- **[Betty Baird](pre-2000/1906-betty-baird.md)** - Anna Hamlin Weikel
+- **[The Man of Property](pre-2000/1906-the-man-of-property.md)** - John Galsworthy
+- **[The Wonderful Adventures of Nils](pre-2000/1906-the-wonderful-adventures-of-nils.md)** - Selma Lagerlöf
+- **[Chamber Music](pre-2000/1907-chamber-music.md)** - James Joyce
+- **[Great Astronomers Complete Collection](pre-2000/1907-great-astronomers-complete-collection.md)** - Sir Robert Stawell Ball
+- **[Is Mars Habitable?](pre-2000/1907-is-mars-habitable.md)** - Alfred Russel Wallace
+- **[Pragmatism](pre-2000/1907-pragmatism.md)** - William James
+- **[The Olive Fairy Book](pre-2000/1907-the-olive-fairy-book.md)** - Andrew Lang
+- **[The Secret Agent](pre-2000/1907-the-secret-agent.md)** - Joseph Conrad
+- **[A Room with a View](pre-2000/1908-a-room-with-a-view.md)** - E.M. Forster
+- **[Anne of Green Gables](pre-2000/1908-anne-of-green-gables.md)** - Lucy Maud Montgomery
+- **[Mike and Psmith](pre-2000/1908-mike-and-psmith.md)** - P.G. Wodehouse
+- **[Snowbound: Theatrical Tales from a Winter Journey](pre-2000/1908-snowbound.md)** - Bram Stoker
+- **[The Boy Fortune Hunters in Egypt](pre-2000/1908-the-boy-fortune-hunters-in-egypt.md)** - L. Frank Baum (writing as Floyd Akers)
+- **[The Complete Anne Shirley Collection](pre-2000/1908-the-complete-anne-shirley-collection.md)** - Lucy Maud Montgomery
+- **[The Divine Comedy](pre-2000/1908-the-divine-comedy.md)** - Dante Alighieri
+- **[The Iron Heel](pre-2000/1908-the-iron-heel.md)** - Jack London
+- **[The Last Egyptian](pre-2000/1908-the-last-egyptian.md)** - L. Frank Baum
+- **[The Old Wives' Tale](pre-2000/1908-the-old-wives-tale.md)** - Arnold Bennett
+- **[The Perfume of the Lady in Black](pre-2000/1908-the-perfume-of-the-lady-in-black.md)** - Gaston Leroux
+- **[The Wind in the Willows](pre-2000/1908-the-wind-in-the-willows.md)** - Kenneth Grahame
+- **[English Poetry II: From Collins to Fitzgerald](pre-2000/1909-english-poetry-from-collins-to-fitzgerald.md)** - Charles W. Eliot (Editor)
+- **[Martin Eden](pre-2000/1909-martin-eden.md)** - Jack London
+- **[The Crime of the Congo](pre-2000/1909-the-crime-of-the-congo.md)** - Arthur Conan Doyle
+- **[The Road to Oz](pre-2000/1909-the-road-to-oz.md)** - L. Frank Baum
+- **[813 - The Confessions of Arsène Lupin](pre-2000/1910-arsene-lupin-the-confessions.md)** - Maurice Leblanc
+- **[Howards End](pre-2000/1910-howards-end.md)** - E. M. Forster
+- **[Lost Face](pre-2000/1910-lost-face.md)** - Jack London
+- **[Psmith in the City](pre-2000/1910-psmith-in-the-city.md)** - P. G. Wodehouse
+- **[Selected Short Stories](pre-2000/1910-selected-short-stories.md)** - O. Henry
+- **[The Getting of Wisdom](pre-2000/1910-the-getting-of-wisdom.md)** - Henry Handel Richardson
+- **[The Harvard Classics Shelf of Fiction Vol 10](pre-2000/1910-the-harvard-classics-shelf-of-fiction-vol-10.md)** - Nathaniel Hawthorne, Washington Irving, Edgar Allan Poe, Bret Harte, Mark Twain, Edward Everett Hale
+- **[The Intrusion of Jimmy](pre-2000/1910-the-intrusion-of-jimmy.md)** - P.G. Wodehouse
+- **[The Science of Getting Rich, Great and Well](pre-2000/1910-the-science-of-getting-rich-great-and-well.md)** - Wallace D. Wattles
+- **[The Science of Getting Rich](pre-2000/1910-the-science-of-getting-rich.md)** - Wallace D. Wattles
+- **[A Tale Without a Name](pre-2000/1911-a-tale-without-a-name.md)** - Penelope S. Delta
+- **[Burning Secret](pre-2000/1911-burning-secret.md)** - Stefan Zweig
+- **[Ethan Frome](pre-2000/1911-ethan-frome.md)** - Edith Wharton
+- **[Moving the Mountain](pre-2000/1911-moving-the-mountain.md)** - Charlotte Perkins Gilman
+- **[Peter Pan](pre-2000/1911-peter-pan.md)** - J.M. Barrie
+- **[The Cruise of the Snark](pre-2000/1911-the-cruise-of-the-snark.md)** - Jack London
+- **[The Innocence of Father Brown](pre-2000/1911-the-innocence-of-father-brown.md)** - G.K. Chesterton
+- **[The Secret Garden](pre-2000/1911-the-secret-garden.md)** - Frances Hodgson Burnett
+- **[Zuleika Dobson: An Oxford Love Story](pre-2000/1911-zuleika-dobson.md)** - Max Beerbohm
+- **[A Princess of Mars](pre-2000/1912-a-princess-of-mars.md)** - Edgar Rice Burroughs
+- **[Daddy-Long-Legs](pre-2000/1912-daddy-long-legs.md)** - Jean Webster
+- **[Hadji Murad](pre-2000/1912-hadji-murad.md)** - Leo Tolstoy
+- **[Tarzan of the Apes](pre-2000/1912-tarzan-of-the-apes.md)** - Edgar Rice Burroughs
+- **[The Book of Saints and Heroes](pre-2000/1912-the-book-of-saints-and-heroes.md)** - Andrew Lang
+- **[The Desire Trilogy](pre-2000/1912-the-desire-trilogy.md)** - Theodore Dreiser
+- **[The Lost World](pre-2000/1912-the-lost-world.md)** - Sir Arthur Conan Doyle
+- **[The Master Key System](pre-2000/1912-the-master-key-system.md)** - Charles F. Haanel
+- **[Twixt Land & Sea](pre-2000/1912-twixt-land-and-sea.md)** - Joseph Conrad
+- **[Your Mind and How to Use It](pre-2000/1912-your-mind-and-how-to-use-it.md)** - William Walker Atkinson
+- **[The Little Nugget](pre-2000/1913-the-little-nugget.md)** - P. G. Wodehouse
+- **[The Monster Men](pre-2000/1913-the-monster-men.md)** - Edgar Rice Burroughs
+- **[The Poetical Works of Robert Louis Stevenson](pre-2000/1913-the-poetical-works-of-robert-louis-stevenson.md)** - Robert Louis Stevenson
+- **[Totem and Taboo: Some Points of Agreement Between the Mental Lives of Savages and Neurotics](pre-2000/1913-totem-and-taboo.md)** - Sigmund Freud
+- **[15,000 Miles in a Ketch](pre-2000/1914-15000-miles-in-a-ketch.md)** - Raymond Rallier du Baty
+- **[1914 A Portrait of the Artist as a Young Man](pre-2000/1914-a-portrait-of-the-artist-as-a-young-man.md)** - James Joyce
+- **[Death at the Excelsior and Other Stories](pre-2000/1914-death-at-the-excelsior-and-other-stories.md)** - P. G. Wodehouse
+- **[Dracula's Guest](pre-2000/1914-draculas-guest.md)** - Bram Stoker
+- **[Dubliners](pre-2000/1914-dubliners.md)** - James Joyce
+- **[The Harvard Classics Lectures](pre-2000/1914-harvard-classics-lectures.md)** - Charles W. Eliot (Editor), William Allan Neilson (Editor)
+- **[Tender Buttons](pre-2000/1914-tender-buttons.md)** - Gertrude Stein
+- **[Anatomy and Embalming](pre-2000/1915-anatomy-and-embalming.md)** - Albert John Nunnamaker & Charles O. Dhonau
+- **[Pointed Roofs](pre-2000/1915-pointed-roofs.md)** - Dorothy Richardson
+- **[The Good Soldier](pre-2000/1915-the-good-soldier.md)** - Ford Madox Ford
+- **[The Thirty-Nine Steps](pre-2000/1915-the-thirty-nine-steps.md)** - John Buchan
+- **[The Valley of Fear](pre-2000/1915-the-valley-of-fear.md)** - Sir Arthur Conan Doyle
+- **[Within the Tides](pre-2000/1915-within-the-tides.md)** - Joseph Conrad
+- **[A Portrait of the Artist as a Young Man](pre-2000/1916-a-portrait-of-the-artist-as-a-young-man.md)** - James Joyce
+- **[The Mysterious Stranger](pre-2000/1916-the-mysterious-stranger.md)** - Mark Twain
+- **[King Coal: A Novel](pre-2000/1917-king-coal-a-novel.md)** - Upton Sinclair
+- **[Parnassus on Wheels](pre-2000/1917-parnassus-on-wheels.md)** - Christopher Morley
+- **[Piccadilly Jim](pre-2000/1917-piccadilly-jim.md)** - P.G. Wodehouse
+- **[Robin Hood](pre-2000/1917-robin-hood.md)** - Paul Creswick
+- **[The Man with Two Left Feet and Other Stories](pre-2000/1917-the-man-with-two-left-feet-and-other-stories.md)** - P. G. Wodehouse
+- **[Best Russian Short Stories: Quick Literary Guide](pre-2000/1918-best-russian-short-stories.md)** - Various (Pushkin, Gogol, Turgenev, Dostoevsky, Tolstoy, Chekhov, Gorky, Andreyev, and others)
+- **[Expecting Jeeves](pre-2000/1918-expecting-jeeves.md)** - P. G. Wodehouse
+- **[God's Good Man](pre-2000/1918-gods-good-man.md)** - Marie Corelli
+- **[How to Get What You Want](pre-2000/1918-how-to-get-what-you-want.md)** - Wallace D. Wattles
+- **[Memoirs of a Possessed Woman](pre-2000/1919-memoirs-of-a-possessed-woman.md)** - Hanns Heinz Ewers (editor), Soeur Jeanne (primary source)
+- **[Night and Day](pre-2000/1919-night-and-day.md)** - Virginia Woolf
+- **[Prison](pre-2000/1919-prison.md)** - Emmy Hennings
+- **[The Sheik](pre-2000/1919-the-sheik.md)** - E.M. Hull
+- **[The Age of Innocence](pre-2000/1920-the-age-of-innocence.md)** - Edith Wharton
+- **[The Cut-Glass Bowl](pre-2000/1920-the-cut-glass-bowl.md)** - F. Scott Fitzgerald
+- **[The F. Scott Fitzgerald Megapack](pre-2000/1920-the-f-scott-fitzgerald-megapack.md)** - F. Scott Fitzgerald
+- **[The Mysterious Affair at Styles](pre-2000/1920-the-mysterious-affair-at-styles.md)** - Agatha Christie
+- **[1920: The War with White Poland. Pilsudski's Campaign in Ukraine](pre-2000/1920-the-war-with-white-poland-pilsudskis-campaign-in-ukraine.md)** - Nikolai Kakurin, Vladimir Melikov
+- **[A Haunted House](pre-2000/1921-a-haunted-house.md)** - Virginia Woolf
+- **[Letters and Lettering: A Treatise with 200 Examples](pre-2000/1921-letters-and-lettering-a-treatise-with-200-examples.md)** - Frank Chouteau Brown
+- **[The Adventure of the Mazarin Stone](pre-2000/1921-the-adventure-of-the-mazarin-stone.md)** - Arthur Conan Doyle
+- **[The Complete Poems of Banjo Paterson](pre-2000/1921-the-complete-poems-of-banjo-paterson.md)** - Andrew Barton Paterson
+- **[The Engineers and the Price System](pre-2000/1921-the-engineers-and-the-price-system.md)** - Thorstein Veblen
+- **[Fantasia of the Unconscious](pre-2000/1922-fantasia-of-the-unconscious.md)** - David Herbert Lawrence
+- **[Jacob's Room](pre-2000/1922-jacobs-room.md)** - Virginia Woolf
+- **[Porcelain and Pink](pre-2000/1922-porcelain-and-pink.md)** - F. Scott Fitzgerald
+- **[Tales of Terror and Mystery](pre-2000/1922-tales-of-terror-and-mystery.md)** - Arthur Conan Doyle
+- **[The Adventures of Sally](pre-2000/1922-the-adventures-of-sally.md)** - P. G. Wodehouse
+- **[The Curious Case of Benjamin Button](pre-2000/1922-the-curious-case-of-benjamin-button.md)** - Francis Scott Fitzgerald
+- **[The Gentleman from San Francisco and Other Stories](pre-2000/1922-the-gentleman-from-san-francisco-and-other-stories.md)** - Ivan Bunin
+- **[The Glimpses of the Moon](pre-2000/1922-the-glimpses-of-the-moon.md)** - Edith Wharton
+- **[Ulysses](pre-2000/1922-ulysses.md)** - James Joyce
+- **[History of the Later Roman Empire](pre-2000/1923-history-of-the-later-roman-empire.md)** - J.B. Bury
+- **[Men Like Gods](pre-2000/1923-men-like-gods.md)** - H.G. Wells
+- **[The Dark Frigate](pre-2000/1923-the-dark-frigate.md)** - Charles Boardman Hawes
+- **[One Day More](pre-2000/1924-one-day-more.md)** - Joseph Conrad
+- **[Walpurgis Night](pre-2000/1924-walpurgis-night.md)** - Karel Matěj Čapek-Chod
+- **[Mrs Dalloway](pre-2000/1925-mrs-dalloway.md)** - Virginia Woolf
+- **[Science and the Modern World](pre-2000/1925-science-and-the-modern-world.md)** - Alfred North Whitehead
+- **[The Game of Life and How to Play It](pre-2000/1925-the-game-of-life-and-how-to-play-it.md)** - Florence Scovel Shinn
+- **[The Great Gatsby](pre-2000/1925-the-great-gatsby.md)** - Francis Scott Fitzgerald
+- **[The Law of Success in Sixteen Lessons](pre-2000/1925-the-law-of-success-in-sixteen-lessons.md)** - Napoleon Hill
+- **[The Trial](pre-2000/1925-the-trial.md)** - Franz Kafka
+- **[The Call of Cthulhu](pre-2000/1926-the-call-of-cthulhu.md)** - H. P. Lovecraft
+- **[The Castle](pre-2000/1926-the-castle.md)** - Franz Kafka
+- **[The Mad Toy](pre-2000/1926-the-mad-toy.md)** - Roberto Arlt
+- **[The Murder of Roger Ackroyd](pre-2000/1926-the-murder-of-roger-ackroyd.md)** - Agatha Christie
+- **[The Richest Man in Babylon](pre-2000/1926-the-richest-man-in-babylon.md)** - George S. Clason
+- **[The Sun Also Rises](pre-2000/1926-the-sun-also-rises.md)** - Ernest Hemingway
+- **[Winnie-the-Pooh](pre-2000/1926-winnie-the-pooh.md)** - A.A. Milne
+- **[The Big Four](pre-2000/1927-the-big-four.md)** - Agatha Christie
+- **[The Case-Book of Sherlock Holmes](pre-2000/1927-the-casebook-of-sherlock-holmes.md)** - Arthur Conan Doyle
+- **[To the Lighthouse](pre-2000/1927-to-the-lighthouse.md)** - Virginia Woolf
+- **[Casanova: A Study in Self-Portraiture](pre-2000/1928-casanova-a-study-in-self-portraiture.md)** - Stefan Zweig
+- **[The Five of Us in Rome](pre-2000/1928-the-five-of-us-in-rome.md)** - Tine Cool (C.A. Cool), edited by Thomas Cool
+- **[The Law of Success](pre-2000/1928-the-law-of-success.md)** - Napoleon Hill
+- **[Woman, Lady, Harlot: Cultural and Moral History of German Women](pre-2000/1928-woman-lady-harlot-cultural-moral-history-of-german-women.md)** - Johannes Scherr
+- **[Your Word Is Your Wand](pre-2000/1928-your-word-is-your-wand.md)** - Florence Scovel Shinn
+- **[Look Homeward, Angel](pre-2000/1929-look-homeward-angel.md)** - Thomas Wolfe
+- **[Japanese Sexual Life](pre-2000/1930-japanese-sexual-life.md)** - Friedrich S. Krauss, Tamio Satow
+- **[Very Good, Jeeves](pre-2000/1930-very-good-jeeves.md)** - P.G. Wodehouse
+- **[The Good Earth](pre-2000/1931-the-good-earth.md)** - Pearl S. Buck
+- **[Save Me the Waltz](pre-2000/1932-save-me-the-waltz.md)** - Zelda Sayre Fitzgerald
+- **[Stanzas in Meditation](pre-2000/1932-stanzas-in-meditation.md)** - Gertrude Stein
+- **[The Horror in the Museum](pre-2000/1933-the-horror-in-the-museum.md)** - H. P. Lovecraft
+- **[Burmese Days](pre-2000/1934-burmese-days.md)** - George Orwell
+- **[Now in November](pre-2000/1934-now-in-november.md)** - Josephine Johnson
+- **[Right Ho, Jeeves](pre-2000/1934-right-ho-jeeves.md)** - P.G. Wodehouse
+- **[A Clergyman's Daughter](pre-2000/1935-a-clergymans-daughter.md)** - George Orwell
+- **[Heaven's My Destination](pre-2000/1935-heavens-my-destination.md)** - Thornton Wilder
+- **[It Can't Happen Here](pre-2000/1935-it-cant-happen-here.md)** - Sinclair Lewis
+- **[At the Mountains of Madness](pre-2000/1936-at-the-mountains-of-madness.md)** - H. P. Lovecraft
+- **[How to Win Friends and Influence People](pre-2000/1936-how-to-win-friends-and-influence-people.md)** - Dale Carnegie
+- **[Shooting an Elephant and Other Essays](pre-2000/1936-shooting-an-elephant-and-other-essays.md)** - George Orwell
+- **[The Spirit of Astrology](pre-2000/1936-the-spirit-of-astrology.md)** - Oscar A. H. Schmitz
+- **[Journey by Moonlight](pre-2000/1937-journey-by-moonlight.md)** - Antal Szerb
+- **[Murder in Mesopotamia](pre-2000/1937-murder-in-mesopotamia.md)** - Agatha Christie
+- **[The Ghost-Feeler: Stories of Terror and the Supernatural](pre-2000/1937-the-ghost-feeler.md)** - Edith Wharton
+- **[The Road to Wigan Pier](pre-2000/1937-the-road-to-wigan-pier.md)** - George Orwell
+- **[Think and Grow Rich](pre-2000/1937-think-and-grow-rich.md)** - Napoleon Hill
+- **[The Runaways](pre-2000/1938-the-runaways.md)** - Elizabeth Goudge
+- **[Finnegans Wake](pre-2000/1939-finnegans-wake.md)** - James Joyce
+- **[The May Days of 1940](pre-2000/1940-the-may-days-of-1940.md)** - Luuc Kooijmans
+- **[The Last Tycoon](pre-2000/1941-the-last-tycoon.md)** - F. Scott Fitzgerald
+- **[The Little Prince](pre-2000/1943-the-little-prince.md)** - Antoine de Saint-Exupéry
+- **[The Queen's Necklace](pre-2000/1943-the-queens-necklace.md)** - Antal Szerb
+- **[Stephen Hero](pre-2000/1944-stephen-hero.md)** - James Joyce
+- **[The Star with No Name](pre-2000/1944-the-star-with-no-name.md)** - Mihail Sebastian
+- **[Animal Farm](pre-2000/1945-animal-farm.md)** - George Orwell
+- **[Delta Wedding](pre-2000/1946-delta-wedding.md)** - Eudora Welty
+- **[Joy in the Morning](pre-2000/1946-joy-in-the-morning.md)** - P.G. Wodehouse
+- **[Nineteen Eighty-Four](pre-2000/1949-nineteen-eighty-four.md)** - George Orwell
+- **[The Intelligent Investor](pre-2000/1949-the-intelligent-investor.md)** - Benjamin Graham
+- **[Nothing Serious](pre-2000/1950-nothing-serious.md)** - P.G. Wodehouse
+- **[All Our Yesterdays](pre-2000/1952-all-our-yesterdays.md)** - Natalia Ginzburg
+- **[The Courage to Be](pre-2000/1952-the-courage-to-be.md)** - Paul Tillich
+- **[The Old Man and the Sea](pre-2000/1952-the-old-man-and-the-sea.md)** - Ernest Hemingway
+- **[Nanga Parbat Pilgrimage](pre-2000/1953-nanga-parbat-pilgrimage.md)** - Hermann Buhl
+- **[Ring for Jeeves](pre-2000/1953-ring-for-jeeves.md)** - P. G. Wodehouse
+- **[Jeeves and the Feudal Spirit](pre-2000/1954-jeeves-and-the-feudal-spirit.md)** - P.G. Wodehouse
+- **[The Mating Season](pre-2000/1955-the-mating-season.md)** - P. G. Wodehouse
+- **[The Religion of India](pre-2000/1958-the-religion-of-india.md)** - Max Weber
+- **[Sive](pre-2000/1959-sive.md)** - John B. Keane
+- **[Jeeves in the Offing](pre-2000/1960-jeeves-in-the-offing.md)** - P.G. Wodehouse
+- **[The Country Girls Trilogy](pre-2000/1960-the-country-girls-trilogy.md)** - Edna O'Brien
+- **[Letters from the Earth](pre-2000/1962-letters-from-the-earth.md)** - Mark Twain
+- **[Silent Spring](pre-2000/1962-silent-spring.md)** - Rachel Carson, Edward O. Wilson, Linda Lear
+- **[Sword at Sunset](pre-2000/1963-sword-at-sunset.md)** - Rosemary Sutcliff
+- **[The Cosmic Computer](pre-2000/1963-the-cosmic-computer.md)** - H. Beam Piper
+- **[The Feminine Mystique](pre-2000/1963-the-feminine-mystique.md)** - Betty Friedan, Anna Quindlen (introduction)
+- **[The Three Christs of Ypsilanti](pre-2000/1964-the-three-christs-of-ypsilanti.md)** - Milton Rokeach, Rick Moody
+- **[The Autobiography of Malcolm X](pre-2000/1965-the-autobiography-of-malcolm-x.md)** - Malcolm X, Alex Haley
+- **[On the Genealogy of Morals and Ecce Homo](pre-2000/1967-on-the-genealogy-of-morals-and-ecce-homo.md)** - Friedrich Wilhelm Nietzsche, Walter Arnold Kaufmann (Translator)
+- **[In the First Circle](pre-2000/1968-in-the-first-circle.md)** - Alexander Solzhenitsyn
+- **[I Know Why the Caged Bird Sings](pre-2000/1969-i-know-why-the-caged-bird-sings.md)** - Maya Angelou, Harold Bloom (Critical Analysis)
+- **[About René Gysen: A Literary Life in Perspective](pre-2000/1970-about-rene-gysen.md)** - Hilda van Assche, Pierre H. Dubois, Gust Gils, Harry Konings, Willy Roggeman, Paul de Wispelaere
+- **[Fear and Loathing in Las Vegas](pre-2000/1971-fear-and-loathing-in-las-vegas.md)** - Hunter S. Thompson, Ralph Steadman
+- **[The Moon's a Balloon](pre-2000/1971-the-moons-a-balloon.md)** - David Niven
+- **[Alive](pre-2000/1972-alive.md)** - Piers Paul Read
+- **[Dominic](pre-2000/1972-dominic.md)** - William Steig
+- **[Farewell to Manzanar](pre-2000/1973-farewell-to-manzanar.md)** - Jeanne Wakatsuki Houston, James D. Houston
+- **[I Am! Be!](pre-2000/1973-i-am-be.md)** - Sri Nisargadatta Maharaj
+- **[The Secret Life of Plants](pre-2000/1973-the-secret-life-of-plants.md)** - Peter Tompkins, Christopher Bird
+- **[Aunts Aren't Gentlemen](pre-2000/1974-aunts-arent-gentlemen.md)** - P.G. Wodehouse
+- **[Zen and the Art of Motorcycle Maintenance](pre-2000/1974-zen-and-the-art-of-motorcycle-maintenance.md)** - Robert M. Pirsig
+- **[Rumble Fish](pre-2000/1975-rumble-fish.md)** - S.E. Hinton
+- **[The Bright Light of Death](pre-2000/1977-the-bright-light-of-death.md)** - Annabel Chaplin
+- **[1977-The-Path-Between-The-Seas.md](pre-2000/1977-the-path-between-the-seas.md)** - David McCullough
+- **[Everest: Expedition to the Ultimate](pre-2000/1978-everest-expedition-to-the-ultimate.md)** - Reinhold Messner
+- **[The Crow Eaters](pre-2000/1978-the-crow-eaters.md)** - Bapsi Sidhwa
+- **[The Shining Mountain](pre-2000/1978-the-shining-mountain.md)** - Peter Boardman
+- **[Catch Me If You Can](pre-2000/1980-catch-me-if-you-can.md)** - Frank W. Abagnale Jr., Stan Redding
+- **[The Cheese and the Worms](pre-2000/1980-the-cheese-and-the-worms.md)** - Carlo Ginzburg (with John and Anne C. Tedeschi translation)
+- **[The Third Wave](pre-2000/1980-the-third-wave.md)** - Alvin Toffler
+- **[The Tao of Pooh](pre-2000/1982-the-tao-of-pooh.md)** - Benjamin Hoff
+- **[Amusing Ourselves to Death](pre-2000/1985-amusing-ourselves-to-death.md)** - Neil Postman, Andrew Postman
+- **[Cosmos](pre-2000/1985-cosmos.md)** - Carl Sagan
+- **[Knights of Today](pre-2000/1987-knights-of-today.md)** - André Van Bosbeke
+- **[The Fatal Shore](pre-2000/1988-the-fatal-shore.md)** - Robert Hughes
+- **[Parting the Waters: America in the King Years 1954-63](pre-2000/1989-parting-the-waters.md)** - Taylor Branch
+- **[The 7 Habits of Highly Effective People](pre-2000/1989-the-7-habits-of-highly-effective-people.md)** - Stephen R. Covey
+- **[Toxic Parents](pre-2000/1989-toxic-parents.md)** - Susan Forward (with Craig Buck)
+- **[Getting Sick Can Be Good: Illness as a Defense of Health](pre-2000/1990-getting-sick-can-be-good.md)** - Giorgio Abraham, Claudia Peregrini
+- **[The Power of Myth](pre-2000/1991-the-power-of-myth.md)** - Joseph Campbell, Bill Moyers
+- **[The Silva Mind Control Method](pre-2000/1991-the-silva-mind-control-method.md)** - José Silva, Philip Miele
+- **[Last Chance to See](pre-2000/1992-last-chance-to-see.md)** - Douglas Adams, Mark Carwardine
+- **[The Evolution of Useful Things](pre-2000/1992-the-evolution-of-useful-things.md)** - Henry Petroski
+- **[The Personality of Ireland](pre-2000/1993-the-personality-of-ireland.md)** - E. Estyn Evans
+- **[Zoology: On (Post) Modern Animals](pre-2000/1993-zoology-on-post-modern-animals.md)** - Bart Verschaffel & Mark Verminck (Editors)
+- **[The Coming Plague](pre-2000/1994-the-coming-plague.md)** - Laurie Garrett
+- **[The Language Instinct](pre-2000/1994-the-language-instinct.md)** - Steven Pinker
+- **[Being Digital](pre-2000/1995-being-digital.md)** - Nicholas Negroponte
+- **[Exquisite Corpse](pre-2000/1995-exquisite-corpse.md)** - Robert Irwin
+- **[Longitude](pre-2000/1995-longitude.md)** - Dava Sobel
+- **[Angela's Ashes](pre-2000/1996-angelas-ashes.md)** - Frank McCourt
+- **[Into the Wild](pre-2000/1996-into-the-wild.md)** - Jon Krakauer
+- **[Man's Search for Meaning](pre-2000/1996-mans-search-for-meaning.md)** - Viktor E. Frankl
+- **[The Blind Watchmaker](pre-2000/1996-the-blind-watchmaker.md)** - Richard Dawkins
+- **[The Millionaire Next Door](pre-2000/1996-the-millionaire-next-door.md)** - Thomas J. Stanley, Ph.D., William D. Danko, Ph.D.
+- **[Review of Environmental Monitoring in Russia and Former Soviet Union](pre-2000/1997-review-of-environmental-monitoring-in-russia-and-former-soviet-union.md)** - V.I. Larin
+- **[The Gift of Fear](pre-2000/1997-the-gift-of-fear.md)** - Gavin de Becker
+- **[The Perfect Storm](pre-2000/1997-the-perfect-storm.md)** - Sebastian Junger
+- **[A Supposedly Fun Thing I'll Never Do Again](pre-2000/1998-a-supposedly-fun-thing-ill-never-do-again.md)** - David Foster Wallace
+- **[Cod: A Biography of the Fish That Changed the World](pre-2000/1998-cod-a-biography-of-the-fish-that-changed-the-world.md)** - Mark Kurlansky
+- **[The Green Man](pre-2000/1998-the-green-man.md)** - Kathleen Basford
+- **[Who Moved My Cheese?](pre-2000/1998-who-moved-my-cheese.md)** - Spencer Johnson, Kenneth Blanchard
+- **[Biological Exuberance](pre-2000/1999-biological-exuberance.md)** - Bruce Bagemihl
+- **[Black Hawk Down](pre-2000/1999-black-hawk-down.md)** - Mark Bowden
+- **[Gödel, Escher, Bach: An Eternal Golden Braid](pre-2000/1999-godel-escher-bach.md)** - Douglas R. Hofstadter
+- **[Nature as Teacher](pre-2000/1999-nature-as-teacher.md)** - Viktor Schauberger, translated & edited by Callum Coats
+- **[The Calendar: The 5000-year Struggle to Align the Clock and the Heavens](pre-2000/1999-the-calendar-5000-year-struggle.md)** - David Ewing Duncan
+- **[The Developing Mind](pre-2000/1999-the-developing-mind.md)** - Daniel J. Siegel
+- **[The Elohim, Zecharia Sitchin, Pyramids and Christopher Dunn](pre-2000/1999-the-elohim-zecharia-sitchin-pyramids-and-christopher-dunn.md)** - Edmund Meadows
+- **[The Long Hard Road Out of Hell](pre-2000/1999-the-long-hard-road-out-of-hell.md)** - Marilyn Manson (Brian Warner), Neil Strauss
+- **[The Potato: How the Humble Spud Rescued the Western World](pre-2000/1999-the-potato-how-the-humble-spud-rescued-the-western-world.md)** - Larry Zuckerman
+- **[The Scattered Brain](pre-2000/1999-the-scattered-brain.md)** - Gabor Maté
+- **[The Nicomachean Ethics of Aristotle](pre-2000/350-the-nicomachean-ethics-of-aristotle.md)** - Aristotle
+- **[Agamemnon: A Tragic Tale of Justice and Revenge](pre-2000/458-bce-agamemnon.md)** - Aeschylus
+- **[The House of Atreus](pre-2000/458-bce-the-house-of-atreus.md)** - Aeschylus
+- **[The Art of War](pre-2000/500-the-art-of-war.md)** - Sun Tzu
+- **[The Wolf in Sheep's Clothing](pre-2000/600-the-wolf-in-sheeps-clothing.md)** - Aesop
+- **[Odyssey](pre-2000/800-bc-odyssey.md)** - Homeros
