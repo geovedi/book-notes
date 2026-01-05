@@ -11,8 +11,9 @@ A collection of book summaries organized by year.
 
 EOF
 
-# Process directories in order: pre-2000 first, then years
-dirs=$(ls -d */ | sort -V)
+# Process directories: years in reverse (recent first), pre-2000 at end
+dirs=$(ls -d */ | grep -v "^pre-2000/$" | sort -Vr)
+dirs="$dirs pre-2000/"
 
 for dir in $dirs; do
   dir_name=$(echo "$dir" | sed 's/\///')
