@@ -3,6 +3,7 @@
 **Format:** Key Ideas Digest
 **Genre:** Self-Help / Spiritual Philosophy
 **Reading Time:** 7 minutes
+**Year:**: 2021
 **Original Year:** 1940 (though listed as 2021 in this edition)
 **Category**: Self-Help & Personal Development
 

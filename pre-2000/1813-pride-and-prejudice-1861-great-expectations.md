@@ -1,5 +1,6 @@
 # Great Expectations & Pride and Prejudice
 **Original Titles**: "Great Expectations" (Charles Dickens), "Pride and Prejudice" (Jane Austen) | **Years**: 1861, 1813
+**Year:**: 1861
 **Category**: Fiction & Literature
 
 ## Summary

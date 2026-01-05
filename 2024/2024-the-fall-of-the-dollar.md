@@ -1,5 +1,6 @@
 # The Fall of the Dollar
 **Original Title**: De val van de Dollar
+**Year:**: 2024
 **Category**: Business & Finance 
 
 ## Summary

@@ -1,6 +1,6 @@
 # Fast-Track Story Guide: The Adventures of the Scarlet Pimpernel
 
-**Publication Year:** 2022 | **Category**: Fiction & Literature
+**Year:** 2022 | **Category**: Fiction & Literature
 **Author:** Emmuska Orczy
 **Genre:** Historical Adventure Fiction
 **Time Commitment:** 7-minute read

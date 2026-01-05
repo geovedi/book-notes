@@ -1,5 +1,6 @@
 # 2012 - A Brief Introduction to Astronomy in the Middle East: Key Ideas Digest
 
+**Year:**: 2012
 **Category**: Science & Nature
 
 ## Summary

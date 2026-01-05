@@ -1,6 +1,7 @@
 # Key Ideas Digest: Applied Imagination
 
 **By Alex F. Osborn (2013 Edition)**
+**Year:**: 2013
 *Principles and Procedures of Creative Thinking* | **Category**: Self-Help & Personal Development
 
 ---

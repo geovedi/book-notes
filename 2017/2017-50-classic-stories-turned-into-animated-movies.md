@@ -1,6 +1,7 @@
 # 50 Classic Stories Which Were Turned Into Famous Animated Movies
 
 **Fast-Track Story Guide - 5 Minute Read**
+**Year:**: 2017
 **Category**: Children & Young Adult
 
 ---

@@ -1,7 +1,7 @@
 # Fearless Public Speaking: A Practical Playbook
 
 **Author:** Patrick King
-**Publication Year:** 2019
+**Year:** 2019
 **Original Title:** Fearless Public Speaking
 **Category**: Self-Help & Personal Development
 **Format:** Practical Playbook
