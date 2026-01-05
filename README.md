@@ -175,7 +175,6 @@ A collection of book summaries organized by year.
 - **[The Performer: Art, Life, Politics](2024/2024-the-performer-art-life-politics.md)** - **Authors**: Richard Sennett
 - **[The Relentless Pursuit of Peace](2024/2024-the-relentless-pursuit-of-peace.md)** - **Authors**: Max Coates
 - **[The Return of the Firefly](2024/2024-the-return-of-the-firefly.md)** - **Authors**: GeAnn Powers
-- **[The Seaweed Revolution](2024/2024-the-seaweed-revolution.md)** - **Author**: Vincent Doumeizel
 - **[The Self-Love Book: A Therapeutic Strategy for Self-Support and Acceptance](2024/2024-the-self-love-book.md)** - **Author**: Amy Tran
 - **[The Self-Motivated](2024/2024-the-self-motivated.md)** - **Author**: Unknown
 - **[Think Like a Brand. Act Like a Startup.](2024/2024-think-like-a-brand-act-like-a-startup.md)** - **Authors**: Lauren Perkins
@@ -288,7 +287,6 @@ A collection of book summaries organized by year.
 - **[Suffering, Redemption and Triumph](2023/2023-suffering-redemption-and-triumph.md)** - **Author**: Peter Brune
 - **[The Amazon Income Guide: 20 Ways to Make Money with Amazon](2023/2023-the-amazon-income-guide.md)** - **Author**: Jeff Walker
 - **[The Art of Letting Go](2023/2023-the-art-of-letting-go.md)** - **Authors**: Nick Trenton
-- **[The Art of War](2023/2023-the-art-of-war.md)** - **Author**: Sun Tzu
 - **[The Bacteria and the Brain](2023/2023-the-bacteria-and-the-brain.md)** - **Authors**: Iris Sommer
 - **[The Best Minds: A Story of Friendship, Madness, and the Tragedy of Good Intentions](2023/2023-the-best-minds.md)** - **Author**: Jonathan Rosen
 - **[The Birth of Long-Range Aviation: The Ilya Muromets Airship Squadron](2023/2023-the-birth-of-long-range-aviation-the-ilya-muromets-airship-squadron.md)** - **Author**: Vladimir Ilyich Saperov
@@ -319,7 +317,6 @@ A collection of book summaries organized by year.
 - **[The Theory of One or Two](2023/2023-the-theory-of-one-or-two.md)** - **Author**: Ismail 'Ish' Ait Hamou
 - **[The Wager](2023/2023-the-wager.md)** - **Author**: David Grann
 - **[There Will Be Fire](2023/2023-there-will-be-fire.md)** - **Author**: Rory Carroll
-- **[Think and Grow Rich](2023/2023-think-and-grow-rich.md)** - **Authors**: Napoleon Hill
 - **[Thornhedge](2023/2023-thornhedge.md)** - **Authors**: T. Kingfisher
 - **[Time of Transformation](2023/2023-time-of-transformation.md)** - **Authors**: Stefan Bollmann
 - **[Unscripted](2023/2023-unscripted.md)** - **Authors**: James B. Stewart, Rachel Abrams
@@ -368,7 +365,6 @@ A collection of book summaries organized by year.
 - **[How to Write Highly Effective Ads](2022/2022-how-to-write-highly-effective-ads.md)** - **Authors**: Unknown Author
 - **[Identifying Business Opportunities](2022/2022-identifying-business-opportunities.md)** - **Authors**: Unknown
 - **[Impossible, Possible and Improbable](2022/2022-impossible-possible-and-improbable.md)** - **Authors**: John Gribbin
-- **[Improve Your People Skills](2022/2022-improve-your-people-skills.md)** - **Authors**: Patrick King
 - **[India's Experiment With Democracy](2022/2022-indias-experiment-with-democracy.md)** - **Authors**: S.Y. Quraishi
 - **[Investing for Beginners 2025](2022/2022-investing-for-beginners.md)** - **Authors**: Greg Marty
 - **[James Acaster's Guide to Quitting Social Media](2022/2022-james-acasters-guide-to-quitting-social-media.md)** - **Author**: James Acaster
@@ -727,7 +723,6 @@ A collection of book summaries organized by year.
 - **[Dark Psychology & Manipulation 2-in-1](2019/2019-dark-psychology-manipulation-2-in-1.md)** - **Authors**: Tony Bennis
 - **[Day Trading: 10 Best Beginners Strategies](2019/2019-day-trading-10-best-beginners-strategies.md)** - **Authors**: Mark Graham
 - **[Day Trading Strategies](2019/2019-day-trading-strategies.md)** - **Authors**: Mark Graham
-- **[Day Trading: 10 Best Beginners Strategies](2019/2019-day-trading.md)** - **Authors**: Mark Graham
 - **[Digital Minimalism](2019/2019-digital-minimalism.md)** - **Author**: Cal Newport
 - **[Discipline Your Thoughts](2019/2019-discipline-your-thoughts.md)** - **Authors**: Steven Schuster
 - **[Dropshipping: Road to $10,000 per month of Passive Income](2019/2019-dropshipping-road-to-10000-per-month.md)** - **Authors**: Mark Graham
@@ -747,7 +742,6 @@ A collection of book summaries organized by year.
 - **[Forex Trading: Two Round Number Strategies](2019/2019-forex-trading.md)** - **Authors**: Heikin Ashi Trader
 - **[Germans and Indo-European Migration](2019/2019-germans-and-indo-european-migration.md)** - **Author**: Andrey Tikhomirov
 - **[GRIP: A Practical Guide to Productivity and Life Management](2019/2019-grip.md)** - **Author**: Rick Pastoor
-- **[Growing Business Innovation](2019/2019-growing-business-innovation.md)** - **Authors**: Jonathan Reuvid (Editor)
 - **[Hacking the Code of Life](2019/2019-hacking-the-code-of-life.md)** - **Authors**: Nessa Carey
 - **[Her Red Hood](2019/2019-her-red-hood.md)** - **Authors**: A. Anders
 - **[History from the Zero: Post Metamodernism](2019/2019-history-from-the-zero-post-metamodernism.md)** - **Author**: Viktoriia Managarova
@@ -814,12 +808,10 @@ A collection of book summaries organized by year.
 - **[Smart Skills: Communications](2019/2019-smart-skills-communication.md)** - **Authors**: Patrick Forsyth
 - **[Smart Skills: Meetings](2019/2019-smart-skills-meetings.md)** - **Authors**: Patrick Forsyth
 - **[Social Media Marketing & Branding: The Micro MBA](2019/2019-social-media-marketing-branding-micro-mba.md)** - **Authors**: Ankit Srivastava
-- **[Social Media Marketing 2019](2019/2019-social-media-marketing.md)** - **Authors**: Ray Welch
 - **[Spend Smart](2019/2019-spend-smart.md)** - **Authors**: Zoe McKey
 - **[Start-Up Wise](2019/2019-start-up-wise.md)** - **Authors**: Jonathan Reuvid
 - **[Start with the End in Mind](2019/2019-start-with-the-end-in-mind.md)** - **Authors**: Jamal Sahib
 - **[Stay Sexy & Don't Get Murdered](2019/2019-stay-sexy-dont-get-murdered.md)** - **Authors**: Karen Kilgariff, Georgia Hardstark
-- **[Stock Market Investing for Beginners](2019/2019-stock-market-investing-for-beginners.md)** - **Authors**: Mark Graham
 - **[Stress is a Choice](2019/2019-stress-is-a-choice.md)** - **Authors**: Hilbrand Bos
 - **[Successful Integrated Planning for Supply Chain](2019/2019-successful-integrated-planning-for-supply-chain.md)** - **Authors**: Andrei Besedin
 - **[Super Thinking: The Big Book of Mental Models](2019/2019-super-thinking-the-big-book-of-mental-models.md)** - **Authors**: Gabriel Weinberg, Lauren McCann
@@ -1042,7 +1034,6 @@ A collection of book summaries organized by year.
 - **[LinkedIn Marketing](2018/2018-linkedin-marketing.md)** - **Author**: Unknown
 - **[Make Money at Home 2-in-1 Bundle: Online Teaching with Udemy & Selling Crafts on Etsy](2018/2018-make-money-at-home-online-teaching-etsy-crafts.md)** - **Authors**: Madison Booker, Marc Hayes
 - **[Make Money Online Now: 2-in-1 Bundle](2018/2018-make-money-online-now-2-in-1-bundle.md)** - **Authors**: Marc Hayes, Madison Hall
-- **[Managing Cybersecurity Risk](2018/2018-managing-cybersecurity-risk.md)** - **Authors**: Jonathan Reuvid (Editor)
 - **[Marketing Automation](2018/2018-marketing-automation.md)** - **Authors**: George Pain
 - **[Mastering Business Social Media Marketing in Theory & Practice](2018/2018-mastering-business-social-media-marketing-in-theory-practice.md)** - **Authors**: Neil Hoechlin
 - **[Mastering Fear](2018/2018-mastering-fear.md)** - **Authors**: Brandon Webb, John David Mann
@@ -1119,7 +1110,6 @@ A collection of book summaries organized by year.
 - **[The Art of Hustling](2018/2018-the-art-of-hustling.md)** - **Authors**: DJ Sbu (Sbusiso Leope)
 - **[The Art of Logical Thinking](2018/2018-the-art-of-logical-thinking.md)** - **Authors**: William Atkinson
 - **[The Art of Public Speaking](2018/2018-the-art-of-public-speaking.md)** - **Authors**: Dale Carnegie
-- **[The Art of War](2018/2018-the-art-of-war.md)** - **Authors**: Sun Tzu, Wu Tzu
 - **[The Beggar and Other Stories](2018/2018-the-beggar-and-other-stories.md)** - **Authors**: Gaito Gazdanov
 - **[The Beginning and the End of Everything](2018/2018-the-beginning-and-the-end-of-everything.md)** - **Authors**: Paul Parsons
 - **[The Christmas Library](2018/2018-the-christmas-library.md)** - **Authors**: Various Authors (Charles Dickens, Anton Chekhov, Arthur Conan Doyle, Dylan Thomas, Beatrix Potter, and many others)
@@ -1181,7 +1171,6 @@ A collection of book summaries organized by year.
 - **[War Games: The Psychology of Combat](2018/2018-war-games.md)** - **Authors**: Leo Murray
 - **[What Makes a Great Leader](2018/2018-what-makes-a-great-leader.md)** - **Authors**: Alecu Vlad
 - **[What Poor People Do That Rich People Don't](2018/2018-what-poor-people-do-that-rich-people-dont.md)** - **Authors**: Kevin Solimon
-- **[The Complete Works of William Shakespeare](2018/2018-william-shakespeare-the-complete-collection.md)** - **Authors**: William Shakespeare
 - **[With the Rise of the Wind](2018/2018-with-the-rise-of-the-wind.md)** - **Authors**: Jay Maclean
 - **[You Can't Go Home Again](2018/2018-you-cant-go-home-again.md)** - **Authors**: Thomas Wolfe
 - **[YouTube Marketing: A Comprehensive Guide](2018/2018-youtube-marketing.md)** - **Authors**: Mark Smith
@@ -1365,7 +1354,6 @@ A collection of book summaries organized by year.
 - **[The Hidden Lives of Tudor Women](2017/2017-the-hidden-lives-of-tudor-women.md)** - **Authors**: Elizabeth Norton
 - **[The Hideout](2017/2017-the-hideout.md)** - **Authors**: Egon Hostovský
 - **[The Iliad & The Odyssey](2017/2017-the-iliad-and-the-odyssey.md)** - **Authors**: Homer
-- **[The Iliad & The Odyssey](2017/2017-the-iliad-the-odyssey.md)** - **Authors**: Homer, Andrew Lang
 - **[The Little Book of Hygge](2017/2017-the-little-book-of-hygge.md)** - **Authors**: Meik Wiking
 - **[The Lost City of the Monkey God](2017/2017-the-lost-city-of-the-monkey-god.md)** - **Authors**: Douglas Preston
 - **[The Magical World of Science](2017/2017-the-magical-world-of-science.md)** - **Authors**: Zsuzsanna Gyarmati, Ph.D.
@@ -1461,7 +1449,6 @@ A collection of book summaries organized by year.
 - **[Hiding from the Internet](2016/2016-hiding-from-the-internet.md)** - **Author**: Michael Bazzell
 - **[Hillbilly Elegy](2016/2016-hillbilly-elegy.md)** - **Author**: J.D. Vance
 - **[Homemade Repellents: The Ultimate Guide to Homemade Repellents and Natural After-Bites Remedies](2016/2016-homemade-repellents.md)** - **Authors**: Andrew Forrest
-- **[Homo Deus: A Brief History of Tomorrow](2016/2016-homo-deus-a-brief-history-of-tomorrow.md)** - **Authors**: Yuval Noah Harari
 - **[How Billionaires Live: How Successful People Think and Behave](2016/2016-how-billionaires-live-how-successful-people-think-and-behave.md)** - **Authors**: Samuel River
 - **[How Chance and Stupidity Have Changed History](2016/2016-how-chance-and-stupidity-have-changed-history.md)** - **Authors**: Erik Durschmied
 - **[How to Measure Anything in Cybersecurity Risk](2016/2016-how-to-measure-anything-in-cybersecurity-risk.md)** - **Authors**: Douglas W. Hubbard, Richard Seiersen
@@ -1753,7 +1740,6 @@ A collection of book summaries organized by year.
 - **[Flash Boys: A Wall Street Revolt](2014/2014-flash-boys.md)** - **Author**: Michael Lewis
 - **[H is for Hawk](2014/2014-h-is-for-hawk.md)** - **Author**: Helen Macdonald
 - **[How to Be a Successful Developer](2014/2014-how-to-be-a-successful-developer.md)** - **Authors**: Ralph R. Pisani and Robert L. Pisani
-- **[How to Read Literature Like a Professor](2014/2014-how-to-read-literature-like-a-professor.md)** - **Author**: Thomas C. Foster
 - **[Hyperbole and a Half](2014/2014-hyperbole-and-a-half.md)** - **Author**: Allie Brosh
 - **[Instant Communication Skills](2014/2014-instant-communication-skills.md)** - **Authors**: Instant Series Publication
 - **[Instant Goals](2014/2014-instant-goals.md)** - **Authors**: Instant Series Publication
@@ -1803,7 +1789,6 @@ A collection of book summaries organized by year.
 - **[The Literary Heritage of the Arabs](2014/2014-the-literary-heritage-of-the-arabs.md)** - **Authors**: Suheil Bushrui, James M. Malarkey
 - **[The Mind of a Leader I](2014/2014-the-mind-of-a-leader-i.md)** - **Authors**: Benjamin Holk Henriksen & Fredrik Lassenius
 - **[The Obstacle Is the Way](2014/2014-the-obstacle-is-the-way.md)** - **Author**: Ryan Holiday
-- **[The Odyssey](2014/2014-the-odyssey.md)** - **Authors**: Homer
 - **[The Opposite of Loneliness](2014/2014-the-opposite-of-loneliness.md)** - **Authors**: Marina Keegan, Anne Fadiman
 - **[The Romanov Sisters: The Lost Lives of the Daughters of Nicholas and Alexandra](2014/2014-the-romanov-sisters.md)** - **Authors**: Helen Rappaport
 - **[The Second Machine Age](2014/2014-the-second-machine-age.md)** - **Authors**: Erik Brynjolfsson, Andrew McAfee
@@ -2056,7 +2041,6 @@ A collection of book summaries organized by year.
 - **[Collapse: How Societies Choose to Fail or Succeed](2011/2011-collapse-how-societies-choose-to-fail-or-succeed.md)** - **Author**: Jared Diamond
 - **[Dead Funny: Humor in Hitler's Germany](2011/2011-dead-funny-humor-in-hitlers-germany.md)** - **Authors**: Rudolph Herzog, Jefferson Chase
 - **[Debt: The First 5,000 Years](2011/2011-debt-the-first-5-000-years.md)** - **Author**: David Graeber
-- **[Delusions of Gender](2011/2011-delusions-of-gender.md)** - **Author**: Cordelia Fine
 - **[Demon Fish: Travels Through the Hidden World of Sharks](2011/2011-demon-fish-travels-through-the-hidden-world-of-sharks.md)** - **Author**: Juliet Eilperin
 - **[Destiny of the Republic](2011/2011-destiny-of-the-republic.md)** - **Author**: Candice Millard
 - **[Everything is Obvious](2011/2011-everything-is-obvious.md)** - **Authors**: Duncan J. Watts
@@ -2231,7 +2215,6 @@ A collection of book summaries organized by year.
 
 ## 2009
 
-- **[A New Earth](2009/2009-a-new-earth.md)** - **Author**: Eckhart Tolle
 - **[A People's History of the United States](2009/2009-a-peoples-history-of-the-united-states.md)** - **Author**: Howard Zinn
 - **[Abigail Adams](2009/2009-abigail-adams.md)** - **Author**: Woody Holton
 - **[An Irreverent Curiosity](2009/2009-an-irreverent-curiosity.md)** - **Author**: David Farley
@@ -2265,7 +2248,6 @@ A collection of book summaries organized by year.
 - **[Nothing to Envy](2009/2009-nothing-to-envy.md)** - **Author**: Barbara Demick
 - **[NurtureShock: New Thinking About Children](2009/2009-nurture-shock-new-thinking-about-children.md)** - **Authors**: Po Bronson, Ashley Merryman
 - **[On the Role of the Actuary in a Changing World](2009/2009-on-the-role-of-the-actuary-in-a-changing-world.md)** - **Authors**: John R. Gordon BSc FIA
-- **[Predictably Irrational](2009/2009-predictably-irrational.md)** - **Authors**: Dan Ariely
 - **[Problem Solving 101](2009/2009-problem-solving-101.md)** - **Author**: Ken Watanabe
 - **[Slow-Tech](2009/2009-slow-tech.md)** - **Authors**: Andrew R. G. Price
 - **[Start with Why](2009/2009-start-with-why.md)** - **Authors**: Simon Sinek
@@ -2337,7 +2319,6 @@ A collection of book summaries organized by year.
 - **[The Billionaire's Vinegar](2008/2008-the-billionaires-vinegar.md)** - **Author**: Benjamin Wallace
 - **[The Dirt on Clean: An Unsanitized History](2008/2008-the-dirt-on-clean-an-unsanitized-history.md)** - **Author**: Katherine Ashenburg
 - **[The Geography of Bliss](2008/2008-the-geography-of-bliss.md)** - **Authors**: Eric Weiner
-- **[The God Delusion](2008/2008-the-god-delusion.md)** - **Author**: Richard Dawkins
 - **[The Golden Ratio](2008/2008-the-golden-ratio.md)** - **Author**: Mario Livio
 - **[The Idealist Guide to Nonprofit Careers for Sector Switchers](2008/2008-the-idealist-guide-to-nonprofit-careers.md)** - **Authors**: Meg Busse, Steven Joiner
 - **[The Kingdom of Infinite Space](2008/2008-the-kingdom-of-infinite-space.md)** - **Authors**: Raymond Tallis
@@ -2663,11 +2644,9 @@ A collection of book summaries organized by year.
 - **[Meditations](pre-2000/0180-meditations.md)** - **Authors**: Marcus Aurelius
 - **[The Kama Sutra](pre-2000/0400-the-kama-sutra.md)** - **Authors**: Vātsyāyana
 - **[The Great Perfection of Wisdom](pre-2000/1-the-great-perfection-of-wisdom.md)** - **Original Title**: Mahaprajnaparamita
-- **[The Tale of Genji](pre-2000/1010-the-tale-of-genji.md)** - **Original Title**: 源氏物語 (Genji Monogatari)
 - **[The Divine Comedy: Inferno](pre-2000/1308-the-divine-comedy-inferno.md)** - **Author**: Dante Alighieri
 - **[The Divine Comedy](pre-2000/1308-the-divine-comedy.md)** - **Original Title**: Divina Commedia
 - **[Dante's Inferno](pre-2000/1320-dantes-inferno.md)** - **Authors**: Dante Alighieri
-- **[The Divine Comedy](pre-2000/1320-the-divine-comedy.md)** - **Author**: Dante Alighieri
 - **[The Canterbury Tales](pre-2000/1400-the-canterbury-tales.md)** - **Authors**: Geoffrey Chaucer
 - **[The Death of Arthur](pre-2000/1485-the-death-of-arthur.md)** - **Author**: Thomas Malory
 - **[Celestina](pre-2000/1499-celestina.md)** - **Original Title**: Celestina (La Tragicomedia de Calisto y Melibea)
@@ -2696,8 +2675,6 @@ A collection of book summaries organized by year.
 - **[Shakespeare's Sonnets - The Complete Collection](pre-2000/1609-shakespeares-sonnets.md)** - **Authors**: William Shakespeare
 - **[The Winter's Tale](pre-2000/1610-the-winters-tale.md)** - **Authors**: William Shakespeare
 - **[The Tempest](pre-2000/1611-the-tempest.md)** - **Authors**: William Shakespeare
-- **[The Winter's Tale](pre-2000/1611-the-winters-tale.md)** - **Authors**: William Shakespeare
-- **[Don Quixote](pre-2000/1615-don-quixote.md)** - **Original Title**: El ingenioso hidalgo don Quijote de la Mancha
 - **[Antony and Cleopatra](pre-2000/1623-antony-and-cleopatra.md)** - **Authors**: William Shakespeare
 - **[1627 The New Atlantis](pre-2000/1627-the-new-atlantis.md)** - **Authors**: Sir Francis Bacon
 - **[Precious Remedies Against Satan's Devices](pre-2000/1652-precious-remedies-against-satans-devices.md)** - **Author**: Thomas Brooks
@@ -2709,7 +2686,6 @@ A collection of book summaries organized by year.
 - **[Charles Perrault's Fairy Tales](pre-2000/1697-charles-perraults-fairy-tales.md)** - **Author**: Charles Perrault
 - **[The Way of the World](pre-2000/1700-the-way-of-the-world.md)** - **Authors**: William Congreve
 - **[Robinson Crusoe](pre-2000/1719-robinson-crusoe-level-3.md)** - **Authors**: Daniel Defoe (Level 3 Reader Adaptation)
-- **[Robinson Crusoe](pre-2000/1719-robinson-crusoe.md)** - **Authors**: Daniel Defoe
 - **[1719-The Life and Adventures of Robinson Crusoe](pre-2000/1719-the-life-and-adventures-of-robinson-crusoe.md)** - **Authors**: Daniel Defoe
 - **[The Fortunes and Misfortunes of the Famous Moll Flanders](pre-2000/1722-the-fortunes-and-misfortunes-of-the-famous-moll-flanders.md)** - **Authors**: Daniel Defoe
 - **[Gulliver's Travels](pre-2000/1726-gullivers-travels.md)** - **Authors**: Jonathan Swift
@@ -2832,11 +2808,9 @@ A collection of book summaries organized by year.
 - **[The Old Oak Tree's Last Dream](pre-2000/1845-the-old-oak-trees-last-dream.md)** - **Authors**: Hans Christian Andersen
 - **[The Raven](pre-2000/1845-the-raven.md)** - **Authors**: Edgar Allan Poe
 - **[The Red Shoes](pre-2000/1845-the-red-shoes.md)** - **Author**: Hans Christian Andersen
-- **[The Snow Queen](pre-2000/1845-the-snow-queen.md)** - **Author**: Hans Christian Andersen
 - **[Pictures from Italy](pre-2000/1846-pictures-from-italy.md)** - **Authors**: Charles Dickens
 - **[Sweeney Todd: The String of Pearls](pre-2000/1846-sweeney-todd-the-string-of-pearls.md)** - **Authors**: James Malcolm Rymer or Thomas Peckett Prest
 - **[The Battle of Life](pre-2000/1846-the-battle-of-life.md)** - **Authors**: Charles Dickens
-- **[The Complete Novels of Fyodor Dostoyevsky](pre-2000/1846-the-complete-novels-of-fyodor-dostoyevsky.md)** - **Authors**: Fyodor Dostoyevsky
 - **[The Double](pre-2000/1846-the-double.md)** - **Author**: Fyodor Dostoevsky
 - **[The Sphinx](pre-2000/1846-the-sphinx.md)** - **Author**: Edgar Allan Poe
 - **[Jane Eyre](pre-2000/1847-jane-eyre.md)** - **Authors**: Charlotte Brontë
@@ -2900,9 +2874,7 @@ A collection of book summaries organized by year.
 - **[Journey to the Center of the Earth](pre-2000/1864-journey-to-the-center-of-the-earth.md)** - **Authors**: Jules Verne
 - **[Notes from Underground and The Double](pre-2000/1864-notes-from-underground-and-the-double.md)** - **Authors**: Fyodor Dostoevsky
 - **[Notes from Underground](pre-2000/1864-notes-from-underground.md)** - **Author**: Fyodor Dostoevsky
-- **[Alice in Wonderland](pre-2000/1865-alice-in-wonderland.md)** - **Authors**: Lewis Carroll
 - **[Alice's Adventures in Wonderland & Through the Looking-Glass](pre-2000/1865-alices-adventures-in-wonderland-and-through-the-looking-glass.md)** - **Authors**: Lewis Carroll
-- **[Alice's Adventures in Wonderland & Through the Looking-Glass](pre-2000/1865-alices-adventures-in-wonderland-through-the-looking-glass.md)** - **Authors**: Lewis Carroll
 - **[Alice's Adventures in Wonderland](pre-2000/1865-alices-adventures-in-wonderland.md)** - **Authors**: Lewis Carroll
 - **[Hereward the Last of the English](pre-2000/1865-hereward-the-last-of-the-english.md)** - **Original Title**: Hereward the Last of the English
 - **[Our Mutual Friend](pre-2000/1865-our-mutual-friend.md)** - **Authors**: Charles Dickens
@@ -2918,13 +2890,10 @@ A collection of book summaries organized by year.
 - **[The Tenants of Malory](pre-2000/1867-the-tenants-of-malory.md)** - **Author**: Joseph Sheridan Le Fanu
 - **[Holiday Romance](pre-2000/1868-holiday-romance.md)** - **Authors**: Charles Dickens
 - **[Little Women Complete Series](pre-2000/1868-little-women-complete-series.md)** - **Authors**: Louisa May Alcott
-- **[Little Women](pre-2000/1868-little-women-illustrated.md)** - **Authors**: Louisa May Alcott
-- **[Little Women](pre-2000/1868-little-women.md)** - **Authors**: Louisa May Alcott
 - **[The Complete Little Women Collection](pre-2000/1868-the-complete-little-women-collection.md)** - **Authors**: Louisa May Alcott
 - **[The March Family Trilogy: Little Women, Little Men & Jo's Boys](pre-2000/1868-the-march-family-trilogy.md)** - **Authors**: Louisa May Alcott
 - **[The Moonstone](pre-2000/1868-the-moonstone.md)** - **Authors**: Wilkie Collins
 - **[Good Wives](pre-2000/1869-good-wives.md)** - **Authors**: Louisa May Alcott
-- **[Little Women](pre-2000/1869-little-women.md)** - **Authors**: Louisa May Alcott
 - **[Phineas Finn: The Irish Member](pre-2000/1869-phineas-finn.md)** - **Authors**: Anthony Trollope
 - **[The Idiot](pre-2000/1869-the-idiot.md)** - **Authors**: Fyodor Dostoyevsky
 - **[War and Peace](pre-2000/1869-war-and-peace.md)** - **Author**: Leo Tolstoy
@@ -2937,7 +2906,6 @@ A collection of book summaries organized by year.
 - **[Twenty Thousand Leagues Under the Sea](pre-2000/1870-twenty-thousand-leagues-under-the-sea.md)** - **Authors**: Jules Verne
 - **[Hunted Down](pre-2000/1871-hunted-down.md)** - **Authors**: Charles Dickens
 - **[Middlemarch: A Study of Provincial Life](pre-2000/1871-middlemarch-a-study-of-provincial-life.md)** - **Authors**: George Eliot
-- **[Middlemarch: A Study of Provincial Life](pre-2000/1871-middlemarch.md)** - **Authors**: George Eliot
 - **[Carmilla](pre-2000/1872-carmilla.md)** - **Authors**: Joseph Sheridan Le Fanu
 - **[The Room in the Dragon Volant](pre-2000/1872-the-room-in-the-dragon-volant.md)** - **Authors**: J.S. Le Fanu
 - **[Unknown Fairy Tales of Hans Christian Andersen](pre-2000/1872-unknown-fairy-tales-of-hans-christian-andersen.md)** - **Authors**: Hans Christian Andersen, (Translator: Mrs. H.B. Paull)
@@ -2955,7 +2923,6 @@ A collection of book summaries organized by year.
 - **[1876-The Adventures of Tom Sawyer](pre-2000/1876-the-adventures-of-tom-sawyer.md)** - **Authors**: Mark Twain
 - **[Anna Karenina](pre-2000/1877-anna-karenina.md)** - **Authors**: Leo Tolstoy
 - **[Black Beauty](pre-2000/1877-black-beauty.md)** - **Authors**: Anna Sewell
-- **[Anna Karenina](pre-2000/1878-anna-karenina.md)** - **Author**: Leo Tolstoy
 - **[Daisy Miller: A Study in Two Parts](pre-2000/1878-daisy-miller.md)** - **Authors**: Henry James
 - **[The Suicide Club](pre-2000/1878-the-suicide-club.md)** - **Authors**: Robert Louis Stevenson
 - **[The Red Room](pre-2000/1879-the-red-room.md)** - **Original Title**: Röda Rummet
@@ -2978,7 +2945,6 @@ A collection of book summaries organized by year.
 - **[Treasure Island](pre-2000/1883-treasure-island.md)** - **Authors**: Robert Louis Stevenson
 - **[The Adventures of Huckleberry Finn](pre-2000/1884-adventures-of-huckleberry-finn.md)** - **Authors**: Mark Twain
 - **[Against Nature](pre-2000/1884-against-nature.md)** - **Author**: J.-K. Huysmans
-- **[Against the Grain](pre-2000/1884-against-the-grain.md)** - **Author**: Joris-Karl Huysmans
 - **[Flatland: A Romance of Many Dimensions](pre-2000/1884-flatland-a-romance-of-many-dimensions.md)** - **Authors**: Edwin A. Abbott
 - **[The Wild Duck](pre-2000/1884-the-wild-duck.md)** - **Original Title**: Vildanden
 - **[A Child's Garden of Verses](pre-2000/1885-a-childs-garden-of-verses.md)** - **Authors**: Robert Louis Stevenson
@@ -3019,7 +2985,6 @@ A collection of book summaries organized by year.
 - **[Khaled: A Tale of Arabia](pre-2000/1891-khaled-a-tale-of-arabia.md)** - **Authors**: Francis Marion Crawford
 - **[Sighs from Bayreuth](pre-2000/1891-sighs-from-bayreuth.md)** - **Author**: Oskar Panizza
 - **[Soldiers](pre-2000/1891-soldiers.md)** - **Authors**: Ambrose Bierce
-- **[The Canterville Ghost](pre-2000/1891-the-canterville-ghost.md)** - **Authors**: Oscar Wilde
 - **[The Filibusterism](pre-2000/1891-the-filibusterism.md)** - **Original Title**: El Filibusterismo **Authors**: José Rizal
 - **[Lady Windermere's Fan](pre-2000/1892-lady-windermeres-fan.md)** - **Authors**: Oscar Wilde
 - **[The Adventure of the Engineer's Thumb](pre-2000/1892-the-adventure-of-the-engineers-thumb.md)** - **Authors**: Arthur Conan Doyle
@@ -3046,7 +3011,6 @@ A collection of book summaries organized by year.
 - **[A Lady of Quality](pre-2000/1896-a-lady-of-quality.md)** - **Authors**: Frances Hodgson Burnett
 - **[The Story of Atlantis and the Lost Lemurian Continent](pre-2000/1896-the-story-of-atlantis.md)** - **Authors**: W. Scott-Elliot, A. P. Sinnett (Preface)
 - **[Dracula](pre-2000/1897-dracula-stoker.md)** - **Authors**: Bram Stoker
-- **[Dracula](pre-2000/1897-dracula.md)** - **Authors**: Bram Stoker
 - **[Prometheus Bound and Seven Against Thebes](pre-2000/1897-prometheus-bound-and-seven-against-thebes.md)** - **Authors**: Aeschylus
 - **[The Bells of Bruges](pre-2000/1897-the-bells-of-bruges.md)** - **Authors**: Georges Rodenbach
 - **[The Book of Dreams and Ghosts](pre-2000/1897-the-book-of-dreams-and-ghosts.md)** - **Authors**: Andrew Lang
@@ -3078,9 +3042,7 @@ A collection of book summaries organized by year.
 - **[A Dream Play](pre-2000/1902-a-dream-play.md)** - **Original Title**: Ett drömspel (1902)
 - **[A Prefect's Uncle](pre-2000/1902-a-prefects-uncle.md)** - **Authors**: P. G. Wodehouse
 - **[Character Building](pre-2000/1902-character-building.md)** - **Authors**: Booker T. Washington
-- **[Heart of Darkness](pre-2000/1902-heart-of-darkness.md)** - **Authors**: Joseph Conrad
 - **[Just So Stories](pre-2000/1902-just-so-stories.md)** - **Authors**: Rudyard Kipling
-- **[The Hound of the Baskervilles](pre-2000/1902-the-hound-of-the-baskervilles.md)** - **Authors**: Arthur Conan Doyle
 - **[The Monkey's Paw](pre-2000/1902-the-monkeys-paw.md)** - **Authors**: W.W. Jacobs
 - **[The Mystery of the Sea](pre-2000/1902-the-mystery-of-the-sea.md)** - **Authors**: Bram Stoker
 - **[The Tale of Peter Rabbit](pre-2000/1902-the-tale-of-peter-rabbit.md)** - **Authors**: Beatrix Potter
@@ -3129,8 +3091,6 @@ A collection of book summaries organized by year.
 - **[The Olive Fairy Book](pre-2000/1907-the-olive-fairy-book.md)** - **Authors**: Andrew Lang
 - **[The Secret Agent](pre-2000/1907-the-secret-agent.md)** - **Authors**: Joseph Conrad
 - **[A Room with a View](pre-2000/1908-a-room-with-a-view.md)** - **Authors**: E.M. Forster
-- **[Anne of Green Gables Collection](pre-2000/1908-anne-of-green-gables-collection.md)** - **Authors**: Lucy Maud Montgomery
-- **[Anne of Green Gables](pre-2000/1908-anne-of-green-gables.md)** - **Authors**: Lucy Maud Montgomery
 - **[Mike and Psmith](pre-2000/1908-mike-and-psmith.md)** - **Authors**: P.G. Wodehouse
 - **[Snowbound: Theatrical Tales from a Winter Journey](pre-2000/1908-snowbound.md)** - **Authors**: Bram Stoker
 - **[The Boy Fortune Hunters in Egypt](pre-2000/1908-the-boy-fortune-hunters-in-egypt.md)** - **Authors**: L. Frank Baum (writing as Floyd Akers)
@@ -3218,7 +3178,6 @@ A collection of book summaries organized by year.
 - **[Within the Tides](pre-2000/1915-within-the-tides.md)** - **Authors**: Joseph Conrad
 - **[A Portrait of the Artist as a Young Man](pre-2000/1916-a-portrait-of-the-artist-as-a-young-man.md)** - **Original Title**: A Portrait of the Artist as a Young Man
 - **[The Mysterious Stranger](pre-2000/1916-the-mysterious-stranger.md)** - **Authors**: Mark Twain
-- **[15,000 Miles in a Ketch](pre-2000/1917-15000-miles-in-a-ketch.md)** - **Author**: Raymond Rallier du Baty
 - **[King Coal: A Novel](pre-2000/1917-king-coal-a-novel.md)** - **Authors**: Upton Sinclair
 - **[Parnassus on Wheels](pre-2000/1917-parnassus-on-wheels.md)** - **Authors**: Christopher Morley
 - **[Piccadilly Jim](pre-2000/1917-piccadilly-jim.md)** - **Authors**: P.G. Wodehouse
@@ -3271,7 +3230,6 @@ A collection of book summaries organized by year.
 - **[Journey Through Jewish Palestine](pre-2000/1925-journey-through-jewish-palestine.md)** - **Author**: Arthur Holitscher
 - **[Mrs Dalloway](pre-2000/1925-mrs-dalloway.md)** - **Authors**: Virginia Woolf
 - **[Science and the Modern World](pre-2000/1925-science-and-the-modern-world.md)** - **Authors**: Alfred North Whitehead
-- **[The Game of Life and How to Play It](pre-2000/1925-the-game-of-life-and-how-to-play-it.md)** - **Authors**: Florence Scovel Shinn
 - **[The Great Gatsby](pre-2000/1925-the-great-gatsby.md)** - **Authors**: Francis Scott Fitzgerald
 - **[The Law of Success in Sixteen Lessons](pre-2000/1925-the-law-of-success-in-sixteen-lessons.md)** - **Authors**: Napoleon Hill
 - **[The Old Straight Track](pre-2000/1925-the-old-straight-track.md)** - **Author**: Alfred Watkins
@@ -3316,7 +3274,6 @@ A collection of book summaries organized by year.
 - **[Good-bye, Mr. Chips](pre-2000/1934-good-bye-mr-chips.md)** - **Author**: James Hilton
 - **[Now in November](pre-2000/1934-now-in-november.md)** - **Authors**: Josephine Johnson
 - **[Right Ho, Jeeves](pre-2000/1934-right-ho-jeeves.md)** - **Original Title**: Right Ho, Jeeves
-- **[The Antichrist](pre-2000/1934-the-antichrist.md)** - **Author**: Joseph Roth
 - **[A Clergyman's Daughter](pre-2000/1935-a-clergymans-daughter.md)** - **Authors**: George Orwell
 - **[Heaven's My Destination](pre-2000/1935-heavens-my-destination.md)** - **Authors**: Thornton Wilder
 - **[It Can't Happen Here](pre-2000/1935-it-cant-happen-here.md)** - **Authors**: Sinclair Lewis
@@ -3328,7 +3285,6 @@ A collection of book summaries organized by year.
 - **[Journey by Moonlight](pre-2000/1937-journey-by-moonlight.md)** - **Authors**: Antal Szerb
 - **[Murder in Mesopotamia](pre-2000/1937-murder-in-mesopotamia.md)** - **Authors**: Agatha Christie
 - **[The Road to Wigan Pier](pre-2000/1937-the-road-to-wigan-pier.md)** - **Authors**: George Orwell
-- **[Think and Grow Rich](pre-2000/1937-think-and-grow-rich.md)** - **Authors**: Napoleon Hill
 - **[Flower and Flame: The Story of a Youth](pre-2000/1938-flower-and-flame-the-story-of-a-youth.md)** - **Author**: Emmy Ball-Hennings
 - **[Homage to Catalonia](pre-2000/1938-homage-to-catalonia.md)** - **Author**: George Orwell
 - **[The Runaways](pre-2000/1938-the-runaways.md)** - **Authors**: Elizabeth Goudge
@@ -3412,7 +3368,6 @@ A collection of book summaries organized by year.
 - **[Aunts Aren't Gentlemen](pre-2000/1974-aunts-arent-gentlemen.md)** - **Authors**: P.G. Wodehouse
 - **[Zen and the Art of Motorcycle Maintenance](pre-2000/1974-zen-and-the-art-of-motorcycle-maintenance.md)** - **Authors**: Robert M. Pirsig
 - **[Rumble Fish](pre-2000/1975-rumble-fish.md)** - **Authors**: S.E. Hinton
-- **[Underground](pre-2000/1976-underground.md)** - **Author**: David Macaulay
 - **[Your Erroneous Zones](pre-2000/1976-your-erroneous-zones.md)** - **Author**: Dr. Wayne Dyer
 - **[Psychiatric Slavery](pre-2000/1977-psychiatric-slavery.md)** - **Author**: Thomas Stephen Szasz
 - **[The Bright Light of Death](pre-2000/1977-the-bright-light-of-death.md)** - **Authors**: Annabel Chaplin
@@ -3495,7 +3450,6 @@ A collection of book summaries organized by year.
 - **[Man's Search for Meaning](pre-2000/1996-mans-search-for-meaning.md)** - **Authors**: Viktor E. Frankl
 - **[Only the Paranoid Survive](pre-2000/1996-only-the-paranoid-survive.md)** - **Author**: Andrew S. Grove
 - **[The Blind Watchmaker](pre-2000/1996-the-blind-watchmaker.md)** - **Authors**: Richard Dawkins
-- **[The Millionaire Next Door](pre-2000/1996-the-millionaire-next-door.md)** - **Authors**: Thomas J. Stanley, Ph.D., William D. Danko, Ph.D.
 - **[Undaunted Courage](pre-2000/1996-undaunted-courage.md)** - **Author**: Stephen E. Ambrose
 - **[Under the Black Flag: The Romance and the Reality of Life Among the Pirates](pre-2000/1996-under-the-black-flag.md)** - **Author**: David Cordingly
 - **[Under the Tuscan Sun](pre-2000/1996-under-the-tuscan-sun.md)** - **Author**: Frances Mayes
@@ -3547,7 +3501,6 @@ A collection of book summaries organized by year.
 - **[Agamemnon: A Tragic Tale of Justice and Revenge](pre-2000/458-bce-agamemnon.md)** - **Authors**: Aeschylus
 - **[The House of Atreus](pre-2000/458-bce-the-house-of-atreus.md)** - **Authors**: Aeschylus
 - **[The Oresteia Trilogy](pre-2000/458-the-oresteia-trilogy.md)** - **Original Title**: Ὀρέστεια (Oresteia)
-- **[The Art of War](pre-2000/500-the-art-of-war.md)** - **Authors**: Sun Tzu
 - **[The Wolf in Sheep's Clothing](pre-2000/600-the-wolf-in-sheeps-clothing.md)** - **Authors**: Aesop
 - **[Odyssey](pre-2000/800-bc-odyssey.md)** - **Authors**: Homeros
 - **[The Iliad](pre-2000/800-bce-the-iliad.md)** - **Author**: Homer
