@@ -1,6 +1,6 @@
 # Team Building Inside: Icebreakers
 **Original Title**: Team Building inside: icebreakers
-**Authors**: Cristina & Olivier Rebière | **Year**: 2016
+**Authors**: Cristina & Olivier Rebière | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide delivers four powerful icebreaker activities designed to break down barriers and create genuine team spirit in just 5-30 minutes each. Built from the authors' decade of experience facilitating hundreds of team building events for groups ranging from 7 to 500 people, this booklet provides ready-to-use exercises that require minimal preparation and maximum impact.

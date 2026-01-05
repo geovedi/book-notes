@@ -1,5 +1,5 @@
 # Being Matt Murdock: One Fan's Journey Into the Science of Daredevil
-**Authors**: Christine Hanefalk | **Year**: 2022
+**Authors**: Christine Hanefalk | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 Being Matt Murdock is a fascinating exploration of Marvel's blind superhero Daredevil through the lens of real-world science. Written by a passionate fan and science enthusiast, this book examines what would scientifically be possible for someone with heightened senses following the loss of sight. Christine Hanefalk combines her deep knowledge of Daredevil comics with scientific expertise to analyze everything from super-hearing and echolocation to the mysterious "radar sense" that defines the character.

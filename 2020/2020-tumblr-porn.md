@@ -1,5 +1,6 @@
 # Tumblr Porn
 **Author**: Ana Valens | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 Ana Valens's "Tumblr Porn" is a cultural history of how Tumblr became an unlikely haven for sex workers, queer communities, and alternative sexual expression—and how its 2018 adult content ban devastated these marginalized groups. The book traces the intertwined histories of sex work, queer identity, and internet culture, revealing how sexual content has consistently driven technological innovation while also making communities vulnerable to corporate censorship and government regulation.

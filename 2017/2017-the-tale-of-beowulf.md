@@ -1,5 +1,6 @@
 # The Tale of Beowulf
 **Authors**: Translated by William Morris and A. J. Wyatt | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This epic poem tells the legendary story of Beowulf, the greatest warrior of the Geats, who travels to Denmark to help King Hrothgar defeat the monster Grendel terrorizing his kingdom. After a heroic battle where Beowulf rips off Grendel's arm with his bare hands, he faces an even greater challenge when Grendel's vengeful mother attacks the hall. Beowulf follows her to her underwater lair and defeats her in a desperate battle using an ancient giant's sword. Fifty years later, now an aged king, Beowulf faces his final challenge when a dragon attacks his kingdom after its treasure is stolen. In a heroic last battle, Beowulf slays the dragon but receives mortal wounds, dying a king's death surrounded by his loyal followers.

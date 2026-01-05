@@ -1,5 +1,6 @@
 # The Heart of a Woman
 **Author**: Maya Angelou | **Year**: 1981
+**Category**: History & Biography
 
 ## Summary
 Maya Angelou's fourth autobiography chronicles her transformative journey from a California nightclub singer to a celebrated writer and activist in New York's Harlem Renaissance, ultimately finding herself in Ghana. Spanning 1957-1962, this memoir captures Angelou's evolution as a mother, artist, and Black woman navigating America's racial tensions while discovering her authentic voice and purpose.

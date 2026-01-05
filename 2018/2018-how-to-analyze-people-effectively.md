@@ -1,5 +1,6 @@
 # How to Analyze People Effectively
 **Authors**: Steve Chambers | **Year**: 2018
+**Category**: Psychology & Mental Health
 
 ## Summary
 "How to Analyze People Effectively" is a comprehensive guide to understanding human behavior through nonverbal cues, personality analysis, and communication patterns. The book reveals that communication is only 7% words, while body language accounts for over 50% and voice intonation makes up the remaining 30%.

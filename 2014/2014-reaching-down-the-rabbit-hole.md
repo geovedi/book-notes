@@ -1,5 +1,5 @@
 # Reaching Down the Rabbit Hole
-**Authors**: Allan H. Ropper, Brian David Burrell | **Year**: 2014
+**Authors**: Allan H. Ropper, Brian David Burrell | **Year**: 2014 | **Category**: Health & Medicine
 
 ## Summary
 "Reaching Down the Rabbit Hole" is a compelling medical memoir that takes readers behind the scenes of a major Boston hospital's neurology ward, where Dr. Allan Ropper and his team confront the most mysterious and challenging cases of the human brain. The book reveals how neurologists must think like detectives, using clinical observation and logical deduction to unravel complex neurological puzzles that often present as bizarre, inexplicable symptoms.

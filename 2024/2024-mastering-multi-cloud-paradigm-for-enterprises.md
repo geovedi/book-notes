@@ -1,5 +1,6 @@
 # Mastering Multi-Cloud Paradigm for Enterprises
 **Authors**: Barjender Paul | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide serves as your roadmap to architecting robust multi-cloud solutions across the three major cloud platforms: AWS, Azure, and Google Cloud Platform. The book addresses the growing trend of enterprises adopting multi-cloud strategies to avoid vendor lock-in, optimize costs, and enhance resilience. With over a decade of experience from the author, this guide moves beyond theoretical concepts to provide practical, actionable insights for designing secure, scalable, and cost-effective multi-cloud environments.

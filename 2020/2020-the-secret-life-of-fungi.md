@@ -1,5 +1,6 @@
 # The Secret Life of Fungi
 **Author**: Aliya Whiteley | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 "The Secret Life of Fungi" is a captivating exploration of the hidden world of fungi, structured around three fundamental processes: Erupt, Spread, and Decay. Whiteley weaves personal memoir, scientific discovery, and cultural history to reveal how these mysterious organisms shape our world in ways we barely comprehend. From the largest organism on Earth (covering 9.6 square kilometers in Oregon) to the microscopic networks that communicate beneath our feet, fungi represent a kingdom of life that operates on entirely different principles from plants and animals.

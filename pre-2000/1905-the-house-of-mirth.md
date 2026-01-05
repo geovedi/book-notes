@@ -1,5 +1,6 @@
 # The House of Mirth
 **Authors**: Edith Wharton | **Year**: 1905
+**Category**: Fiction & Literature
 
 ## Summary
 The House of Mirth follows Lily Bart, a stunningly beautiful but financially precarious young woman navigating the treacherous waters of New York high society at the turn of the 20th century. Born into wealth but reduced to genteel poverty, Lily must secure a wealthy marriage to maintain her social standing, yet her intelligence, pride, and moral compass continually sabotage her opportunities.

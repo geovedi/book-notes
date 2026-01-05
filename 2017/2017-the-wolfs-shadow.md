@@ -1,5 +1,6 @@
 # The Wolf's Shadow
 **Original Title**: The Mountain's Shadow | **Author**: Cecilia Dominic | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 Dr. Joanie Fisher, an epidemiologist, hits rock bottom when her lab burns down, she loses her job, and her boss/lover Robert ends their relationship simultaneously. Just when things seem hopeless, she inherits her grandfather's mysterious $500 million estate, Wolfsbane Manor, nestled in the remote Arkansas mountains. But the inheritance comes with a deadly surprise: the property is infested with werewolves, and her grandfather's death is connected to a secretive condition called "Chronic Lycanthropy Syndrome."

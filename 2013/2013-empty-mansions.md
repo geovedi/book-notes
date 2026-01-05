@@ -1,5 +1,5 @@
 # Empty Mansions
-**Authors**: Bill Dedman, Paul Clark Newell Jr. | **Year**: 2013
+**Authors**: Bill Dedman, Paul Clark Newell Jr. | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 Empty Mansions tells the extraordinary true story of Huguette Clark, one of America's wealthiest and most reclusive heiresses, who inherited a vast copper fortune but chose to live in near-total isolation for decades. Born in 1906 to Senator William Andrews Clark—a controversial Gilded Age copper king who was once considered wealthier than Rockefeller—Huguette was raised in unimaginable luxury but gradually withdrew from society, eventually spending the last 20 years of her life living in a simple hospital room despite owning magnificent properties worth millions.

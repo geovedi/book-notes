@@ -1,5 +1,5 @@
 # DIY: The Rise of Lo-Fi Culture
-**Authors**: Amy Spencer | **Year**: 2005
+**Authors**: Amy Spencer | **Year**: 2005 | **Category**: Art & Creativity
 
 ## Summary
 DIY: The Rise of Lo-Fi Culture explores the history and significance of do-it-yourself culture, focusing on how ordinary people have challenged mainstream media and cultural production by creating their own content. From zines and underground music to pirate radio and online communities, Spencer traces the evolution of DIY ethics from the early 20th century to the digital age. The book examines how the lo-fi approach—celebrating amateur creativity over professional polish—has become a powerful form of resistance against commercialization and mass media control.

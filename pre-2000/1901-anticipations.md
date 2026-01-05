@@ -1,5 +1,6 @@
 # Anticipations
 **Authors**: H. G. Wells | **Year**: 1901
+**Category**: Science & Nature
 
 ## Summary
 "Anticipations" is H.G. Wells' remarkable work of social forecasting that predicts how technological and scientific progress will transform human life and thought in the 20th century. Written at the dawn of the new century, Wells applies scientific methodology to sociology, attempting to isolate social forces and project their future development. The book ranges across transportation, urban development, warfare, language, politics, and ethics, offering surprisingly accurate predictions alongside some that missed the mark. What makes the work enduring is not just its predictive power, but Wells' understanding that technology and social organization evolve together in mutually reinforcing patterns.

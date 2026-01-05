@@ -1,5 +1,6 @@
 # The Curious Case of Benjamin Button
 **Authors**: Francis Scott Fitzgerald | **Year**: 1922
+**Category**: Fiction & Literature
 
 ## Summary
 This fantastical short story tells the extraordinary tale of Benjamin Button, a man born as a 70-year-old infant who ages backward through life. Set primarily in Baltimore from the Civil War era through World War I, the story follows Benjamin's unique journey from elderly birth to infantile death. The narrative explores themes of societal norms, the nature of time, identity, and the human condition through Benjamin's inverted aging process.

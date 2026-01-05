@@ -1,5 +1,6 @@
 # Walden
 **Authors**: Henry David Thoreau | **Year**: 1854
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Walden" is Henry David Thoreau's account of his two-year experiment living simply in a small cabin he built himself at Walden Pond near Concord, Massachusetts. Published in 1854, this transcendentalist classic documents Thoreau's deliberate withdrawal from society to discover what is essential in human existence, rejecting materialism and conventional success in favor of spiritual growth, self-reliance, and deep communion with nature.

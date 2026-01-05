@@ -1,5 +1,6 @@
 # A Modern Utopia
 **Authors**: H. G. Wells | **Year**: 1905
+**Category**: Science & Nature
 
 ## Summary
 "A Modern Utopia" presents a groundbreaking vision of a world state that transcends traditional utopian thinking by rejecting static perfection in favor of dynamic progress. Wells imagines a parallel planet identical to Earth but with evolved social and political structures, exploring how humanity might organize itself on a global scale. Unlike earlier utopias that sought permanent, unchanging perfection, Wells proposes a "kinetic" utopia designed for continual evolution and development.

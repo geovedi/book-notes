@@ -1,5 +1,5 @@
 # The Complete Works of Rupert Brooke
-**Authors**: Rupert Brooke | **Year**: 2015 (Delphi Classics Edition)
+**Authors**: Rupert Brooke | **Year**: 2015 (Delphi Classics Edition) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection presents the complete poetic works of Rupert Brooke (1887-1915), one of England's most celebrated war poets whose life was tragically cut short during World War I. Brooke's poetry embodies the romantic idealism and youthful optimism of his generation before the brutal realities of war shattered such innocence. The collection spans his early works at Cambridge, his famous "1914" war sonnets, his South Seas poems, and experimental pieces, revealing the evolution of a remarkable talent whose promise was fulfilled too soon.

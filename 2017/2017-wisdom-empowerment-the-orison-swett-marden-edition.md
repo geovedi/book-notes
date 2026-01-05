@@ -1,5 +1,6 @@
 # 2017 Wisdom & Empowerment: The Orison Swett Marden Edition
 **Authors**: Orison Swett Marden | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This comprehensive collection brings together 18 transformative works by Orison Swett Marden, a pioneer of the self-help movement and founder of Success Magazine. Written in the late 19th and early 20th centuries, these books contain timeless wisdom on personal development, success principles, and the power of the human mind. Marden's philosophy centers on the idea that success is achievable through willpower, positive thinking, character development, and systematic habits.

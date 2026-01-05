@@ -1,5 +1,6 @@
 # The Man with Two Left Feet and Other Stories
 **Authors**: P. G. Wodehouse | **Year**: 1917
+**Category**: Fiction & Literature
 
 ## Summary
 This delightful collection of short stories showcases P.G. Wodehouse's masterful blend of humor, romance, and social satire. Each tale follows well-meaning but often bumbling characters through comedic misunderstandings, romantic entanglements, and social misadventures. The stories capture the essence of Edwardian and early 20th-century British and American society with wit and charm.

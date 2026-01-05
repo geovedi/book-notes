@@ -1,6 +1,6 @@
 # Hiding from the Internet
 **Original Title**: Hiding from the Internet · Eliminating Personal Online Information
-**Author**: Michael Bazzell | **Year**: 2016
+**Author**: Michael Bazzell | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide provides a step-by-step workbook for anyone looking to reclaim their digital privacy and remove personal information from the internet. Written by a former FBI cyber crime investigator, it translates advanced privacy techniques into actionable strategies for everyday use.

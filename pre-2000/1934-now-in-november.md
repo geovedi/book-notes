@@ -1,5 +1,6 @@
 # Now in November
 **Authors**: Josephine Johnson | **Year**: 1934
+**Category**: Fiction & Literature
 
 ## Summary
 "Now in November" is a haunting Depression-era novel that tells the story of the Haldmarne family's struggle to survive on a marginal farm in the American Midwest. Forced from the city by economic hardship, Arnold Haldmarne moves his wife and three daughters—Margaret (the narrator), Merle, and the volatile Kerrin—to an old mortgaged farm that has been in his family since the Civil War. Through the eyes of fourteen-year-old Margaret, we witness the family's desperate battle against nature, debt, and their own internal conflicts.

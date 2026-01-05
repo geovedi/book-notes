@@ -1,6 +1,7 @@
 # When My Worries Get Too Big
 **Original Title**: 焦虑，变小！变小！：第2版
 **Author**: Kari Dunn Buron | **Year**: 2020
+**Category**: Children & Young Adult
 
 ## Summary
 "When My Worries Get Too Big" is a practical, child-friendly guide designed to help anxious children understand and manage their anxiety through a simple 5-point scale system. The book uses cognitive behavioral management principles to teach children self-regulation skills, making abstract emotions concrete and manageable through visual supports and interactive exercises.

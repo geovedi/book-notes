@@ -1,5 +1,6 @@
 # The Adventures of Sherlock Holmes
 **Authors**: Sir Arthur Conan Doyle | **Year**: 1892
+**Category**: Horror & Thriller
 
 ## Summary
 The Adventures of Sherlock Holmes is a groundbreaking collection of 12 short stories that introduced the world's most famous detective, Sherlock Holmes, and his loyal companion Dr. John Watson. Set in Victorian London, each story showcases Holmes's extraordinary powers of observation and deductive reasoning as he solves seemingly impossible mysteries that baffle Scotland Yard.

@@ -1,6 +1,7 @@
 # German Theses Against the Pope and His Dark Men
 **Original Title**: Deutsche Thesen gegen den Papst und seine Dunkelmänner
-**Author**: Oskar Panizza | **Year**: 1894 
+**Author**: Oskar Panizza | **Year**: 1894
+**Category**: Philosophy & Critical Thinking 
 
 ## Summary
 "German Theses Against the Pope and His Dark Men" is a fierce anti-clerical polemic that attacks the Catholic Church's hierarchy, doctrines, and practices through a distinctly German nationalist lens. Written in 1894 by Oskar Panizza, this controversial work uses scathing satire and historical criticism to expose what the author sees as the corruption, hypocrisy, and anti-German nature of the papacy and Catholic clergy. The book argues that Catholicism, with its origins in Oriental sensuality and Roman political ambition, is fundamentally incompatible with Germanic values of reason, honesty, and natural morality.

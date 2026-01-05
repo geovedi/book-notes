@@ -1,5 +1,5 @@
 # Papyrus: The Plant that Changed the World
-**Authors**: John Gaudet | **Year**: 2015
+**Authors**: John Gaudet | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 John Gaudet's "Papyrus" reveals how a single aquatic plant shaped human civilization and now holds the key to solving our looming water crisis. This remarkable sedge enabled ancient Egypt's rise to power by providing boats, paper, rope, and building materials—all from its fast-growing stems. More than just historical storytelling, Gaudet presents papyrus swamps as critical ecosystems that purify water, prevent floods, store carbon, and support biodiversity.

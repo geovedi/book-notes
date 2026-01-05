@@ -1,5 +1,6 @@
 # Sketches of Young Gentlemen
 **Authors**: Charles Dickens | **Year**: 1838
+**Category**: Fiction & Literature
 
 ## Summary
 Charles Dickens' "Sketches of Young Gentlemen" is a satirical guide that humorously catalogs twelve distinct types of young men in Victorian society. Written as a companion piece to "Sketches of Young Ladies" (which Dickens criticized), this work serves as both social commentary and entertainment, using wit and sharp observation to expose the absurdities and affectations of masculine behavior. Each sketch presents a detailed psychological portrait that remains surprisingly relevant to modern readers, demonstrating how little some aspects of human nature change across centuries.

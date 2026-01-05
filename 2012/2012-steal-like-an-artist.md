@@ -1,5 +1,6 @@
 # Steal Like an Artist
 **Author**: Austin Kleon | **Year**: 2012
+**Category**: Art & Creativity
 
 ## Summary
 "Steal Like an Artist" is a refreshing manifesto for creativity in the digital age that demolishes the myth of originality. Austin Kleon argues that all creative work builds on what came before—nothing is completely original. Through 10 transformative principles, he shows how to embrace influence, find your voice by copying heroes, and develop a sustainable creative practice. The book is perfect for artists, writers, entrepreneurs, and anyone seeking to inject more creativity into their life and work.

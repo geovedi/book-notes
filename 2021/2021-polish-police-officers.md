@@ -1,6 +1,7 @@
 # Polish Police Officers
 **Original Title**: Policjanci
-**Authors**: Dorota Kowalska | **Year**: 2021 
+**Authors**: Dorota Kowalska | **Year**: 2021
+**Category**: History & Biography 
 
 ## Summary
 "Polish Police Officers" is a compelling collection of interviews with some of Poland's most distinguished law enforcement professionals, compiled by journalist Dorota Kowalska. Through intimate conversations with nine experienced police officers—from former commanders to forensic specialists—the book reveals the human face of policing in Poland, covering everything from high-profile criminal investigations to the personal sacrifices required by the profession.

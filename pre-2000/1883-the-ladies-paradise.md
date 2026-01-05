@@ -1,5 +1,6 @@
 # The Ladies' Paradise
 **Authors**: Émile Zola | **Year**: 1883
+**Category**: Fiction & Literature
 
 ## Summary
 Set in 19th-century Paris, "The Ladies' Paradise" follows Denise Baudu, a young provincial woman who arrives in Paris with her two brothers seeking employment. The novel centers around the revolutionary department store "Au Bonheur des Dames" (The Ladies' Paradise), which represents the emerging forces of modern capitalism and consumer culture that threaten traditional small businesses. Through Denise's journey from timid shop girl to successful department store employee, Zola explores themes of industrialization, changing social dynamics, the rise of consumer culture, and the transformation of urban life. The department store becomes both a symbol of progress and a destructive force that reshapes society, relationships, and human desires.

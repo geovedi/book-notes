@@ -1,5 +1,5 @@
 # A Mind of Its Own
-**Authors**: David M. Friedman | **Year**: 2003
+**Authors**: David M. Friedman | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 "A Mind of Its Own" explores how Western civilization has conceptualized the penis throughout history, revealing that our relationship with this organ reflects broader cultural anxieties about masculinity, power, sexuality, and control. Friedman traces the evolution from ancient worship through medieval demonization, scientific investigation, racial classification, psychological analysis, and finally modern medicalization. This isn't merely anatomical history—it's a story about how culture shapes our understanding of bodies and how bodies, in turn, shape culture.

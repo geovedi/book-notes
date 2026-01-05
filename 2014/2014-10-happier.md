@@ -1,5 +1,5 @@
 # 10% Happier
-**Author**: Dan Harris | **Year**: 2014
+**Author**: Dan Harris | **Year**: 2014 | **Category**: Psychology & Mental Health
 
 ## Summary
 Dan Harris, a skeptical news anchor who had a panic attack on live television, embarks on a journey to find relief from the "voice in his head" that drives anxiety and self-doubt. Through war reporting, drug abuse, and eventually meditation, Harris discovers that mindfulness doesn't require enlightenment or becoming a different person—it just makes life about 10% better. This book is perfect for skeptics, overachievers, and anyone who thinks meditation is too "woo-woo" for practical people. Readers will learn a no-nonsense approach to mindfulness that actually works in high-pressure environments.

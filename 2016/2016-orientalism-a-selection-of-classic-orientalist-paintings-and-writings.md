@@ -1,5 +1,5 @@
 # Orientalism: A Selection of Classic Orientalist Paintings and Writings
-**Authors**: Various (Golden Deer Classics Compilation) | **Year**: 2016
+**Authors**: Various (Golden Deer Classics Compilation) | **Year**: 2016 | **Category**: Art & Creativity
 
 ## Summary
 This comprehensive compilation captures the essence of Orientalism as a cultural and artistic movement that shaped Western perceptions of Eastern cultures during the 19th century. Through masterful paintings and literary works, the collection showcases how Western artists and writers imagined and depicted the "Orient" - encompassing Middle Eastern, North African, and Asian cultures. The book serves as both an artistic treasure trove and a historical document revealing the complex interplay between fascination, fantasy, and cultural representation that characterized this influential movement.

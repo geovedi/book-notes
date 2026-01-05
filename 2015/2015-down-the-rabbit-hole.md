@@ -1,5 +1,6 @@
 # Down the Rabbit Hole
 **Authors**: Holly Madison | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 *Down the Rabbit Hole* is a powerful memoir that shatters the glamorous facade of life at the Playboy Mansion. Holly Madison, star of E!'s *The Girls Next Door*, reveals the dark reality behind the fairy-tale image - a world of manipulation, control, and emotional abuse masked by luxury and fame. What appeared to be a dream life was actually a carefully constructed prison where young women were systematically controlled and isolated.

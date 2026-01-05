@@ -1,5 +1,6 @@
 # The Souls of Black Folk
 **Authors**: W. E. B. Du Bois | **Year**: 1903
+**Category**: History & Biography
 
 ## Summary
 "The Souls of Black Folk" is a groundbreaking work that examines the condition of African Americans in the post-Civil War United States. Du Bois combines personal narrative, sociological analysis, and historical reflection to explore the psychological and social realities of Black Americans at the dawn of the 20th century.

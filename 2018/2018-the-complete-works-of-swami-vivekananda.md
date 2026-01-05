@@ -1,5 +1,5 @@
 # The Complete Works of Swami Vivekananda
-**Authors**: Swami Vivekananda | **Year**: 2018 (Compilation)
+**Authors**: Swami Vivekananda | **Year**: 2018 (Compilation) | **Category**: Spirituality & Religion
 
 ## Summary
 Swami Vivekananda's Complete Works represents the most comprehensive collection of teachings from one of India's greatest spiritual leaders and philosophers who introduced Hindu philosophy to the Western world. This monumental compilation spans nine volumes covering his addresses at the 1893 Parliament of Religions, his teachings on the four main paths of Yoga (Karma, Bhakti, Raja, and Jnana), philosophical discourses, letters, and personal conversations.

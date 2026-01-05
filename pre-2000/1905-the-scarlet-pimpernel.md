@@ -1,5 +1,6 @@
 # The Scarlet Pimpernel
 **Authors**: Baroness Orczy | **Year**: 1905
+**Category**: Fiction & Literature
 
 ## Summary
 Set during the Reign of Terror in 1792, this thrilling adventure follows a mysterious English nobleman who leads a secret society rescuing French aristocrats from the guillotine. The "Scarlet Pimpernel" and his league risk their lives to save innocent victims, while his identity remains hidden behind the persona of Sir Percy Blakeney, a seemingly foolish and foppish aristocrat married to Marguerite St. Just, the brilliant French actress who once helped send noble families to their deaths.

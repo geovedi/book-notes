@@ -1,5 +1,6 @@
 # The Mating Season
 **Authors**: P. G. Wodehouse | **Year**: 1955
+**Category**: Fiction & Literature
 
 ## Summary
 Bertie Wooster finds himself reluctantly dispatched to Deverill Hall to participate in a village concert, a prospect made particularly daunting by the presence of his formidable Aunt Agatha and the expectation of staying with a household run by five aunts. The situation becomes further complicated when Bertie must impersonate Gussie Fink-Nottle (who is too timid to attend), leading to a classic Wodehouse case of mistaken identity and romantic entanglements.

@@ -1,6 +1,6 @@
 # The Answer
 **Original Title**: A válasz
-**Authors**: Allan Pease, Barbara Pease | **Year**: 2016
+**Authors**: Allan Pease, Barbara Pease | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Answer" is a practical guide to taking charge of your life and becoming the person you want to be. The book reveals how to program your brain's Reticular Activating System (RAR) - a neural network in the brainstem that acts as a filter for information and attention - to achieve your goals and create the life you desire.

@@ -1,6 +1,6 @@
 # Quantum Mechanics: The Theoretical Minimum
 **Original Title**: Mechanika kwantowa
-**Authors**: Leonard Susskind, Art Friedman | **Year**: 2014
+**Authors**: Leonard Susskind, Art Friedman | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 This book demystifies quantum mechanics by focusing on its logical principles rather than hiding its "quantum weirdness" behind complex mathematics. Written as part of "The Theoretical Minimum" series, it's designed for readers with some mathematical background who aren't professional physicists but want to understand the fundamental nature of reality at the quantum scale. The authors use a conversational, humorous approach featuring fictional characters at a bar called "Hilbert's" to make abstract concepts accessible while maintaining mathematical rigor.

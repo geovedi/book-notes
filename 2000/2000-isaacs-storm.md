@@ -1,5 +1,5 @@
 # Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History
-**Authors**: Erik Larson | **Year**: 2000
+**Authors**: Erik Larson | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 "Isaac's Storm" tells the harrowing true story of the 1900 Galveston hurricane, the deadliest natural disaster in American history that claimed approximately 8,000 lives. The narrative centers on Isaac Monroe Cline, the confident chief meteorologist of the U.S. Weather Bureau's Galveston station, whose scientific arrogance and misplaced faith in technology contributed to the catastrophic loss of life. Larson masterfully weaves together the hurricane's formation, the scientific hubris of the turn-of-the-century Weather Bureau, and intimate portraits of Galveston residents whose lives were forever changed.

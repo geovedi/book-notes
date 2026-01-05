@@ -1,5 +1,6 @@
 # The Snow Queen
 **Authors**: Hans Christian Andersen | **Year**: 1844
+**Category**: Children & Young Adult
 
 ## Summary
 A enchanting fairy tale about the power of love and loyalty to overcome evil and cold indifference. When young Kay is pierced by shards of an evil mirror that distort perception and freeze his heart, he's taken by the beautiful but cruel Snow Queen to her icy palace. His devoted friend Gerda embarks on an epic journey through seasons and mystical encounters to rescue him, proving that true love can melt even the coldest heart.

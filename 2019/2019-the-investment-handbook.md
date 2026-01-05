@@ -1,5 +1,6 @@
 # The Investment Handbook
 **Authors**: David Bateman, Jonathan Reuvid | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "The Investment Handbook" is a comprehensive guide for entrepreneurs seeking funding to start or grow their businesses. This essential resource demystifies the complex world of investment by providing practical frameworks for approaching investors, creating compelling business plans, and navigating the due diligence process. The book combines strategic insights with an extensive directory of venture capital firms and angel networks across the UK, US, and global markets.

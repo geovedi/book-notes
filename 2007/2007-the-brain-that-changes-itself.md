@@ -1,5 +1,6 @@
 # The Brain That Changes Itself
 **Author**: Norman Doidge, M.D. | **Year**: 2007
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Brain That Changes Itself" revolutionizes our understanding of the human brain by introducing the groundbreaking concept of neuroplasticity—the brain's remarkable ability to reorganize, adapt, and transform itself throughout life. For centuries, scientists believed the brain was a fixed, hardwired machine that couldn't change after childhood. Doidge chronicles the scientific revolution that overturned this dogma, revealing how our brains continuously reshape themselves in response to thoughts, experiences, and focused training.

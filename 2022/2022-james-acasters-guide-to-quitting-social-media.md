@@ -1,5 +1,5 @@
 # James Acaster's Guide to Quitting Social Media
-**Author**: James Acaster | **Year**: 2022
+**Author**: James Acaster | **Year**: 2022 | **Category**: Self-Help & Personal Development
 
 ## Summary
 James Acaster's satirical "guide" chronicles his journey from being the second person ever to join MySpace (after Tom) to quitting all social media in 2019. Presented as a self-help book but written entirely in character as a comedic guru, it offers absurd solutions for replacing social media functions with real-life alternatives. Through increasingly ridiculous scenarios involving pen pals, hors d'oeuvres catering businesses, ex-girlfriend stalking operations, and cancel culture campaigns, Acaster demonstrates that life without social media isn't just possible—it's hilariously complicated.

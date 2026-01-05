@@ -1,6 +1,7 @@
 # The Seeker for Truth: My Essential Works
 
 **Authors**: James Allen | **Year**: 2012
+**Category**: Spirituality & Religion
 
 ## Summary
 

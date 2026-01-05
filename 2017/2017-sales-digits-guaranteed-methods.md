@@ -1,5 +1,6 @@
 # Sales Digits: Guaranteed Methods to Turn Prospects into Customers
 **Authors**: Eugy Enoch | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Sales Digits" is a practical marketing playbook that reveals seven proprietary strategies for converting prospects into lifelong customers. Based on the author's decade of marketing struggles and breakthroughs, this book provides actionable frameworks for both online and offline marketing success. The core premise is that effective marketing requires exposing problems first, then presenting solutions with strategic timing, credibility building, and relationship management.

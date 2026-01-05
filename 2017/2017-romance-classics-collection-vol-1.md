@@ -1,5 +1,6 @@
 # 2017 Romance Classics Collection Vol 1
 **Authors**: John Cleland, Daniel Defoe, Henry Fielding, Gustave Flaubert, D.H. Lawrence, Vatsyayana, Leopold von Sacher-Masoch | **Year**: 2017
+**Category**: Romance & Relationships
 
 ## Summary
 This provocative collection brings together seven controversial works that pushed boundaries of literature, sexuality, and social convention across three centuries. From 18th-century erotic memoirs to 20th-century modernist explorations of desire, these works share a common thread: they were all considered scandalous, often banned, and frequently challenged prevailing notions of morality, gender roles, and sexual freedom. Each work uses explicit content not merely for shock value, but as a vehicle for deeper social commentary, psychological insight, and philosophical questioning of human nature.

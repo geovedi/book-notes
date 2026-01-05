@@ -1,6 +1,7 @@
 # Bilderdijk's Letters 1772-1794
 **Original Title**: Briefwisseling. Deel 1. 1772-1794
 **Author**: Willem Bilderdijk (Edited by J. Bosch) | **Year**: 1955
+**Category**: History & Biography
 
 ## Summary
 

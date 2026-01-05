@@ -1,5 +1,6 @@
 # The Moonstone
 **Authors**: Wilkie Collins | **Year**: 1868
+**Category**: Fiction & Literature
 
 ## Summary
 "The Moonstone" is widely considered the first modern detective novel in English literature, pioneering many conventions that would define the mystery genre. The story centers on the theft of a priceless Indian diamond from a country house in England, setting off a complex investigation that reveals deep family secrets, psychological complexities, and the enduring consequences of colonial exploitation.

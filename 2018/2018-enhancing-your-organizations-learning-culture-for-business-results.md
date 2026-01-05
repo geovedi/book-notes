@@ -1,5 +1,5 @@
 # Enhancing Your Organization's Learning Culture for Business Results
-**Authors**: Tad Hughes, M.S., PMP | **Year**: 2018
+**Authors**: Tad Hughes, M.S., PMP | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals why creating a learning culture—not just a training culture—is essential for modern business success. Hughes demonstrates that learning is opportunity, and when organizations shift from viewing development as isolated training events to fostering continuous, embedded learning, they unlock higher productivity, better retention, and improved business results.

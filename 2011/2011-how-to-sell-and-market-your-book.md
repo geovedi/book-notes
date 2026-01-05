@@ -1,5 +1,5 @@
 # How to Sell and Market Your Book
-**Authors**: Darin Jewell | **Year**: 2011
+**Authors**: Darin Jewell | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 This step-by-step guide provides authors with a comprehensive framework for successfully marketing and selling their books in the modern publishing landscape. The book emphasizes that books don't reach the market on their own—you must actively introduce them to readers and encourage purchases through strategic planning and persistent effort.

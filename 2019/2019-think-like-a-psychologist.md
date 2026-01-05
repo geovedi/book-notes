@@ -1,5 +1,6 @@
 # Think Like a Psychologist
 **Authors**: Patrick King | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 

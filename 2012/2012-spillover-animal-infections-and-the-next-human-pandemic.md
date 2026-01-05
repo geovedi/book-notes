@@ -1,5 +1,6 @@
 # Spillover: Animal Infections and the Next Human Pandemic
 **Author**: David Quammen | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "Spillover" is a compelling scientific investigation into zoonotic diseases—infections that jump from animals to humans—and the growing threat of global pandemics. Quammen travels the world with disease scientists, documenting their hunt for deadly pathogens like Ebola, SARS, Hendra, and HIV/AIDS. Through vivid storytelling and rigorous research, he reveals how human disruption of natural ecosystems is creating ever more opportunities for animal pathogens to cross into human populations, with potentially catastrophic consequences.

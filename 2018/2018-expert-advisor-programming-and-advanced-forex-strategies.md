@@ -1,5 +1,6 @@
 # Expert Advisor Programming and Advanced Forex Strategies
 **Authors**: Wayne Walker | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 

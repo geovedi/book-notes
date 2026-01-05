@@ -1,5 +1,6 @@
 # The Sign of the Four
 **Authors**: Sir Arthur Conan Doyle | **Year**: 1890
+**Category**: Horror & Thriller
 
 ## Summary
 Sherlock Holmes and Dr. Watson find themselves embroiled in a complex mystery when Miss Mary Morstan arrives at 221B Baker Street with a perplexing case. Her father, an officer in the Indian regiment, mysteriously disappeared ten years ago upon returning to London. Since then, she has been receiving valuable pearls anonymously every year, and now she's been summoned to a mysterious meeting that promises answers about both her father's fate and the famous Agra treasure.

@@ -1,5 +1,6 @@
 # Pawpaw: In Search of America's Forgotten Fruit
 **Author**: Andrew Moore | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 Pawpaw is the remarkable story of America's largest indigenous fruit - a tropical-tasting treasure that has been hiding in plain sight for centuries. Andrew Moore embarks on a journey to uncover why this delicious, banana-mango flavored fruit vanished from American tables and culture, despite being perfectly adapted to our landscape and climate.

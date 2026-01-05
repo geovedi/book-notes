@@ -1,5 +1,6 @@
 # An Appreciation of Public Relations
 **Authors**: Ellen Gunning | **Year**: 2007
+**Category**: Business & Finance
 
 ## Summary
 "An Appreciation of Public Relations" is a comprehensive practical guide for both PR students and practicing professionals. Written by an experienced practitioner and educator, this book serves as a complete reference covering everything from foundational ethics and media relations to specialized areas like crisis management and corporate social responsibility. The author emphasizes that PR cannot be studied in isolation—it requires understanding the broader business, political, cultural, and social contexts within which organizations operate.

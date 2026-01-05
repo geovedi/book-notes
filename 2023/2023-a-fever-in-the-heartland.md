@@ -1,5 +1,6 @@
 # A Fever in the Heartland
 **Author**: Timothy Egan | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # The Girl with the Lower Back Tattoo
-**Author**: Amy Schumer | **Year**: 2016
+**Author**: Amy Schumer | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 Amy Schumer's memoir is a raw, hilarious collection of personal stories that trace her journey from a wealthy childhood on Long Island to struggling comedian and eventually to stardom. The book balances raunchy humor with vulnerable moments about family, relationships, and finding success on her own terms. Schumer doesn't shy away from uncomfortable truths about her father's battle with multiple sclerosis and alcoholism, her family's financial collapse, or the awkward path to becoming one of comedy's most authentic voices.

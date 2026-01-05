@@ -1,5 +1,6 @@
 # Cult of the Dead Cow
 **Authors**: Joseph Menn | **Year**: 2019
+**Category**: Technology & Computing
 
 ## Summary
 "Cult of the Dead Cow" tells the remarkable story of the world's oldest and most influential hacking group, founded in 1984 in Lubbock, Texas. What began as a small collective of tech-savvy misfits evolved into a powerful force that shaped modern cybersecurity, pioneered hacktivism, and placed its members in key positions at major tech companies and government agencies. The book reveals how this loosely organized group of ethical hackers transitioned from pranksters to serious security professionals who have influenced everything from privacy technology to national security policy.

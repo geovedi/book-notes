@@ -1,5 +1,6 @@
 # Economics in One Lesson
 **Author**: Henry Hazlitt | **Year**: 1952
+**Category**: Business & Finance
 
 ## Summary
 Henry Hazlitt's masterpiece reveals that most economic mistakes stem from one fundamental error: looking only at the immediate effects of a policy while ignoring its long-term consequences. Through clear examples and logical reasoning, Hazlitt demonstrates how to analyze any economic proposal by tracing its effects on all groups in society, not just the obvious beneficiaries. This book is essential for anyone who wants to understand economic policy and avoid common fallacies that dominate public discourse.

@@ -1,5 +1,5 @@
 # 30-Second Economics
-**Authors**: Donald Marron (Editor), Adam Fishwick, Christakis Georgiou, Katie Huston, Aurelie Marechal | **Year**: 2011
+**Authors**: Donald Marron (Editor), Adam Fishwick, Christakis Georgiou, Katie Huston, Aurelie Marechal | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "30-Second Economics" distills the 50 most influential economic theories into digestible half-minute explanations, making complex economic thinking accessible to everyone. The book is structured around eight key areas: Schools of Thought, Economic Systems, Economic Cycles, Growth, Global Trade, Choice, Tax & Spend Policies, and Markets. Each theory is presented in three tiers - a 30-second core explanation, a 3-second crash summary, and a 3-minute deeper analysis with limitations.

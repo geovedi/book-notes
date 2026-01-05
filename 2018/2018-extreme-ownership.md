@@ -1,5 +1,6 @@
 # Extreme Ownership
 **Authors**: Jocko Willink, Leif Babin | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Extreme Ownership" translates Navy SEAL combat leadership principles from the Battle of Ramadi into actionable business wisdom. Former SEAL officers Willink and Babin demonstrate that effective leadership isn't about talent or charisma—it's about taking complete responsibility for everything in your domain, from your team's failures to your own mistakes. Through battlefield stories and corporate consulting experiences, they reveal how the same mindset that keeps elite units alive in combat can transform organizations and careers.

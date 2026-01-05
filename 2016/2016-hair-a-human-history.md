@@ -1,5 +1,5 @@
 # Hair: A Human History
-**Authors**: Kurt Stenn | **Year**: 2016
+**Authors**: Kurt Stenn | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "Hair: A Human History" reveals that the simple strand of hair is one of humanity's most profound and overlooked innovations. Written by a lifelong hair-follicle scientist, this interdisciplinary masterpiece shows how hair evolved from environmental protection into a sophisticated communication tool that shaped human evolution, built empires, drove economic growth, and continues to influence our social interactions today.

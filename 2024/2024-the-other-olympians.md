@@ -1,5 +1,6 @@
 # The Other Olympians
 **Authors**: Michael Waters | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "The Other Olympians" tells the remarkable true story of Zdeněk Koubek and Mark Weston, two pioneering Czechoslovakian and British athletes who transitioned from women to men in the 1930s after successful careers as female track and field champions. Set against the backdrop of rising Nazi Germany and the controversial 1936 Berlin Olympics, this meticulously researched narrative reveals how these athletes' personal journeys intersected with the birth of gender surveillance in sports—a system that continues to impact athletics today.

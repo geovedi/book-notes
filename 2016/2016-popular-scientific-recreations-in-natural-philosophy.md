@@ -1,5 +1,5 @@
 # Popular Scientific Recreations in Natural Philosophy
-**Authors**: Gaston Tissandier (Translated and Enlarged) | **Year**: 2016 (Original from 19th century)
+**Authors**: Gaston Tissandier (Translated and Enlarged) | **Year**: 2016 (Original from 19th century) | **Category**: Science & Nature
 
 ## Summary
 This comprehensive science education book transforms complex scientific principles into engaging, hands-on experiments and observations that anyone can perform with everyday materials. Originally written by French scientist Gaston Tissandier and expanded for English readers, the work demonstrates how science isn't confined to laboratories but exists all around us—in our homes, gardens, and daily observations of nature.

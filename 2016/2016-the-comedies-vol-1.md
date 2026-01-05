@@ -1,5 +1,5 @@
 # The Comedies Vol 1
-**Authors**: Aristophanes | **Year**: c. 425-414 BCE
+**Authors**: Aristophanes | **Year**: c. 425-414 BCE | **Category**: Fiction & Literature
 
 ## Summary
 Aristophanes' Comedies Volume 1 presents six of the most influential ancient Greek comedies, written during the Peloponnesian War. These plays represent some of the world's oldest surviving theatrical works and offer razor-sharp political satire, social commentary, and timeless humor. Aristophanes uses comedy to critique Athenian democracy, war policy, intellectual movements, and social conventions with wit that remains startlingly relevant after 2,400 years.

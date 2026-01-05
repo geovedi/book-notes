@@ -1,6 +1,7 @@
 # Hands-On Salesforce Data Cloud: Implementing and Managing a Customer Data Platform
 
 **Authors**: Joyce Kay Avila | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "Hands-On Salesforce Data Cloud" is a comprehensive practical guide to implementing and managing Salesforce's real-time customer data platform (CDP). The book takes readers through the evolution of Salesforce Data Cloud from its origins as Customer 360 Audiences to its current state as a powerful AI-ready platform that unifies customer data across organizations.

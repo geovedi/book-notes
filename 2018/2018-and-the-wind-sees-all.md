@@ -1,7 +1,7 @@
 # And the Wind Sees All
 **Original Title**: Og Vindinn Sér Allt (Icelandic)
 **Authors**: Guðmundur Andri Thorsson | **Year**: 2018
-**Translators**: Björg Árnadóttir and Andrew Cauthery
+**Translators**: Björg Árnadóttir and Andrew Cauthery | **Category**: Fiction & Literature
 
 ## Summary
 A luminous collection of interconnected short stories set in the Icelandic fishing village of Valeyri, all unfolding over a single summer afternoon before a choir concert. The book is narrated by a unique consciousness—the mist that slides in from the sea and observes the private moments, secrets, and dreams of the villagers without judgment. Through this ethereal narrator, we glimpse the hidden depths of ordinary lives, where past traumas, lost loves, and quiet hopes coexist with mundane daily routines.

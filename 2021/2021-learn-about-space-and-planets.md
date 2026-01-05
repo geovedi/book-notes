@@ -1,5 +1,6 @@
 # Learn About Space and Planets
 **Authors**: Susan Akass, Dr. Jacob Kegerreis (Consultant Editor) | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "Learn About Space and Planets" is an interactive children's educational book that transforms complex astronomical concepts into hands-on learning experiences. The book explores our solar system through engaging activities, simple experiments, and clear explanations that make space science accessible to young readers. By combining scientific facts with practical demonstrations, it helps children understand everything from the immense scale of the universe to the mechanics of Earth's seasons.

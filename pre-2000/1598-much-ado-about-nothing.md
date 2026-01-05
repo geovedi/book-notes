@@ -1,5 +1,6 @@
 # Much Ado About Nothing
 **Authors**: William Shakespeare | **Year**: 1598
+**Category**: Romance & Relationships
 
 ## Summary
 "Much Ado About Nothing" is Shakespeare's masterful comedy that weaves together two love stories in the sun-drenched Italian city of Messina. The play contrasts the traditional romance between Claudio and Hero with the sharp-witted, verbal warfare between Benedick and Beatrice—two sworn opponents who are tricked into falling in love. When the villainous Don John schemes to ruin Hero's reputation through deception, the play explores themes of honor, trust, and the power of perception versus reality. Through clever wordplay, mistaken identities, and the revelatory power of truth, Shakespeare creates a timeless celebration of love's ability to transform even the most cynical hearts.

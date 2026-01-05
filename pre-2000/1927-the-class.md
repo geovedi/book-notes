@@ -1,6 +1,7 @@
 # The Class
 **Original Title**: Die Klasse
 **Author**: Hermann Ungar | **Year**: 1927
+**Category**: Fiction & Literature
 
 ## Summary
 "The Class" is a dark psychological novel that delves into the mind of Josef Blau, a schoolteacher haunted by insecurity and existential dread. Teaching at a prestigious high school while coming from a poor background, Blau becomes obsessed with maintaining rigid discipline over his wealthy, well-groomed students, whom he believes secretly despise him. His pathological fear of losing control leads him down a spiral of paranoia, culminating in a disastrous decision to spy on students at a brothel—a choice that results in tragedy and forces him to confront the destructive nature of his own worldview.

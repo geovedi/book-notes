@@ -1,5 +1,6 @@
 # The Brothers Karamazov
 **Authors**: Fyodor Dostoevsky | **Year**: 1880
+**Category**: Fiction & Literature
 
 ## Summary
 The Brothers Karamazov is Dostoevsky's final masterpiece—a profound murder mystery that spirals into one of literature's deepest explorations of faith, reason, freedom, and the human condition. The novel centers on the dysfunctional Karamazov family: the lecherous patriarch Fyodor and his three sons—passionate Dmitri, intellectual Ivan, and spiritual Alyosha. When Fyodor is murdered, the resulting investigation and trial expose not just who killed him, but the fundamental contradictions within each human soul.

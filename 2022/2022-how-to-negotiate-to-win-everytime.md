@@ -1,5 +1,5 @@
 # How to Negotiate to Win Everytime
-**Authors**: Irina Bristow | **Year**: 2022
+**Authors**: Irina Bristow | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 This book provides a comprehensive guide to negotiation tactics and strategies designed to help readers achieve favorable outcomes in business and personal negotiations. The author presents negotiation as both an art and a science, emphasizing that successful negotiation requires preparation, psychological insight, and effective communication skills. The book covers everything from basic negotiation principles to advanced techniques like Neuro-Linguistic Programming (NLP) and reading body language.

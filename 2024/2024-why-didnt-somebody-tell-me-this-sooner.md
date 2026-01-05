@@ -1,5 +1,6 @@
 # Why Didn't Somebody Tell Me This Sooner?
 **Authors**: Tiz A. Arnold, EdD | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This practical self-help guide delivers essential life lessons that the author wishes she had learned as a teenager. Drawing from her personal experiences including earning a doctoral degree, paying off $140,000 in student loans early, traveling extensively, and building a successful career, Arnold presents wisdom that helps young people take ownership of their lives earlier rather than later. The book is structured around key realizations about life, happiness, and personal growth, each starting with the phrase "What I wish somebody had told me back then..."

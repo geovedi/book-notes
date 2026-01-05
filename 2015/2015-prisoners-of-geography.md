@@ -1,5 +1,6 @@
 # Prisoners of Geography
 **Author**: Tim Marshall | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "Prisoners of Geography" reveals how the physical landscape—mountains, rivers, plains, and climate—shapes the destiny of nations and constrains their leaders' choices. Marshall argues that despite modern technology and globalization, geography remains the fundamental factor determining international relations, conflicts, and political possibilities. The book examines ten crucial regions, demonstrating how each nation's foreign policy and historical trajectory are heavily influenced by its geographical position and physical constraints.

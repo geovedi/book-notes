@@ -1,5 +1,5 @@
 # 2018 Swing Trading: The Ultimate Guide to Making Fast Money 1 Hour a Day
-**Authors**: Victor Lucas | **Year**: 2018
+**Authors**: Victor Lucas | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide introduces swing trading as an intermediate investment strategy that balances the intensity of day trading with the patience of buy-and-hold investing. The book presents swing trading as a method for capturing short-to-medium term price movements (typically lasting a few days to several weeks) while requiring only about an hour of daily management time.

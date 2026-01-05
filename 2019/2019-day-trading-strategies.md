@@ -1,5 +1,6 @@
 # Day Trading Strategies
 **Authors**: Mark Graham | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide introduces beginners to the world of day trading and investing, covering everything from basic forex concepts to advanced trading strategies. The book demystifies complex financial markets and provides practical advice for anyone looking to generate income through trading without needing prior experience.

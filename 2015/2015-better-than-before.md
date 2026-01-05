@@ -1,5 +1,6 @@
 # Better Than Before
 **Authors**: Gretchen Rubin | **Year**: 2015
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Better Than Before" is a practical guide to understanding and changing our habits—the invisible architecture of daily life. Rubin reveals that we repeat about 45% of our behavior almost daily, making habits the foundation of our existence and future. The book doesn't tell you which habits to form, but rather provides a comprehensive framework for how to change habits based on your unique personality and circumstances.

@@ -1,6 +1,7 @@
 # Life and Science: The Speed of Light, World Broadcast, Time Machine, Morphogenetic Fields, Replication of Objects, Unsupported Movement
 **Original Title**: Жизнь и наука. Популярное изложение (Life and Science. Popular exposition)
 **Authors**: Rem Word | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 This revolutionary science book challenges conventional physics by exploring unconventional phenomena including variable light speeds, time machines, morphogenetic fields, and object replication. Through detailed experimental research, the author demonstrates how repeated identical experiments show decreasing effectiveness - a "reaction extinction" principle that applies to everything from chemical reactions to entire civilizations. The book presents practical experiments that suggest the past exists simultaneously with the present, and that similar forms interact across both time and space through quantum-level connections.

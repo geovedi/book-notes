@@ -1,5 +1,6 @@
 # The Guide to Event Management
 **Authors**: Rus Slater | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide transforms event planning from chaotic guesswork into a structured, manageable process using proven project management principles. The book demystifies event organization by providing a systematic approach that covers everything from initial concept through post-event evaluation, making professional event planning accessible to both beginners and occasional organizers.

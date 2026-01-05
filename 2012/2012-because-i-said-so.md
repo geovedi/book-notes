@@ -1,5 +1,6 @@
 # Because I Said So!
 **Author**: Ken Jennings | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 Ken Jennings, best known for his Jeopardy! winning streak, turns his analytical mind to the 125 most common parental warnings, myths, and pieces of advice that get passed down through generations. From "Don't swim after eating" to "You'll catch a cold if you go outside with wet hair," Jennings meticulously researches the scientific evidence behind each saying, delivering clear verdicts: TRUE, FALSE, MOSTLY TRUE/FALSE, or POSSIBLY TRUE.

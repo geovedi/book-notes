@@ -1,5 +1,6 @@
 # The Happy Prince and Other Tales
 **Authors**: Oscar Wilde | **Year**: 1888
+**Category**: Children & Young Adult
 
 ## Summary
 This enchanting collection of five fairy tales weaves together beautiful prose with profound moral lessons about compassion, sacrifice, and the true meaning of friendship. Each story uses fantasy elements to explore complex human emotions and social values that speak to both children and adults. Wilde masterfully contrasts the innocence of childhood with the cynicism of adult society, revealing how love and kindness can transform even the hardest hearts.

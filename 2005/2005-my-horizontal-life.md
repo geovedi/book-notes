@@ -1,5 +1,5 @@
 # My Horizontal Life
-**Author**: Chelsea Handler | **Year**: 2005
+**Author**: Chelsea Handler | **Year**: 2005 | **Category**: Romance & Relationships
 
 ## Summary
 "My Horizontal Life" is Chelsea Handler's outrageously funny memoir chronicling her series of one-night stands and sexual misadventures. Handler presents her experiences with unflinching honesty and razor-sharp humor, turning embarrassing encounters into entertainment gold. The book captures the journey of a young woman navigating casual relationships in her twenties and thirties, from mishaps with midgets in Mexico to disastrous encounters with male hookers and gynecologists with questionable intentions.

@@ -1,5 +1,6 @@
 # Learn How to Build a Business Today
 **Authors**: Dale Carnegie | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals 16 different strategies for generating income through online ventures and digital entrepreneurship. Carnegie demystifies the process of building a business from scratch, covering everything from website development to affiliate marketing, demonstrating that anyone with dedication and the right approach can create a sustainable online income stream. The book breaks down each method into actionable steps, making it accessible for beginners while providing valuable insights for those already familiar with online business.

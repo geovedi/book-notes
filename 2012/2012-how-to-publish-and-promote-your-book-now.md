@@ -1,5 +1,6 @@
 # How to Publish and Promote Your Book Now
 **Authors**: L. Diane Wolfe | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies the modern publishing landscape, helping authors navigate both traditional and self-publishing paths. The publishing industry has undergone massive transformation with digital technology creating unprecedented opportunities alongside fierce competition. With nearly a million books released yearly, success requires strategic planning, quality execution, and persistent marketing effort.

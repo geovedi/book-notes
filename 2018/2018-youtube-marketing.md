@@ -1,5 +1,5 @@
 # YouTube Marketing: A Comprehensive Guide
-**Authors**: Mark Smith | **Year**: 2018
+**Authors**: Mark Smith | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies YouTube marketing for businesses, showing how to leverage the platform's 800+ million monthly users to build authority, create engagement, and drive sales. The book presents a three-pillar framework: attract audiences through traffic videos, engage viewers with valuable content, and convert followers into customers through strategic upselling.

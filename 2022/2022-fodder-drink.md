@@ -1,5 +1,5 @@
 # Fodder & Drink
-**Authors**: Emma Kay | **Year**: 2022
+**Authors**: Emma Kay | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "Fodder & Drink" illuminates the sophisticated and diverse culinary landscape of Anglo-Saxon England (roughly 450-1066 CE), challenging common misconceptions about "Dark Ages" cuisine. Through extensive archaeological evidence, historical texts, and practical experimentation, Emma Kay reveals that Anglo-Saxon communities enjoyed varied diets rich in meat, fish, dairy, grains, fruits, and fermented beverages. The book demonstrates how food reflected social hierarchy, cultural exchange with Roman, Frankish, and Scandinavian influences, and ingenuity in preservation and preparation techniques.

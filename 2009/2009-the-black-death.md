@@ -1,5 +1,6 @@
 # The Black Death
 **Authors**: Philip Ziegler | **Year**: 2009 (Second Edition)
+**Category**: History & Biography
 
 ## Summary
 Philip Ziegler's comprehensive historical analysis examines the catastrophic pandemic that swept through Europe in 1348-1350, killing between one-third and one-half of the population. The book traces the Black Death's origins in the East, its devastating spread across Europe, and its profound long-term consequences for medieval society. Ziegler challenges many myths while demonstrating how this unprecedented disaster accelerated social and economic transformations already underway, ultimately reshaping the trajectory of European history.

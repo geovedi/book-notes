@@ -1,5 +1,6 @@
 # The Man Who Loved Books Too Much
 **Author**: Allison Hoover Bartlett | **Year**: 2009
+**Category**: Fiction & Literature
 
 ## Summary
 This captivating true crime narrative follows John Gilkey, a prolific book thief who stole hundreds of thousands of dollars worth of rare books across America, and Ken Sanders, the determined rare book dealer who made it his mission to catch him. What begins as a simple cat-and-mouse story evolves into a fascinating exploration of obsession, the psychology of collecting, and the blurred lines between love and possession in the rare book world.

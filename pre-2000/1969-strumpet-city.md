@@ -1,5 +1,6 @@
 # Strumpet City
 **Authors**: James Plunkett | **Year**: 1969
+**Category**: Fiction & Literature
 
 ## Summary
 Set in Dublin between 1907-1914, "Strumpet City" is a monumental epic that captures the lives of working-class Dubliners during one of the most turbulent periods in Irish history. The novel weaves together the stories of characters from different social strata—from wealthy landlords and priests to impoverished laborers and domestic servants—against the backdrop of the 1913 Dublin Lockout, when over 20,000 workers went on strike for fair wages and working conditions.

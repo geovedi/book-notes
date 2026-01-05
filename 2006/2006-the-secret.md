@@ -1,5 +1,5 @@
 # The Secret
-**Author**: Rhonda Byrne | **Year**: 2006
+**Author**: Rhonda Byrne | **Year**: 2006 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Secret" reveals the most powerful law in the universe: the Law of Attraction. This universal principle states that like attracts like—your thoughts become things, and whatever you focus on expands in your life. Byrne compiles wisdom from modern-day teachers and historical figures to demonstrate how this ancient secret has been known by successful people throughout history, from Plato and Shakespeare to Einstein and Beethoven.

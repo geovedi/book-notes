@@ -1,5 +1,6 @@
 # The Best New True Crime Stories: Small Towns
 **Editor**: Mitzi Szereto | **Year**: 2020
+**Category**: Horror & Thriller
 
 ## Summary
 This chilling anthology shatters the myth that small towns are safe havens from the darkness found in big cities. Editor Mitzi Szereto brings together international writers who explore shocking true crimes that occurred in small communities across Australia, Ecuador, Italy, Wales, and Germany. The book reveals how intimate, close-knit environments can sometimes breed the most horrific violence, from serial killings and cannibalism to vigilante justice and mysterious deaths.

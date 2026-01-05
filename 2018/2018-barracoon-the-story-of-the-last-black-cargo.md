@@ -1,5 +1,5 @@
 # Barracoon: The Story of the Last "Black Cargo"
-**Authors**: Zora Neale Hurston, Deborah G. Plant (ed.) | **Year**: 2018
+**Authors**: Zora Neale Hurston, Deborah G. Plant (ed.) | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 "Barracoon" is the extraordinary oral history of Cudjo Lewis (born Kossula), the last known survivor of the transatlantic slave trade. Captured in West Africa at age 19 and transported to America on the illegal slave ship Clotilda in 1859, Kossula spent five years in enslavement before emancipation. The book captures his firsthand account of African village life, the brutal raid that tore him from his home, the horrors of the barracoon and Middle Passage, and his subsequent life in America where he helped found Africatown, Alabama.

@@ -1,5 +1,5 @@
 # Incognito: The Secret Lives of the Brain
-**Author**: David Eagleman | **Year**: 2011
+**Author**: David Eagleman | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 

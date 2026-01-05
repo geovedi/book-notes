@@ -1,5 +1,6 @@
 # The Law of Success in Sixteen Lessons
 **Authors**: Napoleon Hill | **Year**: 1925
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Law of Success in Sixteen Lessons" is Napoleon Hill's foundational work that outlines the philosophy and practical application of personal achievement principles. Based on over 20 years of research studying successful individuals like Andrew Carnegie, Henry Ford, and Thomas Edison, this comprehensive course presents fifteen timeless laws that form the blueprint for achieving extraordinary success in any field. The course transforms abstract success principles into actionable strategies that anyone can master and apply to their life and career.

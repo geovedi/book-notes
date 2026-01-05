@@ -1,5 +1,5 @@
 # Scalping is Fun! Part 2: Practical Examples
-**Authors**: Heikin Ashi Trader | **Year**: 2018
+**Authors**: Heikin Ashi Trader | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This book is the second installment in a comprehensive series on scalping techniques using Heikin Ashi charts. It builds upon the foundational setup introduced in Book 1 by integrating technical analysis patterns and practical trading examples. The author, with over 14 years of scalping experience, demonstrates how to combine basic scalping setups with established technical analysis principles to improve entry and exit precision. The book provides real-world trading examples across various markets including forex pairs (EUR/USD, GBP/JPY, USD/JPY) and indices (DAX), showing how to identify trend reversals, manage positions, and adapt to different market conditions.

@@ -1,6 +1,7 @@
 # Under the Half Moon: Experiences in Old Turkey 1835-1839
 **Original Title**: Unter dem Halbmond : Erlebnisse in der alten Türkei 1835-1839
-**Author**: Helmuth von Moltke | **Year**: 1835-1839 
+**Author**: Helmuth von Moltke | **Year**: 1835-1839
+**Category**: History & Biography 
 
 ## Summary
 This remarkable travel narrative follows Prussian officer Helmuth von Moltke during his four-year military mission to the Ottoman Empire from 1835-1839. What began as a brief three-week stay in Constantinople evolved into an extensive journey through the declining Ottoman realm, providing invaluable insights into a empire at the crossroads of tradition and modernization. Moltke, who would later become one of Germany's greatest military strategists, offers keen observations of Ottoman military reforms, diplomatic life, and the complex cultural tapestry of 19th-century Turkey.

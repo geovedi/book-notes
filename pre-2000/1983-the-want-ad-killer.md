@@ -1,5 +1,6 @@
 # The Want-Ad Killer
 **Author**: Ann Rule | **Year**: 1983
+**Category**: Horror & Thriller
 
 ## Summary
 "The Want-Ad Killer" is a chilling true crime narrative that chronicles the predatory career of Harvey Louis Carignan, a serial killer who used classified newspaper advertisements to lure young women to their deaths. The book centers on the tragic case of Kathy Sue Miller, a 16-year-old Seattle girl who answered a seemingly innocent want ad for a gas station job in May 1973, never to return home.

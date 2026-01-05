@@ -1,5 +1,6 @@
 # A Little Princess
 **Author**: Frances Hodgson Burnett | **Year**: 1905
+**Category**: Children & Young Adult
 
 ## Summary
 When young Sara Crewe arrives at Miss Minchin's boarding school in London, she's a wealthy, imaginative girl who has always been treated like a princess. After her beloved father dies and loses his fortune in a failed diamond mine investment, Sara is forced to become a servant in the same school, enduring hardship while maintaining her dignity and inner nobility. Through a series of magical interventions and her own unwavering kindness, she discovers that true princesshood comes from within, not from wealth or status.

@@ -1,5 +1,5 @@
 # The Cathedral & the Bazaar
-**Authors**: Eric S. Raymond | **Year**: 2010
+**Authors**: Eric S. Raymond | **Year**: 2010 | **Category**: Technology & Computing
 
 ## Summary
 Eric S. Raymond's "The Cathedral & the Bazaar" revolutionized how we think about software development by contrasting two fundamentally different approaches: the traditional "cathedral" model of carefully crafted, closed development versus the "bazaar" model of open, collaborative development that made Linux a global phenomenon. Based on Raymond's experience developing fetchmail and observing Linus Torvalds's Linux development, this book explains why the bazaar model consistently produces better, more innovative software through decentralization, early release, and community participation.

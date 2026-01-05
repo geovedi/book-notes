@@ -1,5 +1,6 @@
 # Bayesian Statistics the Fun Way
 **Authors**: Will Kurt | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 

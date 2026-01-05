@@ -1,5 +1,5 @@
 # The Feminine Mystique
-**Authors**: Betty Friedan, Anna Quindlen (introduction) | **Year**: 1963
+**Authors**: Betty Friedan, Anna Quindlen (introduction) | **Year**: 1963 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Feminine Mystique" ignited the modern feminist movement by giving a name to the widespread unhappiness of suburban housewives in 1950s-60s America. Friedan identified "the problem that has no name" – the profound sense of emptiness, desperation, and identity crisis experienced by women who had been sold the dream that perfect fulfillment as wives and mothers was their ultimate destiny.

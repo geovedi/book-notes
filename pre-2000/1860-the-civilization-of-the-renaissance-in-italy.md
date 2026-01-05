@@ -1,6 +1,7 @@
 # The Civilization of the Renaissance in Italy
 **Original Title**: Die Kultur der Renaissance in Italien
 **Author**: Jacob Burckhardt | **Year**: 1860
+**Category**: History & Biography
 
 ## Summary
 Burckhardt's revolutionary work established the Renaissance as the birthplace of modern individualism and secular consciousness, fundamentally transforming our understanding of this pivotal era. He argues that the Renaissance wasn't merely an artistic revival but a profound psychological transformation where medieval people's collective identity evolved into modern individual self-awareness.

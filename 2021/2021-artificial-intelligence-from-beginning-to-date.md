@@ -1,5 +1,6 @@
 # Artificial Intelligence: From Beginning To Date
 **Authors**: Cai Zixing, Liu Lijue, Chen Baifan, Wang Yong | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive computer science textbook provides a systematic exploration of artificial intelligence from its historical origins to cutting-edge applications. The book organizes AI knowledge into two major paradigms: knowledge-based AI (Part 1) and data-based AI (Part 2), offering readers a complete understanding of both traditional and modern approaches to intelligent systems. Starting with fundamental definitions and historical context, it progresses through knowledge representation, search algorithms, machine learning, neural networks, and advanced applications like expert systems and natural language processing.

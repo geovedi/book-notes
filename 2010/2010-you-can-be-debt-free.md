@@ -1,5 +1,5 @@
 # You Can Be Debt Free
-**Authors**: Sobaca Ltd | **Year**: 2010
+**Authors**: Sobaca Ltd | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 This practical guide addresses the growing problem of personal debt and offers concrete strategies for financial recovery. Written during challenging economic times, the book provides readers with a comprehensive understanding of debt types, warning signs of financial trouble, and actionable steps to regain control of their finances. The authors emphasize that debt problems are common and solvable through systematic approaches and available support systems.

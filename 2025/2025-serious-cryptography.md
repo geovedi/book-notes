@@ -1,5 +1,6 @@
 # Serious Cryptography
 **Authors**: Jean-Philippe Aumasson | **Year**: 2025
+**Category**: Technology & Computing
 
 ## Summary
 Serious Cryptography is a practice-oriented introduction to modern encryption that bridges the gap between theoretical cryptography and real-world applications. The book takes a "no-nonsense approach" that makes cryptography approachable without dumbing it down, focusing on fundamental concepts, practical implementations, and common pitfalls that developers encounter when working with cryptographic systems.

@@ -1,5 +1,6 @@
 # Mindful Listening
 **Authors**: Patrick King | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Mindful Listening" reveals that listening is an active skill requiring deliberate preparation, mental readiness, and emotional availability—not a passive default behavior. Most communication failures stem not from selfishness but from poor preparation for meaningful dialogue, and mastering mindful listening can transform personal and professional relationships.

@@ -1,5 +1,6 @@
 # 99 Classic Mystery Short Stories Volume 1
 **Authors**: Algernon Blackwood, Arthur Conan Doyle, Wilkie Collins, H.G. Wells, Rudyard Kipling, and more | **Year**: 2019
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive anthology brings together 99 mystery and detective short stories from the golden age of the genre, featuring works by legendary authors who helped shape modern mystery fiction. The collection spans psychological thrillers, detective procedurals, gothic mysteries, and early crime fiction, showcasing the evolution of the mystery genre from its Victorian origins to early 20th-century classics.

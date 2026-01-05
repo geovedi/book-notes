@@ -1,6 +1,6 @@
 # In Defense of Sociology
 **Original Title**: En defensa de la Sociología
-**Author**: Bernard Lahire | **Year**: 2016 
+**Author**: Bernard Lahire | **Year**: 2016 | **Category**: Philosophy & Critical Thinking 
 
 ## Summary
 "In Defense of Sociology" is a powerful response to politicians, journalists, and intellectuals who attack sociology for creating a "culture of excuse." Lahire argues that seeking social explanations for human behavior is not about excusing or absolving individuals, but about understanding the complex conditions that make certain actions possible. The book defends social sciences against those who reduce all human behavior to individual choice and free will, showing how this perspective serves to legitimize existing social hierarchies and obscure structural inequalities.

@@ -1,5 +1,6 @@
 # Training Essentials For Ultrarunning
 **Authors**: Jason Koop, Jim Rutberg, Corrine Malcolm | **Year**: 2021
+**Category**: Health & Medicine
 
 ## Summary
 "Training Essentials For Ultrarunning" is a comprehensive, evidence-based guide that transforms ultrarunning from anecdotal experimentation into a systematic, scientific discipline. Koop argues that ultrarunning has evolved beyond folk wisdom and requires the same scientific rigor applied to traditional endurance sports. The book dismantles common ultrarunning myths and provides athletes with actionable frameworks to optimize training, nutrition, mental skills, and race strategies.

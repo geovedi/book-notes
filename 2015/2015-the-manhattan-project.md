@@ -1,6 +1,7 @@
 # 2015 - The Manhattan Project
 
 **Authors**: Al Cimino | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "The Manhattan Project" tells the complete story of history's most ambitious scientific and engineering undertaking - the race to build the first atomic bomb during World War II. This comprehensive account traces the journey from theoretical physics concepts to the devastating weapons that changed warfare forever, covering the brilliant scientists, massive industrial efforts, and complex moral decisions that shaped the nuclear age.

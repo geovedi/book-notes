@@ -1,5 +1,6 @@
 # Reboot: Stress Management Techniques
 **Authors**: Irina Apraksina | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 

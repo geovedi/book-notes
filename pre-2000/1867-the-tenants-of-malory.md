@@ -1,6 +1,7 @@
 # The Tenants of Malory
 **Original Title**: The Tenants of Malory
 **Author**: Joseph Sheridan Le Fanu | **Year**: 1867
+**Category**: Romance & Relationships
 
 ## Summary
 "The Tenants of Malory" is a Gothic romance that weaves together inheritance mysteries, complex family relationships, and romantic entanglements in Victorian Wales. When the mysterious and beautiful Margaret Fanshawe arrives at the haunting Malory Priory with her companion Anne Sheckleton, she captures the attention of Cleve Verney, the heir presumptive to a peerage. Their attraction blossoms amid secrets, misunderstandings, and revelations about family connections that threaten to destroy their happiness. The novel explores themes of love across class boundaries, the weight of family legacy, and the tragic consequences of hidden truths.

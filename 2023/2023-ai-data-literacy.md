@@ -1,6 +1,7 @@
 # AI & Data Literacy: Empowering Citizens of Data Science
 
 **Authors**: Bill Schmarzo | **Year**: 2023
+**Category**: Technology & Computing
 
 ## Summary
 AI & Data Literacy presents a comprehensive framework for becoming a "Citizen of Data Science" in an increasingly AI-driven world. Schmarzo argues that AI and data literacy is no longer optional but essential for everyone, regardless of their technical background. The book demystifies AI concepts, explains how AI systems work, and provides practical guidance for participating in AI-related conversations and decisions.

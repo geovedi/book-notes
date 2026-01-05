@@ -1,5 +1,5 @@
 # Banner Ad Bomb
-**Authors**: Unknown | **Year**: 2022
+**Authors**: Unknown | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 Banner Ad Bomb is a practical guide to creating effective banner advertisements that capture attention and drive results in internet marketing. The book breaks down the essential elements of successful banner advertising, from basic design principles to advanced techniques for maximizing click-through rates and conversions. It provides a comprehensive framework for businesses of all sizes to leverage banner ads as a cost-effective marketing tool.

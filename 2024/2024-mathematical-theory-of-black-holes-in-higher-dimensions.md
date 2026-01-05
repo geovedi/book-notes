@@ -1,5 +1,6 @@
 # Mathematical Theory of Black Holes in Higher Dimensions
 **Authors**: Petya Nedkova, Stoytcho Yazadjiev | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 This advanced mathematical physics textbook explores how black holes behave in higher-dimensional spacetimes, revealing a rich landscape of exotic gravitational objects that don't exist in our familiar four-dimensional universe. The book systematically presents the mathematical frameworks for understanding black holes when extra dimensions are added to spacetime, showing how many fundamental theorems of classical general relativity break down in these higher-dimensional settings. The authors focus on vacuum solutions (black holes without matter fields) to provide the purest understanding of how gravity itself behaves in higher dimensions.

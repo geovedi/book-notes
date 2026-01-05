@@ -1,6 +1,6 @@
 # Zombies and Calculus
 
-**Authors**: Colin Adams | **Year**: 2014
+**Authors**: Colin Adams | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "Zombies and Calculus" is a wildly creative educational novel that follows Craig Williams, a mathematics professor at a small liberal arts college in New England, as he uses calculus to survive a zombie apocalypse. When a late-arriving student shows up to Williams' calculus class with an unusual hunger for brains rather than knowledge, the zombie outbreak begins. As civilization crumbles around them, Williams and his small band of survivors must apply mathematical concepts to outsmart and defeat the undead hordes.

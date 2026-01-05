@@ -1,5 +1,6 @@
 # The Coming Plague
 **Authors**: Laurie Garrett | **Year**: 1994
+**Category**: Health & Medicine
 
 ## Summary
 "The Coming Plague" is a masterwork of investigative journalism that explores how human activities have disrupted the delicate ecological balance with microorganisms, creating a perfect storm for emerging infectious diseases. Through compelling case studies of epidemics from Bolivian hemorrhagic fever to AIDS, Garrett demonstrates how deforestation, urbanization, global travel, and antibiotic resistance have unleashed a new era of pandemic threats.

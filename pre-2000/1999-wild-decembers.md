@@ -1,6 +1,7 @@
 # Wild Decembers
 **Original Title**: Un feroce dicembre
 **Author**: Edna O'Brien | **Year**: 1999
+**Category**: Fiction & Literature
 
 ## Summary
 In the remote Irish community of Cloontha, where land matters more than life itself, an ancient feud between two families reignites when Michael Bugler returns to claim his ancestral inheritance. Bugler, who spent years in Australia, brings modern farming methods and a determination to transform his inheritance. His neighbor, Joseph Brennan, has never left their village and views Bugler as both a threat and a reminder of historical enmities between their families. Caught between them is Breege, Joseph's sister, who finds herself drawn to the charismatic outsider.

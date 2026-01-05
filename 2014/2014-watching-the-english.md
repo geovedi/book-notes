@@ -1,5 +1,5 @@
 # Watching the English
-**Author**: Kate Fox | **Year**: 2014
+**Author**: Kate Fox | **Year**: 2014 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Watching the English" is a pioneering anthropological study that decodes the hidden rules and unspoken codes governing English behavior. Through years of participant observation—studying everything from pub conversations to garden parties, queuing etiquette to workplace interactions—social anthropologist Kate Fox reveals that Englishness is not about birth or race, but about a shared "behavioral grammar" of unwritten rules that anyone can learn.

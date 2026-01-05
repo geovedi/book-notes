@@ -1,5 +1,6 @@
 # 50 Western Stories Masterpieces You Must Read Before You Die
 **Authors**: Various (James Fenimore Cooper, Owen Wister, Zane Grey, Willa Cather, etc.) | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology brings together fifty of the most influential Western stories ever written, spanning more than a century of American frontier literature from 1826 to 1934. From the early frontier adventures of James Fenimore Cooper's "The Last of the Mohicans" to the iconic cowboy tales of Zane Grey's "Riders of the Purple Sage" and Owen Wister's "The Virginian," this collection captures the evolution of Western fiction and the enduring myth of the American West.

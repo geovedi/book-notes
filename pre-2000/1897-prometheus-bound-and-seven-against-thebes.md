@@ -1,5 +1,6 @@
 # Prometheus Bound and Seven Against Thebes
 **Authors**: Aeschylus | **Year**: c. 5th Century BCE
+**Category**: Fiction & Literature
 
 ## Summary
 Two powerful Greek tragedies exploring the consequences of defying authority and the tragic nature of civil war. In "Prometheus Bound," the Titan god suffers eternal punishment for gifting fire and knowledge to humanity, standing as an eternal symbol of rebellion against tyranny. "Seven Against Thebes" portrays the devastating siege of Thebes where brothers become enemies and family bonds collapse under the weight of political conflict.

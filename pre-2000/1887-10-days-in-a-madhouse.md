@@ -1,6 +1,7 @@
 # 10 Days in a Madhouse
 **Original Title**: 10 Days in a Madhouse
 **Authors**: Nellie Bly | **Year**: 1887
+**Category**: History & Biography
 
 ## Summary
 In 1887, pioneering journalist Nellie Bly accepted an audacious assignment from the New York World: have herself committed to an insane asylum to investigate and expose the horrific conditions within. What began as an undercover journalism experiment became one of the most powerful exposes of institutional abuse in American history. Bly spent ten days inside the Blackwell Island Insane Asylum, experiencing firsthand the cruelty, neglect, and dehumanization that patients endured—many of whom were completely sane but trapped by a system that offered no escape.

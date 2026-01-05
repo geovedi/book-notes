@@ -1,5 +1,6 @@
 # The Happiest Man on Earth
 **Authors**: Eddie Jaku | **Year**: 2020
+**Category**: History & Biography
 
 ## Summary
 Eddie Jaku's remarkable memoir chronicles his journey from a proud German Jew to Holocaust survivor and ultimately, someone who considers himself the "happiest man on Earth." Born Abraham Salomon Jakubowicz in 1920 Leipzig, Eddie lost everything during the Holocaust—his family, his home, his country—but gained profound wisdom about resilience, friendship, and the power of choosing happiness even after experiencing the worst of humanity.

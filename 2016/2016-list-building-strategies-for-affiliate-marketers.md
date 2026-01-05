@@ -1,5 +1,5 @@
 # 2016 List Building Strategies for Affiliate Marketers
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the art of email list building specifically for affiliate marketers. It presents a systematic approach to creating responsive, targeted email lists that become the cornerstone of profitable affiliate marketing campaigns. The book emphasizes that unlike random traffic, a well-nurtured email list represents a valuable asset that can generate consistent income through strategic relationship building and targeted promotions.

@@ -1,5 +1,6 @@
 # Marketing Automation
 **Authors**: George Pain | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Marketing automation has revolutionized how businesses conduct their marketing efforts, resulting in lower costs, leaner teams, higher ROI, and increased revenue streams. This book demystifies marketing automation for small and medium-sized enterprises that have traditionally shied away from this technology due to lack of awareness or understanding of its transformative potential.

@@ -1,5 +1,6 @@
 # Think Like Einstein
 **Author**: Peter Hollins | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think Like Einstein" is a practical guide to developing better thinking skills, improving problem-solving abilities, and sharpening judgment. The book argues that despite our formal education, most people are never taught how to think effectively - only how to pass tests and regurgitate information. Hollins provides scientifically proven methods and frameworks to help readers think more clearly, make better decisions, and approach problems creatively like Einstein did.

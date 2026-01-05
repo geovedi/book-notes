@@ -1,5 +1,5 @@
 # Digestive System: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This comprehensive study guide breaks down the digestive system into digestible Q&A modules that explain how our bodies process food, extract nutrients, and eliminate waste. Written as a college-level biology tutorial, it systematically covers everything from basic food groups to complex biochemical processes like enzyme action and hormone regulation.

@@ -1,5 +1,5 @@
 # When Breath Becomes Air
-**Authors**: Paul Kalanithi | **Year**: 2016
+**Authors**: Paul Kalanithi | **Year**: 2016 | **Category**: Health & Medicine
 
 ## Summary
 Paul Kalanithi, a brilliant 36-year-old neurosurgeon on the cusp of completing his training, receives a devastating diagnosis of terminal lung cancer. This memoir chronicles his transformation from doctor to patient, exploring what makes life worth living when time is limited. Having spent years helping patients face mortality, Kalanithi now confronts his own death with remarkable clarity, courage, and literary grace. The book is unfinished due to his death, adding to its raw authenticity and power.

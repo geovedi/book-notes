@@ -1,6 +1,6 @@
 # 50 Classic Self-Help Books Collection
 **Original Title**: 50 Classic Self-Help And Motivational Books You Have To Read Before You Die
-**Authors**: Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, James Allen, Russell H. Conwell, and others | **Year**: 2018
+**Authors**: Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, James Allen, Russell H. Conwell, and others | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This comprehensive boxset brings together fifty of the most influential self-help and motivational works ever written, spanning over a century of wisdom on personal achievement, wealth creation, and spiritual growth. The collection features cornerstone texts like "Think and Grow Rich," "The Science of Getting Rich," "As a Man Thinketh," and "Acres of Diamonds," alongside lesser-known gems from pioneering authors in the self-development field.

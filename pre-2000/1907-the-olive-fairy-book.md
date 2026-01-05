@@ -1,5 +1,6 @@
 # The Olive Fairy Book
 **Authors**: Andrew Lang | **Year**: 1907
+**Category**: Children & Young Adult
 
 ## Summary
 "The Olive Fairy Book" is part of Andrew Lang's renowned Fairy Book series, a collection that gathers enchanting tales from diverse cultures around the world. This particular volume features stories ranging from European folklore to Middle Eastern and Asian narratives, each carefully selected for their magical elements, moral depth, and entertainment value. The book continues Lang's mission of preserving and sharing the world's rich storytelling traditions with young and adult readers alike.

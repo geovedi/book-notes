@@ -1,6 +1,6 @@
 # Mass Tourism and the Wear and Tear of the World
 **Original Title**: Turismo di massa e usura del mondo
-**Authors**: Rodolphe Christin | **Year**: 2014 
+**Authors**: Rodolphe Christin | **Year**: 2014 | **Category**: Philosophy & Critical Thinking 
 
 ## Summary
 Rodolphe Christin's *Mass Tourism and the Wear and Tear of the World* presents a profound critique of mass tourism as a destructive force that erodes authentic human experience, ecological balance, and genuine connection to place. The book traces how tourism evolved from a perceived emancipation through paid holidays into a powerful driver of hyper-mobility that reinforces capitalist consumption patterns while creating rootless individuals detached from their local communities.

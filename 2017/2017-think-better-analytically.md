@@ -1,5 +1,6 @@
 # Think Better Analytically
 **Authors**: Meredith Larissa & Instafo | **Year**: 2017
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think Better Analytically" is a practical guide that transforms analytical thinking from an abstract concept into a trainable skill. The book breaks down the analytical thinking process into four manageable stages and provides concrete methods for building this essential skill through everyday activities. Readers learn to systematically approach problems by breaking down complex information, organizing details, and finding patterns that lead to effective solutions.

@@ -1,5 +1,5 @@
 # Thunderstruck
-**Author**: Erik Larson | **Year**: 2006
+**Author**: Erik Larson | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "Thunderstruck" masterfully weaves together two extraordinary true stories from the Edwardian era: the infamous murder committed by Dr. Hawley Harvey Crippen and the revolutionary development of wireless communication by Guglielmo Marconi. Set between 1900-1910, the book captures a pivotal moment when the world stood on the brink of technological transformation and global connectivity.

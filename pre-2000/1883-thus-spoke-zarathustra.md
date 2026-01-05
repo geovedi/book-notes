@@ -1,5 +1,6 @@
 # Thus Spoke Zarathustra
 **Authors**: Friedrich Wilhelm Nietzsche | **Year**: 1883
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Friedrich Nietzsche's "Thus Spoke Zarathustra" is a philosophical masterpiece that presents the teachings of the ancient Persian prophet Zarathustra, who descends from his mountain solitude to share his wisdom with humanity. Through poetic prose and profound philosophical discourse, Zarathustra introduces transformative concepts that challenge traditional morality, religion, and human consciousness.

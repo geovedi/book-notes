@@ -1,5 +1,6 @@
 # Smart Skills: Meetings
 **Authors**: Patrick Forsyth | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This practical guide tackles one of business's biggest time-wasters: unproductive meetings. Forsyth reveals how meetings can either be powerful tools for collaboration and decision-making or expensive drains on organizational resources. The book provides a comprehensive framework for transforming meetings from frustrating obligations into productive, efficient gatherings that drive real results.

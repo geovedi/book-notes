@@ -1,5 +1,6 @@
 # The Wolf in Sheep's Clothing
 **Authors**: Aesop | **Year**: 600 BCE
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Wolf in Sheep's Clothing" is one of Aesop's most famous fables about deception and the dangers of hidden evil. The story tells of a wolf who disguises himself in a sheepskin to infiltrate a flock undetected, only to be mistakenly killed by the shepherd who mistakes him for an actual sheep. This timeless tale serves as a powerful warning about how deception can backfire and how evil intentions often lead to self-destruction.

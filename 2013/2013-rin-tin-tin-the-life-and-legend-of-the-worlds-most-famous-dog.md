@@ -1,5 +1,5 @@
 # Rin Tin Tin: The Life and Legend of the World's Most Famous Dog
-**Author**: Susan Orlean | **Year**: 2013
+**Author**: Susan Orlean | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 Susan Orlean's masterful biography traces the extraordinary century-spanning story of Rin Tin Tin—a dog discovered on a World War I battlefield who became one of Hollywood's biggest stars and an enduring international icon. More than just a dog story, this is a profound exploration of legacy, memory, and the human need to believe in things that last beyond our lifetime. The book weaves together the lives of three devoted keepers—Lee Duncan (the soldier who found him), Bert Leonard (the TV producer who revived him), and Daphne Hereford (the breeder who continues his line)—each struggling to preserve this immortal legend against time's passage.

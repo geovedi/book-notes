@@ -1,5 +1,6 @@
 # Aladdin's Jasmine
 **Authors**: A. Anders | **Year**: 2019
+**Category**: Romance & Relationships
 
 ## Summary
 "Aladdin's Jasmine" is a provocative MMF bisexual romance retelling of the classic Aladdin fairy tale. This reimagining explores Princess Jasmine's desperate escape from her gilded palace cage, her encounter with the street-smart Aladdin, and their complicated relationship with the magical Genie. Unlike the Disney version, this story explores adult themes of sexual awakening, bisexual desire, and polyamorous relationships through a contemporary lens while maintaining the core elements of the beloved tale.

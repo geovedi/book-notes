@@ -1,6 +1,7 @@
 # A Scandal in Bohemia
 **Original Title**: A Scandal in Bohemia
 **Authors**: Arthur Conan Doyle | **Year**: 1891
+**Category**: Horror & Thriller
 
 ## Summary
 "A Scandal in Bohemia" introduces Irene Adler, the only woman who ever truly outwitted Sherlock Holmes. The King of Bohemia hires Holmes to retrieve a compromising photograph from Adler, his former lover, before his upcoming marriage to a Scandinavian princess. What follows is a brilliant battle of wits between Holmes and Adler, culminating in an unexpected twist that reveals her as Holmes' intellectual equal and one of literature's most fascinating female characters.

@@ -1,5 +1,6 @@
 # E-Commerce Secrets 2-in-1 Bundle
 **Authors**: Marc Hayes, Ava Reed | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide is a comprehensive introduction to starting an online business from scratch, focusing on two major e-commerce platforms: Alibaba for sourcing products and Shopify for building your online store. The bundle combines two books that walk beginners through everything from finding reliable suppliers and understanding dropshipping to setting up a professional Shopify store and marketing products effectively.

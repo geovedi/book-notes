@@ -1,6 +1,7 @@
 # 2019 - The Complete Juvenilia of Jane Austen
 **Original Title**: The Complete Juvenilia
 **Authors**: Jane Austen | **Year**: 2019 (Collection), Original works written 1787-1793
+**Category**: Fiction & Literature
 
 ## Summary
 This collection gathers Jane Austen's early writings—composed between ages 12 and 17—revealing the astonishing development of a literary genius before she wrote her famous novels. These youthful works include short stories, plays, novellas, and parodies that showcase her already-sharp wit, social satire, and masterful command of language. Written primarily for family entertainment, these pieces demonstrate Austen's early fascination with literary conventions she would later perfect in her mature works.

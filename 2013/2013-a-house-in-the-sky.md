@@ -1,5 +1,5 @@
 # A House in the Sky
-**Authors**: Amanda Lindhout, Sara Corbett | **Year**: 2013
+**Authors**: Amanda Lindhout, Sara Corbett | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "A House in the Sky" is a haunting memoir that recounts Canadian journalist Amanda Lindhout's 460-day captivity in Somalia after being kidnapped alongside Australian photographer Nigel Brennan in 2008. What began as a quest for adventure and meaningful storytelling in one of the world's most dangerous countries devolved into a brutal ordeal of starvation, torture, and repeated sexual assault. Yet this is ultimately a story of resilience and the human capacity to find hope in the darkest circumstances.

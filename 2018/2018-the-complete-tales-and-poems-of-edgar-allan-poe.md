@@ -1,5 +1,5 @@
 # The Complete Tales and Poems of Edgar Allan Poe
-**Authors**: Edgar Allan Poe | **Year**: 2018
+**Authors**: Edgar Allan Poe | **Year**: 2018 | **Category**: Fiction & Literature
 
 ## Summary
 Edgar Allan Poe's complete works represent the foundation of American dark literature and modern detective fiction. This comprehensive collection spans his entire literary output, including psychological horror tales, detective stories, science fiction, and lyrical poetry. Poe (1809-1849) pioneered genres and literary techniques that influence writers to this day, from the psychological thriller to the analytical detective story. His life was marked by poverty, tragedy, and critical struggle, yet his creative genius transformed American literature with unprecedented psychological depth, technical precision, and atmospheric mastery.

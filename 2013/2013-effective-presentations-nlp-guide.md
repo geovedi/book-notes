@@ -1,5 +1,5 @@
 # Effective Presentations: A Guide to Better Management
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical guide applies Neuro-Linguistic Programming (NLP) principles to transform how managers present information effectively in both formal and informal settings. The book challenges the traditional view that presentations are merely about delivering words, instead positioning them as opportunities to create genuine connections, inspire action, and ensure messages are received exactly as intended. Drawing from the foundational idea that excellent communicators share similar underlying beliefs, the book provides a comprehensive framework for aligning your message, delivery style, and personal authenticity.

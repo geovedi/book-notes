@@ -1,6 +1,7 @@
 # Freedom - Ukraine Between NATO and Russia from Independence to Today
 **Original Title**: SVOBODA - Ucraina fra NATO e Russia dall'indipendenza a oggi
 **Author**: Yurii Colombo | **Year**: 2018 (Updated 2022)
+**Category**: History & Biography
 
 ## Summary
 "Freedom" is a comprehensive Marxist analysis of Ukraine's tumultuous journey from Soviet republic to independent nation caught between East and West. Colombo traces Ukraine's complex history through the Soviet period, independence in 1991, the Orange Revolution, Maidan protests, Crimea's annexation, war in Donbass, and finally the 2022 Russian invasion. The book argues that Ukraine's tragic destiny stems from a combination of Russian neo-imperial ambitions, Western exploitation, corrupt domestic leadership, and the toxic legacy of Soviet Stalinism.

@@ -1,5 +1,6 @@
 # Islamic Banking and Finance for Beginners
 **Authors**: Andrei Besedin | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This book provides a comprehensive introduction to Islamic banking and finance, explaining how financial systems can operate without charging interest while remaining ethical and profitable. It explores the fundamental principles of Sharia-compliant banking, tracing its roots to Islamic law and demonstrating how it offers an alternative to conventional interest-based financial systems.

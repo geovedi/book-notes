@@ -1,6 +1,7 @@
 # Control of Multi-Agent Systems: Theory and Simulations
 
 **Authors**: Masaaki Nagahara, Shun-Ichi Azuma, Hyo-Sung Ahn | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive academic textbook explores the theory and practical applications of multi-agent systems control, focusing on how groups of autonomous agents can coordinate to achieve collective goals. The book presents a mathematical framework for understanding and designing control systems where multiple agents interact through local communication to accomplish complex tasks that would be impossible for individual agents.

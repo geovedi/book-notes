@@ -1,5 +1,6 @@
 # Moby Dick; or The Whale
 **Authors**: Herman Melville | **Year**: 1851
+**Category**: Fiction & Literature
 
 ## Summary
 "Moby Dick" is a profound exploration of obsession, revenge, and humanity's relationship with nature through the lens of a whaling voyage. The story follows Ishmael, a wandering sailor who joins the crew of the Pequod, a whaleship commanded by the monomaniacal Captain Ahab. Ahab's singular purpose: hunting the legendary white whale, Moby Dick, who previously tore off his leg. What begins as a commercial whaling expedition transforms into Ahab's personal quest for vengeance against the "inscrutable" white whale, ultimately leading to the destruction of the entire crew and ship—except for one survivor.

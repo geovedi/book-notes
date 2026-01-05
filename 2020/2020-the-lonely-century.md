@@ -1,5 +1,6 @@
 # The Lonely Century
 **Authors**: Noreena Hertz | **Year**: 2020
+**Category**: Psychology & Mental Health
 
 ## Summary
 In "The Lonely Century," economist Noreena Hertz reveals how we've become increasingly isolated in an age of hyper-connectivity, creating a global loneliness crisis that predates COVID-19 but has been dramatically accelerated by it. Hertz argues that loneliness goes beyond merely lacking friends—it encompasses political disconnection, economic exclusion, and community alienation.

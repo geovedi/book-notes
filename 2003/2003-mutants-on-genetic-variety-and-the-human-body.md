@@ -1,5 +1,5 @@
 # Mutants: On Genetic Variety and the Human Body
-**Author**: Armand Marie Leroi | **Year**: 2003
+**Author**: Armand Marie Leroi | **Year**: 2003 | **Category**: Science & Nature
 
 ## Summary
 "Mutants" is a fascinating exploration of human development through the study of genetic variations and abnormalities. Leroi, an evolutionary developmental biologist, examines how mutations reveal the fundamental processes that build human bodies from single cells into complex organisms. Rather than presenting a mere catalog of medical curiosities, the book uses these "natural experiments" to understand the intricate genetic choreography that makes us human.

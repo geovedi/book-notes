@@ -1,5 +1,6 @@
 # The Adventure of Shoscombe Old Place
 **Authors**: Arthur Conan Doyle | **Year**: 1926
+**Category**: Horror & Thriller
 
 ## Summary
 Sherlock Holmes and Dr. Watson investigate a peculiar case involving Sir Robert Norberton, a reckless aristocrat who has staked everything on his racehorse, Shoscombe Prince, winning the Derby. When Sir Robert's behavior becomes increasingly erratic and his widowed sister, Lady Beatrice Falder, mysteriously disappears from public view, John Mason, the head trainer at Shoscombe stud farm, seeks Holmes's help.

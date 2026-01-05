@@ -1,5 +1,6 @@
 # Betty Zane
 **Authors**: Zane Grey | **Year**: 1903
+**Category**: Fiction & Literature
 
 ## Summary
 "Betty Zane" is a historical novel set during the American Revolution, focusing on the remarkable true story of Elizabeth "Betty" Zane and her heroism during the 1782 siege of Fort Henry in what is now West Virginia. The novel blends frontier adventure, romance, and historical fact to bring to life one of the most daring exploits of the American Revolution's final battle.

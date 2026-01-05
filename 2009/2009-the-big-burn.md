@@ -1,6 +1,7 @@
 # 2009-the-big-burn
 
 **Authors**: Timothy Egan | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "The Big Burn" tells the dramatic story of the massive 1910 wildfire that consumed over three million acres across Idaho, Montana, and Washington—the largest forest fire in American history. This historical narrative weaves together the fates of President Theodore Roosevelt, his chief forester Gifford Pinchot, and the brave forest rangers who battled unprecedented flames.

@@ -1,6 +1,7 @@
 # The Painting School (De schilderschool)
 
 **By Carel Vosmaer (1868)**
+**Category**: Art & Creativity
 *Levensschetsen en kunstwerken van eenige meesters uit de Hollandsche en andere scholen*
 (Biographical sketches and artworks of masters from the Dutch and other schools)
 

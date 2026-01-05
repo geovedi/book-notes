@@ -1,5 +1,6 @@
 # One Day More
 **Authors**: Joseph Conrad | **Year**: 1924
+**Category**: Fiction & Literature
 
 ## Summary
 A powerful one-act psychological drama set in a small English coastal town, where Captain Hagberd, a retired skipper, has spent sixteen years waiting for his runaway son Harry to return "one day more." The play explores the thin line between hope and delusion, as Hagberd's obsessive anticipation has led to his mental decline while affecting everyone around him. When his son unexpectedly returns a day early, the collision between fantasy and reality forces all characters to confront their own delusions and desires.

@@ -1,5 +1,5 @@
 # Women, Food and God
-**Author**: Geneen Roth | **Year**: 2011
+**Author**: Geneen Roth | **Year**: 2011 | **Category**: Spirituality & Religion
 
 ## Summary
 "Women, Food and God" reveals how our relationship with food is an exact microcosm of our relationship to life itself. Geneen Roth demonstrates that everything we believe about love, fear, transformation and spirituality is expressed through how, when, and what we eat. The book presents a revolutionary approach to ending compulsive eating by connecting with our true hunger—both physical and spiritual—rather than fighting a war against our bodies.

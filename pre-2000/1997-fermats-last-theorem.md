@@ -1,5 +1,6 @@
 # Fermat's Last Theorem
 **Author**: Simon Singh | **Year**: 1997
+**Category**: Science & Nature
 
 ## Summary
 "Fermat's Last Theorem" tells the extraordinary 358-year story of the world's most famous mathematical puzzle. What begins as a simple note jotted in a book margin in 1637 becomes a quest that spans generations, captivating the greatest mathematical minds from Euler to Gauss. The book follows Andrew Wiles, who as a boy becomes fascinated by this seemingly simple problem—no three positive integers can satisfy the equation aⁿ + bⁿ = cⁿ for any integer n greater than 2—and dedicates his life to solving it. After working in secret for seven years, Wiles announces a proof in 1993, only to discover a devastating flaw. The story culminates in a dramatic year-long struggle to repair his proof, creating what mathematicians call "the most important mathematical achievement of the 20th century."

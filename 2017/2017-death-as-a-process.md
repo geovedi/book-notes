@@ -1,6 +1,7 @@
 # Death as a Process: New Perspectives on Roman Funerary Archaeology
 **Original Title**: Death as a Process
 **Authors**: John Pearce, Jake Weekes (editors) | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking academic work challenges traditional approaches to Roman funerary archaeology by examining death rituals as dynamic, multi-stage processes rather than static burial events. The editors and contributors demonstrate that Roman funerals extended far beyond the moment of interment, encompassing complex sequences of pre-burial preparations, burial ceremonies, and post-burial commemorative activities that unfolded over time.

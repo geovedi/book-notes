@@ -1,5 +1,6 @@
 # At the Mountains of Madness
 **Authors**: H. P. Lovecraft | **Year**: 1936
+**Category**: Horror & Thriller
 
 ## Summary
 At the Mountains of Madness is a cosmic horror masterpiece that follows Professor William Dyer of Miskatonic University as he recounts a disastrous Antarctic expedition that uncovered terrifying secrets about Earth's ancient history. When geologist Lake's team discovers bizarre, perfectly preserved fossil specimens in the frozen wasteland, they unwittingly awaken horrors that defy human comprehension. The narrative serves as both a thrilling adventure story and a warning about the dangers of scientific curiosity when it encounters cosmic forces beyond human understanding.

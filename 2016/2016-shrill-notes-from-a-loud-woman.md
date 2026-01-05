@@ -1,5 +1,5 @@
 # Shrill: Notes from a Loud Woman
-**Author**: Lindy West | **Year**: 2016
+**Author**: Lindy West | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 "Shrill" is a powerful collection of personal essays that chronicles Lindy West's journey from self-hatred to unapologetic self-acceptance while navigating a world hostile to fat women, feminists, and women who refuse to stay silent. West combines sharp humor with vulnerable storytelling to tackle body image, internet trolling, reproductive rights, and the cultural expectations placed on women. Through her experiences as a journalist, comedian, and public figure, she demonstrates how embracing one's "shrillness" – being loud, unapologetic, and refusing to be silenced – becomes an act of revolutionary resistance.

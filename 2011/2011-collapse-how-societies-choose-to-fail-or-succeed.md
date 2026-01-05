@@ -1,5 +1,5 @@
 # Collapse: How Societies Choose to Fail or Succeed
-**Author**: Jared Diamond | **Year**: 2011
+**Author**: Jared Diamond | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 Jared Diamond's "Collapse" investigates why ancient and modern societies have collapsed or survived when facing environmental crises. Using a comparative method, Diamond examines past societies like Easter Island, the Maya, Norse Greenland, and the Anasazi alongside modern cases such as Rwanda, China, and Australia. He argues that environmental destruction, combined with climate change, hostile neighbors, loss of trade partners, and crucially, a society's response to these challenges, determines whether a society thrives or fails.

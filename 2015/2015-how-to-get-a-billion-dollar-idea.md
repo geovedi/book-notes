@@ -1,5 +1,5 @@
 # How to Get a Billion Dollar Idea
-**Author**: Robin Sacredfire | **Year**: 2015
+**Author**: Robin Sacredfire | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 This book reveals the common principles behind how hundreds of successful entrepreneurs, investors, and business leaders turned simple ideas into billion-dollar enterprises. Based on interviews with individuals from humble backgrounds who built massive wealth from nothing, the book identifies patterns that separate successful idea generators from those struggling to monetize their concepts. The author argues that billion-dollar ideas aren't complex mysteries but rather the result of aligning personal passion with market needs, maintaining unwavering belief, and taking inspired action despite initial failures.

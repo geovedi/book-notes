@@ -1,5 +1,5 @@
 # How to Become a Money-Making Machine by Trading and Investing in Cryptocurrencies
-**Authors**: Anthony Christensen | **Year**: 2018
+**Authors**: Anthony Christensen | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies cryptocurrency trading and investing for beginners, providing step-by-step instructions for entering the crypto market. The book covers everything from basic blockchain concepts to practical trading strategies, wallet security, and portfolio diversification. Written during the 2018 crypto boom, it captures the excitement and potential of digital currencies while emphasizing safety and responsible investing.

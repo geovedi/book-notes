@@ -1,6 +1,7 @@
 # No German Child Has the Right to Live
 **Original Title**: Geen enkel Duits kind heeft recht op leven
 **Author**: Elisabeth Dempewolf | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 This powerful memoir chronicles the life of Elisabeth Dempewolf, born in Bochum, Germany in 1945 to a German mother and Dutch father who was a forced laborer during WWII. The book explores her journey as a "war child" caught between identities, carrying the burden of collective German guilt while growing up in the Netherlands where Germans were universally hated. Her narrative spans from her birth in the ruins of post-war Germany through her struggle with identity, trauma processing, and eventual reconciliation with her dual heritage.

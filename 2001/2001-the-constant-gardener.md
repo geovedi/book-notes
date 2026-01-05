@@ -1,5 +1,5 @@
 # The Constant Gardener
-**Author**: John le Carré | **Year**: 2001
+**Author**: John le Carré | **Year**: 2001 | **Category**: Fiction & Literature
 
 ## Summary
 Justin Quayle, a mild-mannered British diplomat stationed in Kenya, discovers his activist wife Tessa brutally murdered near Lake Turkana. The official story suggests a random robbery gone wrong, but as Justin begins investigating Tessa's death, he uncovers a conspiracy involving a pharmaceutical company conducting dangerous drug trials on impoverished Africans. Tessa and her friend Dr. Arnold Bluhm had been investigating ThreeBees, a powerful corporation testing Dypraxa—a tuberculosis drug with deadly side-effects—on vulnerable populations. Justin transforms from a passive diplomat into a determined seeker of truth, following the trail of evidence that led to his wife's murder.

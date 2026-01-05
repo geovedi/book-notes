@@ -1,5 +1,6 @@
 # Fundamentals of Software Engineering
 **Authors**: Hitesh Mohapatra, Amiya Kumar Rath | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive textbook introduces software engineering as a systematic discipline that moves beyond coding to encompass the entire software development lifecycle. The authors present software engineering as both a science and an art—requiring technical expertise coupled with management skills, economic understanding, and effective communication. The book emphasizes that successful software development follows structured processes rather than chaotic approaches, with the primary goals of improving product quality, increasing developer productivity, and enhancing job satisfaction.

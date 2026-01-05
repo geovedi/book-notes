@@ -1,5 +1,6 @@
 # Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
 **Authors**: Ashlee Vance | **Year**: 2015
+**Category**: Technology & Computing
 
 ## Summary
 This revealing biography chronicles the life of Elon Musk, arguably the most ambitious entrepreneur of our time. From his difficult childhood in apartheid South Africa to his current status as CEO of Tesla and SpaceX, the book unpacks how Musk revolutionized multiple industries simultaneously. What sets Musk apart is not just his technological vision but his willingness to risk everything on impossible-seeming goals—colonizing Mars, transitioning the world to sustainable energy, and fundamentally changing how humanity travels and lives.

@@ -1,5 +1,5 @@
 # Introducing Keynes: A Graphic Guide
-**Authors**: Will Hutton, Nick Grant | **Year**: 2014
+**Authors**: Will Hutton, Nick Grant | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "Introducing Keynes" presents the life and revolutionary economic ideas of John Maynard Keynes (1883-1946), the most influential economist of the 20th century. The book traces Keynes's journey from his privileged Cambridge upbringing through his role as advisor to governments during both World Wars, to his development of economic theories that transformed how societies deal with unemployment and economic crises. Through engaging visual storytelling, the book explains complex economic concepts like the multiplier effect and the rejection of classical economics, while showing how Keynesian policies dominated Western economies from the 1940s to the 1970s and experienced a dramatic revival during the 2008 financial crisis.

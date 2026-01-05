@@ -1,5 +1,5 @@
 # Memory: Boost Your Memory with Easy Exercises
-**Authors**: Jane Peters | **Year**: 2015
+**Authors**: Jane Peters | **Year**: 2015 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide offers proven techniques and daily exercises to enhance mental focus and strengthen memory retention. The book presents eight comprehensive strategies ranging from basic health practices to advanced cognitive exercises, all designed to help readers overcome common memory challenges like forgetting names, numbers, and misplaced items.

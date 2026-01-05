@@ -1,5 +1,5 @@
 # A Mother's Reckoning: Living in the Aftermath of the Columbine Tragedy
-**Authors**: Sue Klebold | **Year**: 2016
+**Authors**: Sue Klebold | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 Sue Klebold's memoir is the devastating yet illuminating account of her life as the mother of Dylan Klebold, one of the two perpetrators of the 1999 Columbine High School massacre. Written with raw honesty and profound insight, this book challenges readers to look beyond the simple narrative of good versus evil and understand the complex interplay of mental health, depression, and suicide that led to one of America's worst school shootings. Klebold takes us on her journey from denial to devastating acceptance, ultimately transforming her private agony into a public service message about brain health, suicide prevention, and the warning signs that every parent, educator, and community member should know.

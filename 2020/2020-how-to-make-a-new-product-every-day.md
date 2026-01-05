@@ -1,5 +1,6 @@
 # How to Make a New Product Every Day
 **Authors**: George Saoulidis | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how to create a new product every single day by adopting a creator mindset focused on building multiple income streams through intellectual property ownership. The author presents a system where entrepreneurs can leverage their existing content and skills to generate diverse products across different formats and platforms. The core philosophy emphasizes viewing everything as a product, from blog posts and merchandise to translations and multimedia adaptations, with the goal of creating sustainable passive income through volume and variety.

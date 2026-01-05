@@ -1,5 +1,6 @@
 # 2021 Investing in Cryptocurrency
 **Authors**: Dmitriy Olegovich Arsentev | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive cryptocurrency investment guide covers the full spectrum of crypto investment strategies, from basic mining and staking to advanced trading techniques like margin trading, arbitrage, and algorithmic systems. Written during a bear market period, the book emphasizes risk management and due diligence in the highly volatile cryptocurrency landscape. The author provides practical frameworks for evaluating ICO projects, setting up masternodes, and identifying legitimate opportunities in a market filled with over 8,000 different cryptocurrencies.

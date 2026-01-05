@@ -1,5 +1,6 @@
 # Running the Risk
 **Authors**: David Burrett Reid | **Year**: 2025
+**Category**: Science & Nature
 
 ## Summary
 "Running the Risk" is a comprehensive exploration of how humans perceive, misunderstand, and respond to risks in our modern world. Reid demonstrates through historical examples and contemporary analysis that our greatest fears often don't align with actual threats—we worry about rare shark attacks while accepting far greater dangers like daily car travel. The book traces our relationship with risk from ancient civilizations to today's complex global challenges, revealing how emotional responses, cognitive biases, and cultural influences consistently lead us to misjudge danger.

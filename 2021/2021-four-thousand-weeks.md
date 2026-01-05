@@ -1,6 +1,7 @@
 # Four Thousand Weeks
 **Original Title**: 4000 weken
 **Author**: Oliver Burkeman | **Year**: 2021
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Four Thousand Weeks is a refreshing antidote to conventional time management wisdom that argues our obsession with productivity is actually making us more miserable and less effective. Burkeman, a reformed productivity addict, reveals that the average human lifespan contains roughly four thousand weeks—a strikingly short amount that should transform how we approach our limited time.

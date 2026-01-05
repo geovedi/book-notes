@@ -1,5 +1,5 @@
 # Love for Sale: A World History of Prostitution
-**Author**: Nils Johan Ringdal | **Year**: 2004
+**Author**: Nils Johan Ringdal | **Year**: 2004 | **Category**: History & Biography
 
 ## Summary
 

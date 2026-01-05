@@ -1,6 +1,7 @@
 # The Girl with the Golden Eyes
 **Original Title**: La Fille aux yeux d'or
 **Author**: Honoré de Balzac | **Year**: 1835
+**Category**: Fiction & Literature
 
 ## Summary
 Henri de Marsay, a handsome and wealthy young Parisian aristocrat, becomes obsessed with a mysterious girl with golden eyes he encounters in the Tuileries Gardens. Paquita Valdes, a beautiful Spanish-Creole woman, lives under the strict guardianship of an elderly Spanish nobleman and his fierce duenna. Despite elaborate precautions, Henri manages to arrange secret meetings with Paquita, who appears to be completely devoted to him. However, their passionate affair unfolds in a atmosphere of mystery and danger, with cryptic warnings about death and vengeance.

@@ -1,6 +1,7 @@
 # ACT Verbatim for Depression and Anxiety
 **Original Title**: ACT Verbatim for Depression and Anxiety: Annotated Transcripts for Learning Acceptance and Commitment Therapy
-**Authors**: Michael P. Twohig, Steven C. Hayes | **Year**: 2008 
+**Authors**: Michael P. Twohig, Steven C. Hayes | **Year**: 2008
+**Category**: Psychology & Mental Health 
 
 ## Summary
 ACT Verbatim for Depression and Anxiety is a comprehensive training guide for therapists learning Acceptance and Commitment Therapy (ACT). Rather than presenting another protocol-based manual, this book offers an innovative approach by showing ACT in action through detailed clinical transcripts with real-time annotations. The authors demonstrate how ACT works as a model of psychological flexibility rather than a set of rigid techniques, emphasizing that competent ACT therapists can innovate freely once they understand the core processes they're targeting.

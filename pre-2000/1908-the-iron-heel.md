@@ -1,5 +1,6 @@
 # The Iron Heel
 **Authors**: Jack London | **Year**: 1908
+**Category**: Fiction & Literature
 
 ## Summary
 "The Iron Heel" is a dystopian novel that presents a future America dominated by an oligarchic tyranny known as "The Iron Heel." Set in the early 20th century, it tells the story of Ernest Everhard, a socialist revolutionary, and his wife Avis Everhard, who narrates their struggle against the rising corporate dictatorship. The manuscript, discovered centuries later, serves as a historical document warning about the dangers of unchecked capitalism and the consolidation of wealth and power.

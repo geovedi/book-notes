@@ -1,6 +1,7 @@
 # Loving Pablo, Hating Escobar
 **Original Title**: Ik was de vrouw van Escobar
 **Author**: Virginia Vallejo | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 This explosive memoir by Virginia Vallejo, one of Colombia's most famous television presentators, reveals her intimate relationship with Pablo Escobar, the world's most powerful drug lord. Written from the unique perspective of someone who moved between Colombia's elite social circles and Escobar's criminal empire, the book exposes the shocking connections between drug cartels, politics, and media that shaped modern Colombia.

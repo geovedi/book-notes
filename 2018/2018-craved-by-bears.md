@@ -1,5 +1,5 @@
 # Craved by Bears
-**Authors**: Skye MacKinnon | **Year**: 2018
+**Authors**: Skye MacKinnon | **Year**: 2018 | **Category**: Romance & Relationships
 
 ## Summary
 "Craved by Bears" continues Isla's journey as the first mother in the bear shifter community for years, raising her miracle daughter Ruby while navigating the challenges of parenthood, supernatural threats, and her relationships with her four devoted bear shifter mates. Set in a post-apocalyptic world where climate change has devastated humanity, the story explores themes of found family, unconditional love, and the hope of rebuilding their species through the next generation.

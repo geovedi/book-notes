@@ -1,5 +1,6 @@
 # How to Think Like an Entrepreneur
 **Authors**: Daniel Smith | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 This book explores the essential mindset and strategies that separate successful entrepreneurs from dreamers. Through real-world examples from business legends like Steve Jobs, Richard Branson, Elon Musk, and Oprah Winfrey, it reveals how entrepreneurial thinking combines vision with practical execution. The book demonstrates that entrepreneurship isn't just about starting businesses—it's a way of approaching problems, spotting opportunities, and creating value in any context.

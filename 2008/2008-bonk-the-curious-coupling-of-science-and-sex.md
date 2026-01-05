@@ -1,5 +1,6 @@
 # Bonk: The Curious Coupling of Science and Sex
 **Author**: Mary Roach | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 Mary Roach dives into the fascinating, awkward, and often hilarious history of scientific research into human sexuality. Through her signature blend of rigorous science and irreverent humor, Roach explores how scientists have studied sex despite enormous social, professional, and personal obstacles. She travels worldwide visiting laboratories and researchers, uncovering everything from pig insemination techniques in Denmark to MRI studies of human intercourse, revealing what science has learned about one of humanity's most fundamental yet understudied activities.

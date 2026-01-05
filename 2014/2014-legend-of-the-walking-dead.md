@@ -1,5 +1,5 @@
 # Legend of the Walking Dead
-**Original Title**: Legend of the Walking Dead | **Authors**: Joy Nwosu Lo-Bamijoko | **Year**: 2014
+**Original Title**: Legend of the Walking Dead | **Authors**: Joy Nwosu Lo-Bamijoko | **Year**: 2014 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 "Legend of the Walking Dead" is a captivating work of magical realism that explores Igbo mythology through the story of Gloria and her teenage son Osondu, who mysteriously disappear into the mystical Ezu Lake - a gateway between the physical and spiritual realms. The novel weaves together traditional Igbo beliefs about reincarnation, spirits who walk between worlds, and the sacred duty of proper burial rites.

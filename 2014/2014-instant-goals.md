@@ -1,6 +1,6 @@
 # Instant Goals
 **How to Set Goals and Achieve Them Instantly!**
-**Authors**: Instant Series Publication | **Year**: 2014
+**Authors**: Instant Series Publication | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Instant Goals" is a practical, no-nonsense guide to setting and achieving realistic goals that actually work in your daily life. Unlike typical motivational books filled with inspirational stories of billionaires, this book provides a step-by-step framework for turning your desires into achievable objectives without overwhelming yourself.

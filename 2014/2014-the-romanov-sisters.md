@@ -1,5 +1,5 @@
 # The Romanov Sisters: The Lost Lives of the Daughters of Nicholas and Alexandra
-**Authors**: Helen Rappaport | **Year**: 2014
+**Authors**: Helen Rappaport | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 This remarkable biography centers the four Romanov sisters—Olga, Tatiana, Maria, and Anastasia—as the protagonists of their own story, rather than treating them as mere footnotes to the political drama of imperial Russia's collapse. Through extensive research using letters, diaries, and firsthand accounts, Rappaport brings these often-overlooked historical figures to life, revealing four distinct young women navigating the extraordinary circumstances of their birth and eventual tragic fate.

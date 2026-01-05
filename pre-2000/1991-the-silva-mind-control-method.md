@@ -1,5 +1,6 @@
 # The Silva Mind Control Method
 **Authors**: José Silva, Philip Miele | **Year**: 1991
+**Category**: Self-Help & Personal Development
 
 ## Summary
 The Silva Mind Control Method presents a revolutionary system for accessing deeper levels of consciousness to enhance creativity, improve memory, accelerate learning, and develop psychic abilities. Based on two decades of research, the method teaches readers to move from normal Beta brain waves to Alpha and Theta states through simple meditation techniques. The book explains how to use these altered states for "dynamic meditation" - actively solving problems, healing the body, breaking unwanted habits, and tapping into what Silva calls "Higher Intelligence."

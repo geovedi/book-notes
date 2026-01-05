@@ -1,6 +1,6 @@
 # Mathematical Modeling of Biofuel Synthesis and Storage
 **Original Title**: Mathematical Modeling of Biofuel Synthesis and Storage
-**Authors**: Karina Benassi Angilelli, Ana Carolina Gomes Mantovani, Letícia Thaís Chendynski | **Year**: 2022
+**Authors**: Karina Benassi Angilelli, Ana Carolina Gomes Mantovani, Letícia Thaís Chendynski | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "Mathematical Modeling of Biofuel Synthesis and Storage" is a comprehensive technical guide that demonstrates how advanced statistical and mathematical techniques can optimize biofuel production processes. The book presents eight detailed research studies applying experimental design, response surface methodology, artificial neural networks, and thermodynamic analysis to improve biodiesel synthesis and storage stability. Drawing from extensive research conducted at the Fuel Research and Analysis Laboratory at Londrina State University, this work bridges the gap between theoretical mathematical modeling and practical biofuel manufacturing applications.

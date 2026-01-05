@@ -1,5 +1,6 @@
 # 2017-Swing Trading: A Beginner's Guide to Making Money with Trend Following
 **Authors**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 

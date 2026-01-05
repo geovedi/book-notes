@@ -1,5 +1,5 @@
 # The Rise and Fall of the Third Reich
-**Authors**: William L. Shirer | **Year**: 1961
+**Authors**: William L. Shirer | **Year**: 1961 | **Category**: History & Biography
 
 ## Summary
 "The Rise and Fall of the Third Reich" is a comprehensive historical chronicle of Nazi Germany from its origins to its ultimate defeat. Based on unprecedented access to captured Nazi documents, diaries, and testimony, Shirer provides both eyewitness perspective (as a correspondent in Germany) and documented evidence of how Adolf Hitler rose from obscurity to absolute power, led Germany into World War II, and implemented the Holocaust. The book stands as one of the most authoritative accounts of how a modern, civilized nation descended into totalitarian barbarism.

@@ -1,5 +1,6 @@
 # A Tramp Abroad
 **Authors**: Mark Twain | **Year**: 1880
+**Category**: Fiction & Literature
 
 ## Summary
 "A Tramp Abroad" is Mark Twain's brilliantly humorous sequel to "The Innocents Abroad," chronicling his walking tour through Europe with his companion Harris. While ostensibly a travelogue about their journey through Germany, Switzerland, and Italy, the book is masterful satire that uses the travel narrative as a framework for Twain's witty observations on European culture, art, language, and human nature.

@@ -1,5 +1,6 @@
 # The Trumpet-Major
 **Authors**: Thomas Hardy | **Year**: 1880
+**Category**: Fiction & Literature
 
 ## Summary
 Set during the Napoleonic Wars when England feared invasion by French forces under Napoleon, "The Trumpet-Major" tells the story of Anne Garland, a young woman living in a coastal village in Wessex who finds herself the object of affection from three very different suitors. The narrative captures the tension between military duty and civilian life, romantic choices and social expectations, all against the backdrop of historical events that shaped England's national identity.

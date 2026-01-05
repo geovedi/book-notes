@@ -1,5 +1,6 @@
 # Time Management Secrets for Beginners
 **Authors**: Brian M. Aaron | **Year**: 2015
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Time management is simply the way you choose to spend your time - and you're already doing it every second of every day. The key is shifting from reactive, chaotic time management to proactive, organized approaches that reduce stress and increase productivity. This book provides eight practical steps to help beginners transform their relationship with time and gain control over their daily activities.

@@ -1,5 +1,6 @@
 # 2017-the-collected-ghost-stories-of-m-r-james
 **Authors**: M. R. James | **Year**: 2017 (Delphi Classics Edition)
+**Category**: Horror & Thriller
 
 ## Summary
 This collection represents the complete gathering of M.R. James' ghost stories, first compiled in 1931 and never out of print since. As a master of supernatural fiction, James revolutionized ghost storytelling by moving away from Gothic clichés and creating tales grounded in academic realism. His protagonists are typically scholars, antiquarians, or ordinary people who stumble upon ancient artifacts or forbidden knowledge that unleash malevolent forces. The stories in this collection include his previously published works plus four additional tales: "Wailing Well," "Rats," "There Was a Man Dwelt by a Churchyard," and "After Dark in the Playing Fields."

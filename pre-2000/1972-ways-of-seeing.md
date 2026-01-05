@@ -1,5 +1,6 @@
 # Ways of Seeing
 **Author**: John Berger | **Year**: 1972
+**Category**: Art & Creativity
 
 ## Summary
 "Ways of Seeing" is a revolutionary exploration of how we look at and interpret art, images, and visual culture in the modern world. Based on Berger's BBC television series, this book challenges traditional art history and reveals how reproduction, technology, and social structures have fundamentally changed our relationship with visual images. The book deconstructs the mystification of art, examining everything from European oil paintings to modern advertising, showing how seeing is always shaped by what we know and believe.

@@ -1,5 +1,6 @@
 # The Demon Under the Microscope
 **Authors**: Thomas Hager | **Year**: 2007
+**Category**: Health & Medicine
 
 ## Summary
 The dramatic story of the discovery of sulfa drugs—the first true antibiotics that revolutionized medicine and saved millions of lives. Set against the backdrop of World War I battlefields and Nazi Germany, this book chronicles how German scientist Gerhard Domagk's accidental discovery of a red dye called Prontosil in 1932 transformed medicine from a largely helpless profession into a powerful science capable of curing deadly bacterial infections.

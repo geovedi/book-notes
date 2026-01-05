@@ -1,5 +1,5 @@
 # Be Confident: Discover Your Inner Strength and Take Control of Your Life
-**Authors**: Réamonn Ó Donnchadha | **Year**: 2002
+**Authors**: Réamonn Ó Donnchadha | **Year**: 2002 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This book is a comprehensive guide to discovering your inherent capability to survive and thrive in life. The author argues that modern society has created a "helper syndrome" that produces learned helplessness, while simultaneously promoting a "superperson syndrome" that isolates us from our inner resources. The book invites readers on a journey through their own psyche to discover hidden resources and become aware of who they are and what they're capable of achieving.

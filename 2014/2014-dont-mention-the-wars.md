@@ -1,5 +1,5 @@
 # Don't Mention The Wars
-**Authors**: Tony Connelly | **Year**: 2014
+**Authors**: Tony Connelly | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 Tony Connelly's "Don't Mention The Wars" is a witty and insightful exploration of European stereotypes, tracing their historical origins and examining how they persist in modern times. As an Irish journalist who grew up in Northern Ireland during The Troubles and later served as RTÉ's Europe Reporter in Brussels, Connelly offers a unique perspective on how we view our European neighbors. The book investigates the psychology behind stereotyping, from ancient historical prejudices to contemporary European tensions, ultimately questioning whether these stereotypes are harmless fun or dangerous oversimplifications.

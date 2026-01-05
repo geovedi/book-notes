@@ -1,5 +1,6 @@
 # Girl, Wash Your Face
 **Author**: Rachel Hollis | **Year**: 2018
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book exposes 20 common lies women tell themselves that hold them back from becoming who they're meant to be. Through brutally honest personal stories and raw vulnerability, Hollis argues that you, and only you, are ultimately responsible for who you become and how happy you are. The core message is about identifying and systematically destroying every lie you've told yourself your whole life.

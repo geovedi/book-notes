@@ -1,5 +1,5 @@
 # 50 Classic Self-Help And Motivational Books You Have To Read Before You Die
-**Authors**: Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, Dale Carnegie, James Allen, and 45 other classic authors | **Year**: 2018
+**Authors**: Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, Dale Carnegie, James Allen, and 45 other classic authors | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This monumental collection brings together 50 of the most influential self-help and motivational classics ever written, spanning over two centuries of wisdom on success, wealth, personal development, and human potential. From Benjamin Franklin's 18th-century practical wisdom to Napoleon Hill's groundbreaking principles of success, this anthology serves as a comprehensive library of transformational knowledge.

@@ -1,5 +1,6 @@
 # How to Make Money from Public Domain Videos on YouTube
 **Authors**: Juha Öörni | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how entrepreneurs can tap into the vast treasure trove of public domain films and videos to generate income through YouTube and other channels. The book breaks down a simple but effective business model that requires minimal upfront investment but offers residual income potential. Rather than chasing popularity, success comes from strategic curation, proper marketing, and creative adaptation of classic content.

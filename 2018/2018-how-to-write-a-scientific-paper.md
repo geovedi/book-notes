@@ -1,5 +1,6 @@
 # How to Write a Scientific Paper
 **Original Title**: How To Write A Scientific Paper | **Authors**: Jari Saramäki | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 

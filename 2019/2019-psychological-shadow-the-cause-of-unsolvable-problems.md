@@ -1,6 +1,7 @@
 # Psychological Shadow: The Cause of Unsolvable Problems
 **Original Title**: Sombra Psicológica: A causa dos problemas insolúveis
 **Author**: Hélio Couto | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 This groundbreaking book reveals how the psychological shadow—containing all repressed emotions, beliefs, and potential—represents the root cause of humanity's most persistent problems. Couto demonstrates that until we confront and integrate our shadow material, we remain trapped in cycles of self-sabotage, failed relationships, career stagnation, and collective suffering. The book presents a revolutionary framework for understanding how shadow energy operates at personal, social, and planetary levels, offering practical pathways for transformation and liberation.

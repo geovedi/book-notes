@@ -1,6 +1,7 @@
 # The Dictatorship of the Minority
 **Original Title**: La dictadura de la minoría
 **Authors**: Steven Levitsky & Daniel Ziblatt | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Dictatorship of the Minority" examines how American democracy has come under threat from minority rule enabled by constitutional flaws. The authors argue that while the United States was approaching a true multiracial democracy, a fierce authoritarian reaction—fueled by fears of demographic change—has exposed dangerous vulnerabilities in the nation's democratic institutions. The book traces how the Republican Party abandoned democratic norms and how constitutional provisions designed for a pre-democratic era now allow extremist minorities to govern against the will of the majority.

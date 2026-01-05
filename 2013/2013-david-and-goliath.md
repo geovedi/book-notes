@@ -1,5 +1,5 @@
 # David and Goliath
-**Author**: Malcolm Gladwell | **Year**: 2013
+**Author**: Malcolm Gladwell | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "David and Goliath" challenges our fundamental assumptions about advantages and disadvantages, revealing how what we perceive as weaknesses can often be strengths in disguise. Through compelling stories ranging from the biblical David versus Goliath to modern-day underdogs, Gladwell demonstrates that giants are not always what they seem, and that overcoming obstacles can build the resilience and creativity needed for extraordinary success.

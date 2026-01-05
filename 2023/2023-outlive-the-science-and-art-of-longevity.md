@@ -1,5 +1,6 @@
 # Outlive: The Science and Art of Longevity
 **Authors**: Peter Attia, MD | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 Peter Attia, a Stanford-educated physician and former cancer surgeon, presents a revolutionary approach to longevity that shifts medicine from treating disease to preventing it. Drawing on his personal health crisis and extensive research, Attia argues that we should focus on extending "healthspan" — the years we live in good health — rather than just lifespan. The book introduces "Medicine 3.0," a proactive framework that addresses the four chronic diseases most likely to kill us: heart disease, cancer, neurodegenerative disease, and type 2 diabetes.

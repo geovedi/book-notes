@@ -1,5 +1,6 @@
 # Pascal's Thoughts and Minor Works
 **Authors**: Blaise Pascal | **Year**: 1670 (posthumous)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Blaise Pascal's "Thoughts" (Pensées) is a profound collection of philosophical fragments that represents his unfinished defense of Christianity. Written by a mathematical genius who became a deeply religious thinker, these notes explore the paradoxical nature of human existence - our greatness in thinking and our misery in mortality. Pascal examines the human condition as caught between infinite and nothing, forever seeking meaning through distraction yet terrified of confronting our own mortality and need for God.

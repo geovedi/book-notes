@@ -1,5 +1,5 @@
 # Secrets of Excel and Access for Accounting
-**Authors**: Unknown | **Year**: 2018
+**Authors**: Unknown | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide bridges the gap between accounting knowledge and Excel/Access technical skills, offering practical solutions for financial professionals who need to streamline their workflow and create automated financial reporting systems. The book transforms complex accounting processes into manageable Excel operations.

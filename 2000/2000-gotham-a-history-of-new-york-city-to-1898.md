@@ -1,5 +1,5 @@
 # Gotham: A History of New York City to 1898
-**Authors**: Edwin G. Burrows, Mike Wallace | **Year**: 2000
+**Authors**: Edwin G. Burrows, Mike Wallace | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 "Gotham" is a magisterial work that chronicles New York City's remarkable transformation from a small Dutch trading post to America's dominant metropolis by 1898. This Pulitzer Prize-winning history weaves together economic, political, social, and cultural threads to reveal how NYC became the "City of Capital" — a place of perpetual reinvention, ambitious deal-making, and unprecedented urban complexity. The authors demonstrate how New York's development wasn't linear but characterized by cycles of boom and bust, waves of immigration, and constant tensions between wealth and poverty, order and chaos, preservation and destruction.

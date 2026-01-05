@@ -1,5 +1,5 @@
 # Stolen Focus
-**Author**: Johann Hari | **Year**: 2022
+**Author**: Johann Hari | **Year**: 2022 | **Category**: Psychology & Mental Health
 
 ## Summary
 Johann Hari's "Stolen Focus" investigates why our collective ability to pay attention has dramatically declined in recent years. Through extensive research and personal experimentation—including a three-month digital detox—Hari reveals that our attention crisis isn't a personal failing but a systemic problem driven by twelve key forces in modern society. The book argues that our inability to focus is not merely a matter of weak willpower or bad habits, but rather the result of powerful external forces that have systematically eroded our capacity for deep, sustained attention.

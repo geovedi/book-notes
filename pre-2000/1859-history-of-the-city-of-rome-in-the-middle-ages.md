@@ -1,6 +1,7 @@
 # History of the City of Rome in the Middle Ages
 **Original Title**: Geschichte der Stadt Rom im Mittelalter
-**Author**: Ferdinand Gregorovius | **Year**: 1859-1872 
+**Author**: Ferdinand Gregorovius | **Year**: 1859-1872
+**Category**: History & Biography 
 
 ## Summary
 

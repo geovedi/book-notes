@@ -1,6 +1,7 @@
 # Journey Through Jewish Palestine
 **Original Title**: Reise durch das jüdische Palästina
 **Author**: Arthur Holitscher | **Year**: 1925
+**Category**: History & Biography
 
 ## Summary
 Arthur Holitscher's "Journey Through Jewish Palestine" is a compelling travelogue and socio-political analysis of the early Zionist settlements in 1920s Palestine. The book combines vivid personal observations with deep philosophical reflection on the nature of Zionism, Jewish identity, and the complex dynamics of building a new society in ancient land. Holitscher, a Hungarian-Jewish writer and intellectual, travels through Palestine documenting the harsh realities faced by Jewish pioneers (Chaluzim) while grappling with the deeper meaning of this national revival.

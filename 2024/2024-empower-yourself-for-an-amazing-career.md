@@ -1,5 +1,6 @@
 # Empower Yourself for an Amazing Career
 **Authors**: Blanca De La Rosa | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 "Empower Yourself for an Amazing Career" is a practical, inspirational guide for navigating the corporate world, particularly aimed at women entering or advancing in their careers. Drawing from her 34-year experience climbing from immigrant origins to a Fortune 5 corporation, De La Rosa shares honest accounts of her mistakes, triumphs, and hard-won wisdom. The book combines pragmatic career strategies with inner wisdom and spirituality, offering a roadmap for building a successful career while maintaining integrity and personal values.

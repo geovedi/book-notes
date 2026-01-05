@@ -1,5 +1,5 @@
 # The Collected Stories of Stefan Zweig
-**Authors**: Stefan Zweig, Anthea Bell (Translator) | **Year**: 2013
+**Authors**: Stefan Zweig, Anthea Bell (Translator) | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 This definitive collection captures the complete short fiction of Stefan Zweig, one of the most popular European writers of the early 20th century. Zweig's stories are masterpieces of psychological fiction that explore the intense inner lives of characters driven by obsessive love, uncontrollable passions, and devastating memories. Set primarily in the sophisticated Viennese society of the early 1900s, these stories reveal the hidden depths beneath civilized surfaces.

@@ -1,5 +1,6 @@
 # Get Well Soon
 **Authors**: Jennifer Wright | **Year**: 2017
+**Category**: Health & Medicine
 
 ## Summary
 "Get Well Soon" is a darkly humorous yet illuminating tour through history's most devastating plagues and the heroes who fought them. Wright makes the case that studying past outbreaks isn't just morbid curiosity—it's essential preparation for future pandemics. She reveals that during every crisis, some people behave with remarkable courage and compassion while others devolve into superstitious panic and scapegoating.

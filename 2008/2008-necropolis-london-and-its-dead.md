@@ -1,5 +1,6 @@
 # Necropolis: London and Its Dead
 **Author**: Catharine Arnold | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 "Necropolis" reveals how London evolved into a "giant grave" where layers of pagan, Roman, medieval, and Victorian dead lie beneath the modern metropolis. Arnold chronicles two millennia of how Londoners have coped with their dead—from Bronze Age burial mounds to Roman cemeteries, from medieval plague pits to overcrowded Victorian churchyards, and finally to the magnificent garden cemeteries that transformed death into Victorian art.

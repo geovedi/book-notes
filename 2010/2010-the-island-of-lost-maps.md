@@ -1,5 +1,5 @@
 # The Island of Lost Maps
-**Author**: Miles Harvey | **Year**: 2010
+**Author**: Miles Harvey | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "The Island of Lost Maps" tells the fascinating true story of Gilbert Bland, Jr., a seemingly ordinary Florida man who became America's most prolific map thief, stealing hundreds of rare and valuable maps from libraries across North America. What begins as a straightforward crime story transforms into a deep exploration of human obsession with cartography, the power of maps to shape our understanding of the world, and the thin line between passion and compulsion.

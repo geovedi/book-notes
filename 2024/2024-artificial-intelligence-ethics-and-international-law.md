@@ -1,5 +1,6 @@
 # Artificial Intelligence Ethics and International Law
 **Authors**: Abhivardhan | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "Artificial Intelligence Ethics and International Law" presents a comprehensive framework for understanding and governing AI in the global legal landscape. The book bridges the gap between technological innovation and international law, offering practical approaches to AI governance that respect human autonomy and privacy while addressing the challenges of our increasingly multipolar world. Abhivardhan argues that as AI evolves from narrow applications toward artificial general intelligence (AGI), the international community must develop nuanced legal frameworks that can adapt to rapid technological change while protecting fundamental human rights.

@@ -1,5 +1,5 @@
 # The Toyota Kata Practice Guide
-**Authors**: Mike Rother | **Year**: 2018
+**Authors**: Mike Rother | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 The Toyota Kata Practice Guide is a practical instruction manual for developing scientific thinking through two complementary practice routines: the Improvement Kata and Coaching Kata. Unlike traditional management approaches focused on reducing uncertainty, this methodology teaches how to work effectively within uncertainty by developing adaptive, creative problem-solving capabilities. The book presents "Starter Kata" – structured practice routines that help teams build new neural pathways and habits for scientific thinking, making it accessible to everyone regardless of their role or industry.

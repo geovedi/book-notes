@@ -1,5 +1,5 @@
 # Lab Girl
-**Author**: Hope Jahren | **Year**: 2016
+**Author**: Hope Jahren | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "Lab Girl" is a luminous memoir that intertwines the author's journey to becoming a geobiologist with profound meditations on plant life. Jahren shares her experiences building three laboratories from scratch, her lifelong friendship with her eccentric lab partner Bill, her struggles with mental health, and her unexpected path to love and motherhood—all while drawing striking parallels between human resilience and plant survival. The book reveals how scientific curiosity can be both a refuge and a calling, offering a unique window into the passionate, often messy reality of scientific discovery.

@@ -1,5 +1,6 @@
 # Dreamland: The True Tale of America's Opiate Epidemic
 **Author**: Sam Quinones | **Year**: 2015
+**Category**: Health & Medicine
 
 ## Summary
 Dreamland reveals how America's opioid epidemic emerged from the perfect collision of pharmaceutical greed and innovative Mexican drug trafficking. The book follows two parallel stories: how Purdue Pharma aggressively marketed OxyContin as non-addictive pain medication, and how entrepreneurs from the small Mexican town of Xalisco created a revolutionary heroin distribution system. These threads converged to create addiction in suburban communities that had never before experienced heroin, leading to the worst drug crisis in American history with more deaths than car accidents.

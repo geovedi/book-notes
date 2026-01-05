@@ -1,5 +1,5 @@
 # The Innocent Man
-**Author**: John Grisham | **Year**: 2006
+**Author**: John Grisham | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "The Innocent Man" is John Grisham's first work of non-fiction, a chilling true story that reads like one of his legal thrillers. It chronicles the tragic case of Ron Williamson, a former baseball prodigy from Ada, Oklahoma, who was wrongfully convicted of murder and sentenced to death. Williamson's journey from promising athlete to mentally troubled drifter to death row inmate exposes a broken justice system where ambition, corruption, and incompetence sent innocent men to prison.

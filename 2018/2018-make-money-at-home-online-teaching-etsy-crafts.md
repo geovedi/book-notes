@@ -1,5 +1,6 @@
 # Make Money at Home 2-in-1 Bundle: Online Teaching with Udemy & Selling Crafts on Etsy
 **Authors**: Madison Booker, Marc Hayes | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide offers two complete blueprints for generating income from home through online businesses. The first part teaches you how to build a profitable Etsy shop selling handmade crafts, covering everything from product selection to shipping and customer service. The second part provides a step-by-step framework for creating and selling online courses through Udemy, turning your expertise into passive income. Both sections emphasize starting small, quality over quantity, and building sustainable businesses that can eventually replace traditional employment.

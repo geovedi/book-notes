@@ -1,5 +1,5 @@
 # The Top 10 Deadliest Dinosaurs
-**Authors**: Larry Slawson | **Year**: 2022
+**Authors**: Larry Slawson | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "The Top 10 Deadliest Dinosaurs" ranks history's most dangerous prehistoric predators based on their physical characteristics, hunting abilities, and potential lethality. Author Larry Slawson examines ten carnivorous dinosaurs from different eras, providing detailed analysis of their size, bite force, hunting strategies, and physical weapons that made them such formidable killers.

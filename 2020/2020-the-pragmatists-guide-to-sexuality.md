@@ -1,5 +1,6 @@
 # The Pragmatist's Guide to Sexuality
 **Authors**: Malcolm Collins, Simone Collins | **Year**: 2020
+**Category**: Romance & Relationships
 
 ## Summary
 This book offers a data-driven, unfiltered exploration of human sexuality that challenges conventional wisdom about what turns people on and why. The authors argue that human arousal patterns are neither indicators of identity nor moral character, but rather windows into our evolutionary past and cognitive architecture. Through extensive research and surveys, they reveal that unusual sexual interests are universal, enduring throughout history, and not caused by modern phenomena like internet pornography.

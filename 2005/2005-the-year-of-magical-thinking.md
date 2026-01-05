@@ -1,5 +1,5 @@
 # The Year of Magical Thinking
-**Author**: Joan Didion | **Year**: 2005
+**Author**: Joan Didion | **Year**: 2005 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Year of Magical Thinking" is Didion's raw, intimate memoir of the year following her husband John Gregory Dunne's sudden death from a massive heart attack on December 30, 2003. The book chronicles her journey through grief while simultaneously caring for their daughter Quintana, who lies critically ill in the hospital with pneumonia and septic shock. Didion dissects her own "magical thinking" — the irrational belief that she could somehow reverse John's death through her thoughts and actions.

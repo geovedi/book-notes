@@ -1,5 +1,6 @@
 # 365 Funny Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "365 Funny Quotes" is a delightful collection designed to deliver daily doses of humor and joy through bite-sized witty observations from comedians, writers, politicians, and thinkers across history. The book operates on a simple but powerful premise: laughter is essential for wellbeing, and sometimes a single clever quote can transform your entire day.

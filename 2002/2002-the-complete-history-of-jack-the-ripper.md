@@ -1,5 +1,5 @@
 # The Complete History of Jack the Ripper
-**Author**: Philip Sugden | **Year**: 2002
+**Author**: Philip Sugden | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 This meticulously researched book stands as the definitive factual account of the Jack the Ripper murders, stripping away decades of myth, speculation, and outright fraud to reveal what actually happened in London's East End in 1888. Sugden, a historian, approaches the case with academic rigor, relying primarily on official police records, Home Office documents, and contemporary sources rather than the unreliable newspaper reports and later reminiscences that have corrupted most Ripper literature.

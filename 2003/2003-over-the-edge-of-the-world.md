@@ -1,5 +1,5 @@
 # Over the Edge of the World
-**Authors**: Laurence Bergreen | **Year**: 2003
+**Authors**: Laurence Bergreen | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 Ferdinand Magellan's unprecedented 1519-1522 expedition to find a western route to the Spice Islands became the first successful circumnavigation of Earth, though its commander wouldn't live to see it completed. Starting with five ships and 260 men, this terrifying journey across unknown oceans faced mutiny, starvation, and death on an unimaginable scale. What began as a commercial quest to break Portugal's spice monopoly transformed into one of history's greatest tales of human endurance and discovery, proving Earth's sphericity and reshaping European understanding of the world.

@@ -1,5 +1,6 @@
 # Stanzas in Meditation
 **Authors**: Gertrude Stein | **Year**: 1932
+**Category**: Fiction & Literature
 
 ## Summary
 "Stanzas in Meditation" is Gertrude Stein's experimental tour de force that challenges conventional notions of language, meaning, and consciousness. Written in repetitive, circular prose-poetry, the work invites readers into a meditative state where words become objects of contemplation rather than carriers of traditional meaning. Stein's famous "continuous present" style creates a dreamlike landscape where the boundaries between self, other, and language dissolve into pure experience.

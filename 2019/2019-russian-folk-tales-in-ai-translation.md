@@ -1,6 +1,7 @@
 # Russian Folk Tales in AI Translation
 **Original Title**: Русские народные сказки в переводе искусственного интеллекта
 **Author**: Алексей Приставкин | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This unique collection presents classic Russian folk tales translated by artificial intelligence, creating an unintentionally humorous reading experience. The AI's imperfect understanding of idiomatic expressions, cultural context, and language nuance transforms beloved stories like "Baba Yaga," "Vasilisa the Beautiful," and "Sivka-Burka" into surreal, often nonsensical versions that are both entertaining and revealing about the challenges of machine translation.

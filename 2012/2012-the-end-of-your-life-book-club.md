@@ -1,5 +1,6 @@
 # The End of Your Life Book Club
 **Author**: Will Schwalbe | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 "The End of Your Life Book Club" is a deeply moving memoir about the two-member book club formed between Will Schwalbe and his mother Mary Anne during her final years after being diagnosed with pancreatic cancer. What begins as casual conversations about books in hospital waiting rooms evolves into profound discussions about life, death, love, and the human experience through the lens of literature.

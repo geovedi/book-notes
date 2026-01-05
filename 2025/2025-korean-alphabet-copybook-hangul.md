@@ -1,6 +1,7 @@
 # Korean Alphabet Copybook: Hangul
 **Original Title**: Korean Alphabet Copybook: Hangul
 **Authors**: Iuliia Nelidova | **Year**: 2025
+**Category**: Technology & Computing
 
 ## Summary
 This practical workbook teaches the Korean alphabet Hangul through structured practice and historical context. Designed for learners of all ages, it provides ample writing space to master the 40 basic characters essential for Korean literacy. The book combines cultural education about Hangul's fascinating origins with hands-on writing exercises.

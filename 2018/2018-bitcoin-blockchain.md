@@ -1,5 +1,6 @@
 # Bitcoin & Blockchain: The Ultimate Beginner's Guide
 **Authors**: Sean Bennett | **Year**: 2018
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide combines two manuscripts to provide beginners with a complete understanding of Bitcoin and blockchain technology. The book breaks down complex cryptocurrency concepts into accessible explanations, covering everything from the basics of how Bitcoin works to practical strategies for investing, trading, and mining. It serves as a one-stop reference for anyone looking to understand the revolutionary potential of decentralized digital currency and the underlying blockchain technology that powers it.

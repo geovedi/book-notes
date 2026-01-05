@@ -1,6 +1,7 @@
 # The Birth of Long-Range Aviation: The Ilya Muromets Airship Squadron
 **Original Title**: Зарождение Дальней авиации. Эскадра воздушных кораблей «Илья Муромец»
 **Author**: Vladimir Ilyich Saperov | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # Vibes From The Screen
-**Author**: Bob Moss | **Year**: 2016
+**Author**: Bob Moss | **Year**: 2016 | **Category**: Art & Creativity
 
 ## Summary
 "Vibes From The Screen" is a practical guide that transforms casual movie-watching into a richer, more appreciative art form experience. Bob Moss reveals how understanding the fundamental elements of film—story, visual effects, sound, acting, and the key roles of filmmakers—can dramatically enhance your enjoyment and understanding of movies. The book bridges the gap between passive viewing and active appreciation, teaching readers how to discern the artistic choices and techniques that shape their emotional responses to films.

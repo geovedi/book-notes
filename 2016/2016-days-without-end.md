@@ -1,6 +1,6 @@
 # Days Without End
 **Original Title**: Dagen zonder eind
-**Authors**: Sebastian Barry | **Year**: 2016 
+**Authors**: Sebastian Barry | **Year**: 2016 | **Category**: Fiction & Literature 
 
 ## Summary
 "Days Without End" is a haunting literary epic that follows Thomas McNulty, an Irish refugee fleeing the Great Famine, who finds an unlikely family in the American frontier during the mid-19th century. After meeting John Cole, another young runaway, the two form a deep bond that sustains them through years as cross-dressing dance hall performers, soldiers in the Indian Wars, and eventually as parents to an orphaned Sioux girl named Winona.

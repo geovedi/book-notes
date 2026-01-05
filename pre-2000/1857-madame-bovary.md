@@ -1,6 +1,7 @@
 # Madame Bovary
 **Original Title**: Madame Bovary
 **Authors**: Gustave Flaubert | **Year**: 1857
+**Category**: Fiction & Literature
 
 ## Summary
 Emma Bovary, a young woman with romantic dreams fueled by novels, marries Charles Bovary, a kind but dull country doctor. Disappointed by the mundane reality of provincial life, Emma seeks escape through extramarital affairs and lavish spending, pursuing the passionate lifestyle she's read about in books. Her desires for luxury, romance, and social status lead her into destructive relationships with Rodolphe Boulanger (a wealthy landowner) and Léon Dupuis (a young clerk), while simultaneously accumulating crushing debt through manipulation by the merchant Lheureux. Ultimately trapped by financial ruin and romantic disillusionment, Emma commits suicide by taking arsenic, leaving Charles devastated and their daughter Berthe orphaned.

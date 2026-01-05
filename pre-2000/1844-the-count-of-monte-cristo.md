@@ -1,5 +1,6 @@
 # The Count of Monte Cristo
 **Authors**: Alexandre Dumas | **Year**: 1844
+**Category**: Fiction & Literature
 
 ## Summary
 Edmond Dantès, a brilliant young sailor on the verge of becoming captain and marrying his beloved Mercédès, is betrayed by his jealous rivals and imprisoned in the infamous Château d'If. After fourteen years of brutal confinement, he escapes with the help of fellow prisoner Abbé Faria, who educates him and reveals the location of a vast treasure on the island of Monte Cristo. Dantès reinvents himself as the wealthy and mysterious Count of Monte Cristo, systematically orchestrating an elaborate revenge against those who wronged him while rewarding those who remained loyal.

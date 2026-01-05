@@ -1,5 +1,5 @@
 # The Economy of Ireland
-**Authors**: John O'Hagan, Carol Newman | **Year**: 2014
+**Authors**: John O'Hagan, Carol Newman | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 

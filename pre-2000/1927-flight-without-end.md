@@ -1,5 +1,6 @@
 # Flight Without End
 **Authors**: Joseph Roth | **Year**: 1927
+**Category**: Fiction & Literature
 
 ## Summary
 Franz Tunda, a first lieutenant in the Austrian Army, becomes a Russian prisoner of war in August 1916 during World War I. After escaping from a Siberian prison camp with the help of a Polish farmer named Baranowicz, Tunda remains hidden on the remote farm until spring 1919. When the Russian Revolution brings peace and chaos, Tunda begins an epic journey back to Vienna to reunite with his fiancée, the daughter of a wealthy pencil manufacturer. Armed with false papers and a photograph of his beloved, Tunda travels across a transformed Russia as a stateless, homeless man, navigating the political turmoil and social upheaval of post-war Europe.

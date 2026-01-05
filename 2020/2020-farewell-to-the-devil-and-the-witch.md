@@ -1,6 +1,7 @@
 # Farewell to the Devil and the Witch
 **Original Title**: Pożegnanie z diabłem i czarownicą
-**Author**: Bohdan Baranowski | **Year**: 2020 
+**Author**: Bohdan Baranowski | **Year**: 2020
+**Category**: History & Biography 
 
 ## Summary
 This comprehensive historical work examines the origins, flourishing, and decline of witchcraft and devil beliefs in Polish territories, with particular focus on the Łódź region and adjacent areas. Baranowski traces how these superstitions evolved from pre-Christian Slavic beliefs through their transformation under Christian influence, culminating in the witch trials of the 16th-18th centuries. The book provides both a scholarly analysis of historical sources and field research into surviving folk beliefs, documenting how fear of dark forces shaped Polish society for centuries.

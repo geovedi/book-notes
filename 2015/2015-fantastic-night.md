@@ -1,5 +1,6 @@
 # Fantastic Night: Tales of Longing and Liberation
 **Authors**: Stefan Zweig | **Year**: 2015
+**Category**: Fiction & Literature
 
 ## Summary
 Stefan Zweig's "Fantastic Night" is a masterful collection of psychological novellas that delves into the hidden depths of human passion, obsession, and transformation. Through seven exquisitely crafted stories, Zweig explores moments when ordinary lives are shattered by extraordinary emotional forces, revealing the volatile undercurrents that flow beneath civilized society's surface. These tales, written in the early 20th century but timeless in their psychological insight, capture the fleeting instants when repressed desires erupt, when quiet desperation gives way to explosive passion, and when the carefully constructed facades of respectable lives crumble to reveal the raw, untamed humanity beneath.

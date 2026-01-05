@@ -1,5 +1,6 @@
 # From Nothing to Millionaire in Six Months
 **Authors**: Timothy K. Scott | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This book presents a roadmap for building wealth rapidly through a combination of scalable business strategies, passive income mindset, and psychological reconditioning. Scott argues that becoming wealthy isn't about luck or privilege—it's about making deliberate choices, adopting the right mindset, and implementing systems that can generate exponential returns. The book combines practical business advice with fundamental wealth psychology, showing readers how to escape the "rat race" and build financial freedom through strategic action and mental transformation.

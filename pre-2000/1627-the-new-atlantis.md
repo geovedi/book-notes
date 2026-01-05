@@ -1,5 +1,6 @@
 # 1627 The New Atlantis
 **Authors**: Sir Francis Bacon | **Year**: 1627
+**Category**: Science & Nature
 
 ## Summary
 

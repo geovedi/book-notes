@@ -1,5 +1,6 @@
 # The Psychology of Money
 **Authors**: Matt Kingsley | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 The Psychology of Money explores the hidden psychological forces that drive our financial decisions, revealing that wealth accumulation has less to do with intelligence and more to do with behavior, discipline, and understanding our relationship with money. The book argues that financial success is not determined by how smart you are but by how you behave, and that doing well with money has little to do with how smart you are and everything to do with how you act.

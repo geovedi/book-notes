@@ -1,5 +1,6 @@
 # The Odyssey for Boys and Girls
 **Authors**: Alfred J. Church | **Year**: 2024 (Adaptation)
+**Category**: Children & Young Adult
 
 ## Summary
 "The Odyssey for Boys and Girls" is Alfred J. Church's masterful adaptation of Homer's ancient epic, specifically crafted for young readers. This timeless adventure follows King Ulysses of Ithaca on his epic twenty-year journey home after the Trojan War, facing mythical monsters, divine interventions, and countless obstacles while his faithful wife Penelope waits patiently and their son Telemachus grows from boy to man.

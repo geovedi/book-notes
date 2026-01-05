@@ -1,5 +1,5 @@
 # Hackers
-**Authors**: Steven Levy | **Year**: 2010
+**Authors**: Steven Levy | **Year**: 2010 | **Category**: Technology & Computing
 
 ## Summary
 "Hackers" is the definitive history of the computer revolution's pioneers, tracing the evolution of hacker culture from its origins at MIT in the 1950s through the personal computer boom of the 1980s. Levy chronicles three generations of hackers: the MIT AI lab wizards who mainframes into creative tools, the California hardware hackers who built the first personal computers, and the game developers who created the software industry.

@@ -1,5 +1,5 @@
 # Kitchen Confidential
-**Author**: Anthony Bourdain | **Year**: 2001
+**Author**: Anthony Bourdain | **Year**: 2001 | **Category**: Business & Finance
 
 ## Summary
 "Kitchen Confidential" is a raw, unfiltered exposé of the restaurant industry that pulls back the curtain on the chaos, depravity, and passion that defines professional kitchens. Bourdain, a veteran chef with decades of experience, reveals the gritty reality behind restaurant doors - from the drug-fueled chaos and criminal underworld connections to the brotherhood of misfits who find redemption in the craft. This memoir traces Bourdain's journey from privileged childhood to dishwasher, line cook, and eventually chef, exposing industry secrets that will make you think twice about ordering fish on Monday.

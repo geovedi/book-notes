@@ -1,5 +1,5 @@
 # The Money May Be In The List. But Only A Good Email Copy Can Find It.
-**Authors**: Alex Harris | **Year**: 2018
+**Authors**: Alex Harris | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical email marketing guide reveals that while building an email list is important, crafting compelling email copy is what actually drives conversions and revenue. Written by a freelance copywriter who has penned over 2000 email copies, the book serves as a foundational course in email writing mastery.

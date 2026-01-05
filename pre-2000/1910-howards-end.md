@@ -1,5 +1,6 @@
 # Howards End
 **Authors**: E. M. Forster | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 "Howards End" explores the fragile connections between three families in Edwardian England: the intellectual Schlegel sisters, the wealthy capitalist Wilcox family, and the struggling clerk Leonard Bast. The novel centers on the beloved country house Howards End, which becomes a symbol of England's soul and the battleground for conflicting values of commerce, culture, and human connection.

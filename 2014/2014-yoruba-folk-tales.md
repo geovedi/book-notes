@@ -1,6 +1,6 @@
 # 2014 Yoruba Folk Tales
 **Original Title**: YORUBA FOLK TALES
-**Authors**: Rotimi Ogunjobi | **Year**: 2014
+**Authors**: Rotimi Ogunjobi | **Year**: 2014 | **Category**: Children & Young Adult
 
 ## Summary
 This captivating collection of traditional Yoruba folk tales transports readers to a time when animals could speak like humans and minds were still pure enough to believe in magic. Originating from West Africa's Yoruba people, these stories draw from the daily experiences of farmers and hunters living near rain forests, where animals and nature play central roles in both life and storytelling.

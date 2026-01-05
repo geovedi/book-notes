@@ -1,5 +1,6 @@
 # The Law of Success
 **Authors**: Napoleon Hill | **Year**: 1928
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Law of Success" is Napoleon Hill's comprehensive philosophy of personal achievement, originally published as a 16-lesson course based on his research of over 100 successful individuals including Andrew Carnegie, Henry Ford, and Thomas Edison. The book presents fundamental principles that anyone can apply to achieve extraordinary success in any field. Hill's work emphasizes that success is not accidental but follows definite laws that can be learned and applied by anyone willing to master them.

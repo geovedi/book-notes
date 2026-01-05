@@ -1,5 +1,6 @@
 # Permanent Record
 **Author**: Edward Snowden | **Year**: 2019
+**Category**: Technology & Computing
 
 ## Summary
 "Permanent Record" is Edward Snowden's gripping memoir that chronicles his journey from a patriotic NSA/CIA contractor to the world's most famous whistleblower. The book reveals how a young technologist helped build the world's most sophisticated mass surveillance system, only to risk everything to expose it to the public.

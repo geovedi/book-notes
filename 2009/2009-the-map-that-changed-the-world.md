@@ -1,5 +1,6 @@
 # The Map That Changed the World
 **Author**: Simon Winchester | **Year**: 2009
+**Category**: Science & Nature
 
 ## Summary
 William Smith, a self-taught surveyor and orphaned son of a village blacksmith, created the first true geological map of anywhere in the world—a revolutionary document that laid the foundations for modern geology and changed our understanding of Earth's history. His 1815 map of England and Wales revealed that rock strata could be identified by their characteristic fossils and arranged in a predictable sequence, challenging the prevailing religious view of a 6,000-year-old Earth and paving the way for Darwin's theory of evolution.

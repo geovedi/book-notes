@@ -1,5 +1,6 @@
 # This Is Going to Hurt
 **Author**: Adam Kay | **Year**: 2017
+**Category**: Health & Medicine
 
 ## Summary
 Adam Kay's searingly honest memoir chronicles his six-year journey through the NHS as a junior doctor, from his first day as a house officer in 2004 to his eventual resignation in 2010. What began as a career following in his father's footsteps became a brutal awakening to the reality of modern medicine – a world of 97-hour work weeks, life-or-death decisions made on minimal sleep, and constant exposure to human suffering.

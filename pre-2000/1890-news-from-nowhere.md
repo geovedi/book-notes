@@ -1,5 +1,6 @@
 # News from Nowhere
 **Authors**: William Morris | **Year**: 1890
+**Category**: Fiction & Literature
 
 ## Summary
 "News from Nowhere" is William Morris's visionary utopian novel that transports readers to a future communist society in 21st-century England, following a peaceful social revolution. The protagonist, William Guest, falls asleep in his 19th-century London home and awakens in a transformed world where private property, money, and industrial capitalism have been replaced by a society based on common ownership, artisan craftsmanship, and harmony with nature. Through his journey up the Thames River and interactions with the inhabitants of this new world, Guest discovers a society where work is pleasurable, education is lifelong, and people live in beautiful surroundings free from the pollution and inequality of Victorian England.

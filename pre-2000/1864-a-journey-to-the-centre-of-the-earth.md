@@ -1,5 +1,6 @@
 # A Journey to the Centre of the Earth
 **Authors**: Jules Verne | **Year**: 1864
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Professor Otto Liedenbrock, a brilliant but impetuous German mineralogist, discovers an ancient encrypted manuscript that reveals a path to the Earth's core. Along with his reluctant nephew Axel and their steadfast Icelandic guide Hans, the trio embarks on an extraordinary expedition through volcanic passages into subterranean realms. Their journey takes them through vast underground caverns, across prehistoric seas filled with ancient marine life, and into geological wonders that challenge scientific understanding. After surviving numerous perils including dehydration, dangerous passages, and encounters with prehistoric creatures, they are dramatically expelled from an Italian volcano, having traveled from Iceland to the Mediterranean through the Earth's interior.

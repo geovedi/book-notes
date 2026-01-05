@@ -1,5 +1,5 @@
 # The Complete Works of Joseph Conrad
-**Authors**: Joseph Conrad | **Year**: 2018 (Collection Publication)
+**Authors**: Joseph Conrad | **Year**: 2018 (Collection Publication) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection spans Conrad's entire literary career from 1895 to 1926, encompassing his most celebrated novels and short stories. Conrad, a Polish-British writer who didn't learn English until his twenties, became one of the masters of psychological fiction and modernist literature. His works explore the moral complexities of human nature, the thin veneer of civilization, and the darkness that lurks within seemingly ordinary people. From maritime adventures to political conspiracies, Conrad's stories are set against exotic backdrops but deal with universal themes of guilt, redemption, honor, and the struggle between individual conscience and societal expectations.

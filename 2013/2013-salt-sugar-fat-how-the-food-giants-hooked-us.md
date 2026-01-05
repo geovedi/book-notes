@@ -1,5 +1,5 @@
 # Salt Sugar Fat: How the Food Giants Hooked Us
-**Author**: Michael Moss | **Year**: 2013
+**Author**: Michael Moss | **Year**: 2013 | **Category**: Health & Medicine
 
 ## Summary
 Salt Sugar Fat exposes how the processed food industry has deliberately engineered products to hook consumers by maximizing the appeal of three key ingredients: salt, sugar, and fat. The book reveals the shocking story of a secret 1999 meeting where top food CEOs acknowledged their role in the obesity epidemic but chose profits over public health. Through inside access and confidential documents, Moss demonstrates how food companies use sophisticated science, marketing tactics, and brain research to create "bliss points" that make their products irresistible, leading to overconsumption and addiction.

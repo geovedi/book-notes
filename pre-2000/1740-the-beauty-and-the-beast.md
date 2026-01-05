@@ -1,5 +1,6 @@
 # The Beauty and the Beast
 **Authors**: Gabrielle-Suzanne Barbot de Villeneuve | **Year**: 1740
+**Category**: Romance & Relationships
 
 ## Summary
 The Beauty and the Beast is a classic French fairy tale that tells the story of a wealthy merchant who loses his fortune and his youngest daughter, known as Beauty for her kindness and virtue. When the merchant plucks a rose from a mysterious enchanted castle, he encounters a fearsome Beast who demands one of his daughters in exchange for his life. Beauty voluntarily sacrifices herself to save her father and goes to live with the Beast in his magical palace, where she discovers that beneath his monstrous exterior lies a kind, intelligent being. Through her patience, compassion, and ability to see beyond appearances, she ultimately breaks the curse that transformed the prince into a beast, revealing his true noble identity.

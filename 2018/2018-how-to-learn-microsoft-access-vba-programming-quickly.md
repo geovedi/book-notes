@@ -1,5 +1,6 @@
 # How to Learn Microsoft Access VBA Programming Quickly
 **Authors**: Andrei Besedin | **Year**: 2018
+**Category**: Technology & Computing
 
 ## Summary
 This book is a practical, hands-on introduction to Microsoft Access database development with Visual Basic for Applications (VBA) programming. It's designed for beginners who want to quickly learn how to create functional database applications by combining Access's built-in features with custom programming code.

@@ -1,5 +1,5 @@
 # Music and Misadventure
-**Authors**: Charlotte E. English | **Year**: 2018
+**Authors**: Charlotte E. English | **Year**: 2018 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 When Cordelia "Ves" Vesper receives an unexpected summons from her estranged archaeologist mother after six years of silence, she and her Waymaster partner Jay Patel find themselves racing to a remote island off the Cumbrian coast. What begins as a mysterious family reunion quickly transforms into a dangerous archaeological expedition when they discover that Ves's mother has uncovered an underground village guarded by a deadly lindworm and a mysterious gateway to another world. As they battle ancient creatures and navigate complex family dynamics, Ves and Jay must harness Ves's musical magic and their partnership skills to survive the misadventure that unfolds beneath the earth.

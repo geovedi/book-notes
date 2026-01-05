@@ -1,5 +1,5 @@
 # Blood in the Water
-**Authors**: Heather Ann Thompson | **Year**: 2016
+**Authors**: Heather Ann Thompson | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 Blood in the Water is the definitive historical account of the 1971 Attica prison uprising and its profound, ongoing consequences. Thompson provides a meticulously researched examination of how prison conditions, racial tensions, and systemic injustice led to one of America's most violent prison rebellions, resulting in 43 deaths and decades of legal battles.

@@ -1,5 +1,6 @@
 # Charlatan: America's Most Dangerous Huckster
 **Author**: Pope Brock | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 The astonishing true story of Dr. John R. Brinkley, a charismatic con man who built a medical empire by implanting goat testicles into thousands of desperate men seeking virility cures. His radio-powered medical revolution made him one of America's richest and most influential figures until he crossed paths with Dr. Morris Fishbein, the relentless head of the American Medical Association who made it his mission to expose Brinkley as history's most dangerous medical charlatan.

@@ -1,5 +1,5 @@
 # The Complete Poems of Emily Dickinson
-**Authors**: Emily Dickinson | **Year**: 2018 (Original poems: 1850s-1880s)
+**Authors**: Emily Dickinson | **Year**: 2018 (Original poems: 1850s-1880s) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection presents the entirety of Emily Dickinson's revolutionary poetic works—nearly 1,800 poems written in seclusion in Amherst, Massachusetts, that would redefine American literature. Dickinson, who published only a handful of poems during her lifetime, crafted verses that broke every conventional rule of 19th-century poetry, using dashes instead of commas, unconventional capitalization, and slant rhymes to create a uniquely personal voice.

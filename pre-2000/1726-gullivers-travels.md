@@ -1,5 +1,6 @@
 # Gulliver's Travels
 **Authors**: Jonathan Swift | **Year**: 1726
+**Category**: Fiction & Literature
 
 ## Summary
 

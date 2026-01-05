@@ -1,5 +1,6 @@
 # The Blindspots Between Us
 **Authors**: Gleb Tsipursky | **Year**: 2020
+**Category**: Romance & Relationships
 
 ## Summary
 This groundbreaking book challenges the conventional wisdom to "trust your gut" in relationships, revealing that our intuitive instincts—evolved for survival on the African savanna—are dangerously mismatched for modern social connections. Tsipursky, a behavioral science expert and disaster avoidance specialist, demonstrates how unconscious cognitive biases systematically undermine our relationships with romantic partners, friends, family, and colleagues. The core premise is that we all possess mental blindspots that lead us to misjudge others, misinterpret situations, and make relationship-damaging decisions despite our best intentions.

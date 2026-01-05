@@ -1,6 +1,7 @@
 # From Fake News to Power
 **Original Title**: De las fake news al poder
 **Authors**: Anna Clua Infante, Dardo Gómez Ruiz-Díaz | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "From Fake News to Power" is a comprehensive analysis of the new ultra-right movement that has infiltrated Western democratic systems. The authors argue this isn't your grandfather's fascism—it's a rebranded, modernized version that combines rabid capitalism with social dehumanization, making it particularly dangerous to contemporary democratic societies.

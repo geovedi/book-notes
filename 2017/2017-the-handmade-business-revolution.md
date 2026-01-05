@@ -1,5 +1,6 @@
 # The Handmade Business Revolution
 **Authors**: Juha Öörni | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "The Handmade Business Revolution" is a practical guide for artisans looking to transform their crafting hobby into a profitable business. The book demystifies the process of selling handmade crafts by providing concrete strategies for both online and offline marketplaces. Öörni, drawing from personal experience, covers everything from pricing and marketing to choosing the right sales channels and building customer relationships.

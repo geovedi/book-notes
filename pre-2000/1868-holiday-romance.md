@@ -1,5 +1,6 @@
 # Holiday Romance
 **Authors**: Charles Dickens | **Year**: 1868
+**Category**: Fiction & Literature
 
 ## Summary
 Holiday Romance is a delightful collection of four children's stories written by Charles Dickens, each presented as if authored by different young writers ranging from six to nine years old. The stories capture the imaginative world of childhood, where children create elaborate adventures, romantic scenarios, and magical kingdoms while navigating the constraints imposed by adults. Through these tales, Dickens explores themes of childhood innocence, the power of imagination, the tension between children's desires and adult authority, and the bittersweet nature of growing up.

@@ -1,5 +1,5 @@
 # Never Search Alone: The Job Seeker's Playbook
-**Authors**: Phyl Terry | **Year**: 2022 
+**Authors**: Phyl Terry | **Year**: 2022 | **Category**: Business & Finance 
 
 ## Summary
 "Never Search Alone" presents a groundbreaking approach to job searching that challenges the conventional wisdom of solo job hunting. Phyl Terry introduces "Social Search" - a five-step methodology that transforms the lonely job search process into a collaborative journey built on community support. The book's core premise is simple but powerful: the most effective way to find a great job (or promotion) is to never search alone.

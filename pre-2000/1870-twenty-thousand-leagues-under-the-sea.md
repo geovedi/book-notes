@@ -1,6 +1,7 @@
 # Twenty Thousand Leagues Under the Sea
 **Original Title**: Vingt mille lieues sous les mers
 **Authors**: Jules Verne | **Year**: 1870
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In 1866, a mysterious sea monster terrorizes ships worldwide, prompting the U.S. government to dispatch the frigate Abraham Lincoln to hunt it. Aboard are Professor Pierre Aronnax, a renowned French marine biologist; his loyal servant Conseil; and the hot-headed Canadian harpooner Ned Land. When they encounter the "monster," it proves to be an advanced submarine called the Nautilus, commanded by the enigmatic Captain Nemo. After being captured, they embark on an extraordinary underwater journey, witnessing wonders of the deep ocean while grappling with Nemo's mysterious mission and their own captivity.

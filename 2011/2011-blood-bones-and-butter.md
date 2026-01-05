@@ -1,5 +1,5 @@
 # Blood, Bones & Butter
-**Author**: Gabrielle Hamilton | **Year**: 2011
+**Author**: Gabrielle Hamilton | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 Gabrielle Hamilton's memoir traces her unlikely journey from a chaotic childhood marked by her parents' bitter divorce, through years of rebellion and vagrancy, to becoming the acclaimed chef-owner of New York's celebrated restaurant Prune. The book's three-part structure mirrors its title: "Blood" explores her complicated family relationships and early connection to food through her French mother; "Bones" details her formal and informal culinary education; "Butter" examines her marriage into an Italian family and her search for belonging.

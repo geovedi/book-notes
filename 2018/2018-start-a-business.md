@@ -1,5 +1,5 @@
 # Start a Business: Best Trending Future Small Business Ideas
-**Authors**: Steven Gray | **Year**: 2018
+**Authors**: Steven Gray | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide serves as a comprehensive roadmap for aspiring entrepreneurs looking to capitalize on current and future market trends. Steven Gray presents a curated collection of trending business ideas that have demonstrated consistent growth and profitability potential, particularly for small businesses and startups entering the e-commerce space. The book emphasizes the importance of trend analysis and market timing, arguing that successful entrepreneurship requires identifying businesses that will remain profitable for years rather than fleeting opportunities.

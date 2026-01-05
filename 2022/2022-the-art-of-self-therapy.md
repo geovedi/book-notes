@@ -1,5 +1,5 @@
 # The Art of Self-Therapy
-**Authors**: Nick Trenton | **Year**: 2022
+**Authors**: Nick Trenton | **Year**: 2022 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Art of Self-Therapy" is a practical guide that equips readers with evidence-based therapeutic techniques to practice on their own terms. The book transforms professional therapy methods into accessible self-help tools for gaining self-awareness, understanding emotions, and creating meaningful behavioral change. This comprehensive approach combines cognitive behavioral therapy, attachment theory, and mindfulness practices to help readers become their own therapists.

@@ -1,5 +1,5 @@
 # The Technology of Orgasm
-**Authors**: Rachel P. Maines | **Year**: 2001
+**Authors**: Rachel P. Maines | **Year**: 2001 | **Category**: Health & Medicine
 
 ## Summary
 This groundbreaking historical work reveals how the vibrator was invented in the late 19th century not as a sexual device, but as a medical instrument to treat "hysteria"—a now-discredited diagnosis for women's sexual arousal. Maines documents how physicians performed pelvic massage to orgasm on female patients as a standard medical treatment from the time of Hippocrates until the 1920s, when the vibrator mechanized this time-consuming task. The book exposes the androcentric model of sexuality that defined normal sex as penetration-focused intercourse, failing to recognize that most women don't achieve orgasm through this method alone.

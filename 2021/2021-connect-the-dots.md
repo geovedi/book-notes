@@ -1,6 +1,7 @@
 # Connect the Dots
 **Original Title**: Połącz kropki
 **Author**: Łukasz Lamża | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 

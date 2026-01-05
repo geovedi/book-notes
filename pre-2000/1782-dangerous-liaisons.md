@@ -1,6 +1,7 @@
 # Dangerous Liaisons
 **Original Title**: Les Liaisons dangereuses
 **Authors**: Pierre-Ambroise-François Choderlos de Laclos | **Year**: 1782
+**Category**: Romance & Relationships
 
 ## Summary
 *Dangereuses Liaisons* is a groundbreaking epistolary novel that exposes the moral corruption and sexual manipulation rampant among the French aristocracy before the Revolution. Through a series of letters between two master manipulators—the Vicomte de Valmont and the Marquise de Merteuil—and their victims, the novel reveals how power, seduction, and revenge become weapons in a dangerous game where human hearts are the stakes. The story serves as both a compelling psychological drama and a scathing critique of a society where virtue is punished and hypocrisy reigns supreme.

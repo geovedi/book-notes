@@ -1,6 +1,7 @@
 # The Hunchback of Notre-Dame
 **Original Title**: Notre-Dame de Paris
 **Authors**: Victor Hugo | **Year**: 1831
+**Category**: Fiction & Literature
 
 ## Summary
 Set in 15th-century Paris, Victor Hugo's masterpiece follows the tragic intersecting lives of Quasimodo, a deformed bell-ringer; Esmeralda, a beautiful Roma street dancer; Claude Frollo, a tortured archdeacon; and Captain Phoebus, a handsome but shallow soldier. The cathedral of Notre-Dame serves as both witness and sanctuary to their tragic fates, weaving a dark tapestry of obsession, social prejudice, and the destructive nature of unrequited love.

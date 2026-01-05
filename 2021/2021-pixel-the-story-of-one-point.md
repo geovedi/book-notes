@@ -1,6 +1,7 @@
 # Pixel: The Story of One Point
 **Original Title**: Пиксель. История одной точки
 **Author**: Alvy Ray Smith | **Year**: 2021 (English), 2023 (Russian translation)
+**Category**: Technology & Computing
 
 ## Summary
 This groundbreaking book traces the history of our digital visual world through the lens of its fundamental building block: the pixel. Written by computer graphics pioneer and Pixar co-founder Alvy Ray Smith, it reveals how this seemingly simple concept sparked the Great Digital Convergence that transformed human visual culture around the year 2000.

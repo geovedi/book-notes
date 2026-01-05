@@ -1,5 +1,6 @@
 # Treasure Island
 **Authors**: Robert Louis Stevenson | **Year**: 1883
+**Category**: Children & Young Adult
 
 ## Summary
 "Treasure Island" is the ultimate pirate adventure that launched a thousand tropes we still recognize today. Young Jim Hawkins, the son of an innkeeper, finds himself thrust into a world of cutthroats, buried treasure, and high seas adventure when a mysterious old sailor named Billy Bones takes up residence at his family's Admiral Benbow Inn. After Billy Bones dies from a stroke following a confrontation with his former crewmate Black Dog, Jim discovers the old sea chest contains a treasure map to the infamous Captain Flint's buried gold on a remote island.

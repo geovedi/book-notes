@@ -1,5 +1,5 @@
 # Voices from Chernobyl
-**Authors**: Svetlana Alexievich, Keith Gessen | **Year**: 2006
+**Authors**: Svetlana Alexievich, Keith Gessen | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "Voices from Chernobyl" is an oral history of the 1986 nuclear disaster that shattered lives and transformed our understanding of technological catastrophe. Alexievich, a Nobel Prize-winning journalist, weaves together hundreds of firsthand accounts—from liquidators and firefighters to mothers, children, and officials—to create a tapestry of human tragedy, resilience, and moral confusion. Rather than focusing on technical details, she captures the emotional truth of what happens when an invisible enemy permeates every aspect of existence.

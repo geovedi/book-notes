@@ -1,5 +1,6 @@
 # The Systems Thinker
 **Authors**: Albert Rutherford | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Systems Thinker" presents a comprehensive guide to understanding and applying systems thinking—a powerful mental framework for solving complex problems by seeing the bigger picture and understanding interconnections. The book demonstrates how systems thinking evolved from various scientific disciplines and provides practical tools for analyzing problems holistically rather than focusing on isolated events.

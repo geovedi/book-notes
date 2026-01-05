@@ -1,5 +1,6 @@
 # Wuthering Heights
 **Original Title**: Wuthering Heights | **Authors**: Emily Brontë | **Year**: 1847
+**Category**: Romance & Relationships
 
 ## Summary
 Wuthering Heights is a Gothic masterpiece that tells the haunting story of Catherine Earnshaw and Heathcliff, whose passionate and destructive love spans two generations. The novel unfolds through a frame narrative where Lockwood, a new tenant at Thrushcross Grange, learns the troubled history of Wuthering Heights from the housekeeper Nelly Dean. Heathcliff, an orphan of unknown origins adopted by the Earnshaw family, forms an intense bond with Catherine that transcends social boundaries and even death itself. Their relationship becomes a force of nature that destroys everyone around them, fueled by Catherine's choice to marry the wealthy Edgar Linton for social status rather than following her heart.

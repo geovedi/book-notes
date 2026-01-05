@@ -1,5 +1,6 @@
 # Letters from the Earth
 **Authors**: Mark Twain | **Year**: 1909 (written), 1962 (published)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Letters from the Earth" is Mark Twain's blistering satirical critique of religion and God's character as depicted in the Bible. Written near the end of his life but published posthumously due to its controversial nature, the book presents itself as a series of letters written by Satan to fellow archangels Michael and Gabriel, reporting on his observations of human beings and their religious beliefs. Through Satan's eyes, Twain exposes what he sees as contradictions, hypocrisies, and moral absurdities in Christian theology and biblical narratives.

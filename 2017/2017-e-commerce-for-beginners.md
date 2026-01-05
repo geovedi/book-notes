@@ -1,5 +1,6 @@
 # E-commerce for Beginners
 **Original Title**: E-commerce for Beginners | **Authors**: Juha Öörni | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "E-commerce for Beginners" is a comprehensive guide for entrepreneurs looking to establish successful online businesses in the digital marketplace. The book demystifies the world of electronic commerce, covering everything from basic definitions to advanced mobile commerce strategies. It serves as both an introduction to e-commerce concepts and a practical roadmap for building and scaling online ventures.

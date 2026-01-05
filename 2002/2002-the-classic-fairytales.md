@@ -1,6 +1,6 @@
 # The Classic Fairytales
 **Original Title**: The Classic Fairytales
-**Author**: Charles Way | **Year**: 2002
+**Author**: Charles Way | **Year**: 2002 | **Category**: Children & Young Adult
 
 ## Summary
 This collection presents three masterful stage adaptations of beloved fairytales—Sleeping Beauty, Cinderella, and Beauty and the Beast—reimagined by acclaimed playwright Charles Way. Originally commissioned for prominent children's theaters in Britain, these adaptations transform familiar stories into sophisticated theatrical explorations of childhood's journey into adulthood. Way never writes down to young audiences; instead, he creates plays that "will excite and stimulate everyone" while particularly resonating with young people's needs and interests.

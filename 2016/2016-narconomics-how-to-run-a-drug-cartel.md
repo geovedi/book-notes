@@ -1,5 +1,5 @@
 # Narconomics: How to Run a Drug Cartel
-**Author**: Tom Wainwright | **Year**: 2016
+**Author**: Tom Wainwright | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 Narconomics reveals how drug cartels operate like multinational corporations, applying business principles to the illegal drug trade. Wainwright, former Mexico City correspondent for The Economist, demonstrates that cartels use sophisticated strategies involving supply chain management, marketing, human resources, and R&D. By analyzing cartels through an economic lens, the book shows why traditional drug policies often fail and suggests business-thinking approaches could be more effective in combating organized crime.

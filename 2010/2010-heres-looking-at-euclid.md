@@ -1,5 +1,5 @@
 # Here's Looking at Euclid
-**Author**: Alex Bellos | **Year**: 2010
+**Author**: Alex Bellos | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Here's Looking at Euclid" is a captivating journey through the fascinating world of mathematics that reveals how numbers shape our reality and culture. Bellos, a former foreign correspondent, approaches mathematics as an explorer would a foreign land - traveling from Amazon tribes with limited counting abilities to Japanese soroban masters, from Indian zero inventors to German mental calculation champions. The book transforms abstract mathematical concepts into vivid, human stories that demonstrate how math is not just about equations, but about human curiosity, cultural evolution, and the universal quest to understand patterns.

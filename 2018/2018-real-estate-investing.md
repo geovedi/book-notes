@@ -1,5 +1,5 @@
 # Real Estate Investing: 7 Ways Anyone Can Use To Make Money In Real Estate
-**Authors**: Mark Atwood | **Year**: 2018
+**Authors**: Mark Atwood | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies real estate investing by presenting seven distinct strategies that anyone can use to generate wealth through property. The book emphasizes that successful real estate investing requires education, proper planning, and treating it as a business rather than a get-rich-quick scheme. Atwood breaks down complex investment concepts into actionable steps, making property investment accessible to beginners while providing valuable insights for experienced investors.

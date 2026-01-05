@@ -1,6 +1,7 @@
 # Words Are Spells
 **Original Title**: Palavras são feitiços
 **Author**: Amanda W. Tintori | **Year**: 2021
+**Category**: Spirituality & Religion
 
 ## Summary
 A profound collection of Portuguese poetry that explores the magical power of words as transformers of consciousness and reality. Through concise, evocative verses, the author weaves together themes of nature connection, personal transformation, emotional resilience, and the inherent wisdom found in both chaos and stillness. The book serves as both meditation and manifesto, inviting readers to reclaim their relationship with the magical aspects of existence that modern rationalism often dismisses.

@@ -1,5 +1,5 @@
 # Gone Tomorrow: The Hidden Life of Garbage
-**Author**: Heather Rogers | **Year**: 2010
+**Author**: Heather Rogers | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 Heather Rogers pulls back the curtain on America's massive waste industry, revealing the shocking truth about what happens to the 500 billion pounds of garbage Americans produce each year. Through on-the-ground investigations of landfills, incinerators, and transfer stations, she exposes how our throwaway culture is sustained by an elaborate, expensive system designed to make waste disappear—while hiding its devastating environmental consequences.

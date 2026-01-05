@@ -1,5 +1,5 @@
 # On the Genealogy of Morals and Ecce Homo
-**Authors**: Friedrich Wilhelm Nietzsche, Walter Arnold Kaufmann (Translator) | **Year**: 1967
+**Authors**: Friedrich Wilhelm Nietzsche, Walter Arnold Kaufmann (Translator) | **Year**: 1967 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Nietzsche's revolutionary work examines the origins and development of moral values through a psychological and historical lens. In "Genealogy of Morals," he traces how our concepts of good and evil emerged from power struggles rather than divine or rational truths. He reveals that morality began as a tool of the strong to justify their power, then was inverted by the weak through what he calls "slave morality"—a system born from resentment that glorifies meekness and condemns strength. In "Ecce Homo," Nietzsche reflects on his own philosophy and life, presenting himself as a "warrior philosopher" who attacks ideas out of love rather than hatred.

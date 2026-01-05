@@ -1,5 +1,5 @@
 # Lost in Translation: An Illustrated Compendium of Untranslatable Words from Around the World
-**Authors**: Ella Frances Sanders | **Year**: 2014
+**Authors**: Ella Frances Sanders | **Year**: 2014 | **Category**: Art & Creativity
 
 ## Summary
 "Lost in Translation" is a captivating collection of 52 untranslatable words from various languages that capture universal human experiences and emotions. Each word is beautifully illustrated and explained, revealing how different cultures have named specific feelings, situations, and phenomena that English speakers can recognize but lack precise words to describe. The book demonstrates that while languages may evolve and differ, they all stem from our shared human experiences and emotions.

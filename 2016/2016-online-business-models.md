@@ -1,5 +1,5 @@
 # Online Business Models
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Online Business Models" is a comprehensive guide to twelve proven methods for making money online without leaving your home. The book presents a roadmap for entrepreneurs seeking to capitalize on the growing trend of home-based businesses and career liberalization in the digital age. Each business model is explained with practical steps, recommended platforms, and realistic earning potential.

@@ -1,6 +1,7 @@
 # Peter Moor's Journey to Southwest
 **Original Title**: Peter Moors Fahrt nach Südwest
-**Author**: Gustav Frenssen | **Year**: 1906 
+**Author**: Gustav Frenssen | **Year**: 1906
+**Category**: Fiction & Literature 
 
 ## Historical Context and Significance
 This controversial German colonial novel depicts the Herero and Namaqua genocide (1904-1908) in German South-West Africa (modern Namibia) from a German imperialist perspective. The book exemplifies the colonial literature that helped shape German public opinion about their overseas empire and reflects the racist attitudes prevalent in European colonial powers during the early 20th century. While historically significant for understanding German colonial mentality, the work promotes colonial violence and contains racist ideologies that are widely condemned today.

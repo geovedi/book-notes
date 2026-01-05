@@ -1,5 +1,6 @@
 # Shelley's Gothic Classics: Frankenstein & St. Irvyne
 **Authors**: Mary Shelley, Percy Bysshe Shelley | **Year**: 1818 (Frankenstein), 1811 (St. Irvyne)
+**Category**: Horror & Thriller
 
 ## Summary
 This collection brings together two pioneering Gothic works that helped shape the Romantic movement's exploration of the dark side of human ambition and the supernatural. Mary Shelley's *Frankenstein* presents the cautionary tale of Victor Frankenstein, a brilliant scientist who creates life through scientific experimentation but abandons his creation, leading to tragic consequences. Percy Bysshe Shelley's *St. Irvyne* is a Gothic novel that follows Wolfstein, a desperate nobleman who joins a band of Alpine robbers and encounters supernatural elements, including the mysterious Rosicrucian Ginotti.

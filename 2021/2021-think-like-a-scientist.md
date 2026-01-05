@@ -1,5 +1,6 @@
 # Think Like a Scientist
 **Authors**: Arcturus Publishing | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "Think Like a Scientist" is an accessible guide that transforms the scientific method from an academic concept into a practical mindset for everyday life. The book argues that scientific thinking is fundamentally about adopting an interrogative, curious approach to understanding the world—one that questions assumptions, seeks evidence, and embraces wonder. Through 25 chapters exploring compelling questions ranging from why cats land on their feet to how the universe will end, the book demonstrates how scientific thinking provides essential tools for navigating modern life and protecting against misinformation.

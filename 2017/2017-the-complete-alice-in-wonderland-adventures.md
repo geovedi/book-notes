@@ -1,5 +1,6 @@
 # The Complete Alice in Wonderland Adventures
 **Authors**: Lewis Carroll | **Year**: 2017
+**Category**: Children & Young Adult
 
 ## Summary
 Alice's adventures begin when she follows a curious White Rabbit down a rabbit hole, tumbling into the fantastical world of Wonderland. In this bizarre realm where logic is inverted and nothing makes sense, Alice encounters a cast of unforgettable characters including the grinning Cheshire Cat, the mad Hatter, and the tyrannical Queen of Hearts. Through a series of surreal encounters and impossible situations, Alice navigates a world that challenges her understanding of reality, identity, and growing up.

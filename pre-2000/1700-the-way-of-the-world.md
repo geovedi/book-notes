@@ -1,5 +1,6 @@
 # The Way of the World
 **Authors**: William Congreve | **Year**: 1700
+**Category**: Fiction & Literature
 
 ## Summary
 William Congreve's masterpiece is a quintessential Restoration comedy that weaves together multiple plots of love, deception, and social maneuvering in sophisticated London society. The play centers on Mirabell and Millamant, two witty lovers who must navigate a complex web of obstacles to secure their marriage, including the disapproval of Millamant's aunt, Lady Wishfort, and the schemes of various antagonists.

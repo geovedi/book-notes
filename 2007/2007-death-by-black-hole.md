@@ -1,5 +1,6 @@
 # Death by Black Hole: And Other Cosmic Quandaries
 **Author**: Neil deGrasse Tyson | **Year**: 2007
+**Category**: Science & Nature
 
 ## Summary
 

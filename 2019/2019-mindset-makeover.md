@@ -1,6 +1,7 @@
 # Mindset Makeover
 **Original Title**: Mindset Makeover: Tame Your Fears, Change Your Self-Sabotaging Thoughts, And Learn From Your Mistakes - Make Assertive And Mindful Choices
 **Author**: Steven Schuster | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

@@ -1,6 +1,7 @@
 # Arsène Lupin: The Collection
 **Original Title**: Arsène Lupin (French)
 **Author**: Maurice Leblanc | **Year**: 1909-1911
+**Category**: Horror & Thriller
 
 ## Summary
 

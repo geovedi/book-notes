@@ -1,5 +1,6 @@
 # Start with the End in Mind
 **Authors**: Jamal Sahib | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Start with the End in Mind" presents a practical framework for achieving success in both life and business through five foundational secrets. Written by South African entrepreneur and business coach Jamal Sahib, the book combines personal anecdotes, business experiences, and proven methodologies to help readers transform their approach to leadership, relationships, and personal development. Sahib left a successful corporate career to pursue entrepreneurship and job creation, driven by a desire to make a meaningful difference in South Africa's unequal society.

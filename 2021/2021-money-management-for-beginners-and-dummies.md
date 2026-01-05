@@ -1,5 +1,6 @@
 # Money Management for Beginners and Dummies
 **Authors**: Giovanni Rigters | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 This practical guide serves as a comprehensive introduction to personal finance management for absolute beginners. The book breaks down money management into four essential pillars: budgeting, saving, debt repayment, and investing. Rather than overwhelming readers with complex financial theory, it provides actionable, step-by-step strategies that anyone can implement regardless of their financial knowledge or current situation.

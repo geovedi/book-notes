@@ -1,5 +1,5 @@
 # The Victory of Reason
-**Author**: Rodney Stark | **Year**: 2006
+**Author**: Rodney Stark | **Year**: 2006 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Rodney Stark's "The Victory of Reason" presents a bold revisionist history arguing that Christianity's unique commitment to reason and progress was the fundamental catalyst for Western civilization's extraordinary success. Stark challenges the conventional narrative that attributes Western dominance to geography, technology, or the Protestant Reformation, instead tracing it to Christianity's rational theology that emerged centuries earlier.

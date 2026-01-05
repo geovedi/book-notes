@@ -1,6 +1,7 @@
 # Thoughts on the Use of the Common and Base in Art
 **Original Title**: Gedanken über den Gebrauch des Gemeinen und Niedrigen in der Kunst
 **Author**: Friedrich Schiller | **Year**: 1795
+**Category**: Art & Creativity
 
 ## Summary
 Friedrich Schiller's philosophical essay explores how artists can transform ordinary and even base subjects into elevated art through noble treatment and spiritual insight. He distinguishes between what is merely "common" (lacking spiritual depth) and what is "base" (actively coarse and vulgar), arguing that true artistic genius can elevate even the lowest subjects when approached with noble vision.

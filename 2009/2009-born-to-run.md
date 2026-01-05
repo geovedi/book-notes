@@ -1,5 +1,6 @@
 # Born to Run
 **Authors**: Christopher McDougall | **Year**: 2009
+**Category**: Health & Medicine
 
 ## Summary
 *Born to Run* uncovers the secrets of the Tarahumara Indians, Mexico's legendary superathletes who run hundreds of miles without injury through rugged canyons wearing simple sandals. McDougall, an injured runner himself, discovers that everything we've been taught about running is wrong—our expensive cushioned shoes are causing more injuries than they prevent, and the key to injury-free, joyful running lies in our evolutionary heritage.

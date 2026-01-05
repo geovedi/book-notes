@@ -1,6 +1,7 @@
 # Walpurgis Night
 **Original Title**: Вальпургиева ночь
 **Authors**: Karel Matěj Čapek-Chod | **Year**: 1924
+**Category**: Fiction & Literature
 
 ## Summary
 Walpurgis Night is a dark, expressionist novel set in Prague during World War I that weaves together multiple storylines exploring the decay of the Austro-Hungarian Empire and the psychological disintegration of its characters. The story follows Dr. Tadeáš Flugbeil (nicknamed "Penguin"), an imperial court physician whose orderly life is disrupted by encounters with mysterious figures including the sleepwalking actor Zrcadlo ("Mirror") and his former lover Bohemian Liza, now aged and impoverished. As the narrative unfolds, themes of time, memory, mortality, and social collapse intertwine against the backdrop of Prague's Hradčany district.

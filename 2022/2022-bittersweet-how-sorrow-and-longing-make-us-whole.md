@@ -1,5 +1,5 @@
 # Bittersweet: How Sorrow and Longing Make Us Whole
-**Author**: Susan Cain | **Year**: 2022
+**Author**: Susan Cain | **Year**: 2022 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Bittersweet" explores the profound transformative power of sorrow, longing, and melancholy in a world obsessed with happiness and positivity. Cain argues that our capacity to experience bittersweet emotions—those moments of sweet sorrow, painful beauty, and achingly tender nostalgia—is not a weakness to be overcome but a gateway to creativity, transcendence, love, and spiritual connection. The book challenges our modern culture's "tyranny of positivity" and reveals how embracing our more melancholic states can lead to deeper meaning, authentic connection, and a more complete human experience.

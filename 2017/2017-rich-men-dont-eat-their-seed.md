@@ -1,5 +1,6 @@
 # Rich Men Don't Eat Their Seeds: A Guide to Financial Freedom
 **Authors**: A. A. Abimiku | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Rich Men Don't Eat Their Seeds" presents a powerful financial philosophy centered on the agricultural metaphor of seed preservation and cultivation. The book argues that wealthy individuals understand that money should be treated as seeds for investment rather than immediate consumption, while those with poverty mentality consume their financial seeds before they can grow. The author provides a comprehensive framework for achieving financial independence through disciplined savings, strategic investing, and wealth-building principles that anyone can apply regardless of income level.

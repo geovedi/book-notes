@@ -1,5 +1,5 @@
 # Thinking in Bets
-**Author**: Annie Duke | **Year**: 2018
+**Author**: Annie Duke | **Year**: 2018 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Thinking in Bets" reveals how to make smarter decisions in an uncertain world by applying lessons from professional poker. Annie Duke, a World Series of Poker champion, demonstrates that all decisions are bets on future outcomes, and the key to better decision-making lies in separating decision quality from outcome quality. The book teaches us to embrace uncertainty, avoid cognitive biases, and learn from results without being trapped by "resulting" - judging decisions solely by their outcomes.

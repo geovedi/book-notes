@@ -1,5 +1,6 @@
 # Aunts Aren't Gentlemen
 **Authors**: P.G. Wodehouse | **Year**: 1974
+**Category**: Fiction & Literature
 
 ## Summary
 Bertie Wooster finds himself in typically fine form with pink spots on his chest, leading him to consult the quirky Dr. E. Jimpson Murgatroyd. After being caught in a protest march where his former flame Vanessa Cook is arrested for socking a policeman, Bertie becomes entangled in romantic complications when he learns Vanessa is now involved with his insurance salesman acquaintance Orlo Porter. The plot thickens as Bertie is dispatched to the peaceful village of Maiden Eggesford at Aunt Dahlia's request, where he discovers she has wagered heavily on a horse race and needs his help to sabotage a rival horse.

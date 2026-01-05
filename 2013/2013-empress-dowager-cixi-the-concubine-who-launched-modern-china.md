@@ -1,5 +1,5 @@
 # Empress Dowager Cixi: The Concubine Who Launched Modern China
-**Authors**: Jung Chang | **Year**: 2013
+**Authors**: Jung Chang | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 Jung Chang revolutionizes our understanding of modern Chinese history by challenging the conventional portrait of Empress Dowager Cixi as a diehard conservative and cruel despot. Instead, she reveals Cixi as the most important woman in Chinese history—a forward-thinking modernizer who ruled China for decades and brought a medieval empire into the modern age. This groundbreaking biography, based on newly available Chinese historical documents, shows how Cixi fought against monumental obstacles to transform virtually every aspect of Chinese society and governance.

@@ -1,5 +1,6 @@
 # Enlightenment Now
 **Author**: Steven Pinker | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 "Enlightenment Now" is a data-driven celebration of human progress and a defense of the Enlightenment values that made it possible. Pinker presents overwhelming evidence that life has dramatically improved across virtually every measurable dimension - health, wealth, safety, knowledge, and happiness. He argues that reason, science, and humanism have transformed our world for the better, despite our tendency to focus on negative news and looming threats.

@@ -1,5 +1,5 @@
 # The Art of Hustling
-**Authors**: DJ Sbu (Sbusiso Leope) | **Year**: 2018
+**Authors**: DJ Sbu (Sbusiso Leope) | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "The Art of Hustling: Sell or Surrender" is a dynamic entrepreneurial guide that reframes "hustling" as a positive, ethical approach to business and life success. DJ Sbu shares his personal journey from the dusty streets of Tembisa to becoming a multi-faceted entrepreneur, demonstrating how hustling—defined as aggressive, legitimate effort toward goals—can transform dreams into reality. The book combines street-smart business strategies with spiritual principles, particularly the Law of Attraction, to create a roadmap for aspiring entrepreneurs who want to succeed while making a positive impact in their communities.

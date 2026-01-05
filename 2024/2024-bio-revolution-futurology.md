@@ -1,6 +1,7 @@
 # Bio-revolution & Futurology
 **Original Title**: Bio-revolution & Futurology
 **Authors**: Vladimir Kishinets | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 This groundbreaking work explores the imminent biological revolution that will fundamentally transform human existence through biotechnologies capable of managing human biology. Kishinets presents a compelling analysis of how emerging biotechnologies will lead to biological immortality, the elimination of aging and disease, and ultimately the transformation of Homo sapiens into a new form of intelligent life. The book examines not only the technological possibilities but also the profound social, economic, and civilizational consequences of these changes.

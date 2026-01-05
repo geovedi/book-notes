@@ -1,5 +1,5 @@
 # Team Building Inside: Teamwork & Coordination
-**Authors**: Cristina & Olivier Rebière | **Year**: 2016
+**Authors**: Cristina & Olivier Rebière | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide offers a complete framework for implementing effective team building activities that create and sustain team spirit. Drawing from over a decade of experience organizing hundreds of team building events, the authors provide ready-to-use activities that develop essential teamwork skills while keeping participants engaged and entertained. The book focuses on turning workplace groups into cohesive teams through structured fun and strategic coordination exercises.

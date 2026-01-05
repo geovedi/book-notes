@@ -1,4 +1,5 @@
 # Ethics in Psychology
+**Category**: Psychology & Mental Health
 **Authors**: Connor Whiteley | **Year**: 2023
 
 ## Summary

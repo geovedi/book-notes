@@ -1,5 +1,6 @@
 # The Great Travels & Travellers Illustrated Edition
 **Authors**: Jules Verne | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 Jules Verne's comprehensive chronicle of human exploration spans over two millennia, from the ancient voyages of Hanno and Herodotus through the 19th-century adventures of Livingstone and Stanley. This meticulously researched work, compiled with the aid of geographer Gabriel Marcel, presents a panoramic view of how humanity discovered and mapped our world.

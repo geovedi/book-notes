@@ -1,5 +1,5 @@
 # The Silent Woman
-**Authors**: Janet Malcolm | **Year**: 2011
+**Authors**: Janet Malcolm | **Year**: 2011 | **Category**: Fiction & Literature
 
 ## Summary
 Janet Malcolm's "The Silent Woman" is a groundbreaking work that deconstructs the very nature of biography through the controversial case of Sylvia Plath and Ted Hughes. Rather than simply retelling Plath's story, Malcolm investigates the biographers who have attempted to capture her life, revealing how biography is essentially a transgressive act of voyeurism disguised as scholarship. The book exposes the moral ambiguities inherent in telling someone else's story, especially when that person cannot speak for themselves.

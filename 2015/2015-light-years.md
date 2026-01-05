@@ -1,5 +1,5 @@
 # Light Years: The Extraordinary Story of Mankind's Fascination with Light
-**Authors**: Brian Clegg | **Year**: 2015
+**Authors**: Brian Clegg | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 "Light Years" is a captivating journey through humanity's 2,500-year quest to understand the nature of light, from ancient Greek philosophical speculations to cutting-edge quantum physics. Clegg weaves together the scientific discoveries, brilliant minds, and revolutionary technologies that have shaped our understanding of this fundamental phenomenon that powers life itself and potentially holds the key to the nature of reality.

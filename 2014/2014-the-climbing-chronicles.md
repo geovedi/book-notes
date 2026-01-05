@@ -1,6 +1,6 @@
 # The Climbing Chronicles
 
-**Authors**: Harry Parker, Compiled by John Parker | **Year**: 2014
+**Authors**: Harry Parker, Compiled by John Parker | **Year**: 2014 | **Category**: Health & Medicine
 
 ## Summary
 

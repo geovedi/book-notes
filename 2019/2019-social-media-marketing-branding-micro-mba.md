@@ -1,5 +1,6 @@
 # Social Media Marketing & Branding: The Micro MBA
 **Authors**: Ankit Srivastava | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 

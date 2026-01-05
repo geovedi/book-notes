@@ -1,5 +1,6 @@
 # Dream of the Red Chamber
 **Original Title**: 红楼梦 (Hónglóu Mèng) | **Author**: Cao Xueqin | **Year**: 18th century (mid-1700s)
+**Category**: Fiction & Literature
 
 ## Summary
 Dream of the Red Chamber is a masterpiece of Chinese literature that chronicles the rise and fall of the noble Jia family through the eyes of the sensitive, artistic young master Jia Baoyu. The novel weaves together a complex tapestry of love, destiny, and social commentary, centered around Baoyu's relationships with his cousins Lin Daiyu and Xue Baochai, against the backdrop of the family's luxurious Grand View Garden. Through dreams, visions, and meticulous attention to daily life, the book explores Buddhist and Taoist themes of illusion versus reality, the transient nature of worldly success, and the spiritual consequences of attachment.

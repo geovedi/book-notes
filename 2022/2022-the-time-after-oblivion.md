@@ -1,5 +1,5 @@
 # The Time After Oblivion
-**Authors**: Jonny Capps | **Year**: 2022
+**Authors**: Jonny Capps | **Year**: 2022 | **Category**: Fiction & Literature
 
 ## Summary
 "The Time After Oblivion" is a mythological fantasy that reimagines Greek gods and heroes in the modern world. The story begins with the Fates weaving their eternal work of measuring and cutting the threads of life, then transitions to ancient Greek heroes like Jason, Castor, Pollux, Hercules, and Orpheus battling mythical creatures. The narrative quickly shifts to reveal that the Olympian gods, led by Zeus, have been living in a parallel dimension for over two thousand years after losing a war against other pantheons. When ancient heroes start appearing in the modern world, including Hercules causing chaos in Cleveland, Zeus must confront the consequences of his long-lost son's actions while dealing with the mysterious death of Aphrodite and an unseen enemy threatening Olympus.

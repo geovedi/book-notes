@@ -1,5 +1,5 @@
 # The 5 Love Languages
-**Author**: Gary Chapman | **Year**: 2010
+**Author**: Gary Chapman | **Year**: 2010 | **Category**: Romance & Relationships
 
 ## Summary
 Dr. Gary Chapman reveals a revolutionary concept: every person speaks and understands love in their own "love language." Just as people have different native languages, we each have preferred ways of receiving and expressing love. When couples fail to speak each other's primary love language, their emotional "love tank" runs empty, leading to misunderstandings, conflict, and marital dissatisfaction. The secret to lasting love is learning to speak your partner's primary love language fluently and consistently.

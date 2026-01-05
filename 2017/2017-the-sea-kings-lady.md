@@ -1,5 +1,6 @@
 # The Sea King's Lady
 **Authors**: S.E. Smith | **Year**: 2017
+**Category**: Romance & Relationships
 
 ## Summary
 Jenny Ackerly is a school teacher who refuses to give up searching for her best friend Carly, who disappeared two years ago. During one of her searches along the Oregon coast, Jenny spots a young boy running into the freezing ocean. When the child doesn't resurface, Jenny's protective instincts take over and she dives in to save him, swimming deeper and farther than ever before until she's caught in a powerful undertow. When she resurfaces, she finds herself in a magical underwater world.

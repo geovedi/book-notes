@@ -1,5 +1,6 @@
 # The Innovator's Dilemma
 **Authors**: Clayton M. Christensen | **Year**: 1997
+**Category**: Business & Finance
 
 ## Summary
 "The Innovator's Dilemma" reveals a paradoxical business truth: the very management practices that make companies successful can also lead to their failure when faced with disruptive technologies. Christensen demonstrates through extensive research across multiple industries that well-managed companies excel at "sustaining innovations" (improvements that existing customers want) but systematically fail at "disruptive innovations" (cheaper, simpler technologies that initially serve new markets). These disruptive technologies eventually overtake established markets, leaving once-dominant companies behind.

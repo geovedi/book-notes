@@ -1,5 +1,5 @@
 # Anne of Green Gables
-**Authors**: L. M. Montgomery | **Year**: 2018 (adapted from 1908 original)
+**Authors**: L. M. Montgomery | **Year**: 2018 (adapted from 1908 original) | **Category**: Children & Young Adult
 
 ## Summary
 Anne of Green Gables tells the story of Anne Shirley, a spirited red-haired orphan who is mistakenly sent to live with elderly siblings Matthew and Marilla Cuthbert on their farm called Green Gables in Prince Edward Island, Canada. The Cuthberts had requested a boy to help with farm work, but instead receive the imaginative, talkative, and accident-prone 11-year-old Anne who transforms their quiet lives.

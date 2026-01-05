@@ -1,5 +1,6 @@
 # The Complete Short Stories of Virginia Woolf
 **Authors**: Virginia Woolf | **Year**: 2017 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 Virginia Woolf's complete short stories showcase her revolutionary literary techniques and profound psychological insights across 45 compact masterpieces. Written between 1917 and 1941, these stories represent her experimental approach to consciousness, time, and human perception. Each story serves as a laboratory for her innovative narrative methods, particularly her pioneering stream-of-consciousness technique that would influence modern literature for decades.

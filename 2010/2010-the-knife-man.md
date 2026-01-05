@@ -1,5 +1,5 @@
 # The Knife Man
-**Author**: Wendy Moore | **Year**: 2010
+**Author**: Wendy Moore | **Year**: 2010 | **Category**: Health & Medicine
 
 ## Summary
 "The Knife Man" reveals the extraordinary life of John Hunter, the Scottish surgeon who transformed medicine from superstition into science in 18th-century London. From his humble beginnings as a poorly educated farm boy to becoming the most renowned surgeon of his era, Hunter pioneered surgical techniques that would save countless lives. His insatiable curiosity led him to challenge medical dogma, conduct groundbreaking experiments, and build the world's most comprehensive anatomical collection. Yet Hunter's scientific obsession with understanding life often pushed the boundaries of morality, forcing him to procure bodies illegally and face public condemnation for his controversial methods.

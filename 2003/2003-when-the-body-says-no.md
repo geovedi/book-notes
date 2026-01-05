@@ -1,6 +1,6 @@
 # When the Body Says No
 **Original Title**: Wanneer je lichaam nee zegt
-**Author**: Gabor Maté | **Year**: 2003
+**Author**: Gabor Maté | **Year**: 2003 | **Category**: Health & Medicine
 
 ## Summary
 "When the Body Says No" explores the profound connection between emotional stress and physical illness, drawing on decades of medical practice and scientific research. Dr. Gabor Maté reveals how suppressed emotions, particularly from childhood experiences, can manifest as chronic diseases including autoimmune disorders, cancer, and neurological conditions. The book demonstrates that the mind and body are inseparable, and that our emotional patterns directly influence our physical health through complex physiological pathways.

@@ -1,6 +1,7 @@
 # Dom Casmurro
 **Original Title**: Dom Casmurro
 **Author**: Machado de Assis | **Year**: 1899
+**Category**: Fiction & Literature
 
 ## Summary
 Dom Casmurro is a groundbreaking psychological novel that tells the story of Bentinho Santiago, who narrates his life backward from old age, attempting to understand whether his wife Capitú was unfaithful to him with his best friend Escobar. The novel explores themes of jealousy, memory, and the unreliable nature of human perception through Bentinho's obsessive recounting of his past love affair and marriage.

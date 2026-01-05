@@ -1,5 +1,5 @@
 # True Wealth
-**Authors**: Kelly Wallace | **Year**: 2018
+**Authors**: Kelly Wallace | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "True Wealth" is a spiritual guide to reprogramming your subconscious mind for financial success. Wallace argues that true wealth encompasses more than just money—it includes health, relationships, and overall life satisfaction. The book reveals how our subconscious programming from childhood creates limiting beliefs about money that prevent us from achieving financial freedom.

@@ -1,6 +1,7 @@
 # Ulysses
 **Original Title**: Ulysses
 **Authors**: James Joyce | **Year**: 1922
+**Category**: Fiction & Literature
 
 ## Summary
 "Ulysses" chronicles a single day—June 16, 1904—in Dublin, following three central characters: Stephen Dedalus, a young teacher grappling with his mother's death and intellectual identity; Leopold Bloom, a middle-aged Jewish advertising canvasser wandering the city; and Molly Bloom, Leopold's wife and a concert singer. The novel mirrors Homer's "Odyssey" through these modern-day counterparts, with Stephen as Telemachus searching for a father figure, Bloom as Odysseus navigating his personal Ithaca, and Molly as Penelope awaiting her husband's return.

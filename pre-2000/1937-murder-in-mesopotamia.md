@@ -1,5 +1,6 @@
 # Murder in Mesopotamia
-**Authors**: Agatha Christie | **Year**: 1937 
+**Authors**: Agatha Christie | **Year**: 1937
+**Category**: Horror & Thriller 
 
 ## Summary
 When archaeologist Dr. Eric Leidner hires Nurse Amy Leatheran to care for his seemingly anxious wife Louise at an Iraqi dig site, she arrives at an expedition where everyone appears to adore the beautiful, charming Louise. Yet beneath the surface tension simmers, Louise suffers from terrifying nightmares and claims to have seen a mysterious face at her window. Two days after Amy's arrival, Louise is found brutally murdered in her locked room, having been bludgeoned to death. Hercule Poirot, traveling in the region, is summoned to solve what appears to be an impossible crime—until a second death reveals the horrifying truth.

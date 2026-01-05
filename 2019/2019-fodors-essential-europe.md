@@ -1,5 +1,6 @@
 # Fodor's Essential Europe
 **Authors**: Fodor's Travel Guides | **Year**: 2019
+**Category**: Travel
 
 ## Summary
 Fodor's Essential Europe is a comprehensive travel guide covering 21 European countries, offering both first-time visitors and seasoned travelers insider knowledge on the continent's most iconic destinations and hidden gems. This guide combines practical travel information with cultural context, historical insights, and curated recommendations to help travelers experience Europe's rich diversity—from ancient ruins to modern architectural marvels, from world-class museums to charming local cafés.

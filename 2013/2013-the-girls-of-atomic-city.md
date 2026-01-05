@@ -1,5 +1,5 @@
 # The Girls of Atomic City
-**Authors**: Denise Kiernan | **Year**: 2013
+**Authors**: Denise Kiernan | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 During World War II, the U.S. government secretly built a massive industrial complex in the hills of Tennessee, recruiting thousands of young women to work on a mysterious project. These women left their homes to work at Oak Ridge, a secret city that didn't appear on any map, where they performed classified tasks without knowing they were helping build the world's first atomic bomb. Through intimate portraits of several women, the book reveals how their daily lives, friendships, and sacrifices contributed to one of history's most significant scientific achievements while remaining completely unaware of its true purpose until the bombs were dropped on Japan.

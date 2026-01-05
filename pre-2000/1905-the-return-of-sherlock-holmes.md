@@ -1,5 +1,6 @@
 # The Return of Sherlock Holmes
 **Authors**: Sir Arthur Conan Doyle | **Year**: 1905
+**Category**: Horror & Thriller
 
 ## Summary
 "The Return of Sherlock Holmes" marks the triumphant revival of literature's greatest detective after his supposed death at Reichenbach Falls. This collection of 13 short stories begins with Holmes' shocking reappearance to Dr. Watson, revealing that his death was a ruse to escape the remaining members of Moriarty's criminal network. From the dramatic reunion in "The Adventure of the Empty House" to the intricate puzzles of international espionage in "The Adventure of the Second Stain," Holmes demonstrates that his deductive powers have only sharpened during his three-year absence.

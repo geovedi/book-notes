@@ -1,5 +1,6 @@
 # Betty Baird
 **Authors**: Anna Hamlin Weikel | **Year**: 1906
+**Category**: Children & Young Adult
 
 ## Summary
 Betty Baird, the fourteen-year-old daughter of a small-town Presbyterian minister, is sent away to The Pines, a fashionable boarding school for girls. Coming from a modest background in Weston, she faces initial ridicule and social exclusion from wealthier classmates who mock her old-fashioned clothes and provincial manners. Despite these challenges, Betty's spirited personality, quick wit, and genuine kindness gradually win over her peers. The story follows her three-year journey through boarding school life, chronicling her transformation from an insecure newcomer to a confident young woman who becomes valedictorian and leader of her class.

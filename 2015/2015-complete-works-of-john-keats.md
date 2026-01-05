@@ -1,5 +1,5 @@
 # Complete Works of John Keats
-**Authors**: John Keats | **Year**: 2015 (Delphi Classics Collection)
+**Authors**: John Keats | **Year**: 2015 (Delphi Classics Collection) | **Category**: Fiction & Literature
 
 ## Summary
 John Keats (1795-1821) was one of the second generation of Romantic poets who revolutionized English literature despite his tragically short life. This comprehensive collection spans his entire output, from early experiments to the immortal odes that cemented his reputation as a master of sensuous imagery and profound philosophical insight. Though he died at just 25, Keats produced some of the most celebrated poetry in the English language.

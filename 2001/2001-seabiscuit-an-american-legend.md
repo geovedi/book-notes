@@ -1,5 +1,5 @@
 # Seabiscuit: An American Legend
-**Authors**: Laura Hillenbrand | **Year**: 2001
+**Authors**: Laura Hillenbrand | **Year**: 2001 | **Category**: History & Biography
 
 ## Summary
 Set against the backdrop of the Great Depression, this extraordinary true story chronicles how three broken men—an automobile tycoon, a reclusive cowboy-trainer, and a half-blind jockey—came together to transform a small, lazy racehorse named Seabiscuit into an American cultural phenomenon. What began as a simple quest to win horse races evolved into something much deeper: a symbol of hope and resilience for a nation desperate for inspiration.

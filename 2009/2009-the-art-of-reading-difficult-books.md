@@ -1,6 +1,7 @@
 # The Art of Reading Difficult Books
 **Original Title**: 難解な本を読む技術 (光文社新書)
-**Authors**: Akinori Takada | **Year**: 2009 
+**Authors**: Akinori Takada | **Year**: 2009
+**Category**: Art & Creativity 
 
 ## Summary
 "The Art of Reading Difficult Books" presents reading as a technical skill that can be systematically learned and improved. Takada argues that reading is not a passive activity of receiving information, but an active practice of internalizing knowledge and thoughts from others. The book provides a structured methodology for tackling challenging philosophical and theoretical works that many readers find intimidating.

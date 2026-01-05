@@ -1,6 +1,7 @@
 # Peter Pan & Other Magical Adventures For Children
 **Original Title**: Peter Pan & Other Magical Adventures For Children - 10 Classic Fantasy Books (Illustrated Edition)
 **Author**: J. M. Barrie | **Year**: 2017
+**Category**: Children & Young Adult
 
 ## Summary
 This comprehensive collection brings together J.M. Barrie's most beloved magical works, centered around the iconic character Peter Pan—the boy who wouldn't grow up. The anthology spans multiple Peter Pan stories including "Peter Pan in Kensington Gardens," "Peter and Wendy" (the original novel that inspired the famous play), and "When Wendy Grew Up," alongside other magical tales like "The Little White Bird," "A Kiss for Cinderella," "Dear Brutus," and "Mary Rose."

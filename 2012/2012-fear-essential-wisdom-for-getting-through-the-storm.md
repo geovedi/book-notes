@@ -1,5 +1,6 @@
 # Fear: Essential Wisdom for Getting Through the Storm
 **Authors**: Thich Nhat Hanh | **Year**: 2012
+**Category**: Spirituality & Religion
 
 ## Summary
 In this profound guide to overcoming fear, renowned Zen master Thich Nhat Hanh teaches that fear is not something to be eliminated but rather understood and transformed through mindfulness. Drawing on Buddhist wisdom and personal experience, including encounters during the Vietnam War, Hanh reveals how our deepest fears often originate from birth trauma and childhood experiences, continuing to shape our adult lives unconsciously. The book presents a comprehensive path to fearlessness through present-moment awareness, compassionate self-talk, and community support.

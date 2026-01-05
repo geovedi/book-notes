@@ -1,5 +1,6 @@
 # Literary Indulgence
-**Authors**: Amanda Apthorpe | **Year**: 2017 
+**Authors**: Amanda Apthorpe | **Year**: 2017
+**Category**: Fiction & Literature 
 
 ## Summary
 "Literary Indulgence" is a compelling collection of three interconnected novellas that explore the complex journey of Dr. Dana, an obstetrician grappling with professional trauma, personal loss, and the search for healing. The stories traverse from Melbourne to Greece, England to Paris, examining how medical practitioners cope when saving lives becomes complicated by loss, and how professional identity can both sustain and destroy us.

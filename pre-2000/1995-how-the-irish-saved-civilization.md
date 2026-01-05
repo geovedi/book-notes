@@ -1,5 +1,6 @@
 # How the Irish Saved Civilization
 **Author**: Thomas Cahill | **Year**: 1995
+**Category**: History & Biography
 
 ## Summary
 This compelling historical narrative reveals one of the most overlooked turning points in Western history: how Irish monks and scribes single-handedly preserved classical civilization during the collapse of the Roman Empire. As barbarian tribes sacked cities and burned libraries across continental Europe in the 5th and 6th centuries, a newly Christianized Ireland—recently transformed from a warrior society of human sacrifice and tribal warfare—became the unlikely guardian of Greco-Roman literature, philosophy, and Christian theology. Through their monastic scriptoria and missionary zeal, these "White Martyrs" copied every manuscript they could find and carried this knowledge across Europe, re-founding civilization in the rubble of the old order.

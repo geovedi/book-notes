@@ -1,6 +1,7 @@
 # The Painkiller Empire
 **Original Title**: Het pijnstillerimperium
 **Authors**: Patrick Radden Keefe | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 "The Painkiller Empire" is a devastating investigative exposé of the Sackler family, the philanthropic dynasty behind Purdue Pharma and OxyContin. Patrick Radden Keefe reveals how this family of physicians and entrepreneurs built a $14 billion fortune by aggressively marketing a highly addictive opioid that triggered America's deadliest drug crisis. The book traces three generations of the Sackler family, from their humble beginnings to their rise as one of America's wealthiest philanthropic families, all while systematically downplaying OxyContin's addictive properties and obstructing accountability for the resulting epidemic.

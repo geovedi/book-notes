@@ -1,5 +1,6 @@
 # The Prince
 **Author**: Niccolò Machiavelli | **Year**: 1513
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Prince" is Machiavelli's groundbreaking treatise on political power and leadership, written during the Italian Renaissance as a practical guide for rulers. Unlike the idealistic political philosophy of his time, Machiavelli presents a starkly realistic approach to acquiring and maintaining political authority, based on his observations of historical and contemporary leaders. The work argues that effective leadership often requires actions that conventional morality would consider cruel or immoral, but which are necessary for the stability and security of the state.

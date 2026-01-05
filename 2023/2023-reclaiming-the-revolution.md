@@ -1,5 +1,6 @@
 # Reclaiming the Revolution
 **Authors**: Stephen Batber | **Year**: 2023
+**Category**: Technology & Computing
 
 ## Summary
 "Reclaiming the Revolution" examines how society can actively shape the Fourth Industrial Revolution rather than having it happen to us. The book argues that while automation, digitalization, and artificial intelligence are transforming our world as profoundly as the original Industrial Revolution did, we have the power to direct these changes through politics, policy, and public discourse.

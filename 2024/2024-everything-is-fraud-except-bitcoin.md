@@ -1,6 +1,7 @@
 # Everything is Fraud, Except Bitcoin: How the Money System Enslaves Us and Why Bitcoin Sets Us Free
 **Original Title**: Alles Betrug, außer Bitcoin!: Wie das Geldsystem uns versklavt und warum Bitcoin uns befreit
 **Author**: Dominik Schwarzer | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 This controversial German book argues that our entire financial system is built on fraud, with inflation being the greatest theft of all. The author presents a comprehensive critique of fiat currency, central banking, and the systematic exploitation of ordinary people through monetary manipulation. Schwarzer examines various levels of fraud in society—from individual scams to corporate deception to state-level monetary manipulation—arguing that Bitcoin represents the only honest alternative that can protect individuals from this pervasive exploitation. The book serves as both an expose of financial corruption and a passionate call to monetary revolution through Bitcoin adoption.

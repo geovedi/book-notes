@@ -1,6 +1,7 @@
 # Flourish: Finding Purpose in the Unknown
 
 **Authors**: Grace Wabuke Klein | **Year**: 2023
+**Category**: Spirituality & Religion
 
 ## Summary
 "Flourish" is a spiritual self-help book that presents a powerful framework for navigating life's challenging seasons through the metaphor of natural seasons—Fall, Winter, Spring, and Summer. Drawing from her personal experience of waiting over twenty years for marriage and finding love at forty-two, Grace Wabuke Klein offers readers a compassionate guide to finding purpose and growth in every phase of life, especially during difficult "winter" seasons of waiting, disappointment, and unanswered prayers.

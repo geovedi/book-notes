@@ -1,5 +1,5 @@
 # Eat This Book: A Year of Gorging and Glory on the Competitive Eating Circuit
-**Author**: Ryan Nerz | **Year**: 2006
+**Author**: Ryan Nerz | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 Eat This Book chronicles Ryan Nerz's unexpected journey from Ivy League graduate and struggling writer to becoming an emcee for the International Federation of Competitive Eating (IFOCE). What begins as a one-off gig hosting a meat pie eating contest in Louisiana transforms into a year-long immersion in the bizarre, fascinating, and surprisingly professional world of competitive eating. Nerz provides both an insider's view of this peculiar subculture and thoughtful commentary on American excess, entertainment, and the nature of sport.

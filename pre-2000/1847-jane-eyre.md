@@ -1,5 +1,6 @@
 # Jane Eyre
 **Authors**: Charlotte Brontë | **Year**: 1847
+**Category**: Romance & Relationships
 
 ## Summary
 Jane Eyre follows the journey of an orphaned young woman who overcomes a harsh childhood, discovers her own strength and independence, and finds love on her own terms. From her abusive upbringing at Gateshead to her education at Lowood School and her position as governess at Thornfield Hall, Jane maintains her moral integrity while navigating the rigid social constraints of Victorian England. The story culminates in her relationship with the brooding Mr. Rochester, whose dark secret threatens their future together.

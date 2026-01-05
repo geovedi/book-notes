@@ -1,5 +1,6 @@
 # Abigail Adams
 **Author**: Woody Holton | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 Woody Holton's groundbreaking biography reveals Abigail Adams not just as John Adams' wife and a Founding Mother, but as a savvy entrepreneur, economic activist, and pioneering feminist who used financial independence as a tool for women's empowerment. This meticulously researched portrait challenges traditional views by showing how Adams' business acumen and property management were not just practical necessities but deliberate acts of resistance against women's legal subjugation in 18th-century America.

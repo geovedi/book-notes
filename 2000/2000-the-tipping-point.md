@@ -1,5 +1,5 @@
 # The Tipping Point
-**Authors**: Malcolm Gladwell | **Year**: 2000
+**Authors**: Malcolm Gladwell | **Year**: 2000 | **Category**: Business & Finance
 
 ## Summary
 "The Tipping Point" explores how little things can make a big difference by examining social epidemics—the spread of ideas, products, messages, and behaviors through populations. Gladwell argues that changes happen not gradually but at one dramatic moment when something crosses a threshold and spreads like wildfire. This "tipping point" moment is when the unexpected becomes expected and radical change becomes possible.

@@ -1,5 +1,6 @@
 # Top 20 MS Excel VBA Simulations
 **Authors**: Andrei Besedin | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 This practical guide demystifies Monte Carlo simulation techniques using Excel VBA, transforming complex statistical concepts into accessible programming solutions. The book bridges the gap between theoretical risk analysis and practical implementation, showing readers how to model uncertainty in business decisions, investments, and financial scenarios without requiring specialized software. Besedin presents a hands-on approach that empowers Excel users to build sophisticated simulation models using tools they already have.

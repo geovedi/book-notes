@@ -1,6 +1,7 @@
 # Consciousness Is What I Am
 **Original Title**: Consciência é o que eu sou
 **Author**: Joel S. Goldsmith | **Year**: 1973
+**Category**: Spirituality & Religion
 
 ## Summary
 

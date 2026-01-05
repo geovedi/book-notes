@@ -1,5 +1,5 @@
 # Playing to Win
-**Authors**: A.G. Lafley, Roger L. Martin | **Year**: 2013
+**Authors**: A.G. Lafley, Roger L. Martin | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 "Playing to Win" demystifies strategy by presenting it as a structured approach to making clear, tough choices rather than a mysterious art form. Lafley, former CEO of Procter & Gamble, and Martin, renowned strategy expert, argue that strategy is simply an integrated set of five choices that uniquely position a company to create sustainable competitive advantage. The book provides a practical framework for strategic thinking using real-world examples from P&G's transformation and other successful companies.

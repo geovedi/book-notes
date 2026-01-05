@@ -1,5 +1,6 @@
 # Confident Cloud
 **Authors**: Adora Nwodo | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "Confident Cloud" is a comprehensive guide that demystifies cloud computing by breaking down complex technical concepts into accessible, real-world examples. The book serves as a one-stop resource for understanding cloud computing fundamentals, from basic concepts to advanced implementations. Nwodo uses engaging analogies, particularly comparing cloud computing to a restaurant where skilled chefs handle all preparations while customers simply enjoy the service.

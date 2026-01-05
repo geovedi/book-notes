@@ -1,5 +1,6 @@
 # Slouching Towards Bethlehem
 **Author**: Joan Didion | **Year**: 1968
+**Category**: Fiction & Literature
 
 ## Summary
 Joan Didion's landmark essay collection captures America's social unraveling in the 1960s, particularly through the lens of California where the promised dream curdled into something darker. With precise, clinical prose and unflinching observation, Didion documents the disconnect between America's self-image and its reality, from the Haight-Ashbury hippies to suburban housewives turned murderers. She finds the center not holding, the social fabric fraying, and the gap between narrative and truth widening into a chasm.

@@ -1,6 +1,6 @@
 # 52 Ways I Practice: A Practical Guide
 **Original Title**: 52 x ICH - Praxisbuch
-**Authors**: Birgit Schulze, Irmtraud Kauschat | **Year**: 2018
+**Authors**: Birgit Schulze, Irmtraud Kauschat | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 "52 Ways I Practice" is a comprehensive German workbook centered on Nonviolent Communication (GFK) principles, offering 52 practical exercises for developing self-empathy, emotional awareness, and authentic connection. Based on Marshall B. Rosenberg's groundbreaking work, this book moves beyond theoretical knowledge to provide experiential practices that help readers transform their inner landscape and outer relationships. The authors, both experienced GFK trainers, emphasize that authentic communication stems from internal work - particularly self-empathy and understanding our own needs, feelings, and triggers.

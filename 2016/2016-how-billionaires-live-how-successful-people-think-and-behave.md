@@ -1,5 +1,5 @@
 # How Billionaires Live: How Successful People Think and Behave
-**Authors**: Samuel River | **Year**: 2016
+**Authors**: Samuel River | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This book reveals the counterintuitive mindset patterns and strategic approaches that separate billionaires from the masses. Through personal experiences and observations, River demonstrates how successful people think differently about time, money, relationships, and opportunities. The core premise is that wealth isn't just about making money—it's about adopting a completely different paradigm for living and thinking.

@@ -1,5 +1,6 @@
 # The Elohim, Zecharia Sitchin, Pyramids and Christopher Dunn
 **Authors**: Edmund Meadows | **Year**: 1999
+**Category**: Spirituality & Religion
 
 ## Summary
 This provocative work combines ancient astronaut theory with remote viewing to explore claims about the Elohim (biblical gods) as extraterrestrial beings who genetically engineered humanity. Drawing from Zecharia Sitchin's translations of Sumerian texts and Christopher Dunn's engineering analysis of the Great Pyramid, the author presents a controversial alternative history of human civilization and technological development.

@@ -1,5 +1,6 @@
 # The Everafter Wish
 **Authors**: Rachel Morgan | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In a world where fae, vampires, and shifters coexist with humans, Elle has spent years enslaved to her cruel stepmother by a magical slave charm. Her only hope for freedom lies in completing an ancient quest that grants humans magic—something the powerful fae king has gone to great lengths to keep secret. When Elle discovers she can obtain magic, she becomes a target of King Belaric, who will stop at nothing to preserve fae dominance by burying the truth that humans are magical equals.

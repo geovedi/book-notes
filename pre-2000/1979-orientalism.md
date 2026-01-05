@@ -1,5 +1,6 @@
 # Orientalism
 **Author**: Edward W. Said | **Year**: 1979
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Orientalism" is a groundbreaking critique of how Western societies have imagined, studied, and dominated the "Orient" (primarily the Middle East, Asia, and North Africa). Said argues that Orientalism is not just an academic field but a powerful discourse that constructs the East as exotic, backward, and inferior to the West—thereby justifying colonialism and cultural dominance.

@@ -1,5 +1,5 @@
 # How Chance and Stupidity Have Changed History
-**Authors**: Erik Durschmied | **Year**: 2016
+**Authors**: Erik Durschmied | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 Historical events rarely unfold as planned. Instead of being shaped by grand strategy or military genius, history is often decided by small, unpredictable moments—what author and war correspondent Erik Durschmied calls "hinge factors." These are the seemingly insignificant events that alter the course of battles, wars, and entire civilizations through sheer chance, human error, or unexpected stupidity. From a wooden horse at Troy to a misplaced cigar at Antietam, Durschmied argues that history's most significant turning points frequently hinge on accidents, mistakes, and random occurrences rather than deliberate design.

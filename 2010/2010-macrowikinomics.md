@@ -1,5 +1,5 @@
 # Macrowikinomics: Rebooting Business and the World
-**Authors**: Don Tapscott & Anthony D. Williams | **Year**: 2010
+**Authors**: Don Tapscott & Anthony D. Williams | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 Macrowikinomics expands on the authors' previous work "Wikinomics" to demonstrate how mass collaboration is transforming not just business, but every sector of society. The book argues that we're at a critical turning point in history where traditional industrial-age institutions are failing and a new model based on networked intelligence, openness, and collaboration is emerging. Through compelling case studies ranging from disaster relief in Haiti to open-source automotive design, the authors show how the principles of mass collaboration can solve complex global problems and create more prosperous, just, and sustainable societies.

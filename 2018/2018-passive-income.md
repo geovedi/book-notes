@@ -1,5 +1,5 @@
 # Passive Income: A Beginner's Guide to Becoming a Pro in Making Passive Income
-**Authors**: Larry Ellison | **Year**: 2018
+**Authors**: Larry Ellison | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the concept of passive income and provides actionable strategies for creating multiple income streams that work for you, not against you. The book challenges the traditional 9-to-5 mindset and shows how anyone can build financial security through strategic investments of time and money, ultimately achieving what the author calls "lifestyle design" – the freedom to schedule your time based on what you enjoy rather than what you must do to survive.

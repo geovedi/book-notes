@@ -1,6 +1,7 @@
 # The Cosmic Egg Purana
 **Original Title**: ब्रह्माण्ड पुराण (Brahmanda Purana)
 **Author**: Bibek Debroy (Translator) | **Year**: c. 400-600 CE
+**Category**: Spirituality & Religion
 
 ## Summary
 The Brahmanda Purana, or "Cosmic Egg Purana," is one of the eighteen major Puranas of Hinduism. This ancient text serves as a comprehensive encyclopedia of cosmic knowledge, covering creation mythology, cosmology, geography, astronomy, genealogy of gods and kings, and philosophical teachings. The text is structured as a dialogue between Suta (the narrator) and assembled sages in the Naimisha forest, who seek to understand the nature of the universe and their place within it.

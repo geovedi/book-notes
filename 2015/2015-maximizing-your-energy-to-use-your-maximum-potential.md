@@ -1,5 +1,5 @@
 # Maximizing Your Energy To Use Your Maximum Potential
-**Authors**: Nicky J. Westen | **Year**: 2015
+**Authors**: Nicky J. Westen | **Year**: 2015 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide reveals how to achieve peak performance by understanding the critical relationship between stress and recovery across four energy systems: physical, emotional, mental, and spiritual. The book argues that sustainable success comes from deliberately balancing challenges with regeneration, rather than constantly pushing yourself or taking it too easy. By identifying your personal energy rhythms and creating systematic renewal practices, you can consistently perform at your highest level without burning out.

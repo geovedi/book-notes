@@ -1,5 +1,6 @@
 # The Jungle Book
 **Authors**: Rudyard Kipling | **Year**: 1894
+**Category**: Children & Young Adult
 
 ## Summary
 "The Jungle Book" is a collection of short stories set in the Indian jungle, primarily following the adventures of Mowgli, a "man-cub" raised by wolves. The central story chronicles Mowgli's upbringing among wolves, his education in the Law of the Jungle from Baloo the bear and Bagheera the panther, his conflict with the tiger Shere Khan, and ultimately his journey back to human civilization. The collection also includes standalone stories about other animals, including Kotick the white seal and Rikki-Tikki-Tavi the mongoose.

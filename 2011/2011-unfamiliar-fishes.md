@@ -1,5 +1,5 @@
 # Unfamiliar Fishes
-**Author**: Sarah Vowell | **Year**: 2011
+**Author**: Sarah Vowell | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 Sarah Vowell's "Unfamiliar Fishes" is a witty, deeply researched exploration of how Hawaii transformed from an independent kingdom into America's 50th state. Spanning the 78 years between the arrival of New England missionaries in 1820 and formal annexation in 1898, Vowell uncovers the complex story of Americanization through her signature blend of historical rigor and personal commentary.

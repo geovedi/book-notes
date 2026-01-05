@@ -1,5 +1,6 @@
 # The Omnivore's Dilemma
 **Author**: Michael Pollan | **Year**: 2007
+**Category**: Health & Medicine
 
 ## Summary
 "The Omnivore's Dilemma" explores the fundamental question of what we should have for dinner by tracing three different food chains that sustain modern humans: the industrial, the organic, and the hunter-gatherer. Pollan argues that Americans have developed a "national eating disorder" marked by confusion and anxiety about food choices, largely because we've lost our cultural connection to eating traditions and understanding of where our food comes from. The book reveals how industrial agriculture has fundamentally changed our relationship with food, often with hidden costs to our health, environment, and ethical values.

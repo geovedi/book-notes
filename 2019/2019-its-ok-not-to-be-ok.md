@@ -1,5 +1,6 @@
 # It's OK Not to Be OK
 **Authors**: Claire Chamberlain | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 This compassionate guide validates that experiencing mental health struggles is normal and human. The book provides practical strategies for self-care during difficult mental health periods while encouraging professional help when needed. It emphasizes that mental health exists on a spectrum, affecting one in four people, and offers gentle approaches to both mind and body care.

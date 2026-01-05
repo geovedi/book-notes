@@ -1,5 +1,6 @@
 # Knowledge in a Nutshell: Quantum Physics
 **Authors**: Sten Odenwald | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 "Knowledge in a Nutshell: Quantum Physics" is a comprehensive yet accessible exploration of one of science's most profound and mind-bending subjects. This book takes readers from the ancient Greek concept of atoms to the cutting-edge theories of quantum gravity and string theory that define modern physics. The author masterfully navigates through the revolutionary discoveries that shattered our classical understanding of reality, revealing a universe where particles exist as probability waves, observation creates reality, and the very fabric of spacetime emerges from quantum processes.

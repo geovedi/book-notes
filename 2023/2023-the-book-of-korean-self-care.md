@@ -1,6 +1,7 @@
 # 2023-the-book-of-korean-self-care.md
 **Original Title**: The Book of Korean Self-Care: K-beauty, healing foods, traditional medicine, mindfulness, and much more
 **Authors**: Isa Kujawski | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 "The Book of Korean Self-Care" is a comprehensive guide to Korean wellness practices that bridge ancient traditions with modern lifestyles. Written by Isa Kujawski, a Korean-American functional nutritionist and Navy veteran, the book presents Korean self-care as a holistic system encompassing beauty routines, healing foods, traditional medicine, nature connection, and mindfulness practices.

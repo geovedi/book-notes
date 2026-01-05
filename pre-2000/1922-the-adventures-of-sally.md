@@ -1,5 +1,6 @@
 # The Adventures of Sally
 **Authors**: P. G. Wodehouse | **Year**: 1922
+**Category**: Fiction & Literature
 
 ## Summary
 "The Adventures of Sally" is a delightful comic romance that follows Sally Nicholas, a charming and spirited young woman who unexpectedly inherits $25,000. Working as a waitress at a New York boarding house, Sally's life takes an adventurous turn when she decides to use her newfound wealth to travel to Europe. Her journey becomes a whirlwind of romantic complications, financial misadventures, and self-discovery.

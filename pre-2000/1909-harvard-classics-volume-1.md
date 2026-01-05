@@ -1,5 +1,6 @@
 # Harvard Classics Volume 1: Three Foundational American Voices
 **Authors**: Benjamin Franklin, John Woolman, William Penn | **Year**: 1909 (collection)
+**Category**: History & Biography
 
 ## Summary
 This landmark volume gathers three quintessential American works that shaped the nation's moral and philosophical foundation. Benjamin Franklin's practical autobiography reveals his systematic approach to self-improvement through thirteen virtues, while John Woolman's journal offers a deeply spiritual Quaker perspective on ethics and social justice. William Penn's "Fruits of Solitude" provides pithy wisdom on human conduct and righteous living. Together, these works represent the convergence of practical reason, spiritual devotion, and social conscience that defined early American character.

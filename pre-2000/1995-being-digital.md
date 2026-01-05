@@ -1,5 +1,6 @@
 # Being Digital
 **Authors**: Nicholas Negroponte | **Year**: 1995
+**Category**: Technology & Computing
 
 ## Summary
 "Being Digital" is a prophetic exploration of how digital technology would fundamentally transform society, media, and human interaction. Written in 1995 by the founding director of MIT's Media Lab, the book anticipated the digital revolution with remarkable accuracy, from the rise of the Internet to the transformation of entertainment and communication. Negroponte introduces the foundational distinction between "bits" (digital information) and "atoms" (physical matter), arguing that this shift would reshape every aspect of modern life.

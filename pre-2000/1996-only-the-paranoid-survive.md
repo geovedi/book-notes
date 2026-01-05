@@ -1,5 +1,6 @@
 # Only the Paranoid Survive
 **Author**: Andrew S. Grove | **Year**: 1996
+**Category**: Business & Finance
 
 ## Summary
 "Only the Paranoid Survive" reveals how fundamental changes in business environment—called strategic inflection points—can make or break companies. Grove, former CEO of Intel, argues that these moments represent a 10X change in competitive forces that transforms the very rules of business. What worked before becomes irrelevant, and companies must adapt or face extinction. The book draws from Grove's experience navigating Intel through dramatic industry shifts, particularly the transition from memory chips to microprocessors and the famous Pentium processor crisis.

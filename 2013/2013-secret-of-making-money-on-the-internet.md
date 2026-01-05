@@ -1,5 +1,5 @@
 # Secret of Making Money on the Internet
-**Authors**: George Sheema | **Year**: 2013
+**Authors**: George Sheema | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the world of online business and digital entrepreneurship, offering a comprehensive roadmap for anyone looking to generate income through internet-based ventures. The book serves as both an introduction to various online business models and a strategic framework for building sustainable digital enterprises.

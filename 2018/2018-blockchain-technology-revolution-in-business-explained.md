@@ -1,5 +1,6 @@
 # Blockchain Technology Revolution in Business Explained
 **Authors**: Abiprod | **Year**: 2018
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide demystifies blockchain technology and explains its revolutionary potential to transform business operations across multiple industries. The book traces blockchain's origins from cryptocurrency solutions to its broader applications in eliminating intermediaries, enhancing security, and creating new paradigms for digital trust.

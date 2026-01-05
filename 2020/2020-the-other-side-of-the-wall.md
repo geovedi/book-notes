@@ -1,6 +1,7 @@
 # The Other Side of the Wall
 **Original Title**: The Other Side of the Wall: A Palestinian Christian Narrative of Lament and Hope
 **Authors**: Munther Isaac | **Year**: 2020
+**Category**: Spirituality & Religion
 
 ## Summary
 "The Other Side of the Wall" is a powerful theological and personal narrative from Palestinian Christian pastor Munther Isaac, who writes from Bethlehem about life under Israeli occupation. Through his journey as a Palestinian Arab Christian, Isaac challenges Western Christian theology—particularly Christian Zionism—that has been used to justify the marginalization and displacement of Palestinians. He presents a "theology from behind the wall" that emphasizes solidarity with the oppressed, biblical justice, and a vision of shared land where Israelis and Palestinians can live together in peace and dignity.

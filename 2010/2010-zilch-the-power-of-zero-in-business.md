@@ -1,5 +1,5 @@
 # Zilch: The Power of Zero in Business
-**Author**: Nancy Lublin | **Year**: 2010
+**Author**: Nancy Lublin | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 Zilch reveals the counterintuitive wisdom that not-for-profit organizations have mastered: doing more with less isn't a limitation—it's a competitive advantage. Nancy Lublin, CEO of DoSomething.org and founder of Dress for Success, demonstrates how businesses facing budget cuts, resource constraints, and market pressures can learn from not-for-profits that operate with "zilch" every day. The book presents eleven powerful principles that show how zero resources can drive creativity, innovation, and remarkable results.

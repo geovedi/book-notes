@@ -1,5 +1,6 @@
 # The Ego and Its Own
 **Original Title**: Der Einzige und sein Eigentum
+**Category**: Philosophy & Critical Thinking
 **Authors**: Max Stirner | **Year**: 1844 
 
 ## Summary

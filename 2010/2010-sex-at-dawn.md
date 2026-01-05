@@ -1,5 +1,5 @@
 # Sex at Dawn
-**Authors**: Christopher Ryan, PhD, and Cacilda Jethá, MD | **Year**: 2010
+**Authors**: Christopher Ryan, PhD, and Cacilda Jethá, MD | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Sex at Dawn" presents a revolutionary challenge to conventional wisdom about human sexuality. The authors argue that humans evolved as highly social, promiscuous beings in prehistoric hunter-gatherer societies, not as monogamous pairs as commonly believed. They contend that many modern sexual difficulties—infidelity, declining passion, sexual jealousy—stem from the mismatch between our evolved sexual psychology and the cultural constraints imposed since the advent of agriculture just 10,000 years ago.

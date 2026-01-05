@@ -1,5 +1,5 @@
 # Spice: The History of a Temptation
-**Authors**: Jack Turner | **Year**: 2005
+**Authors**: Jack Turner | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 "Spice: The History of a Temptation" explores the profound and often paradoxical relationship between humanity and spices throughout history. Turner reveals that the quest for spices was far more than a culinary endeavor—it was a driving force behind exploration, empire-building, medicine, religion, and even sexuality. The book challenges the modern assumption that medieval Europeans simply used spices to mask the taste of rotten food, revealing instead a complex web of cultural, medical, magical, and erotic associations that made these aromatic substances the most coveted commodities on Earth for thousands of years.

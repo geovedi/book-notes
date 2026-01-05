@@ -1,5 +1,6 @@
 # The Wealth of Nations & The Theory of Moral Sentiments
 **Authors**: Adam Smith | **Year**: 1776 (Wealth of Nations), 1759 (Theory of Moral Sentiments)
+**Category**: Business & Finance
 
 ## Summary
 Adam Smith's twin masterpieces form the foundation of both modern economics and moral philosophy. "The Wealth of Nations" introduced groundbreaking concepts like division of labor, free markets, and the famous "invisible hand" that guides economic activity toward collective benefit without central planning. Meanwhile, "The Theory of Moral Sentiments" explores the psychological foundations of human morality, arguing that sympathy and the "impartial spectator" within us guide ethical behavior.

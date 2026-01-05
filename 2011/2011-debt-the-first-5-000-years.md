@@ -1,5 +1,5 @@
 # Debt: The First 5,000 Years
-**Author**: David Graeber | **Year**: 2011
+**Author**: David Graeber | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 David Graeber dismantles the foundational myths of economics, revealing that credit systems preceded physical currency by thousands of years. The conventional "barter economy" story taught in economics textbooks never existed - humans in small communities have always used credit and trust systems. Graeber traces 5,000 years of financial history to show how debt, morality, and social structures have always been intertwined, demonstrating that our current understanding of money is historically recent and fundamentally flawed.

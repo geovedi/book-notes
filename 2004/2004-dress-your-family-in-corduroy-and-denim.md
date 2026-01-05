@@ -1,5 +1,5 @@
 # Dress Your Family in Corduroy and Denim
-**Authors**: David Sedaris | **Year**: 2004
+**Authors**: David Sedaris | **Year**: 2004 | **Category**: Fiction & Literature
 
 ## Summary
 David Sedaris's "Dress Your Family in Corduroy and Denim" is a collection of autobiographical essays that transforms ordinary family life, suburban mishaps, and social awkwardness into profound comedic wisdom. Through his signature blend of self-deprecation and sharp observation, Sedaris explores the eccentricities of his unconventional family, his own awkward coming-of-age experiences, and the absurdities of American suburban life. Each essay serves as both entertainment and insight, finding universal truths in the most peculiar family dynamics and social encounters.

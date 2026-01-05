@@ -1,5 +1,5 @@
 # The Ultimate Guide to Workplace Conflict Resolution
-**Authors**: Aiden Sisko | **Year**: 2015
+**Authors**: Aiden Sisko | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 This practical guide transforms workplace conflicts from destructive forces into opportunities for growth and improved productivity. Rather than viewing disagreements as problems to be eliminated, the book presents conflict as a natural element of business that can be harnessed for positive change when managed effectively. The author provides managers with actionable strategies to create trust-based environments where conflicts are resolved constructively.

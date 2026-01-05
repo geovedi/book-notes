@@ -1,5 +1,6 @@
 # Marius the Epicurean
 **Authors**: Walter Horatio Pater | **Year**: 1885
+**Category**: Fiction & Literature
 
 ## Summary
 "Marius the Epicurean" is a philosophical novel that traces the spiritual and intellectual journey of a young Roman man, Marius, during the reign of Emperor Marcus Aurelius in the 2nd century AD. Born into a traditional Roman family with deep religious roots, Marius grows up in the countryside surrounded by the ancient religious practices of "Numa's religion." After his mother's death and his education in Pisa, where he forms a deep friendship with the brilliant but troubled Flavian, Marius embarks on a philosophical quest for truth and meaning.

@@ -1,5 +1,5 @@
 # One Up On Wall Street
-**Authors**: Peter Lynch, John Rothchild | **Year**: 2000
+**Authors**: Peter Lynch, John Rothchild | **Year**: 2000 | **Category**: Business & Finance
 
 ## Summary
 Peter Lynch, legendary manager of Fidelity's Magellan Fund, reveals how ordinary investors can beat Wall Street professionals by leveraging their everyday experiences. The core thesis: average people can spot promising companies before analysts do simply by observing the world around them—from shopping malls to workplaces. This "amateur's edge" helps investors find "tenbaggers" (stocks that appreciate 10x or more) by investing in businesses they understand.

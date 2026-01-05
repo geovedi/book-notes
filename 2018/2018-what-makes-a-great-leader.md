@@ -1,5 +1,5 @@
 # What Makes a Great Leader
-**Authors**: Alecu Vlad | **Year**: 2018
+**Authors**: Alecu Vlad | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "What Makes a Great Leader" is a practical leadership guide that challenges traditional notions about who can be a leader and what effective leadership looks like. The book argues that leadership isn't reserved for corporate executives or military generals but is a fundamental skill everyone needs in their daily interactions. Through real-world examples and actionable frameworks, the author demonstrates that leadership is about relationships, credibility, and doing the right thing—regardless of your position or title.

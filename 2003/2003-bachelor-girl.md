@@ -1,5 +1,5 @@
 # Bachelor Girl
-**Authors**: Betsy Israel | **Year**: 2003
+**Authors**: Betsy Israel | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 "Bachelor Girl" is a groundbreaking social history that traces 100 years of single women in American society, from the Victorian era's "redundant women" to today's " Sex and the City" singles. Israel combines extensive research with personal narrative to reveal how single women have consistently challenged social norms, faced cultural stigma, and reshaped definitions of female independence.

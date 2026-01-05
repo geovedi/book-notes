@@ -1,5 +1,6 @@
 # The Forsyte Saga Complete Novels
 **Authors**: John Galsworthy | **Year**: 1922 (collected edition)
+**Category**: Fiction & Literature
 
 ## Summary
 The Forsyte Saga chronicles the lives of an upper-middle-class English family from the Victorian era through World War I and into the 1920s. At its heart is Soames Forsyte, a man obsessed with ownership—of property, art, and people—whose marriage to the beautiful but unloving Irene sets in motion a multigenerational drama of passion, betrayal, and social transformation.

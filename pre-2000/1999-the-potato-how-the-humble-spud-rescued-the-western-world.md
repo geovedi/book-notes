@@ -1,5 +1,6 @@
 # The Potato: How the Humble Spud Rescued the Western World
 **Authors**: Larry Zuckerman | **Year**: 1999
+**Category**: History & Biography
 
 ## Summary
 Larry Zuckerman reveals how one humble vegetable fundamentally reshaped Western civilization. The potato wasn't just food—it was a transformative force that enabled population explosions, fueled industrial revolutions, liberated women's labor, and created modern eating habits. Despite being initially feared, mistrusted, and ridiculed across Europe, this Andean tuber eventually became so essential that without it, "daily existence would have been unrecognizable."

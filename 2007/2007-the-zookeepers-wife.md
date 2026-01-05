@@ -1,5 +1,6 @@
 # The Zookeeper's Wife
 **Author**: Diane Ackerman | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 "The Zookeeper's Wife" tells the remarkable true story of Jan and Antonina Zabinski, Christian zookeepers at the Warsaw Zoo who saved over 300 Jewish people during the Holocaust by hiding them in their villa and using animal enclosures as cover. Set against the backdrop of Nazi-occupied Poland, where helping Jews was punishable by death, the narrative explores how ordinary people became extraordinary heroes through their compassion and courage.

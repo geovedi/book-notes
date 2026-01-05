@@ -1,5 +1,5 @@
 # My Life on the Road
-**Authors**: Gloria Steinem | **Year**: 2015
+**Authors**: Gloria Steinem | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 Gloria Steinem's memoir is a captivating journey through decades of travel, activism, and personal growth that shaped modern feminism. Rather than a traditional chronological autobiography, Steinem organizes her life around the theme of movement - both literal and metaphorical. The book reveals how her constant travels across America, from college campuses to small towns, from political rallies to intimate conversations, became the foundation of her understanding of social change and community-building. Through encounters with ordinary people and fellow activists, Steinem discovered that real transformation happens not in grand gestures but in the cumulative power of listening, connecting, and creating spaces where people can share their stories.

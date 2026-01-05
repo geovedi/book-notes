@@ -1,5 +1,6 @@
 # The Sandman
 **Original Title**: Der Sandmann
+**Category**: Fiction & Literature
 **Author**: E.T.A. Hoffmann | **Year**: 1844
 
 ## Summary

@@ -1,5 +1,5 @@
 # 7 Essential Financial Knowledge To Keep You Afloat
-**Authors**: Dr Ben Watts | **Year**: 2014
+**Authors**: Dr Ben Watts | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 This practical financial guide presents seven fundamental principles for achieving and maintaining financial stability in an unpredictable world. Dr. Ben Watts distills decades of financial wisdom into actionable strategies designed to prevent financial ruin and build lasting wealth. The book addresses common financial pitfalls that plague many individuals, offering straightforward solutions that anyone can implement regardless of their current financial situation.

@@ -1,6 +1,6 @@
 # Impossible, Possible and Improbable
 **Original Title**: Impossible, Possible and Improbable
-**Authors**: John Gribbin | **Year**: 2022
+**Authors**: John Gribbin | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "Impossible, Possible and Improbable" is a collection of 21 essays that brings together John Gribbin's trilogy of scientific explorations: "Six Impossible Things" (quantum physics), "Seven Pillars of Science" (life sciences), and "Eight Improbable Possibilities" (cosmology and unexpected scientific discoveries). The title references Arthur Conan Doyle's famous Sherlock Holmes quote: "When you have excluded the impossible, whatever remains, however improbable, must be the truth."

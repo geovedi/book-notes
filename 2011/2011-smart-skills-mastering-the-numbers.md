@@ -1,5 +1,5 @@
 # Smart Skills: Mastering the Numbers
-**Authors**: Anne Hawkins | **Year**: 2011
+**Authors**: Anne Hawkins | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "Smart Skills: Mastering the Numbers" is a practical financial literacy guide designed for non-accountants who need to understand business financials. Written with remarkable clarity, this book demystifies accounting jargon and explains how financial statements are compiled, what they reveal about business performance, and how to use this knowledge to make better decisions. The author walks the tightrope between oversimplification and technical detail, providing just enough depth for entrepreneurs, managers, and consultants to gain confidence in discussing and analyzing financial matters.

@@ -1,5 +1,5 @@
 # Smart Europe
-**Authors**: Jeremy Rifkin | **Year**: 2018
+**Authors**: Jeremy Rifkin | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 Smart Europe presents a visionary roadmap for Europe's transformation into a high-tech green digital economy through the Third Industrial Revolution. This economic paradigm shift is built on three interconnected pillars: a digitalized Communication Internet, a digitalized Renewable Energy Internet, and a digitalized Automated Mobility Internet—all operating on an Internet of Things infrastructure.

@@ -1,5 +1,6 @@
 # Design of a Spacecraft with Electromagnetic Fields Propulsion
 **Authors**: Anton Berhulov | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 This technical paper presents a groundbreaking design for a spacecraft propelled by electromagnetic fields from the Solar System and Milky Way Galaxy. The author introduces a modified magnetic motor design capable of achieving 0.05g acceleration in any direction within outer space while maintaining acceptable current strength levels.

@@ -1,6 +1,7 @@
 # Shamanism: Ancient Ecstatic Techniques
 **Original Title**: 萨满教: 古老的入迷术 (Sàmǎnjiào: Gǔlǎo de rùmí shù)
 **Author**: Mircea Eliade | **Year**: 1951
+**Category**: Spirituality & Religion
 
 ## Summary
 

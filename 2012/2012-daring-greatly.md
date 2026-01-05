@@ -1,5 +1,6 @@
 # Daring Greatly
 **Authors**: Brené Brown, Ph.D., LMSW | **Year**: 2012
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Daring Greatly" presents a revolutionary approach to vulnerability that transforms it from perceived weakness into the very foundation of courage, connection, and meaningful living. Based on over a decade of research, Brené Brown demonstrates that vulnerability is not optional—it's our only choice is how we engage with it. The book reveals how embracing uncertainty, risk, and emotional exposure leads to more authentic relationships, creative fulfillment, and professional success.

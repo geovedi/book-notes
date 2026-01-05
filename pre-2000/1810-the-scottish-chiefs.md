@@ -1,5 +1,6 @@
 # The Scottish Chiefs
 **Original Authors**: Jane Porter | **Year**: 1810
+**Category**: Fiction & Literature
 
 ## Summary
 "The Scottish Chiefs" is a historical romance novel set in 13th-century Scotland during the Wars of Scottish Independence. The story opens in the summer of 1296, following Scotland's devastating defeat and submission to English rule under King Edward I. The narrative centers on William Wallace, a Scottish nobleman who, unlike many of his countrymen, refuses to accept English domination and chooses exile in the glen of Ellerslie rather than bend the knee to the usurper.

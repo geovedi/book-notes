@@ -1,5 +1,6 @@
 # Empire of Pain: The Secret History of the Sackler Dynasty
 **Author**: Patrick Radden Keefe | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 Empire of Pain is a gripping investigation into the Sackler family, the dynasty behind Purdue Pharma and OxyContin, whose aggressive marketing and deceptive practices fueled America's devastating opioid epidemic. The book traces three generations of the Sackler family from their humble beginnings in Brooklyn to becoming billionaire philanthropists, revealing how they built their fortune through pioneering pharmaceutical marketing techniques and eventually unleashed one of the most deadly drug crises in American history.

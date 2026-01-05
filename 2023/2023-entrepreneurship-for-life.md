@@ -1,5 +1,6 @@
 # Entrepreneurship for Life
 **Authors**: Giovanni Rigters | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "Entrepreneurship for Life" is a comprehensive guide that demystifies the entrepreneurial journey, presenting it not just as a career path but as a lifelong mindset. The book argues that entrepreneurship is fundamentally about seeing the world differently—identifying opportunities where others see problems, embracing calculated risks, and persisting through inevitable setbacks. Rigters presents entrepreneurship as accessible to anyone willing to develop the right mental framework, regardless of their background or current circumstances.

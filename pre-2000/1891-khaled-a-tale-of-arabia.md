@@ -1,5 +1,6 @@
 # Khaled: A Tale of Arabia
 **Authors**: Francis Marion Crawford | **Year**: 1891
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Khaled, a genie (jinn) who converted to Islam, seeks to become mortal to win the hand of Zehowah, the beautiful and virtuous daughter of the Sultan of Nejed. After killing an Indian prince who planned to deceive Zehowah with false conversion to Islam, Khaled stands before Asrael, the Angel of Death, and petitions to be written into the Book of Life. Granted mortality but not yet a soul, Khaled must travel through the Arabian desert to reach Riad, where he has been commanded by Allah to marry Zehowah. However, he faces a crucial condition: he will only receive an immortal soul if Zehowah comes to love him truly.

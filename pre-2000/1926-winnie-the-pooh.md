@@ -1,5 +1,6 @@
 # Winnie-the-Pooh
 **Authors**: A.A. Milne | **Year**: 1926
+**Category**: Children & Young Adult
 
 ## Summary
 Winnie-the-Pooh is a collection of gentle adventures featuring a honey-loving bear and his friends in the Hundred Acre Wood. Through ten charming chapters, we follow Pooh and his companions—Piglet, Eeyore, Rabbit, Owl, Kanga, Roo, and Christopher Robin—as they navigate everyday challenges with simple wisdom and unwavering friendship. The stories capture the magic of childhood imagination and the profound truths found in simple acts of kindness and loyalty.

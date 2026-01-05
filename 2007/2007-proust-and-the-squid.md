@@ -1,5 +1,6 @@
 # Proust and the Squid
 **Author**: Maryanne Wolf | **Year**: 2007
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Proust and the Squid" explores the fascinating neuroscience of reading, revealing how the human brain repurposed itself for this unnatural skill that never existed in our evolutionary design. Wolf, a neuroscientist and reading expert, takes readers on a journey from the invention of writing to the digital age, explaining how reading transforms our brains and enables new forms of thought. The book weaves together neuroscience, history, and education to show that reading is one of humanity's most remarkable inventions—one that fundamentally changed how we think, feel, and process information.

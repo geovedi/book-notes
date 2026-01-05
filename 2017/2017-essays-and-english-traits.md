@@ -1,5 +1,6 @@
 # Essays and English Traits
 **Authors**: Ralph Waldo Emerson | **Year**: 2017 (Harvard Classics Edition)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Essays and English Traits" represents the pinnacle of Ralph Waldo Emerson's philosophical and literary work, featuring his most influential essays that shaped American transcendentalism and individualistic thought. This collection includes seminal works like "Self-Reliance," "The American Scholar," and "Compensation," alongside his insightful observations on English character and society. Emerson champions the power of individual intuition, self-trust, and the divine spark within each person, arguing against conformity and social convention.

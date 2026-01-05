@@ -1,5 +1,6 @@
 # The Impossible Man
 **Authors**: Patchen Barss | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 The Impossible Man is a comprehensive biography of Sir Roger Penrose, one of the most influential mathematicians and physicists of the 20th century. The book chronicles Penrose's journey from his isolated childhood in England to winning the 2020 Nobel Prize in Physics for his groundbreaking work proving that collapsing stars inevitably form black holes with singularities. Barss weaves together Penrose's scientific contributions with his complex personal life, revealing a genius who could think in four dimensions yet struggled with human relationships.

@@ -1,5 +1,5 @@
 # How to Audit Your Account without Hiring an Auditor
-**Authors**: Aaron Efuribe | **Year**: 2018
+**Authors**: Aaron Efuribe | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 

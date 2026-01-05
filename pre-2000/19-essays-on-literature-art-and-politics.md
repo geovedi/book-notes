@@ -1,6 +1,7 @@
 # Essays on Literature, Art and Politics
 **Original Title**: Aufsätze zur Literatur, Kunst und Politik
 **Author**: Gottfried Keller | **Year**: 19th Century
+**Category**: Fiction & Literature
 
 ## Summary
 Gottfried Keller's collection of essays represents a comprehensive exploration of 19th-century European intellectual life, blending literary criticism, political commentary, and cultural observation. The work features detailed analyses of contemporary writers like Ludwig Börne and Jeremias Gotthelf, alongside reflections on Swiss identity and European politics. Keller, a master of both fiction and criticism, brings his sharp observational skills to examine the intersection between art and society during a period of significant political transformation.

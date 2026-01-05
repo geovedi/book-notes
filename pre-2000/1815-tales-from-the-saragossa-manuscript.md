@@ -1,5 +1,6 @@
 # Tales from the Saragossa Manuscript
 **Authors**: Jan Potocki | **Year**: 1815 (published posthumously)
+**Category**: Fiction & Literature
 
 ## Summary
 This masterpiece of Polish literature follows Alphonse van Worden, a Spanish army captain, whose journey through the Sierra Morena mountains in 1739 becomes a labyrinthine exploration of reality, dreams, and supernatural encounters. After spending the night at a haunted inn, he finds himself entangled with two mysterious Moorish sisters, Emina and Zibedde, who claim to be his relatives and offer marriage if he converts to Islam. His journey expands into a series of nested stories-within-stories told by various characters he meets, including bandits, hermits, and nobles, each tale becoming more fantastical and philosophical than the last.

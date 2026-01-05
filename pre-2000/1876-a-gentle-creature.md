@@ -1,5 +1,6 @@
 # A Gentle Creature
 **Original Title**: Кроткая (Krotkaya) | **Author**: Fyodor Dostoevsky | **Year**: 1876
+**Category**: Fiction & Literature
 
 ## Summary
 This haunting novella tells the story of a cynical, prideful pawnbroker who marries a destitute 16-year-old girl to "save" her from an arranged marriage to an elderly grocer. The narrator recounts their tragic relationship as he watches over his wife's body, questioning whether his twisted love and psychological games drove her to suicide. Through his rambling, obsessive monologue, we witness a profound exploration of power, pride, and the human need for genuine connection.

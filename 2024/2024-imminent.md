@@ -1,5 +1,6 @@
 # Imminent
 **Authors**: Lue Elizondo | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 "Imminent" is a groundbreaking exposé by Lue Elizondo, the former director of the Pentagon's Advanced Aerospace Threat Identification Program (AATIP). Elizondo reveals that unidentified craft with beyond-next-generation technology have been operating with impunity worldwide since at least World War II. These craft—demonstrating abilities that defy our understanding of physics—are not human-made and represent evidence of nonhuman intelligence.

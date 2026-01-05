@@ -1,5 +1,5 @@
 # The Default Line
-**Authors**: Faisal Islam | **Year**: 2013
+**Authors**: Faisal Islam | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 The Default Line is a penetrating analysis of the global financial crisis and its aftermath, focusing particularly on Europe's sovereign debt crisis. Economics Editor Faisal Islam combines ground-level reporting from crisis zones with incisive economic analysis to reveal how political incompetence, dysfunctional housing markets, and financial complexity created the perfect storm that continues to reshape our economic landscape.

@@ -1,5 +1,6 @@
 # Jeeves and the Feudal Spirit
 **Authors**: P.G. Wodehouse | **Year**: 1954
+**Category**: Fiction & Literature
 
 ## Summary
 Bertie Wooster returns home to find his faithful valet Jeeves has returned from holiday, just in time to help navigate another typically complex social predicament. Bertie has grown a moustache during Jeeves's absence, which immediately causes problems by making him unexpectedly attractive to Florence Craye—a woman he's desperately trying to avoid marrying. Meanwhile, Bertie's Aunt Dahlia needs him to entertain the tedious Trotters to secure a business deal, and a young playwright named Percy Gorringe is seeking funding to dramatize Florence's novel.

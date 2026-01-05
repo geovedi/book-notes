@@ -1,6 +1,7 @@
 # Cultural History of Antiquity
 **Original Title**: Kulturgeschichte des Altertums
 **Author**: Egon Friedell | **Year**: 1936
+**Category**: History & Biography
 
 ## Summary
 Egon Friedell's monumental work explores the cultural and spiritual development of ancient civilizations, primarily Egypt and Greece, as the essential foundation for understanding the pre-Christian soul. This isn't merely a chronicle of events but a profound investigation into how ancient peoples experienced reality, created meaning, and developed the spiritual frameworks that would eventually give birth to Christianity. Friedell approaches history as a living, breathing phenomenon shaped by the interplay between landscape, race, and the mysterious forces of collective consciousness.

@@ -1,5 +1,6 @@
 # A Treasury of Foolishly Forgotten Americans
 **Authors**: Michael Farquhar | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 "A Treasury of Foolishly Forgotten Americans" is an engaging collection of 18 biographical profiles of fascinating Americans who have slipped through the cracks of historical memory. Farquhar brings to life a colorful cast including pirates, murderers, eccentrics, unsung heroes, and controversial figures who shaped American history but never made it into our textbooks. The book proves that the most interesting historical stories are often the ones we've never heard.

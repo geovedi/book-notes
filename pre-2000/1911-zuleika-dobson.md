@@ -1,5 +1,6 @@
 # Zuleika Dobson: An Oxford Love Story
 **Authors**: Max Beerbohm | **Year**: 1911
+**Category**: Fiction & Literature
 
 ## Summary
 "Zuleika Dobson" is a brilliant Edwardian satire that follows the devastatingly beautiful conjurer Zuleika Dobson as she visits Oxford University and inadvertently causes the entire undergraduate population to fall madly in love with her and commit mass suicide. When Zuleika arrives to stay with her grandfather, the Warden of Judas College, her irresistible beauty and conceit quickly captivate every male student she encounters. The novel parodies romantic clichés and aestheticism while exploring themes of vanity, idolatry, and the absurdity of human passions.

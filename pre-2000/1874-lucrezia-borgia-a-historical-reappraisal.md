@@ -1,6 +1,7 @@
 # Lucrezia Borgia: A Historical Reappraisal
 **Original Title**: Lucrezia Borgia
-**Author**: Ferdinand Gregorovius | **Year**: 1874 
+**Author**: Ferdinand Gregorovius | **Year**: 1874
+**Category**: History & Biography 
 
 ## Summary
 Ferdinand Gregorovius's groundbreaking 1874 biography challenges centuries of myth-making about one of history's most notorious women. Through meticulous archival research in Rome, Ferrara, Modena, and Mantua, Gregorovius systematically dismantles the traditional portrait of Lucrezia Borgia as a poisoner, murderer, and sexual predator. Instead, he reveals a complex Renaissance woman caught in the political machinery of her father Pope Alexander VI and brother Cesare Borgia, who ultimately transformed herself into a respected duchess and devout patron of the arts in Ferrara.

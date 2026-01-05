@@ -1,5 +1,6 @@
 # The Stranger Beside Me
 **Author**: Ann Rule | **Year**: 1980
+**Category**: Horror & Thriller
 
 ## Summary
 "The Stranger Beside Me" is a haunting true crime narrative that reveals how Ann Rule, then a struggling true crime writer and volunteer at a Seattle crisis clinic, formed a friendship with Theodore Robert Bundy in 1971. Working the Tuesday night shift together at the Crisis Clinic, Rule found Bundy to be intelligent, charming, and dedicated to helping others—a perfect friend and colleague. This relationship makes the subsequent revelation of Bundy's horrific crimes as one of America's most notorious serial killers all the more terrifying.

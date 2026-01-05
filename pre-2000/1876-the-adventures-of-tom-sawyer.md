@@ -1,5 +1,6 @@
 # 1876-The Adventures of Tom Sawyer
 **Authors**: Mark Twain | **Year**: 1876
+**Category**: Children & Young Adult
 
 ## Summary
 The Adventures of Tom Sawyer chronicles the mischievous escapades of Tom Sawyer, a clever and imaginative boy growing up in the antebellum South along the Mississippi River. Set in the fictional town of St. Petersburg, Missouri, the story captures Tom's adventures from his famous fence-whitewashing scheme to his discovery of buried treasure. Tom navigates childhood with his best friend Huckleberry Finn, falls for the charming Becky Thatcher, and witnesses a murder in a graveyard that leads to a thrilling hunt for Injun Joe's hidden treasure. The story culminates in Tom and Huck's discovery of twelve thousand dollars in gold, their transformation from outcasts to local celebrities, and Huck's struggle between wealth and freedom.

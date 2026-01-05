@@ -1,5 +1,6 @@
 # In Defence of Liberal Education
 **Authors**: Anthony O'Hear | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Anthony O'Hear presents a vigorous philosophical defence of traditional liberal education against progressive educational theories and state control. He argues that liberal education—understood as education for freedom through disciplined initiation into the best that has been thought and known—is essential for genuine human development and intellectual liberation. The book contrasts this approach with progressive education theories from Rousseau to Dewey, critiques modern educational myths, and warns against state-controlled education that creates "a despotism over the mind." O'Hear ultimately advocates for educational deregulation and parental rights as the best means to preserve liberal education in modern Western democracies.

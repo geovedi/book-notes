@@ -1,6 +1,7 @@
 # The Last Day of a Condemned Man
 **Original Title**: Le Dernier Jour d'un Condamné
 **Author**: Victor Hugo | **Year**: 1829
+**Category**: Fiction & Literature
 
 ## Summary
 Victor Hugo's groundbreaking novel presents an intimate first-person account of a man's final weeks in prison after being sentenced to death by guillotine. Written as a powerful abolitionist argument, the novella strips away all details about the narrator's crime, forcing readers to confront the universal human experience of facing execution.

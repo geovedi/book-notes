@@ -1,5 +1,5 @@
 # Geopolitics and the Quest for Dominance
-**Authors**: Jeremy Black | **Year**: 2016
+**Authors**: Jeremy Black | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "Geopolitics and the Quest for Dominance" offers a comprehensive historical examination of how geography has shaped power relations throughout human history. Black argues that geopolitics—though formally coined in 1899—has existed as a practice and concept throughout history, influencing how states understand their position, threats, and opportunities in spatial terms. The book challenges deterministic views while demonstrating how geographical factors, from resources to location to terrain, have consistently played crucial roles in international affairs, imperial expansion, and military strategy.

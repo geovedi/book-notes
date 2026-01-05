@@ -1,5 +1,6 @@
 # Artificial Intelligence: A Guide for Thinking Humans
 **Authors**: Melanie Mitchell | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 Melanie Mitchell provides a balanced, clear-eyed assessment of artificial intelligence's current capabilities and fundamental limitations. The book traces AI's journey from early symbolic systems to today's neural networks, explaining landmark achievements like Deep Blue's chess victory and AlphaGo's Go mastery while revealing why these breakthroughs don't necessarily bring us closer to true human-like intelligence.

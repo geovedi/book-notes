@@ -1,5 +1,6 @@
 # Affiliate Marketing: How to Make Money Online and Earn Passive Income
 **Authors**: Benjamin Daniel | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This beginner's guide demystifies affiliate marketing as a viable path to financial freedom beyond traditional 9-5 employment. The book presents affiliate marketing as a business model where you earn commissions by recommending products to others, requiring minimal startup costs and offering the flexibility to work from anywhere. Daniel provides a comprehensive roadmap from understanding basic terminology to implementing advanced traffic generation strategies, with special emphasis on building sustainable passive income streams.

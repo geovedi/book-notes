@@ -1,5 +1,5 @@
 # Everyday Project Management
-**Authors**: Peter Mulraney | **Year**: 2018
+**Authors**: Peter Mulraney | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Everyday Project Management" demystifies project management by breaking it down into simple, practical steps that anyone can apply to their personal and professional projects. The book presents a straightforward framework that transforms complex project management terminology into everyday language, making it accessible for people without formal training. The author draws from his experience managing administrative projects and applies these principles to writing projects, demonstrating how structured thinking can improve outcomes for everything from organizing birthday parties to publishing books.

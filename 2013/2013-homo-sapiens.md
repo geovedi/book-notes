@@ -1,6 +1,6 @@
 # Homo Sapiens
 **Original Title**: Homo Sapiens (Spanish)
-**Authors**: Antonio Vélez Montoya | **Year**: 2013
+**Authors**: Antonio Vélez Montoya | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "Homo Sapiens" presents a revolutionary framework for understanding human behavior through evolutionary psychology. Vélez argues that modern humans operate with "Stone Age minds" - cognitive and emotional systems designed by natural selection to maximize reproductive efficiency in ancestral environments, not to navigate our complex modern world. The book challenges conventional thinking about human nature by demonstrating that many behaviors we consider irrational or culturally determined are actually adaptive solutions to evolutionary problems our ancestors faced.

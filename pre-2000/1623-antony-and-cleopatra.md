@@ -1,5 +1,6 @@
 # Antony and Cleopatra
 **Authors**: William Shakespeare | **Year**: 1623
+**Category**: Romance & Relationships
 
 ## Summary
 "Antony and Cleopatra" tells the tragic story of one of history's most famous romances, set against the backdrop of political upheaval in the Roman Empire. Mark Antony, one of Rome's three ruling triumvirs, has abandoned his duties in Rome to live in luxurious excess with Cleopatra, the captivating Queen of Egypt. Their passionate love affair becomes the catalyst for political conflict as Octavius Caesar sees Antony's neglect of Roman responsibilities as both a personal betrayal and a threat to the stability of the empire.

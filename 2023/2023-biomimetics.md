@@ -1,5 +1,6 @@
 # Biomimetics: Better by Nature
 **Authors**: Brian Clegg | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 "Biomimetics: Better by Nature" explores how scientists and engineers draw inspiration from nature's evolutionary solutions to solve human technological challenges. The book examines the vast laboratory of Earth, where billions of years of natural selection have produced remarkable solutions to complex problems that often remain beyond our technological capabilities. Brian Clegg guides readers through the fascinating world of biomimetic innovation—from Velcro inspired by burdock burrs to cutting-edge applications in materials science, optics, and artificial intelligence.

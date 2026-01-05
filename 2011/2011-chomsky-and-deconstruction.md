@@ -1,5 +1,5 @@
 # Chomsky and Deconstruction: The Politics of Unconscious Knowledge
-**Authors**: Christopher Wise | **Year**: 2011
+**Authors**: Christopher Wise | **Year**: 2011 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Chomsky and Deconstruction" offers a critical examination of Noam Chomsky's linguistic theory from the perspective of Jacques Derrida's deconstructive philosophy. The book explores how Chomsky's concept of universal grammar relies on a "mystical" notion of unconscious knowledge that, while presented as scientific, contains unexamined metaphysical and political assumptions.

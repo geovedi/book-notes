@@ -1,5 +1,6 @@
 # Letting Go: The Pathway of Surrender
 **Author**: David R. Hawkins | **Year**: 2012
+**Category**: Spirituality & Religion
 
 ## Summary
 "Letting Go" presents a revolutionary mechanism for emotional freedom through the simple act of surrendering negative feelings. Dr. Hawkins, a psychiatrist and spiritual teacher, reveals that our accumulated emotional baggage is the primary source of suffering, illness, and life problems. By learning to let go of suppressed emotions rather than resisting, expressing, or escaping them, we can access our innate capacity for happiness, success, health, and spiritual growth.

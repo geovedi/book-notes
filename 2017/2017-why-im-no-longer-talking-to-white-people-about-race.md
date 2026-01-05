@@ -1,5 +1,6 @@
 # Why I'm No Longer Talking to White People About Race
 **Authors**: Reni Eddo-Lodge | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 This powerful book emerged from Eddo-Lodge's viral blog post expressing frustration with conversations about race with white people who refuse to acknowledge structural racism. The book expands on this theme, exploring Britain's hidden history of race relations, the nature of white privilege, and the emotional toll on people of color who must constantly educate and justify their experiences. Eddo-Lodge argues that racism isn't just individual prejudice but a systemic structure that benefits white people at the expense of others, deeply embedded in British history and institutions.

@@ -1,5 +1,6 @@
 # Bardell v. Pickwick: A Legal Commentary
 **Original Authors**: Percy Fitzgerald, Baroness Hale (Foreword) | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 "Bardell v. Pickwick" is a fascinating legal commentary that examines the famous fictional breach of promise case from Charles Dickens' "The Pickwick Papers." Written by Percy Fitzgerald and republished with a foreword by Baroness Hale, this book bridges the gap between classic literature and legal history, offering both entertainment and insight into 19th-century English law.

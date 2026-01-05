@@ -1,5 +1,6 @@
 # Force and Energy; A Theory of Dynamics
 **Authors**: Grant Allen | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 This groundbreaking scientific work presents a unified theory of dynamics based on two fundamental opposing powers: Force (aggregative) and Energy (separative). Allen redefines our understanding of physical phenomena by categorizing all physical interactions as manifestations of either attraction or separation between particles. The book systematically examines how these powers operate across different scales—from the cosmic to the atomic—offering a comprehensive framework for understanding motion, energy conservation, and the fundamental nature of matter itself.

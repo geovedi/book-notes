@@ -1,5 +1,6 @@
 # The Ghost-Feeler: Stories of Terror and the Supernatural
 **Authors**: Edith Wharton | **Year**: 1893-1935 (Collection)
+**Category**: Horror & Thriller
 
 ## Summary
 This collection brings together nine chilling supernatural tales written by Edith Wharton over four decades, showcasing her mastery of psychological horror and ghost fiction. Unlike her famous society novels, these stories reveal Wharton's "intense Celtic sense of the supernatural" - a sensitivity she developed after childhood trauma with ghost stories left her with chronic fear that haunted her into adulthood.

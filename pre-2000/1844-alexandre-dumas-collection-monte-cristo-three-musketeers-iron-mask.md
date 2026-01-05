@@ -1,5 +1,6 @@
 # Alexandre Dumas Collection: Three Masterpieces of Adventure and Revenge
 **Authors**: Alexandre Dumas | **Year**: 1844-1850 (Original publication dates)
+**Category**: Fiction & Literature
 
 ## Summary
 This collection brings together three of Alexandre Dumas' most celebrated works: "The Count of Monte Cristo," "The Three Musketeers," and "The Man in the Iron Mask." These masterpieces of French literature represent the pinnacle of 19th-century adventure storytelling, weaving together themes of revenge, honor, friendship, and justice against rich historical backdrops. The collection showcases Dumas' extraordinary ability to create compelling characters, intricate plots, and vivid historical settings that continue to captivate readers nearly two centuries after their creation.

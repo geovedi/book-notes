@@ -1,5 +1,6 @@
 # 50 Masterpieces You Have to Read: A-to-Z Classics
 **Authors**: Various | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology brings together fifty of the most influential literary works in Western civilization, spanning from ancient Greece (Homer's "The Odyssey," ca. 710 BC) to early 20th century modernism. Organized alphabetically by author, this collection represents the cornerstone works of literature that have shaped storytelling, philosophical thought, and cultural understanding across centuries.

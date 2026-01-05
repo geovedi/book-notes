@@ -1,5 +1,5 @@
 # Negotiating Successfully in Small and Mid-sized M&A Transactions
-**Authors**: Arnd Allert | **Year**: 2015
+**Authors**: Arnd Allert | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 "Negotiating Successfully" is a comprehensive guide that bridges the gap between theoretical negotiation models and practical application in Mergers & Acquisitions (M&A) transactions. Drawing from over 20 years of corporate finance experience and more than 100 M&A transactions, Allert provides a practical framework for negotiating business sales and acquisitions, with particular focus on medium-sized companies.

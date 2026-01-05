@@ -1,6 +1,7 @@
 # Professional FP&A: A Comprehensive Guide to Financial Planning & Analysis
 **Original Title**: Professional FP&A: A comprehensive guide to Financial Planning& Analysis
 **Authors**: Johann Strauss | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 Professional FP&A transforms the traditional accounting function into a strategic powerhouse that drives organizational success through data-driven insights and advanced analytical techniques. This comprehensive guide demonstrates how Financial Planning & Analysis has evolved from basic financial reporting to become the navigational compass that guides companies through uncertain business environments. The book presents FP&A as both art and science—combining technical proficiency in financial modeling with strategic business acumen to illuminate the path toward profitability and growth.

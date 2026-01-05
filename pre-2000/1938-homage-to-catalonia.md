@@ -1,5 +1,6 @@
 # Homage to Catalonia
 **Author**: George Orwell | **Year**: 1938
+**Category**: History & Biography
 
 ## Summary
 "Homage to Catalonia" is Orwell's personal account of his experiences fighting in the Spanish Civil War (1936-1937). What begins as a straightforward anti-fascist mission transforms into a profound exploration of political idealism, betrayal, and the brutal realities of revolutionary warfare. Orwell arrives in Spain expecting a clear struggle between democracy and fascism, only to discover a complex web of political infighting among Republican factions that ultimately proves more destructive than the enemy's bullets.

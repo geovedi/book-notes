@@ -1,5 +1,5 @@
 # Questions for Reflection
-**Authors**: Kerstin Hack | **Year**: 2013
+**Authors**: Kerstin Hack | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide presents seven reflection methods designed to help people gain clarity, determine life direction, act decisively, and learn from mistakes. The book treats reflection not as aimless musing but as focused inquiry with specific tools and frameworks that can be applied immediately.

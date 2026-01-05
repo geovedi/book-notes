@@ -1,5 +1,5 @@
 # Stock Market Investing for Beginners
-**Authors**: Victor Lucas | **Year**: 2018
+**Authors**: Victor Lucas | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies stock market investing for newcomers, offering practical strategies to build wealth through informed investment decisions. The book covers everything from basic market mechanics to advanced value investing principles, emphasizing that successful investing requires discipline, research, and emotional control rather than speculation or luck. Perfect for aspiring investors who want to understand fundamental concepts, avoid common pitfalls, and develop a rational approach to growing wealth through the stock market.

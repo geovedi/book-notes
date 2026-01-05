@@ -1,5 +1,6 @@
 # The Classical World in Bite-Sized Chunks
 **Author**: Mark Daniels | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "The Classical World in Bite-Sized Chunks" is a comprehensive yet accessible exploration of ancient Greek and Roman civilizations that brings history to life through 101 engaging, short-form entries. Rather than presenting dry facts and dates, the book immerses readers in the living, breathing world of classical antiquity—from the thunderous roar of the Colosseum to the philosophical questions of Socrates that still resonate today.

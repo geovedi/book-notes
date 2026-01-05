@@ -1,5 +1,6 @@
 # Branding and Marketing Mastery
 **Authors**: Gavin Turner | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies the essential connection between branding and marketing in the digital age. Turner provides a practical roadmap for building a powerful brand that resonates with customers and drives business growth through strategic social media marketing. The book emphasizes that successful branding goes far beyond logos and names—it's about creating emotional connections, telling compelling stories, and building lasting customer loyalty in an increasingly crowded marketplace.

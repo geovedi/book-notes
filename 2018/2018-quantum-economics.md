@@ -1,6 +1,6 @@
 # Quantum Economics
 **Original Title**: Quantum Economics: The New Science of Money
-**Authors**: David Orrell | **Year**: 2018
+**Authors**: David Orrell | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Quantum Economics presents a revolutionary framework that challenges the foundations of mainstream neoclassical economics by applying principles from quantum physics to monetary systems. The book argues that money itself is a quantum phenomenon with dualistic properties—combining the virtual nature of numbers with the physical reality of objects—much like how light exhibits both wave and particle characteristics. This quantum nature of money creates inherent uncertainty, entanglement between financial actors, and measurement effects that shape economic behavior in ways that classical economic models cannot explain.

@@ -1,5 +1,5 @@
 # White Allies Matter
-**Authors**: Vanisha Parmar, Aseia Rafique | **Year**: 2022
+**Authors**: Vanisha Parmar, Aseia Rafique | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "White Allies Matter" is a practical guide that examines racism and provides actionable guidance for white people who want to become effective allies in the fight against racial inequality. The authors, both first-generation UK-born women of color, combine personal experiences with professional insights to address code-switching, institutional racism, and the meaningful actions allies can take to create systemic change.

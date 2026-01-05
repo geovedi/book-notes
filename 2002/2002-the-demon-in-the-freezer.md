@@ -1,5 +1,5 @@
 # The Demon in the Freezer
-**Author**: Richard Preston | **Year**: 2002
+**Author**: Richard Preston | **Year**: 2002 | **Category**: Health & Medicine
 
 ## Summary
 "The Demon in the Freezer" is a gripping true story that reads like a medical thriller, chronicling the real-life threat of bioterrorism in America. Preston masterfully weaves together the 2001 anthrax attacks with the looming danger of smallpox, taking readers inside the high-stakes world of infectious disease researchers and first responders who stand between humanity and potentially devastating biological weapons.

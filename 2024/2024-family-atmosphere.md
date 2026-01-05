@@ -1,6 +1,7 @@
 # Family Atmosphere
 **Original Title**: Aria di famiglia
-**Author**: Alessandro Piperno | **Year**: 2024 
+**Author**: Alessandro Piperno | **Year**: 2024
+**Category**: Fiction & Literature 
 
 ## Summary
 Family Atmosphere is a poignant Italian novel that follows a middle-aged literature professor navigating a series of personal and professional crises. When we meet him, he's just learned that his high school girlfriend Veronica has died, while simultaneously facing a disciplinary hearing at work and struggling with writer's block. The story unfolds through reflective flashbacks and present-day encounters, ultimately leading to a wedding where he reconnects with Noah, the adopted son he abandoned years earlier.

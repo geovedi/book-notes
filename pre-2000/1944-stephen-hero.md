@@ -1,6 +1,7 @@
 # Stephen Hero
 **Original Title**: Stephen Hero
 **Authors**: James Joyce | **Year**: 1944 (posthumously published, written c. 1904-1906)
+**Category**: Fiction & Literature
 
 ## Summary
 "Stephen Hero" is James Joyce's early autobiographical novel that served as the foundation for his later masterpiece "A Portrait of the Artist as a Young Man." Written between 1904-1906 but published posthumously in 1944, the work captures the intellectual and spiritual awakening of Stephen Dedalus, Joyce's literary alter ego. The novel portrays Stephen's development from a devout Catholic schoolboy to an emerging artist determined to break free from the constraints of Irish society, Catholic doctrine, and colonial identity.

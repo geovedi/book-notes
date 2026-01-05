@@ -1,5 +1,6 @@
 # Tarzan of the Apes
 **Authors**: Edgar Rice Burroughs | **Year**: 1912
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Tarzan of the Apes" tells the extraordinary story of John Clayton, Lord Greystoke, who is born to English nobility marooned on the African coast. After his parents die, the infant is adopted and raised by a tribe of apes, becoming Tarzan—a unique being caught between two worlds. Through sheer determination and innate intelligence, Tarzan teaches himself to read from his parents' abandoned books, develops superior physical abilities, and eventually becomes the king of his jungle domain.

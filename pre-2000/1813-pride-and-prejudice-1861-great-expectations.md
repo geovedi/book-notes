@@ -1,5 +1,6 @@
 # Great Expectations & Pride and Prejudice
 **Original Titles**: "Great Expectations" (Charles Dickens), "Pride and Prejudice" (Jane Austen) | **Years**: 1861, 1813
+**Category**: Fiction & Literature
 
 ## Summary
 This collection brings together two masterpieces of English literature that explore very different aspects of human experience and social structures. Dickens' *Great Expectations* follows the dramatic rise and fall of Pip, an orphan whose journey from poverty to gentlemanly status reveals the corruption of class obsession and the true meaning of loyalty. Meanwhile, Austen's *Pride and Prejudice* offers a witty exploration of romance and social maneuvering in Regency England, where Elizabeth Bennet and Mr. Darcy must overcome their initial bad impressions to find genuine connection.

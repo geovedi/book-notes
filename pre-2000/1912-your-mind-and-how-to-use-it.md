@@ -1,5 +1,6 @@
 # Your Mind and How to Use It
 **Authors**: William Walker Atkinson | **Year**: 1912
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Your Mind and How to Use It" is a comprehensive manual of practical psychology that breaks down the fundamental mechanisms of mental processes. Atkinson presents the mind as a tool that can be understood, trained, and mastered through systematic knowledge of its operations. The book serves as both a scientific explanation of mental faculties and a practical guide for developing mental power.

@@ -1,5 +1,5 @@
 # The Astronaut Wives Club
-**Author**: Lily Koppel | **Year**: 2013
+**Author**: Lily Koppel | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "The Astronaut Wives Club" reveals the untold true story of the women behind America's space race heroes—from Project Mercury through Apollo moon landings. When their test pilot husbands were chosen to become America's first astronauts, these ordinary military wives were thrust into extraordinary celebrity, forced to navigate perfect public appearances while privately managing terror, tragedy, and transformation.

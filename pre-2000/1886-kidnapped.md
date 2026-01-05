@@ -1,5 +1,6 @@
 # Kidnapped
 **Authors**: Robert Louis Stevenson | **Year**: 1886
+**Category**: Children & Young Adult
 
 ## Summary
 Kidnapped is a classic adventure novel set in 18th-century Scotland following David Balfour, a young Lowland Scotsman who is tricked, kidnapped, and sold into slavery by his wicked uncle Ebenezer. After being shipwrecked off the Scottish coast, David escapes and forms an unlikely alliance with Alan Breck Stewart, a charismatic Highland Jacobite on the run. Together, they navigate treacherous landscapes, evade English soldiers, and witness political intrigue while David fights to reclaim his rightful inheritance.

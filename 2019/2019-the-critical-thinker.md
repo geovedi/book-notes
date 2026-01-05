@@ -1,5 +1,6 @@
 # The Critical Thinker
 **Authors**: Steven Schuster | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Critical Thinker" is a comprehensive guide to developing the essential skill of critical thinking in an age of information overload and quick judgments. The book presents critical thinking as the deliberate practice of using logic and reasoning rather than emotion to guide decisions and judgments. Through practical examples, research-based insights, and actionable frameworks, Schuster demonstrates how critical thinking can transform decision-making, problem-solving, and overall cognitive effectiveness.

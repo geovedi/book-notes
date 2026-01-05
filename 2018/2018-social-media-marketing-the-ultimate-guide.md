@@ -1,5 +1,5 @@
 # Social Media Marketing: The Ultimate Guide
-**Authors**: Dale Cross | **Year**: 2018
+**Authors**: Dale Cross | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Social Media Marketing is the process of gaining attention and web traffic through social media sites by creating compelling content that people want to share with others, creating a viral chain that helps businesses reach beyond their intended market audience. This comprehensive guide provides step-by-step methods and proven internet marketing strategies for businesses looking to leverage social media platforms effectively.

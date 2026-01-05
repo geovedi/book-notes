@@ -1,6 +1,6 @@
 # Dopamine Slaves: Finding Balance in an Age of Abundance
 **Original Title**: Niewolnicy dopaminy. Jak odnaleźć równowagę w epoce obfitości
-**Authors**: Anna Lembke | **Year**: 2022
+**Authors**: Anna Lembke | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 This groundbreaking book explores how our modern world of overwhelming abundance has transformed our relationship with pleasure and pain, leading to unprecedented rates of addiction. Dr. Anna Lembke, a psychiatry professor at Stanford University, reveals how the brain's reward system has been hijacked by highly stimulating substances and behaviors—from social media and smartphones to drugs and junk food—creating a society of dopamine-driven compulsive behaviors.

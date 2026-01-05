@@ -1,5 +1,5 @@
 # The Culture Code
-**Authors**: Daniel Coyle | **Year**: 2018
+**Authors**: Daniel Coyle | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "The Culture Code" reveals that successful group cultures aren't accidents of fate but the result of specific, learnable skills. After studying eight of the world's most successful groups—including Navy SEALs, IDEO, Google, and championship sports teams—Coyle discovered that all great cultures share three fundamental skills: Build Safety, Share Vulnerability, and Establish Purpose. These skills work together from the bottom up to create environments where ordinary people achieve extraordinary results together.

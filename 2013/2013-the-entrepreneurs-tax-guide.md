@@ -1,5 +1,5 @@
 # The Entrepreneur's Tax Guide
-**Authors**: Lee Hadnum | **Year**: 2013
+**Authors**: Lee Hadnum | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies UK tax planning for entrepreneurs and business owners, offering practical strategies to legally minimize tax burdens across all business structures. The book bridges the gap between basic accounting advice and sophisticated tax planning, providing actionable insights that can save thousands in legitimate tax deductions.

@@ -1,5 +1,5 @@
 # The Word Made Flesh: Literary Tattoos from Bookworms Worldwide
-**Authors**: Eva Talmadge, Justin Taylor | **Year**: 2010
+**Authors**: Eva Talmadge, Justin Taylor | **Year**: 2010 | **Category**: Art & Creativity
 
 ## Summary
 "The Word Made Flesh" is a captivating visual anthology that documents the growing phenomenon of literary tattoos—people permanently inking their favorite passages, quotes, characters, and book illustrations onto their skin. Born from a simple blog post in 2009 that went viral, this collection features photographs of hundreds of book-inspired tattoos alongside the personal stories of their bearers. The book captures how modern readers are transforming their bodies into living libraries, carrying beloved words and images as permanent declarations of their literary passions.

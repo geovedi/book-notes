@@ -1,5 +1,6 @@
 # Letter to a Christian Nation
 **Author**: Sam Harris | **Year**: 2007
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Sam Harris's "Letter to a Christian Nation" is a direct and uncompromising critique of Christian fundamentalism and religious belief in modern America. Written as a response to the hostile reactions Harris received after publishing "The End of Faith," this book systematically dismantles the intellectual and moral foundations of Christianity while arguing for reason-based ethics and scientific understanding. Harris challenges readers to examine their beliefs with intellectual honesty and demonstrates how faith-based thinking poses genuine dangers to human progress and civilization.

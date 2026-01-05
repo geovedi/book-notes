@@ -1,5 +1,6 @@
 # Guide to Investment Strategy
 **Authors**: Peter Stanyer, Stephen Satchell | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive investment guide provides a framework for personal investors to develop sound investment strategies by focusing on understanding risk, behavioral biases, and practical implementation approaches. The book emphasizes that successful investing requires thinking about how investments might perform in bad times, not just measuring volatility. It bridges traditional finance theory with behavioral insights to help investors make better decisions in uncertain markets.

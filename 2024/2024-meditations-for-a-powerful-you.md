@@ -1,5 +1,6 @@
 # Meditations for a Powerful You
 **Authors**: Clare Connolly | **Year**: 2024
+**Category**: Spirituality & Religion
 
 ## Summary
 This book is a comprehensive guide to meditation practice designed to help anyone—from beginners to experienced practitioners—raise their energy, reduce stress, and reconnect with their inner power. Based on the principle that "everything is energy and energy is all there is," Connolly presents a systematic approach to meditation that works with seven energy centers (chakras) along the spine, each associated with specific emotional qualities and life aspects.

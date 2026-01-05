@@ -1,5 +1,5 @@
 # Krakatoa: The Day the World Exploded
-**Author**: Simon Winchester | **Year**: 2003
+**Author**: Simon Winchester | **Year**: 2003 | **Category**: Science & Nature
 
 ## Summary
 On August 27, 1883, the island of Krakatoa in Indonesia erupted with such force that it became the loudest sound in modern human history, killing over 36,000 people and sending shockwaves around the world. Simon Winchester masterfully weaves together the dramatic story of this catastrophic event with the geological forces that caused it, the colonial history of the Dutch East Indies, the scientific discoveries it spawned, and its lasting impact on our understanding of Earth's volatile nature.

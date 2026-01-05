@@ -1,5 +1,6 @@
 # How to Sharpen Pencils
 **Authors**: David Rees, John Hodgman | **Year**: 2012
+**Category**: Art & Creativity
 
 ## Summary
 This is simultaneously a legitimate manual on pencil sharpening techniques and a brilliant satire of the artisanal craft movement. What begins as an earnest treatise on the "lost art" of pencil sharpening evolves into a profound meditation on craftsmanship, intentionality, and finding meaning in everyday tasks. Rees treats pencil sharpening with the reverence typically reserved for fine arts, creating a humorous yet insightful exploration of how we assign value to manual skills in an automated world.

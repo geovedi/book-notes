@@ -1,6 +1,7 @@
 # When We Stopped Understanding the World
 **Original Title**: Un verdor terrible
 **Author**: Benjamín Labatut | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 When We Stopped Understanding the World is a collection of three meticulously researched, boundary-blurring stories that explore the dark and terrifying beauty of scientific breakthroughs. Labatut presents pivotal moments in the history of science when humanity made discoveries so profound they fundamentally altered our relationship with knowledge itself.

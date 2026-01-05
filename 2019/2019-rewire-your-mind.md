@@ -1,5 +1,6 @@
 # Rewire Your Mind
 **Authors**: Jennifer Ferguson | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Rewire Your Mind" is a comprehensive guide to transforming your mindset and taking conscious control of your life through the power of neuroplasticity, awareness, and intentional living. The book presents the mind as an adaptable tool that can be consciously reshaped through consistent practice, revealing how our thoughts, beliefs, and actions directly create our reality. By understanding the connection between brain function, body intelligence, and environmental factors, readers learn to become active participants in their personal evolution rather than passive victims of circumstance.

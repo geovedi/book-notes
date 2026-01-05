@@ -1,6 +1,7 @@
 # Jewish History, Judaism, and the Weight of Three Millennia
 **Original Title**: Storia ebraica e giudaismo: Il peso di tre millenni
-**Author**: Israel Shahak | **Year**: 1994 
+**Author**: Israel Shahak | **Year**: 1994
+**Category**: Spirituality & Religion 
 
 ## Summary
 "Jewish History, Judaism, and the Weight of Three Millennia" is a provocative study examining how religious orthodoxy has shaped Israel's secular state with what the author describes as an "odious and disastrous nature." Shahak, a Holocaust survivor and human rights activist, argues that while Islamic fundamentalism is widely condemned in the West, Jewish fundamentalism passes largely unnoticed despite being used to justify Israeli policies that are "racist, totalitarian, and xenophobic" as much as the worst antisemitism.

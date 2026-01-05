@@ -1,5 +1,6 @@
 # Infinity in the Palm of Your Hand
 **Authors**: Marcus Chown | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 Marcus Chown's book reveals the mind-blowing, counter-intuitive realities that define our universe through 50 fascinating scientific facts organized across seven sections that expand our perspective from the microscopic to the cosmic scale. Each chapter presents a single astonishing insight that transforms how we understand ourselves and our place in the universe.

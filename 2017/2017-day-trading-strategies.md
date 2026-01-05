@@ -1,5 +1,6 @@
 # Day Trading: Strategies to Make Money with Day Trading
 **Authors**: Warren Richmond | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This book is a comprehensive beginner's guide to day trading strategies, designed for individuals who want to earn money from short-term stock market trading. Written in accessible language, it demystifies the technical aspects of day trading while providing practical frameworks for implementing various trading strategies. The book covers everything from basic concepts to specific strategies like momentum trading, breakout trading, and news trading, along with common mistakes to avoid.

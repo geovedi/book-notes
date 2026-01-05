@@ -1,5 +1,6 @@
 # Right Ho, Jeeves
 **Original Title**: Right Ho, Jeeves | **Authors**: P.G. Wodehouse | **Year**: 1934
+**Category**: Fiction & Literature
 
 ## Summary
 This classic comic novel follows Bertie Wooster's disastrous attempts to help his friends with their romantic troubles while navigating his own potential engagement crisis. When Bertie's aunt Dahlia summons him to her country estate, he becomes entangled in multiple romantic complications: his friend Gussie Fink-Nottle needs help proposing to Madeline Bassett, and his cousin Angela has broken off her engagement to Tuppy Glossop.

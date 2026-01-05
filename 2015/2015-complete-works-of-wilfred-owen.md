@@ -1,5 +1,5 @@
 # Complete Works of Wilfred Owen
-**Authors**: Wilfred Owen | **Year**: 2015 (Delphi Classics Edition)
+**Authors**: Wilfred Owen | **Year**: 2015 (Delphi Classics Edition) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together the complete poetic works of Wilfred Owen, one of the most significant war poets of the 20th century. Born in 1893, Owen's life was cut short at age 25 when he was killed in action just one week before the Armistice that ended World War I. This volume spans his entire artistic journey, from his early romantic influences to the powerful, realistic war poetry that would define his legacy and change how we understand armed conflict through literature.

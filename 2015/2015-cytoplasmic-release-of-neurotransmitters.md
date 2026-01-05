@@ -1,5 +1,6 @@
 # Cytoplasmic Release of Neurotransmitters
 **Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Category**: Health & Medicine
 
 ## Summary
 This tutorial study guide explores the fascinating neurobiological mechanism of drug-induced cytoplasmic release of neurotransmitters, focusing primarily on amphetamine and related compounds. Written in a clear Q&A format, the book reveals how certain drugs can bypass normal neuronal activation by directly releasing neurotransmitters from the cytoplasm rather than from vesicles, fundamentally altering our understanding of how these substances affect the brain.

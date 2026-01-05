@@ -1,5 +1,6 @@
 # 30 Humorous Masterpieces You Have to Read Before You Die
 **Authors**: Various (Edwin Abbott Abbott, Oscar Wilde, P.G. Wodehouse, Mark Twain, Sinclair Lewis, et al.) | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This anthology brings together thirty of the most influential and entertaining humorous works in literary history, spanning from the 18th century to early 20th century. Curated by Golden Deer Classics, this collection serves as both entertainment and education, demonstrating how humor has evolved as a tool for social commentary, cultural critique, and human connection across different eras and societies.

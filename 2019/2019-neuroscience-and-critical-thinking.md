@@ -1,5 +1,6 @@
 # Neuroscience and Critical Thinking
 **Authors**: Albert Rutherford | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This book reveals how our brains are neurologically wired to form beliefs based on emotion rather than logic, and provides practical tools to overcome these inherent biases. Rutherford explains that critical thinking isn't innate but a learnable skill that requires awareness of our cognitive flaws and deliberate practice to overcome emotional responses that evolved for survival but hinder rational decision-making in modern life.

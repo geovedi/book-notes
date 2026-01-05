@@ -1,5 +1,6 @@
 # Porcelain and Pink
 **Authors**: F. Scott Fitzgerald | **Year**: 1922
+**Category**: Fiction & Literature
 
 ## Summary
 A delightful one-act comedy set in a summer cottage bathroom, featuring Julie Marvis enjoying a bath while singing nonsense songs and engaging in witty banter. When her conservative sister Lois enters, desperate to prepare for a date with the recently-divorced Mr. Calkins, a classic case of mistaken identity unfolds. Julie's playful refusal to hurry leads to Lois abandoning her with no towel, forcing Julie to rely on her wits.

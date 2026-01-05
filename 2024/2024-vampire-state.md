@@ -1,5 +1,6 @@
 # Vampire State: The Rise and Fall of the Chinese Economy
 **Authors**: Ian Williams | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 Vampire State is a groundbreaking exposé that challenges the conventional wisdom about China's economic miracle. Ian Williams, a veteran foreign correspondent with decades of experience covering China, argues that what appeared to be unstoppable economic rise was actually a fragile, debt-ridden system built on corruption, deception, and political expediency. The book reveals how the Chinese Communist Party's obsession with control has created what he calls a "vampire state" – an economy that feeds off its own people and global partners while hollowing out its future prospects.

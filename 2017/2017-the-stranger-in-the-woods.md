@@ -1,5 +1,6 @@
 # The Stranger in the Woods
 **Author**: Michael Finkel | **Year**: 2017
+**Category**: Psychology & Mental Health
 
 ## Summary
 This captivating narrative non-fiction tells the extraordinary true story of Christopher Knight, who lived completely alone in the forests of Maine for 27 years without any human contact. In 1986, at age 20, Knight simply drove away from civilization, abandoning his car and walking into the woods where he would remain hidden until his arrest in 2013. He survived by committing over 1,000 burglaries, stealing food, clothing, and supplies from nearby cabins while developing a reputation as the "North Pond Hermit."

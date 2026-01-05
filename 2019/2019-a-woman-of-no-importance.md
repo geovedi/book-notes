@@ -1,5 +1,6 @@
 # A Woman of No Importance
 **Author**: Sonia Purnell | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 This remarkable biography reveals the untold story of Virginia Hall, an American socialite who became one of World War II's most effective spies. After losing her leg in a hunting accident and being rejected from diplomatic service due to her disability, Hall defied expectations by joining Britain's Special Operations Executive (SOE) and organizing French Resistance networks behind Nazi lines. Operating under multiple identities in Lyon, she built spy circuits, coordinated sabotage operations, and orchestrated prison escapes—all while evading the Gestapo who knew her only as "The Limping Lady." Her incredible journey spans from Baltimore high society to the treacherous mountains of the Pyrenees, showcasing how one woman's determination helped change the course of the war.

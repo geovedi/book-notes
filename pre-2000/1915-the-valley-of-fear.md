@@ -1,5 +1,6 @@
 # The Valley of Fear
 **Authors**: Sir Arthur Conan Doyle | **Year**: 1915
+**Category**: Horror & Thriller
 
 ## Summary
 The Valley of Fear stands as one of Sherlock Holmes' most complex cases, weaving together a mysterious English country house murder with a gripping American backstory. The novel begins with Holmes receiving a coded warning from his informant Porlock about an impending danger to a man named Douglas at Birlstone Manor. Before Holmes can fully decipher the message, news arrives that Douglas has been brutally murdered in his locked study, seemingly impossible for any killer to have entered or escaped due to the house's medieval fortifications and raised drawbridge.

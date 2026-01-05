@@ -1,5 +1,6 @@
 # Statistics
 **Author**: John Slavio | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide demystifies the fundamental concepts of statistics and their practical applications in everyday life. The book takes readers from basic exploratory data analysis through advanced statistical techniques, showing how numbers and trends help us understand and predict the world around us.

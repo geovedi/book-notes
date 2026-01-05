@@ -1,6 +1,7 @@
 # Alexandra
 **Original Title**: Ἀλεξάνδρα (Alexandra)
 **Author**: Lykophron of Chalkis (attributed, likely pseudonymous) | **Year**: c. 190 BCE
+**Category**: Fiction & Literature
 
 ## Summary
 "Alexandra" is a notoriously complex and enigmatic Hellenistic Greek poem consisting of 1,474 lines of prophetic utterance delivered by Kassandra (also called Alexandra), the cursed prophetess of Troy. The poem is framed as a report from a guard to King Priam, recounting Kassandra's cryptic prophecies about the Trojan War and its aftermath, including the wanderings of Greek heroes and the eventual foundation of Rome by Trojan refugees.

@@ -1,5 +1,6 @@
 # The Theory of Business Enterprise
 **Authors**: Thorstein Veblen | **Year**: 1904
+**Category**: Business & Finance
 
 ## Summary
 Thorstein Veblen's "The Theory of Business Enterprise" presents a groundbreaking analysis of modern capitalism that distinguishes between the industrial system (which actually produces goods) and business enterprise (which seeks profit through financial manipulation). Veblen argues that the material framework of modern civilization is the industrial system, but the directing force that animates this framework is business enterprise. The characteristic features that dominate modern culture are the machine process and investment for profit.

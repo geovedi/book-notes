@@ -1,6 +1,7 @@
 # Stress is a Choice
 **Original Title**: Stress is een keuze
-**Authors**: Hilbrand Bos | **Year**: 2019 
+**Authors**: Hilbrand Bos | **Year**: 2019
+**Category**: Self-Help & Personal Development 
 
 ## Summary
 

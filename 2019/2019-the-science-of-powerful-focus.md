@@ -1,5 +1,6 @@
 # The Science of Powerful Focus
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Science of Powerful Focus" delivers exactly what its title promises - a comprehensive collection of 23 scientifically-backed methods to enhance productivity, discipline, and focus while reducing procrastination and stress. Hollins, drawing from personal transformation experiences and extensive research in behavioral economics, evolutionary biology, and achievement science, provides practical techniques that anyone can implement immediately.

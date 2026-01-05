@@ -1,5 +1,6 @@
 # Ghost Music
 **Authors**: Graham Masterton | **Year**: 2024
+**Category**: Horror & Thriller
 
 ## Summary
 Ghost Music tells the haunting tale of Gideon Lake, a composer who moves into a Greenwich Village brownstone and becomes entangled with his mysterious downstairs neighbor, Katherine "Kate" Solway. What begins as an attraction to a beautiful woman soon spirals into a supernatural horror story involving murdered families, organ trafficking, and vengeful spirits seeking justice.

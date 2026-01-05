@@ -1,5 +1,5 @@
 # Accounting: Step by Step Guide to Accounting Principles & Basic Accounting for Small Business
-**Authors**: Mark Smith | **Year**: 2018
+**Authors**: Mark Smith | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Accounting" is a comprehensive beginner's guide that demystifies the world of accounting for small business owners and entrepreneurs. The book breaks down complex financial concepts into understandable, actionable components, starting with the fundamental distinction between bookkeeping and accounting and progressing through essential financial statements, tax considerations, and practical implementation tips.

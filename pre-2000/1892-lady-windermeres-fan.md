@@ -1,5 +1,6 @@
 # Lady Windermere's Fan
 **Authors**: Oscar Wilde | **Year**: 1892
+**Category**: Fiction & Literature
 
 ## Summary
 

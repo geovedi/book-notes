@@ -1,5 +1,6 @@
 # 365 Mindset Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book is a comprehensive collection of 365 daily mindset quotes designed to build mental strength, positive habits, and self-discipline. Each day offers a carefully selected quote from renowned authors, thinkers, athletes, and leaders, accompanied by the author's insights on how to apply these wisdom nuggets to daily life. The book operates on the principle that consistent mental training—much like physical exercise—can transform your mindset and ultimately your reality.

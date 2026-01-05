@@ -1,5 +1,6 @@
 # Bobok
 **Original Title**: Бобок (Bobok) | **Author**: Fyodor Dostoyevsky | **Year**: 1873
+**Category**: Fiction & Literature
 
 ## Summary
 "Bobok" is a darkly satirical short story where the narrator, Ivan Ivanovitch, discovers he can hear the conversations of the dead in a cemetery. The story presents a biting critique of Russian society through the cynical, shameless voices of deceased aristocrats, officials, and petty criminals who continue their earthly vices and hypocrisies even after death. The title "bobok" refers to a mysterious word repeatedly uttered by the dead, possibly representing the remnants of their fading consciousness.

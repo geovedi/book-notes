@@ -1,6 +1,7 @@
 # 2024-Artificial Intelligence, Big Data, IoT and Blockchain in Healthcare
 **Original Title**: Artificial Intelligence, Big Data, IOT and Block Chain in Healthcare: From Concepts to Applications
 **Editor**: Yousef Farhaoui | **Year**: 2024 | **Publisher**: Springer Nature
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive edited volume explores how four transformative technologies—Artificial Intelligence, Big Data, Internet of Things, and Blockchain—are reshaping healthcare and other industries. The book moves beyond theoretical concepts to present practical implementations, real-world case studies, and expert perspectives on deploying these technologies to solve pressing challenges in modern healthcare systems.

@@ -1,5 +1,6 @@
 # Confident AI
 **Authors**: Andy Pardoe | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 

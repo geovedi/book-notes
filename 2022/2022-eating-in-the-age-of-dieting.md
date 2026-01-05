@@ -1,5 +1,5 @@
 # Eating in the Age of Dieting
-**Authors**: Rujuta Diwekar | **Year**: 2022
+**Authors**: Rujuta Diwekar | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 This book is a revolutionary collection of notes and essays that challenges modern diet culture and returns to traditional Indian food wisdom. Diwekar argues against the obsession with weight loss, calorie counting, and processed "health" foods, advocating instead for eating local, seasonal, and traditional foods that our grandmothers would recognize. The book reveals how the weight loss industry has created a vicious cycle of failure while traditional eating practices naturally lead to health and wellbeing.

@@ -1,5 +1,6 @@
 # How to Get Rich
 **Author**: Felix Dennis | **Year**: 2008
+**Category**: Business & Finance
 
 ## Summary
 Felix Dennis delivers a brutally honest, no-nonsense guide to building wealth from someone who actually did it—from welfare to multi-millionaire media mogul. This isn't another feel-good self-help book; it's a raw, sometimes profane, but incredibly practical roadmap that debunks wealth-building myths while exposing the harsh realities and sacrifices required.

@@ -1,5 +1,6 @@
 # The Tragedy of Romeo and Juliet
 **Authors**: William Shakespeare | **Year**: 1597
+**Category**: Romance & Relationships
 
 ## Summary
 In Verona, Italy, two noble families—the Montagues and Capulets—are locked in an ancient feud that spills blood in the streets. Against this backdrop of hatred, Romeo Montague and Juliet Capulet meet and fall instantly in love at a masked ball. Their whirlwind romance leads to a secret marriage performed by Friar Laurence, who hopes their union might end the family feud. However, fate intervenes when Romeo kills Juliet's cousin Tybalt in a street brawl and is banished from Verona.

@@ -1,5 +1,5 @@
 # Thinking in Pictures
-**Authors**: Temple Grandin, Oliver Sacks (Foreword) | **Year**: 2006
+**Authors**: Temple Grandin, Oliver Sacks (Foreword) | **Year**: 2006 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Thinking in Pictures" is Temple Grandin's groundbreaking memoir that reveals how her autistic mind processes the world through vivid visual imagery rather than language. As a person with autism who became a leading animal scientist and livestock facility designer, Grandin offers unprecedented insight into the autistic experience while demonstrating how different ways of thinking can become extraordinary strengths.

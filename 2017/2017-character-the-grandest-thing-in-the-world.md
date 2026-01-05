@@ -1,5 +1,6 @@
 # Character: The Grandest Thing in the World
 **Authors**: Orison Swett Marden | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Character, defined as love made concrete through daily actions and moral choices, represents the highest achievement of human development. Marden argues that true character transcends wealth, talent, or fame—it is the sum of our moral qualities that shapes not only our own destiny but also influences everyone around us. The book weaves together historical anecdotes, biographical sketches, and philosophical insights to demonstrate how character serves as the foundation of all genuine success and the only wealth that truly endures.

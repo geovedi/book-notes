@@ -1,5 +1,6 @@
 # The Mantle (The Overcoat)
 **Original Title**: Шинель (Shinel) | **Authors**: Nikolai Gogol | **Year**: 1842
+**Category**: Fiction & Literature
 
 ## Summary
 This tragicomic short story follows Akaki Akakievitch Bashmatchkin, a low-ranking government clerk in St. Petersburg who is ridiculed and ignored by everyone around him. Living a meager existence centered on his work copying documents, Akaki's life is transformed when he saves enough money to buy a new overcoat—a symbol of dignity and hope in a world that offers him none. The precious overcoat is stolen shortly after he purchases it, and Akaki's desperate attempts to recover it lead him through the bureaucratic maze of Russian officialdom, ultimately resulting in his tragic death.

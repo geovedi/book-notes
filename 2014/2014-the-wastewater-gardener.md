@@ -1,5 +1,5 @@
 # The Wastewater Gardener
-**Authors**: Mark Nelson, PhD, Tony Juniper (Foreword) | **Year**: 2014
+**Authors**: Mark Nelson, PhD, Tony Juniper (Foreword) | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "The Wastewater Gardener" presents a revolutionary approach to wastewater management that transforms human waste from a pollution problem into a valuable resource. Drawing from his experience as a biospherian in Biosphere 2 and decades of implementing ecological solutions worldwide, Nelson argues that our current sewage systems represent one of modern civilization's most wasteful and unsustainable practices. The book demonstrates how constructed wetlands and "Wastewater Gardens" can recycle sewage while creating beautiful ecosystems, conserving water, and returning nutrients to the soil.

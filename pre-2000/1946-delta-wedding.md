@@ -1,6 +1,7 @@
 # Delta Wedding
 **Original Title**: Delta Wedding
 **Authors**: Eudora Welty | **Year**: 1946
+**Category**: Fiction & Literature
 
 ## Summary
 Set in the Mississippi Delta during September 1923, Delta Wedding follows nine-year-old Laura McRaven as she travels to her extended family's plantation to attend the wedding of her seventeen-year-old cousin Dabney. Through Laura's innocent eyes, we witness the complex dynamics of the Fairchild family—wealthy, eccentric Southern plantation owners whose lives revolve around family gatherings, storytelling, and the impending marriage between Dabney and Troy Flavin, a family overseer.

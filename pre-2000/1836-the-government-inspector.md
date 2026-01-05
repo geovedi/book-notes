@@ -1,5 +1,6 @@
 # The Government Inspector
 **Original Title**: Ревизор (Revizor) | **Authors**: Nikolai Gogol | **Year**: 1836
+**Category**: Fiction & Literature
 
 ## Summary
 "The Government Inspector" is a devastating satire of provincial corruption and human gullibility that follows a case of mistaken identity with far-reaching consequences. When a low-level St. Petersburg clerk named Khlestakov arrives in a small Russian town, the local officials mistake him for the dreaded government inspector sent to investigate their corrupt practices. Panic ensues as the Governor, Judge, School Inspector, and other town officials desperately try to cover up their misdeeds while simultaneously attempting to bribe the supposed inspector. Khlestakov, a vain and empty-headed young man, plays along with their assumptions, spinning increasingly elaborate tales of his importance in St. Petersburg society and accepting money and gifts from everyone.

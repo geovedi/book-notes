@@ -1,5 +1,5 @@
 # A Grief Observed
-**Author**: C. S. Lewis | **Year**: 1961
+**Author**: C. S. Lewis | **Year**: 1961 | **Category**: Spirituality & Religion
 
 ## Summary
 C.S. Lewis's raw, intimate journal documenting his devastating grief following the death of his wife Joy Davidman. Originally published under a pseudonym, this unflinching exploration of sorrow, doubt, and faith challenges conventional religious comfort while revealing the profound paradoxes of love and loss. Lewis transforms his personal anguish into universal wisdom about how grief works, what it reveals about our beliefs, and how love continues beyond death.

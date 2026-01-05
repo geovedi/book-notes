@@ -1,5 +1,6 @@
 # Drive: The Surprising Truth About What Motivates Us
 **Authors**: Daniel H. Pink | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 Drive dismantles the traditional carrot-and-stick approach to motivation that has dominated organizations for decades. Drawing on decades of scientific research, Pink reveals that human motivation isn't primarily about external rewards but about our innate third drive—the intrinsic desire to direct our own lives, expand our abilities, and contribute to something larger than ourselves. The book demonstrates how this mismatch between what science knows and what business does is costing organizations dearly in productivity, creativity, and engagement.

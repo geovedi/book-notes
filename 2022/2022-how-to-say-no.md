@@ -1,5 +1,5 @@
 # How to Say No
-**Authors**: Willian Campbell | **Year**: 2022
+**Authors**: Willian Campbell | **Year**: 2022 | **Category**: Self-Help & Personal Development
 
 ## Summary
 

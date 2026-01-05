@@ -1,5 +1,5 @@
 # The Cruelest Miles
-**Authors**: Gay Salisbury, Laney Salisbury | **Year**: 2003
+**Authors**: Gay Salisbury, Laney Salisbury | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 In the winter of 1925, the remote gold-rush town of Nome, Alaska found itself trapped in a deadly diphtheria epidemic that threatened to wipe out the community's children. Completely isolated by seven months of frozen sea and without any fresh antitoxin, the town's only doctor faced a nightmare scenario. What unfolded was one of history's most desperate races against time—a 674-mile relay of dog sled teams through blinding blizzards and subzero temperatures to deliver life-saving serum. This gripping true story of courage, endurance, and the unbreakable bond between humans and their dogs showcases how twenty mushers and their heroic sled dogs risked everything to save thousands of lives.

@@ -1,5 +1,6 @@
 # The Complete Histories & History Plays of William Shakespeare
 **Authors**: William Shakespeare | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 Shakespeare's historical plays form a sweeping epic spanning nearly three centuries of English history, from the turbulent reign of King John to the opulent court of Henry VIII. These ten plays dramatize the Wars of the Roses and the rise of the Tudor dynasty, exploring how personal ambition, family feuds, and political maneuvering shaped the fate of nations. Written during Elizabeth I's reign, these works served as both entertainment and political commentary, drawing parallels between past and present while examining the nature of leadership, legitimacy, and power.

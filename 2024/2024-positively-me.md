@@ -1,5 +1,6 @@
 # Positively Me
 **Authors**: Nozibele Mayaba, Sue Nyathi | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Positively Me" is a powerful memoir that chronicles Nozibele Mayaba's journey from being a role model student and successful young professional to receiving an HIV diagnosis at age 22, despite being a virgin until months before her diagnosis. The book reveals how she transformed this life-altering news into a platform for activism, becoming an internationally recognized HIV advocate, podcaster, and TV host. Her story demonstrates that behind every statistic is a person with dreams, fears, and the capacity to create profound change.

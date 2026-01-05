@@ -1,5 +1,5 @@
 # Sacred Nature
-**Authors**: Nicola Laneri, Anna Perdibon | **Year**: 2022
+**Authors**: Nicola Laneri, Anna Perdibon | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "Sacred Nature" explores how ancient cultures understood and engaged with the natural world as a living, sacred community rather than as mere resources to exploit. The book challenges the Western nature/culture dichotomy and introduces a new understanding of animism as a relational worldview where humans, animals, plants, landscapes, and even objects participate as persons in a shared cosmic community. Through interdisciplinary research spanning archaeology, anthropology, and religious studies, the contributors reveal how ancient peoples across the globe—from Arctic America to Mesopotamia, from ancient Greece to the Biblical world—experienced nature as sacred, animate, and full of other-than-human persons with whom they maintained reciprocal relationships.

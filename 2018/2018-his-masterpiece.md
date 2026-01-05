@@ -1,5 +1,6 @@
 # His Masterpiece
 **Authors**: Émile Zola | **Year**: 2018 (reprint of classic)
+**Category**: Fiction & Literature
 
 ## Summary
 Claude Lantier, a young painter struggling in 19th-century Paris, embodies the tragic artist consumed by his vision. During a stormy night, he encounters Christine, a vulnerable young woman, and takes her into his studio. Their relationship becomes entwined with his artistic obsession as Claude works on his magnum opus - a massive nude painting that represents both his greatest ambition and potential downfall.

@@ -1,6 +1,7 @@
 # Peasant Eroticism and Peasant Feuds in Upper Bavaria
 **Original Title**: Bauernerotik und Bauernfehme in Oberbayern
-**Author**: Georg Queri | **Year**: 1911 
+**Author**: Georg Queri | **Year**: 1911
+**Category**: History & Biography 
 
 ## Summary
 

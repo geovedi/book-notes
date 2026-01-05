@@ -1,5 +1,5 @@
 # Sex, Time, and Power
-**Authors**: Leonard Shlain | **Year**: 2003
+**Authors**: Leonard Shlain | **Year**: 2003 | **Category**: Science & Nature
 
 ## Summary
 In this provocative exploration of human evolution, surgeon Leonard Shlain argues that women's sexuality and biology were the primary driving forces behind the development of uniquely human traits. He presents the controversial thesis that the "obstetrical dilemma"—the conflict between walking upright (requiring a narrow pelvis) and developing large brains (requiring large heads)—created an evolutionary crisis that shaped everything from human consciousness to culture, language, and social structures.

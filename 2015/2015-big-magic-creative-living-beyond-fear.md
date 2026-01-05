@@ -1,5 +1,6 @@
 # Big Magic: Creative Living Beyond Fear
 **Author**: Elizabeth Gilbert | **Year**: 2015
+**Category**: Art & Creativity
 
 ## Summary
 "Big Magic" explores the relationship between human creativity and the mysteries of inspiration. Gilbert presents creativity not as a rare talent reserved for artists, but as an essential part of human experience that belongs to everyone. The book argues that creative living—driven more strongly by curiosity than by fear—is the key to a more amplified, expansive, and interesting life. Through personal anecdotes, philosophical insights, and practical wisdom, Gilbert dismantles common myths about creativity and invites readers to embrace their inherent creative potential without the burden of suffering and perfectionism.

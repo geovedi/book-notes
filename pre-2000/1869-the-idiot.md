@@ -1,5 +1,6 @@
 # The Idiot
 **Authors**: Fyodor Dostoyevsky | **Year**: 1869
+**Category**: Fiction & Literature
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # NurtureShock: New Thinking About Children
 **Authors**: Po Bronson, Ashley Merryman | **Year**: 2009
+**Category**: Psychology & Mental Health
 
 ## Summary
 "NurtureShock" challenges conventional wisdom about child development by presenting cutting-edge scientific research that reveals how many modern parenting strategies are backfiring. The book demonstrates that our instincts about raising children are often wrong—not because they're not biologically driven, but because they're polluted by wishful thinking, outdated psychology, and moralistic biases.

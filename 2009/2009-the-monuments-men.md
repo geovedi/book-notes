@@ -1,5 +1,6 @@
 # The Monuments Men
 **Authors**: Robert M. Edsel, Bret Witter | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "The Monuments Men" tells the remarkable true story of a special unit of Allied soldiers during World War II—museum directors, curators, art historians, and archaeologists who risked their lives to save Europe's cultural heritage from destruction. This small group of 350 men and women from thirteen nations, known as the Monuments, Fine Arts, and Archives (MFAA) section, embarked on the greatest treasure hunt in history: tracking down and recovering millions of cultural treasures stolen by Hitler and the Nazis.

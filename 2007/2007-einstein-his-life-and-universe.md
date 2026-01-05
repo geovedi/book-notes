@@ -1,5 +1,6 @@
 # Einstein: His Life and Universe
 **Author**: Walter Isaacson | **Year**: 2007
+**Category**: Science & Nature
 
 ## Summary
 Walter Isaacson's comprehensive biography reveals Albert Einstein not just as a scientific genius who revolutionized our understanding of space, time, and gravity, but as a complex human being whose rebellious spirit, insatiable curiosity, and moral convictions shaped both his scientific breakthroughs and his role as a public intellectual. The book masterfully weaves together Einstein's personal struggles, political activism, and philosophical outlook with detailed explanations of his groundbreaking discoveries, showing how his character and imagination were intrinsically linked to his scientific genius.

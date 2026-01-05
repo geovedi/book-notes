@@ -1,5 +1,6 @@
 # On Killing
 **Author**: Dave Grossman | **Year**: 1995
+**Category**: Psychology & Mental Health
 
 ## Summary
 "On Killing" is a groundbreaking psychological study that reveals a profound truth about human nature: despite centuries of warfare and violence, humans have an innate resistance to killing their fellow humans. Lieutenant Colonel Dave Grossman demonstrates that throughout history, the vast majority of soldiers (75-85% in WWII) refused to fire their weapons in combat situations, even when their own lives were at risk. This book explores the psychological cost of overcoming this resistance through modern conditioning techniques and examines the resulting trauma that affects soldiers and society.

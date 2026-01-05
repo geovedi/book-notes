@@ -1,6 +1,7 @@
 # History of Slavery and Serfdom
 **Original Title**: Geschichte der Sklaverei und Hörigkeit
-**Authors**: John Kells Ingram | **Year**: 1895 
+**Authors**: John Kells Ingram | **Year**: 1895
+**Category**: History & Biography 
 
 ## Summary
 This comprehensive historical work traces the evolution of slavery from ancient civilizations through the medieval period of serfdom to the abolition of colonial slavery in the 19th century. Ingram presents slavery not merely as a moral evil but as a necessary stage in social development that enabled the transition from killing prisoners to using them productively, thus preserving human life and allowing civilization to advance.

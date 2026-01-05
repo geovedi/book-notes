@@ -1,5 +1,6 @@
 # 7 Short Stories That ISFPs Will Love
 **Authors**: O. Henry, Anton Chekhov, Washington Irving, Stephen Crane, Honoré de Balzac, Franz Kafka, Ryūnosuke Akutagawa | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This curated collection brings together seven masterful short stories from literary giants spanning different cultures and eras, each chosen to resonate with ISFP personality types who appreciate beauty, emotion, and authentic human experiences. From O. Henry's touching tale of sacrifice to Kafka's exploration of artistic devotion, these stories traverse the depths of human nature, the power of art, and the complexities of moral choice.

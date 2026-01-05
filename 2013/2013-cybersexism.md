@@ -1,5 +1,5 @@
 # Cybersexism
-**Authors**: Laurie Penny | **Year**: 2013
+**Authors**: Laurie Penny | **Year**: 2013 | **Category**: Technology & Computing
 
 ## Summary
 Cybersexism examines how the internet, once hailed as a genderless utopia where identity would become immaterial, has instead replicated and amplified real-world misogyny. Penny argues that the digital revolution and feminist revolution grew up together, both incomplete, and both facing fierce backlash. Through personal experience and cultural analysis, she reveals how women are routinely harassed, threatened, and silenced online simply for daring to have opinions and participate in digital public spaces. The book explores how cybersexism operates as a tool of social control, maintaining traditional gender hierarchies in the supposedly democratic realm of cyberspace.

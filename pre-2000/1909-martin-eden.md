@@ -1,5 +1,6 @@
 # Martin Eden
 **Authors**: Jack London | **Year**: 1909
+**Category**: Fiction & Literature
 
 ## Summary
 Martin Eden is a powerful semi-autobiographical novel that tells the story of a young, uneducated sailor from Oakland who, through sheer determination and self-education, transforms himself into a successful writer and intellectual. The novel follows Martin's meteoric rise from working-class poverty to literary fame, driven by his love for Ruth Morse, a young woman from the upper middle class whom he meets after rescuing her brother. Despite achieving the success he believed would make him worthy of Ruth, Martin ultimately becomes disillusioned with both the bourgeois society he sought to join and the hollow victory of his literary triumph.

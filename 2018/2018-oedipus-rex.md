@@ -1,5 +1,5 @@
 # Oedipus Rex
-**Original Title**: Οἰδίπους Τύραννος (Oidipous Tyrannos) | **Authors**: Sophocles | **Year**: c. 429 BCE
+**Original Title**: Οἰδίπους Τύραννος (Oidipous Tyrannos) | **Authors**: Sophocles | **Year**: c. 429 BCE | **Category**: Fiction & Literature
 
 ## Summary
 Oedipus Rex tells the story of Oedipus, a noble king who unknowingly fulfills a prophecy that he will kill his father and marry his mother. Set in Thebes during a devastating plague, the play follows Oedipus as he investigates the murder of the former king Laius to save his city. Through relentless inquiry, he discovers that he himself is the murderer and that Laius was his biological father, while his current wife Jocasta is his mother. The revelation leads to Jocasta's suicide and Oedipus's self-blinding as he accepts exile from Thebes.

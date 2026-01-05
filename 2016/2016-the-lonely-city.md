@@ -1,5 +1,5 @@
 # The Lonely City
-**Authors**: Olivia Laing | **Year**: 2016
+**Authors**: Olivia Laing | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Lonely City" is a profound exploration of urban loneliness that weaves together personal memoir, art criticism, and psychological research. Laing examines her own experience of loneliness during a period living in New York City, using the works of artists like Edward Hopper, Andy Warhol, and David Wojnarowicz to illuminate the complex nature of isolation. The book challenges our understanding of loneliness as a purely negative state, suggesting instead that it can be a source of creativity, empathy, and deeper connection to both ourselves and others.

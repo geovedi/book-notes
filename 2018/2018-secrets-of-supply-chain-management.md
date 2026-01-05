@@ -1,5 +1,5 @@
 # Secrets of Supply Chain Management
-**Authors**: Andrei Besedin | **Year**: 2018
+**Authors**: Andrei Besedin | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies supply chain management by revealing how strategic alignment, customer service focus, and operational excellence drive business success. The book demonstrates that supply chain effectiveness isn't just about moving products—it's about creating value through integrated strategy, perfect order delivery, and continuous improvement. Readers will learn to transform their supply chain from a cost center into a competitive advantage that directly impacts customer satisfaction and bottom-line results.

@@ -1,5 +1,6 @@
 # English Poetry II: From Collins to Fitzgerald
 **Original Title**: Harvard Classics, Volume XLI | **Authors**: Charles W. Eliot (Editor) | **Year**: 1909
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology captures the golden age of English poetry, spanning from the mid-18th century through the Victorian era. The collection showcases the evolution from formal classical verse to passionate Romantic expression and beyond, featuring the giants who defined their generations.

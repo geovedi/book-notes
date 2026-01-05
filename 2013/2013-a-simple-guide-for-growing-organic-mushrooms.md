@@ -1,5 +1,5 @@
 # A Simple Guide for Growing Organic Mushrooms
-**Authors**: Roby Jose Ciju | **Year**: 2013
+**Authors**: Roby Jose Ciju | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 This comprehensive guide demystifies organic mushroom cultivation, transforming what seems like a complex scientific process into an accessible practice for home gardeners and commercial growers alike. The book serves as both an introduction to mushroom biology and a practical handbook for growing ten major edible mushroom varieties using completely organic methods.

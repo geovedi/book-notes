@@ -1,6 +1,6 @@
 # For Ukraine
 **Original Title**: Voor Oekraïne
-**Authors**: Volodymyr Zelensky | **Year**: 2022 
+**Authors**: Volodymyr Zelensky | **Year**: 2022 | **Category**: History & Biography 
 
 ## Summary
 This powerful collection captures President Volodymyr Zelensky's most crucial speeches during the first five weeks of Russia's 2022 invasion of Ukraine, beginning with two pre-invasion addresses. Compiled as both historical record and call to action, these 25 speeches reveal a leader navigating his nation through existential crisis while appealing to the world's conscience.

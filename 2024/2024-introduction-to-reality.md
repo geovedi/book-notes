@@ -1,6 +1,7 @@
 # Introduction to Reality
 **Original Title**: Introduzione alla realtà
 **Authors**: Unknown (with contributions from Federico Campagna and Giuseppina Sciurba) | **Year**: Contemporary
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Introduction to Reality" is a profound philosophical exploration of how humans encounter and construct reality from the moment of birth through adulthood. The book presents reality not as a fixed, external construct, but as a dynamic interplay between subject and object, resistance and surrender, suffering and liberation. The author challenges conventional understandings of reality by examining how we are both introduced to reality and simultaneously introduce ourselves to it.

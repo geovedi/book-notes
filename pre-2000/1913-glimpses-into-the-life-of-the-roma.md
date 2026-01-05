@@ -1,6 +1,7 @@
 # Glimpses into the Life of the Roma: By a Roma
 **Original Title**: Blicke in das Leben der Zigeuner: Von einem Zigeuner
 **Author**: Engelbert Wittich | **Year**: 1913
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking ethnographic work offers a rare insider's perspective on German Roma life and culture in the early 20th century. Written by Engelbert Wittich, a Roma author who spent his early years traveling in wagons, the book challenges prevalent stereotypes and misconceptions about Roma people while documenting their traditions, occupations, social structures, and the systematic persecution they faced. Wittich provides an intimate view into the closed world of Roma communities, revealing a complex society with strict moral codes, rich cultural traditions, and remarkable artistic talents.

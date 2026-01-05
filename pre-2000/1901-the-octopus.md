@@ -1,5 +1,6 @@
 # The Octopus
 **Authors**: Frank Norris | **Year**: 1901
+**Category**: Fiction & Literature
 
 ## Summary
 Frank Norris's The Octopus is a landmark naturalist novel depicting the brutal struggle between California wheat ranchers and the powerful railroad monopoly in the late 19th century. Set in the San Joaquin Valley, the novel explores how corporate power controls land, transportation, and ultimately the fate of independent farmers through rate manipulation and political corruption. The story follows a community of ranchers led by Magnus Derrick as they organize resistance against the Pacific and Southwestern Railroad, which gradually tightens its grip through discriminatory freight rates, land claim disputes, and political influence.

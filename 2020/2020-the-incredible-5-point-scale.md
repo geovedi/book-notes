@@ -1,6 +1,7 @@
 # The Incredible 5-Point Scale: Assisting Students in Understanding Social Interactions and Controlling Their Emotional Responses
 **Original Title**: 神奇的5级量表（第2版）：提高孩子的社交情绪能力
-**Authors**: Kari Dunn Buron, Mitzi Curtis | **Year**: 2020 
+**Authors**: Kari Dunn Buron, Mitzi Curtis | **Year**: 2020
+**Category**: Psychology & Mental Health 
 
 ## Summary
 "The Incredible 5-Point Scale" is a groundbreaking practical guide that presents a simple yet powerful visual system for helping individuals, particularly those with autism spectrum disorders, understand and manage social interactions and emotional responses. The book introduces a systematic approach using a 5-point scale to make abstract social concepts concrete and manageable.

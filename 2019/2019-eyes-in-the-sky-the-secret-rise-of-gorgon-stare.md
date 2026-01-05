@@ -1,5 +1,6 @@
 # Eyes in the Sky
 **Author**: Arthur Holland Michel | **Year**: 2019
+**Category**: Technology & Computing
 
 ## Summary
 Arthur Holland Michel reveals the secret development and deployment of Gorgon Stare and wide-area motion imagery (WAMI) technology—surveillance systems that can monitor entire cities simultaneously. Born from military necessity in Iraq and Afghanistan, these "all-seeing eyes" represent a fundamental shift in surveillance capabilities, watching everything at once with unprecedented detail. The book traces the technology's journey from battlefield to civilian law enforcement, raising urgent questions about privacy, democracy, and the future of freedom in an increasingly watched world.

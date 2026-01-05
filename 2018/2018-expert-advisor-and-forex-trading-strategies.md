@@ -1,5 +1,6 @@
 # Expert Advisor and Forex Trading Strategies
 **Authors**: Wayne Walker | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies automated forex trading by presenting tested strategies that go beyond basic theory. Walker takes readers through a systematic development process, starting with the "Day of the Week Effect" strategy and progressively refining it with trend filters, volatility management, and professional trade management techniques. The book distinguishes itself by showing both successful results and failures, providing readers with realistic expectations about trading performance. It addresses critical differences between retail traders and institutional players, revealing how professionals actually manage positions and risk.

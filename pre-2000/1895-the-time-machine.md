@@ -1,5 +1,6 @@
 # The Time Machine
 **Authors**: H.G. Wells | **Year**: 1895
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Time Machine" tells the story of an unnamed Time Traveller who invents a machine capable of traveling through time and journeys to the year 802,701 AD. There he discovers a world inhabited by two evolved human species: the child-like, beautiful Eloi who live above ground, and the subterranean, predatory Morlocks. The Time Traveller gradually realizes this future world represents the ultimate consequence of Victorian class division, where the ruling class has evolved into passive creatures while the working class has become mechanized and cannibalistic. After his machine is stolen by the Morlocks, the Time Traveller must navigate this divided society to recover it and return to his own time, though not before witnessing the far future and the eventual death of Earth itself.

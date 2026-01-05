@@ -1,5 +1,5 @@
 # A Stolen Life
-**Authors**: Jaycee Dugard | **Year**: 2011
+**Authors**: Jaycee Dugard | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 Jaycee Dugard was just eleven years old when she was kidnapped at gunpoint during her morning walk to the school bus stop on June 10, 1991. For eighteen years, she was held captive by Phillip and Nancy Garrido in a secret backyard compound behind their Antioch, California home. During this time, she was repeatedly raped, gave birth to two daughters, and was forced to live under an assumed identity while being completely cut off from the outside world.

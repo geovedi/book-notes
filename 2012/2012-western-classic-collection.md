@@ -1,6 +1,7 @@
 # Western Classic Collection
 **Original Title**: 2012 Western Classic Collection
 **Authors**: Grace Livingston Hill, Clarence E. Mulford, B.M. Bower, Zane Grey | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 This Western Classic Collection brings together ten iconic Western tales from the golden age of American frontier literature. Spanning works from renowned authors like Zane Grey ("Riders of the Purple Sage") and Clarence E. Mulford ("Bar-20 Days"), this anthology captures the spirit of the American West through stories of rugged landscapes, determined pioneers, and the timeless struggle between civilization and wilderness. The collection features diverse narratives ranging from dramatic wilderness survival to complex romance set against the backdrop of frontier life.

@@ -1,5 +1,6 @@
 # You Don't Owe Anyone
 **Authors**: Caroline Garnet McGraw | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 This transformative book is a powerful permission slip for recovering perfectionists and people-pleasers to break free from the weight of others' expectations. Through vulnerable personal stories and practical wisdom, McGraw reveals how we become trapped by the false belief that we owe everyone our compliance, our forgiveness, our brave faces, and even our interactions. The book guides readers through ten essential areas where we mistakenly feel indebted to others, offering a path to reclaim our authentic selves and live with inner freedom.

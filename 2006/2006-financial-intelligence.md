@@ -1,5 +1,5 @@
 # Financial Intelligence
-**Authors**: Karen Berman, Joe Knight, John Case | **Year**: 2006
+**Authors**: Karen Berman, Joe Knight, John Case | **Year**: 2006 | **Category**: Business & Finance
 
 ## Summary
 Financial Intelligence is a practical guide that demystifies finance for non-financial managers, transforming intimidating numbers into accessible tools for better decision-making. The book establishes that financial intelligence isn't an innate ability but a learnable skill set comprising four key areas: understanding financial foundations, recognizing the artistry in financial reporting, analyzing data effectively, and seeing the big picture context.

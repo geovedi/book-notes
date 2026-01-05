@@ -1,6 +1,7 @@
 # The Hideout
 **Original Title**: Úkryt
 **Authors**: Egon Hostovský | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 "The Hideout" is a haunting psychological novel set during World War II that follows a Czech engineer who becomes entangled in a web of betrayal, love, and moral compromise. After developing an innovative gun-sight invention, the protagonist flees Nazi-occupied Czechoslovakia for Paris, where he descends into poverty and despair. His journey takes a dramatic turn when he's given refuge by Dr. Aubin in a hidden cellar, where he must confront his past choices and face an impossible moral dilemma that will determine not only his fate but the course of the resistance effort.

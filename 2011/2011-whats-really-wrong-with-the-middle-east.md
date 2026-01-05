@@ -1,5 +1,5 @@
 # What's Really Wrong With the Middle East
-**Authors**: Brian Whitaker | **Year**: 2011
+**Authors**: Brian Whitaker | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 Brian Whitaker, former Middle East editor at the Guardian, delivers a provocative analysis of the Arab world's fundamental problems that goes beyond surface-level political explanations. Written during the early Arab Spring uprisings, the book argues that the region's issues stem not just from authoritarian rulers but from deep-seated social, cultural, and educational factors that permeate Arab societies.

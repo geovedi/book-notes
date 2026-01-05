@@ -1,5 +1,6 @@
 # Minority Victory: Gilded Age Politics and the Front Porch Campaign of 1888
 **Authors**: Charles W. Calhoun | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 "Minority Victory" examines the pivotal 1888 presidential election that pitted incumbent Democrat Grover Cleveland against Republican challenger Benjamin Harrison. Despite Cleveland winning the popular vote, Harrison secured the presidency through an Electoral College victory in one of American history's most controversial elections. Calhoun argues that this election represented a critical turning point in American politics, marking the culmination of Gilded Age political transformation and setting precedents that would shape modern presidential campaigning and governance.

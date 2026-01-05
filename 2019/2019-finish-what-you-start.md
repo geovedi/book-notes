@@ -1,5 +1,6 @@
 # Finish What You Start
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Finish What You Start" is a practical guide to overcoming the universal struggle of following through on goals and intentions. The book addresses why we abandon projects at the first sign of difficulty and provides concrete strategies for building the self-discipline needed to complete what we start.

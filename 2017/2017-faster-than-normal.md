@@ -1,5 +1,6 @@
 # Faster Than Normal
 **Authors**: Peter Shankman, Edward Hallowell | **Year**: 2017
+**Category**: Psychology & Mental Health
 
 ## Summary
 Faster Than Normal reclaims ADHD as a competitive advantage rather than a deficit, arguing that the "faster than normal" brain is actually a gift that can be harnessed for extraordinary productivity and success. Shankman, a successful entrepreneur with ADHD, provides a playbook of practical strategies to transform ADHD traits from obstacles into assets.

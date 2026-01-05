@@ -1,5 +1,6 @@
 # Saving Time: Discovering a Life Beyond the Clock
 **Author**: Jenny Odell | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 

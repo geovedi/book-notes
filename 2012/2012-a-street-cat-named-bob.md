@@ -1,5 +1,6 @@
 # A Street Cat Named Bob
 **Author**: James Bowen | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 A Street Cat Named Bob is the heartwarming true story of James Bowen, a recovering heroin addict and street musician in London whose life is transformed when he befriends a injured ginger cat. The book chronicles how this chance encounter leads to profound changes in both their lives, showing how the bond between humans and animals can heal even the deepest wounds.

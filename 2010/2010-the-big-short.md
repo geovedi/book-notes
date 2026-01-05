@@ -1,5 +1,5 @@
 # The Big Short
-**Author**: Michael Lewis | **Year**: 2010
+**Author**: Michael Lewis | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 "The Big Short" tells the astonishing true story of the 2008 financial crisis through the eyes of a handful of misfits and outsiders who predicted the collapse of the housing market and bet against Wall Street. When everyone else was chasing profits in subprime mortgages, these iconoclasts saw the coming disaster and positioned themselves to profit from it. Michael Lewis transforms complex financial mechanisms into a gripping narrative about hubris, ignorance, and moral blindness in America's banking system.

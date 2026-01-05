@@ -1,5 +1,6 @@
 # The Maid of Orleans
 **Authors**: Friedrich Schiller | **Year**: 1801
+**Category**: Fiction & Literature
 
 ## Summary
 Friedrich Schiller's "The Maid of Orleans" is a powerful tragic drama that reimagines the story of Joan of Arc as a divine warrior called to save France from English domination during the Hundred Years' War. The play follows Johanna (Joan), a humble shepherd's daughter who receives heavenly visions commanding her to lead the French army, lift the siege of Orléans, and crown the Dauphin as king at Rheims.

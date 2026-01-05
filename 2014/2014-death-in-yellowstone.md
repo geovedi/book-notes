@@ -1,5 +1,5 @@
 # Death in Yellowstone
-**Author**: Lee H. Whittlesey | **Year**: 2014
+**Author**: Lee H. Whittlesey | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 This sobering yet fascinating book documents more than a century of fatalities in America's first national park, serving as both a historical record and a crucial safety guide. Whittlesey, Yellowstone's historian, chronicles deaths from natural causes (thermal features, wildlife, weather, drowning) and human activities (accidents, murders, suicides) while extracting vital lessons for park visitors.

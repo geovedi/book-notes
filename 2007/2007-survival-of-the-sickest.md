@@ -1,5 +1,6 @@
 # Survival of the Sickest
 **Authors**: Sharon Moalem, Jonathan Prince | **Year**: 2007
+**Category**: Health & Medicine
 
 ## Summary
 "Survival of the Sickest" presents a revolutionary perspective on disease, arguing that many illnesses that plague us today actually played a crucial role in human evolution. Dr. Sharon Moalem, a medical geneticist, reveals how conditions like hemochromatosis, diabetes, and high cholesterol persisted in our gene pool because they provided survival advantages to our ancestors facing different environmental challenges.

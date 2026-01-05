@@ -1,6 +1,7 @@
 # The Suicide of the German Reich
 **Original Title**: Der Selbstmord des Deutschen Reichs
 **Author**: Sebastian Haffner | **Year**: 1969
+**Category**: History & Biography
 
 ## Summary
 Sebastian Haffner's controversial historical analysis argues that the German Empire (1871-1949) was not destroyed by external forces but committed "suicide" through its own self-destructive foreign policies. The book traces how Germany, under Hitler's leadership and continuing into the postwar era, systematically pursued policies that inevitably led to its own destruction and division. Haffner challenges conventional narratives by emphasizing German agency in its own downfall, particularly through the obsessive pursuit of expansion eastward against Russia and the refusal to accept a realistic role in European politics.

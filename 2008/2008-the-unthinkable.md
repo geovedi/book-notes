@@ -1,5 +1,6 @@
 # The Unthinkable
 **Author**: Amanda Ripley | **Year**: 2008
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Unthinkable" reveals what really happens to our minds and bodies during disasters, drawing on real-life stories from 9/11, Hurricane Katrina, plane crashes, and other catastrophes. Ripley dismantles our myths about disaster behavior, showing that most people don't panic or become savages—they respond in surprisingly complex and often predictable ways.

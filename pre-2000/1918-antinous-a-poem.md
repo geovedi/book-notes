@@ -1,6 +1,7 @@
 # Antinous: A Poem
 **Original Title**: Antinous: A Poem (English)
 **Author**: Fernando Pessoa | **Year**: 1918
+**Category**: Fiction & Literature
 
 ## Summary
 A epic narrative poem exploring Emperor Hadrian's profound grief following the death of his beloved Antinous, who drowned in the Nile River. Through rich, sensual language and mythological references, Pessoa captures the emperor's journey from devastating loss to an almost divine transfiguration of his love into eternal art. The poem transforms personal tragedy into a meditation on love, death, memory, and the human desire to transcend mortality through artistic creation.

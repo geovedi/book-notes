@@ -1,5 +1,5 @@
 # Money is Good
-**Authors**: Rev. Anthony K. Boakye | **Year**: 2015
+**Authors**: Rev. Anthony K. Boakye | **Year**: 2015 | **Category**: Spirituality & Religion
 
 ## Summary
 "Money is Good" is a Christian financial guide that challenges the misconception that money is inherently evil. Rev. Boakye argues that God wants His children to prosper and that wealth is a blessing when acquired through righteous means and used for God's glory. The book presents a theological framework for financial prosperity, emphasizing that God is the ultimate source of wealth and that obedience to His principles leads to abundance.

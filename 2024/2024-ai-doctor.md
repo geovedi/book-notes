@@ -1,5 +1,6 @@
 # AI Doctor: The Rise of Artificial Intelligence in Healthcare
 **Authors**: Ronald M. Razmi | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 AI Doctor provides a comprehensive examination of how artificial intelligence is transforming healthcare, from diagnostics and therapeutics to clinical workflows and business operations. Written by a cardiologist-turned-venture capitalist who has experienced healthcare from multiple perspectives, the book offers a realistic yet optimistic view of AI's potential to revolutionize medicine while acknowledging the significant challenges that remain.

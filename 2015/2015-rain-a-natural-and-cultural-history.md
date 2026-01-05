@@ -1,5 +1,5 @@
 # Rain: A Natural and Cultural History
-**Author**: Cynthia Barnett | **Year**: 2015
+**Author**: Cynthia Barnett | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 Rain: A Natural and Cultural History is a sweeping exploration of humanity's relationship with the most essential weather phenomenon on Earth. Barnett weaves together science, history, culture, and personal narrative to reveal how rain has shaped civilization, inspired human creativity, and continues to influence our modern world. From the primordial storms that first fell on a young Earth to contemporary climate challenges, the book reveals rain as both a life-giving force and a destructive power that has captivated human imagination throughout history.

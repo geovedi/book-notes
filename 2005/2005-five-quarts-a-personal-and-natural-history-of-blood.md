@@ -1,5 +1,5 @@
 # Five Quarts: A Personal and Natural History of Blood
-**Author**: Bill Hayes | **Year**: 2005
+**Author**: Bill Hayes | **Year**: 2005 | **Category**: Health & Medicine
 
 ## Summary
 "Five Quarts" weaves together the fascinating scientific and cultural history of blood with deeply personal narratives. Hayes explores blood through multiple lenses—as a life force, a carrier of disease, a symbol of identity, and a source of both connection and exclusion. The book chronicles his partner Steve's journey with HIV/AIDS, while simultaneously tracing humanity's evolving understanding of blood from ancient humoral theory to modern medicine. Hayes masterfully connects the historical misconceptions about blood with contemporary issues like blood donation policies and the ongoing stigma surrounding HIV.

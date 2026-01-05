@@ -1,5 +1,6 @@
 # Economics for Beginners
 **Authors**: Giovanni Rigters | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 Economics for Beginners provides a comprehensive introduction to the fundamental principles of economics, tracing its evolution from early human societies to modern economic systems. The book explains how scarcity of resources drives economic decision-making at both individual and societal levels, and introduces core concepts like specialization, supply and demand, and different economic systems. It's designed for readers new to economics who want to understand how economic forces shape their daily lives and the broader world.

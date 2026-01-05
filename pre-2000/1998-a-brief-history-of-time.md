@@ -1,5 +1,6 @@
 # A Brief History of Time
 **Author**: Stephen Hawking | **Year**: 1998 (Updated Edition)
+**Category**: Science & Nature
 
 ## Summary
 Stephen Hawking's landmark work makes complex cosmology and theoretical physics accessible to general readers. The book traces humanity's understanding of the universe from ancient beliefs through Newton, Einstein, and modern quantum mechanics. Hawking explores fundamental questions about the origin, nature, and fate of the universe, including the Big Bang, black holes, and the search for a unified theory of everything.

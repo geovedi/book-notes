@@ -1,6 +1,7 @@
 # The Nutcracker
 **Original Title**: Der Nussknacker und Mausekönig (The Nutcracker and the Mouse King)
 **Author**: E.T.A. Hoffmann | **Year**: 1816
+**Category**: Children & Young Adult
 
 ## Summary
 "The Nutcracker" is a magical Christmas tale that blends reality with fantasy, following young Maria Stahlbaum's adventure with a enchanted nutcracker doll that comes to life. On Christmas Eve, Maria receives a nutcracker from her godfather Drosselmeier, which her brother Fritz accidentally breaks. When Maria tends to the wounded nutcracker late at night, she witnesses an epic battle between toys led by the nutcracker and an army of mice commanded by the seven-headed Mouse King. After Maria helps the nutcracker win by throwing her shoe at the Mouse King, she's transported to a magical kingdom where she learns the nutcracker's true identity as a cursed young man and hears the backstory of Princess Pirlipat's transformation.

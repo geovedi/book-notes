@@ -1,5 +1,5 @@
 # The Millionaire Next Door
-**Authors**: Thomas J. Stanley, William D. Danko | **Year**: 2010
+**Authors**: Thomas J. Stanley, William D. Danko | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 "The Millionaire Next Door" reveals the surprising truth about America's wealthy: they don't drive luxury cars, wear expensive clothes, or live in mansions. Through extensive research involving over 5,000 millionaires, Stanley and Danko discovered that most millionaires are self-made, live frugally, and build wealth through discipline and smart financial habits rather than high consumption.

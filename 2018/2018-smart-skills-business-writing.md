@@ -1,5 +1,5 @@
 # 2018-Smart Skills Business Writing
-**Author**: Patrick Forsyth | **Year**: 2018
+**Author**: Patrick Forsyth | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Smart Skills: Business Writing" presents business writing as "the business equivalent of an open goal" - a significant opportunity that most professionals fail to capitalize on. Forsyth argues that good writing isn't just about correctness; it's about achieving specific business objectives and building your professional reputation. The book provides a systematic approach to transforming your writing from a chore into a powerful tool for influence and effectiveness.

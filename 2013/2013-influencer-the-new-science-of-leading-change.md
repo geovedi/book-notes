@@ -1,5 +1,5 @@
 # Influencer: The New Science of Leading Change
-**Authors**: Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler | **Year**: 2013
+**Authors**: Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 "Influencer" reveals a systematic approach to creating rapid, profound, and sustainable behavior change. The authors argue that leadership isn't about authority or charisma—it's about your ability to influence human behavior. Through extensive research across business, healthcare, education, and social change, they've identified a learnable framework that anyone can master to become a powerful agent of change.

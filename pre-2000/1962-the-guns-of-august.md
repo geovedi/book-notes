@@ -1,5 +1,5 @@
 # The Guns of August
-**Author**: Barbara W. Tuchman | **Year**: 1962
+**Author**: Barbara W. Tuchman | **Year**: 1962 | **Category**: History & Biography
 
 ## Summary
 "The Guns of August" is a masterful narrative history that chronicles the first month of World War I, focusing on the critical decisions, military strategies, and human errors that led Europe into catastrophic conflict. Tuchman brings to life the thirty days between the assassination of Archduke Franz Ferdinand and the Battle of the Marne, revealing how a combination of rigid military plans, diplomatic failures, and personal misunderstandings transformed a regional crisis into a global war that would last four years and cost millions of lives.

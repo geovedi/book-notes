@@ -1,5 +1,6 @@
 # A Lady of Quality
 **Authors**: Frances Hodgson Burnett | **Year**: 1896
+**Category**: Fiction & Literature
 
 ## Summary
 In the tumultuous backdrop of late 17th century England (1690), we follow the extraordinary life of Clorinda Wildairs, born into privilege but raised in neglect. The ninth child of the brutish Sir Jeoffry Wildairs and his long-suffering wife, Clorinda enters the world moments after her mother's death, leaving her to grow up among servants with little guidance or love. Her fierce temperament and striking beauty set her apart from her plain siblings, as she learns to navigate a world where women possess little power but must use their wits and will to survive.

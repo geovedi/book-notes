@@ -1,5 +1,6 @@
 # The Complete Works of Edmund Spenser
 **Authors**: Edmund Spenser | **Year**: 1552-1599
+**Category**: Fiction & Literature
 
 ## Summary
 Edmund Spenser stands as one of England's greatest poets, best known for his epic allegorical masterpiece "The Faerie Queene." This comprehensive collection spans his entire literary output, from his early pastoral poetry to his mature allegorical works. Spenser's poetry fundamentally shaped English literature through his innovative use of language, complex allegorical structures, and profound exploration of moral and political themes. His works served both as entertainment and as sophisticated moral instruction, using rich mythological frameworks to explore virtues, vices, and the human condition.

@@ -1,6 +1,6 @@
 # The Dog and His Owner: How the Wolf Tamed Itself and Us
 **Original Title**: De hond en zijn baas: Hoe de wolf zichzelf en ons temde
-**Authors**: Josef Reichholf | **Year**: 2022
+**Authors**: Josef Reichholf | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 Josef Reichholf presents a revolutionary perspective on one of humanity's oldest relationships: the bond between dogs and humans. Through a blend of personal anecdotes, cutting-edge research, and evolutionary biology, Reichholf challenges the traditional narrative that humans deliberately domesticated wolves. Instead, he argues for "self-domestication" - wolves essentially chose to partner with humans, fundamentally changing both species in the process.

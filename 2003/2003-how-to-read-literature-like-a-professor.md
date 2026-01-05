@@ -1,5 +1,5 @@
 # How to Read Literature Like a Professor
-**Author**: Thomas C. Foster | **Year**: 2003
+**Author**: Thomas C. Foster | **Year**: 2003 | **Category**: Fiction & Literature
 
 ## Summary
 This book demystifies literary analysis by revealing the hidden codes, patterns, and conventions that professors use to understand literature. Foster argues that reading literature isn't about memorizing facts or finding "the right answer"—it's about learning to recognize the symbolic language that writers use to communicate deeper meanings. The book teaches readers to look beyond the surface story to uncover the universal patterns, mythological references, and symbolic elements that give literature its power and resonance.

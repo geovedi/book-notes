@@ -1,5 +1,6 @@
 # Self-Discipline for Tedious, Boring, and Difficult Things
 **Authors**: Peter Hollins | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Self-Discipline for Tedious, Boring, and Difficult Things" delivers a straightforward approach to building lasting self-discipline through strategic control over five key areas: time, priorities, output, environment, and emotions. Peter Hollins challenges the common myth that success requires magical motivation or overnight transformation, instead presenting a practical framework for applying focused effort where it matters most.

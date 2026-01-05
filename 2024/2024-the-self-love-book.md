@@ -1,6 +1,7 @@
 # The Self-Love Book: A Therapeutic Strategy for Self-Support and Acceptance
 **Original Title**: Книга любви к себе: Терапевтическая стратегия поддержки и принятия себя
-**Author**: Amy Tran | **Year**: 2024 
+**Author**: Amy Tran | **Year**: 2024
+**Category**: Psychology & Mental Health 
 
 ## Summary
 This transformative guide offers a compassionate, scientifically-grounded approach to self-love and emotional healing. Written by clinical psychologist Amy Tran, the book combines personal experience with cognitive behavioral therapy (CBT) techniques to help readers overcome anxiety, perfectionism, and self-criticism. Tran shares her own journey from burnout and anxiety attacks to finding peace through mindfulness, cognitive restructuring, and self-compassion. The book presents a clear framework: first calm the nervous system, then practice mindfulness, understand your thoughts and emotions, and finally rebuild core beliefs.

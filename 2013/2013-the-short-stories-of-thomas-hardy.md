@@ -1,6 +1,6 @@
 # The Short Stories of Thomas Hardy
 **Original Title**: The Short Stories Of Thomas Hardy
-**Author**: Thomas Hardy | **Year**: 2013 (Collection)
+**Author**: Thomas Hardy | **Year**: 2013 (Collection) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together Thomas Hardy's masterful short fiction, spanning his most celebrated tales from the late Victorian era. Hardy, architect-turned-novelist, captures the essence of rural Wessex with penetrating insight into human nature, class struggles, and the relentless workings of fate. His stories blend realistic portrayals of country life with supernatural elements, creating a unique literary landscape where ordinary people face extraordinary circumstances.

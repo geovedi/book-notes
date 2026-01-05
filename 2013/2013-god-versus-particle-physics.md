@@ -1,5 +1,5 @@
 # God Versus Particle Physics
-**Authors**: J.B. Davies | **Year**: 2013
+**Authors**: J.B. Davies | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "God Versus Particle Physics" is a provocative psychological analysis of how contemporary physics, particularly cosmology and particle physics, increasingly resembles religious belief systems in its reliance on metaphysical speculation. Davies, a psychologist specializing in human error and cognitive biases, argues that both religious fundamentalism and certain areas of modern physics require suspension of rationality and depend on equally untestable assumptions. The book challenges readers to question whether scientists, like religious authorities, sometimes ask us to abandon our rational faculties when their explanations defy common sense and observable reality.

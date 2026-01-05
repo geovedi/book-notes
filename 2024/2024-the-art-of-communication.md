@@ -1,5 +1,6 @@
 # The Art of Communication
 **Authors**: William Rogers | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Art of Communication" is a comprehensive guide to mastering the essential skill of connecting and influencing others in both personal and professional contexts. The book presents communication not merely as the exchange of words, but as a nuanced art form that requires intentionality, empathy, and practice. Rogers breaks down communication into its fundamental components, from understanding the psychological underpinnings of human connection to mastering practical techniques for active listening, emotional intelligence, and ethical persuasion.

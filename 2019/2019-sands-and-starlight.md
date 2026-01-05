@@ -1,5 +1,6 @@
 # Sands and Starlight
 **Authors**: Charlotte E. English | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Sands and Starlight is a magical fantasy set in a rich Middle Eastern-inspired world where sorcery, jinn, and ancient mysteries intertwine. The story follows Baradir, a trader who is gradually being transformed by a creeping magical affliction that turns parts of his body into enchanted glass. His desperate search for a cure leads him through mystical bazaars and across enchanted deserts, where he encounters powerful sorcerers, ancient jinn, and discovers that his three camels are far more than they appear.

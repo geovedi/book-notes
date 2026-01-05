@@ -1,5 +1,6 @@
 # Cyberpunk Fairy Tales
 **Authors**: George Saoulidis | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 A collection of dark cyberpunk reimaginings of classic fairy tales set in a dystopian future where technology has both enabled and destroyed human connection. These stories explore how traditional narratives transform when filtered through themes of corporate greed, technological alienation, social isolation, and the human cost of progress.

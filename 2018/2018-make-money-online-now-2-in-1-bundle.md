@@ -1,5 +1,6 @@
 # Make Money Online Now: 2-in-1 Bundle
 **Authors**: Marc Hayes, Madison Hall | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical 2-in-1 bundle serves as a comprehensive starter guide for aspiring online entrepreneurs, combining essential e-commerce strategies with social media marketing techniques. The first half focuses on leveraging Alibaba for product sourcing and dropshipping, while the second half provides actionable strategies for building a social media presence across multiple platforms. Written for beginners with limited budgets, the book emphasizes low-cost startup methods and practical implementation steps that can be executed immediately.

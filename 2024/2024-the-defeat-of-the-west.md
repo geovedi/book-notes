@@ -1,6 +1,7 @@
 # The Defeat of the West
 **Original Title**: La derrota de Occidente
 **Authors**: Emmanuel Todd, with the collaboration of Baptiste Touverey | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 Emmanuel Todd's provocative analysis argues that the Ukraine war represents not Russian aggression against a thriving West, but rather the final act of Western civilization's terminal decline. Todd contends that the West has undergone a profound transformation from nation-states to "post-imperial" entities hollowed out by the death of Protestantism, the collapse of traditional values, and the rise of nihilism. Meanwhile, Russia has emerged as a stabilized, conservative great power that the rest of the world increasingly sees as a preferable alternative to Western decadence.

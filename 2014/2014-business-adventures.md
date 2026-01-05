@@ -1,5 +1,5 @@
 # Business Adventures
-**Authors**: John Brooks | **Year**: 2014 (Original 1969)
+**Authors**: John Brooks | **Year**: 2014 (Original 1969) | **Category**: Business & Finance
 
 ## Summary
 "Business Adventures" is a collection of twelve classic stories from Wall Street that Bill Gates calls "the best business book I've ever read." Through compelling narratives of actual business events—from market crashes and corporate scandals to technological breakthroughs—Brooks reveals the timeless patterns of human behavior that drive markets and organizations. Each story reads like a thriller while delivering profound insights about business, leadership, and the irrational forces that shape financial decisions.

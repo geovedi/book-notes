@@ -1,6 +1,7 @@
 # Super Thinking: The Big Book of Mental Models
 **Original Title**: Супермышление. Как обходить ментальные ловушки и принимать эффективные решения (Supermyshleniye. Kak obkhodit' mental'nyye lovushki i prinimat' effektivnyye resheniya)
 **Authors**: Gabriel Weinberg, Lauren McCann | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Super Thinking" is a comprehensive guide to mental models—powerful frameworks that help you think more clearly, make better decisions, and understand the world around you. The book presents over 300 mental models from various disciplines including physics, economics, psychology, and mathematics, showing how to apply them to everyday situations.

@@ -1,5 +1,5 @@
 # The Beginning and the End of Everything
-**Authors**: Paul Parsons | **Year**: 2018
+**Authors**: Paul Parsons | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 This book takes readers on an incredible journey through the complete story of our universe - from its violent birth in the Big Bang 13.8 billion years ago to its ultimate fate billions of years in the future. Parsons masterfully explains complex cosmological concepts in accessible terms, revealing how everything we see around us emerged from a single moment of creation and how scientists have pieced together this cosmic detective story through observation and theoretical breakthroughs.

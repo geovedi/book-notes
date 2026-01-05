@@ -1,5 +1,6 @@
 # Tao Te Ching
 **Author**: Lao Tzu | **Year**: ~500 BCE | **Translation**: Jonathan Star (2008)
+**Category**: Spirituality & Religion
 
 ## Summary
 The Tao Te Ching is a foundational text of Chinese philosophy and spirituality, offering profound wisdom on living in harmony with the natural flow of existence. Written around 500 BCE, this collection of 81 poetic verses presents the concept of "Tao" - an ineffable, universal principle that underlies all reality. The teachings emphasize simplicity, humility, non-attachment, and the power of yielding rather than forcing. The text guides readers toward a way of being that transcends conventional thinking about success, power, and achievement, suggesting that true mastery comes from aligning with the natural rhythms of life rather than struggling against them.

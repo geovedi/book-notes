@@ -1,6 +1,7 @@
 # Six Impossible Things
 **The 'Quanta of Solace' and the Mysteries of the Subatomic World**
 **Authors**: John Gribbin | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 John Gribbin's "Six Impossible Things" is a fascinating exploration of quantum physics's deepest mysteries and the various interpretations physicists have proposed to make sense of them. The book takes its title from Lewis Carroll's "Alice in Wonderland," reflecting the bizarre nature of quantum reality where particles can be in multiple places at once, cats can be both alive and dead, and the act of observation seemingly creates reality itself. Gribbin, a renowned science writer, guides readers through the double-slit experiment—the central mystery of quantum mechanics—before introducing six competing interpretations that physicists have embraced to find "quantum solace" in the face of these paradoxes.

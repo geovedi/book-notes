@@ -1,5 +1,6 @@
 # Terminal Freeze
 **Author**: Lincoln Child | **Year**: 2009
+**Category**: Horror & Thriller
 
 ## Summary
 A team of climate scientists conducting routine research in the remote Arctic makes an extraordinary discovery: a prehistoric creature frozen perfectly preserved in the ice. As the ice begins to melt due to unusual atmospheric conditions, the creature revives with terrifying consequences. The scientists find themselves trapped in their isolated research base with an ancient, incredibly resilient predator that defies scientific explanation. As they struggle to survive, they must confront the possibility that some things are beyond scientific understanding and that the local indigenous legends about evil spirits on the mountain might hold more truth than they ever imagined.

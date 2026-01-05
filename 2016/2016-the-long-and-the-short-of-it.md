@@ -1,5 +1,5 @@
 # The Long and the Short of It
-**Authors**: Graeme Donald | **Year**: 2016
+**Authors**: Graeme Donald | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This fascinating book reveals the surprising origins and stories behind the measurement systems we use every day. From the width of a thumb to the height of Mount Everest, Donald uncovers how human body parts, historical accidents, and practical needs shaped the way we quantify our world. The book demonstrates that measurements are far from mundane—they're packed with historical intrigue, cultural quirks, and unexpected connections to everything from sports to warfare.

@@ -1,5 +1,6 @@
 # Think Like a Brand. Act Like a Startup.
 **Authors**: Lauren Perkins | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 This book presents a revolutionary framework for combining the stability and strategic foundation of established brands with the agility and innovation mindset of startups. Perkins argues that successful businesses in today's rapidly changing market must master both approaches—thinking like a brand to create long-term value and customer loyalty, while acting like a startup to maintain operational agility and innovation capacity. The book provides practical guidance for founders, corporate innovators, and business leaders on how to build sustainable growth engines that balance stability with adaptability.

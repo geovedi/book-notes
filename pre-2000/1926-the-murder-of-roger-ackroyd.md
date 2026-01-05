@@ -1,5 +1,6 @@
 # The Murder of Roger Ackroyd
 **Authors**: Agatha Christie | **Year**: 1926
+**Category**: Horror & Thriller
 
 ## Summary
 This groundbreaking mystery novel follows Dr. James Sheppard, a physician in the quiet village of King's Abbot, who becomes the assistant to the legendary Belgian detective Hercule Poirot. When wealthy widower Roger Ackroyd is found stabbed to death in his locked study, Poirot comes out of retirement to solve the case. The investigation reveals a complex web of secrets involving blackmail, hidden identities, and unexpected connections among the villagers. What begins as a classic whodunit becomes one of the most shocking and influential detective stories ever written, famous for its unprecedented narrative twist that redefined the mystery genre.

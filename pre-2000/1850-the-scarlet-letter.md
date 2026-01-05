@@ -1,5 +1,6 @@
 # The Scarlet Letter
 **Authors**: Nathaniel Hawthorne | **Year**: 1850
+**Category**: Fiction & Literature
 
 ## Summary
 "The Scarlet Letter" is a masterpiece of American literature set in 17th-century Puritan Massachusetts. The story follows Hester Prynne, a woman condemned for adultery who must wear a scarlet "A" on her chest as punishment. Despite public humiliation and exile, she maintains her dignity while raising her illegitimate daughter Pearl and protecting the identity of her lover, the respected Reverend Dimmesdale. The novel explores themes of sin, guilt, hypocrisy, and redemption through its complex characters and their moral struggles.

@@ -1,5 +1,6 @@
 # Walden Or Life In The Woods
 **Author**: Henry David Thoreau | **Year**: 1854
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Walden" chronicles Thoreau's two-year experiment in simple living at a small cabin he built near Walden Pond in Concord, Massachusetts. Seeking to discover the essential truths of existence by stripping away unnecessary distractions, Thoreau documents his deliberate attempt to live deliberately, examining nature, society, and the human condition through the lens of self-reliance and conscious observation.

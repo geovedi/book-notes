@@ -1,5 +1,6 @@
 # King Richard III
 **Authors**: William Shakespeare | **Year**: 1592-1594
+**Category**: Fiction & Literature
 
 ## Summary
 "King Richard III" portrays the ruthless ascent of Richard, Duke of Gloucester, who orchestrates a bloody path to England's throne through murder, manipulation, and betrayal. Set during the Wars of the Roses, this historical tragedy reveals how physical deformity fuels psychological monstrosity, as Richard systematically eliminates his family members—including his own brothers and nephews—to secure his crown.

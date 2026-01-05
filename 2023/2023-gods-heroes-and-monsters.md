@@ -1,5 +1,6 @@
 # Gods, Heroes and Monsters: A Global Journey Through Mythology
 **Authors**: Unknown (Edited collection) | **Year**: 2023
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Gods, Heroes and Monsters" takes readers on an extraordinary voyage across human civilization, exploring how ancient cultures from every corner of the globe used mythology to answer life's fundamental questions. The book reveals striking parallels between creation myths, flood stories, and hero journeys that emerged independently across continents, demonstrating how storytelling serves as humanity's universal tool for understanding the world.

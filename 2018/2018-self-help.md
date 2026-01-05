@@ -1,5 +1,5 @@
 # Self-Help
-**Authors**: Samuel Smiles | **Year**: 2018
+**Authors**: Samuel Smiles | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Self-Help" is a foundational work in the self-development genre that champions the principle that individual character, industry, and perseverance are the true foundations of personal and national success. Smiles argues that external help and government intervention are often enfeebling, while self-reliance and hard work invariably invigorate both individuals and societies. The book illustrates how people from the humblest backgrounds have achieved greatness through sheer determination, continuous effort, and moral integrity.

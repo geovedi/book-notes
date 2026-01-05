@@ -1,5 +1,6 @@
 # The Fall of the Dollar
-**Original Title**: De val van de Dollar 
+**Original Title**: De val van de Dollar
+**Category**: Business & Finance 
 
 ## Summary
 "The Fall of the Dollar" presents a comprehensive examination of the American dollar's rise to dominance as the world's reserve currency and explores the factors challenging this position in the 21st century. The book traces the dollar's journey from its origins in the late 18th century through its pivotal role in the Bretton Woods system, the petrodollar arrangements, and its current面临的 unprecedented challenges.

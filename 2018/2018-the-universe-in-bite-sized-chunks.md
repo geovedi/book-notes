@@ -1,5 +1,5 @@
 # The Universe in Bite-Sized Chunks
-**Authors**: Colin Stuart, Greg Stevenson (Illustrations) | **Year**: 2018
+**Authors**: Colin Stuart, Greg Stevenson (Illustrations) | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "The Universe in Bite-Sized Chunks" takes readers on an extraordinary journey across 93 billion light-years of space and nearly 14 billion years of time, all organized by increasing distance from Earth. This accessible astronomy guide breaks down the vastness of space into digestible pieces without complex mathematics or jargon, making the cosmos understandable for curious readers of all backgrounds.

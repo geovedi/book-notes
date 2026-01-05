@@ -1,5 +1,5 @@
 # 2018 Amazon FBA: Proven Step By Step Strategies to Make Money On Amazon FBA
-**Authors**: Mark Smith | **Year**: 2018
+**Authors**: Mark Smith | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 

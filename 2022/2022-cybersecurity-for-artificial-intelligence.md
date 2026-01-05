@@ -1,5 +1,5 @@
 # Cybersecurity for Artificial Intelligence
-**Authors**: Mark Stamp, Corrado Aaron Visaggio, Francesco Mercaldo, Fabio Di Troia | **Year**: 2022
+**Authors**: Mark Stamp, Corrado Aaron Visaggio, Francesco Mercaldo, Fabio Di Troia | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 This comprehensive academic volume explores the critical intersection of artificial intelligence and cybersecurity, focusing on how AI technologies can both enhance and threaten digital security. The book addresses the fundamental challenge that AI models are notoriously opaque "black boxes," creating significant vulnerabilities for cybersecurity applications. From a defensive perspective, the editors emphasize that "explainable AI" is fundamentally important for information security, as black boxes are inherently the enemy of security.

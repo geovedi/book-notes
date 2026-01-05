@@ -1,6 +1,7 @@
 # Contributions to the Theory and Technique of the Novel
 **Original Title**: Beiträge zur Theorie und Technik des Romans
-**Author**: Friedrich Spielhagen | **Year**: 1883 
+**Author**: Friedrich Spielhagen | **Year**: 1883
+**Category**: Art & Creativity 
 
 ## Summary
 This foundational work of literary theory represents Spielhagen's systematic exploration of novel writing as both art and craft. Written at the height of German realism, the book examines the novel's unique position in modern literature through eight essays that investigate everything from character creation to genre distinctions. Spielhagen argues passionately for the novel as the supreme literary form of modernity, capable of capturing the complexity of contemporary life in ways that poetry and drama cannot.

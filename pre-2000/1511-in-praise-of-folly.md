@@ -1,6 +1,7 @@
 # In Praise of Folly
 **Original Title**: Lob der Torheit
 **Author**: Erasmus of Rotterdam | **Year**: 1511
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 *In Praise of Folly* is a masterful philosophical satire that presents Folly (Stupidity) herself delivering a speech praising her own virtues and influence over human affairs. Written during Erasmus's travels from Italy to England, this revolutionary work uses humor and irony to critique the corruption, pretensions, and irrationalities of contemporary society, particularly targeting religious institutions, scholars, and political leaders. Folly argues that what humans call "folly" is actually the source of life's greatest joys, most authentic experiences, and most meaningful achievements.

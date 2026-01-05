@@ -1,5 +1,6 @@
 # The Blue Hotel
 **Authors**: Stephen Crane | **Year**: 1898
+**Category**: Fiction & Literature
 
 ## Summary
 Stephen Crane's "The Blue Hotel" is a gripping psychological drama that explores how fear, prejudice, and collective compulsion can spiral into tragedy. Set in a Nebraska prairie town during a blizzard, the story follows a paranoid Swedish traveler who arrives at the Palace Hotel and becomes convinced that the other guests are plotting to kill him. His unfounded accusations and aggressive behavior ultimately trigger a chain of events leading to his own death.

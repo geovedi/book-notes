@@ -1,5 +1,5 @@
 # The Lady and Her Monsters
-**Author**: Roseanne Montillo | **Year**: 2013
+**Author**: Roseanne Montillo | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "The Lady and Her Monsters" unveils the fascinating true story behind Mary Shelley's "Frankenstein" by exploring the real-life scientific experiments, anatomical discoveries, and cultural forces that shaped this masterpiece. Montillo masterfully weaves together the tales of Luigi Galvani's frog experiments, Giovanni Aldini's public attempts at human reanimation, and the scientific circles of late 18th-century Europe that blurred the lines between life and death. The book reveals how the age of Enlightenment, with its obsession with electricity, anatomy, and the possibility of conquering death, created the perfect intellectual climate for Shelley's gothic vision.

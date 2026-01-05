@@ -1,5 +1,5 @@
 # Globish: How English Became the World's Language
-**Author**: Robert McCrum | **Year**: 2010
+**Author**: Robert McCrum | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 Robert McCrum presents a sweeping historical narrative of how English evolved from a modest language spoken on a small island to the global lingua franca of the 21st century. The book traces this remarkable transformation through five distinct phases: Founders, Pioneers, Popularisers, Modernisers, and Globalisers. McCrum argues that English's global dominance isn't merely a product of British imperialism or American cultural influence, but rather a complex story of linguistic resilience, cultural adaptability, and historical timing.

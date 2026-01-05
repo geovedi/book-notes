@@ -1,5 +1,5 @@
 # She Got Up Off the Couch
-**Author**: Haven Kimmel | **Year**: 2006
+**Author**: Haven Kimmel | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 "She Got Up Off the Couch" is the memoir of Haven Kimmel's mother Delonda's remarkable transformation from a chronically depressed, mostly bedridden mother in small-town Mooreland, Indiana, to a college graduate with a master's degree in English. The story captures Delonda's decision to pursue higher education after seeing a TV commercial about CLEP tests (College-Level Examination Program), her journey through Ball State University, and the ripple effects this transformation has on her family.

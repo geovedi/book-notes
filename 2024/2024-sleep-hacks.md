@@ -1,5 +1,6 @@
 # Sleep Hacks: Discover the Life-Changing Tranquillity of Deep Sleep
 **Authors**: Keith Barry | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 Keith Barry's "Sleep Hacks" presents a revolutionary approach to achieving better sleep through his unique three-pillar system combining physical preparation, psychological techniques, and hypnomagical methods. As a world-renowned brain hacker and hypnotist, Barry brings three decades of expertise in subconscious programming to create a personalized sleep improvement system that goes beyond conventional sleep advice.

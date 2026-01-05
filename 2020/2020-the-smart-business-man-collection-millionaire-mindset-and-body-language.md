@@ -1,5 +1,6 @@
 # The Smart Business Man Collection: Millionaire Mindset and Body Language
 **Authors**: Alan Conor | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 This powerful collection combines two essential business skills: developing a millionaire mindset and mastering body language for effective communication. The first half focuses on cultivating wealth-building habits, strategic thinking, and success-oriented behaviors that distinguish the rich from the middle class. The second half reveals how to read non-verbal cues, detect deception, and communicate more effectively without saying a word. Together, these skills create a complete toolkit for business success and personal influence.

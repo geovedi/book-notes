@@ -1,6 +1,7 @@
 # 2018 Emotional Strength Training
 
 **Authors**: James J. Stamatelos | **Year**: 2018
+**Category**: Psychology & Mental Health
 
 ## Summary
 Emotional Strength Training offers a revolutionary approach to overcoming fear and anxiety by shifting from rational analysis to emotional transformation. Rather than fighting fear-based beliefs with logic—a method that often triggers defensive responses—EST teaches you to access states of inner strength through powerful emotional anchors called "Strength-Phrases." This technique works with your brain's natural wiring, calming the amygdala (fear center) and engaging the prefrontal cortex (rational mind).

@@ -1,5 +1,5 @@
 # The Functional Microfinance Bank
-**Authors**: Henry Oster Onyemah | **Year**: 2018
+**Authors**: Henry Oster Onyemah | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "The Functional Microfinance Bank" is a comprehensive guide to establishing and operating successful microfinance institutions with a focus on loan recovery strategies and risk management. The book addresses the critical challenge of loan defaults in microfinance banking, emphasizing that prevention begins before loan disbursement rather than after problems arise.

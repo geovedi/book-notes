@@ -1,5 +1,5 @@
 # Fire and Fury
-**Author**: Michael Wolff | **Year**: 2018
+**Author**: Michael Wolff | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 Fire and Fury is an explosive behind-the-scenes account of Donald Trump's first year in the White House, written by journalist Michael Wolff who had remarkable access to the West Wing. The book reveals a chaotic, dysfunctional administration run by an unprepared president and his warring inner circle. Wolff shows how Trump himself never expected to win the presidency, treating the campaign as a branding exercise that would make him "the most famous man in the world" even in defeat.

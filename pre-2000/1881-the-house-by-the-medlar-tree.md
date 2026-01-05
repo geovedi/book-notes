@@ -1,5 +1,6 @@
 # The House by the Medlar Tree
 **Original Title**: I Malavoglia | **Authors**: Giovanni Verga | **Year**: 1881
+**Category**: Fiction & Literature
 
 ## Summary
 "I Malavoglia" is a masterpiece of Italian verismo (realism) that chronicles the tragic decline of the Malavoglia family, a noble but poor family of fishermen in the Sicilian village of Aci Trezza during the 1860s. The novel follows padron 'Ntoni, his son Bastianazzo, daughter-in-law Maruzza, and their grandchildren as they struggle to maintain their dignity and family unity against crushing economic hardship, social change, and fate.

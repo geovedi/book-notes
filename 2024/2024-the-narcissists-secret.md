@@ -1,5 +1,6 @@
 # The Narcissist's Secret
 **Authors**: Dan Desmarques | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Narcissist's Secret" reveals the hidden dynamics of narcissistic relationships and why narcissists seemingly hate those who threaten their fragile self-image. The book exposes how narcissists operate on a different energy frequency, viewing even genuine help and support as threats to their carefully constructed facade. Through personal experiences and psychological insights, Desmarques explains how narcissists systematically undermine, manipulate, and destroy those they perceive as competition, and more importantly, how victims can protect themselves and heal from narcissistic abuse.

@@ -1,5 +1,5 @@
 # The Art of Public Speaking
-**Authors**: Dale Carnegie | **Year**: 2018
+**Authors**: Dale Carnegie | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Art of Public Speaking" is a comprehensive guide that transforms stage fright into confidence by teaching that effective public speaking comes from within, not from external techniques. The book's foundational philosophy is that public speaking is "public utterance, public issuance, of the man himself" - meaning that authentic self-expression matters more than perfect mechanics.

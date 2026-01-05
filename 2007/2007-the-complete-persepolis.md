@@ -1,5 +1,6 @@
 # The Complete Persepolis
 **Author**: Marjane Satrapi | **Year**: 2007
+**Category**: Children & Young Adult
 
 ## Summary
 "The Complete Persepolis" is a powerful graphic memoir that tells the story of Marjane Satrapi's coming-of-age during the Islamic Revolution in Iran and her subsequent exile in Europe. Through striking black-and-white illustrations and candid narration, Satrapi transforms her personal journey into a universal story about identity, displacement, and the human cost of political upheaval. The book spans from her childhood in Tehran before the revolution, through the Iran-Iraq war, to her adolescence in Vienna and eventual return to Iran.

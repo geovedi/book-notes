@@ -1,5 +1,6 @@
 # The Magical World of Science
 **Authors**: Zsuzsanna Gyarmati, Ph.D. | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "The Magical World of Science" is a collection of 100 simple, safe experiments that children aged 9-15 can perform at home using everyday household items. The book transforms abstract scientific principles from physics, chemistry, and biology into tangible, hands-on experiences that spark curiosity and demonstrate the wonders of science in action.

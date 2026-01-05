@@ -1,5 +1,5 @@
 # The Pencil: A History of Design and Circumstance
-**Author**: Henry Petroski | **Year**: 2010 (Original 1989)
+**Author**: Henry Petroski | **Year**: 2010 (Original 1989) | **Category**: Technology & Computing
 
 ## Summary
 This remarkable book uses the humble pencil as a lens to explore the entire history of engineering, design, and human ingenuity. Petroski argues that behind every simple object lies a complex story of evolution, failure, and incremental improvement that reveals the essential nature of engineering itself. The pencil, far from being just a writing instrument, becomes a metaphor for how technology develops through the interplay of materials, markets, and human needs.

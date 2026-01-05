@@ -1,5 +1,6 @@
 # Flatland: A Romance of Many Dimensions
 **Authors**: Edwin A. Abbott | **Year**: 1884
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Flatland is a mathematical satire that explores dimensions through the eyes of A. Square, a two-dimensional being living in a world entirely flat and governed by rigid social hierarchy. When a mysterious visitor from the third dimension appears, A. Square's limited worldview is shattered as he's introduced to the concept of height and the existence of higher dimensions. The book serves as both a brilliant mathematical allegory and a pointed critique of Victorian social stratification, using geometric characters to expose the absurdity of prejudice and the dangers of closed-minded thinking.

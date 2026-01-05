@@ -1,6 +1,6 @@
 # Puss in Boots and Little Red Riding Hood
 **Original Title**: Кот в сапогах. Красная шапочка / Puss in Boots. Little Red Riding Hood
-**Authors**: Charles Perrault (adapted by A. A. Pakhomova) | **Year**: 2015
+**Authors**: Charles Perrault (adapted by A. A. Pakhomova) | **Year**: 2015 | **Category**: Children & Young Adult
 
 ## Summary
 This bilingual educational reader presents two of Charles Perrault's most beloved fairy tales in both Russian and English, designed specifically for language learners. The collection combines timeless storytelling with comprehensive language instruction, making classic literature accessible to English and Russian speakers.

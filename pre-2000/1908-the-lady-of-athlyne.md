@@ -1,6 +1,7 @@
 # The Lady of Athlyne
 **Original Title**: Lady Athlyne
 **Author**: Bram Stoker | **Year**: 1908
+**Category**: Romance & Relationships
 
 ## Summary
 *The Lady of Athlyne* is a romantic adventure novel that weaves together mistaken identity, transatlantic romance, and the collision of American and British aristocratic cultures. The story begins during a brutal February 1899 blizzard in New York, where Colonel Ogilvie and his daughter Joy embark on a European journey aboard the ship *Cryptic*. During the voyage, their Irish stewardess Mrs. O'Brien playfully suggests that only Lord Athlyne, a young nobleman she once cared for, would be worthy of marrying Joy. This innocent remark plants a seed of romance in Joy's imagination.

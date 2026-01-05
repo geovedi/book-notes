@@ -1,6 +1,7 @@
 # 2020 Masters of Prose Franz Kafka
 **Original Title**: Masters of Prose - Franz Kafka
 **Authors**: Franz Kafka, August Nemo (Editor) | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This collection showcases Franz Kafka's most influential works, featuring complete novellas like "The Metamorphosis" and "The Trial" alongside iconic short stories including "The Hunger Artist," "Before the Law," and "A Country Doctor." Kafka's distinctive literary vision transforms ordinary situations into haunting explorations of human alienation, bureaucratic absurdity, and the individual's struggle against incomprehensible forces.

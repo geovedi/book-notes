@@ -1,5 +1,6 @@
 # The Best of Jules Verne Collection
 **Authors**: Jules Verne | **Year**: 2019 (Collection)
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This comprehensive collection brings together four of Jules Verne's most celebrated adventure novels, showcasing his extraordinary vision and pioneering spirit in science fiction. Written in the 19th century, these stories continue to captivate readers with their blend of scientific speculation, thrilling exploration, and profound human drama. From the depths of the ocean to the center of the Earth, from a race around the globe to survival on a mysterious island, Verne's works transport readers to realms where human courage, ingenuity, and perseverance are tested against the mysteries of nature and technology.

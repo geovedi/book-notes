@@ -1,5 +1,6 @@
 # The Dawn of Everything
 **Authors**: David Graeber, David Wengrow | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 "The Dawn of Everything" demolishes the traditional narrative of human history that suggests we inevitably progressed from primitive equality to civilized hierarchy. Through archaeological evidence and anthropological research, the authors reveal that our ancestors actively experimented with countless social arrangements—seasonally switching between hierarchical and egalitarian structures, forming cities without kings, and developing agriculture without immediately settling into permanent states. The book argues that humans have always possessed three fundamental freedoms: the freedom to move, the freedom to disobey, and the freedom to imagine and enact different social realities.

@@ -1,5 +1,6 @@
 # Antony & Cleopatra
 **Authors**: William Shakespeare, Sidney Lee | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 Shakespeare's tragic masterpiece explores the epic romance between Mark Antony, one of Rome's three rulers, and Cleopatra, the captivating Queen of Egypt. Their passionate love affair becomes entangled in political power struggles as Antony faces growing conflict with his fellow triumvir Octavius Caesar. The story spans across Rome and Egypt, contrasting Roman duty and discipline with Egyptian sensuality and indulgence.

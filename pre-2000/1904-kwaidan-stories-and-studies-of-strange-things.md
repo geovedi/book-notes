@@ -1,5 +1,6 @@
 # Kwaidan: Stories and Studies of Strange Things
 **Authors**: Lafcadio Hearn | **Year**: 1904
+**Category**: Horror & Thriller
 
 ## Summary
 "Kwaidan" is a masterful collection of Japanese ghost stories, supernatural tales, and cultural studies by Western author Lafcadio Hearn, who became one of the foremost interpreters of Japanese culture to the West. The book presents seventeen traditional Japanese weird tales alongside scholarly observations about Japanese folklore, nature, and spiritual beliefs. Hearn's vivid prose captures the delicate balance between beauty and terror that characterizes Japanese supernatural literature, offering readers a window into the rich tradition of yokai, yurei, and other supernatural phenomena that have haunted Japanese imagination for centuries.

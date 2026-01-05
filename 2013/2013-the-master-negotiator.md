@@ -1,5 +1,5 @@
 # The Master Negotiator
-**Authors**: Stefan Amin Talab | **Year**: 2013
+**Authors**: Stefan Amin Talab | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 "The Master Negotiator: Behind the Scenes" is a comprehensive guide to negotiation psychology and strategy based on thousands of real-world negotiations. The book reveals that successful negotiation isn't about techniques or tactics—it's about understanding human factors and building partnership-based approaches. Drawing from experiences of bankers, purchasers, lawyers, and business professionals, Talab demonstrates how the "Master Negotiator" achieves sustainable results through empathy, strategic thinking, and relationship-oriented approaches.

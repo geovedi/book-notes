@@ -1,6 +1,7 @@
 # Grooming, Gossip, and the Evolution of Language
 **Original Title**: 梳毛、八卦及语言的进化 (Shūmáo, Bāguà, jí Yǔyán de Jìnhuà)
 **Author**: Robin Dunbar | **Year**: 1996
+**Category**: Science & Nature
 
 ## Summary
 This groundbreaking book explores the evolutionary origins of human language through a fascinating lens: the social grooming behaviors of primates. Dunbar argues that language evolved not primarily for sharing technical information or survival knowledge, but as a more efficient form of social bonding that replaced time-intensive physical grooming among our primate ancestors. The book reveals how the simple act of gossip—talking about other people—serves the same social function as monkeys spending hours picking through each other's fur.

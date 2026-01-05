@@ -1,5 +1,5 @@
 # SPQR: A History of Ancient Rome
-**Author**: Mary Beard | **Year**: 2015
+**Author**: Mary Beard | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 Mary Beard's SPQR challenges our traditional understanding of ancient Rome by examining how a small Italian village became one of history's most powerful empires. Spanning nearly 1,000 years from Rome's mythical founding to 212 CE, Beard argues that Rome's significance lies not just in its military might or political institutions, but in its ongoing dialogue with modern Western culture about power, citizenship, and identity. Rather than celebrating "great" Roman conquerors, she presents a nuanced view that acknowledges both Rome's achievements and its brutalities, showing how Roman history continues to shape our political vocabulary and assumptions about governance.

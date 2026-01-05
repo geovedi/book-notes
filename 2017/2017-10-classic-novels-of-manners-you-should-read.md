@@ -1,5 +1,6 @@
 # 10 Classic Novels of Manners You Should Read
 **Authors**: Jane Austen, William Makepeace Thackeray, Gustave Flaubert, Leo Tolstoy, Guy de Maupassant, Thomas Hardy, Edith Wharton | **Year**: 2017 (Collection), Original Works: 1811-1920
+**Category**: Fiction & Literature
 
 ## Summary
 This Golden Deer Classics collection gathers ten masterful novels of manners that explore the intricate social codes, moral complexities, and human relationships that defined society from Regency England through the Gilded Age. Spanning over a century of literary excellence, these works collectively examine how individuals navigate, challenge, and often succumb to the rigid expectations of their social environments.

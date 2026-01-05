@@ -1,5 +1,6 @@
 # The Sea-Wolf
 **Authors**: Jack London | **Year**: 1904
+**Category**: Fiction & Literature
 
 ## Summary
 Humphrey Van Weyden, a cultured literary critic, survives a ferry collision in San Francisco Bay only to be rescued by the ghost, a seal-hunting schooner commanded by the brutal Wolf Larsen. Forced into servitude, Van Weyden confronts raw nature and human cruelty, transforming from a gentleman scholar into a hardened survivor. The narrative explores the collision between intellectual idealism and primitive survival instincts when Van Weyden later meets Maud Brewster, another shipwreck survivor, and together they must overcome Larsen's tyranny and the merciless sea to survive.

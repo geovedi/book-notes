@@ -1,5 +1,6 @@
 # Burning Secret
 **Authors**: Stefan Zweig | **Year**: 1911
+**Category**: Fiction & Literature
 
 ## Summary
 A masterful psychological novella about manipulation, obsession, and the dark undercurrents of human desire. Set in an Austrian mountain resort, the story follows a handsome Baron who strategically befriends Edgar, a lonely twelve-year-old boy, solely to gain access to the boy's beautiful mother. What begins as a calculated seduction quickly evolves into a complex web of emotional manipulation that exposes the fragile boundaries between childhood innocence and adult passion.

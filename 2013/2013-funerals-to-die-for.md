@@ -1,5 +1,5 @@
 # Funerals to Die For
-**Author**: Kathy Benjamin | **Year**: 2013
+**Author**: Kathy Benjamin | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 This darkly humorous exploration of funeral customs takes readers on a fascinating journey through the weirdest, creepiest, and most bizarre death traditions from around the world and throughout history. Benjamin proves that humanity's creativity doesn't stop when it comes to disposing of bodies—everything from vampire prevention techniques to modern cryogenics gets its moment in the spotlight.

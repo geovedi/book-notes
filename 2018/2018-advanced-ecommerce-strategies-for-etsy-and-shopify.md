@@ -1,5 +1,5 @@
 # Advanced E-Commerce Strategies for Etsy and Shopify
-**Original Authors**: Madison Booker, Marc Hayes | **Year**: 2018
+**Original Authors**: Madison Booker, Marc Hayes | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide combines two books that provide practical strategies for building successful e-commerce businesses using both Etsy and Shopify platforms. The first section focuses on turning creative hobbies into profitable craft businesses on Etsy, while the second section provides detailed guidance on setting up and marketing Shopify stores for various product types.

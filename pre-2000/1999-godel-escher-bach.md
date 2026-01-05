@@ -1,5 +1,6 @@
 # Gödel, Escher, Bach: An Eternal Golden Braid
 **Authors**: Douglas R. Hofstadter | **Year**: 1999
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Gödel, Escher, Bach" explores the fundamental nature of consciousness and intelligence through an intricate analysis of patterns that emerge across mathematics, art, and music. The book's central thesis is that consciousness arises from "strange loops" - hierarchical systems that loop back on themselves in paradoxical ways. Hofstadter demonstrates how Kurt Gödel's incompleteness theorems in mathematics, M.C. Escher's impossible drawings, and Johann Sebastian Bach's complex musical compositions all exemplify the same underlying principle of self-reference and recursion that he believes gives rise to human consciousness.

@@ -1,5 +1,6 @@
 # Day Trading: 10 Best Beginners Strategies
 **Authors**: Mark Graham | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide introduces beginners to the world of day trading across multiple markets including stocks, penny stocks, forex, cryptocurrencies, and options. The book emphasizes that successful trading requires deep market knowledge, emotional discipline, and a well-defined strategy rather than luck or quick profits. It teaches that while anyone can learn to trade, it demands serious study, risk management, and the psychological fortitude to stick with proven methods through market volatility.

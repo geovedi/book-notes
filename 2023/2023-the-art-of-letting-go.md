@@ -1,5 +1,6 @@
 # The Art of Letting Go
 **Authors**: Nick Trenton | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

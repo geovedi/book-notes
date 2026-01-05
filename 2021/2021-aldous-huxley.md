@@ -1,5 +1,6 @@
 # Aldous Huxley
 **Author**: Jake Poller | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 "Aldous Huxley" by Jake Poller is a comprehensive critical biography that traces the life and intellectual evolution of one of the 20th century's most prescient thinkers. From his privileged Victorian upbringing and tragic early losses through his transformation from cynical satirist to mystical explorer, this biography reveals how Huxley's personal experiences shaped his profound insights into modern consciousness, spirituality, and the human condition. The book demonstrates how Huxley's lifelong struggle with what he termed "island universes" - the isolation of individual consciousness, social separation, and fragmented knowledge - ultimately led him to seek bridges between mind and body, self and other, humanity and the divine.

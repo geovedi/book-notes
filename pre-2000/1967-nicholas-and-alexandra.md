@@ -1,5 +1,5 @@
 # Nicholas and Alexandra
-**Author**: Robert K. Massie | **Year**: 1967
+**Author**: Robert K. Massie | **Year**: 1967 | **Category**: History & Biography
 
 ## Summary
 "Nicholas and Alexandra" is a masterful historical biography that traces the tragic story of Russia's last Tsar and his family, arguing that the hemophilia of their son Alexis and the resulting influence of the mystic Rasputin were pivotal factors in the fall of Imperial Russia. Massie, whose own son has hemophilia, brings both personal understanding and meticulous historical research to this intimate portrait of a family whose private drama had world-altering consequences.

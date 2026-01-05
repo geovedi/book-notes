@@ -1,6 +1,7 @@
 # Plastics: Just a Load of Rubbish?
 
 **Authors**: Alicia Chrysostomou | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 

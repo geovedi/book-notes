@@ -1,5 +1,6 @@
 # Away in the Wilderness
 **Authors**: R.M. Ballantyne | **Year**: 1863
+**Category**: Fiction & Literature
 
 ## Summary
 "Away in the Wilderness" follows the journey of Jasper Derry, a skilled hunter and trapper in the Canadian wilderness, as he travels hundreds of miles through the harsh terrain of Rupert's Land to claim his bride Marie Laroche. Accompanied by his friends Arrowhead, a stoic Indian warrior, and Heywood, an enthusiastic young artist, Jasper faces the challenges of frontier life including dangerous wildlife, treacherous rapids, severe weather, and encounters with various indigenous tribes. The story combines thrilling adventure with the gentle romance that drives Jasper's quest, culminating in marriage and the establishment of a new life in Canada.

@@ -1,5 +1,6 @@
 # Email Marketing Mastery
 **Original Title**: Email Marketing Books: The Complete 3-Book Bundle | **Authors**: Eric J. Scott | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive three-book bundle reveals how email marketing remains one of the most powerful digital marketing tools, delivering an incredible 4,000% ROI when executed properly. The collection guides beginners through the fundamentals, then advances to authority-building strategies and credibility enhancement techniques. Email marketing thrives because it provides direct access to customers' private spaces—their inboxes—making it more personal and effective than social media or mobile marketing when done with permission and value.

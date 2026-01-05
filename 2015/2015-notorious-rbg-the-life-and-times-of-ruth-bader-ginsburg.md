@@ -1,5 +1,6 @@
 # Notorious RBG: The Life and Times of Ruth Bader Ginsburg
 **Authors**: Irin Carmon, Shana Knizhnik | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 "Notorious RBG" tells the remarkable story of how Ruth Bader Ginsburg transformed from a quiet, underestimated lawyer into a cultural icon and fierce Supreme Court justice. The book chronicles her journey from facing blatant sexism as one of few women at Harvard Law School to becoming the architect of the legal battle for gender equality, winning five of six women's rights cases before the Supreme Court.

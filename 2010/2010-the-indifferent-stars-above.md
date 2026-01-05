@@ -1,5 +1,5 @@
 # The Indifferent Stars Above
-**Author**: Daniel James Brown | **Year**: 2010
+**Author**: Daniel James Brown | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 This harrowing narrative follows Sarah Graves, a 21-year-old bride who joins the Donner Party's ill-fated journey westward in 1846. What began as a quest for opportunity in California turned into one of America's most notorious survival stories when the party became trapped by brutal winter storms in the Sierra Nevada mountains. Brown focuses on Sarah's personal experience, cutting through centuries of myth to reveal the human reality of starvation, desperation, and the unthinkable choices made when hope vanished in the snowbound wilderness.

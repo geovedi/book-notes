@@ -1,5 +1,5 @@
 # Brainiac
-**Authors**: Ken Jennings | **Year**: 2006
+**Authors**: Ken Jennings | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 "Brainiac" is Ken Jennings' exploration of trivia culture, blending his personal journey from childhood trivia obsessive to his record-breaking 74-game Jeopardy! winning streak with a fascinating history of trivia in American life. Jennings argues that trivia, despite its name suggesting insignificance, is actually "nontrivial" - a complex, elegant pursuit worthy of study and respect. The book serves as both memoir and cultural analysis, examining why humans are drawn to accumulating seemingly useless knowledge and how trivia has evolved from Victorian parlor games to modern television competitions.

@@ -1,5 +1,6 @@
 # Botanical Folk Tales of Britain and Ireland
 **Authors**: Lisa Schneidau | **Year**: 2018
+**Category**: Fiction & Literature
 
 ## Summary
 "Botanical Folk Tales of Britain and Ireland" is a captivating collection of 39 traditional folk tales that weave plants, trees, and wildflowers into the heart of their narratives. Drawing from centuries-old oral storytelling traditions across Britain and Ireland, these tales connect readers to the natural world through magical stories where plants are not just background scenery but central characters that drive the narrative forward. The author, a conservationist and storyteller, has carefully selected and retold stories that bridge the gap between ancient folklore and our modern relationship with nature.

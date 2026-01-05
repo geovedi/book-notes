@@ -1,6 +1,7 @@
 # Cultural History of the Modern Age
 **Original Title**: Kulturgeschichte der Neuzeit
 **Author**: Egon Friedell | **Year**: 1927-1931
+**Category**: History & Biography
 
 ## Summary
 Egon Friedell's magnificent three-volume work traces "the crisis of the European soul from the Black Death to the First World War." Rather than a conventional history, Friedell presents cultural history as an art form—a series of vivid portraits, anecdotes, and insights that reveal the psychological and spiritual evolution of modern humanity. He argues that all history is ultimately legend, shaped by each era's own perspective, and that the historian's role is more poet than scientist.

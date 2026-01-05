@@ -1,5 +1,6 @@
 # Tea: The Drink that Changed the World
 **Authors**: Laura C. Martin | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 "Tea: The Drink that Changed the World" is a comprehensive exploration of how a single plant, Camellia sinensis, shaped civilizations, influenced global trade, sparked wars, and became the world's second most consumed beverage after water. The book traces tea's journey from its mythical discovery by Chinese Emperor Shen Nung around 3000 BCE to its modern-day status as a global commodity worth billions. Martin masterfully weaves together botany, history, cultural anthropology, and practical guidance to reveal how tea influenced everything from Buddhist meditation practices to British imperialism, from the American Revolution to modern health trends.

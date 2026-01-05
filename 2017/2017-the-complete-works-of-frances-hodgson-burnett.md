@@ -1,5 +1,6 @@
 # The Complete Works of Frances Hodgson Burnett
 **Authors**: Frances Hodgson Burnett | **Year**: 2017
+**Category**: Children & Young Adult
 
 ## Summary
 This collection brings together the three most beloved children's novels by Frances Hodgson Burnett, each exploring themes of resilience, kindness, and the transformative power of hope in the face of adversity. Burnett's works continue to captivate readers with their heartwarming stories of children who overcome seemingly insurmountable challenges through their innate goodness and determination.

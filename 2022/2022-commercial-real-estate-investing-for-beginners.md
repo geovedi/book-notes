@@ -1,5 +1,5 @@
 # Commercial Real Estate Investing for Beginners
-**Authors**: Mark Nelson | **Year**: 2022
+**Authors**: Mark Nelson | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 "Commercial Real Estate Investing for Beginners" is a comprehensive guide designed to help new investors escape the 9-to-5 grind and build passive income through commercial real estate. The book demystifies the complex world of commercial property investing, providing a step-by-step roadmap for starting with minimal experience. Author Mark Nelson, a 30-year commercial real estate veteran, shares practical insights on everything from basic terminology to advanced investment strategies.

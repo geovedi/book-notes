@@ -1,5 +1,6 @@
 # Abandon
 **Author**: Blake Crouch | **Year**: 2015
+**Category**: Horror & Thriller
 
 ## Summary
 On Christmas Day 1893, the entire population of Abandon, a remote Colorado mining town, vanished without a trace. When a mule skinner arrives days later, he finds untouched Christmas dinners, frozen drinks, and an eerie silence—only one small girl remains, who promptly shoots him. More than a century later, a team of researchers, including journalist Abigail Foster and her estranged father historian Lawrence, venture into the isolated San Juan Mountains to uncover the truth, armed with rare permits to explore the forbidden ghost town.

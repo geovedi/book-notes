@@ -1,5 +1,6 @@
 # The Devoted Friend
 **Authors**: Oscar Wilde | **Year**: 1888
+**Category**: Children & Young Adult
 
 ## Summary
 "The Devoted Friend" is Oscar Wilde's masterful fairy tale that uses a story-within-a-story structure to expose the dark side of selfish friendship disguised as benevolence. The tale follows a conversation between a Water-rat and a Linnet, where the Linnet tells the story of Little Hans, a kind-hearted gardener, and his exploitative relationship with the wealthy Miller.

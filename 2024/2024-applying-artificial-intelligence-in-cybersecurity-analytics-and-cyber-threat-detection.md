@@ -1,6 +1,7 @@
 # Applying Artificial Intelligence in Cybersecurity Analytics and Cyber Threat Detection
 
 **Authors**: Dr. Shilpa Mahajan, Dr. Mehak Khurana, Dr. Vania Vieira Estrela | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive technical guide explores the critical intersection of artificial intelligence and cybersecurity, providing practical frameworks for detecting and mitigating modern cyber threats using advanced AI and machine learning techniques. The book addresses the urgent need for intelligent security solutions in an era where traditional signature-based detection methods are increasingly insufficient against sophisticated, evolving attacks.

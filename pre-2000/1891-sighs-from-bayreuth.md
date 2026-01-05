@@ -1,6 +1,7 @@
 # Sighs from Bayreuth
 **Original Title**: Stoßseufzer aus Bayreuth
 **Author**: Oskar Panizza | **Year**: 1891
+**Category**: Fiction & Literature
 
 ## Summary
 "Sighs from Bayreuth" is a brilliant satirical epistle written as a desperate letter from Gottlieb Freundlich, a music teacher facing professional and personal ruin, to a newspaper editor. The piece viciously critiques Richard Wagner's music and the growing Wagnerian cult movement in late 19th-century Germany. Through the protagonist's tragicomic struggle to maintain his musical integrity while facing social ostracism and unemployment, Panizza delivers a scathing commentary on artistic conformity, cultural brainwashing, and the tyranny of artistic fashion.

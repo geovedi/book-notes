@@ -1,5 +1,5 @@
 # Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions
-**Author**: Ben Mezrich | **Year**: 2014
+**Author**: Ben Mezrich | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 "Bringing Down the House" tells the incredible true story of six MIT students who formed an elite blackjack team and used advanced mathematics, card counting, and sophisticated teamwork to legally win millions from Las Vegas casinos. What started as a mathematical exercise in probability theory evolved into a high-stakes cat-and-mouse game with casino security, complete with fake identities, surveillance evasion, and the glamorous lifestyle of high rollers.

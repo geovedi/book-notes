@@ -1,5 +1,6 @@
 # Physics of the Impossible
 **Author**: Michio Kaku | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 Renowned theoretical physicist Michio Kaku examines the world of science fiction technologies through the lens of modern physics, categorizing seemingly impossible phenomena into three classes based on their scientific plausibility. From force fields and teleportation to time travel and parallel universes, Kaku systematically analyzes what might actually be possible according to our current understanding of physical laws.

@@ -1,5 +1,5 @@
 # Science: An Introductory Reader
-**Authors**: Rudolf Steiner (compiled by Howard Smith) | **Year**: 2013
+**Authors**: Rudolf Steiner (compiled by Howard Smith) | **Year**: 2013 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This collection presents Rudolf Steiner's revolutionary insights into the nature and evolution of scientific thinking, tracing humanity's journey from ancient spiritual wisdom to modern materialistic science. Steiner reveals how science emerged through a gradual separation of human consciousness from direct spiritual experience, and proposes a renewed scientific approach that bridges natural and spiritual understanding. The book explores how mathematics, physics, and chemistry originated in inner human experiences that were later externalized and abstracted, leading to our current objective but soul-less scientific paradigm.

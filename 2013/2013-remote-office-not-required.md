@@ -1,5 +1,5 @@
 # Remote: Office Not Required
-**Authors**: Jason Fried, David Heinemeier Hansson | **Year**: 2013
+**Authors**: Jason Fried, David Heinemeier Hansson | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 "Remote: Office Not Required" is a comprehensive manifesto for the future of work that challenges the traditional office paradigm and presents a compelling case for distributed teams. Written by the founders of 37signals (now Basecamp), this book dismantles the myth that productivity requires physical presence, revealing how offices have become "interruption factories" that sabotage meaningful work.

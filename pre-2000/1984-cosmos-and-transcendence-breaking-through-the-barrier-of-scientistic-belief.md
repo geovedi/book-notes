@@ -1,6 +1,7 @@
 # Cosmos and Transcendence: Breaking Through the Barrier of Scientistic Belief
 **Original Title**: Cosmos e transcendência: rompendo a barreira da crença cientificista
 **Author**: Wolfgang Smith | **Year**: 1984 (revised 2008)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Wolfgang Smith delivers a groundbreaking critique of the scientific worldview that dominates modern thought, arguing that what began as the Scientific Revolution has evolved into "scienticism" - a belief system that cannot accommodate transcendence, meaning, or the sacred. Smith, uniquely qualified with backgrounds in mathematics, physics, and traditional metaphysics, traces the philosophical origins of modern scientific thought back to Descartes and demonstrates how contemporary physics itself undermines the scientistic worldview it helped create.

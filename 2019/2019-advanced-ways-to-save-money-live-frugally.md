@@ -1,5 +1,6 @@
 # Advanced Ways to Save Money & Live Frugally: Save Money Each Month for Retirement, Vacation & a Rainy Day
 **Authors**: Laura Bandito | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This practical guide offers straightforward, actionable strategies for building sustainable savings habits without sacrificing quality of life. The book focuses on implementing small but powerful changes in daily spending across multiple areas - from phone usage and shopping habits to home management and entertainment choices. By emphasizing discipline, conscious spending, and smart alternatives, readers can develop a comprehensive approach to frugal living that builds significant savings over time.

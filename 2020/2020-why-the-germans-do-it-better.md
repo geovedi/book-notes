@@ -1,5 +1,6 @@
 # Why the Germans Do It Better
 **Authors**: John Kampfner | **Year**: 2020
+**Category**: History & Biography
 
 ## Summary
 John Kampfner's provocative analysis argues that Germany has become a model nation excelling in areas where other countries, particularly Britain, have struggled. Drawing from a year of travels across Germany and interviews with citizens from all walks of life, Kampfner examines how Germany transformed from the pariah nation of the 20th century into a beacon of democratic stability, economic resilience, and moral leadership.

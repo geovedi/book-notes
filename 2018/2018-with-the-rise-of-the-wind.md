@@ -1,5 +1,5 @@
 # With the Rise of the Wind
-**Authors**: Jay Maclean | **Year**: 2018
+**Authors**: Jay Maclean | **Year**: 2018 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "With the Rise of the Wind" is a contemplative collection of essays and stories reflecting on life by the South China Sea. Written over eighteen years, these meditations explore the profound connections between human consciousness and the natural world, particularly the sea and its eternal rhythms. The book transforms simple observations of tides, winds, and marine life into deep philosophical inquiries about our place in the universe.

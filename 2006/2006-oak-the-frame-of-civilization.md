@@ -1,5 +1,5 @@
 # Oak: The Frame of Civilization
-**Author**: William Bryant Logan | **Year**: 2006
+**Author**: William Bryant Logan | **Year**: 2006 | **Category**: Science & Nature
 
 ## Summary
 "Oak: The Frame of Civilization" reveals how the oak tree fundamentally shaped human development and civilization. Logan argues that oak trees provided the essential framework—both literally and metaphorically—for human settlement, culture, and technology. From acorn-based societies that preceded agriculture to oak-built ships that enabled global exploration, to timber-framed houses that defined medieval communities, oak has been humanity's most consistent partner in progress.

@@ -1,5 +1,6 @@
 # Crucial Interventions
 **Authors**: Richard Barnett | **Year**: 2015
+**Category**: Health & Medicine
 
 ## Summary
 Based on the title "Crucial Interventions," this appears to be a work examining significant moments of intervention in medical history, likely focusing on the development of surgical and medical practices. The title suggests an exploration of pivotal moments where human intervention changed the course of medical treatment and patient outcomes.

@@ -1,5 +1,5 @@
 # First Impression Express
-**Authors**: Alice Young & KnowIt Express | **Year**: 2016
+**Authors**: Alice Young & KnowIt Express | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "First Impression Express" is a practical guide that teaches readers how to make memorable first impressions and build lasting connections in social and professional settings. The book provides a systematic approach to charming and connecting with people through multi-sensory engagement, structured conversation techniques, and strategic non-verbal communication.

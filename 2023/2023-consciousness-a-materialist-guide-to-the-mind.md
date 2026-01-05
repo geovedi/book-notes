@@ -1,5 +1,6 @@
 # Consciousness: A Materialist Guide to the Mind
 **Authors**: John Parrington | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 This book presents a revolutionary materialist account of human consciousness that argues our unique awareness emerges from three interconnected evolutionary developments: systematic tool use, complex language, and a radically restructured brain. Parrington challenges both traditional dualism and modern "hard problem" pessimism, demonstrating how language functions as a material force that has literally reshaped human brain function at every level. The book bridges neuroscience, philosophy, and evolutionary biology to explain how consciousness differs between humans and other species, and how understanding consciousness can help address mental health challenges and our species' future.

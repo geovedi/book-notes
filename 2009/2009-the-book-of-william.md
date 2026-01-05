@@ -1,5 +1,6 @@
 # The Book of William
 **Author**: Paul Collins | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "The Book of William" tells the remarkable 400-year journey of Shakespeare's First Folio from its humble beginnings as a practical preservation project to its status as the most sought-after secular book in history. Collins reveals how this 1623 collection of 36 plays—saving 18 works that would otherwise be lost—evolved from a commercial printing venture into a sacred cultural artifact that has shaped our understanding of literature itself.

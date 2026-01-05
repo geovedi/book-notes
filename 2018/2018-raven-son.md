@@ -1,5 +1,5 @@
 # Raven Son
-**Authors**: Nicholas Kotar | **Year**: 2018
+**Authors**: Nicholas Kotar | **Year**: 2018 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 The Raven Son trilogy is an epic fantasy saga that follows Voran, a young nobleman in the mountain city of Vasyllia, as he becomes entangled in ancient prophecies and supernatural conflicts. Set in a richly detailed world inspired by Russian folklore, the story weaves together multiple perspectives across three books: "The Song of the Sirin," "The Curse of the Raven," and "The Heart of the World."

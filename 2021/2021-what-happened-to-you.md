@@ -1,5 +1,6 @@
 # What Happened to You
 **Authors**: Oprah Winfrey, Bruce D. Perry | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 This groundbreaking book reframes how we understand human behavior by shifting the focus from "What's wrong with you?" to "What happened to you?" Through a series of profound conversations between Oprah Winfrey and renowned child psychiatrist Dr. Bruce Perry, the book illuminates how trauma shapes our brains, behaviors, and relationships. The authors combine scientific insights with compelling personal stories to reveal how early experiences create lasting patterns that influence our entire lives.

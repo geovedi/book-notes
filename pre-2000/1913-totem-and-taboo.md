@@ -1,6 +1,7 @@
 # Totem and Taboo: Some Points of Agreement Between the Mental Lives of Savages and Neurotics
 
 **Authors**: Sigmund Freud | **Year**: 1913
+**Category**: Psychology & Mental Health
 
 ## Summary
 

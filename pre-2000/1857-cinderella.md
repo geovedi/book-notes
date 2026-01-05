@@ -1,6 +1,7 @@
 # Cinderella
 **Original Title**: Aschenputtel
 **Authors**: Brothers Grimm | **Year**: 1857
+**Category**: Children & Young Adult
 
 ## Summary
 Cinderella tells the story of a kind, pious young girl who endures cruel treatment from her stepmother and stepsisters after her mother's death. Forced to work as a kitchen servant and sleep in ashes (earning her the nickname "Cinderella"), she maintains her goodness through daily visits to her mother's grave, where she plants a magical hazel tree that grants her wishes through a helpful white bird. When the prince announces a three-day festival to find his bride, Cinderella's magical tree provides her with increasingly beautiful gowns and golden slippers, allowing her to attend and captivate the prince. After losing her golden slipper on the final night, the prince searches for its owner, leading to Cinderella's triumphant discovery and marriage to the prince, while her cruel stepsisters face divine punishment for their wickedness.

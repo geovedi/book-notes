@@ -1,5 +1,6 @@
 # Digital Marketing: Strategies for Online Success
 **Authors**: Godfrey Parkin | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 "Digital Marketing: Strategies for Online Success" is a comprehensive guide that fundamentally rethinks marketing for the digital age. Parkin argues that traditional marketing models are broken and that businesses must embrace a paradigm shift from brand-centric, broadcast-style communication to customer-centric, relationship-based engagement. The internet has forever changed the balance of power between companies and consumers, creating an environment where customers are empowered through collaborative knowledge sharing and instant communication networks.

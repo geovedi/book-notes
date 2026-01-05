@@ -1,5 +1,5 @@
 # Bitcoin and Cryptocurrency Technologies
-**Authors**: Christopher Nygaard | **Year**: 2018
+**Authors**: Christopher Nygaard | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 "Bitcoin and Cryptocurrency Technologies" is a comprehensive beginner's guide that demystifies the complex world of digital currencies and blockchain technology. Written as an accessible introduction for newcomers, the book covers everything from basic cryptocurrency concepts to practical investing strategies, making it ideal for anyone curious about entering the cryptocurrency space.

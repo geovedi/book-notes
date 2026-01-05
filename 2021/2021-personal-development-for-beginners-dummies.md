@@ -1,5 +1,6 @@
 # Personal Development for Beginners & Dummies
 **Authors**: Giovanni Rigters | **Year**: 2021
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide demystifies self-improvement by presenting it as a holistic journey that encompasses every aspect of life. Rather than focusing solely on career or financial goals, the book argues that true personal development begins from within and radiates outward to affect health, relationships, career, finances, and self-care. The author emphasizes that self-improvement is not about quick fixes but rather consistent, gradual change built on fundamental principles and daily practices.

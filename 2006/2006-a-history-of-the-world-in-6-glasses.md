@@ -1,5 +1,5 @@
 # A History of the World in 6 Glasses
-**Authors**: Tom Standage | **Year**: 2006
+**Authors**: Tom Standage | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 This book reveals how six beverages—beer, wine, spirits, coffee, tea, and Coca-Cola—have shaped human history from the Stone Age to the present. Each drink emerged as a defining force during pivotal historical periods, influencing everything from agriculture and civilization to intellectual movements and globalization. Standage argues that understanding what humans drank and why provides a unique lens through which to view the grand sweep of history, showing how commodities can steer the course of human development as powerfully as kings, wars, or inventions.

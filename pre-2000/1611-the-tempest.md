@@ -1,5 +1,6 @@
 # The Tempest
 **Authors**: William Shakespeare | **Year**: 1611
+**Category**: Fiction & Literature
 
 ## Summary
 Prospero, the rightful Duke of Milan, has been betrayed and exiled to a remote island with his daughter Miranda. Through years of study, he has mastered magical arts and commands the spirit Ariel. When his treacherous brother Antonio sails near the island with the King of Naples, Prospero conjures a tempest to shipwreck them, beginning his elaborate plan for revenge and reconciliation.

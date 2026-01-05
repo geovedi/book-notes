@@ -1,5 +1,6 @@
 # Moby Dick
 **Authors**: Herman Melville | **Year**: 1851
+**Category**: Fiction & Literature
 
 ## Summary
 Moby Dick tells the story of Ishmael, a wandering sailor who joins the whaling ship Pequod commanded by the obsessive Captain Ahab. Ahab is consumed by vengeance against Moby Dick, a giant white whale that previously destroyed his boat and took his leg. What begins as a commercial whaling voyage transforms into Ahab's monomaniacal quest for revenge, dragging the diverse crew toward their inevitable doom.

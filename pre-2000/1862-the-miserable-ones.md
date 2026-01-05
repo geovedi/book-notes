@@ -1,6 +1,7 @@
 # The Miserable Ones
 **Original Title**: Les Misérables
 **Author**: Victor Hugo | **Year**: 1862
+**Category**: Fiction & Literature
 
 ## Summary
 "Les Misérables" is an epic historical novel that follows the lives of several characters in early 19th-century France, culminating in the June Rebellion of 1832. The story centers on Jean Valjean, an ex-convict who seeks redemption after serving 19 years in prison for stealing a loaf of bread to feed his starving family. The novel explores themes of justice, mercy, love, and social transformation through the interconnected lives of Valjean, the relentless police inspector Javert who pursues him, the young orphan Cosette whom Valjean adopts, the revolutionary student Marius who falls in love with Cosette, and the street-wise Gavroche who represents the spirit of Paris.

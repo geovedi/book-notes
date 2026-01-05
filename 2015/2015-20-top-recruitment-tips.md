@@ -1,5 +1,5 @@
 # 20 Top Recruitment Tips
-**Authors**: David Salmon | **Year**: 2015
+**Authors**: David Salmon | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 This practical business guide provides essential recruitment strategies for employers seeking to hire the right candidates for their organizations. The book presents a comprehensive framework covering the entire recruitment process, from understanding recruitment fundamentals to implementing effective hiring practices. It emphasizes that recruitment is one of the most critical business activities that directly impacts company growth, productivity, and long-term success.

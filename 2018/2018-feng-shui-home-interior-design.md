@@ -1,5 +1,6 @@
 # Feng Shui: Home Interior Design Household Decoration to Attract Prosperity, Love, Luck & Harmony
 **Authors**: Greenleatherr | **Year**: 2018
+**Category**: Art & Creativity
 
 ## Summary
 Feng Shui is the ancient Chinese art and science of arranging your living space to optimize the flow of chi (life force energy) through your environment. This practical guide demonstrates how your surroundings directly influence your thoughts, actions, and overall success in life. The book introduces the bagua map—a powerful tool that divides your home into nine specific areas, each corresponding to different aspects of your life including love, wealth, health, and career.

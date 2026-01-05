@@ -1,5 +1,5 @@
 # Charisma: How to Develop Personal Charisma and Leave that Lasting Impression on Everyone You Meet
-**Authors**: Jane Peters | **Year**: 2014
+**Authors**: Jane Peters | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Charisma is not an inborn trait but a learnable skill that combines specific behaviors, mindset, and communication techniques. This book breaks down charisma into practical components including emotional expressiveness, social sensitivity, and confident body language. The core premise is that anyone can develop charisma through conscious practice and application of specific techniques.

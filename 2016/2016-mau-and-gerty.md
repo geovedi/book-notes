@@ -1,6 +1,6 @@
 # Mau and Gerty
 **Original Title**: Mau en Gerty
-**Author**: Erik Schumacher | **Year**: 2016 
+**Author**: Erik Schumacher | **Year**: 2016 | **Category**: History & Biography 
 
 ## Summary
 "Mau and Gerty" is a sweeping historical biography that traces the extraordinary love story of Mau Hanemann and Gerty Kelemen against the backdrop of 20th-century European upheaval. From their first fateful meeting in Amsterdam on the eve of World War II, through their separate paths of persecution in concentration camps, to their eventual reunion and the challenges of building a new life in post-war Amsterdam, their story embodies both the triumph of human connection and the devastating impact of historical forces on individual lives.

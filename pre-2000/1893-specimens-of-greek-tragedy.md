@@ -1,5 +1,6 @@
 # Specimens of Greek Tragedy
 **Authors**: Aeschylus, Sophocles | **Year**: 1893 (Translation) | **Translator**: Goldwin Smith
+**Category**: Fiction & Literature
 
 ## Summary
 This collection presents selected works from the foundational pillars of Greek tragedy—Aeschylus and Sophocles—showcasing the evolution of drama from religious ritual to sophisticated art form. Aeschylus represents the heroic, religious origin of tragedy with grand themes of divine justice and moral order, while Sophocles demonstrates technical perfection and psychological depth, focusing on individual suffering and the irony of fate. These works explore timeless themes of justice versus mercy, individual versus state, human suffering versus divine will, and the consequences of hubris.

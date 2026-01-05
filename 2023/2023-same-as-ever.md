@@ -1,5 +1,6 @@
 # Same as Ever
 **Authors**: Morgan Housel | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "Same as Ever" explores the timeless patterns of human behavior that remain constant despite technological and social change. Housel argues that while the world transforms dramatically on the surface, the fundamental drivers of human behavior—greed, fear, optimism, tribalism, and the pursuit of happiness—never change. Through 23 short stories, he reveals how understanding these unchanging patterns provides better foresight than trying to predict specific future events.

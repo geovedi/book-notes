@@ -1,5 +1,5 @@
 # Life Purpose: How to Make Significant Changes that Transform Your Future & Attract Miracles to Your Life
-**Authors**: Robin Sacredfire | **Year**: 2016
+**Authors**: Robin Sacredfire | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This profound guide challenges conventional wisdom about finding your life purpose by emphasizing inner transformation over external validation. The author shares personal experiences and insights accumulated through years as a college lecturer, offering a spiritual perspective on personal growth that transcends cultural and societal limitations. The book explores how self-awareness, responsibility, and persistence can unlock miracles and meaningful life changes.

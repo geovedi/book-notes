@@ -1,5 +1,6 @@
 # Dinner with the President
 **Authors**: Alex Prud'homme | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 This fascinating historical exploration reveals how food and dining have shaped American politics and presidential leadership from George Washington to Joe Biden. Prud'homme demonstrates that the White House dining table has always been more than just a place to eat—it's where crucial political decisions are made, diplomatic relationships are forged, and American culture is reflected and shaped.

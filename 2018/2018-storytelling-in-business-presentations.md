@@ -1,5 +1,5 @@
 # Storytelling in Business Presentations
-**Authors**: John Clare | **Year**: 2018
+**Authors**: John Clare | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This book transforms the way professionals approach business presentations by shifting focus from data-dumping to storytelling. John Clare, a presentation coach with 25 years of experience, argues that effective presenters need to engage audiences emotionally, not just inform them intellectually. The book reveals how stories activate multiple brain regions, making messages more memorable and impactful than facts alone. Clare presents a comprehensive framework combining content preparation, storytelling techniques, and visual aid design to help professionals become compelling communicators who can inspire action and drive change.

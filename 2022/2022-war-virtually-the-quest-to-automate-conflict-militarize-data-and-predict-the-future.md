@@ -1,5 +1,5 @@
 # War Virtually: The Quest to Automate Conflict, Militarize Data, and Predict the Future
-**Authors**: Roberto J. González | **Year**: 2022
+**Authors**: Roberto J. González | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "War Virtually" is a groundbreaking investigation into how the US military is racing to automate warfare through artificial intelligence, big data, and predictive algorithms. Anthropologist Roberto J. González reveals how we've entered "War 4.0" - an era where Pentagon officials dream of conflict without soldiers, battlefields without blood, and decisions without human judgment. The book exposes the dangerous convergence of Silicon Valley innovation and military power, showing how the same technologies that power our smartphones and social media are being weaponized for digital warfare.

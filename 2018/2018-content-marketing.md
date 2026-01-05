@@ -1,5 +1,6 @@
 # Content Marketing: Strategies to Capture and Engage Your Audience
 **Authors**: Eric J Scott | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Content Marketing offers a comprehensive guide to building authority and attracting customers through valuable content creation. The book emphasizes understanding audience psychology, following your passion, and using strategic communication to engage your target market effectively. Scott provides practical frameworks for creating quality content, leveraging social media platforms, and expanding your reach through partnerships and events.

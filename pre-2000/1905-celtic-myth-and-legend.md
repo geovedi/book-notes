@@ -1,6 +1,7 @@
 # Celtic Myth and Legend: A Bite-Sized Guide
 **Original Title**: Celtic Myth & Legend, Poetry & Romance
 **Author**: Charles Squire | **Year**: 1905
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This comprehensive work unveils the ancient mythology of the British Isles, presenting the forgotten gods and heroes of the Celtic peoples who inhabited Ireland, Scotland, Wales, and England before Roman and Christian conquests. Squire reveals how these ancient deities evolved over time—from powerful gods of nature and war to medieval kings, saints, and eventually to the diminished fairies of folklore.

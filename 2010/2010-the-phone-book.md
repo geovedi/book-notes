@@ -1,5 +1,5 @@
 # The Phone Book: The Curious History of the Book That Everyone Uses But No One Reads
-**Author**: Ammon Shea | **Year**: 2010
+**Author**: Ammon Shea | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "The Phone Book" is an unexpected cultural history that explores what may be the most printed yet least examined book in human history. Shea dives deep into the telephone directory's remarkable journey from a 50-name pamphlet in 1878 New Haven to its role as a ubiquitous household item that has shaped American life for over a century. The book uncovers the fascinating paradox of a volume that has been printed more times than any other in history while remaining largely ignored and unexamined.

@@ -1,5 +1,6 @@
 # Geek Silicon Valley
 **Authors**: Ashlee Vance | **Year**: 2007
+**Category**: Technology & Computing
 
 ## Summary
 This place-based guide offers a comprehensive tour of Silicon Valley's most significant tech locations, from the legendary HP Garage to Google's sprawling campus. The book reveals how a unique combination of university talent, venture capital, military spending, and countercultural attitudes transformed the "Valley of Heart's Delights" (once known for its orchards) into the world's technology epicenter. Vance argues that Silicon Valley's success stems from a perfect storm of geographical advantages, academic excellence, and a collaborative yet competitive spirit that other regions have failed to replicate.

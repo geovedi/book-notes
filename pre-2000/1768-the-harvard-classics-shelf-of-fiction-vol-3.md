@@ -1,5 +1,6 @@
 # The Harvard Classics Shelf of Fiction Vol. 3
 **Authors**: Laurence Sterne, Jane Austen | **Year**: 1768, 1813
+**Category**: Fiction & Literature
 
 ## Summary
 This volume brings together two masterpieces of English literature that represent contrasting approaches to storytelling and human nature. Laurence Sterne's "A Sentimental Journey" offers a whimsical, introspective travel narrative that follows Yorick through France and Italy, focusing on emotional encounters and philosophical musings rather than conventional adventures. Jane Austen's "Pride and Prejudice" presents a sharp, satirical examination of manners, marriage, and social class in Regency England, centering on the headstrong Elizabeth Bennet and her complicated relationship with the proud Mr. Darcy.

@@ -1,5 +1,5 @@
 # The Secret Life of Kim Dotcom
-**Authors**: David Fisher | **Year**: 2013
+**Authors**: David Fisher | **Year**: 2013 | **Category**: Technology & Computing
 
 ## Summary
 "The Secret Life of Kim Dotcom" is a gripping account of the rise and fall of Megaupload, once the internet's 13th most visited website, and its flamboyant founder Kim Dotcom. The book chronicles how a simple idea to solve email limitations evolved into a global file-sharing empire that attracted the wrath of Hollywood and the U.S. government, culminating in a dramatic military-style raid on Dotcom's New Zealand mansion.

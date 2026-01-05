@@ -1,6 +1,7 @@
 # The Divine Comedy: Inferno
 **Original Title**: La Divina Commedia: Inferno
 **Author**: Dante Alighieri | **Year**: 1308-1320 (translated 1891, this edition 2020)
+**Category**: Fiction & Literature
 
 ## Summary
 Dante Alighieri's "Inferno" is the first part of his epic Divine Comedy, a medieval masterpiece that takes readers on a journey through the nine circles of Hell. The poem follows Dante himself as he wanders lost in a dark wood at midlife, only to be rescued by the Roman poet Virgil, who guides him through the realm of eternal damnation. Together they witness the systematic punishments of sinners, each tormented according to the nature of their sins in an elaborate moral hierarchy.

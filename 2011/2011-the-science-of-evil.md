@@ -1,5 +1,5 @@
 # The Science of Evil: On Empathy and the Origins of Cruelty
-**Authors**: Simon Baron-Cohen | **Year**: 2011
+**Authors**: Simon Baron-Cohen | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 Simon Baron-Cohen challenges the traditional concept of "evil" by proposing that human cruelty can be better understood through the scientific lens of empathy erosion. Rather than attributing harmful behavior to an unexplainable force of evil, he demonstrates that cruelty stems from a measurable lack of empathy that exists on a spectrum from zero to high degrees. The book presents a revolutionary framework that reclassifies what we traditionally call "personality disorders" as different forms of "zero degrees of empathy."

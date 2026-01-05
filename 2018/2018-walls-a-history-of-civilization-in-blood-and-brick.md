@@ -1,5 +1,5 @@
 # Walls: A History of Civilization in Blood and Brick
-**Author**: David Frye | **Year**: 2018
+**Author**: David Frye | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 David Frye reveals how walls have fundamentally shaped human civilization, from ancient Jericho to modern border barriers. This provocative history argues that walls weren't just defensive structures—they were the crucible in which civilization itself was forged. Frye demonstrates that virtually every civilization emerged behind walls, creating a divide between the "civilized" peoples who developed culture, arts, and sciences, and the "barbarians" who remained militaristic societies beyond the barriers.

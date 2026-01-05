@@ -1,5 +1,6 @@
 # The Warrior's Call
 **Authors**: Richard Fierce | **Year**: 2020
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In the third installment of the Dragon Riders of Osnen series, dragon rider Eldwin Baines and his dragon Sion find themselves caught in a desperate war against the mysterious False King who threatens the realm. When a deadly creature begins hunting dragons at night, decimating their ranks, Eldwin and fellow rider Maren must journey to the Conclave to seek help—only to discover the magical organization has been brutally attacked. Their quest leads them through dangerous territories, griffon attacks, and ultimately to a final battle where alliances are forged and sacrifices are made.

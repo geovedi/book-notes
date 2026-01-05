@@ -1,5 +1,5 @@
 # Stop Doubting Yourself and Find Your Inner Greatness
-**Author**: Cameron Gates | **Year**: 2018
+**Author**: Cameron Gates | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This practical self-help guide provides a roadmap for building self-confidence, overcoming self-doubt, and unlocking your inner potential. Cameron Gates presents 19 actionable strategies to help readers recognize their inherent worth, develop positive self-beliefs, and take control of their personal growth journey.

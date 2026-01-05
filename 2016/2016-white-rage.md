@@ -1,5 +1,5 @@
 # White Rage: The Unspoken Truth of Our Racial Divide
-**Authors**: Carol Anderson | **Year**: 2016
+**Authors**: Carol Anderson | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "White Rage" argues that throughout American history, whenever African Americans have made progress toward equality, white America has responded with systematic, policy-driven backlash designed to maintain racial hierarchy. This "white rage" is not visible violence like the Klan, but rather works through courts, legislatures, and government bureaucracies to undermine black advancement. From Reconstruction to Obama's presidency, each major gain for African Americans has been met with carefully crafted legal and political counterattacks that have dismantled progress and perpetuated inequality.

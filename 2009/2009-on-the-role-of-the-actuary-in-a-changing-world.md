@@ -1,5 +1,6 @@
 # On the Role of the Actuary in a Changing World
 **Authors**: John R. Gordon BSc FIA | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 This provocative critique examines the actuarial profession's purpose and direction in the context of the 2008 financial crisis and changing global priorities. Gordon argues that while the world desperately needs actuaries' skills and expertise, the profession is failing to serve the long-term public interest due to commercial conflicts, outdated thinking, and risk-averse governance.

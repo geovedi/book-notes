@@ -1,6 +1,7 @@
 # The Last Supper
 **Original Title**: L'ultima cena
 **Author**: Massimo Recalcati | **Year**: 1997 (New Edition 2024)
+**Category**: Psychology & Mental Health
 
 ## Summary
 Massimo Recalcati's "The Last Supper" is a groundbreaking psychoanalytic exploration of anorexia and bulimia that challenges traditional medical and psychiatric approaches. Drawing on Lacanian theory, Recalcati argues that these conditions should not be understood as mere eating disorders but as complex subjective positions that reveal fundamental truths about desire, lack, and the human relationship with the Other (the symbolic order of language and social structures).

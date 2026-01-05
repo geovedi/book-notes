@@ -1,5 +1,5 @@
 # Making Business Connections That Count
-**Authors**: Michal Stawicki | **Year**: 2016
+**Authors**: Michal Stawicki | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Making Business Connections That Count" is a practical guide that transforms networking from a daunting task into a natural, authentic process. Written by a former hardcore introvert who went from having zero business contacts to building a profitable business and connecting with influencers who have millions of followers, this book proves that anyone can master meaningful professional relationships.

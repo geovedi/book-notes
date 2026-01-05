@@ -1,5 +1,5 @@
 # The Art of War: Complete Texts and Commentaries
-**Authors**: Sun Tzu, Thomas Cleary (Translator) | **Year**: 2011
+**Authors**: Sun Tzu, Thomas Cleary (Translator) | **Year**: 2011 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Art of War" is a 2,500-year-old Chinese military treatise that has become the definitive guide to strategic thinking and competitive success across all domains of human endeavor. This comprehensive edition presents not just Sun Tzu's original 13 chapters but also additional classical texts on strategy, offering readers unprecedented access to the full spectrum of ancient Chinese strategic wisdom.

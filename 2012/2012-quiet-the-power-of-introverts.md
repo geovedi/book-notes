@@ -1,5 +1,6 @@
 # Quiet: The Power of Introverts in a World That Can't Stop Talking
 **Author**: Susan Cain | **Year**: 2012
+**Category**: Psychology & Mental Health
 
 ## Summary
 Susan Cain's "Quiet" challenges society's deep-seated bias toward extroversion and reveals how introverts bring unique strengths to a world that can't stop talking. The book demonstrates that introversion is not a flaw or deficiency, but a legitimate and valuable personality type with distinct advantages in creativity, leadership, and problem-solving.

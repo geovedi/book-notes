@@ -1,5 +1,6 @@
 # The Most Powerful Manipulation Techniques
 **Authors**: Tony Bennis | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 This comprehensive guide explores the psychology of manipulation, persuasion, and mind control techniques. The book reveals how emotional manipulators prey on people's fears, guilt, and insecurities to serve their selfish needs, while also presenting ethical ways to influence others positively. It covers Neuro-Linguistic Programming (NLP), body language reading, and practical strategies for both identifying manipulation and using influence constructively.

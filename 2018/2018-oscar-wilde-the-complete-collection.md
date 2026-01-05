@@ -1,5 +1,5 @@
 # Oscar Wilde: The Complete Collection
-**Authors**: Oscar Wilde | **Year**: 2018 (Collection), Works originally published 1880s-1890s
+**Authors**: Oscar Wilde | **Year**: 2018 (Collection), Works originally published 1880s-1890s | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection gathers Oscar Wilde's entire literary output—plays, novel, short stories, poems, essays, and personal writings—showcasing the full spectrum of his wit, wisdom, and artistic vision. From his dazzling social comedies that expose Victorian hypocrisy to his philosophical novel exploring aestheticism and morality, Wilde's work challenges conventional thinking while celebrating beauty, individuality, and intellectual freedom.

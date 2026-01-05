@@ -1,5 +1,5 @@
 # Introducing Sociology
-**Authors**: Richard Osborne, Borin Van Loon | **Year**: 2016
+**Authors**: Richard Osborne, Borin Van Loon | **Year**: 2016 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Introducing Sociology" serves as an accessible graphic guide to the foundational concepts, thinkers, and methodologies of sociology. The book presents sociology as a "martial art for self-defense" - a tool to unmask social domination and understand how social forces shape our lives. Through engaging visuals and clear explanations, it traces the discipline's origins in the wake of the French and Industrial Revolutions, introducing readers to the key thinkers who established sociology as a scientific study of society.

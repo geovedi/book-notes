@@ -1,6 +1,7 @@
 # Germans and Indo-European Migration
 **Original Title**: Немцы и Индоевропейская миграция
 **Author**: Andrey Tikhomirov | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 This scholarly work examines the ancient migratory movements of Germanic peoples from their Indo-European ancestral homeland in the Southern Urals-Black Sea region. The book synthesizes archaeological evidence, linguistic analysis, and genetic research to trace the formation and dispersal of Indo-European tribes across Europe, with particular focus on Germanic linguistic and cultural development. The author presents compelling evidence that modern Germanic languages emerged through mass migration from the European territory of modern Russia around 4,500 years ago.

@@ -1,5 +1,6 @@
 # Moby-Dick: The Complete Reader's Guide
 **Authors**: Herman Melville | **Year**: 1851
+**Category**: Fiction & Literature
 
 ## Summary
 Moby-Dick tells the story of Ishmael, a wandering sailor who joins the crew of the whaling ship Pequod, commanded by the mysterious and obsessed Captain Ahab. Ahab's sole purpose is to hunt and kill Moby Dick, the legendary white whale that previously destroyed his boat and cost him his leg. What begins as a commercial whaling voyage transforms into a monomaniacal quest for revenge that leads the entire crew to their doom, with only Ishmael surviving to tell the tale.

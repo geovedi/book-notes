@@ -1,5 +1,5 @@
 # Cleopatra: A Life
-**Author**: Stacy Schiff | **Year**: 2010
+**Author**: Stacy Schiff | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 

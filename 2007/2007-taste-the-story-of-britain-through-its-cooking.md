@@ -1,5 +1,6 @@
 # Taste: The Story of Britain Through Its Cooking
 **Authors**: Kate Colquhoun | **Year**: 2007
+**Category**: Art & Creativity
 
 ## Summary
 "Taste" is a sweeping culinary history that reveals how Britain's national identity, social structures, and cultural evolution can be traced through its relationship with food. From prehistoric cooking methods to modern gastronomic trends, Colquhoun demonstrates that what we eat, how we prepare it, and how we consume it reflects the deeper currents of British history—showing that food is not merely sustenance but a powerful lens through which to understand a nation's soul.

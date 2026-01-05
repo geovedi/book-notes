@@ -1,5 +1,6 @@
 # Trading with the Weekly High and Low
 **Authors**: Heikin Ashi Trader | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals two powerful forex trading strategies that leverage the magnetic attraction of previous weekly highs and lows. The book demonstrates how these significant price levels act as psychological barriers that attract market attention, creating predictable trading opportunities when prices approach these zones.

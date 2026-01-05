@@ -1,5 +1,6 @@
 # It Can't Happen Here
 **Authors**: Sinclair Lewis | **Year**: 1935
+**Category**: Fiction & Literature
 
 ## Summary
 "It Can't Happen Here" is a prophetic political satire that shows how American democracy could crumble under the weight of economic desperation and charismatic authoritarian leadership. The novel follows Berzelius "Buzz" Windrip, a populist senator who wins the 1936 presidential election on a platform of exaggerated economic promises and nationalistic rhetoric, then quickly transforms into a fascist dictator.

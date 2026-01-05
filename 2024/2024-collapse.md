@@ -1,5 +1,6 @@
 # Collapse
-**Original Title**: Colapso | **Author**: Written from Epuyén, Argentina | **Year**: 2024 
+**Original Title**: Colapso | **Author**: Written from Epuyén, Argentina | **Year**: 2024
+**Category**: Philosophy & Critical Thinking 
 
 ## Summary
 

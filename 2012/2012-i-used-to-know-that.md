@@ -1,5 +1,6 @@
 # I Used to Know That: Science
 **Authors**: Marianne Taylor, Caroline Taggart | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 "I Used to Know That: Science" is a refresher course in all the science fundamentals you learned (or should have learned) in school but have since forgotten. Written in an accessible, conversational style, the book covers physics, chemistry, and biology - the science trinity - explaining complex concepts in straightforward language without overwhelming technical jargon or mind-bending mathematics.

@@ -1,5 +1,6 @@
 # Conquer Your Deliverance
 **Author**: John Ramirez | **Year**: 2021
+**Category**: Spirituality & Religion
 
 ## Summary
 John Ramirez, a former high-ranking Satanist turned passionate Christian, delivers a practical guide to spiritual warfare and deliverance. Drawing from his dramatic conversion experience and years of ministry, Ramirez reveals the enemy's tactics and equips believers with biblical strategies to live in total freedom. The book addresses the growing spiritual attacks Christians face while providing a roadmap from spiritual immaturity to becoming "eagle Christians" who soar above enemy defeat.

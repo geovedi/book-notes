@@ -1,5 +1,6 @@
 # Hamlet
 **Authors**: William Shakespeare | **Year**: 1603
+**Category**: Fiction & Literature
 
 ## Summary
 In Elsinore Castle, Prince Hamlet of Denmark is plunged into despair after his father's sudden death and his mother Gertrude's hasty marriage to his uncle Claudius, the new king. When the ghost of Hamlet's father reveals he was murdered by Claudius, Hamlet is charged with avenging his death. What follows is a masterful exploration of revenge, madness, morality, and the human condition, as Hamlet feigns insanity while plotting to expose his uncle's guilt. The tragedy culminates in a blood-soaked finale where nearly all major characters meet their deaths, leaving the kingdom to be taken over by Norwegian Prince Fortinbras.

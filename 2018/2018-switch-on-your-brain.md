@@ -1,5 +1,5 @@
 # Switch On Your Brain: The Key to Peak Happiness, Thinking, and Health
-**Authors**: Dr. Caroline Leaf | **Year**: 2018
+**Authors**: Dr. Caroline Leaf | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 

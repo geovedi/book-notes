@@ -1,6 +1,7 @@
 # Language and Linguistics Between Myth and Reality
 **Original Title**: Lingue e linguaggio tra mito e realtà
-**Authors**: Silvia, Authors | **Year**: Unknown 
+**Authors**: Silvia, Authors | **Year**: Unknown
+**Category**: Philosophy & Critical Thinking 
 
 ## Summary
 This groundbreaking book systematically dismantles the most pervasive myths and prejudices surrounding languages and linguistics. Drawing on scientific evidence and linguistic research, the author reveals how deeply ingrained misconceptions about language superiority, dialect inferiority, and linguistic purity continue to cause cultural, social, and psychological harm worldwide.

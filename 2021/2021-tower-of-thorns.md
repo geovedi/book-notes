@@ -1,5 +1,6 @@
 # Tower Of Thorns
 **Authors**: Laura Greenwood | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Rapunzel has grown up knowing her prophecy by heart—that the first time she falls in love, her heart will be broken, and she'll end up locked in a tower. When her controlling Mother enrolls her at Grimm Academy, a school where fairy tale characters go to avoid their fate, Rapunzel finds herself drawn to Gavin, a handsome Lord. Despite their prophecies warning them away from love, the two can't resist their connection, setting in motion events that lead to an even bigger betrayal than Rapunzel ever anticipated.

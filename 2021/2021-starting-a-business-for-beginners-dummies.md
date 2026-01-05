@@ -1,5 +1,6 @@
 # Starting A Business For Beginners & Dummies
 **Authors**: Giovanni Rigters | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the entrepreneurial journey by breaking down business startup into manageable, actionable steps. The book emphasizes that passion and patience are the foundational elements that separate successful ventures from failed ones. It provides a comprehensive roadmap from initial idea validation through team building, helping first-time entrepreneurs navigate common pitfalls while maintaining their motivation through the inevitable ups and downs of business ownership.

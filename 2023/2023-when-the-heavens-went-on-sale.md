@@ -1,5 +1,6 @@
 # When the Heavens Went on Sale
 **Author**: Ashlee Vance | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 When the Heavens Went on Sale tells the story of the private space revolution sparked by SpaceX's historic first successful Falcon 1 rocket launch in 2008. This inciting incident proved that small, nimble companies could challenge government monopolies in space, unleashing a wave of entrepreneurs, engineers, and dreamers who raced to build affordable rockets and satellites. The book follows the journeys of several misfits and geniuses—from New Zealand's rocket-building Peter Beck to Silicon Valley's satellite constellation visionaries—each determined to democratize access to space and fundamentally reshape humanity's relationship with the final frontier.

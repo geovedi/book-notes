@@ -1,5 +1,5 @@
 # Fluoride: Drinking Ourselves to Death?
-**Authors**: Barry A. Groves | **Year**: 2001
+**Authors**: Barry A. Groves | **Year**: 2001 | **Category**: Health & Medicine
 
 ## Summary
 This controversial book examines the scientific evidence and ethical concerns surrounding water fluoridation, arguing that fluoride is more toxic than lead and only marginally less toxic than arsenic. Groves systematically dismantles the claims that fluoride prevents tooth decay, revealing instead that it merely delays dental decay by approximately 1.2 years while exposing populations to serious health risks including cancer, skeletal fluorosis, brain damage, and genetic mutations.

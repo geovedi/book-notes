@@ -1,5 +1,5 @@
 # The 48 Laws of Power
-**Authors**: Robert Greene, Joost Elffers | **Year**: 2000
+**Authors**: Robert Greene, Joost Elffers | **Year**: 2000 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This controversial but compelling book distills three thousand years of power history into 48 cunning laws for gaining and maintaining influence. Greene argues that power is amoral - it's neither good nor evil, but a tool that can be used for any purpose. Drawing from historical figures like Machiavelli, Napoleon, and Talleyrand, he presents a Machiavellian roadmap for navigating the complex social dynamics of power in modern life.

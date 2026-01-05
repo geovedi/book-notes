@@ -1,5 +1,5 @@
 # What If?
-**Author**: Randall Munroe | **Year**: 2014
+**Author**: Randall Munroe | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "What If?" is a collection of serious scientific answers to absurd hypothetical questions from the creator of the xkcd webcomic. Randall Munroe, a former NASA physicist with a background in robotics, applies rigorous mathematical and scientific analysis to questions ranging from "What would happen if you tried to hit a baseball pitched at 90% the speed of light?" to "What if everyone actually had only one soul mate?" The book demonstrates that even seemingly ridiculous questions can lead to fascinating insights about physics, chemistry, biology, and the nature of our universe.

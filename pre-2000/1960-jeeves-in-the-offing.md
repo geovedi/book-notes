@@ -1,5 +1,6 @@
 # Jeeves in the Offing
 **Authors**: P.G. Wodehouse | **Year**: 1960
+**Category**: Fiction & Literature
 
 ## Summary
 This classic comic novel follows the ever-disastrous Bertie Wooster as he visits his Aunt Dahlia's country house, Brinkley Court, while his indispensable valet Jeeves takes a well-deserved holiday. Naturally, chaos ensues in Jeeves's absence, involving a stolen antique cow-creamer, a pretender butler named "Swordfish," various romantic entanglements, and the formidable presence of Bertie's childhood tormentor, the retired headmaster Aubrey Upjohn. The story weaves together multiple plots that threaten to become increasingly complicated until Jeeves's timely return to sort everything out with his usual effortless brilliance.

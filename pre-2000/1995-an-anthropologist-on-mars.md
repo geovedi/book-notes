@@ -1,5 +1,6 @@
 # An Anthropologist on Mars
 **Author**: Oliver Sacks | **Year**: 1995
+**Category**: Science & Nature
 
 ## Summary
 

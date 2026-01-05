@@ -1,6 +1,7 @@
 # Who is the Most Popular?
 **Original Title**: K for Kara 20 - Hvem er mest populær?
 **Authors**: Line Kyed Knudsen | **Year**: 2019
+**Category**: Children & Young Adult
 
 ## Summary
 When a new girl named Gabriella joins Kara's class, she quickly becomes the center of attention with her fashionable clothes, interesting travel stories, and sophisticated charm. All the girls, including Kara's best friend Rose, are immediately drawn to Gabriella's popularity. However, Kara finds herself feeling excluded and sees a different side of Gabriella—one that can be mean and dismissive. The story explores themes of friendship, peer pressure, and the courage to stay true to oneself when social dynamics shift.

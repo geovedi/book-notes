@@ -1,6 +1,7 @@
 # Dante's Inferno
 **Original Title**: La Divina Commedia - Inferno
 **Authors**: Dante Alighieri | **Year**: 1320 (estimated completion)
+**Category**: Fiction & Literature
 
 ## Summary
 

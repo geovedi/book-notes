@@ -1,6 +1,7 @@
 # Investing in Stock Market for Beginners: A Practical Guide
 **Original Title**: Investing in Stock Market for Beginners
 **Author**: Neil Hoechlin | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive beginner's guide demystifies stock market investing by breaking down complex financial concepts into simple, actionable steps. The book covers everything from basic terminology to advanced investment strategies, making it accessible for complete newcomers who want to build wealth through smart stock investing.

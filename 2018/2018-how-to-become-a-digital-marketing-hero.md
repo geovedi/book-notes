@@ -1,5 +1,6 @@
 # How to Become a Digital Marketing Hero
 **Authors**: Rufus Lidman | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "How to Become a Digital Marketing Hero" is a comprehensive strategic guide that transforms digital marketing from a tactical collection of tools into a cohesive strategic framework. The book addresses the fundamental challenge that only 9% of marketers feel confident their digital campaigns will achieve intended results. Lidman presents digital marketing as having evolved from just 3% of total marketing spend at the millennium to approaching 50% today, with predictions of exceeding 80% within five years. The book provides a seven-step strategic process for developing effective digital strategies, five essential digital marketing means, and insights into digital transformation that affects societies, industries, and individuals.

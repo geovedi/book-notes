@@ -1,5 +1,5 @@
 # Classic Tales of the Supernatural
-**Authors**: Various (O. Henry, Oscar Wilde, Edgar Allan Poe, Charles Dickens, etc.) | **Year**: 2005
+**Authors**: Various (O. Henry, Oscar Wilde, Edgar Allan Poe, Charles Dickens, etc.) | **Year**: 2005 | **Category**: Horror & Thriller
 
 ## Summary
 This captivating anthology brings together 28 supernatural stories from some of literature's most celebrated authors of the 19th and early 20th centuries. Compiled by Robin Brockman, this collection spans the evolution of supernatural fiction, from classic ghost stories to psychological horror tales that explore the boundaries between reality and the unknown.

@@ -1,5 +1,6 @@
 # The Adventures of Oliver Twist
 **Authors**: Charles Dickens | **Year**: 1867
+**Category**: Fiction & Literature
 
 ## Summary
 Oliver Twist is the classic story of an orphan born in a Victorian workhouse who endures systematic abuse and neglect before escaping to London. In the city, he falls into the hands of a criminal gang led by the cunning Fagin, who trains orphan boys to become pickpockets. Despite his innocence, Oliver becomes entangled in a life of crime while searching for family, belonging, and his true identity. The novel exposes the brutal reality of child poverty and institutional cruelty while maintaining hope through Oliver's inherent goodness and eventual redemption.

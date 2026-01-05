@@ -2,6 +2,7 @@
 **Learn Advanced Deduction, Decision-Making, and Problem-Solving Skills with Mental Models and System Maps.**
 
 **Authors**: Albert Rutherford | **Year**: 2021
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Tools of Systems Thinkers" is a comprehensive guide to transforming your thinking from linear, reductionist approaches to holistic, interconnected systems thinking. The book addresses a fundamental problem in how we approach complex challenges: our brains are evolutionarily wired for quick, linear decisions, but today's complex problems require seeing the bigger picture and understanding interconnections.

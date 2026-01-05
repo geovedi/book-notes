@@ -1,5 +1,5 @@
 # Small Fry
-**Author**: Lisa Brennan-Jobs | **Year**: 2018
+**Author**: Lisa Brennan-Jobs | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 Small Fry is a hauntingly beautiful memoir about growing up as the daughter of Apple founder Steve Jobs, told through a series of vivid, episodic vignettes that capture both the extraordinary and the ordinary aspects of a childhood lived in the shadow of genius. Lisa Brennan-Jobs recounts her peripatetic upbringing with her mother, Chrisann Brennan, moving thirteen times before age seven, struggling with poverty while her father's wealth and influence grew exponentially. The narrative weaves between her complicated relationship with Jobs—who initially denied paternity, provided sporadic financial support, and maintained emotional distance—and her fierce bond with her artistic, resilient mother.

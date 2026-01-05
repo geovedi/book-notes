@@ -1,5 +1,6 @@
 # Anne of Green Gables Collection
 **Authors**: Lucy Maud Montgomery | **Year**: 2019 (Collection)
+**Category**: Children & Young Adult
 
 ## Summary
 The Anne of Green Gables Collection chronicles the heartwarming journey of Anne Shirley, a spirited, imaginative red-haired orphan who transforms the lives of everyone she meets in Prince Edward Island. This trilogy follows Anne from her accidental arrival at Green Gables as an unwanted 11-year-old girl, through her years as a young teacher, and finally to her college days where she navigates romance and discovers her true calling. The collection captures Anne's evolution from a lonely, talkative child with an overactive imagination into a thoughtful, intelligent young woman who learns to balance her dreams with reality.

@@ -1,6 +1,7 @@
 # Einstein in Spacetime
 **Original Title**: Einstein no espaço-tempo
 **Author**: Samuel Alves | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 

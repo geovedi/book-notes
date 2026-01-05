@@ -1,5 +1,6 @@
 # The Lost World
 **Authors**: Sir Arthur Conan Doyle | **Year**: 1912
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 When young journalist Edward Malone seeks an adventure to impress his beloved Gladys, he gets more than he bargained for. He joins an expedition to verify the wild claims of Professor George Challenger, who insists he has discovered a remote plateau in South America where prehistoric creatures still exist. Along with skeptical Professor Summerlee and experienced hunter Lord John Roxton, Malone embarks on a perilous journey that will either make them famous or get them killed. The team discovers a lost world filled with dinosaurs, ape-men, and other prehistoric creatures, where they must fight for survival while scientific rivalries clash. Their return to civilization with proof of their discoveries creates a sensation that changes science forever.

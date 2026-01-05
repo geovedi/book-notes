@@ -1,5 +1,6 @@
 # Columbine
 **Author**: Dave Cullen | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 Dave Cullen's "Columbine" is a meticulously researched masterpiece that dismantles the myths surrounding the 1999 Columbine High School massacre. Through ten years of investigation, Cullen reveals the truth about killers Eric Harris and Dylan Klebold, exposing the misconceptions that shaped America's understanding of school shootings. This is not just a recounting of tragedy but a psychological exploration of what drives two teenagers to plan and execute mass murder.

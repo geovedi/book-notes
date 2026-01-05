@@ -1,5 +1,6 @@
 # Selected F. Scott Fitzgerald
 **Authors**: F. Scott Fitzgerald | **Year**: 1920-1925
+**Category**: Fiction & Literature
 
 ## Summary
 This collection features two of Fitzgerald's most iconic works that defined the Jazz Age and captured the spirit of post-war America. "This Side of Paradise" (1920) launched Fitzgerald to literary fame with its semi-autobiographical tale of Amory Blaine's journey from privileged youth through Princeton and into the disillusionment of early adulthood. "The Great Gatsby" (1925) stands as Fitzgerald's masterpiece, narrating the tragic story of Jay Gatsby's obsessive pursuit of Daisy Buchanan and the American Dream.

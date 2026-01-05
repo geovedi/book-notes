@@ -1,5 +1,6 @@
 # Quantum Theory of Gravitation
 **Authors**: Ustin Chashchikhin | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 This revolutionary physics book presents a groundbreaking approach to quantum gravity that challenges the century-old graviton hypothesis. Chashchikhin derives equations of quantum gravitation containing all three fundamental constants (G, c, and h) and proposes that gravitational fields are not quantized but remain continuous spacetime curvature even at quantum levels. The book solves the singularity problem in general relativity by establishing maximal density limits for quantum matter (~10^27 kg/m³) and maximal spacetime curvature (~10² m⁻²), preventing infinite collapse in black holes. Most radically, the theory predicts that the Big Bang was not a creation event but the inevitable result of a previous universe's Big Crunch through quantum gravitational collapse.

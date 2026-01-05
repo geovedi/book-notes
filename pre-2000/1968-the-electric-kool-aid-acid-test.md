@@ -1,5 +1,6 @@
 # The Electric Kool-Aid Acid Test
 **Author**: Tom Wolfe | **Year**: 1968
+**Category**: Fiction & Literature
 
 ## Summary
 Tom Wolfe's groundbreaking work of New Journalism chronicles author Ken Kesey and his band of "Merry Pranksters" as they blaze across America in a Day-Glo painted school bus, fueled by LSD and revolutionary ideas. The story captures their journey from Kesey's emergence as a literary star through his involvement with psychedelic drugs, his fugitive period in Mexico, and the evolution of the Acid Tests—wild multimedia parties that helped launch the 1960s counterculture movement. Wolfe immerses readers in the Pranksters' world using their own language and perspective, creating a vivid portrait of a moment when everything seemed possible and reality itself was up for grabs.

@@ -1,5 +1,5 @@
 # Make Way for the Superhumans
-**Authors**: Michael Bess | **Year**: 2016
+**Authors**: Michael Bess | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "Make Way for the Superhumans" explores the imminent transformation of humanity through bioenhancement technologies. Michael Bess presents a sober yet compelling vision of a future where pharmaceuticals, bioelectronics, and genetic engineering will fundamentally reshape human capabilities, extending lifespans to 160 years, dramatically boosting cognition, and allowing precise control over physical and mental states. The book argues that this revolution is not just coming—it's already underway, driven by irresistible human desires for better health, enhanced abilities, and competitive advantage.

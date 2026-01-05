@@ -1,6 +1,7 @@
 # A Child's Garden of Verses
 **Original Title**: A Child's Garden of Verses
 **Authors**: Robert Louis Stevenson | **Year**: 1885
+**Category**: Children & Young Adult
 
 ## Summary
 "A Child's Garden of Verses" is a timeless collection of poetry that captures the magical world of childhood imagination and wonder. Through 64 short poems, Stevenson explores everyday experiences from a child's perspective - bedtime rituals, outdoor adventures, imaginary journeys, and the simple joys of play. The collection transforms ordinary moments into extraordinary discoveries, where shadows become playmates, beds become ships, and backyards become kingdoms.

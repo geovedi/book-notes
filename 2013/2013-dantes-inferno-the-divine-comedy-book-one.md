@@ -1,5 +1,5 @@
 # Dante's Inferno: The Divine Comedy Book One
-**Original Title**: La Divina Commedia, Inferno | **Authors**: Dante Alighieri | **Year**: c. 1320
+**Original Title**: La Divina Commedia, Inferno | **Authors**: Dante Alighieri | **Year**: c. 1320 | **Category**: Fiction & Literature
 
 ## Summary
 Dante's Inferno is the first part of his epic Divine Comedy, an allegorical journey through Hell that has influenced Western literature for seven centuries. Written in the early 14th century, this masterpiece combines medieval theology, political commentary, and profound psychological insight into a structured descent through nine circles of damnation.

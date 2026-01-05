@@ -1,5 +1,6 @@
 # Rough Sleepers
 **Authors**: Tracy Kidder | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 "Rough Sleepers" chronicles the remarkable work of Dr. Jim O'Connell, a Harvard-educated physician who has spent over three decades providing medical care to Boston's homeless population living on the streets—what he calls "rough sleepers." Through his leadership of the Boston Health Care for the Homeless Program, Dr. Jim has built a comprehensive healthcare system that serves approximately 11,000 homeless people annually, with a specialized Street Team focusing on the most vulnerable 400-500 patients who refuse shelter and sleep outdoors.

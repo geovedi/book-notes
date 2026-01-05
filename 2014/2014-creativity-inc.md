@@ -1,5 +1,5 @@
 # Creativity, Inc.
-**Authors**: Ed Catmull, Amy Wallace | **Year**: 2014
+**Authors**: Ed Catmull, Amy Wallace | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "Creativity, Inc." reveals the hidden forces that stifle innovation and provides a blueprint for building and sustaining creative cultures. Ed Catmull, president of Pixar Animation and Disney Animation, shares the principles that enabled Pixar to produce fourteen consecutive blockbuster films. This isn't just about animation—it's about unleashing creativity in any organization by embracing problems, fostering psychological safety, and protecting new ideas from premature judgment.

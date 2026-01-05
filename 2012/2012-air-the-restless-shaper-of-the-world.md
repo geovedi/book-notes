@@ -1,5 +1,6 @@
 # Air: The Restless Shaper of the World
 **Authors**: William Bryant Logan | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 William Bryant Logan reveals air as the most powerful and overlooked actor on Earth's stage. The book transforms our understanding of atmosphere from invisible background into the dynamic, living force that shapes our world, civilizations, and very existence. Through a blend of scientific insight, historical narrative, and philosophical wonder, Logan shows how air is simultaneously creator and destroyer, protagonist and antagonist.

@@ -1,5 +1,5 @@
 # The Code Book
-**Author**: Simon Singh | **Year**: 2003
+**Author**: Simon Singh | **Year**: 2003 | **Category**: Technology & Computing
 
 ## Summary
 "The Code Book" is a thrilling journey through the centuries-old battle between codemakers and codebreakers that has shaped human history. Singh masterfully weaves together technical explanations, dramatic historical events, and compelling human stories to reveal how secret communication influenced everything from ancient wars to modern digital society. The book traces cryptography from simple substitution ciphers to quantum encryption, showing how each breakthrough sparked countermeasures in an endless intellectual arms race.

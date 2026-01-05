@@ -1,5 +1,5 @@
 # Reinventing Sustainability
-**Authors**: Erika Guttmann-Bond | **Year**: 2018
+**Authors**: Erika Guttmann-Bond | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "Reinventing Sustainability" presents a revolutionary argument that archaeology—through the study of ancient and traditional farming practices—holds the key to solving our modern environmental crisis. Guttmann-Bond, an environmental archaeologist, challenges the conventional wisdom that sustainability requires high-tech solutions by demonstrating how traditional, low-tech agricultural systems often outperform modern industrial farming in productivity, resilience, and environmental protection.

@@ -1,6 +1,7 @@
 # Lesson Design and Planning from Scratch: Technology Integration
 **Original Title**: Дизайн урока и планирование с нуля / Lesson Design and Planning from scratch Technology Integration
 **Author**: Марина Юрьевна Грабарь (Marina Yuryevna Grabar) | **Year**: 2020
+**Category**: Education & Teaching
 
 ## Summary
 This practical guide serves as a comprehensive resource for modern educators seeking to master 21st-century teaching standards through effective lesson design and technology integration. Written by a former Coursera mentor from Arizona State University's "Lesson Design and Assessment" course, the book combines theoretical foundations with hands-on practice labs and real-world examples.

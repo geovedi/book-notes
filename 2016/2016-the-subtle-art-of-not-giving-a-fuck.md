@@ -1,5 +1,5 @@
 # The Subtle Art of Not Giving a F*ck
-**Author**: Mark Manson | **Year**: 2016
+**Author**: Mark Manson | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Mark Manson's counterintuitive guide to living a good life argues that the key to happiness isn't caring more—it's caring less, but caring about the right things. In a world obsessed with positive thinking and endless self-improvement, Manson makes the case that embracing negativity, accepting our limitations, and choosing our struggles wisely leads to more genuine fulfillment.

@@ -1,5 +1,5 @@
 # All Creatures Great and Small
-**Authors**: James Herriot | **Year**: 2004
+**Authors**: James Herriot | **Year**: 2004 | **Category**: Fiction & Literature
 
 ## Summary
 "All Creatures Great and Small" is the heartwarming memoir of a young veterinarian's adventures in 1930s Yorkshire Dales. James Herriot (real name Alf Wight) captures his journey as a newly qualified vet who takes a job as an assistant to the eccentric Siegfried Farnon in the rural town of Darrowby. The book chronicles his challenging yet rewarding experiences treating farm animals and pets, navigating difficult farmers, and discovering the profound beauty of both the Yorkshire landscape and the human-animal bond.

@@ -1,5 +1,6 @@
 # Nudge
 **Authors**: Richard H. Thaler, Cass R. Sunstein | **Year**: 2008
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Nudge" revolutionizes our understanding of decision-making by revealing how small changes in our environment can dramatically influence our choices without restricting freedom. The book introduces "libertarian paternalism" - a revolutionary approach that helps people make better decisions while preserving their freedom to choose. Thaler and Sunstein demonstrate that we're not the rational beings economists assume us to be, but rather Humans who predictably err, unlike the mythical Econs of economic theory.

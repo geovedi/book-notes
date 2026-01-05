@@ -1,5 +1,5 @@
 # In the Garden of Beasts
-**Author**: Erik Larson | **Year**: 2011
+**Author**: Erik Larson | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 "In the Garden of Beasts" tells the riveting true story of William E. Dodd, appointed American ambassador to Germany in 1933, and his daughter Martha. As an academic historian unexpectedly thrust into diplomacy during Hitler's rise to power, Dodd initially believed he could reason with the Nazi regime. The family arrived in Berlin naive about the true nature of National Socialism, only to witness gradually escalating violence, antisemitism, and political terror that would culminate in the Night of the Long Knives.

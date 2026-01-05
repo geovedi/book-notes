@@ -1,5 +1,5 @@
 # Modern Romance
-**Authors**: Aziz Ansari, Eric Klinenberg | **Year**: 2015
+**Authors**: Aziz Ansari, Eric Klinenberg | **Year**: 2015 | **Category**: Romance & Relationships
 
 ## Summary
 Modern Romance is a hilarious yet insightful exploration of how technology has transformed dating and relationships in the 21st century. Comedian Aziz Ansari teams up with sociologist Eric Klinenberg to conduct global research, interview hundreds of people, and analyze how digital communication has revolutionized the way we find love, from online dating apps to the complexities of texting etiquette. The book reveals both the opportunities and challenges that come with unprecedented romantic choice in the smartphone era.

@@ -1,5 +1,5 @@
 # Destiny of the Republic
-**Author**: Candice Millard | **Year**: 2011
+**Author**: Candice Millard | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 "Destiny of the Republic" tells the gripping true story of President James A. Garfield's assassination in 1881 and the medical incompetence that ultimately led to his death. Millard weaves together three interconnected narratives: the rise of a promising president, the madness of his assassin Charles Guiteau, and the groundbreaking medical discoveries of Alexander Graham Bell and Joseph Lister that could have saved Garfield's life.

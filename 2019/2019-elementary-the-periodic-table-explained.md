@@ -1,5 +1,6 @@
 # Elementary: The Periodic Table Explained
 **Authors**: James M. Russell | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 "Elementary" is a comprehensive yet accessible exploration of all 118 known elements, organized in the order of their atomic numbers. The book begins with the fascinating story of how Dmitri Mendeleev created the periodic table in 1869 through pure insight rather than laboratory experiments. Russell guides readers through each element, revealing not just their scientific properties but also their historical significance, practical applications, and often surprising connections to human civilization.

@@ -1,5 +1,6 @@
 # The Snake's Pass
 **Authors**: Bram Stoker | **Year**: 1890
+**Category**: Fiction & Literature
 
 ## Summary
 Arthur Severn, a young Englishman who has recently inherited a fortune, travels to western Ireland where he becomes entangled in local legends, buried treasure, and a dangerous romance. Set against the backdrop of the mysterious Knockcalltecrore mountain—known as "The Hill of the Lost Golden Crown"—the story weaves together ancient Irish folklore about a snake king cursed by St. Patrick, a shifting bog that holds deadly secrets, and the search for lost French treasure. Arthur falls for Norah Joyce, daughter of a local farmer whose land has been stolen by the villainous Murtagh Murdock, setting in motion a series of events that will test their courage, love, and survival.

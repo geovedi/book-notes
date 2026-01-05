@@ -1,5 +1,6 @@
 # The Master: How to Practice The Science of Decision Making with Confidence and Know What You Really Want
 **Authors**: Robin Sacredfire | **Year**: 2017
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This philosophical guide explores the intersection of decision-making, spiritual growth, and personal mastery. The book presents a radical approach to understanding how our mental patterns, beliefs, and emotional responses shape our reality and limit our potential for true wisdom. Sacredfire argues that most people remain mentally imprisoned by preconceived notions rather than genuinely ignorant, preventing them from accessing deeper truths about themselves and their purpose.

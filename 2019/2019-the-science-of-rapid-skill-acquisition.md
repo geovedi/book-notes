@@ -1,5 +1,6 @@
 # The Science of Rapid Skill Acquisition
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Science of Rapid Skill Acquisition" is a comprehensive guide that transforms how we approach learning new abilities. Peter Hollins dismantles the myth that learning is primarily about innate talent, presenting instead a systematic approach to accelerate skill acquisition through strategic planning, deliberate practice, and deep comprehension techniques.

@@ -1,6 +1,7 @@
 # Don't Think Commonly
 
 **Authors**: Sam Gardner | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Don't Think Commonly" is a revolutionary call to break free from conventional thinking and embrace the power of unconventional approaches to life. Sam Gardner challenges readers to question the very existence of "the box" rather than merely thinking outside it, presenting uncommon thinking as both an essential survival skill in today's rapidly changing world and a pathway to extraordinary personal achievement.

@@ -1,5 +1,5 @@
 # A Road to Prosperity - Ultimate Collection
-**Authors**: Wallace D. Wattles, William Walker Atkinson, P.T. Barnum, Benjamin Franklin, Orison Swett Marden, James Allen, Russell Conwell, Henry Harrison Brown, Thorstein Veblen, Émile Coué, Kahlil Gibran, Marcus Aurelius, Niccolò Machiavelli, Lao Tzu, B.F. Austin, Charles F. Haanel, Robert Collier, Elbert Hubbard, William Crosbie Hunter, Harry A. Lewis, Florence Scovel Shinn | **Year**: 2022
+**Authors**: Wallace D. Wattles, William Walker Atkinson, P.T. Barnum, Benjamin Franklin, Orison Swett Marden, James Allen, Russell Conwell, Henry Harrison Brown, Thorstein Veblen, Émile Coué, Kahlil Gibran, Marcus Aurelius, Niccolò Machiavelli, Lao Tzu, B.F. Austin, Charles F. Haanel, Robert Collier, Elbert Hubbard, William Crosbie Hunter, Harry A. Lewis, Florence Scovel Shinn | **Year**: 2022 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "A Road to Prosperity - Ultimate Collection" is a comprehensive anthology bringing together the most influential works on wealth creation, success philosophy, and personal development from renowned thinkers across centuries. This collection spans ancient wisdom to early 20th-century prosperity teachings, offering readers a complete roadmap to financial abundance and personal fulfillment.

@@ -1,5 +1,6 @@
 # Doing Agile Right
 **Authors**: Darrell Rigby, Sarah Elk, Steve Berez | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 This book confronts a critical reality in modern business: while Agile has gone mainstream, most companies are implementing it wrong, creating chaos instead of transformation. The authors argue that **Agile and bureaucracy must coexist as complementary forces**, not enemies. Drawing from extensive research at Bain & Company and case studies from companies like Bosch, Amazon, and ING, they reveal how "Bad Agile drives out Good Agile" – when organizations implement Agile poorly through misunderstanding or copying popular models like Spotify, they create poor results that discredit the entire movement and set back corporate innovation.

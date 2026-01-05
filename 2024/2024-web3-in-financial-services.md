@@ -1,5 +1,6 @@
 # Web3 in Financial Services
 **Authors**: Rita Martins | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 "Web3 in Financial Services" is a comprehensive guide exploring how blockchain technology, digital assets, and cryptocurrency are fundamentally transforming traditional finance. Rita Martins, drawing from her extensive experience in financial services and fintech, presents Web3 not just as another technological evolution but as a revolutionary paradigm shift that will reshape money, ownership, and financial systems.

@@ -4,6 +4,7 @@
 **Genre:** Self-Help / Spiritual Philosophy
 **Reading Time:** 7 minutes
 **Original Year:** 1940 (though listed as 2021 in this edition)
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

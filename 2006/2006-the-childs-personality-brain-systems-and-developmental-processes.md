@@ -1,7 +1,7 @@
 # The Child's Personality: Brain Systems and Developmental Processes
 
 **Original Title**: La personalità del bambino tra sistemi cerebrali e processi evolutivi
-**Authors**: Accursio Gennaro, Roberta G. Scagliarini | **Year**: 2006
+**Authors**: Accursio Gennaro, Roberta G. Scagliarini | **Year**: 2006 | **Category**: Psychology & Mental Health
 
 ## Summary
 

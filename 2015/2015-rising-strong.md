@@ -1,5 +1,5 @@
 # Rising Strong
-**Author**: Brené Brown | **Year**: 2015
+**Author**: Brené Brown | **Year**: 2015 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Rising Strong provides a research-based framework for how to get back up after failure and disappointment. Brown argues that our ability to reset after falling isn't about avoiding failure, but about developing the courage to reckon with our emotions, rumble with our stories, and revolutionize how we live, love, and lead. The book presents a three-step process—The Reckoning, The Rumble, and The Revolution—that helps transform our most difficult moments into our greatest strengths.

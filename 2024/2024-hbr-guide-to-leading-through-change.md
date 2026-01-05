@@ -1,5 +1,6 @@
 # HBR Guide to Leading Through Change
-**Authors**: Harvard Business Review Press | **Year**: 2024 
+**Authors**: Harvard Business Review Press | **Year**: 2024
+**Category**: Business & Finance 
 
 ## Summary
 

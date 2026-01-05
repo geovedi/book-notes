@@ -1,5 +1,6 @@
 # The Old Curiosity Shop
 **Authors**: Charles Dickens | **Year**: 1841
+**Category**: Fiction & Literature
 
 ## Summary
 "The Old Curiosity Shop" tells the poignant story of Little Nell Trent and her grandfather, who run a dusty shop filled with antiques and curiosities in London. When the grandfather's secret gambling addiction leads to financial ruin, they flee together and embark on a journey across the English countryside. pursued by the malicious dwarf Daniel Quilp to whom they are indebted. Their wandering becomes both a physical and spiritual journey as they encounter kindness and cruelty, eventually finding refuge with villagers before tragedy strikes.

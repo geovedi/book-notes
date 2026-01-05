@@ -1,5 +1,6 @@
 # A Walk in the Woods
 **Author**: Bill Bryson | **Year**: 1999
+**Category**: Fiction & Literature
 
 ## Summary
 Bill Bryson's hilarious and insightful account of his attempt to hike the 2,100-mile Appalachian Trail with his woefully unprepared childhood friend Stephen Katz. What begins as an ambitious quest to "rediscover America" and conquer one of the world's great long-distance trails evolves into a humorous meditation on friendship, failure, and the changing American wilderness. Bryson masterfully weaves laugh-out-loud misadventures with fascinating digressions into the trail's history, ecology, and the urgent environmental threats facing America's eastern forests.

@@ -1,5 +1,5 @@
 # The Future Is Analog
-**Author**: David Sax | **Year**: 2022
+**Author**: David Sax | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "The Future Is Analog" challenges our obsession with digital technology by examining what the COVID-19 pandemic revealed about our relationship with screens and remote living. When the long-promised "digital future" finally arrived through lockdowns and remote everything, it proved deeply unsatisfying and dehumanizing. David Sax argues that while digital tools are useful, they cannot replace the fundamental human need for physical presence, shared experiences, and analog reality.

@@ -1,5 +1,5 @@
 # The Big Year
-**Author**: Mark Obmascik | **Year**: 2011
+**Author**: Mark Obmascik | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 "The Big Year" chronicles the extraordinary true story of the 1998 North American bird-watching competition, where three obsessed men risk everything to spot the most bird species in a single calendar year. This surprisingly intense contest follows Sandy Komito, a boastful New Jersey contractor; Al Levantin, a retired corporate executive; and Greg Miller, a nuclear plant worker nursing a fresh divorce, as they spend fortunes and travel hundreds of thousands of miles across the continent.

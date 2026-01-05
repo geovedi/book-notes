@@ -1,5 +1,6 @@
 # Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
 **Authors**: Reid Hoffman, Chris Yeh | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Blitzscaling is the secret weapon that has powered Silicon Valley's most successful companies like LinkedIn, Airbnb, and Uber to achieve massive scale at unprecedented speed. It's a methodology that prioritizes rapid growth over efficiency in the face of uncertainty, allowing startups to capture market leadership before competitors can react. The core insight is that in today's digital economy, the first company to achieve scale gains overwhelming advantages through network effects, access to talent and capital, and market dominance.

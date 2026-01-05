@@ -1,5 +1,6 @@
 # Heidi's Journey: A Bitesized Guide to Finding Your True Home
 **Original Title**: Heidi | **Authors**: Johanna Spyri | **Year**: 1880
+**Category**: Children & Young Adult
 
 ## Summary
 Heidi tells the heartwarming story of a young orphan girl who is taken to live with her reclusive grandfather in the Swiss Alps. At just five years old, Heidi's carefree spirit and natural wisdom transform not only her grandfather's lonely existence but also everyone she encounters. After being whisked away to serve as a companion for the disabled Clara in Frankfurt, Heidi discovers that true home isn't about comfort or wealth—it's about belonging to the places and people that nourish your soul.

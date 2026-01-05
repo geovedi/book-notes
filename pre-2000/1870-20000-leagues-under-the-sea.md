@@ -1,5 +1,6 @@
 # 20,000 Leagues Under the Sea
 **Authors**: Jules Verne | **Year**: 1870
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 When mysterious naval attacks threaten global shipping, Professor Pierre Aronnax joins an expedition to hunt the suspected sea monster. After falling overboard during the pursuit, he discovers the "monster" is actually the Nautilus, an advanced submarine commanded by the enigmatic Captain Nemo. Along with his servant Conseil and harpooner Ned Land, Aronnax becomes an unwilling captive on an extraordinary underwater journey that spans 20,000 leagues across the world's oceans.

@@ -1,5 +1,6 @@
 # The Science of Economics
 **Authors**: Raymond Makewell | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "The Science of Economics" presents a revolutionary approach to understanding economic systems through the lens of natural law and justice. Based on Leon MacLaren's teachings at the School of Economic Science, this book challenges conventional economic wisdom by proposing that economics should serve humanity rather than dominate it. The work reveals how economic arrangements can either facilitate human development or create systems of injustice and servitude.

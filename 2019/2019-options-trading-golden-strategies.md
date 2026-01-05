@@ -1,5 +1,6 @@
 # Options Trading: 7 Golden Beginners Strategies to Start Trading Options Like a PRO!
 **Authors**: Mark Graham | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide introduces options trading as a flexible investment strategy that works in any market condition. Options give you the right to buy or sell an underlying asset at a predetermined price without requiring you to own the actual asset. The book breaks down seven proven strategies that beginners can use to generate passive income while managing risk effectively. Each strategy is designed for specific market conditions—whether stocks are rising, falling, or trading sideways—making options trading accessible even for those with limited capital.

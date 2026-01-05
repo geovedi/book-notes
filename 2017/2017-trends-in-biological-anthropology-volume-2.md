@@ -1,5 +1,6 @@
 # Trends in Biological Anthropology Volume 2
 **Editors**: Malin Holst and Michelle Alexander | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 This volume represents the cutting edge of biological anthropology research, featuring ten peer-reviewed papers from the 15th annual British Association for Biological Anthropology and Osteoarchaeology (BABAO) conference. The collection showcases the breadth of modern bioarchaeological inquiry, spanning from theoretical frameworks to innovative methodologies applied to diverse archaeological contexts. The work demonstrates how biological anthropology has evolved beyond single-issue studies to embrace holistic, multi-dimensional approaches to understanding past human lives.

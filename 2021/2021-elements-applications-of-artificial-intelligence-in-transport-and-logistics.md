@@ -1,5 +1,6 @@
 # Elements Applications of Artificial Intelligence in Transport and Logistics
 **Authors**: Dmitry Abramov, Alexander Korpukov, Vadim Shmal, Pavel Minakov | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 "Elements Applications of Artificial Intelligence in Transport and Logistics" is an academic exploration of AI's transformative potential in transportation systems. The book traces the historical evolution of artificial intelligence from its origins in the 1950s to modern applications, while examining theoretical frameworks and practical implementations in transport and logistics sectors. Rather than providing a technical manual, it offers a comprehensive foundation for understanding how AI technologies can revolutionize mobility, supply chain management, and transportation infrastructure.

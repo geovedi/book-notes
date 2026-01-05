@@ -1,5 +1,5 @@
 # The Poisoner's Handbook
-**Author**: Deborah Blum | **Year**: 2010
+**Author**: Deborah Blum | **Year**: 2010 | **Category**: Health & Medicine
 
 ## Summary
 "The Poisoner's Handbook" tells the gripping true story of how two pioneering scientists—Charles Norris, New York City's first trained medical examiner, and Alexander Gettler, a brilliant forensic chemist—battled poisoners and established forensic toxicology in Jazz Age New York. Set against the backdrop of Prohibition, political corruption, and scientific revolution, the book follows their decade-long quest to bring justice to victims of poisoning while pioneering the very methods that would become the foundation of modern forensic science.

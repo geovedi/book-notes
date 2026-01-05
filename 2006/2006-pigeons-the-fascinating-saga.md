@@ -1,5 +1,5 @@
 # Pigeons: The Fascinating Saga of the World's Most Revered and Reviled Bird
-**Author**: Andrew D. Blechman | **Year**: 2006
+**Author**: Andrew D. Blechman | **Year**: 2006 | **Category**: Science & Nature
 
 ## Summary
 "Pigeons" reveals the extraordinary hidden world of the common rock dove, a bird that has shaped human civilization for millennia yet is now dismissed as a "rat with wings." Through vivid storytelling and immersive journalism, Blechman uncovers the paradoxical relationship between humans and pigeons—from war heroes and racing champions to culinary delicacies and urban pests. The book follows obsessive subcultures including pigeon racers, breeders, and conservationists, while tracing the bird's profound impact on history, religion, and technology.

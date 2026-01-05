@@ -1,5 +1,6 @@
 # The Time Traveller's Guide to Medieval England
 **Author**: Ian Mortimer | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 This revolutionary history book presents 14th-century England not as a dead academic subject but as a living, breathing destination you can actually visit. Mortimer transforms the past into a foreign country you can explore, complete with practical advice on everything from where to stay and what to eat, to how to avoid disease and what to wear.

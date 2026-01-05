@@ -1,5 +1,5 @@
 # Starry Messenger
-**Authors**: Neil deGrasse Tyson | **Year**: 2022
+**Authors**: Neil deGrasse Tyson | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 Neil deGrasse Tyson argues that adopting a "cosmic perspective" - viewing Earth and human affairs from space - fundamentally transforms how we approach earthly problems. This astronomical vantage point reveals the absurdity of human conflicts while highlighting our shared humanity. Tyson applies scientific rationality to everything from politics and race to gender and diet, showing how objective truth and cosmic awareness can unite divided peoples and solve society's most persistent challenges.

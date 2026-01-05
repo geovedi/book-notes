@@ -1,5 +1,6 @@
 # Very Good Lives
 **Authors**: J.K. Rowling, Joel Holland | **Year**: 2015
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Very Good Lives" is J.K. Rowling's powerful Harvard commencement address that explores two transformative themes: the fringe benefits of failure and the crucial importance of imagination. Drawing from her personal journey from a struggling single mother to one of the world's most successful authors, Rowling reveals how hitting rock bottom stripped away the inessential and revealed her true calling. She argues that failure provides inner security and self-knowledge that success never could, while imagination serves as humanity's greatest tool for empathy and social change.

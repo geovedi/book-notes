@@ -1,5 +1,5 @@
 # Sapiens: A Brief History of Humankind
-**Author**: Yuval Noah Harari | **Year**: 2014
+**Author**: Yuval Noah Harari | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 "Sapiens" tells the story of how Homo sapiens evolved from insignificant apes into the dominant species on Earth. Harari identifies three pivotal revolutions that shaped human history: the Cognitive Revolution (70,000 years ago) gave us the ability to create and believe in shared fictions; the Agricultural Revolution (12,000 years ago) trapped us in lives of harder work for worse food; and the Scientific Revolution (500 years ago) granted us unprecedented power while threatening our future existence.

@@ -1,5 +1,5 @@
 # Just My Type
-**Authors**: Simon Garfield | **Year**: 2010
+**Authors**: Simon Garfield | **Year**: 2010 | **Category**: Art & Creativity
 
 ## Summary
 "Just My Type" is a captivating exploration of fonts and typography that reveals how the seemingly invisible world of typefaces shapes our daily communication and perception. Garfield takes readers on an entertaining journey through font history, from Gutenberg's press to Steve Jobs' calligraphy-inspired Macintosh, showing how fonts have evolved from technical tools to cultural artifacts that carry personality, emotion, and meaning.

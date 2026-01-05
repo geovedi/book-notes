@@ -1,5 +1,6 @@
 # Our Magnificent Bastard Tongue: The Untold History of English
 **Author**: John H. McWhorter | **Year**: 2008
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This book challenges the traditional story of English's evolution by arguing that the real drama lies not in vocabulary changes but in radical grammatical transformations. McWhorter reveals that English grammar became uniquely simplified and weird due to two major influences: Celtic languages contributed distinctive grammatical features like meaningless "do" and progressive "-ing," while Viking invaders systematically stripped away complex Germanic grammar structures. The result is English as a "magnificent bastard tongue" - a language that's neither purely Germanic nor Celtic, but something entirely new.

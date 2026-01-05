@@ -1,5 +1,6 @@
 # Business Management for Beginners & Dummies
 **Authors**: Giovanni Rigters | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 

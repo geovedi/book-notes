@@ -1,5 +1,5 @@
 # The Emperor of Scent
-**Authors**: Chandler Burr | **Year**: 2002
+**Authors**: Chandler Burr | **Year**: 2002 | **Category**: Science & Nature
 
 ## Summary
 The Emperor of Scent tells the remarkable true story of Luca Turin, a brilliant and eccentric biophysicist who dared to challenge the scientific establishment with a revolutionary theory of how we smell. While the entire fragrance industry and scientific community believed that smell works through molecular shape (like a lock and key), Turin proposed that we actually smell molecular vibrations—a quantum mechanical process that makes our noses biological spectrometers.

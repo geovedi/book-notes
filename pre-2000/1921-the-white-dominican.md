@@ -1,5 +1,6 @@
 # The White Dominican
 **Authors**: Gustav Meyrink | **Year**: 1921
+**Category**: Fiction & Literature
 
 ## Summary
 "The White Dominican" is a mystical occult novel that follows Christopher Dovecote, an orphan discovered as a baby on church steps, who is adopted by Baron von Jöcher, the noble lamplighter of a mysterious town encircled by a river. Through supernatural experiences and night journeys, Christopher discovers his spiritual destiny and his connection to the White Dominican, a legendary mystical figure. The novel explores the dualistic struggle between the material world (symbolized by Medusa) and the spiritual realm, culminating in Christopher's transfiguration and ascent to higher consciousness.

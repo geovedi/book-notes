@@ -1,5 +1,6 @@
 # 2015 The Complete Works of W.B. Yeats
 **Authors**: W.B. Yeats | **Year**: 1865-1939 (Collected Works)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection spans Yeats' entire poetic career from his early romantic period to his later mystically-charged works. The volume includes major poetry collections like "The Wanderings of Oisin," "The Wind Among the Reeds," "The Tower," and "The Winding Stair," plus his complete dramatic works and prose. Yeats transforms from Ireland's romantic nationalist poet to one of the most profound and complex voices of 20th-century literature, exploring Irish mythology, spiritual mysticism, politics, love, and the human condition.

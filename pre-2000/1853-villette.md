@@ -1,5 +1,6 @@
 # Villette
 **Authors**: Charlotte Brontë | **Year**: 1853
+**Category**: Fiction & Literature
 
 ## Summary
 Lucy Snowe, a quiet and observant young Englishwoman with no family or prospects, leaves her homeland after a personal tragedy and travels to the fictional French town of Villette. There, she finds work as an English teacher at Madame Beck's boarding school for girls. The novel follows Lucy's journey of self-discovery, her complex relationships with students and colleagues, and her passionate but forbidden love for M. Paul Emanuel, a fiery professor who shares her intellectual and emotional depth.

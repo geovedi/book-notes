@@ -1,6 +1,7 @@
 # Gianni Rodari: Life, Utopia, and Activism of a Rebel Teacher
 **Original Title**: Vita, utopie e militanza di un maestro ribelle
-**Authors**: Lorenzo Iervolino | **Year**: Unknown 
+**Authors**: Lorenzo Iervolino | **Year**: Unknown
+**Category**: History & Biography 
 
 ## Summary
 This comprehensive biography chronicles the life of Gianni Rodari (1920-1980), Italy's most celebrated children's writer of the 20th century and creator of beloved works like "The Adventures of Cipollino" and "Grammar of Fantasy." The book traces Rodari's journey from a childhood marked by his father's early death to his formation in seminary, his experiences during World War II, his commitment to communist politics, and his evolution into an innovative educator who transformed children's literature through his revolutionary pedagogical approach.

@@ -1,5 +1,6 @@
 # Thinking Remote
 **Authors**: Pilar Orti, Maya Middlemiss | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Thinking Remote" is a comprehensive guide for leaders navigating the transition to distributed teams and remote work. Based on the authors' experience at Virtual Not Distant and compiled from their blog posts and podcast reflections, this book provides practical insights for building effective remote team cultures. The book addresses both the technological and human aspects of remote collaboration, emphasizing that successful remote work requires intentional design of digital workspaces, fostering psychological safety, and maintaining visibility across distributed teams.

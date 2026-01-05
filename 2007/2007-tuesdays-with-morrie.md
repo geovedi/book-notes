@@ -1,5 +1,6 @@
 # Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson
 **Authors**: Mitch Albom | **Year**: 2007
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Tuesdays with Morrie" is Mitch Albom's memoir about reconnecting with his beloved college professor, Morrie Schwartz, who is dying from ALS (Lou Gehrig's disease). Their weekly Tuesday meetings become a final "class" on life's greatest lessons, where Morrie, despite his deteriorating physical condition, delivers profound wisdom about love, death, forgiveness, and living authentically.

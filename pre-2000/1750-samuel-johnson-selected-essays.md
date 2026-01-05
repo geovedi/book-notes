@@ -1,5 +1,6 @@
 # Selected Essays
 **Authors**: Samuel Johnson | **Year**: 1750-1760
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Samuel Johnson's Selected Essays gathers the most influential pieces from his three major periodical series: The Rambler (1750-52), The Adventurer (1753-54), and The Idler (1758-60), along with standalone essays. These works established Johnson as the preeminent moral essayist of 18th-century England, offering practical wisdom, social commentary, and philosophical insights that remain remarkably relevant today. Johnson writes as both a moral guide and literary critic, addressing the human condition with wit, authority, and profound understanding of human nature.

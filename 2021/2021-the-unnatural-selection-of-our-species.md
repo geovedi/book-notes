@@ -1,5 +1,6 @@
 # The Unnatural Selection of Our Species
 **Authors**: Torill Kornfeldt | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "The Unnatural Selection of Our Species" explores how revolutionary gene-editing technologies like CRISPR are transforming human evolution and medicine. Swedish science journalist Torill Kornfeldt takes readers on a global journey to meet scientists, patients, biohackers, and families at the forefront of the genetic revolution. From the first gene-edited babies in China to community labs in Brooklyn and research centers creating genetically modified pigs as "avatars" for sick children, the book examines both the incredible potential and profound ethical challenges of humanity's newfound ability to rewrite its own genetic code.

@@ -1,5 +1,6 @@
 # How To Make Money Blogging: Insider Tips And Tricks That Can Help You Make Money In Less Than 30-Days
 **Authors**: Keith Meyers | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the process of earning income through blogging, offering real-world strategies from someone who experienced both the challenges and successes of freelance writing. Keith Meyers shares his personal journey from being laid off to building an online writing career, providing actionable advice on content creation, monetization methods, and self-publishing eBooks.

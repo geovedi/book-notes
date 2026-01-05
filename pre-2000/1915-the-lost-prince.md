@@ -1,5 +1,6 @@
 # The Lost Prince
 **Author**: Frances Hodgson Burnett | **Year**: 1915
+**Category**: Children & Young Adult
 
 ## Summary
 "The Lost Prince" tells the story of Marco Loristan, a twelve-year-old boy of mysterious origins who travels across Europe with his father Stefan Loristan and their loyal servant Lazarus. Marco believes his father is a patriot working to free their oppressed homeland of Samavia, but he gradually discovers that his family's secret is far more profound—they are the descendants of Samavia's lost royal line. As political turmoil engulfs Samavia, Marco and his crippled friend "The Rat" become unknowing bearers of a secret message that will trigger a revolution and restore their nation's true king.

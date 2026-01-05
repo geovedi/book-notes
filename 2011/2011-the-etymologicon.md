@@ -1,5 +1,5 @@
 # The Etymologicon
-**Author**: Mark Forsyth | **Year**: 2011
+**Author**: Mark Forsyth | **Year**: 2011 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Etymologicon" is a delightful circular journey through the hidden connections of the English language, tracing words from their origins to their modern meanings through chains of surprising associations. Forsyth takes readers on an intellectual adventure where each word leads to another, creating an endless loop of linguistic discovery that reveals how interconnected our vocabulary truly is.

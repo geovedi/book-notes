@@ -2,6 +2,7 @@
 
 # Down and Out in Paris and London
 **Author**: George Orwell | **Year**: 1933
+**Category**: Fiction & Literature
 
 ## Summary
 This groundbreaking memoir chronicles Orwell's voluntary immersion into the world of poverty and manual labor in two European capitals. After leaving his comfortable middle-class life, Orwell spends years working as a plongeur (dishwasher) in Parisian hotel basements and later as a tramp wandering through London's casual wards and lodging houses. The book emerged from his genuine experience of destitution—not as an observer playing anthropologist, but as someone who had no choice but to survive alongside those society had forgotten.

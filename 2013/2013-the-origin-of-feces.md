@@ -1,5 +1,5 @@
 # The Origin of Feces
-**David Waltner-Toews** | **Year**: 2013
+**David Waltner-Toews** | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 This provocative book reveals how excrement—far from being merely waste—is fundamental to life on Earth. Through engaging stories from African safaris to modern sewage systems, Waltner-Toews demonstrates that shit connects ecology, culture, health, and sustainability in ways we rarely consider. The book argues that our modern "wicked problem" with excrement stems from breaking natural nutrient cycles and creating cultural taboos that prevent us from seeing excrement's vital ecological role.

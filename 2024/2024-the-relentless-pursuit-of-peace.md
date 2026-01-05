@@ -1,5 +1,6 @@
 # The Relentless Pursuit of Peace
 **Authors**: Max Coates | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Relentless Pursuit of Peace" is a practical roadmap to mental health that challenges conventional wisdom about psychological wellbeing. Coates, drawing from his extensive experience as educator, counselor, and priest, argues that mental health struggles often stem from failing to meet our fundamental human needs rather than chemical imbalances or personal failings. The book presents a comprehensive model for understanding and improving mental health by focusing on nine primal needs that must be met for psychological wellbeing.

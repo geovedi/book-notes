@@ -1,6 +1,6 @@
 # Adobe Photoshop Lightroom Classic Classroom in a Book (2022 release)
 
-**Authors**: Rafael Concepcion, Jan Kabili | **Year**: 2022
+**Authors**: Rafael Concepcion, Jan Kabili | **Year**: 2022 | **Category**: Art & Creativity
 
 ## Summary
 This comprehensive guide teaches photographers how to master Adobe's two most powerful tools through practical, hands-on lessons. The book presents a complete workflow from importing and organizing photos in Lightroom to advanced editing techniques in both Lightroom and Photoshop, demonstrating how the two programs complement each other for professional-level results.

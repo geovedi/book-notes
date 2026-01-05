@@ -1,5 +1,6 @@
 # Zen and the Art of Motorcycle Maintenance
 **Authors**: Robert M. Pirsig | **Year**: 1974
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This philosophical novel follows a cross-country motorcycle journey where the narrator uses motorcycle maintenance as a metaphor for exploring fundamental questions about values, quality, and the nature of reality. The book weaves together two narratives: the present-day journey with his son Chris and flashbacks to his previous self, "Phaedrus," whose pursuit of philosophical truth led to a mental breakdown. Through the practical act of maintaining a motorcycle, Pirsig examines the rift between classical (rational, technical) and romantic (emotional, artistic) ways of understanding the world, proposing "Quality" as the unifying concept that bridges this divide.

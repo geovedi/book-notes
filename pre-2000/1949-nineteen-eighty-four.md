@@ -1,5 +1,6 @@
 # Nineteen Eighty-Four
 **Original Title**: Nineteen Eighty-Four | **Authors**: George Orwell | **Year**: 1949
+**Category**: Fiction & Literature
 
 ## Summary
 In a totalitarian future where the Party controls every aspect of life, Winston Smith wages a lonely rebellion against Big Brother through thought and memory. Set in Airstrip One (formerly London), the novel explores how language is manipulated, history is rewritten, and reality itself becomes a political construct.

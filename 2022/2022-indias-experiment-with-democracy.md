@@ -1,5 +1,5 @@
 # India's Experiment With Democracy
-**Authors**: S.Y. Quraishi | **Year**: 2022
+**Authors**: S.Y. Quraishi | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "India's Experiment With Democracy" is a comprehensive analysis of the world's largest electoral democracy by former Chief Election Commissioner Dr. S.Y. Quraishi. Written from his unique vantage point as someone who has overseen multiple Indian elections, the book combines personal experience with institutional knowledge to examine India's democratic journey over 75 years. Quraishi, born just two months before India's independence in 1947, presents himself as a "midnight child" who has grown alongside the nation, offering both celebration of democratic achievements and critical assessment of current challenges.

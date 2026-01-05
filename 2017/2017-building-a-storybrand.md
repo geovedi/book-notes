@@ -1,5 +1,6 @@
 # Building a StoryBrand
 **Author**: Donald Miller | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 Building a StoryBrand presents a revolutionary framework that transforms how businesses communicate with customers. Donald Miller reveals that the secret to effective marketing isn't being the hero of your own story—it's positioning your customer as the hero and your brand as their trusted guide. The StoryBrand 7-Part Framework (SB7) has helped thousands of companies clarify their message and double, triple, or even quadruple their revenue by inviting customers into a compelling story where they can succeed.

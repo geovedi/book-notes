@@ -1,5 +1,6 @@
 # A Step-By-Step Introduction to Statistics for Business
 **Authors**: Richard N. Landers | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive statistics textbook takes a story-based approach to teaching business statistics through real-world scenarios. The book follows five business professionals—Ben, Jamal, Sue, Jill, and Alex—as they tackle common business challenges using statistical methods. Each chapter builds statistical concepts around practical business problems, making abstract mathematical principles accessible and immediately applicable.

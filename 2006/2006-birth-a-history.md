@@ -1,5 +1,5 @@
 # Birth: A History
-**Authors**: Tina Cassidy | **Year**: 2006
+**Authors**: Tina Cassidy | **Year**: 2006 | **Category**: Health & Medicine
 
 ## Summary
 This fascinating historical exploration reveals how childbirth has evolved from ancient tribal practices to modern medical procedures. Cassidy, a journalist who experienced her own traumatic birth, investigates why childbirth remains such a challenging and unpredictable experience despite technological advances. She uncovers surprising truths about midwives persecuted as witches, husbands barred from delivery rooms, and how walking upright created humanity's unique obstetrical dilemma.

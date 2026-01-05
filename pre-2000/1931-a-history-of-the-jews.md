@@ -1,6 +1,7 @@
 # A History of the Jews
 **Original Title**: Eine Geschichte der Juden
 **Author**: Josef Kastein | **Year**: 1931
+**Category**: History & Biography
 
 ## Summary
 Josef Kastein's comprehensive historical work traces three millennia of Jewish history, from the ancient Semitic tribes and the crystallization of monotheism through the diaspora, persecution, and the emergence of modern Zionism. Written in 1931 on the eve of catastrophic events, this passionate, non-neutral account presents Jewish history not as a passive chronicle but as an active, spiritual journey through time.

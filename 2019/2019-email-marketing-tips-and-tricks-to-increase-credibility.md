@@ -1,6 +1,7 @@
 # 2019 Email Marketing: Tips and Tricks to Increase Credibility
 
 **Authors**: Eric J. Scott | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 

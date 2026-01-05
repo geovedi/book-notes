@@ -1,5 +1,5 @@
 # Project Management: The Sketches
-**Authors**: Nigel Creaser | **Year**: 2018
+**Authors**: Nigel Creaser | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This book is a hilarious satirical take on project management culture, using parody sketches inspired by Monty Python to expose the absurdities, hypocrisies, and universal truths of the project management profession. Through twelve comedic sketches, it skewers everything from project lies and status reporting to certification snobbery and methodology wars.

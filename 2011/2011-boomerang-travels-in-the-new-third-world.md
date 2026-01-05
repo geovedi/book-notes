@@ -1,5 +1,5 @@
 # Boomerang: Travels in the New Third World
-**Authors**: Michael Lewis | **Year**: 2011
+**Authors**: Michael Lewis | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "Boomerang" explores how the global financial crisis of 2008 wasn't just an American phenomenon but a worldwide event that revealed fundamental character flaws in different cultures when faced with essentially free money. Michael Lewis argues that the "tsunami of cheap credit" that rolled across the planet between 2002 and 2007 wasn't just money—it was temptation that offered "entire societies the chance to reveal aspects of their characters they could not normally afford to indulge."

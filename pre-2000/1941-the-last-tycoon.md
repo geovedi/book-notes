@@ -1,5 +1,6 @@
 # The Last Tycoon
 **Authors**: F. Scott Fitzgerald | **Year**: 1941
+**Category**: Fiction & Literature
 
 ## Summary
 "The Last Tycoon" is F. Scott Fitzgerald's unfinished final novel, based on the life of legendary Hollywood producer Irving Thalberg. The story offers a fascinating glimpse into the golden age of Hollywood through the eyes of Cecilia Brady, the daughter of a studio executive, as she observes the brilliant but overworked producer Monroe Stahr. Set against the backdrop of 1930s Hollywood, the novel explores the collision between art and commerce, genius and mortality, and the dark underbelly of the American dream.

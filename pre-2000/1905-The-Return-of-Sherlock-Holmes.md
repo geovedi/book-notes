@@ -1,5 +1,6 @@
 # 1905-The-Return-of-Sherlock-Holmes
 **Authors**: Arthur Conan Doyle | **Year**: 1905
+**Category**: Horror & Thriller
 
 ## Summary
 "The Return of Sherlock Holmes" marks the triumphant revival of the world's greatest consulting detective after his supposed death at Reichenbach Falls. This collection of 13 short stories, narrated by Dr. John Watson, begins with Holmes' dramatic reappearance in "The Adventure of the Empty House" and continues with a series of brilliant cases that showcase his unparalleled deductive abilities. The stories demonstrate Holmes' return to his Baker Street practice and his ongoing battle against London's criminal underworld.

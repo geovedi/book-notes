@@ -1,5 +1,6 @@
 # Human Compatible
 **Author**: Stuart Russell | **Year**: 2019
+**Category**: Technology & Computing
 
 ## Summary
 "Human Compatible" presents a revolutionary framework for ensuring that artificial intelligence remains beneficial to humanity as it becomes increasingly powerful. Russell, a leading AI researcher and co-author of the standard AI textbook, argues that our current approach to AI—what he calls the "standard model" of giving machines fixed objectives to optimize—is fundamentally flawed and potentially catastrophic. The book explains why superintelligent AI could be the biggest event in human history but also potentially the last, and offers a concrete solution: redesigning AI systems to be uncertain about human preferences and deferential to human guidance.

@@ -1,5 +1,5 @@
 # You Are a Badass
-**Author**: Jen Sincero | **Year**: 2013
+**Author**: Jen Sincero | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "You Are a Badass" is a refreshingly blunt and entertaining guide to stop doubting your greatness and start living an awesome life. Sincero combines personal anecdotes, edgy humor, and practical wisdom to help readers identify and change the self-sabotaging beliefs and behaviors that hold them back. The book operates on the fundamental premise that you already have everything you need within you to create the life you want—you just need to get out of your own way and own your power.

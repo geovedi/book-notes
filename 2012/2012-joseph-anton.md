@@ -1,5 +1,6 @@
 # Joseph Anton
 **Author**: Salman Rushdie | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 "Joseph Anton" is Salman Rushdie's gripping memoir of life under the death sentence imposed by Ayatollah Khomeini in 1989 after the publication of "The Satanic Verses." Written in the third person using his alias "Joseph Anton" (combining Conrad and Chekhov's names), the book chronicles nine years of living under police protection, the impact on his relationships, and the global controversy surrounding free speech and religious extremism. This is not just a writer's story but a profound examination of how one man's freedom became an international crisis that tested the boundaries of literature, faith, and democracy.

@@ -1,5 +1,6 @@
 # Cryptocurrency: Understanding Bitcoin, Bitcoin Cash, Ethereum & Altcoins
 **Authors**: Sean Bennett | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies the world of cryptocurrencies, explaining how digital currencies like Bitcoin, Ethereum, and various altcoins work, their historical development, and practical applications. The book covers everything from basic concepts like blockchain technology to advanced topics like trading strategies, risk management, and Initial Coin Offerings (ICOs). It serves as both an educational resource for beginners and a practical handbook for those looking to invest or use cryptocurrencies.

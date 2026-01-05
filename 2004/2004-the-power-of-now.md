@@ -1,5 +1,5 @@
 # The Power of Now
-**Authors**: Eckhart Tolle | **Year**: 2004
+**Authors**: Eckhart Tolle | **Year**: 2004 | **Category**: Spirituality & Religion
 
 ## Summary
 "The Power of Now" presents a revolutionary approach to spiritual enlightenment by teaching readers how to live fully in the present moment. Tolle argues that human suffering stems from identification with the thinking mind and its continuous preoccupation with past and future. The book guides readers toward liberation from psychological time and rediscovery of their true nature rooted in Being.

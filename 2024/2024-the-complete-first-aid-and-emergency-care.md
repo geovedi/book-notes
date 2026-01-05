@@ -1,6 +1,7 @@
 # The Complete First Aid and Emergency Care
 
 **Author**: Dr. Eleanor Hartman | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive first aid guide transforms emergency response from overwhelming to manageable by breaking down life-saving techniques into clear, actionable steps. The book establishes that being prepared isn't about having perfect knowledge—it's about having confidence in your ability to help when seconds count. Through systematic frameworks like the ABCs (Airway, Breathing, Circulation) and practical protocols, it equips readers to handle everything from minor cuts to cardiac arrest.

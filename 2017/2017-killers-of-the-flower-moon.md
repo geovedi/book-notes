@@ -1,5 +1,6 @@
 # Killers of the Flower Moon
 **Author**: David Grann | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 In the 1920s, the Osage Nation in Oklahoma became the wealthiest people per capita in the world after oil was discovered on their land. This unprecedented prosperity attracted a sinister conspiracy of systematic murders targeting Osage families to steal their oil fortune through guardianship and inheritance rights. The killing spree claimed dozens of lives until an emerging federal agency—the FBI—under J. Edgar Hoover launched its first major homicide investigation to uncover the truth.

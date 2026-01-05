@@ -1,5 +1,5 @@
 # The Girl Who Smiled Beads
-**Authors**: Clemantine Wamariya, Elizabeth Weil | **Year**: 2018
+**Authors**: Clemantine Wamariya, Elizabeth Weil | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 Clemantine Wamariya's memoir recounts her extraordinary journey from a privileged childhood in Kigali, Rwanda, to surviving the 1994 genocide as a six-year-old refugee, and her subsequent six-year odyssey across seven African countries with her teenage sister Claire. The narrative powerfully contrasts the innocence of her early years—filled with stories about a magical girl who "smiled beads"—with the brutal reality of war, displacement, and the complex aftermath of trauma.

@@ -1,5 +1,6 @@
 # Lean Startup, to Lean Company, to Rich Exit
-**Authors**: Kenan E. Sahin, PhD | **Year**: 2024 
+**Authors**: Kenan E. Sahin, PhD | **Year**: 2024
+**Category**: Business & Finance 
 
 ## Summary
 "Lean Startup, to Lean Company, to Rich Exit" is Kenan Sahin's firsthand account of building Kenan Systems from a $1,000 startup into a $1.54 billion acquisition by Lucent Technologies—all while maintaining complete control as the sole shareholder. Drawing on his background as an MIT professor, Sahin transforms his entrepreneurial journey into a replicable framework that bridges academic theory with practical business implementation. The book documents how he built early AI systems, developed the ARBOR telecommunications platform (which now serves over a billion customers globally), and created a unique organizational culture that achieved seven times higher productivity than industry averages.

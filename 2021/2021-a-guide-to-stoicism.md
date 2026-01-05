@@ -1,5 +1,6 @@
 # A Guide to Stoicism
 **Authors**: St. George Stock | **Year**: 2021
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "A Guide to Stoicism" provides a comprehensive overview of the ancient Greco-Roman philosophical school founded by Zeno in 322 BC. This work distills Stoicism into its essential components: logic, physics, and ethics, while tracing its development through key figures like Chrysippus, Seneca, and Marcus Aurelius. Stock presents Stoicism as both a practical philosophy for daily living and a profound metaphysical system that views the universe as a rational, divinely ordered whole governed by natural law.

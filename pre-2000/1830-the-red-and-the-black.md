@@ -1,6 +1,7 @@
 # The Red and the Black
 **Original Title**: Le Rouge et le Noir
 **Authors**: Stendhal (Marie-Henri Beyle) | **Year**: 1830
+**Category**: Fiction & Literature
 
 ## Summary
 "The Red and the Black" follows the ambitious Julien Sorel, a young man of humble origins who dreams of rising above his station in post-Napoleonic French society. The title symbolizes his two potential paths: the red of military glory (like Napoleon) or the black of the ecclesiastical career. Julien's journey from a provincial sawmill to Parisian high society exposes the hypocrisy, class barriers, and moral compromises of the Restoration era. Through his relationships with the married Madame de Renal and the aristocratic Mathilde de La Mole, Julien navigates a world where love and ambition constantly collide, ultimately leading to his tragic downfall.

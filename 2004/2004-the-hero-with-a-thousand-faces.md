@@ -1,5 +1,5 @@
 # The Hero with a Thousand Faces
-**Joseph Campbell** • Princeton University Press (2004) • 464 pages
+**Joseph Campbell** • Princeton University Press (2004) • 464 pages | **Category**: Philosophy & Critical Thinking
 
 ---
 

@@ -1,5 +1,6 @@
 # The Money Code
 **Authors**: Raimon Samsó | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "The Money Code" reveals that financial success is primarily an internal game of mindset rather than external circumstances. Samsó, a former banker and economist, discovered that traditional education about money is fundamentally flawed and doesn't lead to wealth. The book presents a paradigm shift: money is an idea that amplifies your existing beliefs, and financial freedom comes from "unlearning" false programming rather than acquiring new knowledge.

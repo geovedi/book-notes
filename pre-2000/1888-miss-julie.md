@@ -1,5 +1,6 @@
 # Miss Julie
 **Original Title**: Fröken Julie | **Author**: August Strindberg | **Year**: 1888
+**Category**: Fiction & Literature
 
 ## Summary
 "Miss Julie" is a groundbreaking naturalist tragedy that takes place over a single Midsummer Eve in the kitchen of a Count's estate. The play depicts the destructive relationship between Julie, a 25-year-old countess, and Jean, her father's valet, culminating in psychological breakdown and tragedy. Strindberg masterfully explores the Darwinian struggle between classes, the battle of the sexes, and the psychological forces that drive human behavior. What begins as flirtation between mistress and servant escalates into a power struggle that reveals the fragility of social boundaries and the destructive nature of repressed desires.

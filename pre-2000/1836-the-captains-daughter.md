@@ -1,6 +1,7 @@
 # The Captain's Daughter
 **Original Title**: Капитанская дочка (Kapitanskaya dochka)
 **Author**: Aleksandr Pushkin | **Year**: 1836
+**Category**: Fiction & Literature
 
 ## Summary
 Set during the Pugachev Rebellion of 1773-1774, this historical novel follows young nobleman Pyotr Grinyov as he's sent to serve at a remote fortress in Orenburg. What begins as a coming-of-age story transforms into an epic tale of love, honor, and survival during one of Russia's most violent peasant uprisings. The narrative explores the complex relationships between duty and personal loyalty, innocence and experience, and the brutal realities of revolution versus the ideals of honor.

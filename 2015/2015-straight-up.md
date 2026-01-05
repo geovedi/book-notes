@@ -1,5 +1,5 @@
 # Straight Up
-**Authors**: Steve Berry | **Year**: 2015
+**Authors**: Steve Berry | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 "Straight Up" is a raw, honest collection of Himalayan mountaineering adventures that spans decades of expeditions across India, Nepal, and Bhutan. Steve Berry, a pioneering British climber who was the first to ascend Mount Nun in 1981, delivers unfiltered accounts of his expeditions, including his ambitious attempt on Cho Oyu, the world's sixth highest peak. The book captures the brutal reality of high-altitude climbing - the physical suffering, bureaucratic nightmares, life-threatening dangers, and moments of transcendent beauty that make mountaineers return again and again to the world's highest mountains.

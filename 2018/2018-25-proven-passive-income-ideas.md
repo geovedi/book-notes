@@ -1,5 +1,5 @@
 # 25 Proven Passive Income Ideas
-**Authors**: Mark Atwood | **Year**: 2018
+**Authors**: Mark Atwood | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide reveals 25 proven strategies for generating passive income, providing a roadmap to escape the traditional "time for money" trap and achieve financial freedom. The book approaches passive income as a system where you work once to create valuable assets that continue generating revenue indefinitely, similar to planting a fruit tree that yields harvests for years.

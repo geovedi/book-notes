@@ -1,5 +1,6 @@
 # The Boscombe Valley Mystery
 **Authors**: Arthur Conan Doyle | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 In this classic Sherlock Holmes mystery, Dr. Watson recounts a seemingly straightforward case of patricide in the English countryside. When Charles McCarthy is found murdered near Boscombe Pool, all evidence points to his son James, who was seen quarreling with his father shortly before the death. As James faces trial for murder, Holmes is summoned by the victim's daughter Alice, who believes in James's innocence. Through his trademark deductive reasoning, Holmes uncovers a complex web of blackmail, hidden identities, and dark secrets from Australia's gold rush past.

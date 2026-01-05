@@ -1,5 +1,5 @@
 # Feminism Is For Everybody
-**Author**: Bell Hooks | **Year**: 2000
+**Author**: Bell Hooks | **Year**: 2000 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Feminism Is For Everybody" is a passionate, accessible manifesto that reclaims feminism as a movement to end sexism, sexist exploitation, and oppression—not a battle against men. Hooks argues that feminism benefits everyone by dismantling patriarchal systems that harm both women and men. Written as the concise primer she wished existed during 20 years of feminist activism, this book breaks down complex feminist theory into clear, practical wisdom for everyday life. Hooks challenges misconceptions about feminism, exposes how the movement lost its way through career opportunism and lifestyle politics, and calls for a renewed feminist revolution rooted in love, justice, and mutual liberation.

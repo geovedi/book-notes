@@ -1,5 +1,5 @@
 # The Greatest Short Stories of Leo Tolstoy
-**Authors**: Leo Tolstoy | **Year**: 2018
+**Authors**: Leo Tolstoy | **Year**: 2018 | **Category**: Fiction & Literature
 
 ## Summary
 This collection gathers Tolstoy's most profound moral and spiritual tales, written during his later philosophical period when he focused on Christian themes, simple living, and the meaning of life. Each story presents a transformative lesson about human nature, greed, faith, and redemption through accessible narratives that resonate across cultures and time periods. These stories represent Tolstoy's shift from epic novels to concise, powerful parables that continue to influence readers with their timeless wisdom and ethical clarity.

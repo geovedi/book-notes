@@ -1,5 +1,5 @@
 # The Royal Art of Poison
-**Eleanor Herman** | **Year**: 2018
+**Eleanor Herman** | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 This fascinating historical investigation reveals how Europe's royal courts were hotbeds of poison—both intentional and accidental. While nobles lived in terror of being assassinated by poison, Herman demonstrates through modern forensic analysis that they were systematically poisoning themselves every day through toxic cosmetics, dangerous medical treatments, and filthy living conditions. The book examines famous royal "poisonings" throughout history, using modern science to determine whether deaths were murder, misadventure, or natural causes.

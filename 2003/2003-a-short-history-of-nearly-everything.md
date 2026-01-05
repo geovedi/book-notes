@@ -1,5 +1,5 @@
 # A Short History of Nearly Everything
-**Authors**: Bill Bryson | **Year**: 2003
+**Authors**: Bill Bryson | **Year**: 2003 | **Category**: Science & Nature
 
 ## Summary
 Bill Bryson's "A Short History of Nearly Everything" is a fascinating journey through the scientific discoveries that explain our universe, Earth, life, and human existence. Written in Bryson's characteristic witty and accessible style, the book transforms complex scientific concepts into engaging narratives that reveal how little we actually know about the world around us. From the Big Bang to the rise of civilization, Bryson illuminates the remarkable stories of scientific breakthroughs, the eccentric personalities behind them, and the sheer improbability of human existence.

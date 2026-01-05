@@ -1,5 +1,5 @@
 # Butts: A Backstory
-**Author**: Heather Radke | **Year**: 2022
+**Author**: Heather Radke | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 Heather Radke's "Butts: A Backstory" is a fascinating cultural and historical exploration of women's buttocks, tracing how this body part has been perceived, valued, and politicized across different eras and cultures. The book combines personal narrative with extensive research to examine how butts have become a focal point for discussions about race, gender, beauty standards, and power. From evolutionary biology to modern pop culture, Radke reveals how attitudes toward butts reflect broader societal anxieties and desires about female bodies.

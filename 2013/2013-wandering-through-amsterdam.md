@@ -1,6 +1,6 @@
 # Wandering Through Amsterdam
 **Original Title**: Dwalen door Amsterdam
-**Authors**: Simon Carmiggelt, compiled by Henk van Gelder | **Year**: 2013 
+**Authors**: Simon Carmiggelt, compiled by Henk van Gelder | **Year**: 2013 | **Category**: History & Biography 
 
 ## Summary
 

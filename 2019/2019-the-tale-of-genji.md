@@ -1,5 +1,6 @@
 # The Tale of Genji
 **Original Title**: 源氏物語 (Genji Monogatari) | **Authors**: Murasaki Shikibu | **Year**: c. 1008
+**Category**: Fiction & Literature
 
 ## Summary
 The Tale of Genji follows the life and romantic adventures of Hikaru Genji, the handsome and gifted son of a Japanese emperor, whose mother was of low social standing. Removed from the line of succession and given the surname Genji to make him a commoner, he navigates the complex political and romantic landscape of Heian-era Japan's imperial court. Spanning decades, the story chronicles Genji's rise and fall, his exile and return, and his relationships with numerous women—each representing different aspects of love, beauty, and spiritual connection. Considered the world's first novel, this masterpiece offers an intimate glimpse into Japanese aristocratic life, exploring themes of mortality, karma, and the transient nature of human existence.

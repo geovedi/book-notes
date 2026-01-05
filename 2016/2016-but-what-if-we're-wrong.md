@@ -1,5 +1,5 @@
 # But What If We're Wrong: Thinking About the Present As If It Were the Past
-**Author**: Chuck Klosterman | **Year**: 2016
+**Author**: Chuck Klosterman | **Year**: 2016 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Chuck Klosterman's provocative exploration of how future generations will view our current "truths" and certainties. The book challenges us to consider that many things we collectively believe are objective facts or timeless values will seem ridiculous to future societies, just as we now see historical fallacies like Aristotle's theory that objects fall because they "belong" on Earth.

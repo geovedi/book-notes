@@ -1,6 +1,7 @@
 # Building a Career in Cybersecurity: The Strategy and Skills You Need to Succeed
 
 **Authors**: Yuri Diogenes | **Year**: 2023
+**Category**: Technology & Computing
 
 ## Summary
 "Building a Career in Cybersecurity" is a comprehensive guide for aspiring and transitioning cybersecurity professionals that provides a structured roadmap from career exploration to advanced specialization. Written by Yuri Diogenes, a principal PM manager at Microsoft with extensive industry experience, this book transforms the overwhelming journey into cybersecurity into manageable, actionable steps.

@@ -1,5 +1,5 @@
 # The American Plague
-**Author**: Molly Caldwell Crosby | **Year**: 2006
+**Author**: Molly Caldwell Crosby | **Year**: 2006 | **Category**: Health & Medicine
 
 ## Summary
 "The American Plague" chronicles the devastating yellow fever epidemic of 1878 that nearly destroyed Memphis and the subsequent scientific quest to uncover the disease's mysterious transmission method. This gripping narrative weaves together the tragic story of America's worst urban disaster with the groundbreaking medical discoveries that would eventually conquer one of history's most feared diseases.

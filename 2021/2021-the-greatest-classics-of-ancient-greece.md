@@ -1,5 +1,6 @@
 # The Greatest Classics of Ancient Greece
 **Original Title**: The Greatest Classics of Ancient Greece | **Authors**: Homer, Hesiod, Archilochus, Alcaeus, Sappho, Anacreon, Theognis of Megara, Simonides of Ceos, Bacchylides, Pindar, Aeschylus, Sophocles, Euripides, Aristophanes, Herodotus, Thucydides, Plato, Aristotle, Lysias, Demosthenes, Apollonius, Callimachus, Theocritus, Plutarch, Epictetus, Gilbert Murray | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 This monumental collection brings together the foundational texts of Western civilization in a single volume. Spanning from the epic adventures of Homer's Iliad and Odyssey to the philosophical dialogues of Plato and Aristotle, from the passionate lyrics of Sappho to the dramatic tragedies of Aeschylus, Sophocles, and Euripides, this anthology represents the pinnacle of ancient Greek literary achievement.

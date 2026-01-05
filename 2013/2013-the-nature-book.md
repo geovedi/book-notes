@@ -1,5 +1,5 @@
 # The Nature Book
-**Authors**: Marianne Taylor | **Year**: 2013
+**Authors**: Marianne Taylor | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "The Nature Book" serves as a welcoming gateway for curious adults who want to reconnect with the natural world but don't know where to begin. Written in an engaging, accessible style with plenty of humor, this comprehensive guide covers the fundamentals of plants, animals, and ecosystems, making complex scientific concepts understandable without overwhelming readers. The book emphasizes that nature is everywhere—not just in remote wilderness areas but right in our homes, gardens, and local parks.

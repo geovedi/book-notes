@@ -1,5 +1,6 @@
 # Baby One More Time: 90's Dude 2
 **Author**: Tamrin Banks | **Year**: 2024
+**Category**: Romance & Relationships
 
 ## Summary
 Lucian Marino and Serena Shire were high school sweethearts who thought they'd be together forever until graduation when Lucian made the painful decision to push Serena away to pursue her dance dreams. Ten years later, they reconnect when their children meet during a school field trip, forcing them to confront their unresolved past and the love that never died.

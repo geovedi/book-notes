@@ -1,5 +1,6 @@
 # History of the Later Roman Empire
 **Authors**: J.B. Bury | **Year**: 1923 (Original work covers period 395-565 AD)
+**Category**: History & Biography
 
 ## Summary
 J.B. Bury's "History of the Later Roman Empire" is a masterful academic examination of the transformation from the classical Roman world to the Byzantine Empire. Beginning sixty years after Constantine's death, this comprehensive work documents how the Eastern Roman Empire survived while the West fell to Germanic invasions. Bury reveals the remarkable thousand-year continuity of Roman institutions in the East, centered on Constantinople, which maintained itself as Europe's most powerful state through cycles of expansion, decline, and revival until 1453.

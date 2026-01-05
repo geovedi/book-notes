@@ -1,5 +1,6 @@
 # The Sherlock Holmes Collection: Complete Works
 **Authors**: Arthur Conan Doyle | **Year**: 2017 (Collection), Original stories: 1887-1927
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together every Sherlock Holmes story ever written by Sir Arthur Conan Doyle - four complete novels and forty-three short stories that revolutionized detective fiction and created the world's most famous consulting detective. From the foggy streets of Victorian London to the eerie moors of Devonshire, Holmes uses his unmatched powers of observation and deductive reasoning to solve crimes that baffle Scotland Yard's finest.

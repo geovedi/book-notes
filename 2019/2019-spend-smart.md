@@ -1,6 +1,7 @@
 # Spend Smart
 **Original Title**: Spend Smart
 **Authors**: Zoe McKey | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Spend Smart" is a practical guide to transforming your relationship with money by understanding the psychology behind spending decisions and developing habits that lead to financial freedom without sacrificing lifestyle quality. The book challenges common money myths and reveals how our brains often sabotage our financial well-being through emotional decision-making, cognitive biases, and susceptibility to marketing tricks.

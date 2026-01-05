@@ -1,5 +1,5 @@
 # The Fertile Earth
-**Authors**: Viktor Schauberger, translated & edited by Callum Coats | **Year**: 2000
+**Authors**: Viktor Schauberger, translated & edited by Callum Coats | **Year**: 2000 | **Category**: Science & Nature
 
 ## Summary
 "The Fertile Earth" presents Viktor Schauberger's revolutionary insights into nature's energy systems and their application to agriculture, soil fertility, and forestry. Schauberger argues that modern technological approaches to water management, forestry, and agriculture are fundamentally flawed because they work against natural processes rather than with them. He introduces concepts like "planetary motion" versus "techno-academic motion," explaining how natural spiral movements create life-enhancing energies while straight-line mechanical movements generate destructive forces.

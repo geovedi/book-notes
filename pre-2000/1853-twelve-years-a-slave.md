@@ -1,5 +1,6 @@
 # Twelve Years a Slave
 **Author**: Solomon Northup | **Year**: 1853
+**Category**: History & Biography
 
 ## Summary
 "Twelve Years a Slave" is a harrowing firsthand account of a free Black man from New York who was kidnapped and sold into slavery in the American South in 1841. Solomon Northup, a educated family man and talented violinist living in Saratoga Springs, was drugged, abducted, and transported to Louisiana where he endured brutal conditions on cotton plantations for twelve years before being rescued through the intervention of a Canadian carpenter named Samuel Bass and a white attorney from his hometown.

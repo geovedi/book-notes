@@ -1,5 +1,6 @@
 # Ice Cream: A Global History
 **Author**: Laura B. Weiss | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 Ice Cream: A Global History traces the remarkable journey of frozen desserts from ancient chilled drinks enjoyed by Chinese emperors to the $43 billion global industry of today. Weiss reveals how ice cream evolved from an exclusive luxury for European royalty to a beloved street food for the masses, ultimately becoming one of the world's most universal treats.

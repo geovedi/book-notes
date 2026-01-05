@@ -1,5 +1,5 @@
 # Between the World and Me
-**Author**: Ta-Nehisi Coates | **Year**: 2015
+**Author**: Ta-Nehisi Coates | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 "Between the World and Me" is a profound letter from father to son that confronts the reality of being Black in America through the metaphor of the physical body. Written as a response to James Baldwin's "The Fire Next Time," Coates frames racism not as an abstract issue but as a visceral assault on the Black body—police violence, institutional discrimination, and the systematic destruction of Black lives. The book challenges readers to see America's racial divide not as a problem to be solved but as the fundamental organizing principle of American society, built on the plunder of Black bodies for the benefit of those who believe themselves to be white.

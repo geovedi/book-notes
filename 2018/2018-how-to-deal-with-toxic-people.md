@@ -1,5 +1,6 @@
 # How to Deal with Toxic People: Clever Ways to Handle Manipulative, Difficult, & Sensitive People Using Emotional Intelligence
 **Authors**: Bob Scott | **Year**: 2018
+**Category**: Psychology & Mental Health
 
 ## Summary
 This practical guide provides essential strategies for identifying and effectively managing toxic people in all areas of life. The book teaches readers how to recognize the warning signs of toxic behavior, set firm boundaries, and protect their emotional wellbeing from manipulative individuals.

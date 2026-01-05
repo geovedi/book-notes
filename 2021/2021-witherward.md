@@ -1,5 +1,6 @@
 # Witherward
 **Authors**: Hannah Mathewson | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 *Witherward* is a dark urban fantasy novel that follows Ilsa, a young woman in Victorian London who possesses a dangerous secret: she's a Changeling with the ability to shapeshift into animals. Living as a magician's assistant and pickpocket, Ilsa has always believed her powers were unnatural, a curse from the devil as described by the cruel orphanage matron who raised her. When her best friend Martha is brutally murdered by supernatural beings called Oracles who mistake Martha for her, Ilsa's world is shattered.

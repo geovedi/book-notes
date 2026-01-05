@@ -1,6 +1,7 @@
 # How Innovation Happens
 **Original Title**: Como surgem as inovações
 **Author**: Matt Ridley | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 

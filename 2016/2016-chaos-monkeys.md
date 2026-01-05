@@ -1,7 +1,7 @@
 # 2016-chaos-monkeys.md
 
 # Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
-**Author**: Antonio Garcia Martinez | **Year**: 2016
+**Author**: Antonio Garcia Martinez | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Chaos Monkeys" is a blistering insider's account of Silicon Valley's cutthroat culture, following Antonio Garcia Martinez's journey from Goldman Sachs quant to Twitter-acquired startup founder to Facebook ads team member during their crucial IPO period. The book exposes the myth of meritocracy in tech, revealing how success often depends on luck, connections, and ruthless ambition rather than pure innovation. Martinez pulls back the curtain on the industry's hypocrisy, showing how "Move Fast and Break Things" really means "Move Fast and Break Rules, People, and Companies."

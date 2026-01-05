@@ -1,6 +1,7 @@
 # A Critical Review of Hitler's "Mein Kampf" by George Orwell
 **Original Title**: Review of Adolph Hitler's "Mein Kampf"
 **Author**: George Orwell | **Year**: 1940
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 

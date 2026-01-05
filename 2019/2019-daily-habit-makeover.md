@@ -1,5 +1,6 @@
 # Daily Habit Makeover
 **Authors**: Zoe McKey | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Daily Habit Makeover" is a comprehensive guide to transforming your life by revolutionizing your daily routines and habits. The book begins with a powerful thought experiment: imagining yourself at your own funeral and contemplating whether you've lived a life without regrets. This compelling premise sets the stage for a practical exploration of how small, consistent changes in daily habits can lead to profound life improvements.

@@ -1,5 +1,6 @@
 # The Tale of Pigling Bland
 **Author**: Beatrix Potter | **Year**: 1913
+**Category**: Children & Young Adult
 
 ## Summary
 A gentle young pig named Pigling Bland is sent to market with his mischievous brother Alexander, but loses his travel papers and finds himself on an unexpected adventure. When Alexander is escorted back home by a policeman for losing his license, Pigling Bland continues alone, gets lost in the woods, and accidentally ends up in a hen-house belonging to the suspicious farmer Piperson. There he discovers Pig-wig, a stolen black Berkshire pig hiding from the farmer who intends to make bacon from her. Together they cleverly escape and cross the county boundary to freedom.

@@ -1,5 +1,5 @@
 # Whole Numbers and Half Truths: What Data Can and Cannot Tell Us About Modern India
-**Authors**: Rukmini S. | **Year**: 2022
+**Authors**: Rukmini S. | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "Whole Numbers and Half Truths" is a groundbreaking data journalism work that challenges the established narratives about modern India through rigorous analysis of official and private data. Written by one of India's pioneering data journalists, the book reveals how statistics can both illuminate and obscure the reality of the world's largest democracy. The author demonstrates that while India has an impressive statistical architecture spanning censuses, surveys, and data collection systems, the interpretation of this data often creates misleading "narratives" that shape public understanding and policy decisions.

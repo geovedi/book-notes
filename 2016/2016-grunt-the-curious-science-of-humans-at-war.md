@@ -1,5 +1,5 @@
 # Grunt: The Curious Science of Humans at War
-**Author**: Mary Roach | **Year**: 2016
+**Author**: Mary Roach | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "Grunt" explores the fascinating, often bizarre world of military science that keeps soldiers alive in combat zones. Rather than focusing on weapons and warfare strategy, Roach investigates the unsung heroes of military research—scientists and engineers who tackle everything from bird strikes and combat clothing to submarine escapes and shark repellents. The book reveals how creative problem-solving and scientific rigor address the mundane but critical challenges of military life, proving that the most important battles are sometimes fought against heat, noise, bacteria, and even diarrhea.

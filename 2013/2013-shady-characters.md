@@ -1,5 +1,5 @@
 # Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks
-**Authors**: Keith Houston | **Year**: 2013
+**Authors**: Keith Houston | **Year**: 2013 | **Category**: Art & Creativity
 
 ## Summary
 "Shady Characters" reveals the fascinating hidden histories behind the punctuation marks and symbols we use every day. Each chapter tells the story of a different character—from the pilcrow (¶) to the interrobang (‽)—tracing its origins through ancient manuscripts, medieval scribal traditions, and modern digital typography. Houston uncovers how these marks evolved from practical innovations to cultural artifacts, showing that the dots, lines, and curves that structure our written language have rich, surprising backstories that span millennia.

@@ -1,5 +1,5 @@
 # Monet's Palate Cookbook
-**Authors**: Aileen Bordman, Derek Fell | **Year**: 2015
+**Authors**: Aileen Bordman, Derek Fell | **Year**: 2015 | **Category**: Art & Creativity
 
 ## Summary
 "Monet's Palate Cookbook" reveals the hidden culinary side of Claude Monet, showing how the famous Impressionist painter was not only a master of light and color but also a passionate gardener and gourmet who lived the farm-to-table lifestyle a century before it became trendy. The book takes readers inside Monet's home at Giverny, where he maintained a two-acre kitchen garden, raised his own poultry, and entertained artistic luminaries around his dining table with exquisite meals prepared from his garden's bounty.

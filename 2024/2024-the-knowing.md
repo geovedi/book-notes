@@ -1,5 +1,6 @@
 # The Knowing
 **Authors**: Tanya Talaga | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "The Knowing" is a powerful investigation into the author's family history, centering on the search for her great-great-grandmother Annie Carpenter, who lies in an unmarked grave near Toronto's Gardiner Expressway. Through this personal quest, Talaga uncovers the broader story of Canada's genocidal policies toward Indigenous peoples, particularly through the Indian residential school system and the Indian Act of 1876.

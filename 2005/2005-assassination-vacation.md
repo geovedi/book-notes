@@ -1,5 +1,5 @@
 # Assassination Vacation
-**Author**: Sarah Vowell | **Year**: 2005
+**Author**: Sarah Vowell | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 Sarah Vowell's "Assassination Vacation" is a witty, unconventional travelogue that follows the author's pilgrimage to historical sites related to the first three U.S. presidential assassinations: Lincoln, Garfield, and McKinley. What begins as macabre tourism evolves into a meditation on American history, political obsession, and the strange ways we connect with our national past. Vowell blends humor with historical insight as she visits museums, monuments, and obscure relics—from Lincoln's skull fragments to the ceramic tiles where Garfield was shot—while contemplating her own complicated relationship with patriotism during the George W. Bush administration.

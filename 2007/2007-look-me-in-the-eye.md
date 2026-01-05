@@ -1,5 +1,6 @@
 # Look Me in the Eye: My Life with Asperger's
 ## John Elder Robison (2007) | Fast-Track Story Guide
+**Category**: Psychology & Mental Health
 
 ---
 

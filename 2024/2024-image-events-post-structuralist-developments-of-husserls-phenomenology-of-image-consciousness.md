@@ -1,6 +1,7 @@
 # Image Events: Post-Structuralist Developments of Husserl's Phenomenology of Image Consciousness
 **Original Title**: Bildgeschehen: Post-strukturalistische Entfaltungen von Husserls Phänomenologie des Bildbewusstseins
 **Author**: Alice Mara Serra | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This profound philosophical work explores the phenomenon of "Bildgeschehen" (image events) through a sophisticated dialogue between Edmund Husserl's phenomenology of image consciousness and Jacques Derrida's post-structuralist deconstruction. Serra traces how images "happen" rather than simply "exist," investigating the dynamic processes through which visual representations emerge, surprise us, and resist complete conceptualization.

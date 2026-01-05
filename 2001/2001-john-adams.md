@@ -1,5 +1,5 @@
 # John Adams
-**Author**: David McCullough | **Year**: 2001
+**Author**: David McCullough | **Year**: 2001 | **Category**: History & Biography
 
 ## Summary
 David McCullough's masterful biography chronicles the life of John Adams, the brilliant, passionate, and often underappreciated Founding Father who served as America's second president. More than just a political history, this intimate portrait reveals Adams as a devoted husband, loving father, and fierce patriot whose relentless advocacy for independence helped shape American democracy. Through extensive research and Adams's own voluminous correspondence, McCullough brings to life a man of extraordinary principle, occasional vanity, and unwavering dedication to public service.

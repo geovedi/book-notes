@@ -1,5 +1,6 @@
 # The Devil's Diadem
 **Authors**: Sara Douglass | **Year**: 2012
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Devil's Diadem" is a captivating historical fantasy set in a fictional version of 12th century England, following Maeb Langtofte, a nineteen-year-old noblewoman left penniless and alone after her father's death. With no dowry and limited prospects, Maeb accepts a position as lady's maid to the powerful Countess Adelie de Mortaigne of Pengraic, one of England's most influential noble families.

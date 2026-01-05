@@ -1,5 +1,5 @@
 # The Undoing Project
-**Authors**: Michael Lewis | **Year**: 2016
+**Authors**: Michael Lewis | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Undoing Project" tells the extraordinary story of two Israeli psychologists, Daniel Kahneman and Amos Tversky, whose friendship and intellectual partnership revolutionized our understanding of human judgment and decision-making. Their collaboration revealed that human minds don't operate like rational calculators but use mental shortcuts that systematically lead to predictable errors. Their work birthed the field of behavioral economics and earned Kahneman the Nobel Prize (Tversky had died by then).

@@ -1,6 +1,7 @@
 # Make Yourself Great Again
 **Original Title**: Make Yourself Great Again: The Complete Series
 **Author**: Dr. Robert C. Worstell | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Make Yourself Great Again" is a comprehensive collection that challenges the modern belief that environment determines individual success. Dr. Worstell presents a radical premise: everything needed for success is already programmed within you from birth. The book dismantles commonly accepted "truths" about how the world works - from scientific authority to government reliability to media accuracy - arguing that these external beliefs systematically disconnect us from our innate power.

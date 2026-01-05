@@ -1,5 +1,5 @@
 # And There Was Light: Abraham Lincoln and the American Struggle
-**Authors**: Jon Meacham | **Year**: 2022
+**Authors**: Jon Meacham | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 Jon Meacham's masterful biography chronicles Abraham Lincoln's transformation from a humble frontier lawyer with moderate views on slavery into America's great emancipator. The book focuses on Lincoln's moral and spiritual evolution, particularly how his growing religious conviction shaped his leadership during America's greatest crisis. Meacham presents Lincoln not as a marble saint, but as a flawed, contradictory man who grew into greatness through the crucible of civil war.

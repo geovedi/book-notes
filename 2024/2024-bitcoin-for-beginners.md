@@ -1,6 +1,7 @@
 # Bitcoin for Beginners
 **Original Title**: Bitcoin für Einsteiger
 **Author**: Marco Bühler | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 Bitcoin is a fair monetary system created by people for people that offers a solution to the fundamental flaws in traditional banking and fiat currency systems. This comprehensive guide explains why the world needs Bitcoin through a three-part analysis: first exposing the injustices of the current financial system, then explaining Bitcoin's technical workings, and finally providing practical guidance for navigating the cryptocurrency landscape.

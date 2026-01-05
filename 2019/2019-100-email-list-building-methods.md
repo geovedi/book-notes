@@ -1,5 +1,6 @@
 # 100 Email List Building Methods
 **Authors**: Dale Carnegie | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Building an email list is one of the most valuable assets any business can own. Unlike social media followers or rented ad space, your email list gives you direct access to customers' personal inboxes—creating authentic relationships, driving sales, and building trust. This comprehensive guide reveals 100 practical strategies to rapidly grow your subscriber base using both online and offline tactics. The methods range from simple website optimizations to advanced social media campaigns, giving businesses of all sizes a complete toolkit for sustainable list growth.

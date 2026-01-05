@@ -1,5 +1,6 @@
 # Dare to Lead
 **Authors**: Brené Brown | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Dare to Lead" transforms leadership from a position of power into a practice of courage. Based on extensive research with 150 C-level executives and data from 400,000 pieces of information, Brown demonstrates that brave leadership isn't about having courage—it's about teaching and practicing courage as a set of measurable skills. The book argues that in today's complex, rapidly changing environment, we need braver leaders and more courageous cultures where people can bring their whole selves to work.

@@ -1,6 +1,7 @@
 # The Boy Who Could Change the World: The Writings of Aaron Swartz
 
 **Authors**: Aaron Swartz | **Year**: 2015
+**Category**: Technology & Computing
 
 ## Summary
 "The Boy Who Could Change the World" is a posthumous collection of writings by Aaron Swartz, the brilliant programmer and activist who helped develop RSS, Creative Commons, and Reddit at remarkably young ages. This book showcases Swartz's extraordinary mind through essays spanning open access to information, internet freedom, political reform, education transformation, and media criticism. Written between ages 13 and 26, these pieces reveal a thinker who combined technical genius with profound moral conviction about using knowledge and technology to liberate human potential.

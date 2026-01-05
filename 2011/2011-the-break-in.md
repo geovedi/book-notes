@@ -1,6 +1,6 @@
 # The Break-in
 **Original Title**: Inbraak
-**Author**: Rudy Soetewey | **Year**: 2011 
+**Author**: Rudy Soetewey | **Year**: 2011 | **Category**: Horror & Thriller 
 
 ## Summary
 "The Break-in" is a gripping Dutch crime thriller that explores the devastating consequences when a routine burglary spirals into violence and betrayal. The story follows Willy, a professional burglar who targets what appears to be an easy mark - an English-style villa in the countryside owned by Didier and Erica, a wealthy couple who have recently moved in. What begins as a calculated crime quickly transforms into a nightmare of violence, sexual assault, and murder.

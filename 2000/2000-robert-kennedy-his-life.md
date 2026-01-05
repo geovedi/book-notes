@@ -1,5 +1,5 @@
 # Robert Kennedy: His Life
-**Author**: Evan Thomas | **Year**: 2000
+**Author**: Evan Thomas | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 This comprehensive biography chronicles the transformation of Robert F. Kennedy from an unpromising, overshadowed boy into one of America's most compelling political leaders. Thomas portrays RFK as a complex figure who evolved from a tough enforcer and manipulator into a compassionate advocate for the poor and marginalized. The book reveals how Kennedy's lifelong battle with fear fueled his courage, how personal tragedies shaped his moral vision, and how his 1968 presidential campaign briefly offered hope to a deeply divided nation before his assassination ended this promising journey.

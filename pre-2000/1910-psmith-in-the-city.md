@@ -1,5 +1,6 @@
 # Psmith in the City
 **Authors**: P. G. Wodehouse | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 "Psmith in the City" follows the misadventures of Mike Jackson and the eccentric Psmith when family financial troubles force Mike to abandon his dreams of Cambridge University and take a job at a London bank. Psmith, already working there through his father's connections, provides companionship and chaos in equal measure. The novel is a classic workplace comedy that satirizes corporate life while celebrating the resilience of youth and the power of friendship.

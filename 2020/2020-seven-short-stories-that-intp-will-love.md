@@ -1,5 +1,6 @@
 # Seven Short Stories That INTP Will Love
 **Authors**: Saki, Marcus Aurelius, Arthur Conan Doyle, H.P. Lovecraft, Ralph Waldo Emerson, James Joyce, Katherine Mansfield | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This carefully curated collection brings together seven masterful short stories spanning different eras and genres, specifically selected to resonate with the INTP personality type's intellectual curiosity, love for abstract thinking, and appreciation for complex philosophical questions. From Saki's wicked social satire to Lovecraft's cosmic horror, from Marcus Aurelius's Stoic wisdom to Joyce's psychological realism, each story offers a unique intellectual puzzle that challenges conventional thinking and explores the depths of human nature.

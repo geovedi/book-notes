@@ -1,5 +1,6 @@
 # Lucky
 **Author**: Alice Sebold | **Year**: 1999
+**Category**: Fiction & Literature
 
 ## Summary
 "Lucky" is a searing memoir that chronicles Alice Sebold's brutal rape as a college freshman and her extraordinary journey through trauma, justice, and eventual healing. The title derives from a police officer telling her she was "lucky" because another girl had been murdered and dismembered in the same tunnel where she was attacked. Sebold refuses to be defined by victimhood, instead transforming her trauma into a powerful testimony of survival and resilience.

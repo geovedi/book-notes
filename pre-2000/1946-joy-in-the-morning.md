@@ -1,5 +1,6 @@
 # Joy in the Morning
 **Authors**: P.G. Wodehouse | **Year**: 1946
+**Category**: Fiction & Literature
 
 ## Summary
 A classic Jeeves and Wooster comedy of errors set in the dreaded village of Steeple Bumpleigh, where Bertie Wooster finds himself entangled in multiple romantic complications and business dealings gone awry. When Bertie's uncle Lord Worplesdon needs help with a shipping merger, Bertie is reluctantly drawn to Steeple Bumpleigh - a place he's always avoided due to the presence of his formidable Aunt Agatha and the mischievous Boy Scout Edwin.

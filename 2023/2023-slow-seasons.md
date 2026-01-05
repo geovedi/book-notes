@@ -1,5 +1,6 @@
 # Slow Seasons
-**Authors**: Rosie Steer | **Year**: 2023 
+**Authors**: Rosie Steer | **Year**: 2023
+**Category**: Self-Help & Personal Development 
 
 ## Summary
 Slow Seasons is a heartfelt exploration of living in harmony with nature's cycles through the ancient Celtic Wheel of the Year. Steer weaves together personal memoir, Scottish folklore, seasonal recipes, and practical crafts to demonstrate how aligning our lives with the rhythm of the seasons can provide solace in our fast-paced modern world. The book is structured around eight Celtic festivals—Imbolc, Ostara, Beltane, Litha, Lùnastal, Mabon, Samhain, and Yule—each marking pivotal points in the natural calendar.

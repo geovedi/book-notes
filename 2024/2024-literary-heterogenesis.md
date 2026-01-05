@@ -2,6 +2,7 @@
 
 **Original Title**: Literary Heterogenesis
 **Author**: Noëlle Batt | **Year**: 2024
+**Category**: Fiction & Literature
 
 ## Summary
 

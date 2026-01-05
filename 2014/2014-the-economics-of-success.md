@@ -1,5 +1,5 @@
 # The Economics of Success
-**Authors**: Eamonn Butler | **Year**: 2014
+**Authors**: Eamonn Butler | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "The Economics of Success" challenges conventional wisdom about economic recovery and argues that politicians and regulators, rather than saving capitalism, are actively undermining it through misguided interventions. Butler presents twelve fundamental truths about economic success that politicians don't want citizens to know, arguing that free markets, competition, and profit-driven enterprise are the real engines of prosperity, not government regulation and spending.

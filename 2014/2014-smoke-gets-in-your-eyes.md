@@ -1,5 +1,5 @@
 # Smoke Gets in Your Eyes & Other Lessons from the Crematory
-**Author**: Caitlin Doughty | **Year**: 2014
+**Author**: Caitlin Doughty | **Year**: 2014 | **Category**: Health & Medicine
 
 ## Summary
 Caitlin Doughty's memoir chronicles her journey from a death-obsessed eight-year-old to a twenty-three-year-old crematory operator at Westwind Cremation & Burial in San Francisco. Through graphic, humorous, and surprisingly tender stories of caring for the dead, Doughty exposes how modern Western society has sanitized death, hiding it behind stainless steel doors and professional funeral services. She argues that this death denial has created a culture of fear and misunderstanding, preventing us from confronting mortality in healthy ways.

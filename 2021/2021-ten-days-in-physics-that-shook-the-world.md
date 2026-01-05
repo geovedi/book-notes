@@ -1,5 +1,6 @@
 # Ten Days in Physics That Shook the World
 **Authors**: Brian Clegg | **Year**: 2021 | **Language**: English
+**Category**: Science & Nature
 
 ## Summary
 "Ten Days in Physics That Shook the World" explores ten pivotal moments when specific scientific breakthroughs on particular days fundamentally transformed our understanding of the universe and reshaped how we live today. Author Brian Clegg argues that while modern physics often involves massive collaborative efforts, historically there were individuals whose singular vision transcended being mere "cogs in a wheel"—people who enabled the creation of our modern world through revolutionary insights.

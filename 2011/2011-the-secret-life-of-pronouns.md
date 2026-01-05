@@ -1,5 +1,5 @@
 # The Secret Life of Pronouns
-**Author**: James W. Pennebaker | **Year**: 2011
+**Author**: James W. Pennebaker | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Secret Life of Pronouns" reveals how the smallest, most forgettable words we use—pronouns, articles, prepositions, and other function words—serve as powerful windows into our personalities, thinking styles, emotional states, and social connections. These stealth words, which make up almost 60% of our speech and writing while accounting for less than 0.1% of our vocabulary, operate below our conscious awareness yet broadcast crucial information about who we are and how we relate to others.

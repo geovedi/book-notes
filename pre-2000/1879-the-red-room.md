@@ -1,5 +1,6 @@
 # The Red Room
 **Original Title**: Röda Rummet | **Authors**: August Strindberg | **Year**: 1879
+**Category**: Fiction & Literature
 
 ## Summary
 "The Red Room" follows Arvid Falk, a young idealistic civil servant who quits his government job to pursue a literary career in 1870s Stockholm. What begins as an optimistic quest for artistic freedom and truth becomes a brutal journey through the corrupt institutions of Swedish society. Falk encounters exploitative publishers, hypocritical clergy, opportunistic politicians, and the brutal economics of survival as a writer. The novel serves as both a personal coming-of-age story and a scathing satire of Swedish society's moral and intellectual bankruptcy.

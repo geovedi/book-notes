@@ -1,5 +1,5 @@
 # The Sports Gene
-**Authors**: David Epstein | **Year**: 2013
+**Authors**: David Epstein | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "The Sports Gene" fundamentally challenges the popular notion that athletic success is primarily determined by deliberate practice and the "10,000-hour rule." Epstein, a Sports Illustrated senior writer, explores cutting-edge scientific research to reveal how genetics profoundly influences athletic performance, from muscle fiber types and body proportions to visual acuity and genetic variants that predispose individuals to excellence in specific sports.

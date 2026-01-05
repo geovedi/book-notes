@@ -1,5 +1,6 @@
 # Healing a Village: A Practical Guide to Building Recovery Ready Communities
 **Authors**: Mark Lefebvre | **Year**: 2025
+**Category**: Health & Medicine
 
 ## Summary
 This powerful book offers a comprehensive blueprint for communities to address addiction through collaborative, trauma-informed approaches. Drawing from both personal recovery experience and professional expertise, Mark Lefebvre presents a systematic framework for building "Recovery Ready Communities" that transform how towns and cities address substance use disorders. The book combines scientific understanding of addiction, real-world case studies, and practical implementation strategies to help communities create sustainable coalitions that save lives.

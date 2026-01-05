@@ -1,5 +1,5 @@
 # Perlefter: The Story of a Bourgeois
-**Authors**: Joseph Roth | **Year**: 2013 (English translation), written 1928-1930
+**Authors**: Joseph Roth | **Year**: 2013 (English translation), written 1928-1930 | **Category**: Fiction & Literature
 
 ## Summary
 Perlefter: The Story of a Bourgeois is an unfinished but brilliant satirical novel discovered among Joseph Roth's papers decades after his death. The story follows Naphtali Kroj, an orphaned young man from a small Eastern European town who comes to live with his wealthy relative Alexander Perlefter in Vienna. Through Kroj's observant eyes, we witness the absurdities of bourgeois life in early 20th-century Austria, as Perlefter desperately tries to advance his social standing, marry off his four difficult daughters, and maintain his comfortable existence while avoiding any genuine emotion or decisive action.

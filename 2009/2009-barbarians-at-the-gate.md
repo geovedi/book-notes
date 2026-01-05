@@ -1,5 +1,6 @@
 # Barbarians at the Gate
 **Authors**: Bryan Burrough, John Helyar | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 Barbarians at the Gate chronicles the epic 1988 leveraged buyout battle for RJR Nabisco, the largest corporate takeover in history at the time. The story follows CEO Ross Johnson's ambitious plan to take his own company private through a $17 billion management buyout, only to face unexpected competition from legendary takeover specialist Henry Kravis and his firm Kohlberg Kravis Roberts. What began as a quiet corporate maneuver exploded into a high-stakes Wall Street drama that captivated the business world and exposed the excesses of 1980s corporate America.

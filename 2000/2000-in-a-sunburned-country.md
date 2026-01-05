@@ -1,5 +1,5 @@
 # In a Sunburned Country
-**Author**: Bill Bryson | **Year**: 2000
+**Author**: Bill Bryson | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 Bill Bryson's travelogue chronicles his journey across Australia, from the bustling cities of Sydney and Melbourne to the vast, empty outback and sacred sites like Uluru. What begins as a typical travel adventure transforms into a love letter to a misunderstood continent that he describes as "staggeringly empty and yet packed with stuff." Bryson encounters Australia's dangerous wildlife, eccentric locals, fascinating history, and discovers why this often-overlooked country deserves more attention from the world.

@@ -1,5 +1,6 @@
 # All Over but the Shoutin'
 **Author**: Rick Bragg | **Year**: 1997
+**Category**: History & Biography
 
 ## Summary
 This powerful memoir traces Rick Bragg's journey from the red clay hills of northeastern Alabama to the Pulitzer Prize-winning newsrooms of The New York Times. Born into crushing poverty with a mother who sacrificed everything and an abusive, war-scarred father who abandoned them, Bragg and his two brothers survived on their mother's fierce love and endless labor. The story captures the harsh reality of Southern working-class life in the 1960s-70s, where hunger was constant and hope was a luxury few could afford.

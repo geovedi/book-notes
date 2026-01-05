@@ -1,5 +1,6 @@
 # The Gilded Age: A Tale of Today
 **Authors**: Mark Twain, Charles Dudley Warner | **Year**: 1873
+**Category**: Fiction & Literature
 
 ## Summary
 "The Gilded Age" is a groundbreaking satirical novel that exposes the rampant political corruption, speculative greed, and social hypocrisy of post-Civil War America. Through two interwoven storylines—one following a family's quest for western wealth, the other exposing Washington D.C.'s political machinations—the novel coined the term "Gilded Age" to describe an era of glittering surface covering deep societal rot.

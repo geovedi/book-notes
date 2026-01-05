@@ -1,5 +1,6 @@
 # Lone Survivor
 **Authors**: Marcus Luttrell, Patrick Robinson | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 "Lone Survivor" is the gripping firsthand account of Operation Redwing, a doomed Navy SEAL mission in Afghanistan's Hindu Kush mountains. Marcus Luttrell and his three teammates—Lieutenant Michael Murphy, Danny Dietz, and Matthew "Axe" Axelson—were tasked with capturing or killing a high-level Taliban commander. After being discovered by goat herders, the SEAL team faced an impossible moral decision that led to a devastating firefight against overwhelming Taliban forces. Luttrell's harrowing tale covers the brutal battle, the deaths of his fellow SEALs, his own miraculous survival, and the protection he received from Afghan villagers who honored their ancient code of "lokhay."

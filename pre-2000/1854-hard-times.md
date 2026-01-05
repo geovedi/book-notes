@@ -1,5 +1,6 @@
 # Hard Times
 **Authors**: Charles Dickens | **Year**: 1854
+**Category**: Fiction & Literature
 
 ## Summary
 Hard Times is Dickens' scathing critique of utilitarianism and industrialization, set in the fictional factory town of Coketown. Thomas Gradgrind, a man obsessed with facts and rational thinking, raises his children Louisa and Tom to suppress emotion and imagination. The novel follows their tragic struggles as they attempt to navigate adult life without the capacity for feeling or creativity, while working-class characters like Stephen Blackpool suffer under oppressive industrial conditions.

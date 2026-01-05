@@ -1,5 +1,6 @@
 # Round the Moon
 **Authors**: Jules Verne | **Year**: 1870
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Round the Moon" is the thrilling sequel to Jules Verne's "From the Earth to the Moon," continuing the incredible journey of three brave adventurers—President Barbicane, Captain Nicholl, and the enthusiastic Frenchman Michel Ardan—as they travel through space in a aluminum projectile launched from an enormous cannon. This groundbreaking science fiction masterpiece combines adventure with surprisingly accurate scientific speculation about space travel, gravity, and celestial mechanics.

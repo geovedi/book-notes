@@ -1,5 +1,6 @@
 # 2020 Big Book of Best Short Stories Volume 1
 **Authors**: Washington Irving, Oscar Wilde, Bram Stoker, H.G. Wells, Arthur Conan Doyle, Rudyard Kipling, H.P. Lovecraft, and others | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology brings together 273 of the most influential short stories spanning from early American Gothic literature through the Victorian era and into early modern science fiction and horror. The collection is organized chronologically by author, showcasing the evolution of the short story form across different literary movements and cultural contexts. Readers will journey through Washington Irving's early American tales, Oscar Wilde's social commentary and fairy tales, Bram Stoker's gothic horror, H.G. Wells' scientific imaginings, Arthur Conan Doyle's detective mysteries, and the psychological horror of H.P. Lovecraft.

@@ -1,5 +1,6 @@
 # The Ugly Duckling and Other Fairy Tales
 **Authors**: Hans Christian Andersen | **Year**: 1835-1848 (various publication dates)
+**Category**: Children & Young Adult
 
 ## Summary
 This timeless collection features eight of Hans Christian Andersen's most beloved fairy tales, each weaving magical narratives that explore profound human themes through the lens of fantasy and wonder. Written in Andersen's distinctive style that mimics oral storytelling, these tales operate on multiple levels - enchanting children with their whimsical plots while offering adults sharp satirical commentary on human nature, society, and the universal struggles of the human condition.

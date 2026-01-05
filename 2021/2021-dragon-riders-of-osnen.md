@@ -1,5 +1,6 @@
 # Dragon Riders of Osnen
 **Authors**: Richard Fierce | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Dragon Riders of Osnen follows Eldwin Baines, the son of a fallen Dragon Guard hero, as he pursues his dream of becoming a dragon rider at the prestigious Citadel training academy. Set in the kingdom of Osnen where dragons and their riders serve as the realm's greatest warriors, this epic fantasy spans three interconnected stories chronicling Eldwin's journey from hopeful recruit to bonded rider.

@@ -1,5 +1,5 @@
 # Team Building Inside: Creativity
-**Authors**: Cristina & Olivier Rebière | **Year**: 2016
+**Authors**: Cristina & Olivier Rebière | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide offers four powerful team building activities designed to foster creativity, collaboration, and team spirit. Based on the authors' decade of experience organizing hundreds of team building events for groups ranging from 7 to 500 participants, this book provides facilitators with detailed instructions, materials lists, and expert tips for implementing successful workshops that bring out the best in team dynamics.

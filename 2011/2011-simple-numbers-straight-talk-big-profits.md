@@ -1,5 +1,5 @@
 # Simple Numbers, Straight Talk, Big Profits!
-**Authors**: Greg Crabtree, Beverly Blair Harzog | **Year**: 2011
+**Authors**: Greg Crabtree, Beverly Blair Harzog | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 This book reveals the four essential keys to business success that most entrepreneurs miss entirely. Crabtree, a CPA who works exclusively with entrepreneurs, discovered that business owners consistently make the same critical mistakes—particularly around owner compensation and profit metrics. The book provides a straightforward framework for understanding the true financial health of your business using simple, actionable numbers rather than complex accounting jargon.

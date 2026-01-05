@@ -1,5 +1,6 @@
 # YouTube Marketing: A Beginner's Guide to Building an Audience and Making Passive Income
 **Authors**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide transforms beginners into successful YouTube entrepreneurs by walking through every step of building a profitable channel. The book demystifies the process of creating content, growing an audience, and generating multiple income streams through YouTube. It emphasizes that anyone can become a "videopreneur" with the right strategy, regardless of technical expertise or initial budget.

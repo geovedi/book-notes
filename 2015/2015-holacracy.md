@@ -1,5 +1,5 @@
 # Holacracy
-**Author**: Brian J. Robertson | **Year**: 2015
+**Author**: Brian J. Robertson | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 Holacracy is a revolutionary management system that replaces traditional top-down hierarchy with a distributed authority model. Drawing inspiration from natural systems like the human body and cities, it creates organizations that can self-organize and evolve continuously. The system distributes power through a constitutional framework that defines clear rules and processes, allowing everyone to process tensions into meaningful change without requiring managerial approval.

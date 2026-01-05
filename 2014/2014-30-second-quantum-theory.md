@@ -1,5 +1,5 @@
 # 30-Second Quantum Theory
-**Authors**: Brian Clegg (Editor), Philip Ball, Leon Clifford, Frank Close, Sophie Hebden, Alexander Hellemans, Sharon Ann Holgate, Andrew May | **Year**: 2014
+**Authors**: Brian Clegg (Editor), Philip Ball, Leon Clifford, Frank Close, Sophie Hebden, Alexander Hellemans, Sharon Ann Holgate, Andrew May | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "30-Second Quantum Theory" tackles the most mind-bending area of physics by breaking down 50 significant quantum concepts into digestible, half-minute explanations. This guide demystifies the revolutionary science that governs reality at its smallest scales, from the ultraviolet catastrophe that started it all to cutting-edge quantum computing and teleportation. The book transforms abstract principles like wave-particle duality, uncertainty, and entanglement into accessible insights that anyone can grasp.

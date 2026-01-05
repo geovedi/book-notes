@@ -1,5 +1,5 @@
 # The Story of Spanish
-**Authors**: Jean-Benoît Nadeau, Julie Barlow | **Year**: 2013
+**Authors**: Jean-Benoît Nadeau, Julie Barlow | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "The Story of Spanish" is a fascinating biography of the Spanish language that traces its evolution from its origins as "land of the rabbits" in Phoenician to becoming the world's second or third most spoken language with 500 million speakers. The authors treat Spanish as a living character, showing how it was shaped by five empires—Phoenician, Roman, Visigothic, Arabic, and Spanish—and absorbed influences from countless cultures.

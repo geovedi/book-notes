@@ -1,5 +1,5 @@
 # Myth Gods Tech: The God Complex Universe
-**Authors**: George Saoulidis | **Year**: 2016
+**Authors**: George Saoulidis | **Year**: 2016 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 In a near-future Athens where technology corporations reign supreme, teenage Mahi receives a revolutionary "Veil" smartphone from her father's employer, Hermes Information Technology. The device, designed to blur the lines between virtual and real reality, accidentally triggers manifestations of ancient Greek mythological beings - particularly the Erinyes (Furies) who personify guilt and punishment. As Mahi finds herself relentlessly pursued by these supernatural entities that only she can see, she discovers that other "users" are experiencing similar hallucinations. The story evolves into a multi-layered narrative exploring corporate conspiracy, technological dependence, and the timeless power of myth to adapt to modern contexts.

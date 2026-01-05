@@ -1,5 +1,6 @@
 # Collected Works of W.B. Yeats
 **Authors**: W.B. Yeats | **Year**: 2015
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together the essential poetry and selected works of William Butler Yeats, one of Ireland's greatest poets and a pivotal figure in 20th-century literature. Spanning his early romantic period through his later mystical and symbolist phase, this volume showcases Yeats' evolution from Ireland's Celtic Twilight to modernist master. The collection captures his profound engagement with Irish mythology, spiritual mysticism, political upheaval, and the cyclical nature of history.

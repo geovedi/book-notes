@@ -1,5 +1,6 @@
 # Hereward the Last of the English
 **Original Title**: Hereward the Last of the English | **Author**: Charles Kingsley | **Year**: 1865
+**Category**: Fiction & Literature
 
 ## Summary
 Charles Kingsley's historical novel tells the epic story of Hereward, a Saxon nobleman who became the last great English resistance leader against William the Conqueror's Norman invasion of 1066. Set against the backdrop of one of England's most transformative historical periods, the novel follows Hereward from his early adventures across Europe to his heroic but ultimately tragic defense of English liberty against overwhelming Norman forces.

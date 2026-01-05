@@ -1,6 +1,6 @@
 # Localization in Clinical Neurology
 
-**Authors**: Paul W. Brazis, Joseph C. Masdeu, José Biller | **Year**: 2022
+**Authors**: Paul W. Brazis, Joseph C. Masdeu, José Biller | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 "Localization in Clinical Neurology" is the definitive textbook for mastering the art and science of neurological diagnosis through systematic examination and pattern recognition. This 8th edition continues the tradition of teaching clinicians how to pinpoint the exact location of nervous system lesions using careful clinical examination, even in an era of advanced neuroimaging. The book emphasizes that despite technological advances, there remains "no substitute for an accurate neurologic history and examination to diagnose and localize neurologic processes."

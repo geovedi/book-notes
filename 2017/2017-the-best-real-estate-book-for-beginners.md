@@ -1,5 +1,6 @@
 # The Best Real Estate Book for Beginners
 **Authors**: Neil Hoechlin | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide serves as an entry point for aspiring real estate investors, offering practical wisdom from decades of experience in property investment. The book demystifies real estate investing by breaking down complex concepts into actionable strategies, from financing options and property acquisition to management and profit maximization.

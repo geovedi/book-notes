@@ -1,6 +1,6 @@
 # Awaken My Gentleness Again
 **Original Title**: Wek mijn zachtheid weer
-**Author**: Wilma Hartogsveld | **Year**: 2016
+**Author**: Wilma Hartogsveld | **Year**: 2016 | **Category**: Fiction & Literature
 **Language**: Dutch
 
 ## Summary

@@ -1,5 +1,6 @@
 # The 10 Deadliest and Most Dangerous Viruses in the World
 **Authors**: Larry Slawson | **Year**: 2020
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive guide examines the ten most lethal viruses currently known to exist, ranked by their mortality rates, symptom severity, and treatment availability. The book provides detailed scientific classifications, transmission methods, symptoms, and prognoses for each virus, from the relatively contained Lassa Virus to the devastating Marburg Virus with its 90% fatality rate.

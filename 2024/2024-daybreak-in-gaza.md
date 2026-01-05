@@ -1,6 +1,7 @@
 # Daybreak in Gaza: Notes from a Ground Zero
 **Original Title**: Daybreak in Gaza
 **Authors**: Mahmoud Muna, Matthew Teller | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Daybreak in Gaza" is a groundbreaking collection of nearly 100 testimonies, diary entries, and personal accounts from Palestinians living in Gaza during Israel's 2023-2024 bombardment. Compiled in just three months by bookseller Mahmoud Muna and journalist Matthew Teller, this urgent work amplifies marginalized voices and illuminates the rich cultural fabric of a place too often reduced to conflict statistics in Western media.

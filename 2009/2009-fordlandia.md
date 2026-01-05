@@ -1,5 +1,6 @@
 # Fordlandia
 **Author**: Greg Grandin | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "Fordlandia" tells the astonishing story of Henry Ford's failed attempt to build an American industrial utopia in the Amazon jungle in the 1920s. The richest man in the world, Ford acquired a Connecticut-sized tract of Brazilian land to establish a rubber plantation, hoping to secure his own supply of latex while exporting his vision of American small-town values—complete with Cape Cod houses, prohibition, square dancing, and wholesome food. What began as a grand civilizing mission quickly descended into chaos, as cultural clashes, agricultural disasters, and the untamable Amazon transformed Ford's dream into a multi-million dollar failure.

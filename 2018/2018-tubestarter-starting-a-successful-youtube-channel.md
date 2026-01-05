@@ -1,6 +1,6 @@
 # Tubestarter: Starting A Successful YouTube Channel
 **Original Title**: Tubestarter: Starting A Successful YouTube Channel
-**Authors**: Devin Street | **Year**: 2018
+**Authors**: Devin Street | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide walks aspiring YouTubers through every step of building a successful YouTube channel, from technical setup to monetization strategies. Written by a 17-year-old entrepreneur who grew and sold niche channels for profit, the book covers channel creation, video production, SEO optimization, audience engagement, and multiple revenue streams beyond YouTube ads.

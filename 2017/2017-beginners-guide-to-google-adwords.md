@@ -1,5 +1,6 @@
 # Beginner's Guide to Google AdWords
 **Authors**: John Slavio | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 Google AdWords is Google's primary revenue generator and the world's most powerful online advertising platform. This practical guide demystifies the system that generated $43.7 billion for Google in 2012 alone—nearly 96% of their total revenue. The book breaks down how businesses can leverage this highly scalable advertising model to reach targeted customers through pay-per-click, cost-per-thousand impressions, and various other bidding strategies.

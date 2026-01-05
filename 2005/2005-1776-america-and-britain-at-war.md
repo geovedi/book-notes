@@ -1,5 +1,5 @@
 # 1776: America and Britain at War
-**Author**: David G. McCullough | **Year**: 2005
+**Author**: David G. McCullough | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 "1776" chronicles the pivotal year when American independence nearly failed. Following George Washington's appointment as commander-in-chief, the book reveals how the Continental Army survived catastrophic defeats, disastrous retreats, and moments of near-collapse to emerge as a fighting force capable of challenging the world's most powerful empire. Through meticulous research and vivid storytelling, McCullough shows that the Revolution's success was far from inevitable—it was earned through extraordinary leadership, ordinary citizens' courage, and sheer perseverance against overwhelming odds.

@@ -1,5 +1,5 @@
 # Tribe: On Homecoming and Belonging
-**Author**: Sebastian Junger | **Year**: 2016
+**Author**: Sebastian Junger | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Tribe" explores the fundamental human need for community and belonging in an increasingly disconnected modern world. Drawing from anthropology, history, and his experiences as a war correspondent, Junger argues that Western society has created unprecedented material comfort at the cost of tribal connection—a loss that manifests as epidemic rates of depression, anxiety, and suicide. The book reveals how humans thrive not in isolation but in interdependent communities where they feel necessary to others' survival.

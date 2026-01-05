@@ -1,5 +1,6 @@
 # Courtiers: Intrigue, Ambition, and the Power Players Behind the House of Windsor
 **Authors**: Valentine Low | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 Valentine Low, veteran royal correspondent for The Times, delivers a groundbreaking exposé of the men and women who truly operate the British monarchy. Far from being mere administrative staff, royal courtiers are powerful influencers who shape royal decisions, manage crises, and sometimes manipulate their royal principals. Through insider interviews and meticulous research, Low reveals that the survival of the modern monarchy owes as much to these behind-the-scenes operators as to the royals themselves.

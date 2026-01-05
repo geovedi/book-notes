@@ -1,5 +1,5 @@
 # Disrupted
-**Author**: Dan Lyons | **Year**: 2016
+**Author**: Dan Lyons | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Disrupted" is a hilarious, insider's account of what happens when a 52-year-old journalist, laid off from Newsweek, takes a job in the marketing department of HubSpot, a Boston tech startup. Lyons, previously a writer for HBO's "Silicon Valley," finds himself immersed in a world of frat-house culture, corporate jargon ("HubSpeak"), age discrimination, and startup mythology that's more absurd than even his satirical fictional creations.

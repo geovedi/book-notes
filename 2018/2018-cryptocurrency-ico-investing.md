@@ -1,5 +1,6 @@
 # Cryptocurrency ICO Investing: A Quick-Start Guide
 **Authors**: Sean Bennett | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies Initial Coin Offerings (ICOs) as a way for investors to get in on the ground floor of new cryptocurrency projects. Unlike Bitcoin's early days under $100, ICOs offer opportunities to invest in the next generation of cryptocurrencies at their lowest possible prices, albeit with significantly higher risk. The book provides a comprehensive framework for evaluating, investing in, and managing ICO investments while understanding the associated tax implications.

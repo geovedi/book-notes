@@ -1,5 +1,6 @@
 # Think Like a Conqueror
 **Authors**: Peter Hollins | **Year**: 2025
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Think Like a Conqueror" explores the mindset and attitudes of history's most effective leaders who didn't just achieve success, but fundamentally reshaped their circumstances and environments. Rather than focusing on specific tactics or step-by-step instructions, the book examines how ten remarkable historical figures approached challenges with a distinctive conqueror's mentality—rock-solid self-belief, calculated audacity, and the willingness to redefine limitations rather than live within them.

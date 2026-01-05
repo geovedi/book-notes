@@ -1,5 +1,6 @@
 # Pragmatism
 **Authors**: William James | **Year**: 1907
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 William James's *Pragmatism* presents a revolutionary philosophical method that transforms abstract debates into practical questions about consequences. Rather than getting trapped in endless metaphysical disputes, pragmatism asks: "What concrete difference would this idea make in actual life?" James introduces pragmatism as a mediator between two philosophical temperaments: the "tough-minded" (empiricist, materialistic, skeptical) and the "tender-minded" (rationalistic, idealistic, religious). By focusing on practical outcomes and tangible effects, pragmatism offers a way to bridge science and religion while keeping philosophy grounded in lived experience.

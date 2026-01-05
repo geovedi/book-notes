@@ -1,6 +1,6 @@
 # Hard Sayings: Understanding Difficult Passages of Scripture
 
-**Authors**: R.C. Sproul | **Year**: 2023
+**Authors**: R.C. Sproul | **Year**: 2023 | **Category**: Spirituality & Religion
 
 ## Summary
 "Hard Sayings" is a comprehensive theological exploration of the Bible's most challenging passages that often confuse, trouble, or even offend modern readers. Sproul systematically tackles 27 difficult biblical texts from both Old and New Testaments, providing historical context, linguistic analysis, and theological frameworks to help readers understand these perplexing passages. The book serves as both an academic resource and a practical guide for Christians wrestling with Scripture's more difficult teachings.

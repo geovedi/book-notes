@@ -1,5 +1,6 @@
 # Moving the Mountain
 **Authors**: Charlotte Perkins Gilman | **Year**: 1911
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 John Robertson, an American philologist, loses his memory for thirty years while exploring Tibet and lives as a peasant. When his sister Nellie finds him in 1911, he awakens to a transformed America where women's liberation has sparked a peaceful social revolution. The book contrasts his 19th-century mindset with a utopian future achieved through collective awakening rather than violence or mysterious forces.

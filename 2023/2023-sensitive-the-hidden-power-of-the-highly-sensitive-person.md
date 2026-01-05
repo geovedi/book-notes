@@ -1,5 +1,6 @@
 # Sensitive: The Hidden Power of the Highly Sensitive Person in a Loud, Fast, Too-Much World
 **Authors**: Jenn Granneman, Andre Sólo | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 This transformative book reclaims sensitivity as a profound strength rather than a weakness. Through scientific research, personal stories, and practical strategies, the authors reveal that highly sensitive people (HSPs) possess unique gifts that enable them to perceive, process, and respond to the world with extraordinary depth. The book challenges cultural stigma around sensitivity and provides a roadmap for sensitive individuals to thrive in an overstimulating world.

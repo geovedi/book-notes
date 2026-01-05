@@ -1,5 +1,5 @@
 # The Mind of a Leader I
-**Authors**: Benjamin Holk Henriksen & Fredrik Lassenius | **Year**: 2014
+**Authors**: Benjamin Holk Henriksen & Fredrik Lassenius | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 This modern leadership book reinterprets Niccolò Machiavelli's controversial 1513 masterpiece "The Prince" through contemporary interviews with 34 international leaders from business, politics, sports, organized crime, and the arts. Each of the 26 chapters explores Machiavelli's timeless leadership principles—such as whether it's better to be loved or feared, the role of fortune versus ability, and the ethics of power—through the lens of modern leaders who share their personal experiences and philosophies. The book examines the practical dilemmas ambitious leaders face while encouraging responsible, effective leadership that balances success with human values.

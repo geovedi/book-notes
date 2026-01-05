@@ -1,5 +1,6 @@
 # Smashing It: Working-Class Artists Making It Happen
 **Editors**: Sabrina Mahfouz | **Year**: 2019
+**Category**: Art & Creativity
 
 ## Summary
 "Smashing It" is a powerful anthology that amplifies the voices of working-class artists across the UK creative industries. Conceived after editor Sabrina Mahfouz noticed that interviewers consistently asked about her gender and ethnicity barriers but never about class obstacles, this book combines personal essays, artistic works, and practical guidance to address the severe underrepresentation of working-class people in the arts.

@@ -1,5 +1,6 @@
 # The Final Problem
 **Authors**: Arthur Conan Doyle | **Year**: 1893
+**Category**: Horror & Thriller
 
 ## Summary
 "The Final Problem" chronicles the ultimate confrontation between Sherlock Holmes and his intellectual equal, Professor Moriarty—the criminal mastermind who orchestrates much of London's unseen crime network. The story represents Holmes's final case, in which he orchestrates a complex plan to dismantle Moriarty's criminal empire once and for all. When Holmes realizes that Moriarty has identified him and begun systematically targeting him with increasingly dangerous attacks, he embarks on a strategic retreat across Europe that culminates in their fatal meeting at the Reichenbach Falls in Switzerland.

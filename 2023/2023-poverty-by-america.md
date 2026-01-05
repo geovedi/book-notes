@@ -1,5 +1,6 @@
 # Poverty, by America
 **Author**: Matthew Desmond | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 "Poverty, by America" challenges conventional wisdom about poverty by arguing that it persists not because of the poor's choices, but because of how the affluent benefit from and perpetuate it. Desmond's groundbreaking thesis is that poverty is not just a condition affecting the poor, but a system that enriches the wealthy and middle class through exploitation, segregation, and policy choices. The book reveals how Americans have become "unwitting enemies of the poor" through our consumption habits, investment decisions, and support of policies that create and maintain poverty.

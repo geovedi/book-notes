@@ -1,5 +1,6 @@
 # How to Analyze People Quickly
 **Authors**: Healthy Pragmatic Solutions Inc. | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 This practical guide teaches readers how to decode human behavior through verbal and nonverbal cues. The book provides actionable techniques for analyzing speech patterns, body language, and psychological tells to understand people's true intentions, emotions, and personality types. It's designed for anyone looking to improve their social intelligence, professional relationships, and ability to detect deception.

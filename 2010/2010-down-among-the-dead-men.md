@@ -1,5 +1,5 @@
 # Down Among the Dead Men
-**Author**: Michelle Williams | **Year**: 2010
+**Author**: Michelle Williams | **Year**: 2010 | **Category**: Health & Medicine
 
 ## Summary
 "Down Among the Dead Men" is a compelling memoir that follows Michelle Williams' unexpected journey from working with people with learning disabilities to becoming a mortuary technician in the NHS. What began as curiosity about a job posting evolved into a profound career dealing with death and the deceased. The book provides an unflinching yet surprisingly humane look at the daily operations of a hospital mortuary, from routine procedures to tragic accidents, while exploring how confronting death reshaped Williams' understanding of life, family, and human dignity.

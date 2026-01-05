@@ -1,5 +1,5 @@
 # Still Life: Adventures in Taxidermy
-**Authors**: Melissa Milgrom | **Year**: 2010
+**Authors**: Melissa Milgrom | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 Melissa Milgrom's "Still Life" is a captivating journey into the hidden world of taxidermy, spanning from Victorian curiosity cabinets to modern art galleries. The book begins with Milgrom's chance encounter with animal carcasses in Tanzania, sparking her obsession with understanding why humans preserve dead animals. Her quest leads her to meet a cast of unforgettable characters: the Schwendeman family (three generations of museum taxidermists), competitive taxidermy champions, controversial artists like Damien Hirst, and the collectors bidding on Walter Potter's bizarre Victorian anthropomorphic scenes.

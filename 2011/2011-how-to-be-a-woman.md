@@ -1,5 +1,5 @@
 # How to Be a Woman
-**Author**: Caitlin Moran | **Year**: 2011
+**Author**: Caitlin Moran | **Year**: 2011 | **Category**: Romance & Relationships
 
 ## Summary
 Caitlin Moran's memoir is a hilarious and unflinchingly honest guide to modern womanhood that combines personal anecdotes with sharp feminist commentary. From her terrible 13th birthday where she was "13 stone, had no friends, and boys threw gravel at me" through adolescence, career, love, marriage, and motherhood, Moran tackles the everyday absurdities women face with wit and raw honesty.

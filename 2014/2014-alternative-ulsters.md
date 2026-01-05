@@ -1,6 +1,6 @@
 # Alternative Ulsters
 **Original Title**: Alternative Ulsters
-**Author**: Mark Carruthers | **Year**: 2014
+**Author**: Mark Carruthers | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 "Alternative Ulsters" is a compelling collection of 36 intimate conversations with prominent figures from Northern Ireland, exploring the complex and often contradictory nature of identity in Ulster. Through in-depth interviews with politicians, artists, writers, athletes, and cultural figures, Carruthers examines what it means to be from Ulster in the 21st century. The book reveals that identity in this contested region is not fixed but fluid, changing based on context, company, and experience.

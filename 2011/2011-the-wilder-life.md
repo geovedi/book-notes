@@ -1,5 +1,5 @@
 # The Wilder Life: My Adventures in the Lost World of Little House on the Prairie
-**Author**: Wendy McClure | **Year**: 2011
+**Author**: Wendy McClure | **Year**: 2011 | **Category**: Fiction & Literature
 
 ## Summary
 A middle-aged woman's obsessive journey into the world of Laura Ingalls Wilder begins when she rediscovers her childhood copy of "Little House in the Big Woods" after her mother's death. What starts as nostalgic comfort reading spirals into a full-blown quest to visit every Laura Ingalls Wilder homesite across America, cook frontier foods, and understand the difference between the real Laura and the literary creation that shaped her childhood imagination. McClure explores themes of memory, grief, and the powerful hold that children's literature can have on our adult lives.

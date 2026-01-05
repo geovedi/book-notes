@@ -1,6 +1,7 @@
 # Elephant Footsteps
 **Original Title**: Olifantenpaadjes
-**Authors**: Sebastiaan Chabot | **Year**: 2024 
+**Authors**: Sebastiaan Chabot | **Year**: 2024
+**Category**: Fiction & Literature 
 
 ## Summary
 "Olifantenpaadjes" (Elephant Footsteps) is a poignant and humorous Dutch novel about a divorced family that maintains their unity through an annual ritual. Every summer, Professor Raad's family rents a house on the South French coast to recreate the life they had before their divorce. Each family member believes they're doing it for someone else, but only the 71-year-old father, Professor Raad, knows he does it for himself. These few days by the coast remain the happiest of his year.

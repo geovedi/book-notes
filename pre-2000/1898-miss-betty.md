@@ -1,5 +1,6 @@
 # Miss Betty
 **Authors**: Bram Stoker | **Year**: 1898
+**Category**: Fiction & Literature
 
 ## Summary
 Miss Betty is a Victorian romance that follows Betty Pole, a young woman of remarkable character and inner strength, as she navigates the challenges of love, duty, and honor in 18th century England. The story opens with a family crisis over a broken china jar, which serves as a catalyst for exploring deeper themes of truth and integrity.

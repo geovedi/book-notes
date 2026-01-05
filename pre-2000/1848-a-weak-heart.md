@@ -1,5 +1,6 @@
 # A Weak Heart
 **Original Title**: Слабое сердце (Slaboye serdtse)
+**Category**: Fiction & Literature
 **Authors**: Fyodor Dostoevsky | **Year**: 1848
 
 ## Summary

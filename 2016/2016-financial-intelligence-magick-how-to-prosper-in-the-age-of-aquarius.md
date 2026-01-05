@@ -1,5 +1,5 @@
 # Financial Intelligence & Magick: How to Prosper in the Age of Aquarius
-**Authors**: Robin Sacredfire | **Year**: 2016
+**Authors**: Robin Sacredfire | **Year**: 2016 | **Category**: Spirituality & Religion
 
 ## Summary
 This book explores the intersection of spiritual consciousness and financial prosperity in the emerging Age of Aquarius. It argues that traditional approaches to wealth creation are becoming obsolete as humanity transitions into a new paradigm governed by spiritual laws rather than conventional economic principles. The author presents a radical perspective that wealth emerges from pattern recognition, visualization, and alignment with universal spiritual forces rather than traditional business practices or employment.

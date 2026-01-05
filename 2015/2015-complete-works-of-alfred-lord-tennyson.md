@@ -1,5 +1,5 @@
 # Complete Works of Alfred Lord Tennyson
-**Authors**: Alfred Lord Tennyson | **Year**: 2015 (Delphi Classics Edition)
+**Authors**: Alfred Lord Tennyson | **Year**: 2015 (Delphi Classics Edition) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection captures the entire poetic legacy of Alfred Lord Tennyson (1809-1892), one of Victorian England's most celebrated poets and Poet Laureate for 42 years. Spanning his early romantic works to his later philosophical pieces, this volume showcases Tennyson's mastery of musical language, his profound exploration of faith and doubt, and his ability to capture both the mythic grandeur and intimate emotional truths of the human experience. The collection includes his most famous narrative poems like "The Lady of Shalott" and "Ulysses," his monumental elegy "In Memoriam A.H.H.," and the Arthurian epic "Idylls of the King."

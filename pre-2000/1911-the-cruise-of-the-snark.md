@@ -1,5 +1,6 @@
 # The Cruise of the Snark
 **Authors**: Jack London | **Year**: 1911
+**Category**: History & Biography
 
 ## Summary
 "The Cruise of the Snark" is Jack London's vivid account of his ambitious seven-year voyage around the world aboard a custom-built 45-foot schooner named "The Snark." What began as a casual conversation between London and his friend Roscoe Eames about seaworthy small boats evolved into a real adventure that would test their limits, resources, and relationships. The journey represents London's philosophy of pursuing personal achievement through direct confrontation with nature's raw power, embracing challenges not for fame or fortune, but for the sheer joy of overcoming them and the profound satisfaction of "I did it! With my own hands I did it!"

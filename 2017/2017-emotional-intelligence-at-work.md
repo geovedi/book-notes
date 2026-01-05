@@ -1,5 +1,6 @@
 # Emotional Intelligence at Work
 **Authors**: Miku Kui | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies emotional intelligence in the workplace by focusing on one of its most critical applications: conflict resolution. The book transforms our understanding of workplace conflict from something to be feared into a powerful tool for growth, creativity, and stronger relationships.

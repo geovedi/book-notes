@@ -1,5 +1,5 @@
 # Managing Cybersecurity Risk
-**Authors**: Jonathan Reuvid (Editor), Multiple Contributors | **Year**: 2016
+**Authors**: Jonathan Reuvid (Editor), Multiple Contributors | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 Managing Cybersecurity Risk is a comprehensive guide for directors and senior management of SMEs and larger companies who haven't yet recognized their vulnerability to cyber threats or taken action to address them. The book emerged from the annual Data Risk Management Service conferences at the London Stock Exchange, highlighting the growing disconnect between advanced cybersecurity provisions in banking/defence versus the inadequate approaches in most other industry sectors.

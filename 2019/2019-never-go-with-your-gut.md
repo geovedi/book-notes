@@ -1,5 +1,6 @@
 # Never Go with Your Gut
 **Author**: Gleb Tsipursky | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Never Go with Your Gut" presents a revolutionary approach to business decision-making that challenges the pervasive but dangerous advice to "trust your instincts." Tsipursky argues that our gut reactions, while evolutionarily adapted for the ancient savanna, are fundamentally mismatched for the modern business environment. The book reveals how cognitive biases systematically lead professionals and organizations toward poor decisions that can devastate careers and companies.

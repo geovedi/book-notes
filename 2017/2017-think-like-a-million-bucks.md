@@ -1,5 +1,6 @@
 # Think Like a Million Bucks
 **Authors**: Believe In Yourself | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Think Like a Million Bucks" presents a comprehensive guide to developing the mindset and habits necessary for financial success. The book bridges the gap between wealth psychology and practical action steps, arguing that financial success begins with adopting the right mental framework and is sustained through consistent habits and strategic planning. The author presents a systematic approach to transforming your relationship with money, opportunity, and personal growth.

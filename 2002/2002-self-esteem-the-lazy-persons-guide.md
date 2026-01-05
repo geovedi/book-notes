@@ -1,5 +1,5 @@
 # Self-Esteem: The Lazy Person's Guide
-**Authors**: Theresa Francis-Cheung | **Year**: 2002
+**Authors**: Theresa Francis-Cheung | **Year**: 2002 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This refreshingly direct self-help guide cuts through the clutter of traditional self-esteem books, offering eight practical strategies for building self-worth without the psychological jargon, case studies, or complex exercises. The author acknowledges that busy people want straightforward advice that works quickly, not lengthy therapeutic processes.

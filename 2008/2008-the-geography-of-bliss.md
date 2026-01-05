@@ -1,5 +1,6 @@
 # The Geography of Bliss
 **Authors**: Eric Weiner | **Year**: 2008
+**Category**: Psychology & Mental Health
 
 ## Summary
 Eric Weiner, a self-described grump and former foreign correspondent for NPR, embarks on a year-long journey to find the world's happiest places. Frustrated with years of covering unhappiness and conflict zones, Weiner decides to investigate the opposite extreme: countries that consistently rank high on happiness scales. From Iceland to Qatar, Switzerland to Thailand, he seeks to understand how geography, culture, and environment shape our well-being. This isn't just a travelogue—it's a thoughtful exploration of what makes different societies content, told through the eyes of a skeptic willing to be proved wrong.

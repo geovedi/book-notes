@@ -1,5 +1,6 @@
 # Heaven's My Destination
 **Authors**: Thornton Wilder | **Year**: 1935
+**Category**: Fiction & Literature
 
 ## Summary
 George Marvin Brush is a traveling textbook salesman and fervent religious convert determined to save souls across Depression-era America. His journey from Texas to Illinois becomes both a physical and spiritual pilgrimage as he attempts to live according to strict moral principles in a world that consistently misunderstands, resists, or mocks his convictions. Through a series of comic, tragic, and absurd encounters—including arrests, a failed marriage, adoption, loss of faith, and near-death illness—Brush's unwavering idealism clashes repeatedly with human nature and social convention.

@@ -1,5 +1,6 @@
 # Charles Dickens: The Complete Novels
 **Authors**: Charles Dickens | **Year**: 2018
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection gathers all 15 major novels by Charles Dickens, the Victorian era's master storyteller and social critic. From the revolutionary fervor of "A Tale of Two Cities" to the coming-of-age journey in "Great Expectations," Dickens chronicles the full spectrum of 19th-century British society with unforgettable characters, intricate plots, and powerful social commentary. His novels expose the harsh realities of industrialization, poverty, and social injustice while celebrating human resilience, redemption, and the transformative power of compassion.

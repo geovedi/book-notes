@@ -1,5 +1,6 @@
 # 84, Charing Cross Road
 **Author**: Helene Hanff | **Year**: 1970
+**Category**: Fiction & Literature
 
 ## Summary
 A touching collection of 20 years of correspondence (1949-1969) between Helene Hanff, a sharp-witted but struggling New York writer, and Frank Doel, the proper but kind chief buyer at Marks & Co., a London antiquarian bookstore. What begins as a simple business relationship for out-of-print books evolves into a deep transatlantic friendship that transcends distance and cultural differences.

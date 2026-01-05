@@ -1,5 +1,5 @@
 # Designing Your Life
-**Authors**: Bill Burnett, Dave Evans | **Year**: 2016
+**Authors**: Bill Burnett, Dave Evans | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Designing Your Life" applies design thinking principles from Stanford's famous course to help you build a well-lived, joyful life. The book teaches that life isn't a problem to be solved but a creative process to be designed. Rather than searching for the single "perfect" path, you'll learn to generate multiple possibilities, prototype experiences, and make choices that align with your Work View and Life View.

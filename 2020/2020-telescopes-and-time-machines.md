@@ -1,6 +1,7 @@
 # Telescopes and Time Machines
 **Original Title**: Telescopen en tijdmachines
 **Author**: Roy Smits | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 "Telescopes and Time Machines" takes readers on a fascinating journey through the history of astronomy, revealing how telescopes function as literal time machines that allow us to peer into the distant past. The book masterfully connects the evolution of astronomical instruments—from ancient naked-eye observations to modern radio telescopes—with humanity's expanding understanding of the cosmos. Smits weaves together technical explanations, historical anecdotes, and mind-bending concepts about light, time, and space to show how looking at distant stars is literally looking back in time.

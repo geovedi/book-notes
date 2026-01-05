@@ -1,5 +1,6 @@
 # Content Marketing: Essential Guide to Learn Step-by-Step the Best Content Marketing Strategies
 **Authors**: Joe Wilson Schaefer | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Content marketing is the strategic approach of creating and distributing valuable, relevant, and consistent content to attract and retain a clearly defined audience — ultimately driving profitable customer action. Unlike traditional marketing, content marketing focuses on providing genuine value that people actively seek out rather than try to avoid.

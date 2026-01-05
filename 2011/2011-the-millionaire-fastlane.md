@@ -1,5 +1,5 @@
 # The Millionaire Fastlane
-**Author**: M.J. DeMarco | **Year**: 2011
+**Author**: M.J. DeMarco | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "The Millionaire Fastlane" demolishes the traditional "get rich slow" philosophy of working a job, saving 10%, and hoping for wealth in your 60s. DeMarco presents a mathematical roadmap to building massive wealth quickly by escaping the time-for-money trap and creating scalable business systems. The book contrasts three financial roadmaps: the Sidewalk (financial ignorance), the Slowlane (traditional job/investing), and the Fastlane (entrepreneurship and scalable systems).

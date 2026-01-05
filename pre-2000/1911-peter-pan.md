@@ -1,5 +1,6 @@
 # Peter Pan
 **Authors**: J.M. Barrie | **Year**: 1911
+**Category**: Children & Young Adult
 
 ## Summary
 "All children, except one, grow up." This unforgettable opening line introduces J.M. Barrie's timeless tale of Peter Pan, the boy who refused to grow up and lives in the magical world of Neverland. When Wendy Darling and her brothers John and Michael encounter Peter in their London nursery, he teaches them to fly with fairy dust and happy thoughts, leading them on an extraordinary adventure to Neverland. There they encounter the Lost Boys, playful fairies including the jealous Tinker Bell, menacing pirates led by the sinister Captain Hook, mermaids, and Native Americans. The story explores themes of childhood innocence versus adult responsibility, the pain of growing up, and the bittersweet nature of memory. Peter, the eternal child who cannot remember the past, represents the freedom and limitation of perpetual childhood, while Wendy embodies the natural progression toward maturity and motherhood. Their adventures culminate in an epic battle between Peter and Captain Hook, forcing Wendy to choose between the enchanting world of childhood and the inevitable pull of growing up.

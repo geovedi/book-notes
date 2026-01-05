@@ -1,5 +1,6 @@
 # Alice's Adventures in Wonderland
 **Authors**: Lewis Carroll | **Year**: 1865
+**Category**: Children & Young Adult
 
 ## Summary
 Alice's Adventures in Wonderland follows a young Victorian girl who tumbles down a rabbit hole into a fantastical world populated by bizarre creatures, talking animals, and playing-card characters. Through a series of absurd encounters and increasingly strange situations, Alice navigates the nonsensical logic of Wonderland while experiencing dramatic physical transformations and questioning her own identity.

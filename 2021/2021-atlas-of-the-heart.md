@@ -1,5 +1,6 @@
 # Atlas of the Heart
 **Authors**: Brené Brown | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Atlas of the Heart" is Brené Brown's comprehensive guide to understanding and naming the full spectrum of human emotions and experiences. After analyzing over 550,000 comments from online course participants and reviewing nearly 1,500 academic publications, Brown identified 87 core emotions and experiences that shape our lives. The book argues that without precise language for our feelings, we cannot understand ourselves or connect meaningfully with others. Brown organizes these emotions into 13 thematic categories, showing how they relate, contrast, and build upon one another, ultimately providing a framework for cultivating meaningful connection through grounded confidence, courage to walk alongside others, and story stewardship.

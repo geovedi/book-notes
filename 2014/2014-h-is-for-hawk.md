@@ -1,5 +1,5 @@
 # H is for Hawk
-**Author**: Helen Macdonald | **Year**: 2014
+**Author**: Helen Macdonald | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 When Helen Macdonald's father died suddenly, she was shattered by grief. A lifelong falconer, she made an impulsive decision: to train one of the most notoriously difficult birds of prey, a goshawk. She bought a young female goshawk she named Mabel and retreated from the human world, embarking on the intense, ancient art of hawk training. This powerful memoir weaves together three narratives: Macdonald's journey through grief, her relationship with the wild goshawk, and the parallel story of T.H. White, the tortured author of "The Once and Future King" who also tried to train a goshawk decades earlier.

@@ -1,5 +1,6 @@
 # Dirt: The Ecstatic Skin of the Earth
 **Author**: William Bryant Logan | **Year**: 2007
+**Category**: Science & Nature
 
 ## Summary
 "Dirt: The Ecstatic Skin of the Earth" is a profound meditation on soil that transforms our understanding of the ground beneath our feet from mere substrate into a living, breathing, sacred entity. Logan weaves together science, philosophy, history, and personal observation to reveal dirt as the dynamic interface between life and death, heaven and earth, the cosmic and the terrestrial. The book explores how soil is not just where we grow crops but where life itself begins, ends, and transforms.

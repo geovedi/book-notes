@@ -1,5 +1,5 @@
 # Business Adventures: Tips and Tricks to Maximize Profits
-**Authors**: Larry Ellison | **Year**: 2016
+**Authors**: Larry Ellison | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Business Adventures" is a practical guide for entrepreneurs looking to transform their business into a lean, profitable operation. The book addresses the common challenge where business owners generate solid sales but watch profits disappear through unexpected costs and poor operational management. Rather than just focusing on increasing sales, the book presents a comprehensive approach to maximizing profits through strategic cost reduction, efficient inventory management, and smart business practices.

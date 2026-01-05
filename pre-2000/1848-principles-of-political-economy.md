@@ -1,5 +1,6 @@
 # Principles of Political Economy
 **Authors**: John Stuart Mill (with J. Laurence Laughlin) | **Year**: 1848 (original), 1884 (this edition)
+**Category**: Business & Finance
 
 ## Summary
 "Principles of Political Economy" stands as one of the most systematic and comprehensive treatises on economic theory ever published. Mill's work covers the complete range of economic study, from the fundamental requisites of production through the complex laws of distribution, exchange, and government influence on the economy. The book establishes that three essential elements—Labor, Capital, and Land—form the foundation of all economic production, and examines how their interrelationships determine wealth creation, distribution, and value.

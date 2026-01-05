@@ -1,5 +1,5 @@
 # Gum: The Story of Eucalypts & Their Champions
-**Author**: Ashley Hay | **Year**: 2022
+**Author**: Ashley Hay | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 This book weaves together the natural history, scientific discovery, and cultural significance of eucalyptus trees—Australia's most iconic botanical genus. Through the stories of "eucalyptographers" (scientists, explorers, artists, and conservationists who became obsessed with these trees), Hay reveals how gum trees shaped not just the Australian landscape, but the nation's identity and consciousness. The narrative spans from Indigenous Dreamtime stories about the Seven Peacekeepers to contemporary conservation battles over old-growth forests like Tasmania's Valley of the Giants.

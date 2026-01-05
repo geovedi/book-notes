@@ -1,5 +1,5 @@
 # The 15-Minute Scientist: Bite-Sized Science Explained
-**Authors**: Anne Rooney | **Year**: 2016
+**Authors**: Anne Rooney | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "The 15-Minute Scientist" is a comprehensive collection of 25 accessible scientific explanations for everyday phenomena and profound questions about our universe. From the physics of rainbows to the future of medicine, each chapter provides concise yet thorough explanations that make complex scientific concepts understandable without requiring specialized knowledge. The book covers topics across physics, biology, chemistry, astronomy, and environmental science, making it an perfect introduction for curious minds who want to understand how the world works without wading through technical jargon.

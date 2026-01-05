@@ -1,5 +1,6 @@
 # The Complete Novels of Fyodor Dostoyevsky
 **Authors**: Fyodor Dostoyevsky | **Year**: 2019 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together all the major novels of Fyodor Dostoyevsky, one of Russia's greatest literary masters and psychological pioneers. Spanning from his early works like "Poor Folk" (1846) to his final masterpiece "The Brothers Karamazov" (1880), this anthology showcases the evolution of Dostoyevsky's profound exploration of human psychology, moral dilemmas, and spiritual searching.

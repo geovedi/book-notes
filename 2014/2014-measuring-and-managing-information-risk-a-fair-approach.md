@@ -1,6 +1,6 @@
 # Measuring and Managing Information Risk: A FAIR Approach
 
-**Authors**: Jack Freund, Jack Jones | **Year**: 2014 
+**Authors**: Jack Freund, Jack Jones | **Year**: 2014 | **Category**: Technology & Computing 
 
 ## Summary
 "Measuring and Managing Information Risk: A FAIR Approach" introduces the Factor Analysis of Information Risk (FAIR) framework, a revolutionary methodology that transforms information risk management from an art into a science. The book argues that traditional risk assessment methods fail because they rely on subjective ratings, lack consistent terminology, and cannot effectively prioritize risks or measure control effectiveness. FAIR provides a rigorous, quantitative approach that enables organizations to measure, analyze, and manage information risk with the same precision applied in financial risk management.

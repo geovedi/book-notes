@@ -1,6 +1,7 @@
 # 1349: How the Black Death Transformed Flanders and Europe
 **Original Title**: 1349: Hoe de Zwarte Dood Vlaanderen en Europa veranderde
 **Author**: Joren Vermeersch | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 In 1349, the Black Death swept through Flanders and Europe, claiming millions of lives and fundamentally transforming medieval society. This groundbreaking historical analysis challenges common assumptions about the plague's aftermath, revealing that far from creating a "golden age" for laborers, the pandemic triggered severe inflation, social upheaval, and elite repression that reshaped the economic and political landscape of Europe forever.

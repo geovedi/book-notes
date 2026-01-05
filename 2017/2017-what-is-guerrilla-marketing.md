@@ -1,5 +1,6 @@
 # What Is Guerrilla Marketing
 **Authors**: Small Business Revolution | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 Guerrilla marketing is an unconventional, aggressive, and highly targeted promotional approach designed to create unexpected and memorable encounters between products and consumers. Originating from Jay Conrad Levinson's 1984 book, this marketing strategy enables small businesses with limited budgets to compete effectively against larger organizations through creativity and innovation rather than substantial financial investment.

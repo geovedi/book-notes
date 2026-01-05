@@ -1,5 +1,6 @@
 # Austen and Brontës: Complete Novels
 **Authors**: Jane Austen, Charlotte Brontë, Emily Brontë, Anne Brontë | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together the complete novels of four pioneering British women authors who shaped English literature. Jane Austen's sharp social commentary and romantic comedies contrast with the passionate, gothic intensity of the Brontë sisters' works. Together, these novels explore themes of love, class, morality, and women's independence in Regency and Victorian England.

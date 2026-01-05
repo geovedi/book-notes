@@ -1,5 +1,6 @@
 # The Thirty-Nine Steps
 **Authors**: John Buchan | **Year**: 1915
+**Category**: Horror & Thriller
 
 ## Summary
 

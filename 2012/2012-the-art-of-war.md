@@ -1,5 +1,6 @@
 # The Art of War
 **Original Title**: 兵法 [Bing Fa] | **Authors**: Sunzi (Sun Wu) | **Year**: c. 500-300 BCE
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 The Art of War is a 2,500-year-old Chinese military treatise that has become essential reading for business leaders, strategists, and anyone seeking competitive advantage. Written by Sunzi, a legendary general during ancient China's turbulent Warring States period, this masterpiece combines practical battlefield wisdom with profound philosophical insights. The text is organized into 13 chapters covering everything from strategic planning and tactical deployment to intelligence gathering and psychological warfare.

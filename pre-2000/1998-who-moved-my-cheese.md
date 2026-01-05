@@ -1,5 +1,6 @@
 # Who Moved My Cheese?
 **Authors**: Spencer Johnson, Kenneth Blanchard | **Year**: 1998
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Who Moved My Cheese?" is a simple yet powerful parable about dealing with change in life and work. Through the story of four characters—two mice (Sniff and Scurry) and two Littlepeople (Hem and Haw)—the book explores different reactions to unexpected change when their cheese supply suddenly disappears.

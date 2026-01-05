@@ -1,5 +1,5 @@
 # 50 Classic Christmas Stories Vol. 4
-**Authors**: A.A. Milne, Arthur Conan Doyle, Charles Dickens, Dylan Thomas, Mark Twain, and more | **Year**: 2018
+**Authors**: A.A. Milne, Arthur Conan Doyle, Charles Dickens, Dylan Thomas, Mark Twain, and more | **Year**: 2018 | **Category**: Fiction & Literature
 
 ## Summary
 This delightful anthology brings together fifty classic Christmas stories from some of literature's most beloved authors. From Sherlock Holmes solving a holiday mystery to Dylan Thomas's poetic recollections of childhood Christmases, from Charles Dickens's timeless tales to Mark Twain's witty letters from Santa Claus, this collection captures the many facets of Christmas spirit across different eras and writing styles. The stories range from whimsical and humorous to mysterious and sentimental, offering readers a comprehensive tour of Christmas-themed literature from the 19th and early 20th centuries.

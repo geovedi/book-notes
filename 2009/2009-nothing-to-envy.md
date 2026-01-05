@@ -1,5 +1,6 @@
 # Nothing to Envy
 **Author**: Barbara Demick | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "Nothing to Envy" is a masterpiece of narrative non-fiction that follows the lives of six North Korean defectors from the industrial city of Chongjin, spanning the catastrophic famine of the 1990s through their eventual escapes. Through intimate portraits of ordinary people, Demick reveals how totalitarian control collapses under the weight of reality, and how human resilience and love can survive even the most oppressive conditions.

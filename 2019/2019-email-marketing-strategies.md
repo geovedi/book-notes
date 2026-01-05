@@ -1,5 +1,6 @@
 # Email Marketing Strategies to Capture and Engage Your Audience, While Quickly Building Authority
 **Authors**: Eric J Scott | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This practical guide transforms email marketing from a simple communication tool into a powerful authority-building platform. With a staggering 4,000% ROI potential, email marketing remains the most cost-effective way to reach potential customers—when done right. The book's core premise is simple: become the trusted authority in your niche, and your emails will be opened, read, and acted upon consistently.

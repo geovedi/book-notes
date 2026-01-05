@@ -1,5 +1,6 @@
 # What Money Can't Buy: The Moral Limits of Markets
 **Authors**: Michael J. Sandel | **Year**: 2012
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This provocative book challenges our uncritical faith in markets by exploring the moral boundaries where market values should not tread. Sandel argues that we've drifted from having a market economy (a tool for organizing productive activity) to being a market society where market values seep into every aspect of human endeavor.

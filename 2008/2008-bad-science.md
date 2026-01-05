@@ -1,5 +1,6 @@
 # Bad Science
 **Author**: Ben Goldacre | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 Dr. Ben Goldacre, a Guardian columnist and medical doctor, exposes the pervasive world of pseudoscience and misleading health claims that bombard us daily. From detox footbaths that turn water brown through simple electrolysis to homeopathic remedies diluted beyond the point of containing any active ingredients, Goldacre demonstrates how easily we can be fooled by sciencey-sounding nonsense. The book serves as both an entertaining expose and a practical guide to scientific thinking.

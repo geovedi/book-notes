@@ -1,6 +1,7 @@
 # The Self-Love Habit
 **Original Title**: The Self-Love Habit
 **Authors**: Fiona Brennan | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Self-Love Habit" presents a transformative framework for developing self-compassion and unconditional self-acceptance in a world that often makes it difficult to love ourselves. The book combines psychological insights, practical exercises, and mindfulness techniques to help readers overcome the four major blocks to self-love: childhood conditioning, shame, perfectionism, and distraction.

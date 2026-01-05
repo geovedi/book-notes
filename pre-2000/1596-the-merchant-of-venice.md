@@ -1,5 +1,6 @@
 # The Merchant of Venice
 **Authors**: William Shakespeare | **Year**: 1596-1598
+**Category**: Fiction & Literature
 
 ## Summary
 The Merchant of Venice tells the intertwining stories of Antonio, a melancholy Venetian merchant, and Bassanio, his friend who seeks to woo the wealthy heiress Portia. When Bassanio needs money to court Portia, Antonio borrows from the Jewish moneylender Shylock, pledging a pound of his own flesh as collateral. The contract becomes central to a dramatic trial where themes of justice, mercy, and prejudice collide.

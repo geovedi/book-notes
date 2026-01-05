@@ -1,5 +1,6 @@
 # Blockchain: A Guide to Understanding Blockchain
 **Authors**: Sean Bennett | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 Blockchain technology represents one of the most significant technological innovations since the internet, offering a decentralized approach to recording and verifying transactions across various industries. This comprehensive guide breaks down the fundamental concepts of blockchain, from its basic structure as a chain of immutable blocks to its practical applications in business, finance, and beyond. The book explains how blockchain eliminates the need for trusted third parties by creating transparent, secure, and tamper-proof records that can be accessed by all network participants.

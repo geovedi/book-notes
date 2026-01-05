@@ -1,5 +1,5 @@
 # Quantum Physics: A Beginner's Guide
-**Authors**: Carl Weston | **Year**: 2018
+**Authors**: Carl Weston | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "Quantum Physics: A Beginner's Guide to How Quantum Physics Affects Everything around Us" is an accessible introduction to the fascinating world of quantum mechanics, specifically designed for readers without a physics background. The book demystifies complex quantum concepts and demonstrates their practical applications in everyday technology, from smartphones to medical imaging. Weston breaks down seemingly abstract principles into digestible explanations, showing how quantum physics powers the modern world while challenging our understanding of reality itself.

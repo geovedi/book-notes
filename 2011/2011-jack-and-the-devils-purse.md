@@ -1,5 +1,5 @@
 # Jack and the Devil's Purse
-**Original Title**: Jack and the Devil's Purse | **Authors**: Duncan Williamson, Edited by Linda Williamson | **Year**: 2011
+**Original Title**: Jack and the Devil's Purse | **Authors**: Duncan Williamson, Edited by Linda Williamson | **Year**: 2011 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 This captivating collection of Scottish Traveller folk tales centers on Jack, the eternal trickster hero who uses wit and cleverness to outsmart supernatural adversaries, particularly the Devil. Through twenty traditional stories passed down through generations of Scottish Travelling People, readers discover a rich cultural worldview where intelligence triumphs over brute force, and where the battle between good and evil is more nuanced than conventional morality tales suggest.

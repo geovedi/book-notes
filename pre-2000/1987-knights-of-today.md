@@ -1,6 +1,7 @@
 # Knights of Today
 **Original Title**: Chevaliers d'aujourd'hui
-**Authors**: André Van Bosbeke | **Year**: 1987 
+**Authors**: André Van Bosbeke | **Year**: 1987
+**Category**: History & Biography 
 
 ## Summary
 "Chevaliers d'aujourd'hui" (Knights of Today) is a groundbreaking investigative exposé of secret societies and knightly orders operating in the 20th century. Van Bosbeke, with unprecedented access to insiders and former members, pulls back the curtain on organizations ranging from ancient Rosicrucian orders to modern neo-knightly fraternities. The book combines historical research with contemporary investigations to reveal how these shadowy organizations continue to influence politics, finance, and society while maintaining their ancient traditions and mystical claims.

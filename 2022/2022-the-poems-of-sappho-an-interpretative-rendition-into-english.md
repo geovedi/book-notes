@@ -1,5 +1,5 @@
 # The Poems of Sappho: An Interpretative Rendition into English
-**Authors**: Sappho | **Year**: 2022
+**Authors**: Sappho | **Year**: 2022 | **Category**: Poetry & Literature
 
 ## Summary
 This collection presents Sappho's legendary poetry in modern English interpretation, capturing the essence of one of ancient Greece's greatest lyric poets. Originally from the island of Lesbos around 600 BCE, Sappho's work explores themes of love, desire, beauty, and the human condition with extraordinary emotional depth and technical mastery.

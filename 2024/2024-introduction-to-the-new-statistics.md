@@ -1,5 +1,6 @@
 # Introduction to the New Statistics
 **Authors**: Geoff Cumming, Robert Calin-Jageman | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 "Introduction to the New Statistics" revolutionizes how we understand and apply statistical analysis by replacing traditional null hypothesis significance testing (NHST) with an intuitive estimation approach based on confidence intervals and effect sizes. The book presents statistics as the art of drawing reasonable conclusions about the world from limited data, making it accessible and practical for students and researchers across disciplines.

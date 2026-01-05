@@ -1,6 +1,7 @@
 # Getting Sick Can Be Good: Illness as a Defense of Health
 **Original Title**: Ammalarsi fa bene. La malattia a difesa della salute
-**Authors**: Giorgio Abraham, Claudia Peregrini | **Year**: 1990 
+**Authors**: Giorgio Abraham, Claudia Peregrini | **Year**: 1990
+**Category**: Health & Medicine 
 
 ## Summary
 "Getting Sick Can Be Good" challenges our modern obsession with perpetual health and efficiency. Written by two physicians and psychoanalysts, this revolutionary book proposes that illness—rather than being merely an enemy to defeat—can serve as a vital defense mechanism for our overall health and personal growth. Through compelling patient stories and medical insights, the authors argue that our symptoms often carry important messages about our lives, relationships, and emotional needs.

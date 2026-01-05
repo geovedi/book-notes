@@ -1,5 +1,6 @@
 # A Hacker's Mind
 **Authors**: Bruce Schneier | **Year**: 2023
+**Category**: Technology & Computing
 
 ## Summary
 Bruce Schneier, a renowned security expert, reveals how the powerful bend society's rules through "hacking" - not just computers, but any system with rules that can be subverted. From tax loopholes to voting systems, from financial markets to our own minds, Schneier exposes how hacking has become a fundamental way the rich and powerful reinforce existing structures while ordinary people pay the price.

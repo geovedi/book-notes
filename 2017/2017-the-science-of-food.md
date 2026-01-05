@@ -1,5 +1,6 @@
 # The Science of Food
 **Authors**: Marty Jopson | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "The Science of Food" reveals the hidden chemistry, physics, and biology behind everyday cooking and food preparation. Through personal anecdotes and scientific explanations, Jopson demonstrates how understanding the science behind food processes can transform you from following recipes by rote to becoming a confident, intuitive cook who can troubleshoot problems and innovate in the kitchen.

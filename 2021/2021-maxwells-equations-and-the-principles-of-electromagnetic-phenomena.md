@@ -1,5 +1,6 @@
 # Maxwell's Equations and the Principles of Electromagnetic Phenomena
 **Título Original**: Maxwell's Equations and the Principles of Electromagnetic Phenomena | **Autores**: [Autor não especificado no documento] | **Ano**: 2021
+**Category**: Science & Nature
 
 ## Summary
 

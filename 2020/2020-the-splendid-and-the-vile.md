@@ -1,5 +1,6 @@
 # The Splendid and the Vile
 **Author**: Erik Larson | **Year**: 2020
+**Category**: History & Biography
 
 ## Summary
 Erik Larson's masterful narrative chronicles Winston Churchill's first year as Prime Minister (May 1940-May 1941), focusing on how Churchill's leadership transformed Britain's darkest hour into its "finest hour." The book weaves together intimate family moments, grand political strategy, and the devastating reality of the London Blitz, revealing how Churchill's moral courage and defiant spirit inspired a nation to stand alone against Nazi tyranny when all seemed lost.

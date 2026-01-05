@@ -1,5 +1,5 @@
 # Introducing Lévi-Strauss
-**Original Title**: Introducing Lévi-Strauss: A Graphic Guide | **Authors**: Chris Horrocks, Zoran Jevtic | **Year**: 2015
+**Original Title**: Introducing Lévi-Strauss: A Graphic Guide | **Authors**: Chris Horrocks, Zoran Jevtic | **Year**: 2015 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Claude Lévi-Strauss revolutionized anthropology by developing structuralism—a method that reveals hidden patterns governing human thought across all cultures. This guide demystifies his complex theories, showing how he uncovered the universal "grammar" of human consciousness that operates behind kinship systems, myths, and cultural classifications.

@@ -1,5 +1,5 @@
 # Extra Virginity: The Sublime and Scandalous World of Olive Oil
-**Authors**: Tom Mueller | **Year**: 2011
+**Authors**: Tom Mueller | **Year**: 2011 | **Category**: Health & Medicine
 
 ## Summary
 "Extra Virginity" is an explosive investigation into the olive oil industry that reveals how fraud and deception have contaminated this sacred food. Mueller exposes the widespread practice of selling counterfeit and adulterated olive oil, while celebrating the passionate producers who maintain quality despite an increasingly corrupt system. The book blends food history, investigative journalism, and culinary appreciation to show how what's often marketed as "extra virgin olive oil" is actually chemically refined, deodorized, or even entirely different oils colored with industrial chlorophyll.

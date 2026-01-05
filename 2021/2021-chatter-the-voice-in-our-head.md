@@ -1,5 +1,6 @@
 # Chatter
 **Author**: Ethan Kross | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Chatter" explores the phenomenon of negative self-talk—the toxic inner voice that can trap us in cycles of anxiety, worry, and rumination. Kross, a leading psychologist and neuroscientist, reveals how our inner voice can be both our greatest asset and our worst enemy. The book provides a comprehensive toolkit for transforming this voice from a tormentor into a coach, drawing on cutting-edge research in psychology, neuroscience, and behavioral economics.

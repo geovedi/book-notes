@@ -1,5 +1,6 @@
 # The Art of Always Being Right
 **Authors**: Arthur Schopenhauer, A.C. Grayling | **Year**: 2012
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This revealing guide exposes the 38 cunning rhetorical tricks used by politicians, lawyers, negotiators, and debaters to win arguments regardless of truth. Originally written in 1830 by philosopher Arthur Schopenhauer as a satirical take on human nature's tendency to prioritize victory over truth, this edition includes insightful commentary from A.C. Grayling. The book serves as both a manual for those who want to win at all costs and, more importantly, a defense manual for recognizing and countering manipulation in everyday discourse.

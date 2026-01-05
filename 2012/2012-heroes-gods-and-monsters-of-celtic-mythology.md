@@ -1,5 +1,6 @@
 # Heroes, Gods and Monsters of Celtic Mythology
 **Authors**: Fiona Macdonald | **Year**: 2012
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Enter the enchanted world of Celtic mythology where gods fought demons, animals spoke to humans, and men and women traveled through time to magic kingdoms. This comprehensive collection brings together the most thrilling myths and legends from Ireland, Wales, Scotland, England, the Isle of Man, and Brittany, introducing readers to a civilization that flourished across northern Europe from 800 BC to AD 400.

@@ -1,5 +1,5 @@
 # Emergence
-**Author**: Steven Johnson | **Year**: 2001
+**Author**: Steven Johnson | **Year**: 2001 | **Category**: Science & Nature
 
 ## Summary
 "Emergence" explores how complex intelligent systems arise from simple, decentralized interactions between individual components. Johnson reveals how the same principles govern seemingly unrelated systems—from ant colonies and slime molds to cities, neighborhoods, and software. The book demonstrates that order and intelligence can emerge without central control, through local rules followed by individual "agents" that collectively create sophisticated, adaptive behavior.

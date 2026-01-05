@@ -1,5 +1,5 @@
 # George F. Kennan: An American Life
-**Authors**: John Lewis Gaddis | **Year**: 2011
+**Authors**: John Lewis Gaddis | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 George Frost Kennan was the brilliant but perpetually frustrated diplomat who invented America's Cold War strategy while spending the rest of his life criticizing how it was implemented. A melancholy intellectual who spoke "the Russian of Pushkin," Kennan combined deep cultural understanding with unsentimental analysis of Soviet behavior. His 1946 "Long Telegram" and subsequent "X Article" created the containment doctrine that shaped U.S. policy for four decades, yet he watched in dismay as his nuanced political strategy was militarized and globalized beyond recognition.

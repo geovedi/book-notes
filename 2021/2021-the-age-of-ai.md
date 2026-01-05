@@ -1,5 +1,6 @@
 # The Age of AI
 **Authors**: Henry A. Kissinger, Eric Schmidt, Daniel Huttenlocher | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 "The Age of AI" presents a revolutionary thesis: artificial intelligence represents not merely technological advancement but a fundamental transformation of human reality, reasoning, and identity. Three leading thinkers from diplomacy, technology, and academia collaborate to argue that AI marks the most profound shift in human consciousness since the Enlightenment - potentially ending human reason's monopoly as the primary tool for understanding reality.

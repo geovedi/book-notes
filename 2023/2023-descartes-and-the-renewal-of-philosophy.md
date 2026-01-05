@@ -1,6 +1,7 @@
 # Descartes and the Renewal of Philosophy
 **Original Title**: Descartes e il rinnovamento della filosofia
 **Author**: Steven Nadler | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This intellectual biography presents René Descartes as "the father of modern philosophy," examining his fundamental contributions to philosophy, mathematics, and natural science that decisively characterized 17th-century culture. Steven Nadler reconstructs Descartes' progressive intellectual acquisitions from his formative years in France through his long period in the Netherlands, to his final years serving as Queen Christina of Sweden's personal tutor.

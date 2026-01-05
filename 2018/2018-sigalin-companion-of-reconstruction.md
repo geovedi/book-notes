@@ -1,6 +1,6 @@
 # Sigalin: Companion of Reconstruction
 **Original Title**: Sigalin. Towarzysz odbudowy
-**Author**: Andrzej Skalimowski | **Year**: 2018
+**Author**: Andrzej Skalimowski | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 Andrzej Skalimowski's biography examines Józef Sigalin, Warsaw's first chief architect after World War II who supervised the city's reconstruction for nearly forty years. As a dedicated communist and skilled organizer, Sigalin shaped post-war Warsaw through major projects including the W-Z Route, Marszałkowska Residential District (MDM), and the Palace of Culture and Science. The book portrays a complex figure caught between ideological commitment and architectural pragmatism, whose legacy remains controversial in Polish urban history.

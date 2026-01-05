@@ -1,5 +1,6 @@
 # The Case-Book of Sherlock Holmes
 **Authors**: Arthur Conan Doyle | **Year**: 1927
+**Category**: Horror & Thriller
 
 ## Summary
 The Case-Book of Sherlock Holmes represents the final collection of Arthur Conan Doyle's legendary detective stories, featuring twelve cases that showcase Sherlock Holmes at his analytical best. These stories, written toward the end of Doyle's career, demonstrate the full evolution of Holmes' deductive methods and his partnership with Dr. Watson. From theft and murder to mysteries involving supposed supernatural phenomena, Holmes applies his signature blend of scientific observation, logical reasoning, and psychological insight to crack cases that baffle Scotland Yard.

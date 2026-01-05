@@ -1,5 +1,5 @@
 # The Master of Ragnarok & Blesser of Einherjar Volume 1
-**Original Title**: 豊の狐の神話・王佐の器 **Authors**: Takayama Seiichi | **Year**: 2018
+**Original Title**: 豊の狐の神話・王佐の器 **Authors**: Takayama Seiichi | **Year**: 2018 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 Yuuto Suoh, an ordinary Japanese middle school student, is transported to the world of Yggdrasil through an ancient mirror legend at Tsukimiya Shrine. In this Norse-mythology-inspired world where divine warriors called Einherjar wield rune-based powers, Yuuto must use his modern knowledge to survive and eventually rise to lead the Wolf Clan. Over two years, he transforms from a lost boy into a skilled commander who employs historical military tactics from Alexander the Great and Oda Nobunaga to win battles, all while navigating complex relationships with his powerful female warriors and seeking a way back home.

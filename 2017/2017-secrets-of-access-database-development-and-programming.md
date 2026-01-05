@@ -1,5 +1,6 @@
 # 2017 Secrets of Access Database Development and Programming
 **Authors**: Andrei Besedin | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide demystifies Microsoft Access database development and programming, offering practical insights for both beginners and intermediate users. The book covers the essential components of Access database design, from creating tables and establishing relationships to building forms, reports, and automation macros. It serves as both a reference guide and a hands-on manual for anyone looking to master Microsoft Access for business or personal database solutions.

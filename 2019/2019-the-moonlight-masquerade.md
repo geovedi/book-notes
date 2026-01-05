@@ -1,5 +1,6 @@
 # The Moonlight Masquerade
 **Authors**: Rachel Morgan | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In a world where fae royalty rules over oppressed humans bound by magical slave charms, Elle Winter is desperate for freedom. When the mysterious Godmother offers her a wish that could break her enslavement, the price is terrifying: she must kill Prince Chevalier at the Moonlight Masquerade Ball. Bound to her cruel stepmother Salvia by a slave charm and desperate to save her abused stepsister Sienna, Elle agrees while secretly planning to fake the prince's death. With help from Cress's death-simulation potion and a brave pixie messenger, Elle navigates the dangerous royal ball only to discover that the boy she's falling for, Dex, is actually the real Prince Chevalier in disguise. As vampire revolutionaries attack the palace and Elle's carefully constructed plan unravels, she must choose between her freedom and her conscience, culminating in a shocking cliffhanger that leaves her captured by the enemy.

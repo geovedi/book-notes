@@ -1,6 +1,6 @@
 # Financial Calculation for Treasuries: Banks and Companies
 **Original Title**: Cálculo financeiro das tesourarias; Bancos e empresas
-**Author**: José Roberto Securato (organizer) | **Year**: 2015 (5th edition)
+**Author**: José Roberto Securato (organizer) | **Year**: 2015 (5th edition) | **Category**: Business & Finance
 
 ## Summary
 This comprehensive Brazilian finance textbook serves as the definitive "bible" for treasury operations in both banking institutions and corporations. Originally published in 1998 and now in its 5th edition, the book has evolved beyond purely treasury operations to encompass the entire Brazilian business landscape's financial calculations. It bridges the gap between academic theory and practical market application, drawing from the author's 30 years of executive experience in financial markets and 45 years as a professor.

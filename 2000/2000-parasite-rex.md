@@ -1,5 +1,5 @@
 # Parasite Rex
-**Author**: Carl Zimmer | **Year**: 2000
+**Author**: Carl Zimmer | **Year**: 2000 | **Category**: Science & Nature
 
 ## Summary
 Parasite Rex takes readers on a fascinating journey into the hidden world of parasites, revealing them not as evolutionary failures but as some of nature's most sophisticated and successful life forms. Zimmer challenges our understanding of evolution by showing how parasites have become master manipulators, capable of controlling host behavior, evading immune systems, and shaping the history of life itself. From the deadly trypanosomes causing sleeping sickness in Sudan to mind-controlling fungi that turn ants into zombies, this book exposes a parasitic universe that operates with incredible precision and biological ingenuity.

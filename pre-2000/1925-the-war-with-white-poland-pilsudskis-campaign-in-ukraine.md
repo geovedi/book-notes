@@ -1,6 +1,7 @@
 # 1920: The War with White Poland. Pilsudski's Campaign in Ukraine
 **Original Title**: 1920. Война с белополяками. Поход Пилсудского на Украину
 **Authors**: Nikolai Kakurin, Vladimir Melikov | **Year**: 1925
+**Category**: History & Biography
 
 ## Summary
 This comprehensive military analysis examines the Soviet-Polish War of 1919-1920, focusing on Pilsudski's decisive campaign against Soviet Ukraine in 1920. Written by two former Imperial Russian officers who served in both anti-Bolshevik and Red armies, the book provides unique insider perspectives on this pivotal conflict that shaped Eastern European borders for decades. The authors combine detailed operational analysis with candid assessments of military leadership, logistics, and strategic decisions on both sides.

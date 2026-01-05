@@ -1,5 +1,6 @@
 # Living the Asian Century: An Undiplomatic Memoir
-**Authors**: Kishore Mahbubani | **Year**: 2024 
+**Authors**: Kishore Mahbubani | **Year**: 2024
+**Category**: History & Biography 
 
 ## Summary
 Kishore Mahbubani's memoir chronicles his extraordinary journey from a childhood of extreme poverty in Singapore to becoming one of Asia's most influential diplomats and thinkers. Born to a dysfunctional family with a gambling-addicted father who spent time in prison, Mahbubani rose through the power of education to serve as Singapore's Ambassador to the UN and President of the UN Security Council. The book offers a unique perspective on the shift from Western to Asian dominance in global affairs, drawing from his 33 years in Singapore's diplomatic service and his front-row seat to international power politics.

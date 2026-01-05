@@ -1,5 +1,6 @@
 # How to Learn Microsoft Visio Quickly
 **Author**: Andrei Besedin | **Year**: 2018
+**Category**: Technology & Computing
 
 ## Summary
 "How to Learn Microsoft Visio Quickly" is a practical, hands-on tutorial guide that walks beginners through the essential features of Microsoft Visio, focusing on creating professional diagrams efficiently. The book covers everything from basic navigation to advanced features like organization charts and data-driven visualizations, making complex diagramming accessible to users of all skill levels.

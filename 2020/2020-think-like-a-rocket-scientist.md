@@ -1,5 +1,6 @@
 # Think Like a Rocket Scientist
 **Author**: Ozan Varol | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think Like a Rocket Scientist" reveals how the mindset that enabled humanity to reach the Moon can be applied to everyday challenges. Varol, a former rocket scientist who worked on NASA's Mars Exploration Rovers mission, translates complex aerospace thinking into practical strategies for work and life. The book argues that in our rapidly evolving world, traditional thinking patterns keep us stuck while rocket-science thinking enables breakthrough innovations.

@@ -1,5 +1,6 @@
 # Little Lord Fauntleroy
 **Authors**: Frances Hodgson Burnett | **Year**: 1886
+**Category**: Children & Young Adult
 
 ## Summary
 Little Lord Fauntleroy tells the heartwarming story of Cedric Errol, a cheerful American boy living in modest circumstances in New York who discovers he is the heir to a British earldom. When his grandfather, the cold and bitter Earl of Dorincourt, summons him to England, young Cedric's innocent kindness, natural nobility, and loving heart gradually transform the old Earl and everyone around him.

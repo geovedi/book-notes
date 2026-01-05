@@ -1,5 +1,6 @@
 # The Ocean
 **Authors**: Sturla Henriksen | **Year**: 2025
+**Category**: Science & Nature
 
 ## Summary
 "The Ocean" is a comprehensive exploration of humanity's complex relationship with our planet's largest ecosystem. Henriksen, a former maritime executive and UN special advisor, presents the ocean as both the origin of life and humanity's greatest public commons. He reveals how the ocean covers two-thirds of Earth's surface yet constitutes nearly ninety percent of our planet's biosphere, serving as the primary engine for climate regulation, global trade, and human civilization. The book masterfully weaves together scientific analysis, historical perspective, and personal experience to demonstrate that the ocean is simultaneously our greatest existential challenge and our most promising solution to climate change.

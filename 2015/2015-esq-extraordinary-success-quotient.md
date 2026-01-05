@@ -1,5 +1,6 @@
 # ESQ - Extraordinary Success Quotient
 **Authors**: Robin Sacredfire | **Year**: 2015
+**Category**: Self-Help & Personal Development
 
 ## Summary
 ESQ introduces a revolutionary framework for understanding and predicting success that goes beyond traditional intelligence (IQ) and emotional intelligence (EQ) measurements. The book presents the Extraordinary Success Quotient as a measurable, developable capability that allows individuals to adapt, transfer patterns, and ultimately predict their own future success. Through practical principles and real-world case studies, it demonstrates how ESQ has helped transform struggling students into academic achievers, guide companies to profitability, and provide accurate predictions of life outcomes.

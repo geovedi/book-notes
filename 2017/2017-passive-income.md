@@ -1,5 +1,6 @@
 # Passive Income Strategies
 **Author**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide introduces readers to the concept of passive income as a pathway to financial freedom and independence beyond traditional employment. The book presents multiple actionable strategies for generating income streams that require minimal ongoing effort once established. It targets individuals feeling trapped in corporate jobs or seeking to supplement their current income through diversified revenue sources. Readers will learn seven primary passive income models, along with practical implementation steps, benefits analysis, and common pitfalls to avoid. The book serves as both an introduction to passive income concepts and a practical roadmap for immediate action.

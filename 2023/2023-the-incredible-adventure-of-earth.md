@@ -1,6 +1,7 @@
 # The Incredible Adventure of Earth
 **Original Title**: L'incroyable aventure de la Terre
 **Author**: [Not specified in text] | **Year**: 2023
+**Category**: Science & Nature
 **Collection**: "COMMENT A-T-ON SU?" directed by Étienne Klein
 **Publisher**: Éditions humenSciences
 

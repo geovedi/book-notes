@@ -1,5 +1,6 @@
 # Making the Most of Your Creative Output
 **Authors**: Ian Shipley | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 This practical business guide serves as a roadmap for visual artists, photographers, writers, and designers looking to transform their creative talents into viable commercial ventures. Shipley draws from his extensive experience in music, photography, and creative licensing to demystify the business side of creativity, offering real-world strategies for protecting, promoting, and profiting from artistic work.

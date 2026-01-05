@@ -1,5 +1,5 @@
 # The Earth Moved
-**Authors**: Amy Stewart | **Year**: 2005
+**Authors**: Amy Stewart | **Year**: 2005 | **Category**: Science & Nature
 
 ## Summary
 "The Earth Moved" reveals the astonishing hidden world beneath our feet, where blind, deaf earthworms perform geological-scale transformations that shape our planet's surface. Stewart weaves together Darwin's pioneering research, cutting-edge soil science, and her own hands-on experiences as a gardener and worm composter to expose these humble creatures as unsung heroes of the ecosystem. Through engaging storytelling and scientific rigor, she demonstrates how earthworms are not merely garden dwellers but powerful agents of change that have influenced agriculture, ecology, and even human history.

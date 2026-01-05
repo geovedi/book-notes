@@ -1,5 +1,6 @@
 # Memories of a Superfluous Woman
-**Original Title**: Erinnerungen einer Überflüssigen | **Author**: Lena Christ | **Year**: 1912 
+**Original Title**: Erinnerungen einer Überflüssigen | **Author**: Lena Christ | **Year**: 1912
+**Category**: Fiction & Literature 
 
 ## Summary
 "Memories of a Superfluous Woman" is a haunting autobiographical novel that chronicles the life of Magdalena "Lenei" Christ from her idyllic Bavarian childhood through a devastating marriage that leads to poverty, abandonment, and institutionalization. Written with raw emotional honesty, this pioneering work of autofiction reveals the brutal constraints faced by women in early 20th-century rural Bavarian society.

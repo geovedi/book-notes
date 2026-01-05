@@ -1,5 +1,6 @@
 # The F. Scott Fitzgerald Megapack
 **Authors**: F. Scott Fitzgerald | **Year**: Various (1910s-1930s)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection showcases F. Scott Fitzgerald's masterful short fiction spanning his most productive decades, featuring over 60 stories that capture the essence of the Jazz Age. From his early college experiments to his mature reflections on wealth, love, and the American Dream, this megapack demonstrates Fitzgerald's evolution as a prose stylist and social observer. The collection includes his most famous works alongside rare gems and previously unpublished pieces, offering a complete portrait of one of America's greatest twentieth-century writers.

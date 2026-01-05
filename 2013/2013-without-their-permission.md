@@ -1,5 +1,5 @@
 # Without Their Permission
-**Author**: Alexis Ohanian | **Year**: 2013
+**Author**: Alexis Ohanian | **Year**: 2013 | **Category**: Technology & Computing
 
 ## Summary
 "Without Their Permission" is Alexis Ohanian's passionate manifesto about how the open Internet has democratized innovation and entrepreneurship. As co-founder of reddit, Ohanian shares his personal journey from college student to multi-millionaire entrepreneur, while arguing that the Internet enables anyone to create and succeed without traditional gatekeepers. The book combines personal stories, startup wisdom, and a call to protect Internet freedom for future innovators.

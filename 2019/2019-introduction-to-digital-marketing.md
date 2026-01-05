@@ -1,5 +1,6 @@
 # Introduction to Digital Marketing 101
 **Authors**: Cecilia Figueroa | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide transforms beginners into confident digital marketers by providing a practical, hands-on approach to modern marketing strategies. The book demystifies complex concepts like SEO, content marketing, social media, and analytics through real-world examples and step-by-step frameworks. Rather than focusing on theoretical concepts, it serves as a practical companion for entrepreneurs and marketers who need actionable strategies to grow their businesses online.

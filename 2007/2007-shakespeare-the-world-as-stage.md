@@ -1,5 +1,6 @@
 # Shakespeare: The World as Stage
 **Author**: Bill Bryson | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 Bill Bryson delivers a witty, illuminating portrait of William Shakespeare that strips away centuries of myth while celebrating the playwright's extraordinary achievement. Rather than pretending to know more than we do, Bryson embraces the fascinating mysteries surrounding Shakespeare's life, revealing how much we don't know about the world's greatest writer. The book explores Shakespeare's era, the theatrical world of Elizabethan London, and the remarkable survival of his works through history.

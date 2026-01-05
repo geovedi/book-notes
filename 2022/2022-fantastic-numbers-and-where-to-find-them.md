@@ -1,5 +1,5 @@
 # Fantastic Numbers and Where to Find Them
-**Authors**: Antonio Padilla | **Year**: 2022
+**Authors**: Antonio Padilla | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 Antonio Padilla takes readers on an extraordinary journey through mathematics and physics using extraordinary numbers as our guide. From infinitesimally small numbers to unimaginably large ones, each number reveals fundamental truths about our universe. Padilla combines personal anecdotes, historical context, and accessible explanations to make complex physics concepts engaging and understandable for general readers.

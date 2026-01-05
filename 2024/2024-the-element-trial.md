@@ -1,6 +1,7 @@
 # The Element Trial
 **Original Title**: Elementprøven
 **Authors**: Julie Midtgaard | **Year**: 2024
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In 17th century Denmark, two orphan girls—Dawn and Akela—are accused of witchcraft and face execution. When lightning strikes during their trial, they're thrust through mysterious rifts into Luscuro, a magical world at war where elemental magic governs society. There, they discover they're Sixters—people born with elemental powers—but their memories of this world were sealed when they were sent to Earth as infants. Now they must navigate a dangerous new reality while uncovering political conspiracies and finding their true identities.

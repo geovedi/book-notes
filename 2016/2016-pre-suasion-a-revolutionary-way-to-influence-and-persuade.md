@@ -1,5 +1,5 @@
 # Pre-Suasion: A Revolutionary Way to Influence and Persuade
-**Author**: Robert B. Cialdini | **Year**: 2016
+**Author**: Robert B. Cialdini | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Pre-Suasion" revolutionizes our understanding of influence by demonstrating that the key to persuasion isn't just *what* you say, but *what you make people think about* right before you say it. Cialdini reveals that master persuaders spend significant time preparing their audience's mental environment before making their actual request, creating "privileged moments" when receptivity peaks. Through extensive research and compelling real-world examples, he shows how to arrange for people to be receptive to your message before they encounter it—making them more likely to say yes to everything from sales pitches to personal requests.

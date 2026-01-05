@@ -1,5 +1,5 @@
 # Freakonomics
-**Authors**: Steven D. Levitt, Stephen J. Dubner | **Year**: 2006
+**Authors**: Steven D. Levitt, Stephen J. Dubner | **Year**: 2006 | **Category**: Business & Finance
 
 ## Summary
 Freakonomics explores the hidden side of everything through the lens of economic analysis, revealing how incentives, information asymmetry, and data can explain seemingly unrelated phenomena. The book demonstrates that economic thinking can uncover surprising truths about human behavior, from crime rates to parenting practices, by looking at the right data and asking unconventional questions.

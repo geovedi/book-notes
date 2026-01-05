@@ -1,6 +1,7 @@
 # The Suicide Club
 **Original Title**: The Suicide Club
 **Authors**: Robert Louis Stevenson | **Year**: 1878
+**Category**: Fiction & Literature
 
 ## Summary
 "The Suicide Club" is a thrilling collection of interconnected stories that follow the adventures of Prince Florizel of Bohemia as he navigates London's dangerous underworld. Disguised as common citizens, the Prince and his trusted Colonel Geraldine stumble upon a secret society that facilitates death for those weary of life. What begins as curiosity evolves into a crusade against the club's sinister President, a master manipulator who profits from the despair of others. Through three linked tales—"Story of the Young Man with the Cream Tarts," "Story of the Physician and the Saratoga Trunk," and "The Adventure of the Hansom Cabs"—Stevenson crafts a sophisticated exploration of mortality, morality, and justice in Victorian society.

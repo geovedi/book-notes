@@ -1,5 +1,6 @@
 # Rebel Star: Our Quest to Solve the Great Mysteries of the Sun
 **Authors**: Colin Stuart | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 "Rebel Star" takes readers on an illuminating journey through humanity's quest to understand our nearest star—the Sun. From ancient superstitions to cutting-edge space missions, Stuart reveals how astronomers have unraveled the Sun's deepest mysteries over centuries of scientific discovery. The book explores everything from the Sun's birth in a stellar nursery to its eventual death billions of years from now, while showcasing the brilliant minds who pieced together our understanding of this celestial rebel that constantly defies simple explanation.

@@ -1,6 +1,7 @@
 # Women in Cultural History
 **Original Title**: Die Frau in der Kulturgeschichte
 **Author**: Otto Henne am Rhyn | **Year**: 1892
+**Category**: History & Biography
 
 ## Summary
 This pioneering cultural history examines women's roles across different civilizations and time periods, arguing that women are the primary carriers of culture within the family sphere while men dominate public life and state affairs. Written from a 19th-century perspective, the book presents a comprehensive survey from primitive societies through modern times, documenting how women's status and influence evolved alongside cultural development.

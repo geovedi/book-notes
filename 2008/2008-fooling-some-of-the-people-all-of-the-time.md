@@ -1,5 +1,6 @@
 # Fooling Some of the People All of the Time
 **Authors**: David Einhorn, Joel Greenblatt | **Year**: 2008
+**Category**: Business & Finance
 
 ## Summary
 This book is a real-life financial detective story that exposes how hedge fund manager David Einhorn uncovered massive fraud at Allied Capital, a publicly traded business development company. What began as a routine investment analysis evolved into a six-year crusade against corporate wrongdoing, regulatory indifference, and systematic failures in our financial system's gatekeepers.

@@ -1,5 +1,6 @@
 # How to Think Critically
 **Authors**: Albert Rutherford | **Year**: 2021
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "How to Think Critically" is a practical guide that demystifies the art of critical thinking and provides actionable frameworks for developing this essential skill. The book breaks down critical thinking into manageable components, showing readers how to move beyond gut feelings and emotional reactions to become more deliberate, logical thinkers. Rutherford draws on research from psychology, education, and cognitive science to explain why critical thinking is challenging but crucial in today's world.

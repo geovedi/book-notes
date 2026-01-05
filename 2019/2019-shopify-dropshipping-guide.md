@@ -1,5 +1,6 @@
 # Shopify Dropshipping Guide
 **Authors**: Marcus Rogers | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 The Shopify Dropshipping Guide is a comprehensive blueprint for building a six-figure e-commerce business by combining four powerful online business models: dropshipping through Shopify, affiliate marketing with ClickBank, email marketing, and Facebook advertising. The book presents a systematic approach to creating a $100K per month online business without the traditional headaches of inventory management or upfront capital investment.

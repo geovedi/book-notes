@@ -1,5 +1,5 @@
 # Mountains Beyond Mountains
-**Authors**: Tracy Kidder | **Year**: 2003
+**Authors**: Tracy Kidder | **Year**: 2003 | **Category**: Health & Medicine
 
 ## Summary
 "Mountains Beyond Mountains" chronicles the extraordinary journey of Dr. Paul Farmer, a Harvard-trained physician who has dedicated his life to fighting disease and poverty in the world's most desperate places, primarily Haiti. The book follows Farmer's dual existence between Harvard Medical School and his clinic Zanmi Lasante in Cange, Haiti, where he treats patients displaced by a hydroelectric dam project. Through gripping narrative, Tracy Kidder reveals how Farmer's revolutionary approach to global health challenges conventional wisdom about what's possible in treating the poor.

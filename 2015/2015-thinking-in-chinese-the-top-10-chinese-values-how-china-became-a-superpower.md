@@ -1,5 +1,5 @@
 # Thinking in Chinese: The Top 10 Chinese Values & How China Became a Superpower
-**Authors**: Samuel River | **Year**: 2015
+**Authors**: Samuel River | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 Based on nearly a decade of experience working with China's wealthiest and most powerful companies, this book reveals the 10 core Chinese business values that explain their remarkable global success. The author contrasts Chinese business practices with Western approaches, showing how cultural differences drive vastly different outcomes in entrepreneurship and wealth creation.

@@ -1,5 +1,6 @@
 # Somatic Exercises for All Women: Beginners and Intermediates
 **Authors**: L. R. Lepage, Body Talk Practitioner | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive guide introduces women to the transformative practice of somatic exercises—gentle movements that reconnect mind and body through intentional awareness. The book presents somatic exercises as a powerful tool for resetting the nervous system, promoting emotional resilience, clearing stagnant energy, and improving physical well-being. Written by a certified Body Talk practitioner, it combines scientific understanding with practical exercises designed specifically for women's needs, whether they're dealing with chronic pain, emotional stress, or seeking to enhance their overall wellness.

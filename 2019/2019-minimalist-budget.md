@@ -1,5 +1,6 @@
 # Minimalist Budget
 **Authors**: Mary Connor | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Minimalist Budget presents a refreshing approach to personal finance that challenges traditional deprivation-based budgeting. Rather than focusing on cutting everything out, this book teaches readers how to align their spending with their values and priorities. The core philosophy is that minimalism isn't about having nothing—it's about having everything that truly matters to you while eliminating wasteful spending on things that don't bring joy or serve your goals.

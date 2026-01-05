@@ -1,5 +1,6 @@
 # The Wonderful Wizard of Oz
 **Authors**: L. Frank Baum | **Year**: 1900
+**Category**: Children & Young Adult
 
 ## Summary
 Dorothy Gale, a young girl from Kansas, is swept away by a cyclone with her dog Toto and transported to the magical Land of Oz. After accidentally killing the Wicked Witch of the East when her house lands on her, Dorothy is hailed as a hero by the Munchkins. With the help of the Good Witch of the North and magical silver shoes, she embarks on a journey along the Yellow Brick Road to the Emerald City to seek the Wizard's help in returning home.

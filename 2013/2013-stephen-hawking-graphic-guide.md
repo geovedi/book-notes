@@ -1,6 +1,6 @@
 # Stephen Hawking: A Graphic Guide
 **Original Title**: Introducing Stephen Hawking
-**Authors**: J.P. McEvoy, Oscar Zarate | **Year**: 2013
+**Authors**: J.P. McEvoy, Oscar Zarate | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "Stephen Hawking: A Graphic Guide" is an innovative visual biography that explores the life and revolutionary scientific contributions of one of the world's most famous physicists. This illustrated guide uses a unique combination of accessible explanations and graphic artwork to make complex cosmological concepts understandable to general readers. The book traces Hawking's journey from his diagnosis with ALS at age 21 to becoming the Lucasian Professor of Mathematics at Cambridge—a position once held by Isaac Newton.

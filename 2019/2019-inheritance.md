@@ -1,5 +1,6 @@
 # Inheritance
 **Author**: Dani Shapiro | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 Inheritance is a devastating yet ultimately redemptive memoir about a life-altering discovery: at age 54, Dani Shapiro learns through a DNA test that the man who raised her as her father was not her biological father. The book documents her immediate shock, the unraveling of her family history, and her journey to understand the truth of her origins. What begins as a simple curiosity about her ancestry becomes a profound exploration of identity, family secrets, and the complex nature of love and parenthood.

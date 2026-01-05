@@ -1,5 +1,6 @@
 # Chamber Music
 **Authors**: James Joyce | **Year**: 1907
+**Category**: Fiction & Literature
 
 ## Summary
 "Chamber Music" is James Joyce's first published major work, a collection of 36 lyrical love poems that mark his transition from romantic lyricism to the modernist experimentation that would later define his career. Despite the provocative rumors about the title's origin (some suggesting it refers to urine in a chamber pot), the collection represents traditional romantic poetry with musical influences, particularly from the Elizabethan and Romantic periods.

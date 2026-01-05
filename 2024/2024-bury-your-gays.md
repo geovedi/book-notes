@@ -1,5 +1,6 @@
 # Bury Your Gays
 **Authors**: Chuck Tingle | **Year**: 2024
+**Category**: Horror & Thriller
 
 ## Summary
 Misha Byrne is a successful Hollywood screenwriter facing an impossible ultimatum: either kill off his popular lesbian lead characters in the season finale of his hit show "Travelers" or turn them straight to satisfy the studio's profit-driven algorithm. When Misha refuses, he finds himself stalked by manifestations of his own horror creations, forcing him to confront not only a corporate machine that wants to bury his gays, but the literal evil lurking in Hollywood's entertainment industry.

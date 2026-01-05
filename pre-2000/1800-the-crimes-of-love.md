@@ -1,5 +1,6 @@
 # The Crimes of Love
 **Original Title**: Les Crimes de l'Amour | **Authors**: Marquis de Sade | **Year**: 1800
+**Category**: Romance & Relationships
 
 ## Summary
 A collection of five tragic tales that explore the destructive power of love and passion in 18th-century aristocratic society. Unlike Sade's more infamous works, these stories present a moralistic worldview where vice is ultimately punished and virtue frequently prevails. Written during his twelve-year imprisonment, these "heroic and tragic tales" represent Sade's attempt to rehabilitate his literary reputation while examining how love—intended to bring happiness—can lead to crime, betrayal, and death.

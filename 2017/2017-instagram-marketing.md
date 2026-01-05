@@ -1,6 +1,7 @@
 # Instagram Marketing: A Picture Perfect Way to Strike It Rich!
 **Original Title**: Instagram Marketing: A Picture Perfect Way to Strike It Rich!
 **Author**: Mark Smith | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how businesses can leverage Instagram's massive user base (700+ million users) to dramatically increase brand visibility and sales without breaking the bank. The book provides a complete roadmap from setting up your business account to advanced marketing strategies that help you connect with customers naturally through visual storytelling.

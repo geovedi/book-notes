@@ -1,5 +1,6 @@
 # The Systems Thinker - Analytical Skills
 **Authors**: Albert Rutherford | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Systems Thinker - Analytical Skills" is a practical guide to developing logical problem-solving abilities in a world that often rewards emotional decision-making. The book positions analytical thinking as a learnable skill rather than an innate talent, offering readers a framework to approach complex problems systematically. Rutherford argues that in an age of information overload and quick decisions, the ability to analyze situations logically, break down problems into manageable components, and make data-driven decisions is more valuable than ever.

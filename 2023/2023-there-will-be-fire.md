@@ -1,5 +1,6 @@
 # There Will Be Fire
 **Author**: Rory Carroll | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 "There Will Be Fire" is a gripping account of the IRA's 1984 assassination attempt on Margaret Thatcher and how two minutes changed the course of modern British and Irish history. The book meticulously reconstructs the most audacious attack on the British government since the 1605 Gunpowder Plot, when a 20-pound bomb planted by IRA operative Patrick Magee tore through Brighton's Grand Hotel during the Conservative Party Conference.

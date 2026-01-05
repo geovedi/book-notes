@@ -1,5 +1,5 @@
 # The Feather Thief: Beauty, Obsession, and the Natural History Heist of the Century
-**Authors**: Kirk Wallace Johnson | **Year**: 2018
+**Authors**: Kirk Wallace Johnson | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 In 2009, Edwin Rist, a 20-year-old American flute prodigy and master fly-tyer, broke into the British Natural History Museum at Tring and stole 299 rare bird skins collected over 150 years by legendary naturalists like Alfred Russel Wallace. These scientifically irreplaceable specimens included birds of paradise, cotingas, and quetzals—many now threatened or extinct. What began as the author's obsession with this bizarre crime during a fly-fishing trip evolved into a five-year investigation that uncovered a lucrative underground market for Victorian-era feathers used in decorative salmon flies.

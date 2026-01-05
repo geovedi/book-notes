@@ -1,5 +1,6 @@
 # The Spirit Catches You and You Fall Down
 **Author**: Anne Fadiman | **Year**: 1998
+**Category**: Health & Medicine
 
 ## Summary
 "The Spirit Catches You and You Fall Down" tells the true story of Lia Lee, a Hmong child with severe epilepsy, and the tragic collision between her family's traditional beliefs and the American medical system. When Lia's parents, Foua and Nao Kao Lee, refugees from Laos, encounter Western doctors in Merced, California, their fundamentally different understandings of illness, healing, and authority lead to devastating consequences for Lia's health.

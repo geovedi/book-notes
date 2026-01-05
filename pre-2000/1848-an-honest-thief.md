@@ -1,5 +1,6 @@
 # An Honest Thief
 **Authors**: Fyodor Dostoyevsky | **Year**: 1848
+**Category**: Fiction & Literature
 
 ## Summary
 This poignant short story explores the complex relationship between a humble tailor and a broken drunken man he takes in out of pity. Set in 19th-century St. Petersburg, the narrative reveals how compassion, betrayal, and redemption intertwine in the lives of ordinary people struggling with poverty, addiction, and moral failure.

@@ -1,5 +1,5 @@
 # Manifestly Haraway
-**Authors**: Donna J. Haraway | **Year**: 2016
+**Authors**: Donna J. Haraway | **Year**: 2016 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Manifestly Haraway" brings together three groundbreaking works that have shaped posthumanist thought: the legendary "Cyborg Manifesto" (1985), "The Companion Species Manifesto" (2003), and a revealing conversation with Cary Wolfe. Haraway challenges traditional boundaries between human/animal, organism/machine, nature/culture, and physical/nonphysical. Through the figures of the cyborg and companion species, she offers radical new ways to think about identity, relationships, and politics in our technologically saturated world.

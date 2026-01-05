@@ -1,5 +1,6 @@
 # Education of a Wandering Man
 **Author**: Louis L'Amour | **Year**: 2008 (originally 1989)
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Education of a Wandering Man" is Louis L'Amour's memoir about his extraordinary self-education journey after leaving school in the tenth grade. During his "knockabout years" working as a hobo, seaman, miner, and ranch hand across America and around the world, L'Amour transformed himself into one of America's most beloved storytellers through relentless reading and curiosity. From freight trains to sailing ships, from mining camps to Singapore bars, he devoured books—classics, histories, philosophies, and adventures—creating an education more profound than any formal institution could provide.

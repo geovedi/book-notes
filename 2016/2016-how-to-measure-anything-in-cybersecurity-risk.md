@@ -1,5 +1,5 @@
 # How to Measure Anything in Cybersecurity Risk
-**Authors**: Douglas W. Hubbard, Richard Seiersen | **Year**: 2016
+**Authors**: Douglas W. Hubbard, Richard Seiersen | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 

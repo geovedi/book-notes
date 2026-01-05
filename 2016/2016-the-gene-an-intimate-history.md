@@ -1,5 +1,5 @@
 # The Gene: An Intimate History
-**Authors**: Siddhartha Mukherjee | **Year**: 2016
+**Authors**: Siddhartha Mukherjee | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "The Gene: An Intimate History" is a sweeping scientific narrative that traces humanity's quest to understand heredity, from Aristotle's ancient theories to the modern era of genome editing. Mukherjee weaves together the history of genetic discovery, the dark legacy of eugenics, and his own family's experience with mental illness to explore how genes shape our identities, destinies, and future. The book reveals how the gene has transformed from an abstract concept into a tangible, manipulable reality that poses profound ethical questions about what it means to be human.

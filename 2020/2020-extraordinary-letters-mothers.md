@@ -1,6 +1,7 @@
 # Extraordinary Letters: Mothers
 **Original Title**: Cartas extraordinárias: Mães
 **Author**: Shaun Usher | **Year**: 2020
+**Category**: Romance & Relationships
 
 ## Summary
 *Extraordinary Letters: Mothers* is a powerful collection of thirty letters written by, for, or about mothers throughout history, spanning from the 4th century to 2018. This anthology reveals the profound complexity of mother-child relationships through intimate correspondence that captures the full spectrum of human emotion—joy, grief, pride, disappointment, love, and regret. The letters demonstrate how the simple act of writing to a mother can serve as both a time capsule and a lifeline, preserving moments that might otherwise be lost to time.

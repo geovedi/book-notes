@@ -1,5 +1,5 @@
 # The Secret Life of Houdini
-**Authors**: William Kalush, Larry Sloman | **Year**: 2006
+**Authors**: William Kalush, Larry Sloman | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "The Secret Life of Houdini" reveals the astonishing hidden story behind the world's most famous magician and escape artist. Drawing from thousands of previously unseen documents, personal letters, and classified government records, the authors uncover that Harry Houdini wasn't just a master showman but may have also worked as a secret agent for American and British intelligence services. The book traces Houdini's journey from poverty-stricken immigrant to international superstar, revealing how his remarkable escape abilities and global access made him uniquely valuable to spy agencies in the years leading up to World War I. This groundbreaking biography connects the dots between Houdini's impossible escapes, his sudden career breakthroughs, and his secret meetings with intelligence officials, suggesting that his greatest performance may have been his real-life work as a spy.

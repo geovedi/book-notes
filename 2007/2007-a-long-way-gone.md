@@ -1,5 +1,6 @@
 # A Long Way Gone
 **Author**: Ishmael Beah | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 Ishmael Beah's haunting memoir chronicles his journey from a happy 12-year-old boy in Sierra Leone who loved rap music and Shakespeare to a child soldier forced into brutal combat, and finally to his rehabilitation and emergence as a human rights advocate. When civil war reaches his village, Ishmael is separated from his family and survives months of wandering through a war-torn landscape. Eventually recruited into the government army at age 13, he's indoctrinated with drugs and propaganda, becoming a skilled fighter who kills without hesitation. Rescued by UNICEF after two years of warfare, he undergoes painful rehabilitation and eventually escapes to America, where he dedicates his life to speaking out against the use of child soldiers.

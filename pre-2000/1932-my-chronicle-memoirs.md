@@ -1,6 +1,7 @@
 # My Chronicle: Memoirs
 **Original Title**: Моя летопись. Воспоминания
 **Author**: Nadezhda Lokhvitskaya (Téffi) | **Year**: 1932
+**Category**: History & Biography
 
 ## Summary
 Téffi's memoirs offer intimate portraits of the literary and cultural elite of Russia's Silver Age, spanning from the early 1900s through the Revolution and into emigration. Written from exile in Paris, these vivid sketches capture the personalities behind the famous names, revealing their quirks, vanities, and human vulnerabilities. Through her sharp observational skills and gentle wit, Téffi preserves a world that was lost to history, showing how political upheaval transformed even the most elevated circles of Russian society. This collection serves as both personal testament and historical document, preserving the spirit of an era through the eyes of one of its most perceptive witnesses.

@@ -1,6 +1,6 @@
 # Advocate for an Indefinite Human Lifespan
 **Original Title**: Advancing Conversations: Aubrey De Grey - Advocate For An Indefinite Human Lifespan
-**Authors**: Douglas Lain | **Year**: 2016
+**Authors**: Douglas Lain | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This book presents an in-depth conversation with Aubrey de Grey, Chief Science Officer of SENS Research Foundation and pioneer in the field of life extension research. Through a three-part dialogue exploring the science behind defeating aging, addressing common objections, and examining psychological barriers, the book reveals how medical science may be on the cusp of developing technologies that could extend human lifespan into four digits. De Grey argues that aging is simply accumulated damage that can be repaired through comprehensive rejuvenation therapies, challenging the fatalistic acceptance of age-related decline and death.

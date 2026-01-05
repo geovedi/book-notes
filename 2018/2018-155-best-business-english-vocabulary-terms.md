@@ -1,5 +1,5 @@
 # 155 Best Business English Vocabulary Terms
-**Authors**: Winn Trivette, MA | **Year**: 2018
+**Authors**: Winn Trivette, MA | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 

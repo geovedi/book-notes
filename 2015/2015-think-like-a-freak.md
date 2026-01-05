@@ -1,5 +1,5 @@
 # Think Like a Freak
-**Authors**: Steven D. Levitt & Stephen J. Dubner | **Year**: 2015
+**Authors**: Steven D. Levitt & Stephen J. Dubner | **Year**: 2015 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think Like a Freak" is a guide to retraining your brain to solve problems more creatively and effectively. Building on their Freakonomics approach, the authors demonstrate how to look at the world through an economic lens—using data, incentives, and unconventional thinking to tackle everything from personal decisions to global challenges.

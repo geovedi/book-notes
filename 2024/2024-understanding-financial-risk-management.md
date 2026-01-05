@@ -1,5 +1,6 @@
 # Understanding Financial Risk Management
 **Authors**: Angelo Corelli | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 Understanding Financial Risk Management, Third Edition is a comprehensive textbook that serves as both an educational resource and practical guide for mastering the complex world of financial risk management. The book systematically covers everything from fundamental concepts like risk versus uncertainty to advanced topics including Value at Risk (VaR), credit derivatives, and emerging digital finance challenges.

@@ -1,5 +1,6 @@
 # Mother Tongue
 **Author**: Bill Bryson | **Year**: 2009
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Mother Tongue" is Bill Bryson's entertaining exploration of how the English language developed from its humble Germanic origins to become the world's first truly global language. Bryson guides us through the fascinating, often chaotic journey of English - a language that has absorbed words from more than 350 other languages, lost its grammatical gender, and somehow conquered the world despite its notorious inconsistencies.

@@ -1,5 +1,6 @@
 # Create Your Digital Marketing Agency
 **Authors**: Robinson Hardin | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide offers 14 essential tips for aspiring entrepreneurs looking to launch and grow their own digital marketing agency. Drawing from over a decade of experience, Hardin shares hard-won lessons from building his first agency 'Ciao Media' in England during the early days of social media marketing. The book emphasizes specialization, strategic client acquisition, and sustainable business practices over rapid expansion.

@@ -1,5 +1,6 @@
 # The Memory Thief
 **Authors**: Rachel Morgan | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In the magically stratified city of Vale, humans occupy the lowest rung of society, enslaved to the ruling fae, vampires, and shifters. Nineteen-year-old Elle Winter is human but possesses a unique and dangerous gift: the ability to erase memories. Bound by a slave charm to her cruel stepmother Salvia, Elle works nights at an exclusive fae nightclub as a "memory thief," trading unwanted memories for magical Essence—the currency she hopes will eventually buy her freedom through a wish from the mysterious Godmother.

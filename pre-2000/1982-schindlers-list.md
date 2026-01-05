@@ -1,5 +1,6 @@
 # Schindler's List
 **Author**: Thomas Keneally | **Year**: 1982 (2023 Touchstone Edition)
+**Category**: Fiction & Literature
 
 ## Summary
 This extraordinary historical novel tells the true story of Oskar Schindler, a flamboyant German businessman and Nazi Party member who became an unlikely hero during the Holocaust. Initially motivated by profit, Schindler transforms into a courageous humanitarian who risks everything to save over 1,200 Jewish workers from extermination in Nazi concentration camps.

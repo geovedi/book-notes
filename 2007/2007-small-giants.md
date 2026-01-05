@@ -1,5 +1,6 @@
 # Small Giants
 **Authors**: Bo Burlingham | **Year**: 2007
+**Category**: Business & Finance
 
 ## Summary
 "Small Giants" profiles companies that deliberately chose to be great rather than big, challenging the conventional business wisdom that growth is always the ultimate goal. Through fourteen case studies of privately-held companies across various industries, Burlingham reveals how these businesses built exceptional organizations by prioritizing values like community connection, employee relationships, customer intimacy, and operational excellence over revenue growth and market domination. These "small giants" maintained human-scale operations where leaders could remain connected to all aspects of their business, fostering what the book calls "mojo"—that elusive quality of authenticity, purpose, and soul that makes companies truly remarkable.

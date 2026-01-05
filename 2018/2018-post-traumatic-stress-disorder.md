@@ -1,5 +1,5 @@
 # Post-Traumatic Stress Disorder: A Practical Guide to Understanding and Treatment
-**Authors**: Leo Hardy | **Year**: 2018
+**Authors**: Leo Hardy | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 Post-Traumatic Stress Disorder (PTSD) is a comprehensive guide that demystifies this often misunderstood mental health condition. The book explores PTSD beyond its common association with military service, examining its impact on children, families dealing with divorce, individuals struggling with substance abuse, and professionals in high-stress occupations. Written in accessible language, it provides both clinical insights and practical understanding for anyone affected by trauma.

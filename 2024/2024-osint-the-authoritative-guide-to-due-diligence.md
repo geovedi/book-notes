@@ -1,5 +1,6 @@
 # OSINT: The Authoritative Guide to Due Diligence
 **Authors**: Cynthia Hetherington, MLS, MSM, CFE, CII, OSC | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide transforms the complex world of Open-Source Intelligence (OSINT) into actionable intelligence-gathering techniques for both professionals and curious amateurs. Written by a veteran investigator with over thirty years of experience, the book establishes OSINT as essential due diligence in our data-saturated world where information volumes have exploded while the fundamental principles of thorough investigation remain unchanged. The author emphasizes that while technology has evolved dramatically since the first edition in 2007, the core methodology of transforming raw data into wisdom through systematic investigation endures.

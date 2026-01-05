@@ -1,5 +1,5 @@
 # Introducing Body Language: A Practical Guide
-**Authors**: Glenn Wilson | **Year**: 2016
+**Authors**: Glenn Wilson | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 This comprehensive guide reveals how body language serves as our "second language" - often more truthful and powerful than our spoken words. Wilson demonstrates that non-verbal communication accounts for 60-70% of human interaction, making it crucial for personal and professional success. The book explores how our unconscious signals reveal true feelings, intentions, and attitudes, often contradicting what we say verbally.

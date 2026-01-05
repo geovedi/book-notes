@@ -1,5 +1,6 @@
 # The In-Between
 **Authors**: Hadley Vlahos R.N. | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 "The In-Between" is a profound memoir by hospice nurse Hadley Vlahos, who shares unforgettable encounters with patients during life's final moments. The book chronicles her journey from a new hospice nurse skeptical of unexplained phenomena to becoming a witness to the mysterious and spiritual experiences that occur as people transition from life to death. Each chapter tells the story of a different patient, revealing patterns of dying people seeing deceased loved ones, experiencing peaceful visions, and demonstrating remarkable clarity about their impending death.

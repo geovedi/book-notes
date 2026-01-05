@@ -1,5 +1,5 @@
 # Moonwalking with Einstein
-**Author**: Joshua Foer | **Year**: 2011
+**Author**: Joshua Foer | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Moonwalking with Einstein" follows author Joshua Foer's remarkable journey from skeptical science journalist to U.S. Memory Champion. While covering the U.S. Memory Championship, Foer discovers that mental athletes don't possess photographic memories but rather use ancient techniques that anyone can learn. Intrigued, he convinces memory expert Ed Cooke to train him, ultimately leading to his improbable victory in the national championship just one year later.

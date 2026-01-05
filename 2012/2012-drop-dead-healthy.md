@@ -1,5 +1,6 @@
 # Drop Dead Healthy
 **Author**: A. J. Jacobs | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 A.J. Jacobs, already known for his experimental lifestyle books, transforms himself from a "python that swallowed a goat" middle-aged body into the healthiest man in the world. After a frightening bout of tropical pneumonia and his wife's plea that she "doesn't want to be a widow at forty-five," Jacobs embarks on a two-year quest to achieve maximal health from head to toe. He tackles each body part systematically—stomach, heart, ears, butt, immune system, and more—consulting with experts ranging from Harvard professors to cavemen workout enthusiasts.

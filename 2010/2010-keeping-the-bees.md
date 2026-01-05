@@ -1,5 +1,5 @@
 # Keeping the Bees
-**Author**: Laurence Packer | **Year**: 2010
+**Author**: Laurence Packer | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Keeping the Bees" reveals the urgent crisis facing bee populations worldwide and explains why these tiny insects are crucial to human survival. Packer, a lifelong melittologist (bee biologist), takes readers on a global journey from the Atacama Desert to Cape Breton Island, showing how bees pollinate one-third of our food supply and are essential for healthy ecosystems.

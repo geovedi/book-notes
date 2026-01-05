@@ -1,5 +1,6 @@
 # Consider the Fork
 **Author**: Bee Wilson | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 "Consider the Fork" reveals how the humble tools in our kitchens have shaped human civilization, from the earliest wooden spoons to modern microwave ovens. Wilson demonstrates that kitchen technology isn't just about gadgets—it's about how fundamental implements like pots, knives, and fire have transformed what we eat, how we eat, and even our physical evolution as humans.

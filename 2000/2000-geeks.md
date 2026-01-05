@@ -1,5 +1,5 @@
 # Geeks
-**Author**: Jon Katz | **Year**: 2000
+**Author**: Jon Katz | **Year**: 2000 | **Category**: Technology & Computing
 
 ## Summary
 "Geeks" tells the remarkable true story of Jesse Dailey and Eric Twilegar, two teenage computer enthusiasts from rural Idaho who escape their dead-end lives through the power of the Internet. Living in a conservative, economically depressed corner of Idaho where being different is a liability, these intelligent but socially isolated young men find their tribe online and plan a bold cross-country move to Chicago. With only their computer skills, minimal savings, and unwavering faith in technology, they embark on a modern-day pioneer journey that exemplifies how the Internet became a pathway to freedom and self-determination for marginalized youth.

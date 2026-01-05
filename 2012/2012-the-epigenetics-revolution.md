@@ -1,5 +1,6 @@
 # The Epigenetics Revolution
 **Author**: Nessa Carey | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 "The Epigenetics Revolution" reveals how modern biology is discovering that DNA alone doesn't determine our biological destiny. Carey explains that epigenetics—the study of how environmental factors can modify gene expression without changing the genetic code—represents a fundamental shift in understanding nature versus nurture. The same genetic script can produce vastly different outcomes depending on how genes are switched on or off by chemical modifications.

@@ -1,5 +1,6 @@
 # The Lust Killer
 **Author**: Ann Rule | **Year**: 1983
+**Category**: Horror & Thriller
 
 ## Summary
 "The Lust Killer" chronicles the horrifying true story of Jerome Henry "Jerry" Brudos, one of Oregon's most notorious serial killers. Between 1968-1969, Brudos abducted, murdered, and mutilated four young women in the Salem-Portland area, driven by a lifelong fetish for women's shoes and underwear that escalated into extreme sexual violence and homicide.

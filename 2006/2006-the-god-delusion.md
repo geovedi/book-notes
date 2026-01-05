@@ -1,5 +1,5 @@
 # The God Delusion
-**Authors**: Richard Dawkins | **Year**: 2006
+**Authors**: Richard Dawkins | **Year**: 2006 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Richard Dawkins presents a comprehensive scientific and philosophical case against religious belief, arguing that God is a delusion—a false belief maintained despite strong contradictory evidence. The book systematically dismantles arguments for God's existence, provides evolutionary explanations for why religious belief persists, and demonstrates that morality, meaning, and community can thrive without religion.

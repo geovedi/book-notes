@@ -1,5 +1,6 @@
 # Women Don't Owe You Pretty
 **Author**: Florence Given | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 A fierce feminist manifesto that dismantles the patriarchal beauty standards women are conditioned to uphold. Florence Given argues that "prettiness" is not a rent women pay for occupying space marked female, exposing how beauty standards function as a system of control rooted in racism, sexism, fatphobia, and transphobia. The book serves as both a wake-up call and practical guide for women to reclaim their autonomy, reject the male gaze, and build self-worth independent of external validation.

@@ -1,5 +1,5 @@
 # Smelling to Survive: The Amazing World of Our Sense of Smell
-**Authors**: Bill S. Hansson | **Year**: 2022
+**Authors**: Bill S. Hansson | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "Smelling to Survive" explores the fascinating and often underestimated world of olfaction, revealing how smell shapes life on Earth from insects to humans. Bill S. Hansson, a leading olfactory researcher, demonstrates that smell is not just a primitive sense but a sophisticated chemical communication system essential for survival, reproduction, and ecological balance. The book challenges our human-centric visual bias and reveals a world where most organisms live in rich odor landscapes that guide their every decision.

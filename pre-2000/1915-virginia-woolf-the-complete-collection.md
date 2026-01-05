@@ -1,5 +1,6 @@
 # Virginia Woolf: The Complete Collection
 **Authors**: Virginia Woolf | **Year**: 1915-1941
+**Category**: Fiction & Literature
 
 ## Summary
 Virginia Woolf's complete works represent one of the most important literary contributions of the 20th century, pioneering modernist literature and feminist thought. This comprehensive collection spans her novels, essays, short stories, and critical writings, showcasing her revolutionary stream-of-consciousness technique and profound insights into human consciousness, gender politics, and artistic creation.

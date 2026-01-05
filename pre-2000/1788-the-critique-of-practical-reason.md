@@ -1,5 +1,6 @@
 # The Critique of Practical Reason
 **Authors**: Immanuel Kant | **Year**: 1788
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Immanuel Kant's "Critique of Practical Reason" explores the foundations of moral philosophy and establishes the concept of moral autonomy as the cornerstone of ethical behavior. The book serves as a sequel to his "Critique of Pure Reason" and shifts focus from theoretical understanding to practical moral action. Kant argues that pure reason can be practical and directly determine the will without any empirical conditions. This work introduces the categorical imperative as the fundamental principle of morality and establishes freedom, God, and immortality as postulates of practical reason.

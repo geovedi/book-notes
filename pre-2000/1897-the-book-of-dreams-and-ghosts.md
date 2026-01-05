@@ -1,5 +1,6 @@
 # The Book of Dreams and Ghosts
 **Authors**: Andrew Lang | **Year**: 1897
+**Category**: Horror & Thriller
 
 ## Summary
 Andrew Lang's "The Book of Dreams and Ghosts" is a systematic collection of paranormal phenomena from the late Victorian era, exploring the boundary between dreams, hallucinations, and supernatural encounters. Rather than seeking to convince readers of ghosts' existence, Lang presents these accounts as illustrative evidence that invites further inquiry into psychical research.

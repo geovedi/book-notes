@@ -1,6 +1,7 @@
 # Blue Beard
 **Original Title**: La Barbe Bleue
 **Author**: Charles Perrault | **Year**: 1697
+**Category**: Children & Young Adult
 
 ## Summary
 Blue Beard is a dark French fairy tale about a wealthy but frightening nobleman with a blue beard who has a mysterious history of wives who disappear. After marrying his neighbor's youngest daughter, he leaves her with strict instructions not to enter one particular room in his castle. When curiosity overcomes her obedience, she discovers his terrible secret and must face the consequences.

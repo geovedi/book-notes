@@ -1,6 +1,6 @@
 # The Dawn of the Warrior Age
 
-**Authors**: Edwin A. Cranston (translator/Editor) | **Year**: 2018
+**Authors**: Edwin A. Cranston (translator/Editor) | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 

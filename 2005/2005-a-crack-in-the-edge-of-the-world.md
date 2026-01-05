@@ -1,5 +1,5 @@
 # A Crack in the Edge of the World
-**Authors**: Simon Winchester | **Year**: 2005
+**Authors**: Simon Winchester | **Year**: 2005 | **Category**: Science & Nature
 
 ## Summary
 Simon Winchester's "A Crack in the Edge of the World" is a masterful blend of geology, history, and personal journey that explores America's great California earthquake of 1906. Winchester weaves together the scientific story of plate tectonics, the human drama of San Francisco's destruction, and a cross-country journey along the San Andreas Fault system. The book reveals how the 1906 disaster marked the birth of modern earthquake science and transformed our understanding of Earth's dynamic nature.

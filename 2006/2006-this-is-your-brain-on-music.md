@@ -1,5 +1,5 @@
 # This Is Your Brain on Music
-**Author**: Daniel J. Levitin | **Year**: 2006
+**Author**: Daniel J. Levitin | **Year**: 2006 | **Category**: Science & Nature
 
 ## Summary
 This groundbreaking book explores the fascinating intersection of neuroscience and music, revealing how our brains process, understand, and respond to musical sounds. Levitin, a former rock musician turned neuroscientist, takes readers on a journey through the neural pathways that ignite when we listen to music, explaining complex brain science in accessible terms. He demonstrates that music isn't just entertainment—it's a fundamental aspect of human cognition that has played a crucial role in our evolution and continues to shape our emotions, memories, and even our social bonds.

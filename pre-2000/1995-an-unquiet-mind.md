@@ -1,5 +1,6 @@
 # An Unquiet Mind
 **Author**: Kay Redfield Jamison | **Year**: 1995
+**Category**: Psychology & Mental Health
 
 ## Summary
 "An Unquiet Mind" is a groundbreaking memoir by Dr. Kay Redfield Jamison, a distinguished professor of psychiatry who reveals her personal struggle with manic-depressive illness (bipolar disorder). Written from the unique perspective of both a clinician and patient, Jamison takes readers behind the locked doors of madness to illuminate the terrifying reality of living with severe mental illness while also acknowledging its strange, seductive allure.

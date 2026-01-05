@@ -1,5 +1,5 @@
 # Snatched: From Drug Queen to Informer to Hostage—A Harrowing True Story
-**Authors**: Bruce Porter | **Year**: 2016
+**Authors**: Bruce Porter | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 This gripping true crime narrative follows Pilar, a beautiful Colombian socialite who rose from privilege to become a major player in international drug trafficking, then transformed into a DEA confidential informant, and ultimately endured a brutal kidnapping by guerrillas. Born into Cali's elite, Pilar's journey from Olympic-caliber swimmer and Braniff Airlines flight attendant to the wife of major cocaine traffickers puts her at the center of the multi-billion dollar drug empire. Her unique access to the Cali cartel's inner circle makes her invaluable to law enforcement as "Operation Princess," but this dangerous double life leads to her capture by Colombian guerrillas who hold her hostage for four months in horrifying conditions.

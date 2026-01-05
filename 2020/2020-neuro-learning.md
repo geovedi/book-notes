@@ -1,5 +1,6 @@
 # Neuro-Learning: Principles from the Science of Learning on Information Synthesis, Comprehension, Retention, and Breaking Down Complex Subjects
 **Authors**: Peter Hollins | **Year**: 2020
+**Category**: Psychology & Mental Health
 
 ## Summary
 

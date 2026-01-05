@@ -1,5 +1,6 @@
 # The Innocence of Father Brown
 **Authors**: G.K. Chesterton | **Year**: 1911
+**Category**: Horror & Thriller
 
 ## Summary
 "The Innocence of Father Brown" introduces one of literature's most unlikely detectives—a short, unassuming Roman Catholic priest whose gentle demeanor and profound understanding of human nature enable him to solve crimes that baffle the world's greatest investigators. Set in early 20th-century England, these twelve mystery stories showcase how Father Brown's unique perspective, rooted in his religious faith and knowledge of human sin, allows him to see truths that others miss.

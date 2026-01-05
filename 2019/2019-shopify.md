@@ -1,5 +1,6 @@
 # Shopify
 **Authors**: Unknown | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Shopify is a comprehensive e-commerce platform that enables entrepreneurs, businesses, and hobbyists to create and manage online stores with ease. The platform provides everything needed to sell products online, from website building and payment processing to inventory management and marketing tools. Shopify makes e-commerce accessible to everyone, regardless of technical skills or business size.

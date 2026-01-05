@@ -1,6 +1,6 @@
 # Everest the Cruel Way
 **Original Title**: Everest the Cruel Way
-**Authors**: Joe Tasker | **Year**: 2013
+**Authors**: Joe Tasker | **Year**: 2013 | **Category**: Health & Medicine
 
 ## Summary
 "Everest the Cruel Way" is Joe Tasker's compelling account of the 1980-81 British Everest Winter Expedition, a daring attempt to climb Mount Everest via its most difficult route—the West Ridge—during the harshest winter conditions and without supplemental oxygen. The book chronicles the journey of eight climbers who pushed the boundaries of human endurance and mountaineering possibility in what remains one of the most ambitious Himalayan expeditions ever attempted.

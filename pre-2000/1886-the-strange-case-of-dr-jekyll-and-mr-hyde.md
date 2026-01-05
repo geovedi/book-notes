@@ -1,5 +1,6 @@
 # The Strange Case of Dr. Jekyll and Mr. Hyde
 **Authors**: Robert Louis Stevenson | **Year**: 1886
+**Category**: Horror & Thriller
 
 ## Summary
 This disturbing Gothic masterpiece tells the story of Dr. Henry Jekyll, a respected London physician who creates a potion that separates his good and evil natures into two distinct beings—the respectable Jekyll and the depraved Edward Hyde. What begins as a scientific curiosity to explore human duality becomes a terrifying descent into madness as Hyde gradually gains control, committing increasingly violent acts including murder. The story unfolds through multiple perspectives—primarily Jekyll's lawyer Gabriel Utterson, who investigates the mysterious connection between the doctor and the monstrous Hyde, culminating in Jekyll's own written confession that reveals the horrifying truth behind the transformation.

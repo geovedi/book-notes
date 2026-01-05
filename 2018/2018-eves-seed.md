@@ -1,5 +1,6 @@
 # Eve's Seed: Biology, the Sexes, and the Course of History
 **Author**: Robert S. McElvaine | **Year**: 2018
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking book reinterprets human history through the lens of biological sex differences and their cultural consequences. McElvaine argues that the invention of agriculture—likely by women—triggered a cascade of social and psychological changes that shaped the course of civilization. The "Conception Misconception" (the belief that males alone create life) led to male envy of women's reproductive power and the systematic devaluation of women and feminine values across history.

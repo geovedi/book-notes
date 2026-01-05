@@ -1,6 +1,7 @@
 # The Zentangle Method
 **Original Title**: Zentangle
 **Authors**: Jane Marbaix | **Year**: 2015
+**Category**: Art & Creativity
 
 ## Summary
 The Zentangle Method is an easy-to-learn, relaxing, and fun way to create beautiful images by drawing structured patterns. Developed by Maria Thomas (a talented lettering artist) and Rick Roberts (who lived as a monk for 17 years), this art form emerged when Rick noticed that Maria entered a calm, focused state while creating her art. They broke down their patterns into simple steps that anyone—artist or not—could follow to create beautiful images through pattern repetition.

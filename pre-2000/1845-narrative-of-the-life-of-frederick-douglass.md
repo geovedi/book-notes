@@ -1,5 +1,6 @@
 # Narrative of the Life of Frederick Douglass
 **Author**: Frederick Douglass | **Year**: 1845
+**Category**: History & Biography
 
 ## Summary
 Frederick Douglass's powerful autobiography chronicles his journey from slavery to freedom, exposing the brutal reality of American slavery through personal experience. Born into slavery in Maryland around 1818, Douglass suffered the horrors of family separation, physical abuse, and dehumanization before his escape to freedom in 1838. The narrative serves as both a compelling personal story and a scathing indictment of the institution of slavery, demonstrating how literacy and education became his path to liberation.

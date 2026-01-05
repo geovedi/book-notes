@@ -1,5 +1,5 @@
 # The Judgment of Paris
-**Author**: Ross King | **Year**: 2006
+**Author**: Ross King | **Year**: 2006 | **Category**: Art & Creativity
 
 ## Summary
 "The Judgment of Paris" tells the dramatic story of the revolutionary decade (1863-1874) that gave birth to Impressionism and transformed Paris from the center of academic art tradition into the birthplace of modern art. Through the compelling rivalry between two artists—the celebrated Ernest Meissonier and the revolutionary Édouard Manet—Ross King reveals how artistic rebellion, social upheaval, and creative vision collided to create one of art history's most significant transformations.

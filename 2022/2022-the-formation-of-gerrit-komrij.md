@@ -1,6 +1,6 @@
 # The Formation of Gerrit Komrij
 **Original Title**: De wording van Gerrit Komrij
-**Author**: Arie Pos | **Year**: 2022
+**Author**: Arie Pos | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 This biographical portrait chronicles the formative years of Gerrit Komrij (1944-2012), one of the Netherlands' most versatile and influential literary figures. Focusing on the decade before his literary breakthrough, the book traces Komrij's journey from a bookish boy in Winterswijk to his emergence as poet, translator, and critic in Amsterdam's literary scene.

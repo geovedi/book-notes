@@ -1,6 +1,7 @@
 # Galileo and the Science Deniers
 **Original Title**: Galileu e os negadores da ciência
 **Author**: Mario Livio | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 Mario Livio, an astrophysicist himself, presents Galileo Galilei not just as the founder of modern astronomy and astrophysics, but as a timeless symbol of the struggle for intellectual freedom. This comprehensive biography reveals how Galileo transformed our understanding of the cosmos and, more importantly, established the scientific method that still guides research today. The book draws compelling parallels between 17th-century science denial and contemporary rejection of scientific evidence, making Galileo's story remarkably relevant to modern debates about climate change, evolution, and the relationship between science and religion.

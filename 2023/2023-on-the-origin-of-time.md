@@ -1,5 +1,6 @@
 # On the Origin of Time
 **Authors**: Thomas Hertog | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 "On the Origin of Time" presents Stephen Hawking's final revolutionary theory about the universe, developed in collaboration with his former student Thomas Hertog. The book chronicles their two-decade intellectual journey that led Hawking to abandon his earlier support for the multiverse and anthropic principle in favor of a more elegant, Darwinian approach to cosmology. At its core, Hawking's final theory proposes that the laws of physics themselves evolved through a process of cosmic natural selection, making the universe inherently biofriendly rather than accidentally so.

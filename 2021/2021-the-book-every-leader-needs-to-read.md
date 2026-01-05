@@ -1,5 +1,6 @@
 # The Book Every Leader Needs to Read
 **Authors**: Colin Iles, Warren Moss, Travis Gale, Thabang Skwambane, Adriaan Groenewald, Deshun Bester, Nyimpini Mabunda, Alistair King, Roze Phillips, Dov Girnun, Jonathan Ayache, Enver Groenewald, Jason Levin, Ian Russell, Lwando Xaso, Adama Sanneh, Richard Mulholland, Veli Ngubane, Dr Alistair Mokoena, Jeanette Marais, Bonang Mohale, Abdullah Verachia, Erik Kruger | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "The Book Every Leader Needs to Read" is a comprehensive collection of leadership insights from over 20 South African business leaders, entrepreneurs, and thought leaders. Each chapter presents a unique perspective on leadership, drawing from personal experiences, failures, and successes across various industries. The book addresses the critical leadership challenges of our time—from navigating crises and building resilient teams to developing purpose-driven organizations that thrive in uncertainty.

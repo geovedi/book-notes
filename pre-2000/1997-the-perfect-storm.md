@@ -1,5 +1,6 @@
 # The Perfect Storm
 **Authors**: Sebastian Junger | **Year**: 1997
+**Category**: History & Biography
 
 ## Summary
 The Perfect Storm recounts the true story of the fishing vessel Andrea Gail, a swordfishing boat that disappeared during a catastrophic storm in October 1991. Sebastian Junger masterfully weaves together the harsh realities of commercial fishing, the personal lives of the crew members, and the meteorological nightmare that created the "perfect storm"—a rare convergence of three separate weather systems that produced waves over 100 feet high.

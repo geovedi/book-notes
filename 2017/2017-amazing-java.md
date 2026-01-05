@@ -1,6 +1,7 @@
 # Amazing Java
 **Original Title**: Amazing Java
 **Authors**: Andrei Besedin | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 "Amazing Java" is a comprehensive beginner-friendly guide to Java programming that takes readers from basic concepts to advanced object-oriented principles. The book uses a practical, hands-on approach with real-world examples, progressing from primitive data types to complex design patterns and a complete hospital management project.

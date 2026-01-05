@@ -1,5 +1,6 @@
 # The Double
 **Original Title**: Двойник (Dvoynik)
+**Category**: Fiction & Literature
 **Author**: Fyodor Dostoevsky | **Year**: 1846
 
 ## Summary

@@ -1,5 +1,5 @@
 # Twilight and Moonbeam Alley
-**Original Authors**: Stefan Zweig | **Year**: 2013
+**Original Authors**: Stefan Zweig | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 "Twilight and Moonbeam Alley" is a haunting psychological novella that follows the dramatic downfall of Madame de Prie, once the most powerful woman at the French court. After being exiled from Paris to her countryside estate in Courbépine, she discovers that her identity and power were entirely dependent on the admiration and attention of others. Unable to bear solitude and the loss of influence, she descends into despair, first attempting to fill the void with a naive local lover, then with extravagant parties that recreate her former court life. Her final act is a calculated suicide designed to shock the world and secure her legacy, only to be met with indifference and obscurity.

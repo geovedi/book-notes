@@ -1,5 +1,5 @@
 # Time Master: Master Your Life
-**Authors**: NKA | **Year**: 2018
+**Authors**: NKA | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Time Master: Master Your Life" is a practical guide to time management that teaches readers how to gain more time through effective strategies and mindset shifts. The book emphasizes that time is precious because it represents our production of successes and directly impacts our quality of life. Rather than just managing time, the focus is on gaining time by working more efficiently and purposefully.

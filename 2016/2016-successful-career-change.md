@@ -1,5 +1,5 @@
 # Successful Career Change
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Successful Career Change" is a comprehensive guide for anyone considering a professional transition, whether you're a recent graduate, a mid-career professional, or someone looking to reinvent themselves later in life. The book provides a practical framework for evaluating your current situation, identifying new opportunities, and executing a successful career pivot.

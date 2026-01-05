@@ -1,5 +1,6 @@
 # Think and Grow Rich
 **Author**: Napoleon Hill | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 "Think and Grow Rich" presents Napoleon Hill's legendary philosophy of personal achievement, based on 25 years of research studying over 500 successful individuals including Andrew Carnegie, Thomas Edison, and Henry Ford. The book reveals 13 proven principles that can transform desires into their physical or monetary equivalent.

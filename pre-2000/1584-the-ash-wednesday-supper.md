@@ -1,6 +1,7 @@
 # The Ash Wednesday Supper
 **Original Title**: Das Aschermittwochsmahl
 **Author**: Giordano Bruno | **Year**: 1584 (German Translation: 1904)
+**Category**: Science & Nature
 
 ## Summary
 "The Ash Wednesday Supper" is Giordano Bruno's revolutionary philosophical dialogue that defends the Copernican heliocentric model while introducing his own radical cosmology of an infinite universe with countless inhabited worlds. Written in 1584 and set during a dinner in London, the work presents Bruno's daring astronomical theories through lively debates between characters, combining scientific insight with sharp social satire and philosophical depth.

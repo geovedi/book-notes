@@ -1,5 +1,6 @@
 # Company of One
 **Author**: Paul Jarvis | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Company of One challenges the traditional business mantra that growth is always good. Jarvis presents a compelling case for staying small by design, arguing that questioning growth—rather than pursuing it blindly—leads to better businesses, happier entrepreneurs, and stronger customer relationships. The book introduces a new paradigm: a "company of one" isn't anti-growth, but rather pro-better, focusing on resilience, autonomy, speed, and simplicity over scale.

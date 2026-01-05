@@ -1,5 +1,5 @@
 # The Decision Book: Fifty Models for Strategic Thinking
-**Authors**: Mikael Krogerus, Roman Tschäppeler, Jenny Piening | **Year**: 2018
+**Authors**: Mikael Krogerus, Roman Tschäppeler, Jenny Piening | **Year**: 2018 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 The Decision Book is a practical toolkit containing 50 decision-making models that help structure thinking and improve strategic choices. Designed for anyone who faces daily decisions—both big and small—this collection of visual frameworks simplifies complex situations into manageable analyses. Each model serves as a thinking tool rather than an answer provider, helping users organize their thoughts and evaluate options more systematically.

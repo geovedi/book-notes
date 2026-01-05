@@ -1,6 +1,7 @@
 # The Cicerone: A Guide to the Enjoyment of Artworks in Italy
 **Original Title**: Der Cicerone : Eine Anleitung zum Genuß der Kunstwerke Italiens
 **Author**: Jacob Burckhardt | **Year**: 1855
+**Category**: Art & Creativity
 
 ## Summary
 Jacob Burckhardt's "The Cicerone" revolutionized how travelers experience Italian art by transforming casual tourism into educated appreciation. Written as a portable guide for the 19th-century traveler, this seminal work systematically organizes Italy's artistic treasures—from ancient Greek temples to Baroque masterpieces—into a comprehensive framework that teaches readers *how* to see art, not just what to look at. Burckhardt approaches art as a living language that speaks across centuries, using architectural evolution, sculptural development, and painting traditions to tell Italy's cultural story through its monuments, museums, and churches.

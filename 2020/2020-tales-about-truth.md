@@ -1,6 +1,7 @@
 # Tales About Truth
 **Original Title**: Eventyr om sandhed
 **Authors**: Hans Christian Andersen | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This collection of three classic Hans Christian Andersen tales explores the nature of truth, perception, and human wisdom through enchanting stories that have captivated readers for generations. From the naked truth of vanity in "The Emperor's New Clothes" to the journey of love conquering cold reason in "The Snow Queen," and the celebration of authentic wisdom over book learning in "Clumsy Hans," these tales reveal how truth often hides in plain sight, waiting for those brave enough to see it.

@@ -1,5 +1,6 @@
 # The Wisdom of Life
 **Original Title**: Aphorismen zur Lebensweisheit
+**Category**: Philosophy & Critical Thinking
 **Author**: Arthur Schopenhauer | **Year**: 1851 
 
 ## Summary

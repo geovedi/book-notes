@@ -1,5 +1,6 @@
 # The Watter's Mou'
 **Original Title**: The Watter's Mou' | **Author**: Bram Stoker | **Year**: 1895
+**Category**: Fiction & Literature
 
 ## Summary
 The Watter's Mou' is a tragic romance set in a Scottish fishing village, where duty and love collide in a storm of moral conflict. William "Sailor Willy" Barrow, a young coastguard stationed at Port Erroll, faces an impossible choice when he discovers that his beloved Maggie MacWhirter's father and brothers are involved in a smuggling operation. As a storm gathers both literally and metaphorically, Willy must choose between his professional duty and his personal loyalties, a decision that leads to devastating consequences for everyone involved.

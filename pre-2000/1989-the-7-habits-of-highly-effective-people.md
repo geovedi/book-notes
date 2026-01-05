@@ -1,5 +1,6 @@
 # The 7 Habits of Highly Effective People
 **Authors**: Stephen R. Covey | **Year**: 1989
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The 7 Habits of Highly Effective People" presents a holistic approach to personal and professional effectiveness through character development and principle-centered living. Covey argues that true effectiveness comes from the inside-out—building character first, then developing skills and behaviors. The book introduces a framework of seven sequential habits that move readers from dependence to independence and finally to interdependence, the highest level of human achievement.

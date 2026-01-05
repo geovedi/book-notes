@@ -1,6 +1,7 @@
 # Michael Kohlhaas
 **Original Title**: Michael Kohlhaas
 **Author**: Heinrich von Kleist | **Year**: 1810
+**Category**: Fiction & Literature
 
 ## Summary
 Set in 16th-century Germany, this novella tells the story of Michael Kohlhaas, a respected horse-dealer who becomes a vigilante rebel after suffering injustice at the hands of a corrupt nobleman. What begins as a simple legal dispute over the mistreatment of two black horses escalates into a full-scale rebellion that threatens the entire region. Kohlhaas transforms from an honest citizen into a notorious outlaw, leading bands of followers in a campaign of fire and destruction against those who denied him justice.

@@ -1,5 +1,5 @@
 # The Dark Side of the Publishing Industry: The Biggest Scams in Self-Publishing
-**Authors**: Samuel River | **Year**: 2016
+**Authors**: Samuel River | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This explosive exposé reveals the hidden scams and systemic corruption within the modern self-publishing industry, particularly targeting Amazon's monopolistic practices. River, a prolific author with 230+ books, documents his decade-long battle against publishing giants who manipulate sales rankings, steal royalties, and suppress independent voices. The book serves as both a personal memoir and an industry investigation, demonstrating how less than 0.1% of authors can actually make a living from writing due to systemic barriers and market manipulation.

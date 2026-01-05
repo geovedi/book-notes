@@ -1,5 +1,5 @@
 # Losing My Virginity
-**Authors**: Richard Branson | **Year**: 2011
+**Authors**: Richard Branson | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 Richard Branson's autobiography chronicles his extraordinary journey from dyslexic school dropout to billionaire entrepreneur, building the Virgin empire from a student magazine into a global brand spanning 200+ companies. This isn't just a business memoir—it's a masterclass in entrepreneurial thinking, risk-taking, and creating a distinctive brand culture that challenges conventions while delivering fun, customer-focused experiences.

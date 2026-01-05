@@ -1,6 +1,6 @@
 # Rise of the Rocket Girls
 **Original Title**: Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars
-**Authors**: Nathalia Holt | **Year**: 2016
+**Authors**: Nathalia Holt | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "Rise of the Rocket Girls" tells the fascinating untold story of the brilliant women mathematicians who formed the computational backbone of NASA's Jet Propulsion Laboratory (JPL) from the 1940s through the Space Race era. These "human computers" performed complex mathematical calculations by hand that enabled America's first satellite launches, planetary explorations, and ultimately the moon landing. The book follows pioneers like Macie Roberts, Barbara Paulson, Helen Ling, and Sue Finley as they evolved from human calculators to becoming some of the first computer programmers and female engineers in rocket science.

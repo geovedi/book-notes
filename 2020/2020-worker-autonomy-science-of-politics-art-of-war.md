@@ -1,6 +1,7 @@
 # Worker Autonomy: Science of Politics, Art of War
 **Original Title**: Autonomia Operaia: Scienza della politica, arte della guerra, dal '68 ai movimenti globali
 **Author**: Emilio Quadrelli | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Worker Autonomy" chronicles the explosive rise and fall of Italy's most radical worker movement from 1960-1984, a period when Italian factories and streets became the primary laboratory for revolutionary politics in the Western world. This comprehensive analysis traces how ordinary workers, through spontaneous and organized resistance, challenged both capitalist exploitation and traditional communist orthodoxy by demanding direct power rather than representation.

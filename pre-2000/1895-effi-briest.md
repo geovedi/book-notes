@@ -1,5 +1,6 @@
 # Effi Briest
 **Authors**: Theodor Fontane | **Year**: 1895
+**Category**: Fiction & Literature
 
 ## Summary
 Effi Briest is a tragic realist novel that follows the life of seventeen-year-old Effi von Briest, who enters into an arranged marriage with Baron von Innstetten, a much older district councillor. The story explores themes of societal convention, passion versus duty, and the devastating consequences of rigid social codes in 19th-century German aristocracy.

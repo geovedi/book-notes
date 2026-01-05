@@ -1,5 +1,5 @@
 # The Princess Diarist
-**Author**: Carrie Fisher | **Year**: 2016
+**Author**: Carrie Fisher | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 Carrie Fisher's intimate memoir reveals what happened behind the scenes of the original Star Wars film, combining her adult reflections with recently discovered diary entries from 1976. At nineteen, Fisher was cast as Princess Leia while navigating her first major film role, her famous Hollywood heritage, and a secret affair with her married co-star Harrison Ford. The book captures the collision between her private insecurities and her public transformation into a cultural icon, offering both the raw immediacy of her teenage diaries and the wisdom of forty years of perspective.

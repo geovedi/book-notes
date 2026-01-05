@@ -1,5 +1,5 @@
 # The Selfish Gene
-**Authors**: Richard Dawkins | **Year**: 2006 (Revised Edition)
+**Authors**: Richard Dawkins | **Year**: 2006 (Revised Edition) | **Category**: Science & Nature
 
 ## Summary
 "The Selfish Gene" revolutionizes our understanding of evolution by shifting the focus from individual organisms to genes as the fundamental units of natural selection. Dawkins argues that humans and all other living creatures are merely "survival machines" – robot vehicles blindly programmed to preserve the selfish molecules known as genes. This gene-centered view of evolution provides profound insights into altruism, aggression, family dynamics, and even human culture.

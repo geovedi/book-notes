@@ -1,5 +1,6 @@
 # Burmese Days
 **Authors**: George Orwell | **Year**: 1934
+**Category**: Fiction & Literature
 
 ## Summary
 "Burmese Days" is George Orwell's first novel, a devastating critique of British colonialism in 1920s Burma. Set in the remote district of Kyauktada, the story exposes the moral corruption, racial prejudice, and spiritual emptiness of the British ruling class through the tragic tale of John Flory, a timber merchant trapped between two worlds.

@@ -1,5 +1,5 @@
 # The Bookseller of Kabul
-**Authors**: Åsne Seierstad | **Year**: 2004
+**Authors**: Åsne Seierstad | **Year**: 2004 | **Category**: History & Biography
 
 ## Summary
 The Bookseller of Kabul is a compelling work of narrative journalism that follows Sultan Khan, a bookseller in Afghanistan who fights to preserve his country's cultural heritage through decades of political turmoil. Norwegian journalist Åsne Seierstad lived with Sultan's family for four months in 2002, gaining unprecedented access to the intimate dynamics of a traditional Afghan household navigating life after the fall of the Taliban.

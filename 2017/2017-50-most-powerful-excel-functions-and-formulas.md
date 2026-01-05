@@ -1,5 +1,6 @@
 # 50 Most Powerful Excel Functions and Formulas
 **Authors**: Andrei Besedin | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 This practical guide demystifies Excel's most essential functions and formulas, transforming complex calculations into simple, repeatable processes. The book covers 50 functions across seven categories: basic calculations, lookup functions, logical operations, mathematical functions, text manipulation, statistical analysis, and advanced tools. Each function is explained with real-world examples, step-by-step instructions, and practical applications for business and personal use.

@@ -1,6 +1,6 @@
 # The Juniper Tree and Other Tales
 **Original Title**: Die Kinder- und Hausmärchen (Children's and Household Tales)
-**Authors**: Jacob Grimm, Wilhelm Grimm | **Year**: 2011 (Translation), Original: 1812-1857
+**Authors**: Jacob Grimm, Wilhelm Grimm | **Year**: 2011 (Translation), Original: 1812-1857 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 This collection brings together some of the Brothers Grimm's most powerful and unsettling fairy tales, showcasing the raw, often dark nature of 19th-century German folklore. Unlike the sanitized Disney versions we know today, these stories retain their original edge—featuring murder, cannibalism, child abandonment, and brutal justice alongside magic, transformation, and eventual redemption. The title tale, "The Juniper Tree," epitomizes the collection's approach: a haunting story of familial betrayal, supernatural justice, and rebirth that has captivated and disturbed readers for generations.

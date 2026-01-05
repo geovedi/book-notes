@@ -1,5 +1,6 @@
 # 2019 Hydroponics Beginners Gardening Guide
 **Authors**: Simon Hamilton | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 Hydroponics is a revolutionary soil-free growing system that can produce up to 6 times more crops than traditional farming while using only one-third of the water. This comprehensive beginner's guide transforms readers from complete novices to confident hydroponic gardeners by explaining the science behind water-based plant cultivation and providing practical steps for building five different system types.

@@ -1,5 +1,6 @@
 # The Little Book of Motivation
 **Authors**: Seren James | **Year**: 2020
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Little Book of Motivation" is a compact collection of motivational quotes and practical advice designed to be a quick reference guide for anyone needing encouragement and guidance. The book serves as a pocket-sized companion that can be used personally or shared with others who need a boost of inspiration. It's structured around bite-sized wisdom from various historical figures, philosophers, and everyday people, making it accessible and immediately useful for readers facing challenges or seeking direction.

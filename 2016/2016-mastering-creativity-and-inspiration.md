@@ -1,5 +1,5 @@
 # Mastering Creativity and Inspiration
-**Authors**: Damon Lundqvist | **Year**: 2016
+**Authors**: Damon Lundqvist | **Year**: 2016 | **Category**: Art & Creativity
 
 ## Summary
 This practical guide reveals that creativity isn't a mysterious gift reserved for artists and innovators—it's an innate capacity everyone possesses. The book dismantles common myths about creative genius, showing how inspiration flows constantly and we can choose to tap into it at will. Through practical techniques and psychological insights, readers learn how to overcome creative blocks, find inspiration in everyday life, and harness their creative potential for both personal fulfillment and problem-solving.

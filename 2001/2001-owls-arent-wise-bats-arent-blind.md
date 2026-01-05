@@ -1,5 +1,5 @@
 # Owls Aren't Wise & Bats Aren't Blind
-**Authors**: Warner Shedd, Trudy Nicholson | **Year**: 2001
+**Authors**: Warner Shedd, Trudy Nicholson | **Year**: 2001 | **Category**: Science & Nature
 
 ## Summary
 Owls Aren't Wise & Bats Aren't Blind is a captivating naturalist's guide that systematically debunks our most cherished wildlife misconceptions. Written by Warner Shedd, a seasoned naturalist and former executive for the National Wildlife Federation, this book uses personal anecdotes, scientific research, and firsthand observations to reveal the surprising truth about North American wildlife. Shedd's approach combines the warmth of storytelling with the rigor of scientific inquiry, making complex biological concepts accessible and entertaining.

@@ -1,6 +1,6 @@
 # Don't Be Silent and Don't Shout: The Art of Negotiating with Those You Love
 **Original Title**: Не молчи и не кричи. Искусство договариваться с тем, кого любишь
-**Authors**: Matthew McKay, Patrick Fanning, Kim Paleg | **Year**: 2006
+**Authors**: Matthew McKay, Patrick Fanning, Kim Paleg | **Year**: 2006 | **Category**: Romance & Relationships
 
 ## Summary
 "Couple Skills" is a comprehensive relationship guide that teaches practical communication techniques for building stronger, more fulfilling partnerships. The book's core premise is that successful relationships aren't based on luck or passion, but on learnable skills that help couples navigate conflicts, express needs, and maintain intimacy. Unlike theoretical relationship books, this hands-on guide focuses on actionable exercises and real-world applications that couples can implement immediately to transform their communication patterns.

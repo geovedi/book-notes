@@ -1,5 +1,5 @@
 # The Spirit of Success
-**Authors**: Norman Drummond | **Year**: 2013
+**Authors**: Norman Drummond | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Spirit of Success" is a transformative guide to connecting your head to your heart in work and life. Norman Drummond, drawing from his experience as a BBC Governor, Church of Scotland Minister, and leadership coach, presents a powerful framework for discovering authentic success beyond material achievements. The book challenges readers to look inward, understand their roots, and build a life based on fundamental values of integrity, responsibility, and humanity.

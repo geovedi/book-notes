@@ -1,6 +1,7 @@
 # The Rubáiyát of Omar Khayyám
 **Original Title**: رباعیات عمر خیام (Rubáiyát-e Omar Khayyám)
 **Author**: Omar Khayyám | **Translator**: Edward FitzGerald | **Year**: 1859 (translation)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 The Rubáiyát is a collection of Persian quatrains (four-line poems) that blend poetic beauty with profound philosophical questioning about life, death, and destiny. Written by the 11th-12th century Persian mathematician, astronomer, and poet Omar Khayyám, these verses challenge religious dogma and celebrate the present moment through the metaphor of wine and conviviality.

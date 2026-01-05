@@ -1,5 +1,6 @@
 # The Pioneers
 **Authors**: James Fenimore Cooper | **Year**: 1823
+**Category**: Fiction & Literature
 
 ## Summary
 "The Pioneers" is a foundational American novel that explores the tension between civilization and wilderness in the early American frontier. Set in 1793 in fictional Templeton, New York (based on Cooper's hometown of Cooperstown), the story follows Judge Marmaduke Temple, a wealthy landowner who establishes a settlement in the wilderness, bringing together a diverse cast of characters representing different aspects of American society. The novel beautifully captures the transformation of the American frontier from pristine wilderness to settled civilization, documenting both the progress and the loss that accompanies this change.

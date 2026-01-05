@@ -1,6 +1,7 @@
 # Ship Behind the Figurehead: On the Work of J. Slauerhoff (1898-1936)
 **Original Title**: Schip achter het boegbeeld. Over het werk van J. Slauerhoff (1898-1936)
 **Author**: Herman van den Bergh | **Year**: 1958
+**Category**: Art & Creativity
 
 ## Summary
 This critical work offers a comprehensive analysis of Dutch poet J. Slauerhoff's literary output, examining both his poetry and prose through a personal, unsentimental lens. Van den Bergh provides a deeply researched yet subjective assessment of one of the Netherlands' most enigmatic 20th-century writers, whose work was characterized by exotic themes, maritime imagery, and profound alienation from modern society.

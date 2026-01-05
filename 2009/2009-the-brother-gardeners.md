@@ -1,5 +1,6 @@
 # The Brother Gardeners
 **Authors**: Andrea Wulf | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "The Brother Gardeners" tells the fascinating story of how a small group of 18th-century botanists, gardeners, and plant enthusiasts transformed England from a gardening backwater into the world's horticultural leader. The book centers on the collaborative relationships between English and American botanists, particularly the correspondence between London cloth merchant Peter Collinson and Pennsylvania farmer John Bartram, whose plant exchange revolutionized English gardens and helped launch the British Empire's botanical dominance.

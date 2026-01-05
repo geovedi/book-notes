@@ -1,5 +1,6 @@
 # Emotional Intelligence
 **Author**: Daniel Goleman | **Year**: 1995
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Emotional Intelligence" revolutionizes our understanding of what it means to be smart by arguing that our ability to understand and manage emotions—our EQ—may matter more than our IQ in determining life success. Goleman reveals how the brain's emotional architecture works, why we experience "emotional hijackings" when feelings overwhelm rationality, and how five core emotional competencies can transform our personal and professional lives.

@@ -1,5 +1,6 @@
 # Generative AI with Amazon Bedrock
 **Authors**: Shikhar Kwatra, Bunny Kaushik | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "Generative AI with Amazon Bedrock" is a comprehensive technical guide that empowers developers and organizations to build, scale, and secure generative AI applications using Amazon's fully managed AI service. The book takes readers on a journey from foundational concepts to advanced implementation patterns, covering everything from model selection and prompt engineering to customizing models, implementing RAG (Retrieval Augmented Generation), and ensuring enterprise-grade security.

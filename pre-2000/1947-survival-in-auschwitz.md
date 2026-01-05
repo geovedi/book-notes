@@ -1,5 +1,6 @@
 # Survival In Auschwitz
 **Author**: Primo Levi | **Year**: 1947
+**Category**: History & Biography
 
 ## Summary
 Primo Levi's haunting memoir chronicles his eleven-month imprisonment in Auschwitz concentration camp after being captured as a member of the Italian resistance movement. A 24-year-old Jewish chemist when deported, Levi bears witness to the systematic destruction of human dignity and the daily struggle for survival in Nazi Germany's most notorious death camp. The book functions as both personal testimony and philosophical examination of how humanity responds when stripped to its barest essentials.

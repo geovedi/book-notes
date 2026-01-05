@@ -1,5 +1,6 @@
 # The $100 Startup
 **Author**: Chris Guillebeau | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "The $100 Startup" presents a revolutionary blueprint for creating microbusinesses that blend passion with profit, requiring minimal startup capital while delivering maximum freedom. Based on a comprehensive study of over 1,500 successful entrepreneurs, Guillebeau demonstrates that anyone can build a thriving business by finding the convergence between what they love to do and what other people are willing to pay for. The book challenges traditional notions about entrepreneurship, proving that you don't need VC funding, business school degrees, or massive risk to create a sustainable independent career.

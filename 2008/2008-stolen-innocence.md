@@ -1,5 +1,6 @@
 # Stolen Innocence
 **Authors**: Elissa Wall, Lisa Pulitzer | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 "Stolen Innocence" is a harrowing memoir that chronicles Elissa Wall's upbringing in the Fundamentalist Latter-Day Saints (FLDS) polygamous sect, her forced marriage at age 14 to her first cousin, and her courageous journey to break free from Warren Jeffs' control. The book provides an unprecedented inside look into the secretive world of religious extremism, where young girls are systematically deprived of education, autonomy, and basic human rights under the guise of divine prophecy.

@@ -1,5 +1,6 @@
 # Girl, Interrupted
 **Author**: Susanna Kaysen | **Year**: 1994
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Girl, Interrupted" is a haunting memoir that chronicles 18-year-old Susanna Kaysen's two-year stay at McLean psychiatric hospital in the late 1960s after a brief consultation with a doctor she'd never met resulted in her immediate institutionalization. The book offers a blisteringly honest, often darkly funny account of life inside a mental institution, where she was diagnosed with borderline personality disorder.

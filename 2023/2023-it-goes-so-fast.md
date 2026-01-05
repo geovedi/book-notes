@@ -1,5 +1,6 @@
 # It. Goes. So. Fast.
 **Author**: Mary Louise Kelly | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Mary Louise Kelly, NPR journalist and mother of two teenage sons, chronicles her oldest son James's senior year of high school—a pivotal transition marking the end of an era for their family. Written during the COVID-19 pandemic and the year she turned fifty, the book interweaves intimate family moments with her demanding career covering international news, including the war in Ukraine. Kelly candidly explores the tension between professional ambition and parental presence, the universal experience of watching children grow up too quickly, and the profound realization that time with our loved ones is finite.

@@ -1,5 +1,6 @@
 # Man's Search for Meaning
 **Authors**: Viktor E. Frankl | **Year**: 1996 (original 1946)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Viktor Frankl's profound memoir combines his harrowing experiences as a Holocaust survivor with his groundbreaking psychological theory called logotherapy. As a psychiatrist imprisoned in Nazi concentration camps, Frankl observed that those who found meaning in their suffering—rather than those who were physically strongest—were most likely to survive. He argues that the primary human drive is not pleasure but meaning, and that we retain the freedom to choose our attitude toward any circumstance.

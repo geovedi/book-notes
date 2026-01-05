@@ -1,6 +1,7 @@
 # A Tale Without a Name
 **Original Title**: A Tale Without a Name
 **Authors**: Penelope S. Delta | **Year**: 1911
+**Category**: Fiction & Literature
 
 ## Summary
 In the once-prosperous Kingdom of the Fatalists, young Prince Prudentius inherits a realm fallen into decay and poverty under his foolish father, King Witless. The Prince, disillusioned by his people's greed and cowardice, meets the allegorical figure Knowledge, who teaches him that true leadership means staying and working to save one's homeland rather than abandoning it in despair.

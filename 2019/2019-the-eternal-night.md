@@ -1,5 +1,6 @@
 # The Eternal Night
 **Authors**: Rachel Morgan | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In a world of fae, vampires, and shifters, "The Eternal Night" continues the story of Elle Winter, a human bound by a slave charm to her cruel stepmother. After disappearing from a royal ball under mysterious circumstances, Elle finds herself imprisoned by vampires while the fae Prince Dex searches desperately to find her. The story unfolds as a complex web of political intrigue, magical manipulation, and forbidden romance in a society where humans are second-class citizens enslaved by magical beings.

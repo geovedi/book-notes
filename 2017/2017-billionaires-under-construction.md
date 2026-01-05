@@ -1,5 +1,6 @@
 # Billionaires Under Construction
 **Authors**: Sbusiso "DJ Sbu" Leope | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Billionaires Under Construction" is a practical entrepreneurship guide that frames success as a continuous journey rather than a destination. DJ Sbu Leope shares his personal story of building multiple businesses, including the energy drink brand MoFaya, while overcoming setbacks like being fired from radio stations and facing public criticism. The book presents entrepreneurship as a mindset available to anyone willing to develop resilience, flexibility, and an unshakeable belief in their vision.

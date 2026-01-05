@@ -1,5 +1,6 @@
 # Nathaniel's Nutmeg
 **Author**: Giles Milton | **Year**: 1999
+**Category**: History & Biography
 
 ## Summary
 This gripping historical narrative reveals how the tiny island of Run—just two miles long and half a mile wide—became the unlikely prize in a century-long struggle between European powers for control of the lucrative spice trade. At the heart of the story is Nathaniel Courthope, an English adventurer who defended Run against overwhelming Dutch forces in the early 17th century, ultimately leading to one of history's most ironic real estate swaps: the English trading Run for Manhattan.

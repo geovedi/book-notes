@@ -1,5 +1,6 @@
 # How (Not) to Do It All
 **Authors**: Dr Emma Short | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 This book introduces Lifestyle Medicine as an approach to preventing disease and improving wellbeing through six key pillars. Dr Emma Short, a consultant histopathologist with a PhD in cancer genetics, combines medical expertise with qualifications in personal training, meditation, and nutritional therapy to present a holistic framework called ENERGISETM. The book argues that up to 50% of cancers and 80% of heart disease could be prevented through lifestyle changes, challenging the conventional medical focus on treatment over prevention.

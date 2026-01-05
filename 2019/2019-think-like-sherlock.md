@@ -1,5 +1,6 @@
 # Think Like Sherlock
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think Like Sherlock" is a practical guide to developing the legendary detective's problem-solving mindset and analytical techniques. While acknowledging that we can't all match Sherlock Holmes' superhuman intellect, the book breaks down his core methodologies into learnable skills that anyone can apply to everyday challenges. Hollins demonstrates that Holmes' genius wasn't just innate talent but rather the disciplined application of observation, critical thinking, and creative problem-solving techniques.

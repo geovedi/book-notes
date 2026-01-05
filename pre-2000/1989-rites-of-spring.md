@@ -1,5 +1,6 @@
 # 1989-Rites of Spring
 **Author**: Modris Eksteins | **Year**: 1989
+**Category**: History & Biography
 
 ## Summary
 "Rites of Spring" argues that World War I was the pivotal event that birthed modern consciousness, transforming how we understand art, life, and reality. Eksteins frames the war within a broader cultural revolution, using the scandalous 1913 premiere of Stravinsky's ballet "The Rite of Spring" as a metaphor for the violent rebirth of modern sensibility. The book traces how Germany's pursuit of spiritual transformation through war, and the Western response, created the modern world's obsession with emancipation, inner experience, and the aestheticization of life itself.

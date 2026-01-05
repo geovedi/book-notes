@@ -1,5 +1,6 @@
 # The Complete d'Artagnan Novels
 **Authors**: Alexandre Dumas | **Year**: 1844-1850
+**Category**: Fiction & Literature
 
 ## Summary
 This magnificent collection encompasses six novels that chronicle the adventures of d'Artagnan and the Three Musketeers across decades of French history. Beginning with d'Artagnan's arrival in Paris as a young, ambitious Gascon, the series follows his journey from aspiring musketeer to loyal friend, soldier, and eventually marshal of France. Through political intrigue, epic battles, conspiracies, and personal betrayals, these novels explore themes of honor, friendship, loyalty, and the clash between personal ideals and political reality.

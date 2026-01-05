@@ -1,5 +1,5 @@
 # Killing Lincoln: The Shocking Assassination that Changed America Forever
-**Authors**: Bill O'Reilly, Martin Dugard | **Year**: 2011
+**Authors**: Bill O'Reilly, Martin Dugard | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 "Killing Lincoln" is a gripping historical narrative that chronicles the final days of the Civil War and the shocking assassination of Abraham Lincoln. The book masterfully weaves together multiple storylines: Lincoln's hopeful vision for reunification as the war winds down, Robert E. Lee's desperate retreat with his starving Confederate army, Ulysses S. Grant's relentless pursuit, and John Wilkes Booth's transformation from Confederate sympathizer to assassin. Set against the backdrop of a nation transitioning from war to peace, the narrative builds tension through alternating perspectives that converge on that fateful Good Friday at Ford's Theatre.

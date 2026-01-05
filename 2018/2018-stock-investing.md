@@ -1,5 +1,5 @@
 # Stock Investing: 3-Book Bundle Guide
-**Authors**: Alvin Williams | **Year**: 2018
+**Authors**: Alvin Williams | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive bundle combines three essential guides for beginners: "Investing for Beginners," "Stock Investing for Beginners," and "Stock Market Investing." Williams provides a practical roadmap for anyone looking to build wealth through smart investing, focusing on real strategies rather than get-rich-quick schemes. The book demystifies complex financial concepts while offering 70+ actionable lessons and common pitfalls to avoid.

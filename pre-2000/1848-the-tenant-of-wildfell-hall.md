@@ -1,5 +1,6 @@
 # The Tenant of Wildfell Hall
 **Original Title**: The Tenant of Wildfell Hall
+**Category**: Fiction & Literature
 **Author**: Anne Brontë | **Year**: 1848
 
 ## Summary

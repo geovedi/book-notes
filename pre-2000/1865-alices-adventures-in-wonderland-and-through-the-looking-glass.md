@@ -1,5 +1,6 @@
 # Alice's Adventures in Wonderland & Through the Looking-Glass
 **Authors**: Lewis Carroll | **Year**: 1865-1872
+**Category**: Children & Young Adult
 
 ## Summary
 Alice's Adventures in Wonderland tells the story of a young girl who falls down a rabbit hole into a fantastical world populated by peculiar creatures. Followed by Through the Looking-Glass, where Alice steps through a mirror into another strange realm, these tales explore themes of logic, identity, growing up, and the absurdity of adult rules through imaginative adventures that challenge conventional thinking.

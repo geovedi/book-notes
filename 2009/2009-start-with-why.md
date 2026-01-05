@@ -1,5 +1,6 @@
 # Start with Why
 **Authors**: Simon Sinek | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 "Start with Why" reveals that the most influential leaders and organizations in the world all think, act, and communicate in the exact same way—and it's the opposite of what everyone else does. Simon Sinek's Golden Circle framework shows how great leaders inspire action by starting with a clear purpose (WHY), then showing how they'll achieve it (HOW), and finally what they'll deliver (WHAT).

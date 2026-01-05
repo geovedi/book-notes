@@ -1,5 +1,6 @@
 # Paradise Lost and Paradise Regained
 **Authors**: John Milton | **Year**: 1667
+**Category**: Fiction & Literature
 
 ## Summary
 John Milton's epic poems form a masterful exploration of free will, obedience, temptation, and redemption. "Paradise Lost" narrates the biblical story of Adam and Eve's fall from grace, framed by Satan's rebellion against God and subsequent temptation of humanity in Eden. The poem delves deep into the nature of evil, the consequences of disobedience, and the complex psychology of its characters. "Paradise Regained" serves as a powerful counterpart, depicting Christ's temptation in the desert as the redemptive answer to humanity's fall.

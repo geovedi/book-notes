@@ -1,5 +1,6 @@
 # The Right Stuff
 **Author**: Tom Wolfe | **Year**: 1979
+**Category**: History & Biography
 
 ## Summary
 "The Right Stuff" reveals the secret psychological code that separates elite test pilots and astronauts from ordinary mortals. Wolfe uncovers why these men were not just willing, but *delighted* to sit atop enormous rockets with 23% mortality rates, facing death weekly as a routine part of their profession. Through unprecedented access to this closed brotherhood, Wolfe exposes "the right stuff" – an unnamable, indivisible quality combining supreme skill, unshakeable confidence, and almost religious devotion to pushing human limits.

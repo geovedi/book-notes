@@ -1,5 +1,5 @@
 # Why Balloons Rise and Apples Fall
-**Authors**: Jeff Stewart | **Year**: 2011
+**Authors**: Jeff Stewart | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 This engaging physics book demystifies the fundamental laws that govern our universe, from the grand cosmic scale of the Big Bang to the everyday phenomena of floating balloons and falling apples. Written in an accessible, conversational style, it transforms complex physics concepts into understandable principles through vivid examples, thought experiments, and real-world applications. The book covers motion, energy, momentum, matter, relativity, and quantum physics, making these subjects approachable for readers without scientific backgrounds.

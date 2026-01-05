@@ -1,5 +1,6 @@
 # The Stop Overthinking Activity Book
 **Authors**: Nick Trenton | **Year**: 2025
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Stop Overthinking Activity Book" is a practical guide containing 75 quick, standalone exercises designed to help readers manage anxiety, worry, and overthinking in just 10 minutes a day. The book is organized into five sections: Mindfulness and Breathing, Creative Expression and Presence, Practical Strategies for Life Management, Self-Care Practices, and Inspirational Mindsets. Each exercise serves as an immediate tool for mental wellbeing, requiring only a journal, pen, and few minutes of quiet time.

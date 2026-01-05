@@ -1,5 +1,6 @@
 # Core Leadership and Management Skills
 **Authors**: Neil Hoechlin | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive handbook serves as both a guide for first-time managers and a resource for experienced leaders seeking to enhance their effectiveness. The book addresses the critical gap that exists when organizations promote individuals to managerial positions without proper training, leaving them to navigate the complexities of leadership on their own.

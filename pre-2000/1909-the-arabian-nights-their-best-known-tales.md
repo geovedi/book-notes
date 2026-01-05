@@ -1,6 +1,7 @@
 # The Arabian Nights: Their Best-Known Tales
 **Original Title**: One Thousand and One Nights (ألف ليلة وليلة)
 **Authors**: Multiple (Traditional Arabic/Persian folklore) | **Year**: 1909 (this edition)
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Arabian Nights: Their Best-Known Tales" is a curated collection of ten legendary stories from the medieval Middle Eastern masterpiece "One Thousand and One Nights." While this edition doesn't include the famous frame story of Scheherazade telling tales to save her life, it presents the most beloved adventures that have captivated readers for centuries. Set against the glittering backdrop of Baghdad, Persia, China, and magical lands, these tales transport readers to a world of flying carpets, genies, hidden treasures, and extraordinary heroes.

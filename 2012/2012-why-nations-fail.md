@@ -1,5 +1,6 @@
 # Why Nations Fail
 **Authors**: Daron Acemoglu, James A. Robinson | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "Why Nations Fail" presents a groundbreaking theory that explains why some nations are wealthy while others remain trapped in poverty. The authors argue that neither geography, culture, nor ignorance determine a nation's economic destiny—rather, it's the quality of their institutions that matters. The book demonstrates through extensive historical evidence that nations with inclusive political and economic institutions create shared prosperity, while those with extractive institutions concentrate wealth and power in the hands of few, leading to persistent poverty. Political power distribution, institutional evolution, and historical critical junctures determine whether a society develops inclusive or extractive institutions. The book is essential for anyone seeking to understand global inequality, economic development, or how societies can break free from poverty cycles.

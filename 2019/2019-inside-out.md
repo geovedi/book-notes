@@ -1,5 +1,6 @@
 # Inside Out
 **Author**: Demi Moore | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 Demi Moore's raw, unflinching memoir chronicles her journey from a traumatic childhood marked by poverty, abuse, and neglect to becoming Hollywood's highest-paid actress, followed by a devastating fall from grace and ultimate path to healing. The book is divided into three powerful sections: Survival (her troubled upbringing and early struggles), Success (her rise to stardom and high-profile relationships), and Surrender (the collapse of her life and her journey toward recovery).

@@ -1,5 +1,6 @@
 # Bury My Heart at Wounded Knee
 **Authors**: Dee Brown | **Year**: 2007 (Original 1970)
+**Category**: History & Biography
 
 ## Summary
 "Bury My Heart at Wounded Knee" is a groundbreaking historical narrative that tells the story of American West expansion from the Native American perspective. Rather than celebrating westward expansion as a tale of manifest destiny and progress, Brown exposes the systematic betrayal, violence, and cultural destruction perpetrated against Indigenous peoples between 1860-1890. Through extensive research using Native American voices, treaty records, and first-hand accounts, the book reveals how the United States government broke countless treaties, forced entire tribes onto barren reservations, and ultimately destroyed centuries of Native American culture and civilization.

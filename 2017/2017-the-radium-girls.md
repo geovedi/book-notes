@@ -1,5 +1,6 @@
 # The Radium Girls
 **Author**: Kate Moore | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 This is the shocking true story of America's "shining women" - the young female factory workers who painted watch dials with luminous radium paint in the 1910s and 1920s. These women were told radium was harmless, even beneficial, as they ingested the toxic substance daily through lip-pointing their brushes. They glowed like ghosts at night, proud of their prestigious jobs, until their bodies began to systematically break down from the inside out.

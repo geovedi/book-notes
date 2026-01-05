@@ -1,5 +1,5 @@
 # Fingerprinting the Iron Age: Approaches to Identity in the European Iron Age
-**Editors**: Catalin Nicolae Popa, Simon Stoddart | **Year**: 2014
+**Editors**: Catalin Nicolae Popa, Simon Stoddart | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking academic volume challenges traditional approaches to studying identity in Iron Age Europe, bringing together 24 scholarly essays from a 2011 Cambridge conference. The collection bridges a major gap between Western and Southeastern European archaeology, examining how ancient communities constructed their identities through material culture, burial practices, and landscape organization. The book argues against rigid ethnic categorizations and instead reveals Iron Age identity as fluid, dynamic, and constantly negotiated through daily practices and material expressions.

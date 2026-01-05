@@ -1,6 +1,7 @@
 # Confidence
 **Original Title**: Confidenza
 **Author**: Domenico Starnone | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 "Confidenza" (Confidence) is a masterful psychological novel that explores the dangerous power of secrets and the way we construct our identities through the stories we tell about ourselves. The book consists of three interconnected narratives, each told from a different perspective, revealing how the same events can be remembered, interpreted, and given meaning in radically different ways. At its center is Pietro Vella, a high school literature teacher and intellectual, whose past relationship with a former student continues to reverberate through the present, affecting his family and his legacy.

@@ -1,5 +1,6 @@
 # Improve Your Conversations: Think on Your Feet, Witty Banter, and Always Know What To Say with Improv Comedy Techniques
 **Authors**: Patrick King | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 This book reveals how the principles of improv comedy can transform your everyday conversations from awkward exchanges into flowing, engaging dialogues. Patrick King demonstrates that great conversations aren't about having perfect scripts or witty comebacks prepared—they're about embracing spontaneity, collaboration, and adaptability.

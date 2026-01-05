@@ -1,5 +1,5 @@
 # Physics of the Future
-**Author**: Michio Kaku | **Year**: 2011
+**Author**: Michio Kaku | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 In "Physics of the Future," renowned theoretical physicist Michio Kaku presents an authoritative glimpse into life in the year 2100, based on extensive interviews with over 300 pioneering scientists. Kaku argues that we can predict the future with unprecedented accuracy because we now understand the fundamental laws of nature that govern technological development. Unlike past futurists who speculated without scientific foundation, Kaku's predictions are grounded in existing prototypes and proven physics principles.

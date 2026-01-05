@@ -1,5 +1,5 @@
 # The Six Wives of Henry VIII
-**Authors**: Alison Weir | **Year**: 2000
+**Authors**: Alison Weir | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 Alison Weir's meticulously researched biography brings to life the six women who married England's most notorious king, revealing them as complex individuals rather than mere footnotes to Henry VIII's reign. Through extensive primary source research, Weir reconstructs their personalities, motivations, and the dramatic circumstances that led to their marriages and, in most cases, their tragic ends. The book challenges centuries of historical narrative that has reduced these women to stereotypes—whether the saintly first wife, the seductive second, or the foolish fifth.

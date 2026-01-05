@@ -1,5 +1,5 @@
 # The Psychopath Test: A Journey Through the Madness Industry
-**Author**: Jon Ronson | **Year**: 2011
+**Author**: Jon Ronson | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 Jon Ronson's investigation into the "madness industry" began with a mysterious book sent to academics and evolved into a fascinating exploration of how society defines, diagnoses, and profits from mental illness. The book reveals that the line between sanity and madness is blurrier than we imagine, and that those tasked with identifying madness may sometimes be driven by their own obsessions. Ronson meets psychologists, patients, corporate executives, and even Scientologists to discover that mental health diagnosis has become an industry - and sometimes a trap.

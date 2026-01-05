@@ -1,5 +1,6 @@
 # Quantum: Einstein, Bohr and the Great Debate About the Nature of Reality
 **Authors**: Manjit Kumar | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 "Quantum" tells the dramatic story of the scientific revolution that fundamentally changed our understanding of reality. The book centers on the decades-long debate between Albert Einstein and Niels Bohr over the philosophical implications of quantum mechanics, a clash between two of the greatest scientific minds in history. What began as Max Planck's reluctant discovery of the quantum in 1900 evolved into a revolutionary theory that would challenge our most basic assumptions about cause, effect, and the nature of existence itself.

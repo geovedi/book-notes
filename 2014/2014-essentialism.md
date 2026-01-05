@@ -1,5 +1,5 @@
 # Essentialism: The Disciplined Pursuit of Less
-**Author**: Greg McKeown | **Year**: 2014
+**Author**: Greg McKeown | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Essentialism presents a systematic discipline for discerning what is absolutely essential, then eliminating everything that is not. The core philosophy is "less but better" — instead of trying to do everything, we must deliberately choose to focus our energy on the vital few things that truly matter. McKeown argues that our world suffers from too many choices, too much social pressure, and the dangerous myth that "you can have it all," leading to overwhelmed lives where we make millimeter progress in a million directions.

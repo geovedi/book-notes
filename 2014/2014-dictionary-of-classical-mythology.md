@@ -1,5 +1,5 @@
 # Dictionary of Classical Mythology
-**Authors**: Jennifer R. March, Neil Barrett (illustrator) | **Year**: 2014
+**Authors**: Jennifer R. March, Neil Barrett (illustrator) | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 

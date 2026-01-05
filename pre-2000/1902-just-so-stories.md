@@ -1,5 +1,6 @@
 # Just So Stories
 **Authors**: Rudyard Kipling | **Year**: 1902
+**Category**: Children & Young Adult
 
 ## Summary
 *Just So Stories* is a delightful collection of 12 whimsical origin stories that explain how various animals came to have their distinctive features. Written in Kipling's characteristic playful style and addressed to his "Best Beloved" (his daughter), these tales blend fantasy, folklore, and childhood curiosity into enchanting narratives that have captivated readers for over a century.

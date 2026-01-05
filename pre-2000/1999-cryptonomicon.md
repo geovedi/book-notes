@@ -1,5 +1,6 @@
 # Cryptonomicon
 **Author**: Neal Stephenson | **Year**: 1999
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Cryptonomicon weaves together two parallel timelines—World War II and the late 1990s—through the interconnected stories of cryptography, war, and the birth of the digital age. In the 1940s, mathematical genius Lawrence Waterhouse and Marine Bobby Shaftoe work on Allied code-breaking operations while hunting for Nazi gold in the Pacific. Decades later, Waterhouse's grandson Randy Waterhouse, a cybersecurity expert, attempts to create a data haven in the Philippines and uncovers the same gold his grandfather helped hide.

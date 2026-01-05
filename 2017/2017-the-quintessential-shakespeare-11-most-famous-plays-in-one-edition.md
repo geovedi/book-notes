@@ -1,5 +1,6 @@
 # The Quintessential Shakespeare: 11 Most Famous Plays in One Edition
 **Authors**: William Shakespeare | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together eleven of Shakespeare's most celebrated and influential plays, showcasing the Bard's extraordinary range across tragedies, comedies, and romances. From the psychological depths of *Hamlet* and the star-crossed passion of *Romeo and Juliet* to the political intrigue of *Julius Caesar* and the magical enchantment of *A Midsummer Night's Dream*, this anthology captures Shakespeare's profound insights into human nature, love, power, and mortality.

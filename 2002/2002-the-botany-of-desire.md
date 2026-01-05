@@ -1,5 +1,5 @@
 # The Botany of Desire
-**Authors**: Michael Pollan | **Year**: 2002
+**Authors**: Michael Pollan | **Year**: 2002 | **Category**: Science & Nature
 
 ## Summary
 Michael Pollan reverses our perspective on the relationship between humans and plants by examining how four specific plants have evolved to satisfy human desires, thereby ensuring their own survival and proliferation. Through the stories of the apple (sweetness), tulip (beauty), marijuana (intoxication), and potato (control), Pollan reveals that we are not just domesticating plants—they are also domesticating us. This brilliant co-evolutionary dance shows how plants have shaped human culture, consciousness, and even our biology by appealing to our fundamental desires.

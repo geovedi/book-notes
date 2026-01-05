@@ -1,5 +1,6 @@
 # Realising the Power of You
 **Authors**: Ted CBT | **Year**: 2020
+**Category**: Psychology & Mental Health
 
 ## Summary
 This book explores the fundamental paradox of human relationships: we want to love, but something seems to stop us. Through a unique blend of neuroscience, psychology, and personal philosophy, the author argues that the key to fulfilling relationships lies not in changing ourselves, but in "realising the power of You" – embracing our innate perfection and understanding our developmental journey from birth to adulthood.

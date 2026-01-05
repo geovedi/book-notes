@@ -1,5 +1,6 @@
 # Burnout: The Secret to Unlocking the Stress Cycle
 **Authors**: Emily Nagoski, Amelia Nagoski | **Year**: 2019
+**Category**: Health & Medicine
 
 ## Summary
 This groundbreaking book redefines burnout not as a personal failure, but as a systemic condition that disproportionately affects women through "Human Giver Syndrome" — the expectation that women must give their time, attention, and emotional labor while suppressing their own needs. The Nagoski sisters reveal that burnout's core is emotional exhaustion, and provide evidence-based strategies for completing the stress response cycle, a process separate from dealing with stressors themselves.

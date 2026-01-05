@@ -1,5 +1,6 @@
 # Letters and Lettering: A Treatise with 200 Examples
 **Authors**: Frank Chouteau Brown | **Year**: 1921
+**Category**: Art & Creativity
 
 ## Summary
 This comprehensive treatise on lettering serves as both a historical survey and practical guide to the art of beautiful lettering. Brown presents 200 carefully selected examples spanning Roman capitals, modern Roman letters, Gothic forms, and italic script, providing artists, designers, and craftsmen with a rich reference for creating distinctive lettering. The book bridges historical tradition with modern application, showing how classic letter forms can be adapted for contemporary use in architecture, graphic design, and decorative arts.

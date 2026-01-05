@@ -1,5 +1,6 @@
 # The Communist Manifesto
 **Original Title**: Manifest der Kommunistischen Partei
+**Category**: Philosophy & Critical Thinking
 **Authors**: Karl Marx, Friedrich Engels | **Year**: 1848
 
 ## Summary

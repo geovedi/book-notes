@@ -1,6 +1,7 @@
 # Four Faces in the Mirror: Achieving Inner Balance of Masculine and Feminine Energy
 **Original Title**: Four Faces in the Mirror
 **Author**: Vito Hemphill | **Year**: 2025
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Four Faces in the Mirror" presents a transformative framework for understanding and balancing the four fundamental archetypes within every human: positive masculine, negative masculine, positive feminine, and negative feminine. Dr. Vito Hemphill, drawing from decades of clinical practice as a chiropractor and healer, reveals how our inner balance between masculine and feminine energies directly shapes our relationships, health, and life manifestations. The book teaches readers to become conscious observers of their own patterns, heal emotional wounds, and achieve a state of Grace where masculine action and feminine intuition work in perfect harmony.

@@ -1,5 +1,5 @@
 # All That You Need to Know About Google Keep for Increasing Productivity
-**Authors**: Koushik K | **Year**: 2018
+**Authors**: Koushik K | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 Google Keep is a powerful note-taking service developed by Google that goes beyond simple note-taking to become a comprehensive productivity tool. Available across web, Android, iOS, and Chrome platforms, it offers seamless synchronization, making your notes accessible 24/7 from any device with an internet connection. The app combines traditional note-taking with advanced features like voice recording, image text recognition, reminders, collaboration tools, and customizable organization systems using colors, labels, and hashtags.

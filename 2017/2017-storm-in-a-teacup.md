@@ -1,5 +1,6 @@
 # Storm in a Teacup
 **Author**: Helen Czerski | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Storm in a Teacup" reveals how the physics of everyday objects—popcorn, coffee stains, and raw eggs—contains the same fundamental principles that govern rockets, ocean currents, and space telescopes. Czerski transforms mundane phenomena into windows through which we can understand the universe, making physics accessible as both a practical toolbox and a delightful toybox for curiosity.

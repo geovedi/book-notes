@@ -1,6 +1,7 @@
 # Charlotte Brontë and Contagion
 **Original Title**: Charlotte Brontë and Contagion: Myths, Memes, and the Politics of Infection
 **Author**: Jo Waugh | **Year**: 2024
+**Category**: Fiction & Literature
 
 ## Summary
 "Charlotte Brontë and Contagion" reveals how the celebrated Victorian novelist was deeply engaged with 19th-century debates about disease transmission, challenging the long-standing "Brontë myth" that presents her as an isolated, exceptional genius immune to the medical and social concerns of her time. Waugh demonstrates that Brontë's novels consistently explore the tensions between vulnerability and immunity, connection and isolation, and the social implications of disease transmission.

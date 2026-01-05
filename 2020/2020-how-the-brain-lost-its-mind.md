@@ -1,5 +1,6 @@
 # How the Brain Lost Its Mind
 **Authors**: Allan H. Ropper, Brian David Burrell | **Year**: 2020
+**Category**: Health & Medicine
 
 ## Summary
 This book tells the fascinating story of how neurology and psychiatry diverged into separate medical disciplines, using the contrasting cases of neurosyphilis (a brain disease) and hysteria (a mind disorder) as a framework. Through historical accounts from the 19th century to modern times, the authors explore how our understanding of mental illness has evolved from purely psychological explanations to include biological brain-based causes.

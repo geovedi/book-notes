@@ -1,6 +1,7 @@
 # Woman, Lady, Harlot: Cultural and Moral History of German Women
 **Original Title**: Weib, Dame, Dirne: Kultur- und Sittengeschichte der Deutschen Frau
 **Authors**: Johannes Scherr | **Year**: 1928 (Original: 1860)
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking work traces the evolution of German women from ancient Germanic tribes through the medieval period to modern times, examining their cultural, social, and moral transformation across three distinct historical eras. Scherr presents a comprehensive chronicle of how German women transitioned from revered prophetesses and warriors to medieval nobility, and finally to modern emancipated figures. The work combines rigorous historical analysis with vivid anecdotes and portraits of remarkable women throughout German history.

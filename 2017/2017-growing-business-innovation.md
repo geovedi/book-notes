@@ -1,5 +1,6 @@
 # Growing Business Innovation
 **Authors**: Jonathan Reuvid (Editor) | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide tackles the complete innovation journey from initial idea generation to commercial success. The book serves as both a strategic roadmap and tactical handbook for businesses seeking to develop, protect, and profit from their intellectual property. Written by 30+ experts from legal, academic, and business backgrounds, it provides practical guidance across four critical areas: preparing for innovation, understanding intellectual property, leveraging innovation aids, and strategic monetization approaches.

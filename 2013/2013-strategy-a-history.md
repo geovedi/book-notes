@@ -1,5 +1,5 @@
 # Strategy: A History
-**Author**: Lawrence Freedman | **Year**: 2013
+**Author**: Lawrence Freedman | **Year**: 2013 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Strategy: A History is a sweeping intellectual journey through the evolution of strategic thinking from its biological and cultural origins to its modern applications in warfare, politics, and business. Freedman argues that strategy is fundamentally about "the art of creating power" – getting more out of a situation than the starting balance of power would suggest. The book traces how strategy has transformed from the art of warfare to become the essential approach for organizations and individuals navigating uncertainty and conflict.

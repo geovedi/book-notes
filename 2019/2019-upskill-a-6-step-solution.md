@@ -1,5 +1,6 @@
 # Upskill: A 6-Step Solution to Unlock Economic Opportunity
 **Authors**: Laurent Probst & Christian Scharff | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Upskill" presents a practical 6-step framework to address one of the most critical challenges of our time: the growing skills gap in the digital age. With nearly 47% of jobs at risk of automation and millions of skilled positions going unfilled, the authors argue that traditional approaches to workforce development are failing. This book provides a comprehensive roadmap for governments, corporations, and workers to collaborate in building sustainable upskilling ecosystems that ensure economic opportunity for all.

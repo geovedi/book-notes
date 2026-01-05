@@ -1,5 +1,6 @@
 # Crashed: How a Decade of Financial Crises Changed the World
 **Author**: Adam Tooze | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Crashed" fundamentally reshapes our understanding of the 2008 financial crisis, arguing it was not merely an American crisis but the first truly global crisis of our interconnected age. Tooze reveals that while the crisis began in America's housing market, its devastating impact was felt worldwide through an intricate web of global financial interdependence—particularly the North Atlantic banking system's insatiable hunger for dollars. The book traces how this crisis exposed the fragility of global finance, accelerated the shift of economic power to Asia (especially China), and ultimately set the stage for the geopolitical disruptions and political backlash that followed, including Brexit and the rise of Trump.

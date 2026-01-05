@@ -1,5 +1,5 @@
 # The Great Scientists
-**Authors**: John Farndon, Alex Woolf, Anne Rooney, Liz Gogerly | **Year**: 2005
+**Authors**: John Farndon, Alex Woolf, Anne Rooney, Liz Gogerly | **Year**: 2005 | **Category**: Science & Nature
 
 ## Summary
 "The Great Scientists" is a comprehensive journey through 2,300 years of scientific discovery, profiling 43 of history's most influential scientists from ancient Greece to the modern era. The book reveals how scientific thinking evolved from mythological explanations to evidence-based understanding, showcasing the remarkable individuals who revolutionized human knowledge.

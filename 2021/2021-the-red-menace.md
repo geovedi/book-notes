@@ -1,5 +1,6 @@
 # The Red Menace
 **Author**: Ilise S. Carter | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 "The Red Menace" explores how lipstick evolved from a controversial cosmetic associated with sex workers and deception to an emblem of female empowerment, political rebellion, and cultural identity in America. Carter traces this transformation through twelve chapters, each examining a different era of American history and revealing how this small tube of colored wax reflected and influenced the nation's changing attitudes toward women, race, class, sexuality, and power.

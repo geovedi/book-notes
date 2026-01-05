@@ -1,5 +1,5 @@
 # The Wal-Mart Effect
-**Authors**: Charles Fishman | **Year**: 2006
+**Authors**: Charles Fishman | **Year**: 2006 | **Category**: Business & Finance
 
 ## Summary
 "The Wal-Mart Effect" reveals how Walmart's obsession with low prices has transformed not just retail, but the entire global economy. Fishman demonstrates that Walmart's reach extends far beyond store shelves, reshaping manufacturing, wages, communities, and even our expectations as consumers. The book exposes both the visible benefits (everyday low prices) and hidden costs (job losses, supplier pressure, compromised quality) of Walmart's business model. Through compelling stories and meticulous research, Fishman shows how Walmart has become the world's most powerful company, touching virtually every American's life daily, whether they shop there or not.

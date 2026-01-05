@@ -1,5 +1,5 @@
 # The Edge of the World
-**Author**: Michael Pye | **Year**: 2014
+**Author**: Michael Pye | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 "The Edge of the World" reveals how the North Sea—far from being a dark and isolated fringe—was actually a vibrant hub of innovation that transformed European culture. Pye challenges the traditional view of the "Dark Ages," arguing instead for a "long morning" when the peoples around the North Sea were inventing the foundations of modern life through constant connection, trade, and exchange across the water.

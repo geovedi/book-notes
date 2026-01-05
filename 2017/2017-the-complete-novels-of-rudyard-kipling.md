@@ -1,5 +1,6 @@
 # The Complete Novels of Rudyard Kipling (Illustrated Edition)
 **Authors**: Rudyard Kipling | **Year**: 2017 (Collection) | **Original Publication**: 1890-1899
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together five of Rudyard Kipling's most significant novels: "The Light That Failed," "Captain Courageous," "Kim," "The Naulahka," and "Stalky & Co." Written during the height of the British Empire, these works showcase Kipling's masterful storytelling, deep understanding of human nature, and unparalleled ability to capture the spirit of adventure and cultural complexity of his time.

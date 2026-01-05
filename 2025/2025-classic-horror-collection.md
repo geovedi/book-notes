@@ -1,6 +1,7 @@
 # 2025 Classic Horror Collection
 **Original Title**: Classic Horror Collection
 **Authors**: Henry James, Washington Irving, H. G. Wells, Edgar Allan Poe, W. W. Jacobs | **Year**: 2025
+**Category**: Horror & Thriller
 
 ## Summary
 This chilling anthology gathers five masterpieces of horror literature that have haunted readers for generations. From the psychological terror of Poe's "The Tell-Tale Heart" to the gothic romance of Irving's "The Legend of Sleepy Hollow," each story explores different facets of fear that continue to resonate with modern audiences.

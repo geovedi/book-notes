@@ -1,5 +1,5 @@
 # Your Brain Is Playing Tricks on You
-**Authors**: Albert Moukheiber | **Year**: 2022
+**Authors**: Albert Moukheiber | **Year**: 2022 | **Category**: Psychology & Mental Health
 
 ## Summary
 This book reveals how our brain constructs reality through cognitive shortcuts and biases that often lead us astray. Moukheiber, a cognitive psychologist, demonstrates that our perception is inherently biased, our memory is reconstructive rather than photographic, and our decision-making is far less rational than we believe. The brain isn't flawed—it's operating efficiently through heuristics that help us navigate a complex world, but these mechanisms come at the cost of accuracy.

@@ -1,5 +1,6 @@
 # Stay Sexy & Don't Get Murdered
 **Authors**: Karen Kilgariff, Georgia Hardstark | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Stay Sexy & Don't Get Murdered" is a practical, humorous, and brutally honest self-help guide from the hosts of the true crime podcast "My Favorite Murder." Through personal stories, cautionary tales, and hard-won wisdom, Kilgariff and Hardstark share lessons learned from their own struggles with addiction, trauma, terrible relationships, and personal growth. The book combines dark humor with genuine advice on self-care, setting boundaries, avoiding dangerous situations (both literal and metaphorical), and building authentic connections.

@@ -1,5 +1,6 @@
 # F*ck You, I'm Irish: Why We Irish Are Awesome
 **Authors**: Rashers Tierney | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 This riotous celebration of Irish heritage debunks stereotypes while showcasing the remarkable contributions and resilient spirit of the Irish people. From their pivotal role in building America to their legendary literary traditions, the Irish have influenced global culture far beyond what they're typically credited for. The book serves as a proud, unapologetic declaration of Irish awesomeness, blending historical facts with humorous observations about Celtic character, culture, and achievements.

@@ -1,5 +1,5 @@
 # The Ultimate Guide to Counseling, Coaching and Mentoring
-**Authors**: Aiden Sisko | **Year**: 2015
+**Authors**: Aiden Sisko | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive handbook reveals how effective leadership hinges on three interconnected roles: coaching, mentoring, and counseling. The core premise is that your team members are the vessels that will carry your company to success, making their growth and development your primary responsibility. The book argues that others around you are what will get you to the place of success you envision, and investing in their professional and personal development is the fastest path to organizational success.

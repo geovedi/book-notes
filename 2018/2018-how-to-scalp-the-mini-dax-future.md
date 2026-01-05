@@ -1,6 +1,7 @@
 # How to Scalp the Mini DAX Future
 
 **Authors**: Heikin Ashi Trader | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide introduces traders to scalping the Mini DAX Future using the Heikin Ashi charting technique. The author presents a counter-trend approach that capitalizes on Newton's third law of action and reaction in financial markets. Rather than predicting market movements, the method waits for clear trends to develop and then trades the expected counter-movements (corrections) that naturally follow.

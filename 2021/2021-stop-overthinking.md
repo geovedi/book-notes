@@ -1,5 +1,6 @@
 # Stop Overthinking
 **Authors**: Nick Trenton | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Stop Overthinking" is a practical guide that offers 23 techniques to break free from the cycle of excessive worrying and rumination. The book presents overthinking not as a character flaw, but as a treatable pattern rooted in anxiety that can be managed through awareness, strategic thinking, and consistent practice.

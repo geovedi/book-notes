@@ -1,5 +1,6 @@
 # Poems Without Poets: Approaches to Anonymous Ancient Poetry
 **Authors**: Boris Kayachev (Editor), Alexander E. W. Hall, Jane Lightfoot, Robert Maltby, T. E. Franklinos, Michael Tueller, Hannah Čulík-Baird, Patrick Finglass, Mikhail Shumilin, Stephen Heyworth, Matthew Hosty, Richard Hunter | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 Poems Without Poets explores the fascinating world of anonymous ancient poetry, examining how poems without known authors have been transmitted, collected, and interpreted throughout history. The book challenges conventional assumptions about authorship and demonstrates that anonymity in ancient poetry is not merely a gap in our knowledge but a complex historical condition that shapes how texts are understood and valued.

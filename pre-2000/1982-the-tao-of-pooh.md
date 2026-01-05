@@ -1,5 +1,6 @@
 # The Tao of Pooh
 **Authors**: Benjamin Hoff | **Year**: 1982
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Tao of Pooh" is a charming introduction to Taoist philosophy that uses Winnie-the-Pooh characters to explain ancient Eastern wisdom. Benjamin Hoff demonstrates how Pooh's simple, natural approach to life embodies the Taoist principles of "effortless action" (Wu Wei) and living in harmony with one's true nature. The book contrasts Pooh's uncomplicated wisdom with the anxious intellectualism of Rabbit, the pretentious knowledge of Owl, and the persistent negativity of Eeyore, showing how Taoism values simplicity over complexity and natural being over forced doing.

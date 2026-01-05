@@ -1,5 +1,6 @@
 # Sea People: The Puzzle of Polynesia
 **Author**: Christina Thompson | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 Sea People tells the remarkable story of how the Polynesian triangle - covering Hawaii, New Zealand, and Easter Island - was discovered, settled, and eventually understood by Western science. Thompson weaves together Captain Cook's voyages, Polynesian oral traditions, anthropological discoveries, and modern DNA evidence to reveal one of humanity's greatest exploration achievements.

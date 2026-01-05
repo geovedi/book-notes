@@ -1,6 +1,6 @@
 # The Taoist Canon: A Historical Companion to the Daozang
 
-**Authors**: Kristofer Schipper, Franciscus Verellen | **Year**: 2004
+**Authors**: Kristofer Schipper, Franciscus Verellen | **Year**: 2004 | **Category**: Spirituality & Religion
 
 ## Summary
 This monumental three-volume scholarly work provides the first comprehensive historical guide to the Daozang (Taoist Canon), the vast collection of approximately 1,500 texts that form the foundation of Taoist religious, philosophical, and practical traditions. Compiled under imperial auspices throughout Chinese history, the Daozang represents not just a library but the evolving corporate identity of Taoism within Chinese civilization. The book serves as both a classified bibliography and a historical narrative, organizing the canon's contents according to chronological periods and typological categories that reveal how Taoism developed and defined itself over two millennia.

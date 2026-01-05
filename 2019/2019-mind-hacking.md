@@ -1,5 +1,6 @@
 # Mind Hacking
 **Authors**: Jennifer Ferguson | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 Mind Hacking is a practical guide to rewiring your brain to stop overthinking, create better habits, and achieve your life goals. The book explains how our modern technology-driven society has created information overload that leads to stress, anxiety, and diminished attention spans. Jennifer Ferguson presents a step-by-step approach to taking control of your thought patterns by understanding the science behind emotions, behavior, and neuroplasticity—the brain's remarkable ability to change and adapt.

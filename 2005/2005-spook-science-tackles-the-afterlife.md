@@ -1,5 +1,5 @@
 # Spook: Science Tackles the Afterlife
-**Author**: Mary Roach | **Year**: 2005
+**Author**: Mary Roach | **Year**: 2005 | **Category**: Science & Nature
 
 ## Summary
 Mary Roach takes readers on a hilarious, eye-opening journey through scientific attempts to prove or disprove the existence of life after death. From reincarnation research in India to ectoplasm examinations in Victorian séance rooms, from soul-weighing experiments to modern university mediumship studies, Roach approaches each paranormal claim with both open-minded curiosity and scientific skepticism. She travels the world meeting researchers, mediums, and scientists who are desperately trying to find evidence of what happens when we die.

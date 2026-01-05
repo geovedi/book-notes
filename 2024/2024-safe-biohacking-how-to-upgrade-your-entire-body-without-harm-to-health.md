@@ -1,6 +1,7 @@
 # Safe Biohacking: How to Upgrade Your Entire Body Without Harm to Health
 **Original Title**: Безопасный биохакинг. Как прокачать весь организм без вреда для здоровья
-**Author**: Kirill Sergeevich Masliev | **Year**: 2024 
+**Author**: Kirill Sergeevich Masliev | **Year**: 2024
+**Category**: Health & Medicine 
 
 ## Summary
 "Safe Biohacking" is a comprehensive guide that demystifies the biohacking movement and provides evidence-based strategies for optimizing health and longevity without dangerous extremes. Dr. Masliev, a physician with over 20 years of experience, argues against the aggressive pharmaceutical approach to biohacking that promises immediate results but long-term damage. Instead, he advocates for a systematic, scientific approach to health optimization based on regular diagnostics, proper nutrition, physical activity, and mental wellness.

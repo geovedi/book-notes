@@ -1,5 +1,6 @@
 # Anatomy of the Cat
 **Authors**: Jacob Reighard, H. S. Jennings | **Year**: 2019 (Enriched Edition)
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive anatomical textbook provides a detailed examination of the cat's physical structure, from skeletal framework through muscular systems to practical dissection techniques. Originally serving as a foundational reference for veterinary students and biologists, this enriched edition incorporates contemporary commentary while preserving the original meticulous anatomical observations.

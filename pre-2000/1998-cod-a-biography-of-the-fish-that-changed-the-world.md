@@ -1,5 +1,6 @@
 # Cod: A Biography of the Fish That Changed the World
 **Authors**: Mark Kurlansky | **Year**: 1998
+**Category**: History & Biography
 
 ## Summary
 Mark Kurlansky reveals how a seemingly ordinary fish shaped human civilization for over a thousand years. Cod wasn't just food—it was the engine of exploration, the catalyst for revolutions, and the foundation of economies that spanned continents. From Viking voyages to modern environmental crises, this unassuming white fish driven by its seemingly endless abundance and remarkable versatility when preserved, became the invisible force behind major historical transformations.

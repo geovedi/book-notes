@@ -1,5 +1,6 @@
 # I'm a Stranger Here Myself
 **Author**: Bill Bryson | **Year**: 1999
+**Category**: Fiction & Literature
 
 ## Summary
 A hilarious collection of 70 essays chronicling Bill Bryson's return to America after living in Britain for twenty years. What begins as culture shock gradually transforms into a warm, bemused appreciation of American eccentricities, efficiencies, and absurdities. Bryson approaches everyday American life—with its abundance of convenience food, complicated bureaucracy, friendly service, and puzzling habits—with the fresh eyes of someone who's both native and foreign.

@@ -1,5 +1,6 @@
 # Is Mars Habitable?
 **Authors**: Alfred Russel Wallace | **Year**: 1907
+**Category**: Science & Nature
 
 ## Summary
 This landmark scientific critique dismantles Percival Lowell's controversial theory that Mars is inhabited by intelligent beings who constructed a planet-wide system of irrigation canals. Wallace, co-discoverer of evolution by natural selection, systematically examines the physical conditions on Mars and demonstrates through multiple independent lines of evidence that the planet is absolutely uninhabitable. Written as a response to Lowell's popular works claiming Martian civilization, this book represents one of the earliest examples of scientific skepticism applied to extraterrestrial life claims, using rigorous physics, chemistry, and planetary science to refute what had become public fascination with Martian "canals."

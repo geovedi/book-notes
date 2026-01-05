@@ -1,5 +1,6 @@
 # The Last Egyptian
 **Authors**: L. Frank Baum | **Year**: 1908
+**Category**: Fiction & Literature
 
 ## Summary
 "The Last Egyptian" tells the story of Kara, a young man of royal Egyptian descent who claims to be the last living heir to the ancient pharaohs. Living in poverty with his grandmother Hatatcha near the Nile, Kara encounters Gerald Winston, an English Egyptologist and amateur archaeologist who becomes fascinated by Kara's claims of royal lineage and hidden treasures. The narrative unfolds as a complex web of romance, revenge, and ancient Egyptian mysteries.

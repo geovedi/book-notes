@@ -1,5 +1,6 @@
 # Forex Trading: A Practical Guide to Scalping Success
 **Authors**: Heikin Ashi Trader | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 

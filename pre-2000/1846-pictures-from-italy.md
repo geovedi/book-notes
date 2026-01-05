@@ -1,5 +1,6 @@
 # Pictures from Italy
 **Original Title**: Pictures from Italy
+**Category**: Fiction & Literature
 **Authors**: Charles Dickens | **Year**: 1846
 
 ## Summary

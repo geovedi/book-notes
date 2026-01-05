@@ -1,5 +1,6 @@
 # Digital E-Commerce Strategy
 **Authors**: Raghu Ramasubbu | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Digital e-Commerce Strategy" is a comprehensive guide that walks entrepreneurs through the entire process of building and scaling a successful online business. The book covers everything from niche selection and product sourcing to platform choice, marketing strategies, and performance optimization. It provides practical frameworks and actionable insights for both beginners transitioning from brick-and-mortar to digital and those starting entirely new e-commerce ventures.

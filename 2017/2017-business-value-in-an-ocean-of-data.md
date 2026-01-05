@@ -1,5 +1,6 @@
 # Business Value in an Ocean of Data
 **Authors**: Bulcsú Fajszi, László Cser, Tamás Fehér | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 "Business Value in an Ocean of Data" is a comprehensive guide that transforms complex data mining concepts into practical business applications. The book approaches data mining from a user perspective, emphasizing that the true value lies not in the algorithms themselves, but in their ability to drive business decisions and create competitive advantages. The authors argue that while organizations are drowning in data, they're starving for real knowledge - and data mining provides the tools to extract those "golden nuggets" of information.

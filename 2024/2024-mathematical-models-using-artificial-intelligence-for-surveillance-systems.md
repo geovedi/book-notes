@@ -1,6 +1,7 @@
 # Mathematical Models Using Artificial Intelligence for Surveillance Systems
 
 **Edited by**: Padmesh Tripathi, Mritunjay Rai, Nitendra Kumar, Santosh Kumar | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 

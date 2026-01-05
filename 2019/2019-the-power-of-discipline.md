@@ -1,5 +1,6 @@
 # The Power of Discipline
 **Original Title**: THE POWER OF DISCIPLINE | **Authors**: Raimon Samsó | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Power of Discipline" presents self-discipline not as rigid self-control, but as a trainable muscle that becomes stronger through consistent practice. Raimon Samsó reveals that true discipline stems from self-love and passion, not force or obligation. The book combines spiritual principles with practical strategies, showing how discipline creates an automatic path to success when aligned with meaning and purpose.

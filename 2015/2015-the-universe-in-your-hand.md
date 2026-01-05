@@ -1,5 +1,6 @@
 # The Universe in Your Hand
 **Author**: Christophe Galfard | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "The Universe in Your Hand" is an extraordinary journey through modern physics and cosmology that transforms complex scientific concepts into accessible, mind-expanding experiences. Using imaginative thought experiments, Galfard takes readers on a voyage from the death of our Sun to the quantum realm and beyond, making cutting-edge physics understandable without overwhelming technical details. The book's unique approach uses only one equation (E=mc²) while guiding readers through everything from Newton's gravity to Einstein's relativity, quantum mechanics, and the frontiers of theoretical physics.

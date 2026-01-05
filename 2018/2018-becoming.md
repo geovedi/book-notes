@@ -1,5 +1,5 @@
 # Becoming
-**Author**: Michelle Obama | **Year**: 2018
+**Author**: Michelle Obama | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 Michelle Obama's memoir chronicles her remarkable journey from the South Side of Chicago to the White House, divided into three powerful sections: "Becoming Me" traces her childhood and education; "Becoming Us" details her relationship with Barack Obama and their early years together; and "Becoming More" explores her transformation into First Lady and finding her voice on the world stage. This is ultimately a story about identity, growth, and the ongoing process of becoming your fullest self.

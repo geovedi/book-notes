@@ -1,5 +1,6 @@
 # Within the Tides
 **Authors**: Joseph Conrad | **Year**: 1915
+**Category**: Fiction & Literature
 
 ## Summary
 "Within the Tides" is a masterful collection of four novellas by Joseph Conrad, each exploring the psychological depths of human nature against exotic maritime backdrops. The stories traverse the complex territories of love, betrayal, honor, and the collision between European sensibilities and remote colonial realities. Conrad demonstrates his signature mastery of psychological drama and moral ambiguity, presenting characters who face profound tests of character in isolated settings where conventional morality becomes fluid and survival demands difficult choices.

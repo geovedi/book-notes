@@ -1,6 +1,6 @@
 # The Civilization of the Italian Renaissance
 **Original Title**: The Civilization of the Italian Renaissance: A Sourcebook
-**Authors**: Kenneth R. Bartlett (Editor) | **Year**: 2011
+**Authors**: Kenneth R. Bartlett (Editor) | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 This comprehensive sourcebook presents primary documents that illuminate the Italian Renaissance through the voices of those who lived it. Rather than offering modern interpretations, the collection lets readers experience the period directly through letters, treaties, literature, legal documents, and personal writings from the 14th through 16th centuries. The book traces the development from medieval Italy through the flourishing of Renaissance humanism, art, and intellectual life, culminating in the late Renaissance period.

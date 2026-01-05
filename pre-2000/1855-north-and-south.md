@@ -1,5 +1,6 @@
 # North and South
 **Authors**: Elizabeth Cleghorn Gaskell | **Year**: 1855
+**Category**: Fiction & Literature
 
 ## Summary
 Margaret Hale's comfortable life in the rural South of England is shattered when her father, a clergyman, leaves the Church of England due to a crisis of conscience. The family relocates to the industrial Northern town of Milton, where Margaret confronts the stark realities of Victorian industrialization. She initially clashes with John Thornton, a proud mill owner, over class differences and labor disputes, but gradually comes to understand both sides of the growing conflict between workers and employers. As Margaret navigates personal tragedies and family secrets, she develops a deeper understanding of social justice and finds unexpected love.

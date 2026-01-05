@@ -2,6 +2,7 @@
 **Original Title**: Alquimia Consciencial
 **Authors**: Hélio Couto | **Year**: 2018
 **Original Language**: Portuguese
+**Category**: Spirituality & Religion
 
 ## Summary
 "Conscious Alchemy" reveals how the ancient practice of alchemy represents a profound psychological and spiritual transformation process. Hélio Couto explains that alchemy isn't about turning lead into gold—it's about transforming human consciousness by dissolving the ego and unifying with the Universal Self. The book maps out the twelve stages of alchemical transformation, showing how these ancient procedures parallel modern psychological concepts discovered by Carl Jung.

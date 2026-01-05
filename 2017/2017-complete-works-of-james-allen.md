@@ -1,5 +1,6 @@
 # Complete Works of James Allen
 **Authors**: James Allen | **Year**: 2017 (Collection)
+**Category**: Self-Help & Personal Development
 
 ## Summary
 James Allen's Complete Works is a comprehensive collection of the philosophical writings that launched the modern self-help movement. This compilation brings together his most influential works, including "As a Man Thinketh," which has inspired millions since its publication in 1903. Allen's core message is revolutionary: our thoughts are the fundamental creative force that shapes our character, circumstances, and destiny.

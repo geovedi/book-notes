@@ -1,6 +1,7 @@
 # The Story of Ali Cogia, Merchant of Bagdad
 **Original Title**: The Story of Ali Cogia, Merchant of Bagdad
 **Authors**: From One Thousand and One Nights, Translated by Andrew Lang | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 A merchant named Ali Cogia entrusts his friend with a jar containing a thousand gold pieces hidden beneath olives before embarking on a seven-year pilgrimage to Mecca. When he returns, he discovers his treasure stolen and his friend denying any knowledge of the gold. After failed attempts at justice through the local courts, Ali Cogia appeals directly to Caliph Haroun-al-Raschid. The case takes an unexpected turn when the Caliph, disguised as a commoner, witnesses children playing a reenactment of the trial, where a child delivers brilliant justice by exposing the merchant's lie through simple logic about fresh versus seven-year-old olives.

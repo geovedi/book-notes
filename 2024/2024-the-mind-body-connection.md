@@ -2,6 +2,7 @@
 **Understanding Psychosomatic Wellness**
 
 **Authors**: Molly Holloway | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 The Mind-Body Connection explores the fascinating field of psychosomatic medicine, revealing how our thoughts, emotions, and mental states profoundly impact physical health and overall wellness. The book bridges the gap between traditional medicine and holistic healing approaches, presenting scientific evidence that supports the inseparable connection between mind and body.

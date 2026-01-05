@@ -1,5 +1,6 @@
 # A Hidden Economy
 **Authors**: Maria Bargh | **Year**: 2015
+**Category**: Business & Finance
 
 ## Summary
 "A Hidden Economy" reveals the previously undocumented world of Māori participation in the global privatized military industry. Through extensive interviews and research, Bargh uncovers how many Māori, often trained in the New Zealand Defence Force (the country's largest single employer of Māori at 22% of personnel), transition to lucrative careers in private military and security companies (PMSCs). The book challenges conventional definitions of the Māori economy by documenting this significant but invisible economic activity that operates largely outside traditional economic measurements and discussions.

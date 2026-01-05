@@ -1,5 +1,5 @@
 # Introducing Time
-**Authors**: Craig Callender, Ralph Edney | **Year**: 2014
+**Authors**: Craig Callender, Ralph Edney | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "Introducing Time" is a comprehensive exploration of one of humanity's most perplexing concepts: time itself. From ancient philosophical puzzles to modern physics, the book examines how we understand, measure, and experience time. The authors guide readers through fundamental questions about the nature of time, including whether time truly exists independently of our minds, how we can measure it, and whether time travel is logically possible.

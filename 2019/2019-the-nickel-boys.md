@@ -1,6 +1,7 @@
 # The Nickel Boys
 **Original Title**: Los chicos de la Nickel
 **Author**: Colson Whitehead | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 "The Nickel Boys" follows Elwood Curtis, a promising Black teenager in 1960s Florida who embraces Dr. Martin Luther King Jr.'s teachings on dignity and nonviolence. When he's falsely accused of a crime and sent to the Nickel Academy, a segregated reformatory school, he discovers the institution's brutal reality: systematic abuse, corruption, and unmarked graves of boys who didn't survive.

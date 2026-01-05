@@ -1,5 +1,5 @@
 # Utopia for Realists
-**Author**: Rutger Bregman | **Year**: 2016
+**Author**: Rutger Bregman | **Year**: 2016 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Rutger Bregman's "Utopia for Realists" makes a compelling case that we've lost our ability to imagine a better world, even as we've achieved unprecedented prosperity. The book argues that while we're now living in what medieval thinkers would have considered paradise—rich, safe, healthy—we've forgotten how to dream bigger. Bregman challenges readers to reclaim utopian thinking not as rigid blueprints, but as guideposts that spark imagination and progress.

@@ -1,4 +1,5 @@
 **Authors**: Ray Kurzweil | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "The Singularity Is Nearer" is Ray Kurzweil's urgent update to his 2005 classic "The Singularity Is Near," arguing that humanity's millennia-long march toward merging with artificial intelligence has accelerated into a sprint. Kurzweil presents the Singularity as a metaphor for the moment when humans merge with AI, expanding our intelligence millions-fold through direct brain-computer interfaces. The book outlines six epochs of cosmic evolution, from the birth of physical laws to the forthcoming transformation where human intelligence spreads throughout the universe. Kurzweil's central thesis is that exponential technological progress—driven by what he calls the "law of accelerating returns"—will bring AI passing human-level Turing tests by 2029 and achieve full Singularity by 2045.

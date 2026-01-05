@@ -1,5 +1,6 @@
 # The Real Thief
 **Authors**: William Steig | **Year**: 1973
+**Category**: Children & Young Adult
 
 ## Summary
 "The Real Thief" tells the story of Gawain, an honorable goose appointed as Chief Guard of the Royal Treasury by King Basil. When priceless treasures begin disappearing from the impenetrable treasury, all evidence points to Gawain as the only possible thief. Despite his protestations of innocence, even his closest friends and the King himself turn against him. Gawain is put on trial and found guilty based on circumstantial evidence, leading him to escape through a courtroom window and flee into exile.

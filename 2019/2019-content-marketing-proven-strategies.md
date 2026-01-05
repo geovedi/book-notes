@@ -1,5 +1,6 @@
 # Content Marketing: Proven Strategies to Attract an Engaged Audience Online
 **Authors**: Gavin Turner | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Content marketing is the strategic art of creating and distributing valuable, relevant, and consistent content to attract and retain a clearly defined audience — ultimately driving profitable customer action. In today's digital landscape where consumers spend over 11 hours daily consuming content, businesses that master content marketing can build trust, establish authority, and create sustainable growth without relying solely on paid advertising.

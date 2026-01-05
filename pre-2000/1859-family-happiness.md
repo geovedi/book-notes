@@ -1,5 +1,6 @@
 # Family Happiness and Other Stories
 **Authors**: Leo Tolstoy | **Year**: 1859
+**Category**: Fiction & Literature
 
 ## Summary
 "Family Happiness" tells the intimate story of Mashechka, a 17-year-old orphan who falls in love with and marries Sergey Mikhaylych, her father's friend who is significantly older than her. What begins as an idyllic romance in the countryside transforms into a complex exploration of love, growth, and the evolution of relationships over time.

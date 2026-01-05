@@ -1,5 +1,5 @@
 # The Principles of Leather Manufacture
-**Authors**: H. R. Procter | **Year**: 2022 (Original: Early 20th Century)
+**Authors**: H. R. Procter | **Year**: 2022 (Original: Early 20th Century) | **Category**: Science & Nature
 
 ## Summary
 "The Principles of Leather Manufacture" is a comprehensive scientific treatise that transforms leather-making from traditional craft to systematic industry. This foundational work bridges the gap between practical tanning knowledge and the underlying chemistry and physics that govern the transformation of animal skins into durable leather.

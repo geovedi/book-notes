@@ -1,5 +1,6 @@
 # Great Astronomers Complete Collection
 **Authors**: Sir Robert Stawell Ball | **Year**: 1907
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive collection brings to life the fascinating stories of twelve pioneering astronomers who revolutionized our understanding of the universe. Written by Sir Robert Stawell Ball, a distinguished 19th-century astronomer himself, these biographical sketches combine scientific insight with compelling human drama to reveal how these brilliant minds overcame technical limitations, social opposition, and personal tragedies to unlock the secrets of the cosmos.

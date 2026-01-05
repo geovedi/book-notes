@@ -1,5 +1,6 @@
 # Love Triangle
 **Authors**: Matt Parker | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 "Love Triangle" is a captivating exploration of how triangles and trigonometry shape our modern world, written by stand-up comedian and mathematician Matt Parker. The book reveals that behind every aspect of our technological civilization lies the hidden mathematics of triangles - from the roads we drive on to the signals that power our digital communication. Parker demonstrates that triangles are not just abstract concepts from geometry class but are fundamental tools that enable everything from ancient construction to modern quantum mechanics.

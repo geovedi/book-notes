@@ -1,5 +1,5 @@
 # Brown Girl Dreaming
-**Author**: Jacqueline Woodson | **Year**: 2014
+**Author**: Jacqueline Woodson | **Year**: 2014 | **Category**: Children & Young Adult
 
 ## Summary
 Brown Girl Dreaming is a powerful memoir in verse that traces Woodson's childhood journey from her birth in Ohio during the height of the Civil Rights movement through her formative years split between South Carolina and Brooklyn. Written as a collection of lyrical poems, the book captures a young Black girl's coming-of-age amidst family divisions, cultural transitions, and the gradual discovery of her own voice as a writer.

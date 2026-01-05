@@ -1,6 +1,7 @@
 # Merry Christmas!
 **Original Title**: Merry Christmas!
 **Authors**: GF Newman | **Year**: 2024
+**Category**: Fiction & Literature
 
 ## Summary
 A twenty-first-century reimagining of Charles Dickens' "A Christmas Carol," this novel transforms Ebenezer Scrooge into Eddie Scarr, a bitter 39-year-old Department for Work and Pensions strike force officer who spends his Christmas Eve hunting down benefits fraudsters instead of celebrating. Dressed as a disillusioned Father Christmas with a vicious head cold, Scarr is haunted by guilt, anger, and a traumatic childhood in foster care after being abandoned by his sister.

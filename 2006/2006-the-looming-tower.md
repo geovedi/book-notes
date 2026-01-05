@@ -1,5 +1,5 @@
 # The Looming Tower: Al-Qaeda and the Road to 9/11
-**Author**: Lawrence Wright | **Year**: 2006
+**Author**: Lawrence Wright | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "The Looming Tower" is Lawrence Wright's Pulitzer Prize-winning investigative masterpiece that traces the origins of Al-Qaeda and the intelligence failures that led to the September 11 attacks. Spanning five decades from 1948 to 2001, the book weaves together two parallel narratives: the ideological birth and rise of modern jihadist terrorism, and the American intelligence community's increasingly desperate - but ultimately futile - attempts to stop it. Wright demonstrates how 9/11 was not inevitable but resulted from a perfect storm of religious extremism and catastrophic institutional dysfunction.

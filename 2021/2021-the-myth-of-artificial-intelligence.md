@@ -1,5 +1,6 @@
 # The Myth of Artificial Intelligence
 **Author**: Erik J. Larson | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 This book challenges the prevailing narrative that artificial general intelligence (AGI) and superintelligence are inevitable developments in our near future. Larson argues that what he calls "the myth of AI" — the belief that we're on a clear path toward human-level intelligence in machines — is both scientifically unfounded and culturally dangerous. He contends that current AI systems, despite impressive achievements in narrow domains like game-playing and image recognition, are fundamentally incapable of the type of thinking that characterizes human intelligence.

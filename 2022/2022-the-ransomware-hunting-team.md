@@ -1,5 +1,5 @@
 # The Ransomware Hunting Team
-**Authors**: Renee Dudley, Daniel Golden | **Year**: 2022
+**Authors**: Renee Dudley, Daniel Golden | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "The Ransomware Hunting Team" tells the remarkable true story of a small band of misfit cybersecurity researchers who volunteer their time to fight ransomware attacks worldwide. Led by Lawrence Abrams, founder of BleepingComputer, this unlikely team includes Michael Gillespie, a reclusive genius from Normal, Illinois who builds decryptors from his cat-filled home office, and other brilliant but eccentric experts who work tirelessly to help victims.

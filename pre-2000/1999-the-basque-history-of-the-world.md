@@ -1,5 +1,6 @@
 # The Basque History of the World
 **Author**: Mark Kurlansky | **Year**: 1999
+**Category**: History & Biography
 
 ## Summary
 "The Basque History of the World" reveals the remarkable story of one of Europe's most enigmatic and enduring peoples—the Basques, who have maintained their unique culture, language, and identity for thousands of years despite being surrounded by larger nations. Kurlansky traces how this small group of approximately 3 million people has not only survived but thrived, contributing disproportionately to world history through exploration, capitalism, gastronomy, and industry while preserving their ancient traditions in the modern world.

@@ -1,5 +1,5 @@
 # The Millionaire Mindset & Passive Income Guide
-**Authors**: Samuel Feron | **Year**: 2023
+**Authors**: Samuel Feron | **Year**: 2023 | **Category**: Business & Finance
 
 ## Summary
 This book combines two essential wealth-building concepts: developing the psychological framework of millionaires and implementing practical passive income strategies. The core premise is that financial success requires both mindset transformation and actionable income diversification. The book argues that anyone can achieve financial freedom by adopting wealthy thinking patterns while building multiple income streams that work for them.

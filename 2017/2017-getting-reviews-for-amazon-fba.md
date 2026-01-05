@@ -1,5 +1,6 @@
 # Getting Reviews for Amazon FBA
 **Authors**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how Amazon FBA sellers can legally obtain authentic product reviews while avoiding account suspension. The book explains Amazon's strict review policy changes that banned incentivized reviews and provides proven strategies to build legitimate customer feedback that drives sales and profitability. Perfect for both new and experienced Amazon sellers looking to scale their private label businesses ethically and sustainably.

@@ -1,5 +1,6 @@
 # Legionary: The Roman Soldier's (Unofficial) Manual
 **Authors**: Philip Matyszak | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 This ingeniously crafted manual transports readers back to AD 100, presenting itself as a recruitment guide for young men considering enlistment in the Roman army. Written by an Oxford-trained historian, the book combines meticulous research with an engaging first-person perspective that makes the brutal reality of ancient military service vividly accessible. Far from being a dry academic text, it reads like an actual ancient military manual, complete with practical advice, equipment specifications, and candid warnings about the dangers and rewards of service.

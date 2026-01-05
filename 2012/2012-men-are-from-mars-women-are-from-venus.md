@@ -1,5 +1,6 @@
 # Men Are from Mars, Women Are from Venus
 **Author**: John Gray, Ph.D. | **Year**: 2012
+**Category**: Romance & Relationships
 
 ## Summary
 John Gray's classic relationship guide reveals that men and women are fundamentally different in how they think, feel, communicate, and approach problems. Using the metaphor that men are from Mars and women are from Venus, Gray explains how understanding these innate differences can transform relationships from sources of frustration into opportunities for love and growth.

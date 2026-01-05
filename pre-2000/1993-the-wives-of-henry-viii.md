@@ -1,5 +1,6 @@
 # The Wives of Henry VIII
 **Author**: Antonia Fraser | **Year**: 1993
+**Category**: History & Biography
 
 ## Summary
 Antonia Fraser's masterful biography strips away the stereotypes surrounding Henry VIII's six wives to reveal the complex, intelligent women behind the historical labels. Rather than accepting the popular rhyme "divorced, beheaded, died, divorced, beheaded, survived," Fraser examines each woman's life beyond her fate, exploring how these women navigated the dangerous waters of Tudor politics while married to England's most powerful—and ultimately most dangerous—king.

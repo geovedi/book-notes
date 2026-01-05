@@ -1,5 +1,5 @@
 # The Invention of Nature
-**Author**: Andrea Wulf | **Year**: 2015
+**Author**: Andrea Wulf | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 "The Invention of Nature" is a groundbreaking biography that restores Alexander von Humboldt to his rightful place as one of history's most influential scientists and thinkers. Humboldt (1769-1859) was the visionary who fundamentally changed how we understand the natural world - conceiving nature as a complex, interconnected web of life rather than a mechanical system. Through his daring explorations of Latin America and groundbreaking scientific insights, Humboldt invented the very concept of nature that underpins modern ecology and environmentalism.

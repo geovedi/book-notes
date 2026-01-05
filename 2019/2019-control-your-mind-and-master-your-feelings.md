@@ -1,5 +1,6 @@
 # Control Your Mind and Master Your Feelings
 **Authors**: Eric Robertson | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Control Your Mind and Master Your Feelings" is a comprehensive two-part guide designed to help readers break free from overthinking patterns and develop emotional intelligence. The first section, "Breaking Overthinking," tackles the destructive habit of excessive worrying that can lead to anxiety, depression, and mental health disorders. The second section, "Master Your Emotions," provides practical strategies for understanding and managing emotions through emotional intelligence development.

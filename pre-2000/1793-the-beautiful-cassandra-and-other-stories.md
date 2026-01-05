@@ -1,5 +1,6 @@
 # The Beautiful Cassandra and Other Stories
 **Authors**: Jane Austen | **Year**: 1793
+**Category**: Fiction & Literature
 
 ## Summary
 This collection showcases the brilliant young Jane Austen's earliest literary experiments written when she was just a teenager. The book contains four distinct works: "The Beautiful Cassandra" (a satirical novella), "Amelia Webster" (an epistolary tale), "The Visit" (a comedy play), and "The Mystery" (an unfinished dramatic piece). Together they reveal Austen's developing wit, social commentary, and mastery of different literary forms that would later define her famous novels.

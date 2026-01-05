@@ -1,5 +1,5 @@
 # As You Wish: Inconceivable Tales from the Making of The Princess Bride
-**Authors**: Cary Elwes, Joe Layden | **Year**: 2014
+**Authors**: Cary Elwes, Joe Layden | **Year**: 2014 | **Category**: Art & Creativity
 
 ## Summary
 This charming memoir takes readers behind the scenes of one of cinema's most beloved cult classics, The Princess Bride. Written by Westley himself (Cary Elwes), the book chronicles the incredible journey of how an "unfilmable" book became a timeless movie that spans generations. From Elwes's unexpected casting as the farm boy-turned-pirate to the intensive sword training, injuries, and the magical camaraderie among cast members, this is a love letter to filmmaking and the serendipitous creation of something truly special.

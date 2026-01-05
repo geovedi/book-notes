@@ -1,5 +1,6 @@
 # The Argonauts
 **Author**: Maggie Nelson | **Year**: 2015
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Argonauts" is a revolutionary memoir that defies categorization, blending personal narrative with philosophical inquiry to explore love, family, gender identity, and the boundaries of language. Nelson chronicles her relationship with artist Harry Dodge, their marriage during California's Proposition 8 battle, Harry's gender transition, and the birth of their son Iggy. The book challenges conventional notions of identity, family, and queer theory while maintaining an intimate, poetic voice that embraces complexity and contradiction.

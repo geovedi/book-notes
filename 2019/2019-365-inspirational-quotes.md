@@ -1,5 +1,6 @@
 # 365 Inspirational Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This daily motivational companion provides a year-long journey of wisdom through 365 carefully curated inspirational quotes. The book transforms brief moments of reading into powerful mindset shifts, offering daily doses of courage, perseverance, and perspective. Each quote serves as a mental trigger for action, reflection, and personal growth, designed to be consumed one per day to build consistent positive momentum in the reader's life.

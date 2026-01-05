@@ -1,5 +1,6 @@
 # Feeding the Machine
 **Authors**: James Muldoon, Mark Graham, Callum Cant | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "Feeding the Machine" reveals the hidden human labor and colonial systems that power artificial intelligence, exposing AI not as autonomous technology but as an "extraction machine" that consumes human labor, data, and resources to generate profit for tech corporations. Through compelling stories of seven workers across the global AI supply chain—from Ugandan data annotators to Kenyan content moderators, from Amazon warehouse workers to Silicon Valley engineers—the authors demonstrate how AI perpetuates historical patterns of exploitation under the guise of technological progress.

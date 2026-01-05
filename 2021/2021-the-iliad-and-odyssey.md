@@ -1,5 +1,6 @@
 # The Iliad and the Odyssey
 **Authors**: Homer, Gilbert Murray (Editor) | **Year**: 2021 (Publication), ~8th Century BCE (Original Composition)
+**Category**: Fiction & Literature
 
 ## Summary
 "The Iliad and the Odyssey" represents the twin pillars of Western literature, ancient Greek epic poems attributed to Homer that have influenced storytelling for nearly three millennia. The Iliad chronicles the final weeks of the Trojan War, focusing on Achilles' rage and its devastating consequences, while the Odyssey details Odysseus's decade-long struggle to return home after Troy's fall. Together with extensive mythology commentary, these works explore fundamental human experiences: honor, glory, wrath, hospitality, loyalty, and the relationship between mortals and gods. The epics serve as foundational texts for understanding ancient Greek culture, values, and the human condition.

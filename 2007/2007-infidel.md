@@ -1,5 +1,6 @@
 # Infidel
 **Author**: Ayaan Hirsi Ali | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 "Infidel" is a powerful memoir that traces Ayaan Hirsi Ali's extraordinary journey from a traditional Somali upbringing to becoming one of the world's most controversial critics of Islam. Born into a devout Muslim family, she endured female genital mutilation, escaped an arranged marriage, and sought asylum in the Netherlands, where she eventually became a member of parliament. After the 9/11 attacks, she publicly renounced her Muslim faith and began speaking out against what she saw as the oppressive aspects of Islamic culture, particularly regarding women's rights. Her advocacy culminated in the film "Submission" (2004), which led to the murder of her collaborator Theo van Gogh and forced her into hiding.

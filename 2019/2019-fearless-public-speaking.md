@@ -3,7 +3,7 @@
 **Author:** Patrick King
 **Publication Year:** 2019
 **Original Title:** Fearless Public Speaking
-**Category:** Communication & Personal Development
+**Category**: Self-Help & Personal Development
 **Format:** Practical Playbook
 
 ## Core Premise

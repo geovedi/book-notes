@@ -1,5 +1,6 @@
 # Dropshipping: Road to $10,000 per month of Passive Income
 **Authors**: Mark Graham | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 

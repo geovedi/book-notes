@@ -1,5 +1,6 @@
 # The Last Place on Earth
 **Author**: Roland Huntford | **Year**: 1985
+**Category**: History & Biography
 
 ## Summary
 "The Last Place on Earth" is a groundbreaking historical account that demolishes the myth of Captain Robert Falcon Scott as a heroic martyr who died nobly in his quest to reach the South Pole. Instead, Huntford reveals the truth: this was a race between two fundamentally different leaders and their contrasting approaches to polar exploration. Roald Amundsen, the brilliant Norwegian explorer who won the race through superior preparation, realistic planning, and respect for polar conditions, stands revealed as the true hero—a thoughtful, experienced leader whose success was no accident but the result of careful study and preparation.

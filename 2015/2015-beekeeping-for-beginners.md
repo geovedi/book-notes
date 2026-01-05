@@ -1,5 +1,6 @@
 # Beekeeping for Beginners: An Easy Guide for Getting Started with Beekeeping
 **Authors**: Celine Walker | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "Beekeeping for Beginners" is a comprehensive introduction to backyard beekeeping that transforms the seemingly complex art of apiculture into an accessible, rewarding hobby for anyone willing to learn. Walker demystifies the process of starting and maintaining a bee colony, emphasizing that beekeeping is not just about "having bees" but actively "keeping bees" through proper management and care. The book presents beekeeping as a vital response to declining bee populations while offering personal benefits including honey production, connection with nature, and a unique form of environmental stewardship.

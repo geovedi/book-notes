@@ -1,5 +1,5 @@
 # The Complete Works of James Joyce
-**Authors**: James Joyce | **Year**: 2015 (Delphi Edition)
+**Authors**: James Joyce | **Year**: 2015 (Delphi Edition) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection presents the complete works of James Joyce (1882-1941), one of the most influential and innovative writers of the 20th century. Joyce revolutionized modern literature through his pioneering use of stream-of-consciousness narrative, linguistic experimentation, and profound exploration of Irish identity, consciousness, and the human condition. The collection spans his entire career, from early poetry and short stories to his groundbreaking novels that challenged the very boundaries of literature.

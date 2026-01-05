@@ -1,6 +1,7 @@
 # Determined
 **Original Title**: Determinati
 **Author**: Robert Sapolsky | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 In "Determined," neurobiologist Robert Sapolsky delivers a comprehensive scientific assault on the concept of free will, arguing that human behavior is entirely determined by biological and environmental factors beyond our control. Drawing on decades of research across multiple disciplines including neuroscience, genetics, endocrinology, psychology, and evolutionary biology, Sapolsky builds an overwhelming case that our choices, actions, and even our sense of agency are the inevitable outcomes of an infinite causal chain stretching back to the beginning of the universe.

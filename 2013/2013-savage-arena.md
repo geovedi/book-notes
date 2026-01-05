@@ -1,5 +1,5 @@
 # Savage Arena
-**Authors**: Joe Tasker | **Year**: 2013
+**Authors**: Joe Tasker | **Year**: 2013 | **Category**: Health & Medicine
 
 ## Summary
 "Savage Arena" is a compelling memoir by Joe Tasker, one of Britain's most talented mountaineers, that chronicles his expeditions to three of the world's most challenging peaks: the North Face of the Eiger in winter, the West Face of Changabang, and K2. Tasker writes with remarkable honesty about the psychological and physical demands of high-altitude climbing, exploring the thin line between ambition and obsession, and the profound questions that drive climbers to risk everything in the pursuit of seemingly impossible goals.

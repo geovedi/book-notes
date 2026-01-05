@@ -1,6 +1,6 @@
 # Ireland in the 1950s: News from a New Republic
 **Original Title**: Ireland in the 1950s: News from a New Republic
-**Author**: Tom Garvin | **Year**: 2011
+**Author**: Tom Garvin | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 This historical analysis examines Ireland during the transformative decade of the 1950s, a period that marked the crucial transition from an insular, agrarian, and deeply conservative society to a modern, industrializing nation. Garvin draws primarily from contemporary newspaper sources to reveal the tensions, debates, and underlying social changes that would eventually reshape Irish society.

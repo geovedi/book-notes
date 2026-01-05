@@ -1,5 +1,6 @@
 # Hallucinations
 **Author**: Oliver Sacks | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "Hallucinations" is a fascinating exploration of the complex and often misunderstood phenomenon of hallucinations, written by renowned neurologist Oliver Sacks. Through compelling patient stories and scientific insights, Sacks demystifies hallucinations as neurological events rather than signs of madness, examining how the brain creates these vivid experiences when sensory input is altered or absent. The book covers various types of hallucinations—from those experienced by the blind and deaf to drug-induced visions, migraine patterns, and sleep-related phenomena—revealing how these experiences illuminate the fundamental workings of the human brain.

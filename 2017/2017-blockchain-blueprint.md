@@ -1,5 +1,6 @@
 # Blockchain Blueprint: A Comprehensive Guide
 **Authors**: Jimmy Cooper | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 Blockchain is a revolutionary decentralized database technology that enables secure, transparent transactions without third-party intermediaries. Originally developed as the underlying technology for Bitcoin, blockchain has evolved into a standalone platform with applications across virtually every industry—from finance and healthcare to real estate and digital identity management.

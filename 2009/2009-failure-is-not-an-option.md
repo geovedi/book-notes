@@ -1,5 +1,6 @@
 # Failure Is Not an Option
 **Author**: Gene Kranz | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 "Failure Is Not an Option" is Gene Kranz's gripping firsthand account of NASA's Mission Control during the Mercury, Gemini, and Apollo programs. As one of NASA's founding flight directors, Kranz takes us inside the control room where some of humanity's most daring achievements were orchestrated—from the first American in orbit to the Apollo 13 rescue.

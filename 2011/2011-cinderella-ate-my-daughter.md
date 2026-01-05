@@ -1,5 +1,5 @@
 # Cinderella Ate My Daughter
-**Author**: Peggy Orenstein | **Year**: 2011
+**Author**: Peggy Orenstein | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 Peggy Orenstein's groundbreaking exploration of how the modern "girlie-girl" culture shapes young girls' identities, from princess obsession to premature sexualization. As both a journalist specializing in girls' issues and a mother raising a daughter, Orenstein investigates the commercialization of girlhood, examining everything from Disney Princesses to child beauty pageants, revealing how marketing has created a $4 billion industry that sells girls a narrowed version of femininity centered on appearance, pink, and consumerism.

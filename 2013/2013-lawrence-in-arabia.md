@@ -1,5 +1,5 @@
 # Lawrence in Arabia
-**Author**: Scott Anderson | **Year**: 2013
+**Author**: Scott Anderson | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "Lawrence in Arabia" is a gripping narrative history that reveals how World War I in the Middle East shaped the modern region we know today. Through the intertwined stories of four young men—T.E. Lawrence, an American oilman, a German spy, and a Jewish Zionist—the book exposes the secret deals, betrayals, and imperial ambitions that created the contemporary Middle East.

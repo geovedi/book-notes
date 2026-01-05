@@ -1,5 +1,6 @@
 # The Evolution of Useful Things
 **Authors**: Henry Petroski | **Year**: 1992
+**Category**: Technology & Computing
 
 ## Summary
 Henry Petroski reveals the hidden stories behind everyday objects, arguing that invention isn't born from necessity but from our dissatisfaction with existing solutions. His revolutionary principle—"form follows failure"—challenges the traditional design mantra "form follows function" by showing how artifacts evolve through endless cycles of identifying problems and making incremental improvements.

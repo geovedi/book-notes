@@ -1,5 +1,6 @@
 # The Red Shoes
 **Original Title**: De røde sko (Danish)
+**Category**: Children & Young Adult
 **Author**: Hans Christian Andersen | **Year**: 1845
 
 ## Summary

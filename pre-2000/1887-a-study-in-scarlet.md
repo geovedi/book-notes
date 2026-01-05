@@ -1,5 +1,6 @@
 # A Study in Scarlet
 **Authors**: Sir Arthur Conan Doyle | **Year**: 1887
+**Category**: Horror & Thriller
 
 ## Summary
 This groundbreaking novel introduces Sherlock Holmes and Dr. Watson as they tackle their first case together: a mysterious murder in London. When a man is found dead in an empty house with no wounds but blood everywhere and the word "RACHE" written on the wall, Holmes's brilliant deductive methods clash with Scotland Yard's conventional approach. The investigation reveals a complex tale of revenge spanning decades, involving forbidden love, religious persecution, and the harsh frontier life of early Mormon Utah. The story unfolds in two distinct parts: the contemporary London murder investigation and an extended flashback explaining the murderer's motives through the tragic story of John Ferrier, his adopted daughter Lucy, and their doomed escape from the Mormon community.

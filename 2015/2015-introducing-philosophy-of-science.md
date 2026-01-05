@@ -1,5 +1,5 @@
 # Introducing Philosophy of Science
-**Authors**: Ziauddin Sardar, Borin Van Loon | **Year**: 2015
+**Authors**: Ziauddin Sardar, Borin Van Loon | **Year**: 2015 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This accessible graphic guide demystifies the complex world of philosophy of science, examining how science works, how it's studied, and why its claims to objectivity and authority are increasingly contested. The book traces the emergence of Science Studies as a critical field that questions the traditional view of science as a purely objective, value-free pursuit of truth. Through engaging illustrations and clear explanations, it explores the key debates that have transformed our understanding of scientific knowledge and practice.

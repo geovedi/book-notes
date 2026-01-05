@@ -1,5 +1,6 @@
 # Rebuilding Milo
 **Authors**: Dr. Aaron Horschig, Dr. Kevin Sonthana | **Year**: 2021
+**Category**: Health & Medicine
 
 ## Summary
 "Rebuilding Milo" is a revolutionary guide that challenges conventional wisdom about injury treatment and performance training for strength athletes. Written by a performance physical therapist, the book reframes pain not as a medical problem to be medicated, but as a movement issue requiring active rehabilitation. Through the story of Milo of Croton—the ancient Greek who built legendary strength by progressively lifting a growing calf—the authors introduce the principle of progressive overload while exposing why the "lift, lift, break" cycle plagues modern athletes.

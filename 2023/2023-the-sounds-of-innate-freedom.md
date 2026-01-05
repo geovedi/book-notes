@@ -1,6 +1,7 @@
 # Sounds of Innate Freedom: The Indian Texts of Mahamudra, Volume 3
 
 **Authors**: Karl Brunnhölzl (translator/editor) | **Year**: 2023
+**Category**: Spirituality & Religion
 
 ## Summary
 This historic volume contains the first English translations of classic Indian mahāmudrā literature, compiled by the Seventh Karmapa Chötra Gyatso (1456–1539). The collection presents thirty-four foundational texts from India's greatest Buddhist masters, offering direct access to the sources of one of the world's most profound contemplative traditions. These teachings present the path of "innate freedom" – the recognition that liberation is found not through accumulating practices or techniques, but by resting in the mind's natural, unconditioned state.

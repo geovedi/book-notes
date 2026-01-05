@@ -1,5 +1,6 @@
 # Fantasia of the Unconscious
 **Authors**: David Herbert Lawrence | **Year**: 1922
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Fantasia of the Unconscious" is Lawrence's radical philosophical exploration of human consciousness, challenging both Freudian psychoanalysis and modern scientific materialism. Written as a continuation of his "Psychoanalysis and the Unconscious," this provocative work presents a revolutionary view of human psychology rooted in the body's wisdom rather than abstract intellectualism. Lawrence argues that true consciousness originates in primal centers like the solar plexus, not in the mind, and that modern civilization has lost touch with the vital, life-affirming knowledge that once guided pagan cultures. The book is simultaneously a critique of modern alienation, a celebration of instinctual wisdom, and a daring attempt to reconstruct a more holistic understanding of human nature.

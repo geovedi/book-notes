@@ -1,5 +1,5 @@
 # The Price of Time
-**Authors**: Edward Chancellor | **Year**: 2022
+**Authors**: Edward Chancellor | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 Edward Chancellor's "The Price of Time" is a comprehensive historical and economic analysis of interest rates and their crucial role in capitalist economies. The book argues that the post-2008 era of ultra-low and negative interest rates represents a dangerous experiment with far-reaching unintended consequences. Chancellor traces the history of interest from ancient Babylon to modern central banking, demonstrating how interest functions as the "price of time" that coordinates economic activity, allocates capital, and maintains financial stability.

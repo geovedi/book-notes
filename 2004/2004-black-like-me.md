@@ -1,5 +1,5 @@
 # Black Like Me
-**Authors**: John Howard Griffin, Don Rutledge, Robert Bonazzi, Studs Terkel | **Year**: 2004 (Definitive Edition)
+**Authors**: John Howard Griffin, Don Rutledge, Robert Bonazzi, Studs Terkel | **Year**: 2004 (Definitive Edition) | **Category**: History & Biography
 
 ## Summary
 In October 1959, white journalist John Howard Griffin underwent a radical transformation - using medication and UV radiation to darken his skin and pass as Black in the segregated Deep South. For seven weeks, he traveled through Louisiana, Mississippi, Alabama, and Georgia, experiencing firsthand the daily reality of racism and segregation that African Americans faced. What began as a journalistic experiment became a profound journey into human understanding, documented in what would become one of the most important civil rights texts of the 20th century.

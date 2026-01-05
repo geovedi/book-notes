@@ -1,5 +1,5 @@
 # 2014 - Master Your Time in 10 Minutes a Day
-**Authors**: Michal Stawicki | **Year**: 2014
+**Authors**: Michal Stawicki | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 

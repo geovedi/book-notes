@@ -1,5 +1,6 @@
 # Billy
 **Author**: Pamela Stephenson | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 Billy Connolly's biography is a raw, unflinching look at the life of the legendary Scottish comedian, written by his wife and psychologist Pamela Stephenson. This is not a surface-level celebrity memoir but a deep psychological exploration of how a boy from Glasgow's tenements, abandoned by his mother and abused by his father, transformed his trauma into groundbreaking comedy. The book reveals the dark origins of Connolly's humor, his struggle with alcoholism, and his remarkable journey from shipyard welder to international comedy icon.

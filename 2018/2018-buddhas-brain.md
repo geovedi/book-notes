@@ -1,5 +1,6 @@
 # 2018 Buddha's Brain
 **Authors**: Rick Hanson, Richard Mendius | **Year**: 2018
+**Category**: Spirituality & Religion
 
 ## Summary
 

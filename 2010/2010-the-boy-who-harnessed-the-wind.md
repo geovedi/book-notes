@@ -1,5 +1,5 @@
 # The Boy Who Harnessed the Wind
-**Authors**: William Kamkwamba, Bryan Mealer | **Year**: 2010
+**Authors**: William Kamkwamba, Bryan Mealer | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 This is the remarkable true story of William Kamkwamba, a young boy from Malawi who built a windmill from scrap materials to bring electricity to his drought-stricken village during a devastating famine. Forced to drop out of school when his family could no longer afford the fees, William taught himself physics and engineering from a small library and constructed a functioning windmill using bicycle parts, tractor fans, and discarded metal. His journey from poverty and hunger to international recognition exemplifies how human ingenuity and perseverance can overcome seemingly impossible circumstances.

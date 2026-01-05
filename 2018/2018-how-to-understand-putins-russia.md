@@ -1,6 +1,7 @@
 # How to Understand Putin's Russia
 **Original Title**: Cómo entender la Rusia de Putin
 **Author**: Françoise Thom | **Year**: 2018
+**Category**: History & Biography
 
 ## Summary
 Françoise Thom's groundbreaking analysis reveals that Putinism emerged from the toxic marriage of Soviet-era prison culture and post-communist mafia state capitalism. The book dismantles common misconceptions about Putin's regime, showing it's neither a traditional autocracy nor a transitional democracy, but rather a unique system combining KGB psychological warfare, criminal clan logic, and imperial nostalgia.

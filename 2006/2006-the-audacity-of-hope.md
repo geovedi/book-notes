@@ -1,5 +1,5 @@
 # The Audacity of Hope
-**Authors**: Barack Obama | **Year**: 2006
+**Authors**: Barack Obama | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "The Audacity of Hope" presents Barack Obama's vision for American politics based on bridging partisan divides and reclaiming the American Dream through shared values and common purpose. Written during his early Senate career, the book reflects on his political journey and outlines a hopeful approach to governance that rises above bitter polarization. Obama argues that despite our differences, Americans share fundamental beliefs in opportunity, dignity, and community that can serve as a foundation for political renewal.

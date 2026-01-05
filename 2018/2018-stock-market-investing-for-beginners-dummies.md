@@ -1,5 +1,5 @@
 # Stock Market Investing for Beginners & Dummies
-**Authors**: Giovanni Rigters | **Year**: 2018
+**Authors**: Giovanni Rigters | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Stock Market Investing for Beginners & Dummies" is a comprehensive introduction to stock market investing that breaks down complex financial concepts into simple, actionable steps. The book serves as a practical roadmap for absolute beginners who want to build wealth through stock market investing but feel overwhelmed by the perceived complexity and risk.

@@ -1,5 +1,6 @@
 # Arabian Nights: Andrew Lang's 1001 Nights & R.L. Stevenson's New Arabian Nights
 **Authors**: Andrew Lang, Robert Louis Stevenson | **Year**: 2017
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This collection brings together two masterful interpretations of the legendary Arabian Nights tales. Andrew Lang's adaptation presents the classic stories from One Thousand and One Nights, including the famous frame narrative of Scheherazade telling stories to save her life from the cruel Sultan Schahriar. The collection features beloved tales like "Aladdin and the Wonderful Lamp," "The Seven Voyages of Sindbad the Sailor," and "The Story of the Merchant and the Genius." R.L. Stevenson's "New Arabian Nights" offers his own literary take on the Eastern storytelling tradition, blending Victorian sensibilities with the mysterious atmosphere of Arabian tales.

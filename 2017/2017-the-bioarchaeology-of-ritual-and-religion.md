@@ -1,5 +1,6 @@
 # The Bioarchaeology of Ritual and Religion
 **Authors**: Alexandra Livarda, Richard Madgwick, Santiago Riera Mora (Editors) | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive academic volume explores how biological and environmental archaeological evidence can reveal ancient religious practices and ritual behaviors. Through 14 detailed case studies spanning from the Mesolithic to Medieval periods across Europe, the book demonstrates how bioarchaeological analysis—examining plant remains, animal bones, human remains, and environmental evidence—provides direct insights into ritual activities that are often invisible in traditional archaeological records.

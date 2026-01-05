@@ -1,5 +1,6 @@
 # The Letter of Credit
 **Authors**: Susan Warner | **Year**: 1867
+**Category**: Fiction & Literature
 
 ## Summary
 "The Letter of Credit" is a heartwarming 19th-century novel that follows young Rotha Carpenter, the imaginative daughter of a struggling farmer in rural America. When an English gentleman named Mr. Southwode falls ill at their doorstep and is nursed back to health by Rotha's selfless mother, he leaves behind a mysterious sealed letter as a gesture of gratitude—a "letter of credit" that could serve as financial assistance in times of desperate need.

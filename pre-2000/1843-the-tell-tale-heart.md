@@ -1,5 +1,6 @@
 # The Tell-Tale Heart
 **Authors**: Edgar Allan Poe | **Year**: 1843
+**Category**: Horror & Thriller
 
 ## Summary
 A psychologically disturbed narrator recounts his meticulous murder of an old man, driven not by hatred or greed, but by an irrational obsession with the old man's "vulture eye" - a pale blue eye with a film over it. The narrator insists on his sanity while describing his increasingly erratic behavior, ultimately leading to his confession when he imagines hearing the dead man's heart beating from beneath the floorboards where he hid the dismembered corpse.

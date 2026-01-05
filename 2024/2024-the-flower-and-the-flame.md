@@ -1,5 +1,6 @@
 # The Flower and the Flame
 **Authors**: Kerri Keberly | **Year**: 2024
+**Category**: Romance & Relationships
 
 ## Summary
 A romantic reimagining of the Hades and Persephone myth that transforms the ancient abduction tale into a tender love story about misunderstood gods finding their soulmates. When Hades, King of the Underworld, becomes captivated by Persephone, Goddess of Spring, he disguises himself as a black wolf to watch her from afar. Their secret meetings blossom into genuine love, but face opposition from Persephone's overprotective mother Demeter, who sees her daughter as a possession rather than a grown goddess. The novel challenges traditional perceptions of these mythological figures, presenting Hades as a noble, misunderstood ruler rather than a villain.

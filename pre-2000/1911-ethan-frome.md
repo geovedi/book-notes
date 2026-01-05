@@ -1,5 +1,6 @@
 # Ethan Frome
 **Authors**: Edith Wharton | **Year**: 1911
+**Category**: Fiction & Literature
 
 ## Summary
 Ethan Frome is a haunting tragedy about a man trapped by circumstance and duty in the harsh winter landscape of Starkfield, Massachusetts. The novel unfolds through the eyes of a visiting engineer who becomes fascinated by the mysterious, broken figure of Ethan Frome—a man physically and emotionally scarred by a "smash-up" twenty-four years earlier that has left him with a permanent limp and a profound sense of resignation.

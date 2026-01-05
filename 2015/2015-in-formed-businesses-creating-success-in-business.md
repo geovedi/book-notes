@@ -1,6 +1,6 @@
 # In-Formed Businesses: Creating Success in Business
 **Original Title**: Negócios in-formados: Criando o sucesso nos negócios
-**Authors**: Hélio Couto, Mabel Cristina Dias | **Year**: 2015 
+**Authors**: Hélio Couto, Mabel Cristina Dias | **Year**: 2015 | **Category**: Spirituality & Religion 
 
 ## Summary
 

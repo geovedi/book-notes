@@ -1,5 +1,5 @@
 # Spies, Lies, and Algorithms
-**Authors**: Amy B. Zegart | **Year**: 2022
+**Authors**: Amy B. Zegart | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "Spies, Lies, and Algorithms" explores how technology is fundamentally transforming American intelligence. Zegart examines the historical evolution of U.S. intelligence from its founding through the digital age, revealing how algorithms, social media, cyber threats, and artificial intelligence are creating unprecedented challenges and opportunities for intelligence agencies. The book argues that intelligence is no longer just for governments—private citizens now have access to powerful surveillance tools through commercial satellites and open-source data, fundamentally changing the intelligence landscape.

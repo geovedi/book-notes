@@ -1,5 +1,6 @@
 # The Pirates of the High Seas: Know Your Infamous Buccaneers, Their Exploits & Their Real Histories
 **Authors**: Daniel Defoe, Captain Charles Johnson, Howard Pyle, Ralph D. Paine, Charles Ellms, Currey E. Hamilton, John Esquemeling, J. D. Jerrold Kelley & Stanley Lane-Poole | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 This comprehensive anthology presents the authentic histories of the most notorious pirates who terrorized the high seas during the Golden Age of Piracy. Compiled from multiple historical sources and first-hand accounts, the book reveals the true stories behind legendary figures like Blackbeard, Calico Jack, Anne Bonny, and Bartholomew Roberts. Rather than romanticized tales, this collection offers documented narratives of piracy's real-world brutality, treasure hunting, and the maritime lawlessness that defined an era.

@@ -1,5 +1,6 @@
 # The Undead: How Medicine Is Blurring the Line Between Life and Death
 **Author**: Dick Teresi | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "The Undead" is a groundbreaking investigation into how modern medicine has fundamentally altered our understanding of life and death. Teresi, a science journalist, spent over a decade researching the murky world of death determination, organ harvesting, and the medical practices that create what he calls "beating-heart cadavers" - people who are legally dead but whose bodies continue to function. The book reveals that our technological advances haven't clarified death but have instead expanded the breadth of our ignorance, creating a gray zone where the line between living and dying is increasingly blurred. This is essential reading for anyone interested in medical ethics, organ donation, or the fundamental question of what it means to be alive.

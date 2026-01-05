@@ -1,5 +1,6 @@
 # The Luck of Roaring Camp and Other Tales
 **Author**: Bret Harte | **Year**: 1870
+**Category**: Fiction & Literature
 
 ## Summary
 Bret Harte's groundbreaking collection of short stories captures the raw humanity of California's Gold Rush era, revealing unexpected moral complexity beneath the rough exterior of frontier life. These tales revolutionized American literature by finding nobility in society's outcasts and demonstrating how civilization's thin veneer can crack to reveal unexpected compassion.

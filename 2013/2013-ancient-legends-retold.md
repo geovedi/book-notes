@@ -1,5 +1,5 @@
 # Ancient Legends Retold
-**Original Title**: Ancient Legends Retold | **Authors**: Fiona Collins | **Year**: 2013
+**Original Title**: Ancient Legends Retold | **Authors**: Fiona Collins | **Year**: 2013 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 "Ancient Legends Retold" is a captivating reimagining of Pryderi's story from the Four Branches of the Mabinogion, the ancient Welsh tales that form one of Britain's most important mythological cycles. This modern retelling brings to life the complete journey of Pryderi, the only character who appears in all Four Branches, from his mysterious birth and childhood abduction to his tragic death in single combat. The story weaves together Celtic mythology, Otherworld magic, and the human experiences of love, loss, and destiny against the rich backdrop of medieval Wales.

@@ -1,5 +1,6 @@
 # The Complete Poems of Banjo Paterson
 **Authors**: Andrew Barton Paterson | **Year**: c. 1890-1940 (Collection spans multiple decades)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection showcases the definitive works of Andrew Barton "Banjo" Paterson, Australia's beloved bush poet who captured the spirit of the Australian outback through vivid ballads and narrative verses. Spanning from the 1890s through the early 20th century, these poems document the rugged lives of drovers, squatters, bushmen, and frontier communities during Australia's formative years.

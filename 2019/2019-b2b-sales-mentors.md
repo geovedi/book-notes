@@ -1,5 +1,6 @@
 # B2B Sales Mentors
 **Authors**: Scott Ingram (Editor) | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This book is a curated collection of real-world success stories from top 1% B2B sales professionals across various industries. Rather than theoretical frameworks, it delivers practical insights from sellers who have consistently achieved extraordinary results - either as the #1 performer on their teams or in the top 1% of quota attainment at large organizations. The stories serve as both inspiration and actionable guidance for sales professionals looking to elevate their performance.

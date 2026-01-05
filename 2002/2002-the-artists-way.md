@@ -1,5 +1,5 @@
 # The Artist's Way
-**Author**: Julia Cameron | **Year**: 2002
+**Author**: Julia Cameron | **Year**: 2002 | **Category**: Art & Creativity
 
 ## Summary
 "The Artist's Way" is a revolutionary 12-week course in discovering and recovering your creative self. Julia Cameron presents a spiritual path to higher creativity that views artistic expression as our true nature and creative blocks as unnatural impediments. The book operates on the principle that creativity is a natural life force that flows through all of us, and that by removing the blocks that hinder this flow, we can reconnect with our innate creative abilities. The program has helped millions worldwide overcome creative barriers and produce meaningful work across all artistic disciplines.

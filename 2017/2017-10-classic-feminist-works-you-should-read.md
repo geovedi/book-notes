@@ -1,5 +1,6 @@
 # 10 Classic Feminist Works You Should Read
 **Authors**: Mary Wollstonecraft, Louisa May Alcott, Charlotte Perkins Gilman, Kate Chopin, George Gissing, Edith Wharton, Roquia Sakhawat Hussain | **Year**: 2017 (Collection), Original Works 1792-1920
+**Category**: Fiction & Literature
 
 ## Summary
 This powerful anthology brings together ten foundational feminist texts spanning from 1792 to 1920, capturing the evolution of feminist thought from Mary Wollstonecraft's revolutionary arguments for women's education to the complex social critiques of the early 20th century. The collection showcases how feminist writers used fiction, philosophy, and social analysis to challenge systematic oppression and imagine more equitable societies.

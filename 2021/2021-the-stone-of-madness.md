@@ -1,6 +1,7 @@
 # The Stone of Madness
 **Original Title**: A pedra da loucura
 **Author**: Benjamín Labatut | **Year**: 2021
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 The Stone of Madness is a profound exploration of the erosion of reason in our modern world, weaving together historical events, scientific breakthroughs, and philosophical reflections to examine the boundaries between sanity and madness. Labatut draws parallels between Lovecraft's cosmic horror, Hilbert's mathematical quest for certainty, and Philip K. Dick's reality-bending visions to illustrate how human understanding has reached its limits and what lies beyond.

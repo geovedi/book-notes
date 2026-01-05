@@ -1,6 +1,6 @@
 # Investing: The Beginner's Guide to Investing
 **Original Title**: Investing: The Beginner's Guide to Investing: The Foundation of Knowledge That All Rich Investors Have
-**Authors**: R.M. Lewis | **Year**: 2018
+**Authors**: R.M. Lewis | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies investing for beginners by focusing on the fundamental principles that wealthy investors use to build lasting wealth. The book argues that successful investing isn't about complex strategies or market timing—it's about mastering the habits of saving, understanding compound interest, and knowing yourself as an investor.

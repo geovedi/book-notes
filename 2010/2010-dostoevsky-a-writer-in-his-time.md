@@ -1,5 +1,5 @@
 # Dostoevsky: A Writer in His Time
-**Author**: Joseph Frank | **Year**: 2010
+**Author**: Joseph Frank | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 Joseph Frank's masterful biography reveals how Fyodor Dostoevsky transformed from a radical revolutionary into one of literature's deepest explorers of the human soul. Through decades of meticulous research, Frank shows how Dostoevsky's traumatic experiences - a mock execution, Siberian exile, and constant financial struggles - forged his unique vision of human psychology, faith, and redemption.

@@ -1,6 +1,7 @@
 # The Idealist Guide to Nonprofit Careers for Sector Switchers
 
 **Authors**: Meg Busse, Steven Joiner | **Year**: 2008
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide challenges outdated stereotypes about nonprofit work and reveals today's vibrant, multi-trillion dollar nonprofit sector that offers meaningful career opportunities across virtually every profession. The book presents nonprofit work not as a stepping stone or "real job" alternative, but as a legitimate, challenging career path where professionals can build lifelong, fulfilling work while creating positive social change. Whether you're seeking direct service roles, administrative positions, or leadership opportunities, the nonprofit sector provides diverse ways to align your passion with your paycheck while addressing society's most pressing needs.

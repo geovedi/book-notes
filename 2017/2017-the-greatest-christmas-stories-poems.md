@@ -1,5 +1,6 @@
 # The Greatest Christmas Stories & Poems (Illustrated Edition)
 **Authors**: Louisa May Alcott, Charles Dickens, O. Henry, Hans Christian Andersen, Mark Twain, Clement Clarke Moore, and many others | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology brings together over 230 Christmas-themed stories, poems, and carols from some of literature's most beloved authors. From classic tales of redemption and generosity to magical holiday adventures and heartwarming poetry, this collection spans centuries of Christmas literary tradition. The anthology includes timeless masterpieces like Dickens' "A Christmas Carol," O. Henry's "The Gift of the Magi," and Moore's "A Visit from Saint Nicholas," alongside lesser-known gems from authors across different cultures and eras.

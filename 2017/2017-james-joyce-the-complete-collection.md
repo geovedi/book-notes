@@ -1,5 +1,6 @@
 # James Joyce: The Complete Collection
 **Authors**: James Joyce | **Year**: 2017 (Collection), Works: 1907-1939
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together all of James Joyce's major works - the revolutionary Irish writer who transformed modern literature with his innovative narrative techniques and profound psychological insight. Joyce's writing traces the journey from the stifling streets of Dublin to the universal realms of human consciousness, capturing the paralysis of Irish society while pushing the boundaries of language, form, and consciousness itself.

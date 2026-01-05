@@ -2,6 +2,7 @@
 **Daily Stoic Philosophies, Teachings and Disciplines for a Stronger Mind**
 
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This book is a daily devotional of wisdom, offering 365 carefully curated quotes designed to build mental resilience, emotional strength, and philosophical clarity. While titled "365 Stoicism Quotes," the collection draws from diverse sources including ancient philosophers, modern thought leaders, and contemporary wisdom figures. The book serves as a daily companion for anyone seeking to develop inner fortitude and perspective in our fast-paced, often superficial world.

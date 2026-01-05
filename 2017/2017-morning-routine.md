@@ -1,5 +1,6 @@
 # Morning Routine
 **Authors**: Sylvia Lynne | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Morning Routine" is a practical guide to transforming your mornings from chaotic to purposeful by building sustainable early-rising habits. The book's core premise is that willpower alone isn't enough to maintain early mornings—you need to make them exciting and automatic through habit formation. The author shares her personal journey of watching TV shows in the morning to incentivize getting up early, then gradually replacing entertainment with enriching activities once the habit was established. The book provides a step-by-step framework for designing a personalized morning routine that includes practices like meditation, journaling, exercise, gratitude, and learning, all tailored to fit your lifestyle and interests.

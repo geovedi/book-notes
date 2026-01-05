@@ -1,5 +1,6 @@
 # Lady in Waiting: My Extraordinary Life in the Shadow of the Crown
 **Author**: Anne Glenconner | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 Anne Glenconner's memoir offers a captivating glimpse into nine decades of extraordinary life as a member of British aristocracy and as Princess Margaret's Lady-in-Waiting for thirty years. Born Lady Anne Coke in 1932, eldest daughter of the 5th Earl of Leicester, she grew up in the magnificent Holkham Hall in Norfolk, forming a childhood friendship with Princess Margaret that would shape her entire life. The book chronicles her journey through privilege and tragedy, from serving as Maid of Honour at the Queen's Coronation to her turbulent marriage to the charismatic but difficult Colin Tennant, Lord Glenconner, who transformed the Caribbean island of Mustique into a playground for the rich and famous. Her story is one of remarkable resilience - enduring her husband's infidelities and temper, the devastating losses of three of her five sons (one to AIDS, another to hepatitis C from drug addiction, and a third who survived a catastrophic accident), and Princess Margaret's decline and death. Yet through it all, Glenconner maintains an spirit of adventure, humor, and unwavering loyalty that makes her memoir both heartbreaking and inspiring.

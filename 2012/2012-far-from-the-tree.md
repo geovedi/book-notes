@@ -1,5 +1,6 @@
 # Far From the Tree
 **Andrew Solomon** | **Year**: 2012
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Far From the Tree" explores the profound challenges and transformative journey of parents raising children who are fundamentally different from themselves—what Solomon terms "horizontal identities." Drawing from a decade of research and over 300 families, the book investigates how parents navigate loving children who are deaf, dwarfs, autistic, schizophrenic, transgender, prodigies, or conceived in rape. Solomon argues that while most children share "vertical identities" (traits passed down from parents like ethnicity, language, and religion), horizontal identities represent traits that children must acquire from peer groups outside the family.

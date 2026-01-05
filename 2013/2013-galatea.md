@@ -1,5 +1,5 @@
 # Galatea
-**Authors**: Madeline Miller | **Year**: 2013
+**Authors**: Madeline Miller | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 Galatea is a powerful feminist novella that retells the ancient Greek Pygmalion myth from the perspective of the woman who was carved from ivory and brought to life. The story exposes the dark underbelly of a tale that has been romanticized for centuries, revealing the horror of being created as a perfect object for male possession. Galatea, given voice by Miller, narrates her experience of being born into captivity, married to her creator Pygmalion, and ultimately seeking freedom for herself and her daughter Paphos.

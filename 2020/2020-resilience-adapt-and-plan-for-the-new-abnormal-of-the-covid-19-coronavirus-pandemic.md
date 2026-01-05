@@ -1,5 +1,6 @@
 # Resilience: Adapt and Plan for the New Abnormal of the COVID-19 Coronavirus Pandemic
 **Author**: Gleb Tsipursky | **Year**: 2020
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book provides a research-based guide to navigating the COVID-19 pandemic by understanding why we make poor decisions in crises and implementing strategies to adapt effectively. Tsipursky, a cognitive neuroscientist and behavioral economist, explains how cognitive biases led to disastrous pandemic responses and provides frameworks for individuals and organizations to survive and thrive in the "new abnormal" of prolonged disruption.

@@ -1,5 +1,5 @@
 # Fungi: Their Nature and Uses
-**Authors**: M. C. Cooke | **Year**: 2022
+**Authors**: M. C. Cooke | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 This comprehensive scientific work explores the fascinating kingdom of fungi, revealing their complex nature, intricate structures, and profound influence on both natural ecosystems and human civilization. Cooke presents fungi as sophisticated plants deserving serious scientific study, challenging the 19th-century view that dismissed them as mere "degenerative growths." The book systematically examines fungal biology, from microscopic cellular structures to ecological relationships, while documenting their practical applications as food, medicine, and industrial resources.

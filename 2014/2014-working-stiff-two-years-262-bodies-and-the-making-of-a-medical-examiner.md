@@ -1,5 +1,5 @@
 # Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner
-**Authors**: Judy Melinek MD, T.J. Mitchell | **Year**: 2014
+**Authors**: Judy Melinek MD, T.J. Mitchell | **Year**: 2014 | **Category**: Health & Medicine
 
 ## Summary
 "Working Stiff" is a gripping memoir that takes readers behind the scenes of New York City's Office of Chief Medical Examiner, where Dr. Judy Melinek documents her transformation from a surgical resident haunted by burnout to a skilled forensic pathologist. Through vivid accounts of 262 bodies over two years, including her pivotal role in the September 11th victim identification efforts, Melinek reveals how confronting death daily paradoxically taught her to live more fully and fearlessly.

@@ -1,5 +1,6 @@
 # The Professor and the Madman
 **Author**: Simon Winchester | **Year**: 1998
+**Category**: History & Biography
 
 ## Summary
 This remarkable work of narrative non-fiction tells the astonishing true story of how the creation of the Oxford English Dictionary—one of the greatest academic achievements in history—was made possible through an unlikely collaboration between a dedicated Victorian scholar and a brilliant American murderer confined in an asylum for the criminally insane.

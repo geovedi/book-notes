@@ -1,5 +1,6 @@
 # Founders at Work: Stories of Startups' Early Days
 **Authors**: Jessica Livingston | **Year**: 2007
+**Category**: Business & Finance
 
 ## Summary
 Founders at Work is a collection of candid interviews with 32 legendary startup founders, from Apple's Steve Wozniak to PayPal's Max Levchin, revealing what really happens in the earliest days of building world-changing companies. Jessica Livingston uncovers the messy, uncertain reality behind startup success stories that later become polished myths.

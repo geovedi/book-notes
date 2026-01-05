@@ -1,6 +1,7 @@
 # Initial Coin Offering: Make $11,000 in 2018
 **Original Title**: Initial Coin Offering: How You Can Make an Additional $11,000 Income this 2018!
 **Author**: Edward A. Harrod | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide breaks down everything you need to know about Initial Coin Offerings (ICOs) - the cryptocurrency equivalent of stock market IPOs. The book walks readers through understanding ICOs, identifying scams, evaluating potential investments, and participating in token sales to generate substantial returns. Written during the 2018 cryptocurrency boom, it captures the excitement and opportunity of the early crypto crowdfunding era.

@@ -1,5 +1,5 @@
 # War Games: The Psychology of Combat
-**Authors**: Leo Murray | **Year**: 2018
+**Authors**: Leo Murray | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 "War Games" reveals the forgotten psychological principles that determine battlefield success, arguing that modern Western armies have become obsessed with technological killing power while ignoring the human factors that actually make enemies surrender. Drawing on decades of research and combat veteran interviews, Murray demonstrates that throughout history, most battles have been won not through superior firepower but through understanding and exploiting combat psychology.

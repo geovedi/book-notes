@@ -1,5 +1,5 @@
 # Astroquizzical: A Curious Journey Through Our Cosmic Family Tree
-**Authors**: Jillian Scudder | **Year**: 2018
+**Authors**: Jillian Scudder | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "Astroquizzical" takes readers on a fascinating journey through our cosmic family tree, revealing the intricate connections between humanity and the universe. Starting from Earth's surface and progressively moving outward to the Moon, planets, stars, and galaxies, the book answers common questions about space while making complex astronomical concepts accessible. Scudder, an astrophysicist and creator of the popular "Astroquizzical" blog, combines scientific expertise with engaging storytelling to show how we are literally made of star-stuff and connected to the cosmos through profound physical relationships.

@@ -1,5 +1,6 @@
 # The Story of Atlantis and the Lost Lemurian Continent
 **Authors**: W. Scott-Elliot, A. P. Sinnett (Preface) | **Year**: 1896
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This comprehensive work details the complete history of Atlantis as revealed through esoteric clairvoyant investigation, tracing its rise and fall over millions of years. Drawing from "the memory of Nature"—an astral record that preserves all events with infallible accuracy—the book presents a radically different view of human prehistory than conventional archaeology accepts.

@@ -1,5 +1,5 @@
 # Mechanisms in World and Mind
-**Authors**: Bernd Lindemann | **Year**: 2014
+**Authors**: Bernd Lindemann | **Year**: 2014 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This philosophical neuroscience work explores whether human consciousness and mental phenomena can be reduced to neuronal mechanisms and physical processes. Lindemann presents a rigorous argument for reductive physicalism - the view that mental states are ultimately dependent on and explainable by neuronal activity - while simultaneously validating our intuitive sense that humans are "more than physics" due to emergent system properties.

@@ -1,5 +1,6 @@
 # Breaking the Heart Open
 **Authors**: Tony Bates | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Breaking the Heart Open" is a deeply personal memoir by clinical psychologist Tony Bates that chronicles his journey from a troubled childhood in Northern Ireland to becoming a leading mental health advocate. The book weaves together his personal experiences with breakdowns, his professional development as a psychologist, and his pioneering work in youth mental health through the creation of Jigsaw, Ireland's National Centre for Youth Mental Health.

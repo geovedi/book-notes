@@ -1,5 +1,5 @@
 # The Art of Statistical Thinking
-**Authors**: Albert Rutherford and Jae H. Kim, PhD | **Year**: 2022
+**Authors**: Albert Rutherford and Jae H. Kim, PhD | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # Crush It!
 **Author**: Gary Vaynerchuk | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 Gary Vaynerchuk's high-energy manifesto argues that the internet and social media have created unprecedented opportunities for anyone to monetize their passion. Drawing from his experience transforming his family's liquor store from $4M to $50M and building his own personal brand through Wine Library TV, Vaynerchuk provides a practical roadmap for turning what you love into a profitable business using free digital platforms.

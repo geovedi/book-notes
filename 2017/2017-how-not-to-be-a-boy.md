@@ -1,5 +1,6 @@
 # How Not to Be a Boy
 **Author**: Robert Webb | **Year**: 2017
+**Category**: Psychology & Mental Health
 
 ## Summary
 Robert Webb's groundbreaking memoir dismantles traditional masculinity by examining how societal expectations damage boys and men. Through personal anecdotes spanning his childhood with an abusive father, struggles with sports and relationships, and career in comedy, Webb reveals how "being a man" often means suppressing emotions, performing toxic behaviors, and losing touch with one's authentic self.

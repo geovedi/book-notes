@@ -1,6 +1,7 @@
 # The Little Prince
 **Original Title**: Le Petit Prince
 **Authors**: Antoine de Saint-Exupéry | **Year**: 1943
+**Category**: Children & Young Adult
 
 ## Summary
 A pilot crashes in the Sahara Desert and meets a mysterious young boy—the Little Prince—who has traveled from his tiny asteroid home (B-612) to explore the universe. Through their encounters, the prince reveals the story of his relationship with a vain rose, his travels to different planets, and the wisdom he gained from meeting various characters and a wise fox. This philosophical tale uses a child's perspective to critique adult priorities and explore themes of love, loss, responsibility, and what truly matters in life.

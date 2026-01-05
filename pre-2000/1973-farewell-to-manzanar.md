@@ -1,5 +1,6 @@
 # Farewell to Manzanar
 **Authors**: Jeanne Wakatsuki Houston, James D. Houston | **Year**: 1973
+**Category**: History & Biography
 
 ## Summary
 Farewell to Manzanar is a powerful memoir that chronicles Jeanne Wakatsuki Houston's childhood experience as a Japanese American incarcerated at the Manzanar War Relocation Center during WWII. Through the eyes of a seven-year-old girl, we witness the systematic destruction of a family's dignity and freedom as they, along with 110,000 other Japanese Americans, are forcibly removed from their homes and imprisoned in desert camps simply because of their heritage.

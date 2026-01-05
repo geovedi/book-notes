@@ -1,5 +1,6 @@
 # Paul Verlaine
 **Original Title**: Paul Verlaine | **Author**: Stefan Zweig | **Year**: 1913
+**Category**: History & Biography
 
 ## Summary
 Stefan Zweig's biographical masterpiece explores the tumultuous life and profound artistic legacy of Paul Verlaine, one of France's most influential yet tragically flawed poets. This work reveals how Verlaine's weakness became his creative strength, transforming personal suffering into pure lyricism that captured the essence of human vulnerability.

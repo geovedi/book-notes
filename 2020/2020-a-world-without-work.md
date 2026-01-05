@@ -1,5 +1,6 @@
 # A World Without Work
 **Author**: Daniel Susskind | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 A World Without Work presents a compelling but nuanced vision of how technological advancement will reshape our relationship with work. Unlike apocalyptic predictions of robots replacing all human jobs overnight, Susskind argues for "a gradual withering" of work as machines increasingly encroach on tasks once performed by humans. The book challenges both technological optimists who believe new jobs will always emerge and pessimists who predict sudden mass unemployment. Instead, Susskind presents evidence that we face a slow, relentless process where machines will handle more tasks across manual, cognitive, and even emotional domains, forcing humans into an ever-shrinking set of remaining activities.

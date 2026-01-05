@@ -1,5 +1,6 @@
 # Short Fiction
 **Authors**: Ivan Bunin | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 This collection presents Ivan Bunin's masterful short stories, translated by various scholars including D.H. Lawrence and Bernard Guilbert Guerney. As the first Russian writer to win the Nobel Prize in Literature (1933), Bunin captures the essence of Russian aristocratic life, human psychology, and the inevitable passage of time. These stories explore themes of love, death, memory, and the human condition through exquisite prose and psychological depth.

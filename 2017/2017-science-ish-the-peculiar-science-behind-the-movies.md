@@ -1,5 +1,6 @@
 # Science(ish): The Peculiar Science Behind the Movies
 **Authors**: Rick Edwards, Dr Michael Brooks | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 Science(ish) explores the real scientific principles behind popular science fiction movies, examining how Hollywood's imaginative storytelling intersects with actual scientific research. The book analyzes nine iconic films—from The Martian to The Matrix—using them as accessible entry points to discuss complex topics like space travel, genetic engineering, artificial intelligence, and the search for extraterrestrial life. Written in an entertaining conversational format between a TV presenter and a quantum physicist, the book makes sophisticated scientific concepts digestible without sacrificing accuracy.

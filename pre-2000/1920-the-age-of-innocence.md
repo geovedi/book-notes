@@ -1,5 +1,6 @@
 # The Age of Innocence
 **Authors**: Edith Wharton | **Year**: 1920
+**Category**: Fiction & Literature
 
 ## Summary
 In the rigid high society of 1870s New York, Newland Archer anticipates his marriage to the beautiful and conventional May Welland. His carefully planned world is disrupted when May's cousin, Countess Ellen Olenska, returns from Europe after leaving her cruel husband. As Newland becomes increasingly drawn to Ellen's intelligence, independence, and worldly perspective, he finds himself caught between his duty to family and society, and his deepening love for a woman who defies convention. The novel explores the painful conflict between personal happiness and social expectation, ultimately revealing both the tragedy and the quiet dignity of choosing responsibility over passion.

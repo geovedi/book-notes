@@ -1,5 +1,5 @@
 # Natasha's Dance: A Cultural History of Russia
-**Authors**: Orlando Figes | **Year**: 2002
+**Authors**: Orlando Figes | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 "Natasha's Dance" explores the complex cultural identity of Russia through the lens of Tolstoy's famous scene where Countess Natasha Rostov instinctively performs a peasant dance. Figes uses this moment as a metaphor for Russia's eternal struggle between its European elite culture and native folk traditions. The book traces how Russian artists, writers, and musicians from the 18th century through the Soviet period wrestled with fundamental questions: What did it mean to be Russian? Where was the true Russia - in Europe or Asia, St. Petersburg or Moscow, the imperial court or the peasant village?

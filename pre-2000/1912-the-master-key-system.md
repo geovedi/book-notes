@@ -1,5 +1,6 @@
 # The Master Key System
 **Authors**: Charles F. Haanel | **Year**: 1912
+**Category**: Self-Help & Personal Development
 
 ## Summary
 The Master Key System is a groundbreaking work in personal development and New Thought philosophy that reveals how our minds create reality. Haanel presents a systematic approach to mastering the creative power of thought through understanding the relationship between our inner mental world and outer physical experiences. The book teaches that we have access to unlimited power through the Universal Mind and can consciously create the life we desire by learning to control and direct our thoughts.

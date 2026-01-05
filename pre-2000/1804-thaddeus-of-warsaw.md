@@ -1,5 +1,6 @@
 # Thaddeus of Warsaw
 **Authors**: Jane Porter | **Year**: 1804
+**Category**: Fiction & Literature
 
 ## Summary
 "Thaddeus of Warsaw" is a groundbreaking historical romance that tells the story of Thaddeus Sobieski, a young Polish nobleman whose life is shattered by the tragic partition of Poland in the 1790s. As the grandson of the revered King John Sobieski, who saved Europe from Turkish invasion, Thaddeus embodies the highest virtues of his heroic lineage. When Russia, Prussia, and Austria brutally dismember Poland, Thaddeus witnesses the destruction of his family, the death of his beloved mother and grandfather, and the collapse of his nation.

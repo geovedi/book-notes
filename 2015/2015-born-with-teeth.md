@@ -1,5 +1,6 @@
 # Born with Teeth
 **Author**: Kate Mulgrew | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 "Born with Teeth" is Kate Mulgrew's raw, unflinching memoir that chronicles her journey from a peculiar childhood in Iowa to becoming the iconic Captain Janeway on Star Trek: Voyager. Born with a full set of teeth and an fierce independence, Mulgrew grew up in a sprawling Irish-Catholic family with eight children, raised by artistic parents who were both enchanting and deeply flawed. Her mother, a former artist who gave up her dreams for marriage, and her father, a charismatic but distant man, created a household that was both vibrant and chaotic.

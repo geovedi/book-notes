@@ -1,5 +1,6 @@
 # And the Next Question Is: Powerful Questions for Sticky Moments
 **Authors**: Rachel A. Alexander & Julia M. L. Russell | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 This practical coaching handbook is a comprehensive collection of powerful questions designed for coaches, leaders, and anyone who uses questioning as a tool for development and growth. The book addresses those "sticky moments" when conversations stall and you need the perfect question to get things moving again. Written by two experienced professional coaches, it serves as both a reference guide and a training resource for anyone looking to enhance their coaching practice or leadership communication skills.

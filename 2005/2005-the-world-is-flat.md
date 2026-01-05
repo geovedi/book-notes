@@ -1,5 +1,5 @@
 # The World Is Flat
-**Author**: Thomas L. Friedman | **Year**: 2005
+**Author**: Thomas L. Friedman | **Year**: 2005 | **Category**: Business & Finance
 
 ## Summary
 Thomas Friedman's seminal work argues that the global competitive playing field has been leveled, creating a "flat" world where individuals and companies can collaborate and compete globally without regard to geography. This flattening resulted from ten converging forces that emerged around 2000, creating unprecedented opportunities for innovation, entrepreneurship, and economic development while also intensifying global competition.

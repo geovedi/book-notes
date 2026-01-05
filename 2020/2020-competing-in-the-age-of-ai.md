@@ -1,6 +1,7 @@
 # Competing in the Age of AI
 
 **Authors**: Marco Iansiti, Karim R. Lakhani | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 

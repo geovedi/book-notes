@@ -1,5 +1,5 @@
 # Wicked Bugs: The Louse That Conquered Napoleon's Army & Other Diabolical Insects
-**Author**: Amy Stewart | **Year**: 2011
+**Author**: Amy Stewart | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 "Wicked Bugs" is a fascinating exploration of the dark side of the insect world, revealing how these tiny creatures have shaped human history, caused destruction, and inflicted suffering on millions. Stewart examines over 100 species of insects, spiders, and other arthropods that have earned their "wicked" reputation through their painful bites, destructive capabilities, or disease-carrying capacities. From bloodsucking parasites to agricultural devastators, the book reveals that we are vastly outnumbered—with 200 million insects for every human—and that these creatures possess powers that can alter the course of history, stop armies in their tracks, and even influence the outcome of wars.

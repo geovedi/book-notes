@@ -1,5 +1,6 @@
 # The Pickwick Papers
 **Authors**: Charles Dickens | **Year**: 1836
+**Category**: Fiction & Literature
 
 ## Summary
 "The Pickwick Papers" follows the adventures of Samuel Pickwick and his fellow members of the Pickwick Club as they travel throughout England documenting their observations of people, places, and customs. What begins as a scientific expedition transforms into a series of comic misadventures, romantic entanglements, and legal troubles that ultimately reveal more about human nature than any formal study could.

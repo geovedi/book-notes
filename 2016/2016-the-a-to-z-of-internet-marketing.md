@@ -1,5 +1,5 @@
 # 2016-The-A-to-Z-of-Internet-Marketing
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "The A to Z of Internet Marketing" is a comprehensive guide that demystifies the world of online marketing for beginners and experienced entrepreneurs alike. The book covers the fundamental concepts, evolution, and practical strategies needed to succeed in digital marketing, emphasizing that internet marketing is not as complex as it appears when you understand its core principles.

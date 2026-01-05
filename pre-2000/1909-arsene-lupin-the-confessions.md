@@ -1,6 +1,7 @@
 # 813 - The Confessions of Arsène Lupin
 **Original Title**: 813 - Les Confessions d'Arsène Lupin
 **Authors**: Maurice Leblanc | **Year**: 1909
+**Category**: Horror & Thriller
 
 ## Summary
 This brilliant detective story reveals one of Arsène Lupin's most audacious impersonations - that of the Duke of Charmerace. When millionaire Gournay-Martin's daughter Germaine prepares to marry the Duke, Chief-Inspector Guerchard suspects that the aristocratic groom might actually be the master thief Arsène Lupin in disguise. The story unfolds as a sophisticated cat-and-mouse game between Lupin and Guerchard, filled with thefts, romances, and clever deceptions that showcase Lupin's genius for disguise and manipulation.

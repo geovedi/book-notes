@@ -1,5 +1,6 @@
 # A Novel in Nine Letters
 **Authors**: Fyodor Dostoyevsky | **Year**: 2017 (Originally written 1847)
+**Category**: Fiction & Literature
 
 ## Summary
 "A Novel in Nine Letters" is a masterful epistolary satire that exposes the petty rivalries, hypocrisies, and self-deception inherent in middle-class social relationships. Through nine letters exchanged between two supposed friends—Pyotr Ivanitch and Ivan Petrovitch—Dostoyevsky reveals how quickly admiration can devolve into suspicion, and how personal conflicts often mask deeper character flaws.

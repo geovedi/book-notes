@@ -1,5 +1,6 @@
 # Heart (Kokoro)
 **Original Title**: こころ (Kokoro) | **Author**: Natsume Sōseki | **Year**: 1914
+**Category**: Fiction & Literature
 
 ## Summary
 *Heart* is a profound exploration of human connection, guilt, and isolation that follows the relationship between a young student and an enigmatic mentor he calls "Sensei." Set during Japan's Meiji era transition, the novel masterfully weaves together themes of modernization versus tradition, the weight of secrets, and the transformative power of confession. The story unfolds in three parts: the narrator's friendship with Sensei, his return home to care for his dying father, and finally Sensei's devastating confession letter that reveals the tragic history behind his isolation and eventual suicide. This groundbreaking psychological novel examines how past trauma shapes our capacity for love and trust.

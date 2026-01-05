@@ -1,5 +1,5 @@
 # The Happiness Advantage
-**Authors**: Shawn Achor | **Year**: 2010
+**Authors**: Shawn Achor | **Year**: 2010 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Happiness Advantage" turns the traditional formula for success on its head. Conventional wisdom tells us that if we work hard and achieve success, happiness will follow. Achor proves this formula is broken and presents compelling scientific evidence that happiness actually fuels success and performance, not the other way around. When we become positive, our brains perform significantly better than when they're negative, neutral, or stressed.

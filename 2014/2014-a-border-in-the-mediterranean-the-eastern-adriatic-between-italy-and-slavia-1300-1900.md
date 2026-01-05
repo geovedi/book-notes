@@ -1,6 +1,6 @@
 # A Border in the Mediterranean: The Eastern Adriatic Between Italy and Slavia (1300-1900)
 **Original Title**: Un confine nel Mediterraneo. L'Adriatico orientale tra Italia e Slavia (1300-1900)
-**Author**: Egidio Ivetic | **Year**: 2014
+**Author**: Egidio Ivetic | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking historical work examines the eastern Adriatic coast as a complex borderland where Italian and Slavic cultures, languages, and civilizations intersected over six centuries. Ivetic challenges traditional nationalist historiographies by presenting the region not as a simple dividing line, but as a dynamic "fault line" where multiple identities coexisted, merged, and sometimes clashed. The book focuses primarily on Istria and Dalmatia as emblematic case studies of Mediterranean borderlands, revealing how political boundaries rarely matched linguistic or cultural realities, and how plurilingualism was the norm rather than the exception.

@@ -1,5 +1,5 @@
 # Parables for the Virtual: Movement, Affect, Sensation
-**Authors**: Brian Massumi | **Year**: 2002
+**Authors**: Brian Massumi | **Year**: 2002 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Parables for the Virtual" is a groundbreaking philosophical work that challenges conventional cultural theory by recentering the body's intrinsic connection between movement and sensation. Massumi argues that cultural theory has traditionally overlooked the unmediated relationship between bodily movement and qualitative change, instead focusing on mediated representations and static positions. The book proposes a new framework for understanding affect as autonomous, unformed, and incorporeal—a real-but-abstract dimension of experience that precedes conscious thought and structured emotion.

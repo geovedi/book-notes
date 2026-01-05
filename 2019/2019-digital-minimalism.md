@@ -1,5 +1,6 @@
 # Digital Minimalism
 **Author**: Cal Newport | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Digital Minimalism presents a philosophy for reclaiming focus and intentionality in our hyper-connected world. Newport argues that our current relationship with technology is unsustainable, leading to anxiety, distraction, and a diminished quality of life. The solution isn't to abandon technology entirely, but to adopt a more intentional and selective approach to using digital tools.

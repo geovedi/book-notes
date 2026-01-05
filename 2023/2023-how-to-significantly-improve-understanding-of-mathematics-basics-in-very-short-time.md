@@ -1,6 +1,6 @@
 # How to Significantly Improve Understanding of Mathematics Basics in Very Short Time
 **Original Title**: How to significantly improve understanding of the basics of mathematics in a very short time
-**Author**: Igor Kazarinov | **Year**: 2023
+**Author**: Igor Kazarinov | **Year**: 2023 | **Category**: Science & Nature
 
 ## Summary
 This book presents a practical guide for rapidly improving mathematical understanding by identifying and correcting fundamental knowledge gaps. Kazarinov introduces simple yet powerful exercises that address common pitfalls affecting nearly 90% of students—gaps that often go unnoticed by teachers, students, and parents alike.

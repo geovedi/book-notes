@@ -1,6 +1,7 @@
 # Destination Mars
 **Original Title**: Destination Mars: The Story of Our Quest to Conquer the Red Planet
 **Authors**: Andrew May | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Destination Mars" is a comprehensive exploration of humanity's enduring fascination with Mars and our evolving quest to reach and potentially colonize the Red Planet. The book bridges the gap between science fiction and scientific reality, examining how technological advances, ambitious missions, and competitive space races are turning the dream of Mars exploration into achievable goals. From early astronomical observations to modern robotic rovers and future human colonization plans, May provides a detailed yet accessible account of the scientific, engineering, and political challenges involved in making Mars humanity's next frontier.

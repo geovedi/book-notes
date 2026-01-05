@@ -1,5 +1,6 @@
 # The River at the Center of the World
 **Author**: Simon Winchester | **Year**: 1997
+**Category**: History & Biography
 
 ## Summary
 Simon Winchester's masterful travel narrative follows his journey up the Yangtze River from its mouth near Shanghai to its source in the Tibetan Plateau. Inspired by a 17th-century Chinese handscroll painting called "The Ten Thousand Li Yangtze," Winchester undertakes this voyage not just as geographic exploration but as a journey back through Chinese time and civilization. The book weaves together personal adventure, historical reflection, and cultural observation to reveal how the Yangtze functions as the symbolic and literal heart of China - both dividing the country into north and south while uniting it through its role as the nation's primary artery of commerce, culture, and identity.

@@ -1,5 +1,5 @@
 # I Am Malala
-**Authors**: Malala Yousafzai, Christina Lamb | **Year**: 2013
+**Authors**: Malala Yousafzai, Christina Lamb | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "I Am Malala" is the powerful memoir of a Pakistani girl who defied the Taliban's ban on girls' education and paid for it with a bullet to the head at age fifteen. The book weaves together Malala's personal story growing up in Pakistan's beautiful Swat Valley, the rise of Taliban extremism in her homeland, and her transformation from a school-loving daughter into a global education activist. After surviving the assassination attempt, Malala became the youngest Nobel Peace Prize nominee and a symbol of courage for millions worldwide.

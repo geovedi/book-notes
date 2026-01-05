@@ -1,5 +1,5 @@
 # The Book on the Bookshelf
-**Author**: Henry Petroski | **Year**: 2010
+**Author**: Henry Petroski | **Year**: 2010 | **Category**: Art & Creativity
 
 ## Summary
 Henry Petroski reveals the fascinating evolution of how we store books, from ancient scrolls to modern bookcases, showing how bookshelves developed as technology and reading habits changed. This seemingly simple piece of furniture holds centuries of innovation, from chained medieval libraries to today's modular shelving systems.

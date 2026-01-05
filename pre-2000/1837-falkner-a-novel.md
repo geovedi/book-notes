@@ -1,5 +1,6 @@
 # Falkner, A Novel
 **Authors**: Mary Wollstonecraft Shelley | **Year**: 1837
+**Category**: Fiction & Literature
 
 ## Summary
 Set in the early 19th century, "Falkner" tells the story of Elizabeth Raby, a young orphan who loses both her parents in rapid succession. After her father Edwin dies of consumption, her mother follows him just months later, leaving six-year-old Elizabeth completely alone in the coastal village of Treby, Cornwall. The child is taken in reluctantly by Mrs. Baker, the landlady of the lodging house where the Rabys had been staying, but faces neglect and poverty.

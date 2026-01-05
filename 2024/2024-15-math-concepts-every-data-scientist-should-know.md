@@ -1,6 +1,7 @@
 # 15 Math Concepts Every Data Scientist Should Know
 
 **Authors**: David Hoyle | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 This book bridges the gap between using data science tools and understanding the mathematics behind them. Written for data scientists who use algorithms but lack confidence in the underlying math, it reveals that mathematics is not just symbols—it's a language that conveys ways of thinking about data science problems. The book covers 15 essential mathematical concepts through detailed explanations, real-world examples, and Python code implementations. Rather than making readers experts in every area, it provides the skills and confidence to read and understand mathematical equations independently, enabling data scientists to adapt algorithms to unique business problems.

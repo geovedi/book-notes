@@ -1,5 +1,6 @@
 # The Science of Getting Rich, Great and Well
 **Authors**: Wallace D. Wattles | **Year**: 1910
+**Category**: Business & Finance
 
 ## Summary
 This collection contains three foundational works in the New Thought movement: "The Science of Getting Rich," "The Science of Being Great," and "The Science of Being Well." Wattles presents a unified philosophy that material success, personal greatness, and physical health are not separate pursuits but interconnected aspects of a complete life. He argues that there's a "thinking stuff" (Formless Substance) from which all things are made, and that humans can shape their reality through directed thought, gratitude, and purposeful action.

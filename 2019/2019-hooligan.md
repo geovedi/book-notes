@@ -1,5 +1,6 @@
 # Hooligan: A Memoir
 **Authors**: Paddy Holohan with Richard Barrett | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 Hooligan is the raw, unflinching memoir of Paddy Holohan, who rose from one of Ireland's most disadvantaged housing estates to become a UFC fighter despite being born with hemophilia, a life-threatening blood disorder. Growing up in Jobstown, a government housing project on the outskirts of Dublin, Holohan endured poverty, bullying, and family trauma while discovering that fighting was his only path to survival and ultimately, success. This is a story of resilience against impossible odds - a hemophiliac who chose to compete in one of the world's most violent sports, becoming the first Irish man to win a UFC fight on Irish soil.

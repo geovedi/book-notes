@@ -1,5 +1,6 @@
 # Every Love Story Is a Ghost Story
 **Authors**: D. T. Max | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 This definitive biography chronicles the turbulent life of literary genius David Foster Wallace, from his midwestern childhood through his rise to literary stardom and his tragic struggle with depression. Born in 1962 to academic parents in Illinois, Wallace showed extraordinary intellectual gifts from an early age while grappling with severe anxiety and the beginning of what would become lifelong depression. The book traces his journey through Amherst College, where he wrote his first novel, through his graduate years and the creation of his masterpiece *Infinite Jest*, which catapulted him to fame but also intensified his mental health struggles.

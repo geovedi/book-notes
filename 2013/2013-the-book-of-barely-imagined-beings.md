@@ -1,5 +1,5 @@
 # The Book of Barely Imagined Beings
-**Author**: Caspar Henderson | **Year**: 2013
+**Author**: Caspar Henderson | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "The Book of Barely Imagined Beings" is a 21st-century bestiary that explores 27 remarkable real animals—from the axolotl that can regenerate entire limbs to the waterbear that can survive in space. Inspired by medieval bestiaries and Jorge Luis Borges' "Book of Imaginary Beings," Henderson reveals that real animals are often stranger and more wonderful than mythical creatures. Each entry blends natural history, evolutionary science, philosophy, and storytelling to show how these barely imagined beings challenge our understanding of life itself.

@@ -1,5 +1,5 @@
 # Moneyball: The Art of Winning an Unfair Game
-**Authors**: Michael Lewis | **Year**: 2003
+**Authors**: Michael Lewis | **Year**: 2003 | **Category**: Business & Finance
 
 ## Summary
 Moneyball tells the story of how Billy Beane and the Oakland Athletics used data-driven analytics to achieve extraordinary success with one of baseball's smallest budgets. When Beane took over as general manager in 1997, the A's had a payroll of just $40 million compared to the Yankees' $126 million, yet managed to win more regular season games than almost any other team. Their secret wasn't luck—it was a radical approach that challenged decades of baseball wisdom by using statistical analysis to identify undervalued players and strategies.

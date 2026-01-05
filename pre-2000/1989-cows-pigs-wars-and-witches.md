@@ -1,5 +1,6 @@
 # Cows, Pigs, Wars, and Witches
 **Author**: Marvin Harris | **Year**: 1989
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Marvin Harris demystifies seemingly irrational cultural practices by revealing their practical, material origins. From India's sacred cows to the Jewish pork taboo, from primitive warfare to European witch hunts, Harris demonstrates that bizarre customs often serve vital ecological, economic, or social functions. He argues against mystical explanations in favor of "cultural materialism"—the idea that cultural practices emerge from practical adaptations to environmental and material conditions.

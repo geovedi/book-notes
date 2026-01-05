@@ -1,6 +1,6 @@
 # Anti-Money Laundering State Mechanisms
 **Original Title**: Anti-Money Laundering State Mechanisms: International Experiences, Current Issues and Future Challenges
-**Authors**: Michele Sciurba | **Year**: 2018
+**Authors**: Michele Sciurba | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive academic work examines how global anti-money laundering (AML) and counter-terrorist financing (CTF) regulations have evolved from protecting financial institutions to becoming extensive surveillance systems that threaten civil liberties. The book traces the historical development from the US Bank Secrecy Act of 1970 through post-9/11 legislation like the USA Patriot Act and EU's Fourth AML Directive, revealing how these laws have effectively suspended banking privacy and turned financial institutions into extensions of law enforcement.

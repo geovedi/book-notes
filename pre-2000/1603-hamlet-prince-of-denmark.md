@@ -1,5 +1,6 @@
 # The Tragicall Historie of Hamlet, Prince of Denmarke
 **Authors**: William Shakespeare | **Year**: 1603
+**Category**: Fiction & Literature
 
 ## Summary
 Hamlet, Prince of Denmark, returns from university to find his father dead and his mother hastily married to his uncle Claudius. When his father's ghost reveals he was murdered by Claudius, Hamlet is torn between vengeance and morality. His quest for revenge spirals into a web of deception, madness (both real and feigned), and tragedy that ultimately claims the lives of nearly every major character.

@@ -1,5 +1,6 @@
 # The Music of the Primes
 **Authors**: Marcus du Sautoy | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 "The Music of the Primes" takes readers on a 2,000-year journey through humanity's quest to understand prime numbers and solve mathematics' greatest mystery: the Riemann Hypothesis. Du Sautoy transforms abstract mathematical concepts into compelling human stories, revealing how the search for patterns in prime numbers has driven some of history's greatest mathematical breakthroughs. The book frames primes as the "atoms of arithmetic" – fundamental building blocks that appear chaotic but actually follow hidden harmonious patterns that can only be heard through mathematics.

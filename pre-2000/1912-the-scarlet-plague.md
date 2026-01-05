@@ -1,6 +1,7 @@
 # The Scarlet Plague
 **Original Title**: La Peste Escarlata
 **Author**: Jack London | **Year**: 1912
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Scarlet Plague" is a post-apocalyptic novel set in the year 2073, sixty years after a devastating plague wiped out most of humanity in 2013. The story follows an old man, formerly Professor James Howard Smith, as he travels with his primitive grandchildren through the ruins of San Francisco. Through his rambling memories, he attempts to convey the wonders of the lost civilization to children who can barely comprehend concepts like reading, mathematics, or indoor plumbing.

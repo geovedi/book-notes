@@ -1,5 +1,5 @@
 # The Wave: In Pursuit of the Rogues, Freaks and Giants of the Ocean
-**Author**: Susan Casey | **Year**: 2010
+**Author**: Susan Casey | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "The Wave" is a thrilling exploration of oceanic giants that were once considered myth but are now scientifically documented. Casey weaves together three compelling narratives: the scientific discovery of rogue waves, the death-defying world of big-wave surfers, and the unsettling implications of climate change on our oceans. The book follows scientists aboard research vessels battling unprecedented storms, surfers like Laird Hamilton who actively seek out 100-foot waves, and the mounting evidence that our warming planet is creating increasingly extreme ocean conditions.

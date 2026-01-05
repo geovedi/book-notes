@@ -1,5 +1,5 @@
 # Ghost Ship
-**Author**: Brian Hicks | **Year**: 2004
+**Author**: Brian Hicks | **Year**: 2004 | **Category**: History & Biography
 
 ## Summary
 "Ghost Ship" tells the true story of the Mary Celeste, the most famous maritime mystery in history. In December 1872, the brigantine Mary Celeste was discovered drifting in the Atlantic Ocean, completely abandoned but otherwise seaworthy. The captain, his family, and crew—ten people in total—had vanished without a trace, leaving behind a ship that appeared eerily normal, with personal belongings, cargo, and supplies intact.

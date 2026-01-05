@@ -1,5 +1,5 @@
 # A Beginner's Guide to Article Marketing
-**Authors**: The Non Fiction Author | **Year**: 2018
+**Authors**: The Non Fiction Author | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Article marketing is a powerful, free strategy for driving traffic to your website by distributing high-quality articles across various online directories. This guide breaks down the fundamentals of creating compelling content that attracts visitors, builds credibility, and ultimately converts readers into customers through strategic link building and pre-selling techniques.

@@ -1,5 +1,6 @@
 # Sweeney Todd: The String of Pearls
 **Authors**: James Malcolm Rymer or Thomas Peckett Prest | **Year**: 1846-1847
+**Category**: Horror & Thriller
 
 ## Summary
 In the gaslit streets of 1785 London, where the chimes of St. Dunstan's church mark the passage of time, stands a humble barber shop on Fleet Street. Within its walls works Sweeney Todd, a grotesque figure with a terrifying mane of hair and a horrifying secret. When customers enter his shop for a penny shave, they rarely emerge again - their bodies disposed of through a complex system of traps and hidden passages, eventually making their way into the meat pies sold by Mrs. Lovett in nearby Bell Yard.

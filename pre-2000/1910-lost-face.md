@@ -1,5 +1,6 @@
 # Lost Face
 **Authors**: Jack London | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 Lost Face is a gripping collection of Jack London's short stories that explores the raw, brutal reality of human survival in the unforgiving wilderness of the North. Published in 1910, these stories showcase London's masterful ability to depict the primal struggle between civilization and savagery, human ingenuity and nature's indifference, and the thin veneer that separates ordered society from primal instinct.

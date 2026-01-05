@@ -1,5 +1,6 @@
 # The Bitcoin Genesis
 **Authors**: Jimmy Putnic | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "The Bitcoin Genesis" is a comprehensive guide to Bitcoin and cryptocurrency technologies, tracing the evolution of digital currency from its conceptual birth in 2008 through its explosive growth by 2017. The book provides both historical context and practical knowledge for understanding how Bitcoin works, its advantages and limitations, and how to participate in the cryptocurrency ecosystem. Author Jimmy Putnic presents Bitcoin not just as a technological innovation, but as a socio-economic phenomenon that challenges traditional financial systems and offers a glimpse into the future of money.

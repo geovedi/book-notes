@@ -1,5 +1,6 @@
 # Awe: The New Science of Everyday Wonder and How It Can Transform Your Life
 **Author**: Dacher Keltner | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 

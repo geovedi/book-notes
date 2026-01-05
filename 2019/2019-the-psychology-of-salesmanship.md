@@ -1,5 +1,6 @@
 # The Psychology of Salesmanship
 **Authors**: William Walker Atkinson | **Year**: 2019 (Originally written in early 20th century)
+**Category**: Business & Finance
 
 ## Summary
 "The Psychology of Salesmanship" reveals that selling is fundamentally a psychological process—an interaction between minds governed by established principles of human nature. Atkinson demonstrates that successful salesmanship depends not on manipulation or tricks, but on understanding and applying the science of mind to both the seller's and buyer's psychology. The book presents a complete framework from mental preparation to closing the sale, emphasizing that every step in selling is a mental process that can be mastered through understanding psychological laws.

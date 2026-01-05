@@ -1,5 +1,6 @@
 # Email Marketing: A Beginner's Guide to Becoming a Pro
 **Authors**: Larry Ellison | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Email marketing remains one of the most powerful digital marketing channels, delivering $21 return for every $1 invested. This guide provides a comprehensive framework for building effective email campaigns from the ground up, covering everything from list building to campaign execution. The book emphasizes that in our mobile-first world, email provides direct access to your audience's pockets through their smartphones, making it an invaluable tool for businesses of all sizes.

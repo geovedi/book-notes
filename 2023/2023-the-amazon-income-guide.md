@@ -1,6 +1,7 @@
 # The Amazon Income Guide: 20 Ways to Make Money with Amazon
 
 **Author**: Jeff Walker | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "The Amazon Income Guide" is a comprehensive roadmap for entrepreneurs looking to generate income through Amazon's Affiliate Program. The book covers everything from basic website setup to advanced optimization techniques, focusing on practical strategies rather than get-rich-quick schemes. Walker emphasizes that success requires genuine effort, strategic product selection, and understanding the mechanics of affiliate marketing.

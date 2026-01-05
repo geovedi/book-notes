@@ -1,5 +1,6 @@
 # Where's the Money? The Cycle of Poverty and Why the Majority Can't Be Rich
 **Authors**: Robin Sacredfire | **Year**: 2015
+**Category**: Business & Finance
 
 ## Summary
 This controversial book explores the fundamental differences between wealthy and poor mindsets, arguing that poverty is primarily a psychological condition reinforced by systemic manipulation. The author claims that 96% of the world remains trapped in poverty due to limiting beliefs, poor strategic thinking, and a global system designed to maintain wealth concentration among the elite. Through examining behavioral patterns, investment strategies, and alleged conspiracy theories about power structures, the book presents a radical perspective on why most people cannot achieve wealth despite hard work.

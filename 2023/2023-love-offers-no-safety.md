@@ -1,5 +1,6 @@
 # Love Offers No Safety
 **Editors**: Olumide Femi Makanjuola, Jude Dibia | **Year**: 2023
+**Category**: Romance & Relationships
 
 ## Summary
 "Love Offers No Safety" is a groundbreaking collection of personal narratives from queer men living in Nigeria, offering an unfiltered look at their daily struggles, triumphs, and the complex realities of navigating love and identity in a hostile society. The book emerges from a project that collected intimate stories through interviews, capturing the diverse experiences of men across different ages, backgrounds, and regions in Nigeria. Through these testimonies, readers witness the profound impact of discriminatory laws, religious condemnation, family rejection, and societal pressures on the mental health and wellbeing of Nigeria's queer community.

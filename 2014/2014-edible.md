@@ -1,5 +1,5 @@
 # Edible
-**Authors**: Daniella Martin | **Year**: 2014
+**Authors**: Daniella Martin | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "Edible" presents a compelling case for entomophagy (eating insects) as humanity's most logical solution to global food sustainability challenges. Martin combines environmental science, nutritional research, cultural anthropology, and culinary exploration to transform readers from disgust to curiosity about insect consumption. Through personal adventures, historical context, and practical guidance, she reveals how 80% of world cultures already embrace insects as protein sources while Western societies remain culturally blocked from this efficient, nutritious, and environmentally friendly food source.

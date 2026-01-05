@@ -1,5 +1,6 @@
 # Wild: From Lost to Found on the Pacific Crest Trail
 **Author**: Cheryl Strayed | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 At twenty-two, Cheryl Strayed's world shattered when her mother died from cancer. In the aftermath, her family disintegrated, her marriage collapsed, and she spiraled into self-destructive behavior including heroin use and infidelity. Four years later, with nothing left to lose, she made a spontaneous decision: to hike the Pacific Crest Trail alone—a 1,100-mile journey from the Mojave Desert through California and Oregon to Washington State.

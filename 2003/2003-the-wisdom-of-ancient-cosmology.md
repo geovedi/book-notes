@@ -1,6 +1,6 @@
 # The Wisdom of Ancient Cosmology
 **Original Title**: A sabedoria da antiga cosmologia
-**Author**: Wolfgang Smith | **Year**: 2003
+**Author**: Wolfgang Smith | **Year**: 2003 | **Category**: Spirituality & Religion
 
 ## Summary
 Wolfgang Smith's "The Wisdom of Ancient Cosmology" presents a revolutionary reconciliation between modern science and traditional cosmological wisdom. Smith argues that contemporary physics—particularly quantum mechanics and relativity theory—has inadvertently dismantled the materialistic worldview that once seemed to invalidate traditional religious cosmology. Rather than demonstrating that ancient cosmological concepts were primitive superstitions, modern physics reveals that the scientific materialism of the 19th century was itself an outdated worldview.

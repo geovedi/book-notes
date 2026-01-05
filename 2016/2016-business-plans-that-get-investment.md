@@ -1,5 +1,5 @@
 # Business Plans That Get Investment
-**Authors**: David Bateman | **Year**: 2016
+**Authors**: David Bateman | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Business Plans That Get Investment" transforms the daunting task of business plan writing into a straightforward, structured process that actually works. Written by someone who has experienced both sides of the investment table—as entrepreneur seeking funding and as investor evaluating proposals—this book delivers a battle-tested formula for creating business plans that attract investment and accelerate growth.

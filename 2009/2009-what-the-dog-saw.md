@@ -1,5 +1,6 @@
 # What the Dog Saw
 **Author**: Malcolm Gladwell | **Year**: 2009
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "What the Dog Saw" is a collection of Gladwell's best essays from The New Yorker, organized into three thematic sections that explore the fascinating interior lives of people, ideas, and predictions. The book embodies Gladwell's signature approach: taking seemingly mundane topics—from ketchup to dog training to hair dye—and revealing the complex human stories and unexpected insights hidden within. Gladwell's curiosity-driven journalism seeks to answer not just "what do people do?" but "what does it feel like to be someone else?"—exploring what he calls the "other minds problem" that has fascinated him since childhood.

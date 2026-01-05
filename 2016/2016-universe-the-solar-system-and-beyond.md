@@ -1,5 +1,5 @@
 # Universe: The Solar System and Beyond
-**Authors**: My Ebook Publishing House | **Year**: 2016
+**Authors**: My Ebook Publishing House | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "Universe: The Solar System and Beyond" is an educational journey through our cosmic neighborhood, from Earth's discovery of its round shape to the vast expanses of galaxies billions of light-years away. This accessible guide breaks down complex astronomical concepts into digestible explanations, covering everything from the historical battle between scientific discovery and religious dogma to the mechanics of planetary motion and the possibility of life on other worlds.

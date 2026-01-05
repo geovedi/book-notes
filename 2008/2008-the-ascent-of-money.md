@@ -1,5 +1,6 @@
 # The Ascent of Money
 **Author**: Niall Ferguson | **Year**: 2008
+**Category**: Business & Finance
 
 ## Summary
 "The Ascent of Money" presents a revolutionary counterargument to the conventional wisdom that finance is parasitical on the "real" economy. Instead, Ferguson demonstrates that financial innovation has been an indispensable force in human progress, from ancient Babylon to modern global finance. The book traces the evolution of money, credit, banking, bonds, stocks, insurance, and real estate, revealing how financial instruments have shaped civilizations, funded empires, and driven human advancement from subsistence to prosperity.

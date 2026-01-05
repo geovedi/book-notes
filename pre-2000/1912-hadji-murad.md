@@ -1,5 +1,6 @@
 # Hadji Murad
 **Authors**: Leo Tolstoy | **Year**: 1912 (posthumously)
+**Category**: Fiction & Literature
 
 ## Summary
 Hadji Murad is Tolstoy's final masterpiece, a powerful novella based on the true story of a Chechen warrior who deserts the Russian army in the Caucasus. The narrative follows Hadji Murad's desperate attempt to save his family from his enemy Shamil by seeking protection from the Russians he once fought against. What begins as a strategic alliance quickly devolves into a tragic tale of cultural collision, honor, and the brutal realities of war.

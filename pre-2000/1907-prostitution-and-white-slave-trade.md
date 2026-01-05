@@ -1,6 +1,7 @@
 # Prostitution and White Slave Trade
 **Original Title**: Prostitution und Mädchenhandel : Neue Enthüllungen aus dem Sklavenleben weißer Frauen und Mädchen
 **Author**: Dr. Otto Henne am Rhyn | **Year**: 1907
+**Category**: History & Biography
 
 ## Summary
 "Prostitution and White Slave Trade" is a groundbreaking exposé that reveals the systematic exploitation and trafficking of women and girls across Europe, the Americas, and the Ottoman Empire in the early 20th century. Dr. Otto Henne am Rhyn presents documented cases and investigative reports showing how white slave trade operated under the protection of corrupt officials and regulated prostitution systems. The book argues that state-sanctioned prostitution inevitably creates demand for trafficked women, making governments complicit in modern slavery.

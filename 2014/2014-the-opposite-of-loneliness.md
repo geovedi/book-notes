@@ -1,5 +1,5 @@
 # The Opposite of Loneliness
-**Authors**: Marina Keegan, Anne Fadiman | **Year**: 2014
+**Authors**: Marina Keegan, Anne Fadiman | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 "The Opposite of Loneliness" is a posthumous collection of essays and stories by Marina Keegan, a talented Yale graduate who died in a car accident just five days after graduation. The book captures the voice of a generation grappling with possibility, uncertainty, and the search for meaning in a complex world. Through nine fiction pieces and nine nonfiction essays, Keegan explores themes of youth, ambition, community, and the anxiety of early adulthood with remarkable insight and honesty.

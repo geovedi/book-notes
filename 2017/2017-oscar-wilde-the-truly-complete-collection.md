@@ -1,5 +1,6 @@
 # Oscar Wilde: The Truly Complete Collection
 **Authors**: Oscar Wilde | **Year**: 2017 (Collection), Original works 1880-1900
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection showcases Oscar Wilde's complete literary legacy, spanning his dramatic masterpieces, his only novel, short stories, poetry, essays, and personal letters. Wilde revolutionized Victorian literature with his brilliant wit, aesthetic philosophy, and unflinching critique of social hypocrisy. From the dazzling comedy of "The Importance of Being Earnest" to the dark moral complexity of "The Picture of Dorian Gray," this collection reveals Wilde as a master of paradox who celebrated beauty while exposing society's corruption. His works continue to captivate readers with their timeless observations on human nature, art, and the conflict between individual desire and social convention.

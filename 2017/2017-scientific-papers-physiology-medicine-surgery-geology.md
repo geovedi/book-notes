@@ -1,5 +1,6 @@
 # Scientific Papers: Physiology, Medicine, Surgery, Geology
 **Authors**: Hippocrates, Ambroise Paré, William Harvey, Edward Jenner, Oliver Wendell Holmes, Joseph Lister, Louis Pasteur, Charles Lyell | **Year**: 2017 (Harvard Classics Volume 38)
+**Category**: Science & Nature
 
 ## Summary
 This Harvard Classics volume gathers the most revolutionary scientific papers that fundamentally changed our understanding of medicine, physiology, and earth science. Spanning from ancient Greece to the 19th century, these works represent pivotal breakthroughs: Hippocrates' foundational medical ethics, Harvey's discovery of blood circulation, Jenner's development of vaccination, Pasteur's germ theory, and Lister's antiseptic surgery. The collection demonstrates how careful observation, experimentation, and courageous thinking overturned centuries of dogma and laid the groundwork for modern medicine and science.

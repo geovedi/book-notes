@@ -1,5 +1,6 @@
 # The Way of All Flesh
 **Authors**: Samuel Butler | **Year**: 1903 (written 1872-1884)
+**Category**: Fiction & Literature
 
 ## Summary
 "The Way of All Flesh" is a semi-autobiographical novel that chronicles four generations of the Pontifex family, focusing primarily on Ernest Pontifex's journey from oppressed childhood through religious indoctrination, disastrous marriage, and eventual liberation. Written between 1872 and 1884 but published posthumously in 1903, the novel serves as a powerful critique of Victorian family life, religious hypocrisy, and the destructive nature of parental authority. Through Ernest's struggle to break free from the psychological chains of his upbringing, Butler delivers a scathing indictment of the institutions that stifle individual growth and authentic living.

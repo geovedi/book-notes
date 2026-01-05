@@ -1,5 +1,5 @@
 # Instant Time Management
-**Authors**: Instant Series Publication | **Year**: 2015
+**Authors**: Instant Series Publication | **Year**: 2015 | **Category**: Self-Help & Personal Development
 
 ## Summary
 

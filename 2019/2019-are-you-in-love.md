@@ -1,5 +1,6 @@
 # Are You in Love?
 **Original Title**: Er du forelsket? | **Authors**: Line Kyed Knudsen | **Year**: 2019
+**Category**: Children & Young Adult
 
 ## Summary
 "Are You in Love?" follows Kara, a young girl who goes on a vacation to a waterpark with her best friends Julie, Rose, and Malou. What starts as an exciting holiday adventure takes a romantic turn when Kara meets Karl, a boy with the same initial "K" as her. Throughout their vacation, Kara experiences the thrilling highs and painful lows of her first major crush - from the magical moments of connection to the devastating sting of rejection. The story captures the authentic emotional rollercoaster of young love, friendship dynamics, and the journey of self-discovery that comes with navigating early romantic feelings.

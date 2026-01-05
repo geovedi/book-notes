@@ -1,5 +1,6 @@
 # 2025 Stock Market Investing for Beginners
 **Authors**: Paul Mladjenovic | **Year**: 2025
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies stock market investing for absolute beginners, providing a step-by-step roadmap from basic concepts to advanced portfolio management. The book emphasizes that successful investing isn't about complex formulas but about understanding fundamental principles, having realistic goals, and maintaining discipline through market cycles. It transforms the intimidating world of stocks, bonds, and financial analysis into accessible knowledge that empowers readers to take control of their financial future.

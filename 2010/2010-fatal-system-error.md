@@ -1,5 +1,5 @@
 # Fatal System Error: The Hunt for the New Crime Lords Who Are Bringing Down the Internet
-**Author**: Joseph Menn | **Year**: 2010
+**Author**: Joseph Menn | **Year**: 2010 | **Category**: Technology & Computing
 
 ## Summary
 "Fatal System Error" reads like a cyber-thriller but tells a terrifying true story of how organized crime discovered the Internet and turned it into a multi-trillion-dollar criminal enterprise. The book follows Barrett Lyon, a brilliant young security expert who accidentally stumbled into an international investigation while protecting online gambling sites from Russian extortionists, and Andy Crocker, the British detective who pursued the hackers deep into Eastern Europe.

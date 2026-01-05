@@ -1,5 +1,6 @@
 # Nature as Teacher
 **Authors**: Viktor Schauberger, translated & edited by Callum Coats | **Year**: 1999
+**Category**: Science & Nature
 
 ## Summary
 Viktor Schauberger, an Austrian naturalist and inventor, presents a revolutionary understanding of Nature's working principles that directly contradict conventional scientific thinking. Through decades of observing water, forests, and natural phenomena, Schauberger discovered that Nature operates through indirect, cyclical processes governed by temperature gradients and biological motion. He argues that modern technology's explosive, direct approaches violate natural law, leading to environmental degradation, energy crises, and cultural decline. The book reveals Schauberger's discoveries about water's living qualities, the relationship between temperature and energy, and how humanity can work with Nature instead of against it to create sustainable energy systems and restore ecological balance.

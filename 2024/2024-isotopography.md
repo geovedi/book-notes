@@ -1,5 +1,6 @@
 # Isotopography
 **Authors**: Niels Wilde | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Isotopography" presents a groundbreaking reinterpretation of Søren Kierkegaard's philosophy through the lens of topological realism—the study of place, space, and existence. Wilde argues that Kierkegaard's central question "what does it mean to exist?" can be understood as a fundamental exploration of how beings are situated in place and how place itself shapes identity and existence.

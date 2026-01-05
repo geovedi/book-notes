@@ -1,6 +1,7 @@
 # The Human Beast
 **Original Title**: La Bête Humaine
 **Author**: Émile Zola | **Year**: 1890
+**Category**: Fiction & Literature
 
 ## Summary
 Set against the backdrop of France's burgeoning railway system in the late 19th century, "The Human Beast" explores the dark, primal instincts that lurk beneath the veneer of civilization. The novel follows Jacques Lantier, a railway engine driver who suffers from a hereditary impulse to murder—specifically women. This "beast within" represents Zola's examination of heredity, environment, and the animalistic nature that supposedly underlies human behavior, central themes in his naturalist Rougon-Macquart cycle.

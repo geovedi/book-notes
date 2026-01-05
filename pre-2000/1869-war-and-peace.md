@@ -1,6 +1,7 @@
 # War and Peace
 **Original Title**: Война и мир (Voina i mir)
 **Author**: Leo Tolstoy | **Year**: 1869
+**Category**: Fiction & Literature
 
 ## Summary
 War and Peace is Leo Tolstoy's monumental masterpiece that weaves together the lives of five aristocratic Russian families during Napoleon's invasion of Russia in 1812. The novel explores the historical cataclysm through intimate personal stories, following characters as they navigate love, ambition, betrayal, and the search for meaning in a world torn apart by war.

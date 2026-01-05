@@ -1,5 +1,6 @@
 # Alice in Wonderland
 **Authors**: Lewis Carroll | **Year**: 2017 (Collector's Edition)
+**Category**: Children & Young Adult
 
 ## Summary
 Alice's Adventures in Wonderland follows a curious young girl who falls down a rabbit hole into a fantastical world filled with peculiar creatures and nonsensical logic. Bored by her sister's book lacking pictures or conversation, Alice spots a White Rabbit with a pocket watch and follows him down his hole, beginning an extraordinary journey through a world where the ordinary rules of reality don't apply.

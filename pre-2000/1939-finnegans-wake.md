@@ -1,5 +1,6 @@
 # Finnegans Wake
 **Authors**: James Joyce | **Year**: 1939
+**Category**: Fiction & Literature
 
 ## Summary
 Finnegans Wake is James Joyce's final and most experimental work, a revolutionary novel that defies traditional narrative structure. Written in a unique dream language that blends multiple languages, puns, and portmanteaus, the book follows the dreams of Humphrey Chimpden Earwicker, a Dublin pub owner, and his family. The work explores universal themes through circular storytelling, beginning in the middle of a sentence and ending with the beginning of that same sentence, creating an infinite loop.

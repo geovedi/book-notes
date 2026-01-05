@@ -1,5 +1,6 @@
 # The Oresteia Trilogy
 **Original Title**: Ὀρέστεια (Oresteia) | **Authors**: Aeschylus | **Year**: 458 BCE
+**Category**: Fiction & Literature
 
 ## Summary
 The Oresteia is the only complete surviving Greek tragic trilogy, telling the story of the House of Atreus across three generations. The trilogy begins with King Agamemnon's return from Troy and murder by his wife Clytemnestra, continues with his son Orestes' revenge killing of his mother, and culminates in Orestes' trial before Athena, where the cycle of blood vengeance is finally broken through the establishment of civic justice.

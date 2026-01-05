@@ -1,5 +1,5 @@
 # The Devil in the White City
-**Author**: Erik Larson | **Year**: 2003
+**Author**: Erik Larson | **Year**: 2003 | **Category**: Horror & Thriller
 
 ## Summary
 "The Devil in the White City" tells two parallel stories set against the backdrop of 1890s Chicago. The first follows architect Daniel Burnham's race against time to build the spectacular 1893 World's Columbian Exposition, a dazzling "White City" of neoclassical buildings that would transform America's reputation and launch the "City Beautiful" movement. The second tracks H.H. Holmes, a charming young doctor who constructed a nearby "murder castle" - a hotel equipped with secret chambers, gas pipes, and a basement crematorium - where he lured and killed dozens (possibly hundreds) of visitors drawn to Chicago by the fair.

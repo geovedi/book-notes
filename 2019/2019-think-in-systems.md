@@ -1,5 +1,6 @@
 # Think in Systems: The Art of Strategic Planning, Effective
 **Authors**: Zoe McKey | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think in Systems" is a practical guide that demystifies systems thinking for everyday readers, showing how this powerful analytical approach can transform both personal and professional problem-solving. The book moves beyond traditional linear cause-and-effect thinking to help readers understand the complex, interconnected nature of real-world problems.

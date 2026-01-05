@@ -1,5 +1,5 @@
 # The Life of Ernst Chain
-**Authors**: Ronald Clark | **Year**: 2011
+**Authors**: Ronald Clark | **Year**: 2011 | **Category**: Health & Medicine
 
 ## Summary
 This biography tells the remarkable story of Ernst Boris Chain (1906-1979), the German-Jewish biochemist who played a crucial yet often overlooked role in the development of penicillin. Chain was one of three scientists awarded the Nobel Prize in 1945 for transforming Alexander Fleming's accidental discovery into a life-saving miracle drug that would save millions of lives. The book chronicles Chain's journey from his early life in Berlin through his escape from Nazi Germany to his pioneering work at Oxford, his establishment of a world-class research institute in Rome, and his final years at Imperial College London.

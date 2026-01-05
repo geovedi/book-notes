@@ -1,5 +1,6 @@
 # Neither Here nor There
 **Author**: Bill Bryson | **Year**: 1991
+**Category**: Fiction & Literature
 
 ## Summary
 Bill Bryson's hilarious travel memoir follows his journey through Europe two decades after his first backpacking trip as a young man. Armed with better funding but equally inadequate language skills, Bryson retraces his earlier footsteps while discovering that neither Europe nor himself have remained unchanged. From the Arctic darkness of Hammerfest to the chaotic streets of Naples, he delivers side-splitting observations about European culture, travel mishaps, and the universal absurdity of human behavior.

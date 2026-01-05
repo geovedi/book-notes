@@ -1,5 +1,6 @@
 # 2017 Harvard Classics: Elizabethan Drama 1
 **Authors**: Christopher Marlowe, William Shakespeare | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This volume contains four of the most powerful tragedies from Elizabethan England's theatrical golden age, showcasing the evolution of English drama through works by Christopher Marlowe and William Shakespeare. The collection features Marlowe's "Edward the Second" and four of Shakespeare's masterpieces—Hamlet, King Lear, Macbeth, and The Tempest—representing the pinnacle of dramatic achievement in the English language.

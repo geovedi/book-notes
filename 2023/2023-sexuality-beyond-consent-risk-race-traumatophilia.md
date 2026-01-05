@@ -1,5 +1,6 @@
 # Sexuality Beyond Consent: Risk, Race, Traumatophilia
 **Author**: Avgi Saketopoulou | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 A groundbreaking challenge to contemporary consent paradigms that argues our current approach to sexual ethics is fundamentally inadequate, especially for marginalized communities. Saketopoulou, a psychoanalyst and theorist, contends that affirmative consent frameworks are too focused on control, transparency, and avoiding harm—missing the transformative potential of erotic risk, opacity, and what she calls "traumatophilia" (a courageous engagement with trauma rather than avoidance of it).

@@ -1,6 +1,7 @@
 # Harmonic Resonance: You Create Your Own Reality
 **Original Title**: Ressonância Harmônica: Você cria sua própria realidade
 **Authors**: Hélio Couto | **Year**: 2021
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Harmonic Resonance" presents a revolutionary framework for personal transformation based on quantum physics principles. The book introduces Ressonância Harmônica (Harmonic Resonance) as a technology that uses information waves to清除 limiting beliefs and insert new knowledge to accelerate growth across all life areas. The author, with 50 years of research and 100,000 hours of practical experimentation, demonstrates how consciousness can directly influence reality through quantum mechanics principles. The work bridges cutting-edge physics with practical self-development, showing how anyone can access universal information to transform their lives.

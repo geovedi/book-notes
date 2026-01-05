@@ -1,5 +1,5 @@
 # Everyday Sexism
-**Author**: Laura Bates | **Year**: 2014
+**Author**: Laura Bates | **Year**: 2014 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Everyday Sexism" documents the widespread, often invisible forms of gender discrimination that women face daily. Based on the phenomenally successful Everyday Sexism Project that collected over 50,000 stories from women worldwide, Bates reveals how seemingly "minor" incidents—street harassment, workplace discrimination, casual misogyny—create a mosaic of inequality that normalizes sexism and enables more severe forms of violence against women.

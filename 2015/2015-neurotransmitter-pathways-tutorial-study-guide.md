@@ -1,7 +1,7 @@
 # 2015 Neurotransmitter Pathways: A Tutorial Study Guide
 
 **Original Title**: Neurotransmitter Pathways: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 

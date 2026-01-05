@@ -1,5 +1,5 @@
 # Bitcoin: Beginner's Simplified Guide to Make Money with Bitcoin
-**Authors**: Gavin S. Finney | **Year**: 2018
+**Authors**: Gavin S. Finney | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Bitcoin is a decentralized cryptocurrency created by the anonymous Satoshi Nakamoto in 2009, designed to function as digital cash without government control or central banking authorities. The book serves as a comprehensive introduction for beginners looking to understand and profit from Bitcoin investments.

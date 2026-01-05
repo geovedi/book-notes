@@ -1,5 +1,6 @@
 # The Divine Comedy
 **Original Title**: Divina Commedia | **Authors**: Dante Alighieri | **Year**: 1308-1321
+**Category**: Fiction & Literature
 
 ## Summary
 The Divine Comedy is Dante Alighieri's epic poem describing his allegorical journey through the three realms of the afterlife: Hell (Inferno), Purgatory (Purgatorio), and Heaven (Paradiso). Written during his exile from Florence, this masterpiece serves as both a vivid adventure through the supernatural world and a profound exploration of medieval Christian theology, philosophy, and human nature. The poem begins with Dante lost in a dark wood, representing his moral confusion, and follows his transformative journey guided first by the Roman poet Virgil (representing human reason) through Hell and Purgatory, and then by Beatrice (representing divine love and wisdom) through Heaven.

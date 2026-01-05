@@ -1,5 +1,5 @@
 # The Trump Tapes
-**Authors**: Bob Woodward | **Year**: 2022
+**Authors**: Bob Woodward | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "The Trump Tapes" is an unprecedented collection of 20 raw interview recordings between veteran journalist Bob Woodward and President Donald Trump, spanning from Trump's 2016 presidential campaign through his tumultuous presidency. Woodward, who has been a Washington Post reporter for 50 years and shared in two Pulitzer Prizes, does something he's never done before—presenting lengthy, raw interviews with his full audio recordings and transcripts.

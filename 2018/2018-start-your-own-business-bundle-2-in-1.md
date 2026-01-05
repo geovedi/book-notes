@@ -1,5 +1,5 @@
 # Start Your Own Business Bundle 2-in-1
-**Authors**: Madison Booker, Evan Jones | **Year**: 2018
+**Authors**: Madison Booker, Evan Jones | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive 2-in-1 guide transforms creative hobbies into profitable online businesses by combining two powerful approaches: selling handmade crafts on platforms like Etsy and building a complete e-commerce store with Shopify. The book demystifies the entire process from product creation to customer service, showing aspiring entrepreneurs how to escape the 9-to-5 grind and turn their creativity into sustainable income.

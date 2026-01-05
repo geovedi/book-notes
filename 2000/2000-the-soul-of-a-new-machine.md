@@ -1,5 +1,5 @@
 # The Soul of a New Machine
-**Author**: Tracy Kidder | **Year**: 2000
+**Author**: Tracy Kidder | **Year**: 2000 | **Category**: Technology & Computing
 
 ## Summary
 Tracy Kidder's Pulitzer Prize-winning masterpiece chronicles the intense, grueling journey of a team of computer engineers at Data General racing to create a next-generation minicomputer in the late 1970s. The book follows Tom West and his team of brilliant, obsessive engineers as they work around the clock designing "Eagle," a machine that will determine the company's future in the fiercely competitive computer industry.

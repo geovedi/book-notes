@@ -1,5 +1,6 @@
 # Persuasion
 **Authors**: Jane Austen | **Year**: 1817
+**Category**: Romance & Relationships
 
 ## Summary
 Anne Elliot, 27, is the overlooked middle daughter of the vain Sir Walter Elliot, who is forced to rent his family estate due to financial mismanagement. Eight years earlier, Anne had been persuaded by her godmother Lady Russell to break off her engagement to Captain Frederick Wentworth, a naval officer with neither fortune nor status. When Captain Wentworth returns from war, wealthy and successful, he enters her social circle again—still hurt and seemingly determined to marry anyone but Anne. Through misunderstandings, accidents, and encounters with various suitors, Anne and Wentworth must navigate their complicated past and present feelings.

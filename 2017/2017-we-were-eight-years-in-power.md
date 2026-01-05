@@ -1,5 +1,6 @@
 # We Were Eight Years in Power
 **Authors**: Ta-Nehisi Coates | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 "We Were Eight Years in Power" is a collection of eight essays written during Barack Obama's presidency, each framed with personal reflections from Coates's life during those years. The book explores the central paradox of Obama's presidency: how "Good Negro Government"—respectable, competent black leadership—ironically fuels white supremacy by demonstrating black capability in ways that threaten established racial hierarchies. Coates argues that Obama's very success as a model president activated deep-seated white fears, ultimately leading to the backlash that elected Donald Trump.

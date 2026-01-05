@@ -1,5 +1,5 @@
 # The Cases That Haunt Us
-**Authors**: John E. Douglas, Mark Olshaker | **Year**: 2000
+**Authors**: John E. Douglas, Mark Olshaker | **Year**: 2000 | **Category**: Horror & Thriller
 
 ## Summary
 FBI legendary profiler John Douglas applies modern behavioral profiling techniques to America's most enduring unsolved mysteries, from Jack the Ripper to JonBenét Ramsey. Using the same methods that helped catch real serial killers, Douglas re-examines these infamous cases through the lens of criminal investigative analysis, challenging popular theories and conventional wisdom along the way.

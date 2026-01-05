@@ -1,5 +1,6 @@
 # Practicing the Way: Be With Jesus. Become Like Him. Do as He Did
 **Authors**: John Mark Comer | **Year**: 2024
+**Category**: Spirituality & Religion
 
 ## Summary
 "Practicing the Way" presents a radical re-framing of what it means to follow Jesus—not as a convert to Christianity, but as an apprentice in the kingdom of God. John Mark Comer argues that Jesus' invitation was always "Come, follow me"—a call to arrange our entire lives around three driving goals: to be with Jesus, become like him, and do as he did. The book challenges the modern Western approach to discipleship that often creates Christians who aren't actually apprentices of Jesus, offering instead a comprehensive framework for spiritual formation through intentional practices and rhythms that open our lives to God's transforming power.

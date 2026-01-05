@@ -1,6 +1,7 @@
 # The Night of Christmas Eve
 **Original Title**: Ночь перед Рождеством (Noch' pered Rozhdestvom)
 **Author**: Nikolai Gogol | **Year**: 1832
+**Category**: Fiction & Literature
 
 ## Summary
 Set in the Ukrainian village of Dikanka on a magical Christmas Eve, this folk tale weaves together supernatural mischief, earthly romance, and comedic chaos. When the Devil steals the moon to create darkness and prevent the blacksmith Vakula from visiting his beloved Oxana, the blacksmith must outwit supernatural forces to win his true love. The story captures the rich tapestry of Ukrainian village life, where witches fly on broomsticks, devils roam the earth, and love conquers all obstacles.

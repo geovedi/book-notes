@@ -1,5 +1,6 @@
 # Powerful Poems
 **Authors**: Ralph Waldo Emerson | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 "Powerful Poems" is a comprehensive collection of Ralph Waldo Emerson's transcendentalist poetry, showcasing his philosophical vision through verse. As one of America's most influential 19th-century thinkers, Emerson crafted poems that explore the profound interconnectedness of nature, humanity, and the divine. The collection spans his entire poetic career, from early nature lyrics to later philosophical meditations, offering readers a complete journey through his spiritual and intellectual evolution.

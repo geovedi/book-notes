@@ -1,5 +1,5 @@
 # Not My Father's Son
-**Author**: Alan Cumming | **Year**: 2014
+**Author**: Alan Cumming | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 This powerful memoir alternates between Cumming's childhood in Scotland and his present-day involvement in the BBC genealogy show "Who Do You Think You Are?" When Cumming agrees to investigate his family history on camera, he expects to solve the mystery of his maternal grandfather's death. Instead, he receives a devastating revelation: the man who raised him is not his biological father. The book weaves together two parallel journeys—uncovering the truth about his grandfather's suspicious death and confronting the lifelong abuse he endured from the man he thought was his father.

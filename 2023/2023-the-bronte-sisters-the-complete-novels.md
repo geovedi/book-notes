@@ -1,5 +1,6 @@
 # The Brontë Sisters: The Complete Novels (Unabridged)
 **Authors**: Charlotte Brontë, Emily Brontë, Anne Brontë | **Year**: 2023 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together all eight novels from the legendary Brontë sisters—three remarkable women who revolutionized English literature despite their isolated, short lives. From Charlotte's passionate social commentary and psychological depth in *Jane Eyre* to Emily's wild, Gothic masterpiece *Wuthering Heights*, and Anne's quiet but powerful observations in *Agnes Grey* and *The Tenant of Wildfell Hall*, this collection represents some of the most influential works of 19th-century literature. The sisters wrote under male pseudonyms (Currer, Ellis, and Acton Bell) to overcome Victorian publishing prejudices, yet their distinctive voices continue to resonate with readers today through their exploration of independence, social constraints, and the complexity of human nature.

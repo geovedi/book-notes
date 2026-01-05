@@ -1,6 +1,6 @@
 # The Power of MAP to Entrepreneurial Success
 **Original Title**: A Practical Guide to Entrepreneurship
-**Authors**: Alison Price, David Price | **Year**: 2013
+**Authors**: Alison Price, David Price | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 "A Practical Guide to Entrepreneurship" redefines entrepreneurship as a balanced journey rather than a high-risk gamble. The authors advocate for a lower-risk approach to starting businesses and social enterprises, drawing from real case studies ranging from bakeries to cricket bat factories. The book presents entrepreneurship not just about financial achievement, but about finding meaningful work that generates positive emotions while creating value.

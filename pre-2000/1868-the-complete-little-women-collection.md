@@ -1,5 +1,6 @@
 # The Complete Little Women Collection
 **Authors**: Louisa May Alcott | **Year**: 1868-1886
+**Category**: Children & Young Adult
 
 ## Summary
 This collection comprises Louisa May Alcott's beloved four-book saga following the March sisters from adolescence through adulthood. Beginning with **Little Women** (1868) during the Civil War, we meet Meg, Jo, Beth, and Amy March as they navigate poverty, love, loss, and sisterhood in Concord, Massachusetts. The sequel **Good Wives** (originally Part Two of Little Women) follows their marriages and early adult challenges. **Little Men** (1871) shifts focus to Jo's school for boys at Plumfield, where she and husband Professor Bhaer nurture wayward children with love and discipline. Finally, **Jo's Boys** (1886) revisits the characters ten years later, showing how the Plumfield students have grown and the March sisters have entered middle age, bringing their journey full circle.

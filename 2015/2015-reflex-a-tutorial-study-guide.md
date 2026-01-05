@@ -1,5 +1,6 @@
 # Reflex: A Tutorial Study Guide
 **Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Category**: Health & Medicine
 
 ## Summary
 Reflex is a concise educational guide that explains the fundamental neuroscience of reflexes—rapid, automatic responses that protect our bodies and help us survive. The book breaks down complex neural circuitry into digestible concepts using a Q&A format, covering everything from the classic knee-jerk reflex to protective mechanisms like pain withdrawal and eye blinking.

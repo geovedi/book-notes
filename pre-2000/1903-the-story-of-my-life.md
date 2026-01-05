@@ -1,5 +1,6 @@
 # The Story of My Life
 **Author**: Helen Keller | **Year**: 1903
+**Category**: History & Biography
 
 ## Summary
 "The Story of My Life" is Helen Keller's remarkable account of the first twenty years of her extraordinary journey from isolated darkness to intellectual illumination. Written while she was still a college student, this autobiography documents how a deaf-blind child from Tuscumbia, Alabama, broke through the barriers of sensory deprivation to become a world-renowned author, activist, and symbol of human potential.

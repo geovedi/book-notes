@@ -1,5 +1,6 @@
 # The Horror in the Museum
 **Authors**: H. P. Lovecraft | **Year**: 1933
+**Category**: Horror & Thriller
 
 ## Summary
 Stephen Jones, a connoisseur of bizarre art, becomes fascinated with Rogers's Museum—a grotesque underground exhibition in Southwark featuring horrifying wax figures far more disturbing than those at Madame Tussaud's. The museum's proprietor, George Rogers, is a former Tussaud employee with a troubled past and an obsession with creating terrifyingly lifelike depictions of cosmic horrors and mythological monsters. As Jones develops a relationship with the increasingly unhinged Rogers, he discovers evidence that suggests some of the museum's horrors may not be artificial creations at all.

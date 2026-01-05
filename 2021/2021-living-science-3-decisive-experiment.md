@@ -1,6 +1,7 @@
 # Living Science – 3: Decisive Experiment
 **Original Title**: Living Science – 3: Decisive Experiment
 **Author**: Word Rem | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "Living Science – 3: Decisive Experiment" is a revolutionary exploration of alternative physics that challenges Einstein's Special Theory of Relativity and modern scientific dogma. The author presents decades of home-based experiments suggesting that the speed of light is not constant, that "ether" exists as a medium of "slow light," and that material objects leave ethereal traces when in motion. This book bridges experimental science with philosophical speculation, proposing a "Living Science" paradigm where all matter is interconnected and capable of storing information.

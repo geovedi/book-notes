@@ -1,5 +1,6 @@
 # Everest: Expedition to the Ultimate
 **Authors**: Reinhold Messner | **Year**: 1978
+**Category**: History & Biography
 
 ## Summary
 "Everest: Expedition to the Ultimate" is legendary mountaineer Reinhold Messner's compelling account of his groundbreaking 1978 ascent of Mount Everest without supplemental oxygen—the first such successful climb in history. Written with philosophical depth and raw honesty, Messner challenges conventional mountaineering practices and explores the true meaning of human achievement against nature's greatest challenges. The book combines thrilling adventure narrative with profound reflections on climbing ethics, personal limits, and the commercialization of mountaineering.

@@ -1,5 +1,5 @@
 # Hillbilly Elegy
-**Author**: J.D. Vance | **Year**: 2016
+**Author**: J.D. Vance | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "Hillbilly Elegy" is a powerful memoir that traces J.D. Vance's journey from a childhood of poverty and instability in Ohio's Rust Belt to graduating from Yale Law School. Born into a family of Scots-Irish hillbillies from Kentucky, Vance grows up amid the chaos of his mother's drug addiction, constant moves between father figures, and the comforting stability provided by his tough-loving grandparents, Mamaw and Papaw. The book is both a personal story of upward mobility and a broader examination of the working-class white Americans who feel left behind by the American Dream.

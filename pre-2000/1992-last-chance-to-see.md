@@ -1,5 +1,6 @@
 # Last Chance to See
 **Authors**: Douglas Adams, Mark Carwardine | **Year**: 1992
+**Category**: Science & Nature
 
 ## Summary
 "Last Chance to See" is a hilarious yet heartbreaking travelogue following science fiction author Douglas Adams and zoologist Mark Carwardine on expeditions to find Earth's most endangered species. What begins as a series of absurd adventures through remote corners of the globe transforms into an urgent wake-up call about humanity's role in the sixth mass extinction. The book brilliantly combines Adams' signature wit with hard-hitting conservation science, taking readers from Madagascar's rainforests to New Zealand's predator-free islands as the team races against time to document species that may vanish within our lifetime.

@@ -1,5 +1,5 @@
 # What Poor People Do That Rich People Don't
-**Authors**: Kevin Solimon | **Year**: 2018
+**Authors**: Kevin Solimon | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals 15 common habits that keep people trapped in financial poverty and prevent them from building wealth. The book operates on a straightforward premise: your daily habits determine your financial future. While most people focus on earning more money, the real difference between the wealthy and poor lies in how they think, spend, and behave with their resources. Each chapter breaks down a specific poor habit, explains its psychological roots, and provides actionable alternatives to replace it with wealth-building behaviors.

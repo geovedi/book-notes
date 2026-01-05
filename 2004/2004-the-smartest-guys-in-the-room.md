@@ -1,5 +1,5 @@
 # The Smartest Guys in the Room
-**Authors**: Bethany McLean, Peter Elkind | **Year**: 2004
+**Authors**: Bethany McLean, Peter Elkind | **Year**: 2004 | **Category**: Business & Finance
 
 ## Summary
 "The Smartest Guys in the Room" is the definitive account of Enron's spectacular rise and even more spectacular collapse—the largest bankruptcy in American history at the time. The book reveals how a once-revered energy trading company became a house of cards built on accounting fraud, off-balance-sheet entities, and corporate hubris. What appeared to be America's most innovative company was actually an elaborate illusion where profits were manufactured, debts were hidden, and executives enriched themselves while destroying the lives of thousands of employees.

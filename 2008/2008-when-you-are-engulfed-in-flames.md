@@ -1,5 +1,6 @@
 # When You Are Engulfed in Flames
 **Author**: David Sedaris | **Year**: 2008
+**Category**: Fiction & Literature
 
 ## Summary
 A wickedly funny collection of autobiographical essays that captures life's absurdities through Sedaris's signature blend of self-deprecation and sharp observation. The book culminates in a remarkable account of spending three months in Japan to quit smoking—a $20,000 solution to a $1,200 problem.

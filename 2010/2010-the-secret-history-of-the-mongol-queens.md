@@ -1,5 +1,5 @@
 # The Secret History of the Mongol Queens
-**Author**: Jack Weatherford | **Year**: 2010
+**Author**: Jack Weatherford | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 

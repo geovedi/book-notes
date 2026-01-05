@@ -1,5 +1,5 @@
 # Blink: The Power of Thinking Without Thinking
-**Author**: Malcolm Gladwell | **Year**: 2005
+**Author**: Malcolm Gladwell | **Year**: 2005 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Blink" explores the power of rapid cognition - those split-second decisions and first impressions that our brains make without conscious thought. Gladwell reveals how our adaptive unconscious processes vast amounts of information in just two seconds, often leading to remarkably accurate judgments. However, these snap judgments can also be corrupted by biases and prejudices, making it crucial to understand when to trust our instincts and when to be wary of them.

@@ -1,6 +1,7 @@
 # A Hundred Billion Suns
 **Original Title**: 千亿个太阳——恒星的诞生、演变和衰亡 (Qiān Yì Gè Tàiyáng—Héngxīng de Dànshēng, Yǎnbiàn hé Shuāiwáng)
 **Author**: Rudolf Kippenhann | **Year**: 1980 (German Edition), 1987 (Chinese Translation)
+**Category**: Science & Nature
 
 ## Summary
 This accessible astronomy book takes readers on a fascinating journey through the complete lifecycle of stars—from their birth in clouds of gas and dust to their spectacular deaths as supernovae or quiet fade-outs as white dwarfs. Written by renowned astrophysicist Rudolf Kippenhann, the book explains complex stellar processes using everyday analogies and personal anecdotes from the author's research career.

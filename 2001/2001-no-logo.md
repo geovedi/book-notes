@@ -1,5 +1,5 @@
 # No Logo
-**Author**: Naomi Klein | **Year**: 2001
+**Author**: Naomi Klein | **Year**: 2001 | **Category**: Business & Finance
 
 ## Summary
 Naomi Klein's groundbreaking analysis reveals how corporations underwent a fundamental transformation in the late 20th century—shifting from producing products to producing brands. This created what Klein calls "hollow corporations" that outsource manufacturing while pouring resources into marketing and brand identity. The book documents how this shift has led to the erosion of public space, consumer choice, and stable jobs, while simultaneously giving rise to a powerful global resistance movement.

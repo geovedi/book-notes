@@ -1,5 +1,6 @@
 # Successful Interview: Your Complete Preparation Guide
 **Authors**: Maria Smirnova | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive interview preparation guide transforms the intimidating job interview process into a manageable, confidence-building experience. The book presents interview preparation as a systematic checklist-based approach, covering everything from research and self-presentation to handling different interview formats and managing anxiety. Smirnova frames interviews not as judgment sessions but as mutual business conversations about potential collaboration.

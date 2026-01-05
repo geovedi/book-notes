@@ -1,5 +1,6 @@
 # Three Books to Know: Capitalism
 **Authors**: Adam Smith, Max Weber, Elizabeth Gaskell | **Year**: 2020 (Collection)
+**Category**: Business & Finance
 
 ## Summary
 This curated collection brings together three essential works that explore the development, cultural foundations, and human impact of capitalism from different perspectives—economic theory, sociological analysis, and literary storytelling.

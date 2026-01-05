@@ -1,6 +1,7 @@
 # Basic 120 Japanese Kanji N5 Copybook
 **Original Title**: Basic 120 Japanese Kanji N5 Copybook/exercise book
 **Author**: Iuliia Nelidova | **Year**: 2025
+**Category**: Technology & Computing
 
 ## Summary
 This practical workbook provides a structured approach to mastering the 120 essential Japanese kanji characters required for the JLPT N5 proficiency exam. Designed for learners who have already mastered hiragana and katakana alphabets, this copybook emphasizes proper stroke order, consistent character formation, and extensive writing practice to build muscle memory and recognition skills.

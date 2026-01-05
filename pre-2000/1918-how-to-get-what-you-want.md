@@ -1,5 +1,6 @@
 # How to Get What You Want
 **Authors**: Wallace D. Wattles | **Year**: 1918
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

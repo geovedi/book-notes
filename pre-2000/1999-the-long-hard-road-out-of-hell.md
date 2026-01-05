@@ -1,5 +1,6 @@
 # The Long Hard Road Out of Hell
 **Authors**: Marilyn Manson (Brian Warner), Neil Strauss | **Year**: 1999
+**Category**: Fiction & Literature
 
 ## Summary
 This provocative autobiography chronicles the transformation of Brian Warner, a troubled Ohio boy with freckles and a bowl cut, into Marilyn Manson, one of rock's most controversial figures. The book traces his journey from a childhood filled with religious hypocrisy, family secrets, and suburban boredom, through his struggle to find his artistic voice, to his eventual emergence as the Antichrist Superstar who challenged America's moral fabric. More than just another rock memoir, it's a raw examination of how rebellion, art, and identity can forged in the crucible of pain, betrayal, and the dark underbelly of American culture.

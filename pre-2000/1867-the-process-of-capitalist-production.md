@@ -1,5 +1,6 @@
 # The Process of Capitalist Production
 **Authors**: Karl Marx | **Year**: 1867
+**Category**: Business & Finance
 
 ## Summary
 "The Process of Capitalist Production" (Volume I of Das Kapital) is Marx's monumental analysis of how capitalism works as an economic system. Marx begins by examining the commodity—the basic unit of capitalist wealth—and reveals how seemingly simple market exchanges hide a complex relationship between labor, value, and exploitation. The book demonstrates how capital emerges from the transformation of money into the means of production, and how capitalists generate profit through the extraction of "surplus value" from workers' labor.

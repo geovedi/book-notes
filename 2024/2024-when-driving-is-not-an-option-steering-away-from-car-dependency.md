@@ -1,5 +1,6 @@
 # When Driving Is Not an Option: Steering Away From Car Dependency
 **Authors**: Anna Letitia Zivarts | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 "One-THIRD OF PEOPLE LIVING IN THE UNITED STATES don't have a driver's license." This statistic reveals a hidden reality about our transportation system: millions of Americans are excluded from the car-dependent world we've built. Written by a low-vision mother who cannot drive, this powerful book exposes how car dependency fails not only those who can't drive but everyone in our communities.

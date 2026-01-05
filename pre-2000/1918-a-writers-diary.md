@@ -1,6 +1,7 @@
 # A Writer's Diary
 **Original Title**: A Writer's Diary
 **Author**: Virginia Woolf | **Year**: 1918-1941
+**Category**: Fiction & Literature
 
 ## Summary
 Virginia Woolf's Writer's Diary spans from 1918 to 1941, offering an intimate window into the mind of one of the 20th century's most innovative literary voices. This remarkable document chronicles Woolf's daily thoughts about her own writing process, her observations of contemporary literature, and her reflections on the creative life. Written primarily as personal notes to herself, the diary captures Woolf's evolving literary experiments from "Night and Day" through her masterpieces "Mrs Dalloway," "To the Lighthouse," "The Waves," and her final novel "Between the Acts."

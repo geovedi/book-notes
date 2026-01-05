@@ -1,5 +1,6 @@
 # Problem Solving 101
 **Author**: Ken Watanabe | **Year**: 2009
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Problem Solving 101" is a practical guide that transforms complex problem-solving techniques into simple, accessible methods for everyday use. Originally written for Japanese students, this book unexpectedly became a business bestseller when adults discovered its valuable framework for tackling challenges in both professional and personal contexts. The book presents problem-solving not as an innate talent, but as a learnable skill and habit that anyone can develop through practice.

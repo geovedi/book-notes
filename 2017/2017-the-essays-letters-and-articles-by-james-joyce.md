@@ -1,5 +1,6 @@
 # The Essays, Letters and Articles by James Joyce (Illustrated)
 **Authors**: James Joyce | **Year**: 2017 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together James Joyce's non-fiction writings from 1900-1907, revealing the formative years of one of literature's greatest modernists. These pieces showcase Joyce's early development as a critic, essayist, and cultural commentator, offering essential insights into the artistic philosophy that would later shape his revolutionary novels. The collection ranges from literary criticism and dramatic reviews to political commentary and personal reflections on Irish identity.

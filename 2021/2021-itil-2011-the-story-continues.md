@@ -1,5 +1,6 @@
 # ITIL 2011: The Story Continues
 **Authors**: Dr. Pratul Sharma | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 "ITIL 2011: The Story Continues" transforms the complex world of IT Service Management into an accessible, story-driven learning experience. Dr. Sharma uses practical examples from a fictional telecom company "GoodTel" to explain how ITIL frameworks help businesses deliver value through effective IT service management. The book bridges the gap between technical IT professionals and business leaders by demystifying ITIL concepts through relatable scenarios.

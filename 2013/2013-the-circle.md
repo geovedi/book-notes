@@ -1,5 +1,5 @@
 # The Circle
-**Authors**: Dave Eggers | **Year**: 2013
+**Authors**: Dave Eggers | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 "The Circle" is a dystopian novel that follows Mae Holland, a young woman who lands a dream job at the Circle, a powerful tech company that combines aspects of Google, Facebook, and Apple. The company operates under the mantra "Privacy is Theft," promoting total transparency and constant connectivity through innovative social technologies. As Mae rises through the ranks, she becomes increasingly enmeshed in the company's culture of oversharing and surveillance, eventually championing the movement toward complete transparency where nothing remains private and everyone is expected to share every aspect of their lives.

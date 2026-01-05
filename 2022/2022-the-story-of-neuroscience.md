@@ -1,5 +1,5 @@
 # The Story of Neuroscience
-**Original Title**: The Story of Neuroscience | **Authors**: Anne Rooney | **Year**: 2022
+**Original Title**: The Story of Neuroscience | **Authors**: Anne Rooney | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "The Story of Neuroscience" traces humanity's fascinating journey to understand the brain, from ancient beliefs about consciousness to modern neuroscience's cutting-edge discoveries. The book explores how we moved from seeing the heart as the seat of intelligence to recognizing the brain as the command center of body and mind, and delves into the challenging quest to understand how physical matter creates consciousness, thought, and identity.

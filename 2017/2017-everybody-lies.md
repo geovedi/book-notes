@@ -1,5 +1,6 @@
 # Everybody Lies
 **Author**: Seth Stephens-Davidowitz | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Everybody Lies" explores how big data, particularly internet search data, reveals our hidden true selves. Stephens-Davidowitz, a former Google data scientist, demonstrates that people's anonymous search queries provide unprecedented insights into human behavior, exposing truths that people would never admit in surveys or conversations. The book argues that while we may lie to others, ourselves, and researchers, our search data tells the truth about our deepest desires, fears, and prejudices—offering a revolutionary new window into human nature.

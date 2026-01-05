@@ -1,5 +1,5 @@
 # Complete Works of Dante Alighieri
-**Authors**: Dante Alighieri | **Year**: 2015 (Delphi Classics Edition)
+**Authors**: Dante Alighieri | **Year**: 2015 (Delphi Classics Edition) | **Category**: Fiction & Literature
 
 ## Summary
 Dante Alighieri's Complete Works represents one of literature's most monumental achievements, encompassing the full scope of medieval Italian literary genius. At its heart lies The Divine Comedy—Dante's epic journey through Hell, Purgatory, and Paradise—accompanied by his earlier lyrical masterpiece La Vita Nuova, philosophical treatises Il Convivio and De Monarchia, and various poems and letters. Written primarily in Italian rather than Latin, these works not only revolutionized literature but also helped establish the Tuscan dialect as the foundation of modern Italian language.

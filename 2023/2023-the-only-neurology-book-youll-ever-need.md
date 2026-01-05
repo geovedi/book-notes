@@ -1,5 +1,6 @@
 # The Only Neurology Book You'll Ever Need
 **Authors**: Alison I. Thaler, Malcolm S. Thaler | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive neurology textbook transforms complex neurological concepts into accessible, clinically relevant knowledge through a conversational, case-based approach. Written by both a neurologist and internist, it bridges specialized expertise with practical patient care, making neurology approachable for medical students, residents, and practicing clinicians.

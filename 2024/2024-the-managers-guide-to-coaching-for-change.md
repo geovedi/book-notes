@@ -1,5 +1,6 @@
 # The Manager's Guide to Coaching for Change
-**Authors**: John L. Bennett | **Year**: 2024 
+**Authors**: John L. Bennett | **Year**: 2024
+**Category**: Business & Finance 
 
 ## Summary
 "The Manager's Guide to Coaching for Change" is a comprehensive resource that equips managers with the essential mindset and skills to coach team members effectively through organizational change. Bennett presents coaching as both a skillset and a role that transcends traditional management approaches, emphasizing discovery, partnership, and empowerment over directive leadership. The book bridges the gap between professional coaching techniques and practical managerial application, offering a structured approach to developing employee capabilities, improving performance, and supporting transformational change.

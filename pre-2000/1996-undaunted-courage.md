@@ -1,5 +1,6 @@
 # Undaunted Courage
 **Author**: Stephen E. Ambrose | **Year**: 1996
+**Category**: History & Biography
 
 ## Summary
 "Undaunted Courage" chronicles the legendary Lewis and Clark Expedition (1804-1806), one of America's greatest exploration adventures. The book focuses on Meriwether Lewis, whom Thomas Jefferson personally selected to lead the Corps of Discovery across the uncharted American West to find a water route to the Pacific Ocean. This epic journey spanning 8,000 miles would expand scientific knowledge, establish U.S. claims to the Pacific Northwest, and open the American West to settlement.

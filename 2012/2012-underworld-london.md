@@ -1,5 +1,6 @@
 # Underworld London: Crime and Punishment in the Capital City
 **Author**: Catharine Arnold | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 "Underworld London" is a chilling journey through eight centuries of London's criminal history, from medieval executions to modern gangland violence. The book explores how the city's relationship with crime, punishment, and justice evolved from public spectacles at Tyburn gallows to the abolition of capital punishment. Arnold weaves together stories of infamous criminals, brutal punishments, and the development of London's law enforcement, revealing how the city's dark underbelly has shaped its identity.

@@ -1,5 +1,6 @@
 # Phineas Finn: The Irish Member
 **Authors**: Anthony Trollope | **Year**: 1869
+**Category**: Fiction & Literature
 
 ## Summary
 Phineas Finn, a young Irish barrister of modest means, unexpectedly becomes a Member of Parliament for the small borough of Loughshane. The novel follows his five-year journey through the treacherous world of Victorian politics, high society, and personal relationships. Originally published serially from 1867-1868 and issued in book form in 1869, this is the second novel in Trollope's acclaimed "Palliser" series.

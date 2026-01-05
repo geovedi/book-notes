@@ -1,5 +1,6 @@
 # The Witch's Heart
 **Authors**: Genevieve Gornichec | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Witch's Heart" reimagines Norse mythology from the perspective of Angrboda, the giantess traditionally known as Loki's lover and mother of monsters. After being burned three times by the gods and losing her heart, Angrboda flees to Ironwood seeking a peaceful life. There she meets Loki, the trickster god, and they form an unlikely relationship that leads to the birth of three prophesied children: Hel, the half-dead ruler of the underworld; Fenrir, the destined wolf who will kill Odin; and Jormungand, the world-serpent who will battle Thor.

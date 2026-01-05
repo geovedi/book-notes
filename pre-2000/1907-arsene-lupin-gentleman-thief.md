@@ -1,6 +1,7 @@
 # Arsène Lupin, Gentleman-Thief
 **Original Title**: Arsène Lupin, gentleman-cambrioleur (French)
 **Author**: Maurice Leblanc | **Year**: 1907
+**Category**: Horror & Thriller
 
 ## Summary
 This collection introduces the world's most charming master thief, Arsène Lupin, a brilliant burglar who operates with impeccable style, wit, and a moral code that makes him more anti-hero than villain. Set in the belle époque of early 20th-century France, these stories follow Lupin's elaborate heists, clever disguises, and intellectual battles with both law enforcement and rival detectives like Sherlock Holmes.

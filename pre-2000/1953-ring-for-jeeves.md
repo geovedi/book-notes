@@ -1,5 +1,6 @@
 # Ring for Jeeves
 **Authors**: P. G. Wodehouse | **Year**: 1953
+**Category**: Fiction & Literature
 
 ## Summary
 A classic Wodehouse farce set in post-war England where traditional class structures have been turned upside down. The ninth Earl of Rowcester, Bill Rowcester, is so broke he's secretly working as a bookmaker's assistant while trying to sell his crumbling ancestral home. His life becomes chaotic when wealthy American widow Mrs. Spottsworth arrives to potentially buy the estate, bringing with her Captain Biggar—the very man who was present when her second husband was killed by a lion in Kenya.

@@ -1,5 +1,5 @@
 # Beowulf
-**Original Title**: Beowulf | **Authors**: Anonymous (Beowulf Poet) | **Year**: c. 700–c. 1000
+**Original Title**: Beowulf | **Authors**: Anonymous (Beowulf Poet) | **Year**: c. 700–c. 1000 | **Category**: Fiction & Literature
 
 ## Summary
 Beowulf is the oldest surviving long poem in Old English and the cornerstone of Anglo-Saxon literature. This epic tells the story of its titular hero, a mighty Geatish warrior who travels to Denmark to help King Hrothgar defeat the monster Grendel, which has been terrorizing the great mead hall Heorot for twelve years. After brutally killing Grendel in hand-to-hand combat, Beowulf faces an even greater challenge when Grendel's vengeful mother attacks the hall. Following her defeat in her underwater lair, Beowulf returns home to Geatland where he eventually becomes king. Fifty years later, he must face his final battle against a treasure-guarding dragon, a confrontation that proves fatal but cements his legacy as the ultimate heroic warrior.

@@ -1,5 +1,6 @@
 # The Complete Novels of the Brontë Sisters
 **Authors**: Charlotte Brontë, Emily Brontë, Anne Brontë | **Year**: 1847-1857
+**Category**: Fiction & Literature
 
 ## Summary
 This definitive collection brings together all seven published novels by literature's most famous literary siblings. The Brontë sisters—Charlotte, Emily, and Anne—produced works that would revolutionize Victorian literature with their raw emotional intensity, social criticism, and groundbreaking psychological depth. Written under male pseudonyms (Currer, Ellis, and Acton Bell) to overcome gender prejudice, these novels explore themes of love, independence, social class, morality, and the constraints placed upon women in 19th-century society.

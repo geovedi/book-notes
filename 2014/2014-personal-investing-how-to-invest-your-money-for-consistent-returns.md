@@ -1,5 +1,5 @@
 # Personal Investing: How to Invest Your Money for Consistent Returns
-**Authors**: Edwin Lim, Dr. Kaiwen Leong, Edward H. Choi | **Year**: 2014
+**Authors**: Edwin Lim, Dr. Kaiwen Leong, Edward H. Choi | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 This practical investment guide demystifies the complex world of personal investing by providing a straightforward framework for building wealth consistently. The authors argue that the biggest mistake people make is wasting time earning money without learning how to make that money work for them. Through seven comprehensive chapters, they guide readers from understanding why cash isn't king to implementing defensive strategies and selecting the right investment vehicles.

@@ -1,5 +1,5 @@
 # The Power of Personal Branding
-**Authors**: Chris Hammond | **Year**: 2018
+**Authors**: Chris Hammond | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "The Power of Personal Branding" is a comprehensive guide that teaches readers how to transform themselves into marketable brands in today's competitive global economy. Author Chris Hammond presents personal branding as the art of marketing oneself and one's career as a brand, emphasizing that everyone is already a brand whether they realize it or not. The book reveals how personal branding has evolved from being exclusive to celebrities and wealthy individuals to becoming accessible to anyone with an internet connection.

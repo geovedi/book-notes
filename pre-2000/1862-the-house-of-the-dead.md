@@ -1,5 +1,6 @@
 # The House of the Dead
 **Authors**: Fyodor Dostoevsky | **Year**: 1862
+**Category**: Fiction & Literature
 
 ## Summary
 This semi-autobiographical novel is based on Dostoevsky's own four-year experience in a Siberian prison camp, offering both a documentary-style account of prison life and a profound exploration of human psychology under extreme conditions. Through the narrator Alexander Petrovitch Gorianchikoff—an educated nobleman convicted of murdering his wife—we witness the daily reality of convicts, the complex social hierarchies that form behind bars, and the remarkable ways human beings adapt to, resist, and sometimes transcend systematic dehumanization.

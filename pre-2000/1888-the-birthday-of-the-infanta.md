@@ -1,5 +1,6 @@
 # The Birthday of the Infanta
 **Authors**: Oscar Wilde | **Year**: 1888
+**Category**: Children & Young Adult
 
 ## Summary
 On the twelfth birthday of the Spanish Infanta, elaborate celebrations are held in the palace gardens. The young princess, accompanied by children of noble birth, enjoys a series of entertainments including a mock bullfight, puppet shows, and performances. The highlight arrives when a captured dwarf from the forest performs a dance that delights the children. The Infanta, charmed by his performance, tosses him a white rose, which the dwarf treasures as a symbol of her affection. Unaware of his own grotesque appearance, the dwarf believes the princess loves him and dreams of taking her to his forest home. His world shatters when he encounters his reflection in a mirror and realizes he is the deformed monster that everyone has been laughing at. The story concludes tragically when the Infanta and her companions find the dwarf dead of a broken heart, displaying the cruel indifference of royalty to the suffering of others.

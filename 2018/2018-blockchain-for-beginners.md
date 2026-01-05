@@ -1,5 +1,6 @@
 # Blockchain for Beginners
 **Authors**: Scott Marks | **Year**: 2018
+**Category**: Technology & Computing
 
 ## Summary
 "Blockchain for Beginners" is a comprehensive introduction to blockchain technology that traces the evolution of money from ancient barter systems to modern cryptocurrencies. The book explains how blockchain technology works through distributed ledgers, making it nearly impossible to hack while eliminating the need for centralized authorities like banks. Scott Marks breaks down complex technical concepts into accessible language, using real-world examples from the Isle of Yap's ancient currency system to modern applications in banking, contracts, and digital identities.

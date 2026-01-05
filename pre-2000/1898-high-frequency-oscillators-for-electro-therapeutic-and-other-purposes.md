@@ -1,5 +1,6 @@
 # High Frequency Oscillators for Electro-Therapeutic and Other Purposes
 **Authors**: Nikola Tesla | **Year**: 1898
+**Category**: Science & Nature
 
 ## Summary
 This groundbreaking technical paper by Nikola Tesla explores the remarkable properties of high-frequency electrical currents and their applications, particularly in medical therapy. Tesla describes how electrical oscillations at frequencies of 5,000 to 10,000 vibrations per second demonstrate unique characteristics that make them ideal for therapeutic use, including their apparent harmlessness to human tissue despite carrying enormous electrical energy.

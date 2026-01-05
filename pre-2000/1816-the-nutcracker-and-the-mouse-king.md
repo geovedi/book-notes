@@ -1,5 +1,6 @@
 # The Nutcracker and the Mouse-King
 **Authors**: E.T.A. Hoffmann | **Year**: 1816
+**Category**: Children & Young Adult
 
 ## Summary
 On Christmas Eve, young Marie Stahlbaum receives a special Nutcracker doll from her godfather, the mysterious inventor Drosselmeier. When her brother Fritz accidentally breaks the Nutcracker's jaw, Marie tenderly nurses the wounded toy back to health. That night, Marie witnesses an extraordinary battle between the Nutcracker (who comes to life) and the evil Mouse-King with seven heads. By throwing her shoe at the Mouse-King to save the Nutcracker, Marie breaks the curse that transformed a handsome young man into the wooden doll.

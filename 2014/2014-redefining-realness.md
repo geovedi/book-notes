@@ -1,5 +1,5 @@
 # Redefining Realness
-**Author**: Janet Mock | **Year**: 2014
+**Author**: Janet Mock | **Year**: 2014 | **Category**: Psychology & Mental Health
 
 ## Summary
 Redefining Realness is Janet Mock's groundbreaking memoir about her journey as a young multiracial trans woman growing up in Hawaii and her path to claiming her authentic identity. The book spans from her childhood recognizing her true gender identity through her transition at age 18, to building a successful career in New York City while navigating love, family, and self-acceptance.

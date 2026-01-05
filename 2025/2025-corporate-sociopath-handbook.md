@@ -1,5 +1,6 @@
 # Corporate Sociopath Handbook
 **Authors**: Jonathon Grantham | **Year**: 2025
+**Category**: Business & Finance
 
 ## Summary
 The Corporate Sociopath Handbook is a controversial yet revealing examination of the psychological tactics and manipulation strategies used by successful corporate climbers. Written by someone who claims to have studied sociopathic behavior extensively, the book serves as both an exposé and a survival guide for navigating today's cutthroat business environment. The author presents a dark reality where traditional virtues like empathy, honesty, and hard work often take a backseat to strategic manipulation and psychological warfare in the race to the top.

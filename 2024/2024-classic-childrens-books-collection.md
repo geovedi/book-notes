@@ -1,5 +1,6 @@
 # 2024 Classic Children's Books Collection
 **Authors**: Frances Hodgson Burnett, Selma Lagerlöf, Margery Williams, Kenneth Grahame, L.M. Montgomery | **Year**: 2024
+**Category**: Children & Young Adult
 
 ## Summary
 This enchanting collection brings together five beloved children's classics that have captured the hearts of readers for generations. Each story offers unique adventures and timeless lessons about friendship, imagination, and the transformative power of love and acceptance. From the spirited red-headed orphan at Green Gables to the magical journey of a boy shrunk to thumb size, these tales continue to resonate with children and adults alike.

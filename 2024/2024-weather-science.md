@@ -1,5 +1,6 @@
 # Weather Science: A Hot Science Guide
 **Authors**: Brian Clegg | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 Weather Science demystifies the complex atmospheric systems that shape our daily lives, from gentle breezes to devastating hurricanes. Clegg reveals how weather emerges from the intricate dance of sunlight, air pressure, and Earth's rotation while explaining why perfect weather prediction remains impossible due to chaos theory.

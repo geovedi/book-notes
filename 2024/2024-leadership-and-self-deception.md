@@ -1,5 +1,6 @@
 # Leadership and Self-Deception
 **Authors**: The Arbinger Institute | **Year**: 2024 (Fourth Edition)
+**Category**: Business & Finance
 
 ## Summary
 "Leadership and Self-Deception" reveals how our distorted perceptions of others create the fundamental problems in our relationships and organizations. The book demonstrates that self-deception isn't just a personal failing—it's a disease that infects our perception, causing us to view others as objects rather than people with needs, hopes, and fears as real as our own.

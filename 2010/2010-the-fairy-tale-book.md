@@ -1,5 +1,5 @@
 # The Fairy Tale Book: A Bite-Sized Guide to Classic Stories
-**Authors**: Liz Scoggins (Adapter), Lisa Jackson (Illustrator) | **Year**: 2010
+**Authors**: Liz Scoggins (Adapter), Lisa Jackson (Illustrator) | **Year**: 2010 | **Category**: Children & Young Adult
 
 ## Summary
 This beautifully illustrated collection brings together beloved fairy tales that have captivated generations of children and adults. Adapted by Liz Scoggins and illustrated by Lisa Jackson, the book features magical stories filled with princesses, enchanted creatures, wicked villains, and transformative journeys. Each tale has been carefully chosen for its magical and mysterious qualities, introducing readers to wonderful characters while preserving the timeless lessons that have made these stories endure for centuries.

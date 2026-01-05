@@ -1,6 +1,7 @@
 # Letters to His Son
 **Original Title**: Letters to His Son, Complete
 **Authors**: Philip Dormer Stanhope, Earl of Chesterfield | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This collection presents the complete correspondence between Lord Chesterfield and his son, spanning from 1746 to 1771. What began as private paternal guidance evolved into a comprehensive manual for creating a polished gentleman capable of navigating society and affairs of state. The letters represent a sustained educational project in which Chesterfield methodically shapes his son's character, manners, and judgment for public life.

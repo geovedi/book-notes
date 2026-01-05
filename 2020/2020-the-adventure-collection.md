@@ -1,6 +1,7 @@
 # The Adventure Collection: 5 Literary Masterpieces
 **Original Title**: The Adventure Collection: Treasure Island, The Jungle Book, Gulliver's Travels, White Fang, The Merry Adventures of Robin Hood
 **Authors**: Robert Louis Stevenson, Rudyard Kipling, Jonathan Swift, Jack London, Howard Pyle | **Year**: 2020 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This extraordinary anthology brings together five of the most beloved adventure classics in literary history, each representing different facets of the human spirit's quest for discovery, survival, and meaning. From pirate treasure hunts to wild animal adventures, from fantastical voyages to noble outlaw legends, these stories have captivated generations with their vivid storytelling and timeless themes.

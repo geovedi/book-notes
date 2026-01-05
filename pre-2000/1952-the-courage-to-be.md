@@ -1,5 +1,6 @@
 # The Courage to Be
 **Authors**: Paul Tillich | **Year**: 1952
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Paul Tillich's "The Courage to Be" is a profound philosophical and theological exploration of how humans can affirm their existence in the face of nonbeing and anxiety. Tillich argues that courage is not merely a moral virtue but the fundamental self-affirmation of being against nonbeing. The book traces the concept of courage through philosophical history while developing an ontology of anxiety that identifies three types of existential threat: fate and death, emptiness and meaninglessness, and guilt and condemnation. Tillich ultimately proposes that the deepest form of courage requires embracing "absolute faith" and what he calls the "God above God."

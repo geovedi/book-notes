@@ -1,6 +1,7 @@
 # Notes from Underground
 **Original Title**: Записки из подполья (Zapiski iz podpol'ya)
 **Author**: Fyodor Dostoevsky | **Year**: 1864
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Notes from Underground" is a revolutionary philosophical novel that presents the confession of a bitter, isolated retired civil servant living in St. Petersburg. The work is divided into two parts: the first is a philosophical polemic against the rationalist and utopian ideas of the time, while the second narrates specific events from the narrator's life that illustrate his theories.

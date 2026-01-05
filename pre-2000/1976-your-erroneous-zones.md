@@ -1,6 +1,7 @@
 # Your Erroneous Zones
 **Original Title**: Niet morgen, maar nu
-**Author**: Dr. Wayne Dyer | **Year**: 1976 
+**Author**: Dr. Wayne Dyer | **Year**: 1976
+**Category**: Self-Help & Personal Development 
 
 ## Summary
 "Your Erroneous Zones" is a groundbreaking self-help classic that challenges readers to take complete control of their emotional lives and eliminate self-defeating behaviors. Dyer argues that most unhappiness stems from what he calls "erroneous zones" - mental traps and faulty thinking patterns that keep us stuck in cycles of guilt, worry, and helplessness. The book presents a radical proposition: your emotions are choices, not circumstances beyond your control. By understanding that thoughts precede feelings, and that you have complete authority over your thoughts, you can break free from the psychological chains that hold you back.

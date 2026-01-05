@@ -1,5 +1,6 @@
 # Celestina
 **Original Title**: Celestina (La Tragicomedia de Calisto y Melibea) | **Authors**: Fernando de Rojas | **Year**: 1499/2012 Edition
+**Category**: Fiction & Literature
 
 ## Summary
 Celestina is a groundbreaking Spanish tragicomedy that tells the story of Calisto, a young nobleman who becomes obsessively infatuated with Melibea after a chance encounter in her garden. When Melibea rejects his advances, Calisto's servant Sempronio suggests enlisting the help of Celestina, an aging bawd and procuress who uses manipulation, witchcraft, and psychological insight to arrange their meeting. What begins as a seemingly simple love story quickly spirals into a dark tale of greed, betrayal, and moral corruption that ultimately leads to multiple deaths, including Melibea's suicide.

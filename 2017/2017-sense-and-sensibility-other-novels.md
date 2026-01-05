@@ -1,5 +1,6 @@
 # Sense and Sensibility & Other Novels
 **Authors**: Jane Austen | **Year**: 2017 (Collection), Original works: 1811-1818
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together four of Jane Austen's most celebrated works, showcasing her masterful understanding of human nature, social dynamics, and the complexities of love and marriage in Regency England. The collection includes *Sense and Sensibility*, *Lady Susan*, *Northanger Abbey*, and *Persuasion*—each offering unique insights into the challenges faced by women navigating society's expectations while pursuing personal happiness and fulfillment.

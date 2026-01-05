@@ -1,6 +1,6 @@
 # Attitudinal Healing and A Course in Miracles
 **Original Title**: Attitudinal Healing en Een cursus in wonderen
-**Author**: Els Thissen | **Year**: 2022 
+**Author**: Els Thissen | **Year**: 2022 | **Category**: Spirituality & Religion 
 
 ## Summary
 "Attitudinal Healing and A Course in Miracles" is a practical guide that bridges two powerful spiritual approaches to finding inner peace and navigating life's challenges. The book presents Attitudinal Healing's 12 principles and 10 group guidelines alongside the profound teachings of "A Course in Miracles," offering readers a path to transform their daily experiences from stress and conflict to peace and love.

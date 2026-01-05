@@ -1,6 +1,7 @@
 # Putinistan
 **Original Title**: Putinistán
 **Author**: Xavier Colás | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Putinistan is a penetrating examination of how Russia devolved from a brief period of post-Soviet freedom into Vladimir Putin's authoritarian "hallucinated country led by a hallucinated president." Written by a Spanish journalist who spent over a decade reporting from Moscow, the book traces Russia's tragic misunderstanding of freedom in the 1990s and its descent into what the author calls a "securocracy"—a system where security is weaponized to justify totalitarian control. Colás argues that Russia's invasion of Ukraine was not merely a foreign policy decision but the inevitable culmination of an internal disease that began with Russia's failure to build genuine civil society after communism.

@@ -1,5 +1,5 @@
 # Money and Power: How Goldman Sachs Came to Rule the World
-**Author**: William D. Cohan | **Year**: 2011
+**Author**: William D. Cohan | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 William D. Cohan's "Money and Power" is a definitive investigation into how Goldman Sachs evolved from a modest commercial paper business founded in 1869 to become the most powerful and influential investment bank on Wall Street. Through meticulous research and insider interviews, Cohan reveals the firm's 140-year journey marked by strategic brilliance, controversial decisions, and an unyielding pursuit of profit and influence.

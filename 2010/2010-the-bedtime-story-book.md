@@ -1,6 +1,6 @@
 # The Bedtime Story Book
 **Original Title**: The Bedtime Story Book
-**Authors**: Jen Wainwright (Adapted by), Angel Dominguez (Illustrated by) | **Year**: 2010
+**Authors**: Jen Wainwright (Adapted by), Angel Dominguez (Illustrated by) | **Year**: 2010 | **Category**: Children & Young Adult
 
 ## Summary
 This heartwarming collection brings together 21 classic children's stories perfect for bedtime reading. The book combines familiar favorites like "Goldilocks and the Three Bears," "Little Red Riding Hood," and "The Three Little Pigs" with lesser-known tales from around the world such as "Anansi and the Sky God," "Crow Brings Daylight," and "The Goose Girl." Each story is carefully adapted for reading aloud, featuring timeless themes of courage, wisdom, kindness, and the consequences of one's actions.

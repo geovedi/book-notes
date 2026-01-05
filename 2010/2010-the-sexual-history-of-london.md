@@ -1,5 +1,5 @@
 # The Sexual History of London
-**Authors**: Catharine Arnold | **Year**: 2010
+**Authors**: Catharine Arnold | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "The Sexual History of London" is a sweeping chronological exploration of how sexuality, prostitution, and vice have shaped London from its Roman origins to the modern era. Catharine Arnold traces the city's sexual underbelly through two millennia, revealing how the trade in pleasure and desire has been a constant force that persisted through plagues, fires, wars, and moral reforms. The book demonstrates that despite changing attitudes, laws, and social mores, London's commercial sex industry has remained remarkably resilient and adaptive.

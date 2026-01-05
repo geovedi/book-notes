@@ -1,6 +1,7 @@
 # Confessions: Part Two
 **Original Title**: Bekenntnisse: Zweiter Theil
 **Author**: Jean-Jacques Rousseau | **Year**: c. 1765-1770
+**Category**: History & Biography
 
 ## Summary
 Jean-Jacques Rousseau's Confessions Part Two continues his revolutionary autobiographical project, covering books seven through twelve of his life story from roughly 1741-1765. This second volume marks a dramatic shift from the relative innocence of his youth into a period of artistic ambition, intellectual awakening, social climbing, romantic entanglements, and eventual persecution. Where Part One depicted a mostly harmonious life following his natural inclinations, Part Two reveals the collision between his authentic self and society's corrupting influences.

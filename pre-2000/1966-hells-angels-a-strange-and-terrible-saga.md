@@ -1,5 +1,5 @@
 # Hell's Angels: A Strange and Terrible Saga
-**Author**: Hunter S. Thompson | **Year**: 1966
+**Author**: Hunter S. Thompson | **Year**: 1966 | **Category**: History & Biography
 
 ## Summary
 Hunter S. Thompson's groundbreaking work of gonzo journalism follows his year-long immersion into the notorious Hell's Angels motorcycle club. What began as objective reporting transformed into a dangerous, first-hand account of outlaw culture, violence, and the American underbelly. Thompson doesn't just observe the Angels—he lives among them, rides with them, and ultimately gets beaten by them, providing unprecedented access to their world while maintaining his critical perspective.

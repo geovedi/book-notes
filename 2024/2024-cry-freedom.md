@@ -1,5 +1,6 @@
 # Cry Freedom: The Regulatory Assault on Institutional Autonomy in England's Universities
 **Authors**: James Tooley with John Drew | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 James Tooley delivers a powerful critique of how England's higher education regulator, the Office for Students (OfS), has systematically undermined the institutional autonomy that made British universities world-leading. Drawing on his experience as Vice-Chancellor of the University of Buckingham and meticulous legal analysis, Tooley reveals how the OfS has gone far beyond its statutory mandate, contradicting the very legislation that created it.

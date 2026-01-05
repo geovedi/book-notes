@@ -1,5 +1,5 @@
 # Social Media Marketing in 2018
-**Authors**: R.M. Lewis | **Year**: 2018
+**Authors**: R.M. Lewis | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demonstrates how businesses can leverage Facebook, YouTube, Instagram, and Twitter to grow their following, build brand awareness, and more than double their traffic. The book provides platform-specific strategies while emphasizing foundational principles of social media branding that work across all channels.

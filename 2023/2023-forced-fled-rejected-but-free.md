@@ -1,5 +1,6 @@
 # Forced, Fled, Rejected… But Free
 **Author**: Samira Harmach | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 "Gedwongen, gevlucht, verstoten… maar vrij" is a powerful memoir that chronicles Samira Harmach's extraordinary journey from a life of oppression and abuse in her Moroccan-Belgian family to finding freedom and self-worth. Born in Mechelen, Belgium, to Moroccan immigrant parents, Samira endured a childhood of emotional and physical abuse, being treated as a domestic servant rather than a daughter. At twenty-four, facing a forced marriage to her cousin, she made the courageous decision to flee her family home with nothing but the clothes on her back. The book traces her path through homelessness, toxic relationships, career struggles, and eventual self-discovery as she builds a new life while raising her own daughter.

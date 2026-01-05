@@ -1,5 +1,5 @@
 # The Hive: The Story of the Honeybee and Us
-**Author**: Bee Wilson | **Year**: 2004
+**Author**: Bee Wilson | **Year**: 2004 | **Category**: Science & Nature
 
 ## Summary
 "The Hive" explores the profound 10,000-year relationship between humans and honeybees, revealing how these tiny insects have shaped human civilization, culture, and imagination. Wilson examines how bees provided not just honey and wax, but also powerful metaphors for human society that influenced everything from politics to philosophy, from business management to personal morality.

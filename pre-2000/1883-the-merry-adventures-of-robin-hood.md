@@ -1,6 +1,7 @@
 # The Merry Adventures of Robin Hood
 **Original Title**: The Merry Adventures of Robin Hood
 **Author**: Howard Pyle | **Year**: 1883
+**Category**: Children & Young Adult
 
 ## Summary
 "The Merry Adventures of Robin Hood" is a classic retelling of the legendary English folk hero's adventures in Sherwood Forest. The story follows Robin Hood, a skilled archer who becomes an outlaw after killing one of the King's foresters in self-defense. Forced to flee his home, Robin gathers a band of fellow outlaws—collectively known as the Merry Men—including the iconic figures of Little John, Will Scarlet, Friar Tuck, Allan a Dale, and others. Together they live in Sherwood Forest, defending the oppressed poor against corrupt nobles, church officials, and the tyrannical Sheriff of Nottingham.

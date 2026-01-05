@@ -1,5 +1,5 @@
 # The Fabric of the Cosmos
-**Authors**: Brian Greene | **Year**: 2004
+**Authors**: Brian Greene | **Year**: 2004 | **Category**: Science & Nature
 
 ## Summary
 Brian Greene reveals that our everyday understanding of space and time is profoundly misleading. Through the revolutions of relativity, quantum mechanics, and cosmology, modern physics has uncovered a reality far stranger than anything our senses perceive—a cosmos where space and time are dynamic, interwoven, and fundamentally different from our intuitive understanding.

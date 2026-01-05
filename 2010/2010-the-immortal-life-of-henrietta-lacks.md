@@ -1,5 +1,5 @@
 # The Immortal Life of Henrietta Lacks
-**Author**: Rebecca Skloot | **Year**: 2010
+**Author**: Rebecca Skloot | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "The Immortal Life of Henrietta Lacks" tells the extraordinary true story of Henrietta Lacks, a poor black tobacco farmer whose cells—taken without her knowledge in 1951—became one of the most important tools in medicine. Known as HeLa cells, they were vital for developing the polio vaccine, cloning, gene mapping, in vitro fertilization, and more. Yet Henrietta herself remained virtually unknown, and her family couldn't afford health insurance.

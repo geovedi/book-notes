@@ -1,6 +1,7 @@
 # The Intrusion of Jimmy
 **Original Title**: The Intrusion of Jimmy
 **Authors**: P.G. Wodehouse | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 "The Intrusion of Jimmy" is a delightful comedic novel that follows the adventures of Jimmy Pitt, a wealthy young American who makes a drunken bet that he can successfully burglarize a house. What begins as a reckless wager evolves into a series of farcical complications when Jimmy inadvertently breaks into the home of Police Captain McEachern. The plot thickens when Jimmy falls in love with McEachern's daughter Molly, setting up a classic Wodehouse conflict between romance, deception, and the inevitable comedic resolution.

@@ -1,5 +1,6 @@
 # How We Decide
 **Author**: Jonah Lehrer | **Year**: 2009
+**Category**: Psychology & Mental Health
 
 ## Summary
 "How We Decide" demolishes the traditional divide between rational thought and emotion, revealing that good decision-making requires integrating both our emotional instincts and our analytical reasoning. Through compelling neuroscience research and real-world examples—from NFL quarterbacks to pilots facing engine failure—Lehrer demonstrates that our brains are designed to use feelings as a crucial source of information, not as something to be overcome.

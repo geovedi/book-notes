@@ -1,5 +1,6 @@
 # Leonardo da Vinci
 **Author**: Walter Isaacson | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 Walter Isaacson's biography of Leonardo da Vinci reveals how the ultimate Renaissance man combined art and science, curiosity and observation, to become one of history's most creative geniuses. The book traces Leonardo's journey from illegitimate child in Vinci to the master artist who created the Mona Lisa and The Last Supper, while simultaneously pioneering anatomical studies, engineering inventions, and scientific investigations that were centuries ahead of their time.

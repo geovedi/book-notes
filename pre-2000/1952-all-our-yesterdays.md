@@ -1,6 +1,7 @@
 # All Our Yesterdays
 **Original Title**: Tutti I Nostri Ieri
 **Authors**: Natalia Ginzburg | **Year**: 1952
+**Category**: Fiction & Literature
 
 ## Summary
 "All Our Yesterdays" is a profound coming-of-age novel that follows Anna, a young Italian girl growing up during the rise and fall of Fascism in Italy. Through Anna's eyes, we witness the transformation of her family and country as World War II engulfed Europe. The narrative moves from a provincial Italian town to the rural countryside of Borgo San Costanzo, where Anna marries the much older Cenzo Rena and experiences both personal awakening and political consciousness.

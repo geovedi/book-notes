@@ -1,5 +1,5 @@
 # Prediction Machines: The Simple Economics of Artificial Intelligence
-**Authors**: Ajay Agrawal, Joshua Gans, Avi Goldfarb | **Year**: 2018
+**Authors**: Ajay Agrawal, Joshua Gans, Avi Goldfarb | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Prediction Machines" demystifies artificial intelligence by reframing it not as intelligence, but as a dramatic drop in the cost of prediction. The authors—economists who study technological change—argue that AI's real impact comes from its ability to make predictions cheaper and more accurate, transforming how businesses make decisions, design jobs, and create value. The book provides an economic framework for understanding AI's implications without technical jargon, focusing on practical trade-offs and strategic opportunities that arise when prediction becomes a commodity.

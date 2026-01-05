@@ -1,5 +1,6 @@
 # Words Like Loaded Pistols
 **Authors**: Sam Leith | **Year**: 2012
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Words Like Loaded Pistols" is a comprehensive yet entertaining exploration of rhetoric from ancient Greece to modern politics. Leith reveals how the art of persuasion has shaped human history and remains profoundly relevant in our digital age. The book serves as both a historical survey and practical guide to understanding the five parts of rhetoric (invention, arrangement, style, memory, delivery) and three branches of oratory (judicial, deliberative, epideictic).

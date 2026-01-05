@@ -1,6 +1,7 @@
 # Agatha Christie: Queen of Crime
 **Original Title**: Agatha Christie, reine du crime
-**Author**: Agnès Fieux | **Year**: Unknown 
+**Author**: Agnès Fieux | **Year**: Unknown
+**Category**: History & Biography 
 
 ## Summary
 This comprehensive biography chronicles the extraordinary life of Agatha Miller, who became the world's most beloved mystery writer. Born in 1890 and living until 1976, Christie transformed from an ordinary English girl into the undisputed "Queen of Crime," writing approximately eighty novels that captivated readers worldwide. The book explores her Victorian childhood in Torquay, her troubled first marriage to Archie Christie, her mysterious eleven-day disappearance in 1926, and her second, happier marriage to archaeologist Max Mallowan. It delves into the creation of her iconic detectives - the fastidious Belgian Hercule Poirot and the deceptively gentle Miss Marple - and how her experiences during both World Wars, travels in the Middle East, and lifelong fascination with poisons and psychology shaped her groundbreaking contributions to detective fiction.

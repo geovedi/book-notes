@@ -1,5 +1,5 @@
 # The Next Level of Cryptocurrency Investing
-**Authors**: Wayne Walker | **Year**: 2018
+**Authors**: Wayne Walker | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "The Next Level of Cryptocurrency Investing" is a comprehensive guide that moves beyond basic cryptocurrency knowledge to provide advanced strategies for building wealth with Bitcoin and other digital assets. Written by capital markets expert Wayne Walker, this book bridges traditional trading principles with the unique dynamics of the cryptocurrency market.

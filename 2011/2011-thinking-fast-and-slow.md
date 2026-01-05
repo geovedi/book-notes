@@ -1,5 +1,5 @@
 # Thinking, Fast and Slow
-**Authors**: Daniel Kahneman | **Year**: 2011
+**Authors**: Daniel Kahneman | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 Daniel Kahneman reveals how our minds operate through two distinct systems that drive every decision, judgment, and thought process. System 1 is fast, intuitive, and emotional, handling routine tasks automatically, while System 2 is slow, deliberate, and logical, engaging for complex problem-solving. The core problem: System 2 is inherently lazy and often endorses System 1's biased intuitions without proper scrutiny.

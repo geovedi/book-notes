@@ -1,5 +1,5 @@
 # Copywriting Mastery
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 Copywriting Mastery is a comprehensive guide to writing persuasive sales copy for online businesses. The book teaches how to transform website visitors into buyers through strategic writing techniques, psychological triggers, and relationship building. Rather than focusing on aggressive sales tactics, it emphasizes understanding customer needs, creating emotional connections, and providing value before asking for the sale.

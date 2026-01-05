@@ -1,5 +1,6 @@
 # Winter Wellbeing
 **Authors**: Caroline Artiss, Christine Burke, Elisabeth Carlsson, Cerridwen Greenleaf, Noelle Renée Kovary, Lottie Muir, Alice Peck, Silja Sample | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 "Winter Wellbeing" is a comprehensive seasonal self-care guide designed to help readers not just survive but thrive during the colder, darker months. This practical playbook offers holistic approaches to winter wellness through mindfulness, immune-boosting practices, self-care rituals, and revitalizing routines that nourish body, mind, and soul.

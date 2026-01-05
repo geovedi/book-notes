@@ -1,5 +1,6 @@
 # The Wind in the Willows
 **Authors**: Kenneth Grahame | **Year**: 1908
+**Category**: Children & Young Adult
 
 ## Summary
 "The Wind in the Willows" follows the charming adventures of four animal friends—Mole, Rat (Water Rat), Toad, and Badger—in the idyllic English countryside. The story begins when Mole abandons his spring cleaning to explore the world above ground, where he meets the sophisticated Water Rat, who introduces him to the joys of river life. Their peaceful existence is complicated by their wealthy but impulsive friend Toad, whose obsessive fascination with motorcars leads to reckless driving, imprisonment, and the loss of his ancestral home Toad Hall to invading weasels and stoats. The climax shows the friends banding together to reclaim Toad Hall through a secret underground attack.

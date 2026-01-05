@@ -1,6 +1,6 @@
 # Power Quotes
 **Original Title**: Power Quotes: Inspirational Quotes to Awaken Greatness Within
-**Authors**: Pappi Ndelu | **Year**: 2013
+**Authors**: Pappi Ndelu | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 A curated collection of powerful inspirational quotes organized around 14 core themes of personal growth and character development. This book brings together wisdom from historical figures, philosophers, religious texts, and modern thinkers to help readers discover their inner greatness.

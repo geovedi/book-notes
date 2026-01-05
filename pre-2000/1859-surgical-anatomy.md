@@ -1,5 +1,6 @@
 # Surgical Anatomy
 **Author**: Joseph Maclise | **Year**: 1859
+**Category**: Health & Medicine
 
 ## Summary
 "Surgical Anatomy" is a comprehensive anatomical textbook that bridges the gap between theoretical anatomical knowledge and practical surgical application. Maclise presents detailed dissections of human body regions with emphasis on the relative positions of vital structures—blood vessels, nerves, and organs—that surgeons must navigate during operations. The work features sixty-eight colored plates illustrating precise anatomical relationships, accompanied by detailed descriptions of surgical approaches, potential complications, and operative techniques.

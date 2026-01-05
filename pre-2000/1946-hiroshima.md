@@ -1,5 +1,6 @@
 # Hiroshima
 **Author**: John Hersey | **Year**: 1946
+**Category**: History & Biography
 
 ## Summary
 John Hersey's "Hiroshima" is a groundbreaking work of journalistic non-fiction that chronicles the atomic bombing of Hiroshima through the intimate experiences of six survivors: Miss Toshiko Sasaki (a clerk), Dr. Masakazu Fujii (a physician), Mrs. Hatsuyo Nakamura (a tailor's widow), Father Wilhelm Kleinsorge (a German Jesuit priest), Dr. Terufumi Sasaki (a young surgeon), and Reverend Kiyoshi Tanimoto (a Methodist pastor). Originally published as an entire issue of The New Yorker, the book delivers a spare, matter-of-fact account of August 6, 1945, and its aftermath, beginning at the exact moment the bomb exploded at 8:15 AM.

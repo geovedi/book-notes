@@ -1,5 +1,6 @@
 # Classic Children's Stories Superset Vol. 1
 **Authors**: Frances Hodgson Burnett, Lucy Maud Montgomery, Louisa May Alcott, Lewis Carroll, and others | **Year**: 2017
+**Category**: Children & Young Adult
 
 ## Summary
 This comprehensive collection gathers 18 beloved children's classics in one volume, featuring the most influential stories from the golden age of children's literature. From magical adventures to heartfelt coming-of-age tales, this anthology spans fairy tales, fantasies, and realistic fiction that have shaped generations of young readers.

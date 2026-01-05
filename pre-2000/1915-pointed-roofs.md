@@ -1,5 +1,6 @@
 # Pointed Roofs
 **Authors**: Dorothy Richardson | **Year**: 1915
+**Category**: Fiction & Literature
 
 ## Summary
 Miriam Henderson, a young woman from a once-wealthy English family facing financial decline, leaves home to become a governess at a German finishing school in Hanover. The novel follows her internal journey as she navigates cultural displacement, professional uncertainty, and profound self-discovery in Edwardian Germany. Through Miriam's stream-of-consciousness narration, we witness her transformation from a sheltered girl questioning her place in the world to an independent woman beginning to understand her own nature and desires.

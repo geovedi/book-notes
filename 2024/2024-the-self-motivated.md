@@ -1,6 +1,7 @@
 # The Self-Motivated
 **Original Title**: Gli automotivati
 **Author**: Unknown | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Gli automotivati" is a provocative ethnographic exploration of Italy's Motor Valley culture, examining how luxury automotive brands like Ducati, Ferrari, and Lamborghini shape the dreams, identities, and aspirations of working-class youth. Through the eyes of a high school teacher in professional institutes, the book exposes the powerful influence of car culture on education, social mobility, and the imagination of young people in Italy's industrial heartland between Bologna, Modena, and Reggio Emilia.

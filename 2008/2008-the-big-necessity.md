@@ -1,5 +1,6 @@
 # The Big Necessity
 **Author**: Rose George | **Year**: 2008
+**Category**: Health & Medicine
 
 ## Summary
 "The Big Necessity" reveals how the taboo topic of human waste management is one of the most critical public health and human rights issues facing our world today. George takes readers on a global journey from London's Victorian sewers to China's biogas revolution, from India's caste-based scavenging to innovative sanitation solutions that could save millions of lives. The book exposes a shocking paradox: while 2.6 billion people lack access to basic sanitation, the developed world remains oblivious to its own fragile sewage systems. This is essential reading for anyone interested in global health, environmental sustainability, or human rights, offering eye-opening perspectives on how something we all do daily has become a silent crisis affecting billions.

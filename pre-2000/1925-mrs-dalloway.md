@@ -1,5 +1,6 @@
 # Mrs Dalloway
 **Authors**: Virginia Woolf | **Year**: 1925
+**Category**: Fiction & Literature
 
 ## Summary
 "Mrs Dalloway" takes place on a single June day in 1923 London, following Clarissa Dalloway as she prepares for her evening party. As she walks through London buying flowers, her thoughts drift between present observations and memories of her youth, particularly her relationship with Peter Walsh and the pivotal moment she chose to marry Richard Dalloway instead.

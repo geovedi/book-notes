@@ -1,5 +1,5 @@
 # O: The Intimate History of the Orgasm
-**Author**: Jonathan Margolis | **Year**: 2004
+**Author**: Jonathan Margolis | **Year**: 2004 | **Category**: Psychology & Mental Health
 
 ## Summary
 This groundbreaking book traces the fascinating 100,000-year journey of human attitudes toward sexual pleasure, revealing how orgasm has shaped civilizations, influenced religions, and driven human behavior throughout history. Margolis demonstrates that our modern understanding of sexuality is just one chapter in a much larger story of cultural advancement and regression. The book combines biological insights, historical research, and cultural analysis to explore how the pursuit of orgasm has been one of the most powerful forces in human history—making and destroying marriages, inspiring art and literature, and even influencing politics and religion.

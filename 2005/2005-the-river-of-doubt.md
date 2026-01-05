@@ -1,5 +1,5 @@
 # The River of Doubt
-**Author**: Candice Millard | **Year**: 2005
+**Author**: Candice Millard | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 "The River of Doubt" chronicles Theodore Roosevelt's perilous 1913-1914 expedition through an uncharted tributary of the Amazon River, following his crushing electoral defeat in the 1912 presidential election. What began as a scientific adventure quickly devolved into a brutal struggle for survival against the unforgiving Amazon rainforest. Roosevelt, accompanied by his son Kermit, Brazilian explorer Cândido Rondon, and naturalist George Cherrie, faced starvation, disease, dangerous rapids, hostile indigenous tribes, and the psychological torment of utter isolation. The journey pushed the former president to his physical and mental limits, nearly costing him his life and forcing him to confront the fundamental human vulnerability he had spent a lifetime trying to conquer through his famous "strenuous life" philosophy.

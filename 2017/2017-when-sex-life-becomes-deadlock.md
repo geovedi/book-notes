@@ -1,6 +1,7 @@
 # When Sex Life Becomes Deadlock
 **Original Title**: Når sexlivet går i hårdknude
 **Author**: Kirsten Ahlburg | **Year**: 2017
+**Category**: Psychology & Mental Health
 
 ## Summary
 This essential relationship guide tackles one of the most common yet rarely discussed problems in long-term partnerships: the disappearance of sexual desire. Through a series of relatable case studies and practical solutions, the book explores why sexual desire fades in relationships and offers concrete strategies for rekindling intimacy. The author argues that sexual problems rarely stem from one partner alone but rather from the complex dynamics between couples.

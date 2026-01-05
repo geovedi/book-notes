@@ -1,5 +1,6 @@
 # Product Design Portfolio Final Final
 **Authors**: Fedor Shkliarau | **Year**: 2024
+**Category**: Art & Creativity
 
 ## Summary
 This book is a comprehensive guide for creating product design portfolios that land dream jobs. Written by an experienced designer who has navigated various career stages from internships to freelance work, it provides a practical, actionable framework for building portfolios that effectively showcase skills and attract hiring managers.

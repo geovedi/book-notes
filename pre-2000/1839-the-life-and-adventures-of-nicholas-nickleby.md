@@ -1,5 +1,6 @@
 # The Life and Adventures of Nicholas Nickleby
 **Authors**: Charles Dickens | **Year**: 1839
+**Category**: Fiction & Literature
 
 ## Summary
 The Life and Adventures of Nicholas Nickleby follows the journey of a young man whose father's death leaves his family destitute and at the mercy of his cruel, money-obsessed uncle Ralph. Nicholas, his mother, and sister Kate must navigate the harsh realities of Victorian England after losing their fortune and home. Nicholas is sent to teach at Dotheboys Hall, a brutal Yorkshire boarding school where he witnesses the systematic abuse of neglected children. His moral outrage leads him to rebel against the headmaster, Squeers, and escape with the victimized Smike.

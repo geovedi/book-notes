@@ -1,5 +1,6 @@
 # Into Thin Air
 **Author**: Jon Krakauer | **Year**: 1997
+**Category**: History & Biography
 
 ## Summary
 "Into Thin Air" is Krakauer's firsthand account of the 1996 Mount Everest disaster that claimed eight lives during a single commercial expedition season. What began as an assignment for Outside magazine became a personal tragedy when a rogue storm trapped multiple climbing teams near the summit, turning triumph into terror in the "Death Zone" above 26,000 feet. The book masterfully weaves together the technical details of high-altitude mountaineering with human drama, exploring how commercialization, ambition, and hubris transformed the world's highest peak into a deadly destination where tourists paid $65,000 for guided trips to the roof of the world.

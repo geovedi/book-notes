@@ -1,5 +1,6 @@
 # The Opal and Other Stories
 **Authors**: Gustav Meyrink | **Year**: 1913
+**Category**: Fiction & Literature
 
 ## Summary
 Gustav Meyrink's "The Opal and Other Stories" is a collection of bizarre, satirical, and occult tales that subvert conventional reality and challenge the boundaries between the rational and the supernatural. Written before his fame with "The Golem," these stories emerged from his contributions to the satirical weekly Simplicissimus between 1901-1908. Meyrink, a banker-turned-writer with deep interests in the occult, yoga, and esoteric traditions, creates a literary underworld where military pomp, medical authority, and bourgeois respectability are mercilessly dismantled through dark humor, surreal visions, and inexplicable phenomena.

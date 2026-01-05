@@ -1,5 +1,5 @@
 # Ghost in the Wires: My Adventures as the World's Most Wanted Hacker
-**Authors**: Kevin D. Mitnick, William L. Simon | **Year**: 2011
+**Authors**: Kevin D. Mitnick, William L. Simon | **Year**: 2011 | **Category**: Technology & Computing
 
 ## Summary
 "Ghost in the Wires" is Kevin Mitnick's electrifying memoir chronicling his transformation from a curious teenager fascinated by phone systems to becoming the FBI's most wanted hacker. This thrilling narrative takes readers through Mitnick's evolution from harmless phone phreaking to sophisticated corporate penetration, three years as a fugitive, dramatic capture, and eventual reformation into a legitimate security consultant.

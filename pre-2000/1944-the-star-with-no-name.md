@@ -1,5 +1,6 @@
 # The Star with No Name
 **Authors**: Mihail Sebastian | **Year**: 1944
+**Category**: Fiction & Literature
 
 ## Summary
 Set in 1930s provincial Romania, this poignant play tells the story of Marin Miroiu, a naïve physics teacher who spends his nights searching for a nameless star in the sky. His quiet intellectual existence is disrupted when Mona, a wealthy young woman from high society, accidentally gets stranded at his small train station after fleeing her luxurious but empty life. The two spend one transformative night together, discovering in each other the possibility of a more authentic existence beyond their respective worlds. However, as dawn approaches, social realities and class differences force them to return to their predetermined lives, leaving Marin to continue his search among the stars.

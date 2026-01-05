@@ -1,5 +1,6 @@
 # The Raven
 **Original Title**: The Raven
+**Category**: Horror & Thriller
 **Authors**: Edgar Allan Poe | **Year**: 1845
 
 ## Summary

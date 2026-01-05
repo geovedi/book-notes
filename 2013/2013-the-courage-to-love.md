@@ -1,5 +1,5 @@
 # The Courage to Love: Surviving and Thriving in Your Relationship
-**Authors**: Padraig O'Morain | **Year**: 2013
+**Authors**: Padraig O'Morain | **Year**: 2013 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Courage to Love" presents a profound reinterpretation of intimate relationships as fundamentally heroic acts in the face of life's inherent vulnerability and mortality. Rather than viewing relationship problems through the narrow lens of individual flaws or communication skills, O'Morain advocates for a "macroscope" approach that places love within the broader context of the human condition. The book argues that our emotional struggles in relationships stem not from our partner's shortcomings but from our inability to accept life's unavoidable predicament—our mortality, vulnerability, and lack of ultimate control.

@@ -1,5 +1,6 @@
 # The Lost City of the Monkey God
 **Authors**: Douglas Preston | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 "The Lost City of the Monkey God" is a gripping true story of modern exploration, ancient mysteries, and the dangerous pursuit of archaeological discovery in one of Earth's most inhospitable environments. The book follows documentary filmmaker Steve Elkins and his team as they use cutting-edge lidar technology to locate a legendary lost city in the impenetrable jungles of Honduras' Mosquitia region—a place so dangerous it's been called the "Gates of Hell."

@@ -1,5 +1,5 @@
 # Unbroken
-**Authors**: Laura Hillenbrand | **Year**: 2010
+**Authors**: Laura Hillenbrand | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 *Unbroken* tells the extraordinary true story of Louis Zamperini, an Olympic runner whose B-24 bomber crashes into the Pacific Ocean during World War II. What follows is an unbelievable saga of survival—47 days drifting on a raft in shark-infested waters, followed by two years of brutal torture as a prisoner of war in Japanese camps. Yet this is more than a war story; it's a testament to human resilience and the power of redemption, as Zamperini returns home shattered by trauma but ultimately finds peace through forgiveness.

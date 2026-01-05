@@ -1,5 +1,6 @@
 # The Victorian City: Everyday Life in Dickens' London
 **Authors**: Judith Flanders | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 Judith Flanders' "The Victorian City" strips away the romanticized notions of Dickensian London to reveal the raw, vibrant, and often shocking reality of everyday life in the world's first modern metropolis. This meticulously researched book transforms Victorian London from a distant historical setting into a living, breathing world where 1 million people in 1800 exploded to 6.5 million by century's end. Flanders demonstrates that Victorian streets weren't just thoroughfares—they were workplaces, markets, theaters, and homes where the drama of human life unfolded 24 hours a day.

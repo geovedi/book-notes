@@ -1,5 +1,6 @@
 # The Doors of Perception & Heaven and Hell
 **Author**: Aldous Huxley | **Year**: 1954
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 A revolutionary exploration of consciousness that documents Huxley's firsthand experience with mescaline and his profound insights into the nature of perception, reality, and human consciousness. The work is divided into two parts: "The Doors of Perception" describes his transformative psychedelic experience, while "Heaven and Hell" analyzes visionary experiences across cultures, history, and art forms.

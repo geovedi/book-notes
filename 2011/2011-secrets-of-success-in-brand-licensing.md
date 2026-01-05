@@ -1,5 +1,5 @@
 # Secrets of Success in Brand Licensing
-**Authors**: Andrew Levy, Judy Bartkowiak | **Year**: 2011
+**Authors**: Andrew Levy, Judy Bartkowiak | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 

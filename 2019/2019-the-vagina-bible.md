@@ -1,5 +1,6 @@
 # The Vagina Bible
 **Author**: Jen Gunter, MD | **Year**: 2019
+**Category**: Health & Medicine
 
 ## Summary
 "The Vagina Bible" is a comprehensive medical guide that separates scientifically-backed facts from pervasive myths about female reproductive health. Written by a gynecologist with 24 years of experience, this book serves as a reality check against the wellness industry's exploitation of women's health fears and the historical patriarchal obsession with vaginal purity.

@@ -1,5 +1,6 @@
 # The Complete Works of William Shakespeare
 **Authors**: William Shakespeare | **Year**: 2017 (Collection Publication)
+**Category**: Fiction & Literature
 
 ## Summary
 This monumental collection gathers all 213 of William Shakespeare's plays, poems, sonnets, and apocryphal works, representing the complete literary output of history's most influential dramatist. Written between approximately 1589 and 1613, these works have shaped not only English literature but global culture, language, and storytelling traditions for over four centuries. The collection spans three main dramatic genres—comedies, tragedies, and histories—plus his renowned sonnets and narrative poems.

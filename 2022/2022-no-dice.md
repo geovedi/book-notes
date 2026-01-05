@@ -1,5 +1,5 @@
 # No Dice: Gambling and Risk in Modern Culture
-**Authors**: Nathan Charles | **Year**: 2022
+**Authors**: Nathan Charles | **Year**: 2022 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "No Dice" is a searing exploration of how gambling and risk-taking have become embedded in modern culture, particularly within working-class communities. Charles defines "soft gambling" as legal activities that are either partly-regulated or unregulated entirely, requiring financial risk to participate. The book examines how these activities—from video game loot boxes to streaming subscriptions—mirror traditional gambling mechanisms while escaping adequate regulation.

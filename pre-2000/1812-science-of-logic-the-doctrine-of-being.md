@@ -1,6 +1,7 @@
 # Science of Logic: The Doctrine of Being
 **Original Title**: Ciência da lógica: 1. A doutrina do ser
 **Author**: Georg Wilhelm Friedrich Hegel | **Year**: 1812 (first edition), 1831 (second edition)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Hegel's "Science of Logic" is the foundational work of German idealism and one of the most influential philosophical texts ever written. This first volume, the Doctrine of Being, represents Hegel's attempt to develop logic not as a set of formal rules for reasoning, but as the fundamental structure of reality itself. The work begins with the most basic categories of thought—pure being, nothing, and becoming—and systematically develops them through increasingly complex determinations until reaching the threshold of essence.

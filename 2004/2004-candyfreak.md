@@ -1,5 +1,5 @@
 # Candyfreak
-**Author**: Steve Almond | **Year**: 2004
+**Author**: Steve Almond | **Year**: 2004 | **Category**: Fiction & Literature
 
 ## Summary
 "Candyfreak" is part memoir, part culinary exploration, and part elegy for the vanishing world of independent American candy makers. Steve Almond, a self-proclaimed "candyfreak" who has eaten candy every day of his life, takes readers on a cross-country journey to discover the small, family-owned chocolate companies struggling to survive against industry giants like Hershey's and Mars.

@@ -1,5 +1,5 @@
 # Sexuality in the Arab World
-**Editors**: Samir Khalaf and John Gagnon | **Year**: 2014
+**Editors**: Samir Khalaf and John Gagnon | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 "Sexuality in the Arab World" is a groundbreaking academic collection that explores how sexuality has become a central battleground for cultural, political, and social transformation across Arab societies. The book examines the profound and unsettling changes in sexual and gender relations, particularly in recent decades, where conflicting expectations have created widespread uncertainty and collective anxiety. Through diverse case studies ranging from fin-de-siècle Beirut to contemporary diaspora communities, the contributors analyze how individuals and groups navigate dissonant sexual codes in rapidly changing cultural landscapes.

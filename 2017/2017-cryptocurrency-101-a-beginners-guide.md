@@ -1,5 +1,6 @@
 # Cryptocurrency 101: A Beginners Guide
 **Authors**: Patt Tomas | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This beginner's guide introduces readers to the world of cryptocurrency investing, focusing on Bitcoin, Ethereum, and alternative coins (altcoins). The book covers the fundamental concepts of blockchain technology, different cryptocurrencies, investment strategies, and practical steps for getting started in the crypto market. Written during the 2017 crypto boom, it provides a comprehensive overview of how cryptocurrencies work, their market dynamics, and various approaches to profiting from this emerging asset class.

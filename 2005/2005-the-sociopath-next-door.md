@@ -1,5 +1,5 @@
 # The Sociopath Next Door
-**Authors**: Martha Stout, Ph.D. | **Year**: 2005
+**Authors**: Martha Stout, Ph.D. | **Year**: 2005 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Sociopath Next Door" reveals a chilling truth: 1 in 25 people walk among us without conscience—the ability to feel guilt, remorse, or emotional connection to others. Dr. Martha Stout, a clinical psychologist with 25 years of experience, exposes how these conscienceless individuals manipulate, harm, and destroy lives while often appearing charming, successful, and completely normal. Through compelling case studies and psychological insight, she explains why conscience matters, how to recognize those who lack it, and why having a conscience is ultimately our greatest strength.

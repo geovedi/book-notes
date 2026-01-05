@@ -1,5 +1,6 @@
 # My Grandfather's Son
 **Author**: Clarence Thomas | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 Clarence Thomas's memoir is a powerful American story of perseverance, transformation, and redemption. Born into poverty in rural Georgia, raised by his grandparents after his father abandoned the family, Thomas charts his journey from the segregated South to the highest court in the land. The narrative is anchored by his relationship with his grandfather, Myers Anderson, whose wisdom, discipline, and work ethic shaped Thomas's character despite his later rebellion.

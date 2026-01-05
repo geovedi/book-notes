@@ -1,5 +1,6 @@
 # The Craftsmanship of Writing
 **Authors**: Frederic Taber Cooper | **Year**: 1911
+**Category**: Art & Creativity
 
 ## Summary
 "The Craftsmanship of Writing" is a practical guide that approaches writing as a serious craft requiring both innate talent and deliberate skill development. Originally based on Cooper's Columbia University extension course, the book demystifies the profession of authorship by emphasizing that successful writers must combine natural ability with rigorous self-criticism, continuous practice, and technical mastery. Cooper argues that while literary talent cannot be taught, the techniques of effective writing can be learned through systematic study, persistent practice, and careful attention to the methods of established masters.

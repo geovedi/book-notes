@@ -1,5 +1,6 @@
 # Two Years Before the Mast
 **Authors**: R.H. Dana Jr. | **Year**: 1840 (Harvard Classics Edition 1917)
+**Category**: History & Biography
 
 ## Summary
 This remarkable maritime memoir chronicles the transformation of a Harvard student who, weakened by measles and facing academic interruption, chose to sail as a common sailor rather than a passenger. From 1834-1836, Dana worked aboard the brig Pilgrim and later the ship Alert, trading for hides along California's coast long before the gold rush. What makes this narrative extraordinary is Dana's dual perspective: he experiences the brutal reality of sailor life while maintaining enough education and social standing to observe and document it with literary skill. The book became an instant classic for its vivid portrayal of maritime life and its priceless historical snapshot of California before American annexation.

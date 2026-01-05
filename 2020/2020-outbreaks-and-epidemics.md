@@ -1,5 +1,6 @@
 # Outbreaks and Epidemics: A Mental Health Perspective
 **Authors**: Meera Senthilingam | **Year**: 2020
+**Category**: Health & Medicine
 
 ## Summary
 "Outbreaks and Epidemics" is a comprehensive examination of infectious disease outbreaks throughout history and their profound impact on global society. Written by public health journalist Meera Senthilingam, this timely book explores how diseases spread, how societies respond, and what lessons we can learn from past pandemics to prepare for future threats. The book combines historical case studies with current public health challenges, including the COVID-19 pandemic, to provide readers with essential knowledge about outbreak prevention, detection, and response strategies.

@@ -1,6 +1,7 @@
 # Ward No. 6
 **Original Title**: Палата № 6
 **Author**: Anton Chekhov | **Year**: 1892
+**Category**: Fiction & Literature
 
 ## Summary
 Set in a provincial Russian hospital, "Ward No. 6" tells the story of Dr. Andrey Yefimitch Ragin, a disillusioned physician who oversees a psychiatric ward containing five patients. The most prominent among them is Ivan Dmitritch Gromov, an intelligent former court usher suffering from persecution mania. Initially dismissive of his patients' suffering, Dr. Ragin finds himself drawn into philosophical conversations with Gromov that challenge his complacent worldview and blind acceptance of institutional authority.

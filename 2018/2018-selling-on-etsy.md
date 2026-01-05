@@ -1,5 +1,5 @@
 # Selling on Etsy: Open an Etsy Storefront and Launch Your Handmade Empire
-**Authors**: George Pain | **Year**: 2018
+**Authors**: George Pain | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Selling on Etsy" is a comprehensive business guide for creative entrepreneurs who want to build a successful handmade empire on the world's largest marketplace for craftwork. The book provides step-by-step instructions for setting up shop, identifying profitable products, optimizing listings, and scaling operations beyond a hobby into a sustainable business.

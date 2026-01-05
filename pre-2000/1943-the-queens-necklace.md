@@ -1,5 +1,6 @@
 # The Queen's Necklace
 **Authors**: Antal Szerb | **Year**: 1943
+**Category**: History & Biography
 
 ## Summary
 "The Queen's Necklace" is a masterful work of "real history" that uses the infamous diamond necklace scandal of 1785 as a lens to examine the social, economic, and cultural forces that precipitated the French Revolution. Szerb, a Hungarian writer, approaches this historical episode not as conventional biography but as a character-driven narrative that reads like a novel while remaining grounded in meticulous historical research.

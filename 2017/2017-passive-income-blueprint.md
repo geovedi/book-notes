@@ -1,5 +1,6 @@
 # Passive Income Blueprint
 **Authors**: My Ebook Publishing House | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Passive Income Blueprint" is a practical guide that demystifies the concept of passive income and provides actionable strategies for generating wealth while you sleep. The book distinguishes between passive income (money earned from investments and systems) and residual income (ongoing payments from work done once), clarifying that truly passive income requires upfront work and smart decision-making rather than being completely hands-off.

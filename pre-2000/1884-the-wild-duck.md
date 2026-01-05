@@ -1,5 +1,6 @@
 # The Wild Duck
 **Original Title**: Vildanden | **Authors**: Henrik Ibsen | **Year**: 1884
+**Category**: Fiction & Literature
 
 ## Summary
 A tragic masterpiece that explores the destructive nature of absolute truth and the value of life-sustaining illusions. The play follows Gregers Werle, an idealistic young man who becomes obsessed with revealing hidden truths to "save" his friend Hjalmar Ekdal and his family, only to bring about their complete destruction. Set in 19th-century Norway, this five-act drama masterfully weaves together themes of truth vs. illusion, the burden of ideals, and the tragic consequences of well-intentioned meddling.

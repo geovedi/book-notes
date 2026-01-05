@@ -1,6 +1,6 @@
 # Jules Verne: The Classic Novels Collection
 **Original Title**: Jules Verne: The Classics Novels Collection
-**Author**: Jules Verne | **Year**: 2018 (Collection)
+**Author**: Jules Verne | **Year**: 2018 (Collection) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection gathers ten of Jules Verne's most celebrated adventure and science fiction novels, showcasing the 19th-century French author's extraordinary vision and storytelling genius. Verne, often called the "Father of Science Fiction," combined meticulous research with boundless imagination to create tales of exploration, technological innovation, and human perseverance that continue to captivate readers over 150 years after their publication.

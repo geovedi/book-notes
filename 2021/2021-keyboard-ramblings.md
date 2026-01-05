@@ -1,6 +1,7 @@
 # Keyboard Ramblings
 **Original Title**: Toetsenbordgezwaffel
 **Authors**: Ken Vingerhoets | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 "Keyboard Ramblings" is a collection of philosophical essays, observations, and personal reflections from Dutch blogger Ken Vingerhoets, originally written for his blog "Zwaffelijzer" and compiled during the 2020 lockdown. The book captures the author's raw, unfiltered thoughts on life's randomness, modern society's contradictions, and the human condition through a series of vignettes that range from humorous to deeply introspective.

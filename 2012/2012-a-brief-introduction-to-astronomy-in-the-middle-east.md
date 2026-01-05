@@ -1,5 +1,7 @@
 # 2012 - A Brief Introduction to Astronomy in the Middle East: Key Ideas Digest
 
+**Category**: Science & Nature
+
 ## Summary
 
 This comprehensive academic work by John M. Steele traces the remarkable 3,000-year history of astronomy in the Middle East, from its origins in ancient Mesopotamia through its flourishing in the Islamic world. The book reveals how Middle Eastern astronomers laid the foundations for modern astronomy through systematic observations, mathematical innovations, and sophisticated theoretical models that were eventually transmitted to Europe and influenced scientists like Copernicus and Kepler.

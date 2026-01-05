@@ -1,5 +1,5 @@
 # Zero to One
-**Authors**: Peter Thiel, Blake Masters | **Year**: 2014
+**Authors**: Peter Thiel, Blake Masters | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 Zero to One is a revolutionary guide to startup thinking that challenges conventional wisdom about innovation and competition. Thiel argues that true progress comes from creating entirely new things (going from 0 to 1) rather than copying what already exists (going from 1 to n). The book draws from Thiel's experience as co-founder of PayPal and Palantir, and as an early investor in Facebook and SpaceX, offering contrarian insights on how to build valuable companies that shape the future.

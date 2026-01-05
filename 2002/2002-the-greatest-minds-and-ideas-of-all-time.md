@@ -1,6 +1,6 @@
 # The Greatest Minds and Ideas of All Time
 **Original Title**: As idéias e mentes mais brilhantes de todos os tempos
-**Authors**: Will Durant | **Year**: 2002 
+**Authors**: Will Durant | **Year**: 2002 | **Category**: Philosophy & Critical Thinking 
 
 ## Summary
 Will Durant, the Pulitzer Prize-winning historian and "gentle philosopher," presents his personal curated compendium of humanity's highest intellectual and artistic achievements. This book serves as both a guided tour to the "must-see" landmarks in human history and a passionate defense of hero worship in an age that delights in tearing down greatness. Durant argues that history is not made by anonymous masses but by exceptional individuals whose contributions elevate the entire species.

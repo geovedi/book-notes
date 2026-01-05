@@ -1,5 +1,5 @@
 # The Ultimate Copywriting Guide for Beginners to Advanced
-**Authors**: Neil Hoechlin | **Year**: 2018
+**Authors**: Neil Hoechlin | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Copywriting is salesmanship in print—a powerful skill that transforms words into revenue by persuading readers to take specific actions. This comprehensive guide teaches the art and science of crafting compelling marketing copy across digital platforms, from websites and landing pages to emails and sales letters. The book emphasizes that great copywriting isn't about being a talented writer; it's about understanding human psychology, knowing your audience deeply, and mastering proven formulas that trigger emotional responses and drive conversions.

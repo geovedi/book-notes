@@ -1,5 +1,6 @@
 # Are You There, Vodka? It's Me, Chelsea
 **Author**: Chelsea Handler | **Year**: 2008
+**Category**: Fiction & Literature
 
 ## Summary
 This riotous memoir collection from comedian Chelsea Handler serves up a dozen outrageous true stories from her wild youth and early adulthood. Each chapter delivers a self-contained anecdote showcasing Handler's sharp wit, terrible decision-making, and remarkable ability to find humor in life's most absurd situations. From childhood lies about movie deals to DUI arrests and blind dates from hell, Handler's stories reveal the chaotic mind behind her provocative comedy career.

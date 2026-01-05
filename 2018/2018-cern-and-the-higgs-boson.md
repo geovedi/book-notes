@@ -1,6 +1,7 @@
 # CERN and the Higgs Boson
 **The Global Quest for the Building Blocks of Reality**
 **Authors**: James Gillies | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 This book chronicles the fascinating story of CERN—the European Organization for Nuclear Research—and its quest to understand the fundamental building blocks of our universe. From its post-WWII origins as a symbol of European scientific cooperation to the groundbreaking discovery of the Higgs boson in 2012, the narrative weaves together physics history, technological innovation, and human drama.

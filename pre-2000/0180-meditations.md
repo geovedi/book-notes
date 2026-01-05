@@ -1,5 +1,6 @@
 # Meditations
 **Authors**: Marcus Aurelius | **Year**: ~180 CE
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Meditations is the personal journal of Marcus Aurelius, the Roman Emperor and Stoic philosopher, written as a series of self-reflections during his military campaigns and years of rule. This collection of private notes to himself offers timeless wisdom on how to live a virtuous, rational life amid chaos, responsibility, and human weakness. The work represents practical philosophy at its most profound—less abstract theory than a step-by-step guide to maintaining inner peace and moral integrity regardless of external circumstances.

@@ -1,5 +1,6 @@
 # Build a Better Brain
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 Build a Better Brain reveals the revolutionary science of neuroplasticity—your brain's remarkable ability to physically change itself throughout your lifetime. Peter Hollins demystifies how you can harness this natural process to enhance motivation, discipline, courage, and mental sharpness. The book bridges cutting-edge neuroscience with practical strategies, showing that your brain's potential isn't fixed at birth but actively shaped by your daily choices, habits, and environment.

@@ -1,6 +1,6 @@
 # Meteorology
 **Original Title**: Meteorologia
-**Authors**: Aristotle | **Year**: ~350 BCE
+**Authors**: Aristotle | **Year**: ~350 BCE | **Category**: Science & Nature
 
 ## Summary
 Aristotle's "Meteorology" represents one of the world's first systematic scientific investigations of weather and natural phenomena. This groundbreaking work explores everything from shooting stars and rainbows to earthquakes and the sea's saltiness, establishing a comprehensive framework for understanding Earth's atmospheric and geological processes. Written as the bridge between his works on astronomy and biology, this treatise demonstrates Aristotle's empirical approach to studying the natural world, combining careful observation with logical reasoning to explain phenomena that were largely mysterious to his contemporaries.

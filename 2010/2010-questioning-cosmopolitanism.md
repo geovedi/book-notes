@@ -1,6 +1,6 @@
 # Questioning Cosmopolitanism
 
-**Editors**: Stan van Hooft, Wim Vandekerckhove | **Year**: 2010
+**Editors**: Stan van Hooft, Wim Vandekerckhove | **Year**: 2010 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Questioning Cosmopolitanism" is a scholarly collection that critically examines the concept of cosmopolitanism—the idea that all human beings belong to a single moral community with shared responsibilities and obligations that transcend national boundaries. Rather than accepting cosmopolitanism uncritically, the contributors systematically question, challenge, and refine its fundamental premises, creating a nuanced dialogue between supporters and critics of this influential political philosophy.

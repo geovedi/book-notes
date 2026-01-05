@@ -1,5 +1,6 @@
 # Me Talk Pretty One Day
 **Author**: David Sedaris | **Year**: 2009
+**Category**: Fiction & Literature
 
 ## Summary
 "Me Talk Pretty One Day" is a hilarious collection of autobiographical essays that captures David Sedaris's journey through life's absurdities, from his childhood in North Carolina to his struggles learning French as an adult in Paris. The book is divided into two parts: the first focusing on his American upbringing and family eccentricities, the second on his experiences as an American expatriate attempting to navigate French language and culture. Sedaris transforms ordinary moments—speech therapy classes, moving furniture in New York, disastrous language lessons—into profoundly funny observations about human vulnerability, cultural misunderstandings, and the universal desire to belong.

@@ -1,5 +1,6 @@
 # A Prefect's Uncle
 **Authors**: P. G. Wodehouse | **Year**: 1902
+**Category**: Fiction & Literature
 
 ## Summary
 "A Prefect's Uncle" is a classic P.G. Wodehouse school story set at Beckford College, following the adventures of Allan Gethryn, nicknamed "the Bishop," who serves as head of Leicester's House. The story captures the quintessential English public school experience with its perfect blend of cricket, football, house rivalries, and the eternal battle between authority and mischievous students.

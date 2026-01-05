@@ -1,5 +1,6 @@
 # Different Skin
 **Authors**: Giorgia Lanuzza | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Different Skin" is a raw, powerful memoir about Giorgia Lanuzza's journey with severe psoriasis that began suddenly after her father's tragic death when she was just 13 years old. This deeply personal account chronicles how trauma, grief, and stress manifested physically on her skin, transforming her body into a canvas of emotional pain. Lanuzza shares her evolution from self-hate and hiding to radical self-acceptance and empowerment, ultimately turning her greatest source of shame into her platform for helping others.

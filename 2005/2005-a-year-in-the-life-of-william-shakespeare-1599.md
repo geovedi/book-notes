@@ -1,5 +1,5 @@
 # A Year in the Life of William Shakespeare: 1599
-**Author**: James Shapiro | **Year**: 2005
+**Author**: James Shapiro | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking historical work reveals how a single pivotal year—1599—transformed William Shakespeare from an exceptionally talented playwright into one of the greatest writers in history. Shapiro masterfully weaves together the political turmoil, cultural shifts, and personal challenges that shaped Shakespeare's most productive year, during which he completed Henry V, wrote Julius Caesar and As You Like It in rapid succession, and drafted his masterpiece, Hamlet.

@@ -1,5 +1,5 @@
 # Silent Spring
-**Authors**: Rachel Carson, Edward O. Wilson, Linda Lear | **Year**: 1962
+**Authors**: Rachel Carson, Edward O. Wilson, Linda Lear | **Year**: 1962 | **Category**: Science & Nature
 
 ## Summary
 Silent Spring is the groundbreaking environmental classic that exposed the devastating effects of synthetic pesticides on ecosystems and human health. Carson's meticulous scientific investigation revealed how chemical pesticides like DDT were accumulating throughout the food chain, causing widespread death in wildlife populations and posing serious threats to human genetic material and cellular processes. The book famously opens with a fictional fable of a town where all life has been destroyed by pesticides, creating a "silent spring" without birdsong or natural sounds.

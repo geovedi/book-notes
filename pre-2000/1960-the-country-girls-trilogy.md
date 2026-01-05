@@ -1,6 +1,6 @@
 # The Country Girls Trilogy
 **Original Title**: Ragazze di campagna. La trilogia
-**Authors**: Edna O'Brien | **Year**: 1960-1964
+**Authors**: Edna O'Brien | **Year**: 1960-1964 | **Category**: Fiction & Literature
 
 ## Summary
 The Country Girls Trilogy follows the intertwined stories of Caithleen "Cait" Brady and Bridget "Baba" Brennan, two young women growing up in the oppressive, religiously conservative rural Ireland of the 1950s. The trilogy charts their journey from schoolgirls through young adulthood, their escape to Dublin, and eventually their complicated lives in London, capturing the painful clash between personal desire and societal expectation.

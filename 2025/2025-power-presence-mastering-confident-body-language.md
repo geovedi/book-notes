@@ -1,6 +1,7 @@
 # 2025 Power Presence - Mastering Confident Body Language
 **Original Title**: Power Presence – Souverän auftreten durch kontrollierte Körpersprache
 **Author**: Simone Janson (ed.) | **Year**: 2025
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This comprehensive guide reveals how to master the art of compelling body presence to appear powerful and confident in every situation. The book demonstrates that confident behavior is achieved through controlled body language, enabling readers to appear strong, self-assured, and composed in both professional and personal settings. Power Presence combines self-confidence, body language, and emotional intelligence to create natural charisma that inspires respect and interest.

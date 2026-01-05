@@ -1,5 +1,6 @@
 # The Runaways
 **Authors**: Elizabeth Goudge | **Year**: 1938
+**Category**: Children & Young Adult
 
 ## Summary
 "The Runaways" is a magical children's adventure that follows four siblings—Robert, Nan, Timothy, and Betsy Linnet—who escape from their authoritarian grandmother's house and embark on an unexpected journey to Devon. After their father returns to India and the children face separation, they run away with their loyal dog Absolom, accidentally stealing a pony and trap that leads them to their great-uncle's vicarage in the Devon countryside. There they discover a world of enchantment where they must help lift a curse that has plagued the local squire's family for generations, ultimately bringing reconciliation and healing to the entire community.

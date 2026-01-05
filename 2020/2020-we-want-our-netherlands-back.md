@@ -1,6 +1,7 @@
 # We Want Our Netherlands Back
 **Original Title**: Wij willen ons Nederland terug
 **Author**: Willem Klaassen | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This book is a provocative political critique targeting Dutch citizens frustrated with immigration policies, multiculturalism, and what the author perceives as the erosion of traditional Dutch values. Written from a right-wing populist perspective, it collects everyday frustrations and grievances about Islam, immigration, and the perceived failure of mainstream political parties to address these concerns.

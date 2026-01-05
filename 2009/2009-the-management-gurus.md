@@ -1,5 +1,6 @@
 # The Management Gurus: Lessons from the World's Top Business Thinkers
 **Authors**: Chris Lauer (Editor) | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 "The Management Gurus" brings together fifteen powerful summaries from the most influential management thinkers of our time, offering busy leaders instant access to proven strategies for people management, organizational change, and leadership excellence. This comprehensive collection distills decades of research and real-world experience into actionable insights that transform how managers lead, hire, and develop their teams.

@@ -1,5 +1,6 @@
 # Mary Stuart
 **Authors**: Alexandre Dumas | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 Alexandre Dumas' "Mary Stuart" is a masterful historical narrative that chronicles the tragic final years of Mary, Queen of Scots (1542-1587). Part of Dumas' celebrated "Celebrated Crimes" series, this work blends meticulous historical research with the dramatic flair that made Dumas a literary legend. The book focuses on Mary's return to Scotland from France as a nineteen-year-old widow, her turbulent reign, her imprisonment in Lochleven Castle, and her eventual execution at the hands of her cousin, Queen Elizabeth I.

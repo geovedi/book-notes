@@ -1,5 +1,6 @@
 # The Complete Wizard of Oz Collection
 **Authors**: L. Frank Baum | **Year**: 1900-1920
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 The Complete Wizard of Oz Collection comprises all 16 novels in L. Frank Baum's beloved Oz series, beginning with the iconic "The Wonderful Wizard of Oz" (1900) and continuing through "Glinda of Oz" (1920). These American fairy tales revolutionized children's literature by eliminating the frightening elements of European fairy tales while maintaining wonder and adventure. The series follows Dorothy Gale's adventures in the magical Land of Oz, along with an expanding cast of characters including the Scarecrow, Tin Woodman, and Cowardly Lion.

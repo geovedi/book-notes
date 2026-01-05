@@ -1,5 +1,6 @@
 # American Slavery As It Was: The Background Of Twelve Years A Slave
 **Authors**: Theodore Dwight Weld | **Year**: 1839
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking abolitionist work serves as a systematic documentation of slavery's brutal reality in the American South, functioning as both legal evidence and moral indictment. Weld meticulously compiles eyewitness testimonies, personal narratives, and factual evidence to expose the systematic cruelty inherent in the institution of slavery, countering pro-slavery propaganda that claimed slaves were treated well by their masters. The book presents itself as a courtroom case where readers serve as jurors to determine the actual condition of America's 2.7 million enslaved persons.

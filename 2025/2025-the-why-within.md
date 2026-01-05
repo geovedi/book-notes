@@ -1,5 +1,6 @@
 # The Why Within
 **Authors**: Ranjot Singh Chahal | **Year**: 2025
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Why Within" is a comprehensive guide to discovering and living with purpose in both personal and professional life. The book presents a systematic approach to uncovering your core motivations, values, and unique contribution to the world. It argues that purpose is not an abstract concept but a practical necessity that bridges the gap between external success and internal fulfillment.

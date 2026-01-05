@@ -1,5 +1,6 @@
 # The Book of Saints and Heroes
 **Authors**: Andrew Lang | **Year**: 1912
+**Category**: Spirituality & Religion
 
 ## Summary
 "The Book of Saints and Heroes" is a captivating collection of biographical narratives compiled by the renowned Scottish folklorist and literary critic Andrew Lang. This volume brings to life the extraordinary stories of twenty Christian saints and heroes from different eras and regions, spanning from the early desert hermits to medieval figures like St. George, the Patron Saint of England. Each story is masterfully told in Lang's engaging narrative style, blending historical facts with legendary elements that have been preserved through centuries of Christian tradition.

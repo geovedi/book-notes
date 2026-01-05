@@ -1,6 +1,7 @@
 # Bulgarian Turks (1878-2008)
 **Original Title**: Bulgaristan Türkleri (1878-2008)
-**Authors**: Bilâl N. Şimşir | **Year**: 2012 
+**Authors**: Bilâl N. Şimşir | **Year**: 2012
+**Category**: History & Biography 
 
 ## Summary
 

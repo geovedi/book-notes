@@ -1,5 +1,6 @@
 # The Wealth of Nations
 **Authors**: Adam Smith | **Year**: 1776
+**Category**: Business & Finance
 
 ## Summary
 "The Wealth of Nations" is Adam Smith's masterpiece that established modern economics as a systematic discipline. Smith explores how nations become prosperous through the natural tendencies of human behavior, particularly the division of labor, self-interest, and free markets. He argues that individuals pursuing their own economic interests, guided by what he famously calls the "invisible hand," inadvertently promote society's overall welfare more effectively than any centralized planning could achieve.

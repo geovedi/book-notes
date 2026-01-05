@@ -1,5 +1,6 @@
 # My Weekly Devotional for Daily Struggles
 **Authors**: Phillip Tomasso | **Year**: 2025
+**Category**: Spirituality & Religion
 
 ## Summary
 "My Weekly Devotional for Daily Struggles" is a 52-week Christian devotional that addresses the real, everyday challenges of faith through honest personal testimony and biblical wisdom. Written by Phillip Tomasso, a 911 dispatcher and author of over 30 novels, this devotional stands out for its raw authenticity and vulnerability. Tomasso doesn't present himself as having achieved spiritual perfection but as someone actively wrestling with the same doubts, fears, and failures that many Christians face daily.

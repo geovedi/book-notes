@@ -1,5 +1,6 @@
 # The Pragmatist's Guide to Relationships
 **Authors**: Malcolm Collins, Simone Collins | **Year**: 2020
+**Category**: Romance & Relationships
 
 ## Summary
 This book applies ruthless optimization and systems thinking to dating, sex, and marriage. The Collins argue that relationships are marketplaces where we are all products, and that understanding this marketplace dynamics is crucial for relationship success. They challenge readers to abandon romantic notions and instead approach relationships with the same strategic thinking they'd apply to their careers.

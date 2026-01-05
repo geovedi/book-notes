@@ -1,5 +1,5 @@
 # Charlie Chan: The Untold Story of the Honorable Detective and His Rendezvous with American History
-**Author**: Yunte Huang | **Year**: 2011
+**Author**: Yunte Huang | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 This fascinating cultural biography unravels the complex legacy of Charlie Chan, one of America's most controversial yet enduring cultural icons. Through meticulous research, Huang reveals that behind the fictional detective lies the real-life story of Chang Apana, a legendary Chinese-Hawaiian detective whose exploits inspired the character. The book traces four interconnected narratives: Apana's remarkable life as a bullwhip-wielding Honolulu detective, novelist Earl Derr Biggers's creation of the character, Hollywood's yellowface adaptations, and Charlie Chan's complicated cultural legacy in contemporary America.

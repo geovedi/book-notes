@@ -1,5 +1,6 @@
 # In the Mind of Mental Illness
 **Authors**: Margaret Mitchell and contributors | **Year**: 2018
+**Category**: Psychology & Mental Health
 
 ## Summary
 "In the Mind of Mental Illness: Behind the Smiles and the Tears" is a powerful collection of personal accounts, poetry, and reflections from individuals living with mental illness, primarily focusing on manic depression (bipolar disorder) and schizophrenia. Compiled over 19 years by Margaret Mitchell, who herself has lived with bipolar disorder since 1980, the book aims to bridge the gap between those who suffer from mental illness and those who don't, fostering greater understanding and compassion.

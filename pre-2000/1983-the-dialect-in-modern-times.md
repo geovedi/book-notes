@@ -1,6 +1,7 @@
 # The Dialect in Modern Times
 **Original Title**: Het dialect in deze tijd
-**Author**: Cor van Bree | **Year**: 1983 
+**Author**: Cor van Bree | **Year**: 1983
+**Category**: Science & Nature 
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # Plants in Neolithic Britain and Beyond
-**Authors**: Alasdair Whittle (editor), Michael J. Allen, Mark A. Robinson, and others | **Year**: 2000
+**Authors**: Alasdair Whittle (editor), Michael J. Allen, Mark A. Robinson, and others | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 "Plants in Neolithic Britain and Beyond" presents a comprehensive examination of plant use, cultivation, and landscape management during the Neolithic period in Britain and continental Europe. Through multiple scholarly contributions, the book challenges traditional views of Neolithic agriculture by revealing the complex relationship between humans, plants, and their environment during this transformative period.

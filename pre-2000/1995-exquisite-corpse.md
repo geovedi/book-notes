@@ -1,5 +1,6 @@
 # Exquisite Corpse
 **Authors**: Robert Irwin | **Year**: 1995
+**Category**: Fiction & Literature
 
 ## Summary
 "Exquisite Corpse" is a haunting literary novel that blurs the boundaries between reality, memory, and artistic creation. Set in 1951, the story follows Caspar, a once-promising Surrealist painter now adrift in post-war London, as he writes an "anti-memoir" to find Caroline, the mysterious woman who vanished from his life fifteen years earlier.

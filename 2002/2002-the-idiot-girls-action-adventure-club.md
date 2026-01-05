@@ -1,5 +1,5 @@
 # The Idiot Girls' Action-Adventure Club
-**Author**: Laurie Notaro | **Year**: 2002
+**Author**: Laurie Notaro | **Year**: 2002 | **Category**: Fiction & Literature
 
 ## Summary
 This hilarious collection of autobiographical essays chronicles the misadventures of Laurie Notaro and her friends as they navigate adulthood with all the grace of a three-legged giraffe on roller skates. Through brutally honest and self-deprecating humor, Notaro transforms everyday embarrassments and mishaps into comedy gold, proving that sometimes being "dumb" is not only inevitable but also entertainingly relatable.

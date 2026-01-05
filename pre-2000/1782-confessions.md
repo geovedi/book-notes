@@ -1,6 +1,7 @@
 # Confessions
 **Original Title**: Bekenntnisse: Erster Theil
 **Author**: Jean-Jacques Rousseau | **Year**: 1782 (posthumous)
+**Category**: History & Biography
 
 ## Summary
 Rousseau's "Confessions" is a revolutionary autobiographical work that created an entirely new genre: the complete, unvarnished self-portrait. Written with unprecedented honesty, Rousseau reveals his innermost thoughts, feelings, and experiences from birth through young adulthood. This is not merely a life story but a profound exploration of human nature, identity, and the struggle between natural feelings and social conventions.

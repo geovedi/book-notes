@@ -1,5 +1,5 @@
 # Confronting Capitalism
-**Author**: Philip Kotler | **Year**: 2015
+**Author**: Philip Kotler | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 Philip Kotler's "Confronting Capitalism" offers a critical examination of capitalism's fourteen major shortcomings while advocating for "capitalism with a heart" - a middle ground between unregulated free markets and strict socialism. The book acknowledges capitalism as the superior economic system compared to alternatives but argues that significant reforms are needed to address persistent poverty, income inequality, environmental degradation, and other systemic issues. Kotler presents concrete solutions for each identified problem, drawing on successful examples from various countries and movements like Conscious Capitalism and the New Economy Movement.

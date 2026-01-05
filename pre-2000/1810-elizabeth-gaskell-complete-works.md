@@ -1,5 +1,6 @@
 # The Complete Works of Elizabeth Gaskell
 **Authors**: Elizabeth Gaskell | **Year**: 1810-1865
+**Category**: Fiction & Literature
 
 ## Summary
 Elizabeth Gaskell stands as one of Victorian England's most vital literary voices, offering an unflinching yet compassionate view of industrial society's dramatic transformation. Her works masterfully bridge the gap between rural tradition and urban progress, capturing the human cost and complexity of the Industrial Revolution. Gaskell's unique perspective as both a woman and someone deeply connected to Manchester's industrial heartland gave her unprecedented insight into the social upheavals of her time.

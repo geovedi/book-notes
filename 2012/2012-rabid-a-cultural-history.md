@@ -1,5 +1,6 @@
 # Rabid: A Cultural History of the World's Most Diabolical Virus
 **Authors**: Bill Wasik, Monica Murphy | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "Rabid" explores the fascinating and terrifying 4,000-year relationship between humanity and rabies, the world's most deadly virus with a near-100% fatality rate. The authors weave together scientific history, cultural impact, and modern medical breakthroughs to reveal how this bullet-shaped virus has shaped our fears, folklore, and even our scientific understanding. From ancient Babylonian jokes to modern Manhattan raccoon outbreaks, rabies has been our constant companion—a disease that visibly demonstrates the boundary between animal and human, making it the original and most tangible zoonotic threat.

@@ -1,5 +1,5 @@
 # The Last Stand
-**Author**: Nathaniel Philbrick | **Year**: 2010
+**Author**: Nathaniel Philbrick | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 Nathaniel Philbrick's "The Last Stand" reexamines the legendary Battle of the Little Bighorn not as a simple tale of heroic sacrifice vs. savage victory, but as a complex collision of cultures, ambitions, and historical forces. The book dismantles the myth-making that has surrounded Custer's final stand for over a century, presenting instead a nuanced portrait of two men—George Armstrong Custer and Sitting Bull—each fighting their own "last stand" against the inevitable transformation of America.

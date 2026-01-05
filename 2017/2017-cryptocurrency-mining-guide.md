@@ -1,5 +1,6 @@
 # Cryptocurrency Mining: The Ultimate Guide to Understanding Bitcoin, Ethereum, Litecoin, Monero, Zcash Mining Technologies
 **Authors**: Alan T. Norman | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive beginner's guide demystifies cryptocurrency mining, breaking down complex technical concepts into accessible steps for newcomers. The book covers everything from understanding blockchain technology and the origins of Bitcoin with Satoshi Nakamoto, to building efficient mining rigs and choosing profitable cryptocurrencies to mine.

@@ -1,5 +1,6 @@
 # Behind a Mask
 **Authors**: A.M. Barnard (Louisa May Alcott) | **Year**: 1866
+**Category**: Fiction & Literature
 
 ## Summary
 Jean Muir, a seemingly demure and desperate governess, arrives at the Coventry household under mysterious circumstances. What the family doesn't realize is that this delicate-looking woman is actually a divorced actress and cunning manipulator who has carefully constructed her identity to ensnare wealthy men. Through calculated charm, strategic tears, and masterful manipulation, Jean systematically targets each family member—fascinating young Ned, alienating Gerald, and positioning herself to marry the wealthy Sir John Coventry.

@@ -1,6 +1,7 @@
 # The Performer: Art, Life, Politics
 **Original Title**: La società del palcoscenico
 **Authors**: Richard Sennett | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Richard Sennett's "The Performer" explores how performance and representation have come to dominate modern politics, art, and everyday life. Drawing from his background as a former professional musician and sociologist, Sennett examines the evolution of performance from ritual to art form, and how modern figures like Donald Trump and Boris Johnson have weaponized performance for political manipulation.

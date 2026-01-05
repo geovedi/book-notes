@@ -1,6 +1,6 @@
 # On the Open Sea
 **Original Title**: In alto mare
-**Authors**: Danilo Zagaria | **Year**: 2022 
+**Authors**: Danilo Zagaria | **Year**: 2022 | **Category**: Science & Nature 
 
 ## Summary
 "In alto mare" is a compelling exploration of our planet's marine ecosystems in crisis, told through the lens of plastic pollution, overfishing, and climate change. Danilo Zagaria, a biologist and science communicator, weaves together personal stories, scientific facts, and literary references to create a vivid portrait of how human activities are transforming the world's oceans. The book is structured around three main themes: the plague of plastic pollution, the complex relationship between humans and marine life through fishing, and the dramatic changes occurring in Arctic regions due to climate change.

@@ -1,5 +1,5 @@
 # Trust
-**Authors**: Anthony Seldon | **Year**: 2011
+**Authors**: Anthony Seldon | **Year**: 2011 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Trust examines the profound crisis of confidence affecting Britain's institutions, from politics and banking to the media and public services. Written in the aftermath of the 2008 financial crisis and 2009 parliamentary expenses scandal, the book argues that trust is not merely a nice-to-have virtue but the essential foundation for a functioning society and prosperous economy. Seldon demonstrates how the erosion of trust damages relationships, institutions, and social cohesion while offering practical solutions for rebuilding trust in all areas of public and private life.

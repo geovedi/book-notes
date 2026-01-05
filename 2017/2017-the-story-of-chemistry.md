@@ -1,5 +1,6 @@
 # The Story of Chemistry
 **Authors**: Anne Rooney | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "The Story of Chemistry" traces the fascinating journey of human understanding of matter from prehistoric metallurgy to modern nanotechnology. This comprehensive narrative shows how chemistry evolved from mysterious alchemical practices to a rigorous science that explains the composition and transformation of everything around us. The book covers the major paradigm shifts that shaped chemical knowledge, from the Greek four-element theory through the scientific revolution to today's atomic understanding of matter.

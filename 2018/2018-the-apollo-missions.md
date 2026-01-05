@@ -1,5 +1,5 @@
 # The Apollo Missions
-**Authors**: David Baker | **Year**: 2018
+**Authors**: David Baker | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "The Apollo Missions" chronicles humanity's greatest adventure - the race to land humans on the Moon and return them safely to Earth. Written by David Baker, a former NASA engineer who worked during the Apollo program, this comprehensive account spans from the political origins of the Space Race to the triumphant lunar landings that changed our perspective of Earth forever.

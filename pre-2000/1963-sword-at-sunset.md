@@ -1,5 +1,5 @@
 # Sword at Sunset
-**Authors**: Rosemary Sutcliff | **Year**: 1963
+**Authors**: Rosemary Sutcliff | **Year**: 1963 | **Category**: Fiction & Literature
 
 ## Summary
 Sword at Sunset is a powerful historical novel that strips away the medieval romance of King Arthur to reveal the raw reality of a war leader fighting to preserve the last embers of Roman civilization in post-Roman Britain. The story follows Artos (Arthur), a Romano-British cavalry commander who inherits the burden of defending Britain against invading Saxons, Picts, and Irish raiders after the Roman legions have departed.

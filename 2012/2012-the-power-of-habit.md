@@ -1,5 +1,6 @@
 # The Power of Habit
 **Authors**: Charles Duhigg | **Year**: 2012
+**Category**: Self-Help & Personal Development
 
 ## Summary
 The Power of Habit explores the scientific basis behind why we do what we do in life and business. Charles Duhigg reveals how habits work through a neurological process called the "habit loop" - a three-step pattern of cue, routine, and reward that shapes our automatic behaviors. The book demonstrates that habits aren't destiny but rather patterns that can be understood, modified, and replaced to transform our lives.

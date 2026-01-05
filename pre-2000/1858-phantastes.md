@@ -1,6 +1,7 @@
 # Phantastes: A Faerie Romance
 
 **Original Title**: Phantastes | **Author**: George MacDonald | **Year**: 1858
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # Men Like Gods
 **Authors**: H.G. Wells | **Year**: 1923
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Men Like Gods" is a visionary science fiction novel that explores the concept of parallel universes through the accidental journey of Mr. Barnstaple and a group of prominent English citizens who find themselves transported to Utopia—a parallel Earth that has evolved centuries beyond our own world. This advanced society represents humanity's potential future, where scientific progress, rational governance, and emotional maturity have eliminated most of Earth's problems: war, poverty, disease, and social conflict.

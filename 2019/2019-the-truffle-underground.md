@@ -1,5 +1,6 @@
 # The Truffle Underground
 **Authors**: Ryan Jacobs | **Year**: 2019
+**Category**: Health & Medicine
 
 ## Summary
 "The Truffle Underground" is a gripping work of investigative journalism that exposes the criminal underworld lurking beneath the glamorous surface of the global truffle trade. Jacobs takes readers on a journey from the forests of France and Italy to high-end restaurants around the world, revealing a supply chain riddled with theft, fraud, sabotage, and violence. The book follows the truffle's perilous journey from spore to plate, introducing us to the farmers, hunters, middlemen, and chefs who operate in a world where a single kilogram of rare white truffles can command over $7,000.

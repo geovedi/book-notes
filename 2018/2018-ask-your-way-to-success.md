@@ -1,5 +1,5 @@
 # Ask Your Way to Success
-**Authors**: Chase Andrews | **Year**: 2018
+**Authors**: Chase Andrews | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Ask Your Way to Success" is a comprehensive guide that reveals how the simple act of asking—when combined with mindfulness and massive action—can unlock unprecedented opportunities and success. The book introduces a unique framework where success operates on two parallel tracks: the tangible (phenomena) and intangible (noumena). Through the art of asking, readers learn to align their mind, body, and soul to transmit powerful vibrations to the universe, which then responds with corresponding opportunities.

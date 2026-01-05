@@ -1,5 +1,6 @@
 # My Inventions
 **Authors**: Nikola Tesla | **Year**: 1919
+**Category**: Science & Nature
 
 ## Summary
 Nikola Tesla's autobiography reveals not just the story of his revolutionary inventions, but the extraordinary mental framework that made them possible. Written as a series of articles for the Electrical Experimenter, this memoir chronicles how a young Serbian immigrant transformed the world through his unique approach to invention. Tesla describes his method of visualizing complete inventions in his mind with perfect precision before building them, his discovery of the rotating magnetic field that launched the AC power system, and his vision for wireless energy transmission that still exceeds our current capabilities. The book is both a masterclass in creative thinking and a glimpse into a mind that operated on a different level of consciousness.

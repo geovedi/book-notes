@@ -1,5 +1,6 @@
 # Kafka: The Years of Awareness
 **Author**: Reiner Stach | **Year**: 2008 (Original German), 2022 (Italian Edition)
+**Category**: Fiction & Literature
 
 ## Summary
 This meticulously researched biography covers Franz Kafka's crucial middle period (1915-1924), examining how the writer evolved from a quiet insurance clerk into one of the 20th century's most profound literary voices. The book portrays Kafka's transformation during World War I, his struggle with tuberculosis, his complex relationships with women (Felice, Milena, Dora), and the creation of his major works including *The Castle* and *The Trial*.

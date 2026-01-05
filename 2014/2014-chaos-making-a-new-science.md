@@ -1,5 +1,5 @@
 # Chaos: Making a New Science
-**Authors**: Ziauddin Sardar, Iwona Abrams | **Year**: 2014
+**Authors**: Ziauddin Sardar, Iwona Abrams | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "Chaos: Making a New Science" is a graphic guide that explores the revolutionary field of chaos theory, which emerged in the late 20th century as a paradigm-shifting scientific discipline. The book reveals how chaos theory has transformed our understanding of natural phenomena, from weather patterns and population dynamics to economic systems and human physiology. This accessible introduction demonstrates how chaos bridges the gap between order and disorder, showing that simple deterministic rules can generate complex, unpredictable behavior.

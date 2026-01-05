@@ -1,5 +1,5 @@
 # Killer Germs
-**Authors**: Barry E. Zimmerman, David J. Zimmerman | **Year**: 2003
+**Authors**: Barry E. Zimmerman, David J. Zimmerman | **Year**: 2003 | **Category**: Health & Medicine
 
 ## Summary
 "Killer Germs" is a comprehensive exploration of infectious diseases that have shaped human history and continue to threaten humanity today. The book traces the origins of disease-causing microorganisms, from their emergence billions of years ago to their modern manifestations, while documenting humanity's ongoing battle against these invisible foes. The authors examine five categories of pathogens—viruses, bacteria, protozoa, fungi, and worms—with particular focus on the most devastating diseases that have plagued civilizations throughout history.

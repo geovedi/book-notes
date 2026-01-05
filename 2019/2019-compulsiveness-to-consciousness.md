@@ -1,5 +1,6 @@
 # Compulsiveness to Consciousness
 **Authors**: Sadhguru Jaggi Vasudev | **Year**: 2019
+**Category**: Spirituality & Religion
 
 ## Summary
 "Compulsiveness to Consciousness" is a profound exploration of human relationships and how they can either trap us in compulsive patterns or elevate us to conscious living. Sadhguru examines why most relationships bring more pain than joy, despite being essential to human existence. The book reveals that the fundamental issue lies in how we approach relationships - whether we use them to fulfill our needs or to express our joy. Through insightful anecdotes, practical wisdom, and spiritual depth, Sadhguru offers a revolutionary perspective on transforming our relationships from sources of bondage into opportunities for spiritual growth and ultimate liberation.

@@ -1,5 +1,6 @@
 # Very Good, Jeeves
 **Original Title**: Very Good, Jeeves | **Authors**: P.G. Wodehouse | **Year**: 1930
+**Category**: Fiction & Literature
 
 ## Summary
 "Very Good, Jeeves" is a delightful collection of eleven short stories featuring the incomparable duo of Bertie Wooster and his gentleman's personal gentleman, Jeeves. Set in the idyllic world of English upper-class society between the World Wars, these stories showcase Bertie's well-meaning but perpetually misguided adventures, always resolved by the quiet brilliance of his valet. Each tale follows a familiar pattern: Bertie blunders into some social catastrophe or romantic entanglement, and Jeeves, with his formidable intellect and encyclopedic knowledge, orchestrates an elegant solution while maintaining perfect professional decorum.

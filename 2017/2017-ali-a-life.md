@@ -1,5 +1,6 @@
 # Ali: A Life
 **Author**: Jonathan Eig | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 Muhammad Ali's life chronicles the transformation of a loud-mouthed teenage boxer from Louisville into the most iconic and controversial sports figure of the 20th century. Born Cassius Clay in 1942, he rose from humble beginnings to become an Olympic gold medalist at 18, the youngest heavyweight champion in history at 22, and eventually a global symbol of conviction, courage, and social change. What makes Ali extraordinary isn't just his boxing brilliance - it's his unwavering commitment to principles that cost him everything at his peak and ultimately redeemed him as a cultural immortal.

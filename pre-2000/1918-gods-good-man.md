@@ -1,5 +1,6 @@
 # God's Good Man
 **Authors**: Marie Corelli | **Year**: 1918
+**Category**: Romance & Relationships
 
 ## Summary
 "God's Good Man" is a romantic novel set in the picturesque English village of St. Rest, where Reverend John Walden, a dedicated and beloved clergyman, has faithfully served his parishioners for a decade. The story explores themes of faith, love, social class, and moral integrity through the relationship between the humble rector and Maryllia Vancourt, the wealthy young woman who inherits the local manor. When Maryllia returns from abroad, she initially clashes with Walden over his traditional values, but circumstances gradually bring them together in a story that contrasts genuine faith and love with the superficial values of high society.

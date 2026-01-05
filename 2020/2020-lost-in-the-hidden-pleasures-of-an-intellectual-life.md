@@ -1,5 +1,6 @@
 # Lost in Thought: The Hidden Pleasures of an Intellectual Life
 **Authors**: Zena Hitz | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 

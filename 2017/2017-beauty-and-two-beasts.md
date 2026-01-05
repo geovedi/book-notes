@@ -1,5 +1,6 @@
 # Beauty and Two Beasts
 **Authors**: A. Anders | **Year**: 2017
+**Category**: Romance & Relationships
 
 ## Summary
 Beauty and Two Beasts is a bisexual erotic romance novel that reimagines the classic Beauty and the Beast fairytale with MMF (male-male-female) themes. The story follows Belle, a young village woman who becomes entangled in a complex love triangle after her fiancé Trudeau tragically dies in a wolf attack. Searching for her missing father who disappears selling clocks, Belle finds herself at a mysterious castle where she discovers the Beast - a cursed nobleman - and Prince Renaud, who are actually two sides of the same person.

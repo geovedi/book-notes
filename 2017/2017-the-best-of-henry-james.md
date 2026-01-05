@@ -1,5 +1,6 @@
 # The Best of Henry James (4 Books in One Edition)
 **Authors**: Henry James | **Year**: 2017 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection showcases Henry James's masterful exploration of American and European society through four of his most significant novels. James, renowned for his psychological depth and intricate prose, examines themes of freedom, social convention, art versus society, and the complex dynamics of human relationships. His works navigate the delicate balance between personal desire and social expectation, often focusing on strong female protagonists and the tensions between New World innocence and Old World sophistication.

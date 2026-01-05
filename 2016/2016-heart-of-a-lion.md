@@ -1,5 +1,5 @@
 # Heart of a Lion
-**Author**: William Stolzenburg | **Year**: 2016
+**Author**: William Stolzenburg | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This remarkable true story follows a young mountain lion's unprecedented 2,000-mile journey from the Black Hills of South Dakota to Connecticut, where he was tragically killed by a car in 2011. The book chronicles what became the longest recorded dispersal movement of any terrestrial mammal—a solitary three-year-old cat seeking mates and territory across America's hostile landscape. Through DNA evidence and eyewitness accounts, author William Stolzenburg reconstructs this heroic odyssey that captured national attention and challenged perceptions about wildlife in modern America.

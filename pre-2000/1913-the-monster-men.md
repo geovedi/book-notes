@@ -1,5 +1,6 @@
 # The Monster Men
 **Authors**: Edgar Rice Burroughs | **Year**: 1913
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Professor Arthur Maxon, a brilliant but morally compromised scientist, has successfully created artificial life through chemical means—a breakthrough far ahead of his time. After his first creation dies leaving behind a human-like corpse, Maxon flees with his daughter Virginia to a remote island in Borneo to continue his controversial experiments away from prying eyes. There he plans to create twelve perfect men to serve as an ideal workforce and eventually offer Virginia a choice among them as potential husbands.

@@ -1,5 +1,6 @@
 # Little Women Complete Series
 **Authors**: Louisa May Alcott | **Year**: 1868-1886
+**Category**: Children & Young Adult
 
 ## Summary
 The complete March family saga follows four very different sisters—Meg, Jo, Beth, and Amy—as they navigate poverty, love, loss, and personal growth during and after the American Civil War. Set in New England, the story captures their journey from childhood to adulthood, each sister discovering her own path while maintaining unbreakable family bonds. The series expands from the original "Little Women" to include their marriages, the founding of a school, and the next generation's adventures.

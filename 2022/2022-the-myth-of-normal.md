@@ -1,5 +1,5 @@
 # The Myth of Normal
-**Authors**: Gabor Maté, MD, Daniel Maté | **Year**: 2022
+**Authors**: Gabor Maté, MD, Daniel Maté | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 "The Myth of Normal" challenges our fundamental understanding of health and illness in modern society. Dr. Gabor Maté argues that what we consider "normal" in contemporary culture is neither healthy nor natural, but rather a reflection of a toxic culture that generates chronic stress and disease. The book presents a revolutionary framework that connects individual physical and mental health to broader social, economic, and cultural patterns.

@@ -1,5 +1,5 @@
 # The Future of Nostalgia
-**Author**: Svetlana Boym | **Year**: 2002
+**Author**: Svetlana Boym | **Year**: 2002 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Svetlana Boym's groundbreaking work explores nostalgia as a defining condition of modernity, arguing that what began as a curable disease in the 17th century has become an incurable aspect of contemporary life. The book examines how nostalgia functions in our globalized world, where we simultaneously experience technological acceleration and a profound yearning for connection to the past.

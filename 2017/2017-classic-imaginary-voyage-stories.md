@@ -1,5 +1,6 @@
 # Classic Imaginary Voyage Stories
 **Authors**: Thomas More, François Rabelais, Margaret Cavendish, Jonathan Swift | **Year**: 2017 (Collection)
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This Golden Deer Classics anthology brings together five foundational works of imaginary voyage literature that span over two centuries, from Thomas More's **Utopia** (1515) to Jonathan Swift's **Gulliver's Travels** (1726). These pioneering works established the genre of speculative fiction and used fantastical journeys to explore profound questions about society, human nature, and governance. Each work creates an alternative world that serves as both entertainment and sharp social commentary, critiquing the author's contemporary society through the lens of imagined lands and peoples.

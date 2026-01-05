@@ -1,5 +1,5 @@
 # Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen
-**Authors**: Julie Powell | **Year**: 2005
+**Authors**: Julie Powell | **Year**: 2005 | **Category**: Fiction & Literature
 
 ## Summary
 Julie Powell, a 29-year-old government secretary living in a cramped Queens apartment, launches into a year-long cooking project: to make all 524 recipes from Julia Child's "Mastering the Art of French Cooking" in just 365 days while documenting her journey in a blog. What begins as a desperate attempt to escape career and personal malaise transforms into a transformative adventure that challenges her marriage, her sanity, and her sense of self.

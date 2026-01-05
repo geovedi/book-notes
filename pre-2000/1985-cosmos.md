@@ -1,5 +1,6 @@
 # Cosmos
 **Authors**: Carl Sagan | **Year**: 1985
+**Category**: Science & Nature
 
 ## Summary
 Carl Sagan's Cosmos is a breathtaking journey through space and time that reveals our profound connection to the universe. This companion to the legendary TV series explores 15 billion years of cosmic evolution, from the Big Bang to the emergence of human consciousness, showing how science has transformed our understanding of ourselves and our place in the cosmos. Sagan masterfully weaves together astronomy, biology, physics, and history to demonstrate that we are not separate from the universe but are made of star-stuff, temporarily arranged in a pattern that allows the cosmos to know itself.

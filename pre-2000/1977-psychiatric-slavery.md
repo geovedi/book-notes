@@ -1,6 +1,7 @@
 # Psychiatric Slavery
 **Original Title**: La Schiavitù Psichiatrica
 **Author**: Thomas Stephen Szasz | **Year**: 1977
+**Category**: Health & Medicine
 
 ## Summary
 Thomas Szasz's "Psychiatric Slavery" is a powerful critique of coercive psychiatry that uses the landmark case of Kenneth Donaldson—a man institutionalized for 15 years against his will—to expose what Szasz calls the myth of mental illness and the systematic violation of individual rights in psychiatric institutions. Donaldson was confined in 1957 after complaining that people were trying to poison him, declared "paranoid schizophrenic," and held until 1971 despite never being proven dangerous. His subsequent lawsuit against his psychiatrists for failing to treat him created a legal paradox that Szasz dissects with precision: Donaldson's lawyers argued he had a constitutional "right to treatment" while Donaldson himself maintained he wasn't ill and didn't want treatment.

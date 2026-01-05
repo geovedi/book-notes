@@ -1,5 +1,5 @@
 # Making Ideas Happen
-**Author**: Scott Belsky | **Year**: 2010
+**Author**: Scott Belsky | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 "Making Ideas Happen" demolishes the myth that great ideas naturally lead to success. Through extensive research of productive creative professionals, Belsky reveals that execution—rather than ideation—is what separates dreamers from achievers. The book presents a practical framework for transforming vision into reality through organization, community engagement, and leadership capability.

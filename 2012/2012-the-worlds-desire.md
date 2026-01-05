@@ -1,5 +1,6 @@
 # The World's Desire
 **Authors**: H. Rider Haggard, Andrew Lang | **Year**: 2012
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The World's Desire" is a mythological fantasy novel that continues the story of Odysseus after his return to Ithaca. Finding his home destroyed and his family dead from a plague, the aged hero is given a new quest by the goddess Aphrodite: to find Helen of Troy, who still lives on as the embodiment of eternal beauty and desire. The story transports Odysseus to ancient Egypt where he becomes entangled in a complex love triangle between Helen, the Egyptian Queen Meriamun, and himself.

@@ -1,5 +1,5 @@
 # The Reason I Jump
-**Authors**: Naoki Higashida, KA Yoshida, David Mitchell | **Year**: 2013
+**Authors**: Naoki Higashida, KA Yoshida, David Mitchell | **Year**: 2013 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Reason I Jump" is a remarkable memoir written by Naoki Higashida, a thirteen-year-old boy with severe autism who communicates primarily through an alphabet grid. The book offers unprecedented insight into the autistic mind through 58 questions that reveal why people with autism behave the way they do. Naoki's explanations provide a bridge between the autistic and neurotypical worlds, demonstrating that behind seemingly inexplicable behaviors lies a rich inner life of curiosity, emotion, and intelligence.

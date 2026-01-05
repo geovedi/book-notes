@@ -1,5 +1,6 @@
 # Facebook for Business
 **Authors**: Steven Gray | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals proven strategies for generating passive income through Facebook marketing, focusing on methods that require minimal startup capital while delivering substantial returns. The book presents multiple monetization approaches including link sharing, affiliate marketing, CPA offers, Facebook shops, and print-on-demand merchandise, all designed to help entrepreneurs make their first $100,000 using social media platforms.

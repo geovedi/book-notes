@@ -1,5 +1,6 @@
 # The Mystery of Edwin Drood
 **Authors**: Charles Dickens | **Year**: 1870
+**Category**: Fiction & Literature
 
 ## Summary
 Charles Dickens' final novel, left unfinished at his death, centers on the mysterious disappearance of young Edwin Drood in the gloomy cathedral town of Cloisterham. The story begins with John Jasper, Edwin's uncle and a choirmaster with a dark opium habit, experiencing disturbing visions in an opium den. Edwin, a cheerful young engineering student, arrives in Cloisterham to visit his uncle and renew his acquaintance with Rosa Bud, his orphaned fiancée arranged by their fathers' wills. Their engagement proves strained and superficial, with both parties quietly uncomfortable with the forced relationship.

@@ -1,6 +1,7 @@
 # The Meaning of Surah An-Nahl (The Bees) from Holy Quran
 **Original Title**: The Meaning of Surah 016 An-Nahl The Bees (Las Abejas) From Holy Quran Bilingual Edition English Spanish
 **Authors**: Jannah Firdaus Mediapro | **Year**: 2019
+**Category**: Spirituality & Religion
 
 ## Summary
 This bilingual edition provides a comprehensive commentary on Surah An-Nahl, the 16th chapter of the Holy Quran, revealed in Mecca. Named after honey bees, this chapter uses the remarkable industry and organization of bees as a metaphor for human industry and divine wisdom. The surah contains 128 verses that serve as both spiritual guidance and a meditation on God's blessings manifested through nature.

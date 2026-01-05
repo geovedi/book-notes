@@ -1,6 +1,7 @@
 # The Bitcoin Monetary Collapse: Where Does Bitcoin's Value Come From?
 **Original Title**: Der Bitcoin-Gelduntergang: Woher kommt der Wert des Bitcoin?
 **Authors**: Christian Rieck | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive economic analysis examines Bitcoin's value proposition through multiple valuation frameworks, concluding that Bitcoin is fundamentally a bet on the collapse of existing monetary systems rather than an asset within them. Rieck systematically evaluates Bitcoin through traditional financial theory, subjective value theory, and as a potential monetary infrastructure, revealing that most pro-Bitcoin arguments don't withstand rigorous scrutiny while identifying specific scenarios where Bitcoin could achieve lasting value.

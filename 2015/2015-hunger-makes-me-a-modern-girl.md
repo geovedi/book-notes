@@ -1,5 +1,5 @@
 # Hunger Makes Me a Modern Girl
-**Author**: Carrie Brownstein | **Year**: 2015
+**Author**: Carrie Brownstein | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 Carrie Brownstein's memoir chronicles her journey from a suburban Seattle childhood through the rise and fall of pioneering feminist punk band Sleater-Kinney. The book explores how music became her salvation from family trauma, particularly her mother's battle with anorexia, and how performing helped her construct identity and find belonging in the riot grrrl movement of the 1990s. Brownstein traces her evolution from a child who orchestrated neighborhood performances to a celebrated musician who helped define an era of feminist rock music, while navigating the complexities of fame, friendship, and creative partnership.

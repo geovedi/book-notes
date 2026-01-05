@@ -1,5 +1,5 @@
 # Rats
-**Author**: Robert Sullivan | **Year**: 2004
+**Author**: Robert Sullivan | **Year**: 2004 | **Category**: Science & Nature
 
 ## Summary
 Robert Sullivan's "Rats" is a fascinating natural history exploration of New York City's most unwanted inhabitants. Sullivan spends a year observing rats in a downtown alley, using these creatures as a lens to examine urban ecology, social history, and humanity's relationship with nature. The book reveals how rats are our "mirror species"—thriving in our shadow world, surviving on our waste, and adapting alongside us in cities across the globe.

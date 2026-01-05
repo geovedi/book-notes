@@ -1,5 +1,5 @@
 # Against the Grain
-**Author**: Richard Manning | **Year**: 2005
+**Author**: Richard Manning | **Year**: 2005 | **Category**: Science & Nature
 
 ## Summary
 "Against the Grain" presents a provocative revisionist history of agriculture, arguing that the advent of farming 10,000 years ago was not progress but humanity's "bitter bargain." Manning challenges the conventional narrative that agriculture represents human advancement, instead presenting it as a catastrophic shift that created poverty, disease, social hierarchy, and ecological destruction while fundamentally dehumanizing our species. The book traces how agriculture emerged from ecological catastrophe rather than human ingenuity, and how it coevolved with humans in ways that benefited domesticated plants and animals more than people.

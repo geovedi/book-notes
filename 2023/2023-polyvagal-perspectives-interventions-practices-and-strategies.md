@@ -1,5 +1,6 @@
 # Polyvagal Perspectives: Interventions, Practices, and Strategies
 **Authors**: Stephen W. Porges | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 Polyvagal Perspectives presents a revolutionary framework for understanding how our autonomic nervous system regulates our capacity for social connection, emotional regulation, and responses to threat. Stephen Porges introduces Polyvagal Theory, which reveals that humans have not one but three distinct neural circuits that evolved sequentially to support survival and sociality. The theory transforms our understanding of stress, trauma, and healing by showing how feelings of safety are the biological foundation for health, growth, and meaningful relationships.

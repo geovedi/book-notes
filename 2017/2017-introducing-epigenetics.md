@@ -1,5 +1,6 @@
 # Introducing Epigenetics
 **Authors**: Cath Ennis, Oliver Pugh | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive introduction to epigenetics explores the revolutionary field that bridges genetics and environmental influences. The book reveals how genes are not static blueprints but dynamic systems that respond to our environment, lifestyle, and experiences. Epigenetics—the study of how additional factors interact with genes—explains the gaps in our understanding of genetics that DNA sequences alone cannot explain.

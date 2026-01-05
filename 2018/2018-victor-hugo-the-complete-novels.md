@@ -1,5 +1,5 @@
 # Victor Hugo: The Complete Novels
-**Authors**: Victor Hugo | **Year**: 2018 (Collection)
+**Authors**: Victor Hugo | **Year**: 2018 (Collection) | **Category**: Fiction & Literature
 
 ## Summary
 Victor Hugo's complete novels represent one of literature's most powerful explorations of human dignity, social justice, and redemption. Spanning from his early Gothic romances to his mature historical epics, these nine novels tackle universal themes through unforgettable characters and sweeping historical narratives. Hugo writes with profound moral purpose—using literature as a weapon against social injustice, poverty, and cruelty while championing mercy, love, and human transformation.

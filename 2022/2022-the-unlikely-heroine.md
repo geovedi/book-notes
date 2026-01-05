@@ -1,5 +1,5 @@
 # The Unlikely Heroine
-**Authors**: Kathy L Wheeler | **Year**: 2022
+**Authors**: Kathy L Wheeler | **Year**: 2022 | **Category**: Fiction & Literature
 
 ## Summary
 Lady Pricilla, the fiercely independent and intelligent stepsister to Cinderella, serves as the Land Agent for the Kingdom of Chalmers. Unlike the traditional expectations for women of marriage and motherhood, Pricilla finds purpose in her work and has no desire for domestic life. When she encounters Sir Arnauld, Prince Charming's cousin with mysterious powers of compulsion, their worlds collide in a tale of political intrigue, danger, and unexpected romance.

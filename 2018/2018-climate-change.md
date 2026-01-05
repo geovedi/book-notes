@@ -1,5 +1,6 @@
 # Climate Change: The Earth is Dying and You Can Help to Save It
 **Authors**: Laura M. Dalton | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 Climate Change: The Earth is Dying and You Can Help to Save It is a comprehensive guide that breaks down the complex science of climate change into accessible concepts while providing actionable solutions for individuals and communities. The book demystifies climate change by explaining its scientific basis, causes, and impacts through clear examples and data-driven insights.

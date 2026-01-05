@@ -1,5 +1,5 @@
 # Quantum Theory: A Bite-Sized Guide
-**Authors**: J.P. McEvoy & Oscar Zarate | **Year**: 2014
+**Authors**: J.P. McEvoy & Oscar Zarate | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 This graphic guide demystifies quantum theory by tracing its historical development from the late 19th century through its complete formulation in 1927. The book presents the revolutionary ideas that changed our understanding of reality, showing how a crisis in classical physics led to the discovery that the atomic world operates by rules that defy everyday intuition. Through visual storytelling and historical context, it makes accessible one of science's most successful yet counterintuitive theories.

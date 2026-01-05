@@ -1,6 +1,7 @@
 # I - Lowercase
 **Original Title**: ich – kleingeschrieben
 **Author**: Korfiz Holm | **Year**: 1932
+**Category**: History & Biography
 
 ## Summary
 Korfiz Holm's memoir "ich - kleingeschrieben" (I - lowercase) offers a fascinating insider's view of German literary life around the turn of the 20th century. As a longtime employee and confidant of publisher Albert Langen, Holm provides intimate portraits of some of the era's most significant literary figures while chronicling the turbulent early years of the satirical magazine "Simplicissimus." The subtitle "Heitere Erlebnisse eines Verlegers" (Cheerful Experiences of a Publisher) captures the book's warm, humorous tone despite its serious subject matter.

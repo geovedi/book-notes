@@ -1,5 +1,5 @@
 # Tracers in the Dark
-**Author**: Andy Greenberg | **Year**: 2022
+**Author**: Andy Greenberg | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "Tracers in the Dark" is a gripping true-crime narrative that follows the global hunt for cryptocurrency criminals, revealing how the supposedly anonymous world of digital currencies became traceable through pioneering blockchain analysis techniques. The book weaves together multiple high-profile investigations including the Silk Road marketplace, AlphaBay, and other dark web operations, showing how law enforcement agents learned to follow the digital money trails that criminals believed were untraceable.

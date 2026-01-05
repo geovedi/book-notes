@@ -1,5 +1,6 @@
 # Massacres of the South (1551-1815)
 **Original Title**: Massacres of the South | **Authors**: Alexandre Dumas | **Year**: 2017 (new edition of historical work)
+**Category**: History & Biography
 
 ## Summary
 "Massacres of the South" is Alexandre Dumas's gripping chronicle of 250 years of religious warfare between Catholics and Protestants in Southern France, centered primarily on the city of Nîmes. Through vivid, often brutal detail, Dumas documents how religious fanaticism transformed the region into what he describes as "an account-book kept by double entry, in which fanaticism enters the profits of death, one side being written with the blood of Catholics, the other with that of Protestants."

@@ -1,6 +1,6 @@
 # Appearance Rules
 **Original Title**: De schijn regeert
-**Author**: Roderick Veelo | **Year**: 2022
+**Author**: Roderick Veelo | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 Roderick Veelo's "De schijn regeert" (Appearance Rules) is a provocative collection of columns that exposes how image management, reputation engineering, and narrative control have replaced factual reality in modern public discourse. The book argues that journalists, corporations, politicians, and activists have become increasingly preoccupied with managing perceptions rather than reporting truth, creating a dangerous gap between appearance and reality. Veelo, a seasoned journalist, demonstrates how this obsession with "beeldvorming" (image formation) has corrupted journalism, where storytelling now trumps facts, and where the media actively constructs narratives rather than reports reality.

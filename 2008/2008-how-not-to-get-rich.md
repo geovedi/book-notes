@@ -1,6 +1,7 @@
 # How Not to Get Rich
 **Original Title**: How Not to Get Rich Or Why Being Bad Off Isn't So Bad
 **Authors**: Robert Sullivan | **Year**: 2008
+**Category**: Business & Finance
 
 ## Summary
 "How Not to Get Rich" is a hilarious satirical take on the self-help genre that offers a contrarian perspective on wealth and success. Rather than providing another get-rich-quick scheme, Sullivan's book humorously explores how most people already excel at not becoming wealthy—and argues that this might not be such a bad thing after all. The author uses wit, irony, and thoughtful social commentary to examine American work culture, consumerism, and our collective obsession with wealth accumulation.

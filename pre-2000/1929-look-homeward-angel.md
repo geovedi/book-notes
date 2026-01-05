@@ -1,5 +1,6 @@
 # Look Homeward, Angel
 **Authors**: Thomas Wolfe | **Year**: 1929
+**Category**: Fiction & Literature
 
 ## Summary
 "Look Homeward, Angel" is Thomas Wolfe's autobiographical masterpiece following Eugene Gant from birth in 1900 through his coming-of-age in the small mountain town of Altamont, North Carolina. The novel chronicles Eugene's intellectual awakening, his turbulent relationship with his volatile father W.O. Gant and proud mother Eliza, and his burning desire to escape provincial life for the broader world of art, literature, and experience.

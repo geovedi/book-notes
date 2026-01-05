@@ -1,5 +1,5 @@
 # Steak
-**Author**: Mark Schatzker | **Year**: 2010
+**Author**: Mark Schatzker | **Year**: 2010 | **Category**: Health & Medicine
 
 ## Summary
 "Steak" is an investigative journey into why modern steak has lost its flavor and what we can do about it. Schatzker travels 60,000 miles across seven countries to uncover how industrial agriculture has transformed steak from a culinary treasure into a bland, uniform commodity. The book challenges conventional wisdom about marbling, corn-fed beef, and the USDA grading system, revealing that the quest for efficiency has sacrificed the very qualities that make steak truly exceptional.

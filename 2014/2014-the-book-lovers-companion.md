@@ -1,5 +1,5 @@
 # The Book Lovers' Companion
-**Author**: Lionel Shriver (Foreword), Ana Sampson (Introduction) | **Year**: 2014
+**Author**: Lionel Shriver (Foreword), Ana Sampson (Introduction) | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 The Book Lovers' Companion is a curated guide to 100 exceptional books designed to help readers make every reading experience count. Born from the recognition that the average person will only read about 3,000 books in their lifetime, this resource serves as a trusted filter to prevent wasting precious reading time on disappointing choices. Each featured book includes a non-spoiler synopsis, critical commentary, discussion points, background information, and suggested companion titles, making it particularly valuable for book clubs seeking engaging reads that spark meaningful conversations.

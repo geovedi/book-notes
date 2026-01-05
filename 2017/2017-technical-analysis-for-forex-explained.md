@@ -1,5 +1,6 @@
 # Technical Analysis for Forex Explained
 **Authors**: Wayne Walker | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Technical Analysis for Forex Explained" is a practical guide that equips traders with the essential tools and strategies to profit from foreign exchange markets using technical analysis. The book covers everything from basic forex concepts to advanced trading tactics, making it accessible for beginners while providing valuable insights for experienced traders.

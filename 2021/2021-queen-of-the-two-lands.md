@@ -1,5 +1,6 @@
 # Queen Of The Two Lands
 **Authors**: Laura Greenwood | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 

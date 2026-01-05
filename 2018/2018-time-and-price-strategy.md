@@ -1,6 +1,6 @@
 # Time and Price Strategy: A Bite-Sized Guide
 **Original Title**: Time and Price Strategy
-**Author**: Stanley Davies | **Year**: 2018
+**Author**: Stanley Davies | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This book reveals how time serves as the hidden structure behind forex market movements, transforming trading from gambling into a systematic process. Davies argues that while price patterns can be interpreted in countless ways, time remains constant and predictable, providing traders with a reliable framework for making high-probability trading decisions.

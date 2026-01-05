@@ -1,5 +1,6 @@
 # A Dream Play
 **Original Title**: Ett drömspel (1902) | **Authors**: August Strindberg, Caryl Churchill (adapter) | **Year**: 1902/2005
+**Category**: Fiction & Literature
 
 ## Summary
 A groundbreaking experimental drama that follows Agnes, daughter of the gods, who descends to Earth to understand human suffering. Strindberg's revolutionary play deliberately abandons conventional dramatic structure to mirror the disjointed yet seemingly logical flow of dreams. The play moves fluidly between locations, with characters splitting, multiplying, and transforming as Agnes witnesses various manifestations of human misery - from prisoners in towers to quarantined lovers, from poor solicitors to blinded wealthy men.

@@ -1,5 +1,6 @@
 # A Supposedly Fun Thing I'll Never Do Again
 **Authors**: David Foster Wallace | **Year**: 1998
+**Category**: Fiction & Literature
 
 ## Summary
 This collection of seven essays showcases Wallace's revolutionary approach to literary journalism—blending personal experience with razor-sharp cultural analysis. Wallace transforms seemingly mundane subjects (tennis, state fairs, luxury cruises) into profound explorations of modern American life, revealing the contradictions beneath our pursuit of happiness, authenticity, and freedom.

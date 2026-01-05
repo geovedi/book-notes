@@ -1,5 +1,5 @@
 # Beyond Belief
-**Authors**: Jenna Miscavige Hill, Lisa Pulitzer | **Year**: 2013
+**Authors**: Jenna Miscavige Hill, Lisa Pulitzer | **Year**: 2013 | **Category**: Spirituality & Religion
 
 ## Summary
 Jenna Miscavige Hill, niece of current Scientology leader David Miscavige, provides an intimate firsthand account of growing up as a third-generation Scientologist and her eventual escape from the organization. Raised from childhood in the Church's elite Sea Organization, Hill signed a billion-year contract at just seven years old and spent her formative years in Scientology boarding schools, isolated from her parents who were serving the Church.

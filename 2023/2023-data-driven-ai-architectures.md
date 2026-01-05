@@ -1,6 +1,7 @@
 # Data-Driven AI Architectures
 **Original Title**: Data-Driven AI Architectures: Building Intelligent Systems with Big Data
 **Authors**: Steve Abrams | **Year**: 2023
+**Category**: Technology & Computing
 
 ## Summary
 

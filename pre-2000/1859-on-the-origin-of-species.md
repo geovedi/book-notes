@@ -1,5 +1,6 @@
 # On the Origin of Species
 **Authors**: Charles Darwin | **Year**: 1859 (2017 Edition)
+**Category**: Science & Nature
 
 ## Summary
 Charles Darwin's revolutionary work presents the theory of evolution through natural selection, fundamentally changing our understanding of life on Earth. Through meticulous observations from his voyage on HMS Beagle and years of research, Darwin demonstrates how species evolve over time through a process of natural selection, where organisms best adapted to their environment survive and reproduce. This groundbreaking theory unified all biological sciences under a single explanatory framework.

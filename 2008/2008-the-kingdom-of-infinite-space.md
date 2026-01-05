@@ -1,5 +1,6 @@
 # The Kingdom of Infinite Space
 **Authors**: Raymond Tallis | **Year**: 2008
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Kingdom of Infinite Space" is a philosophical exploration of the human head that challenges both religious and scientistic approaches to understanding consciousness. Tallis, a physician-philosopher, examines the head not just as a biological organ but as the site of our most profound human experiences—from the mundane secretion of saliva to the transcendent nature of human thought and consciousness. The book argues against the reduction of human consciousness to merely neural activity, presenting instead a humanistic view that celebrates the mystery and complexity of embodied consciousness.

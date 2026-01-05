@@ -1,6 +1,7 @@
 # 2017 Speeches on Questions of Public Policy Volume 2
 **Original Title**: Speeches on Questions of Public Policy Volume 2
 **Authors**: John Bright | **Year**: 2017 (republication of 19th-century speeches)
+**Category**: History & Biography
 
 ## Summary
 This collection presents the powerful political speeches of John Bright, a leading Victorian-era reformer and advocate for free trade, peace, and democratic reform. Compiled as Volume 2, this book gathers his most influential addresses on parliamentary reform, economic policy, and foreign affairs from the 1840s through the 1860s. Bright emerges as a passionate advocate for the working classes, challenging the aristocratic dominance of British politics and arguing vigorously against military interventionism and protectionist policies.

@@ -1,6 +1,6 @@
 # LinkedIn Marketing
 **Original Title**: LinkedIn Marketing
-**Author**: Unknown | **Year**: 2018
+**Author**: Unknown | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how to leverage LinkedIn's 500+ million professional network for Business-to-Business (B2B) marketing success. The book transforms LinkedIn from a simple networking platform into a powerful lead generation and client acquisition tool, providing step-by-step strategies for growing your following, monetizing your presence, and automating your marketing efforts.

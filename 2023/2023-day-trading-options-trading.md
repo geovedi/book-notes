@@ -1,5 +1,6 @@
 # Day Trading & Options Trading
 **Authors**: Samuel Feron | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "Day Trading & Options Trading" is a comprehensive guide that teaches readers how to trade like professionals using winning strategies and precise technical analysis. The book covers both day trading and options trading across multiple markets including stocks, commodities, forex, futures, Bitcoin, and ETFs. It provides practical strategies for traders of all levels, from beginners to advanced, with a focus on risk management and systematic approaches.

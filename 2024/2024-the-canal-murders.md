@@ -1,6 +1,7 @@
 # 2024-the-canal-murders.md
 **Original Title**: The Canal Murders
-**Authors**: J. R. Ellis | **Year**: 2024 
+**Authors**: J. R. Ellis | **Year**: 2024
+**Category**: Horror & Thriller 
 
 ## Summary
 The Canal Murders is a British detective story set on the Leeds and Liverpool Canal in Yorkshire. When Detective Sergeants Andy Carter and Stephanie Johnson embark on a narrowboat holiday, they discover the body of Annie Shipton—a controversial figure in the canal community—stabbed to death on her drifting narrowboat. The case reunites them with their former colleague DI Javed Iqbal and brings in their legendary DCI Jim Oldroyd to solve what appears to be an impossible murder: how was Annie stabbed from behind in the confined space of her boat's cockpit without any evidence of an attacker onboard?

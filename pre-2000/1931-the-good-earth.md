@@ -1,5 +1,6 @@
 # The Good Earth
 **Authors**: Pearl S. Buck | **Year**: 1931
+**Category**: Fiction & Literature
 
 ## Summary
 

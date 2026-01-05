@@ -1,5 +1,6 @@
 # Monsters: A Fan's Dilemma
 **Author**: Claire Dederer | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 

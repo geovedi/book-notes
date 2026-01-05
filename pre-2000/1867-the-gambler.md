@@ -1,5 +1,6 @@
 # The Gambler
 **Authors**: Fyodor Dostoyevsky | **Year**: 1867
+**Category**: Fiction & Literature
 
 ## Summary
 "The Gambler" is a psychological novella that immerses readers in the obsessive world of roulette through the eyes of Alexei Ivanovich, a young tutor working for a Russian family in the German resort town of Roulettenberg. The narrative unfolds as Alexei becomes entangled in a complex web of financial desperation, romantic obsession, and gambling addiction that threatens to destroy everyone around him.

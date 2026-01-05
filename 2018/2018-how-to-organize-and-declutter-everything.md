@@ -1,5 +1,6 @@
 # How to Organize and Declutter Everything: Your Home, Mind & Life
 **Authors**: Samantha Claire | **Year**: 2018
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This comprehensive guide transforms organizing from a daunting task into an achievable skill through systematic, room-by-room strategies. The book reveals that organization is not inherited—it's a learned skill that begins with the right mindset and simple, repeatable processes. Whether you're drowning in clutter, losing hours to time-wasters, or feeling overwhelmed by household chaos, this practical playbook offers step-by-step solutions that even absolute beginners can implement immediately.

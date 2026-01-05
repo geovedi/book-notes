@@ -1,5 +1,5 @@
 # Dual Momentum Investing
-**Authors**: Gary Antonacci | **Year**: 2014
+**Authors**: Gary Antonacci | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 

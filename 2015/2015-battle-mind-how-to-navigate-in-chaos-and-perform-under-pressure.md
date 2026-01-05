@@ -1,5 +1,6 @@
 # Battle Mind: How to Navigate in Chaos and Perform Under Pressure
 **Authors**: Merete Wedell-Wedellsborg with Carsten Folke Møller | **Year**: 2015
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Battle Mind explores why some people perform exceptionally well under pressure while others crumble. Written by a psychologist who has worked with both military leaders and business executives, the book reveals that high-pressure performance isn't just about innate talent—it's a trainable state of mind that can be developed through specific techniques and mental preparation.

@@ -1,5 +1,6 @@
 # 1914 A Portrait of the Artist as a Young Man
 **Authors**: James Joyce | **Year**: 1914
+**Category**: Fiction & Literature
 
 ## Summary
 *A Portrait of the Artist as a Young Man* follows the intellectual and emotional development of Stephen Dedalus, a young Irish boy growing into adulthood at the turn of the 20th century. Through five distinct chapters, we witness Stephen's journey from childhood innocence to artistic awakening, as he gradually breaks free from the constraints of family, religion, and nationality to discover his true calling as an artist.

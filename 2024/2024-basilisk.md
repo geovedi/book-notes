@@ -1,5 +1,6 @@
 # Basilisk
 **Authors**: Graham Masterton | **Year**: 2024
+**Category**: Horror & Thriller
 
 ## Summary
 "Basilisk" is a gripping horror novel that weaves together cryptozoological research, family drama, and supernatural terror. The story follows Nathan Underhill, a zoologist attempting to breed mythical creatures at the Philadelphia Zoo, particularly a gryphon, while his wife Grace works as a doctor at a suspicious nursing home where elderly residents are dying under mysterious circumstances. When Nathan's gryphon embryo dies in gruesome circumstances and strange nocturnal noises plague the Murdstone Rest Home, the couple discovers that Dr. Zauber, the home's sinister director, has successfully created a deadly basilisk—a creature whose gaze can kill with its optic fluid. The narrative escalates into a desperate race against time as Nathan must confront not only the monster but also the ethical boundaries of his own scientific ambitions.

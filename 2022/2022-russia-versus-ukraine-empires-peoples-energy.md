@@ -1,6 +1,6 @@
 # Russia Versus Ukraine: Empires, Peoples, Energy
 **Original Title**: Rusia frente a Ucrania. Imperios, pueblos, energía
-**Author**: Carlos Taibo | **Year**: 2022
+**Author**: Carlos Taibo | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 This book provides a comprehensive analysis of the complex relationship between Russia and Ukraine, tracing their historical connections, conflicts, and the geopolitical dynamics that led to the 2014 crisis and the 2022 invasion. Taibo, a political science professor and expert on post-Soviet Eastern Europe, challenges both Western media narratives and leftist romanticizations of Russia, offering a critical perspective on all actors involved.

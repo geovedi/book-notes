@@ -1,5 +1,6 @@
 # Night Train to Odesa
 **Authors**: Jen Stout | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Night Train to Odesa" is a powerful firsthand account of the Russian invasion of Ukraine, written by Scottish journalist Jen Stout. The book documents her experiences from November 2021 to summer 2023, beginning in Moscow just before the full-scale invasion and continuing through her extensive travels across war-torn Ukraine. What makes this war memoir exceptional is Stout's ability to weave together the brutal realities of conflict with moments of human connection, resilience, and unexpected beauty.

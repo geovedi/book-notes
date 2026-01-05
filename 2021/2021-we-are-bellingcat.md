@@ -1,6 +1,7 @@
 # We Are Bellingcat: How Ordinary People Became the Investigative Journalists of the Future
 **Original Title**: Wij zijn Bellingcat
 **Author**: Eliot Higgins | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 "We Are Bellingcat" chronicles the rise of citizen journalism in the digital age, following Eliot Higgins's journey from an unemployed office worker to founder of Bellingcat, an international collective of citizen investigators using open-source intelligence (OSINT) to expose truth and hold power accountable. The book demonstrates how social media, smartphones, and publicly available data have democratized investigative journalism, enabling ordinary people to uncover war crimes, track weapons shipments, identify perpetrators of chemical attacks, and solve international mysteries from their laptops.

@@ -1,5 +1,5 @@
 # Shopify: The Essential Guide to Effectively Plan and Market Your E-commerce Store
-**Authors**: Marc Hayes | **Year**: 2018
+**Authors**: Marc Hayes | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide walks aspiring entrepreneurs through the complete process of building and marketing a successful Shopify e-commerce store. From initial planning and legal considerations to product sourcing, store setup, order management, and marketing strategies, the book provides a comprehensive roadmap for anyone looking to escape the 9-5 grind through online retail.

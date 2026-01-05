@@ -1,6 +1,7 @@
 # Darkness at Noon
 **Original Title**: Buio a mezzogiorno
-**Author**: Arthur Koestler | **Year**: 1940 
+**Author**: Arthur Koestler | **Year**: 1940
+**Category**: Fiction & Literature 
 
 ## Summary
 *Darkness at Noon* is a powerful political novel that examines the moral and psychological breakdown of a dedicated revolutionary during Stalin's Great Purge. The story follows Nikolai Salmanovich Rubashov, an aging Bolshevik and former People's Commissar, who is arrested and imprisoned in 1938. As he awaits trial and certain execution, Rubashov is forced to confront the horrifying consequences of the very ideology he helped create.

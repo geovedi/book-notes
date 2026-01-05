@@ -1,5 +1,6 @@
 # Why?: Answers to Everyday Science Questions
 **Authors**: Robert Matthews | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 "Why?: Answers to Everyday Science Questions" is a collection of over 50 fascinating scientific explanations for deceptively simple questions about the natural world. Written in an accessible, engaging style, each answer begins with a one-line explanation before delving into deeper scientific concepts, often challenging common misconceptions along the way.

@@ -1,5 +1,5 @@
 # In the Devil's Garden: A Sinful History of Forbidden Food
-**Author**: Stewart Lee Allen | **Year**: 2002
+**Author**: Stewart Lee Allen | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 Stewart Lee Allen takes readers on a globe-trotting culinary adventure through history's most forbidden foods, revealing how religious, political, and cultural forces have shaped what we consider taboo. From the apple that became Christianity's symbol of temptation to chocolate's reputation as an aristocratic aphrodisiac, Allen uncovers the fascinating stories behind foods deemed too dangerous, immoral, or sinful to eat. The book combines travel writing, food history, and cultural anthropology to explore how taboos around food reflect deeper social anxieties about power, sexuality, and morality.

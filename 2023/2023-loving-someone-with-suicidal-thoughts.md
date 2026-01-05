@@ -1,6 +1,6 @@
 # Loving Someone with Suicidal Thoughts: What Family, Friends, and Partners Can Say and Do
 **Original Title**: Если любишь человека с суицидальными мыслями. Как семья, друзья и партнеры могут помочь
-**Author**: Stacey Freedenthal | **Year**: 2023
+**Author**: Stacey Freedenthal | **Year**: 2023 | **Category**: Psychology & Mental Health
 
 ## Summary
 This essential guide provides practical wisdom for supporting loved ones experiencing suicidal thoughts. Written by a psychotherapist who has personally navigated this crisis both as a professional and as a parent, the book offers evidence-based strategies grounded in cognitive-behavioral therapy (CBT), acceptance and commitment therapy (ACT), and other proven therapeutic approaches.

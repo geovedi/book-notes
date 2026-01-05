@@ -1,5 +1,6 @@
 # Some Christmas Stories
 **Authors**: Charles Dickens | **Year**: 1850-1853
+**Category**: Fiction & Literature
 
 ## Summary
 A timeless collection of Christmas stories that captures the essence of Victorian holiday spirit through Dickens' masterful storytelling. These five tales explore themes of memory, social justice, childhood wonder, and the transformative power of Christmas compassion. Each story serves as a miniature masterpiece, showcasing Dickens' signature blend of social commentary with heartwarming narratives that remind us of Christmas as a time for reflection, generosity, and human connection.

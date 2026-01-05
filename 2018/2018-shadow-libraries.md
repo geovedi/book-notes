@@ -1,6 +1,6 @@
 # Shadow Libraries: Access to Knowledge in Global Higher Education
 
-**Authors**: Joe Karaganis (Editor) | **Year**: 2018
+**Authors**: Joe Karaganis (Editor) | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 "Shadow Libraries" explores the complex global ecosystem of unauthorized access to educational and research materials in higher education. The book examines how students, researchers, and educators worldwide navigate the tension between the universalist ideals of academic knowledge and the unequal realities of access in the digital age. Through detailed case studies across eight countries—Argentina, Brazil, India, Poland, South Africa, Uruguay, and the United States—the authors document the emergence of shadow libraries like Library Genesis and Sci-Hub as responses to systemic barriers in academic publishing.

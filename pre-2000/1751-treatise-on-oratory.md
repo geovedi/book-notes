@@ -2,6 +2,7 @@
 
 **Original Title**: Verhandeling over de redenvoering
 **Authors**: Francis de la Fontaine | **Year**: 1751
+**Category**: Art & Creativity
 
 ## Summary
 This remarkable 18th-century Dutch treatise on oratory offers a comprehensive exploration of the art of public speaking and theatrical performance across Europe. Written by Francis de la Fontaine, this work provides both practical guidance for speakers and a fascinating survey of theatrical traditions from Italy to England. The author examines the essential connection between emotional authenticity and technical skill, arguing that true oratory requires both natural gifts and disciplined practice. Beyond instruction, the book serves as a valuable cultural document capturing the state of European theater and rhetorical practice at the dawn of the Enlightenment.

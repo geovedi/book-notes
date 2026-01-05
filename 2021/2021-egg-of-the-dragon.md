@@ -1,5 +1,6 @@
 # Egg of the Dragon
 **Authors**: Richard Fierce | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Mina, a young woman with a mysterious dragon scale embedded in her leg, seeks answers about her connection to dragons while political tensions threaten to plunge the dominions into war. As an advisor to Lord Klodian, she navigates castle politics and pursues the copper dragon she encountered in the previous book, seeking understanding rather than conflict. The story follows her dangerous journey to find the dragon, uncovering deeper truths about dragon-human relationships and the looming conflict that could devastate both species.

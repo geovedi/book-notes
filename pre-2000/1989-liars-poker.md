@@ -1,5 +1,6 @@
 # Liar's Poker
 **Author**: Michael Lewis | **Year**: 1989
+**Category**: Business & Finance
 
 ## Summary
 "Liar's Poker" is Michael Lewis's hilarious and terrifying insider account of his time as a bond salesman at Salomon Brothers during the wild 1980s Wall Street boom. The book chronicles the absurd money-making machine where inexperienced 24-year-olds became millionaires overnight through a combination of luck, aggression, and institutional dysfunction.

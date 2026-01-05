@@ -1,6 +1,7 @@
 # Zoology: On (Post) Modern Animals
 **Original Title**: Zoology. On (Post) Modern Animals
 **Authors**: Bart Verschaffel & Mark Verminck (Editors) | **Year**: 1993
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This interdisciplinary collection examines humanity's complex and often contradictory relationship with animals in contemporary society. Published for Antwerp 93, Cultural Capital of Europe, the book brings together essays, stories, poetry, and visual commentary from European writers, artists, philosophers, and scientists to explore how modern humans perceive, relate to, and represent animals.

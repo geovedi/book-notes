@@ -1,5 +1,5 @@
 # Scalping is Fun!
-**Authors**: Heikin Ashi Trader | **Year**: 2018
+**Authors**: Heikin Ashi Trader | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This book introduces scalping as a fast-paced trading strategy that capitalizes on tiny price movements in the market. The author presents scalping not just as a technical approach but as an art form that requires flow state—where traders operate in harmony with market movements, much like dancers or elite athletes. The method uses Heikin Ashi charts to identify micro-trends and capitalize on brief imbalances between supply and demand.

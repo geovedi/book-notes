@@ -1,5 +1,6 @@
 # The Second Jungle Book
 **Author**: Rudyard Kipling | **Year**: 1895
+**Category**: Children & Young Adult
 
 ## Summary
 "The Second Jungle Book" is a captivating collection of eight short stories and accompanying poems that continue the adventures of Mowgli, the man-cub raised by wolves, along with other standalone jungle tales. Set in the Indian wilderness, these stories explore the intricate laws of nature, the delicate balance between civilization and the wild, and the profound wisdom found in the natural world.

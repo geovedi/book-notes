@@ -1,5 +1,6 @@
 # The God Equation
 **Author**: Michio Kaku | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "The God Equation" chronicles humanity's centuries-old quest to find a single, elegant equation that would unite all the forces of nature—what physicists call a "Theory of Everything." Kaku traces this pursuit from Newton's groundbreaking insights through Einstein's failed attempts, to the controversial frontier of string theory that may finally hold the answer. The book reveals how the search for ultimate unification has driven scientific progress while exposing the profound challenges that remain in understanding the fundamental fabric of reality.

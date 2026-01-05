@@ -1,6 +1,6 @@
 # Practical Project Management
 
-**Authors**: Raghu Ramasubbu | **Year**: 2018
+**Authors**: Raghu Ramasubbu | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 

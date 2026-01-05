@@ -1,5 +1,6 @@
 # Fahrenheit 451
 **Author**: Ray Bradbury | **Year**: 1953
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In a dystopian future where books are banned and "firemen" burn them, Guy Montag is a loyal servant of the state who finds his world turned upside down by a mysterious young woman named Clarisse. Her unusual questions and observations awaken in him a dissatisfaction with his hollow, media-saturated existence. After witnessing a woman choose to die with her books rather than live without them, Montag secretly steals a book, setting in motion a dangerous journey toward enlightenment and rebellion that forces him to choose between comfortable ignorance and difficult knowledge.

@@ -1,5 +1,6 @@
 # Finding the Mother Tree
 **Author**: Suzanne Simard | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "Finding the Mother Tree" reveals the revolutionary discovery that trees communicate, cooperate, and care for each other through underground fungal networks. Suzanne Simard, a pioneering forest ecologist, demonstrates that forests are not collections of competing individuals but intelligent, collaborative communities where ancient "Mother Trees" serve as central hubs nurturing the entire ecosystem.

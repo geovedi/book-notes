@@ -1,5 +1,6 @@
 # The Narrative of Sojourner Truth
 **Author**: Sojourner Truth (as told to Olive Gilbert) | **Year**: 1850
+**Category**: History & Biography
 
 ## Summary
 The Narrative of Sojourner Truth is the powerful autobiography of a woman who was born into slavery as Isabella in late 1790s New York and transformed herself into Sojourner Truth, a legendary preacher, abolitionist, and women's rights activist. This remarkable narrative traces her journey from the brutal dehumanization of slavery through her spiritual awakening, her bold escape to freedom, her groundbreaking legal battles, and her evolution into one of America's most influential social reformers. What makes this narrative particularly compelling is its raw honesty about the psychological and physical horrors of slavery while simultaneously showcasing the extraordinary resilience, faith, and determination that enabled one woman to claim her voice and change history.

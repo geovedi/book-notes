@@ -1,5 +1,5 @@
 # I Feel Bad About My Neck
-**Author**: Nora Ephron | **Year**: 2006
+**Author**: Nora Ephron | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 Nora Ephron's hilarious and brutally honest collection of essays tackles the indignities and absurdities of aging, particularly for women. Through her signature wit and razor-sharp observations, Ephron transforms personal grievances about sagging necks, disastrous purses, and endless maintenance routines into profound meditations on life, love, loss, and the human condition. This book is perfect for anyone who appreciates intelligent humor, honest self-reflection, and the comedy that lies in life's inevitable physical and emotional challenges.

@@ -1,6 +1,7 @@
 # I Am! Be!
 **Original Title**: Sois !
 **Authors**: Sri Nisargadatta Maharaj | **Year**: 1973-1980 (dialogues compiled)
+**Category**: Spirituality & Religion
 
 ## Summary
 This profound spiritual work presents the raw, direct teachings of Sri Nisargadatta Maharaj, an enlightened master who lived as an ordinary shopkeeper in Bombay until his spiritual awakening at age 35. The book captures sixteen intimate dialogues between Maharaj and spiritual seekers from around the world, followed by the translator's personal account of time spent with the master.

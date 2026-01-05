@@ -1,5 +1,6 @@
 # Parting the Waters: America in the King Years 1954-63
 **Authors**: Taylor Branch | **Year**: 1989
+**Category**: History & Biography
 
 ## Summary
 "Parting the Waters" is the first volume of Taylor Branch's monumental trilogy on America's civil rights movement, focusing on the crucial decade from 1954 to 1963. This Pulitzer Prize-winning work weaves together biography and history to tell the story of the civil rights movement through the lens of Martin Luther King Jr.'s emergence as a transformative leader. Branch's narrative spans from Vernon Johns's early challenges to segregation in Montgomery through the Montgomery Bus Boycott, the formation of SCLC, the sit-in movements, Freedom Rides, and culminates with the March on Washington. The book masterfully connects the personal stories of activists, politicians, and ordinary citizens to the larger historical forces reshaping America.

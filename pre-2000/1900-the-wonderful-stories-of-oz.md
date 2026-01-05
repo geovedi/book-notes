@@ -1,5 +1,6 @@
 # The Wonderful Stories of Oz
 **Authors**: L. Frank Baum | **Year**: 1900-1907
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This collection brings together three of L. Frank Baum's most beloved Oz stories, creating an magical journey through the extraordinary Land of Oz. From Dorothy's first adventure with the Wizard to the emergence of Princess Ozma as the rightful ruler, these tales established one of the most enduring fantasy worlds in children's literature.

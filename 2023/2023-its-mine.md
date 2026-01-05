@@ -1,5 +1,5 @@
 # It's Mine
-**Authors**: Steven Boykey Sidley | **Year**: 2023
+**Authors**: Steven Boykey Sidley | **Year**: 2023 | **Category**: Business & Finance
 
 ## Summary
 This book explores how cryptocurrency and blockchain technology are fundamentally redefining the concept of ownership in society. Sidley argues that we're witnessing a "Cambrian explosion" of innovation that challenges traditional notions of property, identity, and value through mathematical certainty rather than institutional trust.

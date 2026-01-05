@@ -1,5 +1,6 @@
 # Quantum Computing: The Transformative Technology of the Qubit Revolution
 **Authors**: Brian Clegg | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 "Quantum Computing" demystifies the revolutionary technology that promises to transform computing by harnessing the bizarre properties of quantum particles. The book traces the fascinating parallel between two historical moments: Ada Lovelace's 1843 algorithms for Babbage's unbuilt Analytical Engine, and Lov Grover's 1996 quantum search algorithm created for quantum computers that didn't yet exist. Clegg masterfully explains how quantum computers exploit phenomena like superposition and entanglement to perform certain calculations exponentially faster than classical computers, potentially revolutionizing fields from cryptography to drug discovery.

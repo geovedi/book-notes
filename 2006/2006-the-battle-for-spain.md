@@ -1,5 +1,5 @@
 # The Battle for Spain
-**Authors**: Antony Beevor | **Year**: 2006
+**Authors**: Antony Beevor | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 Antony Beevor's masterful account of the Spanish Civil War (1936-1939) reveals how Spain became the tragic testing ground for World War II, where democracy, fascism, and communism clashed in a brutal conflict that claimed over 500,000 lives. More than just a Spanish tragedy, this was an international civil war that drew in Nazi Germany, Fascist Italy, and the Soviet Union while idealistic volunteers from around the world flocked to defend the Republic.

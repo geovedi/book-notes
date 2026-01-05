@@ -1,5 +1,6 @@
 # The Old Straight Track
 **Author**: Alfred Watkins | **Year**: 1925
+**Category**: History & Biography
 
 ## Summary
 Alfred Watkins presents a groundbreaking theory that ancient Britons created a sophisticated network of straight trackways that crisscrossed the British landscape. These "leys" or "old straight tracks" were aligned using natural and man-made markers including mounds, beacons, moats, standing stones, and other archaeological features. Watkins discovered that these ancient markers fall into remarkably straight lines spanning many miles, suggesting a deliberate system of navigation and communication that predates Roman roads.

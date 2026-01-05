@@ -1,5 +1,6 @@
 # The Road to Wigan Pier
 **Authors**: George Orwell | **Year**: 1937
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 George Orwell's "The Road to Wigan Pier" is a groundbreaking work of social investigation that combines raw documentary reporting with profound political philosophy. The book is divided into two distinct parts: the first is a searing, eyewitness account of working-class life in industrial England, while the second is a controversial examination of class prejudice and the obstacles to socialism. Orwell spent months living among coal miners and unemployed workers in northern England, documenting their brutal working conditions, inadequate housing, and daily struggle for dignity. His vivid descriptions of life in the coal mines—where men work in hellish conditions miles underground—remain some of the most powerful social commentary ever written. The book serves as both a wake-up call to middle-class readers about the reality of poverty and a critique of the very movement that claims to want to help the working class.

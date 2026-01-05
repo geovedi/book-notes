@@ -1,5 +1,6 @@
 # Love, Lucy
 **Author**: Lucille Ball | **Year**: 1996
+**Category**: History & Biography
 
 ## Summary
 Love, Lucy is the warm, intimate autobiography of America's most beloved comedienne, written in her own authentic voice during the peak of her I Love Lucy success. Ball takes readers from her humble beginnings in Jamestown, New York, through her father's tragic death when she was four, her challenging childhood with various family members, her relentless pursuit of an acting career, and her passionate, turbulent marriage to Desi Arnaz. The memoir captures the creation of television's most iconic sitcom, the building of their Desilu empire, and ultimately, the painful dissolution of their marriage. What makes this autobiography special is Lucy's characteristic wit, honesty, and vulnerability - she doesn't shy away from discussing her insecurities, career struggles, miscarriages, or the heartbreak of her divorce.

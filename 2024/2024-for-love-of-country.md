@@ -1,5 +1,6 @@
 # For Love of Country: Leave the Democrat Party Behind
 **Authors**: Tulsi Gabbard | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 Former Congresswoman and presidential candidate Tulsi Gabbard delivers a scathing critique of the modern Democratic Party, arguing that it has been hijacked by an elitist cabal that prioritizes power over principles. Gabbard, a lifelong Democrat until her departure in 2022, warns that the party's leadership is actively undermining American democracy, freedom, and constitutional values through censorship, warmongering, attacks on religious freedom, and the weaponization of government institutions.

@@ -1,6 +1,7 @@
 # Story Design Methodology: How to Create Engaging Stories
 **Original Title**: ＜3冊合本＞面白いストーリーの作り方+物語が書けないあなたへ ストーリーデザインの方法論 (PIKOZO文庫)
 **Authors**: PIKOZO | **Year**: 2023
+**Category**: Art & Creativity
 
 ## Summary
 This comprehensive guide transforms storytelling from an elusive art into a systematic craft. The book breaks down story creation into three distinct approaches: technical skill-building for intermediate writers, practical problem-solving for common storytelling challenges, and foundational techniques for beginners who struggle to start writing. It bridges the gap between literary ambition and commercial storytelling success.

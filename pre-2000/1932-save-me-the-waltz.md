@@ -1,5 +1,6 @@
 # Save Me the Waltz
 **Authors**: Zelda Sayre Fitzgerald | **Year**: 1932
+**Category**: Fiction & Literature
 
 ## Summary
 

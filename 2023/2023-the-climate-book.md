@@ -1,5 +1,6 @@
 # The Climate Book
 **Authors**: Greta Thunberg (Compiler) | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 "The Climate Book" is a comprehensive collection of essays from over 100 leading scientists, experts, and activists that presents the climate crisis in its full scope—from the fundamental science to the solutions we need. Thunberg brings together cutting-edge research on how our climate works, how our planet is changing, how these changes affect us, what we've done about it, and what we must do now. The book serves as a one-stop resource for understanding the interconnected crises of climate change, ecological collapse, and systemic injustice, while exposing the gap between political promises and meaningful action.

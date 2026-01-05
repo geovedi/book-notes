@@ -1,5 +1,6 @@
 # The Complete Novels of Lucy Maud Montgomery
 **Authors**: Lucy Maud Montgomery | **Year**: 2017
+**Category**: Children & Young Adult
 
 ## Summary
 Lucy Maud Montgomery's complete novels collection represents one of the most beloved bodies of work in Canadian literature, capturing the essence of rural life, female coming-of-age stories, and the transformative power of imagination. This comprehensive anthology spans multiple series and standalone novels, each woven with Montgomery's signature blend of humor, pathos, and deep appreciation for natural beauty.

@@ -1,5 +1,5 @@
 # Don't Make Me Think, Revisited
-**Author**: Steve Krug | **Year**: 2014
+**Author**: Steve Krug | **Year**: 2014 | **Category**: Technology & Computing
 
 ## Summary
 "Don't Make Me Think, Revisited" is a practical guide to web usability that argues for designing intuitive, self-evident digital experiences. Krug's central thesis is that users should never have to expend mental energy figuring out how to use a website or application—they should understand it at a glance. The book presents timeless principles of user-centered design that apply equally to websites and mobile apps, emphasizing that usability is about people and how they understand things, not about technology.

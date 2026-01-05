@@ -1,5 +1,5 @@
 # Traction: A Startup Guide to Getting Customers
-**Authors**: Gabriel Weinberg, Justin Mares | **Year**: 2014
+**Authors**: Gabriel Weinberg, Justin Mares | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "Traction" is a systematic approach to customer acquisition that every startup needs but most founders neglect. The authors argue that traction equals growth, and the pursuit of traction is what truly defines a startup. Most startups fail because they build great products but can't get customers. This book provides a comprehensive framework called the Bullseye Framework to help startups identify and test the right marketing channels among 19 possible options.

@@ -1,5 +1,6 @@
 # The Path to Prosperity
 **Authors**: James Allen | **Year**: 2012
+**Category**: Spirituality & Religion
 
 ## Summary
 "The Path to Prosperity" reveals that true prosperity is not an external possession but an internal state of consciousness. James Allen teaches that our thoughts create our reality, and by mastering our mental states, we can transform poverty into abundance, suffering into joy, and failure into success. The book presents seven essential lessons showing how evil serves as a teacher, how circumstances mirror our mental condition, and how self-mastery leads to genuine prosperity that transcends material wealth.

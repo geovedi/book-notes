@@ -1,5 +1,5 @@
 # Colonising Myths - Māori Realities
-**Authors**: Ani Mikaere | **Year**: 2013
+**Authors**: Ani Mikaere | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 

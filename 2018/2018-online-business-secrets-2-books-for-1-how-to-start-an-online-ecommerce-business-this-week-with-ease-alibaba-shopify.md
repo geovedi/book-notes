@@ -1,5 +1,5 @@
 # 2018 Online Business Secrets: 2 Books for 1
-**Authors**: Marc Hayes | **Year**: 2018
+**Authors**: Marc Hayes | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide combines two books that teach entrepreneurs how to build profitable online businesses using Alibaba and Shopify. The first book reveals how to source products from Alibaba and implement dropshipping strategies, while the second provides a complete roadmap for setting up and marketing a Shopify store. The book is designed for beginners who want to start an e-commerce business quickly with minimal upfront investment.

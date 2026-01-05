@@ -1,5 +1,5 @@
 # Circulatory System: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This comprehensive tutorial study guide breaks down the complex anatomy and physiology of the circulatory system into digestible question-and-answer format. Designed for college-level biology students, it covers everything from basic heart structure to advanced cardiac electrophysiology and evolution of circulatory systems across species.

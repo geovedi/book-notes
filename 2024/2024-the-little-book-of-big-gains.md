@@ -1,5 +1,6 @@
 # The Little Book of Big Gains
 **Authors**: Sandeep Tyagi | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 "The Little Book of Big Gains" is a practical guide to investing wisely that demystifies the complex world of financial markets for average investors. Drawing from his personal experience of losing 50% of his wealth during the 2008 crisis despite having access to Wall Street's best advice, Tyagi provides a systematic approach to building wealth through disciplined investing. The book addresses the common pitfalls that cause most investors to fail - emotional decision-making, unrealistic expectations, and the temptation to chase quick gains. Tyagi argues that successful investing isn't about finding secret formulas or hot tips, but about following a simple, consistent strategy that harnesses the power of compounding over time.

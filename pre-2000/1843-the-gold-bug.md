@@ -1,5 +1,6 @@
 # The Gold Bug
 **Author**: Edgar Allan Poe | **Year**: 1843
+**Category**: Horror & Thriller
 
 ## Summary
 A fascinating tale of mystery, cryptography, and buried treasure that follows William Legrand, an eccentric and reclusive man living on Sullivan's Island near Charleston. After discovering a rare golden beetle, Legrand becomes obsessed with what he believes is a hidden message leading to Captain Kidd's legendary treasure. Along with his loyal servant Jupiter and the skeptical narrator, Legrand follows a cryptic cipher through a series of ingenious deductions that ultimately leads them to a chest filled with priceless treasure, but also dark evidence of murder.

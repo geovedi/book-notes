@@ -1,5 +1,6 @@
 # John Milton: Complete Poetry
 **Authors**: John Milton | **Year**: 2017 (compilation), Poetry from 1624-1671
+**Category**: Fiction & Literature
 
 ## Summary
 John Milton's complete poetry represents one of the most significant collections in English literature, spanning his creative evolution from student poems at Cambridge to his late masterpieces composed during his political career and final blindness. This comprehensive volume gathers Milton's entire poetic output, including his early academic exercises, the pastoral elegy "Lycidas," the masque "Comus," numerous sonnets, and his three great epic works: "Paradise Lost," "Paradise Regained," and "Samson Agonistes."

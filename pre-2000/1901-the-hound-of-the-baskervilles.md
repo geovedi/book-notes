@@ -1,5 +1,6 @@
 # The Hound of the Baskervilles
 **Authors**: Arthur Conan Doyle | **Year**: 1901
+**Category**: Horror & Thriller
 
 ## Summary
 When Sir Charles Baskerville is found dead on the moors near his family estate, the local legend of a supernatural hound that haunts the Baskerville line seems terrifyingly real. Dr. James Mortimer, friend of the deceased, brings the case to Sherlock Holmes, who sends Dr. Watson to protect the heir, Sir Henry Baskerville. Set on the eerie Dartmoor landscape, this classic detective story weaves together gothic atmosphere with meticulous investigation. Holmes and Watson must unravel whether the centuries-old curse is real or if a more human evil threatens the last of the Baskervilles.

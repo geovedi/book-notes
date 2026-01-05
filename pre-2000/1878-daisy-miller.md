@@ -1,5 +1,6 @@
 # Daisy Miller: A Study in Two Parts
 **Authors**: Henry James | **Year**: 1878
+**Category**: Fiction & Literature
 
 ## Summary
 Daisy Miller tells the story of Annie P. Miller, a bright, beautiful, and independent young American woman whose free-spirited behavior clashes with the rigid social conventions of European high society in the late 1870s. The novella follows Daisy through encounters with fellow American expatriate Frederick Winterbourne, first in Vevey, Switzerland, and later in Rome, where her friendship with Italian gentleman Giovanelli leads to social ostracism and ultimately tragedy.

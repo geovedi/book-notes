@@ -1,5 +1,5 @@
 # Brunelleschi's Dome
-**Author**: Ross King | **Year**: 2000
+**Author**: Ross King | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 Brunelleschi's Dome tells the remarkable story of how a goldsmith and clockmaker named Filippo Brunelleschi solved the greatest architectural puzzle of the Renaissance - constructing the massive dome for Florence's cathedral without any scaffolding or centering. This seemingly impossible engineering feat, completed in 1436, would become the world's largest dome and redefine what was architecturally possible. The book combines biography, engineering history, and Renaissance politics into a compelling narrative about innovation against overwhelming odds.

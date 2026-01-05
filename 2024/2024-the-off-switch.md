@@ -1,5 +1,6 @@
 # The Off Switch
 **Authors**: Sarah Greener | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 "The Off Switch" is a practical guide for overwhelmed business owners who've fallen into the trap of working harder instead of smarter. Sarah Greener shares her personal journey from working 100-hour weeks while managing multiple businesses to finding freedom through deliberate planning and alignment. The book presents a counterintuitive approach: rather than pushing through with more hustle, entrepreneurs need to flip the switch and create businesses that serve their lives rather than consuming them. Greener provides a complete framework called "The Power Hour" that helps readers reclaim control of their time, energy, and decision-making while building sustainable success.

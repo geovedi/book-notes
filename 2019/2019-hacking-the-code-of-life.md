@@ -1,5 +1,6 @@
 # Hacking the Code of Life
 **Authors**: Nessa Carey | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 Hacking the Code of Life explores the revolutionary CRISPR gene editing technology that has transformed our ability to modify DNA with unprecedented precision, speed, and affordability. Nessa Carey, a biotech industry veteran and visiting professor at Imperial College London, guides readers through the scientific breakthroughs that led to this game-changing technology, from bacterial immune systems to human therapeutic applications. The book examines how gene editing is revolutionizing medicine, agriculture, and scientific research while raising profound ethical questions about the future of human genetic intervention.

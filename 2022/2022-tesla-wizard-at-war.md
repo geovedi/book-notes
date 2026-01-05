@@ -1,5 +1,5 @@
 # Tesla: Wizard at War
-**Author**: Marc J. Seifer | **Year**: 2022
+**Author**: Marc J. Seifer | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "Tesla: Wizard at War" reveals the hidden military and geopolitical dimensions of Nikola Tesla's inventions, focusing particularly on his work in remote control, wireless technology, and particle beam weapons during the early 20th century. Seifer exposes how Tesla's genius was entangled with corporate interests, government agencies, and international espionage, particularly during World War I and II. The book uncovers Tesla's pivotal role in developing technologies that would shape modern warfare, including remote-controlled robotics, wireless communication systems, and directed energy weapons, while also exploring the systematic suppression of his contributions by powerful interests.

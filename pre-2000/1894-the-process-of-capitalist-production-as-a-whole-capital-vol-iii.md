@@ -1,5 +1,6 @@
 # The Process of Capitalist Production as a Whole (Capital Vol. III)
 **Authors**: Karl Marx | **Year**: 1894 (published posthumously)
+**Category**: Business & Finance
 
 ## Summary
 Capital Volume III is Marx's masterpiece on the dynamics of capitalist production as a total system. It analyzes how surplus-value is transformed into profit, how competition creates an average rate of profit across industries, and how this process masks the exploitation of labor. Marx reveals the internal contradictions of capitalism through his analysis of the transformation problem, the tendency of the rate of profit to fall, and the role of commercial capital, interest-bearing capital, and ground rent.

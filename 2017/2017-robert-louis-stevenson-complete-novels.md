@@ -1,5 +1,6 @@
 # 2017-Robert Louis Stevenson Complete Novels
 **Authors**: Robert Louis Stevenson | **Year**: 2017 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together thirteen complete novels by Robert Louis Stevenson, the Scottish master of adventure and psychological fiction. From the swashbuckling treasure hunts and pirate tales that defined his popular reputation, to the profound psychological horror that explored the duality of human nature, Stevenson's works span the full spectrum of Victorian literature. The collection includes unfinished works that reveal his creative process, showing how Stevenson crafted tales that have captivated readers for generations with their blend of thrilling adventure, deep psychological insight, and masterful storytelling.

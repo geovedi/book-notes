@@ -1,5 +1,6 @@
 # The Great Perfection of Wisdom
 **Original Title**: Mahaprajnaparamita | **Authors**: Various Buddhist Masters | **Year**: circa 1st-4th century CE
+**Category**: Spirituality & Religion
 
 ## Summary
 The Mahaprajnaparamita (Great Perfection of Wisdom) represents one of Buddhism's most profound philosophical collections, teaching the concept of emptiness (śūnyatā) as the ultimate nature of reality. These texts form the foundation of Mahayana Buddhist philosophy, emphasizing that all phenomena are empty of inherent existence while conventionally appearing to function.

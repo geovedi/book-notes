@@ -1,5 +1,6 @@
 # Facebook Groups for Authors
 **Authors**: Steven Bright | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Facebook Groups for Authors" is a practical marketing guide that teaches independent authors how to leverage Facebook groups for book promotion without spending money on paid advertising. The book presents a systematic approach to using free Facebook communities specifically created for book marketing, author support, and target audience engagement to increase book visibility, generate sales, and gather reviews.

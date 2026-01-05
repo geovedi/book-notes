@@ -1,5 +1,6 @@
 # The Iliad & The Odyssey
 **Authors**: Homer | **Year**: c. 8th Century BCE
+**Category**: Fiction & Literature
 
 ## Summary
 Homer's epic poems form the foundation of Western literature, telling the story of the Trojan War and its aftermath. The Iliad focuses on Achilles' rage during the final year of the Trojan War, exploring themes of honor, glory, and the human cost of conflict. The Odyssey follows Odysseus' ten-year journey home after the fall of Troy, a tale of perseverance, cunning, and the struggle to reclaim one's identity and home.

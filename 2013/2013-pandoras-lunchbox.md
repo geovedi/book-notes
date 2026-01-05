@@ -1,5 +1,5 @@
 # Pandora's Lunchbox
-**Author**: Melanie Warner | **Year**: 2013
+**Author**: Melanie Warner | **Year**: 2013 | **Category**: Health & Medicine
 
 ## Summary
 A former New York Times food industry reporter's shocking investigation into how processed food has taken over the American meal. Warner began her journey with a simple experiment—keeping packaged foods past their expiration dates—and discovered that many refused to decay even after years. This led her down a rabbit hole of food science laboratories, manufacturing plants, and regulatory history to uncover the truth about what we're really eating.

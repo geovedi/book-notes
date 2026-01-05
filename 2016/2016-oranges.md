@@ -1,5 +1,5 @@
 # Oranges
-**Authors**: John McPhee, Richard Mabey | **Year**: 2016
+**Authors**: John McPhee, Richard Mabey | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 John McPhee's "Oranges" is a masterful work of narrative non-fiction that transforms an ordinary fruit into a lens through which to explore history, agriculture, industry, and human civilization. What began as a simple curiosity about why his morning orange juice changed color throughout the year evolved into a comprehensive exploration of the citrus world. McPhee tracks the orange's journey from its origins in ancient China to its modern dominance in Florida's concentrate industry, revealing how this seemingly simple fruit has shaped economies, influenced cultures, and revolutionized food production.

@@ -1,5 +1,6 @@
 # The Signal and the Noise
 **Authors**: Nate Silver | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 In "The Signal and the Noise," statistician Nate Silver explores why predictions fail and how we can improve them. Drawing from his experience forecasting elections and analyzing data across fields ranging from baseball to weather to economics, Silver reveals that in an age of big data, the real challenge isn't a lack of information but learning to distinguish meaningful signals from the overwhelming noise.

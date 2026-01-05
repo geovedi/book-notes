@@ -1,5 +1,5 @@
 # Mortician Diaries
-**Author**: June Knights Nadle | **Year**: 2010
+**Author**: June Knights Nadle | **Year**: 2010 | **Category**: Health & Medicine
 
 ## Summary
 "Mortician Diaries" is a profound memoir from a funeral director with 50 years of experience helping families navigate loss. Through personal stories and professional wisdom, Nadle reveals how confronting death with honesty and compassion can help us live more fully. The book challenges our modern tendency to avoid thinking about mortality, showing that acknowledging death brings peace rather than fear.

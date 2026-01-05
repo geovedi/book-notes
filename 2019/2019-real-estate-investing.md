@@ -1,5 +1,6 @@
 # Real Estate Investing in 2019
 **Authors**: Brian Ferrandino | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Real Estate Investing in 2019 serves as a comprehensive beginner's guide to navigating the world of property investment. The book addresses the primary obstacle preventing most people from entering real estate: fear. Ferrandino demystifies various investment strategies while maintaining realistic expectations about the work and risks involved. The book covers everything from basic concepts to specific strategies like wholesaling, flipping, rental properties, and REITs, making it accessible for readers with no prior experience.

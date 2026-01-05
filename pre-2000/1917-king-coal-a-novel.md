@@ -1,5 +1,6 @@
 # King Coal: A Novel
 **Authors**: Upton Sinclair | **Year**: 1917
+**Category**: Fiction & Literature
 
 ## Summary
 "King Coal" is a powerful social justice novel that exposes the brutal exploitation of coal miners in the American West during the early 20th century. The story follows Hal Warner, a privileged young man from the upper class who disguises himself as a miner to investigate and expose the horrific conditions in company-owned mining camps. Sinclair's novel reveals a world where corporations control every aspect of workers' lives, from their wages to their food, housing, and even their political rights.

@@ -1,5 +1,5 @@
 # The Complete Works of Anatole France
-**Authors**: Anatole France | **Year**: 1844-1924 (Collected Works 2015)
+**Authors**: Anatole France | **Year**: 1844-1924 (Collected Works 2015) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection presents the complete literary output of Anatole France, the celebrated French novelist, poet, and journalist who won the Nobel Prize in Literature in 1921. France's work spans multiple genres including novels, short stories, poetry, essays, and criticism, all characterized by his signature irony, skepticism, and elegant prose style.

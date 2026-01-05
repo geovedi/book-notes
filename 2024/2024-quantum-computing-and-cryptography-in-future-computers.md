@@ -1,6 +1,7 @@
 # Quantum Computing and Cryptography in Future Computers
 
 **Authors**: Shyam R. Sihare (Editor) | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive reference book explores the transformative fields of quantum computing and quantum cryptography, examining their fundamental principles, practical applications, and profound impact on the future of computing technology. Born from two years of dedicated research, the book demystifies complex quantum concepts while providing a solid foundation for understanding their real-world implications.

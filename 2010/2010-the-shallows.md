@@ -1,5 +1,5 @@
 # The Shallows
-**Authors**: Nicholas Carr | **Year**: 2010
+**Authors**: Nicholas Carr | **Year**: 2010 | **Category**: Technology & Computing
 
 ## Summary
 Nicholas Carr's groundbreaking exploration of how the Internet is reshaping our minds reveals a disturbing truth: our online habits are rewiring our neural pathways, making us shallower thinkers rather than deeper ones. The Internet, with its constant distractions and emphasis on speed over depth, is weakening our ability to concentrate, contemplate, and engage in critical thinking.

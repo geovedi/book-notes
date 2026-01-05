@@ -1,6 +1,6 @@
 # Madness in All Its States
 **Original Title**: La folie dans tous ses états
-**Author**: Jacques-Antoine Malarewicz | **Year**: 2022
+**Author**: Jacques-Antoine Malarewicz | **Year**: 2022 | **Category**: Psychology & Mental Health
 
 ## Summary
 This book traces the fascinating and complex history of how humanity has understood, classified, and treated mental illness from the 17th century to the present day. Written by a practicing psychiatrist and psychotherapist, it reveals how madness shifted from being seen as a spiritual or religious phenomenon to becoming a medical and psychological concern. The author shows how the French Revolution was instrumental in creating the modern concept of psychiatry, while also examining the ongoing tensions between different approaches to understanding the human mind.

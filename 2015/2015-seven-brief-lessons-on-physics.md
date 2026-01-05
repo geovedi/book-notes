@@ -1,5 +1,6 @@
 # Seven Brief Lessons on Physics
 **Author**: Carlo Rovelli | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 Carlo Rovelli's "Seven Brief Lessons on Physics" is a masterpiece of science communication that transforms complex modern physics into accessible, poetic insights about reality. Originally published as newspaper articles, this slim volume takes readers on a journey from Einstein's relativity to quantum mechanics, from the architecture of the cosmos to the nature of consciousness, all while maintaining a sense of wonder about our place in the universe.

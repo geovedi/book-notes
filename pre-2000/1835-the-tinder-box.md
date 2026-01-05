@@ -1,5 +1,6 @@
 # The Tinder Box
 **Original Title**: Огнивото (Ognivoto) | **Authors**: Hans Christian Andersen | **Year**: 1835
+**Category**: Children & Young Adult
 
 ## Summary
 A soldier returning from war encounters an old witch who sends him down a hollow tree to retrieve a magical tinderbox and unlimited wealth. Inside, he finds three rooms, each guarded by a dog with enormous eyes (saucer-sized, mill wheel-sized, and tower-sized). The soldier collects copper, silver, and gold, forgetting the tinderbox until reminded. When he returns, the witch demands the tinderbox, but the soldier kills her when she refuses to explain its purpose.

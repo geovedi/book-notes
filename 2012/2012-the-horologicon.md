@@ -1,5 +1,6 @@
 # The Horologicon
 **Author**: Mark Forsyth | **Year**: 2012
+**Category**: Art & Creativity
 
 ## Summary
 "The Horologicon" is a delightful linguistic journey through a day in life, organized from 6 AM to midnight, that resurrects forgotten English words for specific moments and activities. Forsyth has mined centuries of dictionaries, dialects, and specialized vocabularies to rediscover words too beautiful, precise, or amusing to remain buried in obscurity. The book operates as a reference guide for moments when you find yourself wondering, "Is there a word for that?" - whether you're lying awake before dawn, procrastinating at work, or stumbling home after a night out.

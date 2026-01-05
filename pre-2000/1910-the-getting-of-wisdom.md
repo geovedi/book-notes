@@ -1,5 +1,6 @@
 # The Getting of Wisdom
 **Authors**: Henry Handel Richardson | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 "The Getting of Wisdom" follows Laura Rambotham, a sensitive and intelligent twelve-year-old girl sent to a prestigious Melbourne boarding school in colonial Australia. The novel tracks her difficult journey through the social and academic challenges of institutional education, her intense friendships, spiritual crises, and eventual emergence as a self-aware young woman. Laura struggles with authority, conformity, and her own unconventional nature, ultimately discovering that wisdom comes not from conventional success but from embracing one's unique perspective.

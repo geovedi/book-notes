@@ -1,6 +1,6 @@
 # Sleep Yourself Awake and Healthy
 **Original Title**: Slaap je wakker en gezond
-**Author**: Hans Hamburger | **Year**: 2022
+**Author**: Hans Hamburger | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 "Sleep Yourself Awake and Healthy" is a comprehensive guide to sleep science and sleep medicine written by Dr. Hans Hamburger, a pioneering Dutch neurologist-somnologist who founded one of the first sleep centers in the Netherlands. The book explores sleep as one of the most essential bodily functions, crucial for memory, positive mood, immune function, and proper metabolism. Through his decades of clinical experience, Dr. Hamburger reveals how modern society's 24/7 lifestyle has systematically eroded our sleep quality, leading to increased prevalence of sleep disorders like insomnia, sleep apnea, and circadian rhythm disturbances.

@@ -1,5 +1,6 @@
 # The Life of William Morris
 **Author**: John William Mackail | **Year**: 1899 (Original), 2017 (This Edition)
+**Category**: History & Biography
 
 ## Summary
 This comprehensive biography chronicles the extraordinary life of William Morris (1834-1896), a Victorian Renaissance man who revolutionized decorative arts, pioneered modern fantasy literature, and became a passionate revolutionary socialist. Born into wealth, Morris rejected industrial capitalism to champion traditional craftsmanship, founded the Arts and Crafts movement, and created some of the most beautiful books ever printed while fighting for social justice.

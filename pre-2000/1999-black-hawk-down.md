@@ -1,5 +1,6 @@
 # Black Hawk Down
 **Authors**: Mark Bowden | **Year**: 1999
+**Category**: History & Biography
 
 ## Summary
 Black Hawk Down recounts the harrowing true story of the 1993 Battle of Mogadishu, when U.S. Army Rangers and Delta Force soldiers attempted to capture two top lieutenants of Somali warlord Mohamed Farrah Aidid. What was supposed to be a 60-minute mission devolved into a desperate 15-hour firefight after two Black Hawk helicopters were shot down over the hostile streets of Mogadishu.

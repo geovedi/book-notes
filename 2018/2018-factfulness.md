@@ -1,5 +1,6 @@
 # Factfulness
 **Authors**: Hans Rosling, Ola Rosling, and Anna Rosling Rönnlund | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 Factfulness challenges our fundamentally negative worldview by revealing how data shows the world is significantly better than we believe. Through extensive research and a simple 13-question quiz that most people fail (scoring worse than random chimpanzee guesses), Rosling demonstrates that our instincts cause us to see the world through a distorted, dramatic lens. The book presents ten cognitive biases that systematically distort our perception of reality and provides practical tools to counteract them.

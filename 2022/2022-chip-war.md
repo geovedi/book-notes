@@ -1,5 +1,5 @@
 # Chip War
-**Chris Miller** | **Year**: 2022
+**Chris Miller** | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 Chip War reveals how semiconductors—tiny silicon chips that power our digital world—have become the most critical technology of our time, driving geopolitical competition between nations. Miller traces the fascinating history from the invention of the integrated circuit to today's high-stakes rivalry between the U.S. and China for chip supremacy.

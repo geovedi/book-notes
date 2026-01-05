@@ -1,5 +1,5 @@
 # All the Living and the Dead
-**Author**: Hayley Campbell | **Year**: 2022
+**Author**: Hayley Campbell | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 Campbell explores the hidden world of professionals who work with death—from funeral directors and embalmers to executioners and crime scene cleaners. Through intimate interviews and firsthand experiences, she reveals how these death workers perform essential acts of compassion while society increasingly outsources mortality to specialists.

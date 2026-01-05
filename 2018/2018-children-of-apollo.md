@@ -1,5 +1,6 @@
 # Children of Apollo
 **Authors**: Adam Alexander Haviaras | **Year**: 2018
+**Category**: Fiction & Literature
 
 ## Summary
 Children of Apollo is a gripping historical fiction novel set in 3rd century Roman North Africa, following Lucius Metellus Anguis, a young Roman tribune serving in Emperor Septimius Severus's legions. The story weaves together military campaigns, political intrigue, and elements of historical fantasy as Lucius navigates the treacherous world of Roman frontier warfare while grappling with divine destiny and mortal threats.

@@ -1,5 +1,5 @@
 # The Speckled Monster
-**Author**: Jennifer Lee Carrell | **Year**: 2014
+**Author**: Jennifer Lee Carrell | **Year**: 2014 | **Category**: Health & Medicine
 
 ## Summary
 "The Speckled Monster" tells the remarkable true story of two unlikely outsiders who began the Western world's fight against smallpox in the 1720s—decades before Edward Jenner developed vaccination. Lady Mary Wortley Montagu, a brilliant English aristocrat scarred by smallpox, discovered inoculation practices in Turkey and championed them in England. Simultaneously, Zabdiel Boylston, a practical colonial surgeon with no formal medical degree, performed the first inoculations in America during Boston's deadly 1721 epidemic.

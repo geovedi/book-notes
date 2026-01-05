@@ -1,5 +1,6 @@
 # Planet Ocean
 **Authors**: Michel Odent | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "Planet Ocean" presents a revolutionary interdisciplinary exploration of human evolution that challenges conventional anthropological theories. Odent argues that humans share more characteristics with marine mammals than with terrestrial primates, suggesting our evolutionary path was shaped by coastal and aquatic environments during critical periods. The book examines how fluctuating sea levels exposed vast continental shelves during ice ages, creating ideal conditions for human development, and how this aquatic connection explains many mysterious human traits—from our supersized brains to our unique relationship with water.

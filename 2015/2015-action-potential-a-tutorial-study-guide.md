@@ -1,5 +1,6 @@
 # Action Potential: A Tutorial Study Guide
 **Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive educational guide demystifies the electrical signaling mechanisms that power our nervous system, explaining how neurons communicate through rapid electrical impulses called action potentials. Written in a question-and-answer tutorial format, the book breaks down complex physiological concepts into accessible explanations, making it an ideal resource for biology and neuroscience students.

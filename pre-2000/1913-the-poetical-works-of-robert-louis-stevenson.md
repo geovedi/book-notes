@@ -1,5 +1,6 @@
 # The Poetical Works of Robert Louis Stevenson
 **Authors**: Robert Louis Stevenson | **Year**: 1913
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection captures the full range of Robert Louis Stevenson's poetic genius, from the childlike wonder of "A Child's Garden of Verses" to the mature reflections of "Songs of Travel and Other Verses." Stevenson masterfully weaves together the ordinary and the extraordinary, finding magic in everyday childhood experiences while exploring deeper themes of nature, journeying, love, and mortality.

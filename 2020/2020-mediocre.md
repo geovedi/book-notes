@@ -1,5 +1,6 @@
 # Mediocre
 **Authors**: Ijeoma Oluo | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Ijeoma Oluo's "Mediocre" delivers a groundbreaking analysis of how white male supremacy has built and protected a system of mediocrity that rewards white men for underachievement while punishing women and people of color for excellence. The book traces how this system was deliberately constructed throughout American history, from the mythology of the cowboy to modern workplace discrimination, showing how white male identity has been built on oppression rather than merit.

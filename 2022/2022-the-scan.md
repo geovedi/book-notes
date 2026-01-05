@@ -1,6 +1,6 @@
 # The Scan
 **Original Title**: De scan
-**Authors**: Marko van der Beek | **Year**: 2022
+**Authors**: Marko van der Beek | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 "The Scan" reveals a revolutionary approach to understanding the connection between body and mind through advanced scanning technology called ScanCoaching. This method measures energy patterns in the body to uncover the root causes of physical, emotional, and psychological issues. The author, a former businessman who experienced a severe burn-out, discovered that 80% of illnesses are stress-related and begin with unconscious decisions made early in life—sometimes even before birth.

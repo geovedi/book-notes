@@ -1,5 +1,6 @@
 # The Power of Less
 **Author**: Leo Babauta | **Year**: 2009
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

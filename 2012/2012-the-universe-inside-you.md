@@ -1,5 +1,6 @@
 # The Universe Inside You
 **Author**: Brian Clegg | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 "The Universe Inside You" takes readers on a fascinating journey through the human body as a gateway to understanding the fundamental principles of science and the cosmos. Rather than treating science as something remote and abstract, Clegg demonstrates how our own bodies contain laboratories for exploring everything from atomic physics to quantum mechanics, from chemistry to cosmology.

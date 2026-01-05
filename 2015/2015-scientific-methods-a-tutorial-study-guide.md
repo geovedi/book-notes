@@ -1,5 +1,5 @@
 # Scientific Methods: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Scientific Methods" is a comprehensive educational guide designed to teach the fundamental principles of scientific inquiry and logical reasoning. The book presents a systematic approach to understanding how science discovers truth in nature through objective, verifiable methods. It serves as both a tutorial for students and a reference for understanding the philosophical foundations of scientific thinking.

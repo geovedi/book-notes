@@ -1,5 +1,6 @@
 # The Checklist Manifesto
 **Author**: Atul Gawande | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 In "The Checklist Manifesto," surgeon and writer Atul Gawande makes a compelling case for one of the simplest yet most powerful tools in modern life: the humble checklist. Through compelling stories from medicine, aviation, construction, and finance, Gawande demonstrates how checklists help manage complexity, reduce errors, and improve outcomes in virtually any field. The book challenges our cultural hero worship of individual expertise and improvisation, arguing that in our increasingly complex world, discipline and systematic approaches matter more than ever.

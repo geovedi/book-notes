@@ -1,5 +1,6 @@
 # Leviathan
 **Author**: Eric Jay Dolin | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 "Leviathan: The History of Whaling in America" is a comprehensive historical narrative that chronicles the rise and fall of America's whaling industry from its colonial beginnings through its golden age to its ultimate decline in the early 20th century. Dolin reveals how whaling shaped America's economy, culture, and national identity, quite literally building the nation from the bodies of whales.

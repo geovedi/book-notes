@@ -1,6 +1,6 @@
 # Existential Physics: A Scientist's Guide to Life's Biggest Questions
 **Original Title**: A Ciência tem todas as respostas?
-**Author**: Sabine Hossenfelder | **Year**: 2022
+**Author**: Sabine Hossenfelder | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 Sabine Hossenfelder, a theoretical physicist, tackles humanity's most profound questions through the lens of modern physics. From whether the past still exists to the nature of consciousness and free will, she separates scientific fact from speculation while acknowledging where current physics reaches its limits. The book bridges the gap between public curiosity about life's big questions and what physics can actually answer, challenging both popular misconceptions and scientific overreach.

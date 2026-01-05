@@ -1,5 +1,5 @@
 # The Second Sex
-**Authors**: Simone de Beauvoir, Constance Borde, Sheila Malovany-Chevallier | **Year**: 2011
+**Authors**: Simone de Beauvoir, Constance Borde, Sheila Malovany-Chevallier | **Year**: 2011 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Second Sex" is Simone de Beauvoir's groundbreaking feminist analysis that examines how women throughout history have been defined as the "Other" to men's "Subject." Published in 1949, this philosophical work argues that women's oppression is not biological destiny but rather a cultural construction that can be transformed. Beauvoir famously declares that "One is not born, but rather becomes, woman," challenging the notion of feminine nature as inherent and immutable.

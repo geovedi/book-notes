@@ -1,5 +1,6 @@
 # The Remarkable Life of the Skin
 **Author**: Monty Lyman | **Year**: 2019
+**Category**: Health & Medicine
 
 ## Summary
 "The Remarkable Life of the Skin" reveals our largest organ as a fascinating biological masterpiece that's far more than just a protective covering. Lyman, a dermatologist, takes readers on an intimate journey across our surface, uncovering how skin simultaneously serves as barrier, bridge, and billboard for our inner lives. Through compelling medical cases, scientific discoveries, and cultural insights, the book transforms how we see this overlooked organ that defines our physical boundaries and shapes our social existence.

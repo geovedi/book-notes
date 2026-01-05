@@ -1,5 +1,6 @@
 # To the Lighthouse
 **Authors**: Virginia Woolf | **Year**: 1927
+**Category**: Fiction & Literature
 
 ## Summary
 Virginia Woolf's masterpiece follows the Ramsay family and their guests during a vacation in the Hebrides, centering on a planned but postponed trip to a nearby lighthouse. The novel flows through three distinct parts: "The Window" captures a single day with the family intact, "Time Passes" shows the house's decay and World War I's devastating impact, and "The Lighthouse" reunites the remaining characters years later to finally make the journey.

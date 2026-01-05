@@ -1,5 +1,6 @@
 # The Hot Zone
 **Author**: Richard Preston | **Year**: 1994
+**Category**: Health & Medicine
 
 ## Summary
 "The Hot Zone" is a chilling true story that reads like a thriller, documenting the emergence of deadly filoviruses like Ebola and Marburg from African rain forests and their terrifying potential to cause global pandemics. The book interweaves two main narratives: the first follows Charles Monet, a French expatriate in Kenya who contracts Marburg virus after exploring Kitum Cave and suffers a horrifying death, potentially exposing hundreds of people on a commercial flight; the second chronicles the 1989 Reston, Virginia incident where Ebola virus suddenly appears in a monkey quarantine facility just outside Washington D.C., forcing U.S. Army scientists into a desperate race to contain the outbreak before it spreads to the human population.

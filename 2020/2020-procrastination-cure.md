@@ -1,5 +1,6 @@
 # Procrastination Cure
 **Authors**: Tiffany Adams | **Year**: 2020
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This comprehensive 2-in-1 guide combines proven goal-setting strategies with 31 practical life hacks to help readers overcome procrastination and achieve their full potential. Written by a psychologist who transformed from a chronic procrastinator to successful professional, the book presents a seven-step goal achievement system alongside daily techniques to rewire your brain for productivity. The approach is grounded in psychological research and real-life experience, offering both long-term strategic planning and immediate actionable solutions.

@@ -1,5 +1,5 @@
 # The Killer of Little Shepherds
-**Author**: Douglas Starr | **Year**: 2010
+**Author**: Douglas Starr | **Year**: 2010 | **Category**: Horror & Thriller
 
 ## Summary
 "The Killer of Little Shepherds" tells the riveting true story of Joseph Vacher, one of France's most notorious serial killers who terrorized the countryside in the 1890s, murdering more people than Jack the Ripper. Parallel to Vacher's gruesome spree, the book chronicles the groundbreaking work of Dr. Alexandre Lacassagne, a pioneering forensic scientist whose innovative methods would ultimately bring Vacher to justice and revolutionize criminal investigation. Set during the Belle Époque—a period of both scientific advancement and social anxiety—this compelling narrative weaves together the birth of modern forensic science with one of the first truly modern serial killer investigations.

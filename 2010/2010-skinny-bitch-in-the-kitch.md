@@ -1,5 +1,5 @@
 # Skinny Bitch in the Kitch
-**Authors**: Rory Freedman, Kim Barnouin | **Year**: 2010
+**Authors**: Rory Freedman, Kim Barnouin | **Year**: 2010 | **Category**: Health & Medicine
 
 ## Summary
 "Skinny Bitch in the Kitch" is a follow-up vegan cookbook that maintains the provocative, no-nonsense approach of the original "Skinny Bitch." This recipe collection transforms everyday comfort foods into healthy, plant-based versions while delivering the authors' signature tough-love philosophy about nutrition and health. The book serves as both a practical cooking guide and a continuation of their mission to convert readers to vegan eating through delicious, accessible recipes.

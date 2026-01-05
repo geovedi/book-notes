@@ -1,5 +1,6 @@
 # Present at the Future
 **Authors**: Ira Flatow | **Year**: 2007
+**Category**: Science & Nature
 
 ## Summary
 "Present at the Future" is a fascinating collection of candid conversations with leading scientists at the forefront of discovery, taking readers on a journey through the most exciting scientific frontiers of the 21st century. Based on Ira Flatow's popular Science Friday radio program, the book captures the excitement, uncertainty, and human drama of scientific discovery while making complex topics accessible to nonspecialists. From the mysteries of consciousness and the workings of the brain to the search for a theory of everything, from nanotechnology to climate change, Flatow's interview-based approach reveals science as it really happens—with controversy, debate, and the constant revision of what we thought we knew.

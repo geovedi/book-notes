@@ -1,5 +1,6 @@
 # The Unfair Advantage
 **Authors**: Ash Ali, Hasan Kubba | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 

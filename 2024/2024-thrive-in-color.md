@@ -1,5 +1,6 @@
 # Thrive in Color
 **Authors**: Devika Brij | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 Thrive in Color is a prescriptive career advancement guide designed specifically for professionals of color and underrepresented individuals navigating corporate environments. Drawing from her personal experiences working at major companies like Google, LinkedIn, and Sony Music, as well as her work as CEO and Founder of Brij the Gap Consulting, Devika Brij provides actionable strategies to overcome systemic barriers and achieve career success.

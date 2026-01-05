@@ -1,5 +1,6 @@
 # In Exile
-**Original Title**: No exílio | **Author**: Elisa Lispector | **Year**: 2024 
+**Original Title**: No exílio | **Author**: Elisa Lispector | **Year**: 2024
+**Category**: Fiction & Literature 
 
 ## Summary
 "In Exile" is a powerful historical novel that chronicles the harrowing journey of a Jewish family fleeing the pogroms in Ukraine during the early 20th century. Based on the real experiences of Elisa Lispector's own family—particularly her sister Lizza—the narrative traces their desperate escape from persecution, the traumas of displacement, and their eventual immigration to Brazil. The story centers on Pinkhas Lispector and his family, including his wife Marim and their children, as they navigate the brutal realities of anti-Semitic violence, revolution, and the profound challenges of starting anew in a foreign land.

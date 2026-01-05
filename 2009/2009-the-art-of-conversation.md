@@ -1,5 +1,6 @@
 # The Art of Conversation: How Talking Improves Lives
 **Authors**: Catherine Blyth | **Year**: 2009
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Art of Conversation" explores how face-to-face conversation is being pushed aside by technology and digital distractions, despite being one of life's greatest pleasures and most useful skills. Catherine Blyth argues that conversation is not just about communication—it's about making connections, polishing thoughts, generating new ideas, and enhancing our social and professional lives. The book provides practical guidance on mastering conversation skills from small talk to navigating difficult discussions, showing how good conversation can improve everything from job interviews to relationships to brain health.

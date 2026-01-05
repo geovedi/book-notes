@@ -1,5 +1,6 @@
 # Billionaires' Row: Tycoons, High Rollers, and the Epic Race to Build the World's Most Exclusive Skyscrapers
 **Author**: Katherine Clarke | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "Billionaires' Row" chronicles the extraordinary development boom along Manhattan's southern Central Park corridor, where a cluster of supertall, ultra-thin residential skyscrapers redefined New York City's skyline and the global luxury real estate market. The book follows four audacious developers—Gary Barnett, Harry Macklowe, Steve Roth, and Michael Stern—as they race to build the world's most exclusive residential towers, each reaching unprecedented heights and prices while catering to the world's wealthiest individuals.

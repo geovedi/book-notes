@@ -1,5 +1,5 @@
 # Druids: A Very Short Introduction
-**Authors**: Barry Cunliffe | **Year**: 2010
+**Authors**: Barry Cunliffe | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "Druids: A Very Short Introduction" is a scholarly examination that separates the historical reality of Druids from centuries of myth, romanticism, and modern reinvention. Cunliffe, a distinguished archaeologist, carefully analyzes classical sources, archaeological evidence, and later medieval texts to reconstruct who the Druids actually were and how their intellectual tradition evolved over millennia.

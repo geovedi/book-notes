@@ -1,5 +1,5 @@
 # Alexander Hamilton
-**Author**: Ron Chernow | **Year**: 2004
+**Author**: Ron Chernow | **Year**: 2004 | **Category**: History & Biography
 
 ## Summary
 Ron Chernow's masterful biography brings to life the most brilliant and controversial of America's founding fathers. Born illegitimate in the Caribbean, Alexander Hamilton rose from poverty to become George Washington's right-hand man, the first Secretary of the Treasury, and the architect of America's financial system. This sweeping narrative reveals how this immigrant genius shaped modern America more than any other founder, yet died in a tragic duel that cut short his extraordinary life at age 49.

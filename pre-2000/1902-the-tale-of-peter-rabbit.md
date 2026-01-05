@@ -1,5 +1,6 @@
 # The Tale of Peter Rabbit
 **Authors**: Beatrix Potter | **Year**: 1902
+**Category**: Children & Young Adult
 
 ## Summary
 The Tale of Peter Rabbit follows the misadventures of a disobedient young rabbit who disobeys his mother's warning and ventures into Mr. McGregor's dangerous garden. What begins as a simple quest for vegetables quickly becomes a thrilling escape sequence as Peter is spotted and chased by the garden's owner. Throughout his ordeal, Peter loses his shoes and jacket, gets trapped in various predicaments, and must rely on his wits and the help of friendly sparrows to survive. Unlike traditional brave heroes, Peter is realistically portrayed as scared and vulnerable, making his eventual return home all the more touching.

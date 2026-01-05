@@ -1,5 +1,5 @@
 # Saints Behaving Badly
-**Authors**: Thomas J. Craughwell | **Year**: 2006
+**Authors**: Thomas J. Craughwell | **Year**: 2006 | **Category**: Spirituality & Religion
 
 ## Summary
 "Saints Behaving Badly" shatters the conventional image of saints as perpetually pious, otherworldly figures. Through compelling biographical accounts of notorious sinners who transformed into revered saints, Craughwell demonstrates that sanctity is not about innate perfection but about radical transformation through divine grace. The book presents a provocative collection of historical figures—including extortionists, murderers, con artists, and promiscuous actors—who abandoned lives of crime and corruption to become some of Christianity's most revered saints.

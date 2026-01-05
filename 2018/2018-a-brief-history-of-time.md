@@ -1,5 +1,5 @@
 # 2018 A Brief History of Time
-**Authors**: Stephen Hawking (original), Goldmine Reads (summary) | **Year**: 2018
+**Authors**: Stephen Hawking (original), Goldmine Reads (summary) | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 Stephen Hawking's "A Brief History of Time" explores the most profound questions about our universe: How did it begin? How will it end? Is there a unified theory that explains everything? From the Big Bang to black holes, from quantum mechanics to the quest for a "theory of everything," Hawking makes complex cosmological concepts accessible to general readers. This summary distills his groundbreaking work into essential insights about space, time, and the fundamental nature of reality.

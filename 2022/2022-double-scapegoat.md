@@ -1,6 +1,6 @@
 # Double Scapegoat
 **Original Title**: Dubbel zondebok
-**Author**: Piet Hagen | **Year**: 2022 
+**Author**: Piet Hagen | **Year**: 2022 | **Category**: History & Biography 
 
 ## Summary
 Double Scapegoat is a comprehensive historical work that chronicles the persecution of Jewish journalists, photographers, and other media professionals in the Netherlands from 1920-1945. The book reveals how Jewish journalists were among the first victims of Nazi persecution, targeted immediately from the first day of the German occupation. The title refers to the dual role Jewish journalists played as scapegoats—first targeted by the Nazis as the supposed "lying press," then becoming scapegoats for broader societal problems through antisemitic propaganda.

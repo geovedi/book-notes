@@ -1,5 +1,5 @@
 # Homemade Repellents: The Ultimate Guide to Homemade Repellents and Natural After-Bites Remedies
-**Authors**: Andrew Forrest | **Year**: 2016
+**Authors**: Andrew Forrest | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This practical guide provides safe, organic alternatives to chemical pesticides for managing common household and garden pests. The book offers proven recipes and strategies for creating natural repellents using readily available ingredients like essential oils, herbs, and common household items. It addresses both indoor pests (wasps, ants, roaches, mosquitoes) and outdoor threats, while also providing remedies for insect bites and prevention strategies.

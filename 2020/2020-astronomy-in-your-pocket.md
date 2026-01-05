@@ -1,6 +1,7 @@
 # Astronomy in Your Pocket
 **Original Title**: Астрономия в вашем кармане
 **Authors**: Vladimir Vladimirovich Bereznyakovsky | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 "Astronomy in Your Pocket" is a comprehensive guide that distills the vast cosmos into digestible information about celestial bodies, their discoverers, and the fundamental workings of the universe. The book serves as a bridge between complex astronomical science and curious readers who want to understand the mysteries of space without getting lost in technical jargon.

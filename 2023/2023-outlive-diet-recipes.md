@@ -1,5 +1,6 @@
 # 2023 Outlive Diet Recipes
 **Authors**: Jesse Smith | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 "Outlive Diet Recipes" is a practical cookbook inspired by Peter Attia's longevity principles, offering 60 brain-healthy and anti-inflammatory recipes designed to boost cognitive function, improve gut ecology, reduce belly fat, and promote longer life. The book combines nutritional science with accessible recipes that focus on probiotics, prebiotics, and Mediterranean diet principles to optimize both physical and mental health while reducing inflammation throughout the body.

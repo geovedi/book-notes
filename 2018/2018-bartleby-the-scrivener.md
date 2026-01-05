@@ -1,5 +1,5 @@
 # Bartleby, the Scrivener: A Story of Wall Street
-**Authors**: Herman Melville | **Year**: 2018 (original: 1853)
+**Authors**: Herman Melville | **Year**: 2018 (original: 1853) | **Category**: Fiction & Literature
 
 ## Summary
 A Wall Street lawyer hires Bartleby, a pale and meticulous copyist, who initially works with extraordinary diligence but soon begins responding to every request with the phrase "I would prefer not to." As Bartleby gradually stops working, eating, and even speaking, the narrator finds himself increasingly disturbed yet strangely unable to dismiss this enigmatic figure. The story explores themes of isolation, passive resistance, and human connection in the midst of 19th-century capitalist society.

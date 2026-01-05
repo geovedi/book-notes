@@ -1,5 +1,5 @@
 # Trading is Flow Business
-**Authors**: Heikin Ashi Trader | **Year**: 2018
+**Authors**: Heikin Ashi Trader | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Trading is Flow Business" is Part 4 of the "Scalping is Fun!" series, revealing that successful scalping isn't about complex analysis but about timing, psychology, and achieving a state of "flow" during optimal market conditions. The book challenges traditional trading wisdom by arguing that rapid, momentum-based scalping outperforms carefully planned trades.

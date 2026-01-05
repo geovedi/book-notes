@@ -1,5 +1,5 @@
 # Let My People Go Surfing
-**Authors**: Yvon Chouinard | **Year**: 2005
+**Authors**: Yvon Chouinard | **Year**: 2005 | **Category**: Business & Finance
 
 ## Summary
 "Let My People Go Surfing" is Yvon Chouinard's memoir and business philosophy, chronicling his journey from a blacksmith making climbing gear to founder of Patagonia, one of the world's most environmentally conscious companies. Chouinard, a self-proclaimed "reluctant businessman," shares how his passion for outdoor sports and environmental activism shaped a revolutionary approach to doing business that proves profitability and sustainability can coexist.

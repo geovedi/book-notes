@@ -1,6 +1,6 @@
 # At the Edge of Mysteries: The Discovery of the Immune System
 
-**Author**: Shantha Perera | **Year**: 2022
+**Author**: Shantha Perera | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 This book tells the fascinating story of how humanity discovered and understood the immune system, framed through the historical breakthroughs that led to our current knowledge—and applied directly to the COVID-19 pandemic. Perera, a medical doctor, weaves together compelling medical detective stories from ancient Greece to modern virology, showing how each discovery built our understanding of the body's remarkable defense system. The book contrasts two COVID-19 patient outcomes—a fatal case where the immune system overreacted versus a recovery case where it responded effectively—to demonstrate the immune system's double-edged nature.

@@ -1,5 +1,6 @@
 # The Miracle Morning
 **Authors**: Hal Elrod | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 The Miracle Morning presents a powerful morning routine framework designed to transform your life through six daily practices that Elrod calls "Life S.A.V.E.R.S." The book argues that how you start your morning sets the tone for your entire day, and by consistently dedicating time each morning to personal development, you can achieve extraordinary results in all areas of life. Elrod, who survived a near-fatal car accident and later fought cancer, developed this system during his darkest moments, proving that even the most challenging circumstances can be overcome with the right daily habits.

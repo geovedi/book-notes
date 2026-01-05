@@ -1,5 +1,5 @@
 # Think Rich to Get Rich
-**Authors**: Larry John | **Year**: 2006
+**Authors**: Larry John | **Year**: 2006 | **Category**: Business & Finance
 
 ## Summary
 "Think Rich to Get Rich" presents a systematic formula for wealth creation built around Four Pillars of Wealth. This practical guide moves beyond theory to provide a repeatable business system that works regardless of industry or business size. The author emphasizes that getting rich isn't about luck or special talent—it's about following a proven formula consistently while overcoming the mental barriers that hold most people back.

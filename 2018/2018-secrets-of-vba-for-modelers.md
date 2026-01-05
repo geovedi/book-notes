@@ -1,6 +1,6 @@
 # Secrets of VBA for Modelers
 **Original Title**: Secrets Of VBA For Modelers
-**Author**: Andrei Besedin | **Year**: 2018
+**Author**: Andrei Besedin | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 This practical guide teaches Excel users how to transform their spreadsheet skills into powerful automated applications using Visual Basic for Applications (VBA). The book focuses specifically on creating Decision Support Systems (DSS) for business modeling, helping users move from manual spreadsheet operations to sophisticated Excel-based applications with user-friendly interfaces. Written for financial modelers and business analysts who already understand Excel's power, it demonstrates how to leverage VBA to create applications that non-technical users can operate easily.

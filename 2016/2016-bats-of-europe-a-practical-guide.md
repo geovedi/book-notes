@@ -1,5 +1,5 @@
 # Bats of Europe: A Practical Guide
-**Authors**: Christian Dietz, Andreas Kiefer | **Year**: 2016
+**Authors**: Christian Dietz, Andreas Kiefer | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This comprehensive field guide covers all 44 bat species recorded in Europe plus 35 additional species from surrounding regions. Written by two experienced bat researchers, it represents the culmination of decades of field research and incorporates the latest molecular-biological discoveries in bat taxonomy. The guide serves as both an identification manual and a celebration of these remarkable mammals that have conquered the night sky across every continent except Antarctica.

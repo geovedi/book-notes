@@ -1,5 +1,5 @@
 # The Black Swan
-**Author**: Nassim Nicholas Taleb | **Year**: 2010
+**Author**: Nassim Nicholas Taleb | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 The Black Swan reveals how our world is dominated by rare, high-impact events that are unpredictable yet retrospectively explainable. Taleb argues that we consistently underestimate the role of randomness and extreme events in shaping history, instead preferring tidy narratives and false predictions. The book challenges our fundamental assumptions about knowledge, prediction, and risk management.

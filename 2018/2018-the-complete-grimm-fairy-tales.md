@@ -1,6 +1,6 @@
 # The Complete Grimm Fairy Tales
 **Original Title**: THE COMPLETE BROTHERS GRIMM'S FAIRY TALES
-**Authors**: The Brothers Grimm | **Year**: 2018
+**Authors**: The Brothers Grimm | **Year**: 2018 | **Category**: Children & Young Adult
 
 ## Summary
 

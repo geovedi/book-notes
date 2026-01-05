@@ -1,5 +1,6 @@
 # Working IX to V
 **Authors**: Vicki León | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 "Working IX to V" is a witty, entertaining tour of ancient professions that reveals how remarkably similar the Greco-Roman world was to our modern workplace culture. León presents over 130 ancient jobs—from pirates and prostitutes to funeral clowns and orgy planners—showing that workers 2,000 years ago worried about taxes, complained about management, took coffee breaks (well, wine breaks), and dealt with workplace politics just like we do today.

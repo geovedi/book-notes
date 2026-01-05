@@ -1,5 +1,5 @@
 # Simply Dirac
-**Authors**: Helge Kragh | **Year**: 2016
+**Authors**: Helge Kragh | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "Simply Dirac" presents the life and groundbreaking contributions of Paul Adrien Maurice Dirac, one of the most brilliant and enigmatic physicists of the 20th century. As a principal architect of quantum mechanics, Dirac revolutionized our understanding of the subatomic world through his elegant mathematical formulations and profound insights. The book traces his journey from a quiet, unconventional student in Bristol to becoming a Nobel laureate whose work fundamentally changed physics, including his famous Dirac equation that predicted the existence of antimatter—a concept initially dismissed as wildly speculative but later confirmed experimentally.

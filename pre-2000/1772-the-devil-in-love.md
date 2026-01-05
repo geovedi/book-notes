@@ -1,5 +1,6 @@
 # The Devil in Love
 **Original Title**: Le Diable amoureux | **Author**: Jacques Cazotte | **Year**: 1772
+**Category**: Fiction & Literature
 
 ## Summary
 "The Devil in Love" tells the story of Don Alvaro, a young captain in the King's guard at Naples, who becomes fascinated with the occult after witnessing a demonstration of spirit summoning. Driven by curiosity and bravado, Alvaro attempts to summon the devil himself, promising to "pull his devilish ears" if he appears. Instead of the fearsome demon he expects, he encounters a shape-shifting spirit who transforms from a horrifying camel-headed creature into a beautiful young page named Biondetto, who then reveals herself as Biondetta.

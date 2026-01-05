@@ -1,5 +1,6 @@
 # Jacob's Room
 **Authors**: Virginia Woolf | **Year**: 1922
+**Category**: Fiction & Literature
 
 ## Summary
 "Jacob's Room" is Virginia Woolf's groundbreaking modernist novel that revolutionizes the literary form by depicting the life of Jacob Flanders through fragments, impressions, and perspectives rather than traditional narrative continuity. The novel follows Jacob from his childhood in Cornwall through his Cambridge education, travels across Europe, and ultimately his death in World War I, all while challenging readers to piece together his identity from scattered glimpses and the memories of those who knew him.

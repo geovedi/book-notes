@@ -1,5 +1,5 @@
 # 2018 Personal Branding Secrets for 2019
-**Authors**: Gary Ramsey | **Year**: 2018
+**Authors**: Gary Ramsey | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Personal Branding Secrets for 2019" is a practical guide designed to help individuals build powerful personal brands using social media platforms. The book focuses on modern strategies for Facebook, Instagram, Twitter, and YouTube, emphasizing authenticity, audience engagement, and strategic networking in an increasingly competitive digital landscape.

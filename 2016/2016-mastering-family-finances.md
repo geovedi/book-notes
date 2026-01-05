@@ -1,5 +1,5 @@
 # Mastering Family Finances
-**Authors**: Suzzie Santos | **Year**: 2016
+**Authors**: Suzzie Santos | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 Mastering Family Finances is a comprehensive crash course that transforms budgeting from a restrictive chore into a liberating family activity. The book presents practical strategies for creating realistic household budgets that work in the real world, emphasizing that budgeting should never be about financial starvation but rather about conscious spending that aligns with family values and goals.

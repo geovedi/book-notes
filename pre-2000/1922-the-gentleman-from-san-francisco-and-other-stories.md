@@ -1,6 +1,7 @@
 # The Gentleman from San Francisco and Other Stories
 **Original Title**: Господин из Сан-Франциско и другие рассказы (Gospodin iz San-Frantsisko i drugie rasskazy)
 **Authors**: Ivan Bunin | **Year**: 1922
+**Category**: Fiction & Literature
 
 ## Summary
 This powerful collection of four novellas by Nobel Prize-winning author Ivan Bunin explores the fragile nature of human existence, the illusion of social status, and the inevitable confrontation with mortality. Written with exquisite precision and psychological depth, these stories examine how ordinary lives unravel under extraordinary circumstances, revealing the hollow foundations upon which we build our identities.

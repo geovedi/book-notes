@@ -1,5 +1,6 @@
 # The Myth of Making It: A Workplace Reckoning
-**Authors**: Samhita Mukhopadhyay | **Year**: 2024 
+**Authors**: Samhita Mukhopadhyay | **Year**: 2024
+**Category**: Philosophy & Critical Thinking 
 
 ## Summary
 "The Myth of Making It" is a powerful critique of modern workplace culture, particularly the promises made to women about achieving success through endless hustle, girlboss feminism, and leaning in. Mukhopadhyay dismantles the illusion that individual effort alone can overcome systemic barriers, revealing how the "having it all" narrative has burdened women with impossible expectations while distracting from collective solutions.

@@ -1,5 +1,5 @@
 # Fierce Love
-**Authors**: Susan Scott | **Year**: 2022
+**Authors**: Susan Scott | **Year**: 2022 | **Category**: Romance & Relationships
 
 ## Summary
 Susan Scott's "Fierce Love" transforms how we think about romantic relationships by revealing that lasting love isn't found—it's built, one conversation at a time. The book challenges common relationship myths and provides a practical roadmap for creating deep, authentic connections through eight essential conversations. Scott argues that while "I love you" isn't enough, meaningful, honest dialogue can create a fierce love that withstands time and grows stronger over the years.

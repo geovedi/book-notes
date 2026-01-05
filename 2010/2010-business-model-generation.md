@@ -1,5 +1,5 @@
 # Business Model Generation
-**Authors**: Alexander Osterwalder, Yves Pigneur, Alan Smith | **Year**: 2010
+**Authors**: Alexander Osterwalder, Yves Pigneur, Alan Smith | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 Business Model Generation is a practical handbook for entrepreneurs, executives, and innovators who want to design, test, and transform business models. The book introduces the Business Model Canvas—a powerful visual tool that maps out nine essential building blocks of any business model. It moves beyond traditional business planning to provide a systematic approach for understanding how organizations create, deliver, and capture value.

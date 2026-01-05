@@ -1,6 +1,7 @@
 # Indian Millennials: Who Are They, Really?
 
 **Author**: Aditya Gautam | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Indian Millennials: Who Are They, Really?" is a penetrating exploration of India's largest generation, born between 1981-1996, through a series of insightful essays that examine their complex identity in a rapidly changing nation. The book dissects how this generation navigates contradictions between traditional values and modern aspirations, global influences and local realities, digital connectivity and real-world frustrations.

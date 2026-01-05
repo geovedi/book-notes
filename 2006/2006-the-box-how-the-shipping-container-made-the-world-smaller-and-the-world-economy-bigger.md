@@ -1,5 +1,5 @@
 # The Box
-**Authors**: Marc Levinson | **Year**: 2006
+**Authors**: Marc Levinson | **Year**: 2006 | **Category**: Business & Finance
 
 ## Summary
 The shipping container— a simple metal box— fundamentally reshaped the global economy in ways that no one anticipated when it first set sail in 1956. What began as Malcom McLean's modest experiment to reduce trucking costs between Newark and Houston triggered a revolution that made global trade possible and destroyed centuries-old economic patterns in the process. The container didn't just lower shipping costs; it eliminated the complex, labor-intensive process of handling cargo piece by piece, replacing armies of longshoremen with automated systems that could move goods across oceans with unprecedented efficiency and reliability.

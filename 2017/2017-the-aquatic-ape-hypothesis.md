@@ -1,5 +1,6 @@
 # The Aquatic Ape Hypothesis
 **Author**: Elaine Morgan | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "The Aquatic Ape Hypothesis" presents a revolutionary challenge to traditional theories of human evolution. Elaine Morgan argues that our ancestors passed through a semi-aquatic phase millions of years ago, which explains many uniquely human traits that conventional savannah-based theories cannot adequately account for. The book dismantles the long-discredited savannah hypothesis and presents compelling evidence that humans spent a crucial evolutionary period in and around water, which shaped our distinctive anatomy, physiology, and behavior.

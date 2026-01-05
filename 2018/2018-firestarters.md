@@ -1,5 +1,6 @@
 # Firestarters
 **Authors**: Raoul Davis Jr., Kathy Palokoff, Paul Eder | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Firestarters" reveals how extraordinary individuals ignite change in the world through three distinct approaches: Innovators who create new things, Instigators who disrupt existing systems, and Initiators who start important movements. The book presents a comprehensive framework based on interviews with successful change-makers across industries, showing how anyone can become a Firestarter by understanding what ignites their potential (Igniters), what fuels their journey (Fuels), and what accelerates their impact (Accelerants).

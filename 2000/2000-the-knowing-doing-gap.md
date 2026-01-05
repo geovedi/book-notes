@@ -1,5 +1,5 @@
 # The Knowing-Doing Gap
-**Authors**: Jeffrey Pfeffer, Robert I. Sutton | **Year**: 2000
+**Authors**: Jeffrey Pfeffer, Robert I. Sutton | **Year**: 2000 | **Category**: Business & Finance
 
 ## Summary
 "The Knowing-Doing Gap" tackles one of business's most perplexing problems: why organizations often know what to do but consistently fail to do it. The authors discovered that smart, well-intentioned managers frequently implement practices that undermine performance, despite having access to the right knowledge. Through extensive research across numerous companies, Pfeffer and Sutton identify the organizational barriers that prevent knowledge from turning into action and provide concrete examples of companies that successfully bridge this gap.

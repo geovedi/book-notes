@@ -1,5 +1,5 @@
 # Ghettoside
-**Author**: Jill Leovy | **Year**: 2015
+**Author**: Jill Leovy | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 "Ghettoside" is a gripping work of narrative nonfiction that investigates America's plague of black-on-black homicide through the lens of two murder cases in Los Angeles. Leovy, a former LA Times reporter, argues that where the criminal justice system fails to respond vigorously to violent injury and death, homicide becomes endemic. The book centers on Detective John Skaggs's relentless pursuit of justice for victims, culminating in the murder of Bryant Tennelle—son of an LAPD detective—and the extraordinary efforts to solve his case.

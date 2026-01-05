@@ -1,5 +1,6 @@
 # Betty Baird's Ventures
 **Authors**: Anna Hamlin Weikel | **Year**: 2021 (Originally 1907)
+**Category**: Fiction & Literature
 
 ## Summary
 "Betty Baird's Ventures" follows seventeen-year-old Betty Baird, a spirited young woman in 1907 who becomes determined to help her family overcome financial difficulties after graduating from boarding school. When Betty learns her family is "in tight papers" due to a mortgage on their new home, she launches various entrepreneurial ventures to contribute financially while navigating the social expectations of becoming a proper young lady in early 20th-century America.

@@ -1,5 +1,6 @@
 # The Mystery of the Sea
 **Authors**: Bram Stoker | **Year**: 1902
+**Category**: Horror & Thriller
 
 ## Summary
 "The Mystery of the Sea" is a Gothic supernatural thriller that weaves together second sight, ancient mysteries, and a dangerous treasure hunt. The story follows an unnamed English narrator who visits Cruden Bay in Scotland and discovers he possesses the "Second Sight" - the ability to see visions of future events, particularly deaths. His life becomes entangled with Gormala MacNiel, a mysterious Gaelic woman who also has supernatural powers, and Marjory Drake, an American heiress with a connection to hidden Spanish treasure from the Armada wrecked off the Scottish coast.

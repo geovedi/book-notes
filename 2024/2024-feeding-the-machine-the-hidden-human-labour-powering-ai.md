@@ -2,6 +2,7 @@
 
 # Feeding the Machine: The Hidden Human Labour Powering AI
 **Authors**: James Muldoon, Mark Graham, Callum Cant | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 Feeding the Machine exposes the invisible human workforce that powers artificial intelligence, revealing how AI systems rely on millions of exploited workers across the globe. Through compelling personal stories and rigorous analysis, the book uncovers the global production networks behind AI—from data annotators in Uganda and content moderators in Kenya to warehouse workers in the UK and engineers in Silicon Valley. The authors demonstrate how AI functions as an "extraction machine" that systematically extracts human labour, intelligence, and resources to generate profits for a small elite, while reproducing colonial patterns of exploitation and concentrating power in fewer hands.

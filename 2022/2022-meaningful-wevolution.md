@@ -1,6 +1,6 @@
 # Meaningful [W]evolution
 **Original Title**: Zinvolle [W]evolutie
-**Author**: Mary Span | **Year**: 2022
+**Author**: Mary Span | **Year**: 2022 | **Category**: Spirituality & Religion
 
 ## Summary
 "Meaningful [W]evolution" explores humanity's crucial evolutionary threshold where personal spiritual awakening becomes essential for global transformation. Written during the COVID-19 pandemic and Ukraine war, this Dutch philosophical guide presents [w]evolution—a concept combining individual and collective evolution—as the pathway to create a more conscious, compassionate world.

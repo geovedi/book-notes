@@ -1,5 +1,6 @@
 # How to Learn Project Management Quickly!
 **Authors**: Andrei Besedin | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This practical guide serves as a comprehensive introduction to project management for aspiring professionals. The book breaks down the essential skills, methodologies, and career pathways needed to succeed in project management, emphasizing that real-world experience matters more than certifications alone.

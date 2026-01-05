@@ -1,5 +1,6 @@
 # The Metamorphosis
 **Original Title**: Die Verwandlung | **Author**: Franz Kafka | **Year**: 1915
+**Category**: Fiction & Literature
 
 ## Summary
 One morning, traveling salesman Gregor Samsa awakens to find himself transformed into a "horrible vermin" - a grotesque insect-like creature. Despite this shocking physical change, his mind remains human, creating a profound disconnection between his inner consciousness and outer form. The story follows Gregor's gradual isolation, his family's transformation from dependence to revulsion, and ultimately his tragic death as they move on to new beginnings.

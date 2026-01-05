@@ -1,6 +1,7 @@
 # Beyond the Boardroom: Redefining Success after Job Loss
 **Original Title**: Fodfæste: Om at miste sig selv i arbejdslivet og finde en ny vej
 **Author**: Lars Sander Matjeka | **Year**: 2025
+**Category**: Business & Finance
 
 ## Summary
 This raw, honest memoir chronicles a CEO's journey from the pinnacle of corporate success to the depths of unemployment and back again. Lars Sander Matjeka was dismissed from his position as CEO of Aller Media in 2020, forcing him to confront everything he thought he knew about success, identity, and worth. Through intimate journal entries spanning his dismissal, job search, and personal rediscovery, Matjeka exposes the vulnerabilities behind the executive facade and challenges fundamental assumptions about leadership, career, and what it means to live a successful life.

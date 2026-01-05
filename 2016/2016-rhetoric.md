@@ -1,5 +1,5 @@
 # Rhetoric
-**Authors**: Aristotle | **Year**: 2016
+**Authors**: Aristotle | **Year**: 2016 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Aristotle's "Rhetoric" stands as the foundational systematic treatment of persuasion and public speaking in Western civilization. Written in the 4th century BCE, this comprehensive work breaks down the art of effective communication into its essential components, offering timeless principles that remain remarkably relevant in today's information-rich world. Aristotle establishes rhetoric as "the faculty of observing in any given case the available means of persuasion," positioning it not as mere manipulation but as a crucial tool for discovering truth and facilitating democratic decision-making.

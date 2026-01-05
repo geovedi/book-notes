@@ -1,5 +1,6 @@
 # How to Listen, Hear, and Validate
 **Authors**: Patrick King | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 "How to Listen, Hear, and Validate" is a practical guide that explores the art of validation as a fundamental communication skill for building deeper, more meaningful relationships. The book demystifies validation—explaining what it is, what it isn't, and how to practice it effectively in everyday interactions. Through concrete examples and a structured framework, King shows readers how to move beyond simply hearing words to truly understanding and validating others' emotional experiences.

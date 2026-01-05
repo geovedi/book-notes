@@ -1,5 +1,5 @@
 # Great Himalaya Trail
-**Authors**: Gerda Pauler | **Year**: 2013
+**Authors**: Gerda Pauler | **Year**: 2013 | **Category**: Health & Medicine
 
 ## Summary
 *Great Himalaya Trail* chronicles Gerda Pauler's extraordinary 1,700-kilometer, four-month trek across Nepal at age 55, traversing eight of the world's fourteen 8,000-meter peaks. What began as a personal adventure transformed into a charity walk to raise awareness and funds for autism in Nepal after reading a newspaper article about the condition's challenges in developing countries. Pauler's journey from Kangchenjunga to the Tibetan border showcases not only her physical endurance crossing 18 high passes but also her mission to promote autism awareness while experiencing incredible cultural diversity, stunning landscapes, and the warmth of Nepalese hospitality.

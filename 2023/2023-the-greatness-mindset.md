@@ -1,6 +1,7 @@
 # The Greatness Mindset
 **Original Title**: Собрать себя заново. Как превратить кризис в шанс, а неудачу в прорыв
 **Author**: Lewis Howes | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Lewis Howes shares his journey from sleeping on his sister's couch at age 23—broken financially, physically, and emotionally—to building a seven-figure business and reaching millions through his podcast. After a career-ending sports injury left him devastated, Howes discovered that greatness isn't about perfection or external achievements, but about uncovering your natural gifts to fulfill your Special Mission and positively impact those around you.

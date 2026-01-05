@@ -1,5 +1,6 @@
 # Touch Me Not
 **Original Title**: Noli Me Tangere | **Authors**: José Rizal | **Year**: 1887
+**Category**: Fiction & Literature
 
 ## Summary
 "Noli Me Tangere" (Latin for "Touch Me Not") is a groundbreaking Filipino novel that exposed the abuses and corruption of Spanish colonial rule in the Philippines. The story follows Juan Crisóstomo Ibarra, a young Filipino who returns to his homeland after seven years of study in Europe, filled with progressive ideals and dreams of building a school for his countrymen. Instead, he confronts a society poisoned by oppression, hypocrisy, and the cruel power of the friarocracy.

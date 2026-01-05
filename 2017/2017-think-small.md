@@ -1,5 +1,6 @@
 # Think Small
 **Authors**: Owain Service, Rory Gallagher | **Year**: 2017
+**Category**: Psychology & Mental Health
 
 ## Summary
 Think Small presents a revolutionary framework for achieving your goals by focusing on the small, manageable steps rather than getting overwhelmed by ambitious objectives. Written by two experts from the UK's Behavioural Insights Team (the "Nudge Unit"), this book translates decades of behavioral science research into practical strategies for personal and professional success.

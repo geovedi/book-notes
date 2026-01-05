@@ -1,6 +1,6 @@
 # Unrealistic Love: How to Find Your Person and Build Strong Relationships
 **Original Title**: Нереальная любовь. Как найти своего человека и построить крепкие отношения
-**Author**: Irina Semizorova | **Year**: 2022
+**Author**: Irina Semizorova | **Year**: 2022 | **Category**: Romance & Relationships
 
 ## Summary
 This Russian self-help book challenges conventional wisdom about love and relationships, arguing that our unrealistic expectations—fueled by fairy tales, movies, and societal conditioning—prevent us from finding genuine connection. Semizorova, a family therapist, combines systemic psychology, Jungian archetypes, and practical exercises to help readers build themselves first before seeking relationships.

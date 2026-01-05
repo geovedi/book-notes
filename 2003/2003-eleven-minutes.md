@@ -1,5 +1,5 @@
 # Eleven Minutes
-**Author**: Paulo Coelho | **Year**: 2003
+**Author**: Paulo Coelho | **Year**: 2003 | **Category**: Romance & Relationships
 
 ## Summary
 Eleven Minutes tells the story of Maria, a young Brazilian woman who leaves her small town to seek adventure and wealth in Geneva, Switzerland, where she becomes a prostitute. The novel explores her journey of self-discovery as she navigates the complex world of sexuality, love, and spirituality. Through her experiences with various clients and her transformative relationship with a painter named Ralf Hart, Maria discovers that true fulfillment comes not from physical pleasure alone, but from understanding the sacred connection between body and soul. The title refers to the eleven minutes that sexual encounters typically last, and questions whether such brief moments can hold profound meaning.

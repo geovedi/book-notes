@@ -1,5 +1,5 @@
 # A Guide to Investing for Kids
-**Authors**: Stephanie R. Baker | **Year**: 2018
+**Authors**: Stephanie R. Baker | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide teaches children the fundamentals of financial literacy and investing at an early age. The book addresses the necessity of teaching kids about money management in an era of rising costs and economic uncertainty. It provides parents and children with concrete strategies for developing saving habits, understanding investment platforms, and building responsible financial behaviors that will last a lifetime.

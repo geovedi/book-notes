@@ -1,6 +1,7 @@
 # Analysis of Financial Statements and Corporate Performance: For Non-Financial Companies
 **Original Title**: Análise De Demonstrativos Financeiros E Da Performance Empresarial: Para Empresas Não Financeiras
 **Authors**: Flávio Kezam Málaga | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 

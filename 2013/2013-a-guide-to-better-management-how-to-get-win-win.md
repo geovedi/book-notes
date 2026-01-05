@@ -1,5 +1,5 @@
 # A Guide to Better Management: How to Get Win Win
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical guide applies Neuro-Linguistic Programming (NLP) principles to transform management from command-and-control to collaborative influencing. The book focuses on developing essential skills for influencing and negotiating that create mutually beneficial outcomes in workplace relationships. It presents a comprehensive framework for understanding how successful people achieve their goals and how managers can apply these principles to create more effective, cooperative work environments.

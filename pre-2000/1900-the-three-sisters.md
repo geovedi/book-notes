@@ -1,5 +1,6 @@
 # The Three Sisters
 **Authors**: Anton Chekhov | **Year**: 1900
+**Category**: Fiction & Literature
 
 ## Summary
 Anton Chekhov's "The Three Sisters" is a masterful portrait of longing, disillusionment, and the search for meaning in provincial Russian life. The play follows three refined sisters—Olga, Masha, and Irina—who dream of returning to Moscow, the vibrant city of their childhood, but find themselves trapped in a small provincial town for eleven years.

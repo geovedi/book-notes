@@ -1,5 +1,6 @@
 # Parnassus on Wheels
 **Authors**: Christopher Morley | **Year**: 1917
+**Category**: Fiction & Literature
 
 ## Summary
 Parnassus on Wheels is a delightful romantic comedy about Helen McGill, a 39-year-old spinster who has spent fifteen years cooking and keeping house for her brother Andrew, a successful author who writes about the joys of country living while Helen does all the actual farm work. When Roger Mifflin arrives in his traveling bookshop—a blue wagon called "Parnassus on Wheels"—Helen impulsively buys it to prevent her brother from abandoning farm life for literary adventures. Instead, she sets off on her own journey, discovering independence, love, and a new purpose as a traveling bookseller.

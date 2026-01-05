@@ -1,6 +1,7 @@
 # Best Russian Short Stories: Quick Literary Guide
 **Original Title**: Best Russian Short Stories, Compiled and Edited by Thomas Seltzer
 **Authors**: Various (Pushkin, Gogol, Turgenev, Dostoevsky, Tolstoy, Chekhov, Gorky, Andreyev, and others) | **Year**: 1918
+**Category**: Fiction & Literature
 
 ## Summary
 This landmark collection represents the golden age of Russian literature, bringing together 17 masterful short stories that span the evolution of Russian storytelling from romanticism to realism to modernism. Compiled and introduced by Thomas Seltzer, this anthology serves as both a literary treasure and a cultural window into the Russian soul during the 19th and early 20th centuries. The collection demonstrates how Russian authors revolutionized the short story form by infusing it with profound psychological depth, social consciousness, and spiritual inquiry.

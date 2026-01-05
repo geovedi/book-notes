@@ -1,5 +1,6 @@
 # Seeking Wisdom: From Darwin to Munger
 **Author**: Peter Bevelin | **Year**: 2007
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Seeking Wisdom" is a multidisciplinary exploration of what makes people think and act the way they do, drawing insights from Charles Darwin's evolutionary theories and Charlie Munger's practical wisdom. The book reveals how our brains are wired for survival rather than truth, causing systematic errors in judgment and decision-making. Bevelin synthesizes findings from psychology, biology, physics, and mathematics to create a framework for better thinking.

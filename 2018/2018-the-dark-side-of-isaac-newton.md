@@ -1,6 +1,6 @@
 # The Dark Side of Isaac Newton: Science's Greatest Fraud?
 **Original Title**: The Dark Side of Isaac Newton: Science's Greatest Fraud?
-**Author**: Nick Kollerstrom | **Year**: 2018
+**Author**: Nick Kollerstrom | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 This explosive revisionist biography challenges everything you thought you knew about Isaac Newton, arguing that Britain's greatest scientific hero was actually a systematic fraud who built his legendary status through deception, intellectual theft, and character assassination. Kollerstrom meticulously examines Newton's major "discoveries" and concludes that Newton neither discovered universal gravitation nor invented calculus, instead appropriating credit from others while systematically destroying the reputations of rivals who challenged him.

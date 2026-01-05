@@ -1,5 +1,5 @@
 # Journeys Through Space and Time
-**Authors**: Various (Royal Institution Christmas Lecturers) | **Year**: 2016
+**Authors**: Various (Royal Institution Christmas Lecturers) | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This captivating book chronicles over 130 years of the Royal Institution's Christmas Lectures on space and time, showcasing how our understanding of the cosmos has evolved from Victorian telescope observations to modern space exploration. The lectures capture the wonder of scientific discovery through demonstrations, experiments, and the gradual unveiling of the universe's mysteries. From early astronomers who could only dream of reaching the moon to contemporary scientists communicating with astronauts aboard the International Space Station, this collection reveals humanity's relentless quest to understand our place in the cosmos.

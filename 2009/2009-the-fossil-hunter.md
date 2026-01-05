@@ -1,5 +1,6 @@
 # The Fossil Hunter
 **Authors**: Shelley Emling | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "The Fossil Hunter" tells the remarkable story of Mary Anning, a working-class English girl who became one of the most influential paleontologists of the 19th century despite overwhelming social barriers. Born in 1799 in Lyme Regis, Anning discovered the first complete ichthyosaur skeleton at age 12, the first plesiosaur in 1823, and several other groundbreaking fossils that fundamentally challenged biblical views of Earth's history. Her discoveries laid the groundwork for Darwin's theory of evolution and transformed our understanding of prehistoric life.

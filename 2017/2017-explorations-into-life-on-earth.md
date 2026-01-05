@@ -1,5 +1,6 @@
 # Explorations into Life on Earth
 **Authors**: Edited by [Editor name not specified in text] | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 This captivating book celebrates nearly 200 years of the Royal Institution's Christmas Lectures, focusing on the wonders of life on our planet. Through the eyes of eminent scientists who delivered these lectures from 1911 to modern times, readers journey into the intricate world of animals, insects, ecosystems, and evolutionary marvels. The book reveals how scientific understanding of life has evolved from simple species classification to complex ecological thinking, while highlighting growing concerns about human impacts on natural systems.

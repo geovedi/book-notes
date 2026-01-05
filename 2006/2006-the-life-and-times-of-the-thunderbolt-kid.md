@@ -1,5 +1,5 @@
 # The Life and Times of the Thunderbolt Kid
-**Author**: Bill Bryson | **Year**: 2006
+**Author**: Bill Bryson | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 Bill Bryson's hilarious and heartwarming memoir chronicles his childhood in Des Moines, Iowa during the 1950s—a seemingly ordinary time that was, for both Bryson and America, "the most fearful, thrilling, interesting, instructive, eye-popping, lustful, eager, troubled, untroubled, confused, serene, and unnerving time" of life. Through the lens of his alter ego, the Thunderbolt Kid (a superhero with X-ray vision and the power to vaporize annoying people), Bryson transforms everyday Midwestern childhood into an epic adventure.

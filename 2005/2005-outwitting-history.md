@@ -1,5 +1,5 @@
 # Outwitting History
-**Author**: Aaron Lansky | **Year**: 2005
+**Author**: Aaron Lansky | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 This incredible true story follows Aaron Lansky, a young graduate student who stumbles upon an emergency call about thousands of Yiddish books being thrown into a Dumpster on Sixteenth Street. That midnight call launches him on an unexpected quest to rescue the world's Yiddish literature from extinction. What begins as a desperate search for books for his studies evolves into a lifelong mission that would ultimately save over 1.5 million volumes and preserve an entire civilization's cultural heritage.

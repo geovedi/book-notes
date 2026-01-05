@@ -1,5 +1,6 @@
 # In the Land of Invented Languages
 **Author**: Arika Okrent | **Year**: 2009
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "In the Land of Invented Languages" is a fascinating exploration of the 900+-year history of artificial languages, from medieval mystical tongues to modern Klingon. Linguist Arika Okrent takes readers on a journey through the ambitions, eccentricities, and ultimate failures of language inventors who dreamed of creating perfect communication systems—only to discover that language's "flaws" are actually its greatest strengths.

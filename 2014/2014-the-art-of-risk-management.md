@@ -1,5 +1,5 @@
 # The Art of Risk Management
-**Authors**: Damon S. Lundqvist | **Year**: 2014
+**Authors**: Damon S. Lundqvist | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 The Art of Risk Management is a practical guide that transforms fear from a paralyzing force into a manageable aspect of business and life. Lundqvist presents risk management as a systematic approach to identifying, assessing, and mitigating threats while maintaining the confidence to pursue opportunities. The book argues that successful entrepreneurs and leaders don't avoid risks—they learn to manage them effectively through structured processes and strategic thinking.

@@ -1,5 +1,6 @@
 # The Man Who Spoke Snakish
 **Original Title**: Mees, kes teadis ussisõnu | **Authors**: Andrus Kivirähk | **Year**: 2007 (English translation 2015)
+**Category**: Fiction & Literature
 
 ## Summary
 "The Man Who Spoke Snakish" is a darkly whimsical coming-of-age tale set in medieval Estonia, following Leemet, one of the last remaining speakers of the ancient Snakish language that allows humans to communicate with animals. As Leemet grows up in the forest, he witnesses the gradual erosion of his people's traditional way of life as they abandon their forest homes for Christian villages and agricultural life. The novel explores themes of cultural extinction, identity, and the clash between ancient wisdom and modern civilization through Leemet's journey from forest dweller to reluctant villager.

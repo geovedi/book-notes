@@ -1,5 +1,6 @@
 # The Sun Also Rises
 **Authors**: Ernest Hemingway | **Year**: 1926
+**Category**: Fiction & Literature
 
 ## Summary
 "The Sun Also Rises" follows Jake Barnes, an American expatriate and World War I veteran working as a journalist in Paris, and his entanglement with the captivating Lady Brett Ashley. Jake suffers from a war injury that has left him impotent, creating a tragic barrier to his love for Brett. The novel captures the aimless, disillusioned lifestyle of the "Lost Generation" - American and British expatriates who wander through Paris cafes and Spanish fiestas, searching for meaning in a world shattered by war.

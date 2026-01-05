@@ -1,5 +1,5 @@
 # Originals: How Non-Conformists Move the World
-**Authors**: Adam Grant, Sheryl Sandberg | **Year**: 2016
+**Authors**: Adam Grant, Sheryl Sandberg | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Originals" shatters the myth that creativity and innovation are reserved for a select few. Adam Grant demonstrates that originality is not a fixed trait but a choice available to anyone willing to question defaults, champion novel ideas, and take calculated risks. The book reveals how successful non-conformists—from entrepreneurs to activists to artists—don't necessarily take bigger risks than others; they just manage them differently.

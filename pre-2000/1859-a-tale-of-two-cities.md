@@ -1,5 +1,6 @@
 # A Tale of Two Cities
 **Authors**: Charles Dickens | **Year**: 1859
+**Category**: Fiction & Literature
 
 ## Summary
 Set against the brutal backdrop of the French Revolution, Dickens' masterpiece weaves a tale of sacrifice, redemption, and resurrection across two cities: London and Paris. The story follows Dr. Alexandre Manette, released after 18 years of unjust imprisonment in the Bastille, and his daughter Lucie whose love becomes the "golden thread" connecting those around her. When French aristocrat Charles Darnay (who bears a dark connection to Dr. Manette's past) faces execution during the Reign of Terror, the dissolute English lawyer Sydney Carton makes the ultimate sacrifice to save the man Lucie loves—a sacrifice born of his unrequited love for her.

@@ -1,6 +1,7 @@
 # Stronger Than You Think: The Book for People Who Think Something Is Wrong with Their Relationship
 **Original Title**: Крепче, чем ты думаешь. Книга для тех, кто считает, что с их отношениями что-то не так
-**Author**: Gary W. Lewandowski Jr. PhD | **Year**: 2021 
+**Author**: Gary W. Lewandowski Jr. PhD | **Year**: 2021
+**Category**: Romance & Relationships 
 
 ## Summary
 "Stronger Than You Think" is a science-based guide to relationships that challenges common myths and misconceptions about love. Dr. Gary Lewandowski Jr., a relationship psychologist, reveals how our blind spots—unconscious biases and false assumptions—sabotage our relationships. The book draws on over 350 scientific studies to show that most relationships are stronger than we think, but our tendency to focus on problems rather than strengths prevents us from seeing their true value.

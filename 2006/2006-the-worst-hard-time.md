@@ -1,5 +1,5 @@
 # The Worst Hard Time
-**Author**: Timothy Egan | **Year**: 2006
+**Author**: Timothy Egan | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "The Worst Hard Time" tells the untold story of those who survived the Great American Dust Bowl, focusing on the families who stayed behind rather than fleeing to California. Through intimate portraits of resilience and endurance, Egan reveals how a perfect storm of environmental destruction, economic desperation, and human hubris turned the once-fertile High Plains into a wasteland of choking dust. The book follows multiple families—including the Osteens, Whites, Shaws, and Folkers—through their daily struggles against nature's fury, poverty, and despair.

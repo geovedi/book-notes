@@ -1,6 +1,7 @@
 # Old Stones of the Cotswolds and Forest of Dean
 **Original Title**: Old Stones of the Cotswolds & Forest of Dean
 **Author**: D.P. Sullivan | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 This comprehensive survey explores the ancient megalithic stones scattered across Gloucestershire's Cotswolds and Forest of Dean regions. While the county appears sparse in prehistoric monuments on official maps, the reality reveals a rich legacy of standing stones, lost megaliths, boundary markers, and sacred rocks that have shaped the landscape for millennia. Sullivan combines archaeological research with local folklore, earth mysteries theories, and personal field investigations to document 41 stone sites, many of which have been lost, destroyed, or repurposed over centuries.

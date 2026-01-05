@@ -1,5 +1,5 @@
 # The Hermeneutics of the Subject
-**Authors**: Michel Foucault | **Year**: 2005 ( lectures from 1981-1982)
+**Authors**: Michel Foucault | **Year**: 2005 ( lectures from 1981-1982) | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Hermeneutics of the Subject" presents Michel Foucault's revolutionary analysis of how ancient philosophy conceived the relationship between self-knowledge and the care of the self. Through his 1981-1982 lectures at the Collège de France, Foucault challenges the traditional philosophical emphasis on "know yourself" (gnōthi seauton) by demonstrating that this maxim was historically subordinate to the more fundamental principle of "care of the self" (epimeleia heautou). This reorientation reveals a rich tradition of practices, techniques, and social relationships dedicated to the cultivation of the self as an ongoing activity throughout life.

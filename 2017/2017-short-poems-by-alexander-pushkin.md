@@ -1,5 +1,6 @@
 # 2017 Short Poems by Alexander Pushkin
 **Original Title**: Короткие стихи (Korotkiye stikhi) | **Authors**: Alexander Pushkin | **Year**: 2017 (Delphi Classics Edition)
+**Category**: Fiction & Literature
 
 ## Summary
 This collection showcases Alexander Pushkin, Russia's greatest poet and founder of modern Russian literature, through his finest lyrical poems. Born in 1799 into nobility, Pushkin published his first poem at fifteen and was recognized as a poetic genius by graduation. Though censored and exiled by the Tsar's regime, he developed a nuanced language that influenced Russian literature like Shakespeare influenced English.

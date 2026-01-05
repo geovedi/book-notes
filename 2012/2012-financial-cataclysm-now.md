@@ -1,5 +1,6 @@
 # Financial Cataclysm Now!
 **Authors**: John Piper | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 This book serves as a stark warning about an impending global financial collapse that the author predicted would affect stock and property markets worldwide. Written by an experienced trader who accurately forecast the 2007 crisis, Piper argues that the fundamental problems of excessive debt and inflated asset values remain unresolved, making an even greater financial cataclysm inevitable.

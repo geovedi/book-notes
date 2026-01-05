@@ -1,5 +1,6 @@
 # Wonderful Life
 **Author**: Stephen Jay Gould | **Year**: 1989
+**Category**: Science & Nature
 
 ## Summary
 "Wonderful Life" explores the extraordinary fossils of the Burgess Shale, a 505-million-year-old geological formation that preserved soft-bodied organisms from the Cambrian explosion. Through meticulous scientific detective work, paleontologists Harry Whittington, Simon Conway Morris, and Derek Briggs revealed that these ancient creatures were far stranger and more diverse than anyone had imagined. Many represented entirely extinct body plans that would have ranked as separate animal phyla. This discovery forces us to confront the profound role of contingency in evolution—the idea that life's history is a series of unpredictable events where small changes could have produced radically different outcomes.

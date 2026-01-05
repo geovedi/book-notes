@@ -1,5 +1,6 @@
 # Furiously Happy
 **Author**: Jenny Lawson | **Year**: 2015
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Furiously Happy" is a hilarious and brutally honest memoir about living with mental illness, written by blogger Jenny Lawson. The book chronicles her journey with depression, anxiety disorders, and various compulsions while finding strength through choosing happiness as an act of rebellion against her conditions. Lawson coined the term "furiously happy" to describe embracing joy with such intensity that it becomes a powerful weapon against mental health struggles.

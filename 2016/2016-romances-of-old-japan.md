@@ -1,6 +1,6 @@
 # Romances of Old Japan
 **Original Title**: 日本の古いロマンス (Nihon no Furui Romansu)
-**Authors**: Madame Yukio Ozaki | **Year**: 2016
+**Authors**: Madame Yukio Ozaki | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 "Romances of Old Japan" is a captivating collection of traditional Japanese tales rendered into English from Japanese sources by Madame Yukio Ozaki. These stories transport readers to feudal Japan, weaving together themes of love, loyalty, honor, sacrifice, and supernatural encounters. Each narrative explores the depths of human emotion through the lens of Japanese cultural values and Buddhist philosophy, particularly the concept of reincarnation and the enduring power of love across lifetimes.

@@ -1,5 +1,5 @@
 # Algorithms To Live By
-**Authors**: Brian Christian, Tom Griffiths | **Year**: 2016
+**Authors**: Brian Christian, Tom Griffiths | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 "Algorithms To Live By" reveals how computer science can provide practical wisdom for everyday human decisions. The authors demonstrate that many of life's toughest decisions—from when to stop searching for an apartment to how to balance trying new restaurants versus enjoying old favorites—are actually computational problems that have been studied for decades. What makes this book profound is its revelation that the best algorithms aren't about finding perfect solutions through exhaustive analysis, but about making smart tradeoffs given limited time, information, and cognitive resources.

@@ -1,5 +1,6 @@
 # Netochka Nezvanova
 **Original Title**: Неточка Незванова | **Author**: Fyodor Dostoyevsky | **Year**: 1849
+**Category**: Fiction & Literature
 
 ## Summary
 "Netochka Nezvanova" is Dostoyevsky's unfinished autobiographical novel that follows the emotional and psychological development of a young orphan girl from childhood through adolescence. The story explores themes of artistic passion, social isolation, forbidden love, and the complex dynamics within dysfunctional families. Through Netochka's journey, we witness the transformative power of music, literature, and human connection amidst suffering and misunderstanding.

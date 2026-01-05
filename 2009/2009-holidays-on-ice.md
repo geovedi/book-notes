@@ -1,5 +1,6 @@
 # Holidays on Ice
 **Author**: David Sedaris | **Year**: 2009
+**Category**: Fiction & Literature
 
 ## Summary
 "Holidays on Ice" is a wickedly funny collection of holiday-themed essays that exposes the absurdity beneath our most cherished traditions. Through his signature blend of self-deprecation and sharp social commentary, Sedaris transforms from a down-on-his-luck writer working as a Macy's elf to a keen observer of cultural misfits and holiday hypocrisies.

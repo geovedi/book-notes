@@ -1,6 +1,7 @@
 # Thriving Through Transformation: The Evolution and Rebirth of a Chinese Enterprise
 **Original Title**: 生生不息：一个中国企业的进化与转型
 **Author**: 范海涛 | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "Thriver Through Transformation" tells the remarkable story of how Lei Jun returned to rescue Kingsoft, a once-glorious Chinese software company that was on the brink of extinction. The book chronicles the decade-long transformation journey from 2011 to 2021, demonstrating how a traditional software company successfully pivoted to become a thriving internet enterprise through bold strategic reforms and unwavering determination.

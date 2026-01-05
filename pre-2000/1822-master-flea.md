@@ -1,6 +1,7 @@
 # Master Flea
 **Original Title**: Meister Floh
 **Author**: E.T.A. Hoffmann | **Year**: 1822
+**Category**: Fiction & Literature
 
 ## Summary
 Master Flea is a fantastical novella that tells the story of Peregrine Tyss, a reclusive 36-year-old man who lives in childish seclusion, maintaining Christmas traditions meant for children despite his age. Peregrine has an unusual aversion to women and commerce, preferring to live in a world of imagination and dreams. His life takes a magical turn when he encounters a mysterious flea who can change size and speak, and becomes entangled in a supernatural world of princesses, transformations, and romantic entanglements.

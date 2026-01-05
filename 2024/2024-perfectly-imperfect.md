@@ -1,6 +1,7 @@
 # Perfectly Imperfect
 **Original Title**: Beperkt Volmaakt
 **Authors**: Jolanda Doornbos | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Perfectly Imperfect" is a powerful memoir that follows Ann van Wijck from early childhood through her eighteenth year as she navigates life with intellectually disabled parents. Growing up as an only child, Ann doesn't initially understand her parents' limitations—she simply accepts them as they are. Her grandfather (opa) lives next door and serves as her anchor, providing the stability, love, and guidance that's missing at home. The story takes a dramatic turn when her grandfather dies just before her eighth birthday, leaving Ann to find her own way through a world that often misunderstands both her and her family situation.

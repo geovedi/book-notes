@@ -1,5 +1,6 @@
 # Cranioklepty: Grave Robbing and the Search for Genius
 **Authors**: Colin Dickey | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "Cranioklepty" tells the fascinating and macabre story of skull theft in 18th and 19th century Europe, driven by the pseudoscience of phrenology. The book centers around the bizarre case of composer Joseph Haydn, whose head was stolen from his grave just days after burial in 1809, sparking a century-long search. Through this story and others, Dickey explores how the quest to understand genius through physical evidence led to grave robbing, scientific fraud, and a cultural obsession with the remains of great minds.

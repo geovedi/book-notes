@@ -1,5 +1,6 @@
 # Entrepreneurship Secrets
 **Authors**: Abdul Vasi | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Entrepreneurship Secrets" is a practical, no-nonsense guide to building a successful business by mastering employee management and leadership. Unlike theoretical business books, this handbook provides real-world solutions to the everyday challenges entrepreneurs face when managing teams. The author argues that the hardest part of entrepreneurship isn't starting a company—it's creating a positive work culture, inspiring employees, and handling human relationships effectively.

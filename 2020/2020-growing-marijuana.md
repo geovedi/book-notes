@@ -1,6 +1,7 @@
 # Growing Marijuana: Beginner's Guide to Indoor and Outdoor Cannabis Cultivation
 
 **Authors**: Ronald Weedley, Harry Pot and Hermione Ganja | **Year**: 2020
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive guide transforms cannabis cultivation from an intimidating mystery into an accessible hobby for anyone interested in growing their own marijuana. The book demystifies the entire growing process, from understanding legal requirements and selecting seeds to harvesting and curing your homegrown cannabis. Whether you have a spacious backyard or just a small closet, this guide provides practical strategies for every growing situation.

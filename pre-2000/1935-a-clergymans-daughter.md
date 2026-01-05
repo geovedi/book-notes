@@ -1,5 +1,6 @@
 # A Clergyman's Daughter
 **Authors**: George Orwell | **Year**: 1935
+**Category**: Fiction & Literature
 
 ## Summary
 Dorothy Hare is the overworked, underappreciated daughter of a self-absorbed country rector, trapped in a life of tedious parish duties and financial hardship. After a mysterious episode of memory loss, she finds herself homeless in London, experiencing life as a beggar and itinerant farm worker before eventually returning to her former existence. The novel traces her harrowing journey through poverty and despair, culminating in her return to a faith she can no longer believe in and a life of duty she must endure without the spiritual conviction that once sustained her.

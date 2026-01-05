@@ -1,5 +1,6 @@
 # City of Light, City of Poison
 **Author**: Holly Tucker | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 In the glittering court of Louis XIV's Paris, a sinister network of poisoners, fortunetellers, and abortionists operated in the city's shadows, serving nobles desperate to eliminate rivals or secure advantages. When these crimes began creeping toward the royal court itself, the King appointed Gabriel Nicolas de La Reynie as Paris's first police chief to investigate what would become known as the "Affair of the Poisons." This gripping historical narrative reveals how La Reynie's relentless pursuit of justice uncovered a conspiracy that reached the highest levels of French society, threatening to expose the King's own mistress, Madame de Montespan.

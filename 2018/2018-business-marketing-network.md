@@ -1,5 +1,6 @@
 # Business Marketing Network: Tips and Tricks to Maximize Profits
 **Authors**: Larry Ellison | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies marketing and networking for business owners who want to take control of their promotional efforts without breaking the bank. The book emphasizes that effective marketing isn't about big budgets—it's about smart strategies, authentic connections, and knowing where to focus your energy for maximum return on investment.

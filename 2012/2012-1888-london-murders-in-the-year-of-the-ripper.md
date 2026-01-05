@@ -1,5 +1,6 @@
 # 1888: London Murders in the Year of the Ripper
 **Author**: Peter Stubley | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 This compelling historical study examines 122 homicide cases from 1888 London—the infamous "Year of the Ripper"—revealing how murder served as both mirror and catalyst for Victorian society's transformation. While Jack the Ripper dominated headlines, Stubley systematically documents the full spectrum of violence, from domestic tragedies to gang killings, workplace disputes to cases of madness. Each case becomes a window into the social, economic, and cultural forces shaping late-Victorian Britain at the height of its imperial power.

@@ -1,5 +1,6 @@
 # The Language Instinct
 **Authors**: Steven Pinker | **Year**: 1994
+**Category**: Science & Nature
 
 ## Summary
 Steven Pinker revolutionizes our understanding of language by arguing that it's not a cultural invention but a biological instinct hardwired into our brains. Language emerges naturally in children without formal instruction, exists in all human societies regardless of technological development, and follows universal patterns that suggest a common underlying mental structure. Pinker dismantles common misconceptions about language—such as the idea that English grammar is deteriorating or that different languages create different ways of thinking—while revealing the elegant complexity hidden beneath everyday speech.

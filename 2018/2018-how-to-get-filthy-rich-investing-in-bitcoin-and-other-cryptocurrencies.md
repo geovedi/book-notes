@@ -1,5 +1,6 @@
 # How to Get Filthy Rich Investing in Bitcoin and Other Cryptocurrencies
 **Authors**: Maxwell Emerson | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies cryptocurrency investing for beginners and experienced investors alike, focusing on Bitcoin as the gateway to digital wealth. The book explains how cryptocurrencies work, why they represent a revolutionary shift in finance, and provides practical strategies for building substantial wealth through digital currency investments. Emerson makes the case that despite Bitcoin's already impressive growth, it's not too late for investors to position themselves for significant returns as cryptocurrencies move toward mainstream adoption.

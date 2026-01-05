@@ -1,5 +1,6 @@
 # The Sheik
 **Authors**: E.M. Hull | **Year**: 1919
+**Category**: Romance & Relationships
 
 ## Summary
 Diana Mayo, an independent, strong-willed English aristocrat raised like a boy by her indifferent brother, defies social conventions to embark on a solo desert journey through North Africa. Haughty, beautiful, and utterly fearless, she scorns romance and traditional feminine roles, seeking only adventure in the exotic Sahara.

@@ -1,5 +1,6 @@
 # Gravitational Waves
 **Authors**: Brian Clegg | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 "Gravitational Waves" tells the remarkable story of how Einstein's seemingly impossible prediction of ripples in spacetime was finally confirmed a century later, opening an entirely new window onto the universe. The book chronicles the 50-year quest to detect these cosmic vibrations, from early theoretical skepticism to the triumphant 2015 discovery that transformed astronomy forever.

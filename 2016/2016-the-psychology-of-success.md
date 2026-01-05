@@ -1,5 +1,5 @@
 # The Psychology of Success
-**Authors**: Alison Price, David Price | **Year**: 2016
+**Authors**: Alison Price, David Price | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 The Psychology of Success presents a comprehensive A-Z guide to achieving genuine fulfillment and accomplishment by combining insights from four disciplines: traditional psychology, positive psychology, motivational coaching, and sports psychology. The book challenges conventional wisdom about success by revealing that achieving goals alone doesn't guarantee happiness—what matters is setting the right goals and enjoying both the journey and destination.

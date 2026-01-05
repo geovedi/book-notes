@@ -1,6 +1,7 @@
 # The History of the Thirty Years War
 **Original Title**: Geschichte des dreißigjährigen Kriegs
 **Authors**: Friedrich Schiller | **Year**: 1791
+**Category**: History & Biography
 
 ## Summary
 Friedrich Schiller's comprehensive history examines the devastating conflict that reshaped European politics from 1618-1648. This Thirty Years War began as a religious dispute between Protestants and Catholics in the Holy Roman Empire but evolved into a continental power struggle involving nearly every major European state. Schiller masterfully analyzes how the Reformation created new political alliances, how the House of Habsburg's ambition for universal monarchy threatened European freedom, and how religious fervor became a tool for political expansion.

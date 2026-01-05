@@ -1,5 +1,6 @@
 # Robin Hood
 **Authors**: Paul Creswick | **Year**: 1917
+**Category**: Children & Young Adult
 
 ## Summary
 This timeless tale follows Robin Hood, the legendary outlaw of Sherwood Forest, who begins as Robin Fitzooth, son of the King's Ranger of Locksley. After his father is killed by corrupt officials and his lands are seized, Robin is forced into outlawry, where he gathers a band of Merry Men to fight injustice and protect the common folk from tyrannical nobles and clergy. The story follows his journey from exiled youth to Earl of Huntingdon, his love for Maid Marian, his allegiance to King Richard the Lionheart, and ultimately his tragic betrayal and death.

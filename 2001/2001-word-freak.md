@@ -1,5 +1,5 @@
 # Word Freak
-**Author**: Stefan Fatsis | **Year**: 2001
+**Author**: Stefan Fatsis | **Year**: 2001 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Word Freak" is journalist Stefan Fatsis's immersive journey into the surprisingly intense and obsessive world of competitive Scrabble. What begins as a casual New Year's resolution to become a better Scrabble player evolves into a multi-year odyssey that transforms Fatsis from a "good living room player" into a serious tournament competitor. Along the way, he discovers that competitive Scrabble is far more than just a word game—it's a subculture filled with brilliant eccentics, mathematical geniuses, memorization freaks, and people who dedicate their lives to mastering every acceptable word in the dictionary.

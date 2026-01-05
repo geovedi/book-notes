@@ -1,5 +1,5 @@
 # The Definitive Guide to Mastering Bitcoin & Cryptocurrencies
-**Authors**: Wayne Walker | **Year**: 2018
+**Authors**: Wayne Walker | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide demystifies Bitcoin and cryptocurrency trading, walking readers from fundamental blockchain concepts to practical trading strategies. Wayne Walker provides a complete roadmap for understanding how cryptocurrencies work, the technology behind them, and how to approach trading with confidence. The book balances technical explanations with actionable trading advice, making complex concepts accessible while maintaining practical relevance for both beginners and intermediate traders.

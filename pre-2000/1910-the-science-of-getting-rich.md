@@ -1,5 +1,6 @@
 # The Science of Getting Rich
 **Authors**: Wallace D. Wattles | **Year**: 1910
+**Category**: Business & Finance
 
 ## Summary
  Wallace D. Wattles presents a revolutionary approach to wealth creation that transforms getting rich from a competitive struggle into a creative science. The book argues that there's an exact science to acquiring wealth, governed by specific laws that anyone can learn and apply with mathematical certainty. Wattles introduces the concept of a "Formless Substance" or "Thinking Stuff" from which all things are made, and explains how our thoughts directly influence this substance to create tangible results. The core premise is that getting rich isn't about competing for limited resources, but about creating new wealth through the power of thought, gratitude, and purposeful action.

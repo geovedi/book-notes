@@ -1,5 +1,6 @@
 # Secrets of Business Plan Writing
 **Authors**: Andre Besedin | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the business planning process by providing a comprehensive framework for creating effective business plans that serve both as internal roadmaps and external financing tools. The book approaches business planning as a dynamic, living document that should guide business operations while securing necessary funding.

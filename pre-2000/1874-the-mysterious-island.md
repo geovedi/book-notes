@@ -1,5 +1,6 @@
 # The Mysterious Island
 **Original Title**: L'Île mystérieuse | **Authors**: Jules Verne | **Year**: 1874
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This epic adventure novel follows five prisoners of war who escape a Confederate prison camp during the American Civil War by hijacking a balloon. Swept away by a massive hurricane, they crash-land on a mysterious, uncharted island in the Pacific Ocean. Led by the brilliant engineer Cyrus Smith, the castaways—reporter Gideon Spilett, sailor Pencroff, young Herbert Brown, and Smith's loyal servant Neb—must transform this hostile environment into a thriving colony using their ingenuity, scientific knowledge, and unwavering courage.

@@ -1,5 +1,5 @@
 # Sustainable & Responsible Investing 360°
-**Authors**: R. Scott Arnell | **Year**: 2022
+**Authors**: R. Scott Arnell | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 Sustainable & Responsible Investing 360° is a comprehensive guide to investing that generates both competitive financial returns and positive social/environmental impact. Based on interviews with 25 world-class investors managing trillions in assets, the book presents SRI not as a niche approach, but as the future of mainstream investing. Arnell argues that solving global challenges like climate change, inequality, and resource scarcity requires massive capital mobilization—and that investors can profit while creating positive change.

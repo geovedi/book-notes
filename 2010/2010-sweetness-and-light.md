@@ -1,5 +1,5 @@
 # Sweetness and Light
-**Authors**: Hattie Ellis | **Year**: 2010
+**Authors**: Hattie Ellis | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Sweevness and Light" reveals the astonishing 200-million-year relationship between humans and honeybees, showing how this tiny insect has shaped human civilization, religion, science, and culture. Ellis traces the honeybee's journey from prehistoric honey-hunting through ancient Egyptian beekeeping, scientific revolution discoveries, American frontier expansion, to today's environmental challenges. The book presents honeybees not merely as honey producers, but as creatures that have influenced everything from our earliest spiritual beliefs to modern scientific discovery, serving as mirrors for human society and indicators of planetary health.

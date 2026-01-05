@@ -1,5 +1,5 @@
 # Practical Blogging for Everybody
-**Author**: Anthony Ekanem | **Year**: 2016
+**Author**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the process of creating and monetizing a successful blog, walking readers through the technical setup, content creation, and revenue generation strategies. The book positions blogging as a timeless online business strategy that remains valuable despite the rise of social media platforms.

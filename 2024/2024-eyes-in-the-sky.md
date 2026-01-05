@@ -1,5 +1,6 @@
 # Eyes in the Sky: How Space Telescopes Are Revolutionizing Our View of the Universe
 **Authors**: Andrew May | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 "Eyes in the Sky" explores how space-based telescopes have transformed our understanding of the universe, from Hubble's stunning images of distant galaxies to Webb's infrared insights into cosmic dawn. The book explains the technology behind these remarkable instruments while showcasing their most profound discoveries – revealing thousands of exoplanets, measuring the universe's expansion, detecting the cosmic microwave background, and capturing light from the earliest galaxies. May makes complex astronomical concepts accessible, showing how space telescopes overcome Earth's atmospheric limitations to give us unprecedented views of cosmic phenomena.

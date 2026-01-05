@@ -1,5 +1,5 @@
 # Fooled by Randomness
-**Author**: Nassim Nicholas Taleb | **Year**: 2001
+**Author**: Nassim Nicholas Taleb | **Year**: 2001 | **Category**: Business & Finance
 
 ## Summary
 "Fooled by Randomness" reveals the hidden role of chance in life, markets, and success. Taleb argues that humans systematically mistake luck for skill, creating dangerous distortions in how we evaluate decisions, people, and outcomes. We confuse randomness with causation, see patterns where none exist, and ignore the massive role that rare events (black swans) play in shaping history and personal fortunes.

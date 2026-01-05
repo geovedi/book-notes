@@ -1,5 +1,5 @@
 # Bitcoin From Beginner To Expert
-**Authors**: Christian Newman | **Year**: 2018
+**Authors**: Christian Newman | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Bitcoin From Beginner To Expert" is a comprehensive guide that demystifies the world of cryptocurrency and blockchain technology for newcomers. The book covers Bitcoin's fundamental concepts, historical development, practical applications, and investment strategies. Written during Bitcoin's explosive growth period (2016-2017), it captures both the technological innovation and the investment frenzy that characterized the early cryptocurrency era.

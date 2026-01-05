@@ -1,6 +1,7 @@
 # Journey by Moonlight
 **Original Title**: Utas és Holdvilág
 **Authors**: Antal Szerb | **Year**: 1937
+**Category**: Fiction & Literature
 
 ## Summary
 Journey by Moonlight follows Mihály, a thirty-six-year-old Hungarian man on his honeymoon in Italy with his wife Erzsi, when he suddenly abandons her to embark on a quest for meaning and connection to his past. During their time in Venice, Mihély becomes fascinated with the city's back-alleys, which represent his longing for a more intimate, mysterious existence. This leads him to disappear from Erzsi, setting in motion a psychological journey through Italy and his own memories of a circle of friends from his youth—including the tragic Tamás Ulpius and the enigmatic Éva—that ultimately challenges his understanding of life, love, and death.

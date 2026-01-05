@@ -1,5 +1,6 @@
 # Made to Stick
 **Authors**: Chip Heath, Dan Heath | **Year**: 2007
+**Category**: Business & Finance
 
 ## Summary
 "Made to Stick" reveals why some ideas thrive while others die, introducing the SUCCES framework—six principles that make ideas memorable and impactful. The Heath brothers demonstrate that stickiness isn't about luck or inherent brilliance; it's about understanding how the human brain processes information and crafting messages accordingly.

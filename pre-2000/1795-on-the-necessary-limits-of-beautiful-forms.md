@@ -1,6 +1,7 @@
 # On the Necessary Limits of Beautiful Forms
 **Original Title**: Ueber die nothwendigen Grenzen beim Gebrauch schöner Formen
-**Author**: Friedrich Schiller | **Year**: 1795 
+**Author**: Friedrich Schiller | **Year**: 1795
+**Category**: Art & Creativity 
 
 ## Summary
 Friedrich Schiller's philosophical essay explores the proper boundaries and limitations of using beautiful forms in communication and education. Written in 1795, this work examines how aesthetic beauty should and should not be employed in the pursuit of knowledge, moral development, and intellectual discourse. Schiller argues that while beautiful forms can make content more accessible and appealing, they have specific limitations that must be respected to maintain intellectual rigor and moral integrity.

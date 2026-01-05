@@ -1,5 +1,6 @@
 # You're Never Weird on the Internet (Almost)
 **Author**: Felicia Day | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 Felicia Day's memoir chronicles her journey from a homeschooled child prodigy who found her voice in online gaming communities to becoming a pioneering creator of web content and an unlikely internet celebrity. The book captures her experience of being "weird" in a world that often demands conformity, and how she turned that weirdness into strength by creating her own path in the entertainment industry.

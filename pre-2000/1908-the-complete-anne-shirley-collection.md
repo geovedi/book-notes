@@ -1,5 +1,6 @@
 # The Complete Anne Shirley Collection
 **Authors**: Lucy Maud Montgomery | **Year**: 1908-1921
+**Category**: Children & Young Adult
 
 ## Summary
 This beloved collection follows the life of Anne Shirley, a spirited, imaginative red-haired orphan who transforms the lives of everyone she meets. From her accidental arrival at Green Gables farm through her journey to womanhood, teacher, wife, and mother, Anne's story captures the magic of finding beauty in everyday life, the power of imagination, and the enduring strength of love and friendship. Set against the picturesque backdrop of Prince Edward Island, these chronicles have enchanted readers for over a century with their blend of humor, heart, and profound wisdom about growing up, finding one's place in the world, and the extraordinary in the ordinary.

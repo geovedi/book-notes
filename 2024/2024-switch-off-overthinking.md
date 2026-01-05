@@ -1,5 +1,6 @@
 # Switch Off Overthinking: 33 Ways to Calm Your Thoughts, Reduce Stress, Stop Negative Spirals, and Improve Mental Clarity
 **Authors**: Chase Hill | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 

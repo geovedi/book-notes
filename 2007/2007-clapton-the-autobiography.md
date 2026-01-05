@@ -1,5 +1,6 @@
 # 2007-Clapton-The-Autobiography
 **Authors**: Eric Clapton | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # Introduction to Physical & Online Real Estate
 **Authors**: Small Business Revolution | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This guide offers a dual perspective on real estate success, combining traditional property sales tactics with modern digital asset investment strategies. The book frames website flipping through the lens of house flipping—buying undervalued assets, improving them strategically, and selling for profit while generating ongoing income streams. It provides practical frameworks for real estate agents to build sustainable businesses through relationship-building, market knowledge, and technological adaptation, while also offering a 10-step blueprint for buying and selling websites as profitable digital investments.

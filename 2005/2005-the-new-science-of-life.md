@@ -1,5 +1,5 @@
 # The New Science of Life
-**Authors**: Rupert Sheldrake | **Year**: 2005
+**Authors**: Rupert Sheldrake | **Year**: 2005 | **Category**: Science & Nature
 
 ## Summary
 Rupert Sheldrake's "A New Science of Life" presents a revolutionary challenge to conventional biological science by proposing the hypothesis of formative causation. The book argues that nature is not governed by eternal, unchanging laws but is instead habitual - that all living organisms, crystals, and even molecules draw upon and contribute to a collective memory of their species through a process called morphic resonance.

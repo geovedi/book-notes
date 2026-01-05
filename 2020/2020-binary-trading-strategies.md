@@ -1,5 +1,6 @@
 # Binary Trading Strategies: A Quick Guide to Profit-Making Techniques
 **Authors**: Wayne Walker | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 Binary trading strategies demystify the world of binary options, providing traders with practical techniques to maximize profits while minimizing risks. This comprehensive guide covers everything from fundamental analysis to technical indicators, offering both manual and automated trading approaches. The book emphasizes that binary options are "all or nothing" instruments where traders either win a fixed amount or lose their entire investment, making strategy and risk management crucial.

@@ -1,5 +1,5 @@
 # Affiliate Marketing 2018
-**Authors**: Cynthia Lyne | **Year**: 2018
+**Authors**: Cynthia Lyne | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies affiliate marketing as a viable side hustle for creative entrepreneurs and busy professionals looking to generate passive income. The book positions affiliate marketing not as a get-rich-quick scheme, but as a "make a little bit of money pretty slowly over time" strategy that can grow significantly with persistence.

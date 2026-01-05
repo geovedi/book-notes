@@ -1,6 +1,6 @@
 # African Pottery Roulettes Past and Present
 **Original Title**: African Pottery Roulettes Past and Present: Techniques, Identification and Distribution
-**Editors**: Anne Haour, Olivier Gosselain, Kevin MacDonald, Katie Manning, Alexandre Livingstone Smith | **Year**: 2010
+**Editors**: Anne Haour, Olivier Gosselain, Kevin MacDonald, Katie Manning, Alexandre Livingstone Smith | **Year**: 2010 | **Category**: Art & Creativity
 
 ## Summary
 This comprehensive academic work examines the fascinating tradition of roulette decoration in African pottery - a technique where various objects are impressed onto clay vessels before firing. The book presents a revolutionary approach focusing on the tools (the "cause") rather than just the decorative patterns (the "effect"), offering archaeologists a systematic framework for identifying and classifying these decorative implements that have been used across Africa for millennia.

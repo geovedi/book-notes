@@ -1,5 +1,5 @@
 # Feathers: The Evolution of a Natural Miracle
-**Author**: Thor Hanson | **Year**: 2011
+**Author**: Thor Hanson | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 Thor Hanson's "Feathers" is a comprehensive exploration of one of nature's most remarkable evolutionary innovations. Through engaging storytelling and scientific investigation, Hanson reveals how feathers evolved from simple filaments in dinosaurs to the complex structures that enable modern birds to fly, stay warm, and attract mates. The book weaves together paleontology, ornithology, anthropology, and cultural history to show how feathers have shaped life on Earth and human civilization.

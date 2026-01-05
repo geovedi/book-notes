@@ -1,5 +1,6 @@
 # Back Story
 **Author**: David Mitchell | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 David Mitchell's memoir is a uniquely structured autobiography that follows the comedian on a walk through London while reflecting on his life journey from childhood to TV success. Written as walking therapy for chronic back pain, the book weaves together 35 chapters of memories, observations, and self-deprecating humor that capture Mitchell's distinctive voice - intelligent, anxious, and irresistibly funny.

@@ -1,5 +1,6 @@
 # The Father Brown Megapack
 **Authors**: Gilbert Keith Chesterton | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 The Father Brown Megapack is a comprehensive collection of G.K. Chesterton's beloved detective stories featuring Father Brown, an unassuming Catholic priest who solves crimes through his profound understanding of human nature and psychology rather than conventional detective methods. The collection includes multiple story collections: "The Innocence of Father Brown," "The Wisdom of Father Brown," "The Incredulity of Father Brown," "The Secret of Father Brown," and "The Scandal of Father Brown," along with additional stories.

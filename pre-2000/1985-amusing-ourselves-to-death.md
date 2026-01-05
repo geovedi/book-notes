@@ -1,5 +1,6 @@
 # Amusing Ourselves to Death
 **Authors**: Neil Postman, Andrew Postman | **Year**: 1985
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Neil Postman's prophetic critique argues that television has fundamentally transformed public discourse from serious, rational exchange into entertainment. While George Orwell feared totalitarian control through oppression, Postman warns that Aldous Huxley's vision is more accurate - people will come to love their oppression and the technologies that undo their capacity to think. The book traces how print culture created rational, thoughtful citizens, while television culture has spawned a population that passively consumes fragmented, context-free information packaged as amusement.

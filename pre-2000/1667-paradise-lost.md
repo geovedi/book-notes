@@ -1,5 +1,6 @@
 # Paradise Lost
 **Authors**: John Milton | **Year**: 1667
+**Category**: Fiction & Literature
 
 ## Summary
 Paradise Lost is John Milton's epic masterpiece that retells the biblical story of the Fall of Man through a richly imaginative and theological lens. The poem explores Satan's rebellion against God, the subsequent war in Heaven, and Satan's temptation of Adam and Eve in the Garden of Eden. Through twelve books of breathtaking blank verse, Milton weaves together themes of free will, obedience, temptation, and redemption while examining the complex relationship between humanity and divinity.

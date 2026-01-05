@@ -1,5 +1,5 @@
 # In Cold Blood
-**Author**: Truman Capote | **Year**: 1966
+**Author**: Truman Capote | **Year**: 1966 | **Category**: Fiction & Literature
 
 ## Summary
 "In Cold Blood" is a groundbreaking work of narrative non-fiction that reconstructs the brutal 1959 murder of the Clutter family in Holcomb, Kansas, and the subsequent investigation, capture, and execution of the killers. Capote pioneered the "non-fiction novel" genre by blending meticulous journalistic research with literary storytelling techniques to create a compelling true-crime narrative that reads like fiction.

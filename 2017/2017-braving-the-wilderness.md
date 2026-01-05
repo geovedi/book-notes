@@ -1,5 +1,6 @@
 # Braving the Wilderness
 **Authors**: Brené Brown | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 In "Braving the Wilderness," Brené Brown redefines belonging as a spiritual practice that requires us to stand alone in our integrity while remaining connected to humanity. The book challenges the conventional wisdom that belonging requires conformity or fitting in, arguing instead that true belonging comes from belonging to ourselves so completely that we can be authentic in any situation. Brown presents a framework of four daily practices that help us navigate the paradox of being both part of something and standing alone, offering a path to genuine connection in an increasingly polarized world.

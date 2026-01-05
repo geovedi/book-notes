@@ -1,5 +1,5 @@
 # Tesla: Inventor of the Electrical Age
-**Author**: W. Bernard Carlson | **Year**: 2013
+**Author**: W. Bernard Carlson | **Year**: 2013 | **Category**: Technology & Computing
 
 ## Summary
 "Tesla: Inventor of the Electrical Age" is a scholarly biography that challenges the popular myth-making surrounding Nikola Tesla while celebrating his genuine engineering genius. The book presents Tesla's life as a dramatic rise (1884-1894) followed by an equally dramatic fall (1895-1905), analyzing not just what he invented but how he invented and how he negotiated with both nature and society to bring his ideas to life. This is the story of a brilliant inventor who revolutionized electricity but struggled with the practical realities of turning vision into commercial success.

@@ -1,5 +1,6 @@
 # The Crime of the Congo
 **Authors**: Arthur Conan Doyle | **Year**: 1909
+**Category**: History & Biography
 
 ## Summary
 Arthur Conan Doyle's devastating exposé reveals how King Leopold II of Belgium transformed a humanitarian mission into one of history's most brutal colonial regimes. Under the guise of "civilizing" Central Africa, Leopold established the Congo Free State as his personal property, systematically exploiting its resources and people through forced labor, torture, and mass murder. Doyle documents how an enterprise initially celebrated by the international community degenerated into a reign of terror that killed millions and devastated entire populations, all while generating extraordinary profits for the Belgian monarch.

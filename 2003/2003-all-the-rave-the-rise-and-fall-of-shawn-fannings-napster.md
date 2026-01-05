@@ -1,5 +1,5 @@
 # All the Rave: The Rise and Fall of Shawn Fanning's Napster
-**Authors**: Joseph Menn | **Year**: 2003
+**Authors**: Joseph Menn | **Year**: 2003 | **Category**: Technology & Computing
 
 ## Summary
 The gripping true story of how a teenage programming project exploded into a cultural revolution that forever changed the music industry and digital landscape. Eighteen-year-old Shawn Fanning's quest to create a better way to find and share music online sparked the fastest-growing business in history, attracting millions of users and the wrath of the entire recording industry before being crushed by legal battles. The book chronicles the meteoric rise and dramatic fall of Napster through the eyes of its young founders, revealing how technological innovation, business greed, and generational conflict collided at the dawn of the digital age.

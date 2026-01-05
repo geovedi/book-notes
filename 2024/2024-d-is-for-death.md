@@ -1,5 +1,6 @@
 # D Is for Death
 **Authors**: Sophie Duffy | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 "D Is for Death" is a comprehensive A-to-Z exploration of death and dying that combines personal memoir, cultural anthropology, and historical research. Written by Sophie Duffy during her own cancer treatment, the book transforms our relationship with mortality from one of fear to one of understanding and acceptance. Through 26 alphabetical chapters covering topics from "Accidents" to "Zaduszki" (Polish All Souls' Day), Duffy reveals how different cultures and historical periods have approached death, showing that by confronting our mortality, we can live more fully.

@@ -1,6 +1,7 @@
 # Farewell to Munich: A Handshake
 **Original Title**: Abschied von München: Ein Handschlag
-**Author**: Oskar Panizza | **Year**: c. 1895 
+**Author**: Oskar Panizza | **Year**: c. 1895
+**Category**: Fiction & Literature 
 
 ## Summary
 

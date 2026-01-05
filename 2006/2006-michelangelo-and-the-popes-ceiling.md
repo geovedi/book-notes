@@ -1,5 +1,5 @@
 # Michelangelo and The Pope's Ceiling
-**Author**: Ross King | **Year**: 2006
+**Author**: Ross King | **Year**: 2006 | **Category**: Art & Creativity
 
 ## Summary
 This gripping narrative reveals how a reluctant sculptor, Michelangelo Buonarroti, was coerced by the formidable "Warrior Pope" Julius II into painting one of history's greatest artistic achievements—the 12,000-square-foot ceiling of the Sistine Chapel. Set against the political and religious turmoil of Renaissance Rome (1508-1512), the story unfolds as a dramatic tale of artistic rivalry, technical innovation, and personal struggle. What makes this account compelling is how King transforms what could have been dry art history into a thrilling narrative of genius overcoming impossible odds, complete with conspiracies, betrayals, and the constant pressure of working beneath the most powerful—and temperamental—patron in Christendom.

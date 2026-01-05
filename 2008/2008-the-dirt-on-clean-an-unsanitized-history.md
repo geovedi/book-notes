@@ -1,5 +1,6 @@
 # The Dirt on Clean: An Unsanitized History
 **Author**: Katherine Ashenburg | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 

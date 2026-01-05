@@ -1,5 +1,6 @@
 # The Republic
 **Author**: Plato | **Year**: c. 380 BCE
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Plato's Republic is a profound philosophical dialogue that explores the nature of justice and the ideal state through a series of Socratic conversations. Written as a discussion between Socrates and various Athenians, the book constructs both an ideal political state and an ideal individual soul, showing how they mirror each other. Plato argues that justice is not merely about following rules but about achieving harmony within the soul and society, with each part performing its proper function.

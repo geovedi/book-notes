@@ -1,5 +1,5 @@
 # The Book of Lost Books
-**Author**: Stuart Kelly | **Year**: 2006
+**Author**: Stuart Kelly | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 

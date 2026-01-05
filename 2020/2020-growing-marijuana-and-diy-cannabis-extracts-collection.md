@@ -1,5 +1,6 @@
 # Growing Marijuana and DIY Cannabis Extracts Collection
 **Authors**: Saul Silver | **Year**: 2020
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive collection serves as both a cultivation guide and extract preparation manual for cannabis enthusiasts. The book is divided into two main sections: first covering indoor and outdoor marijuana growing techniques from beginner to expert level, then providing detailed instructions for creating various cannabis extracts and infused edibles. The author positions this as a complete resource for anyone looking to grow their own cannabis plants and transform them into therapeutic extracts, concentrates, and culinary creations.

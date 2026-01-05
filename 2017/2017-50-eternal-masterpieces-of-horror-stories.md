@@ -1,5 +1,6 @@
 # 50 Eternal Masterpieces of Horror Stories
 **Authors**: Various Authors | **Year**: 2017
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive anthology gathers fifty foundational works of horror literature spanning from Gothic classics to early 20th-century masterpieces. Curated by Golden Deer Classics, the collection showcases the evolution of horror fiction through its most influential voices and terrifying tales.

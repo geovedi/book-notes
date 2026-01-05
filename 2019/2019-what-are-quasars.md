@@ -1,5 +1,6 @@
 # What Are Quasars?
 **Authors**: Larry Slawson | **Year**: 2019 | **Language**: English
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive guide demystifies quasars—the brightest and most energetic objects in the universe—explaining their origins, properties, and significance in cosmic evolution. Written in accessible language for science enthusiasts, the article reveals how these cosmic powerhouses are powered by supermassive black holes at galaxy centers, capable of emitting thousands of times more energy than entire galaxies.

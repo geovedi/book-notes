@@ -1,6 +1,7 @@
 # Italian Blood
 **Original Title**: Sangue italiano. Delitti, criminalità e violenza pubblica dal 1860 a oggi
 **Author**: Roberto Casalini | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Italian Blood" is a sweeping chronicle of Italy's criminal history from unification in 1860 to the present day, collecting over 150 true crime stories that reveal the nation's dark underbelly. The book examines everything from the brutal brigandage wars that followed unification, through the rise of organized crime (Mafia, Camorra, 'Ndrangheta), to political assassinations, terrorism, and modern-day violence. Casalini presents these stories not as isolated incidents, but as interconnected threads that form an alternative history of Italy—one marked by violence, corruption, and a persistent tension between state power and criminal enterprise.

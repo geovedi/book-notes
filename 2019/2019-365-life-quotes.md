@@ -1,6 +1,7 @@
 # 365 Life Quotes
 **Original Title**: 365 Life Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book is a curated collection of 365 daily life quotes designed to provide readers with wisdom, inspiration, and perspective on living a meaningful life. The author presents these quotes as a "hack" to empower readers with fulfillment and purpose, encouraging them to read one quote per day and reflect deeply on its meaning. The quotes span centuries of human wisdom, from ancient philosophers to modern thinkers, covering themes of authenticity, courage, happiness, resilience, and the human experience.

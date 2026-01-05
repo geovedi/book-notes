@@ -1,5 +1,5 @@
 # The Internet Is Not the Answer
-**Authors**: Andrew Keen | **Year**: 2015
+**Authors**: Andrew Keen | **Year**: 2015 | **Category**: Technology & Computing
 
 ## Summary
 "The Internet Is Not the Answer" is a provocative critique of the digital revolution that challenges the utopian promises of Silicon Valley. Andrew Keen argues that rather than creating a more equitable, democratic, and prosperous society, the internet has instead exacerbated economic inequality, destroyed jobs, undermined privacy, and concentrated wealth and power in the hands of a few tech giants and their founders. The book uses the metaphor of San Francisco's exclusive Battery Club – a luxury social club for tech millionaires that claims to be diverse and egalitarian but is in reality highly exclusive – to illustrate the broader contradictions of networked society.

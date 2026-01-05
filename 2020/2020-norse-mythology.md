@@ -1,5 +1,6 @@
 # Norse Mythology: Tales from the Eddas and Sagas
 **Authors**: Various traditional authors | **Year**: 2020 (edition), Ancient sources (13th century)
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This comprehensive collection brings together the legendary Norse myths and heroic sagas from medieval Iceland's most important literary sources: the Poetic Edda and Prose Edda. These stories form the foundation of Norse mythology, featuring the adventures of gods like Odin, Thor, and Loki, alongside the heroic tales of legendary mortals from the Sagas. The myths explore fundamental themes of wisdom, sacrifice, betrayal, honor, and the cyclical nature of life and death.

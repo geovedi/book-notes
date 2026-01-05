@@ -1,5 +1,6 @@
 # Brief Answers to the Big Questions
 **Author**: Stephen Hawking | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 Stephen Hawking's final book explores humanity's most profound questions through the lens of physics, cosmology, and human wisdom. Written during his final years, this accessible work addresses both scientific mysteries and existential challenges, from the existence of God to artificial intelligence and humanity's future among the stars. Hawking combines cutting-edge science with philosophical reflection, offering answers that are scientifically grounded yet deeply humanistic.

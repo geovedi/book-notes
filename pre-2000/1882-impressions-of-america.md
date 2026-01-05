@@ -1,5 +1,6 @@
 # Impressions of America
 **Authors**: Oscar Wilde | **Year**: 1882
+**Category**: Fiction & Literature
 
 ## Summary
 Oscar Wilde's "Impressions of America" is a fascinating collection of observations from his 1882 lecture tour across the United States, where the renowned aesthete brought his distinctive wit, cultural criticism, and artistic sensibility to bear on American society. Fresh from the succès de scandale of the aesthetic movement in England, Wilde traveled to America to lecture on art and beauty, encountering a nation still finding its cultural identity while rapidly industrializing.

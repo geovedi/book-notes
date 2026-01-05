@@ -1,5 +1,5 @@
 # For Blood and Money
-**Author**: Nathan Vardi | **Year**: 2022
+**Author**: Nathan Vardi | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 "For Blood and Money" tells the gripping true story of how two revolutionary cancer drugs—Imbruvica and Calquence—were developed through a combination of scientific discovery, ruthless business tactics, and enormous financial risk. The book follows the parallel journeys of Pharmacyclics and Acerta, two biotech companies that developed breakthrough BTK inhibitor treatments for chronic lymphocytic leukemia (CLL) and other blood cancers.

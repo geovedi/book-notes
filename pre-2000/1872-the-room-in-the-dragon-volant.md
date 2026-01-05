@@ -1,5 +1,6 @@
 # The Room in the Dragon Volant
 **Authors**: J.S. Le Fanu | **Year**: 1872
+**Category**: Horror & Thriller
 
 ## Summary
 In post-Napoleonic Europe, young Englishman Richard Beckett travels to Paris in 1815 and encounters a mysterious veiled Countess and her elderly husband, the Count de St. Alyre. Drawn into a web of intrigue, Richard discovers too late that he has become the target of a sophisticated criminal conspiracy. Drugged and declared dead, he is placed in a coffin to be buried alive in a pre-purchased grave—part of a sinister scheme to murder wealthy travelers and steal their fortunes. This Gothic thriller explores themes of deception, supernatural illusion, and the thin line between life and death.

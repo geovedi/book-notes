@@ -1,5 +1,5 @@
 # Fun Home
-**Author**: Alison Bechdel | **Year**: 2006
+**Author**: Alison Bechdel | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 Fun Home is a groundbreaking graphic memoir that explores Alison Bechdel's complex relationship with her father, Bruce—a closeted gay man, funeral home director, and high school English teacher. The book weaves together themes of sexual identity, family dynamics, and literary references to create a powerful meditation on truth, memory, and the ways we construct our life stories. Through a masterful blend of visual storytelling and literary analysis, Bechdel examines how her own coming-out process as a lesbian intersected with her father's hidden sexuality and his mysterious death, which she suspects was suicide.

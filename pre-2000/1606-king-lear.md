@@ -1,5 +1,6 @@
 # King Lear
 **Authors**: William Shakespeare | **Year**: 1606
+**Category**: Fiction & Literature
 
 ## Summary
 "King Lear" stands as one of Shakespeare's most devastating tragedies, exploring the catastrophic consequences of pride, poor judgment, and the betrayal of familial bonds. The aging King Lear decides to divide his kingdom among his three daughters, demanding they declare their love for him in public. When his youngest daughter Cordelia refuses to engage in false flattery, speaking only of honest duty, Lear disinherits her and banishes his loyal advisor Kent for defending her. This impulsive decision sets in motion a chain of events that leads to madness, suffering, and ultimately, profound redemption through suffering.

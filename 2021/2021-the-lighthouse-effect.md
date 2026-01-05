@@ -1,5 +1,6 @@
 # The Lighthouse Effect
 **Author**: Steve Pemberton | **Year**: 2021
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Lighthouse Effect" explores how ordinary people can have extraordinary impacts on the world through their actions, guidance, and support. Using the powerful metaphor of lighthouses—structures that stand firm in storms, project light outward to guide others, and remain steadfast in their purpose—Pemberton shares ten true stories of "human lighthouses" who have guided others through darkness toward safety and hope.

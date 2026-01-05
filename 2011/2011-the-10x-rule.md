@@ -1,5 +1,5 @@
 # The 10X Rule
-**Authors**: Grant Cardone | **Year**: 2011
+**Authors**: Grant Cardone | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 The 10X Rule is a powerful framework for achieving extraordinary success by setting targets 10 times greater than you initially believe possible and taking 10 times the action you think is necessary. Cardone argues that success is your duty and obligation, that average is a failing formula, and that massive action is the great differentiator between the successful and unsuccessful. The book challenges conventional wisdom about goal setting, risk management, and customer satisfaction, proposing that most people dramatically underestimate both what's possible and what it takes to achieve it.

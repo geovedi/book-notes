@@ -1,5 +1,5 @@
 # On Light and Other High-Frequency Phenomena
-**Authors**: Nikola Tesla | **Year**: 2022
+**Authors**: Nikola Tesla | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 Tesla's revolutionary work explores the fundamental nature of light, electricity, and high-frequency phenomena through groundbreaking experiments and philosophical insights. This book represents a compilation of Tesla's pioneering research into electrical resonance, vacuum tube lighting, and the atomic nature of energy transmission. Tesla demonstrates how high-frequency, high-potential electrical currents can produce various forms of light through incandescence, phosphorescence, and gas excitation, while simultaneously revealing profound truths about the nature of matter, energy, and consciousness itself.

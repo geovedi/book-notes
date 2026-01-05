@@ -1,6 +1,7 @@
 # Personal Life Plan
 **Original Title**: Persoonlijk Leeftijdsplan
-**Authors**: Willem Razenberg | **Year**: 2008 
+**Authors**: Willem Razenberg | **Year**: 2008
+**Category**: Self-Help & Personal Development 
 
 ## Summary
 "Personal Life Plan" is a comprehensive workbook designed to help employees aged 35 and older align their work with their age and experience. The book challenges common stereotypes about older workers and provides practical tools for creating a personalized career development plan. Using the metaphor of kyudo (the way of the bow), it emphasizes the balance between physical capabilities and spiritual growth throughout life's journey.

@@ -1,5 +1,6 @@
 # IBM and the Holocaust
 **Authors**: Edwin Black | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 This explosive investigative history reveals how IBM, through its German subsidiary Dehomag, provided the technological backbone that enabled Nazi Germany to automate the identification, persecution, and ultimately extermination of six million Jews and millions of other victims. The book demonstrates that IBM's punch card technology—precursor to the modern computer—was not merely sold to the Nazis but was actively managed, serviced, and customized by IBM personnel who knew exactly how their technology was being used in the Holocaust.

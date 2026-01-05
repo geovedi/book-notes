@@ -1,5 +1,5 @@
 # Winning
-**Authors**: Jack Welch, Suzy Welch | **Year**: 2006
+**Authors**: Jack Welch, Suzy Welch | **Year**: 2006 | **Category**: Business & Finance
 
 ## Summary
 "Winning: The Answers" is a practical business guide that addresses 74 of the most pressing questions facing leaders, managers, and professionals in today's global economy. Building on their previous bestseller "Winning," Jack and Suzy Welch draw from their international Business Week column, book tour experiences, and classroom teaching to provide direct, actionable answers to real-world business challenges. The book is organized into five key sections: Global Competition, Leadership, Management Principles, Careers, and the broader impact of business on society.

@@ -1,5 +1,6 @@
 # Uncle's Dream
 **Author**: Fyodor Dostoevsky | **Year**: 1859
+**Category**: Fiction & Literature
 
 ## Summary
 "Uncle's Dream" is a sharply satirical novella that exposes the petty ambitions, gossip, and social maneuvering of provincial Russian society through the story of Maria Alexandrovna Moskaleva, the formidable "first lady" of Mordasoff who orchestrates an elaborate scheme to marry her beautiful daughter Zina to an elderly, feeble-minded prince.

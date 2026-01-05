@@ -1,5 +1,6 @@
 # Dreamland: Adventures in the Strange Science of Sleep
 **Author**: David K. Randall | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "Dreamland" is a fascinating exploration into one of life's most mysterious activities—sleep. Written after the author's own sleepwalking incident left him injured and confused, this book investigates why we spend a third of our lives asleep yet understand so little about what happens during those hours. Randall takes readers on a journey through sleep labs, historical archives, and cutting-edge research to uncover the hidden world of sleep, from how artificial light revolutionized our nights to why sharing a bed might be ruining our relationships.

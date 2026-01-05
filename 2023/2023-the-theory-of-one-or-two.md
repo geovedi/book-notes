@@ -1,6 +1,7 @@
 # The Theory of One or Two
 **Original Title**: De theorie van de 1 of 2
 **Author**: Ismail 'Ish' Ait Hamou | **Year**: 2023
+**Category**: Fiction & Literature
 
 ## Summary
 This profound essay explores the psychological and social dynamics faced by the Moroccan-Belgian community through the author's personal experiences. Ait Hamou introduces "the theory of 'the 1 or 2'" – a framework explaining how limited opportunities for minority representation create internal community tension, jealousy, and psychological barriers. The book reveals how when society allows only one or two people from a marginalized group to succeed, it transforms potential allies into competitors and creates a toxic dynamic where success becomes threatening rather than celebratory.

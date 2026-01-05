@@ -1,5 +1,5 @@
 # Introducing Cognitive Behavioural Therapy (CBT)
-**Authors**: Elaine Iljon Foreman, Dr. Clair Pollard | **Year**: 2011
+**Authors**: Elaine Iljon Foreman, Dr. Clair Pollard | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # The Design of Everyday Things
-**Authors**: Donald A. Norman | **Year**: 2013
+**Authors**: Donald A. Norman | **Year**: 2013 | **Category**: Technology & Computing
 
 ## Summary
 "The Design of Everyday Things" reveals how poor design creates unnecessary frustration in our daily lives, from confusing doors to incomprehensible technology. Norman demonstrates that the fault lies not with users but with designs that fail to account for human psychology and behavior. The book presents fundamental principles of good design that bridge the gap between human understanding and technological complexity, showing how thoughtful design can transform everyday interactions from sources of frustration into moments of delight.

@@ -1,5 +1,6 @@
 # Leaves of Grass
 **Authors**: Walt Whitman | **Year**: 1855
+**Category**: Fiction & Literature
 
 ## Summary
 "Leaves of Grass" is a revolutionary collection of poetry that broke all literary conventions and established free verse in American literature. This monumental work celebrates the human experience in all its forms - from the democratic spirit of America to the beauty of the physical body, from the transcendence of nature to the interconnectedness of all humanity. Whitman's radical vision dissolves boundaries between self and other, body and soul, sacred and profane.

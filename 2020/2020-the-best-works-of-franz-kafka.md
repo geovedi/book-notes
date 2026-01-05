@@ -1,5 +1,6 @@
 # The Best Works of Franz Kafka
 **Authors**: Franz Kafka | **Year**: 2020 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This definitive collection brings together Franz Kafka's most influential works, spanning his major novels, novellas, and short stories. Written primarily in German in the early 20th century, these pieces represent the cornerstone of existential and absurdist literature. The collection includes seminal works like "The Metamorphosis," "The Trial," "The Castle," and iconic shorter pieces such as "Before the Law" and "A Hunger Artist."

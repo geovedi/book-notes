@@ -1,5 +1,5 @@
 # Steve Jobs
-**Walter Isaacson** | **Year**: 2011
+**Walter Isaacson** | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 This authoritative biography chronicles the life of Steve Jobs, the visionary entrepreneur who revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing. Based on over 40 interviews with Jobs himself and more than 100 interviews with family, friends, colleagues, and competitors, the book provides an unvarnished look at his intense personality, relentless pursuit of perfection, and the demons that drove both his genius and his cruelty.

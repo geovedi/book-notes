@@ -1,5 +1,5 @@
 # Optimize Your Productivity
-**Authors**: Lisa Kardos, Ph.D. | **Year**: 2016
+**Authors**: Lisa Kardos, Ph.D. | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Optimize Your Productivity" presents a counterintuitive approach to productivity that applies simple engineering principles to personal effectiveness. Rather than forcing a one-size-fits-all system, Dr. Kardos introduces a framework that treats you as a system to optimize—accounting for your unique attributes, preferences, and circumstances. The book defines productivity as "personally accomplishing required (or desired) tasks; or ensuring that identified tasks get accomplished, even if not done personally—in the least amount of time possible."

@@ -1,6 +1,7 @@
 # Slowly to Heaven
 **Original Title**: Traag naar de hemel
-**Author**: Evi Hanssen | **Year**: 2023 
+**Author**: Evi Hanssen | **Year**: 2023
+**Category**: Fiction & Literature 
 
 ## Summary
 "Slowly to Heaven" is a deeply moving memoir by Belgian author Evi Hanssen documenting her mother Arlette's final 20-month journey with terminal cancer. Rather than portraying death as purely tragic, this book reveals how the family transformed the dying process into a meaningful, beautiful, and sometimes even joyful experience. Through intimate conversations, shared moments, and Arlette's remarkable wisdom, the author demonstrates that death—when approached with acceptance and love—can be as profound as birth.

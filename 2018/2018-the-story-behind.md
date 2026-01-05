@@ -1,5 +1,5 @@
 # The Story Behind: The Extraordinary History Behind Ordinary Objects
-**Author**: Emily Prokop | **Year**: 2018
+**Author**: Emily Prokop | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 "The Story Behind" is a captivating collection of origin stories about everyday objects we often take for granted. Based on the popular podcast of the same name, this book reveals the fascinating, sometimes accidental, and often surprising histories behind 46 common items—from bubble wrap and paper clips to tattoos and treadmills. Prokop's conversational, trivia-rich style transforms mundane objects into windows of human ingenuity, persistence, and serendipity.

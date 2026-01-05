@@ -1,5 +1,5 @@
 # One Summer: America 1927
-**Author**: Bill Bryson | **Year**: 2013
+**Author**: Bill Bryson | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 In the summer of 1927, America experienced an extraordinary convergence of events that would shape the nation's destiny. Bill Bryson masterfully weaves together the stories of Charles Lindbergh's legendary transatlantic flight, Babe Ruth's record-breaking baseball season, and the backdrop of a rapidly changing America. This was the moment when America stepped onto the world stage with unprecedented confidence and energy, setting the stage for both triumph and tragedy.

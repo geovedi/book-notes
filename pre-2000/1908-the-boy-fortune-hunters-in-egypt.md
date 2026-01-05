@@ -1,5 +1,6 @@
 # The Boy Fortune Hunters in Egypt
 **Authors**: L. Frank Baum (writing as Floyd Akers) | **Year**: 1908
+**Category**: Children & Young Adult
 
 ## Summary
 This adventure novel follows young Sam Steele, son of Captain Steele, who serves as purser aboard the merchant ship Seagull. The story begins when Sam rescues Joe Herring, an escaped cabin boy fleeing a cruel captain, and takes him aboard. The Seagull travels to Egypt carrying Oriental rugs and imitation Egyptian artifacts, accompanied by Archie Ackley, the conceited son of the artifacts manufacturer.

@@ -1,5 +1,5 @@
 # Cryptocurrency & Blockchain: Understanding the Digital Revolution
-**Authors**: Sean Bennett | **Year**: 2018
+**Authors**: Sean Bennett | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide demystifies cryptocurrency and blockchain technology, explaining how digital currencies work, their history, and practical applications. The book serves as both an educational resource for beginners and a reference for those looking to invest in or understand the emerging digital economy. Bennett breaks down complex concepts like Bitcoin, Ethereum, mining, wallets, and trading strategies while exploring the revolutionary potential of blockchain technology beyond finance.

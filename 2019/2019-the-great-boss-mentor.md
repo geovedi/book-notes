@@ -1,5 +1,6 @@
 # The Great Boss Mentor
 **Authors**: Tim L. Gardner | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This practical management guide presents 13 essential keys for effective employee management and conflict resolution. Based on extensive research and real-world case studies, including Boeing's successful employee empowerment transformation that generated $140,000 per team from self-initiated projects, the book argues that excellent management goes beyond tactics and strategies to focus on psychological aspects of employee engagement.

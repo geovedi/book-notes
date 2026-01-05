@@ -1,5 +1,6 @@
 # The Radio-Active Substances
 **Authors**: Marie Curie | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 Marie Curie's groundbreaking scientific work details her discovery of radioactivity and the isolation of new elements - radium and polonium. Written as a comprehensive research report, this book documents the meticulous experiments that revolutionized our understanding of atomic structure and energy. Curie describes how she and her husband Pierre worked for years to extract microscopic quantities of these intensely radioactive substances from tons of pitchblende ore, developing new chemical methods that would transform scientific research.

@@ -1,5 +1,5 @@
 # Social Movements in the Nordic Countries since 1900
-**Original Authors**: David Redvaldsen (Editor), Ragnheiður Kristjánsdóttir, Flemming Mikkelsen, Carolina Uppenberg, Tapio Bergholm, Natasha Vall, Abby Peterson, Ylva Mattsson-Wallinder, Clive Archer, Omar Kristmundsson, Steinunn Hrafnsdottir | **Year**: 2013
+**Original Authors**: David Redvaldsen (Editor), Ragnheiður Kristjánsdóttir, Flemming Mikkelsen, Carolina Uppenberg, Tapio Bergholm, Natasha Vall, Abby Peterson, Ylva Mattsson-Wallinder, Clive Archer, Omar Kristmundsson, Steinunn Hrafnsdottir | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 This specialized academic collection challenges simplistic notions of the "Nordic Model" by revealing the complex, often contradictory social movements that shaped Denmark, Sweden, Norway, Finland, and Iceland throughout the 20th century. Through detailed case studies of labor movements, feminist activism, counter-cultural experiments, and political extremism, the book demonstrates how Nordic societies developed their distinctive welfare models through diverse grassroots struggles rather than top-down planning alone.

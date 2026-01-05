@@ -1,5 +1,6 @@
 # The History of the Internet in Byte-Sized Chunks
 **Authors**: Chris Stokel-Walker | **Year**: 2023
+**Category**: Technology & Computing
 
 ## Summary
 This book chronicles the remarkable journey of the internet from a military research project to a global network that connects 5 billion people. It traces how a Cold War concern about nuclear attack resilience evolved into the World Wide Web, social media, and the digital ecosystem that now dominates modern life. The author breaks down complex technical concepts into accessible stories, highlighting the key innovations, personalities, and cultural shifts that shaped our connected world.

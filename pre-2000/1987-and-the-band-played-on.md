@@ -1,5 +1,6 @@
 # And the Band Played On
 **Author**: Randy Shilts | **Year**: 1987
+**Category**: Health & Medicine
 
 ## Summary
 "And the Band Played On" is a groundbreaking work of investigative journalism that chronicles the first five years of the AIDS epidemic in America (1980-1985). Through meticulous research and compelling storytelling, Shilts reveals how institutional failures across government, media, science, and the gay community allowed a preventable tragedy to unfold, resulting in thousands of unnecessary deaths.

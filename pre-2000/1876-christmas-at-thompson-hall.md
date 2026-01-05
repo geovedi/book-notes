@@ -1,5 +1,6 @@
 # Christmas at Thompson Hall
 **Authors**: Anthony Trollope | **Year**: 1876
+**Category**: Fiction & Literature
 
 ## Summary
 "Christmas at Thompson Hall" is a delightful Victorian Christmas tale about Mr. and Mrs. Brown, who find themselves stranded in Paris while trying to reach Thompson Hall for the family Christmas gathering. When Mr. Brown claims illness to avoid the journey, his resourceful wife's attempt to secure mustard for his throat leads to a classic case of mistaken identity, confusion, and ultimately, family reunion. The story humorously explores Victorian propriety, marital dynamics, and the lengths one will go to preserve family traditions.

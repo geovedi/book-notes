@@ -1,6 +1,7 @@
 # The Maias
 **Original Title**: Os Maias
 **Authors**: Eça de Queiroz | **Year**: 1888
+**Category**: Fiction & Literature
 
 ## Summary
 "The Maias" is a monumental Portuguese family saga that traces three generations of the wealthy Maia family, centering on the tragic story of Carlos da Maia and his ill-fated love affair with Maria Eduarda. Set in 1870s-1880s Lisbon, the novel exposes the decadence, hypocrisy, and spiritual emptiness of Portuguese high society through the lens of a family curse that ultimately leads to disaster.

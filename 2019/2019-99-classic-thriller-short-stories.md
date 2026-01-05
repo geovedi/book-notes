@@ -1,5 +1,6 @@
 # 99 Classic Thriller Short Stories
 **Authors**: Multiple Authors including Philip K. Dick, Edgar Allan Poe, Arthur Conan Doyle, H.G. Wells, Wilkie Collins, and many more | **Year**: 2019
+**Category**: Horror & Thriller
 
 ## Summary
 This massive anthology brings together 99 spine-chilling short stories from the masters of suspense, mystery, and speculative fiction. Spanning from the 19th century Gothic tales to mid-20th century science fiction thrillers, this collection represents the evolution of the thriller genre across different literary movements and cultural contexts.

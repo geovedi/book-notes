@@ -1,5 +1,6 @@
 # The Cherry Orchard
 **Authors**: Anton Chekhov | **Year**: 1904
+**Category**: Fiction & Literature
 
 ## Summary
 "The Cherry Orchard" follows Madame Ranevsky, an aristocratic Russian woman who returns to her family estate after five years abroad, only to face the imminent auction of her beloved cherry orchard to pay mounting debts. The estate represents both her family's glorious past and their inability to adapt to changing times. Despite opportunities to save the property by developing it into villa lots, the family remains paralyzed by indecision and nostalgia. The orchard is ultimately purchased by Lopakhin, a former serf whose father worked on their estate, symbolizing the complete social transformation in Russia at the turn of the 20th century.

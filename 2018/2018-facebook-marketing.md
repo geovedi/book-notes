@@ -1,5 +1,6 @@
 # Facebook Marketing: A Comprehensive Guide for Building Authority, Creating Engagement and Making Money Through Facebook
 **Authors**: Mark Smith | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Facebook Marketing is a comprehensive guide that transforms the world's largest social media platform into a powerful business tool. With 1.09 billion daily users growing at 16% annually, Facebook represents an unparalleled opportunity for businesses to build authority, drive engagement, and generate revenue. The book presents Facebook marketing as relationship-building rather than direct selling—comparing it to dating where you must first build trust and connection before expecting commitment.

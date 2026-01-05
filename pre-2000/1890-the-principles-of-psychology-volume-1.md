@@ -1,5 +1,6 @@
 # The Principles of Psychology, Volume 1
 **Authors**: William James | **Year**: 1890
+**Category**: Psychology & Mental Health
 
 ## Summary
 William James's groundbreaking work establishes psychology as a natural science grounded in brain physiology while refusing to reduce consciousness to mere mechanical processes. This monumental two-volume work (Volume 1 presented here) introduces revolutionary concepts including the "stream of consciousness," habit formation, attention, and memory that continue to influence modern psychology and philosophy. James argues that psychology should study mental phenomena empirically while acknowledging their relationship to brain processes, creating a foundation for functionalist psychology that bridges science and human experience.

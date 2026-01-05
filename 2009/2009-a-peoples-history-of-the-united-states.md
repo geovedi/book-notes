@@ -1,5 +1,6 @@
 # A People's History of the United States
 **Author**: Howard Zinn | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "A People's History of the United States" is a revolutionary retelling of American history from the perspective of marginalized groups—Native Americans, enslaved people, women, laborers, immigrants, and dissidents. Zinn challenges the traditional narrative that glorifies powerful leaders and institutions, instead revealing how ordinary people have resisted oppression throughout American history.

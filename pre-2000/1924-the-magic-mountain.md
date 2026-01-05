@@ -1,6 +1,7 @@
 # The Magic Mountain
 **Original Title**: Der Zauberberg (German)
 **Author**: Thomas Mann | **Year**: 1924
+**Category**: Fiction & Literature
 
 ## Summary
 "The Magic Mountain" follows Hans Castorp, a young engineer from Hamburg who visits a cousin in a Swiss tuberculosis sanatorium for what he plans to be a three-week stay. Instead, he remains for seven years, becoming entangled in the surreal world of the Berghof Sanatorium where time flows differently and intellectual debates overshadow concerns of health and mortality. Through his journey, Mann explores the nature of time, disease, love, death, and the intellectual currents of pre-World War I Europe.

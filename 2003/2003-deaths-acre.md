@@ -1,5 +1,5 @@
 # Death's Acre: Inside the Legendary Forensic Lab the Body Farm Where the Dead Do Tell Tales
-**Authors**: William M. Bass, Jon Jefferson | **Year**: 2003
+**Authors**: William M. Bass, Jon Jefferson | **Year**: 2003 | **Category**: Science & Nature
 
 ## Summary
 "Death's Acre" is the fascinating memoir of Dr. Bill Bass, the pioneering forensic anthropologist who founded the world's first research facility dedicated to studying human decomposition—nicknamed "the Body Farm." This groundbreaking book combines personal storytelling with real forensic cases, revealing how the dead speak to those who know how to listen. Bass takes readers from his early days as a student to creating the infamous research facility behind the University of Tennessee Medical Center, where donated bodies help scientists understand the timeline and processes of decay.

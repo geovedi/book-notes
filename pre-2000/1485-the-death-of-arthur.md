@@ -1,6 +1,7 @@
 # The Death of Arthur
 **Original Title**: Le Morte d'Arthur
 **Author**: Thomas Malory | **Year**: 1485
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Le Morte d'Arthur is the definitive English compilation of King Arthur legends, chronicling the rise and fall of Camelot through twenty-one interconnected books. Thomas Malory weaves together French and English sources into a unified prose epic that follows Arthur from his miraculous birth and ascension to the throne, through the golden age of the Round Table, to the tragic collapse of his kingdom. The narrative encompasses the greatest Arthurian adventures—Arthur pulling the sword from the stone, establishing the Round Table, the quest for the Holy Grail, the forbidden love between Lancelot and Guinevere, and the final cataclysmic battle where Arthur faces his treacherous son Mordred.

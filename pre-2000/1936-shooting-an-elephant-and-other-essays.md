@@ -1,5 +1,6 @@
 # Shooting an Elephant and Other Essays
 **Authors**: George Orwell | **Year**: 1936
+**Category**: Fiction & Literature
 
 ## Summary
 This collection of George Orwell's essays represents some of his most incisive and influential writing, spanning his experiences as a colonial police officer in Burma, his reflections on the Spanish Civil War, and his penetrating analysis of politics, language, and social injustice. The essays reveal Orwell's unwavering commitment to truth, his hatred of tyranny in all forms, and his belief that clear language is essential for clear thinking. Through vivid personal anecdotes and sharp political commentary, Orwell exposes the moral compromises inherent in imperialism, the brutal realities of war, and the ways in which language can be used to manipulate thought and obscure truth.

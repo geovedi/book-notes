@@ -1,5 +1,5 @@
 # Dark Tide
-**Author**: Stephen Puleo | **Year**: 2003
+**Author**: Stephen Puleo | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 "Dark Tide" tells the astonishing true story of the Great Boston Molasses Flood of 1919—a bizarre disaster that killed 21 people and injured 150 when a massive storage tank burst, unleashing a 25-foot wave of molasses that traveled 35 mph through Boston's North End. What began as industrial negligence evolved into a decade-long legal battle that pitted working-class immigrants against corporate power, all set against the turbulent backdrop of post-WWI America, anarchist terrorism, and the rise of government regulation.

@@ -1,5 +1,5 @@
 # The Book of Tamar
-**Original Title**: Il libro di Tamàr | **Author**: Shlomit Abramson | **Year**: 2015 
+**Original Title**: Il libro di Tamàr | **Author**: Shlomit Abramson | **Year**: 2015 | **Category**: Fiction & Literature 
 
 ## Summary
 "The Book of Tamar" is a powerful biblical fiction novel that reimagines the story of Tamar from Genesis 38 through a feminist lens. The book follows young Tamar, a Canaanite girl given in marriage to Judah's firstborn son Er, as she navigates the patriarchal world of ancient Israel. After Er's death and subsequent marriage to his brother Onan (who also dies), Tamar finds herself in limbo, waiting for the youngest brother Shelah to come of age.

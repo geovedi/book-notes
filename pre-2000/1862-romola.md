@@ -1,5 +1,6 @@
 # Romola
 **Authors**: George Eliot | **Year**: 1862
+**Category**: Fiction & Literature
 
 ## Summary
 "Romola" is George Eliot's sweeping historical novel set in Renaissance Florence during the turbulent 1490s. The story follows Romola de' Bardi, the intelligent and virtuous daughter of a blind classical scholar, as she navigates political upheaval, religious revolution, and personal betrayal against the backdrop of Florence's transformation from Medici-controlled republic to theocratic state under Savonarola.

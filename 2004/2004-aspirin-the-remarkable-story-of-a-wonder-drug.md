@@ -1,5 +1,5 @@
 # Aspirin: The Remarkable Story of a Wonder Drug
-**Authors**: Diarmuid Jeffreys | **Year**: 2004
+**Authors**: Diarmuid Jeffreys | **Year**: 2004 | **Category**: Health & Medicine
 
 ## Summary
 This captivating narrative traces aspirin's incredible 6,000-year journey from ancient Egyptian medical papyri to modern pharmaceutical marvel. Jeffreys weaves together tales of grave robbers, ambitious scientists, corporate spies, world wars, and groundbreaking discoveries to reveal how a simple white tablet became one of medicine's most remarkable achievements. What began as willow bark chewed by ancient civilizations evolved through Victorian scientific innovation, German chemical engineering, wartime intrigue, and finally emerged as a 21st-century wonder drug that may prevent everything from heart attacks to cancer.

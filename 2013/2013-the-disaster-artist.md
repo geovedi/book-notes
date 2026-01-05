@@ -1,5 +1,5 @@
 # The Disaster Artist
-**Authors**: Greg Sestero, Tom Bissell | **Year**: 2013
+**Authors**: Greg Sestero, Tom Bissell | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 "The Disaster Artist" is Greg Sestero's hilarious and strangely moving account of how he met the mysterious Tommy Wiseau in an acting class and somehow ended up starring in "The Room"—often called "the Citizen Kane of bad movies." What began as a $6 million disaster became a worldwide cult phenomenon, proving that sometimes failure can be more valuable than success. This book captures the unbelievable true story of friendship, artistic vision, and how a film so terrible it became brilliant captured the hearts of millions.

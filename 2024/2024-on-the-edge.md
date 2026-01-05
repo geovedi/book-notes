@@ -1,5 +1,6 @@
 # On the Edge: The Art of Risking Everything
 **Authors**: Nate Silver | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 On the Edge explores the world of professional risk-takers—poker players, venture capitalists, hedge fund managers, AI researchers, and even astronauts—who inhabit what Silver calls "the River." This is a fascinating ecosystem where people think differently about probability, expected value, and decision-making under uncertainty. Silver, famous for his election forecasting at FiveThirtyEight and former professional poker player, guides readers through this subculture that thrives on calculated risks and embraces probabilistic thinking in a world that often demands certainty.

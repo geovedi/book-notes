@@ -1,5 +1,6 @@
 # Generations
 **Authors**: Jean M. Twenge, PhD | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Generations" explores the real differences between America's six living generations—Silents (1925-1945), Boomers (1946-1964), Gen X (1965-1979), Millennials (1980-1994), Gen Z (1995-2012), and the emerging Polars (2013-2029). Through extensive data analysis, Twenge reveals that technology is the primary driver of generational differences, creating cultural shifts through two main pathways: increasing individualism and slowing life trajectories.

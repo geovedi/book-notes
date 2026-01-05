@@ -1,6 +1,7 @@
 # Something About the First Human Society According to the Mosaic Record
 **Original Title**: Etwas über die erste Menschengesellschaft nach dem Leitfaden der mosaischen Urkunde
 **Authors**: Friedrich Schiller | **Year**: 1790
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Friedrich Schiller's philosophical essay explores humanity's transition from instinct-driven existence to moral freedom through the lens of the biblical creation story. He presents a sophisticated reinterpretation of the Fall of Man not as a tragic error, but as the essential first step toward human freedom and moral development.

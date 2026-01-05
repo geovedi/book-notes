@@ -1,5 +1,6 @@
 # The Four Agreements
 **Author**: Don Miguel Ruiz | **Year**: 1997
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Four Agreements" presents ancient Toltec wisdom as a practical guide to personal freedom and spiritual transformation. Ruiz explains that humans live in a "dream of hell" created by societal conditioning and self-limiting beliefs we've adopted since childhood. These agreements form a "Book of Law" in our minds that governs our behavior through fear, guilt, and shame. The book offers four powerful new agreements that can replace our fear-based patterns with love-based ones, leading to what Ruiz calls "heaven on earth"—a state of personal freedom, happiness, and authentic living.

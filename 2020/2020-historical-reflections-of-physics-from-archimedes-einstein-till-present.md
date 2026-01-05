@@ -1,6 +1,7 @@
 # Historical Reflections of Physics: From Archimedes... Einstein till Present
 **Original Title**: Historical reflections of Physics: From Archimedes, …, Einstein till present.
 **Author**: Santo Armenia | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 This controversial physics book challenges millennia of scientific understanding by claiming that the shape of solid bodies affects their weight. The author presents what he describes as a revolutionary discovery that overturns fundamental principles established by Archimedes, Newton, and Einstein. Armenia argues that physics has been built on a "millennial mistake" - the assumption that body weight is unalterable and that gravity directions are parallel rather than radial.

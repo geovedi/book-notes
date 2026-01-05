@@ -1,5 +1,6 @@
 # The World Without Us
 **Author**: Alan Weisman | **Year**: 2007
+**Category**: Science & Nature
 
 ## Summary
 Alan Weisman's groundbreaking work of speculative non-fiction poses a fascinating question: What would happen to Earth if humans suddenly vanished overnight? Through meticulous research and interviews with engineers, atmospheric scientists, zoologists, and oil refiners, Weisman chronicles how nature would reclaim our cities, which of our monuments would last longest, and how our plastics, nuclear waste, and other technological legacy would affect future ecosystems.

@@ -1,5 +1,5 @@
 # Three Celtic Tales
-**Authors**: Moyra Caldecott | **Year**: 2002
+**Authors**: Moyra Caldecott | **Year**: 2002 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 "Three Celtic Tales" is a captivating collection of retold Welsh myths from the Mabinogion tradition, each story exploring profound themes of transformation, identity, and the complex relationships between mortals and magical beings. Caldecott breathes new life into ancient Celtic lore while adding her own imaginative expansions to fill narrative gaps in the original texts.

@@ -1,5 +1,6 @@
 # Vanished Kingdoms
 **Author**: Norman Davies | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 Norman Davies' masterpiece examines 15 European states that no longer exist, from ancient Visigothic kingdoms to the Soviet Union. Each chapter follows a brilliant three-part structure: a contemporary visit to the vanished kingdom's location, the historical narrative of its rise and fall, and analysis of how it's remembered (or forgotten).

@@ -1,6 +1,6 @@
 # Fighting Game Fundamentals
 
-**Authors**: Gootecks | **Year**: 2016
+**Authors**: Gootecks | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 "Fighting Game Fundamentals" is a comprehensive guide to mastering Street Fighter 5 and fighting games in general, written by veteran player and content creator Gootecks. The book breaks down complex concepts into accessible strategies, covering everything from hardware setup and basic notation to advanced techniques like V-System management and frame data analysis. Gootecks leverages his decades of experience, from arcade days to professional competition, to help players avoid common pitfalls and accelerate their improvement.

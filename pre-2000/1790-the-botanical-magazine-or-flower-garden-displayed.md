@@ -1,5 +1,6 @@
 # The Botanical Magazine or Flower-Garden Displayed
 **Authors**: William Curtis | **Year**: 1790
+**Category**: Science & Nature
 
 ## Summary
 "The Botanical Magazine" represents a pioneering work in botanical literature that democratized plant knowledge for both scientific enthusiasts and practical gardeners. This comprehensive volume documents 36 plant species with meticulous detail, combining Linnaean classification with practical cultivation advice. Each plant entry includes precise botanical descriptions, native habitats, flowering times, and propagation methods, making sophisticated botanical knowledge accessible to ladies, gentlemen, and gardeners wishing to become scientifically acquainted with their cultivated plants.

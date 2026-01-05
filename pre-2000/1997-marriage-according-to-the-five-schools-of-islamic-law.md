@@ -1,6 +1,7 @@
 # Marriage According to the Five Schools of Islamic Law
 **Original Title**: Marriage according to the Five Schools of Islamic Law
 **Author**: Muhammad Jawad Maghniyyah | **Year**: 1997
+**Category**: Spirituality & Religion
 
 ## Summary
 This comprehensive comparative study examines Islamic marriage laws across five major schools of Islamic jurisprudence - Hanafi, Hanbali, Shafi'i, Maliki, and Ja'fari - providing detailed analysis of their similarities and differences on marriage-related issues. As the fifth volume in an eight-part series on Islamic Shariah, this work offers scholars and practitioners an authoritative reference for understanding how different Islamic legal traditions interpret and apply marriage regulations.

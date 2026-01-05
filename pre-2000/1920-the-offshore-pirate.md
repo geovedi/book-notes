@@ -1,6 +1,7 @@
 # The Offshore Pirate
 **Original Title**: The Offshore Pirate
 **Authors**: F. Scott Fitzgerald | **Year**: 1920
+**Category**: Fiction & Literature
 
 ## Summary
 "The Offshore Pirate" tells the story of Ardita Farnam, a wealthy nineteen-year-old flapper vacationing on her uncle's yacht off the Florida coast. After a heated argument with her uncle about her plans to meet a controversial man at Palm Beach, she finds herself alone on the yacht when Curtis Carlyle and his six Black companions arrive, claiming to be pirates who have robbed a tea room in Palm Beach.

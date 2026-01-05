@@ -1,5 +1,6 @@
 # 2017-Moments of Being
 **Original Authors**: Virginia Woolf | **Year**: 2017 (Posthumous Collection)
+**Category**: History & Biography
 
 ## Summary
 *Moments of Being* is Virginia Woolf's collection of autobiographical memoirs that reveal the inner workings of her consciousness and the formative experiences that shaped her revolutionary literary vision. Written across different periods of her life, these five memoir pieces offer unprecedented access to Woolf's private world, from childhood memories at St Ives to the complex social dynamics of Victorian London.

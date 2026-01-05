@@ -1,6 +1,7 @@
 # The Bells of Bruges
 **Original Title**: Le Carillonneur
 **Authors**: Georges Rodenbach | **Year**: 1897
+**Category**: Fiction & Literature
 
 ## Summary
 In the medieval Flemish town of Bruges, a city frozen in time like a museum piece, architect Joris Borluut wins a prestigious contest to become the official town carillonneur. As guardian of the belfry's bells, Borluut discovers the position feels less like an honor and more like receiving "the key to his own tomb." The novel weaves a tale of artistic obsession, doomed love, and the tragic conflict between romantic ideals and modern progress.

@@ -1,6 +1,7 @@
 # Against Nature
 **Original Title**: À rebours (1884)
 **Author**: J.-K. Huysmans | **Year**: 1884
+**Category**: Fiction & Literature
 
 ## Summary
 "Against Nature" follows Jean des Esseintes, the last scion of an aristocratic French family, who abandons society to create an artificial world of aesthetic perfection in a secluded villa. After becoming disgusted with the vulgarity of modern life, the superficiality of Parisian high society, and the monotony of natural phenomena, des Esseintes retreats to Fontenay-aux-Roses where he dedicates himself to cultivating heightened sensory experiences through artifice rather than nature.

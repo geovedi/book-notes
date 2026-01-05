@@ -1,5 +1,6 @@
 # We Were Perfect Parents Until We Had Children
 **Authors**: Vanessa Raphaely, Karin Schimke | **Year**: 2024
+**Category**: Romance & Relationships
 
 ## Summary
 A refreshingly honest parenting guide that draws on seven years of collective wisdom from The Village, South Africa's largest online parenting community with 60,000 members. Instead of expert theories, this book delivers real, unfiltered experiences from actual parents raising tweens, teens, and young adults in today's challenging world. The authors embrace "perfectly imperfect" parenting, recognizing there's no single right way to raise children and that the best solutions come from shared community wisdom rather than prescriptive advice.

@@ -1,6 +1,7 @@
 # Economic Principles
 **Original Title**: Economics Volume 1: Economic Principles
 **Author**: Frank A. Fetter | **Year**: 1915
+**Category**: Business & Finance
 
 ## Summary
 "Economic Principles" is a comprehensive textbook that revolutionizes economic theory by shifting from the traditional cost-of-production framework to a unified psychological theory of value based on human choice and preference. Fetter argues that value originates not from labor or production costs, but from individual choices and the act of valuation itself. The book presents economics as the study of how humans earn a living through the gratification of desires, examining both individual economies (like Robinson Crusoe) and complex social economies.

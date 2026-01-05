@@ -1,6 +1,7 @@
 # Crime and Punishment
 **Original Title**: Преступление и наказание (Prestupleniye i nakazaniye)
 **Author**: Fyodor Dostoevsky | **Year**: 1866
+**Category**: Fiction & Literature
 
 ## Summary
 Rodion Raskolnikov, a destitute former student living in St. Petersburg, murders a cruel pawnbroker and her innocent sister to test his theory that "extraordinary men" are above conventional morality. What begins as an intellectual experiment quickly spirals into psychological torment as guilt and paranoia consume him. The novel follows his agonizing journey through crime, punishment, and eventual redemption through the unwavering love of Sonia Marmeladova, a young woman forced into prostitution.

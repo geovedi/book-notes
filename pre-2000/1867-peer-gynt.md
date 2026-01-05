@@ -1,5 +1,6 @@
 # Peer Gynt
 **Original Title**: Peer Gynt | **Authors**: Henrik Ibsen | **Year**: 1867
+**Category**: Fiction & Literature
 
 ## Summary
 Peer Gynt is a legendary five-act verse drama that follows the epic journey of its anti-hero, Peer Gynt, from his Norwegian mountain home to adventures across the globe. The play explores the nature of identity, selfishness versus selflessness, and the search for authentic existence through Peer's fantastical encounters with trolls, his business ventures in Morocco, his philosophical wanderings, and his eventual confrontation with death and judgment.

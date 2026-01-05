@@ -1,5 +1,5 @@
 # What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions
-**Authors**: Randall Munroe | **Year**: 2022
+**Authors**: Randall Munroe | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
  Randall Munroe's "What If? 2" continues the brilliant tradition of applying rigorous scientific analysis to the most absurd hypothetical questions readers can imagine. As a former NASA physicist and creator of the xkcd webcomic, Munroe combines deep scientific knowledge with humor and accessible explanations, taking "what if" scenarios far beyond their logical conclusions to explore fundamental principles of physics, chemistry, and reality itself.

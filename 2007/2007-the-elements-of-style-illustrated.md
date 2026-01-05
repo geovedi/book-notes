@@ -1,5 +1,6 @@
 # The Elements of Style Illustrated
 **Authors**: William Strunk Jr., E.B. White, Maira Kalman | **Year**: 2007
+**Category**: Art & Creativity
 
 ## Summary
 This illustrated edition of the classic writing guide presents Strunk and White's timeless principles for clear, effective writing with Maira Kalman's whimsical artwork. The book distills the art of good writing into essential rules and principles that help writers communicate with precision, clarity, and style. At its core, the book argues that good writing is about expressing thoughts clearly and directly, avoiding unnecessary words, and respecting the reader's time and attention.

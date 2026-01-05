@@ -1,5 +1,5 @@
 # Blue Ocean Strategy
-**Authors**: W. Chan Kim, Renée A. Mauborgne | **Year**: 2014
+**Authors**: W. Chan Kim, Renée A. Mauborgne | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 Blue Ocean Strategy challenges the traditional competitive approach to business strategy by proposing that organizations should stop competing in crowded "red oceans" of bloody competition and instead create "blue oceans" of uncontested market space. The core premise is that companies can achieve both differentiation and low cost simultaneously through "value innovation" - creating new value for customers while reducing costs. This approach transforms competition from a zero-sum game to a non-zero opportunity for growth.

@@ -1,5 +1,6 @@
 # Mornings in Mexico
 **Authors**: D. H. Lawrence | **Year**: 1927 (Original publication), 2017 (This edition)
+**Category**: Fiction & Literature
 
 ## Summary
 "Mornings in Mexico" is D.H. Lawrence's vivid travel memoir capturing his experiences in a small Mexican town, where he observes daily life, native customs, and the profound relationship between people and their environment. Through eight beautifully crafted essays, Lawrence explores everything from the antics of pet parrots to ancient ceremonial dances, offering intimate glimpses into Mexican culture, landscape, and spiritual life.

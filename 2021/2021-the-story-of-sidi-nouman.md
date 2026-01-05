@@ -1,6 +1,7 @@
 # The Story of Sidi-Nouman
 **Original Title**: أَلْفُ لَيْلَةٍ وَلَيْلَةٌ‎‎ (One Thousand and One Nights)
 **Author**: Andrew Lang (Translator) | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 Sidi-Nouman, a modest man with a comfortable fortune, marries the beautiful Amina, only to discover his new wife has a horrifying secret. After their wedding, he notices she barely eats—consuming only a few grains of rice at each meal. Suspicious, he follows her one night and witnesses her joining a ghoul in a cemetery to feast on corpses. When he confronts her about her cannibalistic nature, she transforms him into a dog with magic. As a dog, Sidi-Nouman eventually finds refuge with a kind baker, where his intelligence attracts attention. A woman recognizes he's actually a man under a spell and brings him to her daughter, a magician who breaks the curse. Armed with magical water, Sidi-Nouman returns home and transforms his wicked wife into a horse as punishment for her crimes.

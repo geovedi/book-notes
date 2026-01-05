@@ -1,5 +1,6 @@
 # American Caesar
 **Author**: William Manchester | **Year**: 1978
+**Category**: History & Biography
 
 ## Summary
 William Manchester's "American Caesar" presents Douglas MacArthur as one of history's most brilliant yet deeply flawed military leaders. Born into military royalty in 1880, MacArthur became a strategic genius who orchestrated 87 successful amphibious operations in WWII and ruled Japan as its post-war shogun. Yet his towering ego, insubordination, and political ambitions ultimately led to his dramatic dismissal by President Truman during the Korean War.

@@ -1,6 +1,7 @@
 # Grand Prix: An Illustrated History of Formula 1
 
-**Authors**: Will Buxton | **Year**: 2024 
+**Authors**: Will Buxton | **Year**: 2024
+**Category**: History & Biography 
 
 ## Summary
 "Grand Prix" is a comprehensive journey through the evolution of Formula 1 racing from its pre-war origins to the modern era. Written by veteran F1 journalist and broadcaster Will Buxton, the book combines technical insights, historical context, and compelling stories of the legendary drivers who shaped the sport. Through detailed illustrations and engaging narratives, readers discover how Formula 1 transformed from dangerous European racing circuits into a global technological showcase featuring the world's most advanced racing machines.

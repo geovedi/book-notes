@@ -1,5 +1,6 @@
 # Troublemaker: Surviving Hollywood and Scientology
 **Authors**: Leah Remini, Rebecca Paley | **Year**: 2015
+**Category**: Spirituality & Religion
 
 ## Summary
 In this explosive memoir, actress Leah Remini chronicles her thirty-plus years inside the Church of Scientology and her dramatic departure in 2013. Growing up in Brooklyn, Remini was introduced to Scientology as a child when her mother sought answers and a better life for her daughters. What began as a search for personal development evolved into decades of dedication that cost her nearly $5 million and countless relationships. The book provides a rare insider's view of Scientology's practices, its celebrity culture (particularly around Tom Cruise), and the authoritarian leadership of David Miscavige. Remini describes her journey from devoted Sea Org member to Hollywood star, and ultimately to an outspoken critic declared a "Suppressive Person" by the church.

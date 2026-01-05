@@ -1,5 +1,6 @@
 # Forex Trading: Two Round Number Strategies
 **Authors**: Heikin Ashi Trader | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This concise trading guide presents two practical strategies specifically designed for forex markets, addressing the unique challenges of currency trading in an era of historically low volatility. The author argues that traditional trend-following approaches struggle in forex due to the market's high liquidity and tendency to move sideways rather than trend. Instead, traders need strategies that work within these constraints by targeting small, predictable price movements around psychologically significant price levels.

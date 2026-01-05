@@ -1,5 +1,5 @@
 # Trading and Investing in Cryptocurrencies 101
-**Authors**: Jordan Keizer | **Year**: 2018
+**Authors**: Jordan Keizer | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive beginner's guide transforms cryptocurrency newcomers into confident investors by providing practical strategies, technical knowledge, and psychological frameworks for navigating the volatile digital currency market. The book covers everything from wallet security and portfolio diversification to trading psychology and risk management, emphasizing that success requires both technical understanding and emotional discipline.

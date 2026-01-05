@@ -1,5 +1,6 @@
 # The Little Nugget
 **Authors**: P. G. Wodehouse | **Year**: 1913
+**Category**: Fiction & Literature
 
 ## Summary
 "The Little Nugget" is a comic novel about the chaotic world surrounding Ogden Ford, a wealthy and thoroughly unpleasant American boy nicknamed "the Little Nugget" by various criminal elements who see him as a valuable prize. After Ogden's parents divorce, his mother Nesta Ford is desperate to regain custody from her wealthy ex-husband Elmer Ford, leading to multiple kidnapping attempts by both amateurs and professionals.

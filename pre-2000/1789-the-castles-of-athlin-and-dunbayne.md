@@ -1,5 +1,6 @@
 # The Castles of Athlin and Dunbayne: A Gothic Romance Guide
 **Authors**: Ann Radcliffe | **Year**: 1789
+**Category**: Fiction & Literature
 
 ## Summary
 In the rugged Highlands of 18th-century Scotland, young Earl Osbert of Athlin seeks vengeance against the treacherous Baron Malcolm, who murdered his father twelve years earlier. When Osbert is captured during an ambush, Malcolm demands the hand of Osbert's beautiful sister Mary in exchange for his life. Meanwhile, Osbert discovers a secret passage in his prison and meets Laura, the Baron's captive daughter, sparking an unexpected romance. As alliances shift and secrets unravel, a humble peasant named Alleyn proves instrumental in rescue efforts—only to discover he's actually Philip Malcolm, the Baron's long-lost son and rightful heir.

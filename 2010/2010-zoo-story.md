@@ -1,5 +1,5 @@
 # Zoo Story
-**Authors**: Thomas French | **Year**: 2010
+**Authors**: Thomas French | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Zoo Story" is a masterwork of narrative journalism that takes readers behind the scenes of Tampa's Lowry Park Zoo, exploring the complex moral and ethical questions surrounding modern zoos. The book centers on the controversial importation of eleven wild elephants from Swaziland, following their harrowing journey from African game reserves to American captivity. Through this dramatic story and the daily lives of the zoo's animals and keepers, French examines the fundamental contradictions at the heart of zoological institutions - places that both protect and imprison, educate and exploit, conserve and confine.

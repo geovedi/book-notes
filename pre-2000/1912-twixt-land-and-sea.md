@@ -1,5 +1,6 @@
 # Twixt Land & Sea
 **Authors**: Joseph Conrad | **Year**: 1912
+**Category**: Fiction & Literature
 
 ## Summary
 "Twixt Land & Sea" is a masterful collection of three maritime novellas that explores the psychological depths of human nature through the lens of sea life. Conrad examines themes of identity, moral ambiguity, forbidden love, and the complex relationship between civilization and the vast, indifferent ocean. Each story presents characters caught between worlds—literal and metaphorical—struggling with their inner conflicts while navigating the treacherous waters of human relationships and professional responsibilities.

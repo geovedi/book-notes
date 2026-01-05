@@ -1,5 +1,5 @@
 # The End of Faith
-**Author**: Sam Harris | **Year**: 2004
+**Author**: Sam Harris | **Year**: 2004 | **Category**: Spirituality & Religion
 
 ## Summary
 Sam Harris's "The End of Faith" is a controversial but powerful critique of religious faith as the most significant threat to human civilization in the modern world. Harris argues that religious belief—particularly when it demands certainty without evidence—is inherently dangerous because it divides humanity, justifies violence, and stands in direct opposition to reason and rational discourse. Written in the aftermath of 9/11, the book challenges the taboo against criticizing religious beliefs and calls for a world where reason, evidence, and intellectual honesty replace faith as the foundation for morality and meaning.

@@ -1,5 +1,6 @@
 # Relentless Focus
 **Authors**: Patrick King | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Relentless Focus" delivers exactly what its subtitle promises: 27 practical, science-backed tweaks to overcome procrastination, boost productivity, eliminate distractions, and accomplish more in less time. The book is structured around four core phases: breaking inertia to get started, creating and maintaining momentum, sustaining focus, and strategic planning. King combines psychological research, behavioral science, and personal experience to create a comprehensive productivity system that works with human nature rather than against it.

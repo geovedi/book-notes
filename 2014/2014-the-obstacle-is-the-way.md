@@ -1,5 +1,5 @@
 # The Obstacle Is the Way
-**Author**: Ryan Holiday | **Year**: 2014
+**Author**: Ryan Holiday | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Obstacle Is the Way" presents a modern take on ancient Stoic philosophy, teaching readers how to transform trials into triumph by changing their perception, taking strategic action, and building inner resilience. Drawing inspiration from Marcus Aurelius's maxim "The impediment to action advances action. What stands in the way becomes the way," Holiday reveals a timeless framework for turning obstacles into opportunities.

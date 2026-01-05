@@ -1,5 +1,5 @@
 # The Disappearing Spoon
-**Author**: Sam Kean | **Year**: 2010
+**Author**: Sam Kean | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "The Disappearing Spoon" reveals the periodic table as a treasure chest of human stories, where every element harbors tales of madness, love, genius, and historical turning points. Sam Kean transforms the dry columns and rows of elements into a living narrative that connects mercury poisoning in hat-making, gallium's practical joke potential, and the race to discover new elements during the Cold War. The book shows how chemistry's building blocks have shaped human civilization in ways most people never imagine.

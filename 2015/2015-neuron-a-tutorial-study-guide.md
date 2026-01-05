@@ -1,5 +1,5 @@
 # Neuron: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This concise educational guide breaks down the complex world of neurons into digestible concepts, explaining how these specialized brain cells process information and communicate through electrical and chemical signals. Written in a question-and-answer format, it serves as both a foundational textbook for biology students and an accessible reference for anyone curious about how the brain processes information.

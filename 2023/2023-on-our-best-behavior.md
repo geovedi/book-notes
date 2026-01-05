@@ -1,5 +1,6 @@
 # On Our Best Behavior
 **Author**: Elise Loehnen | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Elise Loehnen explores how the Seven Deadly Sins have been weaponized against women for centuries, creating a system where women are conditioned to deny their fundamental needs and desires to maintain societal approval. By examining each "sin" through a feminist lens, Loehnen reveals how these religious concepts have evolved into cultural expectations that force women to suppress their rest, ambition, pride, hunger, security, pleasure, anger, and emotions—all in the name of being "good."

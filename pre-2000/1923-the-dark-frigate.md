@@ -1,5 +1,6 @@
 # The Dark Frigate
 **Authors**: Charles Boardman Hawes | **Year**: 1923
+**Category**: Children & Young Adult
 
 ## Summary
 "The Dark Frigate" tells the story of Philip Marsham, a young man born to the sea who loses his father in a shipwreck and flees London after accidentally causing chaos in a tavern. His journey takes him from the countryside back to his maritime roots when he joins the crew of the "Rose of Devon," a frigate bound for Newfoundland. The story captures the dangers and adventures of 17th-century seafaring life, including storms, piracy, and the constant threat of betrayal.

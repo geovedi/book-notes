@@ -1,5 +1,6 @@
 # African Entrepreneurs: 50 Success Stories
 **Authors**: Iwa Adetunji | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "African Entrepreneurs: 50 Success Stories" is a compelling showcase of fifty remarkable African business leaders who have built successful companies across the continent despite significant challenges. The book presents each entrepreneur's journey through a brief profile followed by an in-depth interview, revealing their mindset, strategies, and practical advice for aspiring business owners. From tech startups to fashion brands, from pharmaceutical companies to entertainment platforms, these stories collectively demonstrate that Africa is a continent of creators and producers, not just consumers.

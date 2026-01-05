@@ -1,5 +1,6 @@
 # Live Slowly
 **Authors**: Jodi H. Grubbs | **Year**: 2024
+**Category**: Spirituality & Religion
 
 ## Summary
 Live Slowly is a gentle invitation to step off the treadmill of hustle culture and embrace a more sustainable, intentional pace of life. Drawing from her experience growing up on island time and navigating profound personal tragedy—including her husband's accident and subsequent death—Grubbs offers eighteen foundational "slow living shifts" that help readers recover their precious lives from the tyranny of busyness. The book weaves together personal stories, spiritual wisdom, and practical rhythms to help exhausted souls find rest, purpose, and deeper connection with God and others.

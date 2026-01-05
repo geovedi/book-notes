@@ -1,5 +1,6 @@
 # Avoidance, Drugs, Heartbreak and Dogs
 **Authors**: Jordan Stephens | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 This raw, unflinching memoir chronicles Jordan Stephens' journey through self-destruction, heartbreak, and ultimately, self-discovery. The book revolves around a life-altering moment: being left by his girlfriend Chloe after confessing infidelity. Rather than shying away from his mistakes, Stephens dissects his patterns of avoidance, drug use, and toxic behavior with brutal honesty. The narrative jumps between different time periods, weaving together childhood memories, his music career, failed relationships, and his path toward healing through therapy and emotional retreats.

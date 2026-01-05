@@ -1,5 +1,5 @@
 # Emotional Intelligence 2.0
-**Authors**: Travis Bradberry, Jean Greaves | **Year**: 2018
+**Authors**: Travis Bradberry, Jean Greaves | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 Emotional Intelligence 2.0 reveals that while we've prioritized IQ for decades, emotional intelligence (EQ) actually determines 58% of our performance success. Only 36% of people can accurately identify their emotions as they happen - the rest are ruled by feelings they don't understand. This book provides a practical framework with 66 specific strategies to develop your EQ through four core skills: self-awareness, self-management, social awareness, and relationship management.

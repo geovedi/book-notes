@@ -1,5 +1,6 @@
 # The Condition of the Working Class in England
 **Original Title**: Die Lage der arbeitenden Klasse in England: Nach eigner Anschauung und authentischen Quellen
+**Category**: History & Biography
 **Author**: Friedrich Engels | **Year**: 1845
 
 ## Summary

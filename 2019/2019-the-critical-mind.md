@@ -1,5 +1,6 @@
 # The Critical Mind
 **Authors**: Zoe McKey | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Critical Mind" is a practical guide to developing essential thinking skills that help you navigate modern information overload. The book demonstrates how critical thinking isn't about being negative or argumentative—it's about approaching information with curiosity, skepticism, and humility to make better decisions. McKey shows how we can question assumptions, recognize biases, and think more clearly in both personal and professional contexts.

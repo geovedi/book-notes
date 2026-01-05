@@ -1,5 +1,6 @@
 # The Hunt for Vulcan
 **Authors**: Thomas Levenson | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "The Hunt for Vulcan" tells the fascinating story of how a planet that never existed dominated astronomical thinking for half a century. The book chronicles the search for Vulcan, a hypothetical planet believed to orbit between Mercury and the Sun, which was proposed to explain Mercury's strange orbital behavior. What begins as a seemingly simple astronomical puzzle becomes a profound exploration of how science actually works - messy, human, and sometimes wrong.

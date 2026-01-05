@@ -1,5 +1,5 @@
 # It's Complicated: The Social Lives of Networked Teens
-**Authors**: danah boyd | **Year**: 2014
+**Authors**: danah boyd | **Year**: 2014 | **Category**: Technology & Computing
 
 ## Summary
 "It's Complicated" challenges the widespread fears and misconceptions about teenagers' use of social media. Through extensive ethnographic research, danah boyd reveals that teens' online behaviors are often extensions of age-old adolescent needs for social connection, identity formation, and autonomy. Rather than creating new problems, social media has primarily changed the landscape where traditional teenage social dynamics play out.

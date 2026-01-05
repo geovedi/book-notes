@@ -1,6 +1,7 @@
 # Island Genius: Deep Exploration of Savant Syndrome's Important Implications for Cognitive Neuroscience and Human Potential
 **Original Title**: 孤岛天才：深度探究学者综合征对认知神经科学与人类潜能的重要启示
 **Author**: Darold A. Treffert | **Year**: 2018
+**Category**: Science & Nature
 
 ## Summary
 This groundbreaking book presents savant syndrome as a rare but extraordinary condition where exceptional "island genius" abilities coexist remarkably alongside certain disabilities in the same person. Dr. Darold A. Treffert argues that studying these remarkable individuals provides crucial insights into human brain function, hidden potential, and the very nature of consciousness itself. Through decades of clinical research and fascinating case studies, the book reveals how savant syndrome represents not just a medical curiosity, but a window into understanding untapped human potential that exists within everyone.

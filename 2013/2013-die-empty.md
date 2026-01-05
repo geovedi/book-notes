@@ -1,5 +1,5 @@
 # Die Empty
-**Author**: Todd Henry | **Year**: 2013
+**Author**: Todd Henry | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Die Empty" is a powerful call to action for anyone feeling stuck in their work or life. Todd Henry challenges readers to live with urgency and purpose, ensuring they don't go to their grave with their best work still inside them. The book presents a framework for making meaningful contributions daily by avoiding complacency, defining your battles, and embracing discomfort as a path to growth.

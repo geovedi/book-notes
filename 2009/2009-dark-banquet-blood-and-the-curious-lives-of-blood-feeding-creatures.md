@@ -1,5 +1,6 @@
 # Dark Banquet: Blood and the Curious Lives of Blood-Feeding Creatures
 **Authors**: Bill Schutt, Illustrated by Patricia J. Wynne | **Year**: 2009
+**Category**: Science & Nature
 
 ## Summary
 "Dark Banquet" is a fascinating exploration into the world of sanguivores—creatures that feed on blood. Written by zoologist Bill Schutt, this book combines personal field research with scientific insights to reveal the remarkable adaptations and behaviors of blood-feeding animals ranging from vampire bats to leeches, bed bugs, and even some unexpected blood-feeders like vampire finches. Schutt's firsthand experiences studying vampire bats in Trinidad provide compelling narratives, while the book also delves into the historical relationship between humans and bloodletting practices.

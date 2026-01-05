@@ -1,5 +1,5 @@
 # The Private Life of Helen of Troy
-**Authors**: John Erskine | **Year**: 2022
+**Authors**: John Erskine | **Year**: 2022 | **Category**: Fiction & Literature
 
 ## Summary
 John Erskine's "The Private Life of Helen of Troy" offers a revolutionary reimagining of the legendary figure behind the Trojan War, stripping away myth to reveal a complex, intelligent woman grappling with love, family, and societal expectations. Rather than depicting Helen as a passive object of desire or a simple villain, Erskine presents her as a thoughtful individual who makes conscious choices while navigating the consequences of her legendary beauty.

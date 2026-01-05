@@ -1,6 +1,7 @@
 # The Little Red Chairs
 **Original Title**: Tante piccole sedie rosse
-**Author**: Edna O'Brien | **Year**: 2015 
+**Author**: Edna O'Brien | **Year**: 2015
+**Category**: Fiction & Literature
 
 ## Summary
 The Little Red Chairs is a powerful literary novel that begins when a mysterious stranger arrives in the small Irish village of Cloonoila one winter night. Dr. Vladimir Dragan, a charismatic healer and poet from Montenegro, quickly charms the locals with his magnetism and alternative medical practices. Fidelma McBride, a lonely married woman, falls deeply under his spell, entering into an affair that will irrevocably change her life.

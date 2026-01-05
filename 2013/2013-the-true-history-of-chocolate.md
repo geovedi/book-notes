@@ -1,5 +1,5 @@
 # The True History of Chocolate
-**Authors**: Sophie D. Coe, Michael D. Coe | **Year**: 2013
+**Authors**: Sophie D. Coe, Michael D. Coe | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "The True History of Chocolate" reveals the remarkable 4,000-year journey of chocolate from sacred Mesoamerican beverage to global commodity. This comprehensive history traces chocolate's evolution through ancient civilizations, European transformation, industrial revolution, and modern ethical challenges. The authors uncover how cacao beans served as currency, how chocolate sparked cultural fusion between continents, and how this once-exclusive elite drink became accessible to everyone. The book illuminates chocolate's role in medicine, religion, social status, and capitalism, showing how this single food product reflects broader patterns of human civilization, cultural exchange, and economic exploitation.

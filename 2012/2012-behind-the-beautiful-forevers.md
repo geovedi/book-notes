@@ -1,5 +1,6 @@
 # Behind the Beautiful Forevers
 **Author**: Katherine Boo | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 "Behind the Beautiful Forevers" is a masterpiece of narrative non-fiction that immerses readers in Annawadi, a makeshift settlement in the shadow of Mumbai's luxury hotels near the international airport. Through three years of meticulous research and reporting, Katherine Boo chronicles the lives of slum dwellers clinging to hope amid systemic corruption, desperate poverty, and the brutal realities of India's economic boom. The book centers on a tragic incident: when a one-legged woman named Fatima sets herself on fire and falsely accuses her neighbors, the Husain family, of the crime.

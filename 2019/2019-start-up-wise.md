@@ -1,5 +1,6 @@
 # Start-Up Wise
 **Authors**: Jonathan Reuvid | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Start-Up Wise" is a practical, no-nonsense handbook for aspiring entrepreneurs who want to transition from employment to self-employment. Written by someone who has spent three decades in self-employment after an initial career in industry, the book offers a realistic roadmap from initial business idea through to growth and potential acquisition. Unlike many business books that promise overnight success, this guide takes a sober approach, acknowledging the challenges while providing concrete strategies for overcoming them.

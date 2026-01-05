@@ -1,5 +1,5 @@
 # Passive Income How to Guide: The Simple System to Make Money Online Within 30 Days
-**Authors**: Richard Blake | **Year**: 2018
+**Authors**: Richard Blake | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies passive income by providing a comprehensive roadmap for generating earnings through minimal ongoing effort. The book presents over 20 different passive income strategies, ranging from traditional investments to modern digital opportunities. Blake's approach emphasizes diversification and accessibility, ensuring that readers with varying capital levels and skill sets can find suitable options to build supplemental or replacement income streams.

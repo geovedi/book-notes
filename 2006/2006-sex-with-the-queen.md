@@ -1,5 +1,5 @@
 # Sex with the Queen
-**Author**: Eleanor Herman | **Year**: 2006
+**Author**: Eleanor Herman | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "Sex with the Queen" reveals the shocking truth about royal women's secret lives across 900 years of European history. This eye-opening history exposes how queens, trapped in loveless political marriages and isolated in gilded cages, risked everything for passion, love, and sometimes power itself.

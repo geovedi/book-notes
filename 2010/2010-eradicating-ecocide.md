@@ -1,5 +1,5 @@
 # Eradicating Ecocide
-**Authors**: Polly Higgins | **Year**: 2010
+**Authors**: Polly Higgins | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Eradicating Ecocide" presents a radical legal framework to address mass environmental destruction by proposing ecocide as the fifth Crime Against Peace, alongside genocide, crimes against humanity, war crimes, and crimes of aggression. Higgins, a barrister and environmental advocate, argues that current laws are inadequate to prevent corporations and governments from engaging in widespread ecosystem destruction, which she argues will inevitably lead to resource wars and planetary collapse.

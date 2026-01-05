@@ -1,5 +1,5 @@
 # The Quickest Copywriting Crash Course
-**Authors**: John Bester | **Year**: 2015
+**Authors**: John Bester | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 "The Quickest Copywriting Crash Course" is a practical guide that transforms copywriting from a mysterious art into a learnable skill. The book presents copywriting as "salesmanship in print" - the ability to persuade readers through written words to take specific actions like making purchases or signing up for lists. It emphasizes that copywriting mastery comes through consistent daily practice, similar to building muscle through weightlifting.

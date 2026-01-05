@@ -1,5 +1,5 @@
 # The Pirates Laffite: The Treacherous World of the Corsairs of the Gulf
-**Authors**: William C. Davis | **Year**: 2005
+**Authors**: William C. Davis | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 

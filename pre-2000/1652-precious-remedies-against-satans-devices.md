@@ -1,5 +1,6 @@
 # Precious Remedies Against Satan's Devices
 **Author**: Thomas Brooks | **Year**: 1652 (2018 Edition)
+**Category**: Spirituality & Religion
 
 ## Summary
 Thomas Brooks' 17th-century spiritual warfare classic systematically exposes Satan's tactics and provides biblical countermeasures for believers facing temptation, doubt, and spiritual attack. This comprehensive guide identifies over 30 distinct "devices" Satan uses to ensnare souls, each paired with practical, Christ-centered remedies that remain remarkably relevant for modern spiritual battles.

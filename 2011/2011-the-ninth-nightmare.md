@@ -1,5 +1,5 @@
 # The Ninth Nightmare
-**Authors**: Graham Masterton | **Year**: 2011
+**Authors**: Graham Masterton | **Year**: 2011 | **Category**: Horror & Thriller
 
 ## Summary
 A team of supernatural warriors known as the Night Warriors must stop an ancient evil circus from breaking through from the dream world into reality. The story follows multiple characters including Katie, a hotel guest who experiences terrifying reality shifts, and John, a taxi driver who becomes entangled in the supernatural events. The Night Warriors—led by Dom Magator and including warriors like An-Gryferai, Zebenjo'Yyx, and the twin duo Jekkalon/Jemexxa—battle Brother Albrecht's Traveling Circus & Freak Show, which has been trapped in the dream world for 800 years and seeks to escape by performing nine human sacrifices.

@@ -1,5 +1,5 @@
 # The Great Mortality
-**Author**: John Kelly | **Year**: 2006
+**Author**: John Kelly | **Year**: 2006 | **Category**: Health & Medicine
 
 ## Summary
 "The Great Mortality" is a compelling narrative history of the Black Death, the devastating pandemic that swept across Eurasia in the 14th century, killing between one-third and one-half of Europe's population. John Kelly transforms this medieval catastrophe into an intimate human story through the eyes of contemporary witnesses—chroniclers, merchants, physicians, and ordinary people who lived through the apocalypse.

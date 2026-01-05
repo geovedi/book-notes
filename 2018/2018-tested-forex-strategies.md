@@ -1,5 +1,5 @@
 # 2018 Tested Forex Strategies
-**Authors**: Wayne Walker | **Year**: 2018
+**Authors**: Wayne Walker | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 

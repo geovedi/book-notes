@@ -1,5 +1,5 @@
 # Measure What Matters
-**Authors**: John Doerr | **Year**: 2018
+**Authors**: John Doerr | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Measure What Matters" introduces Objectives and Key Results (OKRs), a powerful goal-setting framework that has transformed organizations like Google, Intel, and the Gates Foundation. This systematic approach helps companies focus on what truly matters, align teams around common goals, track progress transparently, and stretch beyond their comfort zones to achieve extraordinary results.

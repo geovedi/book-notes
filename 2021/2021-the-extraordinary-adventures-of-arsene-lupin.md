@@ -1,5 +1,6 @@
 # The Extraordinary Adventures of Arsène Lupin
 **Original Title**: Arsène Lupin, Gentleman Cambrioleur | **Authors**: Maurice Leblanc | **Year**: 2021 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This collection presents the extraordinary adventures of Arsène Lupin, France's most whimsical, audacious, and genial master thief. Lupin operates as a "gentleman burglar" who targets the wealthy elite while often redistributing his spoils to the poor, making him both a criminal and a folk hero. The stories showcase his brilliant intellect, mastery of disguise, and ability to outwit both the police and rival detectives like Holmlock Shears and Guerchard.

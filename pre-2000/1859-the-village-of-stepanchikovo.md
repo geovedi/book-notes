@@ -1,5 +1,6 @@
 # The Village of Stepanchikovo
 **Authors**: Fyodor Dostoyevsky | **Year**: 1859
+**Category**: Fiction & Literature
 
 ## Summary
 A young student named Sergei Alexandrovich arrives at his uncle's country estate to find the household completely dominated by Foma Fomich Opiskin, a former servant who has psychologically manipulated his way into becoming the master of the house. What unfolds over 48 hours is a explosive comic drama featuring wild carriage chases, moonlight trysts, elopement attempts, and a climactic thunderstorm as Sergei works to break Foma's spell and restore order to the absurd household.

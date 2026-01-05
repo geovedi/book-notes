@@ -1,5 +1,6 @@
 # Forex Trading: The Relevance of Time
 **Authors**: Stanley Davies | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This book reveals how institutional traders manipulate forex markets through structured price movements, providing retail traders with a framework to trade alongside rather than against market makers. Davies demystifies price action by explaining how markets follow predictable patterns of accumulation, manipulation, and distribution that occur across all timeframes.

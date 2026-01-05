@@ -1,6 +1,7 @@
 # Dark Matter & Dark Energy
 **Original Title**: Dark Matter & Dark Energy: The Hidden 95% of the Universe
 **Authors**: Brian Clegg | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 This book reveals one of the most astonishing discoveries in modern science: everything we can observe in the universe—the stars, galaxies, planets, and even ourselves—makes up only about 5% of reality. The remaining 95% consists of mysterious substances called dark matter (27%) and dark energy (68%) that we cannot see or directly detect, yet they fundamentally shape the cosmos. The book takes readers on a journey through the historical discoveries, cutting-edge research, and profound implications of these invisible forces that dominate our universe.

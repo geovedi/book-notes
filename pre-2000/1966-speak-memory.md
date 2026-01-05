@@ -1,5 +1,5 @@
 # Speak, Memory: An Autobiography Revisited
-**Author**: Vladimir Nabokov | **Year**: 1966 (revised edition)
+**Author**: Vladimir Nabokov | **Year**: 1966 (revised edition) | **Category**: Fiction & Literature
 
 ## Summary
 Vladimir Nabokov's memoir chronicles his first 37 years, from his aristocratic Russian childhood through the Revolution to his eventual exile in America. Written with extraordinary linguistic precision and visual vividness, the autobiography is less a chronological account than a series of interconnected memory fragments that reveal how consciousness, art, and perception shaped the author's development. Nabokov presents his life as a series of "spaced flashes" of perception, with particular emphasis on his synesthetic experiences, his lifelong passion for lepidopterology (butterfly collecting), and the luxurious world of pre-revolutionary Russia that was irrevocably lost.

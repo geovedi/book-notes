@@ -1,5 +1,6 @@
 # Who: The A Method for Hiring
 **Authors**: Geoff Smart, Randy Street | **Year**: 2008
+**Category**: Business & Finance
 
 ## Summary
 The most important decisions businesspeople make aren't about strategy, products, or processes—they're about people. This book reveals a systematic approach to hiring A Players that achieves 90% success rates, transforming hiring from a 50/50 gamble into a predictable advantage. The authors spent 13 years studying over 300 CEOs and interviewing 20+ billionaires to develop a method that helps companies stop losing money to hiring mistakes (which cost 15x an employee's salary) and start building teams that drive extraordinary results.

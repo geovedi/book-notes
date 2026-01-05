@@ -1,5 +1,6 @@
 # The Art of Witty Banter: Be Clever, Quick, & Magnetic
 **Authors**: Patrick King | **Year**: 2020
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Art of Witty Banter" is a practical guide to mastering the skill of clever, spontaneous conversation that makes you more charismatic and socially magnetic. Patrick King breaks down the seemingly mysterious ability of naturally witty people into learnable techniques and mental frameworks. The book teaches that wit isn't an innate talent but rather a skill that can be developed through specific patterns and practice.

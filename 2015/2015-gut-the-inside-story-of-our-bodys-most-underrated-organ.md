@@ -1,5 +1,5 @@
 # Gut: The Inside Story of Our Body's Most Underrated Organ
-**Authors**: Giulia Enders, Jill Enders | **Year**: 2015
+**Authors**: Giulia Enders, Jill Enders | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 "Gut: The Inside Story of Our Body's Most Underrated Organ" is a fascinating exploration of one of the body's most misunderstood and underappreciated systems. Written by medical student Giulia Enders with charming illustrations by her sister Jill, this book transforms our understanding of the digestive system from a simple food processing tube into a complex, intelligent organ that influences everything from our mood to our immune system. Through engaging explanations, surprising facts, and practical advice, Enders reveals how our gut functions, its connection to our brain, and the critical role of our microbiome—the trillions of bacteria that call our digestive tract home. The book challenges common misconceptions about digestion while providing actionable insights for better health.

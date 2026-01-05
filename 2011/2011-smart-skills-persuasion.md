@@ -1,5 +1,5 @@
 # Smart Skills: Persuasion
-**Authors**: Patrick Forsyth | **Year**: 2011
+**Authors**: Patrick Forsyth | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "Smart Skills: Persuasion" is a comprehensive guide to mastering the art of influencing others in business and professional contexts. The book presents persuasion not as manipulation, but as a collaborative process of "helping people make decisions" - a two-way dialogue that respects the other person's needs and perspectives while achieving your objectives.

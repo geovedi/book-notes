@@ -1,5 +1,6 @@
 # Hood Feminism
 **Author**: Mikki Kendall | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Hood Feminism is a powerful critique of mainstream feminism's failure to address the basic survival needs of marginalized women. Kendall argues that feminism has become too focused on the concerns of already-privileged white women—issues like workplace advancement and body positivity—while ignoring fundamental issues like food insecurity, gun violence, inadequate healthcare, and educational inequality that affect millions of women daily.

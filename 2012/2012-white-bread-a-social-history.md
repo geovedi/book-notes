@@ -1,5 +1,6 @@
 # White Bread: A Social History of the Store-Bought Loaf
 **Author**: Aaron Bobrow-Strain | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 "White Bread" reveals how this seemingly ordinary food became a powerful symbol of American dreams, fears, and social conflicts. Through six interconnected historical episodes, Bobrow-Strain shows how battles over white bread reflected deeper anxieties about purity, progress, health, and national identity—from the industrial revolution's promise of germ-free perfection to the counterculture's rejection of artificial food, and from wartime vitamin enrichment to contemporary food justice movements.

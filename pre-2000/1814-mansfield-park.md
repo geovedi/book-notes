@@ -1,5 +1,6 @@
 # Mansfield Park
 **Authors**: Jane Austen | **Year**: 1814 (original), 2017 edition
+**Category**: Romance & Relationships
 
 ## Summary
 "Mansfield Park" tells the story of Fanny Price, a poor young girl sent to live with her wealthy relatives at Mansfield Park. Growing up as the dependent cousin in the Bertram family, Fanny navigates the complex social dynamics of Regency England while maintaining her moral integrity despite facing constant reminders of her inferior status. When the sophisticated Crawford siblings arrive, their presence threatens to disrupt the family's stability through romantic entanglements that test everyone's character and values.

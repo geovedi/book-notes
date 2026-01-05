@@ -1,5 +1,5 @@
 # Dead Funny: Humor in Hitler's Germany
-**Authors**: Rudolph Herzog, Jefferson Chase | **Year**: 2011
+**Authors**: Rudolph Herzog, Jefferson Chase | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking examination of political humor under Nazi Germany reveals that contrary to popular belief, the Third Reich was far from a humorless society. Through meticulous research of jokes, cabaret performances, and personal testimonies, Herzog challenges our understanding of how ordinary Germans coped with Nazi rule through laughter. The book demonstrates that political jokes were not forms of resistance but rather release valves for frustration that ultimately helped stabilize the regime.

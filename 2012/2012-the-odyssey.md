@@ -1,5 +1,6 @@
 # The Odyssey
 **Original Title**: Ὀδύσσεια (Odysseia) | **Authors**: Homer | **Year**: c. 8th Century BCE
+**Category**: Fiction & Literature
 
 ## Summary
 The Odyssey chronicles the epic 10-year journey of Odysseus, king of Ithaca, as he struggles to return home after the Trojan War. Having spent 10 years fighting at Troy, Odysseus faces another decade of divine punishment, mythical creatures, and supernatural obstacles before reaching his beloved wife Penelope and son Telemachus. Meanwhile in Ithaca, Penelope fends off 108 suitors who have invaded their palace, consuming their wealth and pressuring her to remarry, while young Telemachus searches for news of his father and matures into a leader.

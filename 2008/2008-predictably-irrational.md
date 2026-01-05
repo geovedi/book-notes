@@ -1,6 +1,7 @@
 # Predictably Irrational
 **The Hidden Forces That Shape Our Decisions**
 **Authors**: Dan Ariely | **Year**: 2008
+**Category**: Psychology & Mental Health
 
 ## Summary
 Dan Ariely's groundbreaking work reveals that human decision-making is far from rational. Through fascinating experiments, he demonstrates that we consistently make predictable irrational choices due to hidden psychological, emotional, and social forces. From why we overvalue what we own to how "free" items distort our judgment, Ariely uncovers the systematic patterns behind our seemingly illogical behaviors.

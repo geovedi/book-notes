@@ -1,5 +1,6 @@
 # Your Word Is Your Wand
 **Authors**: Florence Scovel Shinn | **Year**: 1928
+**Category**: Spirituality & Religion
 
 ## Summary
 "Your Word Is Your Wand" is a spiritual guidebook that teaches the transformative power of spoken words and affirmations to manifest desired life conditions. Florence Scovel Shinn reveals how our thoughts and words act as a "magic wand" that can change seemingly impossible circumstances into positive outcomes. Drawing on biblical teachings and metaphysical principles, she demonstrates how conscious use of language can replace lack with abundance, sorrow with joy, and sickness with health. The book provides specific affirmations and practical examples of how people have transformed their lives through the deliberate application of spiritual laws.

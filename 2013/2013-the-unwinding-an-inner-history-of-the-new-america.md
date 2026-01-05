@@ -1,5 +1,5 @@
 # The Unwinding: An Inner History of the New America
-**Authors**: George Packer | **Year**: 2013
+**Authors**: George Packer | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 The Unwinding reveals how America's social contract has unraveled since the 1970s, creating a stark divide between the ultra-rich and everyone else. Packer traces this decline through intimate biographical portraits of ordinary Americans and influential figures, showing how the golden age of capitalism collapsed into a winner-takes-all economy where institutions no longer serve the common good. The book chronicles the systematic dismantling of American manufacturing, the financialization of the economy, and the resulting social decay that has left millions struggling to survive.

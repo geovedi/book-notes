@@ -1,5 +1,6 @@
 # The Antichrist
 **Authors**: Friedrich Wilhelm Nietzsche | **Year**: 1888
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Friedrich Nietzsche's "The Antichrist" is a devastating philosophical attack on Christianity and its moral framework. Written in 1888 during an extraordinarily productive period before his mental collapse, this work represents Nietzsche's most comprehensive critique of Christian values, which he sees as fundamentally life-denying and rooted in weakness. The book argues that Christianity represents a "slave morality" that elevates the weak, sick, and powerless while suppressing the strong, healthy, and life-affirming instincts that drive human greatness. Nietzsche contrasts Christianity with what he considers superior moral frameworks, particularly Buddhism, which he sees as more honest and realistic.

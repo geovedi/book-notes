@@ -1,5 +1,5 @@
 # Bitcoin: An Ultimate Guide to Digital Gold
-**Authors**: Rooney Edwards | **Year**: 2018
+**Authors**: Rooney Edwards | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide introduces readers to Bitcoin, the world's first successful cryptocurrency that operates without centralized control from banks or governments. The book explains how Bitcoin solves the "double spend" problem that plagued previous digital currencies, making it a viable form of digital money. Through a peer-to-peer network similar to torrents, Bitcoin enables direct transactions between individuals while maintaining a public ledger of all transactions since 2009.

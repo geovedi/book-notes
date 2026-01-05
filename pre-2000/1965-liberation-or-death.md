@@ -1,6 +1,6 @@
 # Liberation or Death
 **Original Title**: Liberazione o morte (Le Fionde)
-**Author**: Camilo Torres Restrepo | **Year**: 1965 (written), 2015 (edition)
+**Author**: Camilo Torres Restrepo | **Year**: 1965 (written), 2015 (edition) | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 

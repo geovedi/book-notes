@@ -1,5 +1,6 @@
 # How to Blog for Big Bucks
 **Authors**: Dale Carnegie | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This concise guide reveals how to transform blog commenting from a casual activity into a powerful traffic generation and monetization strategy. The book positions thoughtful blog engagement as an underutilized marketing tool that can drive substantial traffic to your website without requiring significant financial investment.

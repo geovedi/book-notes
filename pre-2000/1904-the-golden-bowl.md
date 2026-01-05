@@ -1,5 +1,6 @@
 # The Golden Bowl
 **Authors**: Henry James | **Year**: 1904
+**Category**: Fiction & Literature
 
 ## Summary
 Maggie Verver, the innocent daughter of a wealthy American art collector, marries Prince Amerigo, a charming but financially strained Italian aristocrat. When Maggie's father Adam marries Charlotte Stant—Maggie's childhood friend and the Prince's former lover—the two couples form an intricate web of relationships that appears perfect on the surface but conceals deep emotional complexities. The discovery that Amerigo and Charlotte are continuing their affair forces Maggie to transform from naive wife to psychologically astute strategist, navigating betrayal with quiet determination and moral strength rather than open confrontation.

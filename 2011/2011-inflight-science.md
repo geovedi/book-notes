@@ -1,5 +1,5 @@
 # Inflight Science: A Guide to the World From Your Airplane Window
-**Authors**: Brian Clegg | **Year**: 2011
+**Authors**: Brian Clegg | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 "Inflight Science" transforms the airplane experience into an interactive laboratory, revealing the fascinating physics and technology that make modern aviation possible. This accessible guide turns routine flights into opportunities for discovery, explaining everything from airport security scanners to wing aerodynamics, GPS navigation, and the visible patterns of Earth below. Perfect for curious travelers who wonder about the science behind their journey.

@@ -1,6 +1,7 @@
 # Useless Feminism
 **Original Title**: Il femminismo inutile
-**Author**: Annina Vallarino | **Year**: 2024 
+**Author**: Annina Vallarino | **Year**: 2024
+**Category**: Philosophy & Critical Thinking 
 
 ## Summary
 "Useless Feminism" is a provocative critique of contemporary neo-feminism, arguing that modern feminist movements have strayed from their original purpose of achieving genuine equality and justice. Vallarino contends that today's feminism often focuses on victimization, marginal issues, and ideological purity rather than addressing the real challenges women face. Through sharp analysis and biting irony, she examines how feminism has transformed into a performance-based ideology that infantilizes women, creates competition between victims, and ultimately undermines female autonomy and progress.

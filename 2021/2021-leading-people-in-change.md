@@ -1,5 +1,6 @@
 # 2021-Leading People in Change
 **Authors**: Jennifer Bryan | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "Leading People in Change" is a practical guide that challenges the conventional approach to change management by putting people at the center of the process. Bryan argues that change management has become too focused on methodologies and technology, often neglecting the human element that is critical for success. Drawing from twenty years of experience working with over thirty organizations, she presents the ABChange Model - a framework that links leadership styles with specific change skills to help leaders effectively guide their teams through transformation.

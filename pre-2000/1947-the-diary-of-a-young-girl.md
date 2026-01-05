@@ -1,5 +1,6 @@
 # The Diary of a Young Girl
 **Author**: Anne Frank | **Year**: 1947 (published posthumously)
+**Category**: History & Biography
 
 ## Summary
 This remarkable diary chronicles two years of Anne Frank's life in hiding from the Nazis in Amsterdam during World War II. Beginning with her 13th birthday in June 1942 and ending abruptly in August 1944, Anne documents the daily realities, fears, hopes, and personal growth of eight people confined in the "Secret Annex." What transforms this from a historical document into a timeless masterpiece is Anne's extraordinary literary talent, her unflinching honesty about her own flaws and aspirations, and her unwavering belief in humanity's goodness despite experiencing its darkest depths.

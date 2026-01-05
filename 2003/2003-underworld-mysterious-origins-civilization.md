@@ -1,5 +1,5 @@
 # Underworld: The Mysterious Origins of Civilization
-**Author**: Graham Hancock | **Year**: 2003
+**Author**: Graham Hancock | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 Graham Hancock presents a revolutionary challenge to conventional archaeology, arguing that advanced civilizations existed during the last Ice Age and were destroyed by cataclysmic flooding between 17,000-7,000 years ago. Through extensive underwater exploration and investigation of submerged ruins around the world—from India's coast to Japan's Yonaguni monument—Hancock builds a compelling case that human history is far older and more sophisticated than mainstream scholarship acknowledges.

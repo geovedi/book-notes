@@ -1,5 +1,5 @@
 # Lancashire Folk Tales
-**Authors**: Jennie Bailey, David England | **Year**: 2014
+**Authors**: Jennie Bailey, David England | **Year**: 2014 | **Category**: Children & Young Adult
 
 ## Summary
 This enchanting collection transports readers through Lancashire's rich tapestry of folklore, presented through the eyes of two modern storytellers—Lily Battersby and Dr. Fred Hibbert—who serve as guides on a magical journey through the County Palatine. The book weaves together traditional tales of hauntings, supernatural encounters, legendary heroes, and cunning folk who outwit the Devil, all set against the backdrop of Lancashire's most iconic locations.

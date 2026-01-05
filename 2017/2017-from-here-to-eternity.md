@@ -1,5 +1,6 @@
 # From Here to Eternity
 **Author**: Caitlin Doughty | **Year**: 2017
+**Category**: Health & Medicine
 
 ## Summary
 Caitlin Doughty, a funeral director and death acceptance advocate, travels the world exploring diverse death rituals to understand how different cultures approach mortality. From open-air cremations in Colorado to mummification practices in Indonesia, Doughty documents how societies maintain relationships with their dead and argues that Western culture's death avoidance has created emotional and spiritual impoverishment. The book reveals that the most "primitive" death practices often offer more healing, community support, and psychological integration than modern Western funeral industry alternatives.

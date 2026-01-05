@@ -1,5 +1,6 @@
 # Reboot: Leadership and the Art of Growing Up
 **Author**: Jerry Colonna | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Reboot" presents a radical premise: better humans make better leaders, and the journey to effective leadership is fundamentally a journey of growing up. Colonna, a former venture capitalist turned CEO coach, argues that true leadership requires us to confront our childhood wounds, examine our core belief systems, and develop the emotional maturity to meet reality as it is rather than as we wish it were. Through vulnerable storytelling and practical wisdom, he shows how the challenges of leadership can become the very catalyst for our personal evolution.

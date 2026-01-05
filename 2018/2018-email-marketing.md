@@ -1,5 +1,6 @@
 # Email Marketing
 **Authors**: Tim Shek | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Email Marketing" is a comprehensive step-by-step guide to building passive income streams through targeted email marketing campaigns. The book presents email marketing as one of the most cost-effective, scalable, and profitable digital marketing strategies available to entrepreneurs and marketers today. With minimal investment (under $10/month), anyone can create an automated system that generates consistent revenue by building and nurturing relationships with a targeted email list.

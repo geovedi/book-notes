@@ -1,5 +1,6 @@
 # Political Women
 **Authors**: Maggie Andrews | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Political Women" chronicles fifteen pivotal campaigns led by women that transformed twentieth-century Britain and created the foundation for modern women's rights. From the Glasgow Rent Strike of 1915 to the Spice Girls' Girl Power phenomenon in 1996, this book reveals how ordinary women fought extraordinary battles using tactics ranging from direct action and protests to legal challenges and cultural movements.

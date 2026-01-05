@@ -1,5 +1,6 @@
 # Dracula
 **Authors**: Bram Stoker | **Year**: 1897
+**Category**: Horror & Thriller
 
 ## Summary
 Dracula tells the chilling story of Count Dracula, a Transylvanian vampire who attempts to move from Eastern Europe to England to spread his undead curse. The narrative unfolds through a collection of diary entries, letters, and newspaper clippings, following the terrifying events as Dracula preys upon innocent victims while a small group of heroes bands together to destroy him.

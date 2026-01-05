@@ -1,5 +1,6 @@
 # This Is Not a Self-Help Book
 **Authors**: Mark M. | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 This is a raw, brutally honest memoir about addiction and recovery by Irish comedian and musician Mark M. The book chronicles his journey from teenage drinking to full-blown alcoholism and cocaine addiction, and ultimately to recovery. Rather than offering prescriptive solutions, the book presents an unfiltered exploration of how addiction manifests in someone who doesn't fit the stereotypical image of an alcoholic. Mark shares his struggles with anxiety, panic attacks, body image issues, and a lifelong feeling of being "different" or "off" that fueled his addictive behaviors.

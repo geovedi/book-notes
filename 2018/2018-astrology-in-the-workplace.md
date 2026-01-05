@@ -1,5 +1,5 @@
 # Astrology in the Workplace
-**Authors**: Unknown | **Year**: 2018
+**Authors**: Unknown | **Year**: 2018 | **Category**: Spirituality & Religion
 
 ## Summary
 "Astrology in the Workplace" presents a revolutionary framework for understanding professional behavior through the lens of zodiac signs and their elemental classifications. This book translates ancient astrological wisdom into practical workplace strategies, organizing personality types into four elemental groups that explain why people work the way they do.

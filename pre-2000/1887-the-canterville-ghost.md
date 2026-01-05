@@ -1,5 +1,6 @@
 # The Canterville Ghost
 **Authors**: Oscar Wilde | **Year**: 1887
+**Category**: Fiction & Literature
 
 ## Summary
 

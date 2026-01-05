@@ -1,6 +1,7 @@
 # The History of the Revolt of the United Netherlands from the Spanish Government
 **Original Title**: Geschichte des Abfalls der vereinigten Niederlande von der spanischen Regierung
 **Author**: Friedrich Schiller | **Year**: 1788
+**Category**: History & Biography
 
 ## Summary
 Friedrich Schiller's historical masterpiece chronicles the Dutch Revolt (1568-1648), a pivotal eighty-year war through which the Seventeen Provinces of the Netherlands fought for and ultimately won their independence from Spanish rule. Schiller presents this not merely as a military conflict but as a profound struggle between tyranny and freedom, religious persecution and conscience, despotism and emerging republican ideals.

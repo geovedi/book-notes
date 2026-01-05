@@ -1,5 +1,6 @@
 # The Sensorium of God
 **Authors**: Stuart Clark | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 "The Sensorium of God" is a masterful historical novel that dramatizes the intense scientific rivalries and personal struggles behind Isaac Newton's discovery of universal gravitation. Set in late 17th-century England, the book immerses readers in the volatile world of the Royal Society, where brilliant minds like Newton, Robert Hooke, Edmond Halley, and Christopher Wren competed to unlock the universe's greatest mysteries. The narrative weaves together the scientific quest to understand gravity with profound questions about the relationship between science and faith, creating a vivid portrait of the seismic shift from medieval worldview to modern scientific thinking.

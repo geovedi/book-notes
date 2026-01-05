@@ -1,5 +1,6 @@
 # Drama Free: A Guide to Managing Unhealthy Family Relationships
 **Author**: Nedra Glover Tawwab | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 This practical guide offers essential tools for understanding and transforming unhealthy family dynamics. Written by a licensed therapist, "Drama Free" addresses the reality that family relationships are often the most common source of unhealthy patterns in our lives. The book provides a compassionate yet direct approach to recognizing dysfunction, setting boundaries, and making difficult decisions about family relationships.

@@ -1,6 +1,7 @@
 # The Fair at Sorochyntsi
 **Original Title**: Сорочинская ярмарка (Sorochinskaya yarmarka)
 **Author**: Nikolai Gogol | **Year**: 1831
+**Category**: Fiction & Literature
 
 ## Summary
 Set in the Ukrainian countryside of 1800, "The Fair at Sorochyntsi" follows Solopy Cherevik, a peasant who travels with his daughter Paraska and his cantankerous wife Khivrya to a bustling annual fair. What begins as a commercial venture quickly transforms into a romantic comedy when a young Cossack named Grytsko falls for Paraska and proposes marriage on the spot. The story is enriched by Ukrainian folklore, particularly the tale of a red jacket belonging to a devil expelled from hell, creating an atmosphere where the supernatural intersects with everyday rural life.

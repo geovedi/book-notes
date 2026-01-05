@@ -1,5 +1,6 @@
 # The Electricity Fairy
 **Author**: Alex Mar | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 "The Electricity Fairy" tells the remarkable story of Loïe Fuller, an unlikely pioneer who transformed herself from a humble Illinois tavern girl into one of the most celebrated performers of fin de siècle Paris. Born Mary Louise Fuller in 1862, she reinvented herself through sheer determination and artistic vision, becoming known as "La Loïe" and later "la fée lumière" (the light fairy) for her revolutionary use of electric lighting, colored gels, and elaborate silk costumes that created hypnotic, transformative dance performances.

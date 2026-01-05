@@ -1,5 +1,5 @@
 # Wisdom from a Humble Jellyfish
-**Authors**: Rani Shah | **Year**: 2022
+**Authors**: Rani Shah | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 "Wisdom from a Humble Jellyfish" is a delightful self-care guide that draws powerful life lessons from the animal kingdom. Through 17 different animals and plants, author Rani Shah reveals how creatures' natural survival strategies can teach us valuable lessons about managing stress, anxiety, and burnout in our modern lives.

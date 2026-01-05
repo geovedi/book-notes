@@ -1,5 +1,5 @@
 # Letters to a Young Poet
-**Author**: Rainer Maria Rilke | **Year**: 2014 (Originally written 1903-1908)
+**Author**: Rainer Maria Rilke | **Year**: 2014 (Originally written 1903-1908) | **Category**: Fiction & Literature
 
 ## Summary
 Rilke's "Letters to a Young Poet" is a collection of ten profound letters written to Franz Kappus, a young military cadet and aspiring poet seeking guidance on his creative path and life questions. Rather than offering technical advice about poetry, Rilke provides deep wisdom about solitude, creativity, love, and the inner journey of becoming an artist and human being.

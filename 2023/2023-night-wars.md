@@ -1,5 +1,6 @@
 # Night Wars
 **Authors**: Graham Masterton | **Year**: 2023
+**Category**: Horror & Thriller
 
 ## Summary
 When newborn babies in Louisville, Kentucky begin crying uncontrollably and refusing to sleep, recently-fired journalist Sasha Smith discovers they've had their dreams stolen by dark forces seeking to unravel the universe itself. Sasha learns she's descended from a line of "Night Warriors" - guardians who defend humanity's dreams in the dream world. As Xanthys, the Time Curver, Sasha must embrace her hidden identity and join other dream-warriors in battle against the Winterwent and his forces who want to steal the universal knowledge contained in newborns' first dreams to destroy creation.

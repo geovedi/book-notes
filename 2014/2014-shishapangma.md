@@ -1,6 +1,6 @@
 # Shishapangma
 **Original Title**: Shishapangma
-**Authors**: Doug Scott, Alex MacIntyre | **Year**: 2014
+**Authors**: Doug Scott, Alex MacIntyre | **Year**: 2014 | **Category**: Health & Medicine
 
 ## Summary
 *Shishapangma* chronicles the groundbreaking 1982 British expedition that achieved the first alpine-style ascent of the mountain's formidable South-West Face. This pioneering climb represented a radical departure from traditional Himalayan mountaineering, abandoning heavy siege tactics in favor of lightweight, fast-moving climbing with minimal equipment and support. The book weaves together multiple perspectives from team members Doug Scott, Alex MacIntyre, Roger Baxter-Jones, and Nick Prescott, creating a rich tapestry of adventure, cultural discovery, and climbing philosophy set against the backdrop of Tibet's mystical landscape during its early opening to foreign visitors.

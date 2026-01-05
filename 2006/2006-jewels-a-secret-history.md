@@ -1,5 +1,5 @@
 # Jewels: A Secret History
-**Author**: Victoria Finlay | **Year**: 2006
+**Author**: Victoria Finlay | **Year**: 2006 | **Category**: Art & Creativity
 
 ## Summary
 Victoria Finlay's "Jewels: A Secret History" is a captivating journey through the fascinating world of gemstones, organized by hardness using Friedrich Mohs' scale from 1-10. This isn't just a geological guide—it's a treasure hunt that takes readers around the globe to uncover the human stories, cultural significance, and hidden secrets behind nine precious jewels: amber, jet, pearl, opal, peridot, emerald, sapphire, ruby, and diamond.

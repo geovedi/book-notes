@@ -1,5 +1,5 @@
 # Effective Meetings: A Guide to Better Management
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical guide transforms the frustrating experience of ineffective meetings into productive, focused gatherings that actually achieve results. Drawing from neuro-linguistic programming (NLP) principles, the book addresses a universal workplace pain point: meetings that drag on without purpose, waste valuable time, and leave participants feeling disengaged. The author argues that meetings are not inherently bad—they're essential for building shared understanding, fostering relationships, and leveraging collective intelligence. The problem lies in our approach and preparation.

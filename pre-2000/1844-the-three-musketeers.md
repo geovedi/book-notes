@@ -1,5 +1,6 @@
 # The Three Musketeers
 **Original Title**: Les Trois Mousquetaires | **Authors**: Alexandre Dumas | **Year**: 1844
+**Category**: Fiction & Literature
 
 ## Summary
 "The Three Musketeers" follows the young, impetuous d'Artagnan as he leaves his provincial home for Paris in 1625, armed with nothing but his father's sword, a letter of introduction, and boundless ambition. Through a series of chance encounters and misunderstandings, he befriends the three most formidable musketeers in the King's service—Athos, Porthos, and Aramis—and becomes embroiled in political intrigue, romance, and swashbuckling adventure at the court of Louis XIII.

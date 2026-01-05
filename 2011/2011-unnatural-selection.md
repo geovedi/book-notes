@@ -1,5 +1,5 @@
 # Unnatural Selection: Choosing Boys Over Girls, and the Consequences of a World Full of Men
-**Author**: Mara Hvistendahl | **Year**: 2011
+**Author**: Mara Hvistendahl | **Year**: 2011 | **Category**: Health & Medicine
 
 ## Summary
 Unnatural Selection reveals how Western population control programs and medical technologies led to the disappearance of an estimated 160 million females, primarily in Asia and Eastern Europe. Hvistendahl traces the origins of sex selection from 1960s American population control advocates who promoted sex determination as a tool for reducing birth rates, to the modern consequences of societies overwhelmed with men. The book exposes how well-intentioned efforts to combat overpopulation resulted in a gender imbalance that threatens social stability across multiple continents.

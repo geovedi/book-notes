@@ -1,5 +1,6 @@
 # The Old Man and the Sea
 **Authors**: Ernest Hemingway | **Year**: 1952
+**Category**: Fiction & Literature
 
 ## Summary
 Santiago is an aging Cuban fisherman who has gone 84 days without catching a fish, earning him the label "salao" (the worst form of unlucky). His young apprentice Manolin has been forced by his parents to work on a more prosperous boat, but remains devoted to Santiago, bringing him food and helping him prepare for his daily fishing trips. Determined to break his unlucky streak, Santiago ventures far out into the Gulf Stream, where he hooks a giant marlin larger than any he has ever seen. What follows is an epic three-day battle of endurance between man and fish, a test of will, strength, and character that pushes Santiago to his physical and mental limits.

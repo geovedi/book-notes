@@ -1,5 +1,6 @@
 # Domesticated: Evolution in a Man-Made World
 **Author**: Richard C. Francis | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "Domesticated" explores how humans have shaped the evolution of numerous species through domestication, using this process as a lens to understand fundamental principles of evolutionary biology. Francis examines the domestication of animals from foxes and dogs to cattle and camels, revealing that much of what we call "domestication" actually occurred through natural selection as animals adapted to human environments, rather than through intentional breeding alone.

@@ -1,5 +1,5 @@
 # The Sinatra Files: The Secret FBI Dossier
-**Authors**: Tom Kuntz, Phil Kuntz | **Year**: 2000
+**Authors**: Tom Kuntz, Phil Kuntz | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 

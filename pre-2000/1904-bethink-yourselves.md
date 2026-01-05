@@ -1,6 +1,7 @@
 # Bethink Yourselves
 **Original Title**: Bethink Yourselves
 **Author**: Leo Tolstoy | **Year**: 1904
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # The Systems Thinker: Mental Models
 **Authors**: Albert Rutherford | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Systems Thinker: Mental Models" introduces readers to the powerful cognitive frameworks that help us understand complex interconnected systems in our world. The book reveals how mental models—our deeply held beliefs and assumptions about how the world works—shape our perception, decision-making, and problem-solving abilities. Rutherford presents systems thinking as a method to expand cognitive horizons beyond linear cause-and-effect thinking, enabling us to see the bigger picture and identify leverage points for meaningful change.

@@ -1,5 +1,6 @@
 # Leaving Isn't the Hardest Thing
 **Author**: Lauren Hough | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 Lauren Hough's debut essay collection is a raw, unflinching memoir about surviving extraordinary circumstances and finding the courage to tell your truth. Raised in the Children of God cult across multiple countries, Hough later served in the U.S. Air Force during "Don't Ask, Don't Tell" before receiving an other-than-honorable discharge after facing homophobic threats and violence. These essays trace her journey from cult survivor to military veteran to cable guy, exploring themes of identity, belonging, trauma, and the complex nature of truth itself.

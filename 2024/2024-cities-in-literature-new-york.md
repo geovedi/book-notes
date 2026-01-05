@@ -1,6 +1,7 @@
 # Cities in Literature: New York
 **Original Title**: Cities in Literature: New York
 **Authors**: Edith Wharton, F. Scott Fitzgerald, Henry James, William Dean Howells, Washington Irving | **Year**: 2024
+**Category**: Fiction & Literature
 
 ## Summary
 "Cities in Literature: New York" is a sweeping literary anthology that transports readers through five centuries of New York City's evolution, from its Dutch colonial beginnings to the glittering Jazz Age. This remarkable collection curates five masterworks that chronicle the city's transformation from New Amsterdam to modern Manhattan, each capturing a distinct era with crystalline precision and profound social insight.

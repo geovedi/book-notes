@@ -1,5 +1,6 @@
 # Jingle All The Way: The Ultimate Christmas Collection Guide
 **Authors**: Louisa May Alcott, O. Henry, Charles Dickens, L. Frank Baum, Hans Christian Andersen, and many more | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 "Jingle All The Way" is a monumental anthology containing over 180 Christmas classics spanning novels, short stories, poems, and carols from the world's most beloved authors. This comprehensive collection brings together the most cherished holiday tales across different genres, time periods, and literary traditions, making it the ultimate resource for Christmas storytelling and literary celebration.

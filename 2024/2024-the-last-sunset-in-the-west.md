@@ -1,5 +1,6 @@
 # The Last Sunset in the West
 **Authors**: Natalie Sanders | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 "The Last Sunset in the West" is a poignant scientific memoir that chronicles the tragic decline of Britain's last resident pod of orcas, the West Coast Community (WCC). Marine biologist Natalie Sanders weaves together personal encounters, scientific research, and conservation advocacy to tell the story of these eight remaining orcas who inhabit the waters off Scotland's Hebrides. The book serves as both a tribute to these magnificent creatures and a sobering wake-up call about the threats facing marine ecosystems worldwide.

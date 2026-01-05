@@ -1,5 +1,6 @@
 # Compensation
 **Authors**: Ralph Waldo Emerson | **Year**: 2018
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Emerson's "Compensation" explores the fundamental law of balance that governs all existence - that every gain comes with a corresponding loss, every action creates its opposite reaction, and all blessings carry their burdens. This essay reveals how nature maintains perfect equilibrium through dual forces, ensuring that good and evil, pleasure and pain, strength and weakness always balance out across time.

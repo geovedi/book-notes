@@ -1,5 +1,6 @@
 # Your Brain is a Time Machine
 **Author**: Dean Buonomano | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Your Brain is a Time Machine" explores the fascinating intersection of neuroscience and physics, revealing how our brains serve as sophisticated time machines that enable us to perceive, process, and navigate the temporal dimension of existence. Buonomano, a leading neuroscientist, demystifies the complex mechanisms our brains use to tell time, from milliseconds to years, and examines the profound implications for our understanding of consciousness, memory, and the nature of reality itself.

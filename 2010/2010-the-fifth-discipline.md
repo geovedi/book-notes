@@ -1,5 +1,5 @@
 # The Fifth Discipline
-**Authors**: Peter M. Senge | **Year**: 2010
+**Authors**: Peter M. Senge | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 "The Fifth Discipline" revolutionizes how we think about organizations by introducing the concept of "learning organizations" — places where people continually expand their capacity to create the results they truly desire. Senge argues that traditional hierarchical organizations suffer from systemic learning disabilities that prevent them from adapting and thriving in complex environments. The solution lies in mastering five core disciplines that transform how individuals and teams think, interact, and learn together.

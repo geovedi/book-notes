@@ -1,5 +1,5 @@
 # The Lean Startup
-**Author**: Eric Ries | **Year**: 2011
+**Author**: Eric Ries | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 The Lean Startup revolutionizes entrepreneurship by applying scientific method principles to building businesses under extreme uncertainty. Rather than wasting years building a product nobody wants, entrepreneurs should focus on rapid experimentation and validated learning to discover what customers actually value. The approach treats every product, feature, and campaign as an experiment designed to test assumptions and gather actionable data.

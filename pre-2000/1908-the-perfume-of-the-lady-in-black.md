@@ -1,5 +1,6 @@
 # The Perfume of the Lady in Black
 **Authors**: Gaston Leroux | **Year**: 1908
+**Category**: Horror & Thriller
 
 ## Summary
 The Perfume of the Lady in Black is a masterful mystery novel and sequel to The Mystery of the Yellow Room, featuring the brilliant young detective Joseph Rouletabille. Set two years after the events of the previous novel, the story begins with the marriage of Robert Darzac and Mathilde Stangerson, whose happiness seems finally secured following the apparent death of their nemesis, the master criminal Larsan (also known as Ballmeyer). However, the wedding celebration is shadowed by unease and ominous portents that soon spiral into a new terrifying mystery.

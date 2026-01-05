@@ -1,5 +1,6 @@
 # An Irreverent Curiosity
 **Author**: David Farley | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "An Irreverent Curiosity" is a hilarious and bizarre travel memoir about American writer David Farley's quest to solve one of the Vatican's strangest mysteries: the 1983 theft of the Holy Foreskin of Jesus Christ from the medieval Italian village of Calcata. What begins as curiosity about a truly peculiar religious relic becomes a three-year obsession that immerses Farley in the eccentric world of Calcata, a cliffside village populated by hippies, artists, and locals who guard their secrets fiercely.

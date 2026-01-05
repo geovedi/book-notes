@@ -1,5 +1,5 @@
 # Wikinomics
-**Authors**: Don Tapscott, Anthony D. Williams | **Year**: 2006 (Expanded Edition 2008)
+**Authors**: Don Tapscott, Anthony D. Williams | **Year**: 2006 (Expanded Edition 2008) | **Category**: Technology & Computing
 
 ## Summary
 Wikinomics explores how mass collaboration is revolutionizing business, innovation, and wealth creation in the digital age. The book argues that traditional hierarchical corporate structures are being replaced by new models based on community, collaboration, and self-organization. Thanks to Web 2.0 technologies, companies can now source ideas, innovations, and talent from a vast global pool, transforming how products and services are conceived, developed, and distributed.

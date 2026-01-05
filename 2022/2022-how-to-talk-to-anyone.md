@@ -1,5 +1,5 @@
 # How to Talk to Anyone
-**Authors**: Patrick King | **Year**: 2022
+**Authors**: Patrick King | **Year**: 2022 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "How to Talk to Anyone" dismantles common misconceptions about charisma and conversation, revealing that being a captivating communicator isn't about being the most interesting person in the room—it's about making others feel interesting, understood, and valued. Patrick King presents 27 actionable techniques built on psychology research and real-world application.

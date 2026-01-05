@@ -1,5 +1,5 @@
 # The Little Book of Big History
-**Authors**: Ian Crofton, Jeremy Black | **Year**: 2016
+**Authors**: Ian Crofton, Jeremy Black | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "The Little Book of Big History" takes readers on an extraordinary journey from the Big Bang 13.8 billion years ago to the present day, weaving together cosmology, geology, evolution, and human history into a single grand narrative. This comprehensive guide shows how cosmic events, geological processes, biological evolution, and human civilization are interconnected, revealing the deep patterns that shape our existence.

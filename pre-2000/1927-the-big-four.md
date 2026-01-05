@@ -1,5 +1,6 @@
 # The Big Four
 **Authors**: Agatha Christie | **Year**: 1927
+**Category**: Horror & Thriller
 
 ## Summary
 Hercule Poirot faces his most dangerous adversary yet—a mysterious international criminal organization known only as "The Big Four." When Captain Hastings returns from Argentina to find Poirot about to depart for South America, their reunion is interrupted by a mysterious dying man who reveals the existence of four powerful criminals: Number One (Li Chang Yen, the Chinese mastermind), Number Two (an American financial genius), Number Three (a French woman), and Number Four (the deadly destroyer). What begins as an apparently routine case quickly escalates into a global conspiracy that threatens world stability, forcing Poirot to fake his own death and go underground to stop this criminal syndicate from achieving world domination.

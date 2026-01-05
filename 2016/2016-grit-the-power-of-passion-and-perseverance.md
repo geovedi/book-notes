@@ -1,5 +1,5 @@
 # Grit: The Power of Passion and Perseverance
-**Author**: Angela Duckworth | **Year**: 2016
+**Author**: Angela Duckworth | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 In "Grit," psychologist Angela Duckworth challenges our culture's obsession with talent and reveals that the secret to outstanding achievement is not innate ability but rather a special blend of passion and perseverance she calls "grit." Through decades of research, Duckworth demonstrates that grit—the tendency to sustain interest in and effort toward very long-term goals—is the key to success in any field, from West Point cadets to National Spelling Bee champions. The book shows that talent is no guarantee of success, while effort counts twice in the equation for achievement.

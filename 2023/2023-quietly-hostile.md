@@ -1,5 +1,6 @@
 # Quietly Hostile
 **Authors**: Samantha Irby | **Year**: 2023
+**Category**: Fiction & Literature
 
 ## Summary
 Samantha Irby's "Quietly Hostile" is a razor-sharp collection of essays that transforms life's most uncomfortable moments into comedy gold. From the awkward beginnings of pandemic lockdown to the existential crisis of online shopping, Irby tackles the messy reality of being human with unfiltered honesty and dark humor. The book captures her journey from small-town misfit to successful television writer, all while navigating the complexities of aging, marriage, and a body that doesn't always cooperate.

@@ -1,5 +1,5 @@
 # My Stroke of Insight
-**Author**: Jill Bolte Taylor | **Year**: 2006
+**Author**: Jill Bolte Taylor | **Year**: 2006 | **Category**: Health & Medicine
 
 ## Summary
 A Harvard brain scientist experiences a massive stroke and documents her journey from devastation to recovery, offering unprecedented insights into how the brain works. Taylor's unique perspective as both patient and expert reveals the distinct functions of our brain's two hemispheres and provides a roadmap for neurological recovery.

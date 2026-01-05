@@ -1,5 +1,6 @@
 # Knowledge in a Nutshell: Astrophysics
 **Authors**: Sten Odenwald | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 Astrophysics reveals the universe's fundamental workings by explaining astronomical processes through the lens of physics—how forces act upon matter to create and evolve cosmic systems across billions of years. This comprehensive guide takes readers from the essential tools of observation to the grandest cosmic scales, showing how everything from stars to galaxies to the universe itself follows predictable physical laws.

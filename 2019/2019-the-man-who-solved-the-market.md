@@ -1,5 +1,6 @@
 # The Man Who Solved the Market
 **Authors**: Gregory Zuckerman | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This is the extraordinary story of Jim Simons, a former MIT math professor who founded Renaissance Technologies and created the most successful investment fund in history. Despite having no formal finance education and starting his trading career at age 40, Simons pioneered quantitative trading strategies that delivered staggering 66% average annual returns since 1988. His approach revolutionized finance by replacing human intuition with mathematical models and data-driven analysis. The book reveals how Simons assembled a team of brilliant scientists, mathematicians, and code-breakers to uncover subtle market patterns that traditional Wall Street experts missed.

@@ -1,5 +1,6 @@
 # A Haunted House
 **Authors**: Virginia Woolf | **Year**: 1921
+**Category**: Fiction & Literature
 
 ## Summary
 "A Haunted House" is Virginia Woolf's ethereal short story about a ghostly couple who wander through a house searching for their buried treasure. Through poetic stream-of-consciousness prose, Woolf transforms the traditional haunted house trope into a meditation on love, memory, and the eternal nature of human connection.

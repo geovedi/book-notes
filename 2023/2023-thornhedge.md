@@ -1,5 +1,6 @@
 # Thornhedge
 **Authors**: T. Kingfisher | **Year**: 2023
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Thornhedge is a subversive retelling of the Sleeping Beauty fairy tale that flips the traditional narrative on its head. Instead of a wicked fairy cursing an innocent princess, we discover that the fairy Toadling is actually protecting the world from a truly dangerous princess-changeling named Fayette. After being stolen as a baby and raised by child-eating swamp spirits (the greenteeth), Toadling becomes a gentle fairy who learns that she must place the evil Fayette into an enchanted sleep and surround the tower with thorns to protect humanity from the princess's cruelty.

@@ -1,5 +1,5 @@
 # The Up Side of Down
-**Authors**: Megan McArdle | **Year**: 2014
+**Authors**: Megan McArdle | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Up Side of Down" argues that failure is not only inevitable but essential for success, innovation, and personal growth. McArdle, a self-described "spectacular failure," reveals how our fear of failure has made us risk-averse and less resilient. She combines personal anecdotes with research across economics, psychology, medicine, and business to demonstrate that societies and individuals who learn to fail well—embracing smart risk-taking, learning quickly from mistakes, and practicing forgiveness—ultimately thrive.

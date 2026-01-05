@@ -1,6 +1,7 @@
 # Prison
 **Original Title**: Gefängnis
-**Authors**: Emmy Hennings | **Year**: 1919 
+**Authors**: Emmy Hennings | **Year**: 1919
+**Category**: Fiction & Literature 
 
 ## Summary
 "Prison" is a haunting autobiographical memoir that chronicles Emmy Hennings' experience of incarceration in a German women's prison. Written with raw honesty and poetic sensitivity, the narrative captures her journey from the moment of arrest through the dehumanizing process of intake, daily life behind bars, and eventual release. The book reveals the psychological toll of confinement while preserving the author's artistic spirit and human dignity in the face of institutional oppression.

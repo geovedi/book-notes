@@ -1,5 +1,5 @@
 # Sherlock Holmes Short Stories
-**Authors**: Sir Arthur Conan Doyle (retold by Clare West) | **Year**: 2016
+**Authors**: Sir Arthur Conan Doyle (retold by Clare West) | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 This collection features three of Sherlock Holmes's most famous cases, specially adapted for English language learners. Each story showcases the master detective's extraordinary powers of observation and deduction as he solves seemingly impossible mysteries in Victorian London and beyond. From mysterious deaths involving exotic snakes to royal scandals and deadly secrets from America's past, Holmes demonstrates why he remains the world's greatest detective.

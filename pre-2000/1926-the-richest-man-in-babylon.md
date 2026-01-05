@@ -1,5 +1,6 @@
 # The Richest Man in Babylon
 **Authors**: George S. Clason | **Year**: 1926
+**Category**: Business & Finance
 
 ## Summary
 "The Richest Man in Babylon" is a classic financial self-help book that presents timeless wealth-building principles through engaging parables set in ancient Babylon. The book follows Arkad, who rises from being a poor scribe to become the richest man in Babylon by mastering simple yet powerful financial laws. Through a series of stories featuring characters like Bansir the chariot builder, Kobbi the musician, and others struggling with "lean purses," the book reveals that the path to wealth isn't complex—it requires discipline, consistency, and wisdom that anyone can learn.

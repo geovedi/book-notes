@@ -1,5 +1,5 @@
 # Constantinople: The Last Great Siege, 1453
-**Author**: Roger Crowley | **Year**: 2006
+**Author**: Roger Crowley | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "Constantinople: The Last Great Siege, 1453" recounts the dramatic 53-day siege that ended the 1,100-year Byzantine Empire and reshaped the medieval world. Crowley masterfully weaves together the stories of two determined leaders—21-year-old Sultan Mehmet II, obsessed with capturing the "Red Apple" of world power, and Emperor Constantine XI, the last Roman ruler defending Christianity's eastern bastion. The siege marked a pivotal moment in history: the birth of the Ottoman Empire, the end of the medieval era, and the closing of one of history's most enduring chapters.

@@ -1,5 +1,5 @@
 # The Pedant's Revolt
-**Authors**: Andrea Barham | **Year**: 2011
+**Authors**: Andrea Barham | **Year**: 2011 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Pedant's Revolt" is a comprehensive debunking guide that challenges hundreds of widely-held beliefs and "facts" that are actually false. Author Andrea Barham began collecting misconceptions after discovering how many "facts" she thought were true were actually spurious. From historical myths and scientific fallacies to cultural misconceptions and health myths, this book systematically examines and corrects common errors in our collective knowledge.

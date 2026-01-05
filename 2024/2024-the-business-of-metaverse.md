@@ -1,6 +1,7 @@
 # The Business of Metaverse: How Organizations Can Optimize the Opportunities of Web3 and AI
 **Original Title**: The Business of Metaverse
 **Authors**: David Palmer | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "The Business of Metaverse" provides a comprehensive framework for understanding how the metaverse represents the next evolution of our digital landscape—combining spatial computing, AI, Web3, and immersive technologies into what Palmer describes as "a new operating system for our digital lives." The book presents the metaverse not as a single virtual world, but as a complex, multi-layered ecosystem that will transform how businesses operate, how people interact, and how value is created in the digital age.

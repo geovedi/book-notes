@@ -1,5 +1,6 @@
 # The Premonition: A Pandemic Story
 **Authors**: Michael Lewis | **Year**: 2021
+**Category**: Health & Medicine
 
 ## Summary
 "The Premonition" tells the remarkable true story of a group of unlikely heroes who saw COVID-19 coming while America's official institutions remained blind to the threat. Lewis weaves together the stories of several fascinating characters: Dr. Charity Dean, a maverick local health officer in Santa Barbara who possessed extraordinary legal powers to stop disease; Carter Mecher, a critical care doctor from the VA who helped reinvent pandemic planning in the Bush White House; and Joe DeRisi, a brilliant scientist at UCSF who developed revolutionary genomic technology for detecting mysterious pathogens.

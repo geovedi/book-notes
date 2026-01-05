@@ -1,5 +1,6 @@
 # Under the Black Flag: The Romance and the Reality of Life Among the Pirates
 **Author**: David Cordingly | **Year**: 1996
+**Category**: History & Biography
 
 ## Summary
 "Under the Black Flag" dismantles centuries of romantic myths about pirates while revealing the fascinating reality behind these legendary figures. Cordingly, a distinguished maritime historian, separates fact from fiction by examining the historical record of pirates' brutal violence, harsh living conditions, and systematic cruelty, while also explaining how and why we transformed these criminals into romantic anti-heroes.

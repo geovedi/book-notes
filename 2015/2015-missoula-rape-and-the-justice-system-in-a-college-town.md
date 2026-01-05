@@ -1,5 +1,5 @@
 # Missoula: Rape and the Justice System in a College Town
-**Author**: Jon Krakauer | **Year**: 2015
+**Author**: Jon Krakauer | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 "Missoula" is a harrowing investigation into how the justice system fails sexual assault victims, centered on a series of rapes in Missoula, Montana between 2010-2012. Krakauer meticulously documents multiple cases involving University of Montana students, particularly football players, revealing how institutional indifference, prosecutorial reluctance, and societal rape myths allow predators to escape accountability. Through detailed examinations of specific cases, the book exposes the systemic barriers that prevent justice for survivors while highlighting the courage of those who fought back.

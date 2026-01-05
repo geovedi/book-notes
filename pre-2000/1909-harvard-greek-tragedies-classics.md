@@ -1,6 +1,7 @@
 # The Complete Harvard Greek Classics
 **Original Title**: The Harvard Classics Volume 8
 **Authors**: Aeschylus, Sophocles, Euripides | **Year**: 1909 (Collection Publication)
+**Category**: Fiction & Literature
 
 ## Summary
 This volume represents the pinnacle of ancient Greek tragedy, bringing together the most influential works from the three great tragedians. Aeschylus establishes the foundation of dramatic justice with his Oresteia trilogy, while Sophocles perfects the character-driven tragedy with Oedipus and Antigone. Euripides completes the trilogy by pushing boundaries with psychological realism and social commentary.

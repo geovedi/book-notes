@@ -1,5 +1,6 @@
 # Porn: An Oral History
 **Authors**: Polly Barton | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Porn: An Oral History" is a groundbreaking exploration of society's complicated relationship with pornography through nineteen intimate conversations with people of diverse backgrounds, ages, and sexual orientations. Barton, driven by her own "tortured ambivalence" toward porn, conducts these interviews during the pandemic to break through what she identifies as the oppressive silence surrounding the topic. What emerges is a kaleidoscopic view of how porn intersects with our most private desires, political beliefs, relationships, and understandings of ourselves.

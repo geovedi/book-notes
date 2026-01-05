@@ -1,5 +1,6 @@
 # The Secret Life of Plants
 **Authors**: Peter Tompkins, Christopher Bird | **Year**: 1973
+**Category**: Science & Nature
 
 ## Summary
 "The Secret Life of Plants" presents a revolutionary challenge to Western materialistic science by arguing that plants are sentient, conscious beings capable of perception, emotion, communication, and even intelligence. The authors synthesize scientific research, historical accounts, and mystical traditions to demonstrate that the plant kingdom possesses sophisticated awareness and responsiveness that has been largely ignored by mainstream science.

@@ -1,5 +1,6 @@
 # How to Win Friends and Influence People
 **Authors**: Dale Carnegie | **Year**: 1936
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This timeless classic reveals the fundamental principles of human relations that can transform your personal and professional life. Carnegie demonstrates that success in life—whether in business, leadership, or relationships—depends far more on the ability to work well with people than on technical knowledge alone. The book is built on extensive research into the lives of successful leaders and real-world application of its principles.

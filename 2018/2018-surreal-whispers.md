@@ -1,5 +1,5 @@
 # Surreal Whispers
-**Authors**: Mustafa Kayyali | **Year**: 2018
+**Authors**: Mustafa Kayyali | **Year**: 2018 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Surreal Whispers is a haunting philosophical exploration of existence, sanity, and the nature of reality, written during the Syrian civil war. Through a collection of surreal short stories, dialogues, and prophetic visions, Kayyali challenges conventional distinctions between madness and wisdom, reality and illusion. The book emerges from the chaos of war-torn Aleppo, offering readers a journey through existential questioning where the "crazy" often speak deeper truths than the "sane."

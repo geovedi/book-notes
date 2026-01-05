@@ -1,5 +1,6 @@
 # The Great Gatsby
 **Authors**: Francis Scott Fitzgerald | **Year**: 1925
+**Category**: Fiction & Literature
 
 ## Summary
 "The Great Gatsby" is a tragic tale set in the Roaring Twenties, narrated by Nick Carraway, a young Midwesterner who moves to Long Island and becomes neighbors with the mysterious, wealthy Jay Gatsby. The story centers on Gatsby's obsessive quest to recapture his past love with Daisy Buchanan, Nick's married cousin, through elaborate parties and extravagant displays of wealth.

@@ -1,5 +1,6 @@
 # Cryptocurrency Investing for Beginners
 **Authors**: Stephen Riles | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Cryptocurrency Investing for Beginners" is a comprehensive introduction to digital currency investing written for complete newcomers. The book demystifies cryptocurrencies like Bitcoin and Ethereum, explaining how they work, why they're valuable, and practical steps for getting started as an investor.

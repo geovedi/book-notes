@@ -1,6 +1,6 @@
 # Research Methods: Designing and Conducting Research with a Real-World Focus
 
-**Authors**: Carrie A. Picardi, Kevin D. Masick | **Year**: 2014
+**Authors**: Carrie A. Picardi, Kevin D. Masick | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 

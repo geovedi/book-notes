@@ -1,5 +1,5 @@
 # Morrissey's Autobiography
-**Author**: Morrissey | **Year**: 2013
+**Author**: Morrissey | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 Morrissey's Autobiography is a sprawling, unfiltered memoir that traces the path from a working-class Irish Catholic childhood in post-war Manchester to international stardom as the iconic frontman of The Smiths and as a solo artist. The book is characterized by Morrissey's distinctive literary prose, sharp wit, and unwavering commitment to telling his story on his own terms. This isn't just a rock memoir—it's a profound meditation on identity, class, artistry, and the relentless pursuit of creative expression against all odds.

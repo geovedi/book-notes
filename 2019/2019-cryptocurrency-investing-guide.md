@@ -1,5 +1,6 @@
 # Cryptocurrency: Blockchain and Investing Guide
 **Authors**: Tyler Peterson | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide introduces readers to the revolutionary world of cryptocurrency and blockchain technology, focusing on Bitcoin as the pioneering digital currency. The book covers everything from basic concepts and terminology to practical trading strategies and the underlying technology that makes cryptocurrencies work. Written for beginners and intermediate users, it provides essential knowledge for understanding how cryptocurrencies function, how to acquire and store them safely, and the broader implications of blockchain technology for the future of finance and digital transactions.

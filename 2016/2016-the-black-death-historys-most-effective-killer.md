@@ -1,5 +1,5 @@
 # The Black Death: History's Most Effective Killer
-**Authors**: Henry Freeman | **Year**: 2016
+**Authors**: Henry Freeman | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 The Black Death (1347-1352) was history's most devastating pandemic, claiming anywhere between 75 to 200 million lives across Europe, Asia, and North Africa in just four years. This bacterial disease, caused by Yersinia pestis and transmitted by fleas carried by rodents, eliminated 30-60% of Europe's population and reduced the world's total population from approximately 450 million to 350 million. The pandemic triggered profound societal, economic, and cultural transformations that ultimately paved the way for the Renaissance.

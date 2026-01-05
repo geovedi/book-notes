@@ -1,5 +1,5 @@
 # Bottled and Sold: The Story Behind Our Obsession with Bottled Water
-**Authors**: Peter H. Gleick | **Year**: 2010
+**Authors**: Peter H. Gleick | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Bottled and Sold" exposes how the bottled water industry has systematically undermined public confidence in tap water while creating a massive environmental crisis through plastic waste. Gleick reveals that Americans consume 30 billion plastic water bottles annually, with consumers paying up to 2,000 times more for bottled water than safe tap water, despite studies showing most bottled water is simply repackaged municipal water.

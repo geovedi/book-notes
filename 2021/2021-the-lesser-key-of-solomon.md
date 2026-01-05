@@ -1,6 +1,7 @@
 # The Lesser Key of Solomon
 **Original Title**: Clavicula Salomonis Regis
 **Authors**: Aleister Crowley, S.L. MacGregor Mathers | **Year**: 2021
+**Category**: Spirituality & Religion
 
 ## Summary
 The Lesser Key of Solomon, also known as the Lemegeton, is a foundational grimoire of Western ceremonial magic that catalogs 72 demons and provides detailed instructions for their invocation. Originally attributed to the biblical King Solomon, this text presents itself as Solomon's personal record of conjuring and controlling various spirits. The work is divided into five parts, with the first section—the Goetia—being the most famous, describing demonic entities with their specific powers, appearances, and methods of summoning.

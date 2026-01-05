@@ -1,6 +1,7 @@
 # Children in Prison and Other Cruelties of Prison Life
 **Original Title**: Children in Prison and Other Cruelties of Prison Life
 **Author**: Oscar Wilde | **Year**: 1898
+**Category**: History & Biography
 
 ## Summary
 

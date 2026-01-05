@@ -1,5 +1,5 @@
 # Vampire Forensics: Uncovering the Origins of an Enduring Legend
-**Author**: Mark Collins Jenkins | **Year**: 2010
+**Author**: Mark Collins Jenkins | **Year**: 2010 | **Category**: Horror & Thriller
 
 ## Summary
 Vampire Forensics is a fascinating investigation into the real-world origins of vampire legends, blending history, anthropology, and forensic science to reveal how diseases, death rituals, and cultural fears created one of humanity's most enduring myths. Jenkins takes readers on a journey from ancient plague pits to 19th-century New England cemeteries, demonstrating how vampire beliefs emerged as rational explanations for terrifying phenomena like tuberculosis, decomposition, and epidemic diseases. The book transforms supernatural horror into a compelling story of human attempts to understand the mysterious processes of death and disease.

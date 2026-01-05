@@ -1,6 +1,7 @@
 # PMP Exam Prep 2023-2024: Comprehensive Guide to Agile and Predictive Project Management
 **Original Title**: PMP Exam Prep 2023-2024 Covers the Current PMP Exam Content Agile and Predictive Content, Practice Exam Questions and Test-Taking Strategies
-**Authors**: PrepGenius | **Year**: 2023 
+**Authors**: PrepGenius | **Year**: 2023
+**Category**: Business & Finance 
 
 ## Summary
 This comprehensive PMP exam preparation guide covers the current Project Management Professional certification content, including both Agile and predictive methodologies. The book is structured around the PMI's updated examination content outline, focusing on value delivery systems, project management principles, and performance domains. It emphasizes the evolution of project management from simple output generation to value creation for stakeholders and organizations.

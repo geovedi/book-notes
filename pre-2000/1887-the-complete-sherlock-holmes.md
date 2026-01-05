@@ -1,5 +1,6 @@
 # The Complete Sherlock Holmes Collection
 **Original Title**: The Complete Sherlock Holmes | **Authors**: Arthur Conan Doyle | **Year**: 1887-1927
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive collection brings together all four novels and fifty-six short stories featuring the world's most famous detective, Sherlock Holmes. Created by Scottish writer Sir Arthur Conan Doyle, these stories revolutionized detective fiction and established conventions that continue to influence crime writing today. The collection follows Holmes, a master of deductive reasoning and forensic science, and his faithful companion Dr. John Watson as they solve seemingly impossible mysteries across Victorian and Edwardian London.

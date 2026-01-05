@@ -1,5 +1,6 @@
 # Fear and Loathing in Las Vegas
 **Authors**: Hunter S. Thompson, Ralph Steadman | **Year**: 1971
+**Category**: Fiction & Literature
 
 ## Summary
 A drug-fueled descent into the heart of American darkness, following journalist Raoul Duke and his "Samoan attorney" Dr. Gonzo on a savage journey to cover the Mint 400 desert race while supposedly searching for the American Dream in Las Vegas. What begins as a professional assignment spirals into a hallucinatory exploration of excess, paranoia, and the death of 1960s idealism.

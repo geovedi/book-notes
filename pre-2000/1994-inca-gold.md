@@ -1,5 +1,6 @@
 # Inca Gold
 **Author**: Clive Cussler | **Year**: 1994
+**Category**: Fiction & Literature
 
 ## Summary
 "Inca Gold" is a thrilling Dirk Pitt adventure that weaves together two parallel stories—one set in 1578 during Francis Drake's circumnavigation, and another in 1998 following Dirk Pitt's NUMA underwater research expedition. When archaeologist Dr. Shannon Kelsey becomes trapped in an ancient Peruvian sacrificial sinkhole, Pitt and his team uncover a legendary treasure hidden by the Incas centuries ago. The search leads them through dangerous underground rivers and into conflict with ruthless artifact smugglers the Zolar brothers, who will stop at nothing to possess the priceless Inca gold.

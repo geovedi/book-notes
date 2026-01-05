@@ -1,5 +1,5 @@
 # Batavia's Graveyard
-**Author**: Mike Dash | **Year**: 2002
+**Author**: Mike Dash | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 Batavia's Graveyard tells the chilling true story of the Dutch East India Company ship Batavia, which wrecked off the coast of Australia in 1629, leading to history's bloodiest mutiny. The book follows Jeronimus Cornelisz, a charismatic but dangerous heretic apothecary who orchestrates a reign of terror against surviving passengers and crew stranded on remote islands. What begins as a dramatic shipwreck quickly devolves into a harrowing tale of survival, madness, and mass murder in one of history's most gruesome maritime disasters.

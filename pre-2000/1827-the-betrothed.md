@@ -1,6 +1,7 @@
 # The Betrothed
 **Original Title**: I Promessi Sposi
 **Author**: Alessandro Manzoni | **Year**: 1827
+**Category**: Romance & Relationships
 
 ## Summary
 Set in 1628 Lombardy during Spanish rule, "The Betrothed" tells the story of two young lovers, Renzo Tramaglino and Lucy Mondella, whose plans to marry are violently thwarted by the powerful local nobleman Don Rodrigo, who desires Lucy for himself. When the parish priest Don Abbondio is threatened by bravoes (hired thugs) and refuses to perform the marriage ceremony, the couple must flee their village and embark on a perilous journey that separates them across war-torn Italy. Their individual struggles unfold against the backdrop of historical calamities—including the Thirty Years' War, brutal Spanish oppression, famine, and the devastating plague of 1630—that test their faith, courage, and commitment to each other.

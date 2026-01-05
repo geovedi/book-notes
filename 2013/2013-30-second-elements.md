@@ -1,5 +1,5 @@
 # 30-Second Elements
-**Authors**: Eric Scerri (Editor), Hugh Aldersey-Williams, Philip Ball, Brian Clegg, John Emsley, Mark Leach, Jeffrey Moran, Andrea Sella, Philip Stewart | **Year**: 2013
+**Authors**: Eric Scerri (Editor), Hugh Aldersey-Williams, Philip Ball, Brian Clegg, John Emsley, Mark Leach, Jeffrey Moran, Andrea Sella, Philip Stewart | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "30-Second Elements" transforms the complex world of chemistry into digestible 30-second explorations of 50 fascinating elements from the periodic table. The book reveals how this fundamental organizing principle—one of science's most important discoveries—brings order to the tremendous variety of elements that make up our universe.

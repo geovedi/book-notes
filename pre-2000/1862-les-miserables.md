@@ -1,5 +1,6 @@
 # Les Misérables
 **Authors**: Victor Hugo | **Year**: 1862
+**Category**: Fiction & Literature
 
 ## Summary
 "Les Misérables" is a sweeping historical novel that follows the life of Jean Valjean, an ex-convict who seeks redemption after serving 19 years in prison for stealing bread to feed his sister's starving family. The story spans decades in early 19th-century France, culminating in the June Rebellion of 1832 in Paris. Through Valjean's journey of moral transformation, Hugo explores themes of justice, mercy, love, and social inequality, creating an epic portrait of human struggle against poverty and oppression.

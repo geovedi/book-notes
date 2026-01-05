@@ -1,5 +1,6 @@
 # Candide or the Optimist
 **Authors**: Voltaire | **Year**: 1759
+**Category**: Fiction & Literature
 
 ## Summary
 This philosophical satire follows Candide, an innocent young man expelled from his paradise-like castle for kissing the Baron's daughter, Cunegonde. Trained in the philosophy that "this is the best of all possible worlds," Candide embarks on a global journey that exposes him to war, natural disasters, religious persecution, slavery, and human suffering. Through increasingly absurd misadventures across Europe, the Americas, and beyond, he encounters familiar characters, finds and loses his beloved Cunegonde multiple times, and eventually rejects blind philosophical optimism in favor of practical wisdom.

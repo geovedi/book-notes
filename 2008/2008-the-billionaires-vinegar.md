@@ -1,5 +1,6 @@
 # The Billionaire's Vinegar
 **Author**: Benjamin Wallace | **Year**: 2008
+**Category**: Fiction & Literature
 
 ## Summary
 

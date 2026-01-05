@@ -1,6 +1,7 @@
 # The Discomfort of Cities
 **Original Title**: El malestar de las ciudades
 **Author**: Jorge Dioni López | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Discomfort of Cities" is a powerful critique of how neoliberal urban policies have transformed cities from spaces of human connection and diversity into economic products that prioritize profit over people. Dioni argues that modern cities are experiencing a profound crisis—what he terms "discomfort"—as they become increasingly privatized, financialized, and segregated, leading to the expulsion of long-term residents and the erosion of public life.

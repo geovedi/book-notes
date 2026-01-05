@@ -1,5 +1,5 @@
 # Reality Is Broken
-**Authors**: Jane McGonigal | **Year**: 2011
+**Authors**: Jane McGonigal | **Year**: 2011 | **Category**: Technology & Computing
 
 ## Summary
 "Reality Is Broken" argues that games are not escapist entertainment but rather powerful tools that can fix fundamental flaws in how we live, work, and collaborate. McGonigal reveals how games systematically fulfill human psychological needs that reality often neglects—providing clear goals, immediate feedback, satisfying work, and epic meaning. The book presents a framework of 14 "fixes" that game design principles can apply to real-world challenges, from personal happiness to global crises.

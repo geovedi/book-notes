@@ -1,5 +1,6 @@
 # The Gold Bug and Other Tales
 **Authors**: Edgar Allan Poe | **Year**: 1843
+**Category**: Horror & Thriller
 
 ## Summary
 This collection brings together eight of Edgar Allan Poe's most celebrated and influential tales of mystery, horror, and psychological suspense. Written during the mid-19th century, these stories showcase Poe's mastery of the Gothic tradition and his pioneering role in developing detective fiction and psychological horror. Each story explores the darker corners of human nature—madness, revenge, guilt, and obsession—while demonstrating Poe's unparalleled ability to create atmosphere and tension.

@@ -1,5 +1,6 @@
 # Business Without Capital: Insurance Selling
 **Authors**: Bobby Madrid | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Business Without Capital" is an inspirational guide that reveals how anyone can build a successful and financially rewarding career in insurance selling without needing startup capital. Bobby Madrid shares his personal journey from a management trainee at Procter & Gamble to becoming CEO and Chairman of major insurance companies, demonstrating that the only investment needed is commitment, dedication, and discipline.

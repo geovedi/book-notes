@@ -1,6 +1,7 @@
 # Hermann Hesse: His Life and Work
 **Original Title**: Hermann Hesse Sein Leben und sein Werk
-**Author**: Hugo Ball | **Year**: 1927 
+**Author**: Hugo Ball | **Year**: 1927
+**Category**: History & Biography 
 
 ## Summary
 This comprehensive biography explores the life and artistic development of Hermann Hesse, one of Germany's most celebrated writers. Hugo Ball traces Hesse's journey from his birth in Calw in 1877 through his formative years, educational struggles, and emergence as a major literary voice. The book delves deep into Hesse's family heritage, his pietistic upbringing, and the profound influences that shaped his unique artistic vision. Ball examines how Hesse's conflicts with tradition, his search for spiritual authenticity, and his deep connection to nature manifested in his major works like "Demian," "Siddhartha," and "Steppenwolf." This is essential reading for literature students, Hesse enthusiasts, and anyone interested in understanding the psychological and spiritual forces behind one of the 20th century's most introspective writers.

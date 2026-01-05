@@ -1,6 +1,7 @@
 # Freshwater
 **Original Title**: Freshwater
 **Author**: Virginia Woolf | **Year**: 1923 (revised 1935)
+**Category**: Fiction & Literature
 
 ## Summary
 "Freshwater" is Virginia Woolf's only known play, a lighthearted comedy written as a diversion from her more serious work on "Mrs. Dalloway." Set in the 1870s at Freshwater on the Isle of Wight, the play satirizes Victorian artistic circles and serves as a gentle parody of Woolf's own ancestors, particularly her great-aunt Julia Margaret Cameron, the renowned photographer. The work features historical figures including poet Alfred Lord Tennyson, actress Ellen Terry, and painter George Frederick Watts, poking fun at their artistic pretensions and Victorian morality.

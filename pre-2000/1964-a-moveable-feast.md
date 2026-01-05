@@ -1,5 +1,5 @@
 # A Moveable Feast
-**Author**: Ernest Hemingway | **Year**: 1964
+**Author**: Ernest Hemingway | **Year**: 1964 | **Category**: Fiction & Literature
 
 ## Summary
 "A Moveable Feast" is Hemingway's poignant memoir of his formative years as a young, struggling writer in Paris during the 1920s. Written late in his life but capturing the freshness of youth, the book portrays a time of poverty, happiness, intense creativity, and literary friendships that shaped modern literature. Through vivid sketches of daily life, café writing sessions, and encounters with figures like Gertrude Stein, F. Scott Fitzgerald, and Ezra Pound, Hemingway reveals how Paris became his literary apprenticeship ground.

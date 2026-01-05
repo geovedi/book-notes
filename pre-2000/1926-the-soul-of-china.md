@@ -1,6 +1,7 @@
 # The Soul of China
 **Original Title**: Die Seele Chinas
 **Author**: Richard Wilhelm | **Year**: 1926
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Richard Wilhelm's "The Soul of China" is a profound philosophical memoir written by a German missionary and scholar who spent twenty-five years in China during one of the most transformative periods in Chinese history (1899-1924). The book serves as both a personal chronicle and cultural analysis of China's transition from imperial dynasty to modern republic, capturing the soul of a civilization that seemed eternal suddenly facing revolutionary change.

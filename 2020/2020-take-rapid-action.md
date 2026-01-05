@@ -1,5 +1,6 @@
 # Take Rapid Action
 **Authors**: Patrick King | **Year**: 2020
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Take Rapid Action" is a practical guide to overcoming overthinking and procrastination by developing a bias toward immediate action. The book addresses the universal struggle between knowing what we should do and actually doing it, providing concrete strategies to break the cycle of analysis paralysis and build sustainable momentum for achieving goals.

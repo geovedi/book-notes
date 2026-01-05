@@ -1,5 +1,6 @@
 # 2017-Powerful
 **Authors**: Patty McCord | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Powerful" is a revolutionary guide to building a high-performance workplace culture that thrives on freedom and responsibility, written by the co-creator of Netflix's legendary culture deck. McCord challenges conventional HR wisdom, arguing that the traditional systems of managing people—policies, procedures, performance reviews, and perks—are outdated and counterproductive in today's rapidly changing business environment. Instead, she proposes treating employees like adults, hiring only high performers, practicing radical honesty, and creating a culture where everyone understands the business deeply.

@@ -1,5 +1,6 @@
 # Thyestes
 **Original Title**: Thyestes | **Authors**: Lucius Annaeus Seneca (translated by Caryl Churchill) | **Year**: 1994 (translation), ~50-60 CE (original)
+**Category**: Fiction & Literature
 
 ## Summary
 Seneca's *Thyestes* is a masterclass in revenge tragedy that tells the story of two brothers locked in an escalating cycle of vengeance. Atreus, king of Argos, has long hated his brother Thyestes, who seduced his wife and stole the golden ram that symbolizes royal power. When Thyestes returns from exile under the pretense of reconciliation, Atreus seizes his opportunity for the ultimate revenge—not just killing Thyestes, but making him unknowingly cannibalize his own three sons.

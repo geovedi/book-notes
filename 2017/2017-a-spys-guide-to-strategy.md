@@ -1,5 +1,6 @@
 # A Spy's Guide to Strategy
 **Authors**: John Braddock | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 

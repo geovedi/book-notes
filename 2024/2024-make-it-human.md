@@ -1,5 +1,6 @@
 # Make It Human
 **Authors**: Sarah McLellan | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 "Make It Human" presents a compelling case for revolutionizing our approach to work by placing human needs at the center of organizational design. Sarah McLellan, a business psychologist, argues that despite technological advancement and productivity gains, global workplace unhappiness has reached unprecedented levels. The book provides a practical framework for building humane workplaces where people can thrive while delivering exceptional business results.

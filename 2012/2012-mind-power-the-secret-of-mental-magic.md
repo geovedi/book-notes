@@ -1,5 +1,6 @@
 # Mind-Power: The Secret of Mental Magic
 **Authors**: William Walker Atkinson | **Year**: 2012
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

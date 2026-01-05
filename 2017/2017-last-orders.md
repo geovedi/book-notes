@@ -1,5 +1,6 @@
 # Last Orders
 **Original Title**: Last Orders | **Authors**: Mel Croucher | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Last Orders" is a practical, no-nonsense guide to end-of-life planning in the digital age. Written by Mel Croucher, an internet security expert who has handled the digital estates of celebrities like Prince and Michael Jackson, this book walks readers through the essential tasks of preparing for death while still alive. It combines life expectancy calculations, digital legacy management, will preparation, and funeral planning with a refreshingly direct approach to mortality.

@@ -1,5 +1,5 @@
 # Uncommon Grounds
-**Authors**: Mark Pendergrast | **Year**: 2010 (Revised Edition)
+**Authors**: Mark Pendergrast | **Year**: 2010 (Revised Edition) | **Category**: Business & Finance
 
 ## Summary
 "Uncommon Grounds" is a comprehensive history of coffee and its profound impact on global civilization, from its discovery in Ethiopian forests to its role in modern society. The book reveals how coffee transformed landscapes, economies, politics, and social structures across continents, making it far more than just a beverage. Pendergrast demonstrates that coffee's journey encompasses slavery, revolutions, environmental destruction, corporate consolidation, and modern movements for fairness and sustainability.

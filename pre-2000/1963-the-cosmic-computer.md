@@ -1,5 +1,5 @@
 # The Cosmic Computer
-**Authors**: H. Beam Piper | **Year**: 1963
+**Authors**: H. Beam Piper | **Year**: 1963 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 In the aftermath of a devastating interstellar war, the once-prosperous colony planet Poictesme has fallen into economic ruin and decay. The population lives on scraps left behind by the departing Terran Federation, with widespread poverty and lawlessness. The story follows Conn Maxwell, a young man who returns from Earth after six years of education with a secret mission: to find "Merlin," a legendary supercomputer said to have been built by the Federation to predict and prevent future wars. The locals believe Merlin holds the key to their economic salvation, but Conn knows a truth that could either save or doom his world: Merlin might not exist at all.

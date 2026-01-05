@@ -1,5 +1,5 @@
 # The Emperor of All Maladies: A Biography of Cancer
-**Author**: Siddhartha Mukherjee | **Year**: 2010
+**Author**: Siddhartha Mukherjee | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "The Emperor of All Maladies" is a magnificent "biography" of cancer that weaves together 4,000 years of medical history, scientific discovery, and human stories into a compelling narrative about our battle against humanity's most persistent disease. Written by an oncologist-researcher, the book transforms cancer from a medical mystery into a deeply human story that reflects our quest for control over our own biology.

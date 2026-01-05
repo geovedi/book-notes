@@ -1,5 +1,6 @@
 # Biological Exuberance
 **Authors**: Bruce Bagemihl | **Year**: 1999
+**Category**: Science & Nature
 
 ## Summary
 "Biological Exuberance" presents revolutionary scientific evidence that homosexual, bisexual, and transgender behaviors are not rare anomalies but widespread, natural phenomena across the animal kingdom. Through meticulous documentation of nearly 300 species—from mammals and birds to insects and reptiles—Bagemihl demonstrates that nature's sexual diversity far exceeds our limited assumptions. The book reveals how same-sex behaviors serve crucial social, bonding, and even evolutionary purposes beyond reproduction.

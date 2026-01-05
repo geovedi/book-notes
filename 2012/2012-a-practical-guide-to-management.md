@@ -1,5 +1,6 @@
 # A Practical Guide to Management
 **Authors**: Alison Price, David Price | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "A Practical Guide to Management" is a comprehensive A-Z handbook for managers that bridges the gap between management theory and real-world practice. Written by two experienced leadership development professionals, this book offers practical, easily applicable solutions to everyday management challenges faced by managers and their teams.

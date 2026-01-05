@@ -1,6 +1,7 @@
 # Three Months in Soviet Russia
 **Original Title**: Drei Monate in Sowjet-Rußland
-**Author**: Arthur Holitscher | **Year**: 1921 
+**Author**: Arthur Holitscher | **Year**: 1921
+**Category**: History & Biography 
 
 ## Summary
 Arthur Holitscher's "Three Months in Soviet Russia" is a firsthand account of his journey through post-revolutionary Russia in 1921, offering a rare glimpse into the early Soviet experiment during one of its most turbulent periods. Written for a German newspaper consortium, this remarkable travelogue captures the stark contradictions between communist ideals and harsh reality during the transition from Tsarist empire to Soviet state.

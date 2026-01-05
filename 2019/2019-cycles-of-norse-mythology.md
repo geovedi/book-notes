@@ -1,5 +1,6 @@
 # Cycles of Norse Mythology
 **Authors**: Glenn Searfoss | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Cycles of Norse Mythology" reimagines the ancient Norse myths as a sweeping narrative collection organized around five interconnected cycles: Prophecy, The Victory Gods, The Sword of Vengeance, Premonitions, and Ragnarök. Rather than dry academic retellings, Searfoss presents these tales as living stories with rich character development and psychological depth, bringing the Æsir gods, giants, and mythical creatures to vivid life.

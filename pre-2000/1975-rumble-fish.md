@@ -1,5 +1,6 @@
 # Rumble Fish
 **Authors**: S.E. Hinton | **Year**: 1975
+**Category**: Fiction & Literature
 
 ## Summary
 "Rumble Fish" is a gritty coming-of-age novel that follows Rusty-James, a teenage tough guy living in a deteriorating urban neighborhood. The story opens years after the main events, when Rusty-James encounters his old friend Steve on a beach, triggering flashbacks to his turbulent youth. At the center of the story is Rusty-James's relationship with his older brother, the enigmatic "Motorcycle Boy," a legendary neighborhood figure who is partially deaf, colorblind, and increasingly detached from reality.

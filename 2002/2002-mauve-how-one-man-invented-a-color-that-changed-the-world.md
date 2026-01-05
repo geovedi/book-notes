@@ -1,5 +1,5 @@
 # Mauve: How One Man Invented a Color That Changed the World
-**Authors**: Simon Garfield | **Year**: 2002
+**Authors**: Simon Garfield | **Year**: 2002 | **Category**: Science & Nature
 
 ## Summary
 In 1856, 18-year-old chemist William Perkin accidentally discovered mauve—the world's first synthetic dye—while attempting to create artificial quinine in his makeshift London laboratory. This serendipitous discovery revolutionized not just the textile industry but launched the entire modern chemical industry, transforming chemistry from a theoretical science into a practical powerhouse that would enable advances in medicine, photography, explosives, and perfume.

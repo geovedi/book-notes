@@ -1,5 +1,5 @@
 # The Pragmatist's Guide to Crafting Religion
-**Authors**: Simone Collins, Malcolm Collins | **Year**: 2022
+**Authors**: Simone Collins, Malcolm Collins | **Year**: 2022 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Pragmatist's Guide to Crafting Religion" presents a bold framework for designing intentional family cultures that can reverse demographic collapse and ensure long-term human flourishing. The Collins argue that humanity faces an existential crisis from plummeting birth rates, with many developed nations falling below replacement level fertility. They propose that the solution lies in consciously crafting "cultivars"—intentional cultures that combine the best elements of ancestral traditions with modern innovations, creating sustainable communities that produce high birth rates and strong cultural fidelity.

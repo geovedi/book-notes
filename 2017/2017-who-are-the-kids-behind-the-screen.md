@@ -1,5 +1,6 @@
 # Who Are the Kids Behind the Screen?
 **Authors**: Eric Reese | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 This eye-opening guide explores the complex relationship between today's digitally-native children and social media, providing crucial insights for parents struggling to understand their screen-obsessed kids. Written from a Generation X parent's perspective, the book examines why adolescents are so deeply connected to their devices and what this means for modern parenting. The author shares personal experiences with his own daughter's smartphone addiction and combines these anecdotes with extensive research on social media usage patterns, statistics, and psychological impacts.

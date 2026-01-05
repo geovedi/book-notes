@@ -1,5 +1,6 @@
 # Castle Rackrent
 **Authors**: Maria Edgeworth | **Year**: 1800
+**Category**: Fiction & Literature
 
 ## Summary
 Castle Rackrent is a groundbreaking satirical novel that chronicles the progressive decline of the Rackrent family, an Anglo-Irish aristocratic family, through four generations of wasteful and incompetent landlords. Narrated by the family's loyal steward Thady Quirk, the story presents a biting commentary on Irish land ownership, mismanagement, and the systemic problems that plagued Ireland in the 18th century.

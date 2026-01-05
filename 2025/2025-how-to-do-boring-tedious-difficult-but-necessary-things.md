@@ -1,5 +1,6 @@
 # How to Do Boring, Tedious, Difficult, but Necessary Things
 **Authors**: Peter Hollins | **Year**: 2025
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book explores the fundamental difference between disciplined and undisciplined people through thirty daily essays that reveal the mindset behind self-control and consistent action. The core premise is that discipline isn't about intelligence, talent, or motivation—it's about how you think about yourself and life. Disciplined people possess a distinctive mental framework that enables them to build lives of order, purpose, growth, and clarity, even when faced with tasks they find boring or difficult.

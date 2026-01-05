@@ -1,5 +1,6 @@
 # The Best Short Stories of Fyodor Dostoevsky
 **Original Title**: 7 Best Short Stories by Fyodor Dostoevsky | **Authors**: Fyodor Dostoevsky | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This collection showcases Fyodor Dostoevsky's mastery of the short story form, featuring some of his most penetrating psychological explorations of the human condition. Spanning from romantic tales to existential crises, these stories reveal the Russian master's ability to probe the depths of human consciousness, social alienation, and moral complexity. Readers will encounter characters struggling with loneliness, poverty, unrequited love, and existential despair—all rendered with Dostoevsky's signature psychological insight and moral intensity.

@@ -1,5 +1,6 @@
 # A Connecticut Yankee in King Arthur's Court
 **Authors**: Mark Twain | **Year**: 1889
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Hank Morgan, a pragmatic 19th-century Connecticut factory superintendent, receives a blow to the head and wakes up in 6th-century England during the reign of King Arthur. Using his modern knowledge of science, technology, and democracy, he positions himself as a powerful magician ("The Boss") and attempts to transform medieval society into a modern republic. Through a series of adventures, he introduces gunpowder, electricity, telephones, and other innovations while clashing with the established order of knighthood, monarchy, and superstition.

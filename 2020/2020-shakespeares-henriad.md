@@ -1,5 +1,6 @@
 # Shakespeare's Henriad Collection
 **Original Authors**: William Shakespeare (Plays), William Hazlitt (Analysis) | **Year**: 2020 (Collection), Original plays 1595-1599
+**Category**: Fiction & Literature
 
 ## Summary
 This collection presents three of Shakespeare's most compelling history plays—Richard II, Henry IV (Parts 1 & 2), and Henry V—with detailed literary analysis by William Hazlitt. Together, these works form the "Henriad," an epic cycle chronicling the rise and fall of English monarchs during the turbulent 15th century. The plays explore the transformative nature of power, the weight of kingship, and the complex relationship between authority and morality.

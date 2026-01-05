@@ -1,5 +1,6 @@
 # The Shock Doctrine: The Rise of Disaster Capitalism
 **Author**: Naomi Klein | **Year**: 2007
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Naomi Klein exposes how capitalist exploitation thrives on moments of collective trauma—wars, natural disasters, economic crises. She reveals that corporations and governments systematically use disasters to push through radical free-market policies that would never be accepted under normal circumstances. The "shock doctrine" involves three types of shock: the "disaster shock" (war, tsunami, terrorist attack), the "economic shock" (rapid privatization and deregulation), and the "police shock" (torture and repression to suppress opposition). Klein traces this strategy from Pinochet's Chile to post-Katrina New Orleans, showing how disaster capitalism has become the preferred method for advancing corporate goals.

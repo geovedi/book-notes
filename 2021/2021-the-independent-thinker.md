@@ -1,5 +1,6 @@
 # The Independent Thinker
 **Authors**: Patrick King | **Year**: 2021
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Independent Thinker" is a practical guide to developing genuine autonomous thought in a world filled with ready-made opinions and cognitive biases. The book argues that true independent thinking isn't about being contrary or rebellious, but about developing the ability to form your own conclusions from scratch rather than simply adopting others' perspectives.

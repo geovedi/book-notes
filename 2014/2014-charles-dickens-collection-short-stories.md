@@ -1,5 +1,5 @@
 # Charles Dickens Collection: Short Stories
-**Authors**: Charles Dickens | **Year**: 2014
+**Authors**: Charles Dickens | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection showcases Charles Dickens' mastery of the short story form, spanning multiple genres and themes that defined Victorian literature. The anthology brings together his most celebrated Christmas tales, chilling ghost stories, social commentaries, and character sketches that capture the full spectrum of human experience in 19th-century England. From the heartwarming "Christmas Tree" reminiscences to the terrifying "Captain Murderer" and the mysterious "To Be Read at Dusk," Dickens demonstrates his unparalleled ability to move seamlessly between sentiment, horror, and satire.

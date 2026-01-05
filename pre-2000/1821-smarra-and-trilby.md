@@ -1,5 +1,6 @@
 # Smarra & Trilby
 **Authors**: Charles Nodier | **Year**: 1821/1822
+**Category**: Horror & Thriller
 
 ## Summary
 "Smarra & Trilby" is a collection of two pioneering fantastical tales that helped establish French Romantic literature. These stories blend supernatural elements with deep emotional themes, exploring the boundaries between dreams and reality, love and obsession, and the human connection to the spiritual world.

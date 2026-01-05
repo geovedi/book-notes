@@ -1,5 +1,6 @@
 # Classic Gothic Horror Masterpieces
 **Authors**: Bram Stoker, Mary Shelley, Oscar Wilde | **Year**: 2015 (Compilation)
+**Category**: Horror & Thriller
 
 ## Summary
 This remarkable compilation gathers four foundational works of Gothic literature that have shaped horror and dark fiction for centuries: Bram Stoker's "Dracula" and "Dracula's Guest," Mary Shelley's "Frankenstein," and Oscar Wilde's "The Picture of Dorian Gray." Together, these masterpieces explore the darkest corners of human nature through supernatural horror, scientific overreach, and moral corruption.

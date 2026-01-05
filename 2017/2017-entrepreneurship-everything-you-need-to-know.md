@@ -1,5 +1,6 @@
 # Entrepreneurship: Everything You Need to Know about How to Start, Manage and Profit in Your Own Business or as a Freelancer
 **Authors**: Samuel River | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies the entrepreneurial journey by combining mindset shifts with practical business strategies. Samuel River presents entrepreneurship as a fundamental choice between serving others' dreams or building your own, emphasizing that true business success comes from understanding market needs rather than personal desires.

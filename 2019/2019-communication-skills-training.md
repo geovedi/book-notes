@@ -1,5 +1,6 @@
 # Communication Skills Training
 **Authors**: Shirley Cole | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This comprehensive 2-in-1 guide delivers practical strategies for mastering communication in both personal relationships and professional workplaces. The book reveals how effective communication serves as the foundation for successful relationships, productive workplaces, and personal growth. It addresses common communication barriers between genders, cultures, and personality types while providing actionable techniques for conflict resolution, active listening, and building trust.

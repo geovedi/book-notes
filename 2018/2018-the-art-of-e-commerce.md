@@ -1,5 +1,5 @@
 # The Art of E-commerce: Complete Guide to Building Your Online Business
-**Authors**: Marc Hayes, Evan Jones | **Year**: 2018
+**Authors**: Marc Hayes, Evan Jones | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive 2-in-1 bundle serves as your complete roadmap to launching a profitable e-commerce business, even with minimal startup capital. The first half reveals how to leverage Alibaba's massive supplier network to source products without holding inventory, while the second half provides step-by-step guidance for building a professional Shopify store that converts visitors into customers. The authors combine practical sourcing strategies with tactical platform knowledge to help entrepreneurs bypass common pitfalls and start generating sales quickly.

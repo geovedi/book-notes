@@ -1,5 +1,6 @@
 # Work From Home: The Freelance Graphic Designer's Guide
 **Authors**: Patt Tomas | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 

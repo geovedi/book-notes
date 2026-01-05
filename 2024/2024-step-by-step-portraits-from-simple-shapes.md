@@ -1,6 +1,7 @@
 # Step-by-Step Portraits from Simple Shapes: A Beginner's Guide to Drawing
 
 **Authors**: Satyajit Sinari (SinArty) | **Year**: 2024
+**Category**: Art & Creativity
 
 ## Summary
 This comprehensive art instruction guide teaches portrait drawing through a systematic approach that begins with basic geometric shapes and builds toward realistic portraits. Written by a professional artist with over 15 years of experience, the book demystifies the complex process of capturing human likeness by breaking it down into manageable steps.

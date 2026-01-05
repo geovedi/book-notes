@@ -1,5 +1,6 @@
 # Snowbound: Theatrical Tales from a Winter Journey
 **Authors**: Bram Stoker | **Year**: 1908
+**Category**: Fiction & Literature
 
 ## Summary
 A delightful collection of theatrical anecdotes and stories framed within a charming narrative about a theater troupe snowbound on a train in the Scottish Highlands. When their train becomes stranded in a massive snowstorm, the Manager ingeniously transforms their railway carriage into a cozy stage complete with a makeshift fireplace using theatrical props. Trapped together, the company members entertain each other by sharing tales from their theatrical careers, revealing the fascinating behind-the-scenes world of Victorian theater.

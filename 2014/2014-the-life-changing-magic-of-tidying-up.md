@@ -1,5 +1,5 @@
 # The Life-Changing Magic of Tidying Up
-**Author**: Marie Kondo | **Year**: 2014
+**Author**: Marie Kondo | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 The Life-Changing Magic of Tidying Up introduces the revolutionary KonMari Method—a transformative approach to decluttering that promises permanent results through one intensive organizing session. Unlike traditional tidying methods that focus on gradual, incremental cleaning, Kondo's philosophy centers on keeping only items that "spark joy" and discarding everything else in a single, focused effort. The book presents tidying not as a daily chore, but as a life-changing event that resets your relationship with possessions and helps you discover what truly matters in your life.

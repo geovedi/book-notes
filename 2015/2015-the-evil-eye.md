@@ -1,5 +1,6 @@
 # The Evil Eye
 **Authors**: Mary Wollstonecraft Shelley | **Year**: 2015 (Original: 1827)
+**Category**: Fiction & Literature
 
 ## Summary
 Set in the rugged mountains of Albania and the coastal regions of Greece, this Gothic romance weaves a tale of supernatural superstition, vengeance, and redemption. The story follows Dmitri, a fearsome Albanian warrior known for his "Evil Eye" - a supernatural ability to harm with a glance - whose tragic past has transformed him from a gentle family man into a hardened bandit. When he becomes entangled in a plot of greed and betrayal involving his sworn brother Katusthius, the lives of innocent families are torn apart, leading to a dramatic confrontation that reveals shocking family connections.

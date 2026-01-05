@@ -1,6 +1,6 @@
 # The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet
 
-**Authors**: Justin Peters | **Year**: 2016
+**Authors**: Justin Peters | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "The Idealist" is a compelling examination of Aaron Swartz's life and death, framed within the broader historical context of America's copyright wars and the free culture movement. Swartz, a 26-year-old programming prodigy and activist, took his own life in 2013 while facing federal charges for downloading millions of academic journal articles from JSTOR. His story becomes a lens through which Peters explores the fundamental tension between information freedom and intellectual property rights that has shaped American cultural policy for over two centuries.

@@ -1,5 +1,6 @@
 # Productivity Plan
 **Authors**: Tiffany Adams | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Productivity Plan" is a practical 31-day brain rewiring program designed to help chronic procrastinators break free from self-destructive habits and build lasting productivity. The book combines neuroscience insights with daily actionable exercises that systematically address the root causes of procrastination—from fear of failure to perfectionism—while gradually building new neural pathways for success.

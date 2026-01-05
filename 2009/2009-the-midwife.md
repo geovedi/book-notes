@@ -1,5 +1,6 @@
 # The Midwife
 **Authors**: Jennifer Worth, Terri Coates | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "The Midwife" is Jennifer Worth's captivating memoir of her experiences as a young midwife in 1950s London's East End Docklands. Working alongside an order of Anglican nuns at Nonnatus House, Worth delivers babies in some of London's poorest neighborhoods, experiencing the raw reality of childbirth amidst poverty, overcrowding, and post-war hardship. The book paints a vivid portrait of a bygone era where midwives on bicycles navigated bomb-site streets to deliver babies in tiny, overcrowded homes, while documenting the profound social changes that would soon transform this world forever.

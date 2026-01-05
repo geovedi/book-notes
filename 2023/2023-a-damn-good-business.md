@@ -1,5 +1,6 @@
 # A Damn Good Business
 **Authors**: Ben Steenstra, Nicci Severens | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "A Damn Good Business" introduces the revolutionary concept of "Meaningful Profit" - a golden mean between traditional profit and non-profit sectors that aligns business success with human nature. The book argues that the Industrial Revolution created an artificial separation between profit-driven and mission-driven organizations, leading to inefficiency, burnout, and missed opportunities. By transforming businesses into Meaningful Profit enterprises that pursue both financial returns and meaningful impact, organizations can achieve greater employee satisfaction, customer loyalty, innovation, and ultimately, higher profits.

@@ -1,5 +1,6 @@
 # How to Be a Productivity Ninja
 **Authors**: Graham Allcott | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book transforms traditional time management on its head by introducing the "Productivity Ninja" mindset - a modern approach to handling information overload and achieving relaxed control in our distraction-filled world. Rather than focusing on doing more, it's about achieving what matters with less effort through strategic habits and ninja-like characteristics. The book presents the CORD Productivity Model (Capture, Organize, Review, Do) as a comprehensive framework for managing the flow of information and tasks in today's workplace.

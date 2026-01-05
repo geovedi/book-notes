@@ -1,5 +1,5 @@
 # Franz Kafka: Collected Works
-**Authors**: Franz Kafka | **Year**: 2016 (Collection)
+**Authors**: Franz Kafka | **Year**: 2016 (Collection) | **Category**: Fiction & Literature
 
 ## Summary
 This collection brings together Franz Kafka's most influential works, including his complete novels and major short stories. Written primarily in the early 20th century, these pieces explore themes of alienation, bureaucratic absurdity, existential anxiety, and the individual's struggle against incomprehensible systems. Kafka's distinctive style has given rise to the term "Kafkaesque" - describing situations that are nightmarishly complex, illogical, and often sinister.

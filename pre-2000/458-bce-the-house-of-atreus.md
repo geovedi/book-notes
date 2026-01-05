@@ -1,5 +1,6 @@
 # The House of Atreus
 **Authors**: Aeschylus | **Year**: c. 458 BCE
+**Category**: Fiction & Literature
 
 ## Summary
 The House of Atreus trilogy (Oresteia) is Aeschylus's masterpiece chronicling three generations of familial bloodshed and its ultimate resolution through justice. The plays—Agamemnon, The Libation-Bearers, and The Furies—follow the cursed House of Atreus as cycles of vengeance consume a royal family, transforming primitive blood revenge into civilized justice through divine intervention and human wisdom.

@@ -1,5 +1,5 @@
 # Whip Smart
-**Author**: Melissa Febos | **Year**: 2010
+**Author**: Melissa Febos | **Year**: 2010 | **Category**: Fiction & Literature
 
 ## Summary
 *Whip Smart* is a raw, unflinching memoir about Melissa Febos's four years working as a professional dominatrix in a Midtown Manhattan S&M house while simultaneously maintaining her life as a college student with a 3.9 GPA and battling drug addiction. What begins as a curious exploration of power dynamics and human sexuality becomes a journey into the darkest corners of her own psyche, revealing profound truths about control, intimacy, addiction, and the lengths we go to understand ourselves.

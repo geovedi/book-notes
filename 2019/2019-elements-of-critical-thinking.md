@@ -1,5 +1,6 @@
 # Elements of Critical Thinking
 **Authors**: Albert Rutherford | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Elements of Critical Thinking" is a comprehensive guide that transforms abstract thinking skills into practical, actionable techniques for better decision-making and reasoning. The book demystifies critical thinking by breaking it down into fundamental components: questioning assumptions, recognizing biases, applying logical frameworks, and developing metacognitive awareness. Rutherford draws heavily from cognitive psychology research, particularly Daniel Kahneman's work on thinking systems, to show how our brains naturally lead us astray and how we can overcome these cognitive limitations.

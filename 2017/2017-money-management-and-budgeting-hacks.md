@@ -1,5 +1,6 @@
 # Money Management and Budgeting Hacks
 **Authors**: Life 'n' Hack | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide offers 18 actionable strategies for taking control of your finances through smart budgeting, saving, and debt management. The book presents a step-by-step approach to financial freedom, starting with basic expense tracking and progressing to advanced investment strategies. It's designed for anyone feeling overwhelmed by money management or living paycheck-to-paycheck, regardless of their income level.

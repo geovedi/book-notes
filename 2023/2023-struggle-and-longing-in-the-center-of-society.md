@@ -1,6 +1,7 @@
 # Struggle and Longing in the Center of Society
 **Original Title**: Kampf und Sehnsucht in der Mitte der Gesellschaft
-**Author**: Stephan Anpalagan | **Year**: 2023 
+**Author**: Stephan Anpalagan | **Year**: 2023
+**Category**: Fiction & Literature 
 
 ## Summary
 

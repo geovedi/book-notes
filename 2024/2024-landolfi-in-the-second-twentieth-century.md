@@ -1,6 +1,7 @@
 # Landolfi in the Second Twentieth Century: Essays and Testimonies
 **Original Title**: Landolfi nel secondo Novecento: Saggi e testimonianze
-**Editors**: Elena Arnone, Jacopo Maria Romano | **Year**: 2024 
+**Editors**: Elena Arnone, Jacopo Maria Romano | **Year**: 2024
+**Category**: Fiction & Literature 
 
 ## Summary
 "Landolfi nel secondo Novecento" is a comprehensive scholarly exploration of Tommaso Landolfi's enduring influence on Italian literature and culture throughout the latter half of the 20th century. The book brings together critical essays and personal testimonies that examine Landolfi's unique literary style, his thematic preoccupations, and his impact on subsequent generations of writers.

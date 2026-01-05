@@ -1,5 +1,6 @@
 # Inside Steve's Brain
 **Authors**: Leander Kahney | **Year**: 2008
+**Category**: Technology & Computing
 
 ## Summary
 Inside Steve's Brain offers an intimate look into the mind and methods of Steve Jobs, the visionary who transformed Apple from near bankruptcy into one of the world's most valuable companies. Kahney reveals how Jobs's unique blend of perfectionism, design obsession, and marketing genius created revolutionary products that changed how we live, work, and interact with technology.

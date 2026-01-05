@@ -1,6 +1,6 @@
 # What and How with Money
 **Original Title**: Wat en hoe met geld
-**Author**: Patrick Beijersbergen | **Year**: 2011
+**Author**: Patrick Beijersbergen | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive financial literacy guide demystifies money management for everyday Dutch readers, covering everything from basic banking to investing and retirement planning. The book addresses a critical knowledge gap in financial education that became apparent during various financial scandals like the Legio Lease and DSB Bank affairs. Written by an economist and investment analyst, it transforms complex financial concepts into accessible wisdom for readers who want to take control of their financial futures.

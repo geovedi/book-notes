@@ -1,5 +1,6 @@
 # Our Mutual Friend
 **Authors**: Charles Dickens | **Year**: 1865
+**Category**: Fiction & Literature
 
 ## Summary
 "Our Mutual Friend" is Dickens' final completed novel, a complex tale of wealth, identity, and social class set against the backdrop of Victorian London's river society. The story begins with the discovery of a body in the Thames—John Harmon, heir to a great dust-contracting fortune, who was supposed to return from abroad to claim his inheritance and marry a woman he's never met. His death creates a ripple effect that entangles the lives of characters from all social strata, from river scavengers to aristocratic society.

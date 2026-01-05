@@ -1,5 +1,6 @@
 # 365 Women Empowerment Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This daily quote collection offers 365 powerful statements of women's empowerment, self-confidence, and achievement. The book serves as a year-long companion for women seeking daily inspiration and motivation, featuring wisdom from historical figures, contemporary leaders, artists, and thinkers. Each quote is designed to provide a moment of reflection and encouragement, covering themes of strength, independence, leadership, self-worth, and breaking barriers.

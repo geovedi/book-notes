@@ -1,6 +1,7 @@
 # Harmonies of Disorder: Norbert Wiener and the Birth of Cybernetics
 **Original Title**: Harmonies of Disorder
 **Author**: Leone Montagnini | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Harmonies of Disorder" is a comprehensive intellectual biography of Norbert Wiener, the mathematical genius who founded cybernetics—the science of control and communication in animals and machines. The book chronicles Wiener's journey from child prodigy to groundbreaking scientist, revealing how his work on anti-aircraft prediction systems during World War II led to revolutionary insights about feedback, information, and the fundamental similarities between living organisms and machines.

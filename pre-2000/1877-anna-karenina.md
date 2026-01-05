@@ -1,5 +1,6 @@
 # Anna Karenina
 **Authors**: Leo Tolstoy | **Year**: 1877
+**Category**: Fiction & Literature
 
 ## Summary
 Anna Karenina tells the parallel stories of two people whose searches for fulfillment lead them down dramatically different paths. Anna, a beautiful, high-society woman trapped in a loveless marriage, risks everything—her reputation, her position in society, and even access to her beloved son—for a passionate affair with the dashing Count Vronsky. Meanwhile, the thoughtful landowner Levin struggles with questions of faith, family, and the meaning of life while trying to win the hand of the young Kitty Shcherbatskaya.

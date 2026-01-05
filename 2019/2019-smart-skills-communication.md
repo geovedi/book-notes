@@ -1,5 +1,6 @@
 # Smart Skills: Communications
 **Authors**: Patrick Forsyth | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Smart Skills: Communications" is a comprehensive guide that transforms communication from an afterthought into a strategic business advantage. Forsyth argues that communication is inherently difficult and requires deliberate thought and preparation to overcome natural barriers like limited attention spans, assumptions, and emotional resistance. The book presents communication as a career-enhancing skill that affects how you're perceived and your ability to achieve results in the workplace.

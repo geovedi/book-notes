@@ -1,5 +1,6 @@
 # Things I Learned from Mario's Butt-Unbound
 **Author**: Laura Kate Dale | **Year**: 2020
+**Category**: Art & Creativity
 
 ## Summary
 Based on the available table of contents, this appears to be a humorous and unconventional examination of video games through an unconventional lens - specifically focusing on character design, physical representations, and anatomical details in gaming. The book likely explores how video game characters are designed, portrayed, and perceived through various game franchises, potentially using a mix of humor, cultural analysis, and game design critique.

@@ -1,5 +1,6 @@
 # Who's Got Your Back
 **Author**: Keith Ferrazzi | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 "Who's Got Your Back" reveals the transformative power of deep, trusting relationships—what Ferrazzi calls "lifeline relationships"—that create unprecedented success and prevent failure. The book argues that behind every great achievement lies an indispensable circle of trusted advisors who provide honest feedback, unwavering support, and genuine accountability. Ferrazzi, building on his bestselling "Never Eat Alone," demonstrates that exceptional achievement is not a solo sport but a peer-to-peer collaborative process.

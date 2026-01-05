@@ -1,5 +1,6 @@
 # Nightmare Abbey
 **Authors**: Thomas Love Peacock | **Year**: 1818
+**Category**: Fiction & Literature
 
 ## Summary
 Nightmare Abbey is a masterful satire of the Romantic movement and intellectual pretensions of early 19th-century England. Set in a decaying Gothic mansion, the novella follows Christopher Glowry, a melancholy widower, and his son Scythrop as they host various eccentric visitors representing different literary and philosophical trends of the day.

@@ -1,6 +1,7 @@
 # Affective Thought
 **Original Title**: Il pensiero affettivo
 **Authors**: Ginevra Bompiani, Sarantis Thanopulos | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Affective Thought" is a profound philosophical dialogue exploring the fundamental relationship between emotion and cognition, presented through an intimate epistolary exchange between two friends. The book challenges the traditional Cartesian separation of mind and heart, proposing instead that affection is itself a form of thought and thinking is inherently affective. Through their correspondence, Bompiani and Thanopulos investigate how emotions shape our understanding of reality, how illusion serves as a bridge between sensory experience and intellectual knowledge, and how reason without feeling becomes blind while emotion without thought remains formless.

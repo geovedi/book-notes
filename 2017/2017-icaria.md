@@ -1,5 +1,6 @@
 # Icaria
-**Original Title**: Icarië | **Author**: Uwe Timm | **Year**: 2017 
+**Original Title**: Icarië | **Author**: Uwe Timm | **Year**: 2017
+**Category**: Fiction & Literature 
 
 ## Summary
 "Icarië" is a profound exploration of idealism, morality, and the human cost of utopian thinking. The novel weaves together two parallel narratives: the story of Michael Hansen, a German-born American officer stationed in Germany during the final days of World War II, and extended philosophical dialogues about historical attempts to create perfect societies. As Hansen witnesses the devastating aftermath of war and grapples with his identity as a German fighting against his homeland, he encounters discussions about the Icarian movement—a 19th-century utopian community that sought to build an egalitarian society based on scientific principles and human "improvement." The novel masterfully connects past and present, showing how idealistic visions of human perfection can lead to both noble aspirations and dangerous ideologies.

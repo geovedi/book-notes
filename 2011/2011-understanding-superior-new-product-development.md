@@ -1,5 +1,5 @@
 # Understanding Superior New Product Development
-**Authors**: Ina Horn | **Year**: 2011
+**Authors**: Ina Horn | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 This groundbreaking academic work explores why some companies consistently outperform their peers in new product development through the lens of dynamic capabilities theory. Based on comparative case studies in the aerospace and semiconductor industries, Horn reveals that the secret lies not in rigid process frameworks, but in the underlying organizational routines that enable firms to integrate resources and reconfigure their operations effectively.

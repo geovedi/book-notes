@@ -1,5 +1,5 @@
 # Furious Love
-**Authors**: Sam Kashner, Nancy Schoenberger | **Year**: 2010
+**Authors**: Sam Kashner, Nancy Schoenberger | **Year**: 2010 | **Category**: Romance & Relationships
 
 ## Summary
 "Furious Love" chronicles the legendary, tumultuous relationship between Elizabeth Taylor and Richard Burton—the most famous love affair of the 20th century. Beginning with their scandalous meeting on the set of "Cleopatra" in 1962, the book follows their thirteen-year saga through two marriages, countless headlines, magnificent jewels, passionate fights, and international controversy. Their relationship transformed them from respected actors into the world's first celebrity couple, creating the modern template for tabloid culture and paparazzi frenzy. Despite their genuine, profound love for each other, their relationship was ultimately destroyed by the very publicity that created them, Burton's alcoholism, and their inability to escape the "Liz and Dick" spectacle they had become.

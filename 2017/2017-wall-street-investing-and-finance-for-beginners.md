@@ -1,5 +1,6 @@
 # Wall Street Investing and Finance for Beginners
 **Authors**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This beginner-friendly guide demystifies stock market investing by breaking down complex financial concepts into accessible strategies. The book positions the stock market as a wealth-building opportunity available to everyone, not just the elite, emphasizing that with the right knowledge, anyone can transform modest savings into substantial wealth through smart investing.

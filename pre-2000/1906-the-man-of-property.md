@@ -1,5 +1,6 @@
 # The Man of Property
 **Authors**: John Galsworthy | **Year**: 1906
+**Category**: Fiction & Literature
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # The Power
-**Authors**: Rhonda Byrne, Marina Panatero, Ma Anand Tea Pecunia | **Year**: 2011
+**Authors**: Rhonda Byrne, Marina Panatero, Ma Anand Tea Pecunia | **Year**: 2011 | **Category**: Spirituality & Religion
 
 ## Summary
 "The Power" reveals that love is the single most powerful force in the universe and the key to creating the life you desire. Building on "The Secret," Byrne explains that every positive thing in life comes from love, while all negativity stems from lack of love. The book teaches readers how to harness this universal force through their thoughts, feelings, and imagination to transform their relationships, health, finances, and overall happiness. You'll learn that you're not at the mercy of circumstances—you create them through what you give out emotionally and mentally.

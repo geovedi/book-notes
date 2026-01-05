@@ -1,5 +1,6 @@
 # Catching Fire: How Cooking Made Us Human
 **Author**: Richard W. Wrangham | **Year**: 2009
+**Category**: Science & Nature
 
 ## Summary
 "Catching Fire" presents a revolutionary theory that the control of fire and invention of cooking was the pivotal moment that transformed our ape-like ancestors into true humans. Richard Wrangham argues that cooking wasn't merely a cultural convenience but a biological necessity that fundamentally reshaped our bodies, brains, and social structures. Cooking increased the energy availability of food, triggered anatomical changes (smaller guts, bigger brains), and created the foundation for human social organization around the hearth.

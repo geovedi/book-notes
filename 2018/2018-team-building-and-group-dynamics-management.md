@@ -1,5 +1,5 @@
 # Team Building and Group Dynamics Management
-**Authors**: Hiriyappa B, Ph.D. | **Year**: 2018
+**Authors**: Hiriyappa B, Ph.D. | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide explores the fundamental principles of building and managing effective teams in modern organizations. The book presents a systematic approach to team formation, development, and management through seven detailed chapters covering team introduction, function management, effectiveness, dynamics, group formation, types of groups, and managing effective teams. It emphasizes that successful teams are assets to enterprises, capable of recognizing challenges, fostering innovation, and delivering superior quality services and products through collaborative effort.

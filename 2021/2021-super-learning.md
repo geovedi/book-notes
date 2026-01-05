@@ -1,5 +1,6 @@
 # Super Learning
 **Authors**: Peter Hollins | **Year**: 2021
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Super Learning" is a practical guide that transforms how we approach learning by working with our brain's natural mechanisms rather than against them. Hollins, drawing from decades of research, presents a systematic approach to accelerated learning that focuses on understanding processes, optimizing conditions, and using scientifically-backed techniques. The book challenges common misconceptions about learning—like the effectiveness of highlighting or rereading—and replaces them with evidence-based strategies that actually work.

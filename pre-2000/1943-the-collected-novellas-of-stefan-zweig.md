@@ -1,5 +1,6 @@
 # 2015-The Collected Novellas of Stefan Zweig
 **Authors**: Stefan Zweig | **Year**: 1943 (collection)
+**Category**: Fiction & Literature
 
 ## Summary
 Stefan Zweig's masterful collection of psychological novellas explores the hidden tensions beneath the surface of civilized Austrian society. Written primarily in the 1920s-1940s, these stories reveal the complex emotional lives of characters grappling with desire, fear, guilt, and moral confusion. Zweig, once the most widely read author in the world, brings his signature psychological depth to stories that serve as both intimate character studies and profound social commentary.

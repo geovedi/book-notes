@@ -1,5 +1,6 @@
 # Black Beauty
 **Authors**: Anna Sewell | **Year**: 1877
+**Category**: Children & Young Adult
 
 ## Summary
 "Black Beauty" is a groundbreaking novel told from the perspective of a handsome black horse who lives through various owners and circumstances in Victorian England. Through Beauty's eyes, we experience the full spectrum of human treatment of animals—from compassionate care to cruel exploitation—making this one of the first works of fiction to advocate for animal welfare. The story follows Beauty from his idyllic colthood through working as a carriage horse, cab horse, and various other roles, showing both the kindness and cruelty humans can inflict upon animals.

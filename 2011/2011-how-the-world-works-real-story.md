@@ -1,5 +1,5 @@
 # How the World Works (Real Story)
-**Author**: Noam Chomsky | **Year**: 2011
+**Author**: Noam Chomsky | **Year**: 2011 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "How the World Works" is a collection of Chomsky's most compelling analysis revealing the systematic mechanisms behind US foreign policy and global power structures. The book exposes how American policymakers, since World War II, have deliberately maintained global dominance through military intervention, economic coercion, and sophisticated propaganda. Chomsky demonstrates how the US has consistently opposed genuine democracy, independence movements, and any system that prioritizes human welfare over corporate profits.

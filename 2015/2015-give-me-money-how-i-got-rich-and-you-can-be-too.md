@@ -1,6 +1,6 @@
 # Give Me Money: How I Got Rich and You Can Be Too by Following the Knights Templar Legacy
 
-**Author**: Robin Sacredfire | **Year**: 2015
+**Author**: Robin Sacredfire | **Year**: 2015 | **Category**: Spirituality & Religion
 
 ## Summary
 This controversial book reveals spiritual secrets about wealth accumulation, claiming that organizations like the Illuminati, Freemasons, and Knights Templar possess ancient knowledge about karmic structures and energetic frequencies that control abundance. The author argues that your relationship with money is determined by your emotional baggage from past lives and your current vibrational frequency. The book presents a radical perspective that wealth isn't created through hard work alone but through spiritual alignment, emotional healing, and understanding the hidden metaphysical laws governing prosperity.

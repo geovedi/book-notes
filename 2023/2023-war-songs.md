@@ -1,6 +1,7 @@
 # War Songs
 **Original Title**: Canti di guerra
 **Author**: Stefano Nazzi | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 War Songs is a gripping true crime narrative that chronicles the brutal criminal underworld of 1970s-80s Milan, focusing on three legendary bandits who ruled the city's streets: Francis Turatello ("Faccia d'angelo"), Renato Vallanzasca ("il bel René"), and Angelo Epaminonda ("il Tebano"). Set against the backdrop of an Italy where murders averaged 150 per year in Milan alone (compared to just 19 in 2022), the book reveals how these three men rose from poverty to build criminal empires built on gambling, prostitution, kidnapping, and murder.

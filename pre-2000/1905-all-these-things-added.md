@@ -1,5 +1,6 @@
 # All These Things Added
 **Authors**: James Allen | **Year**: 1905
+**Category**: Spirituality & Religion
 
 ## Summary
 "All These Things Added" is a profound spiritual guide that reveals how true peace and fulfillment come not from pursuing material possessions or worldly success, but from finding the "Kingdom of Heaven" within through righteousness and self-mastery. James Allen presents a timeless philosophy showing that when we stop seeking earthly pleasures and heavenly rewards, we discover the Temple of Righteousness and find the Kingdom of Heaven through self-surrender and love.

@@ -1,5 +1,5 @@
 # 20 Top Delegation Tips
-**Authors**: David Salmon | **Year**: 2016
+**Authors**: David Salmon | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide presents delegation as an essential management skill that enables leaders to multiply their effectiveness while developing their team members. The book frames delegation not as task offloading, but as a strategic approach to empowerment, trust-building, and organizational growth. Through structured frameworks and actionable advice, it transforms delegation from a source of anxiety into a pathway for leadership excellence.

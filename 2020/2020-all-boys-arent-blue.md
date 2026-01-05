@@ -1,5 +1,6 @@
 # All Boys Aren't Blue
 **Authors**: George M. Johnson | **Year**: 2020
+**Category**: Romance & Relationships
 
 ## Summary
 "All Boys Aren't Blue" is a powerful memoir-manifesto that weaves together personal essays from Johnson's childhood, adolescence, and college years as a Black queer boy growing up in New Jersey and Virginia. Through stories about family, friends, love, and identity, Johnson examines the intersections of Blackness and queerness while challenging traditional notions of masculinity. The book serves as both a personal testimony and a call for representation, giving voice to experiences that have historically been erased from mainstream narratives.

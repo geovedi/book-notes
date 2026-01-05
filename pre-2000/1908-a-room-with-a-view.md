@@ -1,5 +1,6 @@
 # A Room with a View
 **Authors**: E.M. Forster | **Year**: 1908
+**Category**: Fiction & Literature
 
 ## Summary
 A young English woman, Lucy Honeychurch, travels to Florence with her prim chaperone cousin Charlotte Bartlett, where their initially disappointing pension rooms lead to an encounter that will change Lucy's life forever. When the unconventional Emersons offer to swap their rooms with a view for the Honeychurches' dreary rooms, Lucy's journey of self-discovery begins—a journey that challenges Victorian conventions, explores the conflict between passion and propriety, and ultimately reveals how one must choose between social expectation and authentic living.

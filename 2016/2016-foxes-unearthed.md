@@ -1,5 +1,5 @@
 # Foxes Unearthed
-**Authors**: Lucy Jones | **Year**: 2016
+**Authors**: Lucy Jones | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 Foxes Unearthed explores Britain's complex and contradictory relationship with the red fox - a creature that inspires both passionate love and intense hatred. Jones investigates how this small carnivore has become a cultural lightning rod, representing everything from liberty and beauty to class conflict and cruelty. Through personal encounters, historical research, and interviews with hunters, saboteurs, farmers, and urban dwellers, she reveals how the fox reflects our deepest tensions about nature, tradition, and our place in the world.

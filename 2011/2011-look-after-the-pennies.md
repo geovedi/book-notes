@@ -1,5 +1,5 @@
 # Look After the Pennies
-**Authors**: Tess Read | **Year**: 2011
+**Authors**: Tess Read | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "Look After the Pennies" is a comprehensive guide to living well while spending less in the modern world. The book presents hundreds of practical strategies for saving money across all aspects of daily life, from grocery shopping and utility bills to holidays and home ownership. Written by a former Bank of England employee, the book combines traditional frugal wisdom with modern technological solutions to help readers take control of their finances without sacrificing quality of life.

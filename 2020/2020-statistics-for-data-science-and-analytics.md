@@ -1,5 +1,6 @@
 # Statistics for Data Science and Analytics
 **Authors**: Peter C. Bruce, Peter Gedeck | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 "Statistics for Data Science and Analytics" bridges the gap between traditional statistics and modern data science, providing practical skills for extracting meaningful insights from data. The book emphasizes hands-on learning with Python, teaching readers how to design experiments, analyze data, and apply statistical thinking to real-world problems. It covers fundamental concepts from hypothesis testing to regression modeling while using resampling methods to make complex statistical ideas more intuitive and accessible.

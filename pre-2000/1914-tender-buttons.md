@@ -1,5 +1,6 @@
 # Tender Buttons
 **Authors**: Gertrude Stein | **Year**: 1914
+**Category**: Fiction & Literature
 
 ## Summary
 "Tender Buttons" is a revolutionary modernist poetry collection that shattered traditional literary conventions through its radical experimentation with language, meaning, and perception. Written in 1914, this work represents one of the earliest and most influential examples of abstract poetry, challenging readers to abandon their expectations of how language should function. The book is divided into three sections—Objects, Food, and Rooms—each containing prose poems that deconstruct everyday items and experiences into pure linguistic abstraction.

@@ -1,5 +1,6 @@
 # Digital Liberty
 **Authors**: Matt Stroud | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 Digital Liberty presents a compelling analysis of how centralized data and AI systems are fundamentally reshaping power structures in modern society. Stroud argues that "Power will follow data and AI, which, if centralised in internet platforms and governments, will undermine our open, liberal societies." The book offers both a stark warning about the trajectory of digital surveillance and manipulation, while also presenting hopeful solutions through decentralized technologies that can restore individual agency.

@@ -1,6 +1,7 @@
 # The Complete Leatherstocking Tales
 
 **Authors**: James Fenimore Cooper | **Year**: 1823-1841 (Collection Publication: 2018)
+**Category**: Fiction & Literature
 
 ## Summary
 

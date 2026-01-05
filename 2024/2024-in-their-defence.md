@@ -1,5 +1,6 @@
 # In Their Defence: A Guide to Protecting Children in the Justice System
 **Authors**: Aika Stephenson | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "In Their Defence" is an eye-opening insider's account of the youth justice system written by Aika Stephenson, a solicitor and co-founder of Just for Kids Law. Drawing from her personal experience growing up with a father who was frequently incarcerated and her professional work representing thousands of young people, Stephenson reveals how the legal system often fails children and provides essential guidance for parents and caregivers. The book exposes systemic issues while offering practical advice for navigating police stations, courts, and the complex world of youth justice.

@@ -1,5 +1,5 @@
 # Collected Stories
-**Authors**: Margaret Oliphant | **Year**: 2016
+**Authors**: Margaret Oliphant | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 Margaret Oliphant's "Collected Stories" brings together two masterful Gothic mysteries that showcase her talent for psychological suspense and supernatural fiction. In "The Library Window," a young woman becomes fascinated by a mysterious window across the street, whose very existence sparks debate among local observers. "The Secret Chamber" delves into the dark secrets of Castle Gowrie, where generations of the Randolph family have been haunted by a hidden chamber containing an ancient, malevolent ancestor who continues to influence the family from beyond death.

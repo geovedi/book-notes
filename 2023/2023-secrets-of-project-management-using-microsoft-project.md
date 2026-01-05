@@ -1,5 +1,6 @@
 # 2023 Secrets of Project Management Using Microsoft Project
 **Authors**: Andrei Besedin | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies project management by combining PMI methodology with hands-on Microsoft Project software training. The book reveals that successful project management isn't about technical expertise alone—it's about meticulous planning, clear communication, and understanding human dynamics. Whether you're a seasoned project manager or just starting out, this book provides the essential tools and secrets to transform chaos into coordinated success.

@@ -1,5 +1,5 @@
 # Scrappy Little Nobody
-**Author**: Anna Kendrick | **Year**: 2016
+**Author**: Anna Kendrick | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 Anna Kendrick's memoir is a hilarious and refreshingly honest collection of essays about her journey from a anxious kid in Maine to an Oscar-nominated actress. The book traces her path through community theater, Broadway, and Hollywood, all while maintaining the self-deprecating humor and relatable insecurity that makes her so endearing.

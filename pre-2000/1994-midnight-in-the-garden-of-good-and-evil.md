@@ -1,5 +1,6 @@
 # Midnight in the Garden of Good and Evil
 **Author**: John Berendt | **Year**: 1994
+**Category**: Fiction & Literature
 
 ## Summary
 *Midnight in the Garden of Good and Evil* is a mesmerizing true-crime narrative that transports readers to the atmospheric heart of Savannah, Georgia. The book centers on the 1981 shooting death of Danny Hansford, a charismatic young male hustler, by Jim Williams, a wealthy and prominent antiques dealer who resides in the magnificent Mercer House. What begins as a straightforward murder case evolves into a sprawling portrait of Savannah's eccentric society, where ancient traditions, southern Gothic eccentricities, and carefully guarded secrets intertwine. Through eight years of living in Savannah, Berendt weaves together the murder investigation with vivid portraits of the city's most colorful characters, from a voodoo priestess to a flamboyant drag queen, from a man who walks an imaginary dog to the piano-playing attorney who becomes Williams's defender.

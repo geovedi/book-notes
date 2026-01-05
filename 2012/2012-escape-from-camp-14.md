@@ -1,5 +1,6 @@
 # Escape from Camp 14
 **Author**: Blaine Harden | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 "Escape from Camp 14" tells the extraordinary true story of Shin Dong-hyuk, the only person known to have been born and raised in a North Korean political prison camp and escaped to tell the tale. Born into a lifetime of slave labor in Camp 14—a complete control district where prisoners work to death without trial or hope of release—Shin knew nothing of love, family, or the outside world. His brutal upbringing taught him to survive by snitching on everyone, including his own mother, whom he watched hang at age 14 for attempting to escape.

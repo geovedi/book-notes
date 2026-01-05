@@ -1,5 +1,6 @@
 # H.G. Wells: The Complete Collection
 **Authors**: H.G. Wells (Herbert George Wells) | **Year**: 2017 (Collection)
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 This comprehensive collection brings together the complete works of Herbert George Wells (1866-1946), the prolific English writer often called "The Father of Science Fiction." Wells was a futurist, historian, socialist, and visionary whose influence extends far beyond literature into social thought and scientific imagination. The collection spans his groundbreaking science fiction novels, social commentaries, historical works, short stories, essays, and even his innovative writings on war games.

@@ -1,6 +1,6 @@
 # The Ancient and Medieval Philosophy Collection
 **Original Title**: Cofanetto Filosofia Antica e Medievale
-**Editor**: Umberto Eco, Riccardo Fedriga | **Year**: 2014
+**Editor**: Umberto Eco, Riccardo Fedriga | **Year**: 2014 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This comprehensive collection, part of the monumental "History of European Civilization" series edited by renowned semiotician Umberto Eco, presents a sweeping journey through the evolution of Western philosophical thought from its earliest Greek origins to the late medieval period. The work brings together contributions from leading Italian scholars across multiple disciplines, offering readers an integrated perspective on how philosophical ideas developed within their broader cultural, political, and artistic contexts.

@@ -1,5 +1,6 @@
 # Improve Your People Skills
 **Authors**: Patrick King | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Improve Your People Skills" is a practical guide that transforms social interactions from challenging obstacles into opportunities for meaningful connection. The book argues that people skills are the ultimate gatekeepers to success in life—more important than resumes, talent, or qualifications. King emphasizes that while we can't control circumstances, we can control how we interact with people who navigate those circumstances.

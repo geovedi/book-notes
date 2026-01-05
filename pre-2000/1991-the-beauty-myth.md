@@ -1,5 +1,6 @@
 # The Beauty Myth
 **Author**: Naomi Wolf | **Year**: 1991
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Beauty Myth" exposes how society's impossible standards of female beauty function as a political weapon against women's advancement. Wolf argues that as women gained legal rights, education, and professional power, a new form of social control emerged: the beauty myth. This system uses images of female beauty to undermine women's progress, creating a "violent backlash against feminism that uses images of female beauty as a political weapon against women's advancement."

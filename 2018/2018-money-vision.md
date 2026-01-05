@@ -1,5 +1,5 @@
 # Money Vision
-**Authors**: Debra Powell | **Year**: 2018
+**Authors**: Debra Powell | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Money Vision is a practical financial transformation guide written by someone who went from being jobless with $18,000 in credit card debt at age 48 to achieving a high six-figure net worth within 14 years. Debra Powell shares her personal journey and the step-by-step system she developed by reading hundreds of financial books and extracting the most effective strategies.

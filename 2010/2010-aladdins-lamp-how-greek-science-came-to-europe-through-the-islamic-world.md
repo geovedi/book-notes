@@ -1,5 +1,5 @@
 # Aladdin's Lamp: How Greek Science Came to Europe Through the Islamic World
-**Author**: John Freely | **Year**: 2010
+**Author**: John Freely | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "Aladdin's Lamp" reveals the remarkable journey of scientific knowledge from ancient Greece through the Islamic world to medieval Europe, challenging the common narrative of Western scientific development. Freely traces how Greek scientific works were preserved, translated, and advanced by Islamic scholars during Europe's Dark Ages, ultimately catalyzing the Renaissance and Scientific Revolution. This intellectual travelogue spans from the Milesian physicists through Baghdad's House of Wisdom to the translation centers of Toledo and Palermo, showing how modern science emerged from centuries of cross-cultural exchange rather than isolated European genius.

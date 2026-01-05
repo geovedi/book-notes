@@ -1,5 +1,6 @@
 # Korean Tales from Serapis Classics
 **Original Title**: Korean Tales | **Author**: Horace Newton Allen | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This enchanting collection of Korean folk tales offers readers a rare glimpse into the cultural heritage and traditional wisdom of Korea during the late Joseon Dynasty. Written by Horace Newton Allen, an American physician and diplomat who lived in Korea, the book combines captivating animal fables, romantic legends, and detailed descriptions of Korean customs, society, and natural surroundings. The stories serve not only as entertainment but as vehicles for teaching moral lessons, explaining natural phenomena, and preserving cultural values.

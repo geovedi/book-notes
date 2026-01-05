@@ -1,5 +1,5 @@
 # The Game of Life and How to Play It
-**Author**: Florence Scovel Shinn | **Year**: 2022
+**Author**: Florence Scovel Shinn | **Year**: 2022 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Florence Scovel Shinn's classic metaphysical work presents life as a spiritual game governed by universal laws that can be mastered through understanding and practice. Written in the early 20th century, this book teaches that our thoughts, words, and imagination are the creative forces that shape our reality. Shinn draws from biblical principles and New Thought philosophy to reveal how we can consciously direct our lives by working with spiritual laws rather than against them.

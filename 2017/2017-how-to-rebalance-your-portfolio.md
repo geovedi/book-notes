@@ -1,5 +1,6 @@
 # How to Rebalance Your Portfolio
 **Authors**: Mel Clark | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 Portfolio rebalancing is the systematic process of realigning your investment portfolio back to its target asset allocation percentages. When some investments grow faster than others, your portfolio drifts away from its original risk profile. Rebalancing restores your intended balance by selling overperforming assets and buying underperforming ones.

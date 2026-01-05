@@ -1,5 +1,6 @@
 # The Aeneid
 **Authors**: Virgil, Translated by John Dryden | **Year**: 2017 (Harvard Classics Edition), Original: 19-16 BCE
+**Category**: Fiction & Literature
 
 ## Summary
 The Aeneid is Virgil's epic masterpiece that tells the legendary story of Aeneas, a Trojan hero who escapes the fall of Troy and embarks on a divinely-ordained mission to found Rome. Written during the reign of Emperor Augustus, this monumental poem serves as both a foundation myth for Rome and a celebration of Roman values, duty, and destiny. The work follows Aeneas through his wanderings across the Mediterranean, his tragic affair with Dido in Carthage, his descent to the underworld, and finally his arrival in Italy where he must battle to establish his new homeland.

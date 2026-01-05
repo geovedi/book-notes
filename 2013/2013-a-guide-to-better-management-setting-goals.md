@@ -1,5 +1,5 @@
 # A Guide to Better Management: Setting Goals
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical management guide introduces Neuro-Linguistic Programming (NLP) principles to help managers and professionals master the art of setting and achieving meaningful goals. Based on the study of excellence, the book reveals how successful people across different fields share similar core beliefs and approaches that anyone can adopt to improve their performance and satisfaction.

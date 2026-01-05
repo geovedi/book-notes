@@ -1,5 +1,6 @@
 # The Secret Door to Success
 **Authors**: Florence Scovel Shinn | **Year**: 2012
+**Category**: Spirituality & Religion
 
 ## Summary
 "The Secret Door to Success" is a spiritual guide that reveals how thoughts, words, and beliefs create our reality. Florence Scovel Shinn teaches that success comes through understanding and applying universal spiritual laws—particularly the power of spoken words, faith, and right thinking. The book shows how we build invisible walls (like resentment, fear, and doubt) that block our success, and provides practical affirmations and mental techniques to dismantle these barriers.

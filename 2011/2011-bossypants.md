@@ -1,5 +1,5 @@
 # Bossypants
-**Author**: Tina Fey | **Year**: 2011
+**Author**: Tina Fey | **Year**: 2011 | **Category**: Fiction & Literature
 
 ## Summary
 Bossypants is Tina Fey's hilarious and insightful memoir that takes readers from her suburban Pennsylvania childhood through her journey as a woman in male-dominated comedy writing rooms to becoming a comedy powerhouse at Saturday Night Live and 30 Rock. Fey masterfully blends personal anecdotes with sharp observations about gender dynamics, workplace politics, and the absurdities of entertainment industry life.

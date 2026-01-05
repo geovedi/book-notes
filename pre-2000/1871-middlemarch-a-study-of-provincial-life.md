@@ -1,5 +1,6 @@
 # Middlemarch: A Study of Provincial Life
 **Authors**: George Eliot | **Year**: 1871
+**Category**: Fiction & Literature
 
 ## Summary
 Middlemarch is a sprawling masterpiece of Victorian literature that explores the complex web of relationships, ambitions, and social constraints in a provincial English town during the 1830s. Through multiple interweaving storylines, the novel examines how individuals navigate their desires and ideals against the limitations of their circumstances, ultimately asking what it means to live a meaningful life in an imperfect world.

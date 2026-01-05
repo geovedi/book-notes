@@ -1,5 +1,6 @@
 # Work: A Story of Experience
 **Authors**: Louisa May Alcott | **Year**: 1873
+**Category**: Fiction & Literature
 
 ## Summary
 "Work: A Story of Experience" follows Christie Devon, a determined young woman who leaves her uncle's farm seeking independence and purpose through various occupations in 19th-century America. Through her journey as a servant, actress, governess, companion, seamstress, and Civil War nurse, Christie discovers that true fulfillment comes not from wealth or status, but from meaningful work, genuine love, and service to others.

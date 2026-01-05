@@ -1,5 +1,6 @@
 # Effortless Cryptocurrency Trading Strategies
 **Authors**: Henry Wilson | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This concise guide offers practical strategies for cryptocurrency trading without complex technical analysis. Wilson focuses on fundamental research methods, risk management principles, and beginner-friendly approaches that emphasize patience and long-term thinking over day trading. The book serves as a antidote to get-rich-quick schemes, promoting sustainable trading habits through careful coin selection and strategic patience.

@@ -1,5 +1,5 @@
 # Make Art or Die Trying
-**Authors**: Stuart Semple | **Year**: 2022
+**Authors**: Stuart Semple | **Year**: 2022 | **Category**: Art & Creativity
 
 ## Summary
 "Make Art or Die Trying" is a revolutionary practical playbook that demolishes the barriers between everyday life and artistic creation. Stuart Semple delivers a raw, honest guide that transforms how you see creativity—arguing that art isn't about technical skill or expensive materials, but about ideas, courage, and the willingness to transform the ordinary into the extraordinary. The book is structured as a series of actionable frameworks and exercises designed to unleash your inner artist regardless of background, budget, or experience.

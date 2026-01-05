@@ -1,5 +1,6 @@
 # George, Nicholas and Wilhelm: Three Royal Cousins and the Road to World War I
 **Author**: Miranda Carter | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 This compelling narrative reveals how three royal cousins—King George V of Britain, Kaiser Wilhelm II of Germany, and Tsar Nicholas II of Russia—presided over the collapse of European monarchy and the outbreak of World War I. Bound by family ties yet separated by duty, their personal relationships and individual flaws shaped the catastrophic events that destroyed their world and ushered in the modern age of brutal warfare.

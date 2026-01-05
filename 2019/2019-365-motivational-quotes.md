@@ -1,5 +1,6 @@
 # 365 Motivational Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This collection serves as your daily companion for never-ending refueling of motivation, presenting 365 carefully curated quotes designed to provide courage, energy, and inspiration for day-to-day life. The author emphasizes that motivation, like showering, must be practiced daily to be effective—you don't just read a book and become rich overnight, nor do you become an NBA player after practicing basketball for just one day.

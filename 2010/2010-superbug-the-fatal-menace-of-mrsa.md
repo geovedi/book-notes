@@ -1,5 +1,5 @@
 # Superbug: The Fatal Menace of MRSA
-**Author**: Maryn McKenna | **Year**: 2010
+**Author**: Maryn McKenna | **Year**: 2010 | **Category**: Health & Medicine
 
 ## Summary
 "Superbug" reveals the terrifying story of MRSA (Methicillin-resistant Staphylococcus aureus), a drug-resistant bacterium that has evolved from a hospital nuisance into a global public health crisis. McKenna, an award-winning journalist, traces how this "superbug" has spread through three overlapping epidemics: hospitals, communities, and now our food chain. Through compelling patient stories and expert interviews, she exposes how our overuse of antibiotics, broken healthcare systems, and industrialized farming practices have created a perfect storm for resistant bacteria to thrive.

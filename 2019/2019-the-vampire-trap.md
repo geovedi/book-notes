@@ -1,5 +1,6 @@
 # The Vampire Trap
 **Authors**: Rachel Morgan | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In a world where fae, vampires, and shifters exist alongside humans, Elle Winter is trapped in servitude to her abusive stepmother Salvia, bound by a magical slave charm tattooed on her ankle. This second episode of the six-part "City of Wishes" series (a Cinderella retelling) follows Elle as she becomes entangled in a dangerous vampire conspiracy while secretly collecting Essence—a magical substance that could buy her freedom. When vampires begin targeting humans for mysterious reasons and specifically come after Elle, she teams up with the enigmatic Dex to uncover the truth behind the abductions, all while hiding her slave status and planning her eventual escape with her young stepsister Sienna.

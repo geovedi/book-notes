@@ -1,6 +1,7 @@
 # The Insulted and Humiliated
 **Original Title**: Оскорблённые и униженные (Oskorblonnyye i unizhennyye)
 **Author**: Fyodor Dostoyevsky | **Year**: 1861
+**Category**: Fiction & Literature
 
 ## Summary
 "The Insulted and Humiliated" is a powerful exploration of human dignity, social injustice, and the redemptive power of compassion in 19th-century Russian society. The novel follows Ivan Petrovitch, a young writer who becomes entangled in the lives of the Ichmenyev family—a once-respected couple who have fallen on hard times after being unjustly accused and ruined by the aristocratic Prince Valkovsky. Through Ivan's eyes, we witness the profound suffering of those society deems "insulted and humiliated," yet who maintain their humanity and dignity despite crushing adversity.

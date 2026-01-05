@@ -1,5 +1,5 @@
 # Giving is Good for You
-**Authors**: John Nickson | **Year**: 2013
+**Authors**: John Nickson | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This powerful book makes a compelling case that philanthropy is not just beneficial to society but profoundly transformative for the giver. John Nickson, drawing on his extensive experience as a fundraiser and trustee, presents both scientific research and inspiring case studies to demonstrate that generosity is fundamental to human fulfillment and social health. The book serves as both an indictment of modern selfishness and a hopeful call to embrace giving as a path to personal and societal transformation.

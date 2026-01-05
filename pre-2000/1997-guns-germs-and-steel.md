@@ -1,5 +1,6 @@
 # Guns, Germs and Steel
 **Author**: Jared Diamond | **Year**: 1997
+**Category**: Science & Nature
 
 ## Summary
 This landmark book answers one of history's most fundamental questions: why did human societies develop so differently across continents? Diamond argues that geographic and environmental differences—not racial or cultural superiority—shaped the modern world's power imbalances. Eurasia's head start in food production, domesticated animals, and east-west axis gave its peoples guns, germs, and steel that enabled them to conquer other societies.

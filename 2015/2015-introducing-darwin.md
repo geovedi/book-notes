@@ -1,5 +1,5 @@
 # Introducing Darwin: A Graphic Guide to Evolution
-**Authors**: Jonathan Miller, Borin Van Loon | **Year**: 2015
+**Authors**: Jonathan Miller, Borin Van Loon | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 "Introducing Darwin" is a comprehensive visual guide that explains Charles Darwin's theory of evolution by natural selection and its revolutionary impact on human thought. The book traces the historical context that made Darwin's discovery possible, from ancient creationist beliefs to the scientific revolution that set the stage for evolutionary thinking. Through engaging illustrations and accessible text, it explores how Darwin developed his theory during his voyage on the HMS Beagle, the evidence he gathered, and the scientific and social resistance he faced. The guide also explains how modern genetics and the "New Synthesis" have confirmed and refined Darwin's original ideas, making evolution the cornerstone of modern biology.

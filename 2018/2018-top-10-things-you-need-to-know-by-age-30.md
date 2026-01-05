@@ -1,5 +1,5 @@
 # Top 10 Things You Need to Know by Age 30
-**Authors**: Marc Stachado | **Year**: 2018
+**Authors**: Marc Stachado | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide offers essential life advice for navigating the transition from carefree 20s to more practical 30s. The book presents ten fundamental areas young adults should master before entering their third decade, covering financial wisdom, personal growth, health priorities, and mental resilience. Each chapter provides actionable insights designed to build a foundation for a more fulfilling and secure future.

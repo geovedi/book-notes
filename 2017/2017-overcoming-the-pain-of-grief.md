@@ -1,5 +1,6 @@
 # Overcoming the Pain of Grief
-**Original Title**: SUPERAR a DOR do LUTO | **Author**: Dom Messias dos Reis Silveira | **Year**: 2017 
+**Original Title**: SUPERAR a DOR do LUTO | **Author**: Dom Messias dos Reis Silveira | **Year**: 2017
+**Category**: Spirituality & Religion 
 
 ## Summary
 

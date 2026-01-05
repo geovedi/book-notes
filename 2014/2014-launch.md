@@ -1,5 +1,5 @@
 # Launch
-**Authors**: Jeff Walker | **Year**: 2014
+**Authors**: Jeff Walker | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "Launch" reveals Jeff Walker's revolutionary Product Launch Formula (PLF) that has generated over $500 million in sales for his students. This isn't just another marketing book—it's a complete blueprint for turning ideas into profitable businesses through strategic launches. Walker went from being a stay-at-home dad struggling on food stamps to making $1 million in a single hour, and he shows exactly how you can replicate his success.

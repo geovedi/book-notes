@@ -1,5 +1,6 @@
 # The Anti-Slavery Examiner, Part 4 of 4
 **Original Title**: The Anti-Slavery Examiner, Part 4 of 4
+**Category**: History & Biography
 **Authors**: American Anti-Slavery Society | **Year**: 1839
 
 ## Summary

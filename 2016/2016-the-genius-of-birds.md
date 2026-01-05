@@ -1,5 +1,5 @@
 # The Genius of Birds
-**Author**: Jennifer Ackerman | **Year**: 2016
+**Author**: Jennifer Ackerman | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "The Genius of Birds" dismantles the long-held misconception that birds are "bird-brained" creatures of instinct. Through fascinating scientific discoveries and engaging stories, Ackerman reveals that birds possess remarkable cognitive abilities that rival primates in sophistication. From tool-making crows and memory-savvy scrub jays to musically gifted songbirds and navigational master pigeons, birds demonstrate genius in their own distinctive ways. The book explores how avian intelligence evolved differently from mammalian intelligence yet achieves similar mental feats through different neural architectures.

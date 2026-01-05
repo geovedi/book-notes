@@ -1,5 +1,5 @@
 # Men Explain Things to Me
-**Author**: Rebecca Solnit | **Year**: 2014
+**Author**: Rebecca Solnit | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 "Men Explain Things to Me" is a groundbreaking collection of feminist essays that explores the subtle and overt ways women's voices are silenced in society. The book originated with the title essay that gave rise to the term "mansplaining" and expands to examine broader patterns of gender inequality, from everyday condescension to systemic violence against women. Solnit connects personal experiences with cultural analysis, revealing how silencing women is not about individual rudeness but about maintaining power structures.

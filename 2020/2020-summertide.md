@@ -1,5 +1,6 @@
 # Summertide
 **Authors**: Charlotte E. English | **Year**: 2020
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Summertide" is a whimsical fantasy novel that begins when the ancient Kottow Tree, home to a community of misfits and magical beings, suddenly awakens and begins to walk. The Tree carries its inhabitants away from their familiar town and back toward a lost magical forest they'd long forgotten. As the journey unfolds, the residents discover their true identities as fey folk, dryads, and other magical creatures who had been living as ordinary humans for generations.

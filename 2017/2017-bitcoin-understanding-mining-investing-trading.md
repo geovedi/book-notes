@@ -1,5 +1,6 @@
 # Bitcoin: Understanding Bitcoin, Mining, Investing & Trading for Beginners
 **Authors**: Sean Bennett | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive beginner's guide demystifies Bitcoin, the world's first decentralized cryptocurrency that has revolutionized digital finance. Written as part of the Cryptomasher series, the book covers everything from Bitcoin's mysterious origins with Satoshi Nakamoto to practical aspects of mining, trading, and investing. The author presents complex technical concepts like blockchain technology, cryptographic security, and peer-to-peer networks in an accessible format, making it ideal for newcomers to the cryptocurrency space.

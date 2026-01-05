@@ -1,5 +1,6 @@
 # Billy Budd, Sailor
 **Authors**: Herman Melville | **Year**: 1891
+**Category**: Fiction & Literature
 
 ## Summary
 In the summer of 1797, during the height of the Great Mutiny that threatened the British Navy, Billy Budd—a handsome, innocent, and universally beloved sailor—is forcibly impressed from the merchant ship "Rights-of-Man" into naval service aboard the warship Indomitable. With his striking beauty, cheerful disposition, and natural charisma, Billy quickly becomes the "Handsome Sailor" who brings peace and harmony wherever he goes. However, his innocent charm and natural goodness provoke the irrational envy and hatred of the Master-at-Arms, John Claggart—a man whose outward respectability masks profound inner depravity. When Claggart falsely accuses Billy of mutiny, the young sailor's speech impediment prevents him from defending himself with words, leading him to strike a fatal blow. Captain Edward Vere, recognizing Billy's innocence but bound by military law during wartime, must preside over a drumhead court that condemns his beloved sailor to death.

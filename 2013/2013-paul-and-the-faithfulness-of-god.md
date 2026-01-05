@@ -1,5 +1,5 @@
 # Paul and the Faithfulness of God
-**Author**: N. T. Wright | **Year**: 2013
+**Author**: N. T. Wright | **Year**: 2013 | **Category**: Spirituality & Religion
 
 ## Summary
 N.T. Wright's monumental work presents a comprehensive rethinking of the apostle Paul's theology within his historical context. Wright argues that Paul fundamentally reworked three core Jewish beliefs—monotheism, election, and eschatology—around the revelation of Jesus as Messiah and the work of the Spirit. This radical theological innovation was necessary to sustain Paul's newly formed messianic communities in their complex first-century world of Jewish, Greek, and Roman influences.

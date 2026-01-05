@@ -1,5 +1,6 @@
 # Suicide: A Modern Obsession
 **Authors**: Derek Beattie, Dr Patrick Devitt | **Year**: 2015
+**Category**: Psychology & Mental Health
 
 ## Summary
 This comprehensive sociological examination of suicide challenges conventional wisdom about one of society's most misunderstood phenomena. The authors present suicide not merely as a mental health issue, but as a complex cultural, social, and historical phenomenon that deserves deeper understanding beyond simplistic prevention approaches.

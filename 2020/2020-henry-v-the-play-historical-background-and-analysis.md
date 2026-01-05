@@ -1,5 +1,6 @@
 # Henry V: The Play and Historical Analysis
 **Original Authors**: William Shakespeare, William Hazlitt | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive volume combines Shakespeare's historical play "Henry V" with William Hazlitt's critical analysis and extensive biographical context about the historical King Henry V. The work examines both the literary masterpiece and the complex historical figure behind the legend, offering readers insights into medieval warfare, leadership, and the transformation of a prince into a warrior-king.

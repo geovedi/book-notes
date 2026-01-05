@@ -1,5 +1,5 @@
 # Lost in Shangri-La: A True Story of Survival, Adventure, and the Most Incredible Rescue Mission of World War II
-**Authors**: Mitchell Zuckoff | **Year**: 2011
+**Authors**: Mitchell Zuckoff | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 In May 1945, near the end of World War II, a U.S. Army C-47 transport plane named "Gremlin Special" crashed in a remote, uncharted valley in New Guinea's interior. The valley, nicknamed "Shangri-La" by reporters, was home to a Stone Age tribe completely isolated from the outside world. Of the 24 passengers and crew aboard, only three survived: Corporal Margaret Hastings, a beautiful WAC from upstate New York; Sergeant Kenneth Decker, a radio operator with a severe head wound; and Lieutenant John McCollom, who had just watched his twin brother die in the crash.

@@ -1,6 +1,6 @@
 # Everything About Mars
 **Original Title**: Everything About Mars
-**Authors**: My Ebook Publishing House | **Year**: 2016
+**Authors**: My Ebook Publishing House | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "Everything About Mars" takes readers on a comprehensive journey through humanity's evolving understanding of the Red Planet, from ancient astronomical observations to 19th-century scientific discoveries about Mars's surface, atmosphere, and potential for life. The book traces how technological advancements like telescopes revealed Mars's polar ice caps, seasons, mysterious "canals," and the compelling debate about whether the planet harbors intelligent civilization.

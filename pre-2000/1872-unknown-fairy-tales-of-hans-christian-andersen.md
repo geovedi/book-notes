@@ -1,5 +1,6 @@
 # Unknown Fairy Tales of Hans Christian Andersen
 **Authors**: Hans Christian Andersen, (Translator: Mrs. H.B. Paull) | **Year**: 1872
+**Category**: Children & Young Adult
 
 ## Summary
 This comprehensive collection brings together 127 of Hans Christian Andersen's most beloved fairy tales, translated by Mrs. H.B. Paull. From the depths of the ocean to the heights of imperial courts, these stories weave magical narratives that explore the human condition through fantasy, wonder, and moral wisdom. Andersen's tales transcend simple children's stories, offering profound insights into love, sacrifice, vanity, and the eternal struggle between good and evil.

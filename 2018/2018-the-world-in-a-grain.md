@@ -1,5 +1,5 @@
 # The World in a Grain
-**Authors**: Vince Beiser | **Year**: 2018
+**Authors**: Vince Beiser | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "The World in a Grain" reveals the astonishing story of how sand - the most overlooked yet essential material on Earth - built modern civilization. This humble material forms the foundation of our cities, powers our digital revolution, and literally makes modern life possible. From the concrete beneath our feet to the glass in our windows, from silicon chips to artificial islands, sand is everywhere. Yet we're rapidly running out of the right kind of sand, triggering a global crisis that's leading to environmental destruction, violence, and even murder.

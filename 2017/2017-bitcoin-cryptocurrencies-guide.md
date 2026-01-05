@@ -1,5 +1,6 @@
 # Bitcoin & Cryptocurrencies Guide
 **Authors**: Raymond Kazuya | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive introduction to Bitcoin and cryptocurrency technology serves as an accessible starting point for anyone looking to understand the digital currency revolution. Written during the cryptocurrency's mainstream emergence, the book breaks down complex concepts like blockchain technology, Bitcoin mining, trading strategies, and the disruptive potential of digital currencies on traditional financial systems.

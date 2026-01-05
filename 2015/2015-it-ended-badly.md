@@ -1,5 +1,5 @@
 # It Ended Badly
-**Author**: Jennifer Wright | **Year**: 2015
+**Author**: Jennifer Wright | **Year**: 2015 | **Category**: Romance & Relationships
 
 ## Summary
 "It Ended Badly" is a hilarious and darkly comforting journey through history's most disastrous breakups, proving that heartbreak has always been awful—and we've never had it so good. Wright matches modern dating dilemmas with spectacularly failed relationships from history, showing how figures like Nero, Henry VIII, and Oscar Wilde handled romance gone wrong.

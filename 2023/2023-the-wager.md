@@ -1,5 +1,6 @@
 # The Wager
 **Author**: David Grann | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 In 1740, during Britain's war with Spain, HMS Wager set sail as part of Commodore George Anson's secret mission to capture a treasure-filled Spanish galleon worth "the prize of all the oceans." The ship carried nearly 250 men on a journey around Cape Horn, but disaster struck when a hurricane scattered the squadron. The Wager crashed onto a desolate island off Patagonia, leaving the survivors to battle starvation, freezing temperatures, and each other in a desperate struggle for survival. What followed was a harrowing tale of shipwreck, mutiny, murder, and conflicting narratives as different groups of castaways made their way back to civilization, only to face a court-martial that would determine whose version of events history would believe.

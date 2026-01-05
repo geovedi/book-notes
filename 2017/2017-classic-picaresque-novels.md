@@ -1,5 +1,6 @@
 # Classic Picaresque Novels
 **Authors**: Daniel Defoe, Tobias Smollett, Henry Fielding, Voltaire, Mark Twain, Nikolai Gogol, Rudyard Kipling | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This Golden Deer Classics anthology brings together seven masterpieces of the picaresque tradition, spanning from 1722 to 1901. The picaresque novel follows the adventures of a roguish but appealing hero who lives by their wits in a corrupt society. These works expose social hypocrisy through satire, irony, and episodic journeys that reveal the human condition in all its complexity.

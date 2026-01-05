@@ -1,5 +1,6 @@
 # Evolve Your Habits
 **Authors**: Zoe McKey | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

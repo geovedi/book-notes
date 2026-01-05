@@ -1,6 +1,7 @@
 # The Cursed Drama
 **Original Title**: Il dramma stregato
-**Author**: Jun'ichirō Tanizaki | **Year**: 1912-1919 
+**Author**: Jun'ichirō Tanizaki | **Year**: 1912-1919
+**Category**: Fiction & Literature 
 
 ## Summary
 This collection brings together three of Tanizaki's early works that showcase his developing obsession with eroticism, cruelty, and the dark psychology of desire. Written between 1912-1919, these stories reveal the young Tanizaki experimenting with themes that would define his later masterworks - the perverse relationship between beauty and cruelty, the demoniac nature of sexual obsession, and the fine line between love and destruction. Each story explores characters trapped in webs of pathological desire where passion becomes a form of madness and violence emerges as the ultimate expression of love.

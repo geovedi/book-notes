@@ -1,5 +1,6 @@
 # He's Just Not That Into You
 **Authors**: Greg Behrendt, Liz Tuccillo | **Year**: 2009
+**Category**: Romance & Relationships
 
 ## Summary
 This revolutionary dating guide delivers one simple truth: when a man is truly interested in you, his actions will make it unmistakably clear. No mixed messages, no confusion, no endless analysis required. The book dismantles the common excuses women make for men's lackluster behavior, revealing that "he's just not that into you" isn't harsh—it's liberating. Written by a former Sex and the City consultant and his co-writer, this no-nonsense guide helps women stop wasting time on unavailable men and redirect that energy toward finding someone who genuinely values them.

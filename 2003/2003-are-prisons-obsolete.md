@@ -1,5 +1,5 @@
 # Are Prisons Obsolete?
-**Authors**: Angela Y. Davis | **Year**: 2003
+**Authors**: Angela Y. Davis | **Year**: 2003 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 

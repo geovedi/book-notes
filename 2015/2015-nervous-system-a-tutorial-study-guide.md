@@ -1,5 +1,5 @@
 # Nervous System: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This comprehensive tutorial study guide presents the nervous system as an evolutionary masterpiece that progressed from simple nerve cords to complex brains. Written in a question-and-answer format, it reveals how the nervous system evolved to help animals survive by processing sensory information, coordinating movement, and maintaining internal balance. The book traces the developmental journey from basic spinal reflexes in primitive creatures to sophisticated cognitive functions in higher animals, showing how each brain structure emerged to solve specific survival challenges.

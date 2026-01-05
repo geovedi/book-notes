@@ -1,5 +1,6 @@
 # Animal, Vegetable, Miracle
 **Authors**: Barbara Kingsolver, Camille Kingsolver, Steven L. Hopp | **Year**: 2008
+**Category**: Health & Medicine
 
 ## Summary
 "Animal, Vegetable, Miracle" chronicles one family's year-long experiment to eat only locally produced food, moving from Arizona to rural Appalachia to live on their farm. The Kingsolver-Hopp family discovers that eating locally isn't just about food—it's about reclaiming our connection to the land, rebuilding food culture, and challenging an industrial food system that has made us the fattest people who've ever lived while simultaneously starving future generations of agricultural diversity.

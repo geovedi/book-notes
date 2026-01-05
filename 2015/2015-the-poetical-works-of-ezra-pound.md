@@ -1,5 +1,5 @@
 # The Poetical Works of Ezra Pound
-**Authors**: Ezra Pound | **Year**: 2015 (Collection)
+**Authors**: Ezra Pound | **Year**: 2015 (Collection) | **Category**: Fiction & Literature
 
 ## Summary
 Ezra Pound's poetry represents one of the most influential and controversial bodies of work in 20th-century literature. This comprehensive collection spans his entire career, from early romantic verses to his revolutionary Imagist experiments and the monumental epic "The Cantos." Pound's work embodies constant innovation, pushing poetry beyond traditional forms into new territories of modernist expression.

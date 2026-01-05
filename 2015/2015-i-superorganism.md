@@ -1,5 +1,5 @@
 # I, Superorganism
-**Authors**: Jon Turney | **Year**: 2015
+**Authors**: Jon Turney | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This groundbreaking book reveals that humans are not solitary organisms but complex superorganisms composed of trillions of microbial cells that work in symbiosis with our own bodies. Turney explains how modern DNA sequencing has unveiled a hidden world of bacteria, viruses, and other microbes that vastly outnumber our human cells—carrying 100 times more genetic material than we possess ourselves. These microbial companions aren't mere hitchhikers; they're essential partners that help digest our food, produce vitamins, regulate our immune systems, and may even influence our brain development and behavior.

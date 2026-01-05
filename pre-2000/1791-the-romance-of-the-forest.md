@@ -1,5 +1,6 @@
 # The Romance of the Forest
 **Authors**: Ann Radcliffe | **Year**: 1791
+**Category**: Fiction & Literature
 
 ## Summary
 "The Romance of the Forest" follows Adeline St. Pierre, a beautiful orphaned heiress who becomes entangled in a web of danger and mystery when she's discovered by the fleeing La Motte family during their midnight escape from creditors. Forced to take responsibility for Adeline at gunpoint, Pierre de la Motte brings her to the ruined Abbey of St. Clair deep in the Fontanville Forest, where atmospheric Gothic suspense unfolds around every corner.

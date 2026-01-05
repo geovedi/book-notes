@@ -1,6 +1,7 @@
 # 365 Money Quotes
 **Original Title**: 365 Money Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "365 Money Quotes" is a daily motivational collection designed to transform your relationship with wealth through one quote per day. The book presents wisdom from diverse sources—billionaires like Warren Buffett, philosophers like Aristotle, entertainers like Jay-Z, and anonymous proverbs—all focused on developing what the author calls the "millionaire mindset." Rather than promising get-rich-quick schemes, this book serves as a daily foundation for building wealth consciousness, preparing readers to recognize and act on opportunities when they arise.

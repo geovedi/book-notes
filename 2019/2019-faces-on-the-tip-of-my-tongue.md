@@ -1,5 +1,6 @@
 # Faces on the Tip of My Tongue
 **Original Title**: Un renard à mains nues | **Author**: Emmanuelle Pagano | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 This spellbinding collection of interconnected short stories explores the lives of people on the periphery in rural France. Through thirteen luminous vignettes, Pagano masterfully weaves together the seemingly ordinary lives of rural communities, revealing the extraordinary emotional depths that lie beneath their surfaces. Each story stands alone while contributing to a larger tapestry of human connection, isolation, and the fragile threads that bind communities together.

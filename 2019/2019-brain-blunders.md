@@ -1,5 +1,6 @@
 # Brain Blunders
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 Brain Blunders exposes the hidden flaws in human thinking that lead us to make irrational decisions daily. Hollins reveals that our brains aren't designed for logical thinking but rather for survival, pleasure-seeking, and energy conservation—goals that often conflict with clear judgment. The book serves as a practical guide to understanding why we think and act against our own best interests, and how cognitive biases, social pressures, and memory failures shape our perception of reality.

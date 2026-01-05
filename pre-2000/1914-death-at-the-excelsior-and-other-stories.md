@@ -1,5 +1,6 @@
 # Death at the Excelsior and Other Stories
 **Authors**: P. G. Wodehouse | **Year**: 1914
+**Category**: Fiction & Literature
 
 ## Summary
 This delightful collection of seven short stories showcases P.G. Wodehouse's signature wit and masterful storytelling, blending mystery, comedy, and social satire. The title story presents an intriguing "locked room" mystery where a sailor dies from cobra venom in a Southampton boarding house room with no obvious means of entry or escape for the snake. The collection also features early Jeeves and Wooster tales, demonstrating the development of Wodehouse's most famous characters, along with other humorous stories about the follies of upper-class British society.

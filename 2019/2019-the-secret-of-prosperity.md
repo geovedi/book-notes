@@ -1,5 +1,6 @@
 # The Secret of Prosperity
 **Authors**: Wallace D. Wattles, William Walker Atkinson, P.T. Barnum, Benjamin Franklin, Orison Swett Marden, James Allen, Russell Conwell, Henry Harrison Brown, Thorstein Veblen, Émile Coué, Kahlil Gibran, Marcus Aurelius, Niccolò Machiavelli, Lao Tzu | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive anthology brings together the most influential writings on wealth creation and prosperity from some of history's greatest thinkers. The book presents a unified philosophy that financial success is not merely about money—it's about developing the right mindset, habits, and character to live a fully actualized life. The collection spans multiple traditions and eras, from ancient wisdom to early 20th-century success literature, all converging on the principle that prosperity is a science that can be learned and mastered by anyone willing to apply its laws.

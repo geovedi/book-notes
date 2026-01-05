@@ -1,5 +1,5 @@
 # How to Choose, Brief and Work with Graphic Designers
-**Authors**: Amanda J Field | **Year**: 2013
+**Authors**: Amanda J Field | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the process of working with graphic designers for business professionals who need professional design but may not understand how to commission it effectively. Field argues that design is a professional service, not a commodity, and provides a comprehensive framework for building successful designer-client relationships that deliver both creative excellence and business value.

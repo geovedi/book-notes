@@ -1,5 +1,6 @@
 # An Essay on the Survival of Humanity
 **Authors**: Risteárd Mulcahy (Prof) MD FRCP | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 This powerful environmental manifesto examines how overpopulation and environmental destruction threaten humanity's survival on Earth. Professor Mulcahy builds upon Thomas Malthus's population theories to argue that exponential population growth combined with finite natural resources creates an unsustainable trajectory leading toward ecological collapse. The book presents a stark warning about climate change, resource depletion, and mass extinction while calling for radical changes in how humans live, consume, and reproduce.

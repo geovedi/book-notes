@@ -1,5 +1,6 @@
 # The Essential Works of Nikola Tesla
 **Authors**: Nikola Tesla | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "The Essential Works of Nikola Tesla" is a comprehensive collection of the inventor's most significant writings, including his autobiography, technical papers, and visionary essays. This compilation reveals Tesla's revolutionary contributions to electrical engineering, his pioneering work in wireless technology, and his profound philosophical insights on human progress and the future of civilization.

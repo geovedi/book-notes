@@ -1,5 +1,5 @@
 # Introducing Evolutionary Psychology
-**Authors**: Dylan Evans, Oscar Zarate | **Year**: 2015
+**Authors**: Dylan Evans, Oscar Zarate | **Year**: 2015 | **Category**: Psychology & Mental Health
 
 ## Summary
 Evolutionary psychology is the revolutionary science that combines evolutionary biology with cognitive psychology to explain human behavior. This accessible guide reveals how our minds are not blank slates but sophisticated collections of mental "modules" — specialized cognitive tools evolved over millions of years to solve specific problems our ancestors faced on the African savannahs.

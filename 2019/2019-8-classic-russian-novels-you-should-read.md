@@ -1,5 +1,6 @@
 # 8 Classic Russian Novels You Should Read
 **Authors**: Nikolai Gogol, Ivan Goncharov, Ivan Turgenev, Fyodor Dostoevsky, Leo Tolstoy, Maxim Gorky | **Year**: 2019 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This curated collection brings together eight monumental works of Russian literature spanning from 1842 to 1906, representing the golden age of Russian novel writing. These masterpieces explore the depths of human psychology, social critique, and philosophical questions about faith, morality, and the meaning of life. From Gogol's satirical masterpiece "Dead Souls" to Dostoevsky's profound "Brothers Karamazov," this anthology offers readers a comprehensive journey through the evolution of Russian literary genius.

@@ -1,6 +1,7 @@
 # An Introduction to Robust Combinatorial Optimization: Concepts, Models and Algorithms for Decision Making Under Uncertainty
 
 **Authors**: Marc Goerigk, Michael Hartisch | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive textbook introduces readers to robust combinatorial optimization—a field that addresses decision-making under uncertainty when dealing with discrete choices and combinatorial problems. The book presents a systematic approach to finding solutions that remain effective even when worst-case scenarios occur, making it invaluable for planning in uncertain environments.

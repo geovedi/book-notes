@@ -1,5 +1,6 @@
 # The Complete Works of Edgar Allan Poe
 **Authors**: Edgar Allan Poe | **Year**: 1809-1849 (Collection: 2015)
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive collection encompasses the entire literary output of Edgar Allan Poe, the American master of Gothic horror, mystery, and romantic poetry. Poe's works revolutionized multiple genres, establishing him as the inventor of detective fiction and a pioneer of science fiction. His writing explores the darkest corners of human psychology, the nature of grief and loss, the boundaries between life and death, and the terror that lurks within the human mind.

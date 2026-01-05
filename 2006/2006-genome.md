@@ -1,5 +1,5 @@
 # Genome
-**Authors**: Matt Ridley | **Year**: 2006
+**Authors**: Matt Ridley | **Year**: 2006 | **Category**: Science & Nature
 
 ## Summary
 "Genome: The Autobiography of a Species in 23 Chapters" is a revolutionary exploration of human genetics that takes readers on a journey through each of our 23 chromosome pairs. Written at the dawn of the complete human genome sequencing, Ridley transforms complex genetic science into accessible narratives by examining one fascinating gene from each chromosome. The book reveals how our DNA contains not just instructions for building bodies, but a record of life's four-billion-year history, from the origins of life to the uniquely human traits that define our species.

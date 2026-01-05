@@ -1,5 +1,6 @@
 # No Filter: The Inside Story of Instagram
 **Authors**: Sarah Frier | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 "No Filter" is the definitive inside story of how Instagram went from a struggling startup called Burbn to a $1 billion acquisition by Facebook and a cultural phenomenon that transformed how we share our lives. The book reveals the remarkable journey of Kevin Systrom and Mike Krieger, who pivoted from a failing location-based app to create a simple photo-sharing service that would revolutionize social media and influence an entire generation.

@@ -1,5 +1,6 @@
 # The Art of Intentional Thinking
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

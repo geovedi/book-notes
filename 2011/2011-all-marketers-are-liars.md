@@ -1,5 +1,5 @@
 # All Marketers Are Liars
-**Authors**: Seth Godin | **Year**: 2011
+**Authors**: Seth Godin | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 Seth Godin's provocative argument is that successful marketing isn't about facts—it's about telling compelling stories that people want to believe. The book reveals that consumers don't make rational decisions based on features; instead, they buy into narratives that align with their existing worldview and then work to make those stories true. Godin argues that authentic storytelling, not deceptive advertising, is the key to modern marketing success.

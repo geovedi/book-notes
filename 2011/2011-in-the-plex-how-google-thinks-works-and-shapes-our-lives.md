@@ -1,5 +1,5 @@
 # In the Plex: How Google Thinks, Works, and Shapes Our Lives
-**Authors**: Steven Levy | **Year**: 2011
+**Authors**: Steven Levy | **Year**: 2011 | **Category**: Technology & Computing
 
 ## Summary
 "In the Plex" provides unprecedented access to Google's inner workings, revealing how two Stanford PhD students transformed a research project into a global technology empire. Steven Levy takes readers inside Google's headquarters (the "Googleplex") to expose the engineering-first culture, revolutionary business model, and ambitious mission that enabled Google to organize the world's information while building one of history's most profitable companies.

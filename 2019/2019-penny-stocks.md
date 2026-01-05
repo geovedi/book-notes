@@ -1,5 +1,6 @@
 # Penny Stocks: A Complete Beginner's Guide to Strategic Investing
 **Authors**: Luke Sutton | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Penny Stocks: A Complete Beginner's Guide to Strategic Investing is a comprehensive introduction to trading low-cost stocks (typically under $5 per share) that can offer extraordinary returns for investors willing to learn the proper strategies and manage the inherent risks. The book presents penny stock trading as both an art and a science, requiring careful research, strategic timing, and disciplined risk management. Sutton demystifies the world of micro-cap trading by explaining fundamental concepts, debunking common myths, and providing practical frameworks for identifying undervalued opportunities while avoiding the pitfalls that trap most novice traders.

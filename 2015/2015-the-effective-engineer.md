@@ -1,5 +1,5 @@
 # The Effective Engineer
-**Author**: Edmond Lau | **Year**: 2015
+**Author**: Edmond Lau | **Year**: 2015 | **Category**: Technology & Computing
 
 ## Summary
 "The Effective Engineer" presents a powerful framework for maximizing your impact as a software engineer by focusing on leverage—producing disproportionate value with minimal time investment. Based on experiences from Google, Quora, and interviews with engineers at top tech companies, the book reveals that working longer hours isn't the answer to increasing effectiveness. Instead, effective engineers systematically identify and prioritize high-leverage activities, continuously optimize their learning, and build sustainable habits that compound over time.

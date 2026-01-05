@@ -1,5 +1,5 @@
 # The Elements of Murder: A History of Poison
-**Authors**: John Emsley | **Year**: 2005
+**Authors**: John Emsley | **Year**: 2005 | **Category**: Science & Nature
 
 ## Summary
 "The Elements of Murder" reveals how five chemical elements—mercury, arsenic, antimony, lead, and thallium—have shaped human history through both accidental and intentional poisonings. From royal courts to suburban murders, from ancient alchemy to modern environmental disasters, Emsley masterfully weaves together chemistry, history, and true crime to show how these deadly elements have killed kings, criminals, and countless ordinary people while paradoxically serving as medicines and industrial tools.

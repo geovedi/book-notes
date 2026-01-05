@@ -1,5 +1,5 @@
 # Smarter Faster Better
-**Authors**: Charles Duhigg | **Year**: 2016
+**Authors**: Charles Duhigg | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Smarter Faster Better reveals the eight key areas that drive productivity and success in both life and business. Drawing from cutting-edge research in psychology, neuroscience, and behavioral economics, combined with compelling real-world stories—from airline pilots to Disney animators—the book shows that productivity isn't about working harder, but about making smarter choices. Charles Duhigg demonstrates that the most productive people and teams share specific habits and mindsets that anyone can learn and apply.

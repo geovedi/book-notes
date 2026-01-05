@@ -1,5 +1,6 @@
 # Nine Steps to Success
 **Authors**: Alan Calder | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 Nine Steps to Success is a practical implementation guide for organizations seeking to achieve ISO 27001:2022 certification and establish robust information security management systems (ISMS). The book presents a proven nine-step methodology developed through extensive real-world implementations across organizations of all sizes and sectors. Calder emphasizes that information security is fundamentally a management discipline, not just a technical challenge, requiring genuine top management support and organizational commitment to create lasting cultural change.

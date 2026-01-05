@@ -1,5 +1,6 @@
 # As A Man Thinketh
 **Authors**: James Allen | **Year**: 1903
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

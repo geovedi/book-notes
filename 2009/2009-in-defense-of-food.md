@@ -1,5 +1,6 @@
 # In Defense of Food: An Eater's Manifesto
 **Author**: Michael Pollan | **Year**: 2009
+**Category**: Health & Medicine
 
 ## Summary
 "In Defense of Food" dismantles the modern confusion about what we should eat by exposing the flawed ideology of "nutritionism" - the reductionist approach that views food simply as a collection of nutrients. Pollan argues that we've lost touch with traditional food wisdom and cultural eating practices, replaced instead by processed "foodlike substances" and ever-changing nutritional advice that has made us less healthy rather than more.

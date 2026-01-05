@@ -1,5 +1,6 @@
 # Musicophilia: Tales of Music and the Brain
 **Authors**: Oliver Sacks | **Year**: 2007
+**Category**: Psychology & Mental Health
 
 ## Summary
 Oliver Sacks, the renowned neurologist and author, explores the profound and often mysterious relationship between music and the human brain through a collection of fascinating clinical case studies. From a surgeon struck by lightning who suddenly becomes obsessed with piano music, to patients with dementia who can still remember songs when all other memories have vanished, Sacks reveals how music can unlock, heal, and transform the human mind in ways that continue to astonish neuroscientists.

@@ -1,6 +1,7 @@
 # The Call of Cthulhu
 **Original Title**: The Call of Cthulhu
 **Authors**: H. P. Lovecraft | **Year**: 1926
+**Category**: Horror & Thriller
 
 ## Summary
 This seminal cosmic horror story follows an investigation into a mysterious global cult that worships ancient, otherworldly entities known as the Great Old Ones. The narrative unfolds through three interconnected parts discovered after the death of Professor Angell, whose research reveals disturbing connections between artistic dreams, police investigations, and maritime disasters. The story introduces Cthulhu, a tentacled, dragon-like entity currently dormant in the sunken city of R'lyeh, waiting for the stars to align so it can reclaim Earth.

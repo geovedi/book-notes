@@ -1,5 +1,6 @@
 # The Culture of Fear
 **Author**: Barry Glassner | **Year**: 1999
+**Category**: Psychology & Mental Health
 
 ## Summary
 Barry Glassner's groundbreaking book reveals how Americans are systematically manipulated into fearing the wrong things through a carefully constructed "culture of fear." Glassner demonstrates that politicians, journalists, advocacy groups, and marketers routinely exaggerate rare dangers while ignoring widespread, serious threats. The book exposes the economics and psychology behind fear mongering, showing how isolated incidents are presented as trends, how statistics are distorted, and how emotional narratives substitute for evidence-based analysis.

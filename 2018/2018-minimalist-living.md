@@ -1,5 +1,5 @@
 # Minimalist Living: The Complete Guide
-**Authors**: Marie S. Davenport | **Year**: 2018
+**Authors**: Marie S. Davenport | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Minimalist Living" is a comprehensive two-book bundle that teaches how to declutter both your mind and your finances through the principles of minimalism. The first book focuses on mental clarity and mindfulness techniques to free your thoughts from worry, anxiety, and stress. The second book provides practical budgeting strategies to save money, avoid compulsive spending, and achieve financial freedom. Together, these guides offer a holistic approach to simplifying your life by reducing physical, mental, and financial clutter.

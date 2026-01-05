@@ -1,5 +1,5 @@
 # Travels With Charley in Search of America
-**Author**: John Steinbeck | **Year**: 1962
+**Author**: John Steinbeck | **Year**: 1962 | **Category**: Fiction & Literature
 
 ## Summary
 In 1960, at age 58, John Steinbeck felt disconnected from his own country after years of living primarily in New York and traveling abroad. Worried that he was writing about America from outdated memories, he embarked on a solo cross-country journey in a custom-built camper truck named Rocinante, accompanied only by his elderly French poodle, Charley. What began as a journalistic expedition to rediscover the American character evolved into a profound meditation on identity, change, and the elusive nature of the national soul.

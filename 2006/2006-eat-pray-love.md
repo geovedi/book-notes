@@ -1,5 +1,5 @@
 # Eat, Pray, Love
-**Author**: Elizabeth Gilbert | **Year**: 2006
+**Author**: Elizabeth Gilbert | **Year**: 2006 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Eat, Pray, Love" chronicles one woman's journey of self-discovery and healing after a devastating divorce and depression. Facing a existential crisis at age 32, Elizabeth Gilbert leaves behind her comfortable American life to embark on a year-long journey through Italy (pleasure), India (spirituality), and Indonesia (balance). Through three distinct experiences—savoring food and language in Rome, deep meditation at an Indian ashram, and finding love and equilibrium in Bali—Gilbert transforms from a broken woman seeking wholeness into someone who learns to balance earthly delights with spiritual wisdom and finally opens herself to love again.

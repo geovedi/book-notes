@@ -1,5 +1,6 @@
 # The Wisdom of Father Brown
 **Author**: G.K. Chesterton | **Year**: 1914
+**Category**: Horror & Thriller
 
 ## Summary
 "The Wisdom of Father Brown" is a collection of twelve detective stories featuring the unassuming yet brilliant Roman Catholic priest Father Brown. Unlike typical detectives who rely on forensic evidence or deductive reasoning, Father Brown solves crimes through his profound understanding of human nature, particularly the darker aspects of sin and redemption. His methods are rooted in his pastoral experience, knowledge of human psychology, and deep theological insights.

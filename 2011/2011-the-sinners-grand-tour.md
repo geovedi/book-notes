@@ -1,5 +1,5 @@
 # The Sinner's Grand Tour
-**Author**: Tony Perrottet | **Year**: 2011
+**Author**: Tony Perrottet | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 "The Sinner's Grand Tour" is a hilarious and eye-opening journey through Europe's hidden sexual history, as Australian historian Tony Perrottet drags his family across the continent to uncover the raunchy relics that polite society has tried to forget. What begins as a scholarly quest to visit the British Museum's secret erotica collection evolves into a three-month European adventure hunting down historical sex clubs, Vatican pornographic bathrooms, and ancient Roman brothels—all while managing two young children and a bemused wife.

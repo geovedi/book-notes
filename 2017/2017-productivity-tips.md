@@ -1,5 +1,6 @@
 # 2017 Productivity Tips
 **Authors**: Patt Tomas | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This concise productivity guide targets entrepreneurs and remote workers who want to maximize their time and output. The book presents eight actionable strategies designed to transform how you approach daily tasks and manage your most valuable resource—time.

@@ -1,5 +1,5 @@
 # A Girl Named Zippy
-**Author**: Haven Kimmel | **Year**: 2002
+**Author**: Haven Kimmel | **Year**: 2002 | **Category**: Fiction & Literature
 
 ## Summary
 "A Girl Named Zippy" is a charming and humorous memoir about growing up in the tiny, seemingly unchanged town of Mooreland, Indiana (population 300) during the late 1960s and early 1970s. Haven Kimmel, nicknamed "Zippy" for her tendency to zip around, shares her unique childhood perspective as a late-talking, highly observant child in a town "a long way to go not to be anywhere when you get there."

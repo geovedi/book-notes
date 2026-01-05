@@ -1,5 +1,5 @@
 # So You Want to Talk About Race
-**Authors**: Ijeoma Oluo | **Year**: 2018
+**Authors**: Ijeoma Oluo | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 This practical guide serves as a handbook for navigating difficult conversations about race in America. Oluo combines personal experience as a Black woman with clear, actionable frameworks for understanding and discussing systemic racism. The book addresses common questions and misconceptions while providing readers with tools to move beyond discomfort into meaningful dialogue and action.

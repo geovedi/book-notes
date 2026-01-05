@@ -1,6 +1,7 @@
 # Strategic Value Creation: Design and Execute a Strategy for Breakthrough Business
 
 **Authors**: Rupert Morrison and Jon Andrew | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 Strategic Value Creation is a comprehensive business strategy guide that presents a systematic approach to designing and executing strategy for breakthrough returns. The book introduces the 4D Framework (Diagnose today, Design tomorrow, Draw the plan, Deliver the plan) as the core methodology for value creation. Drawing from decades of practical experience and research into the world's leading strategy thinkers, Morrison and Andrew provide a practical playbook that bridges the gap between strategy theory and real-world execution.

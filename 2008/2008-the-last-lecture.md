@@ -1,5 +1,6 @@
 # The Last Lecture
 **Authors**: Randy Pausch, Jeffrey Zaslow | **Year**: 2008
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Last Lecture" is a profound meditation on life, dreams, and legacy based on Randy Pausch's final lecture after being diagnosed with terminal pancreatic cancer. Rather than focusing on dying, Pausch chose to celebrate living by sharing lessons learned from achieving his childhood dreams and helping others achieve theirs. The book expands on his viral lecture, weaving together personal anecdotes, wisdom gained through experience, and practical advice on living meaningfully.

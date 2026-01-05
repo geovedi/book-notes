@@ -1,5 +1,6 @@
 # The Call of the Wild
 **Authors**: Jack London | **Year**: 1903
+**Category**: Fiction & Literature
 
 ## Summary
 "The Call of the Wild" tells the powerful story of Buck, a privileged domestic dog who is kidnapped from his comfortable California home and sold into the brutal world of sled dog work during the Yukon Gold Rush. The novel traces Buck's remarkable transformation from a civilized, trusting pet into a wild, legendary creature who ultimately answers the primal call of his ancestral instincts.

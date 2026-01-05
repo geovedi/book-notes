@@ -1,5 +1,6 @@
 # Artificial Intelligence for Managers
 **Authors**: Malay A. Upadhyay | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 This practical guide bridges the gap between AI technology and business management, providing managers with the essential knowledge to leverage AI for organizational transformation and career advancement. The book demystifies artificial intelligence by focusing on its practical applications rather than technical complexities, emphasizing that managers don't need to code to understand and effectively implement AI solutions.

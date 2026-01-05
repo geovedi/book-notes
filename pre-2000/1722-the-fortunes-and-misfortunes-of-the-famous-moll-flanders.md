@@ -1,5 +1,6 @@
 # The Fortunes and Misfortunes of the Famous Moll Flanders
 **Authors**: Daniel Defoe | **Year**: 1722
+**Category**: Fiction & Literature
 
 ## Summary
 Moll Flanders chronicles the extraordinary life of a woman born in Newgate Prison who rises through society's ranks through wit, charm, and criminal enterprise. Her journey spans decades of deception, five marriages (including one to her own brother), twelve years as a prostitute, twelve years as a thief, and eventual transportation to Virginia, where she finds redemption and wealth. This picaresque novel exposes the harsh realities facing women in 18th century England while celebrating human resilience and the possibility of moral redemption.

@@ -1,5 +1,5 @@
 # Night
-**Authors**: Elie Wiesel | **Year**: 2006 (original 1958)
+**Authors**: Elie Wiesel | **Year**: 2006 (original 1958) | **Category**: History & Biography
 
 ## Summary
 "Night" is Elie Wiesel's devastating memoir of his experiences as a teenager in Nazi concentration camps during the Holocaust. The book traces his journey from a devout Jewish student studying Kabbalah in Sighet, Transylvania, through the horrors of Auschwitz and Buchenwald, where he witnesses the systematic destruction of his family, faith, and humanity. Written with stark, unflinching prose, this slim volume captures the ultimate test of human dignity and the struggle to maintain meaning in the face of unimaginable evil.

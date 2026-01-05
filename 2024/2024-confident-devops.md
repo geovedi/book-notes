@@ -1,5 +1,6 @@
 # Confident DevOps
 **Authors**: Mark Peters | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "Confident DevOps" delivers a comprehensive guide to mastering DevOps principles and practices for modern software development teams. The book presents DevOps not merely as a technical methodology but as a human-centered cultural transformation that resolves conflict, removes friction, and optimizes organizational flow. Peters, drawing from his intelligence background and extensive corporate experience with clients like Deloitte, American Express, and Coca-Cola, demonstrates how DevOps has become the key driver in the digital economy when leaders treat software engineering as a strategic advantage rather than a cost center.

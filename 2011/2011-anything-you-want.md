@@ -1,5 +1,5 @@
 # Anything You Want
-**Derek Sivers | 2011**
+**Derek Sivers | 2011** | **Category**: Business & Finance
 
 ## Summary
 "Anything You Want" is the unconventional entrepreneurship memoir of Derek Sivers, who accidentally built CD Baby from a simple favor for friends into a $22 million company. The book chronicles his journey from professional musician to accidental entrepreneur, sharing 40 counterintuitive lessons about building a business on your own terms.

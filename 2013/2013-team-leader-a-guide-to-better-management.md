@@ -1,5 +1,5 @@
 # Team Leader: A Guide to Better Management
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical management guide demonstrates how neuro-linguistic programming (NLP) principles can transform ordinary managers into exceptional team leaders. Based on the premise that successful people share similar beliefs and patterns of behavior, the book provides a step-by-step framework for building high-performing teams through vision-setting, establishing ground rules, and leveraging individual strengths.

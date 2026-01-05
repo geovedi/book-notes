@@ -1,5 +1,6 @@
 # Complete Poetical Works of John Donne
 **Authors**: John Donne | **Year**: 2015 (Delphi Classics Edition, original works 1572-1631)
+**Category**: Fiction & Literature
 
 ## Summary
 John Donne's complete poetical works represent the pinnacle of English metaphysical poetry, spanning from erotic love poems to profound religious meditations. This comprehensive collection showcases Donne's revolutionary approach to poetry, characterized by intellectual wit, unconventional metaphors, and deep philosophical exploration. The collection moves through his early secular works—including the famous Songs and Sonnets—to his later religious poetry, notably the Holy Sonnets, written during his spiritual crisis and eventual conversion to Anglicanism.

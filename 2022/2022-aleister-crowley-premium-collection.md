@@ -1,5 +1,5 @@
 # The Aleister Crowley Premium Collection
-**Authors**: Aleister Crowley, S. L. MacGregor Mathers, Mary d'Este Sturges | **Year**: 2022
+**Authors**: Aleister Crowley, S. L. MacGregor Mathers, Mary d'Este Sturges | **Year**: 2022 | **Category**: Spirituality & Religion
 
 ## Summary
 The Aleister Crowley Premium Collection is a comprehensive compilation of occult, mystical, and philosophical writings centered around Thelema—the spiritual philosophy Crowley founded. At its heart lies *The Book of the Law* (Liber CCXX), the foundational text that Crowley claimed was dictated to him by a spiritual entity in 1904. This collection encompasses dozens of Crowley's "Liber" texts—magical treatises, ritual instructions, philosophical essays, and personal diaries that together form a complete system of spiritual development and magical practice.

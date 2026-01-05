@@ -1,6 +1,7 @@
 # The City and the Mountains
 **Original Title**: A Cidade e as Montanhas
 **Author**: José Maria de Eça de Queirós | **Year**: 1901 (written 1895)
+**Category**: Fiction & Literature
 
 ## Summary
 "The City and the Mountains" is a satirical philosophical novel that chronicles the transformation of Jacinto, a wealthy Portuguese nobleman who lives in Paris and worships urban civilization above all else. His philosophy is simple: "Only in the City, Zé Fernandes, can Man proudly affirm that he has a soul!" Jacinto surrounds himself with every technological marvel and comfort that 19th-century Paris can offer, from electric lights to phonographs, believing these artifacts represent the pinnacle of human achievement and spiritual development.

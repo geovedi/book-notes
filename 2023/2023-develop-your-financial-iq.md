@@ -1,5 +1,6 @@
 # Develop Your Financial IQ
 **Authors**: Unknown | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "Develop Your Financial IQ" is a practical guide that challenges conventional wisdom about money and wealth-building. The book argues that traditional employment traps people in a cycle of trading time for money, keeping 80-90% of the population financially enslaved. It presents financial intelligence as the key skill set needed to break free from the rat race and build sustainable wealth through assets rather than earned income.

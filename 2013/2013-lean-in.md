@@ -1,5 +1,5 @@
 # Lean In
-**Author**: Sheryl Sandberg | **Year**: 2013
+**Author**: Sheryl Sandberg | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Lean In" is a revolutionary call-to-action that examines why women's progress in achieving leadership roles has stalled and provides practical solutions for women to achieve their full potential. Sandberg combines personal anecdotes, hard data, and compelling research to cut through layers of ambiguity and bias surrounding working women's lives and choices. The book addresses both internal barriers that hold women back and external institutional obstacles, while emphasizing that true equality requires women to "lean in" to their ambitions and men to support women both in the workplace and at home.

@@ -1,5 +1,6 @@
 # 20 Top Telephone Sales Tips
 **Authors**: David Salmon | **Year**: 2015
+**Category**: Business & Finance
 
 ## Summary
 "20 Top Telephone Sales Tips" is a comprehensive guide that delivers practical strategies for success in telephone sales and telemarketing. The book covers four essential areas: recruiting effective sales representatives, executing successful sales plans, increasing productivity, and boosting conversion rates.

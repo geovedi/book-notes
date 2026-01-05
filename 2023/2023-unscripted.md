@@ -1,5 +1,6 @@
 # Unscripted
 **Authors**: James B. Stewart, Rachel Abrams | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 "Unscripted" chronicles the explosive collision of corporate power, sexual misconduct, and family legacy within one of America's most influential media empires. At its heart are three central figures: aging media mogul Sumner Redstone, who built Viacom and CBS into entertainment powerhouses; his daughter Shari Redstone, struggling to assert control as her father's health deteriorates; and CBS CEO Leslie Moonves, whose predatory sexual past becomes the catalyst for a corporate civil war.

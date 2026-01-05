@@ -1,5 +1,5 @@
 # A Dream of White Horses
-**Authors**: Edwin Drummond | **Year**: 2014
+**Authors**: Edwin Drummond | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 "A Dream of White Horses" is a poetic memoir that transforms rock climbing from mere sport into a profound philosophical journey. Drummond, both a prize-winning poet and pioneering climber, weaves together his most significant climbing adventures—from failed attempts on Yosemite's El Capitan to epic first ascents in Northern Europe—with raw honesty about fear, mortality, and the search for meaning. This isn't just a book about climbing; it's about using vertical spaces to explore horizontal ones within ourselves.

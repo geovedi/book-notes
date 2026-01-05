@@ -1,5 +1,6 @@
 # I Will Bear Witness, Vol 1
 **Victor Klemperer** | **1933-1941** | **Translated by Martin Chalmers (1999)**
+**Category**: History & Biography
 
 ## Summary
 This extraordinary diary offers a day-by-day account of life under Nazi Germany from 1933-1941, written by Victor Klemperer, a Jewish professor of Romance languages who was stripped of his position but managed to survive in Dresden throughout this period. Unlike typical Holocaust narratives that focus on concentration camps, Klemperer provides a rare perspective on the gradual suffocation of Jewish life within German society itself.

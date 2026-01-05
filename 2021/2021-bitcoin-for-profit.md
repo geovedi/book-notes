@@ -1,5 +1,6 @@
 # Bitcoin For Profit
 **Authors**: Peter Blood | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 Bitcoin For Profit is a comprehensive beginner's guide to understanding and acquiring Bitcoin as an investment vehicle. The book demystifies cryptocurrency concepts, explains Bitcoin's underlying technology, and provides practical methods for obtaining Bitcoin through various means. Written for newcomers to the cryptocurrency space, it breaks down complex topics like blockchain technology, mining, and Bitcoin's value proposition into digestible, actionable information.

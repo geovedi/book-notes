@@ -1,5 +1,6 @@
 # Management Made Simple
 **Authors**: Mickey Huibregtsen | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 In an era of accelerating complexity, Management Made Simple offers a refreshing approach to leadership by advocating that the only way to deal with complexity is to make things simple—but in the right way. Drawing from his extensive experience as a former McKinsey partner, Huibregtsen provides 33 powerful frameworks and mental models that help managers navigate today's turbulent business environment. The book is structured around five key areas: Business Environment, Strategy, Organization, Leadership, and Management Tools, each offering practical insights for regaining control and effectiveness in a world that's changing faster than ever.

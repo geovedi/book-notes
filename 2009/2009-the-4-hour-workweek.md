@@ -1,5 +1,6 @@
 # The 4-Hour Workweek
 **Author**: Timothy Ferriss | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 Timothy Ferriss introduces a revolutionary approach to work and life through "lifestyle design" - replacing traditional retirement planning with immediate life enjoyment. The book presents the DEAL framework (Definition, Elimination, Automation, Liberation) to help readers escape the 9-5 grind, create automated income streams, and design their ideal lifestyle using time and mobility as the new currencies of wealth.

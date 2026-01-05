@@ -1,6 +1,7 @@
 # English Poetry from Tennyson to Whitman
 **Original Title**: Harvard Classics, Volume XLII - English Poetry III
 **Editor**: Charles W. Eliot | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 This volume represents the pinnacle of 19th-century English poetry, capturing the transition from Victorian romanticism to modern sensibilities. The collection showcases the evolution of poetic expression through works that explore mortality, love, nature, faith, and the human condition with increasing psychological depth and technical innovation.

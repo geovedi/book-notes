@@ -1,5 +1,6 @@
 # Skin: An Intimate Journey Across Our Surface
 **Author**: Monty Lyman | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 Skin is far more than just a protective covering—it's our most remarkable, overlooked, and misunderstood organ. Monty Lyman, a dermatologist, reveals that skin is simultaneously a barrier against the world and a bridge into our being, serving as both wall and window. This fascinating exploration shows how our largest organ connects our physical, psychological, social, and even spiritual dimensions, making it what he calls the "Swiss Army knife of organs" with unmatched versatility.

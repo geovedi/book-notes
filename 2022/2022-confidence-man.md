@@ -1,5 +1,5 @@
 # Confidence Man
-**Author**: Maggie Haberman | **Year**: 2022
+**Author**: Maggie Haberman | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "Confidence Man" is a seminal examination of Donald Trump's transformation from New York real estate developer to president of the United States, written by the Pulitzer Prize-winning New York Times reporter who covered him for decades. Haberman reveals how Trump's entire life was a preparation for the presidency, showing how his business dealings, media relationships, and New York political connections shaped his approach to governing. The book demonstrates how Trump's lifelong patterns—his craving for attention, willingness to say anything, mastery of media manipulation, and talent for creating alternative realities—were not new behaviors but refined skills that served him throughout his career.

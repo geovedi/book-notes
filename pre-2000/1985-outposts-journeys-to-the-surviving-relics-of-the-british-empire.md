@@ -1,5 +1,6 @@
 # Outposts: Journeys to the Surviving Relics of the British Empire
 **Author**: Simon Winchester | **Year**: 1985/2003
+**Category**: History & Biography
 
 ## Summary
 Simon Winchester travels to the last remaining territories of what was once the world's greatest empire, documenting his visits to sixteen remote outposts of British rule scattered across the globe. From the frozen Antarctic islands to tropical Caribbean paradises, Winchester captures the fading spirit of imperial ambition while grappling with the complex legacy of colonialism. The book serves as both travelogue and historical reflection, capturing these final "specks of Imperial territory" before progress and political reality erase them forever.

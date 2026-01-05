@@ -1,5 +1,6 @@
 # The Turn of the Screw
 **Authors**: Henry James | **Year**: 1898
+**Category**: Horror & Thriller
 
 ## Summary
 A young, inexperienced governess accepts a position at Bly, a remote country estate, to care for two orphaned children—Flora and Miles. She soon discovers that her predecessor, Miss Jessel, died under mysterious circumstances, and the former valet, Peter Quint, was found dead on the property. As she settles into her role, she begins seeing apparitions of these two dead servants around the grounds, convinced they're corrupting the children. The governess becomes obsessed with protecting the children from what she perceives as supernatural influence, leading to escalating tension and psychological ambiguity that blurs the line between reality and imagination.

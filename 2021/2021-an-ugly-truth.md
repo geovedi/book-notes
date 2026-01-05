@@ -1,5 +1,6 @@
 # An Ugly Truth
 **Authors**: Sheera Frenkel, Cecilia Kang | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 "An Ugly Truth" provides a damning inside look at Facebook's transformation from a college social network into a global behemoth willing to sacrifice user safety and democratic values for growth. Based on fifteen years of investigative reporting, the book reveals how Mark Zuckerberg and Sheryl Sandberg methodically built an "unstoppable" business model based on surveillance capitalism that prioritized engagement over ethics. The authors focus on the critical period between 2016-2020, when Facebook's failures regarding Russian interference, data privacy scandals, and content moderation came to a head, leading to historic antitrust lawsuits calling for the company's breakup.

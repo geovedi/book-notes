@@ -1,5 +1,6 @@
 # Clinical Psychology
 **Authors**: Connor Whiteley | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 Clinical Psychology is a comprehensive guide to one of psychology's most vital fields—helping people alleviate psychological distress and improve their mental wellbeing. This book demystifies the profession, showing how clinical psychologists apply scientific theory and research to understand and treat mental health conditions like depression, anxiety, and schizophrenia through assessment, formulation, treatment, and evaluation.

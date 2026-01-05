@@ -1,5 +1,6 @@
 # The Man Who Mistook His Wife for a Hat
 **Author**: Oliver Sacks | **Year**: 1985
+**Category**: Health & Medicine
 
 ## Summary
 Oliver Sacks presents a fascinating collection of neurological case studies that reveal the extraordinary complexity of the human brain and the remarkable ways people adapt when their minds are altered by disease or damage. Through 24 clinical tales divided into four sections—Losses, Excesses, Transports, and The World of the Simple—Sacks introduces us to patients whose neurological conditions reveal fundamental truths about consciousness, identity, perception, and the very nature of what makes us human.

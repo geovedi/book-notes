@@ -1,5 +1,6 @@
 # Edge Intelligence
 **Authors**: Shajulin Benedict | **Year**: 2023 | **Language**: English
+**Category**: Technology & Computing
 
 ## Summary
 Edge Intelligence explores the revolutionary shift from cloud-centric AI processing to intelligent computation at the network edge. This comprehensive technical guide demonstrates how deep learning algorithms can be deployed on edge devices to enable real-time, privacy-preserving, and bandwidth-efficient AI applications across diverse sectors including healthcare, transportation, smart cities, and industrial automation.

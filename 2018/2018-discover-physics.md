@@ -1,5 +1,5 @@
 # Discover Physics
-**Authors**: Benjamin Crowell | **Year**: 2018
+**Authors**: Benjamin Crowell | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "Discover Physics" revolutionizes introductory physics by presenting fundamental principles through the powerful lens of symmetry and conservation laws. Rather than starting with disconnected formulas and memorization, Crowell reveals how the elegant structure of physics emerges from deep symmetries in nature's laws, anchored by Emmy Noether's groundbreaking theorem that connects symmetry to conservation.

@@ -1,5 +1,6 @@
 # The Virginian
 **Authors**: Owen Wister | **Year**: 1902
+**Category**: Fiction & Literature
 
 ## Summary
 "The Virginian" is the quintessential Western novel that established many of the genre's enduring conventions. Set in Wyoming Territory between 1874 and 1890, it tells the story of a nameless cowboy from Virginia who works as a foreman for Judge Henry. The novel follows his journey as he navigates the challenges of frontier life, including cattle rustling, honor codes, and a transformative romance with Molly Wood, a schoolteacher from Vermont.

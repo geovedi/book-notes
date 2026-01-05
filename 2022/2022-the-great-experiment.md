@@ -1,6 +1,6 @@
 # The Great Experiment
 **Original Title**: El gran experimento (Estado y Sociedad)
-**Author**: Yascha Mounk | **Year**: 2022
+**Author**: Yascha Mounk | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 Yascha Mounk presents "The Great Experiment" as the most significant undertaking of our time: building truly diverse and egalitarian democracies. Throughout history, no democracy has ever been both genuinely diverse and genuinely equal. Today, dozens of countries worldwide are attempting this unprecedented transformation—shifting from ethnically homogeneous societies to multi-ethnic ones while maintaining democratic principles and equal rights for all citizens.

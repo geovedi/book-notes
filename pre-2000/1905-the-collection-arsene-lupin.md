@@ -1,5 +1,6 @@
 # The Collection Arsène Lupin
 **Authors**: Maurice Leblanc | **Year**: 1905-1916
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive collection gathers Maurice Leblanc's most celebrated Arsène Lupin stories, spanning over a decade of the gentleman burglar's adventures. From his early confessions to epic showdowns with detectives and historical mysteries, this anthology showcases the complete evolution of France's most charming thief. Lupin operates as a master of disguise, intellectual genius, and moral outlaw who steals from the wealthy while maintaining his own twisted sense of justice.

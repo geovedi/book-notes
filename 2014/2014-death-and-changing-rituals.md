@@ -1,5 +1,5 @@
 # Death and Changing Rituals
-**Authors**: J. Rasmus Brandt, Häkon Roland, Marina Prusac | **Year**: 2014
+**Authors**: J. Rasmus Brandt, Häkon Roland, Marina Prusac | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 This academic collection explores how funerary practices and death rituals have changed throughout human history, from the Mesolithic period to early modern times. The book brings together 14 archaeological studies examining burial practices across diverse geographical regions, from Scandinavia to the Mediterranean and beyond. Rather than focusing on documenting burial practices for chronological purposes, the contributors investigate the deeper meanings behind ritual changes and what they reveal about shifting attitudes toward death, the body, and the afterlife. The studies demonstrate that changes in mortuary practices are rarely caused by single factors but instead reflect complex interconnections between religious beliefs, social structures, cultural encounters, and practical considerations.

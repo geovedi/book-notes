@@ -1,5 +1,5 @@
 # The Lyrical Dramas of Aeschylus
-**Authors**: Aeschylus, Translated by John Stuart Blackie | **Year**: 2016 (Translation)
+**Authors**: Aeschylus, Translated by John Stuart Blackie | **Year**: 2016 (Translation) | **Category**: Fiction & Literature
 
 ## Summary
 Aeschylus, the father of Greek tragedy, created a unique form of "lyrico-dramatic spectacle" that blended poetry, music, and dance into profound religious and moral experiences. Rather than the character-driven dramas we expect today, Aeschylus's works were essentially extended religious hymns dramatized through mythic stories. His plays explore the tension between divine authority and human will, the transformation from primitive chaos to civilized order, and the moral consequences of pride and rebellion.

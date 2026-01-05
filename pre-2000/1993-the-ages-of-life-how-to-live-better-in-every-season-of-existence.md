@@ -1,6 +1,7 @@
 # The Ages of Life: How to Live Better in Every Season of Existence
 **Original Title**: Le età della vita. Saper vivere al meglio ogni stagione dell'esistenza
 **Author**: Dr. Giorgio Abraham | **Year**: 1993
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Dr. Giorgio Abraham, a professor of psychiatry at the University of Geneva, presents a revolutionary framework for understanding the human life cycle as a journey through distinct "seasons," each with unique gifts and challenges. Drawing from both psychiatric insight and philosophical wisdom, Abraham argues against viewing life as a linear progression from peak to decline, instead proposing that each age contains within it all other ages and represents its own form of vitality.

@@ -1,5 +1,5 @@
 # Brothel: Mustang Ranch and its Women
-**Author**: Alexa Albert | **Year**: 2001
+**Author**: Alexa Albert | **Year**: 2001 | **Category**: Health & Medicine
 
 ## Summary
 "Brothel" is a groundbreaking sociological study that takes readers inside Nevada's Mustang Ranch, America's largest legal brothel. Written by a medical researcher who spent seven months conducting research within the brothel walls, this book challenges preconceptions about prostitution while examining the complex realities of legalized sex work. Albert combines rigorous public health research with intimate personal narratives to reveal the human faces behind one of society's most stigmatized professions.

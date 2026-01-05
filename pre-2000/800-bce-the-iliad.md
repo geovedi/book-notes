@@ -1,6 +1,7 @@
 # The Iliad
 **Original Title**: Ιλιάς (Ilias)
 **Author**: Homer | **Year**: c. 8th Century BCE
+**Category**: Fiction & Literature
 
 ## Summary
 The Iliad chronicles the catastrophic final weeks of the Trojan War, focusing on the devastating conflict between Greek hero Achilles and his commander Agamemnon. When Agamemnon seizes Achilles' war prize, the enraged warrior withdraws from battle, leaving the Greek forces vulnerable to Trojan attacks led by the noble Hector. The epic explores themes of honor, rage, mortality, and the devastating cost of war through intimate portrayals of both Greek and Trojan perspectives.

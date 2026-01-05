@@ -1,6 +1,6 @@
 # Xenophon the Socratic Prince: The Argument of the Anabasis
 
-**Authors**: Eric Buzzetti | **Year**: 2014
+**Authors**: Eric Buzzetti | **Year**: 2014 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Xenophon the Socratic Prince is a groundbreaking philosophical analysis of Xenophon's Anabasis of Cyrus, revealing it as more than just a historical adventure story. Eric Buzzetti demonstrates that this ancient text is actually a sophisticated work of political philosophy that examines how rulers can reconcile morality with advantage—what the Greeks called "the noble and the good."

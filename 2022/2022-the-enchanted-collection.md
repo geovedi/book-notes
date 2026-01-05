@@ -1,5 +1,5 @@
 # The Enchanted Collection: 5 Timeless Classics in One Volume
-**Authors**: Frances Hodgson Burnett, Louisa May Alcott, Anna Sewell, Lewis Carroll, Kenneth Grahame | **Year**: 2022 (Collection)
+**Authors**: Frances Hodgson Burnett, Louisa May Alcott, Anna Sewell, Lewis Carroll, Kenneth Grahame | **Year**: 2022 (Collection) | **Category**: Children & Young Adult
 
 ## Summary
 This magnificent anthology brings together five of the most beloved children's classics in literary history. Each story has captivated generations of young readers with its unique blend of adventure, heart, and timeless wisdom. From Mary Lennox's transformation in the hidden garden to the March sisters' journey through Civil War America, from Black Beauty's life as a carriage horse to Alice's surreal adventures in Wonderland, and Mole and Rat's peaceful riverside life—these stories form the foundation of children's literature.

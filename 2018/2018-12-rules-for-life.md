@@ -1,5 +1,5 @@
 # 12 Rules for Life
-**Author**: Jordan B. Peterson | **Year**: 2018
+**Author**: Jordan B. Peterson | **Year**: 2018 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "12 Rules for Life" is a profound exploration of how to live a meaningful life in an increasingly chaotic world. Peterson draws from psychology, mythology, religion, and evolutionary biology to present a framework for personal responsibility and meaning. The book addresses the fundamental tension between chaos (the unknown, disorder) and order (structure, predictability), arguing that meaningful life requires walking the narrow path between these two forces.

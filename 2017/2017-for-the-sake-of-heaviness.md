@@ -1,5 +1,6 @@
 # For the Sake of Heaviness: The History of Metal Blade Records
 **Authors**: Brian Slagel, Mark Eglinton | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 "For the Sake of Heaviness" chronicles the remarkable 35-year journey of Metal Blade Records, the most important independent heavy metal label in music history. Founded by Brian Slagel—a passionate metal fan who started as a record store clerk and fanzine publisher—the label launched the careers of Metallica, Slayer, and countless other metal bands while staying true to its underground roots through changing musical landscapes.

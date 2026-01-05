@@ -1,5 +1,5 @@
 # Under the Banner of Heaven
-**Author**: Jon Krakauer | **Year**: 2004
+**Author**: Jon Krakauer | **Year**: 2004 | **Category**: Spirituality & Religion
 
 ## Summary
 "Under the Banner of Heaven" explores the brutal 1984 murders of Brenda Lafferty and her infant daughter Erica, committed by her brothers-in-law Ron and Dan Lafferty in the name of God. Krakauer uses this horrifying true crime story as a lens to examine the history of Mormon fundamentalism and the dangerous intersection of absolute faith and violence. The book weaves together the present-day murder investigation with a comprehensive history of the Mormon religion, from its founding by Joseph Smith to modern fundamentalist groups practicing polygamy and awaiting divine revelations.

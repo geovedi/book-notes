@@ -1,5 +1,5 @@
 # The Formation of Turkey
-**Authors**: Claude Cahen | **Year**: 2001
+**Authors**: Claude Cahen | **Year**: 2001 | **Category**: History & Biography
 
 ## Summary
 This scholarly work examines the crucial period of Turkish history from the 11th to 14th centuries, focusing on the Seljukid Sultanate of Rūm that emerged in Anatolia following the Battle of Manzikert in 1071. Cahen traces how nomadic Turcoman tribes from Central Asia gradually transformed Byzantine Asia Minor into "Turkey" through a complex process of settlement, conquest, and cultural synthesis. The book is divided into two major periods—before and after the Mongol invasion of 1243—analyzing both political events and social institutions that shaped this transformation.

@@ -1,5 +1,6 @@
 # When the Earth Was Flat
 **Authors**: Christopher J. Witty | **Year**: 2012
+**Category**: Science & Nature
 
 ## Summary
 

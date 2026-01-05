@@ -1,6 +1,7 @@
 # Just Leave Emotions at Home
 **Original Title**: Emoties doe je maar thuis
 **Author**: Marjon Bohré-den Harder | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 This groundbreaking book challenges the common workplace advice to "leave emotions at home" by presenting emotions as crucial sources of information that we rarely use to direct and improve our work. In an era of artificial intelligence and thinking machines, our ability to feel and experience is what distinguishes us from robots, making emotional intelligence more valuable than ever in professional contexts.

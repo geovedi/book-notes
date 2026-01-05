@@ -1,5 +1,6 @@
 # King Leopold's Ghost
 **Author**: Adam Hochschild | **Year**: 1998
+**Category**: History & Biography
 
 ## Summary
 "King Leopold's Ghost" reveals how King Leopold II of Belgium acquired a vast African territory as his personal colony, brutally exploiting its resources and people for personal profit while presenting himself as a humanitarian. The book exposes how this regime resulted in the deaths of 8-10 million Congolese people while generating enormous wealth for Leopold through forced rubber collection and ivory extraction. More importantly, it chronicles the first major international human rights movement of the 20th century, led by figures like Edmund Dene Morel, Roger Casement, and George Washington Williams, who exposed these atrocities and ultimately forced Leopold to cede control of the Congo to the Belgian government.

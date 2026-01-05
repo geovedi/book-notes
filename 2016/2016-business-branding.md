@@ -1,5 +1,5 @@
 # Business Branding
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the branding process for businesses of all sizes, emphasizing that branding goes far beyond logos and visual elements. Branding is about creating a consistent, memorable image in customers' minds that builds trust, loyalty, and competitive advantage. The book provides a comprehensive framework for establishing brand identity, understanding target audiences, and leveraging various media channels to reinforce brand messaging consistently.

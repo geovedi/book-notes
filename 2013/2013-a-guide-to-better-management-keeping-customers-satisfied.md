@@ -1,5 +1,5 @@
 # A Guide to Better Management: Keeping Customers Satisfied
-**Authors**: Unknown Author | **Year**: 2013
+**Authors**: Unknown Author | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This book is a comprehensive guide to customer service excellence that reveals a shocking truth: over 95% of customers with complaints never voice them to businesses, yet 90% of those dissatisfied customers simply take their business elsewhere. The author argues that companies without complaints are actually on a "short path to disaster" because silence indicates customers are leaving rather than giving you opportunities to improve.

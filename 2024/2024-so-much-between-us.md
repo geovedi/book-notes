@@ -1,6 +1,7 @@
 # So Much Between Us
 **Original Title**: Zoveel tussen ons
-**Author**: Ann Buysse | **Year**: 2024 
+**Author**: Ann Buysse | **Year**: 2024
+**Category**: Romance & Relationships 
 
 ## Summary
 "Zoveel tussen ons" (So Much Between Us) is a profound exploration of human relationships, focusing particularly on families and the intricate dynamics that shape our social lives. Buysse, a professor and researcher, combines scientific research with intimate personal anecdotes to examine what exists "between us" - the invisible yet powerful forces that influence how we connect, communicate, and co-exist. The book challenges traditional notions of family while celebrating the diverse ways people create meaningful relationships in modern society.

@@ -1,5 +1,5 @@
 # Jack and the Beanstalk and Other Fairy Tales
-**Authors**: Andrew Lang (Compiler) | **Year**: 2014
+**Authors**: Andrew Lang (Compiler) | **Year**: 2014 | **Category**: Children & Young Adult
 
 ## Summary
 This enchanting collection gathers together classic fairy tales from around the world, featuring the beloved "Jack and the Beanstalk" alongside thirteen other magical stories that have captivated readers for generations. Each tale transports readers to realms of wonder where ordinary heroes face extraordinary challenges, magical creatures roam freely, and true love conquers all obstacles.

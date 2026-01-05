@@ -1,5 +1,5 @@
 # 21 Lessons for the 21st Century
-**Authors**: Yuval Noah Harari | **Year**: 2018
+**Authors**: Yuval Noah Harari | **Year**: 2018 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Yuval Noah Harari examines the most pressing issues facing humanity today, from technological disruption and political instability to the challenges of finding meaning in an increasingly complex world. He argues that liberal democracy is failing to address 21st-century challenges like AI automation, climate change, and technological disruption, while humanity remains divided by outdated political and religious ideologies.

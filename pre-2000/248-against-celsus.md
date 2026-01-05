@@ -1,6 +1,7 @@
 # Against Celsus
 **Original Title**: 驳塞尔修斯
-**Author**: Origen (奥利金) | **Year**: c. 248 CE 
+**Author**: Origen (奥利金) | **Year**: c. 248 CE
+**Category**: Spirituality & Religion 
 
 ## Summary
 "Against Celsus" is Origen's monumental defense of Christianity against the most sophisticated pagan critique of the ancient world. Written around 248 CE, this eight-volume work systematically responds to Celsus's "The True Doctrine" (真教义), which attacked Christianity from philosophical, social, and religious perspectives. Celsus had argued that Christianity was a dangerous superstition that undermined Roman society, borrowed foolish ideas from "barbarians," and appealed only to the ignorant and weak.

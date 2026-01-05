@@ -1,5 +1,5 @@
 # Orange Is the New Black
-**Author**: Piper Kerman | **Year**: 2011
+**Author**: Piper Kerman | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 Orange Is the New Black is a compelling memoir that chronicles Piper Kerman's 15-month sentence in federal prison for a drug smuggling offense she committed a decade earlier. What began as a youthful adventure involving a brief relationship with a drug trafficker results in her eventual conviction for money laundering and transportation of drug money. The book offers a raw, unflinching look at life inside a women's correctional facility, transforming from a potentially sensational prison story into a thoughtful examination of humanity, friendship, and survival in one of America's most overlooked institutions.

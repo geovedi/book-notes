@@ -1,5 +1,6 @@
 # Why They Stay
 **Authors**: Anne Michaud | **Year**: 2021
+**Category**: Romance & Relationships
 
 ## Summary
 "Why They Stay" examines why accomplished political wives like Hillary Clinton, Jackie Kennedy, and Eleanor Roosevelt remained with husbands who publicly betrayed them through infidelity. Michaud introduces the "White Queen Relationship" framework, named after Elizabeth Woodville, who married King Edward IV for security and power. The book reveals that political marriages often follow different rules than civilian ones, operating as pragmatic partnerships where traditional marital intimacy may be sacrificed for political power and legacy.

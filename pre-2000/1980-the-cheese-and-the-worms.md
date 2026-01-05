@@ -1,5 +1,6 @@
 # The Cheese and the Worms
 **Authors**: Carlo Ginzburg (with John and Anne C. Tedeschi translation) | **Year**: 1980
+**Category**: History & Biography
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # The Race For a New Game Machine
-**Authors**: David Shippy, Mickie Phipps | **Year**: 2010
+**Authors**: David Shippy, Mickie Phipps | **Year**: 2010 | **Category**: Technology & Computing
 
 ## Summary
 "The Race For a New Game Machine" is the thrilling inside story of how engineers from IBM, Sony, and Toshiba secretly created the revolutionary microprocessor chips that power both the Xbox 360 and PlayStation 3. This remarkable technological feat occurred amid corporate intrigue, cultural clashes, and impossible deadlines, all while the same team was unknowingly building chips for two fierce competitors. The book reveals how a small group of brilliant engineers delivered the fastest microprocessors in the world, shattering performance records and forever changing the gaming industry.

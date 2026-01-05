@@ -1,5 +1,5 @@
 # The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
-**Author**: Walter Isaacson | **Year**: 2014
+**Author**: Walter Isaacson | **Year**: 2014 | **Category**: Technology & Computing
 
 ## Summary
 Walter Isaacson's "The Innovators" shatters the myth of the lone genius by revealing how the digital revolution was built through collaborative teamwork rather than individual brilliance. This sweeping narrative traces the creation of computers, software, and the Internet from Ada Lovelace's 1840s vision to the modern web era, demonstrating that nearly every major breakthrough emerged from people working together across disciplines and generations. Isaacson's central thesis is that innovation flourishes when diverse teams combine technical expertise with humanistic understanding, creating products that serve real human needs.

@@ -1,5 +1,6 @@
 # Finding Profitable Deals
 **Authors**: Gabrielle Dahms | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Finding Profitable Deals" is a comprehensive guide for real estate investors seeking to identify and acquire lucrative investment properties in any market condition. The book serves as a practical roadmap for both novice and experienced investors, emphasizing that successful real estate investing begins with finding the right properties at the right prices. Dahms draws on nearly two decades of real estate experience to present various investment vehicles, market analysis techniques, and marketing strategies for uncovering hidden opportunities.

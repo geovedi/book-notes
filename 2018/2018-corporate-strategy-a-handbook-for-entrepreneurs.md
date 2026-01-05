@@ -1,5 +1,6 @@
 # Corporate Strategy: A Handbook for Entrepreneurs
 **Authors**: Hiriyappa.B, Ph.D. | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive handbook demystifies corporate strategy for entrepreneurs, providing a practical framework for business growth and competitive advantage. The book transforms complex strategic concepts into actionable approaches, showing business leaders how to design, implement, and control strategies that drive sustainable success. Through clear explanations and real-world examples from companies like Apple, Google, and Microsoft, it bridges the gap between strategic theory and entrepreneurial practice.

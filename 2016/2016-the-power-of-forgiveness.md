@@ -1,5 +1,5 @@
 # The Power of Forgiveness
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Power of Forgiveness" is a comprehensive guide that transforms forgiveness from a misunderstood virtue into a practical tool for personal liberation and happiness. The book challenges common misconceptions about forgiveness being weak or religious, reframing it as an act of maturity, bravery, and intelligence that directly connects to the heart. Ekanem provides a step-by-step approach to understanding what forgiveness truly is, why it's essential for our wellbeing, and how to implement it in our daily lives.

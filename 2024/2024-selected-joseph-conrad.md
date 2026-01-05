@@ -1,5 +1,6 @@
 # Selected Joseph Conrad
 **Authors**: Joseph Conrad | **Year**: 2024 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This compelling collection showcases Joseph Conrad's masterful exploration of human psychology, moral ambiguity, and the thin veil between civilization and savagery. Featuring his most celebrated works including "Heart of Darkness," "Lord Jim," "Youth," and "The Mirror of the Sea," this compilation reveals Conrad's profound understanding of the human condition when faced with isolation, guilt, and the wilderness within.

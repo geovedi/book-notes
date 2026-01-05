@@ -1,6 +1,7 @@
 # Plutarch's Parallel Lives of Greek and Roman Heroes
 **Original Title**: Plutarch's Lives of Themistocles Pericles Aristides Alcibiades and Coriolanus Demosthenes and Cicero Caesar and Anthony
 **Authors**: Plutarch, translated by Arthur Hugh Clough (revised from Dryden's translation) | **Year**: 2017 (Harvard Classics Volume 12)
+**Category**: History & Biography
 
 ## Summary
 Plutarch's Parallel Lives stands as one of the most influential works of classical literature, presenting biographical sketches of history's greatest Greek and Roman leaders in comparative pairs. Written in the late 1st and early 2nd centuries AD, these biographies transcend mere historical recording to explore character, virtue, and the nature of leadership through compelling narratives that have shaped Western moral and political thought for nearly two millennia.

@@ -1,5 +1,6 @@
 # The Green Man
 **Authors**: Kathleen Basford | **Year**: 1998
+**Category**: Art & Creativity
 
 ## Summary
 "The Green Man" is a groundbreaking art historical study of the foliate head motif - those mysterious carved faces with leaves sprouting from them that adorn medieval churches across Western Europe. Basford traces this fascinating architectural element from its Roman origins through its medieval transformation, revealing how these enigmatic carvings evolved from pagan decorative motifs into complex Christian symbols.

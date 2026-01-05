@@ -1,6 +1,6 @@
 # The Fascinating History of Mathematics
 **Original Title**: A fascinante história da matemática
-**Author**: Mickaël Launay | **Year**: 2016 | **Language**: Portuguese
+**Author**: Mickaël Launay | **Year**: 2016 | **Language**: Portuguese | **Category**: Science & Nature
 
 ## Summary
 *The Fascinating History of Mathematics* takes readers on an extraordinary journey through time, revealing how mathematics evolved from prehistoric patterns to modern computational theories. Launay transforms abstract mathematical concepts into engaging human stories, showing that mathematics is not merely formulas and theorems, but a living adventure of human discovery. The book argues that mathematics has always been driven by both practical necessity and pure curiosity, with each civilization building upon previous discoveries while adding its own revolutionary contributions.

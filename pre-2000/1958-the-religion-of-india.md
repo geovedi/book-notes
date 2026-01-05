@@ -1,6 +1,7 @@
 # The Religion of India
 **Original Title**: Die Religion Indiens
 **Authors**: Max Weber | **Year**: 1958 (published posthumously)
+**Category**: History & Biography
 
 ## Summary
 Max Weber's monumental work analyzes the complex relationship between Hindu religious beliefs and the social-economic structure of India, examining why modern capitalism failed to develop indigenously despite favorable conditions. Weber systematically explores how the caste system, religious doctrines, and spiritual worldview created social barriers that prevented the rational economic organization characteristic of Western capitalism.

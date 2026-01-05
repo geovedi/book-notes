@@ -1,5 +1,5 @@
 # Switch: How to Change Things When Change Is Hard
-**Authors**: Chip Heath, Dan Heath | **Year**: 2010
+**Authors**: Chip Heath, Dan Heath | **Year**: 2010 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Switch" presents a powerful framework for understanding and implementing change by revealing that our brains operate like a Rider (rational mind) trying to direct an Elephant (emotional mind). The book argues that successful change requires addressing all three components: directing the Rider with clarity, motivating the Elephant with emotion, and shaping the Path (environment) to make the change easier. Through compelling research and real-world case studies, the Heaths demonstrate that what appears to be resistance or laziness is often actually ambiguity or exhaustion, and that seemingly insurmountable change problems can be solved with the right psychological approach.

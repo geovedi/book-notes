@@ -1,5 +1,5 @@
 # Dr Tatiana's Sex Advice to All Creation
-**Author**: Olivia Judson | **Year**: 2002
+**Author**: Olivia Judson | **Year**: 2002 | **Category**: Science & Nature
 
 ## Summary
 Dr Tatiana's Sex Advice to All Creation is a brilliant fusion of science and natural history that reveals the evolutionary biology of sex through an ingenious advice column format. Dr Tatiana, the racy agony aunt, receives letters from creatures great and small worried about their sex lives—from lions and bedbugs to spiders and hyenas—and explains why they have the problems they do.

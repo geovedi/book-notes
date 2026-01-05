@@ -1,5 +1,6 @@
 # Astrophysics for People in a Hurry
 **Authors**: Neil deGrasse Tyson, Goldmine Reads | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 Neil deGrasse Tyson transforms the vast complexity of the universe into digestible insights for busy readers, covering 14 billion years of cosmic evolution from the Big Bang to modern discoveries about dark matter and dark energy. The book reveals how the same physical laws govern everything from subatomic particles to massive galaxies, demonstrating the deep interconnectedness between humanity and the cosmos.

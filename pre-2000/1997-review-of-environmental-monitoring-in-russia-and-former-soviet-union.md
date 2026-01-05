@@ -1,6 +1,7 @@
 # Review of Environmental Monitoring in Russia and Former Soviet Union
 **Original Title**: Review of the System of Environmental Monitoring in the Russian Federation and Former Soviet Union and Related Environmental Policy Issues
 **Authors**: V.I. Larin | **Year**: 1997
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive Master's thesis examines the environmental monitoring systems in Russia and the former Soviet Union, analyzing their evolution from Soviet times through the post-Soviet transition period. The work provides a critical assessment of institutional frameworks, data collection mechanisms, and the application of environmental information in policy-making processes during a period of significant political and economic transformation.

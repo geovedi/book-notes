@@ -1,5 +1,6 @@
 # Strength in What Remains
 **Authors**: Tracy Kidder | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "Strength in What Remains" tells the extraordinary true story of Deogratias (Deo), a young medical student who escapes the ethnic violence in Burundi and Rwanda during the 1990s genocide. After witnessing unimaginable horrors and losing most of his family, Deo arrives in New York City with only $200 and a broken spirit. The book follows his remarkable journey from homelessness and despair to becoming a graduate of Columbia University and ultimately returning to his homeland to build a public health clinic. It's a powerful testament to human resilience, the transformative power of education, and one man's quest to turn his trauma into healing for others.

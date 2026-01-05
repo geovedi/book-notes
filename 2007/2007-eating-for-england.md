@@ -1,5 +1,6 @@
 # Eating for England
 **Author**: Nigel Slater | **Year**: 2007
+**Category**: Art & Creativity
 
 ## Summary
 "Eating for England" is a delightful exploration of British food culture through the lens of everyday foods, snacks, and culinary traditions that define the British relationship with eating. Slater examines everything from biscuits and sweets to Sunday roasts and school dinners, revealing how these seemingly mundane items reflect deeper aspects of British character, nostalgia, and social customs.

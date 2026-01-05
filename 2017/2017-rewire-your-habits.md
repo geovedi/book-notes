@@ -1,5 +1,6 @@
 # Rewire Your Habits
 **Authors**: Zoe McKey | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Rewire Your Habits" challenges the conventional wisdom about goal setting and offers a refreshing perspective on personal transformation. Instead of focusing solely on ambitious goals, McKey argues that the real magic lies in building sustainable habits that make your goals inevitable. The book reveals how most people fail because they chase goals without establishing the underlying habits needed for long-term success. By shifting focus from achievement-oriented thinking to habit-oriented living, readers can create lasting change across five key life areas: personal development, relationships, health, finances, and free time.

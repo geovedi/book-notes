@@ -1,5 +1,5 @@
 # Power and Prediction
-**Authors**: Ajay Agrawal, Joshua Gans, Avi Goldfarb | **Year**: 2022
+**Authors**: Ajay Agrawal, Joshua Gans, Avi Goldfarb | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "Power and Prediction" reveals why AI adoption is happening much slower than expected despite its demonstrated capabilities. The authors argue we're living in "The Between Times" - a period between AI's technological breakthrough and its widespread economic impact, similar to electricity's forty-year adoption curve in the early 20th century. While their previous book "Prediction Machines" focused on AI as a drop-in replacement for prediction tasks, this sequel reveals the real transformation will come from AI-powered system solutions that fundamentally redesign how organizations operate.

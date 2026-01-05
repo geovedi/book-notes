@@ -1,5 +1,5 @@
 # Living Big on a Small Budget
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical personal finance guide delivers common-sense strategies for maximizing your financial resources regardless of income level. The book emphasizes that financial success isn't about earning more money—it's about managing what you have wisely through strategic planning, budgeting, and smart investing.

@@ -1,5 +1,5 @@
 # The Book Revolution
-**Authors**: Samuel River | **Year**: 2016
+**Authors**: Samuel River | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This book exposes the harsh realities of the modern publishing industry and provides a controversial analysis of why most authors struggle to make a living from their work. Samuel River, who claims to be among the top 0.1% of writers earning a full-time income from books, argues that the publishing industry is fundamentally broken due to devaluation of knowledge, unfair profit distribution, and outdated business models. He presents provocative insights about the future of digital publishing and offers practical solutions for authors, publishers, and distributors to thrive in the evolving landscape.

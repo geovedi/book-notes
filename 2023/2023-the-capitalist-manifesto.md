@@ -1,5 +1,6 @@
 # The Capitalist Manifesto
 **Authors**: Johan Norberg | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "The Capitalist Manifesto" is a vigorous defense of global capitalism in the 21st century. Norberg argues that despite recent criticisms from both the left and right, free-market capitalism has delivered unprecedented human progress, lifting billions from poverty, improving health and education, and creating greater opportunities than ever before. The book systematically dismantles common critiques of capitalism—from claims that it makes the poor poorer to arguments that it destroys communities, jobs, and human well-being—using extensive data and historical evidence.

@@ -1,5 +1,6 @@
 # The Rape of Nanking
 **Author**: Iris Chang | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 "The Rape of Nanking" is a harrowing historical account of one of World War II's most brutal yet largely forgotten massacres—the six-week orgy of violence unleashed by Japanese forces after capturing China's capital city in December 1937. Chang meticulously documents how Japanese soldiers systematically murdered an estimated 260,000-350,000 Chinese civilians and prisoners of war while raping 20,000-80,000 women in what became known as "the forgotten Holocaust of World War II."

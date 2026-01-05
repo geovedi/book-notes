@@ -1,5 +1,6 @@
 # Futures Trading Strategies
 **Authors**: Wayne Walker | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Futures Trading Strategies" is a comprehensive guide that equips aspiring traders with the essential knowledge and proven techniques to enter and exit the futures markets like a professional. The book covers everything from basic futures contract mechanics to advanced trading strategies, spread trading, and portfolio diversification approaches. It breaks down complex concepts into digestible pieces while providing practical frameworks for analyzing markets across multiple timeframes.

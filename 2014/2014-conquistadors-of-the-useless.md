@@ -1,6 +1,6 @@
 # Conquistadors of the Useless
 **Original Title**: Conquistadors de l'Inutile
-**Author**: Lionel Terray | **Year**: 2014 (original 1961)
+**Author**: Lionel Terray | **Year**: 2014 (original 1961) | **Category**: Health & Medicine
 
 ## Summary
 Lionel Terray's memoir chronicles his extraordinary journey from a rebellious child in Grenoble to one of the greatest mountaineers of the 20th century. Born into a bourgeois family that viewed climbing as madness, Terray defied his parents' expectations to dedicate his life to the mountains. He became a ski champion, professional guide, and key member of historic expeditions that achieved first ascents of legendary peaks including Annapurna, Makalu, Fitzroy, and the second ascent of the notorious Eiger North Face.

@@ -1,5 +1,5 @@
 # Milk! A 10,000-Year Food Fracas
-**Author**: Mark Kurlansky | **Year**: 2018
+**Author**: Mark Kurlansky | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 Mark Kurlansky reveals milk as "the most argued-over food in human history," tracing 10,000 years of cultural conflict, scientific discovery, and social debate around this seemingly simple beverage. The book challenges our basic assumptions about milk, revealing how lactose intolerance is actually the natural human condition, not a defect.

@@ -1,5 +1,5 @@
 # The Energy Evolution: Harnessing Free Energy from Nature
-**Authors**: Viktor Schauberger, translated & edited by Callum Coats | **Year**: 2000
+**Authors**: Viktor Schauberger, translated & edited by Callum Coats | **Year**: 2000 | **Category**: Science & Nature
 
 ## Summary
 This revolutionary book presents Viktor Schauberger's groundbreaking discoveries about natural energy systems and how humanity can harness free, limitless energy by working in harmony with Nature's principles rather than against them. Schauberger, an Austrian naturalist and inventor, reveals that conventional technology operates on destructive principles while Nature uses creative, life-enhancing processes that can be replicated to generate abundant, pollution-free energy.

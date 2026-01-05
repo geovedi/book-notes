@@ -1,5 +1,6 @@
 # The Book of Princes and Princesses
 **Authors**: Andrew Lang, Mrs. Lang | **Year**: 2012 (originally published in early 20th century)
+**Category**: Children & Young Adult
 
 ## Summary
 "The Book of Princes and Princesses" is a collection of true historical stories about royal children throughout European history, written to make history engaging and accessible for young readers. The book presents the childhood experiences, challenges, and character development of famous historical figures including Napoleon, Princess Jeanne de Navarre, and other European royalty. These aren't fairy tales but real accounts that demonstrate how circumstances, upbringing, and personal choices shaped future kings, queens, and emperors.

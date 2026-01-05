@@ -1,5 +1,6 @@
 # A Gentle Madness: Bibliophiles, Bibliomanes, and the Eternal Passion for Books
 **Authors**: Nicholas A. Basbanes | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 "A Gentle Madness" is a masterful exploration of book collecting and the obsessive passion that drives bibliophiles throughout history. Basbanes takes readers on a captivating journey into the world of dedicated book lovers—from legendary collectors who risked fortunes to acquire rare volumes to the ordinary enthusiasts who find profound meaning in the written word. Through fascinating stories of historical and contemporary bibliophiles, the book reveals how this seemingly eccentric pursuit has actually preserved countless cultural treasures for future generations.

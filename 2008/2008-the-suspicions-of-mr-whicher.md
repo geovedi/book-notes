@@ -1,5 +1,6 @@
 # The Suspicions of Mr. Whicher
 **Author**: Kate Summerscale | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 This is the story of a shocking murder committed in an English country house in 1860 that became perhaps the most disturbing murder of its time. The brutal killing of three-year-old Saville Kent at Road Hill House launched one of the first great detective investigations in history and threatened the career of Detective-Inspector Jonathan Whicher, one of the original eight detectives at Scotland Yard. The case sparked a "detective-fever" throughout England and fundamentally shaped the course of detective fiction, inspiring Wilkie Collins' *The Moonstone* and influencing nearly every detective hero since.

@@ -1,6 +1,7 @@
 # Make Money From Home
 **Original Title**: Make Money From Home
 **Authors**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Make Money From Home" is a practical guide that navigates the growing landscape of remote work opportunities, providing readers with actionable strategies to find legitimate work-from-home jobs, build sustainable client relationships, and develop the necessary skills for successful remote careers. The book addresses both employees seeking flexible work arrangements and employers interested in the benefits of remote teams.

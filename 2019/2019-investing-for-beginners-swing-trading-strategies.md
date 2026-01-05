@@ -1,5 +1,6 @@
 # Investing for Beginners: Swing Trading Strategies
 **Authors**: Victor Lucas | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide introduces beginners to the world of swing trading, a strategy that sits between day trading and long-term trend trading. The book combines four essential volumes covering swing trading strategies, stock market investing basics, and options trading. It provides practical frameworks for developing the right trading mindset, understanding market cycles, and implementing specific strategies like sector rotation, 4-hour chart analysis, fakeout trading, and momentum trading.

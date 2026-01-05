@@ -1,5 +1,6 @@
 # The Birthmark
 **Authors**: Nathaniel Hawthorne | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 "The Birthmark" is a chilling psychological thriller about Aylmer, a brilliant scientist obsessed with perfection, who becomes fixated on removing a tiny hand-shaped birthmark from his beautiful wife Georgiana's cheek. What begins as a minor imperfection in his eyes becomes an all-consuming obsession that drives him to attempt the ultimate scientific experiment—perfecting nature itself.

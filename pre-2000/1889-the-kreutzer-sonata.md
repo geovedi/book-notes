@@ -1,5 +1,6 @@
 # The Kreutzer Sonata
 **Authors**: Leo Tolstoy | **Year**: 1889
+**Category**: Fiction & Literature
 
 ## Summary
 The Kreutzer Sonata is a provocative novella that tells the story of Pozdnyshev, a man who murders his wife in a jealous rage after she forms an intimate musical connection with a violinist. The narrative unfolds as a confession on a train journey, where Pozdnyshev recounts the events leading to his crime and offers a scathing critique of marriage, sexuality, and society's double standards.

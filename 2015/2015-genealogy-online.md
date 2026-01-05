@@ -1,5 +1,6 @@
 # Genealogy Online
 **Elizabeth Powell Crowe** | **Year**: 2015
+**Category**: Technology & Computing
 
 ## Summary
 "Genealogy Online" is a comprehensive guide that transforms traditional family history research into a digital adventure. The book shows how internet technologies have revolutionized genealogy, making it possible to trace ancestors from your computer while still valuing offline archival research. It bridges the gap between traditional genealogical methods and modern digital tools, teaching readers to leverage online databases, DNA testing, social networking, and collaborative platforms to discover their heritage.

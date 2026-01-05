@@ -1,5 +1,5 @@
 # Understanding Digital Marketing: Strategies for Online Success
-**Authors**: Dishek J. Mankad | **Year**: 2018
+**Authors**: Dishek J. Mankad | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Understanding Digital Marketing" is a comprehensive guide that demystifies the rapidly evolving landscape of digital marketing. The book provides a structured approach to mastering online marketing strategies, from foundational concepts like SEO and website development to advanced tactics in paid advertising and social media marketing.

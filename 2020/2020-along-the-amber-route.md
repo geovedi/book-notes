@@ -1,5 +1,6 @@
 # Along the Amber Route
 **Authors**: C. J. Schüler | **Year**: 2020
+**Category**: History & Biography
 
 ## Summary
 A captivating journey along one of Europe's ancient trade routes, "Along the Amber Route" weaves together travelogue, history, and personal memoir. The author follows the 2,500-kilometer path from St. Petersburg to Venice that carried Baltic amber to Mediterranean civilizations for over three millennia.

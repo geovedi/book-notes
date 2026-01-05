@@ -1,5 +1,5 @@
 # Ancient Irish Legends
-**Authors**: Padraic O'Farrell | **Year**: 2001
+**Authors**: Padraic O'Farrell | **Year**: 2001 | **Category**: Fiction & Literature
 
 ## Summary
 This enchanting collection brings to life the ancient mythology of Ireland, featuring tales from the four major cycles of Irish legend: the Mythological Cycle, the Red Branch (Ulster) Cycle, the Cycle of Kings, and the Fenian Cycle. Through fourteen carefully selected stories, O'Farrell retells the adventures of legendary heroes, tragic romances, and magical transformations that have shaped Irish cultural identity for centuries.

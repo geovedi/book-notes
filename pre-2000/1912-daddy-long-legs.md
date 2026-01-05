@@ -1,5 +1,6 @@
 # Daddy-Long-Legs
 **Authors**: Jean Webster | **Year**: 1912
+**Category**: Fiction & Literature
 
 ## Summary
 Jerusha "Judy" Abbott, a spirited 17-year-old orphan from the John Grier Home, is unexpectedly offered the opportunity of a lifetime when an anonymous trustee—whom she nicknames "Daddy-Long-Legs" after seeing his elongated shadow—offers to send her to college. The only condition: she must write him monthly letters detailing her progress, but never expect replies or attempt to discover his identity.

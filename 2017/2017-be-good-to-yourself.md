@@ -1,5 +1,6 @@
 # Be Good to Yourself
 **Authors**: Orison Swett Marden | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Be Good to Yourself" is a classic self-help masterpiece that teaches the fundamental principle that true success begins with self-care and self-respect. Marden argues that most people fail to reach their potential not because of external obstacles, but because they neglect their physical, mental, and spiritual well-being. The book emphasizes that being good to yourself is not selfishness but a sacred duty that enables you to better serve others and achieve your highest aspirations.

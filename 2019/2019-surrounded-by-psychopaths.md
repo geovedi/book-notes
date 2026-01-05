@@ -1,6 +1,7 @@
 # Surrounded by Psychopaths
 **Original Title**: Omringd door psychopaten
-**Author**: Thomas Erikson | **Year**: 2019 
+**Author**: Thomas Erikson | **Year**: 2019
+**Category**: Psychology & Mental Health 
 
 ## Summary
 "Surrounded by Psychopaths" is a practical guide that reveals how psychopathic individuals manipulate others and provides strategies for self-protection. Erikson explains that approximately 2-4% of the population consists of psychopaths who move among us unnoticed—charismatic, seemingly normal people who exploit others without remorse. Using the DISC personality system (Red, Yellow, Green, Blue color types), the book helps readers understand their own vulnerabilities and recognize manipulative behavior patterns.

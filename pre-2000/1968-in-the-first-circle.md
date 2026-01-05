@@ -1,5 +1,5 @@
 # In the First Circle
-**Original Title**: В круге первом (V kruge pervom) | **Authors**: Alexander Solzhenitsyn | **Year**: 1968
+**Original Title**: В круге первом (V kruge pervom) | **Authors**: Alexander Solzhenitsyn | **Year**: 1968 | **Category**: Fiction & Literature
 
 ## Summary
 "In the First Circle" is a profound novel set in Stalin's Soviet Union, where imprisoned intellectuals and scientists are forced to work in a special prison research facility called a "sharashka." Located in Mawrino outside Moscow, this prison represents the "first circle" of Dante's Inferno—a place of relative comfort compared to the Gulag, but still a hell where brilliant minds are compelled to serve the state that imprisoned them. The novel follows multiple characters including mathematicians, engineers, and linguists who must navigate moral compromises while working on secret government projects, all under the watchful eye of the Soviet security apparatus.

@@ -1,5 +1,6 @@
 # A Time for Change
 **Author**: Martha R. Bireda | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 "A Time for Change" reveals how white supremacy ideology harms all Americans—white as well as Black—by exposing the hidden history of how "whiteness" was deliberately invented to divide and control working people. Bireda argues that white supremacy culture is a virus infecting the collective American mind for over 300 years, creating separation, maintaining elite power, and preventing genuine human connection across racial lines.

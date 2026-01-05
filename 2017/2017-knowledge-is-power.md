@@ -1,5 +1,6 @@
 # Knowledge is Power
 **Authors**: John Henry | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 This revealing book explores the surprising origins of modern science through the life and work of Francis Bacon (1561-1626), showing how science emerged from unexpected combinations of religious belief, magical traditions, and political ambition. Henry argues that modern science wasn't born from pure reason or secular enlightenment, but from Bacon's unique synthesis of Protestant apocalyptic thinking, magical practices, and practical government service.

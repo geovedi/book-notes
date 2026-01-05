@@ -1,7 +1,7 @@
 # Paul and the Meaning of Scripture
 
 **Original Title**: Paul and the Meaning of Scripture
-**Authors**: Matthew L. Halsted | **Year**: 2022
+**Authors**: Matthew L. Halsted | **Year**: 2022 | **Category**: Spirituality & Religion
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # 100 Books You Must Read Before You Die (Volume 1)
 **Authors**: Various Classic Authors | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology presents 50 of the world's most influential literary works spanning from ancient Greece to the early 20th century. Published by Book House in 2017, this first volume serves as a curated gateway to literature's greatest achievements, featuring complete texts from renowned authors across multiple genres and eras.

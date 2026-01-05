@@ -1,5 +1,5 @@
 # Water: The Epic Struggle for Wealth, Power, and Civilization
-**Author**: Steven Solomon | **Year**: 2011
+**Author**: Steven Solomon | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 Steven Solomon reveals how water has been the invisible hand shaping human civilization throughout history. From ancient Egypt's Nile-dependent empire to Britain's industrial revolution powered by steam, societies that mastered water resources rose to greatness while those that failed to adapt declined. Today, we face an unprecedented global freshwater crisis that threatens to become the defining geopolitical issue of the 21st century, with water scarcity surpassing even oil as the world's most critical resource.

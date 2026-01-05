@@ -1,5 +1,5 @@
 # Earth
-**Authors**: Michael Carlowicz, Lawrence Friedl, Kevin Ward | **Year**: 2018
+**Authors**: Michael Carlowicz, Lawrence Friedl, Kevin Ward | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "Earth" is a stunning visual celebration of our planet as seen through NASA's fleet of Earth-observing satellites. This coffee table book transforms satellite data into breathtaking images that reveal Earth's atmosphere, water, land, and ice formations in ways the human eye could never perceive. The book stands at the intersection of science and art, making complex environmental processes visible and accessible while showcasing the planet's extraordinary beauty from orbit.

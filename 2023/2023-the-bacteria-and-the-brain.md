@@ -1,6 +1,7 @@
 # The Bacteria and the Brain
 **Original Title**: De bacterie en het brein
 **Authors**: Iris Sommer | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 "The Bacteria and the Brain" reveals the revolutionary discovery that the health of our gut microbiome directly influences brain function and mental health. Written by Dr. Iris Sommer, a professor of psychiatry, this groundbreaking book explains how the trillions of bacteria in our digestive system affect everything from mood and cognition to neurological disorders like depression, autism, Alzheimer's, and Parkinson's disease.

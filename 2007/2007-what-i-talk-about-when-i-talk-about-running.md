@@ -1,5 +1,6 @@
 # What I Talk About When I Talk About Running
 **Author**: Haruki Murakami | **Year**: 2007
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This memoir explores Murakami's deep connection between long-distance running and his life as a novelist. Through reflections on his daily running routine, marathon experiences, and triathlon training, he reveals how the discipline of running shapes his creative process and philosophical approach to life. The book spans from his decision to become a writer at age 33 through his training for the New York City Marathon, offering intimate insights into the mindset required for both endurance athletics and creative work.

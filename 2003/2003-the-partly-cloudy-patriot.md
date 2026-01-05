@@ -1,5 +1,5 @@
 # The Partly Cloudy Patriot
-**Author**: Sarah Vowell | **Year**: 2003
+**Author**: Sarah Vowell | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 Sarah Vowell's collection of witty, insightful essays explores what it means to be American in complicated times. Through personal journeys to historical sites, family gatherings, and cultural observations, Vowell examines patriotism not as blind devotion but as critical engagement with one's country. Written between 1998-2001, these essays capture America at the turn of the millennium, culminating in the aftermath of September 11th.

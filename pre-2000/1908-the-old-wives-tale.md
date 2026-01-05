@@ -1,5 +1,6 @@
 # The Old Wives' Tale
 **Authors**: Arnold Bennett | **Year**: 1908
+**Category**: Fiction & Literature
 
 ## Summary
 "The Old Wives' Tale" is a profound exploration of time, choice, and sisterhood that follows the divergent lives of two sisters from the English Midlands over six decades. Constance and Sophia Baines begin as young women working in their parents' drapery shop in Bursley, but their paths dramatically split when the passionate Sophia elopes to Paris with the charming but unreliable Gerald Scales, while the dutiful Constance remains home to marry Samuel Povey and take over the family business.

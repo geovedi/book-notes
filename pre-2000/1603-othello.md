@@ -1,5 +1,6 @@
 # Othello
 **Authors**: William Shakespeare | **Year**: 1603
+**Category**: Fiction & Literature
 
 ## Summary
 Othello tells the tragic story of a noble Moorish general who marries Desdemona, a Venetian woman, only to be manipulated by his ensign Iago into believing she has been unfaithful. Through carefully crafted deception and psychological warfare, Iago exploits Othello's insecurities about race, age, and cultural differences to transform love into murderous jealousy.

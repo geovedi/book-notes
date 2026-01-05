@@ -1,5 +1,5 @@
 # Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto
-**Author**: Chuck Klosterman | **Year**: 2004
+**Author**: Chuck Klosterman | **Year**: 2004 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This is a collection of essays examining how popular culture shapes our understanding of life, love, and reality. Klosterman explores everything from John Cusack movies to The Sims video game, arguing that in our media-saturated world, nothing can be appreciated in a vacuum. The book reveals how we're all influenced by fictional representations of reality, to the point where real people are actively trying to live like fake people, making everyone equally artificial.

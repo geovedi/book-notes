@@ -1,5 +1,6 @@
 # The Story of Tea: A Cultural History and Drinking Guide
 **Authors**: Mary Lou Heiss, Robert J. Heiss | **Year**: 2007
+**Category**: Art & Creativity
 
 ## Summary
 "The Story of Tea" is a comprehensive exploration of tea's journey from ancient China to its global status as the world's second-most consumed beverage. The book masterfully weaves together history, botany, manufacturing techniques, cultural traditions, and practical guidance, revealing how a single plant species—Camellia sinensis—produces an astonishing variety of teas through different processing methods. From its mythical origins in the forests of Yunnan to its role in shaping empires, sparking wars, and inspiring sophisticated tea ceremonies, this book demonstrates that tea is far more than just a beverage—it's a cultural phenomenon that has influenced human civilization for thousands of years.

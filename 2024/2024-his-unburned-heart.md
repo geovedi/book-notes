@@ -1,5 +1,6 @@
 # His Unburned Heart
 **Authors**: David Sandner | **Year**: 2024
+**Category**: Fiction & Literature
 
 ## Summary
 "His Unburned Heart" is a masterful work of historical fiction that reimagines the tragic events following Percy Bysshe Shelley's death in 1822. Narrated by Mary Shelley herself, the novel centers on the mysterious discovery of Shelley's heart, which miraculously remained unburned during his cremation on an Italian beach. The story weaves together historical fact and literary imagination, exploring grief, love, artistic legacy, and the fierce determination of a woman fighting for her place in a world that sought to silence her voice.

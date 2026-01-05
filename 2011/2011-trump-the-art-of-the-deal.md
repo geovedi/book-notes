@@ -1,5 +1,5 @@
 # Trump: The Art of the Deal
-**Authors**: Donald J. Trump, Tony Schwartz | **Year**: 2011
+**Authors**: Donald J. Trump, Tony Schwartz | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "The Art of the Deal" is part memoir, part business strategy guide that reveals Donald Trump's personal philosophy on deal-making and entrepreneurship. Through real-life examples from his real estate empire building, Trump demonstrates how he transformed from his father's Queens-based middle-income housing business into becoming one of Manhattan's most prominent developers. The book combines practical business wisdom with entertaining stories of high-stakes negotiations, showcasing Trump's approach to leveraging opportunities, managing risk, and creating extraordinary value.

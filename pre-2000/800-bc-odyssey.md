@@ -1,6 +1,7 @@
 # Odyssey
 **Original Title**: Ὀδύσσεια (Odýsseia)
 **Authors**: Homeros | **Year**: c. 8th Century BC
+**Category**: Fiction & Literature
 
 ## Summary
 The Odyssey stands as Western literature's second-oldest masterpiece, chronicling King Odysseus's legendary 10-year struggle to return home to Ithaca after the Trojan War. Having spent 20 years away from his kingdom—10 fighting at Troy and 10 wandering the treacherous seas—Odysseus faces divine wrath, mythical monsters, and supernatural temptations while his faithful wife Penelope fends off arrogant suitors who plot to murder his son Telemachus and seize his throne.

@@ -1,5 +1,5 @@
 # The Inevitable
-**Kevin Kelly** | **Year**: 2016
+**Kevin Kelly** | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 "The Inevitable" reveals 12 technological forces that will shape our future over the next three decades. Kelly argues these trends are inevitable not because they're predetermined, but because they stem from the inherent biases of technology itself—like how digital bits naturally want to be copied infinitely. He introduces the concept of "protopia" (gradual improvement) rather than utopia or dystopia, and shows how we're moving from a world of fixed products to continuous processes.

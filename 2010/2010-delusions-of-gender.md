@@ -1,5 +1,5 @@
 # Delusions of Gender
-**Authors**: Cordelia Fine | **Year**: 2010
+**Authors**: Cordelia Fine | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Delusions of Gender" is a groundbreaking critique of "neurosexism" - the pseudoscientific claim that male and female brains are fundamentally different and hardwired for distinct roles. Fine systematically dismantles popular myths about gender differences, exposing how flawed science, overinterpretation of brain research, and cultural bias have created a self-perpetuating cycle of gender inequality. Through rigorous analysis of scientific studies and historical context, she demonstrates that what appear to be innate gender differences are often products of social conditioning, stereotype threat, and environmental factors.

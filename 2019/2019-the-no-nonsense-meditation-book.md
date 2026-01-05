@@ -1,6 +1,7 @@
 # The No-Nonsense Meditation Book
 **Original Title**: Het no-nonsense meditatieboek
-**Author**: Steven Laureys | **Year**: 2019 
+**Author**: Steven Laureys | **Year**: 2019
+**Category**: Health & Medicine 
 
 ## Summary
 Neurologist Steven Laureys presents a groundbreaking scientific exploration of meditation's effects on the brain, dispelling myths while providing evidence-based techniques for modern life. As a leading consciousness researcher who initially approached meditation with skepticism, Laureys combines personal transformation stories with cutting-edge neuroscience to demonstrate how meditation can reshape our brains and enhance well-being.

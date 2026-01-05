@@ -1,5 +1,5 @@
 # A Beginner's Guide to Autoresponders
-**Authors**: The Non Fiction Author | **Year**: 2018
+**Authors**: The Non Fiction Author | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies autoresponders as essential marketing tools that enable businesses to automatically respond to customer inquiries, nurture leads, and maintain professional communication without manual intervention. The book positions autoresponders as critical infrastructure for modern email marketing, customer service, and sales follow-up systems.

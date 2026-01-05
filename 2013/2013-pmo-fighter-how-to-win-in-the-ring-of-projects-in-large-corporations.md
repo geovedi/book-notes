@@ -1,5 +1,5 @@
 # PMO Fighter: How to Win in the Ring of Projects in Large Corporations
-**Authors**: Luiz Del Col, Mauricio Filho | **Year**: 2013
+**Authors**: Luiz Del Col, Mauricio Filho | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 "PMO Fighter" is a practical guide for Project Management Officers working on complex megaprojects in large corporations. The book addresses the high-stakes environment where PMOs must navigate aggressive schedules, multiple stakeholders, and organizational politics to ensure project success. The authors emphasize that in today's global business scenario, the PMO's role is crucial - they share responsibility for project success or failure alongside Project Managers.

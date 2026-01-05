@@ -1,5 +1,5 @@
 # Nickel and Dimed
-**Author**: Barbara Ehrenreich | **Year**: 2001
+**Author**: Barbara Ehrenreich | **Year**: 2001 | **Category**: Business & Finance
 
 ## Summary
 Barbara Ehrenreich goes undercover as a low-wage worker in three American cities to discover whether it's possible to survive on $6-7 an hour jobs. Working as a waitress, hotel maid, housecleaner, nursing home aide, and retail clerk, she exposes the brutal reality that millions of working Americans face daily—despite working full-time, they cannot afford basic housing, healthcare, or nutrition.

@@ -1,6 +1,7 @@
 # Investing: Make Money By Investing In Stock Market, Real Estate Rental Property, Bonds, Options, Cryptocurrency And Build Passive Income Business Portfolio
 
 **Authors**: Brandon Hagstrom, Robert Turner | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 

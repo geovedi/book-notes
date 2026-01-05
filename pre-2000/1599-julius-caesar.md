@@ -1,5 +1,6 @@
 # Julius Caesar
 **Authors**: William Shakespeare | **Year**: 1599
+**Category**: Fiction & Literature
 
 ## Summary
 "Julius Caesar" is Shakespeare's gripping political tragedy that explores the assassination of the Roman leader in 44 BC and its catastrophic aftermath. Though named after Caesar, the play's true protagonist is Marcus Brutus, whose internal conflict between honor, patriotism, and friendship drives the narrative's psychological core. When Brutus joins conspirators led by the manipulative Cassius, they murder Caesar to prevent him from becoming a tyrant, only to unleash civil war and ultimately their own destruction.

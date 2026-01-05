@@ -1,5 +1,5 @@
 # Marketing 4.0: Moving from Traditional to Digital
-**Authors**: Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | **Year**: 2016
+**Authors**: Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 Marketing 4.0 emerges as the natural evolution from product-centric Marketing 1.0 → customer-centric Marketing 2.0 → human-centric Marketing 3.0. In today's digital economy, where technology convergence has transformed how customers interact with brands, marketing must adapt to changing customer paths from awareness to advocacy. The book introduces a comprehensive framework that blends digital and traditional marketing, recognizing that in a high-tech world, people crave high-touch experiences.

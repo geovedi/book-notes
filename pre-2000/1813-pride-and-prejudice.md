@@ -1,5 +1,6 @@
 # Pride and Prejudice
 **Authors**: Jane Austen | **Year**: 1813
+**Category**: Romance & Relationships
 
 ## Summary
 Pride and Prejudice follows Elizabeth Bennet, the intelligent and spirited second daughter of the Bennet family, as she navigates the complex social landscape of early 19th-century English gentry society. With limited family wealth and no male heir, Elizabeth and her four sisters face the pressing need to make advantageous marriages to secure their futures.

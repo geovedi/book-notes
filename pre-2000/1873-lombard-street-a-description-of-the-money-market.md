@@ -1,5 +1,6 @@
 # Lombard Street: A Description of the Money Market
 **Author**: Walter Bagehot | **Year**: 1873
+**Category**: Business & Finance
 
 ## Summary
 "Lombard Street" is the foundational text on central banking and financial markets, written by economist Walter Bagehot in 1873. The book provides a detailed analysis of London's money market, focusing on the Bank of England's role as the central bank and lender of last resort. Bagehot examines the unique structure of England's banking system, where commerce operates almost entirely on borrowed capital, and argues that this artificial system requires careful management and understanding.

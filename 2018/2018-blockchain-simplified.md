@@ -1,5 +1,6 @@
 # Blockchain Simplified
 **Authors**: Colm Gordon | **Year**: 2018
+**Category**: Technology & Computing
 
 ## Summary
 Blockchain technology represents a revolutionary approach to digital record-keeping and transaction management through decentralized, encrypted ledgers. This comprehensive guide breaks down complex blockchain concepts into accessible explanations, showing how this technology transforms industries from finance to healthcare. The book demystifies the core components of blockchain networks, explains the differences between proof of work and proof of stake systems, and provides practical insights for businesses considering blockchain implementation.

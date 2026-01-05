@@ -1,5 +1,6 @@
 # Fathers and Children
 **Authors**: Ivan Turgenev | **Year**: 1862
+**Category**: Fiction & Literature
 
 ## Summary
 Fathers and Children chronicles the ideological clash between the older generation of Russian liberals and the younger nihilists in the mid-19th century. Through the friendship between Arkady Kirsanov and the brilliant but cynical medical student Yevgeny Bazarov, Turgenev explores the tensions between traditional values and revolutionary scientific materialism that would soon transform Russian society.

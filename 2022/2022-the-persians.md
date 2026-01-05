@@ -1,6 +1,6 @@
 # The Persians: The Age of the Great Kings
 **Original Title**: Os Persas: A Era dos Grandes Reis
-**Author**: Lloyd Llewellyn-Jones | **Year**: 2022
+**Author**: Lloyd Llewellyn-Jones | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "The Persians: The Age of the Great Kings" is a comprehensive historical examination of the Achaemenid Persian Empire (550-330 BCE), one of the ancient world's most magnificent and influential civilizations. Lloyd Llewellyn-Jones challenges Western-centric narratives that have long portrayed the Persans as mere antagonists to Greek glory, instead presenting them as sophisticated administrators, innovative rulers, and architects of the world's first truly global empire.

@@ -1,5 +1,6 @@
 # Notes from Underground and The Double
 **Authors**: Fyodor Dostoevsky | **Year**: 1864/1846
+**Category**: Fiction & Literature
 
 ## Summary
 "Notes from Underground and The Double" brings together two groundbreaking psychological works by Dyodor Dostoevsky that revolutionized literature with their deep exploration of human consciousness and alienation. "Notes from Underground" (1864) presents the bitter monologue of a retired civil servant living in self-imposed isolation, delivering a radical critique of rationalism and utopian socialism while asserting the primacy of individual will and irrational desire. "The Double" (1846) tells the disturbing story of government clerk Yakov Golyadkin whose life unravels when he encounters his exact double, who systematically usurps his position and sanity.

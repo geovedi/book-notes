@@ -1,5 +1,5 @@
 # Aesop's Fables
-**Authors**: Aesop | **Year**: c. 620-560 B.C.
+**Authors**: Aesop | **Year**: c. 620-560 B.C. | **Category**: Children & Young Adult
 
 ## Summary
 Aesop's Fables is a timeless collection of short stories featuring anthropomorphic animals that teach fundamental moral lessons through simple yet powerful narratives. Dating back to ancient Greece, these fables have transcended centuries and cultures, offering wisdom that remains remarkably relevant to modern life. Each story concludes with a clear moral principle, making complex ethical concepts accessible to readers of all ages.

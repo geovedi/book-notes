@@ -1,5 +1,5 @@
 # In Order to Live: A North Korean Girl's Journey to Freedom
-**Authors**: Yeonmi Park, Maryanne Vollers | **Year**: 2015
+**Authors**: Yeonmi Park, Maryanne Vollers | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 "In Order to Live" is Yeonmi Park's harrowing memoir of growing up in North Korea and her extraordinary journey to freedom. Born into the oppressive regime of the Hermit Kingdom, Park experienced starvation, indoctrination, and loss from an early age. At just 13 years old, she and her mother fled across the frozen Yalu River into China, only to fall into the hands of human traffickers. The book chronicles their two-year ordeal in China, the tragic death of her father, and their eventual escape across the Gobi Desert to freedom in South Korea.

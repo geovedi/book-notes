@@ -1,6 +1,7 @@
 # Casanova: A Study in Self-Portraiture
 **Original Title**: Casanova
 **Authors**: Stefan Zweig | **Year**: 1928
+**Category**: History & Biography
 
 ## Summary
 Stefan Zweig's brilliant psychological biography examines Giacomo Casanova not merely as the legendary lover, but as a master of autobiographical art and self-portraiture. This work analyzes how the infamous adventurer transformed his scandalous life into literature, creating one of history's most compelling memoirs. Zweig positions Casanova alongside Tolstoy and Stendhal as an "adept in self-portraiture" — someone who revealed not just the events of his life, but the very essence of his being through unflinching honesty.

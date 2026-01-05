@@ -1,5 +1,5 @@
 # 30-Second Evolution
-**Authors**: Mark Fellowes, Nicholas Battey | **Year**: 2015
+**Authors**: Mark Fellowes, Nicholas Battey | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 "30-Second Evolution" breaks down the complex science of evolution into 50 digestible concepts, each explained in half a minute. This educational guide demystifies the fundamental processes that have shaped life on Earth over four billion years, from the origins of species through natural selection to modern genetic understanding. The book is structured around seven key perspectives: the history of evolutionary thought, the origin of species, natural selection, evolutionary history and extinction, evolution in progress, sex and death, and human evolution.

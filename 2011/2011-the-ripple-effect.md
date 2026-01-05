@@ -1,5 +1,5 @@
 # The Ripple Effect
-**Author**: Alex Prud'homme | **Year**: 2011
+**Author**: Alex Prud'homme | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 "The Ripple Effect" reveals how freshwater has become the defining resource of the twenty-first century, exploring the hidden crisis beneath our seemingly endless supply of clean water. Through a compelling true crime opening—the mysterious death of hydrochemist Geetha Angara in a New Jersey water treatment plant—Prud'homme exposes the vulnerabilities in our water systems and the far-reaching consequences of every drop we use.

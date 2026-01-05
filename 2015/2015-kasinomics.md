@@ -1,6 +1,6 @@
 # Kasinomics
 **Original Title**: Kasinomics
-**Authors**: GG Alcock | **Year**: 2015
+**Authors**: GG Alcock | **Year**: 2015 | **Category**: Business & Finance
 
 ## Summary
 Kasinomics reveals the hidden economic powerhouse of Africa's informal economies - the vibrant, entrepreneurial world of township businesses, spaza shops, street traders, and community enterprises that operate outside formal market structures yet drive real economic growth and social transformation. This groundbreaking book dismantles conventional wisdom about low-income markets and exposes the sophisticated business logic, cultural dynamics, and massive untapped potential within Africa's informal sector.

@@ -1,5 +1,6 @@
 # 50 Horror Masterpieces You Have to Read Before You Die
 **Authors**: Various Authors (Edited by Golden Deer Classics) | **Year**: 2017
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive anthology gathers fifty of the most influential and terrifying horror stories ever written, spanning from Gothic classics to early 20th-century psychological horror. The collection features foundational works from the masters of the genre, including Edgar Allan Poe, H.P. Lovecraft, Bram Stoker, Mary Shelley, and Robert Louis Stevenson, among many others. The stories represent the evolution of horror literature, from early supernatural tales to more sophisticated psychological and cosmic horror.

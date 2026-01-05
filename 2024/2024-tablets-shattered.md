@@ -1,5 +1,6 @@
 # Tablets Shattered: The End of an American Jewish Century and the Future of Jewish Life
 **Authors**: Joshua Leifer | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 Joshua Leifer's *Tablets Shattered* examines the collapse of the post-WWII American Jewish consensus built on three pillars: Americanism, Zionism, and liberalism. The book argues that American Jewish life is experiencing its most profound crisis in 75 years as these foundational pillars have crumbled. Leifer combines personal narrative, historical analysis, and interviews with over 100 communal leaders, activists, and scholars to document this disintegration and explore four emerging paths for the future of American Jewish life.

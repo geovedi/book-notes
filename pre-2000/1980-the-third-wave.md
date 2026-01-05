@@ -1,5 +1,6 @@
 # The Third Wave
 **Authors**: Alvin Toffler | **Year**: 1980
+**Category**: Business & Finance
 
 ## Summary
 Alvin Toffler's "The Third Wave" presents a revolutionary framework for understanding human history and our current moment of crisis. Toffler argues that humanity has experienced three massive waves of change: the First Wave (agricultural revolution beginning 10,000 years ago), the Second Wave (industrial revolution beginning 300 years ago), and the Third Wave (information revolution beginning in the 1950s). The chaos and confusion we experience today stem from the violent collision between the dying Second Wave civilization and the emerging Third Wave civilization.

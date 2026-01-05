@@ -1,5 +1,5 @@
 # The Watchers
-**Authors**: A.M. Shine | **Year**: 2022
+**Authors**: A.M. Shine | **Year**: 2022 | **Category**: Horror & Thriller
 
 ## Summary
 "The Watchers" is a chilling horror novel that weaves together multiple terrifying narratives centered around an ancient evil known as "the creeper." The story follows several characters whose lives become entangled with this supernatural entity that stalks its victims over three nights, getting closer each time until the final encounter proves fatal.

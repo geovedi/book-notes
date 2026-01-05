@@ -1,5 +1,6 @@
 # Love Yourself: A 21-Day Plan for Self-Love
 **Author**: Stephen Fleming | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Love Yourself" is a practical self-help guide that presents a structured 21-day program for developing self-love and cultivating self-worth, self-belief, self-confidence, and happiness. The book breaks down the journey into three phases: laying the foundation (Days 1-7), building continuity (Days 8-14), and reaching the final leg (Days 15-21).

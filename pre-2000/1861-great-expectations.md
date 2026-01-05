@@ -1,5 +1,6 @@
 # Great Expectations
 **Authors**: Charles Dickens | **Year**: 1861
+**Category**: Fiction & Literature
 
 ## Summary
 Great Expectations tells the story of Pip, an orphan who grows from a humble blacksmith's apprentice into a London gentleman with mysterious wealth. When Pip helps an escaped convict in a cemetery, he unknowingly sets in motion events that will transform his life and challenge his understanding of class, wealth, and human nature. After receiving an anonymous fortune, Pip moves to London where his "great expectations" lead him to abandon his true friends and pursue a shallow social status, only to discover that his benefactor is the very convict he once helped. Through suffering and loss, Pip learns that true worth comes from character, not wealth or social position.

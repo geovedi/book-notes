@@ -1,5 +1,5 @@
 # One Week to an MBA: How to Get an Online Ivy League Education for Little or No Cost
-**Authors**: James Abbott | **Year**: 2018
+**Authors**: James Abbott | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how ambitious professionals can gain MBA-level business knowledge without the massive time and financial investment of traditional MBA programs. The book explores three main alternatives: Mini MBA programs, self-directed learning through books and websites, and Massive Open Online Courses (MOOCs) from prestigious universities.

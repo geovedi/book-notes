@@ -1,5 +1,6 @@
 # The Story of Achilles
 **Authors**: Carl Friedrich Becker | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 "The Story of Achilles" is a retelling of the legendary Trojan War saga, focusing on the greatest Greek warrior and his tragic journey through pride, rage, grief, and eventual redemption. Set during the tenth year of the siege of Troy, the narrative follows Achilles' withdrawal from battle after a bitter dispute with Agamemnon over the captured maiden Briseïs. His absence allows the Trojans to gain the upper hand, leading to the death of his beloved companion Patroclus at Hector's hands. This tragedy propels Achilles back into combat with terrifying fury, resulting in the legendary duel between the two greatest warriors of their age. The story culminates in the heartbreaking meeting between Achilles and King Priam, where enemies find common humanity in their shared grief.

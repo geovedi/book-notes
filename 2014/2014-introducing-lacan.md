@@ -1,6 +1,6 @@
 # Introducing Lacan: A Graphic Guide
 **Original Title**: Introducing Lacan
-**Authors**: Darian Leader, Judy Groves | **Year**: 2014
+**Authors**: Darian Leader, Judy Groves | **Year**: 2014 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Introducing Lacan" is a comprehensive graphic guide to the complex psychoanalytic theories of Jacques Lacan, one of the most influential and controversial figures in 20th-century psychoanalysis. The book transforms Lacan's notoriously difficult concepts into accessible visual and textual explanations, tracing his intellectual journey from early psychiatric work through his development of revolutionary theories about human consciousness, language, and desire.

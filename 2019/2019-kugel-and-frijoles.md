@@ -1,6 +1,7 @@
 # Kugel and Frijoles: Latino Jews in the United States
 
 **Authors**: Laura Limonic | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 "Kugel and Frijoles" explores the complex identity landscape of Latino Jews in the United States, a group that straddles multiple cultural worlds while navigating the American ethnic and racial classification system. The title itself symbolizes this dual heritage—kugel representing Eastern European Jewish tradition and frijoles (beans) representing Latin American culture. Based on extensive research with Jewish immigrants primarily from Argentina, Mexico, and Venezuela, this book reveals how Latino Jews negotiate their identities in a country that often struggles to understand their multicultural background.

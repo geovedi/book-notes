@@ -1,5 +1,6 @@
 # The Politics and Poetics of Everyday Life
 **Authors**: Kristin Ross | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Politics and Poetics of Everyday Life" is a groundbreaking collection of essays that explores how revolutionary potential exists within the seemingly mundane aspects of daily existence. Ross demonstrates how the ordinary routines, spaces, and practices of everyday life contain the seeds of political transformation and utopian imagination. Drawing primarily from French critical theory—particularly Henri Lefebvre's critique of everyday life and Situationist thought—she reveals how the banal gestures of commuting, shopping, working, and dwelling harbor both the mechanisms of social control and the possibilities for resistance.

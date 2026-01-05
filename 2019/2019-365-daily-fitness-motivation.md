@@ -1,5 +1,6 @@
 # 365 Daily Fitness Motivation
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Health & Medicine
 
 ## Summary
 "365 Fitness Quotes" is a comprehensive collection of daily motivational quotes specifically curated to fuel your fitness journey with inspiration, energy, and strength. The book operates on the fundamental principle that fitness success is 80% mindset and only 20% mechanics - emphasizing that mental determination precedes physical transformation. Each quote serves as a daily catalyst for action, designed to be consumed one per day throughout the year, allowing readers to deeply internalize each message and apply it to their personal fitness evolution.

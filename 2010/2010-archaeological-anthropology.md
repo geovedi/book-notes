@@ -1,6 +1,6 @@
 # Archaeological Anthropology: Understanding the Relationship Between Disciplines
 **Original Title**: Archaeology and Anthropology
-**Editors**: Duncan Garrow, Thomas Yarrow | **Year**: 2010
+**Editors**: Duncan Garrow, Thomas Yarrow | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 This scholarly collection explores the complex, often asymmetrical relationship between archaeology and anthropology, examining how these disciplines have historically intersected, diverged, and influenced one another. The book challenges conventional assumptions about disciplinary boundaries and proposes new ways of thinking about interdisciplinary collaboration in the study of human past and present.

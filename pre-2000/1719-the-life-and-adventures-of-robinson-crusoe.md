@@ -1,6 +1,7 @@
 # 1719-The Life and Adventures of Robinson Crusoe
 
 **Authors**: Daniel Defoe | **Year**: 1719
+**Category**: Fiction & Literature
 
 ## Summary
 Robinson Crusoe is the classic tale of a young Englishman who defies his father's wishes and goes to sea, only to experience a series of misfortunes that culminate in his shipwreck on a deserted island. After 28 years of isolation, he discovers he's not alone when he encounters cannibals visiting the island, rescues one of their prisoners (whom he names Friday), and eventually engineers his return to England, where he discovers he has become wealthy from his Brazilian plantation.

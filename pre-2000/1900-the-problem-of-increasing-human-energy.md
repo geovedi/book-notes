@@ -1,5 +1,6 @@
 # The Problem of Increasing Human Energy
 **Authors**: Nikola Tesla | **Year**: 1900
+**Category**: Science & Nature
 
 ## Summary
 

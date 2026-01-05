@@ -1,6 +1,7 @@
 # I Am, and That Is Enough: 14 Therapeutic Letters from a Psychologist
 **Original Title**: Я есть, и этого достаточно. 14 терапевтических писем психолога
 **Author**: Марина Муравьева (Marina Muravyova) | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 This book is a collection of 14 therapeutic letters written as guidance for navigating common emotional and psychological challenges. Written by practicing psychologist Marina Muravyova, the book serves as a compassionate companion for anyone struggling with self-identity, relationships, loneliness, co-dependency, and the journey of emotional healing. Each letter addresses a specific life situation, offering both psychological insight and practical wisdom drawn from the author's professional experience and personal journey.

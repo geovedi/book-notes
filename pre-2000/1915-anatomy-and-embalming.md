@@ -1,6 +1,7 @@
 # Anatomy and Embalming
 **Original Title**: Anatomy and Embalming
 **Authors**: Albert John Nunnamaker & Charles O. Dhonau | **Year**: 1915
+**Category**: Health & Medicine
 
 ## Summary
 "Anatomy and Embalming" is a comprehensive textbook that bridges the gap between scientific anatomy and the practical art of embalming. The authors, professors at the Cincinnati College of Embalming, created this guide to provide both students and practicing embalmers with the essential anatomical knowledge and practical techniques needed for professional funeral preparation. The book traces the evolution of embalming from ancient practices to modern scientific methods, emphasizing the importance of understanding human anatomy for successful preservation.

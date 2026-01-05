@@ -1,5 +1,5 @@
 # The Light We Carry
-**Authors**: Michelle Obama | **Year**: 2022
+**Authors**: Michelle Obama | **Year**: 2022 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Michelle Obama's follow-up to her memoir "Becoming" is a practical guide for navigating uncertainty and finding strength in challenging times. Written during the pandemic and political turmoil, the book offers tools and practices for staying balanced when life feels overwhelming. Obama shares personal stories from her childhood, White House years, and current life to illustrate how small practices can help us manage big fears and uncertainties.

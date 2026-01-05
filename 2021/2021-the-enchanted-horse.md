@@ -1,5 +1,6 @@
 # The Enchanted Horse
 **Original Title**: أَلْفُ لَيْلَةٍ وَلَيْلَةٌ‎ (One Thousand and One Nights) | **Authors**: Anonymous | **Year**: 2021 (Translation by Andrew Lang)
+**Category**: Fiction & Literature
 
 ## Summary
 

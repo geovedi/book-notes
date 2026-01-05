@@ -1,5 +1,6 @@
 # The Intelligent Investor
 **Authors**: Benjamin Graham | **Year**: 1949
+**Category**: Business & Finance
 
 ## Summary
 "The Intelligent Investor" is widely considered the bible of value investing, teaching readers how to approach investing with discipline, patience, and a margin of safety. Graham's core philosophy centers on treating investing as a business venture rather than a gamble, emphasizing the importance of thorough analysis, risk management, and emotional control. The book distinguishes between investment and speculation, introduces the concept of "Mr. Market" as an allegory for market volatility, and provides practical frameworks for both defensive and enterprising investors to achieve satisfactory returns while minimizing risk.

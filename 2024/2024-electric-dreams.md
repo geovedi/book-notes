@@ -1,5 +1,6 @@
 # Electric Dreams
 **Original Title**: Electric Dreams | **Authors**: Heather Parry | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Electric Dreams is a sharp, critical analysis of the sex robot phenomenon that dismantles the technological promises and exposes how they serve capitalist patriarchy's failing ideology. Parry reveals that humanoid sex robots are scientifically impossible in the foreseeable future, yet function as powerful cultural symbols that reflect our society's deepest anxieties about sexuality, intimacy, and human connection. The book argues that sex robots represent capitalism's last gasp - attempting to solve human problems through consumer products rather than addressing the systemic issues of isolation, inequality, and damaged social relationships.

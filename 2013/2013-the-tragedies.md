@@ -1,6 +1,6 @@
 # The Tragedies
 **Original Title**: The Tragedies
-**Authors**: Sophocles | **Year**: 2013 (Compilation), Original Works: 5th Century BCE
+**Authors**: Sophocles | **Year**: 2013 (Compilation), Original Works: 5th Century BCE | **Category**: Fiction & Literature
 
 ## Summary
 Sophocles' tragedies represent the pinnacle of Athenian dramatic art, exploring timeless themes of fate, free will, divine law versus human law, and the consequences of pride. This collection includes seven of Sophocles' most influential plays: Oedipus the King, Oedipus at Colonus, Antigone, Ajax, Electra, Trachiniae, and Philoctetes. Written during Athens' golden age, these works blend profound psychological insight with poetic mastery, creating characters whose struggles resonate across millennia.

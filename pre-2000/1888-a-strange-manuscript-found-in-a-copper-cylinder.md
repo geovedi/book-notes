@@ -1,5 +1,6 @@
 # A Strange Manuscript Found in a Copper Cylinder
 **Authors**: James De Mille | **Year**: 1888
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In this Victorian science fiction adventure, four English gentlemen aboard a yacht discover a mysterious copper cylinder floating in the ocean. Inside they find a manuscript chronicling the incredible tale of Adam More, an Englishman who becomes shipwrecked in the Antarctic and discovers a lost civilization called the Kosekin. This strange society worships darkness, death, and poverty—considering these the greatest blessings while abhorring light, life, and wealth. Adam's journey through this inverted world exposes him to bizarre customs, dangerous rituals, and a shocking culture that values everything normal society rejects.

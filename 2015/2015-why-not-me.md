@@ -1,5 +1,5 @@
 # Why Not Me?
-**Author**: Mindy Kaling | **Year**: 2015
+**Author**: Mindy Kaling | **Year**: 2015 | **Category**: Self-Help & Personal Development
 
 ## Summary
 A hilarious and heartfelt collection of essays from Mindy Kaling at her most confident—transitioning from The Office writer to the star and creator of her own hit show. With her signature blend of self-deprecating humor and unapologetic ambition, Kaling shares behind-the-scenes stories about Hollywood glamour, dating disasters, career anxiety, and the revolutionary question that changed everything: "Why not me?"

@@ -1,6 +1,6 @@
 # Make Time: The Survival Guide for Women With Too Much to Do
 **Original Title**: Make Time: A survival guide for women with too much to do
-**Author**: Pamela Allardice | **Year**: 2004 
+**Author**: Pamela Allardice | **Year**: 2004 | **Category**: Self-Help & Personal Development 
 
 ## Summary
 Make Time is a practical time management guide specifically designed for women juggling multiple roles as wives, mothers, caregivers, professionals, and homemakers. Written from personal experience balancing family and business, Allardice presents simple, actionable strategies to help overwhelmed women reclaim control of their schedules and create more space for themselves.

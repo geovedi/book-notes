@@ -1,5 +1,5 @@
 # A Haunted History of Invisible Women
-**Authors**: Leanna Renee Hieber, Andrea Janes | **Year**: 2022
+**Authors**: Leanna Renee Hieber, Andrea Janes | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "A Haunted History of Invisible Women" uncovers how American ghost stories disproportionately feature women whose lives were marked by tragedy, injustice, and societal constraints. The book reveals that these "invisible women" - from accused witches to factory workers, from spinsters to sex workers - find voice and agency only through their ghostly afterlives. Through seven thematic sections, the authors examine how female specters reflect society's anxieties about women's power, independence, and rebellion.

@@ -1,5 +1,6 @@
 # Mechanical Drawing Self-Taught
 **Authors**: Joshua Rose, M.E. | **Year**: 1883
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive instructional guide enables beginners to master mechanical drawing without instructor guidance through practical examples that reflect real-world workshop scenarios. The book systematically progresses from basic instrument preparation through elementary drawing techniques to complex mechanical elements like screw threads, gear wheels, and complete engine systems. Rose's unique teaching method shows pencil lines in numbered sequences to demonstrate the precise order of construction, making it easy to follow and replicate drawings.

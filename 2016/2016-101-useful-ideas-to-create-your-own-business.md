@@ -1,5 +1,5 @@
 # 101 Useful Ideas to Create Your Own Business
-**Authors**: Cristina & Olivier Rebière | **Year**: 2016
+**Authors**: Cristina & Olivier Rebière | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide serves as a comprehensive roadmap for aspiring entrepreneurs, offering 101 actionable ideas to transform business dreams into reality. Written by experienced entrepreneurs who built three successful businesses from scratch, including Romania's first adventure park, this book distills real-world experience into bite-sized, implementable strategies. The authors emphasize that entrepreneurship is accessible to anyone with genuine desire and proper planning, regardless of their starting resources or background.

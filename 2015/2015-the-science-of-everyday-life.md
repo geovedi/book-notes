@@ -1,5 +1,6 @@
 # The Science of Everyday Life
 **Authors**: Marty Jopson | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "The Science of Everyday Life" reveals the fascinating scientific principles hidden in the mundane phenomena we encounter daily. From microwave ovens and toasters to coffee stains and wrinkly fingers, author Marty Jopson uncovers the remarkable science behind ordinary experiences. The book demonstrates that cutting-edge scientific understanding isn't confined to laboratories or outer space—it's right in front of us, in our kitchens, bathrooms, and backyards.

@@ -1,5 +1,5 @@
 # Neurotransmitter: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 "Neurotransmitter: A Tutorial Study Guide" is a comprehensive educational resource that demystifies the complex world of brain chemistry through a question-and-answer format. This tutorial systematically explores the major neurotransmitters that govern our thoughts, emotions, behaviors, and bodily functions. The book presents neurotransmitters as the brain's chemical "knobs" that turn specific physiological and psychological functions on or off, making abstract neurobiological concepts accessible to students.

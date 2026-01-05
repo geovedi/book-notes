@@ -1,5 +1,6 @@
 # Grimm's Fairy Tales
 **Authors**: Jacob Grimm, Wilhelm Grimm | **Year**: 1812-1857 (original collection)
+**Category**: Children & Young Adult
 
 ## Summary
 Grimm's Fairy Tales represents one of the most influential collections of European folklore ever compiled, featuring stories that have become foundational to Western storytelling and childhood imagination. Originally gathered by brothers Jacob and Wilhelm Grimm from German oral traditions, these tales have evolved from their darker medieval origins into the beloved stories we know today. The collection explores universal human experiences through magical realism, where characters confront moral choices, face supernatural challenges, and discover their true nature through trial and transformation.

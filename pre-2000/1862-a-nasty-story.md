@@ -1,5 +1,6 @@
 # A Nasty Story
 **Original Title**: Скверный анекдот (Skverny anekdot) | **Author**: Fyodor Dostoevsky | **Year**: 1862
+**Category**: Fiction & Literature
 
 ## Summary
 This sharp satire follows Ivan Ilyitch Pralinsky, a progressive-minded government official who, after delivering an impassioned speech about treating "inferiors" with humanity, drunkenly crashes the wedding of his subordinate clerk Porfiry Pseldonimov. What begins as a well-intentioned gesture to demonstrate his liberal values devolves into an escalating series of humiliations that expose the vast chasm between noble ideals and human reality.

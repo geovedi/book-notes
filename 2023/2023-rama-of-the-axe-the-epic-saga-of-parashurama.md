@@ -1,5 +1,6 @@
 # Rama of the Axe: The Epic Saga of Parashurama
 **Authors**: Ranjith Radhakrishnan | **Year**: 2023
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Rama of the Axe" is a mythological retelling of Parashurama, the sixth avatar of Vishnu, who wields the divine axe (Parashu) and is destined to exterminate corrupt warrior kings 21 times. The novel follows young Ramabhadra, the son of sage Jamadagni and Renuka, who discovers his warrior lineage despite being born into a Brahmin family. The story explores his transformation from a gentle scholar into a fierce warrior after being forced to behead his own mother as a test of dharma, his quest for vengeance against King Kartavirya Arjuna, and his eventual realization as an avatar destined to protect cosmic order.

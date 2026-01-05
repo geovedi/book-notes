@@ -1,6 +1,6 @@
 # Islamic Central Asia: An Anthology of Historical Sources
 **Original Title**: Islamic Central Asia
-**Authors**: Scott C. Levi and Ron Sela | **Year**: 2010
+**Authors**: Scott C. Levi and Ron Sela | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking anthology presents 1300 years of Central Asian history through 55 carefully selected primary sources, many translated into English for the first time. Spanning from the Arab conquests in the 7th century to Russian colonization in the 19th century, the book reveals Central Asia as a sophisticated crossroads of civilizations where diverse peoples, religions, and cultures converged along the Silk Road. The collection challenges stereotypes about Central Asian "illiteracy" by showcasing the region's rich textual traditions, from administrative documents and legal deeds to poetry, scientific treatises, and diplomatic correspondence.

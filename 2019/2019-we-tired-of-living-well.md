@@ -1,6 +1,7 @@
 # We Tired of Living Well
 **Original Title**: Nos cansamos de vivir bien. La otra cara del procés
 **Author**: Albert Soler | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 "We Tired of Living Well" is a biting satirical collection of newspaper articles by Catalan journalist Albert Soler, written between 2016 and 2019, that offers a scathing critique of Catalonia's independence movement. The title comes from a conversation between two elderly fishermen who concluded that Catalans, bored with their comfortable prosperous lives, created political chaos just to feel alive.

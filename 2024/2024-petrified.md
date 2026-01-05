@@ -1,5 +1,6 @@
 # Petrified
 **Authors**: Graham Masterton | **Year**: 2024
+**Category**: Horror & Thriller
 
 ## Summary
 A horrifying supernatural thriller that weaves together multiple stories of tragedy and terror. The novel follows Braydon Harris, a father who kidnaps his five-year-old daughter Sukie only to be involved in a catastrophic car accident that leaves her with devastating burns. Simultaneously, Professor Nathan Underhill and his team successfully recreate a mythical phoenix creature in their Philadelphia laboratory, unleashing an ancient and terrifying force upon the world. As Detective Jenna Pullet investigates what appears to be a supernatural murder involving a petrified gargoyle-like creature, these disparate plotlines begin to converge in a nightmarish tale of parental guilt, scientific hubris, and ancient evil made terrifyingly real.

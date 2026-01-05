@@ -1,5 +1,6 @@
 # The Mad Toy
 **Original Title**: El juguete rabioso | **Authors**: Roberto Arlt | **Year**: 1926
+**Category**: Fiction & Literature
 
 ## Summary
 "The Mad Toy" follows Silvio Drodman Astier, a restless and intelligent teenager navigating the streets of Buenos Aires in the 1920s. Born to immigrant parents and expelled from school at a young age, Silvio drifts between petty crimes, odd jobs, and philosophical musings about his place in the world. The novel captures his journey through the city's underbelly, from bookstore employment to burglary attempts, military service, and encounters with society's marginalized figures.

@@ -1,5 +1,6 @@
 # How Not to Fail at Projects
 **Authors**: Claude H. Maley | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 This satirical yet insightful guide exposes the "insanity spiral" that causes most projects to fail while offering practical solutions through seven "Sanity Checks." Maley, a veteran project manager with experience across 80+ countries and 110+ nationalities, uses humor and real-world anecdotes to reveal how organizations repeatedly make the same mistakes while expecting different results.

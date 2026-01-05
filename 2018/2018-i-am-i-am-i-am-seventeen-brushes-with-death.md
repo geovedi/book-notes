@@ -1,5 +1,6 @@
 # I Am, I Am, I Am: Seventeen Brushes with Death
 **Author**: Maggie O'Farrell | **Year**: 2018
+**Category**: History & Biography
 
 ## Summary
 Maggie O'Farrell's memoir is a haunting exploration of mortality structured around seventeen near-death experiences throughout her life, organized by the body parts involved. From a childhood encephalitis that left her with permanent neurological damage to a terrifying childbirth emergency and her daughter's life-threatening allergies, O'Farrell examines how close encounters with death reshape our relationship with life.

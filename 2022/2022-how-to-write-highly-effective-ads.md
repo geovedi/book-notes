@@ -1,5 +1,5 @@
 # How to Write Highly Effective Ads
-**Authors**: Unknown Author | **Year**: 2022
+**Authors**: Unknown Author | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 This concise guide demystifies the art of effective advertising copywriting by revealing that advertising is not creative expression or artistic endeavor—it's simply salesmanship multiplied. The book presents a tested framework of 10 fundamental principles that transform advertising from a guessing game into a predictable, measurable sales tool. Drawing from time-tested direct response marketing wisdom and proven psychological triggers, these techniques work across all media formats and business types.

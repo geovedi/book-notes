@@ -1,5 +1,5 @@
 # Hidden Figures
-**Author**: Margot Lee Shetterly | **Year**: 2016
+**Author**: Margot Lee Shetterly | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 Hidden Figures tells the remarkable true story of the African American female mathematicians who served as the "human computers" at NASA's Langley Research Center from the 1940s through the 1960s. These brilliant women—Dorothy Vaughan, Katherine Johnson, Mary Jackson, and their colleagues—were the mathematical brains behind America's greatest achievements in space, from John Glenn's orbital flight to the Apollo moon landing, all while navigating the harsh realities of segregation and gender discrimination in the Jim Crow South.

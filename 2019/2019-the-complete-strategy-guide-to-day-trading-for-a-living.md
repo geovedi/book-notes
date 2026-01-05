@@ -1,5 +1,6 @@
 # The Complete Strategy Guide to Day Trading for a Living in 2019
 **Authors**: Mark Vogel | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive beginner's guide demystifies day trading as a viable career path, moving beyond the outdated perception of trading as gambling. The book presents strategic approaches to various trading methods—stocks, options, forex, and swing trading—emphasizing that success comes from knowledge, discipline, and proper planning rather than luck. The author frames day trading as a diversified investment strategy that, when executed with the right systems and mindset, can provide substantial financial returns.

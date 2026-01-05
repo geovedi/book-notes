@@ -1,5 +1,5 @@
 # The Xenophobe's Guide to the Albanians
-**Authors**: Alan Andoni | **Year**: 2015
+**Authors**: Alan Andoni | **Year**: 2015 | **Category**: History & Biography
 
 ## Summary
 

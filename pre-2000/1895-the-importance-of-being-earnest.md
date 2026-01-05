@@ -1,5 +1,6 @@
 # The Importance of Being Earnest and Other Plays
 **Authors**: Oscar Wilde | **Year**: 1895
+**Category**: Fiction & Literature
 
 ## Summary
 Oscar Wilde's masterpiece is a brilliant comedy of manners that satirizes Victorian society's obsession with appearances, social conventions, and superficial values. The play follows two friends, Jack Worthing and Algernon Moncrieff, who create fictional alter egos named "Ernest" to escape their social obligations and pursue romantic interests. Their deception leads to a series of hilarious complications, mistaken identities, and witty observations about the absurdity of upper-class English society.

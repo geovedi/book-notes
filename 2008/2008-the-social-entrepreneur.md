@@ -1,5 +1,6 @@
 # The Social Entrepreneur
 **Authors**: Andrew Mawson | **Year**: 2008
+**Category**: Business & Finance
 
 ## Summary
 "The Social Entrepreneur" is Andrew Mawson's firsthand account of transforming one of London's most deprived areas through entrepreneurial thinking applied to social problems. Arriving in Bromley-by-Bow in 1984 as a young clergyman, Mawson discovered that traditional approaches to poverty alleviation weren't working. Over the next two decades, he pioneered the application of business principles to social issues, ultimately founding the renowned Bromley-by-Bow Centre.

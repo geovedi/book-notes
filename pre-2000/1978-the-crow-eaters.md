@@ -1,5 +1,6 @@
 # The Crow Eaters
 **Authors**: Bapsi Sidhwa | **Year**: 1978
+**Category**: Fiction & Literature
 
 ## Summary
 "The Crow Eaters" is a vibrant, comic novel that follows the adventures of Faredoon "Freddy" Junglewalla, a charismatic Parsi entrepreneur who moves his family from Central India to Lahore at the turn of the 20th century. The story captures the journey of Freddy, his wife Putli, their children, and his formidable mother-in-law Jerbanoo as they seek fortune in the bustling city of Lahore. Through Freddy's schemes, business dealings, and family dynamics, Sidhwa paints a rich portrait of Parsi community life in pre-Partition India, exploring themes of cultural identity, family bonds, and the immigrant experience with warmth and humor.

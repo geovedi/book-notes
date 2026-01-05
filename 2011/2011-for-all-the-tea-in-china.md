@@ -1,5 +1,5 @@
 # For All the Tea in China: How England Stole the World's Favorite Drink and Changed History
-**Authors**: Sarah Rose | **Year**: 2011
+**Authors**: Sarah Rose | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 In 1848, Scottish botanist Robert Fortune undertook one of history's most audacious acts of industrial espionage: stealing China's tea secrets for the British Empire. For centuries, China had held a complete monopoly on tea cultivation and processing, using it as leverage in a dangerous economic triangle where Britain sold opium from India to China in exchange for tea. When Britain feared China might start growing its own opium and break this economic dependency, they sent Fortune undercover to obtain tea plants, seeds, and manufacturing knowledge to establish tea plantations in India.

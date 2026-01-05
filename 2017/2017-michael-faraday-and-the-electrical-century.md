@@ -1,5 +1,6 @@
 # Michael Faraday and the Electrical Century
 **Author**: Iwan Morus | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Michael Faraday and the Electrical Century" explores the remarkable journey of Michael Faraday, a working-class bookbinder who rose to become one of England's greatest natural philosophers and the pivotal figure in the 19th-century electrical revolution. The book chronicles Faraday's transformation from humble apprentice to scientific pioneer, detailing his groundbreaking discoveries in electromagnetism and induction while situating his work within the broader social, cultural, and political context of Victorian Britain.

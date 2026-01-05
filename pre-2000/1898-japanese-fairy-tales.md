@@ -1,5 +1,6 @@
 # Japanese Fairy Tales
 **Authors**: Lafcadio Hearn | **Year**: 1898
+**Category**: Children & Young Adult
 
 ## Summary
 A captivating collection of five traditional Japanese fairy tales that transport readers to a world where the supernatural coexists with everyday life. These stories reveal the deep cultural beliefs of old Japan, where artistic talent becomes magical protection, household spirits enforce moral discipline, and supernatural beings test human courage and wit.

@@ -1,5 +1,5 @@
 # Reading Lolita in Tehran
-**Author**: Azar Nafisi | **Year**: 2003
+**Author**: Azar Nafisi | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 "Reading Lolita in Tehran" is a powerful memoir that chronicles the experiences of Azar Nafisi, a literature professor who returns to Iran after the 1979 Islamic Revolution and creates a secret literary salon for her female students. The book weaves together personal narrative, literary criticism, and political commentary to reveal how great works of Western literature became acts of resistance against totalitarian oppression. Through intimate discussions of novels by Nabokov, Fitzgerald, James, and Austen, Nafisi and her students carve out a space of intellectual and emotional freedom in a society that seeks to erase their individuality.

@@ -1,6 +1,7 @@
 # The Spirit of Astrology
 **Original Title**: Der Geist der Astrologie
-**Authors**: Oscar A. H. Schmitz | **Year**: 1936 
+**Authors**: Oscar A. H. Schmitz | **Year**: 1936
+**Category**: Spirituality & Religion 
 
 ## Summary
 "The Spirit of Astrology" is a profound philosophical work that elevates astrology from mere fortune-telling to a sophisticated system of psychological and spiritual understanding. Written during the rise of Nazi Germany, the book presents astrology as both an empirical science and a path to self-realization. Schmitz argues that astrology reveals the fundamental laws of human consciousness and cosmic harmony, offering a framework for understanding character, destiny, and spiritual evolution.

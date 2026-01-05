@@ -1,5 +1,5 @@
 # Final Jeopardy: Man vs. Machine and the Quest to Know Everything
-**Authors**: Stephen Baker | **Year**: 2011
+**Authors**: Stephen Baker | **Year**: 2011 | **Category**: Technology & Computing
 
 ## Summary
 Final Jeopardy chronicles IBM's audacious four-year quest to build Watson, a computer capable of defeating the world's best Jeopardy players. What began as a seemingly impossible challenge—teaching a machine to understand wordplay, puns, and complex linguistic clues—culminated in a historic 2011 match against champions Ken Jennings and Brad Rutter. This gripping behind-the-scenes account reveals not just the technical breakthroughs that made Watson possible, but also the profound questions it raises about human intelligence, the nature of knowledge, and our future relationship with increasingly intelligent machines.

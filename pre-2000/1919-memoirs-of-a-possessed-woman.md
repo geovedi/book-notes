@@ -1,6 +1,7 @@
 # Memoirs of a Possessed Woman
 **Original Title**: Memoiren einer Besessenen
-**Authors**: Hanns Heinz Ewers (editor), Soeur Jeanne (primary source) | **Year**: 1919 
+**Authors**: Hanns Heinz Ewers (editor), Soeur Jeanne (primary source) | **Year**: 1919
+**Category**: History & Biography 
 
 ## Summary
 "Memoirs of a Possessed Woman" is a compelling historical work that documents the notorious Loudun possessions of the 1630s, when a convent of Ursuline nuns in France claimed to be possessed by demons. The book combines scholarly analysis by Hanns Heinz Ewers with the authentic memoirs of Sister Jeanne des Anges, the Mother Superior whose alleged possession led to the execution of a local priest and sparked one of history's most famous cases of mass hysteria and religious fanaticism.

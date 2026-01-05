@@ -1,5 +1,6 @@
 # Work Smart Now
 **Author**: Richard Polak | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "Work Smart Now" introduces a revolutionary approach to workplace productivity through the concept of "compassionate productivity"—the idea that treating employees as human beings with their own struggles and motivations leads to better business results. Polak argues that traditional fear-based management actually hurts productivity, while creating an environment of trust and compassion drives innovation and engagement.

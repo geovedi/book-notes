@@ -1,5 +1,5 @@
 # Holy Sh_t: A Brief History of Swearing
-**Author**: Melissa Mohr | **Year**: 2013
+**Author**: Melissa Mohr | **Year**: 2013 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This fascinating exploration traces 2,000 years of swearing in English, revealing how "bad words" have always reflected society's deepest taboos and cultural values. Mohr argues that swearing has historically swung between two poles: the "Holy" (religious oaths and blasphemy) and the "Shit" (sexual and excremental obscenities). What makes this book compelling is how it uses profanity as a lens to examine history, showing that people swear about what truly matters to them. The book demonstrates that swearing performs essential linguistic functions—providing catharsis, expressing extreme emotion, building social bonds, and revealing cultural anxieties—that no other words can accomplish.

@@ -1,6 +1,7 @@
 # How to Learn Microsoft Office Outlook Quickly!
 
 **Authors**: Andrei Besedin | **Year**: 2018
+**Category**: Technology & Computing
 
 ## Summary
 

@@ -1,6 +1,7 @@
 # What is Enlightenment?
 **Original Title**: Beantwortung der Frage: Was ist Aufklärung?
 **Author**: Immanuel Kant | **Year**: 1784
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Kant's seminal essay defines enlightenment as humanity's emergence from self-imposed immaturity—the inability to use one's understanding without guidance from others. This philosophical manifesto argues that true enlightenment requires courage to think independently and challenges the intellectual laziness that keeps people in mental bondage.

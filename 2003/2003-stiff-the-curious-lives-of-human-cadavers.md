@@ -1,5 +1,5 @@
 # Stiff: The Curious Lives of Human Cadavers
-**Author**: Mary Roach | **Year**: 2003
+**Author**: Mary Roach | **Year**: 2003 | **Category**: Science & Nature
 
 ## Summary
 "Stiff" explores what happens to human bodies after death, revealing how cadavers have silently contributed to scientific advancement for over 2,000 years. From surgical practice to crash test safety, from organ transplantation to forensic research, the dead continue to serve the living in ways most people never consider.

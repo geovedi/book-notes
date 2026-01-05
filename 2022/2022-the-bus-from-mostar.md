@@ -1,6 +1,6 @@
 # The Bus from Mostar
 **Original Title**: De bus uit Mostar
-**Authors**: GerBen van 't Hek, Rens Lieman | **Year**: 2022 
+**Authors**: GerBen van 't Hek, Rens Lieman | **Year**: 2022 | **Category**: History & Biography 
 
 ## Summary
 In May 1992, as war erupts in the former Yugoslavia, 26 young female handball players from Mostar, Bosnia-Herzegovina, flee their city on a desperate bus journey organized by their coach. Ranging from 12 to 22 years old, these athletes—representing Bosnia's diverse ethnic groups of Croats, Bosniaks, and Serbs—escape to the Netherlands expecting a brief stay. Instead, they become refugees for years, some never returning home. Based on extensive interviews with the players, their families, and Dutch host families, this powerful narrative reveals how sport transcended ethnic divisions and became a lifeline of normalcy amidst chaos.

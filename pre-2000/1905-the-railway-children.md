@@ -1,6 +1,7 @@
 # The Railway Children
 **Original Title**: The Railway Children
 **Authors**: E. Nesbit | **Year**: 1905
+**Category**: Children & Young Adult
 
 ## Summary
 "The Railway Children" follows the adventures of three siblings—Roberta (Bobbie), Peter, and Phyllis—who are forced to move from their comfortable London home to a modest cottage in the Yorkshire countryside when their Father is mysteriously taken away. The children quickly become fascinated with the nearby railway line and make friends with the station staff and passengers. Through a series of adventures including preventing a train disaster, helping a Russian refugee, and uncovering the truth about their Father's innocence, the children demonstrate courage, kindness, and perseverance.

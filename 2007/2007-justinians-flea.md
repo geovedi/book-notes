@@ -1,5 +1,6 @@
 # Justinian's Flea
 **Author**: William Rosen | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 "Justinian's Flea" reveals how the first great pandemic in history—the bubonic plague of 542 CE—fundamentally altered the trajectory of Western civilization. The book weaves together the story of Emperor Justinian's ambitious campaign to restore the Roman Empire with the biological evolution of Yersinia pestis, demonstrating how their collision at history's crucial moment transformed the Mediterranean world of late antiquity into medieval Europe.

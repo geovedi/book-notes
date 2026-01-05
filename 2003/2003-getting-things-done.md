@@ -1,5 +1,5 @@
 # Getting Things Done
-**Authors**: David Allen | **Year**: 2003
+**Authors**: David Allen | **Year**: 2003 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Getting Things Done (GTD) is a revolutionary productivity methodology that helps you capture, organize, and execute all your commitments with minimal stress. The core premise is simple: your brain is for having ideas, not holding them. By externalizing everything into a trusted system, you free your mind to focus on the present moment while ensuring nothing falls through the cracks.

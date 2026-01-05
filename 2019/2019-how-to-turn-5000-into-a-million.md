@@ -1,5 +1,6 @@
 # How to Turn 5000 into a Million
 **Authors**: Heikin Ashi Trader | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This controversial trading book challenges conventional wisdom about building wealth through financial markets. Rather than promoting traditional conservative investing, it advocates for an aggressive approach to speculation that uses leverage and market volatility to achieve extraordinary returns. The author draws from personal experience, including a successful silver trade during the 2008 financial crisis that generated six-figure profits, and from the legendary trader Jesse Livermore's methods. The book presents a radical strategy designed for traders with small starting capital who want to achieve substantial wealth by using "the market's money" rather than their own funds.

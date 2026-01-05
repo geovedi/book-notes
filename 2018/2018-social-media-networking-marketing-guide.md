@@ -1,5 +1,5 @@
 # Social Media Marketing: How to Use Network Advertising on Facebook, Twitter, Instagram, Pinterest, LinkedIn, YouTube, and More
-**Author**: Madison Hall | **Year**: 2018
+**Author**: Madison Hall | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies social media marketing for business owners and marketers looking to leverage multiple platforms for growth. The book provides comprehensive strategies for using major social networks including Facebook, Twitter, Instagram, Pinterest, LinkedIn, Google+, and YouTube as effective marketing tools. It covers everything from foundational strategy development to platform-specific tactics, content creation, and engagement methods that drive results.

@@ -1,5 +1,5 @@
 # 2019 Common Medicinal Plants
-**Authors**: Harshita Joshi | **Year**: 2013
+**Authors**: Harshita Joshi | **Year**: 2013 | **Category**: Health & Medicine
 
 ## Summary
 "Common Medicinal Plants: Uses and Cultivation Practices" is a practical guide that demystifies the world of herbal medicine by focusing on plants that can be easily grown in home gardens or cultivated commercially. The book bridges traditional wisdom with modern cultivation techniques, making medicinal gardening accessible to everyone from casual home gardeners to commercial growers. It emphasizes that medicinal plants offer natural healing without side effects while providing the dual benefits of ornamental beauty and therapeutic value.

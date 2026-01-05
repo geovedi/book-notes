@@ -1,5 +1,5 @@
 # Sell Your Crafts & Passions: 2-in-1 Bundle
-**Original Title**: Sell Your Crafts Passions 2-in-1 Bundle: How to Make Money with Etsy & Shopify | **Authors**: Madison Booker, Evan Jones | **Year**: 2018
+**Original Title**: Sell Your Crafts Passions 2-in-1 Bundle: How to Make Money with Etsy & Shopify | **Authors**: Madison Booker, Evan Jones | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive bundle is your roadmap to transforming creative passions into profitable online businesses. The first half guides crafters through building successful Etsy shops, covering everything from product selection and pricing to shipping strategies and customer service. The second half demystifies Shopify, providing step-by-step instructions for launching scalable e-commerce stores with proper legal planning, product sourcing, and marketing strategies.

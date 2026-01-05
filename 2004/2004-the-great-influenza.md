@@ -1,5 +1,5 @@
 # The Great Influenza
-**Author**: John M. Barry | **Year**: 2004
+**Author**: John M. Barry | **Year**: 2004 | **Category**: Health & Medicine
 
 ## Summary
 "The Great Influenza" tells the gripping story of the 1918 flu pandemic, the deadliest plague in human history that killed between 50-100 million people worldwide. The book weaves together two powerful narratives: the terrifying explosion of a virus that killed more people in 24 weeks than AIDS killed in 24 years, and the simultaneous birth of modern scientific medicine in America. At its heart are the courageous scientists and doctors who raced to understand and combat the disease while society collapsed around them, creating the first great collision between nature's fury and modern science.

@@ -1,6 +1,6 @@
-# 1977-The-Path-Between-The-Seas.md
-
+# The Path Between the Seas
 **Authors**: David McCullough | **Year**: 1977
+**Category**: History & Biography
 
 ## Summary
 

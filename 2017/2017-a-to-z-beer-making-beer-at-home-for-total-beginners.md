@@ -1,5 +1,6 @@
 # A-to-Z Beer Making: Beer at Home for Total Beginners
 **Authors**: Lisa Bond | **Year**: 2017
+**Category**: Art & Creativity
 
 ## Summary
 This comprehensive beginner's guide demystifies homebrewing by breaking down the beer-making process into manageable steps. Lisa Bond draws from her experience transitioning from accounting to writing about practical hobbies to create an accessible introduction to crafting beer at home. The book covers two primary approaches: a simplified malt extract method for beginners and a traditional grain-based method for those ready to advance.

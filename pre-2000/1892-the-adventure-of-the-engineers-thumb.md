@@ -1,5 +1,6 @@
 # The Adventure of the Engineer's Thumb
 **Authors**: Arthur Conan Doyle | **Year**: 1892
+**Category**: Horror & Thriller
 
 ## Summary
 

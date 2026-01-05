@@ -1,5 +1,6 @@
 # How To Analyze People Reading Body Language
 **Authors**: Eric Holt | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 This comprehensive guide teaches readers how to decode human behavior through body language analysis and dark psychology techniques. The book presents methods for reading people's true intentions, detecting deception, and protecting oneself from manipulation while emphasizing ethical use of these powerful skills.

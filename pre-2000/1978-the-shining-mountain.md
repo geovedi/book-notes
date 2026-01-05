@@ -1,5 +1,6 @@
 # The Shining Mountain
 **Authors**: Peter Boardman | **Year**: 1978
+**Category**: History & Biography
 
 ## Summary
 "The Shining Mountain" chronicles the harrowing first ascent of the West Wall of Changabang in the Indian Himalaya, one of the most technically challenging climbs of its era. Peter Boardman and Joe Tasker attempt this formidable 2,000-foot granite wall in alpine style—just two climbers against a vast, uncharted face. Their journey becomes not just a physical battle against vertical ice, overhanging rock, and extreme altitude, but a psychological test of partnership, trust, and human endurance. The expedition forces both men to confront their limits while developing one of mountaineering's most iconic climbing partnerships.

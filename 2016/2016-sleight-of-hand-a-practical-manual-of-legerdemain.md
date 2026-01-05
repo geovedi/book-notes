@@ -1,6 +1,6 @@
 # Sleight of Hand: A Practical Manual of Legerdemain
 **Original Title**: Sleight of Hand: A Practical Manual of Legerdemain for Amateurs & Others
-**Authors**: Edwin Sachs | **Year**: 2016 (Original 1885)
+**Authors**: Edwin Sachs | **Year**: 2016 (Original 1885) | **Category**: Art & Creativity
 
 ## Summary
 "Sleight of Hand" is a comprehensive guide to the art of magic and legerdemain, written by Edwin Sachs in 1885. This classic manual teaches both the technical skills and performance philosophy behind close-up magic, from basic coin manipulation to elaborate stage illusions. The book bridges the gap between amateur drawing-room entertainment and professional stage performance, emphasizing that true magic lies not in secret gadgets but in masterful manual dexterity, psychological misdirection, and confident presentation. The author stresses that successful conjuring requires relentless private practice, attention to detail, and an understanding of audience psychology.

@@ -1,5 +1,6 @@
 # I'll Be Gone In The Dark
 **Authors**: Michelle McNamara | **Year**: 2018
+**Category**: History & Biography
 
 ## Summary
 "I'll Be Gone In The Dark" is a masterful true crime account that chronicles one woman's obsessive hunt for the Golden State Killer, a mysterious serial predator who terrorized California in the 1970s and 1980s. Michelle McNamara, a talented journalist and amateur detective, weaves together meticulous research with compelling storytelling to document the reign of a criminal who committed at least 50 sexual assaults and 10 murders across multiple California jurisdictions. The book is both a chilling investigation and a deeply personal memoir of McNamara's journey into the darkness of criminal investigation.

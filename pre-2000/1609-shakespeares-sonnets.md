@@ -1,6 +1,7 @@
 # Shakespeare's Sonnets - The Complete Collection
 **Original Title**: The Sonnets
 **Authors**: William Shakespeare | **Year**: 1609
+**Category**: Fiction & Literature
 
 ## Summary
 Shakespeare's 154 sonnets represent one of the greatest collections of love poetry in English literature. This collection explores timeless themes of love, beauty, mortality, and the passage of time through exquisite verse that has captivated readers for over 400 years. The sonnets are divided into three main sections: the first 126 address a young nobleman (the "Fair Youth"), urging him to marry and preserve his beauty through children; sonnets 127-152 address a mysterious "Dark Lady"; and the final two are allegorical works.

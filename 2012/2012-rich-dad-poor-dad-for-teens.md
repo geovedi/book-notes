@@ -1,5 +1,6 @@
 # Rich Dad Poor Dad for Teens
 **Author**: Robert T. Kiyosaki | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "Rich Dad Poor Dad for Teens" adapts Kiyosaki's classic financial wisdom specifically for teenagers, challenging the traditional "study hard, get good grades, find a safe job" mindset that parents often teach. The book argues that this outdated advice prepares teens for a world that no longer exists, where job security is diminishing and financial literacy is more crucial than ever.

@@ -1,5 +1,5 @@
 # Spark Joy
-**Author**: Marie Kondo | **Year**: 2016
+**Author**: Marie Kondo | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Spark Joy" is an illustrated master class that expands on Marie Kondo's revolutionary KonMari Method of tidying. The book presents a comprehensive approach to organizing that goes beyond simple decluttering, teaching readers how to create homes filled with items that truly spark joy. Kondo's philosophy is rooted in the idea that tidying is a transformative act of self-discovery - when we confront our possessions, we confront ourselves and our values. The method promises permanent results: once you complete the KonMari process, you'll never relapse into clutter again.

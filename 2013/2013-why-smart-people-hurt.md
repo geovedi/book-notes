@@ -1,5 +1,5 @@
 # Why Smart People Hurt
-**Author**: Eric Maisel | **Year**: 2013
+**Author**: Eric Maisel | **Year**: 2013 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Why Smart People Hurt" is a groundbreaking exploration of the unique challenges faced by intelligent, creative, and sensitive individuals. Dr. Eric Maisel argues that smart people experience specific psychological pain points that often go unrecognized in our culture, including chronic anxiety, meaning crises, racing brains, and the struggle to find intellectually satisfying work. The book introduces "natural psychology" - a framework for understanding meaning as a subjective psychological experience that can be consciously created rather than discovered. Maisel explains why intelligent people are particularly vulnerable to addiction, mania, depression, and existential distress, often stemming from their heightened awareness and inability to find sufficient mental stimulation.

@@ -1,5 +1,6 @@
 # Snow White and Rose-red
 **Authors**: Jacob Ludwig Karl Grimm | **Year**: 1812
+**Category**: Children & Young Adult
 
 ## Summary
 Two virtuous sisters, Snow-white and Rose-red, live with their mother in a cozy cottage at the edge of the forest. Snow-white is gentle and domestic, while Rose-red is adventurous and outgoing. Despite their different personalities, the sisters share an unbreakable bond and always help others in need, even those who don't deserve their kindness.

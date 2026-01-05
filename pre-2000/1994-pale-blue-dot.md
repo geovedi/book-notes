@@ -1,5 +1,6 @@
 # Pale Blue Dot: A Vision of the Human Future in Space
 **Author**: Carl Sagan | **Year**: 1994
+**Category**: Science & Nature
 
 ## Summary
 "Pale Blue Dot" is Carl Sagan's profound meditation on humanity's place in the cosmos, inspired by the iconic Voyager 1 photograph showing Earth as a tiny speck in the vastness of space. Sagan weaves together the history of human discovery, the wonders of space exploration, and philosophical reflections on our cosmic significance to argue for space exploration as both a scientific necessity and a spiritual imperative.

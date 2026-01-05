@@ -1,5 +1,5 @@
 # The Creative Aspect of Country Branding: How Music Influences Country Image in Hungary
-**Authors**: Kinga Jentetics | **Year**: 2013
+**Authors**: Kinga Jentetics | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This groundbreaking research explores how music serves as a powerful tool for country branding, using Hungary as a primary case study. The book demonstrates that music is not just entertainment but a strategic asset that can significantly influence a nation's international image through emotional connections, cultural diplomacy, and innovative platforms. The author combines theoretical frameworks from creative class theory, place branding, and cultural diplomacy to create a comprehensive model for understanding music's impact on national reputation.

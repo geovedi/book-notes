@@ -1,5 +1,6 @@
 # The Lost City of Z
 **Author**: David Grann | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 In 1925, British explorer Colonel Percy Fawcett ventured into the Amazon with his son Jack and friend Raleigh Rimell in search of an ancient civilization he called "Z"—a sophisticated city with monumental architecture hidden in the world's largest jungle. They never returned. Fawcett's disappearance sparked what became known as "the greatest exploration mystery of the twentieth century," captivating the world and launching dozens of rescue missions that resulted in more disappearances and deaths.

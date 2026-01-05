@@ -1,5 +1,6 @@
 # The Gadfly
 **Authors**: Ethel Lilian Voynich | **Year**: 1897
+**Category**: Fiction & Literature
 
 ## Summary
 The Gadfly is a revolutionary romance set in 19th-century Italy, following Arthur Burton, a young English-Italian seminary student who becomes embroiled in the Italian independence movement. After being betrayed by his beloved Gemma and his mentor Father Montanelli (who is secretly his biological father), Arthur fakes his death and transforms himself into "The Gadfly" - a cynical, satirical writer and revolutionary with physical disabilities. Thirteen years later, he returns to Italy as a formidable political agitator, only to face capture, trial, and execution by the authorities he fought against.

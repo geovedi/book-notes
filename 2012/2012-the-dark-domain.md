@@ -1,5 +1,6 @@
 # The Dark Domain
 **Authors**: Stefan Grabinski | **Year**: 2012 (translation), Original works: 1918-1922
+**Category**: Horror & Thriller
 
 ## Summary
 "The Dark Domain" introduces English-speaking readers to Stefan Grabinski, Poland's master of supernatural fiction who devoted himself singularly to exploring the mysterious forces that lurk beneath reality's surface. This collection of weird tales combines psychological horror with philosophical depth, featuring stories where trains become vessels for demonic forces, time itself can be murdered, and thoughts materialize into flesh.

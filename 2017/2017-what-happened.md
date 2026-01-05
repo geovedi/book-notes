@@ -1,5 +1,6 @@
 # What Happened
 **Author**: Hillary Rodham Clinton | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 "What Happened" is Hillary Clinton's personal account of her 2016 presidential campaign loss to Donald Trump. Written in the aftermath of a shocking defeat, this memoir combines candid self-reflection with sharp analysis of the external forces that shaped the election's outcome. Clinton examines both her own campaign decisions and the unprecedented interference from Russian hackers, FBI Director James Comey's late-breaking interventions, and systemic sexism in American politics.

@@ -1,5 +1,6 @@
 # A Room of One's Own
 **Author**: Virginia Woolf | **Year**: 1929
+**Category**: Fiction & Literature
 
 ## Summary
 Virginia Woolf's seminal feminist essay examines the relationship between women and fiction, arguing that creative freedom requires both financial independence and private space. Through extended metaphors and historical analysis, Woolf demonstrates how material conditions have systematically excluded women from literary achievement. The famous thesis that "a woman must have money and a room of her own if she is to write fiction" emerges from a brilliant exploration of institutional barriers, gender prejudice, and the psychological impact of oppression on creative expression.

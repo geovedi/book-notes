@@ -1,5 +1,5 @@
 # Courtesans: Money, Sex and Fame in the Nineteenth Century
-**Author**: Katie Hickman | **Year**: 2004
+**Author**: Katie Hickman | **Year**: 2004 | **Category**: History & Biography
 
 ## Summary
 Katie Hickman's "Courtesans" illuminates the fascinating and often misunderstood world of five remarkable women—Sophia Baddeley, Elizabeth Armistead, Harriette Wilson, Cora Pearl, and Catherine Walters—who dominated London's demi-monde during the nineteenth century. These women were far more than high-class prostitutes; they were cultured, wealthy, and astonishingly independent females who carved out unprecedented autonomy in an era that offered women virtually no legitimate paths to power or financial independence.

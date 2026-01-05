@@ -1,5 +1,6 @@
 # Think Like a Street Photographer
 **Authors**: Matt Stuart | **Year**: 2021
+**Category**: Art & Creativity
 
 ## Summary
 "Think Like a Street Photographer" is a practical guide that demystifies the art of street photography through the lens of acclaimed photographer Matt Stuart. The book reveals that what appears to be supernatural luck in street photography is actually the result of relentless practice, positive mindset, and strategic approaches. Stuart breaks down the craft into 20 accessible principles, from maintaining a positive mental attitude to developing your own visual language and ethical approach.

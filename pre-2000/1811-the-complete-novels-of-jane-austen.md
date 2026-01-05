@@ -1,5 +1,6 @@
 # The Complete Novels of Jane Austen
 **Authors**: Jane Austen | **Year**: 1811-1818 (Collection Published: 2018)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together all six of Jane Austen's completed major novels, spanning her entire literary career from 1811 to 1818. Through these works, Austen pioneered the modern novel with her sharp social commentary, keen psychological insight, and masterful blend of romance and realism. Each novel explores the precarious position of women in Regency England, where marriage wasn't just romantic but economic survival, and social reputation could make or break a life. Austen's heroines navigate complex social hierarchies with wit, intelligence, and moral courage, challenging readers to look beyond surface appearances to question the true nature of virtue, love, and social standing.

@@ -1,5 +1,6 @@
 # Dreams of Sorrow
 **Authors**: Shauna Lawless | **Year**: 2024
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Dreams of Sorrow" is a dark fantasy novella set in 10th century Ireland that weaves together Celtic mythology, magic, and political intrigue. The story follows two main characters: Tomas, an ambitious druid who feels constrained by his father's conservative leadership, and Senna, a young mortal woman who discovers she has inherited powerful witch magic that she cannot control. When Senna's magic manifests violently at a village festival, she is taken in by the druid community, where she becomes entangled in Tomas's dangerous schemes to seize power and fulfill an ancient prophecy about saving their people from extinction.

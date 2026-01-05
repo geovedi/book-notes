@@ -1,5 +1,6 @@
 # The Anti-Slavery Examiner
 **Authors**: American Anti-Slavery Society | **Year**: 1836
+**Category**: History & Biography
 
 ## Summary
 The Anti-Slavery Examiner is a collection of powerful abolitionist pamphlets that formed the intellectual and moral foundation of the American anti-slavery movement. Published in 1836, this groundbreaking work combines constitutional analysis, biblical interpretation, and passionate appeals to human conscience to expose slavery as a profound violation of both divine and natural law. The pamphlets systematically dismantle pro-slavery arguments while exposing how slavery corrupts not only the enslaved but the slaveholders themselves, undermining the very foundations of American democracy and Christian morality.

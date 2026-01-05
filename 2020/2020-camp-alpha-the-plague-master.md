@@ -1,7 +1,7 @@
 # Camp Alpha - The Plague Master
 **Original Title**: Kamp Alpha - de pest meester
 **Author**: Suzanna Esther | **Year**: 2020
-**Language**: Dutch → English Summary
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In a near-future Netherlands paralyzed by fear of a mysterious disease outbreak, the government declares that all pets are potential carriers and must be surrendered. What begins as a public health measure quickly evolves into something far more sinister when people who comply with the pet surrender program begin disappearing. The story follows multiple characters navigating this dystopian landscape: Warner Rosenboom, a laboratory technician who discovers the truth about the "plague"; Li and Arjen, two fugitives who escape from a mysterious detention camp; and Maan, a young girl who becomes caught in the web of deception.

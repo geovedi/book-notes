@@ -1,5 +1,6 @@
 # The Science of Self-Learning
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Science of Self-Learning" is a practical guide that transforms how you approach acquiring new skills and knowledge on your own terms. The book addresses a fundamental challenge in the modern era: while information is more accessible than ever, most people lack the structured methods to effectively teach themselves complex subjects without institutional guidance.

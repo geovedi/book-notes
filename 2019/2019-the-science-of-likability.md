@@ -1,5 +1,6 @@
 # The Science of Likability
 **Authors**: Patrick King | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Science of Likability" presents 60 evidence-based methods for becoming more charismatic, making powerful impressions, and building meaningful relationships. Drawing from psychological research and behavioral studies, the book demystifies likability as a skill that can be learned rather than an innate trait. King breaks down complex social dynamics into actionable techniques backed by scientific research, showing how small behavioral adjustments can dramatically improve how others perceive and respond to you.

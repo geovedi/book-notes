@@ -1,5 +1,6 @@
 # The 1-Page Budgeting Plan
 **Authors**: Zoe McKey | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 "The 1-Page Budgeting Plan" presents a straightforward approach to financial freedom through simplified budgeting, goal setting, and smart money management. The book transforms complex personal finance concepts into an accessible, single-page system that anyone can implement. McKey argues that financial success comes not from making more money, but from learning to manage what you already have effectively.

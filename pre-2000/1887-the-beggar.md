@@ -1,5 +1,6 @@
 # The Beggar
 **Original Title**: Нищий (Nishchiy) | **Author**: Anton Chekhov | **Year**: 1887
+**Category**: Fiction & Literature
 
 ## Summary
 "The Beggar" tells the story of Skvortsov, a St. Petersburg lawyer who encounters a beggar claiming to be a former village schoolmaster fallen on hard times. When Skvortsov recognizes the man from a previous encounter where he claimed to be an expelled student, he angrily confronts him about his dishonesty. Instead of giving money, Skvortsov offers the beggar work chopping wood. What begins as a lesson in honesty unexpectedly transforms into a journey of redemption, revealing that true compassion often comes from surprising sources.

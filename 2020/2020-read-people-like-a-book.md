@@ -1,5 +1,6 @@
 # Read People Like a Book: How to Analyze, Understand, and Predict People's Emotions, Thoughts, Intentions, and Behaviors
 **Authors**: Patrick King | **Year**: 2020
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Read People Like a Book" is a practical guide that demystifies the art of human analysis, transforming what seems like a mysterious superpower into learnable skills. The book argues that reading people accurately isn't about psychic abilities but about systematic observation, understanding psychological frameworks, and interpreting the wealth of non-verbal information people constantly broadcast. King presents a comprehensive toolkit spanning motivation analysis, body language reading, personality assessment, lie detection, and observational techniques that readers can apply immediately in personal and professional contexts.

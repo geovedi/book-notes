@@ -1,5 +1,6 @@
 # Trick or Treat: A History of Halloween
 **Authors**: Lisa Morton | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 "Trick or Treat: A History of Halloween" is a comprehensive exploration of how Halloween evolved from ancient Celtic festivals into the global celebration we know today. Lisa Morton traces the holiday's journey through millennia, revealing surprising connections between pagan rituals, Christian traditions, and modern commercial practices. The book uncovers how this "misunderstood festival" transformed from a serious religious observance to the playful, candy-focused celebration of contemporary times.

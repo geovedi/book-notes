@@ -1,5 +1,5 @@
 # Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos
-**Authors**: Michio Kaku | **Year**: 2006
+**Authors**: Michio Kaku | **Year**: 2006 | **Category**: Science & Nature
 
 ## Summary
 Parallel Worlds represents a revolutionary synthesis of modern cosmology that transforms our understanding of reality itself. Michio Kaku takes readers on an extraordinary journey through the cutting-edge theories of physics, from the Big Bang and inflation to string theory and M-theory, revealing how our universe may be just one bubble in an infinite cosmic ocean of parallel universes.

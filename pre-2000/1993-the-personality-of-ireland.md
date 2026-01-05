@@ -1,5 +1,6 @@
 # The Personality of Ireland
 **Authors**: E. Estyn Evans | **Year**: 1993
+**Category**: History & Biography
 
 ## Summary
 E. Estyn Evans presents Ireland as a cultural palimpsest where eight millennia of human habitation have created distinctive regional personalities through the dynamic interplay of habitat, heritage, and history. This interdisciplinary masterpiece challenges nationalist myths of Irish uniformity, revealing how Ireland's fragmented geography, Atlantic position, and successive waves of cultural contact forged a nation characterized by diversity rather than unity.

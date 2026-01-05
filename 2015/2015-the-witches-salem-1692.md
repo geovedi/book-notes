@@ -1,5 +1,6 @@
 # The Witches: Salem, 1692
 **Authors**: Stacy Schiff | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 Stacy Schiff's meticulously researched historical narrative reconstructs the terrifying nine-month period in 1692 when the Massachusetts Bay Colony descended into witch hunt hysteria. The book reveals how a community's fears, religious fervor, and social tensions converged to produce one of America's most enduring cautionary tales. More than just a chronicle of accusations and executions, Schiff exposes the complex web of personal vendettas, political instability, frontier warfare trauma, and psychological contagion that transformed spectral evidence into capital crimes.

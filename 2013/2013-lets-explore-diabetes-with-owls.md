@@ -1,5 +1,5 @@
 # Let's Explore Diabetes With Owls
-**Author**: David Sedaris | **Year**: 2013
+**Author**: David Sedaris | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 David Sedaris delivers another masterful collection of observational essays that transform mundane life experiences into razor-sharp social commentary. Through his distinctive lens as an American expatriate living in France, Sedaris dissects cultural differences, family dynamics, and the absurdities of modern life with his signature blend of self-deprecating humor and surgical precision.

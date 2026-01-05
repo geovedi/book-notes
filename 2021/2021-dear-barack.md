@@ -1,5 +1,6 @@
 # Dear Barack
 **Author**: Claudia Clark | **Year**: 2021
+**Category**: History & Biography
 
 ## Summary
 "Dear Barack" chronicles the remarkable transformation of a relationship that began with professional distance and evolved into one of the most significant partnerships in modern diplomatic history. The book traces how Obama, the first Black U.S. president, and Merkel, the first female chancellor of unified Germany and former East German citizen, moved beyond initial skepticism to forge a deep alliance based on mutual respect, shared values, and complementary leadership styles.

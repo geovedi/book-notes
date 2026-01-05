@@ -1,5 +1,5 @@
 # None of My Business
-**Authors**: P.J. O'Rourke | **Year**: 2018
+**Authors**: P.J. O'Rourke | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 P.J. O'Rourke's "None of My Business" is a humorous and insightful exploration of economics from the perspective of a political satirist who discovered economic principles while covering wars and global conflicts. The book presents O'Rourke's journey from cynical foreign correspondent to amateur economist, using his experiences in war zones like Lebanon, Albania, and Somalia to illustrate fundamental economic truths about human behavior, markets, and the eternal pursuit of wealth.

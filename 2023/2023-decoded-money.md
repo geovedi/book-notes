@@ -1,5 +1,6 @@
 # Decoded Money
 **Authors**: Brijesh Parikh & Planetwealth | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "Decoded Money" is a practical personal finance guide that breaks down wealth creation into five fundamental principles. Written by a SEBI-registered investment advisor with over two decades of experience, this book serves as a comprehensive roadmap for individuals looking to achieve financial freedom through systematic money management. The author, Brijesh Parikh, draws from his experience helping hundreds of families manage their finances and his mission to help 100,000 families live financially worry-free lives.

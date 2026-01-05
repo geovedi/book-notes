@@ -1,5 +1,6 @@
 # A Proposed Treatment Connection for Borderline Personality Disorder (BPD)
 **Authors**: Ashley Doyle LISW-CP | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 This groundbreaking academic paper proposes a novel therapeutic approach for individuals diagnosed with both Borderline Personality Disorder (BPD) and Posttraumatic Stress Disorder (PTSD) by combining two previously separate treatment modalities: Dialectical Behavior Therapy (DBT) and Traumatic Incident Reduction (TIR).

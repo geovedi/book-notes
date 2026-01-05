@@ -1,5 +1,5 @@
 # The Sixth Extinction: An Unnatural History
-**Author**: Elizabeth Kolbert | **Year**: 2014
+**Author**: Elizabeth Kolbert | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "The Sixth Extinction" is a groundbreaking exploration of humanity's role in causing what scientists are calling the Sixth Mass Extinction event in Earth's history. Through a compelling blend of scientific reporting, historical analysis, and field research, Kolbert investigates how human activities are triggering a biodiversity crisis comparable to the five major extinction events that wiped out 75% or more of species in the distant past.

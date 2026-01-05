@@ -1,5 +1,6 @@
 # How to Get Into Fashion
 **Authors**: Eunice Olumide | **Year**: 2018
+**Category**: Art & Creativity
 
 ## Summary
 This comprehensive guide demystifies the fashion industry and provides a clear roadmap for aspiring models and fashion professionals. Written by Eunice Olumide, a supermodel who worked with Alexander McQueen, Mulberry, and other top brands, the book offers insider knowledge on breaking into fashion while emphasizing the importance of self-belief and authenticity.

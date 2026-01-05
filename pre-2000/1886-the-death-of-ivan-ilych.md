@@ -1,5 +1,6 @@
 # The Death of Ivan Ilych
 **Authors**: Leo Tolstoy | **Year**: 1886
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Death of Ivan Ilych" tells the story of a high-court judge who lives what society considers a successful life—proper career, comfortable marriage, social status—until a mysterious illness forces him to confront the artificiality of his existence. As his physical condition deteriorates, Ivan Ilych undergoes a spiritual awakening, realizing that he has lived a life of conformity rather than authenticity. Through intense suffering and the compassionate presence of Gerasim, a young servant, Ivan Ilych ultimately finds redemption and peace in his final moments by rejecting his superficial past and embracing genuine human connection.

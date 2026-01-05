@@ -1,5 +1,6 @@
 # Salt Kiss
 **Authors**: Sierra Simone | **Year**: 2023
+**Category**: Romance & Relationships
 
 ## Summary
 Salt Kiss tells the story of Tristan Thomas, a former army hero who's struggling to adjust to civilian life after eight years of military service, including a final deployment guarding the president of Carpathia. When he receives an unexpected job offer from Mark Trevena—the enigmatic owner of Lyonesse, Washington D.C.'s most exclusive kink club and his new uncle-in-law—Tristan is torn between his military values and his desperate need for purpose.

@@ -1,5 +1,5 @@
 # 6 Keys to Success: How to Run a Band, Be Famous and Change the World
-**Author**: Dan Van Casteele | **Year**: 2016
+**Author**: Dan Van Casteele | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals the fundamental principles that separate successful bands from those that fail, based on observable patterns in famous music groups. The author argues that fame isn't about luck but following a specific mindset and strategic approach that successful bands implement consistently. The book presents six essential keys that any band can use to achieve success, build a loyal fanbase, and potentially make a global impact.

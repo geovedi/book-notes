@@ -1,5 +1,5 @@
 # The Glass Castle
-**Author**: Jeannette Walls | **Year**: 2005
+**Author**: Jeannette Walls | **Year**: 2005 | **Category**: Fiction & Literature
 
 ## Summary
 "The Glass Castle" is a powerful memoir chronicling Jeannette Walls' extraordinary childhood spent in extreme poverty with eccentric, often neglectful parents. Walls recounts her family's nomadic existence across the American Southwest, living in dilapidated homes and often going without food, while her brilliant but alcoholic father Rex dreamed of building a glass castle and her artistic mother Rose Mary rejected conventional domesticity.

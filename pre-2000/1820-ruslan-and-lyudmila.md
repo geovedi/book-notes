@@ -1,6 +1,7 @@
 # Ruslan and Lyudmila
 **Original Title**: Руслан и Людмила (Ruslan i Lyudmila)
 **Author**: Alexander Pushkin | **Year**: 1820
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 

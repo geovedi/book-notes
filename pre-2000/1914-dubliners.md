@@ -1,5 +1,6 @@
 # Dubliners
 **Authors**: James Joyce | **Year**: 1914
+**Category**: Fiction & Literature
 
 ## Summary
 "Dubliners" is James Joyce's groundbreaking collection of 15 short stories that captures the life of Dublin's middle-class citizens in the early 20th century. Through meticulously crafted vignettes, Joyce exposes the spiritual paralysis and emotional stagnation that characterized Irish society under British colonial rule and Catholic influence. Each story presents a moment of epiphany—often painful—where characters briefly glimpse their trapped condition before retreating back into resignation.

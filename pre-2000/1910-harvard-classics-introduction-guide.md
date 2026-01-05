@@ -1,6 +1,7 @@
 # The Harvard Classics Shelf Guide
 **Original Title**: The Harvard Classics Volume 50: Introduction, Reader's Guide, Indexes
 **Editor**: Charles W. Eliot | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 The Harvard Classics represents one of the most ambitious literary projects ever undertaken—a comprehensive 50-volume collection designed to provide "a liberal education" through careful reading of world literature. This final volume serves as the master key to unlock the entire collection, containing detailed reading guides, subject classifications, and comprehensive indexes. The collection was conceived by Charles W. Eliot, longtime president of Harvard University, who believed that a five-foot shelf of books could substitute for a liberal education if read with devotion.

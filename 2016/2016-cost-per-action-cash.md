@@ -1,5 +1,5 @@
 # Cost Per Action Cash
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 Cost Per Action Cash is a practical guide to making money through CPA (Cost Per Action) marketing, where you earn commissions by driving users to complete specific actions like email submissions, zip code entries, or form fills. The book provides a comprehensive roadmap from getting accepted into CPA networks to implementing various promotional strategies.

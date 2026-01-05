@@ -1,5 +1,6 @@
 # Principles: Life and Work
 **Authors**: Ray Dalio | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 Ray Dalio, founder of the world's largest hedge fund Bridgewater Associates, shares the universal principles that guided him from building his business in a two-bedroom apartment to becoming one of the world's most successful entrepreneurs. The book reveals how embracing radical truth, transparency, and systematic decision-making can transform both personal and professional success. Dalio's approach combines personal journey storytelling with actionable frameworks that have been tested over decades.

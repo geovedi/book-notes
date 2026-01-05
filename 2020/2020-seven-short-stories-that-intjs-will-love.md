@@ -1,5 +1,6 @@
 # Seven Short Stories That INTJs Will Love
 **Authors**: Nathaniel Hawthorne, O. Henry, Marcus Aurelius, Arthur Conan Doyle, Honoré de Balzac, Herman Melville, Oscar Wilde | **Year**: 2020
+**Category**: Fiction & Literature
 
 ## Summary
 This curated collection presents seven classic short stories specifically chosen to resonate with the INTJ personality type—strategic, independent thinkers who value intellectual depth, psychological insight, and philosophical exploration. The anthology spans different eras and genres, from Gothic romance and Stoic philosophy to detective fiction and social satire, each offering complex characters, moral ambiguity, and intellectual puzzles that appeal to the INTJ's analytical mind and love for profound ideas.

@@ -1,6 +1,7 @@
 # The Space of Psychotherapy: Between Therapist and Client
 **Original Title**: Пространство психотерапии. Между терапевтом и клиентом
-**Author**: Геннадий Малейчук (Gennady Maleychuk) | **Year**: 2021 
+**Author**: Геннадий Малейчук (Gennady Maleychuk) | **Year**: 2021
+**Category**: Psychology & Mental Health 
 
 ## Summary
 "The Space of Psychotherapy" explores the complex relationship between therapist and client, examining psychotherapy as both a profession and a therapeutic process. The book deconstructs psychotherapy into four essential components: the profession itself, the therapist, the client, and the therapeutic process. Maleychuk argues that psychotherapy isn't a magical cure but rather a collaborative space where clients learn to become the magicians of their own lives. The work challenges common misconceptions about therapy while providing a realistic framework for understanding its true potential and limitations.

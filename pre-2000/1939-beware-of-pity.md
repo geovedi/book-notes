@@ -1,6 +1,7 @@
 # Beware of Pity
 **Original Title**: Ungeduld des Herzens (The Heart's Impatience)
 **Author**: Stefan Zweig | **Year**: 1939
+**Category**: Fiction & Literature
 
 ## Summary
 Beware of Pity is Stefan Zweig's only full-length novel, a masterful psychological exploration of moral responsibility and the destructive nature of misguided compassion. Set in Austro-Hungarian empire on the eve of World War I, the novel follows young Lieutenant Anton Hofmiller whose innocent social blunder—asking a crippled girl to dance—unwittingly triggers a devastating chain of events.

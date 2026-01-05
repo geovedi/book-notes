@@ -1,5 +1,6 @@
 # Mike and Psmith
 **Authors**: P.G. Wodehouse | **Year**: 1908
+**Category**: Fiction & Literature
 
 ## Summary
 "Mike and Psmith" follows the adventures of Mike Jackson, a talented cricket star expelled from his prestigious school Wrykyn due to poor academic performance, and his unlikely friendship with the eccentric, monocle-wearing Psmith. Forced to attend the lesser-known Sedleigh School, Mike struggles with the comedown while Psmith embraces the change with philosophical equanimity. The story weaves together school life, cricket matches, and humorous mishaps as the boys navigate authority figures, misunderstandings, and ultimately help transform Sedleigh's cricket fortunes.

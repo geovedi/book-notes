@@ -1,5 +1,6 @@
 # Like a Virgin
 **Author**: Richard Branson | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "Like a Virgin" is Richard Branson's collection of unconventional business wisdom gathered from his forty years of building the Virgin empire. The book reveals the secrets behind his success in creating more than four hundred companies across thirty different sectors, including eight billion-dollar businesses built from scratch. Branson shares his philosophy that business should be fun, people-centered, and driven by innovation rather than traditional MBA teachings. Through personal stories of successes (Virgin Atlantic, Virgin Mobile) and failures (Virgin Cola), he demonstrates how entrepreneurship thrives on risk-taking, listening to customers, and empowering employees to make mistakes.

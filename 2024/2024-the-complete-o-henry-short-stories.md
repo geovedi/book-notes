@@ -1,5 +1,6 @@
 # The Complete O. Henry Short Stories Collection
 **Authors**: O. Henry (William Sydney Porter) | **Year**: 2024 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together all of O. Henry's major short story works, spanning from his early Texas period to his New York City masterpieces. Named for his famous claim that New York City contains "four million" people worth writing about, this anthology showcases the master of the surprise ending whose tales transform ordinary lives into extraordinary revelations of human nature.

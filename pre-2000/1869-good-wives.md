@@ -1,6 +1,7 @@
 # Good Wives
 **Original Title**: Good Wives (English)
 **Authors**: Louisa May Alcott | **Year**: 1869
+**Category**: Children & Young Adult
 
 ## Summary
 

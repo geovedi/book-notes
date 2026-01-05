@@ -1,5 +1,6 @@
 # Complete Paintings of Dante Gabriel Rossetti
 **Authors**: Delphi Classics | **Year**: 2015
+**Category**: Art & Creativity
 
 ## Summary
 This comprehensive art book presents the complete painted works of Dante Gabriel Rossetti (1828-1882), the renowned Victorian painter, poet, and founding member of the Pre-Raphaelite Brotherhood. The collection spans Rossetti's entire artistic career, from his early Pre-Raphaelite works through his later period of sensuous single-figure portraits, providing detailed commentary, historical context, and biographical insights along with reproductions of his paintings, watercolors, and drawings.

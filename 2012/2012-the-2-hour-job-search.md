@@ -1,5 +1,6 @@
 # The 2-Hour Job Search
 **Authors**: Steve Dalton | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "The 2-Hour Job Search" introduces a revolutionary approach to modern job hunting that counteracts the inefficiencies created by online application systems. Dalton argues that while technology made applying for jobs easier, it simultaneously made getting hired dramatically harder by flooding employers with hundreds of applications for each position. The book presents a systematic, counterintuitive process that leverages technology to efficiently secure internal referrals—the only predictable path to interviews in today's market.

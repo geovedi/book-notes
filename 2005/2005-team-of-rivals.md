@@ -1,5 +1,5 @@
 # Team of Rivals: The Political Genius of Abraham Lincoln
-**Author**: Doris Kearns Goodwin | **Year**: 2005
+**Author**: Doris Kearns Goodwin | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 This masterful political biography reveals how Abraham Lincoln transformed his political rivals—William H. Seward, Salmon P. Chase, and Edward Bates—into his most trusted cabinet members. Goodwin demonstrates that Lincoln's true genius lay not just in his moral leadership during the Civil War, but in his extraordinary ability to manage strong, ambitious personalities who initially underestimated and opposed him. The book illuminates how Lincoln's magnanimity, emotional intelligence, and strategic thinking enabled him to build a team that ultimately saved the Union.

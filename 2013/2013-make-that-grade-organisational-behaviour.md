@@ -1,5 +1,5 @@
 # Make That Grade: Organisational Behaviour
-**Authors**: Michèle Kehoe | **Year**: 2013
+**Authors**: Michèle Kehoe | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 Organisational Behaviour (OB) is the systematic study of human behavior in organizational settings, focusing on how individuals, groups, and organizational structures interact to influence workplace effectiveness. This comprehensive textbook breaks down the complex dynamics of modern workplaces into 12 essential areas, from individual personality and motivation to leadership, communication, and change management.

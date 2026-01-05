@@ -1,5 +1,6 @@
 # Leadership Without Mind Games
 **Authors**: Frank Hagenow | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "Leadership Without Mind Games" is a comprehensive guide for executives and managers who want to lead with ethics, decency, and authenticity rather than psychological manipulation and tricks. Written by psychologist and business coach Frank Hagenow, the book challenges the conventional wisdom that effective leadership requires strategic mind games or psychological manipulation.

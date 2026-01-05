@@ -1,5 +1,5 @@
 # Capital in the Twenty-First Century
-**Authors**: Thomas Piketty, Arthur Goldhammer | **Year**: 2014
+**Authors**: Thomas Piketty, Arthur Goldhammer | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 Thomas Piketty's groundbreaking analysis of wealth inequality spans three centuries and twenty countries, revealing the fundamental economic forces driving the concentration of wealth. The book demonstrates that when the rate of return on capital exceeds economic growth (r > g), capitalism automatically generates arbitrary and unsustainable inequalities that undermine meritocratic values. This comprehensive historical study shows that the period of reduced inequality following World War II was an exception, not the rule, and we're returning to patterns of wealth concentration reminiscent of the 19th century.

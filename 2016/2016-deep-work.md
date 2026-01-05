@@ -1,5 +1,5 @@
 # Deep Work
-**Authors**: Cal Newport | **Year**: 2016
+**Authors**: Cal Newport | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 Deep work is the ability to focus without distraction on a cognitively demanding task, allowing you to quickly master complex information and produce better results in less time. In our increasingly distracted world, this skill has become both rare and valuable, creating a competitive advantage for those who cultivate it. The book argues that the modern economy rewards those who can perform deep work, while most workplaces and professionals have fallen into patterns of shallow, distracted activity that undermines their potential.

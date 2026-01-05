@@ -1,6 +1,7 @@
 # Since I Stopped Drinking
 **Original Title**: Sinds ik niet meer drink
 **Authors**: Evi Hanssen | **Year**: 2021
+**Category**: Health & Medicine
 
 ## Summary
 This intimate diary chronicles Belgian television presenter Evi Hanssen's 500-day journey without alcohol, beginning with a particularly humiliating New Year's Eve hangover. What starts as a one-year experiment evolves into a profound exploration of identity, social conditioning, and self-discovery. Hanssen doesn't fit the stereotype of an alcoholic—she's successful, has a loving family, and functions well in society—but like many "high-functioning" drinkers, she finds alcohol gradually eroding her happiness and authenticity.

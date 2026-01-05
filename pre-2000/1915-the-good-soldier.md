@@ -1,5 +1,6 @@
 # The Good Soldier
 **Authors**: Ford Madox Ford | **Year**: 1915
+**Category**: Fiction & Literature
 
 ## Summary
 John Dowell, a wealthy American, recounts the tragic nine-year relationship between his wife Florence and himself with Edward and Leonora Ashburnham, an apparently perfect English couple. What begins as the story of two ideal marriages in European spa towns gradually reveals a web of adultery, deception, and psychological torment. The "saddest story ever heard" unfolds through Dowell's unreliable narration, showing how appearances mask devastating emotional truths and how the desire to do the right thing can lead to the worst outcomes.

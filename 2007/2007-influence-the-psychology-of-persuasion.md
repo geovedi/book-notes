@@ -1,5 +1,6 @@
 # Influence: The Psychology of Persuasion
 **Author**: Robert B. Cialdini | **Year**: 2007
+**Category**: Psychology & Mental Health
 
 ## Summary
 Robert Cialdini's groundbreaking work reveals the six universal principles of persuasion that influence human behavior. Based on extensive research—including three years of undercover work in sales, marketing, and compliance industries—Cialdini exposes the psychological triggers that make us say "yes" automatically, often without conscious thought. The book shows how these principles are used ethically and manipulatively in business, marketing, politics, and everyday interactions.

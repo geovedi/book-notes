@@ -1,6 +1,7 @@
 # Forex For Beginners: The 5-Minute Guide
 **Original Title**: Forex For Beginners
 **Authors**: Mark Smith | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Forex trading involves buying and selling currency pairs to profit from exchange rate fluctuations in the world's largest financial market, operating 24/5 with over $3 trillion in daily trading volume. This book provides a complete foundation for beginners, covering essential terminology, trading mechanics, profit calculation, strategic planning, and common pitfalls to avoid.

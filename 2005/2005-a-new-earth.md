@@ -1,5 +1,5 @@
 # A New Earth
-**Author**: Eckhart Tolle | **Year**: 2005
+**Author**: Eckhart Tolle | **Year**: 2005 | **Category**: Spirituality & Religion
 
 ## Summary
 Eckhart Tolle's "A New Earth" presents a revolutionary vision of human consciousness transformation, showing how ego-based thinking creates collective dysfunction and prevents us from realizing our true purpose. The book argues that humanity is at an evolutionary crossroads where we can either continue down the path of egoic suffering or awaken to a new state of consciousness that aligns with our essential Being. Tolle explains how the ego operates through identification with form—possessions, roles, thoughts, and stories—and how this identification creates the pain, conflict, and environmental destruction we see worldwide. By learning to disidentify from the egoic mind and live in present-moment awareness, we can participate in the emergence of what Tolle calls "a new earth"—a world transformed by awakened consciousness.

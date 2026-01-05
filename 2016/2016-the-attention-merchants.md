@@ -1,5 +1,5 @@
 # The Attention Merchants
-**Authors**: Tim Wu | **Year**: 2016
+**Authors**: Tim Wu | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 

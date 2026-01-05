@@ -1,5 +1,6 @@
 # Utilitarianism
 **Authors**: John Stuart Mill | **Year**: 1863
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 John Stuart Mill's "Utilitarianism" stands as one of the most influential defenses of the ethical theory that actions are right in proportion as they promote happiness, and wrong as they tend to produce the reverse. Mill refines Jeremy Bentham's original utilitarian framework by introducing crucial qualitative distinctions between pleasures and defending the theory against common criticisms that it reduces morality to mere pleasure-seeking.

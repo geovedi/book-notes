@@ -1,5 +1,6 @@
 # The Fatal Shore
 **Authors**: Robert Hughes | **Year**: 1988
+**Category**: History & Biography
 
 ## Summary
 "The Fatal Shore" is a masterful historical account of how Britain transformed Australia into the world's largest penal colony, shipping over 160,000 men, women, and children in bondage across 14,000 miles of ocean between 1787 and 1868. Hughes reveals this brutal experiment in social engineering that was designed to rid England of its "criminal class" while creating a dystopian society at the edge of the known world. The book exposes how Australia was settled not as a new Eden but as a massive prison camp—a place where the unwanted were sent to disappear.

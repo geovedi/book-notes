@@ -1,5 +1,6 @@
 # Ethereum: A Comprehensive Guide For Ethereum And How To Make Money With It
 **Authors**: Mark Smith | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 Ethereum represents a revolutionary leap beyond Bitcoin, transforming blockchain from a simple cryptocurrency platform into a versatile foundation for decentralized applications. This comprehensive guide demystifies Ethereum's core components—smart contracts, Dapps, and Ether—while showing readers how to leverage this technology for financial gain. The book walks beginners through everything from setting up wallets to building and monetizing decentralized applications.

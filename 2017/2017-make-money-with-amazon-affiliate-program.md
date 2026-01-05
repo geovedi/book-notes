@@ -1,5 +1,6 @@
 # Make Money With Amazon Affiliate Program
 **Authors**: Juha Öörni | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide reveals how to generate income through Amazon's affiliate marketing program without requiring a personal website or blog. The book presents multiple strategies for promoting affiliate links across various platforms, including social media, forums, YouTube, and content sharing sites. It emphasizes building trust and providing genuine value to audiences while leveraging Amazon's massive product catalog and commission structure.

@@ -1,5 +1,6 @@
 # The New Investing Matrix
 **Authors**: Wayne Walker | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "The New Investing Matrix" presents a revolutionary approach to investment strategy that expands beyond traditional asset classes to include the most valuable asset of all: yourself. Wayne Walker, a seasoned capital markets expert, challenges conventional wisdom by positioning personal development alongside stocks, bonds, and cryptocurrencies in a comprehensive investment framework. The book systematically builds an updated investment matrix for 2021 and beyond, arguing that true wealth creation requires nurturing both financial and personal assets while maintaining emotional discipline and strategic diversification across multiple investment vehicles including emerging digital assets.

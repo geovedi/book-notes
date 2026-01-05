@@ -1,5 +1,6 @@
 # 2017 Beginner's Reddit Social Media Marketing Guide
 **Authors**: Juha Öörni | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies Reddit marketing for beginners, revealing how to leverage "The Front Page of the Internet" without falling prey to its notorious anti-spam community. The book provides a comprehensive roadmap for understanding Reddit's unique culture, navigating its complex ecosystem of subreddits, and implementing marketing strategies that actually work.

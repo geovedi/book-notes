@@ -1,5 +1,6 @@
 # One Red Paperclip: The Story of How One Man Changed His Life One Swap at a Time
 **Authors**: Kyle MacDonald | **Year**: 2007
+**Category**: Self-Help & Personal Development
 
 ## Summary
 In July 2005, 25-year-old Kyle MacDonald was unemployed and living in a small Montreal apartment when he decided to resurrect a childhood game called "Bigger and Better." Starting with one red paperclip, he set out to make a continuous chain of trades, each for something bigger or better, with the ultimate goal of trading up to a house. What began as an elaborate procrastination from job hunting turned into a year-long adventure spanning 14 trades across North America, ultimately landing him a two-story house in Kipling, Saskatchewan.

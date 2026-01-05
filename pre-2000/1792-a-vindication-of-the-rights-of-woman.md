@@ -1,5 +1,6 @@
 # A Vindication of the Rights of Woman
 **Author**: Mary Wollstonecraft | **Year**: 1792
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This revolutionary feminist manifesto argues that women deserve the same fundamental rights and educational opportunities as men. Wollstonecraft dismantles 18th-century notions of female inferiority, contending that women's perceived weaknesses are not natural but result from systematic miseducation and social oppression. She makes the radical case that women are rational beings capable of virtue and reason, and that society's progress depends on educating women to become independent thinkers rather than decorative objects of male desire.

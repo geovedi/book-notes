@@ -1,5 +1,5 @@
 # Invisible
-**Authors**: Hsiao-Hung Pai | **Year**: 2013
+**Authors**: Hsiao-Hung Pai | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "Invisible" is an explosive work of investigative journalism that exposes the hidden world of migrant sex workers in Britain. Through courageous undercover work in brothels, massage parlors, and Chinese medicine clinics across the UK, Taiwanese-born journalist Hsiao-Hung Pai documents the harrowing reality of women trapped in the sex industry—not by human traffickers, but by economic desperation and structural inequality.

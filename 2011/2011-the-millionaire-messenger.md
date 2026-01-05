@@ -1,5 +1,5 @@
 # The Millionaire Messenger
-**Author**: Brendon Burchard | **Year**: 2011
+**Author**: Brendon Burchard | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "The Millionaire Messenger" reveals how anyone can build a lucrative business by sharing their life experience, knowledge, and advice with others. Burchard introduces the "expert industry"—a multi-billion dollar sector where authors, speakers, coaches, and consultants get paid to help people improve their lives. The book is a practical roadmap for turning your personal experiences and expertise into a profitable business that makes a difference in the world.

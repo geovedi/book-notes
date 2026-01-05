@@ -1,5 +1,5 @@
 # The Art and Attitude of Success
-**Authors**: Emmanuel Smith | **Year**: 2013
+**Authors**: Emmanuel Smith | **Year**: 2013 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Art and Attitude of Success" is a Christian-focused self-help book that guides readers through a systematic process of personal transformation and goal achievement. The author, who shares his own experiences of overcoming poverty, homelessness, and hardship, combines practical goal-setting principles with biblical teachings to help readers reclaim their lives and achieve their God-given potential.

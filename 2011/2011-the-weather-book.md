@@ -1,5 +1,5 @@
 # The Weather Book
-**Authors**: Various Contributors | **Year**: 2011
+**Authors**: Various Contributors | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 "The Weather Book" is a comprehensive guide to understanding meteorology, from basic weather principles to extreme climate events. The book explores how atmospheric conditions create our daily weather, explains the science behind weather forecasting, and examines the critical relationship between weather patterns and climate change. It combines scientific explanations with practical DIY weather observation techniques, making complex meteorological concepts accessible to general readers.

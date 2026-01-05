@@ -1,5 +1,6 @@
 # The Remarkable Rocket
 **Authors**: Oscar Wilde | **Year**: 1888
+**Category**: Children & Young Adult
 
 ## Summary
 "The Remarkable Rocket" is a satirical fairy tale about an extraordinarily conceited rocket who believes himself superior to all other fireworks. Set during the wedding celebrations of a Prince and Princess, the story follows the Rocket's journey from arrogant self-importance to humbling failure.

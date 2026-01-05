@@ -1,5 +1,5 @@
 # A Midwife's Tale: The Life of Martha Ballard, Based on Her Diary, 1785-1812
-**Author**: Laurel Thatcher Ulrich | **Year**: 2010
+**Author**: Laurel Thatcher Ulrich | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking work reconstructs the life of Martha Ballard, an 18th-century Maine midwife whose diary historians had dismissed as "trivial." Ulrich demonstrates that Martha's meticulous daily entries—spanning 9,965 days over 27 years—contain a rich tapestry of early American life, revealing the hidden world of women's work, medical practice, family relationships, and community dynamics. Through Martha's diary, we witness the transformation of medicine from female-centered midwifery to male-dominated professional practice, while gaining unprecedented insight into the daily struggles and triumphs of ordinary people in the early Republic.

@@ -1,5 +1,5 @@
 # The Lifestyle Entrepreneur
-**Authors**: Cato Hoeben & Angela Neustatter | **Year**: 2014
+**Authors**: Cato Hoeben & Angela Neustatter | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "The Lifestyle Entrepreneur" is a practical guide to breaking free from traditional employment by building multiple income streams based on your passions and skills. The book demonstrates how the internet has revolutionized work, creating opportunities for anyone to earn money independently while designing a lifestyle that aligns with their values, whether that's location independence, family time, or pursuing meaningful work.

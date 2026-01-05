@@ -1,5 +1,6 @@
 # The Black Tulip
 **Authors**: Alexandre Dumas | **Year**: 1850
+**Category**: Fiction & Literature
 
 ## Summary
 Set against the dramatic backdrop of 1672 Holland during the political turmoil surrounding the De Witt brothers and the rise of William of Orange, "The Black Tulip" tells the story of Cornelius van Baerle, a peaceful tulip grower whose passion for cultivating a rare black tulip leads him into a dangerous web of political intrigue, betrayal, and romance. When Cornelius is wrongly imprisoned due to his association with the influential De Witt brothers, his dedication to tulip cultivation becomes his salvation as he works to grow the legendary black flower from within his prison cell.

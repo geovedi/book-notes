@@ -1,6 +1,6 @@
 # About René Gysen: A Literary Life in Perspective
 **Original Title**: Over René Gysen
-**Authors**: Hilda van Assche, Pierre H. Dubois, Gust Gils, Harry Konings, Willy Roggeman, Paul de Wispelaere | **Year**: 1970
+**Authors**: Hilda van Assche, Pierre H. Dubois, Gust Gils, Harry Konings, Willy Roggeman, Paul de Wispelaere | **Year**: 1970 | **Category**: Fiction & Literature
 
 ## Summary
 "Over René Gysen" is a comprehensive tribute to one of Belgium's most underrated yet intellectually profound writers of the post-war generation. This collection brings together essays, poems, and critical reflections from six prominent literary figures who knew Gysen personally and professionally. Published shortly after his premature death in 1969, the book offers both critical analysis of his work and intimate glimpses into the man behind the challenging, innovative literature.

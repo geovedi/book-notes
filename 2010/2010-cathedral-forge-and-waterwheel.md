@@ -1,5 +1,5 @@
 # Cathedral, Forge, and Waterwheel
-**Authors**: Frances Gies, Joseph Gies | **Year**: 2010
+**Authors**: Frances Gies, Joseph Gies | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "Cathedral, Forge, and Waterwheel" demolishes the myth of the Middle Ages as a millennium of technological stagnation. This comprehensive survey reveals how medieval Europe was actually a period of remarkable innovation that laid the groundwork for modern Western civilization. The authors argue that the Middle Ages experienced one of history's great technological revolutions, characterized by the disappearance of mass slavery, the harnessing of water and wind power, the development of the open-field system of agriculture, and the importation and adaptation of numerous inventions from Asia.

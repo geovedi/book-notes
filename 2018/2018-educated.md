@@ -1,5 +1,6 @@
 # Educated
 **Author**: Tara Westover | **Year**: 2018
+**Category**: History & Biography
 
 ## Summary
 *Educated* is a powerful memoir about a young woman who grows up in a survivalist family in rural Idaho, isolated from mainstream society. Tara Westover was raised without formal education, didn't attend school, and rarely visited doctors. Her family prepared constantly for the "Days of Abomination" while her father worked in a junkyard and her mother became a faith healer and midwife. Despite having no birth certificate and no school records, Tara taught herself enough to gain admission to Brigham Young University, eventually earning a PhD from Cambridge University.

@@ -1,5 +1,6 @@
 # Life on the Mississippi
 **Authors**: Mark Twain | **Year**: 1883
+**Category**: Fiction & Literature
 
 ## Summary
 "Life on the Mississippi" is Mark Twain's captivating memoir that blends autobiography, history, travel writing, and social commentary into a masterful account of America's mightiest river. The book chronicles Twain's transformation from a young boy mesmerized by the steamboats docking in his hometown of Hannibal, Missouri, to a skilled river pilot navigating the treacherous waters of the Mississippi, and finally to a successful author returning years later to observe how the river and American life had changed.

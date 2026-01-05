@@ -1,5 +1,6 @@
 # The Autobiography of Benvenuto Cellini
 **Authors**: Benvenuto Cellini | **Year**: 1500-1571 (written 1558-1566)
+**Category**: History & Biography
 
 ## Summary
 This extraordinary autobiography chronicles the life of Benvenuto Cellini, a Renaissance goldsmith, sculptor, and musician whose artistic genius was matched only by his turbulent personality. Born in Florence in 1500, Cellini documents his journey from a reluctant musician's son to one of the most celebrated artisans of the Renaissance, working for popes, kings, and dukes across Italy and France.

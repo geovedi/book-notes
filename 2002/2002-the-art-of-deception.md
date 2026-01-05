@@ -1,5 +1,5 @@
 # The Art of Deception
-**Authors**: Kevin D. Mitnick, William L. Simon | **Year**: 2002
+**Authors**: Kevin D. Mitnick, William L. Simon | **Year**: 2002 | **Category**: Technology & Computing
 
 ## Summary
 "The Art of Deception" exposes the most vulnerable aspect of security systems: human trust. Written by the world's most famous hacker, this eye-opening guide reveals how social engineers manipulate people into bypassing sophisticated security measures through simple psychological tactics. Through real-world stories and fictionalized scenarios, Mitnick demonstrates that even the most advanced technological protections are useless when attackers target the human element of security.

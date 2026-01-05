@@ -1,5 +1,6 @@
 # Crash Override
 **Author**: Zoë Quinn | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 Crash Override is both a harrowing memoir and a practical guide to understanding and combating online harassment. Quinn recounts how she became the central target of GamerGate—a coordinated campaign of online abuse that began when her abusive ex-boyfriend posted a false manifesto about their relationship, which then metastasized into a full-blown culture war. What started as personal revenge evolved into a broader attack on women and marginalized people in gaming, eventually connecting to wider political movements and even influencing the 2016 US election.

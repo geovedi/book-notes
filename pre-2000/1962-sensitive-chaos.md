@@ -1,5 +1,5 @@
 # Sensitive Chaos
-**Authors**: Theodor Schwenk | **Year**: 1962
+**Authors**: Theodor Schwenk | **Year**: 1962 | **Category**: Science & Nature
 
 ## Summary
 "Sensitive Chaos" is a profound exploration of water's essential nature as the foundation of life and consciousness. Schwenk presents water not merely as a chemical substance (H₂O) but as a living element that embodies cosmic principles and serves as the medium through which life manifests on Earth. Through detailed observations of water's movements—from flowing rivers and spiraling vortices to wave formations and boundary surfaces—the author reveals how water demonstrates the same archetypal patterns found throughout living nature, including in human organs and embryonic development.

@@ -1,5 +1,6 @@
 # The Story of Two Sisters Who Were Jealous of Their Younger Sister
 **Original Title**: أَلْفُ لَيْلَةٍ وَلَيْلَةٌ‎ (Alf Layla wa-Layla) | **Authors**: Andrew Lang (Translator) | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 This enchanting fairy tale from One Thousand and One Nights tells the story of Sultan Kosrouschah, who overhears three sisters discussing their ideal husbands. The eldest wishes to marry the Sultan's baker, the second his chief cook, while the youngest—and most beautiful—dreams of marrying the Sultan himself. The Sultan, amused and intrigued, grants all three wishes, leading to his marriage to the youngest sister.

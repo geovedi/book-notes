@@ -1,5 +1,5 @@
 # The Archaeology of Darkness
-**Authors**: Marion Dowd, Robert Hensey | **Year**: 2016
+**Authors**: Marion Dowd, Robert Hensey | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "The Archaeology of Darkness" is a groundbreaking collection that explores darkness as a fundamental aspect of human experience throughout history. The book challenges our modern, light-dominated perspective by examining how ancient peoples engaged with, understood, and utilized darkness in ritual, daily life, and spiritual practice. Through archaeological evidence spanning from Paleolithic caves to Neolithic monuments, the contributors reveal that darkness was not merely the absence of light but a powerful, intentional element in human culture that shaped consciousness, community, and cosmology.

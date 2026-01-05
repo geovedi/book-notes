@@ -1,5 +1,5 @@
 # 2013-Transit of Venus
-**Authors**: Rowan Metcalfe | **Year**: 2004
+**Authors**: Rowan Metcalfe | **Year**: 2004 | **Category**: Fiction & Literature
 
 ## Summary
 *Transit of Venus* is a powerful historical novel that reimagines the Bounty mutiny story from the perspective of the Tahitian women who fled to Pitcairn Island with Fletcher Christian and other mutineers. The narrative spans from 1790 to 1831, focusing primarily on Mauatua (later known as Maimiti or Isabella), Fletcher Christian's Tahitian partner, and her journey back to Tahiti in 1831 after forty years on Pitcairn. Through multiple voices and time periods, the novel explores themes of cultural collision, memory, identity, and the complex legacy of colonialism.

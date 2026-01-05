@@ -1,5 +1,5 @@
 # A Guide to Better Management: Managing Change
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how to transform change from a source of resistance and anxiety into an opportunity for growth and improvement. Using principles from Neuro-Linguistic Programming (NLP), Allen presents a step-by-step approach to managing change effectively in both professional and personal contexts. The book emphasizes that change is natural and constant - our resistance to it is what we've learned culturally.

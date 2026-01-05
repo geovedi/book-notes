@@ -1,5 +1,5 @@
 # Learning Phenomenology Fun with Pictures and Text for Adults and Children
-**Original Title**: 絵と文で楽しく学ぶ 大人と子どもの現象学 | **Author**: Akihiro Yoshida | **Year**: 2015 
+**Original Title**: 絵と文で楽しく学ぶ 大人と子どもの現象学 | **Author**: Akihiro Yoshida | **Year**: 2015 | **Category**: Philosophy & Critical Thinking 
 
 ## Summary
 This innovative book introduces phenomenology—the philosophical study of conscious experience—as an accessible, joyful journey for both children and adults. Through playful illustrations, engaging stories, and thought-provoking questions, the book transforms complex philosophical concepts into digestible wisdom that can be understood by readers of all ages. The author presents phenomenology not as abstract theory, but as a practical tool for understanding how our perspectives shape our reality and how changing our standpoint can transform our experience of the world.

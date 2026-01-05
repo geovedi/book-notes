@@ -1,5 +1,6 @@
 # The Dreaming Sex
 **Authors**: Mike Ashley (Editor) | **Year**: 2012
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Dreaming Sex" is a groundbreaking anthology that challenges the long-held misconception that science fiction was exclusively a male domain before World War II. Editor Mike Ashley brings together a selection of early science fiction short stories by Victorian and Edwardian women writers, proving that women were not just present in the genre's formative years but were instrumental in shaping its development.

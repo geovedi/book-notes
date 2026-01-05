@@ -1,5 +1,5 @@
 # The Graphene Revolution
-**Authors**: Brian Clegg | **Year**: 2018
+**Authors**: Brian Clegg | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "The Graphene Revolution" explores the discovery, properties, and revolutionary potential of graphene—a single-atom-thick sheet of carbon that represents one of the most remarkable scientific breakthroughs of the 21st century. Discovered through serendipitous "Friday night experiments" by Andre Geim and Konstantin Novoselov at the University of Manchester, this wonder material has sparked a worldwide revolution in materials science and technology.

@@ -1,5 +1,6 @@
 # Hopefully Ever After
 **Authors**: James Webster | **Year**: 2025
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "Hopefully Ever After" is a collection of 52 very short stories that embodies the hopepunk genre—a literary movement focused on optimistic resistance and the persistent belief that better worlds are possible even in dark times. James Webster crafts bite-sized narratives that blend speculative fiction, fairy tales, and contemporary realism to explore how hope functions as both a personal survival mechanism and a radical political act. Each story serves as a small beacon of light, demonstrating that hope isn't passive patience but active, stubborn resistance against despair.

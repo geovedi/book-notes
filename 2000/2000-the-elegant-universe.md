@@ -1,5 +1,5 @@
 # The Elegant Universe
-**Author**: Brian Greene | **Year**: 2000
+**Author**: Brian Greene | **Year**: 2000 | **Category**: Science & Nature
 
 ## Summary
 "The Elegant Universe" introduces readers to string theory, a revolutionary framework that attempts to unite Einstein's general relativity with quantum mechanics into a single "Theory of Everything." Greene reveals how the fundamental components of our universe might not be point particles but tiny, vibrating one-dimensional strings whose different resonance patterns create all matter and forces. This groundbreaking theory suggests the existence of hidden dimensions beyond our familiar three spatial dimensions, coiled up in complex geometric shapes at the Planck scale. The book makes cutting-edge theoretical physics accessible, showing how string theory promises to resolve the century-old conflict between the two pillars of modern physics—general relativity's smooth spacetime continuum and quantum mechanics' turbulent uncertainty at microscopic scales.

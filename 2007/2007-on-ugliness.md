@@ -1,5 +1,6 @@
 # On Ugliness
 **Authors**: Umberto Eco | **Year**: 2007
+**Category**: Art & Creativity
 
 ## Summary
 Umberto Eco's "On Ugliness" is a comprehensive exploration of how humanity has perceived, defined, and represented ugliness throughout Western history. This richly illustrated companion to his earlier work "History of Beauty" examines the complex relationship between beauty and its opposite, arguing that ugliness is not merely the absence of beauty but possesses its own aesthetic and cultural significance. Eco traces the evolution of ugly imagery from classical antiquity through medieval times, the Renaissance, and into contemporary culture, revealing how what societies consider ugly often reveals more about their values, fears, and aspirations than their standards of beauty.

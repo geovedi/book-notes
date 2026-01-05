@@ -1,5 +1,6 @@
 # The Cut-Glass Bowl
 **Authors**: F. Scott Fitzgerald | **Year**: 1920
+**Category**: Fiction & Literature
 
 ## Summary
 "The Cut-Glass Bowl" tells the haunting story of Evelyn Piper, a beautiful woman whose life becomes shadowed by tragedy after receiving a malicious wedding gift from a rejected suitor. The crystal bowl, described as being "as hard as you are and as beautiful and as empty and as easy to see through," becomes a symbol of both Evelyn's former cold-heartedness and the inexorable march of fate that brings suffering to her and her family. Through four distinct chapters spanning decades, Fitzgerald masterfully weaves a tale of how past actions and choices reverberate through time, ultimately leading to heartbreak and loss.

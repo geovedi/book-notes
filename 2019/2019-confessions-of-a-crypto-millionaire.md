@@ -1,5 +1,6 @@
 # Confessions of a Crypto Millionaire
 **Authors**: Dan Conway | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Dan Conway's memoir chronicles his unlikely journey from a middle-aged corporate PR executive struggling with alcoholism and job dissatisfaction to becoming a cryptocurrency millionaire during the 2017 Ethereum boom. At 44, with a wife and three kids, Conway was trapped in the corporate grind he despised, feeling like an alien in bureaucratic America. His discovery of Bitcoin and Ethereum led him to invest his family's savings in cryptocurrencies during the 2017 mania, ultimately selling near the peak and achieving financial freedom.

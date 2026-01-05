@@ -1,5 +1,6 @@
 # The Permanent Husband
 **Authors**: Fyodor Dostoyevsky | **Year**: 1870
+**Category**: Fiction & Literature
 
 ## Summary
 *The Permanent Husband* is a psychological novella that explores the complex and turbulent relationship between Velchaninov, a wealthy idle aristocrat, and Trusotsky, the husband of Velchaninov's deceased former lover. Set in 19th-century St. Petersburg, the story delves into the depths of human jealousy, guilt, and the lingering impact of past affairs on the living.

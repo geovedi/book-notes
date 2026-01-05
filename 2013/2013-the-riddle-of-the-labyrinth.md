@@ -1,5 +1,5 @@
 # The Riddle of the Labyrinth
-**Author**: Margalit Fox | **Year**: 2013
+**Author**: Margalit Fox | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "The Riddle of the Labyrinth" tells the true story of one of history's most captivating intellectual quests: the half-century effort to decipher Linear B, Europe's earliest known writing system discovered in 1900 at the ancient palace of Knossos on Crete. The book centers on three remarkable figures whose work spanned generations: Arthur Evans, the Victorian archaeologist who unearthed the tablets; Alice Kober, the unsung American scholar who did the crucial groundwork for decipherment; and Michael Ventris, the brilliant architect who finally cracked the code.

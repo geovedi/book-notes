@@ -1,5 +1,6 @@
 # Sensory System: A Tutorial Study Guide
 **Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Category**: Health & Medicine
 
 ## Summary
 "Sensory System" is a comprehensive tutorial study guide that explores the fascinating world of biological sensation and perception. Written in a clear question-and-answer format, this educational guide breaks down complex physiological processes into digestible modules that help students understand how living organisms detect and interpret various forms of energy from their environment.

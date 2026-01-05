@@ -1,5 +1,5 @@
 # Reinforcements: How to Get People to Help You
-**Author**: Heidi Grant | **Year**: 2018
+**Author**: Heidi Grant | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Reinforcements" tackles one of the most universal yet uncomfortable aspects of professional and personal life: asking for help. Despite living in an interconnected world where collaboration is essential, most people dread requesting assistance, often to their own detriment. Grant reveals that our reluctance to ask for help stems from evolutionary wiring that makes social requests feel physically painful, combined with faulty assumptions about how others will respond.

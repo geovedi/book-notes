@@ -1,5 +1,6 @@
 # Cryptocurrency: Strategies to Make Money with Cryptocurrency
 **Authors**: Gavin S. Finney | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide serves as a comprehensive playbook for cryptocurrency investors looking to implement effective money-making strategies in the volatile crypto market. The book covers five primary approaches to cryptocurrency earnings: investing, trading, mining, buying and holding, and exploring alternative cryptocurrencies. Written as a follow-up to the author's beginner's guide, this book targets readers who understand cryptocurrency basics but need strategic direction for profitable participation.

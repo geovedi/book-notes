@@ -1,5 +1,6 @@
 # 2024 Modern Gothic Stories
 **Authors**: Michael Bird, Pete Hartley, Edward Karshner, Rose Biggin, Lauren Archer, and Lerah Mae Barcenilla | **Year**: 2024
+**Category**: Horror & Thriller
 
 ## Summary
 "2024 Modern Gothic Stories" is a haunting collection of contemporary Gothic fiction that explores the darkness lurking beneath everyday surfaces. Published by Fly on the Wall Press, this anthology brings together six distinct voices who re-imagine Gothic traditions for modern readers. Each story masterfully blends psychological horror with social commentary, creating unsettling narratives that expose the rot within our institutions, homes, and relationships. The collection spans Victorian England to contemporary settings, demonstrating how Gothic themes remain relevant for exploring contemporary anxieties about power, isolation, identity, and decay.

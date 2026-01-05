@@ -1,6 +1,6 @@
 # Myths of the Norsemen
 **Original Title**: Myths of the Norsemen from the Eddas and Sagas
-**Author**: H.A. Guerber | **Year**: 2016
+**Author**: H.A. Guerber | **Year**: 2016 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 "Myths of the Norsemen" is a comprehensive collection of Scandinavian mythology that brings to life the epic stories of creation, the adventures of gods and giants, and the ultimate destiny of the cosmos. Drawing from ancient sources like the Poetic Edda and Prose Edda, this work preserves the rich oral traditions of the Northern European peoples who found their gods reflected in the dramatic landscapes of fire and ice, midnight sun and endless winter nights.

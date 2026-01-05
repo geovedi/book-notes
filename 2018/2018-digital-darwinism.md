@@ -1,5 +1,6 @@
 # Digital Darwinism
 **Author**: Tom Goodwin | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Digital Darwinism" presents a stark reality: modern companies are evolving in a digital world where technological and societal change happens faster than traditional business adaptation. Goodwin argues that natural business evolution is no longer sufficient—companies must embrace predictive, constant core change to survive. The book challenges readers to think beyond superficial digital "garnish" and undertake fundamental paradigm shifts that rebuild their businesses from the core.

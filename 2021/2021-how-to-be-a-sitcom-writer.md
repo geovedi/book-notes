@@ -1,5 +1,6 @@
 # How to Be a Sitcom Writer
 **Authors**: Marc Blake | **Year**: 2021
+**Category**: Art & Creativity
 
 ## Summary
 "How to Be a Sitcom Writer" is a comprehensive practical guide that breaks down the art and craft of situation comedy writing into teachable components. The book serves as both a technical manual and creative catalyst, covering everything from character development and relationship dynamics to plotting techniques and industry navigation. Blake draws on decades of experience as a comedy writer and educator to provide aspiring sitcom writers with the essential tools needed to transform their comedic ideas into marketable television scripts.

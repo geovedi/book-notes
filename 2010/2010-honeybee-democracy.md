@@ -1,5 +1,5 @@
 # Honeybee Democracy
-**Author**: Thomas D. Seeley | **Year**: 2010
+**Author**: Thomas D. Seeley | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 Honeybee Democracy reveals how honeybee swarms make collective decisions through a remarkable democratic process when choosing their new home. When a swarm of approximately 10,000 bees leaves their colony, they hang in a beard-like cluster while several hundred scout bees explore up to 70 square kilometers, discover potential nest sites, and engage in a sophisticated debate through dance communication. Through an ingenious balance of interdependence and independence, these tiny-brained bees consistently select the best available nesting cavity—demonstrating that collective intelligence can emerge from simple individuals working together without central leadership.

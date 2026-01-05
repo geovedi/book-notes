@@ -1,5 +1,5 @@
 # Sex with Kings
-**Authors**: Eleanor Herman | **Year**: 2004
+**Authors**: Eleanor Herman | **Year**: 2004 | **Category**: History & Biography
 
 ## Summary
 "Sex with Kings" reveals how royal mistresses shaped European history for 500 years, moving from the shadows of medieval courts to become powerful political players who influenced nations. From Diane de Poitiers to Madame de Pompadour, these women used more than just beauty—they wielded intelligence, charm, and political savvy to become indispensable advisors, power brokers, and even rulers in their own right. Herman exposes the fascinating double standards of royal courts, where kings could be promiscuous with impunity while mistresses faced constant threats of dismissal, disgrace, or death.

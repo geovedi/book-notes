@@ -1,6 +1,7 @@
 # Mao: The Unknown Story
 **Original Title**: Mao: Het onbekende verhaal
 **Authors**: Jung Chang, Jon Halliday | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking biography reveals Mao Zedong as one of history's most brutal tyrants, responsible for over 70 million deaths in peacetime—more than any other 20th-century leader. Drawing on previously inaccessible archives and interviews across continents, Chang and Halliday dismantle the myth of Mao as a revolutionary hero, exposing him instead as a calculating power-hungry manipulator who cared little for ideology or people. The book traces Mao's journey from a rural village in Hunan to absolute ruler of China, revealing how his personal ambition, strategic alliances, and willingness to sacrifice millions led to unprecedented human suffering.

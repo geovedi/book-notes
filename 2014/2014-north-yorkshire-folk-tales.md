@@ -1,5 +1,5 @@
 # North Yorkshire Folk Tales
-**Authors**: Ingrid Barton | **Year**: 2014
+**Authors**: Ingrid Barton | **Year**: 2014 | **Category**: Children & Young Adult
 
 ## Summary
 "North Yorkshire Folk Tales" is a vibrant collection of traditional stories that preserve the oral heritage of North Yorkshire's working people. Compiled and retold by Ingrid Barton, these tales range from heroic adventures against dragons and giants to clever encounters with magical creatures like hobs and fairies. The book captures the essence of Yorkshire's cultural identity through stories that have been passed down through generations, revealing the values, fears, and wisdom of the people who told them.

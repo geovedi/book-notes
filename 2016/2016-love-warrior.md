@@ -1,5 +1,5 @@
 # Love Warrior
-**Authors**: Glennon Doyle Melton | **Year**: 2016
+**Authors**: Glennon Doyle Melton | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 "Love Warrior" is a raw, courageous memoir about Glennon Doyle Melton's journey through marriage crisis, infidelity, and the difficult path toward authentic love and self-discovery. What began as a story about a seemingly perfect marriage collapses when Glennon discovers her husband Craig's infidelity, forcing her to confront the truth about her life, her past traumas, and the carefully constructed persona she's presented to the world.

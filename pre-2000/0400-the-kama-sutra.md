@@ -1,5 +1,6 @@
 # The Kama Sutra
 **Authors**: Vātsyāyana | **Year**: 400
+**Category**: Romance & Relationships
 
 ## Summary
 The Kama Sutra is an ancient Indian Sanskrit text on sexuality, emotion, and psychological fulfillment. Far more than just a manual of sexual positions, it's a comprehensive guide to the art of living well, loving fully, and achieving balance in life's three pillars: Dharma (virtuous living), Artha (material prosperity), and Kama (pleasure). Written sometime between 400 BCE and 300 CE, this sophisticated treatise explores love, courtship, marriage, extramarital relationships, and the cultivation of pleasure as an essential art form.

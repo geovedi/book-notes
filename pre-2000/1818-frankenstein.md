@@ -1,5 +1,6 @@
 # Frankenstein
 **Authors**: Mary Shelley | **Year**: 1818 (2017 Edition)
+**Category**: Horror & Thriller
 
 ## Summary
 Mary Shelley's "Frankenstein" tells the story of Victor Frankenstein, a brilliant but ambitious scientist who discovers the secret to creating life and animates a creature from assembled body parts. Horrified by his creation's appearance, Victor abandons his "child," setting in motion a tragic cycle of revenge and destruction that ultimately consumes both creator and creation. The novel explores profound questions about scientific responsibility, the nature of humanity, and the consequences of playing God.

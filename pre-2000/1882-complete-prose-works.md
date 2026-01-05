@@ -1,6 +1,7 @@
 # Complete Prose Works
 **Original Title**: Complete Prose Works
 **Author**: Walt Whitman | **Year**: 1882
+**Category**: Fiction & Literature
 
 ## Summary
 Walt Whitman's "Complete Prose Works" is a profound collection of memoirs, philosophical essays, and observations that captures the transformative spirit of 19th-century America. The work centers around Whitman's experiences as a Civil War nurse and his evolving vision of American democracy, blending intimate battlefield observations with expansive reflections on nature, poetry, and national identity. Written over several decades, these prose pieces reveal Whitman's role as both witness to and prophet of America's democratic evolution, offering readers an intimate glimpse into the formation of the American character through the crucible of war and the promise of democratic ideals.

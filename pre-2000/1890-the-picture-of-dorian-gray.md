@@ -1,5 +1,6 @@
 # The Picture of Dorian Gray
 **Authors**: Oscar Wilde | **Year**: 1890
+**Category**: Fiction & Literature
 
 ## Summary
 When artist Basil Hallward paints a portrait of the devastatingly handsome young Dorian Gray, Dorian makes a fateful wish: that the painting will age and bear the burden of his sins while he remains forever young and beautiful. His wish comes true, and over the next twenty years, Dorian pursues a life of hedonism and cruelty while his portrait deteriorates into a hideous record of his moral decay. Lord Henry Wotton's cynical philosophy about youth, beauty, and living life purely for sensation becomes Dorian's guiding principle, leading him down a path that destroys everyone who cares about him and ultimately himself.

@@ -1,5 +1,6 @@
 # The Millionaire Mindset
 **Authors**: Chris Ortega | **Year**: 2020
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Millionaire Mindset" reveals that success is fundamentally a mind game where your psychological approach determines your outcomes more than talent or skills alone. The book argues that while many people possess extraordinary gifts and abilities, only those with a properly tuned mindset achieve lasting success.

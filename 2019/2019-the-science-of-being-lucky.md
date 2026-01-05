@@ -1,5 +1,6 @@
 # The Science of Being Lucky
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Science of Being Lucky" dismantles the myth that luck is a mysterious force beyond our control. Through extensive psychological research, particularly the groundbreaking work of Professor Richard Wiseman, this book reveals that luck is an engineered trait that can be cultivated through specific mindsets and behaviors. The core premise is that what we call "luck" is actually the intersection of opportunity and preparation—when our mental state and actions position us to recognize and capitalize on chance encounters.

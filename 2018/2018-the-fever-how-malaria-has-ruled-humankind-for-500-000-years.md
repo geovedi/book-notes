@@ -1,5 +1,5 @@
 # The Fever
-**Authors**: Sonia Shah | **Year**: 2018
+**Authors**: Sonia Shah | **Year**: 2018 | **Category**: Health & Medicine
 
 ## Summary
 "The Fever" reveals how malaria has fundamentally shaped human civilization for half a million years, earning its ancient title as the "King of Diseases." Far from being a conquered relic of the past, malaria has continuously adapted to modern lifestyles, exploiting new opportunities created by economic development, urbanization, and climate change. Through a compelling narrative that spans from ancient times to present-day outbreaks in India's megacities, Shah demonstrates that malaria's resilience holds crucial lessons for understanding and combating emerging mosquito-borne diseases like dengue and chikungunya.

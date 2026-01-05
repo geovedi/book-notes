@@ -1,5 +1,5 @@
 # Evicted
-**Author**: Matthew Desmond | **Year**: 2016
+**Author**: Matthew Desmond | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 "Evicted" transforms our understanding of poverty in America through groundbreaking research and intimate storytelling. Desmond demonstrates that eviction is not just a consequence of poverty but a primary cause, creating a vicious cycle that traps families in destitution. The book follows eight families in Milwaukee as they struggle to keep their homes, revealing how the affordable housing crisis systematically dismantles lives, communities, and opportunities for upward mobility.

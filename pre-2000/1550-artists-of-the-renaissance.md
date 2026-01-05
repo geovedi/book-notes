@@ -1,6 +1,7 @@
 # Artists of the Renaissance
 **Original Title**: Künstler der Renaissance
 **Author**: Giorgio Vasari | **Year**: 1550 (first edition)
+**Category**: Art & Creativity
 
 ## Summary
 Giorgio Vasari's groundbreaking work marks the birth of art history as a discipline. This comprehensive collection of biographies traces the evolution of Italian Renaissance art from Cimabue through Michelangelo, capturing not just artistic techniques but the very essence of what made the Renaissance revolutionary: the emergence of the individual artist as a creative genius worthy of recognition and immortal fame.

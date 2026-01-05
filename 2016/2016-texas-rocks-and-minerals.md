@@ -1,5 +1,5 @@
 # Texas Rocks and Minerals: An Amateur's Guide
-**Authors**: Roselle M. Girard, Bill M. Harris (illustrations) | **Year**: 2016
+**Authors**: Roselle M. Girard, Bill M. Harris (illustrations) | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This practical field guide demystifies geology for beginners through a systematic approach to rock and mineral identification specifically tailored to Texas's diverse geological landscape. The book transforms complex mineralogical concepts into accessible, hands-on knowledge that school children, amateur collectors, and curious Texans can apply immediately in the field.

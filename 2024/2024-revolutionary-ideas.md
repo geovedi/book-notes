@@ -1,5 +1,6 @@
 # Revolutionary Ideas
 **Authors**: Ricky Long | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Revolutionary Ideas" explores five transformative movements that fundamentally reshaped human civilization: the Enlightenment's emphasis on reason and individual rights, the Industrial Revolution's technological and economic upheaval, the global spread of democracy through revolution, the Information Age's digital transformation, and the emerging revolutions in AI, biotechnology, and renewable energy. The book traces how each movement emerged, spread globally, and created both opportunities and challenges that continue to influence our contemporary world.

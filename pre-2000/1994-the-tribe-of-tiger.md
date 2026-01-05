@@ -1,5 +1,6 @@
 # The Tribe of Tiger: Cats and Their Culture
 **Author**: Elizabeth Marshall Thomas | **Year**: 1994
+**Category**: Science & Nature
 
 ## Summary
 This groundbreaking book explores the fascinating world of cats—from domestic housecats to majestic tigers—revealing that these animals possess complex cultures, social structures, and behaviors passed down through generations. Thomas combines decades of field observation, scientific research, and personal anecdotes to challenge our understanding of feline nature. She demonstrates that cats are not merely instinct-driven predators but intelligent, adaptive creatures with rich inner lives and sophisticated cultural traditions.

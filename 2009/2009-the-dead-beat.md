@@ -1,5 +1,6 @@
 # The Dead Beat
 **Author**: Marilyn Johnson | **Year**: 2009
+**Category**: Art & Creativity
 
 ## Summary
 Marilyn Johnson's "The Dead Beat" is a fascinating exploration into the world of obituaries and the subculture of those who write and read them. The book reveals how obituaries have transformed from dry, formulaic death notices into a vibrant form of literature that captures the essence of lives lived. Johnson takes us behind the scenes to meet the obituary writers, the devoted readers who form the "Church of Obituaries," and shows how this seemingly morbid passion offers profound insights into life, death, and what makes a story worth telling.

@@ -1,5 +1,6 @@
 # The New Wild West
 **Authors**: Blaire Briody | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "The New Wild West" is a compelling work of narrative non-fiction that chronicles the transformative impact of the Bakken oil boom on North Dakota during the early 2010s. Through the intimate stories of five main characters—farmer Donny Nelson, oil worker Tom Stakes, single mother Chelsea Niehaus, female roughneck Cindy Marchello, and Pastor Jay Reinke—Briody reveals how hydraulic fracturing technology unleashed a modern-day gold rush that permanently altered the landscape, economy, and social fabric of one of America's most overlooked states.

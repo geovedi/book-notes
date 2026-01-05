@@ -1,5 +1,5 @@
 # Elon Musk: Risking It All
-**Authors**: Michael Vlismas | **Year**: 2022
+**Authors**: Michael Vlismas | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 "Elon Musk: Risking It All" chronicles the extraordinary journey of a South African boy who became one of the most influential entrepreneurs and visionaries of our time. Born in Pretoria in 1971 during the height of apartheid, Musk was a "strange child" who knew from age five that his mind worked differently – exploding with constant ideas and questions that scared him with their intensity. From reading science fiction comics in his childhood to building real electric cars and space rockets, Musk has dedicated his life to turning science fiction into reality.

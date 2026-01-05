@@ -1,5 +1,6 @@
 # The Winter's Tale
 **Authors**: William Shakespeare | **Year**: 1610
+**Category**: Romance & Relationships
 
 ## Summary
 King Leontes of Sicilia allows irrational jealousy to destroy his kingdom when he accuses his pregnant wife Hermione of adultery with his childhood friend King Polixenes of Bohemia. Despite the oracle's declaration of Hermione's innocence, Leontes' rage leads to death, exile, and the abandonment of his newborn daughter Perdita. Sixteen years later, fate orchestrates a remarkable reunion when Perdita, raised by a shepherd in Bohemia, falls in love with Polixenes' son Florizel, leading to the play's miraculous conclusion where Hermione, believed dead for sixteen years, is revealed to be alive.

@@ -1,5 +1,6 @@
 # The Starlight Quest
 **Authors**: Rachel Morgan | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Starlight Quest" is the fifth installment in the City of Wishes series, following Elle, a human enslaved by a slave charm in a world dominated by magical races. After making a dangerous deal with the mysterious Godmother to heal her vampire love Dex, Elle discovers she must complete an ancient quest to obtain magic—a power humans haven't possessed for centuries. She learns that humans once ruled alongside fae, vampires, and shifters until the fae conquered them, erased their magical history, and enslaved them.

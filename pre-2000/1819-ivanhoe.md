@@ -1,5 +1,6 @@
 # Ivanhoe
 **Authors**: Walter Scott | **Year**: 1819
+**Category**: Fiction & Literature
 
 ## Summary
 Set in 12th-century England during the reign of Richard the Lionheart, *Ivanhoe* tells the story of Wilfred of Ivanhoe, a disinherited Saxon knight who returns from the Crusades to find his homeland torn between Norman oppressors and Saxon resistance. Disguised as the "Disinherited Knight," Ivanhoe fights in a tournament where he defeats Norman champions but is wounded, setting off a chain of events involving kidnapping, rescue, and ultimately the restoration of King Richard to his rightful throne. Against a backdrop of cultural conflict between conquering Normans and subjugated Saxons, the novel explores themes of loyalty, honor, and reconciliation, while featuring one of literature's most memorable heroines, the Jewish healer Rebecca, who faces religious persecution while demonstrating extraordinary courage and compassion.

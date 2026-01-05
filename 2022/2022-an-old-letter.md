@@ -1,6 +1,6 @@
 # An Old Letter
 **Original Title**: Een oude brief
-**Author**: Hilbert Sluiter | **Year**: 2022 
+**Author**: Hilbert Sluiter | **Year**: 2022 | **Category**: Fiction & Literature 
 
 ## Summary
 "An Old Letter" is a gripping Dutch crime novel that weaves together a decades-spanning mystery beginning with a brutal rape in 1939 and culminating in a modern police investigation in 2012. The story follows Sandra Steenhouwer, a young woman who is sexually assaulted by three men, becomes pregnant, and is subsequently disowned by her strictly religious family. The traumatic event sets in motion a chain of consequences that reverberate through generations, eventually leading to multiple murders and a cold case investigation that reveals the devastating long-term impact of violence, shame, and family secrets.

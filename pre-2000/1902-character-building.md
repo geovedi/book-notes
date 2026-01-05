@@ -1,5 +1,6 @@
 # Character Building
 **Authors**: Booker T. Washington | **Year**: 1902
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Character Building" is a collection of Sunday evening addresses delivered by Booker T. Washington to students at the Tuskegee Institute. These heartfelt talks, delivered in a conversational tone like a father speaking to his children around the fireside, offer practical wisdom on developing strong character, maintaining integrity, and living a purposeful life. Washington emphasizes that education is not merely about academic knowledge but about building moral fiber, reliability, and service to others.

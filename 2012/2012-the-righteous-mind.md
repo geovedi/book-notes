@@ -1,5 +1,6 @@
 # The Righteous Mind
 **Author**: Jonathan Haidt | **Year**: 2012
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Righteous Mind" reveals why good people remain divided by politics and religion. Haidt argues that moral judgments are primarily intuitive (emotional) rather than rational, with reasoning serving mostly to justify our initial gut feelings. Our minds work like an elephant (intuition) with a rider (reason), where the rider's job is to serve the elephant, not control it.

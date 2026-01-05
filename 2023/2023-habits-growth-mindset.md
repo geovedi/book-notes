@@ -1,5 +1,6 @@
 # Habits & Growth Mindset
 **Authors**: Eric Holt | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book reveals how understanding and deliberately cultivating positive habits can transform your life by unlocking your potential for personal growth, productivity, and success. The author demonstrates that habits are not mundane routines but the fundamental building blocks that shape our destiny, showing how small, consistent actions can create cascading positive changes across all areas of life.

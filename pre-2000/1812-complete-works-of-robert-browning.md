@@ -1,5 +1,6 @@
 # Complete Works of Robert Browning
 **Authors**: Robert Browning | **Year**: 1812–1889
+**Category**: Fiction & Literature
 
 ## Summary
 Robert Browning stands as one of Victorian England's most innovative and psychologically profound poets. This comprehensive collection spans his entire career, from early dramatic experiments to mature masterworks. Browning revolutionized poetry through his development of the dramatic monologue—poems spoken by characters who reveal their psychology through their own words, often unwittingly exposing their moral flaws, passions, and delusions.

@@ -1,5 +1,6 @@
 # Academic Writing Now: A Brief Guide for Busy Students
 **Authors**: David Starkey | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Academic Writing Now is a concise, time-efficient guide designed specifically for busy college students who need to master academic writing quickly. The book breaks down the writing process into three main phases—preparation ("Ready, Set…"), drafting ("Go"), and revision ("Go Again")—offering practical strategies for each stage while respecting students' limited time.

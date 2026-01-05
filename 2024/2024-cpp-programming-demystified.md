@@ -1,6 +1,7 @@
 # C++ Programming Demystified: From Novice to Mastery
 
 **Authors**: Unknown | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 This comprehensive guide transforms beginners into proficient C++ programmers through a structured approach that builds from foundational concepts to advanced techniques. The book emphasizes C++20's revolutionary features while maintaining focus on practical applications across gaming, finance, systems programming, and scientific computing.

@@ -1,5 +1,5 @@
 # Performance Coaching: The Handbook for Managers, H.R. Professionals and Coaches
-**Authors**: Angus I. McLeod, PhD | **Year**: 2003
+**Authors**: Angus I. McLeod, PhD | **Year**: 2003 | **Category**: Business & Finance
 
 ## Summary
 "Performance Coaching" is a comprehensive guide that transforms the art of coaching into a systematic, learnable skill set for business professionals. McLeod presents coaching not as a mysterious talent but as a disciplined practice built on three fundamental instruments: silence, questions, and challenge. The book bridges the gap between counseling psychology and business performance, offering practical tools that managers, HR professionals, and dedicated coaches can immediately apply to unlock human potential in organizational settings.

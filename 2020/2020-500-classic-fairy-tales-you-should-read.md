@@ -1,5 +1,6 @@
 # 500 Classic Fairy Tales You Should Read
 **Authors**: Various (including Anonymous, Margaret Arndt, Peter Christen Asbjørnsen, Jørgen Moe, Robert Nisbet Bain, James Baldwin, Charles Perrault, Oscar Wilde, and many more) | **Year**: 2020 (Compilation)
+**Category**: Fiction & Literature
 
 ## Summary
 This monumental anthology brings together 500 timeless fairy tales from around the world, spanning cultures, continents, and centuries. From the enchanted palaces of Arabian Nights to the misty forests of European folklore, this collection serves as both a treasure trove of classic stories and a cultural document preserving humanity's most cherished narratives. The compilation features famous tales that have shaped childhoods for generations alongside lesser-known gems from diverse traditions including Persian, Russian, Japanese, Indian, and African folklore.

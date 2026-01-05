@@ -1,5 +1,6 @@
 # Plucked: A History of Hair Removal
 **Authors**: Rebecca M. Herzig | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 

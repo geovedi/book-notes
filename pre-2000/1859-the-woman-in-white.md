@@ -1,5 +1,6 @@
 # The Woman in White
 **Authors**: Wilkie Collins | **Year**: 1859
+**Category**: Fiction & Literature
 
 ## Summary
 "The Woman in White" is a gripping Victorian mystery that follows Walter Hartright, a young drawing master who encounters a mysterious woman dressed in white on a lonely London road. This chance meeting launches him into a complex web of deception, identity theft, and conspiracy that threatens the lives and fortunes of innocent victims. The novel unfolds through multiple narrators, each providing their perspective on the unfolding drama, creating a rich tapestry of suspense and psychological intrigue.

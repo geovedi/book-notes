@@ -1,5 +1,5 @@
 # Pushing the Envelope
-**Authors**: Unknown | **Year**: 2011
+**Authors**: Unknown | **Year**: 2011 | **Category**: Business & Finance
 
 ## Summary
 "Pushing the Envelope" is a witty and informative exploration of business jargon, corporate buzzwords, and the ever-evolving language of the workplace. The book serves as both a glossary and cultural commentary, tracing the origins of modern business expressions from their diverse sources - including aviation, sports, military, technology, and even nineteenth-century children's novels.

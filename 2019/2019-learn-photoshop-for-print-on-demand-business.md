@@ -1,5 +1,6 @@
 # Learn Photoshop for Print on Demand Business
 **Authors**: Kenny Nicholas | **Year**: 2019
+**Category**: Technology & Computing
 
 ## Summary
 "Learn Photoshop for Print on Demand Business" is a streamlined, beginner-friendly guide designed to teach you exactly what you need to know about Photoshop for creating text-based designs for print-on-demand products like T-shirts, mugs, and phone cases. Instead of overwhelming you with Photoshop's vast capabilities, this book focuses specifically on the essential tools and techniques that will have you creating marketable designs in less than a week.

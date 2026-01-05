@@ -1,5 +1,6 @@
 # The Art of Consultancy
 **Authors**: Calvert Markham | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "The Art of Consultancy" delivers a practical framework for management consultants at all levels, from newcomers to seasoned practitioners. This seventh edition presents consulting as both a science and an art—combining systematic processes with the nuanced skills of relationship building and influencing. The book's core premise is that consultancy is fundamentally about delivering specialist skills within a client environment, where success hinges on the consultant's ability to add value through structured projects while maintaining professional credibility and ethical standards.

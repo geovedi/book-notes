@@ -1,6 +1,7 @@
 # Introducing Hibirism
 **Original Title**: Introducing Hibirism ... In the Meantime: A Guide to Black Cultural Nuance
 **Authors**: Donald Mokgale, Ernest Nkomotje | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Introducing Hibirism" is a refreshingly irreverent and intellectually provocative exploration of contemporary black South African culture, born from an unlikely source: the popular song "Sister Bethina" by Mgarimbe. The authors transform the song's recurring term "hibiri" from a mere social salutation into a comprehensive philosophy that offers a unique lens for understanding black cultural nuances in modern South Africa. Written with humor, personal anecdotes, and sharp theoretical insights, this book serves as both a cultural guide for businesses seeking to connect with black audiences and a philosophical framework for individuals navigating the complexities of post-apartheid South African identity.

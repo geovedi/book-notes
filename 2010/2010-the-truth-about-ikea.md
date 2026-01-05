@@ -1,5 +1,5 @@
 # The Truth About IKEA
-**Authors**: Johan Stenebo | **Year**: 2010
+**Authors**: Johan Stenebo | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 "The Truth About IKEA" provides a rare insider's perspective on one of the world's most successful yet secretive retail giants. Written by Johan Stenebo, who spent 20 years in IKEA's executive ranks including three years as personal assistant to founder Ingvar Kamprad, this explosive exposé reveals the dark side behind IKEA's carefully crafted wholesome image. Stenebo witnessed the company's phenomenal growth from SEK 25 billion to 250 billion and from 70 to 250 stores globally, providing unprecedented access to the inner workings of the Kamprad empire.

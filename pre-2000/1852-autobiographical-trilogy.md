@@ -1,5 +1,6 @@
 # Autobiographical Trilogy
 **Authors**: Leo Tolstoy | **Year**: 1852-1856
+**Category**: History & Biography
 
 ## Summary
 Leo Tolstoy's autobiographical trilogy traces the formation of a young nobleman's consciousness from childhood through early youth. Through intimate recollections of his early years, Tolstoy explores the development of moral awareness, emotional sensitivity, and intellectual awakening in 19th-century Russian aristocratic society.

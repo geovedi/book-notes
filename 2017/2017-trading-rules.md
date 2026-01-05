@@ -1,5 +1,6 @@
 # Trading Rules: A Practical Guide to Successful Trading
 **Authors**: Patt Tomas | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This book presents 10 essential trading rules that separate successful traders from average ones. The core premise is that discipline and proper risk management matter more than complex strategies or market predictions. The book emphasizes that trading success comes from following established rules consistently, managing emotions, and protecting capital. It's designed for beginner to intermediate traders looking to build a strong foundation in trading discipline and risk management.

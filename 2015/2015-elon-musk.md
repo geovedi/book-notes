@@ -1,5 +1,5 @@
 # Elon Musk
-**Author**: Ashlee Vance | **Year**: 2015
+**Author**: Ashlee Vance | **Year**: 2015 | **Category**: Technology & Computing
 
 ## Summary
 Ashlee Vance's authorized biography provides unprecedented access to the man behind SpaceX, Tesla, and SolarCompany. It chronicles Musk's journey from bullied South African child to Silicon Valley icon who bet his entire fortune on three seemingly impossible ventures. The book reveals how Musk's "first principles" thinking, extreme work ethic, and existential mission to make humanity multiplanetary have enabled him to revolutionize multiple industries simultaneously.

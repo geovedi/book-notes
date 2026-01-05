@@ -1,5 +1,6 @@
 # Climate Solutions
 **Authors**: Various experts from the European Investment Bank | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 Climate Solutions presents a comprehensive guide to why climate change represents humanity's most pressing challenge and provides actionable solutions across multiple sectors. The book brings together expertise from European Investment Bank specialists who work directly on climate projects, offering both strategic insights and practical steps that individuals, policymakers, and financial institutions can take to combat global warming.

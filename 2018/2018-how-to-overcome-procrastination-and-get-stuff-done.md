@@ -1,5 +1,6 @@
 # How to Overcome Procrastination and Get Stuff Done
 **Authors**: Perez Dalton | **Year**: 2018
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Procrastination is the biggest enemy of productivity, affecting different people for different reasons. Most people delay tasks waiting for the "perfect time" to begin, leading to continuous postponement and piled-up work. This book provides practical strategies to overcome procrastination by addressing its root causes: perfectionism, poor environment, unrealistic goals, and lack of proper systems.

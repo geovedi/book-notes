@@ -1,5 +1,6 @@
 # The Bright Light of Death
 **Authors**: Annabel Chaplin | **Year**: 1977
+**Category**: Spirituality & Religion
 
 ## Summary
 "The Bright Light of Death" is a profound exploration of what happens when souls become earthbound after death and how they can be helped to transition to their proper place in the afterlife. Chaplin presents remarkable case histories from her work as a spiritual counselor, demonstrating that the dead can remain attached to the living and drain their energy, while also suffering themselves. The book provides both the theoretical understanding of this phenomenon and practical techniques for what Chaplin calls "The Act of Severance" - helping both the dead move toward the Light and the living reclaim their vitality.

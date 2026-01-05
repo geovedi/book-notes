@@ -1,5 +1,6 @@
 # Courage Is Calling
 **Authors**: Ryan Holiday | **Year**: 2021
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Courage is not a rare gem reserved for battlefield heroes, but a renewable resource available to everyone in daily life. Holiday argues that courage—the first of the four cardinal virtues—is essential for living a meaningful life, yet remains in short supply because fear, comfort, and social pressure hold us back.

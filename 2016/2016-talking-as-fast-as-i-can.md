@@ -1,5 +1,5 @@
 # Talking as Fast as I Can
-**Author**: Lauren Graham | **Year**: 2016
+**Author**: Lauren Graham | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 Lauren Graham's memoir is a witty, heartfelt collection of essays chronicling her journey from struggling actress to beloved star of "Gilmore Girls." Written with the same fast-talking charm that made Lorelai Gilmore iconic, the book blends behind-the-scenes stories from the show's revival with candid reflections on career struggles, Hollywood absurdities, and the lessons learned from years in the entertainment industry.

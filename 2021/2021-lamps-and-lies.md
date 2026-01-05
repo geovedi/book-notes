@@ -1,5 +1,6 @@
 # Lamps and Lies
 **Authors**: Laura Greenwood | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Lamps and Lies is a captivating retelling of the Aladdin fairy tale set in the magical world of Grimm Academy. The story follows Alyeesah, a street-smart orphan who discovers a magical ring containing a genie and uses her first wish to transform herself into a Princess so she can attend the prestigious academy and escape life on the streets.

@@ -1,5 +1,5 @@
 # You Are Not So Smart
-**Author**: David McRaney | **Year**: 2011
+**Author**: David McRaney | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 "You Are Not So Smart" is a fascinating exploration of human cognitive biases, heuristics, and logical fallacies that systematically distort our thinking and decision-making. McRaney reveals how our brains are wired for self-deception, not because we're flawed, but because these mechanisms help us navigate reality and maintain positive self-images. The book demonstrates through psychological research and compelling examples that we're all delusional—and that's perfectly normal.

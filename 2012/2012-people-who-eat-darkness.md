@@ -1,5 +1,6 @@
 # People Who Eat Darkness
 **Authors**: Richard Lloyd Parry | **Year**: 2012
+**Category**: Horror & Thriller
 
 ## Summary
 People Who Eat Darkness is a masterwork of true crime journalism that investigates the disappearance and murder of Lucie Blackman, a 21-year-old British former flight attendant who vanished from Tokyo in 2000 while working as a hostess in the Roppongi district. The book follows Lucie's journey from her ordinary life in England through her fateful decision to travel to Japan, her mysterious disappearance after leaving with a customer, and the agonizing seven-month search conducted by her family and friends that ultimately ended with the horrific discovery of her dismembered remains buried in a seaside cave.

@@ -1,5 +1,6 @@
 # The Book of Nordic Self-Care
 **Authors**: Elisabeth Carlsson | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 "The Book of Nordic Self-Care" reveals how Nordic countries have mastered well-being through simple, nature-connected living practices that prioritize balance over burnout. Drawing from centuries-old traditions adapted for modern life, Carlsson shows how embracing outdoor living, seasonal awareness, and mindful simplicity can transform our approach to self-care. This isn't about expensive products or complicated routines—it's about returning to the wisdom that has helped Nordic people thrive in some of the world's most challenging climates.

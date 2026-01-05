@@ -1,5 +1,5 @@
 # You Can't Go Home Again
-**Authors**: Thomas Wolfe | **Year**: 2018
+**Authors**: Thomas Wolfe | **Year**: 2018 | **Category**: Fiction & Literature
 
 ## Summary
 "You Can't Go Home Again" is a semi-autobiographical novel that follows George Webber, a young writer who achieves sudden fame and success, only to discover that he cannot return to his hometown or recapture his past. The novel explores the universal human experience of change, memory, and the painful realization that time transforms everything—people, places, and relationships—making true returns impossible.

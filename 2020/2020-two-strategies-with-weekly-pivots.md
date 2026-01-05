@@ -1,5 +1,6 @@
 # Two Strategies with Weekly Pivots
 **Authors**: Heikin Ashi Trader | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 This practical trading guide presents two systematic approaches to forex scalping using weekly pivot points as key support and resistance levels. The book emphasizes that weekly pivots are more reliable than daily pivots because they're calculated from a full week of data and are more likely to be respected by institutional traders. The strategies are designed for disciplined execution with clear entry, exit, and risk management rules.

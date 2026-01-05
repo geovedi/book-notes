@@ -1,5 +1,6 @@
 # On Tyranny
 **Author**: Timothy Snyder | **Year**: 2017
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Drawing lessons from the rise of fascism and communism in 20th century Europe, Snyder presents twenty practical guidelines for defending democracy and resisting authoritarianism. The book serves as both a historical warning and an actionable handbook for citizens concerned about the erosion of democratic institutions and norms in contemporary society. It demonstrates how tyranny often begins not with dramatic coups, but with small, incremental compromises that citizens make in their daily lives.

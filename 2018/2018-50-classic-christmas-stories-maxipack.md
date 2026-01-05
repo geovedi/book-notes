@@ -1,5 +1,5 @@
 # 50 Classic Christmas Stories Maxipack
-**Authors**: 100 Authors including Charles Dickens, Mark Twain, Arthur Conan Doyle, O. Henry, and more | **Year**: 2018
+**Authors**: 100 Authors including Charles Dickens, Mark Twain, Arthur Conan Doyle, O. Henry, and more | **Year**: 2018 | **Category**: Fiction & Literature
 
 ## Summary
 This massive anthology brings together 657 Christmas-themed works from 138 different authors, spanning four volumes of holiday literature. From complete novellas like Dickens' "A Christmas Carol" to short stories, poems, and even letters from Santa Claus by Mark Twain, this collection represents the most comprehensive gathering of Christmas stories ever assembled. The works span multiple eras, genres, and styles, from classic 19th-century tales to early 20th-century stories, covering everything from ghostly supernatural encounters to heartwarming family narratives.

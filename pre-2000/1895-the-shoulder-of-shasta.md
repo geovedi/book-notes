@@ -1,5 +1,6 @@
 # The Shoulder of Shasta
 **Authors**: Bram Stoker | **Year**: 1895
+**Category**: Fiction & Literature
 
 ## Summary
 "The Shoulder of Shasta" tells the story of Esse Elstree, a young woman suffering from poor health, whose mother takes her to spend the summer on Mount Shasta in California. There they meet Grizzly Dick, a rugged mountain man who becomes their guide and protector. When Esse has a dangerous encounter with a bear, Dick saves her life, creating a deep bond between them. After returning to San Francisco, Esse becomes engaged to Reginald Hampden but accidentally sends word that she wants to see Dick again. Dick misunderstands this as a romantic invitation and travels to the city in his finest clothes to propose to Esse publicly at her engagement party, leading to a dramatic confrontation that ultimately ends in understanding and mutual respect.

@@ -1,5 +1,6 @@
 # Uranium: War, Energy and the Rock That Shaped the World
 **Author**: Tom Zoellner | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 Tom Zoellner's "Uranium" is a sweeping historical narrative that reveals how this single element reshaped global politics, warfare, and energy production. The book follows uranium's journey from a little-known mineral once used as ceramic glaze to the cornerstone of nuclear weapons and power plants that define modern geopolitics. Zoellner traces uranium's path through the Congo mines that fueled the Manhattan Project, Cold War nuclear proliferation, and today's debates about nuclear energy and weapons proliferation.

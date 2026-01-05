@@ -1,5 +1,5 @@
 # The Fire Next Time
-**Author**: James Baldwin | **Year**: 1963
+**Author**: James Baldwin | **Year**: 1963 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Fire Next Time" is a powerful examination of race relations in America, consisting of two letters: a personal letter to Baldwin's nephew on the 100th anniversary of emancipation, and a longer letter reflecting on Baldwin's experiences with religion, race, and identity. The book confronts the brutal reality of systemic racism while offering a path toward reconciliation through love and mutual recognition.

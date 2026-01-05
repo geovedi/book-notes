@@ -1,5 +1,6 @@
 # Half the Sky: Turning Oppression into Opportunity for Women Worldwide
 **Authors**: Nicholas D. Kristof, Sheryl WuDunn | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 "Half the Sky" exposes the brutal reality of gender-based oppression worldwide while presenting a powerful message of hope and transformation. The authors argue that the paramount human rights challenge of the 21st century is the systematic discrimination and violence against women in developing countries. Through compelling personal stories and hard data, they reveal how an estimated 60-107 million women are "missing" from the global population due to gender discrimination, ranging from sex-selective abortions to maternal mortality and honor killings.

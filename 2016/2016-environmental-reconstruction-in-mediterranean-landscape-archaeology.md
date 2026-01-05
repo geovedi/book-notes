@@ -1,5 +1,5 @@
 # Environmental Reconstruction in Mediterranean Landscape Archaeology
-**Editors**: Philippe Leveau, Frédéric Trément, Kevin Walsh, Graeme Barker | **Year**: 2016
+**Editors**: Philippe Leveau, Frédéric Trément, Kevin Walsh, Graeme Barker | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This comprehensive academic volume presents cutting-edge methodologies for reconstructing ancient Mediterranean environments through interdisciplinary scientific approaches. Part of the prestigious POPULUS project series funded by the EU, this book addresses the fundamental challenge of understanding how humans have interacted with Mediterranean landscapes over thousands of years. The editors bring together contributions from leading European specialists to establish best practices in environmental archaeology, with particular focus on the period from 3000 BC to AD 1800.

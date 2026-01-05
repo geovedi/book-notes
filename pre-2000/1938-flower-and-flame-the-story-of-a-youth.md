@@ -1,6 +1,7 @@
 # Flower and Flame: The Story of a Youth
 **Original Title**: Blume und Flamme: Geschichte einer Jugend
-**Author**: Emmy Ball-Hennings | **Year**: 1938 
+**Author**: Emmy Ball-Hennings | **Year**: 1938
+**Category**: Fiction & Literature 
 
 ## Summary
 "Flower and Flame" is a poignant autobiographical novel that chronicles the coming-of-age of Helga, a sensitive, artistic, and spiritually inclined girl in northern Germany during the late 19th century. The narrative follows her journey from childhood dreams and religious devotion through various service positions, exploring themes of social class, spiritual longing, and the struggle between innocence and experience. Helga's path takes her from middle-class comfort to domestic service, where she encounters both cruelty and kindness, ultimately leading her toward a darker trajectory while maintaining her core spiritual sensitivity.

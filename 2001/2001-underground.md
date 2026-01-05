@@ -1,5 +1,5 @@
 # Underground
-**Author**: Haruki Murakami | **Year**: 2001
+**Author**: Haruki Murakami | **Year**: 2001 | **Category**: History & Biography
 
 ## Summary
 Haruki Murakami's "Underground" is a groundbreaking work of literary journalism that examines the 1995 Tokyo subway sarin gas attack through intimate interviews with both victims and former Aum Shinrikyo cult members. On March 20, 1995, members of the religious cult released deadly sarin nerve gas on five separate subway trains during morning rush hour, killing 13 people and injuring over 6,000 others.

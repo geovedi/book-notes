@@ -1,5 +1,6 @@
 # Night Warriors
 **Authors**: Graham Masterton | **Year**: 2023
+**Category**: Horror & Thriller
 
 ## Summary
 When three strangers—Henry, a philosophy professor; Gil, a young jogger; and Susan, a teenager—discover the body of a beautiful young woman on a California beach, they unknowingly stumble upon an ancient evil that has been unleashed upon the world. The girl's death is revealed to be the work of Yaomauitl, a malevolent Devil entity that impregnates victims through grotesque acts, insinuating itself into thousands of unsuspecting people.

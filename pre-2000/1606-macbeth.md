@@ -1,5 +1,6 @@
 # Macbeth
 **Authors**: William Shakespeare | **Year**: c. 1606
+**Category**: Fiction & Literature
 
 ## Summary
 Macbeth chronicles the tragic downfall of a Scottish nobleman whose ambition, fueled by supernatural prophecy and his wife's manipulation, drives him to murder King Duncan and seize the throne. What begins as a promising military career devolves into a spiral of paranoia, violence, and madness as Macbeth desperately clings to illegitimate power. The play explores themes of unchecked ambition, guilt, and the destructive nature of evil.

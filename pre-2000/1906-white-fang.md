@@ -1,5 +1,6 @@
 # White Fang
 **Authors**: Jack London | **Year**: 1906 (Original Publication), 2021 (This Edition)
+**Category**: Fiction & Literature
 
 ## Summary
 "White Fang" is a powerful exploration of nature versus nurture, following the journey of a wolf-dog hybrid born in the harsh wilderness of the Yukon. The story begins with White Fang's birth to a wolf mother and dog father, tracing his evolution from a wild creature of the "Wild" to a fighting dog, and ultimately to a loyal companion transformed by love. Set against the backdrop of the Klondike Gold Rush, the novel examines how environment shapes behavior, the brutal realities of survival, and the transformative power of compassion.

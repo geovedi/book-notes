@@ -1,5 +1,6 @@
 # Origins of the Universe: The Cosmic Microwave Background and the Search for Quantum Gravity
 **Authors**: Keith Cooper | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 "Origins of the Universe" takes readers on a journey through one of humanity's greatest questions: how did everything begin? Cooper masterfully weaves together the discovery of the Cosmic Microwave Background (CMB) radiation - the faint afterglow of the Big Bang - with the ongoing quest to understand the universe's birth through the lens of quantum gravity. The book transforms complex cosmological concepts into accessible narratives, from the accidental discovery of the CMB by Penzias and Wilson to modern space missions like COBE and Planck that have mapped this cosmic fossil radiation in unprecedented detail.

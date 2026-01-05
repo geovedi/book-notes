@@ -1,5 +1,6 @@
 # The Science of Self-Discipline
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book reveals the scientific foundations behind self-discipline and provides practical strategies for developing this crucial skill. Hollins combines neuroscience research with proven techniques from elite performers like Navy SEALs to show how anyone can strengthen their willpower "muscle" and achieve their goals.

@@ -1,5 +1,5 @@
 # Your Table Is Ready
-**Author**: Michael Cecchi-Azzolina | **Year**: 2022
+**Author**: Michael Cecchi-Azzolina | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 "Your Table Is Ready" is a captivating memoir that takes you behind the scenes of New York City's most exclusive restaurants through the eyes of a veteran maître d'. Michael Cecchi-Azzolina chronicles his remarkable journey from working at his family's Brooklyn store to becoming the gatekeeper of NYC's dining elite, spanning decades and including stints at legendary establishments like the River Café, Raoul's, and the Michelin-starred Le Coucou.

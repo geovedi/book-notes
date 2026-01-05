@@ -1,5 +1,6 @@
 # The Yellow Wallpaper
 **Authors**: Charlotte Perkins Gilman | **Year**: 1892
+**Category**: Fiction & Literature
 
 ## Summary
 This haunting short story follows an unnamed woman suffering from postpartum depression who is confined to a nursery room by her physician husband as part of a "rest cure." Prescribed complete idleness and forbidden from writing or engaging in intellectual activity, she becomes obsessed with the room's yellow wallpaper, seeing a woman trapped behind the pattern who desperately tries to escape. As the days pass, the narrator's mental state deteriorates, and she begins to identify with the trapped woman, ultimately descending into psychosis as she tears down the wallpaper to "free" both the woman and herself.

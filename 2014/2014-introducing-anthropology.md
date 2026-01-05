@@ -1,5 +1,5 @@
 # Introducing Anthropology
-**Authors**: Merryl Wyn-Davis | **Year**: 2014
+**Authors**: Merryl Wyn-Davis | **Year**: 2014 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Introducing Anthropology" provides a comprehensive yet accessible exploration of anthropology's evolution from its colonial origins to its modern-day practice. The book critically examines how anthropology emerged as the "study of primitive man" and traces its transformation through major theoretical shifts, including evolutionism, functionalism, structuralism, and postmodern approaches. Through a graphic guide format, it reveals anthropology's complicated relationship with colonialism, its ongoing struggle with questions of representation and authority, and its continuing efforts to understand human cultural diversity.

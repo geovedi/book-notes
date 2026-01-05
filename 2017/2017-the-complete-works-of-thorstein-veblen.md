@@ -1,5 +1,6 @@
 # The Complete Works of Thorstein Veblen
 **Authors**: Thorstein Veblen | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 Thorstein Veblen's complete works represent a revolutionary critique of modern capitalism and American society from one of the most original economic thinkers in history. This comprehensive collection includes his landmark books and essays that introduced concepts like "conspicuous consumption" and challenged the foundations of classical economics. Veblen analyzed the evolution from primitive societies to modern industrial civilization, exposing the wasteful and predatory aspects of business enterprise that he saw as distinct from productive industry.

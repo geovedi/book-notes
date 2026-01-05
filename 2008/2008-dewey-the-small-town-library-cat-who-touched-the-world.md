@@ -1,5 +1,6 @@
 # Dewey: The Small-Town Library Cat Who Touched the World
 **Authors**: Vicki Myron, Bret Witter | **Year**: 2008
+**Category**: Fiction & Literature
 
 ## Summary
 On the coldest morning of January 18, 1988, Vicki Myron, director of the Spencer Public Library in Iowa, discovered a tiny, frozen kitten in the book return drop box. Near death from frostbite and starvation, this eight-week-old orange tabby was rescued by the library staff and named Dewey Readmore Books. Little did they know this remarkable cat would become an international sensation, transforming not just the library but the entire town of Spencer, Iowa, and eventually touching hearts worldwide.

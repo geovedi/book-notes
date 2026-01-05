@@ -1,5 +1,5 @@
 # Strange Chemistry: The Stories Your Chemistry Teacher Wouldn't Tell You
-**Authors**: Steven C. Farmer | **Year**: 2018
+**Authors**: Steven C. Farmer | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "Strange Chemistry" reveals the fascinating, dangerous, and controversial aspects of chemistry that traditional education avoids. Written by a chemistry professor who lost a high school friend to an LSD-related accident, this book makes complex chemical concepts accessible through shocking real-world stories, from deadly toxins to everyday household items. Farmer discovered that roughly 90% of these engaging chemistry stories were learned AFTER completing his formal education—highlighting how traditional teaching misses the most interesting aspects that actually captivate students.

@@ -1,5 +1,5 @@
 # The Aesop for Children
-**Authors**: Aesop, Illustrated by Milo Winter | **Year**: 2016
+**Authors**: Aesop, Illustrated by Milo Winter | **Year**: 2016 | **Category**: Children & Young Adult
 
 ## Summary
 "The Aesop for Children" is a beautifully illustrated collection of timeless fables that have been passed down through generations. This comprehensive anthology brings together over 140 classic stories, each featuring anthropomorphic animals who face relatable human challenges and dilemmas. Accompanied by Milo Winter's charming illustrations, these tales have been carefully adapted for young readers while preserving their original wisdom and moral clarity.

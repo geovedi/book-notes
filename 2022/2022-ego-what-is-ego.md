@@ -1,5 +1,5 @@
 # Ego: What is Ego
-**Authors**: Redik Kuluev | **Year**: 2022
+**Authors**: Redik Kuluev | **Year**: 2022 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This book presents ego as an illusion created by the brain during human evolution, particularly in the left hemisphere. When our ancestors first became self-aware by recognizing themselves as separate individuals, they created the illusion of ego—a mental construct that perceives itself as the "I" that experiences everything. This false identification with the ego illusion is the root cause of all human suffering.

@@ -1,5 +1,5 @@
 # The Drunken Botanist
-**Author**: Amy Stewart | **Year**: 2013
+**Author**: Amy Stewart | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "The Drunken Botanist" reveals the astonishing botanical world behind every alcoholic beverage, transforming how we see liquor stores, bars, and cocktails. Stewart demonstrates that every great drink starts with a plant, taking readers on a fascinating journey from soil to still to glass. The book is structured around the three stages of botanical involvement in alcohol: the plants that become alcohol through fermentation and distillation, the botanicals that flavor spirits, and the fresh herbs, fruits, and flowers that serve as mixers and garnishes.

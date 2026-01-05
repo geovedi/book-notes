@@ -1,5 +1,5 @@
 # Manager as a Role Model: A Guide to Better Management
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical management guide explores how leaders can become powerful role models through conscious behavior and attitude modeling. Based on neuro-linguistic programming (NLP) principles, the book reveals that managers unintentionally set examples for their teams through every action, gesture, and word—making conscious role modeling essential for effective leadership.

@@ -1,5 +1,6 @@
 # Man and Wife
 **Authors**: Wilkie Collins | **Year**: 1870
+**Category**: Fiction & Literature
 
 ## Summary
 "Man and Wife" is a compelling Victorian novel that exposes the harsh realities of marriage laws and social constraints in 19th-century Britain. The story explores the devastating consequences of outdated Irish marriage statutes through the intertwined lives of two childhood friends, Anne Silvester and Blanche Lundie, whose paths diverge dramatically when they part as teenagers.

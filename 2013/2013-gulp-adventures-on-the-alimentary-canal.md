@@ -1,5 +1,5 @@
 # Gulp: Adventures on the Alimentary Canal
-**Author**: Mary Roach | **Year**: 2013
+**Author**: Mary Roach | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 Mary Roach takes readers on an fascinating, often hilarious journey through the digestive system—from the mouth to the rectum—exploring the bizarre science of eating and digestion. This isn't just a book about biology; it's a collection of extraordinary stories about the scientists who study digestion, the unusual experiments they conduct, and the surprising truths about how our bodies process food.

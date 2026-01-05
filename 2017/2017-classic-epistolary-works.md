@@ -1,5 +1,6 @@
 # Classic Epistolary Works
 **Authors**: John Cleland, Johann Wolfgang von Goethe, Anne Brontë, Wilkie Collins, Jane Austen, Fyodor Dostoevsky, Bram Stoker | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This collection brings together nine groundbreaking epistolary novels spanning from 1749 to 1897, showcasing how letter-writing format revolutionized storytelling. These works pioneered the intimate, first-person perspective that creates unprecedented psychological depth and emotional immediacy. Through letters, diary entries, and personal documents, readers experience characters' inner worlds directly, making these works feel remarkably contemporary despite their age.

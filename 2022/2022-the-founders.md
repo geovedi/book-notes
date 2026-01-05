@@ -1,5 +1,5 @@
 # The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon Valley
-**Authors**: Jimmy Soni | **Year**: 2022
+**Authors**: Jimmy Soni | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 "The Founders" tells the improbable story of PayPal's creation—a company that survived against impossible odds to become one of the most influential technology companies in history. What began as the merger of two struggling startups (Confinity and X.com) in 1999 became a crucible that forged an entire generation of Silicon Valley leaders known as the "PayPal Mafia." The book reveals how this group of young, brilliant, and often eccentric entrepreneurs built a revolutionary digital payment system while battling fierce competition, massive fraud, internal turmoil, and the collapse of the dot-com bubble.

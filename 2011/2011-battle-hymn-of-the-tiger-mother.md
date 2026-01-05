@@ -1,5 +1,5 @@
 # Battle Hymn of the Tiger Mother
-**Author**: Amy Chua | **Year**: 2011
+**Author**: Amy Chua | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Battle Hymn of the Tiger Mother" is a provocative memoir that chronicles Amy Chua's experience raising her two daughters using strict, traditional Chinese parenting methods. As a Chinese-American mother, Chua rejects Western permissive parenting in favor of extreme discipline, demanding academic excellence and musical mastery from her children Sophia and Lulu. The book explores the intense cultural clash between Eastern and Western parenting philosophies, ultimately revealing both the triumphs and limitations of the "tiger mother" approach when faced with teenage rebellion.

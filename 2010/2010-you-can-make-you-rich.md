@@ -1,5 +1,5 @@
 # You Can Make You Rich
-**Authors**: Sean Dillon | **Year**: 2010
+**Authors**: Sean Dillon | **Year**: 2010 | **Category**: Business & Finance
 
 ## Summary
 This book reveals that the biggest threat to your financial success isn't market crashes or bad investments—it's yourself. Sean Dillon argues that emotional decision-making, particularly fear and greed, destroys more wealth than any market downturn. The book provides a framework for long-term wealth creation through disciplined index investing combined with behavioral self-awareness, showing how to protect yourself from your own worst investment instincts.

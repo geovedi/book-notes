@@ -1,5 +1,6 @@
 # Hunted Down
 **Authors**: Charles Dickens | **Year**: 1871
+**Category**: Fiction & Literature
 
 ## Summary
 "Hunted Down" is a Victorian thriller that centers on Mr. Sampson, a cautious Life Assurance Office manager who has learned through bitter experience to trust his first impressions of people. When the impeccably dressed but suspicious Mr. Julius Slinkton enters his office, Sampson's instincts immediately warn him of danger. Slinkton presents himself as a respectable gentleman concerned about his friends' welfare, but Sampson detects something sinister beneath the polished exterior. The story unfolds as Slinkton orchestrates an elaborate insurance fraud scheme involving Alfred Beckwith, which Sampson gradually uncovers through careful observation and investigation.

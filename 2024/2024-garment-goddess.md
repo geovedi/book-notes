@@ -1,5 +1,6 @@
 # Garment Goddess
 **Authors**: Laura de Barra | **Year**: 2024
+**Category**: Art & Creativity
 
 ## Summary
 "Garment Goddess" is a comprehensive guide to building a sustainable, long-lasting wardrobe in the age of fast fashion. Laura de Barra combines her expertise in clothing construction and repairs to teach readers how to shop smarter, care for garments properly, and extend clothing lifespans through basic repairs and alterations. The book serves as both an educational resource and practical manual for anyone frustrated with poor-quality clothing and wanting to reduce their environmental impact through mindful consumption.

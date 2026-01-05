@@ -1,5 +1,5 @@
 # Bitten: True Medical Stories of Bites and Stings
-**Author**: Pamela Nagami, M.D. | **Year**: 2005
+**Author**: Pamela Nagami, M.D. | **Year**: 2005 | **Category**: Health & Medicine
 
 ## Summary
 "Bitten" is a fascinating exploration of the dangerous creatures that share our world and the medical consequences of their bites and stings. Dr. Pamela Nagami, an infectious disease specialist, combines riveting true medical case studies with scientific explanations to reveal how seemingly small encounters with animals, insects, and marine life can lead to life-threatening situations. The book covers everything from fire ants and black widow spiders to jellyfish, cone snails, venomous snakes, and disease-carrying parasites, showing how human encounters with these creatures have increased with modern travel and environmental changes.

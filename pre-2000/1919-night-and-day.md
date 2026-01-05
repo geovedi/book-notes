@@ -1,5 +1,6 @@
 # Night and Day
 **Authors**: Virginia Woolf | **Year**: 1919
+**Category**: Fiction & Literature
 
 ## Summary
 Set in Edwardian London, "Night and Day" contrasts the daily lives and romantic attachments of two women from different backgrounds: Katharine Hilbery, from a distinguished literary family, and Mary Datchet, a working-class suffragette. The novel explores the complex relationships between love, marriage, happiness, and success in a society undergoing profound change.

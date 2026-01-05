@@ -1,5 +1,6 @@
 # Discipline Your Thoughts
 **Authors**: Steven Schuster | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Discipline Your Thoughts" is a comprehensive guide to understanding and overcoming cognitive biases that sabotage our decision-making. The book explores how our brains rely on mental shortcuts that often lead us astray, causing systematic thinking errors in everything from daily choices to major life decisions. Schuster draws from behavioral economics and psychology to reveal the predictable patterns of irrational thinking that affect all humans.

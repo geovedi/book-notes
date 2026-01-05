@@ -1,5 +1,6 @@
 # The Comet Sweeper: Caroline Herschel's Astronomical Ambition
 **Authors**: Claire Brock | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 This groundbreaking biography reclaims Caroline Herschel from the shadows of her famous brother William Herschel, revealing her as a pioneering astronomer who shattered 18th-century gender barriers. Born in 1750 as a household servant in Hanover, Herschel rose to become the first woman to earn her living from astronomy and the first professional female scientist in Britain. Beyond being merely her brother's assistant, she discovered eight comets, numerous nebulae, and earned international recognition including the Gold Medal from the Royal Astronomical Society in 1828.

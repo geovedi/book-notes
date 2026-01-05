@@ -1,5 +1,6 @@
 # The Battle of Life
 **Authors**: Charles Dickens | **Year**: 1846
+**Category**: Fiction & Literature
 
 ## Summary
 Set on an ancient English battlefield where nature has long healed the scars of war, "The Battle of Life" unfolds as a tale of love, sacrifice, and redemption. Doctor Jeddler, a philosopher who views life as a "gigantic practical joke," lives with his two daughters—Grace, steady and devoted, and Marion, beautiful and spirited. On Marion's birthday, Alfred Heathfield, their childhood friend and Marion's betrothed, prepares to depart for extended business, leaving Marion under Grace's care.

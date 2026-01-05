@@ -1,5 +1,6 @@
 # The Science of Being Human
 **Authors**: Marty Jopson | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 "The Science of Being Human" explores the fascinating and often counter-intuitive scientific aspects of what makes us human. Marty Jopson takes readers on an eclectic journey through multiple scientific disciplines to understand human evolution, biology, behavior, and our relationship with technology. The book reveals how human beings are "gloriously, unnecessarily and inexplicably complicated and counter-intuitive" - biological systems that defy simple categorization and often break the expected rules of physics and mathematics.

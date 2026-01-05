@@ -1,5 +1,6 @@
 # The Secret to Wealth
 **Authors**: Medhat Zaki, Brian Tracy, Sunil Tulsiani, and Multiple Contributors | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 The Secret to Wealth is a comprehensive guide featuring insights from 22 experts who share proven strategies for building financial freedom. The book operates on a fundamental principle: wealth is not about luck or inheritance, but about developing the right habits, mindset, and systems that attract money. The core philosophy is that "wealth is a habit" - if you adopt the habits of wealthy people, you will inevitably become wealthy yourself.

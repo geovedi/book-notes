@@ -1,5 +1,5 @@
 # At Home: A Short History of Private Life
-**Authors**: Bill Bryson | **Year**: 2010
+**Authors**: Bill Bryson | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 Bill Bryson transforms his Victorian rectory into a time machine, taking readers on a fascinating journey through the history of domestic life. By examining each room of his house, he reveals how ordinary objects and spaces hold extraordinary stories of human innovation, struggle, and progress. From the kitchen to the bedroom, bathroom to attic, Bryson uncovers the surprising origins of our daily comforts and routines.

@@ -1,5 +1,5 @@
 # Flash Boys: A Wall Street Revolt
-**Author**: Michael Lewis | **Year**: 2014
+**Author**: Michael Lewis | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "Flash Boys" exposes how high-frequency trading (HFT) has rigged the U.S. stock market, allowing a small group of tech-savvy traders to extract billions from ordinary investors through microscopic speed advantages. The book follows Brad Katsuyama, a Canadian banker at Royal Bank of Canada, who discovers that the market is fundamentally broken and decides to fight back by creating a new, fairer stock exchange called IEX.

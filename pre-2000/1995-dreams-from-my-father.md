@@ -1,5 +1,6 @@
 # Dreams from My Father
 **Author**: Barack Obama | **Year**: 1995
+**Category**: History & Biography
 
 ## Summary
 Barack Obama's profound memoir traces his journey of racial identity discovery across three continents and cultures. Born in Hawaii to a white American mother and a Kenyan father, Obama grapples with his mixed heritage while growing up in a multicultural but often racially divided America. The narrative follows his path from confused teenager to community organizer in Chicago's South Side, and ultimately to Kenya, where he confronts his father's complex legacy and connects with his African roots.

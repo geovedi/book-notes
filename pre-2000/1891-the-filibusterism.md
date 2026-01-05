@@ -1,5 +1,6 @@
 # The Filibusterism
 **Original Title**: El Filibusterismo **Authors**: José Rizal | **Year**: 1891
+**Category**: Fiction & Literature
 
 ## Summary
 Thirteen years after the events of "Noli Me Tangere," the enigmatic jeweler Simoun returns to the Philippines, transformed from the idealistic reformer Crisóstomo Ibarra into a vengeful revolutionary bent on violently overthrowing Spanish colonial rule. Having amassed immense fortune through dubious means, Simoun becomes the corrupt advisor to the Governor General, manipulating the colonial administration to worsen oppression and incite rebellion through the principle of "making oppression unbearable."

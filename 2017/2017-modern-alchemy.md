@@ -1,6 +1,7 @@
 # Modern Alchemy: How to Apply the Five Elements of Life to Prosper in Business, Investments, and See the Future
 
 **Authors**: Robin Sacredfire | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

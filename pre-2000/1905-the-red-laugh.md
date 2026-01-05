@@ -1,5 +1,6 @@
 # The Red Laugh: Fragments of a Discovered Manuscript
 **Original Title**: Красный смех (Krasny smekh) | **Author**: Leonid Andreyev | **Year**: 1905
+**Category**: Fiction & Literature
 
 ## Summary
 "The Red Laugh" is a haunting anti-war masterpiece that plunges readers into the psychological horror of warfare through the eyes of an artillery officer during the Russo-Japanese War. Written in fragmented, dreamlike passages, the story documents the narrator's descent into madness as he witnesses the brutal transformation of human beings into something unrecognizable under the pressures of combat.

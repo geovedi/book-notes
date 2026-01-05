@@ -1,5 +1,5 @@
 # Leaders Eat Last
-**Author**: Simon Sinek | **Year**: 2014
+**Author**: Simon Sinek | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 "Leaders Eat Last" explores why some teams pull together and others don't by examining the biological and psychological foundations of trust and cooperation. Simon Sinek argues that truly effective leadership is not about advanced skills or management techniques, but about creating environments where people feel safe, valued, and willing to sacrifice for the greater good. The book draws powerful parallels between military leadership, particularly Marine Corps culture, and successful business organizations that prioritize their people over short-term gains.

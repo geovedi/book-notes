@@ -1,5 +1,6 @@
 # Stock Trading: Strategies to Make Money with Stock Trading
 **Authors**: Warren Richmond | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This book serves as a practical guide for stock traders looking to move beyond basic fundamentals into strategic trading approaches. The author presents stock trading not as gambling, but as a well-planned methodology requiring discipline, knowledge, and strategic execution. The book covers multiple trading strategies including day trading, position trading, swing trading, and reversal trading, along with fundamental and technical analysis techniques.

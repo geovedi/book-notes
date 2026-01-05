@@ -1,5 +1,6 @@
 # The Lair of the White Worm
 **Original Authors**: Bram Stoker | **Year**: 1911
+**Category**: Horror & Thriller
 
 ## Summary
 Adam Salton travels from Australia to England in 1860 to meet his elderly grand-uncle Richard Salton and become his heir at Lesser Hill. He soon finds himself entangled in a battle of supernatural forces centered around the ancient estate of Castra Regis, where the mysterious Edgar Caswall has returned after generations abroad. Adam falls for Mimi Watford, but must confront both the hypnotic Caswall and the enigmatic Lady Arabella March, who harbors a terrifying secret—she is connected to an ancient serpent creature known as the White Worm that lives in the caverns beneath Diana's Grove.

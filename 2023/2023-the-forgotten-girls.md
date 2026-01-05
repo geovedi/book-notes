@@ -1,5 +1,6 @@
 # The Forgotten Girls
 **Author**: Monica Potts | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 "The Forgotten Girls" is a powerful memoir that investigates why women in rural America are dying younger than their mothers' generation through the intimate story of childhood best friends. Monica Potts, a successful journalist who escaped her impoverished Arkansas hometown, returns to understand what happened to her best friend Darci, who became trapped in a devastating cycle of addiction, poverty, and incarceration. The book masterfully weaves personal narrative with groundbreaking research on "diseases of despair"—the rising rates of drug overdoses, alcoholism, and suicide that have caused life expectancy to decline for white women without college degrees in rural communities.

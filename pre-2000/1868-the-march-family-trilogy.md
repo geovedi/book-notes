@@ -1,5 +1,6 @@
 # The March Family Trilogy: Little Women, Little Men & Jo's Boys
 **Authors**: Louisa May Alcott | **Year**: 1868-1886 (Original publication dates)
+**Category**: Children & Young Adult
 
 ## Summary
 This comprehensive collection brings together Louisa May Alcott's beloved March family trilogy, chronicling the lives of the four March sisters—Meg, Jo, Beth, and Amy—as they navigate childhood, adolescence, and adulthood during and after the Civil War era. The trilogy begins with the iconic "Little Women," follows with the establishment of Plumfield school in "Little Men," and concludes with "Jo's Boys," showing how the next generation finds their way in the world.

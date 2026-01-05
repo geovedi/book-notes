@@ -1,5 +1,6 @@
 # The Autobiography of Benjamin Franklin
 **Author**: Benjamin Franklin | **Year**: 2012 (Original 1791)
+**Category**: History & Biography
 
 ## Summary
 Benjamin Franklin's autobiography chronicles the remarkable journey of a self-made man who rose from humble beginnings as the youngest son of a poor candle-maker to become one of America's founding fathers, a successful printer, scientist, diplomat, and statesman. Written as a letter to his son, the narrative serves both as personal memoir and practical guide for self-improvement, demonstrating how deliberate habits, continuous learning, and strategic relationship-building can transform circumstance into opportunity.

@@ -1,5 +1,5 @@
 # The Layman's Guide to Quantum Reality
-**Authors**: JD Lovil | **Year**: 2018
+**Authors**: JD Lovil | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "The Layman's Guide to Quantum Reality" is a comprehensive exploration of quantum physics concepts presented in accessible language for non-scientists. The book bridges the gap between complex quantum theory and everyday understanding, arguing that we live in a fundamentally quantum universe where observation shapes reality itself.

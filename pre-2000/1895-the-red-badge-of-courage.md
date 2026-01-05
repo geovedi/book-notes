@@ -1,5 +1,6 @@
 # The Red Badge of Courage
 **Authors**: Stephen Crane | **Year**: 1895
+**Category**: Fiction & Literature
 
 ## Summary
 Henry Fleming, a young farm boy with romantic notions of war, enlists in the Union Army during the American Civil War. Confronted with the brutal reality of combat in his first battle, he flees in terror. Overwhelmed by shame and desperate for proof of courage, Henry seeks a "red badge" - a battle wound that would validate his experience. After accidentally receiving a head wound from a retreating Union soldier, he returns to his regiment and lies about its origin. Through subsequent battles, including a courageous charge carrying the regimental flag, Henry transforms from a fearful youth into a mature soldier who understands that true courage means acting despite fear.

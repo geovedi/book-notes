@@ -1,5 +1,6 @@
 # Huntsmen And Hoods
 **Authors**: Laura Greenwood | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Red (Aredenne) has always dreamed of becoming a Huntsman, breaking tradition in the male-dominated organization at Grimm Academy. When she finally earns her place through rigorous trials, she discovers that achieving her dream is just the beginning. She must navigate training, prove herself to skeptical colleagues, and face her ex-sweetheart Peter who betrayed her and also joined the Huntsmen.

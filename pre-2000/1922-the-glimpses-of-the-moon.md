@@ -1,5 +1,6 @@
 # The Glimpses of the Moon
 **Authors**: Edith Wharton | **Year**: 1922
+**Category**: Fiction & Literature
 
 ## Summary
 "The Glimpses of the Moon" tells the story of Nick Lansing and Susy Branch, two attractive but impoverished members of New York's high society who marry for convenience with an unusual agreement: they'll stay together for one year, living off borrowed money and their friends' generosity, while each reserves the right to leave if a better financial prospect appears. Their honeymoon begins at a borrowed villa on Lake Como, where they initially find genuine happiness and companionship beyond their pragmatic arrangement.

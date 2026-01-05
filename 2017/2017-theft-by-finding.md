@@ -1,5 +1,6 @@
 # Theft by Finding: Diaries 1977-2002
 **Author**: David Sedaris | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 "Theft by Finding" is a curated collection of David Sedaris's diary entries spanning 25 years, from his early twenties as a directionless meth user in Oregon to his establishment as a renowned essayist living in France. The title comes from a British legal concept about keeping valuable things you find—perfect for a diarist who built a career by collecting and transforming observations of everyday life into literary gold.

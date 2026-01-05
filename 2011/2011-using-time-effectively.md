@@ -1,6 +1,6 @@
 # Using Time Effectively: A Better Management Guide
 **Original Title**: Using Time Effectively
-**Authors**: Jon Allen | **Year**: 2011
+**Authors**: Jon Allen | **Year**: 2011 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This concise management guide applies Neuro-Linguistic Programming (NLP) principles to help professionals reclaim control over their most precious resource: time. Rather than offering rigid time management systems, the book teaches readers how to understand their personal working preferences, prepare themselves mentally and physically for tasks, and create flexible frameworks that work with their natural rhythms.

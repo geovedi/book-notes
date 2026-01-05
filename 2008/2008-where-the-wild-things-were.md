@@ -1,5 +1,6 @@
 # Where the Wild Things Were
 **Author**: William Stolzenburg | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 "Where the Wild Things Were" is a groundbreaking ecological investigation that reveals the catastrophic consequences of removing top predators from ecosystems. Stolzenburg chronicles the scientific discoveries that have transformed our understanding of predator-prey relationships, demonstrating that the absence of carnivores creates devastating chain reactions that ripple through entire ecosystems. The book follows pioneering ecologists like Robert Paine, James Estes, and John Terborgh as they uncover the hidden ecological power of keystone predators and document the environmental chaos that unfolds when these animals are eliminated.

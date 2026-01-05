@@ -1,5 +1,5 @@
 # Millionaire Mindset
-**Authors**: Samuel Feron | **Year**: 2023
+**Authors**: Samuel Feron | **Year**: 2023 | **Category**: Business & Finance
 
 ## Summary
 This book reveals that becoming wealthy isn't about earning a million dollars—it's about adopting the mindset and daily practices that create lasting financial abundance. The core premise is that wealthy people think fundamentally differently from the middle class and poor: they plan for the future, prioritize ownership over employment, focus on adding value to others, embrace calculated risks, and continuously educate themselves financially.

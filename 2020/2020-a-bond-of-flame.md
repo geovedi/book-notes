@@ -1,5 +1,6 @@
 # A Bond of Flame
 **Authors**: Richard Fierce | **Year**: 2020
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Eldwin, a failed student from the Citadel dragon rider school, is on the run after escaping his former master, Master Pevus. While working as a caravan guard in the Necra Desert, he discovers a young red dragon being transported illegally and forms a powerful bond with her, naming her Sion. Together they escape captivity and embark on a journey of survival and discovery.

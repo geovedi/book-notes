@@ -1,5 +1,6 @@
 # The Nicomachean Ethics of Aristotle
 **Authors**: Aristotle | **Year**: ~350 BCE
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Aristotle's Nicomachean Ethics is a groundbreaking investigation into human flourishing and the nature of the good life. Rather than offering abstract moral rules, Aristotle presents a practical guide to achieving eudaimonia—often translated as "happiness" or "human flourishing" through the cultivation of virtue and reason. The work systematically examines how humans can live fulfilling lives by developing moral and intellectual virtues, finding the proper balance between extremes, and recognizing the vital role of friendship and contemplation in human well-being.

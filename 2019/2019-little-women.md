@@ -1,5 +1,6 @@
 # Little Women
 **Authors**: Louisa May Alcott, Samantha Noonan, Joëlle Dreidemy | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 "Little Women" follows the four March sisters—Meg, Jo, Beth, and Amy—as they navigate childhood, sisterhood, and personal growth during the American Civil War. While their father is away at war, the family faces financial hardship but finds strength in their bonds and values of love, generosity, and moral character.

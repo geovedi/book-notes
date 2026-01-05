@@ -1,5 +1,6 @@
 # The Diving Bell and the Butterfly
 **Author**: Jean-Dominique Bauby | **Year**: 1997
+**Category**: Health & Medicine
 
 ## Summary
 Jean-Dominique Bauby, the 43-year-old editor-in-chief of French Elle, suffers a massive stroke that leaves him with locked-in syndrome—completely paralyzed except for the ability to blink his left eyelid. Trapped inside his body like a "diving bell," his mind remains free to wander like a "butterfly," allowing him to dictate this remarkable memoir one letter at a time. Written with astonishing humor, dignity, and poetic grace, the book becomes his final act of defiance against the confines of his physical prison.

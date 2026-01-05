@@ -1,5 +1,6 @@
 # 8 Rules of Love
 **Author**: Jay Shetty | **Year**: 2023
+**Category**: Romance & Relationships
 
 ## Summary
 Jay Shetty's "8 Rules of Love" presents a revolutionary approach to finding, keeping, and letting go of love by drawing on ancient Vedic wisdom. The book organizes the journey of love into four stages called ashrams—Brahmacharya (preparing for love), Grihastha (practicing love), Vanaprastha (healing through love), and Sannyasa (extending love to all). Shetty argues that modern relationships fail because we skip the essential preparation and reflection phases, rushing into partnerships without first learning to love ourselves or understanding how to navigate conflict constructively.

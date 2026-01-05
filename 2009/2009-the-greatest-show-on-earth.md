@@ -1,5 +1,6 @@
 # The Greatest Show on Earth
 **Authors**: Richard Dawkins | **Year**: 2009
+**Category**: Science & Nature
 
 ## Summary
 Richard Dawkins delivers a comprehensive, evidence-based case for evolution as an incontrovertible scientific fact. He argues that evolution is not "just a theory" but a "theorum"—a truth supported by overwhelming evidence from multiple independent scientific disciplines. Dawkins systematically presents the complete case for evolution, directly addressing creationist arguments while demonstrating how all lines of evidence converge on the same conclusion.

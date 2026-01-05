@@ -1,5 +1,6 @@
 # To Be a Jew Today
 **Authors**: Noah Feldman | **Year**: 2024
+**Category**: Spirituality & Religion
 
 ## Summary
 "To Be a Jew Today" is a profound exploration of contemporary Jewish identity in the 21st century, written by Noah Feldman, a Harvard law professor and intellectual historian. The book tackles the fundamental question of what it means to be Jewish in an era of unprecedented complexity, transformation, and contention. Feldman approaches this question through three major lenses: God, Israel, and the Jewish people as a family-like collective. He argues that Jewish identity has been fundamentally transformed by the existence of the modern state of Israel and that traditional categories of Jewish belief and practice no longer capture the full spectrum of Jewish experience today.

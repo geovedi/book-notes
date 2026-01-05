@@ -1,5 +1,6 @@
 # 2025-Emotional Leadership: The Dark Side of Power
 **Authors**: Simone Janson (ed.) | **Year**: 2025
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide exposes the shadowy underbelly of emotional intelligence in leadership, revealing how the same skills that can inspire and motivate teams can also be weaponized for manipulation, control, and personal gain. The book examines how modern leadership increasingly relies on emotional tactics rather than traditional authority, creating both opportunities and dangers in today's workplace.

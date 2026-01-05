@@ -1,5 +1,5 @@
 # 3 Steps to Success Negotiations
-**Authors**: Anthony Jacks | **Year**: 2018
+**Authors**: Anthony Jacks | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the art of negotiation, presenting it as an essential skill that applies to virtually every aspect of business and personal life. Jacks breaks down complex negotiation theory into three manageable steps: preparation, trading, and finalization. The book emphasizes that negotiation isn't about winning or losing but finding mutually beneficial solutions through strategic preparation and careful communication.

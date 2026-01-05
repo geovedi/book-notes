@@ -1,5 +1,6 @@
 # Psychological Triggers: The Hidden Influences Behind Our Actions, Thoughts, and Behaviors
 **Author**: Peter Hollins | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Psychological Triggers" explores the hidden forces that drive human behavior, revealing how much of our decision-making is governed by unconscious impulses rather than rational choice. Hollins argues that free will is largely an illusion, as we're constantly influenced by evolutionary programming, social pressure, emotional states, biological drives, and cognitive shortcuts.

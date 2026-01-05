@@ -1,5 +1,5 @@
 # SEO for Beginners: Step-by-Step Guide to Dominate the First Page
-**Authors**: Kumar | **Year**: 2016
+**Authors**: Kumar | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 "SEO for Beginners" is a comprehensive guide that demystifies Search Engine Optimization for newcomers to digital marketing. The book breaks down SEO into manageable on-page and off-page techniques, emphasizing that sustainable results come from ethical "white hat" practices rather than quick fixes. The author argues that while SEO can seem overwhelming, it's achievable for beginners who follow proven methods and understand that it's an ongoing process rather than a one-time setup.

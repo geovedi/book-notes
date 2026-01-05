@@ -1,5 +1,5 @@
 # The Sex Lives of Cannibals
-**Author**: J. Maarten Troost | **Year**: 2004
+**Author**: J. Maarten Troost | **Year**: 2004 | **Category**: Fiction & Literature
 
 ## Summary
 When J. Maarten Troost and his girlfriend Sylvia decide to escape their mundane Washington D.C. lives, they impulsively move to Tarawa, a remote atoll in the Equatorial Pacific island nation of Kiribati. What follows is a hilarious and eye-opening two-year adventure in one of the most isolated and challenging places on Earth, where modern amenities disappear and daily survival becomes both absurd and enlightening.

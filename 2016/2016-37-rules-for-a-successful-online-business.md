@@ -1,5 +1,5 @@
 # 37 Rules for a Successful Online Business: How to Quit Your Job, Move to Paradise and Make Money while You Sleep
-**Authors**: Samuel River | **Year**: 2016
+**Authors**: Samuel River | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This book reveals 37 essential principles for building a successful online business based on the author's personal journey from quitting a stable job to becoming a location-independent entrepreneur. Drawing from interviews with successful online entrepreneurs worldwide, the book challenges conventional business wisdom and presents a counter-cultural approach to digital entrepreneurship that emphasizes independence, innovation, and long-term thinking over short-term gains.

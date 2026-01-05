@@ -1,6 +1,7 @@
 # The Old World Landowners
 **Original Title**: Старосветские помещики (Starosvetskiye pomeshchiki)
 **Author**: Nikolai Gogol | **Year**: 1835
+**Category**: Fiction & Literature
 
 ## Summary
 "The Old World Landowners" is a poignant tale that captures the serene, self-contained world of an elderly Ukrainian couple, Afanasy Ivanovich and Pulkheria Ivanovna, whose quiet existence revolves around their mutual devotion, traditional hospitality, and the simple rhythms of rural life. The story begins with a narrator's fond recollection of visiting these "old-fashioned" landowners, painting their lifestyle as an idealized version of simplicity and contentment, far removed from the ambitions and complexities of modern society.

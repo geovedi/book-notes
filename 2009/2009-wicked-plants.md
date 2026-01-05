@@ -1,5 +1,6 @@
 # Wicked Plants
 **Author**: Amy Stewart | **Year**: 2009
+**Category**: Science & Nature
 
 ## Summary
 "Wicked Plants" is a darkly captivating exploration of the plant kingdom's most dangerous members, from deadly assassins to painful tormentors. Stewart catalogs over 200 plants that have killed, maimed, tortured, or intoxicated humans throughout history, revealing that our gardens, homes, and even dinner plates harbor botanical villains with terrifying capabilities.

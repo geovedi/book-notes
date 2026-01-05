@@ -1,5 +1,6 @@
 # Coaching and Mentoring Learning Resource Manual
 **Authors**: Jimmy Petruzzi | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive manual provides practical frameworks and techniques for implementing effective coaching and mentoring programs in organizational settings. The book translates coaching theory into actionable strategies for managers, HR professionals, and organizational leaders who want to develop employee capability through structured coaching relationships. It covers everything from basic definitions and models to legal considerations and measurement techniques.

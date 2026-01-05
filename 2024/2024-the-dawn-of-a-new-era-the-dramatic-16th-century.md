@@ -1,6 +1,7 @@
 # The Dawn of a New Era: The Dramatic 16th Century
 **Original Title**: Anbruch der neuen Zeit: Das dramatische 16. Jahrhundert
 **Author**: Marina Münkler | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 The 16th century was fundamentally an era of upheaval and transformation. Marina Münkler presents this century as a dramatic period that laid the groundwork for our modern world, characterized by three major conflict lines: European expansion into the Americas, the rise of the Ottoman Empire, and the shattering of Christian unity through the Reformation. This was a time when Europe both achieved global dominance and felt profoundly threatened, when apocalyptic fears mingled with boundless optimism, and when new media technologies revolutionized communication and belief.

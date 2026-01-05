@@ -1,5 +1,5 @@
 # Older, Wiser, Fiercer
-**Authors**: Anonymous (Michael O'Mara Books) | **Year**: 2023
+**Authors**: Anonymous (Michael O'Mara Books) | **Year**: 2023 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This humorous celebration of aging reveals the secret joys and unexpected advantages that come with being an older woman. Far from being a decline, later life offers freedom from self-consciousness, the wisdom of experience, and the confidence to live authentically. Through witty observations and sharp insights, the book shows how women become increasingly powerful, liberated, and unapologetically themselves with each passing year.

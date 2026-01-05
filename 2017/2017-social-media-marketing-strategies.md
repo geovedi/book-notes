@@ -1,5 +1,6 @@
 # Social Media Marketing Strategies
 **Authors**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide transforms social media from casual engagement into a profitable business asset. With nearly 4 billion global users, social media platforms represent the largest marketplace in human history, offering unprecedented access to potential customers. The book provides practical, step-by-step strategies for building engaged communities across six major platforms—Facebook, Twitter, Quora, Instagram, LinkedIn, and YouTube—and converting followers into paying customers through proven organic and paid marketing techniques.

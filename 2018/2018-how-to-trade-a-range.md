@@ -1,5 +1,6 @@
 # How to Trade a Range
 **Authors**: Heikin Ashi Trader | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical trading guide reveals that contrary to popular belief, financial markets spend approximately 70% of their time trading sideways rather than in trends. Most traders focus exclusively on trend-following strategies, missing the substantial opportunities presented by range-bound markets. The author presents range trading as a systematic approach to profit from these "trendless" periods that actually dominate market behavior.

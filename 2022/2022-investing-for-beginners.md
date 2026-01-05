@@ -1,5 +1,5 @@
 # Investing for Beginners 2025
-**Authors**: Greg Marty | **Year**: 2022
+**Authors**: Greg Marty | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 Investing for Beginners 2025 is a comprehensive guide designed to help newcomers navigate the complex world of investments and achieve financial freedom. The book emphasizes that investing is essential for building wealth because simply working a job cannot lead to true financial independence. The author argues that our educational system fails to teach financial literacy, leaving most people unprepared for wealth building.

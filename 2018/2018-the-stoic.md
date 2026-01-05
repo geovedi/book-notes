@@ -1,5 +1,5 @@
 # The Stoic
-**Authors**: Theodore Dreiser | **Year**: 2018
+**Authors**: Theodore Dreiser | **Year**: 2018 | **Category**: Fiction & Literature
 
 ## Summary
 "The Stoic" is the final novel in Theodore Dreiser's "Trilogy of Desire," chronicling the life of financier Frank Cowperwood as he faces his ultimate philosophical and spiritual challenges. At age 60, after losing his Chicago franchise battle, Cowperwood finds his material ambitions increasingly at odds with deeper questions about meaning, suffering, and the nature of existence. The novel traces a three-part journey from American business intrigue to European ventures and finally to Eastern spiritual exploration through the character of Berenice, Cowperwood's ward who becomes his philosophical seeker.

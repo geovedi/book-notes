@@ -1,5 +1,5 @@
 # Cinderella's Secret Witch Diaries Box Set
-**Authors**: Ron Vitale | **Year**: 2014
+**Authors**: Ron Vitale | **Year**: 2014 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 This dark fantasy reimagining picks up Cinderella's story four years after her marriage to the prince, revealing that the "happily ever after" was anything but. Told through diary entries, we discover Cinderella is actually a witch whose Fairy Godmother gave her real magic to win the prince. Now trapped in a loveless marriage, facing pressure to produce an heir, and dealing with a husband who has grown cold and distant, Cinderella must rediscover her own power and rewrite her own fairy tale.

@@ -2,6 +2,7 @@
 
 **Original Title**: Neptune: An Analysis
 **Author**: Larry Slawson | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 Neptune stands as one of the most enigmatic and fascinating planets in our solar system. As the eighth and most distant planet from the Sun, this ice giant plays a crucial role in our understanding of planetary formation and solar system dynamics. The book provides a comprehensive scientific exploration of Neptune's discovery, unique properties, extreme weather patterns, and its mysterious moons—particularly Triton with its unusual retrograde orbit. Through detailed analysis of Neptune's composition, atmosphere, and magnetic field, readers gain insight into how this distant planet continues to challenge our understanding of planetary science.

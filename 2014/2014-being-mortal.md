@@ -1,5 +1,5 @@
 # Being Mortal
-**Author**: Atul Gawande | **Year**: 2014
+**Author**: Atul Gawande | **Year**: 2014 | **Category**: Health & Medicine
 
 ## Summary
 Atul Gawande, a practicing surgeon, examines how modern medicine has transformed the experience of aging and death from a natural process into a medical experience. He argues that while medicine has succeeded in extending life, it has often failed in helping people live well toward the end. The book explores the gap between medical capability and human needs, revealing how our reluctance to confront mortality has led to increased suffering and a loss of meaning in life's final chapters. Through personal stories, including his own father's battle with cancer, Gawande demonstrates that the goal of medicine should not be to ensure good health but to ensure well-being – enabling people to live a meaningful life to the very end.

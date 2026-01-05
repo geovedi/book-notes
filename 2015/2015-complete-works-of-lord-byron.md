@@ -1,5 +1,6 @@
 # 2015 Complete Works of Lord Byron
 **Authors**: Lord Byron (George Gordon Byron) | **Year**: 2015 (Delphi Classics Edition)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together the entire literary output of George Gordon, Lord Byron (1788-1824), one of the most influential figures of the Romantic movement. Byron's work represents the pinnacle of Romantic poetry, characterized by passionate emotion, heroic individualism, biting satire, and revolutionary spirit. The collection spans his major narrative poems including "Childe Harold's Pilgrimage" (which made him instantly famous), the controversial mock-epic "Don Juan," along with his celebrated shorter lyrics like "She Walks in Beauty" and dramatic works such as "Manfred."

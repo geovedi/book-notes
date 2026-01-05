@@ -1,6 +1,7 @@
 # In Search of Lost Time
 **Original Title**: À la Recherche du temps perdu
 **Author**: Marcel Proust | **Year**: 1913-1927
+**Category**: Fiction & Literature
 
 ## Summary
 Marcel Proust's monumental seven-volume novel explores the nature of memory, time, consciousness, and art through the intimate reflections of an unnamed narrator. The work transforms personal experience into profound philosophical inquiry, examining how involuntary memories can unlock the past and reveal eternal truths about human nature. Beginning with the famous madeleine episode, the narrative spans decades of French society before and after World War I, weaving together themes of love, jealousy, social ambition, and artistic creation. Through the narrator's relationships—particularly his obsessive connection with Albertine—and his observations of aristocratic society, Proust reveals how our emotional realities often have more substance than objective facts.

@@ -1,5 +1,5 @@
 # A Gentleman in Moscow
-**Author**: Amor Towles | **Year**: 2016
+**Author**: Amor Towles | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 In 1922, Count Alexander Ilyich Rostov, an aristocrat deemed "unrepentant" by the Bolsheviks, is sentenced to house arrest in Moscow's luxurious Hotel Metropol. Stripped of his wealth and status but not his wit or dignity, the Count is confined to a tiny attic room while the world transforms around him. Over three decades, he witnesses Russia's revolutionary changes from his hotel prison, building an unlikely family among the hotel staff and guests. What begins as a punishment becomes a testament to human resilience, proving that a life of purpose can be lived within any boundaries.

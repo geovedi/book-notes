@@ -1,5 +1,5 @@
 # Demon Fish: Travels Through the Hidden World of Sharks
-**Author**: Juliet Eilperin | **Year**: 2011
+**Author**: Juliet Eilperin | **Year**: 2011 | **Category**: Science & Nature
 
 ## Summary
 Juliet Eilperin, a Washington Post environmental reporter, takes readers on a global journey to explore the complex relationship between humans and sharks. From the traditional shark callers of Papua New Guinea who communicate with sharks as part of their spiritual practice, to the scientists racing against time to save these ancient predators from extinction, "Demon Fish" reveals how our perception of sharks has evolved from reverence to fear to commodity. The book exposes the devastating impact of shark finning, the politics of international conservation efforts, and the ecological consequences of removing these apex predators from marine ecosystems.

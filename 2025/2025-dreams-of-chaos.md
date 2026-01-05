@@ -1,5 +1,6 @@
 # Dreams of Chaos
 **Authors**: Shauna Lawless | **Year**: 2025
+**Category**: Fiction & Literature
 
 ## Summary
 "Dreams of Chaos" is a historical fiction novella set in 10th century Ireland, part of the Gael Song series. The story is framed as a poignant letter from Murchad, son of the legendary Brian Boru, to his own son Tairdelbach on the eve of the Battle of Clontarf. Through this intimate narrative, Murchad recounts his coming-of-age during a turbulent period of Irish history, when his father fought to unite Ireland and end the slave trade.

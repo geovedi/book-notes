@@ -1,6 +1,7 @@
 # The Wonderful Adventures of Nils
 **Original Title**: Nils Holgerssons underbara resa genom Sverige (Swedish)
 **Authors**: Selma Lagerlöf | **Year**: 1906
+**Category**: Children & Young Adult
 
 ## Summary
 Nils Holgersson is a lazy, mischievous 14-year-old boy who delights in tormenting animals and shirking responsibility. When his parents leave for church, Nils captures a tiny elf who magically shrinks him to thumb-sized proportions as punishment. Suddenly able to understand animal language, Nils is accidentally carried away by his family's domestic goose, Morten Goosey-Gander, who has joined a flock of wild geese migrating north from Skåne to Lapland.

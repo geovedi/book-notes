@@ -1,5 +1,6 @@
 # The Phantom Ship
 **Authors**: Frederick Marryat | **Year**: 1839
+**Category**: Fiction & Literature
 
 ## Summary
 "The Phantom Ship" is a haunting maritime Gothic novel that tells the story of Philip Vanderdecken, a young Dutch man whose father Captain Vanderdecken is cursed to sail the seas forever as the captain of the legendary Flying Dutchman. After a supernatural visit from his father's ghost, Philip learns that the only way to break the curse is for his father to receive a holy relic and shed one tear of contrition on it. Thus begins Philip's lifelong quest to find his father's phantom ship and redeem his soul.

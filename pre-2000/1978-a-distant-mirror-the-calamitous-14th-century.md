@@ -1,5 +1,6 @@
 # A Distant Mirror: The Calamitous 14th Century
 **Author**: Barbara W. Tuchman | **Year**: 1978
+**Category**: History & Biography
 
 ## Summary
 Barbara Tuchman's masterpiece uses the life of French nobleman Enguerrand de Coucy VII (1340-1397) as a lens through which to examine one of history's most turbulent centuries. The 14th century was marked by the Black Death, which killed one-third of Europe's population, the Hundred Years' War, papal schism, peasant revolts, and the breakdown of medieval social structures. Tuchman argues this period serves as a "distant mirror" for modern times, showing how societies survive unprecedented chaos and upheaval.

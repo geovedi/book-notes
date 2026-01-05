@@ -1,5 +1,6 @@
 # Summary and Analysis of The Omnivore's Dilemma
 **Based on the Book by Michael Pollan** | **Year**: 2017
+**Category**: Health & Medicine
 
 ## Summary
 "The Omnivore's Dilemma" investigates what we should have for dinner by tracing three different food chains that sustain modern Americans: the industrial, the pastoral, and the personal. Michael Pollan explores each from beginning to end, transforming our understanding of how we eat and what we consume. The book reveals that corn dominates our industrial food system, appearing in approximately a quarter of supermarket products, while examining the environmental and health consequences of our food choices.

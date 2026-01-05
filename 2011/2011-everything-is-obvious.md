@@ -1,5 +1,5 @@
 # Everything is Obvious
-**Authors**: Duncan J. Watts | **Year**: 2011
+**Authors**: Duncan J. Watts | **Year**: 2011 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Everything is Obvious" dismantles our faith in common sense, arguing that what we call "common sense" is neither common nor particularly sensible when applied to complex social problems. Watts, a former physics professor turned sociologist, demonstrates that common sense works brilliantly for everyday situations but fails spectacularly when we try to use it to understand, predict, or manage large-scale social phenomena. The book reveals how our intuitive understanding of human behavior systematically misleads us in business, policy, marketing, and social planning.

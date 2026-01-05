@@ -1,5 +1,6 @@
 # The People's Hospital
 **Author**: Ricardo Nuila | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 "The People's Hospital" offers a powerful examination of American healthcare through the lens of Ben Taub Hospital in Houston, one of the nation's leading public hospitals that provides world-class care to the uninsured and indigent. Dr. Ricardo Nuila, a physician at Ben Taub, weaves together intimate patient stories with medical history and personal memoir to reveal both the flaws and possibilities within our healthcare system.

@@ -1,5 +1,5 @@
 # Rich Dad Poor Dad
-**Authors**: Robert T. Kiyosaki, Sharon L. Lechter | **Year**: 2000
+**Authors**: Robert T. Kiyosaki, Sharon L. Lechter | **Year**: 2000 | **Category**: Business & Finance
 
 ## Summary
 "Rich Dad Poor Dad" chronicles Robert Kiyosaki's upbringing with two father figures: his highly educated but financially struggling poor dad (his actual father) and his wealthy, financially savvy rich dad (his best friend's father). Through contrasting lessons from both fathers, Kiyosaki reveals fundamental differences in how the rich, middle class, and poor think about and handle money. The book challenges traditional wisdom about working hard, saving money, and relying on job security.

@@ -1,6 +1,7 @@
 # Selected Oscar Wilde
 **Original Title**: Selected Novels
 **Author**: Oscar Wilde | **Year**: 2025 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This collection brings together Oscar Wilde's most celebrated works, showcasing his genius across multiple genres - from the dark philosophical novel "The Picture of Dorian Gray" to witty short stories and timeless fairy tales. Wilde's signature blend of razor-sharp social commentary, aesthetic philosophy, and unforgettable aphorisms illuminates Victorian society's hypocrisy while exploring timeless questions about art, morality, love, and the human condition.

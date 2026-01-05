@@ -1,6 +1,7 @@
 # Red Dead's History
 **Original Title**: Red Dead's History: A Video Game, An Fierce History, and a Vast Memory of the American West
 **Authors**: Tore C. Olsson | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "Red Dead's History" is a groundbreaking work that uses the wildly popular Red Dead Redemption video game series as a gateway to explore the real history of America's Gilded Age and Progressive Era (1865-1920). Written by Tore C. Olsson, an award-winning historian who created the first-ever college course on Red Dead Redemption, this book bridges serious scholarship with popular culture to reveal how the games capture—and sometimes distort—America's violent transformation from Civil War to modernity.

@@ -1,5 +1,6 @@
 # Artificial Intelligence in Real Estate Investing
 **Authors**: Abiprod | **Year**: 2019
+**Category**: Technology & Computing
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # Biological System: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This comprehensive tutorial guide introduces fundamental concepts of biological systems through a systematic question-and-answer approach. The book presents life not as a static entity but as a dynamic process emerging from the interactions of components within increasingly complex organizational levels—from subatomic particles to complete ecosystems.

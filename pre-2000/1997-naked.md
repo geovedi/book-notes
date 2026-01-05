@@ -1,5 +1,6 @@
 # Naked
 **Author**: David Sedaris | **Year**: 1997
+**Category**: Fiction & Literature
 
 ## Summary
 A hilarious and deeply moving collection of autobiographical essays that transforms personal pain into universal comedy. Sedaris explores his obsessive-compulsive childhood, dysfunctional family dynamics, and journey toward self-acceptance with brutal honesty and razor-sharp wit. The book shows how our most embarrassing quirks can become our greatest strengths when we learn to embrace them.

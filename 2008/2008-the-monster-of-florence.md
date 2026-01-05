@@ -1,5 +1,6 @@
 # The Monster of Florence
-**Original Title**: Het Monster Van Florence | **Authors**: Douglas Preston, Mario Spezi | **Year**: 2008 
+**Original Title**: Het Monster Van Florence | **Authors**: Douglas Preston, Mario Spezi | **Year**: 2008
+**Category**: Horror & Thriller 
 
 ## Summary
 

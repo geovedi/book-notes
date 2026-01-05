@@ -1,5 +1,5 @@
 # Social Media Marketing 2019
-**Authors**: Dave Welch | **Year**: 2018
+**Authors**: Dave Welch | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide reveals how businesses can leverage social media platforms to maximize their exposure and sales in 2019. The book emphasizes that social media is no longer optional for businesses—it's essential for survival and growth. With platforms evolving rapidly, companies that fail to establish a strong online presence risk being forgotten by customers who increasingly expect brands to be accessible, engaging, and responsive on social media.

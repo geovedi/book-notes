@@ -1,5 +1,6 @@
 # The Prince and the Pauper
 **Authors**: Mark Twain | **Year**: 1881
+**Category**: Children & Young Adult
 
 ## Summary
 In 16th-century London, two boys born on the same day lead dramatically different lives: Edward Tudor, the Prince of Wales, and Tom Canty, a pauper from Offal Court. When they accidentally meet and realize they look identical, they impulsively trade clothes and identities. The prince is cast out into the brutal streets while Tom navigates the treacherous royal court, leading to a dramatic exploration of identity, social injustice, and the nature of power.

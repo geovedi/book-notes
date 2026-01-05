@@ -1,6 +1,7 @@
 # My Father Was Born Feet First
 **Original Title**: Mio padre è nato per i piedi
 **Author**: Elena Bosi | **Year**: 2024
+**Category**: History & Biography
 
 ## Summary
 "My Father Was Born Feet First" is a poignant and humorous memoir in 82 short chapters that captures the essence of growing up in Concordia, Italy, through the eyes of Elena Bosi. The book centers around family stories, quirky characters, and the vibrant life of small-town Italy in the 1970s and 1980s.

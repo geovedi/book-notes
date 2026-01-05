@@ -1,5 +1,5 @@
 # You Are Not Expected to Understand This
-**Authors**: Torie Bosch, Kelly Chudler | **Year**: 2022
+**Authors**: Torie Bosch, Kelly Chudler | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "You Are Not Expected to Understand This" is a fascinating collection of 26 essays exploring how specific lines of code and technological breakthroughs fundamentally shaped our modern world. From the first punch cards that powered looms to algorithms that rank the internet, each chapter reveals the human stories behind revolutionary code moments that transformed how we live, work, and connect.

@@ -1,5 +1,6 @@
 # What Is Compound Interest?
 **Authors**: Mel Clark | **Year**: 2015
+**Category**: Business & Finance
 
 ## Summary
 This concise guide demystifies compound interest—the financial phenomenon where your money earns interest on both the principal and accumulated interest. Through clear mathematical examples, the book demonstrates how this "natural law of money" can transform modest investments into substantial wealth over time.

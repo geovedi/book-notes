@@ -1,5 +1,5 @@
 # The Mayflower and the Pilgrims' New World
-**Author**: Nathaniel Philbrick | **Year**: 2010
+**Author**: Nathaniel Philbrick | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 This is the real story we need to know—not just the tale of Thanksgiving, but the complete narrative of how the Pilgrims' search for religious freedom led to both fifty years of peace and one of America's deadliest wars. Philbrick reveals the complex, human truth behind the Plymouth Colony, showing how two cultures maintained a delicate balance that ultimately erupted into King Philip's War, forever changing New England.

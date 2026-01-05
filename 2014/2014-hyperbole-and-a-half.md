@@ -1,5 +1,5 @@
 # Hyperbole and a Half
-**Author**: Allie Brosh | **Year**: 2014
+**Author**: Allie Brosh | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 Allie Brosh's memoir is a hilarious and brutally honest collection of stories from her life, presented with simple yet expressive drawings that perfectly capture the absurdity of human experience. Based on her popular blog, the book combines childhood misadventures, dog ownership disasters, and painfully relatable adult struggles with procrastination and self-doubt.

@@ -1,5 +1,6 @@
 # The Code Breaker
 **Authors**: Walter Isaacson | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 Walter Isaacson's "The Code Breaker" tells the riveting story of Jennifer Doudna and the revolutionary development of CRISPR gene-editing technology that has transformed biological science and opened profound ethical questions about the future of humanity. The book weaves together scientific discovery, personal rivalries, and the race to control genetic destiny, culminating in Doudna's 2020 Nobel Prize in Chemistry.

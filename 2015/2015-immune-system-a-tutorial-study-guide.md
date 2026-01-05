@@ -1,5 +1,5 @@
 # Immune System: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This comprehensive tutorial study guide breaks down the complex immune system into three distinct lines of defense, explaining how our bodies protect against foreign invaders through physical barriers, cellular responses, and highly specific antibody mechanisms. The guide uses a question-and-answer format to make immune system concepts accessible for biology students.

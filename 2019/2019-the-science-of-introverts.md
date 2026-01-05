@@ -1,5 +1,6 @@
 # The Science of Introverts
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Science of Introverts" explores the biological and psychological foundations of introversion, revealing how introverts are wired differently from extroverts. The book presents introversion not as a flaw to be fixed, but as a natural personality variant with distinct advantages and challenges.

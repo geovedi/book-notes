@@ -1,5 +1,5 @@
 # Introducing Productivity
-**Authors**: Graham Allcott | **Year**: 2014
+**Authors**: Graham Allcott | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "Introducing Productivity" is a practical A-to-Z guide that transforms how you think about getting things done in the modern workplace. Allcott argues that traditional time management is dead—what truly matters is managing your attention, the most limited and valuable resource you have. The book introduces the CORD Productivity Model (Capture and Collect, Organize, Review, Do) and the "Productivity Ninja" mindset to help you navigate information overload, reduce stress, and achieve more with less effort.

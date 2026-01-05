@@ -1,5 +1,4 @@
-# Is Everyone Hanging Out Without Me? (And Other Concerns)
-**Author**: Mindy Kaling | **Year**: 2011
+**Category**: Fiction & Literature
 
 ## Summary
 Mindy Kaling's debut memoir is a hilarious collection of essays that chronicles her journey from an awkward, chubby Indian-American kid to a successful writer, actress, and producer on "The Office." Through sharp wit and unfiltered honesty, Kaling tackles topics ranging from body image and friendship to dating and Hollywood mishaps. The book reads like a conversation with that brilliant, funny friend who isn't afraid to share her embarrassing moments and unpopular opinions.

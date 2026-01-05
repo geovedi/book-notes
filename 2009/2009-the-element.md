@@ -1,6 +1,7 @@
 # The Element
 **Original Title**: O Elemento
 **Authors**: Ken Robinson, Ph.D. with Lou Aronica | **Year**: 2009
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Element" is a transformative guide to discovering your true potential by finding the intersection of natural aptitude and personal passion. Ken Robinson argues that everyone has unique talents and abilities, but most people never discover them due to limiting educational systems and societal expectations. The book explores how finding your "Element" - that magical place where what you're good at meets what you love - leads to profound personal fulfillment and extraordinary achievement.

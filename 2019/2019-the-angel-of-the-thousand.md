@@ -1,6 +1,7 @@
 # The Angel of the Thousand
 **Original Title**: L'Angelo dei Mille
 **Author**: Marco Ferrari | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 This compelling biography unveils the forgotten story of Rosalia Montmasson, the only woman among Garibaldi's legendary "Thousand" who fought for Italian unification. Born in 1823 in a small Savoyard village, Rosalia transformed from a humble washerwoman to a revolutionary courier, battlefield nurse, and eventually the abandoned wife of Italian Prime Minister Francesco Crispi. Her journey takes us from the secret revolutionary circles of mid-19th century Europe to the bloody battlefields of Sicily, from the corridors of political power to an isolated old age in Rome.

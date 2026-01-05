@@ -1,6 +1,7 @@
 # It Is Rich: Homage to the Emperor
 **Original Title**: 't Is Rik: Hommage aan de Keizer
 **Authors**: Thijs Delrue, Bart Lamers | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 This Dutch-language book is a heartfelt tribute to Rik Van Looy, the legendary Belgian cyclist known as "The Emperor of Herentals." Published in 2017, the book captures the enduring legacy of one of cycling's greatest champions through personal anecdotes, historical accounts, and cultural reflections. Van Looy, who dominated professional cycling in the 1950s and 1960s, remains an iconic figure in Belgian sports history and the collective memory of his hometown.

@@ -1,5 +1,5 @@
 # In Math We Trust
-**Authors**: Simon Dingle | **Year**: 2018
+**Authors**: Simon Dingle | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "In Math We Trust" is a comprehensive exploration of Bitcoin and cryptocurrency's revolutionary impact on money, trust, and economic systems. Written in 2018, the book traces the evolution of money from physical shells and bones to digital currency, explaining how Bitcoin's emergence in 2009 fundamentally changed our understanding of trust and value. Dingle argues that our current financial system, built on centralized authority and what he calls the "bullshit standard" of fiat currency, is fundamentally flawed and being replaced by a new paradigm of mathematical trust.

@@ -1,5 +1,6 @@
 # Escape
 **Authors**: Carolyn Jessop, Laura Palmer | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 This powerful memoir recounts Carolyn Jessop's harrowing escape from the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS), a polygamous cult along the Utah-Arizona border. Born into six generations of polygamy, Carolyn was forced at age 18 to marry Merril Jessop, a 50-year-old man who became her fourth husband. Over 15 years, she bore eight children while enduring psychological abuse, isolation, and the increasingly extreme control of prophet Warren Jeffs. Her daring midnight escape with all eight children—including her severely disabled four-year-old son—became one of the most dramatic stories of liberation from religious bondage in modern American history.

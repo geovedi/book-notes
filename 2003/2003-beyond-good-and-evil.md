@@ -1,5 +1,5 @@
 # Beyond Good and Evil
-**Author**: Friedrich Nietzsche | **Year**: 2003 (Penguin Classics Edition)
+**Author**: Friedrich Nietzsche | **Year**: 2003 (Penguin Classics Edition) | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Beyond Good and Evil" is Nietzsche's revolutionary critique of traditional philosophy and morality, challenging readers to move beyond conventional notions of right and wrong. Nietzsche argues that all philosophical systems are essentially autobiographies of their authors, masked behind claims to objective truth. The book introduces his central concepts including the "will to power" as life's fundamental drive, perspectivism as the nature of knowledge, and the distinction between master and slave morality.

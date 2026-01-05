@@ -1,5 +1,6 @@
 # Let's Pretend This Never Happened
 **Authors**: Jenny Lawson | **Year**: 2012
+**Category**: Fiction & Literature
 
 ## Summary
 Let's Pretend This Never Happened is a hilarious and deeply personal memoir about Jenny Lawson's bizarre childhood growing up in rural Texas with a taxidermist father and an endless parade of eccentric family members. The book transforms the author's most embarrassing, traumatic, and absurd experiences into comedy gold, showing how the moments we want to forget are often the ones that shape us most profoundly.

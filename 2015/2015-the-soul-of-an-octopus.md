@@ -1,5 +1,5 @@
 # The Soul of an Octopus
-**Authors**: Sy Montgomery | **Year**: 2015
+**Authors**: Sy Montgomery | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 "The Soul of an Octopus" is a groundbreaking exploration of consciousness that challenges our understanding of what it means to be a thinking, feeling being. Through intimate encounters with four different octopuses—Athena, Octavia, Kali, and Karma—at the New England Aquarium, Montgomery discovers that these seemingly alien creatures possess remarkable intelligence, distinct personalities, and the capacity for emotional connections that defy traditional scientific boundaries.

@@ -1,5 +1,5 @@
 # Self-Improvement Tips for Everybody
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide offers a comprehensive collection of actionable tips for improving every aspect of your life. Written as an accessible handbook for anyone seeking personal growth, the book covers seven core areas: health and fitness, mental and spiritual wellbeing, workplace productivity, financial management, relationships and family, goal achievement, and overall life balance. The author emphasizes that self-improvement doesn't require dramatic life changes but can be achieved through small, consistent daily actions.

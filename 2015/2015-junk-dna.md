@@ -1,6 +1,6 @@
 # Junk DNA: A Journey Through the Dark Matter of the Genome
 **Original Title**: Junk DNA
-**Author**: Nessa Carey | **Year**: 2015
+**Author**: Nessa Carey | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 This groundbreaking book challenges the long-held view that 98% of human DNA is merely "junk" with no purpose. Carey reveals how non-coding DNA—the vast stretches between protein-coding genes—actually contains the sophisticated regulatory systems that make complex life possible. Through compelling analogies and cutting-edge research, she demonstrates that what was once dismissed as genomic garbage is actually the command center that orchestrates when, where, and how our genes are expressed.

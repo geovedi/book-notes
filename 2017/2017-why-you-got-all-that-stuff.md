@@ -1,5 +1,6 @@
 # Why You Got All That Stuff
 **Authors**: Dr. Robert C. Worstell | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This revealing book explores the psychological and marketing mechanisms behind our tendency to accumulate possessions, and provides practical methods to break free from mental and physical clutter. Worstell combines insights from advertising copywriting, mythological storytelling structures, and personal development principles to explain why we buy what we buy and how we can reprogram our thinking patterns to achieve genuine fulfillment instead of material accumulation.

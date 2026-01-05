@@ -1,5 +1,6 @@
 # The Year of You
 **Authors**: Hannah Braime | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Year of You" is a comprehensive 365-day journaling guide designed to facilitate deep self-discovery through structured daily prompts. The book organizes reflection into twelve key life areas, one for each month, guiding readers through a methodical exploration of identity, past experiences, environment, relationships, career, and personal growth. This framework transforms journaling from a random habit into a purposeful practice that builds self-awareness across all dimensions of life.

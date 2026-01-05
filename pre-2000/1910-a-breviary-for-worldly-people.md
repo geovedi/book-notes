@@ -1,6 +1,7 @@
 # A Breviary for Worldly People
 **Original Title**: Brevier für Weltleute: Essays über Gesellschaft, Mode, Frauen, Reisen Lebenskunst, Kunst, Philosophie
 **Author**: Oscar A. H. Schmitz | **Year**: 1910
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This sophisticated collection of essays offers a comprehensive guide to worldly life and social philosophy in early 20th century Europe. Schmitz examines the intricate codes of conduct, social conventions, and aesthetic principles that governed aristocratic and bourgeois society during the fin de siècle era. Written with the wit and psychological insight reminiscent of French moralists, the book serves as both a celebration and critique of European high society's declining traditions.

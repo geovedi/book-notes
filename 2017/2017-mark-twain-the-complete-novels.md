@@ -1,5 +1,6 @@
 # Mark Twain: The Complete Novels
 **Authors**: Mark Twain (Samuel Clemens) | **Year**: 2017 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together Mark Twain's greatest novels, spanning his entire literary career and capturing the essence of American humor, social commentary, and adventure storytelling. From the iconic Mississippi River tales of Tom Sawyer and Huckleberry Finn to the satirical masterpieces like A Connecticut Yankee in King Arthur's Court, these works established Twain as America's first literary celebrity and helped define American literature's unique voice away from European influence.

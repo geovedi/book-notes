@@ -1,5 +1,6 @@
 # Fierce Conversations
 **Author**: Susan Scott | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Fierce Conversations" reveals a revolutionary truth: our careers, companies, relationships, and lives succeed or fail **gradually, then suddenly, one conversation at a time**. Scott defines "fierce" not as aggressive or cruel, but as robust, intense, strong, powerful, and passionate—conversations where we come out from behind ourselves into the conversation and make it real.

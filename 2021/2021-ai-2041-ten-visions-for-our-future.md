@@ -1,5 +1,6 @@
 # AI 2041: Ten Visions for Our Future
 **Authors**: Kai-Fu Lee, Chen Qiufan | **Year**: 2021
+**Category**: Technology & Computing
 
 ## Summary
 "AI 2041" presents ten compelling visions of how artificial intelligence will transform our world over the next twenty years through a unique blend of science fiction stories and technical analysis. Each chapter pairs a imaginative story set in 2041 with Kai-Fu Lee's expert analysis of the underlying AI technology, creating both an accessible and comprehensive look at our AI-driven future.

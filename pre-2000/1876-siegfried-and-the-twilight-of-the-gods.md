@@ -1,6 +1,7 @@
 # Siegfried and the Twilight of the Gods
 **Original Title**: Siegfried & Die Götterdämmerung
 **Authors**: Richard Wagner | **Year**: 1876
+**Category**: Fiction & Literature
 
 ## Summary
 "Siegfried and the Twilight of the Gods" presents the monumental conclusion to Richard Wagner's Ring Cycle, where destiny, love, and cosmic power collide in an epic struggle. The story follows Siegfried, the fearless hero who knows no fear, as he forges his legendary sword, slays the dragon Fafner, and ultimately breaks free from manipulation to claim his own fate. In the final act, the cursed ring's power corrupts all who possess it, leading to betrayal, murder, and ultimately the destruction of the old order of gods and the dawn of a new age of humanity.

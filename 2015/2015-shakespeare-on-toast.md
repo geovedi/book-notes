@@ -1,5 +1,6 @@
 # Shakespeare on Toast: Getting a Taste for the Bard
 **Authors**: Ben Crystal | **Year**: 2015
+**Category**: Fiction & Literature
 
 ## Summary
 "Shakespeare on Toast" is a refreshingly accessible guide that demystifies Shakespeare for modern readers without dumbing down his genius. Crystal argues that Shakespeare's plays were originally written as instruction manuals for actors, not as literature to be studied. By understanding the theatrical context, Elizabethan audience experience, and the poetic "clues" Shakespeare embedded in his text, readers can unlock the magic of his works.

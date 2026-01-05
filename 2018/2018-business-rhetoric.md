@@ -1,5 +1,6 @@
 # Business Rhetoric: How to Turn Your Words Into Gold
 **Authors**: Mette Højen | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 Business rhetoric is your ability to speak and act convincingly—a critical discipline for transforming words into actions and measurable business outcomes. This systematic approach moves beyond traditional presentation skills to focus on audience-centered communication that drives behavioral change and delivers rhetorical ROI. The book presents a complete framework for mastering business communication through structured analysis, proven techniques, and practical applications that work across all business contexts.

@@ -1,5 +1,6 @@
 # The Science of Accelerated Learning
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

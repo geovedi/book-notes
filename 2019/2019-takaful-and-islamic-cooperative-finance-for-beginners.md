@@ -1,6 +1,7 @@
 # Takaful and Islamic Cooperative Finance for Beginners
 **Original Title**: Takaful and Islamic Cooperative Finance for Beginners
 **Authors**: Andrei Besedin | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 Takaful represents a revolutionary approach to insurance based on Islamic principles of mutual cooperation, shared responsibility, and ethical finance. This comprehensive guide demystifies the concept of Islamic insurance, demonstrating how it differs fundamentally from conventional insurance by eliminating uncertainty (gharar), interest (riba), and gambling (maysir) - all prohibited in Islamic law. The book positions Takaful as both a religiously compliant alternative and a disruptive innovation in global financial services.

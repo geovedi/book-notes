@@ -1,5 +1,6 @@
 # Heart of Darkness
 **Authors**: Joseph Conrad | **Year**: 1899
+**Category**: Fiction & Literature
 
 ## Summary
 "Heart of Darkness" follows Charles Marlow, a steamship captain who journeys deep into the Congo Free State to retrieve the enigmatic ivory trader Kurtz. What begins as a mission of colonial commerce becomes a psychological descent into the human psyche's darkest corners. Marlow witnesses firsthand the brutal exploitation of African natives, the moral decay of European imperialists, and ultimately confronts Kurtz—a man who has abandoned civilization to become a god-like figure among the natives, yet has been consumed by his own primal darkness.

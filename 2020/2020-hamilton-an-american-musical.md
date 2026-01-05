@@ -1,5 +1,6 @@
 # Hamilton: An American Musical
 **Authors**: Lin-Manuel Miranda | **Year**: 2020
+**Category**: Art & Creativity
 
 ## Summary
 This collection presents piano/vocal arrangements of the most beloved songs from Lin-Manuel Miranda's revolutionary musical that redefined Broadway through its fusion of hip-hop, jazz, R&B, and traditional show tunes. The musical tells the story of Alexander Hamilton, America's ten-dollar founding father, from his impoverished arrival in New York to his tragic death in a duel with Aaron Burr.

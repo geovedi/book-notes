@@ -1,6 +1,6 @@
 # In the Water of the Canglang River
 **Original Title**: 沧浪之水 (Cāng Làng Zhī Shuǐ)
-**Author**: 阎真 (Yán Zhēn) | **Year**: 2001
+**Author**: 阎真 (Yán Zhēn) | **Year**: 2001 | **Category**: Fiction & Literature
 
 ## Summary
 "In the Water of the Canglang River" is a profound Chinese novel that follows the moral and psychological transformation of Chi Dawei, a medical graduate student who enters the provincial health bureaucracy with ideals of integrity and justice. The title references an ancient Chinese poem from the "Songs of Chu" that speaks of adapting to circumstances: "When the Canglang's waters are clear, I can wash my hat strings; when they are muddy, I can wash my feet." This metaphor serves as the central theme of the protagonist's journey from principled resistance to pragmatic adaptation.

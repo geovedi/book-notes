@@ -1,5 +1,6 @@
 # Blood: An Epic History of Medicine and Commerce
 **Authors**: Douglas Starr | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 Douglas Starr's "Blood" is a sweeping historical narrative that traces humanity's relationship with blood from ancient mystical beliefs to modern medical miracles. The book reveals how blood transformed from a magical substance into a critical medical commodity worth billions of dollars annually. Through three distinct eras—Blood Magic, Blood Wars, and Blood Money—Starr chronicles the scientific breakthroughs, tragic failures, and ethical dilemmas that have shaped our understanding and use of this vital fluid.

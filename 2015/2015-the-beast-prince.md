@@ -1,5 +1,5 @@
 # The Beast Prince
-**Authors**: S.E. Smith | **Year**: 2015
+**Authors**: S.E. Smith | **Year**: 2015 | **Category**: Romance & Relationships
 
 ## Summary
 Lisa Tootles accidentally discovers an enchanted doorway during a game of Manhunt and steps through into a magical world where she meets Prince Sharden, a man cursed to become a beast. The curse, placed on Sharden's family by a witch they refused shelter, becomes permanent on his 25th birthday—just days away. The witch has prophesied that only the woman who comes through the doorway can break the spell.

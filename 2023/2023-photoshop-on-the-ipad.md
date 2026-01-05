@@ -1,6 +1,7 @@
 # Photoshop on the iPad: Creativity on the Go
 **Original Title**: Photoshop op de iPad
 **Author**: Rob de Winter | **Year**: 2023
+**Category**: Art & Creativity
 
 ## Summary
 "Photoshop on the iPad" is a comprehensive guide that transforms the powerful desktop Photoshop experience into an intuitive mobile workflow. This book teaches photographers, designers, and digital artists how to harness the full creative potential of Photoshop on Apple's tablet, combining it with complementary Adobe apps like Lightroom, Fresco, and Illustrator. Through practical tutorials and insights from four professional artists (Ted Chin, Russell Brown, Frankie Cihi, and Magdiel Lopez), readers learn to master photo compositions, retouching, social media content creation, and digital painting—all from the convenience of their iPad.

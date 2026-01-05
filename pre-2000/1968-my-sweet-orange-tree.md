@@ -1,6 +1,7 @@
 # My Sweet Orange Tree
 **Original Title**: O Meu Pé de Laranja Lima
 **Author**: José Mauro de Vasconcelos | **Year**: 1968 (2018 English translation)
+**Category**: Children & Young Adult
 
 ## Summary
 A heart-wrenching coming-of-age story narrated by five-year-old Zezé, a mischievous boy growing up in poverty-stricken Bangu, Rio de Janeiro. Tagged as "the devil incarnate" by his community, Zezé finds solace in his vivid imagination and his secret friendship with Pinkie, a small sweet-orange tree in his backyard. Through a series of painful discoveries and unexpected connections, Zezé learns about tenderness, loss, and the harsh reality of growing up far too soon.

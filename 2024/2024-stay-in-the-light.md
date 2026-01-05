@@ -1,5 +1,6 @@
 # Stay in the Light
 **Authors**: A.M. Shine | **Year**: 2024
+**Category**: Horror & Thriller
 
 ## Summary
 A chilling horror thriller that follows the interconnected lives of characters hunted by ancient, shape-shifting creatures known as changelings or "watchers." Set in Ireland, the story weaves together Professor David Kilmartin's academic obsession with these mythological beings, his son Sean's archaeological expedition that uncovers their underground lair, and Mina, a traumatized survivor who understands the deadly truth: the creatures can only harm you in darkness. The central survival mantra becomes "Stay in the light" as the characters realize these ancient entities have been living among humans for centuries, waiting for their chance to reclaim the surface.

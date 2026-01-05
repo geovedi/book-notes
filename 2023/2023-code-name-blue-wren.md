@@ -1,5 +1,6 @@
 # Code Name Blue Wren
 **Author**: Jim Popkin | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 Code Name Blue Wren tells the astonishing true story of Ana Montes, the most dangerous female spy in American history. For 17 years, Montes worked as a senior analyst at the Defense Intelligence Agency while secretly passing classified information to Cuba. She betrayed her country, her colleagues, and even her own sister who worked for the FBI. The book reveals how a brilliant but troubled woman from a Puerto Rican family became Fidel Castro's most successful American asset, endangering U.S. military operations and costing lives.

@@ -1,6 +1,6 @@
 # The Social-Democratic Program: The Foundation Programs of SDB, SDAP and PvdA 1878-1977
 **Original Title**: Het sociaal-democratisch programma. De beginselprogramma's van SDB, SDAP en PVDA 1878-1977
-**Author**: Bart Tromp | **Year**: 2002
+**Author**: Bart Tromp | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking academic study traces the ideological evolution of Dutch social democracy through the foundational principle programs of three successive political parties: the Social-Democratic Bond (SDB), the Social-Democratic Workers' Party (SDAP), and the Labour Party (PvdA). By analyzing how these programs were developed and how their content shifted over nearly a century, Tromp reveals how social democracy transformed from revolutionary Marxism to pragmatic reformism.

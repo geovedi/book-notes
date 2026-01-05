@@ -1,6 +1,6 @@
 # Living by Māori Values: Understanding Tikanga Māori
 **Original Title**: Tikanga Māori: Living by Māori Values
-**Author**: Sir Hirini Moko Mead | **Year**: 2016
+**Author**: Sir Hirini Moko Mead | **Year**: 2016 | **Category**: Spirituality & Religion
 
 ## Summary
 Tikanga Māori represents the complete system of Māori customary values and practices—the ethical framework, social protocols, and spiritual principles that guide proper conduct in Māori society. This comprehensive work explains how these ancestral customs, though suppressed for generations, are experiencing a cultural renaissance and gaining recognition in New Zealand law and education. The book reveals tikanga as a living, adaptive system that maintains ancient wisdom while addressing contemporary challenges.

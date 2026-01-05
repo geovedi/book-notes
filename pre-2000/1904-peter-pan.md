@@ -1,5 +1,6 @@
 # Peter Pan: The Original Play
 **Authors**: J. M. Barrie | **Year**: 1904
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Peter Pan, the boy who refuses to grow up, flies into the Darling family nursery searching for his lost shadow. He befriends Wendy, John, and Michael Darling, teaching them to fly with fairy dust and happy thoughts. Together they journey to Never Land, where Peter leads the Lost Boys and battles the villainous Captain Hook. Wendy becomes a surrogate mother to the Lost Boys, while Peter engages in daring adventures with pirates, mermaids, and Native American princess Tiger Lily. The story explores the tension between eternal childhood and the natural process of growing up, ultimately showing that while all children must eventually grow up except one, the magic of childhood remains an essential part of human experience.

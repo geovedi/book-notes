@@ -1,5 +1,6 @@
 # The Ministry of Truth: The Republican Party's War on the Recent Past
 **Authors**: Steve Benen | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Steve Benen's "The Ministry of Truth" exposes how the modern Republican Party has systematically waged war on recent history, rewriting events from the Trump era to suit their political agenda. Drawing parallels to Orwell's "1984," Benen demonstrates how GOP officials have created alternative narratives about crucial events—from the Russia scandal to the January 6th attack—asking Americans to reject what they saw with their own eyes and accept manufactured stories instead.

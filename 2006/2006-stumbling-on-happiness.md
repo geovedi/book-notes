@@ -1,5 +1,5 @@
 # Stumbling on Happiness
-**Authors**: Daniel Todd Gilbert | **Year**: 2006
+**Authors**: Daniel Todd Gilbert | **Year**: 2006 | **Category**: Psychology & Mental Health
 
 ## Summary
 Harvard psychologist Daniel Gilbert reveals why humans are uniquely terrible at predicting what will make them happy. Our ability to imagine the future—once considered our greatest strength—turns out to be our biggest weakness when it comes to emotional forecasting. Gilbert explains that our brains systematically fill in gaps, overestimate impacts, and fail to account for our own psychological resilience.

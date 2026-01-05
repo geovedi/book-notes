@@ -1,6 +1,6 @@
 # The Autistic Spectrum: A Guide for Parents and Professionals
 **Original Title**: 孤独症谱系障碍：家长及专业人员指南
-**Authors**: Lorna Wing | **Year**: 2001 
+**Authors**: Lorna Wing | **Year**: 2001 | **Category**: Psychology & Mental Health 
 
 ## Summary
 This comprehensive guide by Dr. Lorna Wing, a renowned psychiatrist and mother of an autistic daughter, provides essential knowledge about autism spectrum disorders (ASD) for both parents and professionals. Drawing from decades of clinical experience and personal insight, Wing demystifies the complex nature of autism while offering practical guidance for support and intervention. The book covers everything from historical context and diagnostic criteria to educational strategies and family support.

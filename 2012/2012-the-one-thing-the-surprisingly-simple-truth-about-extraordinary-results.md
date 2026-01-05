@@ -1,5 +1,6 @@
 # The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results
 **Authors**: Gary Keller with Jay Papasan | **Year**: 2012
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The ONE Thing" reveals the surprisingly simple truth behind achieving extraordinary results: extraordinary success is the result of doing fewer things better, not more things mediocrely. The book argues that when you identify and focus on your ONE Thing—the single most important action that will make everything else easier or unnecessary—you unlock a domino effect that transforms your productivity, success, and overall life satisfaction.

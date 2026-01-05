@@ -1,5 +1,6 @@
 # How to Make Money on Popular Mobile E-commerce Marketplaces
 **Authors**: Juha Öörni | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the world of mobile commerce and shows you how to turn your smartphone into a money-making machine through six popular marketplace platforms. The book reveals how mobile commerce has revolutionized buying and selling by creating personal, direct connections between sellers and buyers, bypassing traditional advertising limitations. Whether you're clearing out your closet or building a small business, these platforms offer accessible entry points into the e-commerce ecosystem.

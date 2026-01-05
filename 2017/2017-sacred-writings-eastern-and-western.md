@@ -1,5 +1,6 @@
 # Sacred Writings: Eastern and Western Religious Classics
 **Original Title**: The Harvard Classics Volume 45 | **Authors**: Charles W. Eliot (Editor) | **Year**: 2017
+**Category**: Spirituality & Religion
 
 ## Summary
 This volume presents a comprehensive collection of sacred religious texts spanning multiple faith traditions, offering readers a unique opportunity to explore the spiritual wisdom of both Eastern and Western civilizations in one accessible compilation. The work brings together foundational writings from Christianity, Buddhism, Hinduism, and Islam, creating a cross-cultural dialogue about humanity's eternal questions regarding meaning, purpose, and the divine.

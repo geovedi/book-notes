@@ -1,5 +1,5 @@
 # The Darwin Awards Countdown to Extinction
-**Authors**: Wendy Northcutt | **Year**: 2010
+**Authors**: Wendy Northcutt | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "The Darwin Awards Countdown to Extinction" is a hilarious dark humor collection that commemorates people who accidentally remove themselves from the human gene pool through astonishingly stupid actions. Named after Charles Darwin, these awards "salute the improvement of the human genome" by documenting verified true stories of individuals whose final acts were so idiotic that they arguably improved humanity's genetic future. The book presents these cautionary tales across themed categories like food-related disasters, explosive mishaps, electrical accidents, and transportation catastrophes.

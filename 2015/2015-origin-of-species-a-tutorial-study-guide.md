@@ -1,6 +1,7 @@
 # Origin of Species: A Tutorial Study Guide
 **Original Title**: Origin of Species: A Tutorial Study Guide
 **Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 This concise tutorial study guide breaks down 3.7 billion years of evolutionary history into an accessible, questions-and-answer format designed for biology students. Written as a modular unit in the Principles of Biology course series, it systematically traces the major evolutionary breakthroughs from primitive single-celled organisms to modern humans, emphasizing how each innovation accelerated the pace of evolution.

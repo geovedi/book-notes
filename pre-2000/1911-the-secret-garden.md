@@ -1,5 +1,6 @@
 # The Secret Garden
 **Original Title**: The Secret Garden | **Authors**: Frances Hodgson Burnett | **Year**: 1911
+**Category**: Children & Young Adult
 
 ## Summary
 Mary Lennox, a spoiled and lonely young girl raised in colonial India, is orphaned by a cholera outbreak and sent to live with her reclusive Uncle Archibald Craven in his sprawling Yorkshire estate. There she discovers a locked, abandoned garden that was her aunt's favorite place before her death years ago. With the help of a robin redbreast, local boy Dickon, and her sickly cousin Colin, Mary brings the garden back to life, transforming both the landscape and the hearts of everyone involved.

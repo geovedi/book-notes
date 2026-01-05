@@ -1,5 +1,6 @@
 # Dealing with Difficult People at Work & At Home
 **Authors**: Samantha Claire | **Year**: 2018
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide offers comprehensive strategies for setting healthy boundaries and managing conflicts with difficult people in both professional and personal settings. The book provides a framework for understanding why people become difficult, how to recognize unhealthy relationship patterns, and practical techniques for assertive communication and conflict resolution. It emphasizes the importance of self-respect, boundary setting, and emotional intelligence as foundational skills for dealing with challenging personalities.

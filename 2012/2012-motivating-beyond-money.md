@@ -1,6 +1,7 @@
 # 2012-Motivating Beyond Money
 
 **Authors**: Rus Slater | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 

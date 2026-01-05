@@ -1,5 +1,6 @@
 # How and Why Nations Fail
 **Authors**: A. I. Abana | **Year**: 2018
+**Category**: History & Biography
 
 ## Summary
 This book explores the fundamental factors that cause nations to fail, arguing that failure isn't accidental but stems from specific, identifiable causes that can be addressed. The author presents eight primary agents of national failure, ranging from moral and spiritual decay to geographical disadvantages, showing how these factors interact to create conditions that prevent countries from achieving their developmental potential.

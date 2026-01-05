@@ -1,6 +1,7 @@
 # Turn Back to Yourself
 **Original Title**: Повернись к себе
-**Author**: Sara Kuburic | **Year**: 2024 
+**Author**: Sara Kuburic | **Year**: 2024
+**Category**: Self-Help & Personal Development 
 
 ## Summary
 This profound self-help book explores the universal human experience of "losing oneself" - the painful disconnect between who we are and who we pretend to be. Through personal narrative and psychological expertise, Kuburic guides readers through the journey of reclaiming their authentic self after experiencing the devastating effects of self-loss.

@@ -1,5 +1,5 @@
 # The Orientalist
-**Author**: Tom Reiss | **Year**: 2005
+**Author**: Tom Reiss | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 "The Orientalist" is a gripping work of literary detective work that solves one of the 20th century's most intriguing authorship mysteries. The book begins with author Tom Reiss tracking down the true identity behind "Kurban Said," the pseudonymous author of the beloved novel "Ali and Nino," set in Azerbaijan on the eve of the Russian Revolution. Through meticulous investigation across continents and archives, Reiss uncovers the remarkable story of Lev Nussimbaum—a Jewish man born in Baku during the 1905 Russian Revolution who transformed himself into "Essad Bey," a Muslim author and celebrated Orientalist writer to survive the rising tide of European anti-Semitism.

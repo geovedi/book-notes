@@ -1,5 +1,6 @@
 # 2018 Cryptocurrency Trading & Investing
 **Authors**: Sean Bennett (Cryptomasher) | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # Science Lesson Plans for KS1
 **Authors**: Pam Larkins | **Year**: 2012
+**Category**: Children & Young Adult
 
 ## Summary
 This comprehensive resource provides 10 structured science lesson plans designed specifically for Key Stage 1 students (ages 5-7), focusing on the National Curriculum topic of "Sorting and Using Materials." Each lesson follows a consistent pedagogical framework with clear learning objectives, hands-on activities, assessment strategies, and cross-curricular integration opportunities.

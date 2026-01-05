@@ -1,5 +1,6 @@
 # Blood, Sweat, and Pixels
 **Author**: Jason Schreier | **Year**: 2017
+**Category**: Technology & Computing
 
 ## Summary
 Blood, Sweat, and Pixels reveals the chaotic, challenging reality behind video game development through ten gripping behind-the-scenes stories. From indie darlings to blockbuster AAA titles, each chapter shows how games overcome technical disasters, crushing deadlines, and human drama to reach players. The book exposes a fundamental truth: making great games is incredibly difficult, often requiring superhuman sacrifice from developers who work endless hours to create interactive entertainment.

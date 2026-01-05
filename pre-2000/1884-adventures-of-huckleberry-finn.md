@@ -1,5 +1,6 @@
 # The Adventures of Huckleberry Finn
 **Authors**: Mark Twain | **Year**: 1884
+**Category**: Fiction & Literature
 
 ## Summary
 *The Adventures of Huckleberry Finn* follows the journey of Huck Finn, a young boy who escapes from "civilized" society and his abusive father by rafting down the Mississippi River with Jim, an enslaved man seeking freedom. What begins as an adventure evolves into a profound exploration of morality, friendship, and the hypocrisy of pre-Civil War American society.

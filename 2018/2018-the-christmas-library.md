@@ -1,6 +1,6 @@
 # The Christmas Library
 
-**Authors**: Various Authors (Charles Dickens, Anton Chekhov, Arthur Conan Doyle, Dylan Thomas, Beatrix Potter, and many others) | **Year**: 2018
+**Authors**: Various Authors (Charles Dickens, Anton Chekhov, Arthur Conan Doyle, Dylan Thomas, Beatrix Potter, and many others) | **Year**: 2018 | **Category**: Fiction & Literature
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # The Hidden Life of Trees
-**Authors**: Peter Wohlleben, Tim Flannery | **Year**: 2016
+**Authors**: Peter Wohlleben, Tim Flannery | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 "The Hidden Life of Trees" reveals the astonishing social world of forests, where trees communicate, cooperate, and care for each other in ways that challenge our understanding of plant life. Drawing from his decades of experience as a forester, Wohlleben uncovers the secret lives of trees—how they form friendships, warn each other of danger, share nutrients through underground fungal networks, and create communities that function like superorganisms.

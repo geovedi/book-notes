@@ -1,5 +1,5 @@
 # Rare Bird
-**Authors**: Maria Mudd Ruth | **Year**: 2013
+**Authors**: Maria Mudd Ruth | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 "Rare Bird" is a scientific detective story that unravels one of ornithology's greatest mysteries: where does the marbled murrelet nest? For nearly 200 years, scientists and naturalists were baffled by this small seabird that spends most of its life at sea but disappears inland during breeding season. The book follows the passionate quest to discover the marbled murrelet's nesting secret—a journey that ultimately revealed the bird's extraordinary dependence on ancient old-growth forests and its crucial role in conservation battles across the Pacific Northwest.

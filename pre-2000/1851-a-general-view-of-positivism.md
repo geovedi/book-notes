@@ -1,5 +1,6 @@
 # A General View of Positivism
 **Authors**: Auguste Comte | **Year**: 1851
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Auguste Comte's "A General View of Positivism" presents a comprehensive philosophical system that seeks to reorganize society through scientific understanding and the systematic worship of Humanity. Positivism is not merely a philosophy but a complete way of life that integrates thought, feeling, and action into a harmonious whole. The work emerged during a period of profound social crisis in Western Europe, offering a solution that combines intellectual rigor with moral purpose.

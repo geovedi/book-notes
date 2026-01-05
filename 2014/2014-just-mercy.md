@@ -1,5 +1,5 @@
 # Just Mercy
-**Author**: Bryan Stevenson | **Year**: 2014
+**Author**: Bryan Stevenson | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 "Just Mercy" is a powerful memoir and call to action that exposes the brutal realities of America's criminal justice system through the personal journey of a young lawyer who founded the Equal Justice Initiative. Stevenson weaves together his own story with heart-wrenching cases of wrongful convictions, harsh sentencing, and systemic injustice, particularly affecting the poor, people of color, children, and the mentally disabled.

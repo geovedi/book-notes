@@ -1,5 +1,6 @@
 # 2023 Amazon Payday Secrets
 **Authors**: Jeff Walker | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 "Amazon Payday Secrets" is a practical guide that reveals how to generate income through Amazon's affiliate marketing program. The book outlines a systematic approach to becoming a successful Amazon Associate, from setting up your account to choosing profitable niches and implementing effective marketing strategies.

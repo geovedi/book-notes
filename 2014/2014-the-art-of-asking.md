@@ -1,5 +1,5 @@
 # The Art of Asking
-**Authors**: Amanda Palmer, Brené Brown | **Year**: 2014
+**Authors**: Amanda Palmer, Brené Brown | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Art of Asking" explores how asking for help transforms our relationships, work, and ability to create meaningful connections. Palmer draws from her experience as a street performer, musician, and crowdfunding pioneer to reveal that vulnerability is not weakness but the foundation of human connection. The book challenges our cultural shame around asking and receiving, arguing that these acts are essential for building trust, community, and fulfilling relationships.

@@ -1,5 +1,5 @@
 # The Definitive Guide to NFT Investing
-**Authors**: Wayne Walker | **Year**: 2022
+**Authors**: Wayne Walker | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 

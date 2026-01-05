@@ -1,5 +1,6 @@
 # Complete Works of George Orwell
 **Authors**: George Orwell (Eric Arthur Blair) | **Year**: 2015 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together the complete works of George Orwell, one of the 20th century's most influential political writers and social critics. Born in 1903 as Eric Arthur Blair, Orwell created a body of work that continues to shape our understanding of totalitarianism, social justice, political language, and the power of truth. His writing spans from devastating critiques of colonialism and imperialism to warnings about surveillance states and the corruption of language.

@@ -1,5 +1,6 @@
 # Transformational Corporate Leadership
 **Authors**: Barine A. Kirimi, David Minja | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "Transformational Corporate Leadership" presents a comprehensive framework for leading organizations through meaningful change in today's complex global business environment. The book introduces the Integrated System Concept of the Organization (ISCO), which views corporations as holistic systems composed of five interconnected subsystems: corporate governance, strategy, social, process, and physical resources.

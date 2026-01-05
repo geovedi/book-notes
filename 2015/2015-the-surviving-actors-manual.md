@@ -1,5 +1,6 @@
 # The Surviving Actor's Manual
 **Authors**: Felicity Jackson & Lianne Robertson | **Year**: 2015
+**Category**: Business & Finance
 
 ## Summary
 The Surviving Actor's Manual is a comprehensive business guide for actors that reframes acting not just as an art form but as a serious entrepreneurial venture. Created by actors for actors through the Surviving Actors organization, this practical handbook moves beyond teaching acting craft to focus on the essential business skills needed to create, develop, and sustain a successful acting career in today's competitive industry.

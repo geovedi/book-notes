@@ -1,5 +1,6 @@
 # The Dark Side of Progress
 **Authors**: Dan Desmarques | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Dark Side of Progress" is a provocative philosophical exploration of how technological advancement and societal conditioning can limit human consciousness rather than enhance it. Desmarques argues that while progress offers the illusion of knowledge and empowerment, it often serves to manipulate collective consciousness toward lower levels of awareness. The book challenges readers to look beyond surface-level narratives and question the systems that shape our perceptions of reality.

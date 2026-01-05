@@ -1,5 +1,6 @@
 # Self Improvement Tips For Mastering Your Life
 **Authors**: Justin Lierman | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Self Improvement Tips For Mastering Your Life" is a comprehensive collection of practical, actionable tips designed to transform your life across multiple dimensions. The book serves as a go-to resource for anyone feeling lost or seeking direction, offering wisdom on personal development, professional growth, emotional management, financial habits, and relationship building. Each chapter presents bite-sized advice that readers can immediately implement to create positive change in their lives.

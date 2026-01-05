@@ -1,5 +1,5 @@
 # Heaven is for Real
-**Authors**: Todd Burpo, Lynn Vincent | **Year**: 2010
+**Authors**: Todd Burpo, Lynn Vincent | **Year**: 2010 | **Category**: Spirituality & Religion
 
 ## Summary
 "Heaven is for Real" is the extraordinary true story of Colton Burpo, a four-year-old boy who claimed to have visited heaven during emergency surgery for a burst appendix. Through his innocent but detailed descriptions, Colton reveals what he saw, who he met, and what heaven is really like—providing both comfort and wonder to readers seeking to understand what awaits believers after death.

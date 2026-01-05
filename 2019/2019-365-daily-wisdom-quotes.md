@@ -1,5 +1,6 @@
 # 365 Daily Wisdom Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This book is a curated collection of 365 daily wisdom quotes designed to provide readers with bite-sized philosophical insights and practical wisdom for everyday living. The author's premise is simple yet profound: rather than spending decades learning life's lessons through personal experience, we can accelerate our growth by absorbing the distilled wisdom of philosophers, leaders, and thinkers throughout history. Each quote serves as a daily contemplation point, meant to be reflected upon and applied to one's personal circumstances.

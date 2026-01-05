@@ -1,6 +1,7 @@
 # The Large Catechism
 **Original Title**: Der Große Katechismus
 **Author**: Martin Luther | **Year**: 1529
+**Category**: Spirituality & Religion
 
 ## Summary
 The Large Catechism is Martin Luther's comprehensive manual on Christian doctrine, written as a detailed guide for pastors and teachers to properly instruct congregations in the foundational elements of Christian faith. Unlike his Small Catechism, which was brief for memorization, this work provides extensive explanations and practical applications of Christian teachings.

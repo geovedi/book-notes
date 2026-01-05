@@ -1,6 +1,6 @@
 # Alice in Wonderland Collection: The Complete Four-Book Treasury
 **Original Title**: Alice's Adventures in Wonderland Collection
-**Authors**: Lewis Carroll | **Year**: 2018 (Collection), Original works 1865-1871
+**Authors**: Lewis Carroll | **Year**: 2018 (Collection), Original works 1865-1871 | **Category**: Children & Young Adult
 
 ## Summary
 This comprehensive collection gathers Lewis Carroll's complete Alice saga, featuring "Alice's Adventures in Wonderland," "Through the Looking-Glass," "The Nursery Alice," and supplementary materials. The books follow young Alice's fantastical journeys through nonsensical worlds populated by memorable characters like the Mad Hatter, Cheshire Cat, and Queen of Hearts.

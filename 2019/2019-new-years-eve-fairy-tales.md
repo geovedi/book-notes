@@ -1,5 +1,6 @@
 # New Year's Eve Fairy Tales
 **Original Title**: New Year's Eve Fairy Tales | **Authors**: Hans Christian Andersen | **Year**: 2019
+**Category**: Children & Young Adult
 
 ## Summary
 This collection gathers five of Hans Christian Andersen's most beloved fairy tales, centered around themes of transformation, social hierarchy, and the cyclical nature of life. The stories range from heartbreaking tales of poverty and dreams to nuanced explorations of class distinctions and the quiet dignity of everyday people. Andersen weaves together moral lessons about compassion, perseverance, and finding beauty in unexpected places.

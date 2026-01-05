@@ -1,5 +1,5 @@
 # Mind Magic
-**Authors**: Keith Barry, Nick Sheridan | **Year**: 2023
+**Authors**: Keith Barry, Nick Sheridan | **Year**: 2023 | **Category**: Children & Young Adult
 
 ## Summary
 "Mind Magic" is a practical guide that teaches young readers how to train their brains for greater confidence, creativity, and resilience through simple mental techniques and "brain hacks." Written by magician Keith Barry, the book combines elements of psychology, neuroscience, and magic to help readers overcome everyday challenges and achieve their goals.

@@ -1,6 +1,6 @@
 # The Literary Heritage of the Arabs
 **Original Title**: The Literary Heritage of the Arabs
-**Authors**: Suheil Bushrui, James M. Malarkey | **Year**: 2014
+**Authors**: Suheil Bushrui, James M. Malarkey | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology presents a sweeping journey through Arabic literature from pre-Islamic times to the modern era, offering readers unprecedented access to one of the world's richest literary traditions. The book serves as both a literary collection and cultural bridge, designed to counter stereotypes about Arabs and introduce English-speaking readers to the depth and beauty of Arabic civilization through its poetry, prose, and religious texts.

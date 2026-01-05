@@ -1,5 +1,5 @@
 # Command and Control
-**Author**: Eric Schlosser | **Year**: 2013
+**Author**: Eric Schlosser | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "Command and Control" reveals the terrifying truth about America's nuclear weapons program: a system fraught with accidents, near-misses, and systemic failures that came perilously close to causing catastrophic disasters. Through meticulous investigative reporting, Schlosser exposes how the very systems designed to prevent nuclear war have repeatedly threatened to unleash it by mistake.

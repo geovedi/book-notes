@@ -1,5 +1,6 @@
 # Wishful Drinking
 **Author**: Carrie Fisher | **Year**: 2008
+**Category**: Fiction & Literature
 
 ## Summary
 Carrie Fisher's memoir is a razor-sharp, hilarious, and heartbreaking account of growing up in Hollywood royalty as the daughter of Debbie Reynolds and Eddie Fisher. Written after electroconvulsive therapy (ECT) wiped out much of her memory, Fisher reconstructs her extraordinary life through the lens of someone rediscovering who she is—complete withStar Wars fame, addiction, mental illness, and enough family dysfunction to fuel several seasons of a soap opera.

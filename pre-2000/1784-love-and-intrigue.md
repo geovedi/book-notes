@@ -1,5 +1,6 @@
 # Love and Intrigue
 **Original Title**: Kabale und Liebe (German) | **Authors**: Friedrich Schiller | **Year**: 1784
+**Category**: Romance & Relationships
 
 ## Summary
 Friedrich Schiller's "Love and Intrigue" is a powerful German tragedy that explores the destructive collision between personal love and social hierarchy in 18th-century Germany. The play tells the story of Ferdinand von Walter, a nobleman's son, and Louisa Miller, the daughter of a middle-class musician, whose passionate love threatens the rigid class structure and political ambitions of those in power.

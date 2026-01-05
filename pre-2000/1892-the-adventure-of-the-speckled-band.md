@@ -1,5 +1,6 @@
 # The Adventure of the Speckled Band
 **Authors**: Arthur Conan Doyle | **Year**: 1892
+**Category**: Horror & Thriller
 
 ## Summary
 Sherlock Holmes and Dr. Watson are visited early one morning by Helen Stoner, a terrified young woman who fears for her life. Her sister Julia died mysteriously two years earlier in their home at Stoke Moran Manor, and now Helen, forced to sleep in the same room, has begun hearing the same eerie whistling sound that preceded her sister's death. Holmes uncovers a diabolical murder plot involving Dr. Grimesby Roylott, Helen's violent stepfather who stands to lose his inheritance if his stepdaughters marry.

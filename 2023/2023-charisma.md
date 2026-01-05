@@ -1,5 +1,6 @@
 # Charisma
 **Authors**: Eric Holt | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Charisma is not an innate gift but a learnable skill that combines affability and influence. This comprehensive guide reveals that charisma stems from specific behaviors and mindset shifts that anyone can develop through deliberate practice. The book breaks down charisma into seven essential characteristics: clear communication, persuasiveness, confidence, problem-solving ability, emotional intelligence, enthusiasm, and presence.

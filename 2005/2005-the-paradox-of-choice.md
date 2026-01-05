@@ -1,5 +1,5 @@
 # The Paradox of Choice
-**Author**: Barry Schwartz | **Year**: 2005
+**Author**: Barry Schwartz | **Year**: 2005 | **Category**: Psychology & Mental Health
 
 ## Summary
 "The Paradox of Choice" reveals how the explosion of options in modern life makes us less satisfied, not more. Schwartz argues that while some choice is essential for autonomy and wellbeing, too much choice leads to analysis paralysis, anxiety, regret, and even clinical depression. The book challenges our cultural assumption that more freedom equals more happiness, showing how the endless array of options in everything from jeans to careers to relationships overwhelms our decision-making abilities.

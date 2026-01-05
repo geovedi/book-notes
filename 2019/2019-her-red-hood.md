@@ -1,5 +1,6 @@
 # Her Red Hood
 **Authors**: A. Anders | **Year**: 2019
+**Category**: Romance & Relationships
 
 ## Summary
 A steamy bisexual menage romance that reimagines the Little Red Riding Hood fairy tale as an adult erotic fantasy. The story follows Redina (Red), an 18-year-old girl who discovers her family's legacy of passion and sexual freedom while traveling through dangerous woods. She encounters Tem, a mysterious naked man who transforms into a wolf, and Hunter, his loyal companion. Redina soon learns that her grandmother is actually Lady Millar of Wheatenton, exiled royalty, and that Tem is the long-lost prince believed killed by wolves years ago. As Redina navigates her desires for both men, she helps Tem reclaim his royal identity while forming a polyamorous relationship that challenges conventional boundaries.

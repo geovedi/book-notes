@@ -1,5 +1,5 @@
 # Life Itself
-**Author**: Roger Ebert | **Year**: 2011
+**Author**: Roger Ebert | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 Roger Ebert's memoir is a profoundly moving reflection on a life lived with curiosity, love, and resilience. Written after he lost his ability to speak due to cancer surgeries, the book traces his journey from a small-town Illinois childhood to becoming America's most recognizable film critic. It's not just about movies—it's about family, faith, mortality, and finding meaning in a life that didn't go exactly as planned.

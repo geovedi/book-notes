@@ -1,5 +1,5 @@
 # The Rise and Fall of the Dinosaurs
-**Authors**: Stephen Brusatte | **Year**: 2018
+**Authors**: Stephen Brusatte | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 "The Rise and Fall of the Dinosaurs" takes readers on a thrilling journey through 150 million years of dinosaur history, written by one of the world's leading young paleontologists. Brusatte reveals the revolutionary discoveries that have transformed our understanding of these remarkable creatures from slow, dim-witted brutes to dynamic, sophisticated animals that dominated the planet for eons.

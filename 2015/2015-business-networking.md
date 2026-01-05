@@ -1,5 +1,6 @@
 # Business Networking: The Essential Guide
 **Authors**: Municipal Books | **Year**: 2015
+**Category**: Business & Finance
 
 ## Summary
 Business networking is not about collecting business cards or attending events—it's about building meaningful, reciprocal relationships that generate long-term value. This guide reveals how effective networking requires strategic planning, genuine listening skills, and a farmer's mindset: cultivate relationships patiently before expecting to harvest business opportunities. Successful networkers understand that quality connections matter far more than quantity, and that generosity breeds opportunity.

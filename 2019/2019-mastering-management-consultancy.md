@@ -1,5 +1,6 @@
 # Mastering Management Consultancy
 **Authors**: Calvert Markham | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Mastering Management Consultancy" is a comprehensive guide that demystifies the consulting profession and provides practical frameworks for delivering value to clients. The book covers the entire consultancy lifecycle from understanding client problems and managing relationships to running successful projects and growing a consulting business.

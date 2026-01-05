@@ -1,5 +1,6 @@
 # Your Inner Fish
 **Authors**: Neil Shubin | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 "Your Inner Fish" reveals the astonishing 3.5-billion-year evolutionary history embedded in the human body. Paleontologist Neil Shubin takes readers on a scientific adventure, from the fossil-rich cliffs of the Arctic to molecular laboratories, showing how every organ, bone, and gene in our bodies connects us to ancient fish, reptiles, and even jellyfish. The book's centerpiece is the discovery of Tiktaalik, a 375-million-year-old fossil that bridges the gap between fish and land animals.

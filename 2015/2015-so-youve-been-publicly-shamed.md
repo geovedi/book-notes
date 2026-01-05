@@ -1,5 +1,5 @@
 # So You've Been Publicly Shamed
-**Author**: Jon Ronson | **Year**: 2015
+**Author**: Jon Ronson | **Year**: 2015 | **Category**: Psychology & Mental Health
 
 ## Summary
 Jon Ronson's "So You've Been Publicly Shamed" is a compelling investigation into the phenomenon of public shaming in the digital age. The book explores how social media has created a new stage for collective outrage, where ordinary people can be destroyed by a single misstep. Through fascinating case studies—including a disgraced journalist, a PR executive's ill-advised tweet, and various victims of online mob justice—Ronson examines the psychology behind both shamers and the shamed, revealing our complex relationship with shame, power, and redemption in an interconnected world.

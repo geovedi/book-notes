@@ -1,5 +1,5 @@
 # Bad Feminist
-**Authors**: Roxane Gay | **Year**: 2014
+**Authors**: Roxane Gay | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 Roxane Gay's "Bad Feminist" is a groundbreaking collection of essays that explores what it means to be an imperfect feminist in today's complex cultural landscape. Gay candidly admits her contradictions—loving pink while hating misogyny, enjoying problematic rap music while fighting sexism, wanting independence while craving care—arguing that feminism doesn't require perfection to be powerful.

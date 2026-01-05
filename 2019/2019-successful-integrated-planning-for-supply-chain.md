@@ -1,5 +1,6 @@
 # Successful Integrated Planning for Supply Chain
 **Authors**: Andrei Besedin | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide reveals how supply chain integration transforms business operations from fragmented silos into seamless, competitive networks. In today's interconnected global marketplace, companies can no longer afford to manage suppliers, distributors, and customers as separate entities—success requires integrating every link in the value chain.

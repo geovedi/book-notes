@@ -1,5 +1,6 @@
 # Scurvy: How a Surgeon, a Mariner, and a Gentleman Solved the Greatest Medical Mystery of the Age of Sail
 **Authors**: Stephen R. Bown | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "Scurvy" tells the remarkable story of how three men—surgeon James Lind, explorer James Cook, and physician Gilbert Blane—solved one of history's most devastating medical mysteries through persistence, scientific inquiry, and practical innovation. For centuries, scurvy killed more sailors than all other diseases, battles, and disasters combined, causing symptoms from bleeding gums and swollen limbs to psychological breakdown and death. The book traces how this seemingly simple vitamin deficiency shaped world history, enabling or thwarting naval expeditions, and ultimately determining the fate of empires.

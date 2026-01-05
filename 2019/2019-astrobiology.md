@@ -1,5 +1,6 @@
 # Astrobiology: The Search for Life Elsewhere in the Universe
 **Authors**: Andrew May | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive introduction to astrobiology explores one of humanity's most profound questions: Are we alone in the universe? May skillfully guides readers through the scientific search for extraterrestrial life, from microscopic organisms on neighboring worlds to advanced alien civilizations that might be communicating across the galaxy. The book demystifies the real science behind headlines about aliens while separating fact from speculation.

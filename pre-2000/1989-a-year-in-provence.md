@@ -1,5 +1,6 @@
 # A Year in Provence
 **Author**: Peter Mayle | **Year**: 1989
+**Category**: Fiction & Literature
 
 ## Summary
 Peter Mayle, a British advertising executive, and his wife abandon their comfortable life in England to pursue a long-held dream of living in rural Provence, France. They purchase a 200-year-old farmhouse in the Lubéron mountains and chronicle their first year adapting to the slow, food-obsessed, weather-driven rhythm of Provençal life. Through monthly vignettes, Mayle captures their adventures with eccentric locals, bureaucratic nightmares, renovation disasters, and the profound joy of discovering a life governed by seasons, long lunches, and the Mistral wind.

@@ -1,5 +1,6 @@
 # 50 Mystery and Detective Masterpieces You Have to Read Before You Die Vol 1
 **Original Title**: 50 Mystery and Detective Masterpieces You Have to Read Before You Die Vol 1 | **Authors**: Various Authors | **Year**: 2017
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive anthology collects fifty foundational mystery and detective stories that shaped the genre from its origins to modern classics. Spanning from Edgar Allan Poe's pioneering detective tales to Golden Age whodunnits and international mysteries, this collection serves as both a literary history and a reading roadmap for mystery enthusiasts.

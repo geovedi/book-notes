@@ -1,5 +1,6 @@
 # Spirits of the Air
 **Authors**: Kurt Diemberger, Audrey Salkeld (translator) | **Year**: 2015
+**Category**: Health & Medicine
 
 ## Summary
 Spirits of the Air is the profound memoir of legendary mountaineer Kurt Diemberger, one of the few climbers to have made first ascents of two 8,000-meter peaks. This reflective work weaves together extraordinary climbing adventures—including his experiences on K2, Nanga Parbat, and the great Alpine north faces—with deep philosophical insights about risk, companionship, and the human relationship with mountains. Diemberger contemplates the loss of his climbing partner Julie Tullis on K2, his own near-death experiences, and the enduring mystery that keeps drawing him back to the heights despite the dangers.

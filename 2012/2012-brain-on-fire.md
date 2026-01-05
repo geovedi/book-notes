@@ -1,5 +1,6 @@
 # Brain on Fire
 **Author**: Susannah Cahalan | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 Brain on Fire is a gripping medical memoir that chronicles 24-year-old journalist Susannah Cahalan's sudden descent into madness and her remarkable recovery from a rare autoimmune disease. What began as unusual symptoms—sensitivity to light, mood swings, and paranoia—quickly escalated into seizures, hallucinations, and catatonia. Misdiagnosed with everything from bipolar disorder to alcohol withdrawal, Cahalan was eventually saved by Dr. Souhel Najjar, who identified her condition as anti-NMDA-receptor autoimmune encephalitis, a disease only discovered in 2007. The book is both a harrowing personal journey and an eye-opening look at the fragile boundary between neurology and psychiatry.

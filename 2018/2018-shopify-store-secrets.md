@@ -1,5 +1,5 @@
 # Shopify Store Secrets
-**Authors**: Evan Jones | **Year**: 2018
+**Authors**: Evan Jones | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This essential startup guide provides a comprehensive roadmap for building, launching, and growing a profitable online store using Shopify. The book walks beginners through every critical step, from initial setup and product selection to advanced strategies like drop shipping and promotional campaigns.

@@ -1,5 +1,6 @@
 # Vaccinated: One Man's Quest to Defeat the World's Deadliest Diseases
 **Author**: Paul A. Offit, M.D. | **Year**: 2008
+**Category**: Health & Medicine
 
 ## Summary
 "Vaccinated" tells the remarkable story of Maurice Hilleman, the most prolific vaccine developer in history who created or tested more than twenty vaccines during his career at Merck. Despite being responsible for saving millions of lives and extending human lifespan by decades, Hilleman remains largely unknown to the public. The book chronicles his journey from a poor farm boy in Montana to becoming the scientist who successfully predicted the 1957 Asian flu pandemic and created vaccines for most childhood diseases, including measles, mumps, rubella, hepatitis A and B, and more. Written by Dr. Paul Offit based on extensive interviews with Hilleman before his death from cancer in 2005, this is both a biography of scientific genius and a testament to the power of vaccines to transform human health.

@@ -1,5 +1,6 @@
 # Options Trading for Beginners
 **Authors**: Joseph Williams | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 Options Trading for Beginners is a comprehensive guide that introduces readers to the world of options trading, starting from fundamental concepts and progressing to advanced strategies. The book emphasizes that options trading differs from traditional long-term investing by offering unique risk/reward frameworks and strategic versatility. Through detailed explanations of call and put options, pricing mechanisms, and various trading strategies, Williams aims to equip beginners with the knowledge needed to navigate the options market confidently.

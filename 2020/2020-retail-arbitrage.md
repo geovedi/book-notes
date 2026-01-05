@@ -1,5 +1,6 @@
 # Retail Arbitrage: Complete Guide to Making Money Online
 **Authors**: Mark Graham | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 

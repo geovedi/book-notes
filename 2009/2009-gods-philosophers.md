@@ -1,5 +1,6 @@
 # God's Philosophers: How the Medieval World Laid the Foundations of Modern Science
 **Authors**: James Hannam | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking book demolishes the myth of the "Dark Ages" and reveals how medieval scholars actually laid the essential foundations for modern science. Hannam demonstrates that far from being a period of intellectual stagnation, the Middle Ages witnessed remarkable scientific progress, technological innovation, and the crucial integration of faith with reason that made the Scientific Revolution possible.

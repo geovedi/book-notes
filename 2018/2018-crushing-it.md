@@ -1,5 +1,6 @@
 # Crushing It! How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too
 **Authors**: Gary Vaynerchuk | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Crushing It!" is Gary Vaynerchuk's expanded guide to building a powerful personal brand and business through social media. The book demonstrates how anyone can leverage today's digital platforms to transform their passion into profit, with real-world examples from entrepreneurs who have successfully built influential personal brands. Vaynerchuk argues that personal branding is no longer optional—it's essential for entrepreneurial success in the modern economy.

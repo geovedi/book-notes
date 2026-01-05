@@ -1,5 +1,5 @@
 # Real Estate Ultimate Beginner's Guide
-**Authors**: C.M. Middleton | **Year**: 2018
+**Authors**: C.M. Middleton | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide serves as an entry point for beginners looking to build wealth through real estate investing. The author, who has achieved financial freedom through property investment, shares a straightforward approach that covers everything from assessing your financial position to negotiating deals and managing renovations. The book emphasizes that real estate investing requires hard work and homework but can lead to substantial returns when done correctly.

@@ -1,5 +1,6 @@
 # Bookkeeping: Step by Step Guide to Bookkeeping Principles & Basic Bookkeeping for Small Business
 **Authors**: Mark Smith | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies bookkeeping for small business owners, providing a step-by-step approach to managing financial records, understanding tax obligations, and maintaining accurate accounts. The book breaks down complex accounting concepts into practical, actionable strategies that business owners can implement immediately to gain better control over their finances.

@@ -1,5 +1,6 @@
 # The Legend of Sleepy Hollow and Other Stories
 **Authors**: Washington Irving | **Year**: 1820
+**Category**: Horror & Thriller
 
 ## Summary
 This seminal collection of early American literature brings together some of the most enduring tales from the nation's folklore tradition. Washington Irving masterfully weaves together supernatural legends, moral fables, and character studies set against the backdrop of early 19th-century America. The stories capture the mysterious atmosphere of Dutch settlements in New York's Hudson Valley, blending European Gothic traditions with distinctly American themes and settings.

@@ -1,6 +1,7 @@
 # Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh
 **Original Title**: Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh
 **Author**: Thomas Carlyle | **Year**: 1836
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Sartor Resartus" is a philosophical novel that presents itself as an editor's attempt to understand and introduce a mysterious German philosopher named Diogenes Teufelsdröckh and his groundbreaking work "Clothes, Their Origin and Influence." Through this fictional framework, Carlyle explores deep questions about identity, society, spirituality, and the nature of reality itself. The book uses clothing as a central metaphor for how humans construct meaning, social structures, and even their very identities.

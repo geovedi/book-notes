@@ -1,5 +1,5 @@
 # We Thought You Would Be Prettier
-**Author**: Laurie Notaro | **Year**: 2005
+**Author**: Laurie Notaro | **Year**: 2005 | **Category**: Fiction & Literature
 
 ## Summary
 "We Thought You Would Be Prettier" is a collection of hilarious, self-deprecating essays chronicling the misadventures of Laurie Notaro, an unapologetically imperfect woman navigating life's most embarrassing moments. From disastrous book tours to gym mishaps and identity theft woes, Notaro transforms everyday humiliations into comedic gold. The book follows her journey as she embraces her role as the "dorkiest girl alive," finding humor and solidarity in life's most awkward situations.

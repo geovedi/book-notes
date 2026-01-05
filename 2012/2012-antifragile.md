@@ -1,5 +1,6 @@
 # Antifragile
 **Author**: Nassim Nicholas Taleb | **Year**: 2012
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Antifragile" introduces a revolutionary concept that sits opposite to fragility on a spectrum. While fragile things break under stress and robust things resist stress, antifragile systems actually GAIN from disorder, volatility, and random events. Taleb argues that our modern world's obsession with prediction, control, and stability is making us more vulnerable to Black Swan events—rare but high-impact occurrences. The book reveals how everything from evolution and economies to our own bodies thrive on stressors, and how we can harness this property to build better systems, make smarter decisions, and live more resilient lives in an unpredictable world.

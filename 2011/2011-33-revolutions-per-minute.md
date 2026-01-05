@@ -1,5 +1,5 @@
 # 33 Revolutions Per Minute
-**Author**: Dorian Lynskey | **Year**: 2011
+**Author**: Dorian Lynskey | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 

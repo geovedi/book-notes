@@ -1,5 +1,6 @@
 # ChatGPT for Beginners
 **Authors**: Matthew Hayes | **Year**: 2023
+**Category**: Technology & Computing
 
 ## Summary
 This practical guide demystifies ChatGPT for absolute beginners, showing how to leverage this revolutionary AI tool to generate multiple income streams and boost productivity by up to 37%. The book provides a comprehensive roadmap for monetizing AI skills while maintaining a human touch in the digital economy. Whether you're a freelancer, entrepreneur, or professional looking to streamline your workflow, this book offers actionable strategies to transform ChatGPT from a novelty into a money-making asset.

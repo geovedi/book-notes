@@ -1,5 +1,6 @@
 # Fuzz: When Nature Breaks the Law
 **Author**: Mary Roach | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 In this fascinating exploration of human-wildlife conflict, Mary Roach investigates what happens when animals break laws designed for humans. Through two years of field research, she travels from Vatican crime scenes to leopard-terrorized villages in India, introducing readers to the unsung heroes who manage these conflicts: Human-Elephant Conflict Specialists, Danger-Tree Faller-Blasters, and attack forensics investigators. Roach reveals that 2,000 species across 200 countries regularly create conflicts with humans, requiring solutions as unique as the situations themselves.

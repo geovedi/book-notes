@@ -1,5 +1,6 @@
 # The Lady with the Dog
 **Authors**: Anton Chekhov | **Year**: 1899
+**Category**: Fiction & Literature
 
 ## Summary
 Dmitri Gurov, a married Moscow banker accustomed to casual affairs, encounters Anna Sergeyevna—a young woman with a white Pomeranian dog—while vacationing in Yalta. What begins as another predictable romantic conquest transforms into an unexpected, profound love that haunts both characters long after their summer affair ends. When Anna returns home to her dull provincial life, Gurov finds himself unable to forget her, leading to a secret relationship that challenges his cynical worldview and forces both lovers to confront the limitations of their constrained existence.

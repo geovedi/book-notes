@@ -1,5 +1,5 @@
 # Know Yourself Like Your Success Depends on It
-**Authors**: Michal Stawicki | **Year**: 2015
+**Authors**: Michal Stawicki | **Year**: 2015 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This book presents self-analysis as the fundamental cornerstone of success across all areas of life. Stawicki argues that knowing yourself isn't just a philosophical exercise—it's a practical skill that directly impacts your ability to achieve goals, make decisions, and overcome obstacles. The author draws from historical examples like Marcus Aurelius, Jim Rohn, and Napoleon Bonaparte, alongside his personal transformation from a frustrated IT worker to a successful author.

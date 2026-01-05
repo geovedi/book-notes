@@ -1,5 +1,6 @@
 # Under the Tuscan Sun
 **Author**: Frances Mayes | **Year**: 1996
+**Category**: History & Biography
 
 ## Summary
 Frances Mayes, a university professor and poet, chronicles her transformative journey of buying and restoring an abandoned Tuscan villa named Bramasole ("yearning for the sun"). After a divorce, she and her partner Ed leave their comfortable American life to immerse themselves in Italian culture, tackling the massive renovation of a 200-year-old farmhouse surrounded by olive groves and vineyards. The memoir weaves together the physical restoration of the house with the authors' emotional and cultural renewal.

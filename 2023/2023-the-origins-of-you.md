@@ -1,5 +1,6 @@
 # The Origins of You
 **Authors**: Vienna Pharaon | **Year**: 2023
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Origins of You" is a groundbreaking guide to understanding how our family patterns shape our adult relationships and how we can break free from destructive cycles. As a licensed marriage and family therapist, Vienna Pharaon introduces the concept of "origin healing work" - an approach that reveals how unresolved pain and trauma from our family of origin continues to influence our present-day behavior, choices, and relationship patterns.

@@ -1,5 +1,6 @@
 # The Complete Works of F. Scott Fitzgerald
 **Authors**: F. Scott Fitzgerald | **Year**: 1920-1941 (Collection Published 2023)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection contains all 5 novels and 4 short story collections published during F. Scott Fitzgerald's lifetime, representing the complete literary legacy of America's premier Jazz Age author. From his sensational debut at age 23 to his unfinished final masterpiece, these works capture the Roaring Twenties, explore the American Dream, and examine wealth, love, and disillusionment with unmatched poetic precision.

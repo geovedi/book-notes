@@ -1,6 +1,7 @@
 # The Final Deadline
 **Original Title**: De laatste termijn
 **Author**: Valentin Raspoetin | **Year**: 1980
+**Category**: Fiction & Literature
 
 ## Summary
 The Final Deadline is a profound novella that chronicles the last three days of Anna, an 80-year-old Siberian peasant woman, as she lies dying in her son's village home. During this final period—what she calls her "gift from God to say goodbye"—her scattered children gather at her bedside, bringing with them their complicated relationships, unresolved tensions, and the weight of their different life paths. As Anna drifts between consciousness and death, the family engages in raw conversations that reveal the deep fractures between rural tradition and modern urban life, between old values and new ways of being.

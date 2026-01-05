@@ -1,5 +1,5 @@
 # Confederates in the Attic
-**Authors**: Tony Horwitz | **Year**: 2010
+**Authors**: Tony Horwitz | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "Confederates in the Attic" is Pulitzer Prize-winning journalist Tony Horwitz's journey into the obsessive world of Civil War remembrance. After returning from nine years abroad to find America still fighting the Civil War, Horwitz spends a year traveling through the former Confederacy, interviewing reenactors, heritage activists, and ordinary citizens to understand why this conflict continues to captivate Americans 130 years after Appomattox. The book reveals that the Civil War isn't just history—it's a living, breathing presence that shapes Southern identity, race relations, and American culture in ways both fascinating and troubling.

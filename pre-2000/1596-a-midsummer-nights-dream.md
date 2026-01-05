@@ -1,5 +1,6 @@
 # A Midsummer Night's Dream
 **Authors**: William Shakespeare | **Year**: 1596
+**Category**: Fiction & Literature
 
 ## Summary
 One of Shakespeare's most beloved comedies, "A Midsummer Night's Dream" weaves together four interconnecting storylines in a magical Athenian forest. When four young lovers flee Athens to escape an arranged marriage, they stumble into the realm of feuding fairies whose magical mischief transforms their romantic entanglements into delightful chaos. Alongside them, a group of bumbling craftsmen rehearse a play for the Duke's wedding, leading to comic misunderstandings and one character's literal transformation into an ass.

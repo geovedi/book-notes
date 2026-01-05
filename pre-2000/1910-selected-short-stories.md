@@ -1,5 +1,6 @@
 # Selected Short Stories
 **Authors**: O. Henry | **Year**: 1910
+**Category**: Fiction & Literature
 
 ## Summary
 O. Henry's Selected Short Stories is a masterful collection showcasing the author's signature blend of irony, wit, and poignant human observation. Written during America's Gilded Age, these stories capture the everyday struggles and dreams of ordinary people in New York City and beyond, featuring his trademark surprise endings and deep emotional resonance. The collection includes some of his most celebrated works like "The Furnished Room," "The Gift of the Magi" (referenced), and tales featuring his recurring characters Jeff Peters and other schemers.

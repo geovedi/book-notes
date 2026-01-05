@@ -1,6 +1,7 @@
 # Rapunzel
 **Original Title**: Rapunzel
 **Authors**: Brothers Grimm | **Year**: 1857
+**Category**: Children & Young Adult
 
 ## Summary
 Rapunzel tells the story of a beautiful girl stolen at birth by an enchantress and locked in a tower without doors or stairs. Her magnificent golden hair serves as the only entrance and exit. When a young prince discovers her tower, he falls in love with her singing and finds a way to visit her secretly. Their forbidden romance leads to catastrophic consequences—Rapunzel is cast into the wilderness after her betrayal is discovered, while the prince is blinded and wanders the forest in despair. Through fate and the power of tears, the lovers are eventually reunited, and the prince's sight is miraculously restored.

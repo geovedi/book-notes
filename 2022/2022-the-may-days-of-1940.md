@@ -1,6 +1,6 @@
 # The May Days of 1940
 **Original Title**: De meidagen van 1940
-**Authors**: Luuc Kooijmans | **Year**: 2022
+**Authors**: Luuc Kooijmans | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "The May Days of 1940" is a collective diary that captures the Dutch experience of the German invasion through hundreds of personal testimonies—diaries, letters, and memories from soldiers, housewives, doctors, journalists, students, pastors, farmers, and ministers. This powerful mosaic approach brings readers closer to the reality of war than any traditional historical narrative, presenting the events as they were experienced day by day, from May 1-31, 1940, without the benefit of hindsight.

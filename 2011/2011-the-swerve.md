@@ -1,5 +1,5 @@
 # The Swerve: How the World Became Modern
-**Author**: Stephen Greenblatt | **Year**: 2011
+**Author**: Stephen Greenblatt | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 "The Swerve" tells the remarkable story of how a single manuscript—Lucretius' ancient Roman poem "On the Nature of Things"—was discovered in 1417 by Poggio Bracciolini, an Italian book hunter, and how this rediscovery helped catalyze the Renaissance and shape modern Western thought. The poem, which had been lost for over a thousand years, contained radical ideas about the universe functioning without divine intervention, matter being composed of atoms in eternal motion, and the pursuit of pleasure being life's proper goal.

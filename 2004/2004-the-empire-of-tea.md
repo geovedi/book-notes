@@ -1,5 +1,5 @@
 # The Empire of Tea
-**Authors**: Alan Macfarlane, Iris Macfarlane | **Year**: 2004
+**Authors**: Alan Macfarlane, Iris Macfarlane | **Year**: 2004 | **Category**: History & Biography
 
 ## Summary
 "The Empire of Tea" is a unique dual-perspective exploration of how a simple leaf shaped civilizations, empires, and human history. Alan Macfarlane, a Cambridge anthropologist born on a tea plantation in Assam, teams up with his mother Iris, who spent twenty years as a tea planter's wife in India, to uncover tea's extraordinary influence on everything from the Industrial Revolution to British colonialism. The book combines personal memoir with historical analysis to reveal how tea became the world's most ubiquitous drink and a driving force behind major historical transformations.

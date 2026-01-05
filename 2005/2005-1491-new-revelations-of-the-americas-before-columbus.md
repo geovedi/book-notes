@@ -1,5 +1,5 @@
 # 1491: New Revelations of the Americas Before Columbus
-**Authors**: Charles C. Mann | **Year**: 2005
+**Authors**: Charles C. Mann | **Year**: 2005 | **Category**: History & Biography
 
 ## Summary
 1491 shatters our image of pre-Columbian America as a pristine wilderness inhabited by scattered primitive tribes. Instead, Mann reveals a bustling hemisphere teeming with up to 112 million people—more than contemporary Europe—featuring sophisticated civilizations, revolutionary technologies, and massive landscape engineering projects that fundamentally altered their environment.

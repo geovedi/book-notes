@@ -1,5 +1,5 @@
 # Running with Scissors
-**Author**: Augusten Burroughs | **Year**: 2002
+**Author**: Augusten Burroughs | **Year**: 2002 | **Category**: Fiction & Literature
 
 ## Summary
 "Running with Scissors" is a harrowing yet darkly comic memoir about Augusten Burroughs' bizarre and traumatic childhood after his mentally unstable mother abandons him to live in the chaotic household of her unorthodox psychiatrist, Dr. Finch. Set in the 1970s, the book chronicles Augusten's coming-of-age in a decaying pink Victorian mansion where normal rules don't apply—where electroshock therapy machines become toys, Christmas trees remain for years, and a pedophile relationship with a much older man is normalized by the adults meant to protect him.

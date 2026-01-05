@@ -1,5 +1,5 @@
 # Poseidon's Steed
-**Author**: Helen Scales, Ph.D. | **Year**: 2014
+**Author**: Helen Scales, Ph.D. | **Year**: 2014 | **Category**: Science & Nature
 
 ## Summary
 "Poseidon's Steed" is a comprehensive exploration of seahorses that weaves together mythology, natural history, science, and conservation. Marine biologist Helen Scales takes readers on a global journey to discover why these peculiar creatures have captivated human imagination for thousands of years, from ancient cave paintings to modern conservation efforts. The book reveals how seahorses—looking like mythical hybrids with horse heads, kangaroo pouches, monkey tails, and chameleon eyes—have become cultural icons while facing serious threats in the wild.

@@ -1,5 +1,6 @@
 # John Lennon: The Life
 **Authors**: Philip Norman | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 Philip Norman's definitive biography traces John Lennon's journey from a troubled Liverpool childhood to global icon status, revealing the complex man behind the myth. This meticulously researched chronicle explores Lennon's artistic evolution, personal demons, revolutionary impact on music and culture, and his tragic assassination at age 40. Norman, who had insider access during the Beatles' breakup years, presents both the genius and the deeply flawed human being who transformed popular music while struggling with inner demons that ultimately shaped his art.

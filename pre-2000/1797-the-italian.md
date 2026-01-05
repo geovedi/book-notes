@@ -1,6 +1,7 @@
 # The Italian
 **Original Title**: The Italian (1797)
 **Authors**: Ann Radcliffe | **Year**: 1797
+**Category**: Fiction & Literature
 
 ## Summary
 "The Italian" is a masterpiece of Gothic romance that tells the story of Vincentio di Vivaldi, a passionate nobleman who falls for Ellena Rosalba, a beautiful orphan of modest means. Their forbidden love遭遇s fierce opposition from Vivaldi's aristocratic family, particularly his haughty mother the Marchesa, who orchestrates a campaign to separate them through abduction, imprisonment, and dark conspiracies. The novel unfolds across dramatic Italian landscapes—from the shores of Naples to the dungeons of the Roman Inquisition—with mysterious monks warning of danger, secret passages, and family secrets that threaten to destroy their chance at happiness.

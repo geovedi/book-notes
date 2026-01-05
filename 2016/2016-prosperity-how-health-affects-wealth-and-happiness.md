@@ -1,6 +1,6 @@
 # Prosperity: How Health Affects Wealth and Happiness
 
-**Authors**: Robin Sacredfire | **Year**: 2016
+**Authors**: Robin Sacredfire | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 

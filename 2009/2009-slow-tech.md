@@ -1,5 +1,6 @@
 # Slow-Tech
 **Authors**: Andrew R. G. Price | **Year**: 2009
+**Category**: Technology & Computing
 
 ## Summary
 Slow-Tech presents a radical challenge to our obsession with efficiency, arguing that modern society's relentless pursuit of "lean and mean" operations has created dangerous fragility in our technological, environmental, and social systems. Drawing from personal experiences with vintage Bentley cars, traditional sailing vessels, and his career as an ecologist, Price demonstrates that deliberately retaining "unproductive" redundancy and "over-provision" isn't wasteful—it's essential for long-term survival and performance. The book reveals how nature's wisdom of keeping spare capacity contrasts sharply with humanity's dangerous efficiency trap, showing that robust systems require intentional slack, backup systems, and the courage to resist the pressure to optimize everything.

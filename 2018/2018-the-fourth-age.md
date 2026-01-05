@@ -1,5 +1,5 @@
 # The Fourth Age
-**Author**: Byron Reese | **Year**: 2018
+**Author**: Byron Reese | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 "The Fourth Age" explores how AI and robotics represent the fourth major transformation in human history, following language/fire, agriculture/cities, and writing/wheels. Reese argues that while experts disagree wildly about AI's future impact, their differences stem from fundamental beliefs about reality, humanity, and consciousness. The book provides a framework for understanding these disagreements by examining three foundational questions: What is the composition of the universe? What are we? What is our "self"?

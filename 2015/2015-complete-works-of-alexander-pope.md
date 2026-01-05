@@ -1,5 +1,5 @@
 # Complete Works of Alexander Pope
-**Authors**: Alexander Pope | **Year**: 2015 (Delphi Classics collection of works from 1688-1744)
+**Authors**: Alexander Pope | **Year**: 2015 (Delphi Classics collection of works from 1688-1744) | **Category**: Fiction & Literature
 
 ## Summary
 Alexander Pope stands as one of England's greatest poets and satirists, master of the heroic couplet whose works defined the Augustan Age of English literature. This comprehensive collection spans his major philosophical poems, satirical works, and translations, showcasing his razor-sharp wit, profound moral insights, and technical brilliance in poetic form. Pope's enduring legacy lies in his ability to pack complex philosophical arguments into memorable, quotable verses that continue to resonate centuries later.

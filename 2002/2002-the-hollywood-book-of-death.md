@@ -1,5 +1,5 @@
 # The Hollywood Book of Death
-**Authors**: James Robert Parish | **Year**: 2002
+**Authors**: James Robert Parish | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 "The Hollywood Book of Death" is a macabre yet fascinating collection that explores the final days and circumstances surrounding the deaths of more than 125 American movie and TV idols. Organized into categories—Accidental Deaths, Alcohol and Drugs, In Obscurity, Murders, Natural Causes, Puzzling Deaths, and Suicides—the book provides mini-biographies that balance celebrities' professional achievements with the often tragic, bizarre, or sordid details of their passing.

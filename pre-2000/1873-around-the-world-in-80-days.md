@@ -1,5 +1,6 @@
 # Around the World in 80 Days
 **Authors**: Jules Verne | **Year**: 1873
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 Phileas Fogg, a precise and wealthy English gentleman, makes a £20,000 wager at his London club that he can circumnavigate the globe in exactly 80 days. Accompanied by his newly hired French valet Passepartout, Fogg embarks on an extraordinary journey using every available form of 19th-century transportation—from steamships and railways to elephants and sledges.

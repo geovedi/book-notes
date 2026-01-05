@@ -1,5 +1,6 @@
 # The Kahlil Gibran Collection
 **Authors**: Kahlil Gibran | **Year**: 2019 (Collection), Original works from 1912-1918
+**Category**: Spirituality & Religion
 
 ## Summary
 This collection gathers Kahlil Gibran's most profound philosophical works, including "Broken Wings," "The Madman," and other spiritual parables that blend Eastern mysticism with Western philosophical thought. Written in Gibran signature poetic style, these pieces explore the deepest dimensions of love, beauty, truth, and human consciousness through allegorical stories and meditations.

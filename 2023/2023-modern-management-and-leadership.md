@@ -1,5 +1,5 @@
 # Modern Management and Leadership
-**Authors**: Jon Bright | **Year**: 2023
+**Authors**: Jon Bright | **Year**: 2023 | **Category**: Business & Finance
 
 ## Summary
 "Modern Management and Leadership" is a comprehensive, evidence-based guide that bridges theoretical frameworks with practical applications for today's managers. Drawing from his extensive experience across government, non-profit, and private sectors, Jon Bright presents timeless management principles adapted for contemporary challenges like remote work, diversity initiatives, and rapidly changing employee expectations. The book is deliberately written in accessible language, stripping away management jargon to focus on what actually works in building and leading high-performing teams.

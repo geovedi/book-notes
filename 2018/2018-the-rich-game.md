@@ -1,5 +1,5 @@
 # The Rich Game
-**Authors**: Marten Livingston | **Year**: 2018
+**Authors**: Marten Livingston | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "The Rich Game" reveals the fundamental mindset shifts and practical strategies that separate the wealthy from everyone else. The book argues that becoming rich isn't about luck or exceptional intelligence—it's about adopting the right way of thinking about money and taking consistent, disciplined actions. Livingston breaks down wealth creation into understandable principles, starting with the crucial foundation of mindset, then moving through goal-setting, investing, and building multiple income streams.

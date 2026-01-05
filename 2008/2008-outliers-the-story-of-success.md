@@ -1,5 +1,6 @@
 # Outliers: The Story of Success
 **Author**: Malcolm Gladwell | **Year**: 2008
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Outliers" challenges our conventional understanding of success by arguing that extraordinary achievement isn't merely the product of individual talent and hard work. Instead, Gladwell reveals how success emerges from the complex interplay of opportunity, timing, cultural background, and sheer luck. The book systematically dismantles the myth of the "self-made" individual, showing how outliers—those who achieve exceptional success—are products of history and community, of opportunity and legacy.

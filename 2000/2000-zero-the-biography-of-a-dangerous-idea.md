@@ -1,5 +1,5 @@
 # Zero: The Biography of a Dangerous Idea
-**Authors**: Charles Seife | **Year**: 2000
+**Authors**: Charles Seife | **Year**: 2000 | **Category**: Science & Nature
 
 ## Summary
 Zero tells the epic story of how a seemingly innocent number became the most controversial and powerful concept in human thought. From ancient civilizations that couldn't comprehend nothingness, to Eastern cultures that embraced the void, to Western science that feared it, zero's journey mirrors humanity's struggle with infinity and the unknown.

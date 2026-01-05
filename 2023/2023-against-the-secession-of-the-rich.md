@@ -1,6 +1,7 @@
 # Against the Secession of the Rich
 **Original Title**: Contro la secessione dei ricchi
 **Author**: Gianfranco Viesti | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 

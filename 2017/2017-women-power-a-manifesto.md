@@ -1,5 +1,6 @@
 # Women & Power: A Manifesto
 **Author**: Mary Beard | **Year**: 2017
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Mary Beard traces how Western culture has systematically silenced women's voices and excluded them from power for thousands of years, revealing patterns that persist today. Drawing from classical antiquity to contemporary politics, she demonstrates how deeply embedded cultural assumptions continue to frame women as outsiders to power and authority.

@@ -1,5 +1,5 @@
 # The Philosophy of Cryptocurrency Mining
-**Authors**: Edward A. Harrod | **Year**: 2018
+**Authors**: Edward A. Harrod | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 "The Philosophy of Cryptocurrency Mining" demystifies the complex world of cryptocurrency mining for beginners. This practical guide breaks down everything from the basic concepts of blockchain technology to the nuts and bolts of setting up mining operations. Harrod transforms mining from an intimidating technical subject into an accessible opportunity for anyone interested in cryptocurrency beyond simply buying and trading coins.

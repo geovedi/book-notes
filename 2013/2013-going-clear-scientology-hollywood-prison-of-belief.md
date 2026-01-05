@@ -1,5 +1,5 @@
 # Going Clear: Scientology, Hollywood, and the Prison of Belief
-**Author**: Lawrence Wright | **Year**: 2013
+**Author**: Lawrence Wright | **Year**: 2013 | **Category**: Spirituality & Religion
 
 ## Summary
 Lawrence Wright's Pulitzer Prize-winning investigation exposes the hidden world of Scientology, from its origins with science fiction writer L. Ron Hubbard to its modern-day empire built on celebrity endorsements and psychological manipulation. Through meticulous research and extensive interviews with former high-ranking members, Wright reveals how a religion that promises spiritual freedom actually creates elaborate systems of control, exploiting members' desire for meaning while separating them from their money and families.

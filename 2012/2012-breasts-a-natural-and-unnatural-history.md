@@ -1,5 +1,6 @@
 # Breasts: A Natural and Unnatural History
 **Author**: Florence Williams | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "Breasts: A Natural and Unnatural History" is a groundbreaking scientific exploration that transforms our understanding of this uniquely human organ. Williams investigates how breasts evolved, how they function, and how modern life is fundamentally altering them. Through personal journey and rigorous scientific investigation, she reveals that our breasts have become unintended repositories for environmental chemicals, creating a paradox where the very organ designed to nourish our children may also be delivering them a toxic burden.

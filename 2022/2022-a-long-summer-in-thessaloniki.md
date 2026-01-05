@@ -1,6 +1,6 @@
 # A Long Summer in Thessaloniki
 **Original Title**: Een lange zomer in Thessaloniki
-**Author**: Marlies Vaz Nunes | **Year**: 2022 
+**Author**: Marlies Vaz Nunes | **Year**: 2022 | **Category**: Fiction & Literature 
 
 ## Summary
 This Dutch novel follows Lena, a thirty-year-old unemployed biologist from Amsterdam who receives a six-month research opportunity at the Agricultural University in Thessaloniki, Greece. Set in 1983, the story chronicles Lena's journey of personal discovery as she navigates scientific research, cultural adaptation, unexpected romance, and profound life changes in a foreign country. The narrative explores themes of independence, belonging, scientific ambition, and the complex search for love and self-worth.

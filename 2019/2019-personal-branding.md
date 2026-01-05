@@ -1,5 +1,6 @@
 # Personal Branding
 **Authors**: Ray Welch | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Personal Branding" is a comprehensive guide that demonstrates how building a strong personal brand has become essential in today's digital economy. The book explains that everyone already has a personal brand whether they realize it or not—it's how others perceive you when you're not in the room. The author argues that in a world where professionals change jobs every few years rather than decades, personal branding is no longer optional but crucial for career survival and advancement.

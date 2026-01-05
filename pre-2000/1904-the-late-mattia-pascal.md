@@ -1,6 +1,7 @@
 # The Late Mattia Pascal
 **Original Title**: Il Fu Mattia Pascal
 **Author**: Luigi Pirandello | **Year**: 1904
+**Category**: Fiction & Literature
 
 ## Summary
 Mattia Pascal, a librarian in a small Italian town, lives a life of quiet desperation, trapped in a loveless marriage and drowning in debt inherited from his family's mismanaged fortune. After discovering his wife Romilda's infidelity with his friend Pomino, and facing mounting financial pressures, Pascal travels to Monte Carlo where he wins an extraordinary fortune at roulette. Instead of returning home to reclaim his life, he decides to start fresh by allowing himself to be declared dead after a body is discovered in a local stream, wearing similar clothes.

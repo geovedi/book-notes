@@ -1,5 +1,5 @@
 # The Big Thing: How to Complete Your Creative Project Even if You're a Lazy, Self-Doubting Procrastinator Like Me
-**Authors**: Phyllis Korkki | **Year**: 2016
+**Authors**: Phyllis Korkki | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The Big Thing" is a practical guide to overcoming procrastination and completing meaningful creative projects. Written by a New York Times editor who describes herself as "possessed of a fine natural indolence," the book combines personal experience with extensive research into psychology, neuroscience, and creative processes. Korkki documents her own journey of writing this very book while exploring why so many people abandon their "Big Things"—those personally meaningful creative projects that require sustained effort but have no external deadlines or structure. The book argues that creative completion is less about innate genius or iron willpower and more about developing the right systems, habits, and mindset to work with our natural tendencies rather than against them.

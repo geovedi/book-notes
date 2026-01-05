@@ -1,5 +1,6 @@
 # 50 Masterpieces You Have to Read Before You Die Volumes 1-3
 **Authors**: Various (Dante, Austen, Dostoevsky, Tolstoy, Dickens, etc.) | **Year**: 2017
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive anthology collection compiled by Golden Deer Classics brings together fifty of the most influential literary works in Western literature. Spanning from ancient epics like "The Iliad" and "The Odyssey" to modernist masterpieces like "Ulysses" and "The Picture of Dorian Gray," this three-volume set serves as a curated literary education for readers seeking to experience the foundational texts that have shaped our cultural heritage.

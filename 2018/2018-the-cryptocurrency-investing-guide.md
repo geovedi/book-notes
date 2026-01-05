@@ -1,5 +1,5 @@
 # The Cryptocurrency Investing Guide
-**Authors**: Colin Everett | **Year**: 2018
+**Authors**: Colin Everett | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide serves as an entry point for investors looking to navigate the rapidly evolving world of cryptocurrency investing. Everett covers everything from the basics of what cryptocurrencies are to practical strategies for buying, storing, and managing digital assets safely and profitably. The book aims to demystify cryptocurrency investing for beginners while providing actionable insights for both short-term trading and long-term investment approaches.

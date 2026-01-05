@@ -1,5 +1,6 @@
 # The Golden Ratio
 **Author**: Mario Livio | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 

@@ -1,5 +1,6 @@
 # The Sorrows of Young Werther
 **Authors**: Johann Wolfgang von Goethe | **Year**: 1774
+**Category**: Romance & Relationships
 
 ## Summary
 "The Sorrows of Young Werther" is an epistolary novel that chronicles the tragic story of Werther, a young, sensitive artist who falls desperately in love with Charlotte, a woman already engaged to another man. Through letters to his friend Wilhelm, we witness Werther's emotional journey from initial bliss to utter despair. The novel captures the intense conflict between individual passion and social convention, making it a cornerstone of Romantic literature that inspired "Werther Fever" across Europe.

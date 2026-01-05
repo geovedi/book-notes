@@ -1,6 +1,6 @@
 # Life and Death in Asia Minor in Hellenistic, Roman, and Byzantine Times
 **Original Title**: Life and Death in Asia Minor in Hellenistic, Roman, and Byzantine Times: Studies in Archaeology and Bioarchaeology
-**Editors**: J. Rasmus Brandt, Erika Hagelberg, Gro Bjørnstad, Sven Ahrens | **Year**: 2016
+**Editors**: J. Rasmus Brandt, Erika Hagelberg, Gro Bjørnstad, Sven Ahrens | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking academic work reveals how ancient societies in Anatolia (modern Turkey) lived, died, and transformed over more than a millennium. Through an innovative combination of archaeological excavations and cutting-edge scientific analysis of human remains, the book uncovers the daily realities, burial customs, and dramatic social changes that shaped Asia Minor from the Hellenistic period through the Byzantine era.

@@ -1,5 +1,6 @@
 # Selected Thornton W. Burgess Stories
 **Original Title**: Selected Thornton W. Burgess | **Authors**: Thornton W. Burgess | **Year**: 2024 (selected collection)
+**Category**: Children & Young Adult
 
 ## Summary
 This delightful collection brings together classic children's stories from Thornton W. Burgess, featuring the beloved woodland creatures of the Green Meadows and Green Forest. Each tale follows the adventures, mishaps, and moral lessons of characters like Reddy Fox, Paddy the Beaver, Peter Rabbit, and their animal friends as they navigate the challenges of forest life.

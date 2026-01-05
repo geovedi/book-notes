@@ -1,5 +1,6 @@
 # Maxims and Reflections
 **Authors**: Johann Wolfgang von Goethe | **Year**: 1906 (translation), 1833 (posthumous original)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Maxims and Reflections represents Goethe's distilled wisdom from a lifetime of extraordinary intellectual achievement. This collection of philosophical observations, written primarily in his final decades, offers practical guidance on human character, art, literature, science, and the relationship between humanity and nature. The work emerged from Goethe's habit of recording transient thoughts and insights, many of which were only published after his death. These maxims serve as a bridge between 18th-century rationalism and 19th-century romanticism, offering timeless wisdom on how to live a meaningful, productive life while maintaining intellectual and moral integrity.

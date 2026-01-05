@@ -1,5 +1,6 @@
 # Break Through
 **Authors**: Mark Fennell | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Break Through is a practical self-help guide designed to help people move from feeling stuck to becoming unstoppable in their pursuit of a fulfilling life. Drawing from his personal experience with anxiety and burnout, Fennell provides a comprehensive roadmap for breaking free from the various forms of "stuck" that prevent people from reaching their potential.

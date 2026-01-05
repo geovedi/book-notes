@@ -1,6 +1,7 @@
 # The Complete Works of Plato
 
 **Authors**: Plato | **Year**: c. 380-347 BCE (Original), 2017 (This Edition)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Plato's Complete Works represent the foundational texts of Western philosophy, featuring 35 dialogues and letters that explore the nature of reality, knowledge, ethics, politics, and the human condition. Through the voice of his teacher Socrates, Plato introduces revolutionary concepts including the Theory of Forms, the philosopher-king ideal, and the allegory of the cave. These dialogues use the Socratic method of questioning to examine fundamental questions about justice, truth, beauty, and the good life.

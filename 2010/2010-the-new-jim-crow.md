@@ -1,5 +1,5 @@
 # The New Jim Crow
-**Author**: Michelle Alexander | **Year**: 2010
+**Author**: Michelle Alexander | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "The New Jim Crow" argues that mass incarceration in the United States functions as a contemporary racial caste system, deliberately designed to maintain racial hierarchy in the age of colorblindness. Alexander reveals how the War on Drugs has disproportionately targeted communities of color, creating a legal framework that systematically marginalizes millions of Americans—particularly Black men—through discrimination in employment, housing, voting rights, and social benefits. This groundbreaking work demonstrates that while Jim Crow laws may be gone, racial control has merely been redesigned rather than eliminated.

@@ -1,6 +1,6 @@
 # Going Mad: Understanding Mental Illness
 **Original Title**: Going Mad? Understanding Mental Illness
-**Authors**: Michael Corry, Áine Tubridy | **Year**: 2001
+**Authors**: Michael Corry, Áine Tubridy | **Year**: 2001 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Going Mad: Understanding Mental Illness" is a revolutionary guide that demystifies psychological distress by presenting it as a meaningful response to overwhelming life challenges rather than as random biochemical imbalances. The book argues that mental states traditionally labeled as "madness"—including schizophrenia, mania, depression, and panic disorders—are actually unconscious coping strategies developed when individuals lack the resources to face their current reality.

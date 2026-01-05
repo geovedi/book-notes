@@ -1,5 +1,6 @@
 # Notes From A Small Island
 **Author**: Bill Bryson | **Year**: 1995
+**Category**: Fiction & Literature
 
 ## Summary
 Bill Bryson's farewell tour around Britain before returning to America after nearly two decades in the UK. This charming travelogue combines witty observations, affectionate critiques, and memorable encounters as Bryson journeys from Dover through England's towns, countryside, and cities, capturing the essence of British character, culture, and peculiarities.

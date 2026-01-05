@@ -1,5 +1,6 @@
 # An Answer to the Question: What Is Enlightenment?
 **Authors**: Immanuel Kant | **Year**: 1784
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Enlightenment is humanity's emergence from self-imposed immaturity—the inability to use one's understanding without guidance from another. Kant argues that this immaturity is "self-incurred" not from lack of reason, but from lack of courage and resolution to think independently. The essence of enlightenment lies in daring to think for oneself, embodied in the Latin motto "Sapere aude!" ("Have courage to use your own reason!").

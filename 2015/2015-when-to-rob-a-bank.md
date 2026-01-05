@@ -1,5 +1,6 @@
 # When to Rob a Bank: ...And 131 More Warped Suggestions and Well-Intended Rants
 **Authors**: Steven D. Levitt, Stephen J. Dubner | **Year**: 2015
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "When to Rob a Bank" is a collection of the best blog posts from the Freakonomics website, spanning ten years of unconventional economic thinking and data-driven analysis. The book captures the essence of the Freakonomics approach: using economic principles to analyze the hidden side of everyday life, challenging conventional wisdom, and exploring the world through the lens of incentives and data rather than intuition.

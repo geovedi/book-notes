@@ -1,5 +1,5 @@
 # Portrait of a Killer: Jack the Ripper - Case Closed
-**Author**: Patricia Cornwell | **Year**: 2002
+**Author**: Patricia Cornwell | **Year**: 2002 | **Category**: Horror & Thriller
 
 ## Summary
 Patricia Cornwell, America's bestselling crime writer, applies modern forensic science and investigative techniques to history's most notorious unsolved murders. Using her expertise as a crime novelist and former medical examiner, she presents compelling evidence that identifies Jack the Ripper as Walter Sickert, a renowned Victorian artist. Cornwell spent millions of dollars of her own money and assembled a team of forensic experts to analyze DNA, handwriting, artwork, and historical records, building a case that she believes definitively solves the 113-year-old mystery.

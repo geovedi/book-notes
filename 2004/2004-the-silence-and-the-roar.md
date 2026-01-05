@@ -1,6 +1,6 @@
 # The Silence and the Roar
 **Original Title**: السمت والصخب (Al Samt Wal Sakhab)
-**Authors**: Nihad Sirees | **Year**: 2004
+**Authors**: Nihad Sirees | **Year**: 2004 | **Category**: Fiction & Literature
 
 ## Summary
 In an unnamed authoritarian country celebrating the twentieth anniversary of the Leader's rise to power, writer Fathi Sheen navigates a single chaotic day of forced celebrations, state-sponsored marches, and bureaucratic persecution. The novel exposes how dictators maintain control through two complementary mechanisms: the enforced silence of dissent and the manufactured roar of mass adoration.

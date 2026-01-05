@@ -1,5 +1,6 @@
 # Mr Harrison's Confessions
 **Authors**: Elizabeth Gaskell | **Year**: 1851
+**Category**: Fiction & Literature
 
 ## Summary
 Mr Harrison's Confessions is a charming Victorian novella that follows the romantic and professional misadventures of Dr. Edward Harrison, a young surgeon who establishes a practice in the small country town of Duncombe. What begins as a promising medical partnership with the elderly Mr Morgan soon descends into a comedy of romantic misunderstandings, professional rivalries, and small-town gossip. Harrison finds himself inadvertently engaged to three different women simultaneously—each believing he's courting her—while actually being in love with Sophy Hutton, the vicar's daughter. The story culminates in a dramatic medical crisis that ultimately resolves both professional and personal conflicts.

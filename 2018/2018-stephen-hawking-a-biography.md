@@ -1,6 +1,6 @@
 # Stephen Hawking: A Biography
 **Original Title**: Stephen Hawking: A Biography
-**Author**: Dave A. Andrew | **Year**: 2018
+**Author**: Dave A. Andrew | **Year**: 2018 | **Category**: Science & Nature
 
 ## Summary
 This biography chronicles the extraordinary life of Stephen Hawking, one of the world's most brilliant theoretical physicists who defied all physical limitations through his groundbreaking contributions to cosmology, quantum mechanics, and our understanding of black holes. Born in 1942 and diagnosed with ALS at age 21, Hawking lived with the disease for 55 years, continuing his scientific work while being confined to a wheelchair and unable to speak without assistance.

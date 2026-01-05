@@ -1,5 +1,6 @@
 # The Seaweed Revolution
 **Authors**: Vincent Doumeizel | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 "The Seaweed Revolution" reveals how humanity's most overlooked resource could solve our most pressing challenges. Doumeizel demonstrates that seaweed - the ancient marine plants that helped create human civilization - offers transformative solutions for food security, climate change, plastic pollution, and sustainable economic development. The book traces seaweed's 14,000-year relationship with humans while unveiling its revolutionary potential to feed the planet, replace fossil fuels, restore ocean ecosystems, and create regenerative food systems.

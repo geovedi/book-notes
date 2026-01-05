@@ -1,5 +1,6 @@
 # Milk: The Surprising Story of Milk Through the Ages
 **Author**: Anne Mendelson | **Year**: 2008
+**Category**: Health & Medicine
 
 ## Summary
 This revelatory culinary history exposes milk as the world's most misunderstood food. Mendelson traces milk's journey from its Neolithic origins (8000-6000 B.C.) through four great dairying civilizations to modern industrial agriculture, revealing how most of humanity historically consumed soured, not fresh, milk. The book uncovers how America's narrow focus on sweet, homogenized cow's milk represents an anomalous deviation from global traditions, while celebrating the renaissance of artisanal dairy and immigrant food cultures bringing ancient wisdom back to American tables.

@@ -1,5 +1,6 @@
 # In the Heart of the Sea
 **Authors**: Nathaniel Philbrick | **Year**: 2008
+**Category**: History & Biography
 
 ## Summary
 In the Heart of the Sea tells the astonishing true story that inspired Herman Melville's Moby-Dick—the 1820 wreck of the whaleship Essex by a giant sperm whale. What began as a routine whaling voyage from Nantucket turned into one of history's greatest maritime survival stories when an enraged whale deliberately attacked and sank the Essex, stranding twenty men in three small whaleboats in the middle of the Pacific Ocean.

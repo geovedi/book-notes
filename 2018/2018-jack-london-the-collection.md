@@ -1,5 +1,5 @@
 # Jack London: The Collection
-**Authors**: Jack London | **Year**: 2018 (Collection) | **Original Publication**: 1900-1918 (Individual Works)
+**Authors**: Jack London | **Year**: 2018 (Collection) | **Original Publication**: 1900-1918 (Individual Works) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together Jack London's most celebrated novels and short stories, showcasing the author's profound understanding of human nature, animal instinct, and the brutal beauty of the natural world. Spanning from the Klondike Gold Rush to South Sea adventures, London's works explore the thin veneer of civilization and the primal forces that lurk beneath.

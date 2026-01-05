@@ -1,5 +1,6 @@
 # 365 Taoism Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Spirituality & Religion
 
 ## Summary
 This book is a carefully curated collection of 365 daily Taoist wisdom quotes designed to help readers become more congruent, peaceful, and thankful. Rather than being a comprehensive guide to Taoist philosophy, this book serves as a practical shortcut - offering bite-sized daily wisdom that can be immediately applied to modern life. The compilation draws from ancient Taoist masters like Lao Tzu and Zhuangzi, as well as contemporary thinkers who embody Taoist principles. Each quote is meant to be a seed for daily reflection, helping readers navigate the chaos of our hyper-connected, distraction-filled world with greater grace and presence.

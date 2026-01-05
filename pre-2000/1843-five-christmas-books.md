@@ -1,5 +1,6 @@
 # Five Christmas Books
 **Authors**: Charles Dickens | **Year**: 1843-1848
+**Category**: Fiction & Literature
 
 ## Summary
 Charles Dickens' Five Christmas Books represent a revolutionary contribution to holiday literature, written during a period when Christmas traditions were being revived in Victorian England. This collection—comprising "A Christmas Carol," "The Chimes," "The Cricket on the Hearth," "The Battle of Life," and "The Haunted Man"—transformed how society thought about charity, redemption, and social responsibility during the holiday season.

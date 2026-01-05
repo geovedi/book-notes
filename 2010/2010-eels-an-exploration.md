@@ -1,5 +1,5 @@
 # Eels: An Exploration, from New Zealand to the Sargasso, of the World's Most Mysterious Fish
-**Author**: James Prosek | **Year**: 2010
+**Author**: James Prosek | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 This captivating exploration follows one of nature's most enigmatic creatures—the freshwater eel—on their extraordinary life cycle that spans continents and mysteries that have puzzled humans for millennia. Prosek takes readers from the rivers of New England to the Sargasso Sea, from Maori communities in New Zealand to Japanese fish markets, weaving together natural history, cultural significance, and personal encounters.

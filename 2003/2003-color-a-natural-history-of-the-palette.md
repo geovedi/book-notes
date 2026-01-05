@@ -1,5 +1,5 @@
 # Color: A Natural History of the Palette
-**Author**: Victoria Finlay | **Year**: 2003
+**Author**: Victoria Finlay | **Year**: 2003 | **Category**: Art & Creativity
 
 ## Summary
 Victoria Finlay takes readers on a global treasure hunt to uncover the fascinating origins, histories, and cultural significance of the colors that make up our world. Part travelogue, part history lesson, and part science seminar, this book reveals how each hue carries stories of adventure, sacrifice, innovation, and human obsession. From the ochre mines of Australia to the saffron fields of Iran, from the cochineal insects of Mexico to the rare minerals of Afghanistan, Finlay demonstrates that colors are far more than visual sensations—they're living artifacts of human civilization.

@@ -1,5 +1,5 @@
 # The Complete Works of Oscar Wilde
-**Authors**: Oscar Wilde | **Year**: 2018 (Collection)
+**Authors**: Oscar Wilde | **Year**: 2018 (Collection) | **Category**: Fiction & Literature
 
 ## Summary
 Oscar Wilde's complete works represent the pinnacle of Victorian literature, combining brilliant wit, philosophical depth, and masterful storytelling across plays, a novel, short stories, poems, and essays. This comprehensive collection showcases Wilde's mastery of the paradox, his exploration of aesthetic philosophy, and his sharp critique of Victorian society's hypocrisy and moral double standards. Wilde's works challenge conventional thinking about art, beauty, morality, and social convention while entertaining readers with his legendary aphorisms and comedic genius.

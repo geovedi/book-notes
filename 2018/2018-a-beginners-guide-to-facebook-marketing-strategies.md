@@ -1,5 +1,5 @@
 # A Beginner's Guide to Facebook Marketing Strategies
-**Authors**: The Non Fiction Author | **Year**: 2018
+**Authors**: The Non Fiction Author | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies Facebook marketing for beginners, showing how businesses can leverage the platform's massive user base (6 billion minutes spent daily) to drive traffic, build brand awareness, and increase sales. The book covers everything from creating compelling fan pages and targeted advertising campaigns to advanced strategies like Facebook Connect integration and community building.

@@ -1,5 +1,6 @@
 # All the Murmuring Bones
 **Authors**: A.G. Slatter | **Year**: 2021
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 All the Murmuring Bones is a dark gothic fantasy that follows Miren O'Malley, the last remaining heir of the once-powerful O'Malley family who built their fortune on the rugged cliffs of Hob's Head. The O'Malleys are a mysterious clan with uncanny abilities - they swim like seals, their ships never sink, and they possess secrets that have kept them powerful for centuries. But their bloodline is thinning, their wealth has vanished, and their great fortified mansion Hob's Hallow is crumbling into ruin.

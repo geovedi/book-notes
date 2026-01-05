@@ -1,6 +1,7 @@
 # My Heart Says Your Name
 **Original Title**: Meu coração diz teu nome
 **Authors**: Cris Lisbôa | **Year**: 2023
+**Category**: Fiction & Literature
 
 ## Summary
 A powerful Brazilian novel that tells the story of identical twin sisters, one born with a prominent vascular birthmark covering part of her face. Through lyrical, poetic prose, the narrator explores themes of identity, beauty, shame, love, and self-acceptance. Born during a traumatic home birth where she and her twin Octávia emerged without medical assistance, the protagonist carries not just a physical mark but the weight of others' perceptions throughout her life. The narrative follows her journey from childhood bullying through first love and heartbreak, ultimately finding her way to self-love and acceptance.

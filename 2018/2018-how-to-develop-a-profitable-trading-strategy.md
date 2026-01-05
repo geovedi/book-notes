@@ -1,5 +1,5 @@
 # How to Develop a Profitable Trading Strategy
-**Authors**: Heikin Ashi Trader | **Year**: 2018
+**Authors**: Heikin Ashi Trader | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This book challenges conventional trading wisdom by advocating for doing the opposite of what most traders and trading books recommend. The author presents a counterintuitive approach: instead of following the traditional "cut losses and let profits run" mantra, he suggests traders should aim for small, consistent profits while accepting larger, infrequent losses. The core philosophy is that markets are mostly in mean-reversion mode rather than trending, making it difficult to achieve the large price targets that traditional strategies require.

@@ -1,5 +1,6 @@
 # The Creative Act
 **Author**: Rick Rubin | **Year**: 2023
+**Category**: Art & Creativity
 
 ## Summary
 

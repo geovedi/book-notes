@@ -1,6 +1,7 @@
 # Zombies Scare Me
 **Original Title**: Zombies Scare Me 100 (Nederlandse Editie)
 **Authors**: I. D. Oro | **Year**: 2017
+**Category**: Horror & Thriller
 
 ## Summary
 "Zombies Scare Me 100" is a compilation book that serves as the foundation for an extensive zombie apocalypse series set in a parallel universe. Rather than following a single protagonist, this collection introduces multiple characters whose individual stories will unfold across books 101-109. Set during the week leading up to Halloween 2015 (October 24-31), the book provides crucial background stories for the main cast before they face the zombie outbreak together.

@@ -1,5 +1,5 @@
 # The Society of the Crossed Keys
-**Authors**: Stefan Zweig, Wes Anderson, George Prochnik | **Year**: 2014
+**Authors**: Stefan Zweig, Wes Anderson, George Prochnik | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 "The Society of the Crossed Keys" is a unique collection that bridges Stefan Zweig's literary legacy with contemporary cinematic interpretation. The book opens with an extended conversation between filmmaker Wes Anderson and Zweig scholar George Prochnik, exploring how Zweig's life and works inspired "The Grand Budapest Hotel." This dialogue serves as a gateway to selected writings from Zweig's own works, primarily excerpts from his memoir "The World of Yesterday," creating a dialogue between past and present, exile and memory, art and politics.

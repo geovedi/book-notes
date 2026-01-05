@@ -1,6 +1,6 @@
 # The Hidden Lives of Colors
 **Original Title**: Le vite nascoste dei colori
-**Author**: Laura Imai Messina | **Year**: 2022
+**Author**: Laura Imai Messina | **Year**: 2022 | **Category**: Art & Creativity
 
 ## Summary
 This luminous novel follows two extraordinary children in Japan whose unique relationship with colors shapes their understanding of the world. Mio, born into a family of kimono dyers, experiences colors as living entities that speak to her soul. Aoi, raised in a funeral home, finds solace in nature's palette while navigating the complexities of life and death. Their parallel journeys eventually converge in a garden that becomes their shared sanctuary, where they discover that colors hold memories, emotions, and the hidden connections between all living things.

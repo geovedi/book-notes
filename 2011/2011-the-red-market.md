@@ -1,5 +1,5 @@
 # The Red Market
-**Authors**: Scott Carney | **Year**: 2011
+**Authors**: Scott Carney | **Year**: 2011 | **Category**: Health & Medicine
 
 ## Summary
 Investigative journalist Scott Carney exposes the shadowy global marketplace where human bodies are bought and sold, revealing how organs, bones, blood, babies, and other body parts have become commodities in an illicit economy worth billions. Through harrowing firsthand reporting across India, Europe, and America, Carney documents how red markets thrive at the intersection of life-saving medical advances and desperate poverty, where the language of altruism masks brutal exploitation. The book reveals that while approximately 90% of body transactions occur through legitimate channels, the remaining 10% represents a criminal underworld where the poor literally sell pieces of themselves to survive.

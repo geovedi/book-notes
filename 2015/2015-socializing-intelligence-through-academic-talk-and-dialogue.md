@@ -1,5 +1,6 @@
 # Socializing Intelligence Through Academic Talk and Dialogue
 **Editors**: Lauren B. Resnick, Christa S. C. Asterhan, Sherice N. Clarke | **Year**: 2015
+**Category**: Psychology & Mental Health
 
 ## Summary
 This groundbreaking edited volume presents compelling evidence that structured classroom dialogue can dramatically enhance student learning, achievement, and even intelligence. Drawing on research from across the globe, the book demonstrates that when students engage in carefully orchestrated academic discussions, they don't just learn the material at hand—they develop transferable cognitive skills that improve performance across disciplines and persist years later.

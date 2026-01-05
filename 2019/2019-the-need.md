@@ -1,5 +1,6 @@
 # The Need
 **Author**: Helen Phillips | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 "The Need" is a psychological thriller that explores the life of Molly Nye, a paleobotanist and mother of two young children, who discovers a series of anachronistic artifacts at her fossil quarry site. As she grapples with exhaustion, paranoia, and the demands of motherhood, an intruder wearing a deer mask breaks into her home, forcing her to confront both external threats and her own psychological unraveling. The novel blends domestic realism with surreal elements to examine themes of maternal love, anxiety, and the fragile boundaries between reality and perception.

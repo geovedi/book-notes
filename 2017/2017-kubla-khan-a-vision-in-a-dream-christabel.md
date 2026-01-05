@@ -1,5 +1,6 @@
 # Kubla Khan: A Vision in a Dream & Christabel
 **Authors**: Samuel Taylor Coleridge | **Year**: 2017 (Original: 1797-1816)
+**Category**: Fiction & Literature
 
 ## Summary
 This collection presents two of Coleridge's most celebrated and mysterious poetic works - "Christabel," an unfinished Gothic narrative exploring themes of innocence, supernatural evil, and psychological manipulation, and "Kubla Khan," a dream-inspired vision that became one of English literature's most famous fragments. Together, these poems showcase Coleridge's mastery of atmospheric imagery, musical language, and the exploration of altered states of consciousness.

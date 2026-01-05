@@ -1,5 +1,6 @@
 # A Sourcebook in Classical Confucian Philosophy
 **Authors**: Roger T. Ames (Editor) | **Year**: 2023
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This comprehensive academic sourcebook presents Classical Confucian philosophy as a living tradition of human becoming rather than a static set of doctrines. Edited by Roger T. Ames, a leading scholar in Chinese philosophy, the work reframes Confucian thought through the lens of process cosmology and role ethics, challenging Western philosophical assumptions about transcendence, individualism, and essentialism.

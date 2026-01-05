@@ -1,5 +1,6 @@
 # The Night Before Christmas
 **Authors**: Clement C. Moore | **Illustrator**: Jessie Willcox Smith | **Year**: 1823 (poem), 2020 (this edition)
+**Category**: Children & Young Adult
 
 ## Summary
 

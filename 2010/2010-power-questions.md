@@ -1,6 +1,6 @@
 # Power Questions
 **Original Title**: Power Questions. Inspiration for Solutions
-**Author**: Kerstin Hack | **Year**: 2010 (2nd Edition)
+**Author**: Kerstin Hack | **Year**: 2010 (2nd Edition) | **Category**: Self-Help & Personal Development
 
 ## Summary
 This concise microbook presents a powerful framework for problem-solving through the art of asking strategic questions. Rather than providing direct answers, it equips readers with questioning techniques that unlock their own solutions and break free from stuck patterns of thinking. The book is built around the principle that the right question at the right time can transform perspectives and create breakthrough insights.

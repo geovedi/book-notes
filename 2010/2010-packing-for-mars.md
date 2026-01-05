@@ -1,5 +1,5 @@
 # Packing for Mars
-**Author**: Mary Roach | **Year**: 2010
+**Author**: Mary Roach | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 Mary Roach's "Packing for Mars" is a witty, fascinating exploration of the often-overlooked human challenges of space travel. While most space books focus on rockets and missions, Roach investigates the messy, biological, and psychological realities of sending humans into the void—everything from space toilets to zero-gravity digestion, from motion sickness to the psychological toll of confinement.

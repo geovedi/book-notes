@@ -1,5 +1,6 @@
 # The Pilgrim's Progress
 **Authors**: John Bunyan | **Year**: 1678
+**Category**: Spirituality & Religion
 
 ## Summary
 "The Pilgrim's Progress" is a Christian allegory that follows the journey of Christian, a man burdened by the weight of sin, as he travels from the City of Destruction to the Celestial City. After reading the Bible and realizing his doomed state, Christian flees his home and family, beginning a spiritual pilgrimage filled with trials, temptations, and divine encounters. Along the way, he faces obstacles like the Slough of Despond, Hill Difficulty, Valley of Humiliation, and the terrifying Valley of the Shadow of Death, where he battles the demon Apollyon. He meets companions like Faithful and Hopeful, while avoiding deceivers such as Talkative and Worldly Wiseman. The journey represents the Christian life, with each location and character symbolizing spiritual truths and challenges. Christian's burden of sin falls away at the Cross, and he eventually reaches the river of death, crossing over with his companion Hopeful to enter the Celestial City, symbolizing heaven.

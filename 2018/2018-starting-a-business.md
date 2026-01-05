@@ -1,5 +1,5 @@
 # Starting a Business Handbook
-**Authors**: Mark Atwood | **Year**: 2018
+**Authors**: Mark Atwood | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies the entrepreneurial journey from idea to million-dollar corporation. The author, a seasoned businessman with decades of experience, shares practical strategies, common pitfalls to avoid, and actionable frameworks for sustainable business growth.

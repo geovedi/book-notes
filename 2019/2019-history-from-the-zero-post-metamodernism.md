@@ -1,6 +1,7 @@
 # History from the Zero: Post Metamodernism
 **Original Title**: История из Нуля. Постметамодернизм
 **Author**: Viktoriia Managarova | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This philosophical essay presents a bold vision for moving beyond postmodernism's void of meaning through what the author calls "post metamodernism." Managarova argues that humanity has reached a "zero state" - a condition of total indifference where traditional values, meaning, and even the distinction between good and evil have collapsed. By analyzing the trajectory from modernism through postmodernism to the emerging metamodernism, she proposes that humanity stands at the threshold of a "Brilliant Age" where goodness can exist without evil, and where binary oppositions that have caused human suffering can finally be transcended.

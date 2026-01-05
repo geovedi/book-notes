@@ -1,5 +1,6 @@
 # How to Optimise Your Supply Chain to Make Your Firm Competitive
 **Author**: Andrei Besedin | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 In today's competitive markets, supply chain optimization has become the critical differentiator that generates sustainable profit. This comprehensive guide reveals that products and brands alone are no longer enough—success now depends on how efficiently you deliver value to customers. The book presents supply chain management as a dynamic, information-driven network where every decision impacts profitability. With practical frameworks and real-world examples, it demonstrates how modern organizations can leverage technology, data, and systematic optimization to achieve competitive advantage in increasingly homogeneous markets.

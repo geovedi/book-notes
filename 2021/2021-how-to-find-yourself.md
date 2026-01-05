@@ -1,5 +1,6 @@
 # How to Find Yourself
 **Authors**: Nick Trenton | **Year**: 2021
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide helps readers navigate the journey of self-discovery through understanding personality theories, identifying personal values, and examining the stories we tell ourselves. The book addresses why so many people feel disconnected from their authentic selves and provides concrete frameworks for reconnecting with who they truly are.

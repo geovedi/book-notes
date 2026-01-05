@@ -1,5 +1,6 @@
 # Getting It: Your Social Media Guide
 **Authors**: Unknown | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 This practical guide shows how to transform your passion into a profitable personal brand using social media platforms. The book walks readers through building a strong online presence, choosing the right platforms, creating compelling content, and ultimately monetizing their digital identity. It emphasizes that in today's transparent online world, everyone needs to view themselves as a brand and take control of their digital narrative.

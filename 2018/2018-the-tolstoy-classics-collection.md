@@ -1,6 +1,6 @@
 # The Tolstoy Classics Collection
 **Original Title**: The Classics Collection (19 Novellas and Novels)
-**Authors**: Lev Nikolayevich Tolstoy | **Year**: 2018 (Collection)
+**Authors**: Lev Nikolayevich Tolstoy | **Year**: 2018 (Collection) | **Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together 19 of Leo Tolstoy's most influential works, spanning his entire literary career from his early autobiographical trilogy to his later philosophical novellas. The collection includes his masterpiece novels "War and Peace" and "Anna Karenina," alongside profound shorter works that explore themes of morality, faith, social justice, and the human condition.

@@ -1,5 +1,6 @@
 # God Is Not Great
 **Author**: Christopher Hitchens | **Year**: 2007
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Christopher Hitchens delivers a blistering critique of organized religion, arguing that faith is not just wrong but actively harmful to humanity. He systematically dismantles religious claims across multiple domains—historical, scientific, moral, and political—contending that religion "poisons everything" it touches. The book serves as both a comprehensive indictment of faith's destructive impact and a passionate defense of reason, evidence, and secular enlightenment.

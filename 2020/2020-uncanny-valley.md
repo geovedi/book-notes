@@ -1,5 +1,6 @@
 # Uncanny Valley
 **Author**: Anna Wiener | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 Anna Wiener's memoir chronicles her journey from a low-paid assistant in New York publishing to the heart of San Francisco's tech boom during the 2010s. Leaving behind the literary world for better pay and opportunity, she lands at various startups where she witnesses the absurdities, excesses, and cultural transformations of Silicon Valley at its peak. The book offers an insider's perspective on the tech industry's impact on society, gender dynamics, and personal identity, all while questioning whether the "disruption" was truly progress.

@@ -1,5 +1,6 @@
 # Seven Tales and Alexander
 **Authors**: H. E. Bates | **Year**: 2015 (original 1929)
+**Category**: Fiction & Literature
 
 ## Summary
 "Seven Tales and Alexander" is a captivating collection of eight short stories by H.E. Bates, one of England's most beloved storytellers. This newly reissued collection showcases Bates's mastery of the short story form, with tales that range from gentle countryside sketches to poignant character studies and whimsical fantasies. The centerpiece, "Alexander," tells the story of a young boy and his uncle on an early morning journey through the English countryside, while the other seven tales demonstrate Bates's remarkable ability to capture the quiet dignity and inner lives of ordinary people.

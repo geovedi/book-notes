@@ -1,5 +1,5 @@
 # A Higher Loyalty: Truth, Lies, and Leadership
-**Author**: James Comey | **Year**: 2018
+**Author**: James Comey | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 James Comey's memoir is both a personal journey through his career in law enforcement and a profound examination of ethical leadership in challenging times. Drawing from his experiences as a federal prosecutor, his confrontation with organized crime, and his tumultuous tenure as FBI Director, Comey argues that ethical leadership requires a "higher loyalty" to enduring values—especially truth—rather than to individuals, parties, or organizations.

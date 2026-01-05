@@ -1,5 +1,6 @@
 # The Desire Trilogy
 **Authors**: Theodore Dreiser | **Year**: 1912-1947
+**Category**: Fiction & Literature
 
 ## Summary
 The Desire Trilogy chronicles the relentless rise and fall of Frank Cowperwood, a financial titan who embodies the raw ambition and moral complexity of American capitalism. Spanning three novels across Philadelphia, Chicago, and London, Dreiser presents business as a natural force—amoral, predatory, and fundamentally disconnected from conventional morality. Cowperwood's journey from bank clerk to financial powerhouse reveals that success in the market requires understanding and working within the "laws" of business, not fighting them with ethics or sentiment.

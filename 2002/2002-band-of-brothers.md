@@ -1,5 +1,5 @@
 # Band of Brothers
-**Author**: Stephen E. Ambrose | **Year**: 2002
+**Author**: Stephen E. Ambrose | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 "Band of Brothers" follows the remarkable journey of Easy Company, 506th Regiment of the 101st Airborne Division, from their rigorous training in Georgia through their harrowing combat experiences across Europe during World War II. Based on extensive interviews with surviving members, this narrative non-fiction chronicles how ordinary American men became elite soldiers and forged unbreakable bonds through shared sacrifice and extraordinary courage.

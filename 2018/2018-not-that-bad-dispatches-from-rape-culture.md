@@ -1,5 +1,5 @@
 # Not That Bad: Dispatches from Rape Culture
-**Authors**: Roxane Gay (Editor) | **Year**: 2018
+**Authors**: Roxane Gay (Editor) | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 A powerful anthology of personal essays that exposes the pervasive nature of rape culture through diverse voices across the gender spectrum. Editor Roxane Gay curates raw, honest testimonies that reveal how sexual violence and harassment have shaped survivors' lives, challenging the tendency to minimize trauma by comparing suffering. The collection transforms individual pain into collective understanding, showing how "not that bad" experiences accumulate to create profound damage.

@@ -1,5 +1,5 @@
 # Yes Please
-**Author**: Amy Poehler | **Year**: 2014
+**Author**: Amy Poehler | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 Amy Poehler's "Yes Please" is a refreshingly honest and hilarious memoir that doubles as a guide to navigating life, career, and creativity without taking yourself too seriously. Written during a chaotic period of divorce, single parenthood, and career demands, Poehler offers wisdom gained from decades in comedy, improvisation, and television. The book is structured in three parts—"Say Whatever You Want," "Do Whatever You Like," and "Be Whoever You Are"—reflecting her philosophy of embracing opportunity and authenticity.

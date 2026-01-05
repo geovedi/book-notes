@@ -1,5 +1,6 @@
 # Brain Hacks
 **Authors**: Keith Barry | **Year**: 2021
+**Category**: Psychology & Mental Health
 
 ## Summary
 

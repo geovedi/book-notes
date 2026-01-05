@@ -1,5 +1,5 @@
 # Your Call Is Important to Us: The Truth About Bullshit
-**Author**: Laura Penny | **Year**: 2005
+**Author**: Laura Penny | **Year**: 2005 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 Laura Penny's blistering social critique exposes how corporate doublespeak, marketing manipulation, and institutional bullshit have become the dominant language of modern life. The title phrase "Your call is important to us" perfectly encapsulates the insincere, profit-driven communication that pervades customer service, politics, and media. Penny argues that we're drowning in a sea of deliberately misleading language designed to obscure truth and protect corporate interests.

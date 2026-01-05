@@ -1,5 +1,5 @@
 # The Everest Files
-**Authors**: Matt Dickinson | **Year**: 2014
+**Authors**: Matt Dickinson | **Year**: 2014 | **Category**: Children & Young Adult
 
 ## Summary
 "The Everest Files" is a gripping young adult adventure thriller that follows eighteen-year-old Ethan Jones, a British gap-year volunteer who arrives in Nepal to deliver medical supplies to remote mountain villages. When his original partner falls ill, Ethan must undertake the treacherous journey alone through the Himalaya. After being abandoned by his porter and rescued by a local Sherpa girl named Shreeya, Ethan falls seriously ill with pneumonia in the remote village of Tanche. During his recovery, he learns about Kami, Shreeya's missing friend who disappeared during a secret Everest expedition.

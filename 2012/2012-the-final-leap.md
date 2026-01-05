@@ -1,5 +1,6 @@
 # The Final Leap: Suicide on the Golden Gate Bridge
 **Author**: John Bateson | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "The Final Leap" is a powerful investigation into why the Golden Gate Bridge has become the world's premier suicide destination, with over 1,500 deaths since 1937. Bateson, drawing from 15 years as director of a crisis intervention center, presents compelling evidence that these tragedies are entirely preventable through the installation of a suicide barrier—a solution already implemented at nearly every other major landmark worldwide.

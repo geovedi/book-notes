@@ -1,5 +1,6 @@
 # Children of the Cave
 **Original Title**: Pohjoisen perilliset (Finnish) | **Authors**: Virve Sammalkorpi | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 "Children of the Cave" is a haunting historical novel set in 1819-1821 that follows Iax Agolasky, a young Russian scholar who becomes the assistant to Professor Jean Moltique on an expedition to northwestern Russia. What begins as a search for descendants of ancient Paphlagonians transforms into a profound ethical crisis when they discover a cave inhabited by children born with animal characteristics. Through Agolasky's diary entries and the children's life stories, the novel explores the boundaries between human and animal, science and morality, and the devastating consequences of societal prejudice against those deemed different.

@@ -1,5 +1,6 @@
 # The Good Life
 **Authors**: Robert Waldinger, Marc Schulz | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Based on the world's longest scientific study of happiness (the Harvard Study of Adult Development) that has tracked participants for over 84 years, this book reveals the single greatest factor for human flourishing: **good relationships**. The researchers demonstrate through decades of data that warm, meaningful connections are more crucial than wealth, fame, or career achievement for health, happiness, and longevity. The book transforms academic findings into practical wisdom about building and maintaining relationships across all life domains—family, romance, work, and friendship.

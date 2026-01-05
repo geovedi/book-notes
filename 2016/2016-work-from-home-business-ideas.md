@@ -1,6 +1,6 @@
 # 2016 Work-From-Home Business Ideas
 
-**Authors**: Anthony Ekanem | **Year**: 2016
+**Authors**: Anthony Ekanem | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide offers a comprehensive collection of home-based business opportunities for aspiring entrepreneurs with limited startup capital. The book presents actionable ideas across various sectors including online services, local services, and wellness businesses, providing readers with realistic pathways to generate income from home.

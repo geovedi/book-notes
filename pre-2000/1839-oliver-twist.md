@@ -1,5 +1,6 @@
 # Oliver Twist
 **Authors**: Charles Dickens | **Year**: 1839
+**Category**: Fiction & Literature
 
 ## Summary
 Oliver Twist, an orphan born in a Victorian workhouse, endures a brutal childhood of starvation and cruelty before escaping to London. There he falls into the hands of Fagin, a criminal mastermind who trains boys to become pickpockets. Despite being forced into a life of crime, Oliver maintains his innate goodness and innocence, eventually finding rescue and redemption through the kindness of Mr. Brownlow and others. The novel exposes the harsh realities of poverty, child exploitation, and social injustice in 19th-century England while celebrating the triumph of virtue over corruption.

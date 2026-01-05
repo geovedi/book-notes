@@ -1,5 +1,5 @@
 # The Three Christs of Ypsilanti
-**Authors**: Milton Rokeach, Rick Moody | **Year**: 1964
+**Authors**: Milton Rokeach, Rick Moody | **Year**: 1964 | **Category**: Psychology & Mental Health
 
 ## Summary
 This groundbreaking psychological study details what happened when researcher Milton Rokeach brought together three men at Ypsilanti State Hospital—each claiming to be Jesus Christ—and observed them over two years of daily encounters. The experiment sought to challenge their shared delusion through direct confrontation, testing whether exposing them to others claiming the same identity would break through their psychosis. What emerged was not just a clinical study but a profound exploration of identity, belief, and the human need for meaning and dignity.

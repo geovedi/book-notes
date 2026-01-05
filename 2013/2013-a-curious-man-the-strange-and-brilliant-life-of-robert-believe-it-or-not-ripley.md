@@ -1,5 +1,5 @@
 # A Curious Man: The Strange and Brilliant Life of Robert "Believe It or Not!" Ripley
-**Author**: Neal Thompson | **Year**: 2013
+**Author**: Neal Thompson | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 This is the remarkable biography of LeRoy Robert Ripley, a shy, bucktoothed boy from Santa Rosa, California, who transformed himself into one of the most famous entertainers of the 20th century. From his humble beginnings as a misfit with terrible teeth and a debilitating stutter, Ripley built a global empire celebrating the world's weirdest facts and most fascinating people through his "Believe It or Not!" franchise. His journey takes us from the earthquake-ravaged streets of early 1900s California to the heights of New York media royalty, and across 198 countries as he became known as the "Modern Marco Polo."

@@ -1,5 +1,6 @@
 # Painless Mental Math
 **Authors**: Peter Hollins | **Year**: 2020
+**Category**: Science & Nature
 
 ## Summary
 "Painless Mental Math" is a practical guide that transforms mathematical anxiety into confidence by teaching readers how to perform complex calculations mentally and efficiently. The book addresses the widespread fear of mathematics by demonstrating its essential role in daily life and providing accessible techniques for mental computation. Hollins breaks down the barriers that make math seem intimidating, showing that with the right methods and mindset, anyone can become proficient at mental arithmetic.

@@ -1,5 +1,5 @@
 # The Big Oyster
-**Author**: Mark Kurlansky | **Year**: 2006
+**Author**: Mark Kurlansky | **Year**: 2006 | **Category**: History & Biography
 
 ## Summary
 "The Big Oyster" reveals the astonishing history of New York through the lens of its once-abundant oyster beds, which shaped the city's identity, economy, and environmental destiny. Kurlansky masterfully weaves together natural history, urban development, and social commentary to show how New York transformed from an oyster paradise into an environmental cautionary tale. Before the twentieth century, when people thought of New York, they thought of oysters—a city defined by its harbor's bounty rather than its skyline.

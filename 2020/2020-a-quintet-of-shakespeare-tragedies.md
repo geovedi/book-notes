@@ -1,5 +1,6 @@
 # A Quintet of Shakespeare Tragedies
 **Authors**: William Shakespeare | **Year**: 2020 (Collection Publication)
+**Category**: Fiction & Literature
 
 ## Summary
 This collection brings together five of Shakespeare's most powerful tragedies: Romeo and Juliet, Hamlet, Macbeth, Othello, and King Lear. Each tragedy explores the devastating consequences of human flaws—whether it's the impulsive passion of young lovers, paralyzing indecision, unchecked ambition, corrosive jealousy, or foolish pride. Together, these plays form a masterclass in understanding human nature's darker impulses and the tragic price we pay when reason gives way to emotion.

@@ -1,5 +1,6 @@
 # Dark Psychology & Manipulation 2-in-1
 **Authors**: Tony Bennis | **Year**: 2019
+**Category**: Psychology & Mental Health
 
 ## Summary
 This comprehensive guide explores the darker aspects of human psychology and manipulation techniques, providing both defensive knowledge against manipulation and offensive persuasion strategies. The book is divided into two main sections: Dark Psychology (covering the principles, dark personality traits, and predatory behaviors) and Manipulation (detailing specific techniques for influence and protection against manipulation).

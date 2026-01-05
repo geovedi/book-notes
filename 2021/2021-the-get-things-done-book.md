@@ -1,6 +1,7 @@
 # The Get Things Done Book
 **Original Title**: To Do
 **Authors**: Mikael Krogerus, Roman Tschäppeler | **Year**: 2021
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book is a practical toolkit containing 41 proven techniques and models to help people start projects, overcome procrastination, maintain focus, and finish what they start. The authors, who previously created the bestselling "Decision Book," have curated methods ranging from psychological frameworks to productivity hacks that work in today's fragmented, digital work environment. The book is organized into four key sections: doing things, preparing to do things, getting others to do things, and reflecting on what you've done. Rather than pushing a one-size-fits-all productivity system, they encourage readers to experiment with different techniques and adopt what works for their specific situations and personality types.

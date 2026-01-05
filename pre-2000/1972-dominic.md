@@ -1,5 +1,6 @@
 # Dominic
 **Authors**: William Steig | **Year**: 1972 (2017 edition)
+**Category**: Children & Young Adult
 
 ## Summary
 "Dominic" is a timeless children's fantasy adventure about a brave dog who leaves his comfortable home to seek fortune and excitement in the wider world. Armed with curiosity, courage, and a magic spear gifted by a mysterious catfish, Dominic embarks on a journey that transforms him from a simple adventure-seeker into a true hero who discovers his purpose in fighting evil and helping others. Along the way, he battles the villainous Doomsday Gang, discovers treasure, makes memorable friends, and ultimately finds his destined love in an enchanted garden.

@@ -1,5 +1,6 @@
 # The Anthropocene Reviewed
 **Author**: John Green | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "The Anthropocene Reviewed" is a collection of essays where John Green examines various aspects of human experience and our impact on Earth through a unique five-star rating system. Each essay explores a different phenomenon, object, or concept from the Anthropocene epoch—from Diet Dr. Pepper and Canadian geese to the Cajun Pied-à-terre Salt and the Indian Head nickel—rating them on a human-centered scale.

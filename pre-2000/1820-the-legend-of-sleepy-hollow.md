@@ -1,6 +1,7 @@
 # The Legend of Sleepy Hollow
 **Original Title**: The Legend of Sleepy Hollow
 **Authors**: Washington Irving | **Year**: 1820
+**Category**: Horror & Thriller
 
 ## Summary
 "The Legend of Sleepy Hollow" tells the story of Ichabod Crane, a Connecticut schoolmaster who arrives in the Dutch settlement of Sleepy Hollow, New York. The lanky, superstitious teacher becomes smitten with Katrina Van Tassel, the beautiful daughter of a wealthy farmer. His courtship attracts the rivalry of Brom Bones, the town's robust local hero and reigning suitor. After a harvest party where Ichabod believes he's winning Katrina's affections, he encounters the legendary Headless Horseman during a terrifying midnight chase, leading to his mysterious disappearance from Sleepy Hollow.

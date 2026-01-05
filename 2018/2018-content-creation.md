@@ -1,5 +1,5 @@
 # 2018 Content Creation
-**Authors**: Kumar | **Year**: 2018
+**Authors**: Kumar | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide transforms content creation from overwhelming task to streamlined system. The book reveals how strategic planning, consistent execution, and smart automation can eliminate the stress of regular publishing while building authority and driving business growth. Perfect for bloggers, social media marketers, and entrepreneurs who struggle with maintaining content momentum.

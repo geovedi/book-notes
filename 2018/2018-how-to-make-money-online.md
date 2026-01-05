@@ -1,7 +1,7 @@
 # How to Make Money Online
 **11 Proven Systems to Make 5 Figures a Month While Working from Anywhere in the World**
 
-**Authors**: Scott Kennedy | **Year**: 2018
+**Authors**: Scott Kennedy | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals 11 proven online business models that can generate five-figure monthly income while working from anywhere with an internet connection. Kennedy demystifies the world of online entrepreneurship by presenting actionable systems that require minimal startup capital—most under $1,000, with some requiring zero investment. The book serves as both an eye-opener to various money-making opportunities and a beginner's roadmap to launching an online business.

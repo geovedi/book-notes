@@ -1,5 +1,6 @@
 # The Near Witch
 **Authors**: V.E. Schwab | **Year**: 2019
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In the isolated village of Near, where no strangers ever come and everyone knows everyone, six-year-old Lexi's father tells her bedtime stories about the Near Witch—a legendary figure who once lived on the edge of the village and could sing the hills to sleep. Years later, when Lexi is sixteen, children begin disappearing from their beds, and a mysterious stranger named Cole arrives in town, bringing with him winds that seem to carry strange melodies.

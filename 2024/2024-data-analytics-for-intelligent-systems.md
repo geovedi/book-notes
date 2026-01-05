@@ -1,6 +1,7 @@
 # Data Analytics for Intelligent Systems: Techniques and Solutions
 **Original Title**: Data Analytics for Intelligent Systems
 **Editors**: Sachin Taran, Chhavi Dhiman, Manjeet Kumar | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 

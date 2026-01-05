@@ -1,5 +1,6 @@
 # The Capitalist Nigger: The Road to Success
 **Authors**: Chika Onyeani | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "Capitalist Nigger" is a provocative economic manifesto that challenges the Black race to abandon victim mentality and embrace aggressive capitalism. Onyeani argues that Black people have become economic slaves—consumers who produce nothing while depending on other communities for their culture, language, feeding, and clothing. Despite enormous natural resources, Blacks remain economically dependent because they lack the "killer-instinct" and "devil-may-care" attitude of Caucasians and the spider web mentality of Asians. The book presents a controversial but urgent call for economic self-determination through what Onyeani calls the "Spider Web Economic Doctrine."

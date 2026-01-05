@@ -1,5 +1,5 @@
 # The Secret Key: The Hidden Shortcut in Finding More Money and Meaning in Life
-**Authors**: Robin Sacredfire | **Year**: 2016
+**Authors**: Robin Sacredfire | **Year**: 2016 | **Category**: Spirituality & Religion
 
 ## Summary
 This book demystifies the false separation between money and spirituality, revealing how wealth and enlightenment are interconnected paths that support each other. Sacredfire argues that you cannot achieve true spiritual growth without financial resources, nor can you attain lasting wealth without understanding spiritual principles. The book presents controversial insights about how modern religion and social conditioning have hidden these fundamental truths, keeping people trapped in cycles of poverty and spiritual delusion.

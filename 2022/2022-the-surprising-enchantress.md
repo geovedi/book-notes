@@ -1,5 +1,5 @@
 # The Surprising Enchantress
-**Authors**: Kathy L Wheeler | **Year**: 2022
+**Authors**: Kathy L Wheeler | **Year**: 2022 | **Category**: Fiction & Literature
 
 ## Summary
 Lady Esmeralda (Essie) is a young noblewoman plagued by an uncontrollable eye-fluttering affliction that creates literal dust storms when she's nervous. Long in love with Visconte Alessandro de Lecce, her hopes are shattered when she overhears him cruelly rejecting her as a potential marriage candidate due to her "unfortunate eye-batting" that could "cause an avalanche in these Pyrenees Mountains."

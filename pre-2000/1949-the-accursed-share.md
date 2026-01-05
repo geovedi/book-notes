@@ -1,6 +1,7 @@
 # The Accursed Share
 **Original Title**: La Part Maudite
 **Author**: Georges Bataille | **Year**: 1949
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Accursed Share" presents a revolutionary theory of economics that flips conventional wisdom on its head. Bataille argues that the fundamental problem of economics is not scarcity but surplus - the excess energy and wealth that societies must inevitably waste, consume, or lose. He proposes a "general economy" that views human activity through the lens of energy expenditure rather than accumulation, revealing how societies throughout history have dealt with their surplus through war, sacrifice, luxury, and other forms of "unproductive" consumption.

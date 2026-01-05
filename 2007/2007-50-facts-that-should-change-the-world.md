@@ -1,5 +1,6 @@
 # 50 Facts That Should Change The World
 **Authors**: Jessica Williams | **Year**: 2007
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This powerful collection presents 50 shocking statistics about global inequality, environmental crises, and social injustice that reveal the stark realities of our modern world. Each fact is accompanied by detailed analysis explaining the context behind the numbers and exploring potential solutions. Jessica Williams, a BBC journalist and producer, has curated these facts to spark awareness and inspire action, demonstrating how simple information can fundamentally change our perspective and motivate change.

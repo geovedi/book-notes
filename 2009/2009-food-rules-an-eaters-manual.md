@@ -1,5 +1,6 @@
 # Food Rules: An Eater's Manual
 **Author**: Michael Pollan | **Year**: 2009
+**Category**: Health & Medicine
 
 ## Summary
 Michael Pollan distills decades of nutritional research into 64 simple, commonsense rules for healthy eating. The book's core message—crafted after Pollan realized most nutritional advice was needlessly complex—is elegantly simple: "Eat food. Not too much. Mostly plants." This three-part framework helps readers distinguish real food from processed "edible foodlike substances," make better choices among real foods, and develop healthier eating habits.

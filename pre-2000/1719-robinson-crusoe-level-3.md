@@ -1,5 +1,6 @@
 # Robinson Crusoe
 **Authors**: Daniel Defoe (Level 3 Reader Adaptation) | **Year**: 1719
+**Category**: Fiction & Literature
 
 ## Summary
 Robinson Crusoe tells the remarkable story of a young Englishman who defies his father's wishes to seek adventure at sea, only to find himself shipwrecked and marooned on a deserted island for 28 years. What begins as a tale of youthful rebellion transforms into an extraordinary saga of human resilience, ingenuity, and spiritual awakening as Crusoe builds an entire civilization from scratch while confronting his deepest fears and ultimately finding redemption through unexpected companionship.

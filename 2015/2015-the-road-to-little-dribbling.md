@@ -1,5 +1,6 @@
 # The Road to Little Dribbling
 **Author**: Bill Bryson | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 Twenty years after his beloved "Notes from a Small Island," Bill Bryson embarks on another journey across Britain to rediscover the country he thought he knew but barely recognizes anymore. Following his self-dubbed "Bryson Line" from Bognor Regis to Cape Wrath, Bryson delivers his signature blend of hilarious observations, sharp insights, and affectionate commentary on Britain's changing landscape, people, and peculiarities.

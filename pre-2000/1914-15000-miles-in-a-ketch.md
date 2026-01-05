@@ -1,6 +1,7 @@
 # 15,000 Miles in a Ketch
 
 **Authors**: Raymond Rallier du Baty | **Year**: 1914
+**Category**: History & Biography
 
 ## Summary
 This remarkable adventure memoir chronicles the extraordinary two-year voyage (1907-1909) of French sailor Raymond Rallier du Baty and his crew of six men aboard the J.B. Charcot, a small French fishing ketch. Setting sail from Boulogne, France, they embarked on an ambitious 15,000-mile journey to Melbourne, Australia, with their primary destination being the remote Kerguelen Islands—known as the "Island of Desolation"—in the southern Indian Ocean. What makes this expedition exceptional is that they undertook this perilous journey in one of the smallest vessels ever to attempt such a voyage, facing unimaginable hardships, storms, and isolation while conducting scientific exploration and mapping uncharted territories.

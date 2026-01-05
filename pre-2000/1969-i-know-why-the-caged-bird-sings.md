@@ -1,5 +1,6 @@
 # I Know Why the Caged Bird Sings
 **Authors**: Maya Angelou, Harold Bloom (Critical Analysis) | **Year**: 1969
+**Category**: History & Biography
 
 ## Summary
 Maya Angelou's groundbreaking memoir recounts her childhood and adolescence in the segregated South during the 1930s and 1940s. After being abandoned by their parents, three-year-old Maya and her brother Bailey are sent to live with their grandmother in Stamps, Arkansas, where they run the general store that serves as the community's heart. Through Maya's eyes, we experience the brutal realities of racism, sexual trauma, and identity formation, balanced by the healing power of literature, family bonds, and community resilience.

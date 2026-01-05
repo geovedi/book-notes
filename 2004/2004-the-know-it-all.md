@@ -1,5 +1,5 @@
 # The Know-It-All
-**Author**: A.J. Jacobs | **Year**: 2004
+**Author**: A.J. Jacobs | **Year**: 2004 | **Category**: Self-Help & Personal Development
 
 ## Summary
 A.J. Jacobs, a 35-year-old Esquire editor, embarks on an audacious quest to read the entire Encyclopaedia Britannica from A to Z—all 33,000 pages and 44 million words—in a desperate attempt to become "the smartest man in the world." What begins as an intellectual challenge transforms into a hilarious, self-deprecating exploration of knowledge, wisdom, and the nature of intelligence itself.

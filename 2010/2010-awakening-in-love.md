@@ -1,6 +1,6 @@
 # Awakening in Love: The Spiritual Path of A Course in Miracles
 **Original Title**: Ontwaken in liefde: Het spirituele pad van een cursus in wonderen
-**Author**: Margot Krikhaar | **Year**: 2010
+**Author**: Margot Krikhaar | **Year**: 2010 | **Category**: Spirituality & Religion
 
 ## Summary
 "Awakening in Love" is a deeply personal yet universally practical guide to navigating the spiritual path of A Course in Miracles. Margot Krikhaar shares her intimate journey from childhood trauma, through relationship struggles and burnout, to profound spiritual awakening. Written with the guidance of Jesus as her inner teacher, the book serves as both memoir and roadmap for others seeking to transform their suffering into awakening through the practice of forgiveness.

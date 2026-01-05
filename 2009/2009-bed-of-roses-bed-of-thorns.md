@@ -1,5 +1,6 @@
 # Bed of Roses, Bed of Thorns
 **Authors**: Uta Christensen | **Year**: 2009
+**Category**: Fiction & Literature
 
 ## Summary
 "Bed of Roses, Bed of Thorns" is a multi-generational saga that explores the complex tapestry of family relationships, personal growth, and the pursuit of independence against societal expectations. The story primarily follows Ursula (Ulla) Meister from her childhood in post-World War II Germany through her journey to adulthood and eventual migration to New Zealand. Interwoven with Ulla's narrative is the rich backstory of her grandmother Katia, a wealthy Bavarian girl whose arranged marriage leads to both privilege and hardship.

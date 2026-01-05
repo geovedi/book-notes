@@ -1,5 +1,5 @@
 # User Friendly
-**Authors**: Cliff Kuang, Robert Fabricant | **Year**: 2018
+**Authors**: Cliff Kuang, Robert Fabricant | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 "User Friendly" reveals how the hidden rules of design have fundamentally transformed modern life, tracing the evolution from complex machines to intuitive interfaces that shape our daily existence. The book explores the historical shift from technology that required human adaptation to technology that adapts to humans, a revolution that began with early computing disasters like Three Mile Island and culminated in today's seamless user experiences.

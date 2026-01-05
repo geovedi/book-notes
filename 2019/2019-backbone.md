@@ -1,5 +1,6 @@
 # Backbone
 **Authors**: Julia Dye, Ph.D. | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Backbone" explores the essential leadership traits that make Marine Corps Non-Commissioned Officers (NCOs) the backbone of the United States Marine Corps. Through compelling historical accounts and contemporary interviews, the book reveals how 14 core leadership traits—Initiative, Bearing, Unselfishness, Dependability, Endurance, Knowledge, Judgment, Enthusiasm, Tact, Decisiveness, Integrity, Justice, Loyalty, and Courage—are forged through Marine training and demonstrated in combat and business environments.

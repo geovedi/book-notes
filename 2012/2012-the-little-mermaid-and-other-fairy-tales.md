@@ -1,5 +1,6 @@
 # The Little Mermaid and Other Fairy Tales
 **Authors**: Hans Christian Andersen | **Year**: 2012 (Dover Edition)
+**Category**: Children & Young Adult
 
 ## Summary
 This enchanting collection gathers thirteen of Hans Christian Andersen's most beloved fairy tales, transporting readers to magical worlds where mermaids dream of human life, ugly ducklings discover their true beauty, and brave little girls find warmth in the coldest winter nights. These timeless stories blend wonder with wisdom, creating narratives that speak simultaneously to children's imagination and adults' understanding of life's deeper truths.

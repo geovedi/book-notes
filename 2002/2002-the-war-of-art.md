@@ -1,5 +1,5 @@
 # The War of Art
-**Author**: Steven Pressfield | **Year**: 2002
+**Author**: Steven Pressfield | **Year**: 2002 | **Category**: Self-Help & Personal Development
 
 ## Summary
 "The War of Art" is a concise, powerful guide to overcoming the internal forces that prevent us from doing our most meaningful work. Pressfield identifies and personifies the primary enemy of creativity as "Resistance" - that invisible, self-generated force that keeps us from sitting down to do what matters most. The book is divided into three sections: defining Resistance (the enemy), turning professional (the battle plan), and accessing the higher realm (the source of inspiration).

@@ -1,5 +1,6 @@
 # I'm Just Saying: a Guide to Maintaining Civil Discourse in an Increasingly Divided World
 **Author**: Milan Kordestani | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 In a world where meaningful dialogue has devolved into shouting matches and social media echo chambers, Milan Kordestani offers a practical framework for rebuilding civil discourse. Drawing from his experiences building The Doe (an anonymous publishing platform that reached nearly 1 million readers) and his personal journey from isolation to connection, Kordestani demonstrates how every micro-interaction shapes our collective ability to communicate across differences.

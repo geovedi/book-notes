@@ -1,5 +1,5 @@
 # Bad Blood: Secrets and Lies in a Silicon Valley Startup
-**Author**: John Carreyrou | **Year**: 2018
+**Author**: John Carreyrou | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "Bad Blood" is the gripping true story of Theranos, the multibillion-dollar Silicon Valley startup that promised to revolutionize healthcare with groundbreaking blood-testing technology—only to collapse as one of the biggest corporate frauds in American history. Elizabeth Holmes, a Stanford dropout with mesmerizing charisma, convinced sophisticated investors to pour nearly $1 billion into her company, which claimed its devices could perform hundreds of tests with just a finger prick of blood. The problem: the technology never worked.

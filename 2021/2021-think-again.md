@@ -1,5 +1,6 @@
 # Think Again
 **Author**: Adam Grant | **Year**: 2021
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think Again" explores the critical skill of rethinking and unlearning in a rapidly changing world. Grant argues that intelligence isn't just about thinking and learning—it's about having the mental agility to question our own assumptions, update our beliefs, and embrace being wrong. The book reveals how the ability to rethink can save us from catastrophic mistakes, open us to new opportunities, and help us succeed where others fail.

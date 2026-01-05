@@ -1,5 +1,6 @@
 # The Canterbury Tales
 **Authors**: Geoffrey Chaucer | **Year**: c. 1387-1400
+**Category**: Fiction & Literature
 
 ## Summary
 

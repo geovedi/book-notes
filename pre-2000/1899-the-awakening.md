@@ -1,5 +1,6 @@
 # The Awakening
 **Authors**: Kate Chopin | **Year**: 1899
+**Category**: Fiction & Literature
 
 ## Summary
 Edna Pontellier, a young wife and mother vacationing at Grand Isle, experiences a profound psychological and sexual awakening that challenges the rigid expectations of late Victorian society. As she develops feelings for Robert Lebrun and rediscovers her passion for art and independence, Edna gradually rejects the conventional roles of wife and mother. The novel follows her journey of self-discovery, her refusal to be possessed by others, and her ultimate tragic choice when faced with the impossibility of living authentically within her society's constraints.

@@ -1,5 +1,5 @@
 # The Chaos Machine
-**Author**: Max Fisher | **Year**: 2022
+**Author**: Max Fisher | **Year**: 2022 | **Category**: Technology & Computing
 
 ## Summary
 "The Chaos Machine" reveals how social media platforms, designed with the best intentions to connect humanity, have instead become engines of division, radicalization, and societal breakdown. Fisher, through extensive investigation and insider interviews, demonstrates that the problems with social media aren't merely bugs or misuse by bad actors—they're fundamental features baked into the very architecture and business models of platforms like Facebook, YouTube, and Twitter.

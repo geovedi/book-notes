@@ -1,5 +1,5 @@
 # 7 Habits of Business English Success
-**Author**: Winn Trivette, MA | **Year**: 2018
+**Author**: Winn Trivette, MA | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 "7 Habits of Business English Success" is a practical guide designed for both native and non-native English speakers who want to excel in the global business arena. The book focuses on seven essential language skills that determine success in international business: reading smartly, writing well, listening intently, speaking confidently, using vocabulary expertly, giving presentations persuasively, and negotiating toughly.

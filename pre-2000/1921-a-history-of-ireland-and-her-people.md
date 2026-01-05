@@ -1,5 +1,6 @@
 # A History of Ireland and Her People
 **Author**: Eleanor Hull | **Year**: 1921
+**Category**: History & Biography
 
 ## Summary
 

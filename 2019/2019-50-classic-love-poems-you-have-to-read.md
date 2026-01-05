@@ -1,5 +1,6 @@
 # 50 Classic Love Poems You Have To Read
 **Anthology Editor**: Golden Deer Classics | **Year**: 2019
+**Category**: Fiction & Literature
 
 ## Summary
 This carefully curated anthology brings together 50 of the most iconic love poems from literary history, spanning from medieval verse to Victorian romance and beyond. The collection features master poets including Shakespeare, Byron, Poe, Dickinson, Browning, and many others, each exploring love's infinite facets through their unique poetic voices.

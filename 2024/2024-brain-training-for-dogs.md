@@ -1,5 +1,6 @@
 # Brain Training for Dogs
 **Authors**: Claire Arrowsmith | **Year**: 2024
+**Category**: Science & Nature
 
 ## Summary
 Brain Training for Dogs reveals the remarkable cognitive capabilities of our canine companions and provides practical games to mentally stimulate and strengthen the human-dog bond. Arrowsmith, a qualified animal behaviorist, demonstrates that modern dogs need more than physical exercise—they require mental challenges to thrive in our domestic environments. The book moves beyond traditional repetitive games like fetch to introduce sophisticated cognitive activities that engage dogs' natural intelligence, problem-solving abilities, and sensory strengths.

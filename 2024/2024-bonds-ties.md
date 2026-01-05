@@ -1,7 +1,8 @@
 # Bonds/Ties
 **Original Title**: Legami
 **Original Hebrew Title**: LEV RAEV (לב רעב)
-**Author**: Eshkol Nevo | **Year**: 2024 
+**Author**: Eshkol Nevo | **Year**: 2024
+**Category**: Fiction & Literature 
 
 ## Summary
 "Legami" is a profound collection of twenty short stories that explores the intricate web of human connections in contemporary Israeli society. Originally published in Hebrew as "LEV RAEV" by acclaimed Israeli author Eshkol Nevo, these stories delve into the fragile, complex, and often contradictory bonds that define our relationships—with family, lovers, friends, and strangers. Each narrative serves as a vignette of human vulnerability, revealing how our lives are interconnected through moments of joy, pain, longing, and unexpected tenderness.

@@ -1,5 +1,5 @@
 # Human Being: A Practical Guide to Reclaiming Our Fundamental Skills in a Digital Age
-**Authors**: Graham Lee | **Year**: 2023
+**Authors**: Graham Lee | **Year**: 2023 | **Category**: Technology & Computing
 
 ## Summary
 "Human Being" explores how modern technology is eroding twelve fundamental human capabilities that have defined our species for millennia. Graham Lee argues that as we outsource more of our cognitive and physical abilities to digital devices, we risk losing the very essence of what makes us human. Drawing from historical examples across different cultures and time periods, the book demonstrates how extraordinary human skills—once commonplace—are now degrading due to our increasing reliance on technology.

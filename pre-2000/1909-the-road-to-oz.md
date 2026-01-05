@@ -1,5 +1,6 @@
 # The Road to Oz
 **Authors**: L. Frank Baum | **Year**: 1909
+**Category**: Children & Young Adult
 
 ## Summary
 Dorothy Gale's journey begins when she meets the mysterious Shaggy Man near her Kansas farm and agrees to show him the road to Butterfield. When they reach a crossroads where multiple paths mysteriously appear, Dorothy becomes lost and finds herself on an enchanted adventure through various fairy kingdoms on her way to the Land of Oz. Along the way, she encounters the endlessly puzzled Button-Bright, Polychrome the Rainbow's Daughter who has fallen from her sky home, and faces magical transformations in peculiar kingdoms ruled by talking animals.

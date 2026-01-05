@@ -1,5 +1,6 @@
 # The Return of the Firefly
 **Authors**: GeAnn Powers | **Year**: 2024
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Return of the Firefly" is the fourth book in The Year of the Firefly series, a coming-of-age fantasy that follows Ariel, a 15-year-old winged fairy navigating the clash between tradition and progress. Set in a richly imagined world where different elven races coexist, the story explores Ariel's journey from a sheltered member of a patriarchal flyer colony to someone who bridges two vastly different societies.

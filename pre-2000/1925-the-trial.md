@@ -1,5 +1,5 @@
 # The Trial
-**Authors**: Franz Kafka | **Year**: 1925
+**Authors**: Franz Kafka | **Year**: 1925 | **Category**: Fiction & Literature
 
 ## Summary
 Josef K., a respectable bank officer, is arrested on his thirtieth birthday morning without being told the charges against him. Thus begins a surreal journey through an incomprehensible legal system where the court operates in attics and bedrooms, lawyers are more hindrance than help, and guilt seems predetermined. K. navigates a labyrinth of bureaucratic absurdity, encountering mysterious officials, seductive women connected to his case, and increasingly bizarre legal proceedings. The novel culminates in K.'s execution in a quarry, where his final thought—"Like a dog!"—encapsulates the dehumanizing nature of his encounter with an inscrutable authority.

@@ -1,5 +1,6 @@
 # Global Innovation
 **Editor**: Jonathan Reuvid | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 "Global Innovation" is a comprehensive guide for British exporters navigating the post-Brexit landscape while leveraging innovation as a competitive advantage. The book addresses the critical challenges facing UK businesses: climate change, digitization, and disrupted global trade relationships. With the UK's merchandise export ranking slipping from 5th to 10th globally over two decades and the trade deficit widening from $43 billion to $192 billion, the book presents innovation as the key to revitalizing British export performance.

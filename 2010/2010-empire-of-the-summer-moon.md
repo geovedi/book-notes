@@ -1,5 +1,5 @@
 # Empire of the Summer Moon
-**Authors**: S. C. Gwynne | **Year**: 2010
+**Authors**: S. C. Gwynne | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 "Empire of the Summer Moon" tells the epic story of the Comanche tribe, the most powerful Native American nation in history, and their 40-year war against American expansion. The book centers on Quanah Parker, the mixed-race son of a captured white woman who became the last great chief of the Comanches. Through the lens of Quanah's family - particularly his mother Cynthia Ann Parker, who was kidnapped at age nine and chose to remain with the Comanches even when given the chance to return - Gwynne chronicles the rise and fall of a remarkable Native American empire that dominated the southern plains for over two centuries.

@@ -1,5 +1,5 @@
 # We Should All Be Feminists
-**Author**: Chimamanda Ngozi Adichie | **Year**: 2014
+**Author**: Chimamanda Ngozi Adichie | **Year**: 2014 | **Category**: Fiction & Literature
 
 ## Summary
 "We Should All Be Feminists" is a powerful, accessible manifesto based on Adichie's TEDxEuston talk that explores why feminism remains essential in the 21st century. Through personal stories and sharp observations, she dismantles myths about feminism while showing how gender roles limit both women and men. Adichie argues that gender expectations are social constructs that harm everyone, making the case that we should all embrace feminism to create a fairer world where people can be their true selves.

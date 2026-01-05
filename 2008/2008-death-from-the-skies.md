@@ -1,5 +1,6 @@
 # Death from the Skies! These Are the Ways the World Will End . . .
 **Authors**: Philip Plait | **Year**: 2008
+**Category**: Science & Nature
 
 ## Summary
 Philip Plait, an astronomer and science communicator, takes readers on a fascinating tour of the cosmic catastrophes that could threaten Earth and humanity. Rather than being pure doomsday sensationalism, the book is a scientifically grounded exploration of astronomical threats, from the plausible (asteroid impacts, solar flares) to the extremely unlikely (gamma-ray bursts, wandering black holes). Plait balances the terrifying possibilities with scientific perspective, explaining both the mechanisms of destruction and the actual probabilities involved.

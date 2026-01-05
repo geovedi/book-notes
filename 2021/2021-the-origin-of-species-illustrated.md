@@ -1,5 +1,6 @@
 # The Origin of Species (Illustrated)
 **Authors**: Charles Darwin | **Year**: 2021 (Original: 1859)
+**Category**: Science & Nature
 
 ## Summary
 Charles Darwin's "The Origin of Species" revolutionized our understanding of life on Earth by presenting natural selection as the mechanism driving evolution. Through meticulous observation and compelling evidence, Darwin demonstrates that all species share common ancestry and evolve through gradual adaptation over vast time periods.

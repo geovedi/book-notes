@@ -1,5 +1,5 @@
 # Salt: A World History
-**Author**: Mark Kurlansky | **Year**: 2002
+**Author**: Mark Kurlansky | **Year**: 2002 | **Category**: History & Biography
 
 ## Summary
 Mark Kurlansky reveals how this simple crystal of sodium chloride shaped human civilization from ancient times to the present. What appears to be a mundane condiment is actually one of history's most influential commodities—driving exploration, funding wars, establishing trade routes, and even determining the locations of cities. Salt's ability to preserve food revolutionized human society, enabling armies to march, sailors to explore oceans, and civilizations to survive harsh winters. The book traces salt's journey from being worth its weight in gold to becoming so cheap and abundant that we've forgotten its monumental importance.

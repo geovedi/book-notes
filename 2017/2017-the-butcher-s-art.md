@@ -1,5 +1,6 @@
 # The Butchering Art
 **Author**: Lindsey Fitzharris | **Year**: 2017
+**Category**: Health & Medicine
 
 ## Summary
 "The Butchering Art" chronicles Joseph Lister's groundbreaking quest to transform Victorian medicine from a brutal, often fatal practice into the scientific profession we know today. Set in the grimy, dangerous world of 19th-century hospitals, the book reveals how surgery was once a gruesome last resort performed by blood-encrusted surgeons who rarely washed their hands or instruments, and how hospitals were known as "Houses of Death" where infection killed more patients than the diseases themselves.

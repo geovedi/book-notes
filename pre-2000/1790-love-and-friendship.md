@@ -1,5 +1,6 @@
 # Love and Friendship
 **Authors**: Jane Austen | **Year**: 1790
+**Category**: Romance & Relationships
 
 ## Summary
 "Love and Friendship" is a satirical epistolary novel that brilliantly parodies the overly sentimental and melodramatic novels popular in the late 18th century. Written when Austen was just 14-15 years old, this remarkable work showcases her early wit and literary genius through a series of letters chronicling the dramatic misadventures of Laura and her friends.

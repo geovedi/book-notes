@@ -1,5 +1,5 @@
 # White Line Fever: The Autobiography
-**Authors**: Lemmy Kilmister, Janiss Garza | **Year**: 2003
+**Authors**: Lemmy Kilmister, Janiss Garza | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 "White Line Fever" is the raw, unfiltered autobiography of Ian "Lemmy" Kilmister, the iconic frontman of Motörhead. From his troubled childhood in Stoke-on-Trent and Wales to his wild journey through the 1960s music scene, eventual formation of Motörhead, and decades of rock 'n' roll rebellion, Lemmy delivers a no-holds-barred account of a life lived on his own terms. The book captures the essence of a man who never compromised his principles, rejected conventional success, and became a living legend through sheer persistence and authenticity.

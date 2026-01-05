@@ -1,5 +1,5 @@
 # Boy Erased: A Memoir
-**Author**: Garrard Conley | **Year**: 2016
+**Author**: Garrard Conley | **Year**: 2016 | **Category**: Fiction & Literature
 
 ## Summary
 "Boy Erased" is a powerful memoir that chronicles nineteen-year-old Garrard Conley's terrifying experience with conversion therapy after being outed to his devout Christian parents. The story takes place over two weeks in June 2004 at Love in Action (LIA), a church-sanctioned ex-gay program in Memphis, Tennessee. Conley, the son of a Baptist pastor, is forced to choose between his faith, his family, and his identity as he undergoes brutal psychological manipulation designed to "cure" his homosexuality.

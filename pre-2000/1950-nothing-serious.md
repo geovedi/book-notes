@@ -1,5 +1,6 @@
 # Nothing Serious
 **Authors**: P.G. Wodehouse | **Year**: 1950
+**Category**: Fiction & Literature
 
 ## Summary
 

@@ -1,5 +1,5 @@
 # How to Reap the Benefits of Digital Marketing Today
-**Authors**: Dr. Amos Obi | **Year**: 2018
+**Authors**: Dr. Amos Obi | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies digital marketing for entrepreneurs and small business owners, showing how anyone can transform their local business into a global brand using online tools. Dr. Obi shares his personal success story of taking his HETAVED Skills Initiative from an unknown local NGO to United Nations recognition within just two years of implementing digital marketing strategies. The book serves as both inspiration and actionable roadmap for businesses looking to harness the power of the internet to reach billions of potential customers worldwide.

@@ -1,5 +1,6 @@
 # I Want to Die but I Still Want to Eat Tteokbokki
-**Original Title**: 죽고 싶지만 떡볶이는 먹고 싶어 | **Author**: Baek Sehee | **Year**: 2019 
+**Original Title**: 죽고 싶지만 떡볶이는 먹고 싶어 | **Author**: Baek Sehee | **Year**: 2019
+**Category**: Psychology & Mental Health 
 
 ## Summary
 This raw, intimate memoir chronicles Baek Sehee's journey through psychotherapy as she confronts depression, self-harm, and suicidal thoughts. The book presents actual therapy transcripts alongside Sehee's personal reflections, offering an unflinching look at mental health treatment. Through dialogues with her psychiatrist over several years, Sehee learns to challenge negative self-perceptions, confront childhood wounds around body image and rejection, and gradually build self-acceptance. The title captures the central paradox of living with depression—simultaneously experiencing despair while still finding small joys and reasons to continue living.

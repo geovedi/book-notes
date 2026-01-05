@@ -1,5 +1,6 @@
 # Romeo and Juliet
 **Authors**: William Shakespeare | **Year**: 1597 (approximately)
+**Category**: Romance & Relationships
 
 ## Summary
 "Romeo and Juliet" tells the tragic story of two star-crossed lovers from feuding families in Renaissance Verona. The Montagues and Capulets have been enemies for so long that no one remembers the original cause of their hatred. When Romeo Montague crashes a Capulet party, he falls instantly in love with Juliet Capulet, and she with him. Their secret marriage, performed by Friar Lawrence, sparks a series of tragic events that lead to six deaths before their families finally reconcile.

@@ -1,6 +1,7 @@
 # The Five of Us in Rome
 **Original Title**: Wij met ons vijven in Rome
-**Authors**: Tine Cool (C.A. Cool), edited by Thomas Cool | **Year**: 1928 
+**Authors**: Tine Cool (C.A. Cool), edited by Thomas Cool | **Year**: 1928
+**Category**: Art & Creativity 
 
 ## Summary
 "The Five of Us in Rome" is a charming memoir that recounts the four-year journey (1892-1896) of the Cool family—Dutch artist Thomas Cool, his wife Berber, and their three children—as they leave behind the comforts of Friesland for the artistic bohemia of Rome. Living in the Villa Strohl-Fern, an artists' colony, the family experiences both the triumphs and struggles of an artist pursuing his calling versus commercial success. The narrative captures the golden era of European art at the fin de siècle, when Rome was a magnet for international artists seeking inspiration among ancient ruins and Renaissance masterpieces.

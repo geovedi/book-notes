@@ -1,5 +1,5 @@
 # Five Days at Memorial
-**Author**: Sheri Fink | **Year**: 2013
+**Author**: Sheri Fink | **Year**: 2013 | **Category**: Health & Medicine
 
 ## Summary
 "Five Days at Memorial" is a gripping work of investigative journalism that reconstructs the harrowing events at Memorial Medical Center in New Orleans during and after Hurricane Katrina. When floodwaters overwhelmed the hospital in 2005, healthcare workers faced impossible choices as resources dwindled, temperatures soared, and evacuation seemed unlikely. The book centers on the controversial deaths of 20 patients—many of whom were injected with lethal doses of morphine and midazolam—and the subsequent investigation that culminated in murder charges against Dr. Anna Pou and two nurses.

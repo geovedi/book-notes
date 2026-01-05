@@ -1,5 +1,6 @@
 # The Art of Thinking Critically
 **Authors**: Albert Rutherford | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This practical guide demystifies critical thinking as a learnable skill rather than an innate talent. Through real-world examples and structured frameworks, the book demonstrates how questioning, self-directed learning, and awareness of cognitive biases can transform decision-making in daily life.

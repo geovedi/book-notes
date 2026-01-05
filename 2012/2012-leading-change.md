@@ -1,5 +1,6 @@
 # Leading Change
 **Authors**: John P. Kotter, Oliver Wyman | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 "Leading Change" presents a proven framework for successfully implementing organizational transformations. Kotter argues that while most organizations focus on managing change, true transformation requires leadership—a critical distinction that many miss. Based on decades of research, the book identifies eight common reasons why change efforts fail and provides a practical eight-stage process to overcome these obstacles. The core message is that successful transformation is 70-90% leadership and only 10-30% management, requiring both urgency and vision to overcome organizational inertia.

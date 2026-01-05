@@ -1,5 +1,6 @@
 # The Five Modes of Leadership
 **Authors**: Stuart Wyatt | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "The Five Modes of Leadership" presents a practical framework for effective leadership based on five distinct modes of action: Vision, Plan, Delegate, Enable, and Empower. Stuart Wyatt argues that great leaders instinctively switch between different leadership styles based on situations, people, and circumstances, rather than relying on a single approach. The book provides a systematic yet flexible approach to leadership that can be learned and applied by anyone willing to practice.

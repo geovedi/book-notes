@@ -1,5 +1,6 @@
 # The Mysterious Stranger
 **Authors**: Mark Twain | **Year**: 1916 (posthumously published)
+**Category**: Fiction & Literature
 
 ## Summary
 In the quiet Austrian village of Eseldorf in 1590, three young boys encounter a mysterious youth named Satan who claims to be the nephew of the biblical Satan. This beautiful, charming being possesses supernatural powers and a terrifying indifference to human suffering. As Satan demonstrates his ability to manipulate reality, heal, create, and destroy at will, he reveals profound truths about human nature, religion, and the meaninglessness of existence. The story culminates in a devastating philosophical revelation that challenges the very nature of reality itself.

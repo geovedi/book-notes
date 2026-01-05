@@ -1,5 +1,6 @@
 # Vagina: A New Biography
 **Author**: Naomi Wolf | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 Naomi Wolf's groundbreaking exploration reveals the vagina as not merely a physical organ but a complex neural network intrinsically connected to female consciousness, creativity, and well-being. Through personal experience, scientific research, and historical analysis, Wolf demonstrates that the vagina forms part of an intricate brain-vagina connection that influences women's confidence, creative expression, and sense of interconnectedness with the world.

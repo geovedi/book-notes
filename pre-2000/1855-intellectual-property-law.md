@@ -1,5 +1,6 @@
 # Intellectual Property Law
 **Author**: Lysander Spooner | **Year**: 1855 (Published 2019)
+**Category**: Business & Finance
 
 ## Summary
 Lysander Spooner's "Intellectual Property Law" is a radical philosophical treatise that argues for perpetual, absolute property rights in ideas based on natural law principles. Written in 1855 by the renowned American legal theorist and individualist anarchist, this work makes the groundbreaking case that intellectual property deserves the same - and often stronger - protection than physical property.

@@ -1,6 +1,7 @@
 # Living as a Fan: The Rise and Power of Fan Cultures
 **Original Title**: Leven als fan
-**Author**: N. Lamerichs | **Year**: 2024 
+**Author**: N. Lamerichs | **Year**: 2024
+**Category**: Art & Creativity 
 
 ## Summary
 "Leven als fan" explores the transformative rise of fan cultures in the digital age, examining how passionate enthusiasts have reshaped our media landscape, consumer behavior, and social connections. The book investigates why people form deep emotional attachments to fictional worlds, celebrities, and brands, and how these connections drive unprecedented creativity and community-building. From Star Trek conventions to K-pop stans, from fanfiction writers to cosplayers, Lamerichs reveals how fan culture has evolved from niche subcultures into a dominant force that challenges traditional boundaries between consumers and producers.

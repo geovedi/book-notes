@@ -1,5 +1,5 @@
 # The Notorious Benedict Arnold
-**Author**: Steve Sheinkin | **Year**: 2010
+**Author**: Steve Sheinkin | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 

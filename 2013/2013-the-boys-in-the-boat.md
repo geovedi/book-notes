@@ -1,5 +1,5 @@
 # The Boys in the Boat
-**Authors**: Daniel James Brown | **Year**: 2013
+**Authors**: Daniel James Brown | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "The Boys in the Boat" tells the remarkable true story of nine working-class American boys from the University of Washington who shocked the world by winning gold in eight-oared rowing at the 1936 Berlin Olympics. Set against the backdrop of the Great Depression and rising Nazi Germany, this narrative follows Joe Rantz and his teammates as they transform from raw novices into Olympic champions through perseverance, trust, and the discovery of "the boat" – that magical state where nine individuals become perfectly unified.

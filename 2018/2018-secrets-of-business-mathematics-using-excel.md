@@ -1,5 +1,5 @@
 # Secrets of Business Mathematics Using Excel
-**Authors**: Andrei Besedin | **Year**: 2018
+**Authors**: Andrei Besedin | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 This book serves as a comprehensive guide to applying Microsoft Excel for business mathematics operations. It covers everything from basic arithmetic functions to complex financial calculations, making it an essential resource for professionals who need to manage financial calculations, payroll, statistical analysis, and business modeling. The book emphasizes Excel's power as a spreadsheet tool that goes beyond simple data organization to become a dynamic computational environment.

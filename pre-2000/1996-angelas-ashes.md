@@ -1,5 +1,6 @@
 # Angela's Ashes
 **Authors**: Frank McCourt | **Year**: 1996
+**Category**: History & Biography
 
 ## Summary
 Frank McCourt's memoir chronicles his "miserable Irish Catholic childhood" in the slums of Limerick after his family returns from America when he's four years old. The story follows Frank's struggle to survive extreme poverty, an alcoholic father who drinks away any money the family has, a series of tragic family deaths, and the oppressive weight of Catholic guilt. Despite these hardships, young Frank maintains his dignity, humor, and fierce determination to eventually return to America.

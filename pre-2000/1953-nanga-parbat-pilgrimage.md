@@ -1,6 +1,7 @@
 # Nanga Parbat Pilgrimage
 **Original Title**: Nanga Parbat Pilgrimage
 **Authors**: Hermann Buhl | **Year**: 1953
+**Category**: Health & Medicine
 
 ## Summary
 "Nanga Parbat Pilgrimage" is the remarkable autobiography of Austrian mountaineer Hermann Buhl, culminating in his historic solo first ascent of Nanga Parbat (26,620 feet) in 1953. The book traces Buhl's journey from a frail child in Innsbruck who "could not even go to school till a year later than usual" to becoming one of history's greatest climbers. His story is characterized by an almost supernatural determination, pioneering solo ascents of previously "impossible" routes, and an unwavering passion for mountains that drove him to push beyond conventional limits of human endurance.

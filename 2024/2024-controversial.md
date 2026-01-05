@@ -1,6 +1,7 @@
 # Controversial
 **Original Title**: Umstritten
-**Editor**: Marcus Klöckner (Hg.) | **Year**: 2024 
+**Editor**: Marcus Klöckner (Hg.) | **Year**: 2024
+**Category**: Philosophy & Critical Thinking 
 **ISBN**: 978-3-946778-48-6 | **Publisher**: FiftyFifty Verlag GmbH, Neu-Isenburg
 
 ## Summary

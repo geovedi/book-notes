@@ -1,5 +1,5 @@
 # Helter Skelter: The True Story of the Manson Murders
-**Authors**: Vincent Bugliosi, Curt Gentry | **Year**: 2001 (Original 1974)
+**Authors**: Vincent Bugliosi, Curt Gentry | **Year**: 2001 (Original 1974) | **Category**: Horror & Thriller
 
 ## Summary
 "Helter Skelter" is the definitive true crime account of the 1969 Tate-LaBianca murders committed by Charles Manson and his "Family." Written by the lead prosecutor Vincent Bugliosi, this meticulously detailed narrative takes readers from the gruesome discovery of the crime scenes through the complex investigation and groundbreaking trial that brought the killers to justice. The book's title derives from Manson's bizarre interpretation of a Beatles song, which became central to his apocalyptic race war prophecy that motivated the killings.

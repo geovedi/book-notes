@@ -1,5 +1,6 @@
 # Traffic: Why We Drive the Way We Do (and What It Says About Us)
 **Authors**: Tom Vanderbilt | **Year**: 2008
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Traffic" is a fascinating exploration of the hidden psychology, sociology, and engineering behind our daily driving experiences. Vanderbilt reveals that traffic is not just a mechanical problem of too many cars, but a complex human system that reveals our true nature—how we think, cooperate, compete, and make decisions under pressure. Through extensive research and engaging anecdotes, he uncovers the surprising science behind why we drive the way we do and what our behavior on the road says about human nature itself.

@@ -1,5 +1,5 @@
 # Shell Games
-**Authors**: Craig Welch | **Year**: 2010
+**Authors**: Craig Welch | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 *Shell Games* tells the astonishing true story of how the world's largest burrowing clam, the geoduck, transformed from a regional oddity into a multimillion-dollar international commodity that attracted organized crime, poachers, and smugglers. Set primarily in Washington's Puget Sound, the book follows Detective Ed Volz and his team of wildlife detectives as they pursue sophisticated poaching operations that span from the Pacific Northwest to Asian markets.

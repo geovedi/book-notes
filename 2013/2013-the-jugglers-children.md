@@ -1,5 +1,5 @@
 # The Juggler's Children
-**Author**: Carolyn Abraham | **Year**: 2013
+**Author**: Carolyn Abraham | **Year**: 2013 | **Category**: History & Biography
 
 ## Summary
 "The Juggler's Children" is a captivating family memoir that follows science journalist Carolyn Abraham's quest to uncover her multiracial heritage using cutting-edge DNA technology. Born to Anglo-Indian parents in Canada during the 1970s, Abraham grew up with nagging questions about her complex ancestry and the two mysterious great-grandfathers who loomed large in family lore: a Chinese juggler who vanished from India and a Jamaican sea captain with shadowy connections to slavery and possible plantation wealth. When her daughter Jade is born during the SARS epidemic, Abraham decides it's time to replace family speculation with scientific fact, embarking on a global journey that takes her from genetic testing labs to the hills of south India and the plantations of Jamaica.

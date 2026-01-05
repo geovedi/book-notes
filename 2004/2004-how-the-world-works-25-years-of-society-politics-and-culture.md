@@ -1,6 +1,6 @@
 # How the World Works: 25 Years of Society, Politics and Culture
 **Original Title**: Hoe de wereld in elkaar zit. 25 Jaar maatschappij, politiek en cultuur
-**Author**: Bart Tromp | **Year**: 2004
+**Author**: Bart Tromp | **Year**: 2004 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This collection represents 25 years of weekly columns by Dutch political scientist Bart Tromp, written for Het Parool newspaper from 1979-2004. Tromp examines politics, society, and culture through the lens of a detached observer who prioritizes analysis before judgment. The columns serve as both contemporary commentary and historical documentation, capturing the evolution of Dutch and international political discourse over a quarter-century.

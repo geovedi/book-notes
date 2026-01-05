@@ -1,5 +1,5 @@
 # The Passive Income Guide
-**Authors**: John Larson | **Year**: 2018
+**Authors**: John Larson | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how to build sustainable passive income through strategic real estate investing. Larson challenges conventional wisdom about 401(k) plans and traditional retirement strategies, arguing that real estate provides multiple income streams simultaneously: cash flow, appreciation, tax benefits, principal paydown, and inflation protection. The book presents a framework for achieving financial freedom through turnkey investments, private lending, and lifestyle properties.

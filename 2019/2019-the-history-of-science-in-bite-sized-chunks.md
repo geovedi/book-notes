@@ -1,5 +1,6 @@
 # The History of Science in Bite-Sized Chunks
 *Key Ideas Digest*
+**Category**: Science & Nature
 
 ---
 

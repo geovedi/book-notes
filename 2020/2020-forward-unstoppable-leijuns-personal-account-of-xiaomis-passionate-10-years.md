@@ -1,5 +1,6 @@
 # Forward Unstoppable: Lei Jun's Personal Account of Xiaomi's Passionate 10 Years
-**Original Title**: 一往无前——雷军亲述小米热血10年 | **Authors**: Fan Haitao | **Year**: 2020 
+**Original Title**: 一往无前——雷军亲述小米热血10年 | **Authors**: Fan Haitao | **Year**: 2020
+**Category**: Business & Finance 
 
 ## Summary
 "Forward Unstoppable" is the definitive account of Xiaomi's first decade, written by renowned tech journalist Fan Haitao with unprecedented access to Lei Jun and the founding team. The book chronicles how a team of engineers revolutionized not just the smartphone industry, but Chinese manufacturing itself through internet thinking and radical efficiency.

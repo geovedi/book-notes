@@ -1,5 +1,5 @@
 # Stress Management
-**Authors**: Hiriyappa.B, Ph.D. | **Year**: 2018
+**Authors**: Hiriyappa.B, Ph.D. | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 This comprehensive guide demystifies stress as both a positive and negative force in our lives. The author presents stress as a universal phenomenon that can either strengthen us (eustress) or weaken us (distress) depending on how we understand and manage it. The book bridges the gap between academic knowledge and practical application, offering readers a systematic approach to identifying, understanding, and controlling stress before it controls them.

@@ -1,5 +1,6 @@
 # Longitude
 **Authors**: Dava Sobel | **Year**: 1995
+**Category**: Science & Nature
 
 ## Summary
 "Longitude" tells the extraordinary true story of John Harrison, an 18th-century English clockmaker who solved the greatest scientific challenge of his age: determining longitude at sea. Before Harrison's breakthrough, sailors could easily find latitude but longitude remained impossible to calculate accurately, leading to countless shipwrecks and deaths. The British Parliament offered a massive prize for anyone who could solve this problem, and Harrison, a self-taught carpenter with no formal education, dedicated his entire life to creating revolutionary marine chronometers that could keep accurate time at sea.

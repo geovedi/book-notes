@@ -1,5 +1,5 @@
 # A Guide to Better Management: Motivating Others
-**Authors**: Jon Allen | **Year**: 2013
+**Authors**: Jon Allen | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 This practical management guide explores how to motivate yourself and others using Neuro-Linguistic Programming (NLP) techniques. The book reveals that motivation is intrinsic—you can't force someone to be motivated, but you can help people discover what naturally drives them. By understanding different motivational patterns and applying Maslow's hierarchy of needs, managers can create environments where people find their own reasons to excel.

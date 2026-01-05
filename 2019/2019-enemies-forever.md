@@ -1,6 +1,7 @@
 # Enemies Forever
 **Original Title**: K for Kara 18 - Uvenner for evigt (Danish)
 **Author**: Line Kyed Knudsen | **Year**: 2019
+**Category**: Children & Young Adult
 
 ## Summary
 "Enemies Forever" follows Kara, a young girl who finds herself caught in the middle of a bullying conflict between her best friend Rose and Laura, a girl from their parallel class. When Laura falsely accuses Rose of stealing earrings and repeatedly bullies her, Kara decides to help by filming Laura's aggressive behavior. However, her attempt to expose the truth backfires when the video focuses on an embarrassing moment for Rose, leading to a painful friendship breakdown.

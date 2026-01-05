@@ -1,5 +1,6 @@
 # The Little Mermaid
 **Authors**: H.C. Andersen | **Year**: 1836 (original publication)
+**Category**: Children & Young Adult
 
 **Illustrator**: Peter Madsen | **Publication**: Carlsen, 2016
 

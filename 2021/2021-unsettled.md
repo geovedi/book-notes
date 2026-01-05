@@ -1,5 +1,6 @@
 # Unsettled
 **Authors**: Steven E. Koonin | **Year**: 2021
+**Category**: Science & Nature
 
 ## Summary
 "Unsettled" is a provocative examination of climate science that challenges the prevailing narrative of a "climate crisis." Written by Steven Koonin, a physicist who served as undersecretary for science in the Obama administration, the book argues that while the globe is warming and humans exert some influence, the science is far less settled than commonly portrayed. Koonin reveals how scientific uncertainties are often obscured in public communication, leading to distorted policy discussions based on exaggerated claims rather than evidence-based analysis.

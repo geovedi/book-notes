@@ -1,5 +1,5 @@
 # Now: The Physics of Time
-**Authors**: Richard A. Muller | **Year**: 2016
+**Authors**: Richard A. Muller | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 Richard A. Muller, an experimental physicist who helped discover dark energy, tackles one of physics' deepest mysteries: What is "now" and why does time appear to flow? This revolutionary book argues that "now" is not just a psychological illusion but a physical reality—the continuously created forefront of time itself. Muller overturns century-old assumptions about entropy and time's arrow, presenting a bold 4D Big Bang theory that explains why we experience time's forward motion and how free will fits within physics.

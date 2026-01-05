@@ -1,5 +1,6 @@
 # Catch Me If You Can
 **Authors**: Frank W. Abagnale Jr., Stan Redding | **Year**: 1980
+**Category**: History & Biography
 
 ## Summary
 "Catch Me If You Can" is the astonishing true story of Frank Abagnale Jr., who became one of history's most daring con men before his 21st birthday. Starting at age 16, Abagnale successfully impersonated an airline pilot, doctor, lawyer, and college professor while cashing over $2.5 million in fraudulent checks across all 50 states and 26 countries. His five-year crime spree included deadheading on flights worldwide, practicing law for nine months, and even running from the law in notorious European prisons before his eventual capture and rehabilitation.

@@ -1,5 +1,6 @@
 # Aladdin and His Prince Charming: The Dragon's Den
 **Authors**: Alex Anders | **Year**: 2019
+**Category**: Romance & Relationships
 
 ## Summary
 Aladdin, now Prince of Magrabah and married to the princess, finds himself restless and unfulfilled despite his heroic past and peaceful kingdom. During his 25th birthday celebration, a young boy gifts him an apple that awakens his desire for adventure. Aladdin announces he's leaving Magrabah to slay a legendary dragon that terrorizes the northern lands. His journey takes him far beyond any map he's known, crossing vast deserts and the Forbidden Sea to a magical land of green hills and mountains where he meets Prince Eric, a fair-skinned prince on his own quest to awaken a sleeping princess with true love's kiss.

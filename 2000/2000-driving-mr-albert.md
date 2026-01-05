@@ -1,5 +1,5 @@
 # Driving Mr. Albert: A Trip Across America with Einstein's Brain
-**Authors**: Michael Paterniti | **Year**: 2000
+**Authors**: Michael Paterniti | **Year**: 2000 | **Category**: History & Biography
 
 ## Summary
 This remarkable narrative non-fiction work follows author Michael Paterniti's cross-country road trip with Dr. Thomas Harvey, the pathologist who removed Albert Einstein's brain during the 1955 autopsy and kept it for decades. What begins as an urban legend—Einstein's brain missing, preserved by an eccentric doctor—becomes reality when Paterniti tracks down Harvey in Lawrence, Kansas, living next door to William Burroughs. The author impulsively offers to drive the 84-year-old Harvey and the brain to California to meet Einstein's granddaughter, Evelyn.

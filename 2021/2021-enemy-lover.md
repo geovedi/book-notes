@@ -1,5 +1,6 @@
 # Enemy Lover
 **Authors**: Pamela Kent (Ida Pollock) | **Year**: 2021
+**Category**: Romance & Relationships
 
 ## Summary
 Tina Andrews is a humble schoolteacher living in remote England when she encounters an elderly man named Angus Giffard who falls seriously ill. She selflessly nurses him back to health, never knowing he is actually Sir Angus Giffard - a wealthy aristocrat who decides to leave his entire fortune to her in his will. When Sir Angus dies, Tina is suddenly thrust into a world of luxury and family hostility, particularly from the young Sir Angus Giffard who inherits only the title but no money. What begins as intense animosity between Tina and the young Sir Angus gradually transforms into unexpected romance as they navigate family drama and discover their true feelings.

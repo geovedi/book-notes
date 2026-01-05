@@ -1,5 +1,6 @@
 # Shirley
 **Authors**: Charlotte Brontë | **Year**: 1849
+**Category**: Fiction & Literature
 
 ## Summary
 Set in Yorkshire during the industrial unrest of 1812-1814, *Shirley* tells the story of two very different women whose lives intertwine amid social upheaval and personal transformation. The novel explores the impact of industrialization on rural communities, the tensions between mill owners and workers, and the limited choices available to women in early 19th-century England.

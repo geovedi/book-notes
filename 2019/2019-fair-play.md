@@ -1,6 +1,7 @@
 # Fair Play
 **Original Title**: Счастливые семьи играют по правилам
-**Author**: Eve Rodsky | **Year**: 2019 
+**Author**: Eve Rodsky | **Year**: 2019
+**Category**: Romance & Relationships 
 
 ## Summary
 "Fair Play" is a revolutionary system that transforms how couples divide domestic responsibilities to achieve true equality in their relationships. The book addresses the "second shift" phenomenon where women typically carry the burden of both paid work and the majority of household labor and mental load. Rodsky presents a card-based system that helps couples systematically identify, distribute, and own all domestic tasks, from planning and execution to follow-up.

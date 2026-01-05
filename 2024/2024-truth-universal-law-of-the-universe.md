@@ -1,5 +1,6 @@
 # Truth: The Universal Law of the Universe
 **Authors**: Adam De Arma | **Year**: 2024
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This book presents what the author claims is the most important scientific discovery in human history: the identification of a fundamental quantum process called "Truth" that underlies all existence in the universe. The author describes discovering the smallest indivisible particle/process that forms the basis of all matter and phenomena, from subatomic particles to human consciousness to galactic movement. This "Law of Cyclic Transformations" allegedly unifies all scientific disciplines—physics, mathematics, chemistry, biology, philosophy—by demonstrating they are merely different perspectives observing the same fundamental process.

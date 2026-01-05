@@ -1,5 +1,6 @@
 # Suffering, Redemption and Triumph
 **Author**: Peter Brune | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 This powerful historical work examines Australia's first wave of post-war immigration from 1945-1966, telling the intimate stories of European displaced persons who sought refuge and new beginnings in Australia. Through extensive interviews and research, Brune captures the three-part journey: the suffering these immigrants endured during World War II, their redemption through finding safety in Australia, and their ultimate triumph in building new lives while contributing significantly to Australian society.

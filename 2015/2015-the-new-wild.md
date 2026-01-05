@@ -1,5 +1,5 @@
 # The New Wild
-**Authors**: Fred Pearce | **Year**: 2015
+**Authors**: Fred Pearce | **Year**: 2015 | **Category**: Science & Nature
 
 ## Summary
 Fred Pearce's "The New Wild" delivers a provocative challenge to conventional conservation wisdom by arguing that invasive species are not nature's destroyers but rather its salvation in the Anthropocene era. Pearce, an environmental journalist, confronts what he calls "green xenophobia" – the deep-seated belief among conservationists that native species are inherently good while alien species are inherently bad. Through extensive fieldwork across six continents, he reveals how most introduced species either die out quickly or become model ecological citizens that actually enhance biodiversity and ecosystem function.

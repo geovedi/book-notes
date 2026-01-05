@@ -1,6 +1,7 @@
 # Detective Nosegood and the Museum Robbery
 **Original Title**: Jak detektyw Nosek zadziwił Lipki Nowe
 **Authors**: Maria Orłoń | **Year**: 2017 (First published 1976)
+**Category**: Children & Young Adult
 
 ## Summary
 Detective Ambrosius Nosegoode and his remarkably intelligent talking dog Cody solve three clever mysteries in the town of Ashworth. This collection captures the charming adventures of a detective duo where the dog not only understands human language but speaks it fluently, providing crucial insights and comic relief. Each case showcases Nosegoode's sharp deductive reasoning enhanced by Cody's unique canine perspective, creating delightful mysteries that appeal to young readers while demonstrating timeless detective work principles.

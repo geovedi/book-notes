@@ -1,5 +1,6 @@
 # Gods of Eden
 **Author**: William Bramley | **Year**: 1993
+**Category**: Spirituality & Religion
 
 ## Summary
 "Gods of Eden" presents a controversial theory that human history has been manipulated by extraterrestrial beings called "Custodians" who have maintained control over Earth since ancient times. Bramley argues that these entities created humans as a slave race, deliberately suppressed spiritual knowledge, and have used war, disease, and division as tools to keep humanity in bondage. The book traces this alleged influence from ancient Sumerian civilizations through modern times, suggesting that secret societies like the Brotherhood of the Snake were originally created to liberate humanity but were co-opted to serve the Custodians' control agenda.

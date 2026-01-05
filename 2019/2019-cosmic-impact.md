@@ -1,5 +1,6 @@
 # Cosmic Impact: Understanding the Threat to Earth from Asteroids and Comets
 **Authors**: Andrew May | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 "Cosmic Impact" provides a comprehensive yet accessible examination of the very real threat posed by near-Earth objects (NEOs) - asteroids and comets whose orbits cross Earth's path. May dismantles popular misconceptions while presenting sobering scientific evidence about impact risks, from historical cataclysms like the dinosaur extinction 66 million years ago to future possibilities. The book traces our understanding's evolution from ancient superstition through modern planetary defense strategies, making a compelling case that cosmic impacts represent one of nature's most serious threats to civilization.

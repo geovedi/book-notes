@@ -1,6 +1,6 @@
 # 444 Blunders That (Almost) Changed History
 **Original Title**: 444 blunders die de geschiedenis (bijna) hebben veranderd
-**Author**: Herman Boel | **Year**: 2015 | **Language**: Dutch (translated to English summary)
+**Author**: Herman Boel | **Year**: 2015 | **Language**: Dutch (translated to English summary) | **Category**: History & Biography
 
 ## Summary
 This fascinating collection chronicles 444 historical mistakes, blunders, and errors that had the potential to alter the course of history. Drawing from Carlo M. Cipolla's five basic laws of human stupidity, the book demonstrates how foolishness is universal and timeless, affecting everyone regardless of intelligence, wealth, or status. From culinary discoveries born from accidents to military decisions that cost millions of lives, these stories reveal how human error has shaped our world in unexpected ways.

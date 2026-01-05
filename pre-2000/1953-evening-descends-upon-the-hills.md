@@ -1,6 +1,7 @@
 # Evening Descends Upon the Hills
 **Original Title**: Il mare non bagna Napoli (Naples Is Not Bathed by the Sea)
 **Author**: Anna Maria Ortese | **Year**: 1953
+**Category**: Fiction & Literature
 
 ## Summary
 "Evening Descends Upon the Hills" is a groundbreaking collection of five stories that blend fiction and journalism to portray postwar Naples in all its devastating complexity. Ortese presents a city "shattered by war" where suffering and corruption permeate every level of society—from the destitute masses to bourgeois intellectuals. The book caused immediate controversy upon publication, being condemned as "anti-Naples" while simultaneously winning the prestigious Premio Viareggio literary prize.

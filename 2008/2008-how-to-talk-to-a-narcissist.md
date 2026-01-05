@@ -1,5 +1,6 @@
 # How to Talk to a Narcissist
 **Authors**: Joan Lachkar | **Year**: 2008
+**Category**: Psychology & Mental Health
 
 ## Summary
 This groundbreaking guide reveals the secret language for communicating effectively with narcissistic personalities. Lachkar introduces "empathology" - a revolutionary approach that combines empathy with strategic communication techniques to break through narcissistic defenses and create meaningful dialogue.

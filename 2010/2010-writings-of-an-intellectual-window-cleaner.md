@@ -1,6 +1,6 @@
 # Writings of an Intellectual Window Cleaner
 **Original Title**: Geschriften van een intellectuele glazenwasser
-**Author**: Bart Tromp | **Year**: 2010
+**Author**: Bart Tromp | **Year**: 2010 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This posthumous collection brings together the most influential essays, columns, and articles by Bart Tromp (1944-2007), one of the Netherlands' most provocative public intellectuals and political commentators. Tromp was a sociologist, columnist for Het Parool and Elsevier, and fierce polemicist who combined erudite scholarship with sharp, accessible commentary on contemporary politics, international relations, and culture. The title refers to Tromp's self-description as someone who "cleans the windows" of public discourse, cutting through obscurantism and ideological fog to reveal clear thinking.

@@ -1,6 +1,6 @@
 # Princess of Petals
 
-**Authors**: Laura Greenwood | **Year**: 2022
+**Authors**: Laura Greenwood | **Year**: 2022 | **Category**: Fantasy & Science Fiction
 
 ## Summary
 

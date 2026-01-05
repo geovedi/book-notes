@@ -1,5 +1,6 @@
 # The Blind Watchmaker
 **Authors**: Richard Dawkins | **Year**: 1996
+**Category**: Science & Nature
 
 ## Summary
 Richard Dawkins argues that natural selection is a "blind watchmaker" - an unconscious, automatic process that creates the appearance of design without any designer. The book dismantles William Paley's famous argument that biological complexity demands a divine creator, showing instead how cumulative selection can produce intricate life forms through gradual, step-by-step transformations from simple beginnings.

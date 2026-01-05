@@ -1,6 +1,7 @@
 # Gloaming
 **Original Title**: Gloaming
 **Authors**: Charlotte E. English | **Year**: 2017
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 In the enchanted valley of Argantel, a mysterious phenomenon called the Gloaming descends daily, bringing twilight and magic to the crumbling estate of Landricourt. When winemaker Oriane Travere discovers a magical mirror in the cellar, she's transported to a parallel version of Landricourt—a vibrant, thriving version from the past inhabited by otherworldly beings known as the Fae. Her disappearance sets in motion a chain of events that will transform the lives of everyone connected to the estate, revealing deep connections between the human world and the magical realm of the Fae.

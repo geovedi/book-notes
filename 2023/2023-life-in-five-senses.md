@@ -1,5 +1,6 @@
 # Life in Five Senses
 **Author**: Gretchen Rubin | **Year**: 2023
+**Category**: Self-Help & Personal Development
 
 ## Summary
 Gretchen Rubin's "Life in Five Senses" chronicles her year-long journey to reconnect with the world through intentional exploration of her five senses. After a routine eye doctor visit revealed she was at risk for vision loss, Rubin experienced a profound awakening during her walk home, noticing the world with unprecedented intensity and clarity. This experience led her to realize she'd been living "stuck in her head," disconnected from her body, her surroundings, and even the people she loved.

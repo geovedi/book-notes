@@ -1,5 +1,6 @@
 # Body Language: Body Language And Non-Verbal Communication
 **Authors**: Alan Conor | **Year**: 2020
+**Category**: Psychology & Mental Health
 
 ## Summary
 This practical guide demystifies the complex world of non-verbal communication, teaching readers how to interpret body language cues, detect deception, and project confidence without saying a word. The book breaks down the science of body language into four key components: gestures, facial expressions, eye contact, and body posture. Readers will learn how to read others' true emotions, recognize lies through micro-expressions, and use their own body language to appear more approachable and confident in any situation.

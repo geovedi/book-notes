@@ -1,5 +1,6 @@
 # The Wordy Shipmates
 **Author**: Sarah Vowell | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 Sarah Vowell's "The Wordy Shipmates" is a witty and insightful exploration of the Massachusetts Bay Puritans who sailed to America in 1630, focusing on Governor John Winthrop and his fleet of eleven ships, including the flagship Arbella. Through her signature blend of humor and historical analysis, Vowell challenges modern stereotypes of Puritans as boring, judgmental killjoys, revealing them instead as intellectual, literary, and surprisingly complex figures who profoundly shaped American identity and values. The book traces how these "wordy shipmates" — obsessed with books, learning, and biblical interpretation — laid the groundwork for American exceptionalism, founded Harvard just six years after arriving, and created a legacy that continues to influence U.S. foreign policy and national self-understanding.

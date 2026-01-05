@@ -1,6 +1,7 @@
 # 2019 The Call of the Wild & White Fang
 **Original Title**: The Call of the Wild & White Fang (English)
 **Authors**: Jack London | **Year**: 1903 & 1906
+**Category**: Fiction & Literature
 
 ## Summary
 Jack London's masterpiece collection contains two complementary novels that explore the thin line between civilization and wilderness through the eyes of dogs. "The Call of the Wild" follows Buck, a domesticated dog who is kidnapped from his comfortable California home and sold into the brutal world of Alaskan sled dogs during the Klondike Gold Rush. As he adapts to the harsh wilderness, he awakens ancient instincts that gradually draw him back to his primitive origins. "White Fang" tells the reverse story - a wolf-dog hybrid born in the wild who must learn to trust humans and adapt to civilization.

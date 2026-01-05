@@ -1,5 +1,5 @@
 # The Dedalus Book of French Horror
-**Editor**: Terry Hale | **Year**: 2013
+**Editor**: Terry Hale | **Year**: 2013 | **Category**: Horror & Thriller
 
 ## Summary
 This groundbreaking anthology unveils the dark, imaginative world of 19th-century French horror fiction, presenting 24 stories—19 never before published in English—that showcase France's unique contribution to the horror genre. Editor Terry Hale challenges the conventional Anglophone view of French horror by moving beyond the usual suspects (Gautier's vampires, Maupassant's psychological terror) to explore three distinct traditions: the frénétique (frenetic tales of the 1820s-30s), the conte cruel (grim moral fables of the fin-de-siècle), and the conte fantastique (supernatural tales influenced by German Romantics).

@@ -1,5 +1,6 @@
 # The Calendar: The 5000-year Struggle to Align the Clock and the Heavens
 **Authors**: David Ewing Duncan | **Year**: 1999
+**Category**: History & Biography
 
 ## Summary
 This fascinating narrative reveals how humanity's 5,000-year quest to create an accurate calendar represents one of our greatest collective achievements - and ongoing struggles. Duncan frames the calendar as "a net cast over time," humanity's brilliant but imperfect attempt to capture and control the elusive concept of time through systematic measurement. From ancient Egyptian observations of the Nile's flooding cycles to modern atomic clocks that measure time more precisely than Earth itself rotates, this story shows how our relationship with time has shaped civilization, religion, science, and our very understanding of existence.

@@ -1,5 +1,6 @@
 # Agamemnon: A Tragic Tale of Justice and Revenge
 **Authors**: Aeschylus | **Year**: c. 458 BCE
+**Category**: Fiction & Literature
 
 ## Summary
 "Agamemnon" is the first play in Aeschylus' powerful Oresteia trilogy, exploring the ancient cycle of vengeance that plagues the house of Atreus. The play chronicles the homecoming of King Agamemnon from the Trojan War, only to be murdered by his wife Clytemnestra as revenge for sacrificing their daughter Iphigenia to ensure favorable winds for the Greek fleet. Through this tragedy, Aeschylus examines the nature of justice, the corrosive effects of revenge, and the possibility of wisdom emerging from suffering.

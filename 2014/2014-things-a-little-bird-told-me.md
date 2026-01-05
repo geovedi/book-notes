@@ -1,5 +1,5 @@
 # Things a Little Bird Told Me
-**Author**: Biz Stone | **Year**: 2014
+**Author**: Biz Stone | **Year**: 2014 | **Category**: Business & Finance
 
 ## Summary
 This book is Biz Stone's memoir about co-founding Twitter and his journey from broke blogger in his mom's basement to Silicon Valley success. Stone shares the philosophy that guided him through building Twitter and other ventures, emphasizing that creativity, opportunity, and success are all manufactured rather than discovered. The book blends personal anecdotes from his childhood and early career with insider stories from Twitter's creation, offering insights on how constraints breed creativity, how vulnerability builds authentic connections, and how technology can amplify humanity rather than replace it.

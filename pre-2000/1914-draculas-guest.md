@@ -1,5 +1,6 @@
 # Dracula's Guest
 **Authors**: Bram Stoker | **Year**: 1914
+**Category**: Horror & Thriller
 
 ## Summary
 "Dracula's Guest" is a posthumous collection of horror stories by Bram Stoker, best known as the author of "Dracula." The collection features an excised chapter from "Dracula" that gives the book its title, along with eight other chilling tales of supernatural horror, psychological terror, and Gothic suspense. Published two years after Stoker's death by his widow Florence, these stories represent the author's mastery of the horror genre and his ability to create atmospheric tales that tap into primal fears.

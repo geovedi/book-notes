@@ -1,6 +1,7 @@
 # Building Data-Driven Applications with LlamaIndex
 
 **Authors**: Packt Publishing | **Year**: 2024
+**Category**: Technology & Computing
 
 ## Summary
 "Building Data-Driven Applications with LlamaIndex" is a comprehensive guide that introduces developers to the powerful world of Retrieval-Augmented Generation (RAG) and the LlamaIndex framework. The book bridges the gap between static Large Language Model knowledge and dynamic, data-driven applications by teaching readers how to augment LLMs with their own data sources.

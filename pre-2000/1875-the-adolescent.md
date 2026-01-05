@@ -1,5 +1,6 @@
 # The Adolescent
 **Original Title**: Подросток (Podrostok) | **Author**: Fyodor Dostoyevsky | **Year**: 1875
+**Category**: Fiction & Literature
 
 ## Summary
 "The Adolescent" is a psychological novel that chronicles the turbulent journey of Arkady Dolgoruky, a 21-year-old illegitimate son of a former serf who becomes obsessed with proving his worth in Russian society. Living in the shadow of his biological father, the aristocratic Versilov, Arkady navigates a complex web of family dysfunction, unrequited love, and ideological confusion as he searches for his identity and purpose in the rapidly changing social landscape of 19th-century Russia.

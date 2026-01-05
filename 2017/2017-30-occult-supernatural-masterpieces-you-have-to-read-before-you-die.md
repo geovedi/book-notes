@@ -1,5 +1,6 @@
 # 30 Occult & Supernatural Masterpieces You Have to Read Before You Die
 **Authors**: Various Authors (Washington Irving, Henry James, Oscar Wilde, M.R. James, and others) | **Year**: 2017
+**Category**: Horror & Thriller
 
 ## Summary
 This comprehensive anthology gathers thirty of the most influential supernatural and occult stories from literary history, carefully curated by Golden Deer Classics. Spanning from the 19th century to early 20th century, the collection represents the evolution of ghost fiction and supernatural tales, from classic Gothic horror to Victorian psychological thrillers and early paranormal investigation narratives.

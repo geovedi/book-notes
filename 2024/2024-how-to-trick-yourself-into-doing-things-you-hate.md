@@ -1,5 +1,6 @@
 # How to Trick Yourself Into Doing Things You Hate
 **Authors**: Peter Hollins | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book reveals the counterintuitive truth about taking action: you don't need motivation to start—action creates motivation. Peter Hollins dismantles the myth that we must feel inspired or ready to tackle difficult tasks, instead offering practical psychological strategies to overcome procrastination, fear, and self-doubt. The core premise is that developing a "bias for action" is a trainable skill that anyone can cultivate, regardless of their current habits or mindset.

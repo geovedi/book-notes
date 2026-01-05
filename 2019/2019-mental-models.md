@@ -1,5 +1,6 @@
 # Mental Models
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 Mental Models presents 30 thinking tools designed to enhance decision-making, logical analysis, and problem-solving abilities. Drawing from Charlie Munger's concept of building a "latticework of mental models," the book argues that having multiple frameworks for understanding the world prevents us from becoming like "the man with only a hammer, to whom every problem looks like a nail."

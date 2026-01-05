@@ -1,5 +1,5 @@
 # Conspiracy of Silence: UFOs in Ireland
-**Authors**: Carl Nally, Dermot Butler | **Year**: 2006
+**Authors**: Carl Nally, Dermot Butler | **Year**: 2006 | **Category**: Science & Nature
 
 ## Summary
 "Conspiracy of Silence" is a groundbreaking investigation into UFO phenomena over Ireland, challenging the perception that Ireland is somehow immune to the mysterious aerial objects reported worldwide. The authors, experienced UFO researchers, present compelling evidence from pilot sightings, military encounters, civilian witnesses, and documented official investigations that suggest Ireland has been part of the global UFO phenomenon for decades.

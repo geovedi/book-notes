@@ -1,5 +1,6 @@
 # Long Walk to Freedom
 **Author**: Nelson Mandela | **Year**: 1994
+**Category**: History & Biography
 
 ## Summary
 Nelson Mandela's autobiography chronicles his extraordinary journey from a rural village childhood to becoming South Africa's first Black president and one of history's most iconic freedom fighters. Spanning over eight decades, the book details his transformation from a young man shaped by traditional Xhosa culture to a revolutionary leader who spent 27 years in prison for fighting against apartheid, ultimately emerging to lead his nation through a peaceful transition to democracy.

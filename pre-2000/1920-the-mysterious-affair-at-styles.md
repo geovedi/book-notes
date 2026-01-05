@@ -1,5 +1,6 @@
 # The Mysterious Affair at Styles
 **Authors**: Agatha Christie | **Year**: 1920
+**Category**: Horror & Thriller
 
 ## Summary
 "The Mysterious Affair at Styles" is Agatha Christie's debut novel and the first appearance of the legendary detective Hercule Poirot. Set in an English country estate during World War I, the story follows Captain Hastings, an invalided soldier who becomes entangled in a murder investigation when his hostess Emily Inglethorp dies suddenly from strychnine poisoning. Hastings teams up with the brilliant Belgian refugee Hercule Poirot, whose famous "little grey cells" and methodical approach to detective work would revolutionize the mystery genre.

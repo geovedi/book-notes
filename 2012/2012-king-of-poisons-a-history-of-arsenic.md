@@ -1,5 +1,6 @@
 # 2012 King of Poisons: A History of Arsenic
 **Author**: John Parascandola | **Year**: 2012
+**Category**: Health & Medicine
 
 ## Summary
 "King of Poisons" traces the fascinating 2,000-year history of arsenic, exploring its dual nature as both a deadly toxin and a valuable medicine. The book spans from ancient civilizations to modern times, examining how this element has shaped history through criminal poisonings, medical breakthroughs, industrial applications, and environmental challenges. Parascandola reveals how arsenic earned its reputation as the "poison of poisons" while paradoxically becoming one of medicine's most important treatments.

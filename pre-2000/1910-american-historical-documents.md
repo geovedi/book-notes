@@ -1,6 +1,7 @@
 # American Historical Documents
 **Original Title**: Harvard Classics Volume 43: American Historical Documents, 1000-1904
 **Authors**: Charles William Eliot (Editor) | **Year**: 1910
+**Category**: History & Biography
 
 ## Summary
 This extraordinary collection presents 73 primary historical documents that span over 900 years of American history, from Viking voyages around 1000 CE to the Panama Canal Convention of 1904. Rather than providing historians' interpretations, this volume lets readers experience the actual words of the people who shaped American history—from Leif Ericsson's sagas to Lincoln's Gettysburg Address—providing an unfiltered view of America's political evolution and the formation of its core principles.

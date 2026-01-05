@@ -1,5 +1,6 @@
 # Change by Design
 **Authors**: Tim Brown, Barry Katz | **Year**: 2009
+**Category**: Business & Finance
 
 ## Summary
 Change by Design introduces design thinking as a powerful, accessible approach to innovation that can transform organizations and address complex societal challenges. Tim Brown, CEO of IDEO, argues that design thinking moves beyond traditional design by integrating human needs, technological feasibility, and business viability into a holistic methodology for creative problem-solving. The book presents design thinking not as an exclusive domain of designers, but as a set of principles and practices that anyone can apply to generate breakthrough ideas and meaningful change.

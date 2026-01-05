@@ -1,5 +1,5 @@
 # Speed Reading: A Beginner's Guide for Increasing Your Reading Speed by 300%
-**Authors**: Peter Jenner | **Year**: 2016
+**Authors**: Peter Jenner | **Year**: 2016 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide teaches readers how to triple their reading speed using simple, actionable techniques. The book breaks down speed reading into visual methods rather than traditional sub-vocalization, helping readers process text in chunks while maintaining comprehension. Perfect for students, professionals, and anyone looking to maximize their reading efficiency without sacrificing understanding.

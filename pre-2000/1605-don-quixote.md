@@ -1,6 +1,7 @@
 # Don Quixote
 **Original Title**: Don Quijote de la Mancha
 **Authors**: Miguel de Cervantes | **Year**: 1605 (Part I), 1615 (Part II)
+**Category**: Fiction & Literature
 
 ## Summary
 In a village of La Mancha, a country gentleman named Alonso Quijano becomes so obsessed with reading tales of chivalry that he loses his sanity and decides to become a knight-errant, naming himself Don Quixote. With his horse Rocinante and his faithful squire Sancho Panza, he embarks on a series of misadventures across Spain, battling windmills he believes are giants and mistaking inns for castles.

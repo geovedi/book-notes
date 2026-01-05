@@ -1,5 +1,6 @@
 # Soldiers
 **Authors**: Ambrose Bierce | **Year**: 1891 (Collection published in Volume 2 of Collected Works)
+**Category**: Fiction & Literature
 
 ## Summary
 Ambrose Bierce's "Soldiers" is a masterful collection of Civil War stories that stands as one of literature's most unflinching examinations of warfare. Written by someone who actually served in the conflict, these stories strip away romantic notions of battle to reveal its brutal psychological and physical realities. Bierce, known as "Bitter Bierce" for his cynical wit, brings the same sharp, unsparing perspective to these tales of ordinary soldiers caught in extraordinary circumstances.

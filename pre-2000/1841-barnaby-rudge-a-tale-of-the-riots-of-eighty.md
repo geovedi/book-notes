@@ -1,5 +1,6 @@
 # Barnaby Rudge: A Tale of the Riots of Eighty
 **Authors**: Charles Dickens | **Year**: 1841
+**Category**: Fiction & Literature
 
 ## Summary
 Set against the backdrop of the 1780 Gordon Riots in London, this historical novel weaves together multiple storylines centered on Barnaby Rudge, a simple-minded youth with his pet raven Grip, whose life becomes entangled with the anti-Catholic mob violence that swept through London. The narrative begins decades earlier with the unsolved murder of Reuben Haredale, establishing a mystery that drives much of the plot's intrigue. As the "No Popery" riots erupt, Dickens masterfully portrays how ordinary people are swept up in extraordinary violence, exploring themes of religious intolerance, mob psychology, and the thin line between sanity and madness.

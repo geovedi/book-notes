@@ -1,5 +1,6 @@
 # Why You Can't Go
 **Authors**: Lorraine Cooney, Registered Dietitian | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 "Why You Can't Go" is a comprehensive guide to understanding and managing constipation, written by registered dietitian Lorraine Cooney. The book breaks down the science behind digestive health, destigmatizes bowel discussions, and provides practical, evidence-based strategies for relief. Cooney combines clinical experience with scientific research to offer a holistic approach that addresses diet, lifestyle, stress, and behavioral factors affecting bowel health.

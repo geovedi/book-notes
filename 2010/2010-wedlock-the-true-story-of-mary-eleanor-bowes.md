@@ -1,5 +1,5 @@
 # Wedlock: The True Story of the Disastrous Marriage and Remarkable Divorce of Mary Eleanor Bowes, Countess of Strathmore
-**Author**: Wendy Moore | **Year**: 2010
+**Author**: Wendy Moore | **Year**: 2010 | **Category**: History & Biography
 
 ## Summary
 

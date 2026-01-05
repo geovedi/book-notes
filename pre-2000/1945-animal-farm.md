@@ -1,5 +1,6 @@
 # Animal Farm
 **Authors**: George Orwell | **Year**: 1945
+**Category**: Fiction & Literature
 
 ## Summary
 Animal Farm is a powerful political allegory that tells the story of a group of farm animals who overthrow their human owner and establish their own self-governing society. Led by the intelligent pigs, the animals initially create a utopian community based on equality and freedom from human oppression. However, their revolutionary ideals gradually corrupt as the pig leadership, particularly Napoleon, becomes increasingly tyrannical, eventually mirroring the very human cruelty they sought to escape.

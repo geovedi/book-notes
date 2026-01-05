@@ -1,5 +1,5 @@
 # Mastering Business Social Media Marketing in Theory & Practice
-**Authors**: Neil Hoechlin | **Year**: 2018
+**Authors**: Neil Hoechlin | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies social media marketing by providing practical strategies for businesses to effectively leverage social platforms. The book covers fundamental preparation steps, platform-specific tactics, campaign management, integration with other marketing channels, and performance measurement. It emphasizes the importance of understanding your audience, creating authentic content, building relationships with influencers, and maintaining consistent engagement across platforms.

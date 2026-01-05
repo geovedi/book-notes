@@ -1,7 +1,7 @@
 # Fear: Trump in the White House
 **Original Title**: Fear
 **Author**: Bob Woodward | **Year**: 2018
-**Language**: Dutch translation (Original: English)
+**Language**: Dutch translation (Original: English) | **Category**: History & Biography
 
 ## Summary
 Fear provides an unprecedented, behind-the-scenes look at the first two years of Donald Trump's presidency through meticulous investigative journalism. Based on hundreds of hours of interviews with firsthand sources, confidential documents, and meeting notes, Bob Woodward reveals a White House characterized by chaos, internal power struggles, and senior officials routinely working to contain the president's most dangerous impulses. The book paints a portrait of an administration where "adults in the room" – including chief of staff John Kelly, defense secretary James Mattis, economic advisor Gary Cohn, and White House secretary Rob Porter – formed what amounted to an administrative resistance, regularly removing documents from the president's desk to prevent catastrophic policy decisions.

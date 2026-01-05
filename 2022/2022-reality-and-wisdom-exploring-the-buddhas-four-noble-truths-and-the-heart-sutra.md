@@ -1,6 +1,6 @@
 # Reality and Wisdom: Exploring the Buddha's Four Noble Truths and the Heart Sutra
 
-**Author**: Khenpo Migmar Tseten | **Year**: 2022
+**Author**: Khenpo Migmar Tseten | **Year**: 2022 | **Category**: Spirituality & Religion
 
 ## Summary
 "Reality and Wisdom" is a comprehensive exploration of two foundational Buddhist teachings that serve as cornerstones of understanding the nature of existence and the path to liberation. Khenpo Migmar Tseten, a respected Tibetan Buddhist master, presents these profound teachings in a warm, accessible style that bridges scholarly understanding with practical application.

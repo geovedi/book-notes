@@ -1,5 +1,6 @@
 # The Engineers and the Price System
 **Authors**: Thorstein Veblen | **Year**: 1921
+**Category**: Business & Finance
 
 ## Summary
 Thorstein Veblen's groundbreaking critique examines the fundamental conflict between industrial efficiency and business profit under the price system. Written in 1921, the book exposes how business management systematically sabotages production capacity to maintain profitable prices, creating artificial scarcity despite technological advances that could eliminate want. Veblen argues that engineers and technical experts, not business owners or financiers, should control industrial production to serve actual human needs rather than generate profits for absentee owners.

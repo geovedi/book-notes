@@ -1,5 +1,6 @@
 # Gogol's Short Fiction Collection
 **Original Title**: Сборник рассказов (Sbornik rasskazov) | **Authors**: Nikolai Gogol | **Year**: 1831-1842
+**Category**: Fiction & Literature
 
 ## Summary
 Nikolai Gogol's short fiction collection represents some of the most influential Russian literature of the 19th century, blending supernatural folklore, social satire, and profound psychological insight. Written between 1831 and 1842, these stories showcase Gogol's masterful ability to traverse the boundaries between reality and fantasy, comedy and tragedy, the mundane and the miraculous. The collection captures the essence of Ukrainian and Russian provincial life while exploring universal themes of human nature, bureaucracy, and spiritual yearning.

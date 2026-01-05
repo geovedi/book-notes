@@ -1,6 +1,6 @@
 # Zarathustra's Revenge
 **Original Title**: La vendetta di Zarathustra
-**Authors**: Hakim Bey (Peter Lamborn Wilson) | **Year**: 2005
+**Authors**: Hakim Bey (Peter Lamborn Wilson) | **Year**: 2005 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 *Zarathustra's Revenge* is a explosive collection of radical philosophical essays that serves as Hakim Bey's blistering critique of contemporary society, technology, and bourgeois consciousness. Written in his signature style that mixes cut-up techniques, punk rock energy, and Sufi mysticism, the book challenges readers to question everything from digital surveillance to sustainable development, from Celtic heritage to the very nature of consciousness itself.

@@ -1,5 +1,5 @@
 # Cliffs End Farm, Isle of Thanet, Kent
-**Authors**: Jacqueline I. McKinley, Matt Leivers, Jörn Schuster, Peter Marshall, Alistair J. Barclay, Nick Stoodley | **Year**: 2014
+**Authors**: Jacqueline I. McKinley, Matt Leivers, Jörn Schuster, Peter Marshall, Alistair J. Barclay, Nick Stoodley | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 Cliffs End Farm reveals an extraordinary archaeological site that served as a mortuary and ritual center for over 2,000 years, with the most remarkable discovery being scientific proof of long-distance maritime mobility between Britain and continental Europe during the Bronze Age and Iron Age. The site, located on the southern edge of the Isle of Thanet overlooking Pegwell Bay, contained human remains of individuals who had traveled from Scandinavia, the Mediterranean, and other distant regions to this important coastal gateway.

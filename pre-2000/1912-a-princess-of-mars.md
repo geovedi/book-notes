@@ -1,5 +1,6 @@
 # A Princess of Mars
 **Authors**: Edgar Rice Burroughs | **Year**: 1912
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 John Carter, a former Confederate captain prospecting in Arizona, finds himself mysteriously transported to Mars (called "Barsoom" by its inhabitants). There he discovers a dying planet with ancient cities, warring civilizations, and strange creatures. Due to Mars' lower gravity, Carter possesses extraordinary strength and agility. He's captured by the nomadic green Martians (Tharks), including the fierce warrior Tars Tarkas.

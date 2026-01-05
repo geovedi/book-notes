@@ -1,6 +1,7 @@
 # The Scattered Brain
 **Original Title**: Het verstrooide brein
 **Authors**: Gabor Maté | **Year**: 1999
+**Category**: Health & Medicine
 
 ## Summary
 "The Scattered Brain" offers a revolutionary perspective on Attention Deficit Disorder (ADD) written from the unique viewpoint of a physician who has ADD himself. Dr. Gabor Maté challenges the conventional understanding of ADD as a genetic disease, reframing it instead as a reversible developmental delay rooted in early childhood experiences. The book presents a hopeful vision for neurological healing while providing practical guidance for parents, adults with ADD, and professionals working with affected individuals.

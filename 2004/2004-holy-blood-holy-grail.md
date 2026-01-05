@@ -1,5 +1,5 @@
 # Holy Blood, Holy Grail
-**Authors**: Michael Baigent, Richard Leigh, Henry Lincoln | **Year**: 2004
+**Authors**: Michael Baigent, Richard Leigh, Henry Lincoln | **Year**: 2004 | **Category**: Spirituality & Religion
 
 ## Summary
 "Holy Blood, Holy Grail" presents a controversial alternative history of Christianity that challenges traditional biblical narratives. The book investigates a mysterious treasure discovered in the French village of Rennes-le-Château in the 19th century, which leads the authors down a historical rabbit hole involving secret societies, forgotten dynasties, and a potentially world-altering secret about Jesus.

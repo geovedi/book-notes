@@ -1,5 +1,5 @@
 # On Writing
-**Author**: Stephen King | **Year**: 2000
+**Author**: Stephen King | **Year**: 2000 | **Category**: Art & Creativity
 
 ## Summary
 Stephen King's "On Writing" is both a memoir and a practical guide to the craft of writing. Part autobiography, part masterclass, this book reveals King's journey from struggling writer to bestselling author while sharing his fundamental principles of good writing. The book is structured around King's famous "writer's toolbox" metaphor - a collection of essential skills and habits that every writer needs.

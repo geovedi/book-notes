@@ -1,6 +1,7 @@
 # Become a Studying and Learning Machine
 
 **Authors**: Peter Hollins | **Year**: 2024
+**Category**: Self-Help & Personal Development
 
 ## Summary
 

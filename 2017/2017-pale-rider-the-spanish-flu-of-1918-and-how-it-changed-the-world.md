@@ -1,5 +1,6 @@
 # Pale Rider: The Spanish Flu of 1918 and How It Changed the World
 **Author**: Laura Spinney | **Year**: 2017
+**Category**: Health & Medicine
 
 ## Summary
 Laura Spinney reveals that the 1918 Spanish flu pandemic was the most catastrophic event of the 20th century, killing 50-100 million people—more than both World Wars combined—yet it remains curiously absent from our collective historical memory. The pandemic infected one in three people worldwide, accelerating social, political, and scientific changes that fundamentally shaped the modern world.

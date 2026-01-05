@@ -1,5 +1,6 @@
 # Red Cavalry
 **Original Title**: Конармия (Konarmiya) | **Author**: Isaac Babel | **Year**: 1926
+**Category**: Fiction & Literature
 
 ## Summary
 Red Cavalry is a masterpiece of short fiction that presents a fragmented, brutal vision of war through the eyes of an intellectual Jewish journalist serving with the Cossack cavalry during the Polish-Soviet War (1919-1921). Babel transforms the chaos of battle into startling, poetic vignettes that capture the collision between revolutionary ideals and human reality. The narrator, a man of letters and contemplation, finds himself both fascinated and horrified by the primitive violence of the Cossack warriors he accompanies.

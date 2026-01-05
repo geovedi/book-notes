@@ -1,5 +1,6 @@
 # The Monkey's Paw
 **Authors**: W.W. Jacobs | **Year**: 1902
+**Category**: Horror & Thriller
 
 ## Summary
 A chilling horror tale about the consequences of tampering with fate, centered around a cursed mummified monkey's paw that grants its owner three wishes - each with a terrible price. When the White family acquires this sinister artifact from a mysterious soldier, their skepticism turns to horror as wishes granted bring not fortune, but tragedy in disturbingly literal ways.

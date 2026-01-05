@@ -1,5 +1,6 @@
 # 2017-Procrastination Self-Assessment Toolkit
 **Authors**: Mira Jelica | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This practical toolkit serves as a diagnostic and solution-oriented guide for understanding and overcoming procrastination. The book begins with a comprehensive 10-question self-assessment quiz that helps readers identify their procrastination patterns, followed by detailed categorization into three main procrastinator types. It then provides targeted solutions based on the specific fears and pain points that drive procrastination behaviors.

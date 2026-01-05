@@ -1,5 +1,6 @@
 # Cannibalism: A Perfectly Natural History
 **Author**: Bill Schutt | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Cannibalism: A Perfectly Natural History" is a fascinating scientific exploration that challenges our deepest taboos by examining cannibalism from a biological and anthropological perspective. Zoologist Bill Schutt reveals that far from being rare or aberrant, cannibalism is a widespread and evolutionarily successful strategy found throughout the natural kingdom—from insects and amphibians to mammals and potentially even humans.

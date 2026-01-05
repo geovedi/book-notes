@@ -1,5 +1,6 @@
 # Stranded
 **Original Title**: En Rade | **Author**: J.-K. Huysmans | **Year**: 1887
+**Category**: Fiction & Literature
 
 ## Summary
 "Stranded" follows Jacques Marles, a Parisian man whose financial ruin and wife's mysterious illness force him to seek refuge in a crumbling, abandoned château in the French countryside. After losing his savings to a banker's bankruptcy and fleeing creditors, Jacques retreats with his wife Louise to her uncle Antoine, the château's caretaker. The novel masterfully blends stark naturalist realism with hallucinatory dream sequences as Jacques's exhausted mind retreats into increasingly bizarre visions while surrounded by the decay of both the physical structure and his own circumstances.

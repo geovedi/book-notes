@@ -1,5 +1,6 @@
 # The Harvard Classics Lectures
 **Authors**: Charles W. Eliot (Editor), William Allan Neilson (Editor) | **Year**: 1914
+**Category**: Fiction & Literature
 
 ## Summary
 "The Harvard Classics Lectures" Volume 51 serves as a comprehensive guide to understanding the monumental 50-volume "Five-Foot Shelf" collection compiled by Charles W. Eliot. This volume brings together distinguished Harvard professors who provide illuminating introductions and analytical frameworks for approaching the foundational works of Western civilization across multiple disciplines. The lectures transform the vast collection from an intimidating library into an accessible, structured educational experience, opening the door for ambitious readers whose formal education was cut short but who seek intellectual cultivation through dedicated self-study.

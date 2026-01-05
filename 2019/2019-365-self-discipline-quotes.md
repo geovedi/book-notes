@@ -1,5 +1,6 @@
 # 365 Self-Discipline Quotes
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This daily quote collection delivers a year's worth of wisdom on building self-discipline through the insights of philosophers, athletes, business leaders, and historical figures. The book operates on a powerful premise: success comes from mindset (80%) rather than strategies (20%), making daily inspiration the foundation for lasting change.

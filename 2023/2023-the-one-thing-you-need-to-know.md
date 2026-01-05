@@ -1,5 +1,6 @@
 # The One Thing You Need to Know
 **Authors**: Marcus Chown | **Year**: 2023
+**Category**: Science & Nature
 
 ## Summary
 This book presents 21 fundamental scientific concepts through a unique lens: each topic is distilled down to "the one thing you need to know" – the single foundational insight from which everything else follows. Chown's approach makes complex physics and science accessible by identifying the core principles that govern our universe, from gravity's cumulative effects to quantum mechanics' probabilistic nature. The book is designed for time-poor readers who want to grasp deep scientific concepts quickly without oversimplification.

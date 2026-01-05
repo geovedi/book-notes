@@ -1,5 +1,5 @@
 # Bellevue: Three Centuries of Medicine and Mayhem at America's Most Storied Hospital
-**Authors**: David Oshinsky | **Year**: 2016
+**Authors**: David Oshinsky | **Year**: 2016 | **Category**: Health & Medicine
 
 ## Summary
 David Oshinsky's comprehensive history traces Bellevue Hospital's remarkable 220-year journey from a one-room almshouse infirmary to America's most iconic public hospital. Through Bellevue's story, readers witness the evolution of American medicine itself—from primitive practices based on "humors" and "miasma theory" to cutting-edge innovations like cardiac catheterization and forensic science. The hospital consistently served New York City's most vulnerable populations: immigrants fleeing famine, victims of epidemics like yellow fever and AIDS, the mentally ill, and the homeless. Bellevue pioneered America's first ambulance service, maternity ward, emergency room, and nursing school, while grappling with controversy from Nellie Bly's undercover exposé on mental health conditions to the murder of a physician by a former patient. Despite countless challenges—overcrowding, budget cuts, natural disasters, and being at ground zero for every major health crisis—the hospital has remained a beacon of hope and medical advancement.

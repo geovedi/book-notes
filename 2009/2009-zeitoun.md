@@ -1,5 +1,6 @@
 # Zeitoun
 **Authors**: Dave Eggers | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 Zeitoun tells the remarkable true story of Abdulrahman Zeitoun, a Syrian-American businessman and successful painting contractor in New Orleans who chose to stay behind during Hurricane Katrina to protect his property and help with rescue efforts. His decision transforms him from a respected community member into an unlikely hero, navigating the flooded streets in a secondhand canoe to save elderly neighbors and feed stranded dogs. However, his heroic acts quickly turn into a nightmare when he's arrested without charges, labeled a terrorist, and imprisoned in a makeshift outdoor detention center modeled after Guantánamo Bay.

@@ -1,5 +1,5 @@
 # Killing Yourself to Live
-**Authors**: Chuck Klosterman | **Year**: 2006
+**Authors**: Chuck Klosterman | **Year**: 2006 | **Category**: Fiction & Literature
 
 ## Summary
 Music writer Chuck Klosterman drives 6,557 miles across America visiting the death sites of famous rock musicians, particularly those who died at age 27. His assignment for Spin magazine becomes a journey to understand why death—especially dying young—seems to be "the greatest career move any musician can make."

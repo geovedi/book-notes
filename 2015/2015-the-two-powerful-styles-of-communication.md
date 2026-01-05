@@ -1,5 +1,6 @@
 # The Two Powerful Styles of Communication
 **Authors**: Aiden Sisko | **Year**: 2015
+**Category**: Business & Finance
 
 ## Summary
 This book reveals two fundamental communication styles—Direct and Indirect—that determine your effectiveness as a communicator, leader, and persuader. The key premise is that choosing the wrong style at the wrong time can permanently damage your credibility and relationships, while mastering both styles allows you to perfectly calibrate your approach for maximum influence.

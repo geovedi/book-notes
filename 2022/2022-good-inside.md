@@ -1,5 +1,5 @@
 # Good Inside: A Guide to Becoming the Parent You Want to Be
-**Author**: Becky Kennedy | **Year**: 2022
+**Author**: Becky Kennedy | **Year**: 2022 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Good Inside" presents a revolutionary approach to parenting that shifts from behavior modification to emotional connection. Dr. Becky Kennedy argues that both parents and children are inherently "good inside"—compassionate, loving, and generous at their core. The book challenges traditional behaviorist parenting methods that focus on controlling behavior through rewards and punishments, instead proposing that we should view behavior as a window into a child's unmet needs and emotional state. Kennedy provides practical strategies for building connection capital while maintaining firm boundaries, helping parents develop their child's resilience rather than just seeking immediate happiness. This approach allows parents to be both sturdy leaders and emotionally connected to their children, creating lasting change through understanding rather than control.

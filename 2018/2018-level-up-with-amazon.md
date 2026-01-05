@@ -1,5 +1,6 @@
 # Level Up With Amazon
 **Authors**: Tashema Lindsey | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Level Up With Amazon" is a comprehensive guide showcasing 50 distinct ways to generate income through Amazon's vast ecosystem, regardless of age, skill level, or location. The book transforms Amazon from a simple shopping platform into a career-building opportunity network, spanning entrepreneurship, technology, content creation, and traditional employment.

@@ -1,5 +1,6 @@
 # A Christmas Carol in Prose: Being a Ghost Story of Christmas
 **Authors**: Charles Dickens | **Year**: 1843
+**Category**: Fiction & Literature
 
 ## Summary
 Ebenezer Scrooge, a bitter and miserly old businessman, undergoes a profound Christmas Eve transformation when visited by the ghost of his former business partner Jacob Marley and three spirits of Christmas. Through supernatural interventions revealing his past, present, and future, Scrooge learns the true meaning of compassion, generosity, and human connection before embracing a complete change of heart.

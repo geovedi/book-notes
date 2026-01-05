@@ -1,5 +1,5 @@
 # Mastering Fear
-**Authors**: Brandon Webb, John David Mann | **Year**: 2018
+**Authors**: Brandon Webb, John David Mann | **Year**: 2018 | **Category**: Psychology & Mental Health
 
 ## Summary
 "Mastering Fear" presents a revolutionary approach to fear not as an enemy to be conquered, but as an ally to be harnessed. Drawing from his experiences as a Navy SEAL and sniper instructor, Webb reveals how fear can become your most powerful weapon when properly understood and directed. The book argues that the real battleground is in your mind, and victory comes from changing the conversation in your head rather than eliminating fear itself.

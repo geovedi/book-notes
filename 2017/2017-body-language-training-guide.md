@@ -1,5 +1,6 @@
 # Body Language Training Guide
 **Authors**: Sam Reddington | **Year**: 2017
+**Category**: Psychology & Mental Health
 
 ## Summary
 This practical guide reveals how your body constantly communicates messages about your thoughts, feelings, and confidence levels. The book demonstrates that by understanding and consciously controlling your body language, you can enhance your personal relationships, business interactions, and overall social effectiveness.

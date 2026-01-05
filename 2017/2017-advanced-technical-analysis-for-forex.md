@@ -1,5 +1,6 @@
 # Advanced Technical Analysis for Forex
 **Authors**: Wayne Walker | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Advanced Technical Analysis for Forex" is a comprehensive guide that takes traders beyond basic chart reading into sophisticated market analysis techniques. The book bridges the gap between fundamental knowledge and professional-level trading strategies, focusing on practical applications that can immediately improve trading performance. Walker emphasizes that technical analysis is not about prediction but about probability management and risk control.

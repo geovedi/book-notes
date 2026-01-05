@@ -1,5 +1,6 @@
 # How to Make $2,000 Selling Clothes on eBay
 **Authors**: Rubynnia Blues | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how to turn your closet clutter into cash by selling clothes on eBay. The author shares her personal experience of making $2,000 by clearing out her own wardrobe, proving that anyone can create a profitable side business from unwanted clothing items. The book provides a complete roadmap from setting up accounts to scaling your eBay clothing business.

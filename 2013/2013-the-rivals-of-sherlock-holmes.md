@@ -1,5 +1,5 @@
 # The Rivals of Sherlock Holmes
-**Authors**: Nick Rennison (Editor) | **Year**: 2013
+**Authors**: Nick Rennison (Editor) | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 This anthology showcases fifteen detective stories from the golden age of crime fiction (1890-1914), featuring the forgotten competitors who challenged Sherlock Holmes' dominance. While Holmes reigned supreme as the undisputed king of fictional detectives, he was far from alone in solving mysteries in the gaslit streets of Victorian and Edwardian England. The stories reveal how writers creatively differentiated their detectives through unique characteristics, specialized knowledge, or distinctly different approaches to crime-solving.

@@ -1,6 +1,7 @@
 # The Undesirable Truths: How History Is Falsified - The Pasteur Case
 **Original Title**: Les Vérités indésirables - Comment on falsifie l'Histoire - Le cas Pasteur
 **Author**: Philippe Decourt | **Year**: 1989
+**Category**: Science & Nature
 
 ## Summary
 This explosive historical investigation challenges one of science's most sacred legends: Louis Pasteur's supposed discoveries. Dr. Philippe Decourt, a member of the International Academy of History and Medicine, spent decades examining original scientific documents from the 19th century and discovered that much of what we believe about Pasteur is deliberately falsified history.

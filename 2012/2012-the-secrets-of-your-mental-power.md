@@ -1,5 +1,6 @@
 # The Secrets Of Your Mental Power
 **Authors**: William Walker Atkinson | **Year**: 2012
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This essential collection of Atkinson's writings reveals the fundamental principles of mental power and personal transformation. The book explores how our thoughts shape reality, the universal laws governing consciousness, and practical methods for developing innate mental faculties. Atkinson presents a comprehensive system for understanding human nature through both inner states and outer forms, demonstrating how the mind influences physical expression and vice versa. The work bridges psychology, metaphysics, and practical self-development, offering readers a roadmap to unlock their latent potential and achieve success through conscious mental cultivation.

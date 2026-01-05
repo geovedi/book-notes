@@ -1,5 +1,5 @@
 # How To Talk To Absolutely Anyone
-**Author**: Mark Rhodes | **Year**: 2013
+**Author**: Mark Rhodes | **Year**: 2013 | **Category**: Psychology & Mental Health
 
 ## Summary
 This practical guide transforms communication anxiety into confident connection through a systematic four-stage framework. Rhodes reveals that the biggest barrier to speaking with anyone isn't lack of social skills, but rather fear-based thinking patterns that hold us back. The book demystifies conversation as a learnable skill rather than an innate talent, offering concrete techniques for overcoming social anxiety, reading people's approachability, and guiding interactions toward desired outcomes.

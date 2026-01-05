@@ -1,5 +1,6 @@
 # No One Understands You and What to Do About It
 **Author**: Heidi Grant Halvorson | **Year**: 2015
+**Category**: Psychology & Mental Health
 
 ## Summary
 

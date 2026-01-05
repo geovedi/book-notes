@@ -1,6 +1,6 @@
 # Truus van Lier: The Life of a Resistance Woman
 **Original Title**: Truus van Lier: Het leven van een verzetsvrouw
-**Author**: Jessica van Geel | **Year**: 2022
+**Author**: Jessica van Geel | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 This compelling biography reconstructs the extraordinary life of Truus van Lier, a 22-year-old Dutch law student who became the first Dutch woman to be executed for her resistance activities during World War II. Born in Utrecht in 1921 to a progressive family with strong social values, Truus evolved from an idealistic student to a courageous freedom fighter who carried out one of the most significant acts of resistance against the Nazi regime in the Netherlands.

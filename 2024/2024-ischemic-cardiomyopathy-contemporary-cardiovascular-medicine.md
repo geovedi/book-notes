@@ -1,6 +1,7 @@
 # Ischemic Cardiomyopathy: Contemporary Medical Guide
 
 **Authors**: Multiple contributors | **Year**: 2024
+**Category**: Health & Medicine
 
 ## Summary
 

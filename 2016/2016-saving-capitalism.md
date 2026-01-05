@@ -1,5 +1,5 @@
 # Saving Capitalism
-**Authors**: Robert Reich | **Year**: 2016
+**Authors**: Robert Reich | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 Robert Reich's "Saving Capitalism" argues that the "free market" is a myth - markets don't exist in nature but are created by governments through rules. Since the 1980s, large corporations, Wall Street, and the wealthy have gained disproportionate influence over these rules, reshaping them to channel wealth upward. This creates what Reich calls "predistribution" - an invisible upward redistribution embedded within market mechanisms themselves. The book challenges the prevailing debate between "free market" versus "government" as fundamentally false, arguing that the real question is who makes the rules and whom they serve.

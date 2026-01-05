@@ -1,6 +1,6 @@
 # Paris Nevertheless
 **Original Title**: Paris quand même
-**Author**: Jean-Christophe Bailly | **Year**: 2022 
+**Author**: Jean-Christophe Bailly | **Year**: 2022 | **Category**: History & Biography 
 
 ## Summary
 "Paris quand même" (Paris Nevertheless) is a lyrical meditation on the enduring soul of Paris amid relentless transformation. Written during the early months of 2022, this collection of 37 short vignettes captures the tension between Paris as a seat of power and heritage versus its living, breathing identity as a city of resistance, memory, and spontaneous vitality. Bailly, a lifelong Parisian born in the city, documents both what has been lost and what mysteriously persists, moving between personal anecdote, architectural critique, and philosophical reflection on urban life.

@@ -1,5 +1,6 @@
 # The Last of the Mohicans
 **Authors**: James Fenimore Cooper | **Year**: 1826
+**Category**: Fiction & Literature
 
 ## Summary
 Set during the French and Indian War of 1757, this classic historical adventure follows the daughters of British Colonel Munro—Cora and Alice—as they journey through the dangerous wilderness of colonial New York to join their father at Fort William Henry. Guided by the treacherous Huron warrior Magua and later protected by the frontier scout Hawkeye (Natty Bumppo) and his Mohican companions Chingachgook and his son Uncas, the sisters face countless perils in a land torn between European powers and Native American alliances.

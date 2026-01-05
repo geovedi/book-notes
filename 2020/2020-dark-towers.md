@@ -1,5 +1,6 @@
 # Dark Towers
 **Author**: David Enrich | **Year**: 2020
+**Category**: Business & Finance
 
 ## Summary
 "Dark Towers" is a gripping investigative narrative that exposes how Deutsche Bank, Germany's most prestigious financial institution, devolved into a criminal enterprise entangled with Donald Trump. The book spans 150 years of banking history, from the bank's Nazi-era collaboration with Auschwitz to its modern role as Trump's primary lender, revealing a culture of corruption that ultimately destroyed lives and threatened democracy. At its heart is the tragic story of Bill Broeksmit, an American banker who killed himself after becoming complicit in the bank's wrongdoing, leaving behind documents that would help expose the truth.

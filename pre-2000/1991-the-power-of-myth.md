@@ -1,5 +1,6 @@
 # The Power of Myth
 **Authors**: Joseph Campbell, Bill Moyers | **Year**: 1991
+**Category**: Spirituality & Religion
 
 ## Summary
 "The Power of Myth" is a captivating dialogue between mythologist Joseph Campbell and journalist Bill Moyers that explores how ancient myths remain relevant in modern life. Campbell reveals that myths are not outdated stories but profound clues to human spiritual potential, offering timeless wisdom about life's fundamental questions. The conversations span from heroic adventures to love, death, and the meaning of existence, showing how mythology connects us to universal human experiences across cultures and centuries.

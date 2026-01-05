@@ -1,5 +1,6 @@
 # Selling on Amazon: A Blueprint to $2000 Monthly Profit
 **Authors**: George Pain | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide serves as your comprehensive roadmap to building a successful Amazon selling business that generates at least $2000 per month in profit as a side income. Written for aspiring entrepreneurs and those seeking additional income streams, the book breaks down the complex world of Amazon selling into manageable, actionable steps.

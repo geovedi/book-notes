@@ -1,5 +1,5 @@
 # Marley & Me
-**Authors**: John Grogan | **Year**: 2005
+**Authors**: John Grogan | **Year**: 2005 | **Category**: Romance & Relationships
 
 ## Summary
 "Marley & Me" is the heartwarming and hilarious true story of John and Jenny Grogan's life with Marley, an adorably disobedient Labrador Retriever who earned the title "the world's worst dog." What begins as a practice run for parenthood becomes a thirteen-year journey through marriage, career changes, and raising three children, with Marley as the chaotic but loving centerpiece. Through countless destroyed couches, obedience school failures, thunderstorm panic attacks, and moments of surprising intuition, Marley teaches his family about unconditional love, loyalty, and finding joy in life's simple pleasures.

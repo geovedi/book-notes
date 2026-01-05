@@ -1,5 +1,6 @@
 # The Complete Christmas Books and Stories
 **Authors**: Charles Dickens | **Year**: 1843-1848
+**Category**: Fiction & Literature
 
 ## Summary
 Charles Dickens' Christmas collection represents the author's most beloved contributions to holiday literature, written during the peak of his creative powers. These five Christmas books—"A Christmas Carol," "The Chimes," "The Cricket on the Hearth," "The Battle of Life," and "The Haunted Man"—transformed how Victorian England celebrated Christmas while delivering timeless moral lessons about redemption, kindness, and human connection. Each story combines supernatural elements with social commentary, creating memorable tales that champion the Christmas spirit of generosity, forgiveness, and compassion toward the less fortunate. The collection established many of our modern Christmas traditions and reminds readers that the holiday's true meaning lies not in wealth or status, but in opening our hearts to others.

@@ -1,5 +1,6 @@
 # Old New Zealand: A Firsthand Account of Maori Life in the Early Contact Period
 **Authors**: 'A Pakeha Maori' [Frederick Edward Maning] | **Year**: 1863
+**Category**: History & Biography
 
 ## Summary
 

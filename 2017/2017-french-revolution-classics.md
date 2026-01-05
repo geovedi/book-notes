@@ -1,5 +1,6 @@
 # 2017 French Revolution Classics Anthology
 **Authors**: Charles Dickens, Baroness Emma Orczy, Joseph Conrad, Rafael Sabatini | **Year**: 2017 (Collection)
+**Category**: Fiction & Literature
 
 ## Summary
 This anthology brings together four masterpieces of adventure and historical fiction set during the turbulent era of the French Revolution. Each novel explores different facets of revolutionary France—from the terror of the guillotine to the honor code of soldiers, from daring rescues to personal transformations. The collection showcases how ordinary people navigated extraordinary times, whether through sacrifice, courage, wit, or adaptation.

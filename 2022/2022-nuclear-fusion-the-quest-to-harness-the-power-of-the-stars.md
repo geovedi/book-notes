@@ -1,5 +1,5 @@
 # Nuclear Fusion: The Quest to Harness the Power of the Stars
-**Authors**: Sharon Ann Holgate | **Year**: 2022
+**Authors**: Sharon Ann Holgate | **Year**: 2022 | **Category**: Science & Nature
 
 ## Summary
 This book explores the scientific quest to recreate the Sun's power generation process here on Earth through nuclear fusion—a clean, virtually limitless energy source that could revolutionize global electricity production. Holgate traces the journey from early 20th-century atomic physics breakthroughs to current international collaborations and private ventures racing to build the first commercial fusion power plants.

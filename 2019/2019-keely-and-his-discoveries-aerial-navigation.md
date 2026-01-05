@@ -1,5 +1,6 @@
 # Keely and His Discoveries: Aerial Navigation
 **Authors**: Bloomfield H. Mrs. Moore, Introduction by Jared Covington | **Year**: 2019 (Enriched Edition)
+**Category**: Science & Nature
 
 ## Summary
 This book chronicles the controversial yet fascinating work of John Worrell Keely (1837-1898), a 19th-century American inventor who claimed to have discovered a revolutionary form of energy through vibratory physics. The comprehensive account traces Keely's journey from his accidental discovery of an unknown force in 1872 through decades of research into what he called "etheric force" and its potential applications for aerial navigation and free energy generation. The author presents a sympathetic view of Keely's struggles against skepticism, financial difficulties, and scientific establishment opposition while documenting his experiments with sympathetic vibration, molecular dissociation, and gravity control.

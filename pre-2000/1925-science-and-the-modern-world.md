@@ -1,5 +1,6 @@
 # Science and the Modern World
 **Authors**: Alfred North Whitehead | **Year**: 1925
+**Category**: Science & Nature
 
 ## Summary
 Science and the Modern World is a philosophical exploration of how scientific thinking has fundamentally transformed human consciousness, culture, and civilization over the past three centuries. Whitehead argues that the rise of modern science marked not merely a new way of understanding nature, but a complete revolution in human mentality that has reshaped every aspect of modern life. The book traces the historical origins of scientific thought, examines its philosophical implications, and considers its future trajectory as science confronts new challenges in the 20th century.

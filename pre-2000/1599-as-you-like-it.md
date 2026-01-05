@@ -1,5 +1,6 @@
 # As You Like It
 **Authors**: William Shakespeare | **Year**: 1599
+**Category**: Romance & Relationships
 
 ## Summary
 In this delightful comedy, Rosalind is banished from court by her tyrannical uncle Duke Frederick, but remains behind with her beloved cousin Celia. When Orlando is forced to flee his jealous brother Oliver, he finds refuge in the Forest of Arden where the banished Duke Senior (Rosalind's father) lives in exile. Rosalind, disguised as the male "Ganymede," and Celia, disguised as "Aliena," also escape to the forest, setting in motion a series of romantic entanglements, mistaken identities, and witty encounters that ultimately lead to four weddings and the restoration of order.

@@ -1,6 +1,7 @@
 # Japanese Sexual Life
 **Original Title**: Japanisches Geschlechtsleben: Abhandlungen und Erhebungen über das Geschlechtsleben des japanischen Volkes
-**Authors**: Friedrich S. Krauss, Tamio Satow | **Year**: 1930 
+**Authors**: Friedrich S. Krauss, Tamio Satow | **Year**: 1930
+**Category**: Psychology & Mental Health 
 
 ## Summary
 This groundbreaking anthropological study offers a comprehensive examination of Japanese sexual culture, practices, and beliefs in the early 20th century. Compiled through extensive folkloristic research by Friedrich S. Krauss and Japanese collaborator Tamio Satow, the work documents everything from religious rituals and superstitions to everyday sexual practices, terminology, and artistic expressions. The book serves as both a scholarly documentation and a preservation of cultural practices that were rapidly disappearing during Japan's modernization period.

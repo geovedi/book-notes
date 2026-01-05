@@ -1,5 +1,6 @@
 # The Complete Writings of Bhagat Singh
 **Authors**: Bhagat Singh | **Year**: 2019
+**Category**: History & Biography
 
 ## Summary
 This comprehensive collection presents the revolutionary thoughts, essays, and letters of Bhagat Singh, one of India's most influential freedom fighters who was executed at age 23 in 1931. The writings reveal his evolution from a romantic nationalist to a committed socialist revolutionary and atheist. His work demonstrates remarkable intellectual maturity, philosophical depth, and strategic thinking about India's independence movement and the broader struggle against oppression.

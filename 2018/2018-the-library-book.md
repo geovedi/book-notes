@@ -1,5 +1,5 @@
 # The Library Book
-**Authors**: Susan Orlean | **Year**: 2018
+**Authors**: Susan Orlean | **Year**: 2018 | **Category**: History & Biography
 
 ## Summary
 "The Library Book" weaves together the gripping story of the 1986 Los Angeles Central Library fire, which destroyed over 400,000 books, with a broader meditation on the vital role libraries play in our communities. Orlean investigates the mysterious arson case while simultaneously celebrating libraries as democratic spaces that preserve knowledge, foster community, and adapt to changing times. The book is both a true crime mystery and a love letter to these essential public institutions.

@@ -1,5 +1,5 @@
 # Mind-Brain Connection: A Tutorial Study Guide
-**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015
+**Authors**: Nicoladie Tam, Ph.D. | **Year**: 2015 | **Category**: Health & Medicine
 
 ## Summary
 This educational textbook explores the fundamental relationship between the mind and brain through a systems-based approach. Written as a tutorial study guide in Q&A format, it breaks down complex neuroscientific concepts into digestible modules that explain how the brain processes information to create thinking, consciousness, and behavior. The book systematically builds understanding from basic information processing to high-level cognitive functions, showing how mental disorders emerge from faulty brain processing.

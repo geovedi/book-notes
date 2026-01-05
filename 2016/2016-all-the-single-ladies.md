@@ -1,5 +1,5 @@
 # All the Single Ladies: Unmarried Women and the Rise of an Independent Nation
-**Authors**: Rebecca Traister | **Year**: 2016
+**Authors**: Rebecca Traister | **Year**: 2016 | **Category**: Psychology & Mental Health
 
 ## Summary
 

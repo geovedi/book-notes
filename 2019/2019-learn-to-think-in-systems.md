@@ -1,6 +1,7 @@
 # Learn to Think in Systems
 
 **Authors**: Albert Rutherford | **Year**: 2019
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 

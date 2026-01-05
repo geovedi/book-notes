@@ -1,6 +1,6 @@
 # 2018-Freelancing on Upwork: A Bite-Sized Guide
 
-**Authors**: Madison Hall | **Year**: 2016
+**Authors**: Madison Hall | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide shows beginners how to build a successful freelancing career on Upwork, one of the world's largest freelance platforms. The book provides a step-by-step approach to getting started, winning your first jobs, and growing your income through strategic bidding and client relationship management.

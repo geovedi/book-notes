@@ -1,5 +1,5 @@
 # The Sea: A Cultural History
-**Author**: John Mack | **Year**: 2011
+**Author**: John Mack | **Year**: 2011 | **Category**: History & Biography
 
 ## Summary
 "The Sea: A Cultural History" explores how humans have engaged with maritime environments across different cultures and time periods, challenging conventional Western perspectives that treat the sea merely as empty space to be crossed. Mack argues that the sea is not a void but an inhabited world with its own history, culture, and meaning.

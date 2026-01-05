@@ -1,5 +1,6 @@
 # 20,000 Leagues Under the Seas, The Mysterious Island & Around the World in 80 Days
 **Authors**: Jules Verne | **Year**: 2017 (Collection), Original works: 1870-1873
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 

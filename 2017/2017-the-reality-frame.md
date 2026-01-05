@@ -1,5 +1,6 @@
 # The Reality Frame: Relativity and Our Place in the Universe
 **Authors**: Brian Clegg | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "The Reality Frame" takes readers on a journey through relativity by building a universe from scratch, starting with empty space and progressively adding matter, time, motion, gravity, life, and human creativity. Clegg demonstrates how relativity is not just Einstein's complex theory but a fundamental concept that shapes everything from basic physics to human innovation and our understanding of the cosmos.

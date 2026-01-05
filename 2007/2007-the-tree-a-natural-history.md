@@ -1,5 +1,6 @@
 # The Tree: A Natural History of What Trees Are, How They Live, and Why They Matter
 **Author**: Colin Tudge | **Year**: 2007
+**Category**: Science & Nature
 
 ## Summary
 Colin Tudge reveals that trees are far more than passive wooden monuments—they are active, sentient beings that have shaped human evolution and continue to regulate Earth's systems. Through a blend of cutting-edge science and reverent wonder, Tudge explores how trees communicate, cooperate, compete, and ultimately serve as "the world's appointed governors" of all terrestrial life. This comprehensive natural history examines what trees are, how they live, their incredible diversity, and why our survival depends on them.

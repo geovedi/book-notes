@@ -1,5 +1,6 @@
 # Think in Models
 **Authors**: Nick Trenton | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "Think in Models" challenges the common misconception that knowledge equals intelligence. Author Nick Trenton argues that fluid intelligence—the ability to think effectively—is a skill that can be developed through conscious use of mental models. The book presents cognitive frameworks as tools for better decision-making, problem-solving, and critical thinking in an increasingly complex world.

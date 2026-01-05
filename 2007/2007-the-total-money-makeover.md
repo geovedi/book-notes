@@ -1,5 +1,6 @@
 # The Total Money Makeover
 **Author**: Dave Ramsey | **Year**: 2007
+**Category**: Business & Finance
 
 ## Summary
 "The Total Money Makeover" presents a straightforward, step-by-step plan for achieving financial fitness through debt elimination and wealth building. Ramsey's approach combines behavioral psychology with practical financial strategies, emphasizing that 80% of financial success is behavior while only 20% is head knowledge. The book advocates for a "gazelle intensity" approach—focused, determined action to escape debt and build wealth.

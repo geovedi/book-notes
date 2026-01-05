@@ -1,5 +1,6 @@
 # Endless Energy
 **Authors**: Peter Hollins | **Year**: 2019
+**Category**: Health & Medicine
 
 ## Summary
 Endless Energy presents a revolutionary approach to productivity that places energy management at the foundation of all success. Rather than focusing on traditional self-discipline techniques, time management, or motivational strategies, Hollins argues that energy is the "multiplier by zero" that can nullify all other efforts. Without sufficient energy, no amount of planning, goal-setting, or positive thinking will lead to achievement. The book introduces a comprehensive framework called the Energy Pyramid, which addresses physical, emotional, mental, and spiritual energy as interconnected layers that must be optimized for sustainable productivity.

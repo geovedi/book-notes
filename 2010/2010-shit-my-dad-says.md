@@ -1,5 +1,5 @@
 # Sh*t My Dad Says
-**Author**: Justin Halpern | **Year**: 2010
+**Author**: Justin Halpern | **Year**: 2010 | **Category**: Fiction & Literature
 
 ## Summary
 This hilarious memoir chronicles Justin Halpern's experience moving back in with his parents at age 28 after a breakup, where he rediscovers his father's brutally honest, profanity-laden wisdom. What starts as Justin posting his dad's quotes on Twitter explodes into a viral phenomenon, eventually becoming this book and a TV show. The dad—a retired nuclear medicine physician with zero filter—delivers surprisingly profound life lessons wrapped in vulgarity and blunt honesty.

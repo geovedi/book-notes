@@ -1,5 +1,6 @@
 # The Gift of Fear
 **Authors**: Gavin de Becker | **Year**: 1997
+**Category**: Psychology & Mental Health
 
 ## Summary
 "The Gift of Fear" reveals how intuition serves as our most powerful survival mechanism, protecting us from violence through subtle yet reliable warning signals. De Becker argues that fear is not something to be avoided but rather a gift—a sophisticated biological defense system that alerts us to danger before our conscious minds can process the threat.

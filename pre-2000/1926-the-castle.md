@@ -1,6 +1,7 @@
 # The Castle
 **Original Title**: Das Schloss (German)
 **Authors**: Franz Kafka | **Year**: 1926 (published posthumously)
+**Category**: Fiction & Literature
 
 ## Summary
 "The Castle" tells the story of K., a land surveyor who arrives in a snow-covered village dominated by a mysterious castle on the hill. He has been summoned to work, but quickly discovers that the castle's bureaucracy is impenetrable and his presence seems both anticipated and unwanted. The novel follows K.'s increasingly desperate attempts to gain recognition from the castle authorities and establish his legitimate right to be in the village.

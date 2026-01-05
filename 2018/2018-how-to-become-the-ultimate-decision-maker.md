@@ -1,5 +1,6 @@
 # How to Become the Ultimate Decision-Maker
 **Authors**: Firas Aridi | **Year**: 2018
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This practical guide tackles the universal challenge of decision-making by providing a structured framework for making informed choices without the paralyzing fear of making mistakes. The author presents decision-making not as a burden but as a portal to personal growth, arguing that every choice we make shapes who we are and who we become.

@@ -1,6 +1,7 @@
 # The Human Condition
 **Original Title**: המצב האנושי (Ha-Matzav Ha-Enoshi)
 **Author**: Hannah Arendt | **Year**: 1958
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Human Condition" is a groundbreaking philosophical analysis of the fundamental activities that constitute human existence. Arendt examines three distinct human activities—labor, work, and action—and explores how they shape the human condition across history. She argues that modern times have witnessed a dangerous blurring of these distinctions, particularly with the elevation of labor to the highest human value, a shift she traces from Locke through Smith to Marx.

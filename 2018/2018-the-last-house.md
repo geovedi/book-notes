@@ -1,6 +1,6 @@
 # The Last House
 **Original Title**: Het laatste huis
-**Author**: Ludique le Vert | **Year**: 2018 
+**Author**: Ludique le Vert | **Year**: 2018 | **Category**: Horror & Thriller 
 
 ## Summary
 "The Last House" is a poignant Dutch novel that explores the complex dynamics of family relationships, the weight of secrets, and the painful consequences of broken connections. The story follows Reinder and his girlfriend Sarah as they embark on a search for Reinder's estranged father, Max, who moved to rural France years ago and cut off contact with his Dutch family. What begins as a simple quest to locate a long-lost parent evolves into a profound exploration of forgiveness, reconciliation, and the complicated nature of familial bonds.

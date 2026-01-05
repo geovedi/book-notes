@@ -1,5 +1,6 @@
 # Emotional Eating
 **Authors**: Anthea Peries | **Year**: 2018
+**Category**: Health & Medicine
 
 ## Summary
 Emotional eating is using food to satisfy emotional needs rather than physical hunger, creating a cycle where food becomes a crutch for managing feelings. This comprehensive guide reveals that emotional eating affects 30% of adults and often stems from stress, boredom, childhood habits, and social pressure rather than lack of self-control. The book provides practical strategies to identify triggers, develop intuitive eating habits, and build healthier coping mechanisms through mindful practices, journaling, stress management, and self-compassion.

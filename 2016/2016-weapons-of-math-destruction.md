@@ -1,5 +1,5 @@
 # Weapons of Math Destruction
-**Author**: Cathy O'Neil | **Year**: 2016
+**Author**: Cathy O'Neil | **Year**: 2016 | **Category**: Technology & Computing
 
 ## Summary
 "Weapons of Math Destruction" reveals how big data algorithms are increasingly weaponized to perpetuate inequality and threaten democracy. O'Neil, a former mathematician and hedge fund quant, exposes how opaque mathematical models—what she calls WMDs—codify human bias into automated systems that make life-altering decisions without accountability or transparency. From teacher evaluations to criminal sentencing, insurance rates to job applications, these algorithms create self-perpetuating feedback loops that punish the poor while benefiting the privileged.

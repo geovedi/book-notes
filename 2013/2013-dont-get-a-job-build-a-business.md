@@ -1,5 +1,5 @@
 # Don't Get a Job, Build a Business
-**Authors**: Joan Baker, Joanne Hession | **Year**: 2013
+**Authors**: Joan Baker, Joanne Hession | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 

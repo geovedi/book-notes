@@ -1,5 +1,5 @@
 # River of the Gods: Genius, Courage, and Betrayal in the Search for the Source of the Nile
-**Author**: Candice Millard | **Year**: 2022
+**Author**: Candice Millard | **Year**: 2022 | **Category**: History & Biography
 
 ## Summary
 "River of the Gods" chronicles the extraordinary true story of two Victorian-era explorers—Richard Burton and John Hanning Speke—who raced to discover the source of the Nile River, the world's greatest geographical mystery. Their harrowing journey through uncharted African territory would lead to one of history's most famous scientific controversies and ultimately end in tragedy.

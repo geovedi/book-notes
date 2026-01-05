@@ -1,5 +1,6 @@
 # Fire Spirit
 **Authors**: Graham Masterton | **Year**: 2025
+**Category**: Horror & Thriller
 
 ## Summary
 

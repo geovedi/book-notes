@@ -1,5 +1,5 @@
 # Cocaine Nation
-**Author**: Tom Feiling | **Year**: 2011
+**Author**: Tom Feiling | **Year**: 2011 | **Category**: Health & Medicine
 
 ## Summary
 Cocaine Nation reveals how the global cocaine trade has evolved from an obscure botanical curiosity into a multi-billion dollar industry that connects Colombian coca farmers with Western consumers. Through firsthand reporting from the trade routes connecting London, New York, Miami, Kingston, Tijuana, and Colombia, Feiling exposes the devastating failure of the war on drugs and makes a compelling case for legalization. The book demonstrates how prohibition has created more problems than it solved—fueling violence, corruption, and environmental destruction while failing to reduce cocaine consumption.

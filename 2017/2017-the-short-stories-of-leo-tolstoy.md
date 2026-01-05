@@ -1,5 +1,6 @@
 # The Short Stories of Leo Tolstoy
 **Authors**: Leo Tolstoy | **Year**: 2017 (Delphi Classics Edition)
+**Category**: Fiction & Literature
 
 ## Summary
 This comprehensive collection brings together Leo Tolstoy's most celebrated short stories and moral tales, showcasing the author's evolution from literary realism to spiritual and philosophical exploration. The stories represent Tolstoy's profound engagement with questions of faith, morality, social justice, and the human condition, written in his characteristic style of clear, powerful prose combined with deep psychological insight.

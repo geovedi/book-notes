@@ -1,5 +1,5 @@
 # Are We Smart Enough to Know How Smart Animals Are?
-**Authors**: Frans de Waal | **Year**: 2016
+**Authors**: Frans de Waal | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 Frans de Waal challenges centuries of human-centered thinking about intelligence, arguing that we've been asking the wrong questions about animal minds. The book reveals how scientific bias and anthropocentrism have blinded us to the sophisticated cognitive abilities of animals, from chimpanzees planning for the future to octopuses recognizing human faces. De Waal, a leading primatologist, demonstrates through compelling research and personal anecdotes that intelligence isn't a linear hierarchy with humans at the top, but rather a diverse landscape of specialized adaptations shaped by evolution.

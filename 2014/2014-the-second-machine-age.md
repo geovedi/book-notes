@@ -1,5 +1,5 @@
 # The Second Machine Age
-**Authors**: Erik Brynjolfsson, Andrew McAfee | **Year**: 2014
+**Authors**: Erik Brynjolfsson, Andrew McAfee | **Year**: 2014 | **Category**: Technology & Computing
 
 ## Summary
 "The Second Machine Age" explores how digital technologies are creating a fundamental transformation in our economy and society, comparable to the Industrial Revolution. The authors argue that we're entering an era where exponential technological progress, digitization, and recombinant innovation are creating unprecedented abundance and capability, while simultaneously creating new challenges around inequality and employment.

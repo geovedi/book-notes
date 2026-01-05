@@ -1,5 +1,6 @@
 # Toxic Parents
 **Authors**: Susan Forward (with Craig Buck) | **Year**: 1989
+**Category**: Psychology & Mental Health
 
 ## Summary
 "Toxic Parents" is a groundbreaking self-help book that exposes how emotionally damaging parenting patterns can continue to affect adult children long after they've left home. Susan Forward, a renowned therapist, demonstrates that childhood emotional trauma from toxic parents manifests as adult problems in relationships, career, and self-esteem. The book serves as both a validation tool for those who suspect their childhood was harmful and a practical roadmap for healing and reclaiming one's life from parental emotional damage.

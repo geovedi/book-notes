@@ -1,6 +1,7 @@
 # Charles Perrault's Fairy Tales
 **Original Title**: Contes de ma mère l'Oye
 **Author**: Charles Perrault | **Year**: 1697
+**Category**: Children & Young Adult
 
 ## Summary
 Charles Perrault's Fairy Tales is a foundational collection of eight magical stories that have shaped Western literature and childhood imagination for centuries. Written in French during the reign of Louis XIV, these tales blend enchanting fantasy with subtle moral lessons, featuring clever heroes, terrifying villains, and transformative magical elements. The stories explore themes of courage, wisdom, deception, reward and punishment, and the power of true character over appearances.

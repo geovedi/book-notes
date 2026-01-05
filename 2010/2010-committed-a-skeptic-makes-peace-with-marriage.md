@@ -1,5 +1,5 @@
 # Committed: A Skeptic Makes Peace with Marriage
-**Author**: Elizabeth Gilbert | **Year**: 2010
+**Author**: Elizabeth Gilbert | **Year**: 2010 | **Category**: Romance & Relationships
 
 ## Summary
 In this compelling follow-up to "Eat, Pray, Love," Elizabeth Gilbert faces an unexpected immigration crisis that forces her and her partner Felipe to marry within 60 days or be separated forever. As a self-proclaimed skeptic who never planned to marry again after a painful divorce, Gilbert embarks on a deeply researched journey to understand marriage's complex history, meaning, and relevance in modern life.

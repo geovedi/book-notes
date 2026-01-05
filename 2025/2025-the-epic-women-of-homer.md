@@ -1,5 +1,6 @@
 # The Epic Women of Homer
 **Authors**: Eirene S. Allen | **Year**: 2025
+**Category**: Fiction & Literature
 
 ## Summary
 "The Epic Women of Homer" challenges traditional readings of Homer's epics by revealing how women are central to understanding The Iliad and The Odyssey. Allen argues that modern translations have often marginalized women's voices by smoothing over the rich linguistic and cultural context that makes their roles clear in the original Greek. The book demonstrates that Homer's women are not passive background characters but active agents whose strategies, grief, and authority drive the narratives forward. By examining women through four categories—Queens, Captives, Goddesses, and Heroes—Allen reveals how women wield complementary power to men through craft, strategy, and emotional intelligence, making them essential to the cosmic balance in Homeric thought.

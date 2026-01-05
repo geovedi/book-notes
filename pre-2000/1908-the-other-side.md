@@ -1,5 +1,6 @@
 # The Other Side
 **Original Title**: Die andere Seite | **Author**: Alfred Kubin | **Year**: 1908
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 "The Other Side" is a haunting fantastical novel about an artist who receives a mysterious invitation from his old school friend Claus Patera to visit the "Dream Realm" — a mysterious, isolated country founded in Central Asia. What begins as an intriguing journey to a utopian society gradually reveals itself as a nightmarish dystopia where dreams and reality blur into a disturbing vision of human consciousness. The narrator witnesses the rise and spectacular collapse of this bizarre society, ultimately offering profound reflections on art, existence, and the nature of reality itself.

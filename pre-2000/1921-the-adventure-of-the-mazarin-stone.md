@@ -1,5 +1,6 @@
 # The Adventure of the Mazarin Stone
 **Authors**: Arthur Conan Doyle | **Year**: 1921
+**Category**: Horror & Thriller
 
 ## Summary
 Sherlock Holmes faces one of his most dangerous cases when the legendary Mazarin Diamond, worth one hundred thousand pounds, is stolen from the Crown. As Holmes stalks the thieves—including the cunning Count Sylvius and his brutish accomplice Sam Merton—he risks his life in a high-stakes game of cat and mouse. The detective employs ingenious deception, including a lifelike wax effigy of himself and clever disguises, to trap the criminals. Holmes not only recovers the precious jewel but also delivers a satisfying lesson to the skeptical Lord Cantlemere, who had doubted his abilities.

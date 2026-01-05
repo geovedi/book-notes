@@ -1,5 +1,6 @@
 # Expecting Jeeves
 **Authors**: P. G. Wodehouse | **Year**: 1918
+**Category**: Fiction & Literature
 
 ## Summary
 A delightful collection of witty short stories featuring the brilliant valet Jeeves and his well-meaning but perpetually confused employer Bertie Wooster. Each story showcases the classic dynamic where Bertie's ill-advised schemes and fashion choices land him in social chaos, only to be rescued by Jeeves's superior intellect and quiet competence. Set against the backdrop of English high society between the wars, these stories masterfully blend sophisticated wordplay with farcical situations.

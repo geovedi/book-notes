@@ -1,5 +1,5 @@
 # Greek Fire, Poison Arrows & Scorpion Bombs
-**Author**: Adrienne Mayor | **Year**: 2003
+**Author**: Adrienne Mayor | **Year**: 2003 | **Category**: History & Biography
 
 ## Summary
 This groundbreaking book reveals how ancient civilizations mastered biochemical warfare long before modern science, demonstrating that nearly every advanced biochemical weapon today has an ancient prototype. Mayor uncovers the forgotten history of toxic warfare in the classical world, from Hercules' mythological poison arrows to the terrifying reality of ancient germ warfare, showing how innovation in weapons of mass destruction has been a constant throughout human history.

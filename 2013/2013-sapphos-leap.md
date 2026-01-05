@@ -1,5 +1,5 @@
 # Sappho's Leap
-**Authors**: Erica Jong | **Year**: 2013
+**Authors**: Erica Jong | **Year**: 2013 | **Category**: Fiction & Literature
 
 ## Summary
 "Sappho's Leap" is a historical fiction novel that reimagines the life of the legendary ancient Greek poetess Sappho, who flourished circa 600 BCE. The story begins with the famous scene of Sappho standing on the Leucadian cliff, contemplating suicide, and then flashes back through her extraordinary life. The narrative weaves together historical facts with mythological elements, presenting Sappho as a woman torn between artistic ambition, passionate love affairs, and the constraints of ancient Greek society.

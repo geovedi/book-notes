@@ -1,5 +1,6 @@
 # Endurance: Shackleton's Incredible Voyage
 **Author**: Alfred Lansing | **Year**: 2007
+**Category**: History & Biography
 
 ## Summary
 In 1914, Sir Ernest Shackleton and his crew of 27 men set out to achieve what no one had done before: cross the Antarctic continent on foot. Their ship, the Endurance, became trapped and ultimately crushed by ice in the Weddell Sea, leaving the men stranded thousands of miles from civilization with no hope of rescue. What followed was an extraordinary two-year ordeal of survival against impossible odds, where Shackleton's leadership transformed a potential disaster into one of history's greatest survival stories.

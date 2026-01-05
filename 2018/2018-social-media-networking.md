@@ -1,6 +1,6 @@
 # Social Media Networking
 **Original Title**: Social Media Networking
-**Authors**: Tim Lewis | **Year**: 2018
+**Authors**: Tim Lewis | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This book explores the positive side of social media through real-life case studies of people who have used social networks to transform their lives in meaningful ways. Unlike typical social media marketing books focused on selling products, this guide reveals how authentic social connections can lead to dream jobs, romantic relationships, business opportunities, and enriched travel experiences.

@@ -1,5 +1,6 @@
 # Carmilla
 **Authors**: Joseph Sheridan Le Fanu | **Year**: 1872
+**Category**: Horror & Thriller
 
 ## Summary
 Carmilla is a groundbreaking Gothic novella that tells the story of Laura, a young woman living in an isolated Austrian castle, whose life becomes entangled with the mysterious and beautiful Carmilla after a carriage accident brings the stranger to her doorstep. As their intense friendship deepens into something more complex and troubling, local villagers begin dying of a mysterious ailment, and Laura herself falls ill with strange symptoms. The story unfolds as a psychological thriller and supernatural horror, ultimately revealing Carmilla's true nature as the vampire Countess Mircalla Karnstein, a centuries-old noblewoman who preys on young women. The narrative culminates in a dramatic confrontation where Carmilla is discovered, tracked to her grave, and destroyed, freeing Laura from her influence.

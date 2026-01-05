@@ -1,5 +1,5 @@
 # How to Source Products on Amazon FBA
-**Authors**: Unknown | **Year**: 2016
+**Authors**: Unknown | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 This practical guide serves as a comprehensive roadmap for entrepreneurs looking to build a private label business through Amazon's Fulfillment by Amazon (FBA) program. The book breaks down the complex process of product sourcing, from finding local suppliers to navigating international manufacturing relationships, particularly with Chinese suppliers through platforms like Alibaba. With conservative estimates suggesting potential monthly profits of $1,000-$3,000 per product after the initial 3-4 month setup period, this guide aims to demystify the sourcing process and help readers avoid common pitfalls.

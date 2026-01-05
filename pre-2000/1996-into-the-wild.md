@@ -1,5 +1,6 @@
 # Into the Wild
 **Authors**: Jon Krakauer | **Year**: 1996
+**Category**: History & Biography
 
 ## Summary
 In April 1992, Chris McCandless—a bright, idealistic 24-year-old from a wealthy East Coast family—abandoned his possessions, donated his life savings to charity, and vanished into the Alaskan wilderness. Four months later, moose hunters discovered his decomposed body in an abandoned bus near the Stampede Trail. Krakauer meticulously reconstructs McCandless's two-year odyssey across America, revealing a young man desperately seeking authenticity, freedom, and meaning beyond materialistic society.

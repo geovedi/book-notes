@@ -1,5 +1,6 @@
 # Transforming Your Money Mindset
 **Authors**: Kelly Wallace | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 This book offers a spiritual approach to financial transformation, teaching readers how to shift their relationship with money from scarcity to abundance. Wallace argues that our thoughts and subconscious programming about money create our financial reality, and that true wealth encompasses more than just financial riches—it includes happiness, security, and fulfillment in all areas of life.

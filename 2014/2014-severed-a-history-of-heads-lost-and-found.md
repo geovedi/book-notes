@@ -1,5 +1,5 @@
 # Severed: A History of Heads Lost and Found
-**Author**: Frances Larson | **Year**: 2014
+**Author**: Frances Larson | **Year**: 2014 | **Category**: History & Biography
 
 ## Summary
 "Severed" explores humanity's enduring fascination with detached human heads, from shrunken heads to skull collections to execution trophies. Larson reveals how our obsession with heads reflects deeper cultural anxieties about identity, power, mortality, and the boundaries between civilization and savagery. The book challenges us to reconsider who the real "headhunters" are—the tribal peoples who created these objects or the Western collectors who acquired them.

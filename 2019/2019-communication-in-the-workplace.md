@@ -1,5 +1,6 @@
 # Communication in the Workplace
 **Authors**: Shirley Cole | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 "Communication in the Workplace" is a comprehensive guide to mastering effective communication strategies for professional success. The book presents communication as a fundamental skill that impacts every aspect of workplace relationships, from team collaboration to client interactions and leadership effectiveness. Cole argues that effective communication isn't just about conveying information—it's about creating positive environments that foster innovation, productivity, and employee satisfaction.

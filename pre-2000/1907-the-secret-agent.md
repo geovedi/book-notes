@@ -1,5 +1,6 @@
 # The Secret Agent
 **Authors**: Joseph Conrad | **Year**: 1907
+**Category**: Fiction & Literature
 
 ## Summary
 Adolf Verloc appears to be a respectable London shopkeeper running a small pornography business with his wife Winnie and her mentally challenged brother Stevie. In reality, Verloc works as a secret agent for a foreign embassy while infiltrating anarchist circles. When his handler pressures him to orchestrate a terrorist attack to provoke government crackdowns on revolutionaries, Verloc manipulates Stevie into carrying a bomb to the Greenwich Observatory. The mission ends in tragedy when Stevie accidentally detonates the device, killing himself. The aftermath reveals the destructive consequences of political manipulation, leading to more deaths and the collapse of Verloc's carefully constructed double life.

@@ -1,5 +1,5 @@
 # Never Split the Difference
-**Authors**: Chris Voss, Tahl Raz | **Year**: 2016
+**Authors**: Chris Voss, Tahl Raz | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Never Split the Difference" is a groundbreaking negotiation guide that transforms FBI hostage negotiation techniques into practical business and life skills. Written by former FBI lead international kidnapping negotiator Chris Voss, the book challenges conventional negotiation wisdom by advocating for emotional intelligence over rational compromise. Voss reveals that effective negotiation isn't about logic or finding middle ground—it's about understanding psychological triggers, using tactical empathy, and mastering communication techniques that make others want to work with you.

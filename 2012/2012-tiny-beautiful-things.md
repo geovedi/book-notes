@@ -1,5 +1,6 @@
 # Tiny Beautiful Things
 **Author**: Cheryl Strayed | **Year**: 2012
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "Tiny Beautiful Things" is a collection of Cheryl Strayed's profound advice columns written as "Sugar" for The Rumpus website. Through intimate exchanges between strangers, Strayed transforms the conventional advice column into literary art, blending radical empathy with raw honesty about her own life experiences—including childhood sexual abuse, her mother's death, heroin addiction, and personal redemption.

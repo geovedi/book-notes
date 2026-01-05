@@ -1,5 +1,6 @@
 # Interest in Mathematics and Science Learning
 **Authors**: K. Ann Renninger, Martina Nieswandt, and Suzanne Hidi (Editors) | **Year**: 2015
+**Category**: Psychology & Mental Health
 
 ## Summary
 This comprehensive academic volume examines the critical role of interest development in mathematics and science education from kindergarten through undergraduate studies. The book brings together leading researchers from motivation science, education, and developmental psychology to explore how interest functions as a powerful psychological variable that can transform learning outcomes and career choices in STEM fields. The work presents the Four-Phase Model of Interest Development as a foundational framework, demonstrating how interest progresses from triggered situational interest to well-developed individual interest through supported engagement with content.

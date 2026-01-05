@@ -2,6 +2,7 @@
 
 **Original Title**: Assassin's Creed Forsaken
 **Author**: Oliver Bowden | **Year**: 2012
+**Category**: Fantasy & Science Fiction
 
 ## Summary
 

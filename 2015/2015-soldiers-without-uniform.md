@@ -1,6 +1,7 @@
 # Soldiers Without Uniform
 **Original Title**: Soldati senza uniforme: Diario di un partigiano
 **Author**: Giovanni Pesce | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 "Soldati senza uniforme" is a powerful firsthand account of the Italian Resistance movement during World War II, written by Giovanni Pesce, a commander in the GAP (Gruppi di Azione Patriottica). This gripping diary chronicles 18 months of intense underground warfare against Nazi occupation and Fascist collaborators in Turin and Milan, from September 1943 through the liberation of Italy. The book documents not just military actions but the human cost and moral conviction that drove young communists and antifascists to risk everything for Italy's freedom.

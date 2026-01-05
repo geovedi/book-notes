@@ -1,5 +1,6 @@
 # Financial Analysis for Everyone
 **Authors**: Cosmin BAIU | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "Financial Analysis for Everyone" is a practical guide that demystifies financial analysis for entrepreneurs, business professionals, and financiers. Written as an accessible alternative to traditional accounting textbooks, this book focuses on the universal philosophy and common-sense principles behind evaluating business financial health. The author draws from extensive banking experience to provide real-world examples showing how to assess assets, liabilities, profitability, and business viability through both quantitative analysis and qualitative judgment.

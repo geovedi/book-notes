@@ -1,5 +1,5 @@
 # Born a Crime: Stories from a South African Childhood
-**Authors**: Trevor Noah | **Year**: 2016
+**Authors**: Trevor Noah | **Year**: 2016 | **Category**: History & Biography
 
 ## Summary
 Trevor Noah's memoir chronicles his upbringing as a mixed-race child in apartheid South Africa, where his very existence was literally a crime due to laws prohibiting interracial relationships. Born to a black Xhosa mother and white Swiss father, Noah navigates the complex racial and social landscape of post-apartheid South Africa while finding his place between worlds. The story is both a harrowing account of growing up in extreme poverty and violence, and a testament to the remarkable resilience and faith of his mother, who defied societal norms at every turn.

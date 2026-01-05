@@ -1,5 +1,6 @@
 # The Tale of the Tailor and the Three Dead Kings
 **Authors**: Dan Jones | **Year**: 2021
+**Category**: Fiction & Literature
 
 ## Summary
 This chilling historical ghost story follows Snowball, a medieval tailor whose routine journey home from work turns into a terrifying supernatural encounter. Based on a genuine 15th-century manuscript from Byland Abbey in Yorkshire, the tale brings to life medieval beliefs about ghosts, absolution, and the restless dead.

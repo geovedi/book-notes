@@ -1,6 +1,7 @@
 # The Science of Logic: The Doctrine of Essence
 **Original Title**: Ciência da Lógica: A Doutrina da Essência
 **Author**: Georg Wilhelm Friedrich Hegel | **Year**: 1813 | **Language**: Portuguese (translation from German)
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 "The Doctrine of Essence" is the second book of Hegel's monumental "Science of Logic," representing a pivotal transition between the Logic of Being and the Logic of Concept. This work fundamentally transforms our understanding of reality by showing how truth lies not in immediate appearances but in the underlying relational structures that govern how things appear and exist.

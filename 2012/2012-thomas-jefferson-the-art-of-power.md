@@ -1,5 +1,6 @@
 # Thomas Jefferson: The Art of Power
 **Author**: Jon Meacham | **Year**: 2012
+**Category**: History & Biography
 
 ## Summary
 

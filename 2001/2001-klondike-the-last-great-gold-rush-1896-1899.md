@@ -1,5 +1,5 @@
 # Klondike: The Last Great Gold Rush, 1896-1899
-**Author**: Pierre Berton | **Year**: 2001 (revised edition)
+**Author**: Pierre Berton | **Year**: 2001 (revised edition) | **Category**: History & Biography
 
 ## Summary
 This gripping narrative chronicles the most concentrated mass movement of people in North American history—the Klondike Gold Rush that transformed Canada's Yukon Territory from frozen wilderness into a pulsating hub of human ambition. When three unlikely prospectors discovered gold on Rabbit Creek (later renamed Bonanza Creek) in August 1896, they triggered a stampede that would bring 100,000 fortune-seekers to the sub-Arctic, create instant millionaires and paupers, and permanently shape Canadian-American relations in the North.

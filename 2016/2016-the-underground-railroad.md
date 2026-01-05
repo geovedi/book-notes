@@ -1,6 +1,6 @@
 # The Underground Railroad
 **Original Title**: El ferrocarril subterráneo
-**Authors**: Colson Whitehead | **Year**: 2016 
+**Authors**: Colson Whitehead | **Year**: 2016 | **Category**: Fiction & Literature 
 
 ## Summary
 Cora is a young slave on a Georgia cotton plantation, abandoned by her mother and subjected to the brutality of her masters. When Caesar, a young man from Virginia, tells her about the Underground Railroad, they decide to embark on a risky escape to the North to secure freedom. Whitehead transforms this historical network into a literal underground railway system with stations and tracks running beneath the country. As Cora travels through different states, she discovers that each stop represents a completely different world, accumulating betrayals and experiencing the depths of human depravity. Yet she also encounters flashes of humanity that keep her hope alive.

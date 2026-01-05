@@ -1,5 +1,6 @@
 # Natural Law, Economics, and the Common Good
 **Editors**: Samuel Gregg and Harold James | **Year**: 2012
+**Category**: Business & Finance
 
 ## Summary
 This collection of essays explores how natural law theory can provide a moral framework for understanding economics, money, and the common good in the wake of the 2008 financial crisis. The book brings together philosophers, historians, economists, and policymakers to argue that purely utilitarian approaches to economic policy are insufficient and that considerations of human flourishing, moral principles, and objective ethical norms must inform our economic decisions.

@@ -1,5 +1,5 @@
 # Historical Variability in Heritable General Intelligence
-**Authors**: Michael A. Woodley, Aurelio José Figueredo | **Year**: 2013
+**Authors**: Michael A. Woodley, Aurelio José Figueredo | **Year**: 2013 | **Category**: Science & Nature
 
 ## Summary
 This controversial academic work examines how the genetic component of human intelligence has changed over the past 500 years and how these changes have impacted innovation and cultural development. The authors present evidence that Western societies experienced "eugenic fertility" from 1450-1850 (when higher-IQ individuals had more children), followed by "dysgenic fertility" from 1850-present (when lower-IQ individuals have higher fertility rates). Using statistical models, they demonstrate that declining heritable intelligence strongly predicts reduced rates of scientific and technological innovation, mediated through the shrinking proportion of highly intelligent individuals who drive breakthrough discoveries.

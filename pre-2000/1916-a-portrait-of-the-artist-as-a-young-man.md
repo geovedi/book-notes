@@ -1,5 +1,6 @@
 # A Portrait of the Artist as a Young Man
 **Original Title**: A Portrait of the Artist as a Young Man | **Authors**: James Joyce | **Year**: 1916
+**Category**: Fiction & Literature
 
 ## Summary
 This groundbreaking modernist novel traces the artistic awakening of Stephen Dedalus, a young Irish man coming of age in late 19th-century Dublin. Through revolutionary stream-of-consciousness narration, we witness Stephen's journey from childhood innocence through religious crisis to his ultimate declaration of independence as an artist.

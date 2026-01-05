@@ -1,5 +1,6 @@
 # The Napoleon of Notting Hill
 **Authors**: G.K. Chesterton | **Year**: 1904
+**Category**: Fiction & Literature
 
 ## Summary
 Set in a future London where democracy has died and citizens have lost faith in revolutions, England is ruled by a despotism chosen from the official class. When the eccentric Auberon Quin becomes King through bureaucratic indifference, he initiates a whimsical revival of medieval pageantry by granting independent status to London boroughs. His jest takes a terrifyingly serious turn when Adam Wayne, a poetic draper's assistant from Notting Hill, takes the patriotic ceremonies literally and defends his "kingdom" with actual warfare. The novel transforms from satire into an exploration of how imagination, loyalty, and the willingness to die for seemingly trivial causes can create meaning in a mechanized world.

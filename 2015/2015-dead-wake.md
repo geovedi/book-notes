@@ -1,5 +1,6 @@
 # Dead Wake
 **Author**: Erik Larson | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 Dead Wake tells the riveting story of the RMS Lusitania's final voyage and its sinking by a German U-boat in 1915, a tragedy that killed 1,198 people and helped draw America into World War I. Larson masterfully weaves together multiple perspectives—the Lusitania's passengers, the German submarine commander, British intelligence officials, and President Woodrow Wilson—to create a gripping narrative that reads like a thriller while delivering profound historical insights.

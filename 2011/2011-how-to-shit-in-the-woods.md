@@ -1,5 +1,5 @@
 # How to Shit in the Woods
-**Author**: Kathleen Meyer | **Year**: 2011
+**Author**: Kathleen Meyer | **Year**: 2011 | **Category**: Health & Medicine
 
 ## Summary
 "How to Shit in the Woods" is the definitive guide to environmentally responsible outdoor toileting, blending humor, practical wisdom, and environmental advocacy. Meyer transforms a taboo subject into essential knowledge for anyone who ventures into nature, from casual day hikers to serious expeditioners. The book addresses a critical gap in outdoor education: proper waste disposal in natural environments.

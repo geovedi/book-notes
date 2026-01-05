@@ -1,6 +1,7 @@
 # Frankenstein; or, The Modern Prometheus
 **Original Title**: Frankenstein; or, The Modern Prometheus (1831 version)
 **Author**: Mary Shelley | **Year**: 1818 (1831 revised edition)
+**Category**: Horror & Thriller
 
 ## Summary
 Mary Shelley's groundbreaking Gothic masterpiece tells the story of Victor Frankenstein, a brilliant but ambitious young scientist who discovers the secret to creating life. In his feverish pursuit of knowledge, he assembles a creature from dead body parts and animates it, only to be horrified by his own creation. The narrative unfolds through multiple perspectives—beginning with explorer Robert Walton's Arctic letters, then Victor's tragic confession, and finally the creature's own heartbreaking account of his existence.

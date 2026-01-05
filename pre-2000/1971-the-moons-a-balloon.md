@@ -1,5 +1,6 @@
 # The Moon's a Balloon
 **Authors**: David Niven | **Year**: 1971
+**Category**: History & Biography
 
 ## Summary
 David Niven's charming and wickedly funny autobiography chronicles the remarkable journey of a British army officer's son who becomes one of Hollywood's most beloved leading men. From his traumatic childhood experiences at brutal boarding schools to his unexpected rise to stardom, Niven delivers a masterclass in storytelling that balances self-deprecation with genuine emotion. The title, drawn from an E.E. Cummings poem, perfectly captures the dreamlike quality of his life's adventures.

@@ -1,5 +1,6 @@
 # Lies My Teacher Told Me About Christopher Columbus
 **Author**: James W. Loewen | **Year**: 1992
+**Category**: History & Biography
 
 ## Summary
 This groundbreaking book dismantles the heroic myths we're taught about Christopher Columbus, revealing how history textbooks sanitize and distort the truth to create feel-good national narratives. Loewen demonstrates that almost everything we learn about Columbus in school is either wrong or deliberately misleading, from his "humble origins" to his "noble motivations."

@@ -1,5 +1,5 @@
 # Why Do Men Have Nipples?
-**Authors**: Mark Leyner, Billy Goldberg, M.D. | **Year**: 2005
+**Authors**: Mark Leyner, Billy Goldberg, M.D. | **Year**: 2005 | **Category**: Health & Medicine
 
 ## Summary
 This humorous medical guide tackles hundreds of bizarre, embarrassing, and downright strange questions that people only feel comfortable asking doctors after their third martini. Written by an emergency room physician and a satirical novelist, the book demystifies odd bodily functions, debunks medical myths, and provides scientific answers to questions you've always been afraid to ask. From "Why do men have nipples?" to "Can you drink your own urine?", the authors blend genuine medical expertise with comedic timing to create an entertaining educational experience.

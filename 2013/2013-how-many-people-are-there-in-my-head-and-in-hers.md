@@ -1,5 +1,5 @@
 # How Many People Are There In My Head? And In Hers?
-**Authors**: Jonathan C.W. Edwards | **Year**: 2013
+**Authors**: Jonathan C.W. Edwards | **Year**: 2013 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 This groundbreaking book challenges our fundamental understanding of consciousness by proposing that our sense of unified self-awareness is an illusion. Edwards argues that each individual neuron in our brain is separately conscious, creating millions of aware "listeners" that receive copies of our life story. What we experience as a single consciousness emerges from the harmonious coordination of these cellular awarenesses, not from any central "soul" or unified consciousness center.

@@ -1,5 +1,6 @@
 # Eureka! The Birth of Science
 **Authors**: Andrew Gregory | **Year**: 2017
+**Category**: Science & Nature
 
 ## Summary
 "Eureka! The Birth of Science" explores how scientific thinking emerged from ancient Greek civilization around 600 BC, transforming humanity's understanding of the world from mythological explanations to rational, evidence-based theories. The book reveals the remarkable intellectual revolution that occurred when early Greek thinkers began seeking natural explanations for phenomena previously attributed to gods, laying the foundation for all modern scientific thought.

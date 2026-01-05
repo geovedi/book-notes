@@ -1,5 +1,5 @@
 # The Phoenix Project
-**Authors**: Gene Kim, Kevin Behr, George Spafford | **Year**: 2013
+**Authors**: Gene Kim, Kevin Behr, George Spafford | **Year**: 2013 | **Category**: Technology & Computing
 
 ## Summary
 "The Phoenix Project" is a business novel that follows Bill Palmer, an IT manager unexpectedly promoted to VP of IT Operations at Parts Unlimited, a struggling retail company. Bill must save the critical Phoenix Project—a major e-commerce initiative—while battling constant IT crises, organizational chaos, and seemingly impossible deadlines. Through mentorship from a board member named Erik, Bill discovers that the principles of manufacturing and lean thinking can transform IT operations and save both the project and the company.

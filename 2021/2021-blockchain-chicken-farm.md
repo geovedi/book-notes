@@ -1,5 +1,6 @@
 # Blockchain Chicken Farm
 **Author**: Xiaowei Wang | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "Blockchain Chicken Farm" explores how technology is reshaping rural China and challenging our assumptions about progress, innovation, and the relationship between urban and rural life. Wang takes readers from Chinese chicken farms with blockchain-tracking ankle bracelets to American Facebook livestreams selling pearls, revealing how AI, surveillance technology, and digital platforms are transforming food production, labor, and human connection.

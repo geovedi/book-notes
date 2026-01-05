@@ -1,6 +1,6 @@
 # Approach to Neuropsychology
 **Original Title**: Approach to Neuropsychology
-**Authors**: Dr. Juan Moisés de la Serna | **Year**: 2018
+**Authors**: Dr. Juan Moisés de la Serna | **Year**: 2018 | **Category**: Health & Medicine
 
 ## Summary
 "Approach to Neuropsychology" provides a comprehensive overview of the fascinating field that bridges psychology and neuroscience, exploring how our brain's neural foundations underpin psychological processes like memory, attention, language, and emotion. The book presents neuropsychology as one of the fastest-growing branches in psychology, combining theoretical knowledge with practical applications for understanding and treating cognitive disorders and brain injuries.

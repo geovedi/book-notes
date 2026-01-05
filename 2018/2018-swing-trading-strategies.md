@@ -1,6 +1,6 @@
 # 2018 Swing Trading Strategies
 **Original Title**: Swing Trading Strategies: Learn How to Profit Fast With These 4 Simple Strategies
-**Authors**: Victor Lucas | **Year**: 2018
+**Authors**: Victor Lucas | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Swing trading occupies the sweet spot between high-stress day trading and long-term trend trading, holding positions from several days to a few weeks. This practical guide reveals that successful swing trading is less about complex algorithms and more about mastering trader psychology, market timing, and four core strategies that help you ride market waves profitably.

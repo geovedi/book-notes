@@ -1,5 +1,5 @@
 # Hunger: An Unnatural History
-**Author**: Sharman Apt Russell | **Year**: 2005
+**Author**: Sharman Apt Russell | **Year**: 2005 | **Category**: Health & Medicine
 
 ## Summary
 "Hunger: An Unnatural History" is a profound exploration of one of humanity's most fundamental experiences—hunger—examined from biological, cultural, historical, and personal perspectives. Russell takes readers on a journey through the physiology of starvation, the anthropology of food scarcity, the psychology of eating disorders, and the devastating social impacts of famine throughout history.

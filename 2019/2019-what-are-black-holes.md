@@ -1,5 +1,6 @@
 # What Are Black Holes?
 **Author**: Larry Slawson | **Year**: 2019
+**Category**: Science & Nature
 
 ## Summary
 Black holes are regions of space with such intense gravitational force that nothing—not even light—can escape their grasp. Far from being empty voids, they contain tremendous amounts of matter compressed into infinitesimally small spaces. This comprehensive guide explains how these cosmic monsters form from dying stars, come in various sizes, and continue to captivate both scientists and the public imagination.

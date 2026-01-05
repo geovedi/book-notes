@@ -1,5 +1,6 @@
 # The New Tsar
 **Authors**: Steven Lee Myers | **Year**: 2015
+**Category**: History & Biography
 
 ## Summary
 "The New Tsar" chronicles the astonishing rise of Vladimir Putin from a KGB officer to Russia's paramount leader, presenting him as a product of Soviet training who masterfully combined traditional Russian autocratic patterns with modern methods of control. Myers traces Putin's journey from his childhood in post-war Leningrad through his KGB career in Dresden, his unexpected path to power in 1999, and his systematic consolidation of authority that transformed Russia's political landscape. The book reveals how Putin's Soviet worldview, shaped by the trauma of the USSR's collapse, drove his mission to restore Russian greatness while dismantling democratic institutions.

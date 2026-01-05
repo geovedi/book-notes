@@ -1,5 +1,5 @@
 # Fast Food Nation
-**Author**: Eric Schlosser | **Year**: 2001
+**Author**: Eric Schlosser | **Year**: 2001 | **Category**: Business & Finance
 
 ## Summary
 "Fast Food Nation" is a groundbreaking investigative exposé revealing how the fast food industry has fundamentally transformed American society, economy, and culture. Schlosser demonstrates that the low price of fast food masks enormous hidden costs imposed on workers, consumers, communities, and the environment. Through meticulous research and compelling storytelling, he exposes how an industry that began as a symbol of American convenience now represents a threat to public health, worker safety, and democratic values.

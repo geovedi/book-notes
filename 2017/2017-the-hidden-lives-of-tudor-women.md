@@ -1,5 +1,6 @@
 # The Hidden Lives of Tudor Women
 **Authors**: Elizabeth Norton | **Year**: 2017
+**Category**: History & Biography
 
 ## Summary
 "The Hidden Lives of Tudor Women" is a social history that reveals the diverse experiences of women living in Tudor England (1485-1603). Through the framework of Shakespeare's Seven Ages of Man, Norton creates a collective biography that follows the archetypal "Tudor Everywoman" from birth to death. Drawing from the lives of both famous and ordinary women—from queens to servants, merchants to witches—she illuminates the daily realities, challenges, and unexpected freedoms available to women during one of England's most turbulent periods.

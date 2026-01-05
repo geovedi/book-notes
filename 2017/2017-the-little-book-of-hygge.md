@@ -1,5 +1,6 @@
 # The Little Book of Hygge
 **Authors**: Meik Wiking | **Year**: 2017
+**Category**: Self-Help & Personal Development
 
 ## Summary
 "The Little Book of Hygge" explores the Danish concept of "hygge" (pronounced "hoo-gah") - a feeling of comfort, togetherness, and well-being that Danes credit as a key ingredient in their consistently high happiness rankings. Written by the CEO of the Happiness Research Institute in Copenhagen, this book reveals how the art of creating intimacy, warmth, and contentment in everyday moments can transform your quality of life.

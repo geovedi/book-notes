@@ -1,5 +1,5 @@
 # Brilliant: The Evolution of Artificial Light
-**Authors**: Jane Brox | **Year**: 2010
+**Authors**: Jane Brox | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 "Brilliant" illuminates the fascinating 40,000-year journey of artificial light, from primitive stone lamps in Ice Age caves to our modern world of perpetual illumination. Brox weaves together technological history, social transformation, and cultural reflection to reveal how our relationship with light has fundamentally shaped human experience, work, sleep, and even our perception of time itself.

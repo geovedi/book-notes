@@ -1,5 +1,6 @@
 # How to Write a Book
 **Authors**: David Kadavy | **Year**: 2018
+**Category**: Business & Finance
 
 ## Summary
 "How to Write a Book" presents a practical 11-step process that transforms book writing from an overwhelming mystery into an achievable project. Kadavy reveals that writing a book is both harder than you can imagine (requiring dedication few apply to anything) and easier than you can imagine (it's just putting words on a page consistently). The book demolishes common myths that paralyze aspiring authors - that writing must always be hard, that books are written straight through, and that you shouldn't give your writing away.

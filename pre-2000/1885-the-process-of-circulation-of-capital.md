@@ -1,5 +1,6 @@
 # The Process of Circulation of Capital
 **Authors**: Karl Marx | **Year**: 1885
+**Category**: Business & Finance
 
 ## Summary
 "Capital, Volume II" completes Marx's analysis of capitalism by focusing on the circulation process—the movement of capital through its various forms. While Volume I concentrated on production, this volume reveals how capital transforms itself and circulates through the economy, creating the conditions for continuous accumulation and the reproduction of the entire social system.

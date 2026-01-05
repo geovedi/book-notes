@@ -1,5 +1,5 @@
 # Poisons: From Hemlock to Botox and the Killer Bean of Calabar
-**Author**: Peter Macinnis | **Year**: 2011
+**Author**: Peter Macinnis | **Year**: 2011 | **Category**: Health & Medicine
 
 ## Summary
 "Poisons" is a fascinating exploration of toxic substances throughout history, revealing how poisons have shaped human civilization in unexpected ways. Macinnis traces the evolution of poisons from ancient murder weapons to modern medical miracles, showing how the same deadly compounds that kill can also heal. The book spans from famous poisoners like the Borgias to the discovery of life-saving drugs, from food adulteration scandals to the biological processes that make poisons essential to life itself.

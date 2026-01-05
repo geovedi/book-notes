@@ -1,5 +1,6 @@
 # Chutzpah & Chutzpah
 **Authors**: Richard Myers, Simon Goode, Nick Darke | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 "Chutzpah & Chutzpah" is an inside look at Saatchi & Saatchi, the advertising agency that revolutionized the industry and rose from a small London startup to the world's largest agency in less than two decades. Written through firsthand stories from former employees, the book reveals how the Saatchi brothers built their empire through audacious creativity, fearless ambition, and an unwavering belief that "nothing is impossible."

@@ -1,5 +1,5 @@
 # The Song of the Cell
-**Authors**: Siddhartha Mukherjee | **Year**: 2022
+**Authors**: Siddhartha Mukherjee | **Year**: 2022 | **Category**: Health & Medicine
 
 ## Summary
 "The Song of the Cell" is a magnificent exploration of how the discovery of cells revolutionized our understanding of life and launched a new era of medicine. Mukherjee weaves together history, personal medical experiences, and cutting-edge science to reveal how cells are the fundamental units that connect all living beings. The book traces the journey from the first microscopic observations in the 17th century to today's revolutionary cellular therapies that are creating "new humans" through cellular engineering.

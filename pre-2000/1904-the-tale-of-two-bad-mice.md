@@ -1,5 +1,6 @@
 # The Tale of Two Bad Mice
 **Authors**: Beatrix Potter | **Year**: 1904
+**Category**: Children & Young Adult
 
 ## Summary
 Once upon a time, in a beautiful doll's house belonging to two dolls named Lucinda and Jane, two mice named Tom Thumb and Hunca Munca discover an opportunity for adventure when the nursery is empty. The mice are initially excited to find what appears to be a feast laid out in the dining room, complete with ham, fish, lobsters, and fruits. However, their excitement quickly turns to frustration and anger when they discover that all the food is merely painted plaster that cannot be eaten.

@@ -1,5 +1,6 @@
 # Meteoric Astronomy: A Treatise on Shooting-Stars, Fire-Balls, and Aerolites
 **Authors**: Daniel Kirkwood | **Year**: 1867
+**Category**: Science & Nature
 
 ## Summary
 This comprehensive scientific work establishes meteoric astronomy as a legitimate field of study, documenting the systematic observation and analysis of meteors, meteorites, and related celestial phenomena. Kirkwood presents groundbreaking evidence that shooting-stars, fire-balls, and aerolites (meteorites) are not random atmospheric events but part of organized meteoric rings orbiting the Sun in predictable patterns. The book connects these phenomena to comets and provides early support for the nebular hypothesis of solar system formation.

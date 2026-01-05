@@ -1,5 +1,6 @@
 # The Power of Amazon
 **Authors**: My Ebook Publishing House | **Year**: 2017
+**Category**: Business & Finance
 
 ## Summary
 This practical guide reveals how to leverage Amazon's massive marketplace to generate income from home. The book demystifies the various business models available on Amazon, from direct product selling to affiliate marketing, showing how anyone can tap into the platform's built-in trust and customer base.

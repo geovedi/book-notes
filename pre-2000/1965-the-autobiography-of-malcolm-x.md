@@ -1,5 +1,5 @@
 # The Autobiography of Malcolm X
-**Authors**: Malcolm X, Alex Haley | **Year**: 1965
+**Authors**: Malcolm X, Alex Haley | **Year**: 1965 | **Category**: History & Biography
 
 ## Summary
 The riveting account of Malcolm X's extraordinary transformation from a small-time hustler and criminal to one of America's most influential civil rights leaders. Written through conversations with Alex Haley, this autobiography chronicles four distinct phases: his traumatic childhood marked by racial violence, his descent into crime as "Detroit Red," his spiritual awakening and intellectual rebirth in prison, and his evolution into a global human rights advocate. What makes this story unforgettable is not just the dramatic changes in Malcolm's beliefs and identity, but his relentless courage to question his own convictions and publicly evolve—even when it cost him everything.

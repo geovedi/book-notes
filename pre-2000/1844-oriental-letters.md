@@ -1,5 +1,6 @@
 # Oriental Letters
 **Original Title**: Orientalische Briefe
+**Category**: Fiction & Literature
 **Author**: Ida von Hahn-Hahn | **Year**: 1844 
 
 ## Summary

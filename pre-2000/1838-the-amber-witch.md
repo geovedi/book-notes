@@ -1,5 +1,6 @@
 # The Amber Witch
 **Authors**: Wilhelm Meinhold | **Year**: 1838 (set in 17th century)
+**Category**: Fiction & Literature
 
 ## Summary
 Set during the Thirty Years' War in 17th century Pomerania, "The Amber Witch" tells the harrowing story of Mary Schweidler, the innocent daughter of Pastor Abraham Schweidler, who is falsely accused of witchcraft by the malicious Lizzie Kolken. When Mary discovers amber and mysteriously becomes wealthy, her neighbors' jealousy and superstition, combined with Lizzie's vendetta, lead to her arrest and trial. Despite her innocence and the logical defense provided by her lawyer, she is sentenced to torture and execution by burning at the stake. At the last moment, the young nobleman who had secretly encountered Mary on the mountain (disguised as the "devil" that witnesses claimed to see) arrives with proof of her innocence and saves her from death.

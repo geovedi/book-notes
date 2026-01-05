@@ -1,6 +1,6 @@
 # The Cryptocurrency Blockchain Connection
 **Original Title**: The Cryptocurrency - Blockchain Connection
-**Authors**: Wayne Walker | **Year**: 2018
+**Authors**: Wayne Walker | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide demystifies the relationship between cryptocurrencies and blockchain technology, clarifying that they are not the same thing despite common misconceptions. The book serves as both an investment primer for cryptocurrency trading and a technical introduction to blockchain applications, offering practical strategies for portfolio diversification, risk management, and security practices. Written by a capital markets expert, it bridges the gap between traditional finance and the emerging crypto ecosystem, providing readers with actionable insights for navigating this volatile market.

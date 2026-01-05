@@ -1,5 +1,6 @@
 # The Song of the Dodo
 **Author**: David Quammen | **Year**: 1997
+**Category**: Science & Nature
 
 ## Summary
 "The Song of the Dodo" is a masterful exploration of island biogeography and what it reveals about extinction in our fragmented world. Quammen uses the metaphor of cutting a Persian carpet into thirty-six worthless fragments to illustrate how ecosystem destruction leads to irreversible biodiversity loss. The book weaves together scientific theory, historical accounts, and field research to show how islands serve as natural laboratories where evolution and extinction processes become starkly visible. Through the stories of species like the dodo, the Komodo dragon, and Madagascar's tenrecs, Quammen reveals how isolation, area size, and time shape the fate of species—both on literal islands and in the "island" habitats that mainland ecosystems have become due to human fragmentation. This is essentially a book about what happens when complex living systems are broken into pieces.

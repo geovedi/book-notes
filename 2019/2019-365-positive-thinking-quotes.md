@@ -1,6 +1,7 @@
 # 365 Positive Thinking Quotes
 **Daily Positive Quotes to Smile More, Be More Grateful and Achieve More**
 **Authors**: Xabier K. Fernao | **Year**: 2019
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book is a carefully curated collection of 365 daily inspirational quotes designed to transform your mindset through consistent exposure to positive wisdom. Each quote serves as a daily mental vitamin, providing the motivation and perspective needed to navigate life's challenges with optimism and resilience. The book is structured as a year-long journey, with one powerful quote for each day, accompanied by insights on how to deeply reflect on and apply each message to your personal circumstances.

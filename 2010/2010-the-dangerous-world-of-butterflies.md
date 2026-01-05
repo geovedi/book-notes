@@ -1,5 +1,5 @@
 # The Dangerous World of Butterflies
-**Author**: Peter Laufer | **Year**: 2010
+**Author**: Peter Laufer | **Year**: 2010 | **Category**: Science & Nature
 
 ## Summary
 

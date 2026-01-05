@@ -1,5 +1,6 @@
 # The Best Minds: A Story of Friendship, Madness, and the Tragedy of Good Intentions
 **Author**: Jonathan Rosen | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 This devastating memoir recounts Rosen's lifelong friendship with Michael Laudor, his childhood friend across the street who seemed destined for greatness. Michael was exceptionally brilliant, confident, and charismatic—the boy every parent hoped their child would befriend. After both boys grew up with expectations of stratospheric success, Michael achieved the seemingly impossible: graduating summa cum laude from Yale Law School despite battling schizophrenia. His journey became a national sensation when The New York Times featured him in a front-page profile titled "A Voyage to Bedlam and Part Way Back," calling him a "schizophrenic encumbered by an invisible wheelchair." Hollywood came calling, with Ron Howard set to direct a movie starring Brad Pitt about Michael's life. But this inspirational story shattered in 1998 when Michael, in a psychotic state, murdered his pregnant fiancée Caroline "Carrie" Costello, transforming from a symbol of hope to a tabloid monster under the headline "PSYCHO."

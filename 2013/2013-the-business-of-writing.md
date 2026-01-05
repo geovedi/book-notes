@@ -1,5 +1,5 @@
 # The Business of Writing
-**Authors**: Philip Wylie | **Year**: 2013
+**Authors**: Philip Wylie | **Year**: 2013 | **Category**: Business & Finance
 
 ## Summary
 "The Business of Writing" is a practical guide that demystifies the publishing industry and provides aspiring non-fiction authors with a roadmap to successful publication. Written by an experienced author with decades of publishing experience, this book focuses specifically on non-fiction writing as the most viable path to making a living from writing. Wylie argues that while fiction writers face brutal competition against established authors like Stephen King and J.K. Rowling, non-fiction authors have significantly better odds of success with the right business approach.

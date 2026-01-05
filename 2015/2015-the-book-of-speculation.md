@@ -1,5 +1,5 @@
 # The Book of Speculation
-**Authors**: Erika Swyler | **Year**: 2015
+**Authors**: Erika Swyler | **Year**: 2015 | **Category**: Fiction & Literature
 
 ## Summary
 Simon Watson, a lonely librarian living in a crumbling house on Long Island Sound, receives a mysterious antique book from a rare book dealer. The book tells the story of his family's circus past, particularly focusing on the traveling Peabodys' Marvelous Circus in the 1790s and a mute boy who becomes a fortune-teller's apprentice. As Simon reads, he discovers a dark family curse: the women in his family, all circus performers known for their breath-holding abilities, tend to drown on July 24th—the same date his mother disappeared years ago. With his sister Enola, a carnival mermaid performer, set to return home on that exact date, Simon races against time to understand the curse and prevent history from repeating itself.

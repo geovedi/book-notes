@@ -1,5 +1,6 @@
 # Vanished: True Stories from Families of Australian Missing Persons
 **Author**: Nicole Morris | **Year**: 2023
+**Category**: History & Biography
 
 ## Summary
 "Vanished" is a powerful collection of true stories from families of missing persons in Australia, written by Nicole Morris, founder of the Australian Missing Persons Register. Through ten detailed case studies, Morris gives voice to the siblings, parents, and family members left behind when loved ones disappear without explanation. Each story reveals the profound emotional trauma, the ongoing search for answers, and the complex realities of navigating life with ambiguous loss. The book spans decades of disappearances across Australia, from teenage girls vanishing in 1979 to a young man's mysterious disappearance in the outback in 2006.

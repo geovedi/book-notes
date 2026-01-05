@@ -1,5 +1,6 @@
 # Sense and Sensibility
 **Authors**: Jane Austen | **Year**: 1811
+**Category**: Romance & Relationships
 
 ## Summary
 "Sense and Sensibility" tells the story of two sisters, Elinor and Marianne Dashwood, who are left impoverished after their father's death and face the harsh realities of Regency England's limited options for women of gentle birth. The novel explores their contrasting approaches to life and love: Elinor embodies "sense" - practical restraint and rational thinking - while Marianne represents "sensibility" - emotional intensity and romantic idealism. Through their experiences with love, betrayal, and social maneuvering, both sisters learn to balance reason with emotion, ultimately finding happiness through compromise and personal growth.

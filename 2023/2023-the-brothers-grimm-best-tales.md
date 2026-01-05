@@ -1,5 +1,6 @@
 # The Brothers Grimm Best Tales
 **Authors**: Wilhelm Grimm & Jacob Grimm | **Year**: 2023 (Collection)
+**Category**: Children & Young Adult
 
 ## Summary
 This collection gathers the most beloved fairy tales from the Brothers Grimm, presenting their timeless stories that have shaped Western folklore and children's literature for over two centuries. The book includes classics like "Hansel and Gretel," "Rapunzel," "Briar Rose" (Sleeping Beauty), "The Frog Prince," and many others that continue to captivate readers with their blend of magic, moral lessons, and sometimes dark undertones.

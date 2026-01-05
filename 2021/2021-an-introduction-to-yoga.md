@@ -1,5 +1,6 @@
 # An Introduction to Yoga
 **Authors**: Annie Besant | **Year**: 2021
+**Category**: Health & Medicine
 
 ## Summary
 "An Introduction to Yoga" by Annie Besant is a comprehensive philosophical guide that presents Yoga as both a science and spiritual path. Based on lectures delivered in 1907, this work serves as preparation for studying Patanjali's Yoga Sutras, presenting Yoga as the accelerated unfolding of consciousness that transcends normal human evolution to achieve super-human states of being.

@@ -1,6 +1,6 @@
 # The Unhappiness of Being a Single Man
 **Original Title**: Das Unglück des Junggesellen (German)
-**Author**: Franz Kafka | **Year**: 2018 (Collection) | **Translator**: Alexander Starritt
+**Author**: Franz Kafka | **Year**: 2018 (Collection) | **Translator**: Alexander Starritt | **Category**: Fiction & Literature
 
 ## Summary
 This collection presents Franz Kafka's essential short stories, showcasing the literary genius whose name has become synonymous with surreal anxiety and bureaucratic nightmare. Unlike his lengthy novels that can feel interminable, these stories deliver Kafka's distinctive vision in quick, concentrated doses that are simultaneously funny, strange, and deeply sad. The collection contains some of Kafka's most powerful works including "The Judgement," "In the Penal Colony," "A Hunger Artist," and "A Report to an Academy."

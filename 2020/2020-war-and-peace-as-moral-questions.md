@@ -1,6 +1,7 @@
 # War and Peace as Moral Questions
 **Original Title**: La guerra e la pace come questioni morali
 **Author**: Maria Teresa Russo | **Year**: 2020
+**Category**: Philosophy & Critical Thinking
 
 ## Summary
 This scholarly work examines philosopher Henri Bergson's transformation during World War I, from metaphysical thinker to moral philosopher engaged in practical politics. The book challenges the conventional view of Bergson's wartime activities as mere patriotic propaganda, instead presenting them as a crucial transitional phase in his philosophical development. Russo argues that Bergson's diplomatic missions to the United States and his wartime speeches represent a profound engagement with moral questions that would culminate in his masterpiece "The Two Sources of Morality and Religion" (1932).

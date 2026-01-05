@@ -1,5 +1,6 @@
 # How to Become a Successful Creative Freelancer
 **Authors**: Andy Strote | **Year**: 2024
+**Category**: Business & Finance
 
 ## Summary
 This comprehensive business guide is specifically designed for solo creative freelancers who provide services directly to clients and agencies. Unlike many business books that assume freelancers want to grow into agencies, this book focuses on building a sustainable, profitable solo practice in writing, design, development, filmmaking, or photography. Strote draws from his six years of successful freelance writing experience and subsequent agency-building journey to provide practical, actionable advice for every stage of the freelance career.

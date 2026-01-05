@@ -1,5 +1,6 @@
 # Good-bye, Mr. Chips
 **Author**: James Hilton | **Year**: 1934
+**Category**: Fiction & Literature
 
 ## Summary
 Good-bye, Mr. Chips is a poignant and heartwarming novella that chronicles the life of Mr. Charles Chipping ("Mr. Chips"), a shy and initially uninspired classics teacher at Brookfield School. Through his six decades at the school, Chips transforms from a nervous young teacher into a beloved institution, finding love, purpose, and profound meaning in his dedication to generations of boys. Set against the backdrop of major historical events from the Franco-Prussian War through World War I, this gentle masterpiece celebrates the quiet heroism of ordinary lives and the enduring power of education, tradition, and human connection.

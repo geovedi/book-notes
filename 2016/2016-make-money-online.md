@@ -1,5 +1,5 @@
 # Make Money Online
-**Authors**: My Ebook Publishing House | **Year**: 2016
+**Authors**: My Ebook Publishing House | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 "Make Money Online" is a practical guide that explores various legitimate methods for generating income through the internet. The book focuses on realistic strategies that range from simple tasks like online surveys to more complex business models like affiliate marketing and digital product creation. It emphasizes that while online success requires hard work and dedication, multiple viable paths exist for those willing to put in consistent effort.

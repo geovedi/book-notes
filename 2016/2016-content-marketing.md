@@ -1,5 +1,5 @@
 # Content Marketing: A Beginner's Guide to Dominating the Market with Content Marketing
-**Authors**: Eric J Scott | **Year**: 2016
+**Authors**: Eric J Scott | **Year**: 2016 | **Category**: Business & Finance
 
 ## Summary
 

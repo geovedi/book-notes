@@ -1,5 +1,5 @@
 # The Family That Couldn't Sleep: A Medical Mystery
-**Author**: D.T. Max | **Year**: 2006
+**Author**: D.T. Max | **Year**: 2006 | **Category**: Health & Medicine
 
 ## Summary
 This gripping medical mystery follows an Italian family cursed for over two centuries with fatal familial insomnia (FFI), a rare inherited prion disease that strikes in middle age and kills by depriving victims of sleep. The book weaves together the family's tragic story with the broader scientific quest to understand prion diseases—mysterious conditions that can be genetic, infectious, or accidental, caused by infectious proteins that behave like viruses.

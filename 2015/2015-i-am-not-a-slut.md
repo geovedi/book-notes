@@ -1,5 +1,5 @@
 # I Am Not a Slut
-**Author**: Leora Tanenbaum | **Year**: 2015
+**Author**: Leora Tanenbaum | **Year**: 2015 | **Category**: Psychology & Mental Health
 
 ## Summary
 Leora Tanenbaum delivers a powerful analysis of how "slut" has become a toxic weapon in the age of the Internet, arguing for its complete elimination rather than reclamation. Through extensive research and personal stories, she reveals how digital technology has transformed slut-shaming from isolated incidents into an inescapable experience for nearly every young woman today.

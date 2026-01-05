@@ -1,6 +1,7 @@
 # Eugene Onegin
 **Original Title**: Евгений Онегин (Eugeny Onegin)
 **Author**: Aleksandr Sergeevich Pushkin | **Year**: 1833
+**Category**: Romance & Relationships
 
 ## Summary
 "Eugene Onegin" is a masterpiece of Russian literature - a verse novel that tells the story of a bored St. Petersburg aristocrat whose cynicism and emotional detachment lead to tragedy and ultimately, his own downfall. The novel follows the complex relationship between the world-weary Eugene Onegin and the sincere, introspective Tatiana, whose genuine love he initially rejects only to pursue it years later when it's too late.

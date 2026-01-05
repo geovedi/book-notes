@@ -1,5 +1,6 @@
 # Jony Ive: The Genius Behind Apple's Greatest Products
 **Authors**: Leander Kahney | **Year**: 2020
+**Category**: Technology & Computing
 
 ## Summary
 This book reveals the extraordinary journey of Jony Ive, Apple's legendary design chief who revolutionized technology through his obsessive pursuit of simplicity and perfection. From his early days as a design student in Britain to becoming Steve Jobs' creative soulmate, Ive transformed Apple from a struggling company into the world's most valuable brand through products like the iPhone, iPad, and MacBook.

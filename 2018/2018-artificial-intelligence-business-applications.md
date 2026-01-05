@@ -1,5 +1,5 @@
 # Artificial Intelligence Business Applications
-**Authors**: Abiprod | **Year**: 2018
+**Authors**: Abiprod | **Year**: 2018 | **Category**: Technology & Computing
 
 ## Summary
 This practical guide demystifies artificial intelligence for business applications, showing how companies of any size can leverage AI to reduce costs, increase efficiency, and drive growth. The book breaks down AI implementation into concrete, accessible strategies across customer service, fraud detection, data analysis, and marketing automation.

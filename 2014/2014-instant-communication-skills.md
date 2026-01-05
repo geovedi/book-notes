@@ -1,5 +1,5 @@
 # Instant Communication Skills
-**Authors**: Instant Series Publication | **Year**: 2014
+**Authors**: Instant Series Publication | **Year**: 2014 | **Category**: Self-Help & Personal Development
 
 ## Summary
 

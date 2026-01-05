@@ -1,5 +1,5 @@
 # Identifying Business Opportunities
-**Authors**: Unknown | **Year**: 2022
+**Authors**: Unknown | **Year**: 2022 | **Category**: Business & Finance
 
 ## Summary
 This practical guide demystifies the process of finding, evaluating, and acting on business opportunities. The book challenges the common misconception that success depends on being "at the right place at the right time," instead arguing that opportunities must be actively sought, properly evaluated, and decisively acted upon. The author provides a systematic framework for identifying viable business ventures through both traditional methods and modern digital tools.

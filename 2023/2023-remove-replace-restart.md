@@ -1,5 +1,6 @@
 # Remove, Replace, Restart
 **Authors**: Christian Greiser | **Year**: 2023
+**Category**: Business & Finance
 
 ## Summary
 This practical career maintenance manual presents a powerful framework for professional transformation using a car maintenance analogy. Christian Greiser, former Boston Consulting Group Senior Partner turned executive coach, offers a proven six-step process for when your "engine for success" starts to stutter. The book is designed for leaders, managers, and entrepreneurs at professional turning points who feel stuck or that their career momentum has stalled.

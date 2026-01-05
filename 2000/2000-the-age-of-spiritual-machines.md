@@ -1,5 +1,5 @@
 # The Age of Spiritual Machines
-**Author**: Ray Kurzweil | **Year**: 2000
+**Author**: Ray Kurzweil | **Year**: 2000 | **Category**: Technology & Computing
 
 ## Summary
 

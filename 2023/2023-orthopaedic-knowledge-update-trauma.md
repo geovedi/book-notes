@@ -1,5 +1,6 @@
 # Orthopaedic Knowledge Update: Trauma 6
 **Authors**: William M. Ricci, MD, FAAOS, Samir Mehta, MD, FAAOS | **Year**: 2023
+**Category**: Health & Medicine
 
 ## Summary
 This comprehensive sixth edition of the American Academy of Orthopaedic Surgeons' flagship trauma reference represents the current state-of-the-art in orthopaedic trauma care. The book integrates evidence-based medicine principles with emerging technologies and surgical innovations across the full spectrum of musculoskeletal trauma, from basic biomechanics to complex polytrauma management. It emphasizes a multidisciplinary approach, highlighting how physiologic status, timing of interventions, and individualized treatment decisions dramatically impact patient outcomes.

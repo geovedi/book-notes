@@ -1,5 +1,6 @@
 # The Triumph of Seeds
 **Author**: Thor Hanson | **Year**: 2015
+**Category**: Science & Nature
 
 ## Summary
 "The Triumph of Seeds" reveals how these tiny botanical powerhouses conquered Earth and shaped human civilization. Through five core abilities—nourishment, unity, endurance, defense, and travel—seeds transformed from trivial players in a spore-dominated world to the foundation of 90% of plant life. Hanson weaves together biology, history, and personal stories from his rainforest research to show how seeds enabled agriculture, built economies, and continue to influence everything from our daily diet to global politics.

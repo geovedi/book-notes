@@ -1,5 +1,6 @@
 # Applied Psychology: Applying Psychology to Real-World Problems
 **Authors**: Connor Whiteley | **Year**: 2024
+**Category**: Psychology & Mental Health
 
 ## Summary
 Applied Psychology demonstrates how psychological theories translate into practical solutions for everyday challenges. Connor Whiteley bridges the gap between academic knowledge and real-world application, showing psychology students and professionals how to transform theoretical concepts into interventions that genuinely improve people's lives. The book argues that psychology's true power lies not in fascinating theories alone, but in their strategic application to solve human problems across diverse settings from classrooms to workplaces and digital communities.

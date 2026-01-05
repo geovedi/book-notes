@@ -1,5 +1,6 @@
 # Back to the Basics: Hints on Trying to Get That Great Job
 **Authors**: G. S. Taylor | **Year**: 2019
+**Category**: Business & Finance
 
 ## Summary
 This practical job-seeking guide provides fundamental advice for school leavers, long-term unemployed individuals, and people with disabilities who are entering the workforce. Written by someone who experienced long-term unemployment and worked across diverse industries from the Royal Australian Air Force to Aboriginal community management, the book covers every stage of the job-seeking process with real-world insights and actionable strategies.

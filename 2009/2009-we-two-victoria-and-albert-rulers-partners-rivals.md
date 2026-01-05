@@ -1,5 +1,6 @@
 # We Two: Victoria and Albert, Rulers, Partners, Rivals
 **Author**: Gillian Gill | **Year**: 2009
+**Category**: History & Biography
 
 ## Summary
 Gillian Gill's "We Two" shatters the romantic myth of Queen Victoria and Prince Albert, revealing instead a complex power struggle that transformed the British monarchy. Far from being merely a love story, their 21-year marriage was a political partnership defined by rivalry, ambition, and the fundamental contradiction of a reigning queen married to a man who sought to rule alongside her. Gill exposes how Albert systematically worked to undermine English constitutional principles while Victoria struggled to reconcile her roles as submissive wife and independent monarch.

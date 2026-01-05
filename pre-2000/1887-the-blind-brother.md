@@ -1,5 +1,6 @@
 # The Blind Brother
 **Authors**: Homer Greene | **Year**: 1887
+**Category**: Fiction & Literature
 
 ## Summary
 "The Blind Brother" tells the heartwarming story of Tom Taylor and his blind younger brother Bennie, who work in the Pennsylvania coal mines during the 1880s. Following their father's death in a mining accident, the boys support their widowed mother while dreaming of restoring Bennie's sight through a hundred-dollar operation in Philadelphia. The story explores themes of brotherly devotion, moral integrity, and the harsh realities of mining life, culminating in a dramatic rescue that tests the bonds of family and community.

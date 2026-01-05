@@ -1,5 +1,6 @@
 # Press Reset
 **Authors**: Jason Schreier | **Year**: 2021
+**Category**: Business & Finance
 
 ## Summary
 "Press Reset" is a searing investigative look at the human cost behind the gleaming facade of the $180 billion video game industry. While gaming has become entertainment's most lucrative sector, the book reveals a dark truth: rampant instability, mass layoffs, and studio closures have become normalized, leaving talented developers constantly anxious about their next paycheck. Schreier chronicles the rise and fall of several prominent studios—包括Irrational Games (BioShock), 38 Studios, and Telltale Games—through intimate interviews with developers who lost their dream jobs overnight.

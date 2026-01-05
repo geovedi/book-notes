@@ -1,5 +1,5 @@
 # The Greatest Ghost and Horror Stories Ever Written Volume 1
-**Authors**: Multiple Authors Including Ambrose Bierce, Algernon Blackwood, H.P. Lovecraft, Edgar Allan Poe, Charles Dickens, Washington Irving | **Year**: 2018
+**Authors**: Multiple Authors Including Ambrose Bierce, Algernon Blackwood, H.P. Lovecraft, Edgar Allan Poe, Charles Dickens, Washington Irving | **Year**: 2018 | **Category**: Horror & Thriller
 
 ## Summary
 This comprehensive anthology gathers 30 of the most influential ghost and horror stories ever written, spanning over a century of Gothic and supernatural literature from the early 1800s to the 1930s. The collection represents the evolution of horror fiction from traditional ghost stories to psychological thrillers and cosmic horror, featuring works by the masters who defined the genre.

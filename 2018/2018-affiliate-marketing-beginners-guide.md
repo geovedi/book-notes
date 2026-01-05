@@ -1,5 +1,5 @@
 # Affiliate Marketing: Beginners Guide to Learn Step-by-Step How to Make Money Online
-**Authors**: Daren H. Russell | **Year**: 2018
+**Authors**: Daren H. Russell | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 This comprehensive guide breaks down affiliate marketing into actionable steps for beginners looking to generate passive income online. Russell demystifies the process of earning commissions by promoting other people's products, providing a roadmap from zero to earning up to $10,000 per month through strategic niche selection, content creation, traffic generation, and scaling techniques.

@@ -1,5 +1,6 @@
 # Tales of Terror and Mystery
 **Authors**: Arthur Conan Doyle | **Year**: 1922
+**Category**: Horror & Thriller
 
 ## Summary
 

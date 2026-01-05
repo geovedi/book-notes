@@ -1,5 +1,6 @@
 # Discipline Your Way to Success
 **Authors**: Chase Andrews | **Year**: 2018
+**Category**: Self-Help & Personal Development
 
 ## Summary
 This book presents discipline as the crucial bridge between inspiration and achievement, arguing that success requires moving from ideas to tangible action through mental mastery. Andrews frames discipline as a cognitive tool that allows the mind to override primal instincts and bodily resistance, positioning it as essential for converting divine inspiration into worldly success. He presents a dual-purpose model of human existence: the body's biological drive for survival versus the soul's pursuit of greatness, with discipline serving as the mechanism to prioritize the latter.

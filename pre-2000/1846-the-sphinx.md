@@ -1,5 +1,6 @@
 # The Sphinx
 **Author**: Edgar Allan Poe | **Year**: 1846
+**Category**: Horror & Thriller
 
 ## Summary
 Set during a devastating cholera outbreak in New York, this psychological short story follows a narrator who has retreated to the Hudson River countryside with his more rational friend. Paralyzed by fear and superstition, the narrator becomes convinced that a monstrous creature descending a distant hill is an omen of death. The creature—described as a massive beast with wings, crystal-like staffs, and a death's head marking on its breast—terrifies him to the point of fainting. When his friend cannot see the apparition, the narrator fears he's descending into madness. However, the rational friend eventually reveals that the "monster" is actually a tiny sphinx moth crawling along a thread near the window, demonstrating how fear and perception can distort reality.

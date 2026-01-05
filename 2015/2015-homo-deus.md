@@ -1,5 +1,5 @@
 # Homo Deus: A Brief History of Tomorrow
-**Authors**: Yuval Noah Harari | **Year**: 2015
+**Authors**: Yuval Noah Harari | **Year**: 2015 | **Category**: Philosophy & Critical Thinking
 
 ## Summary
 

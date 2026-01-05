@@ -1,5 +1,5 @@
 # Minimalism: The Simplest Way of Life in the World
-**Authors**: Luke Eisenberg | **Year**: 2018
+**Authors**: Luke Eisenberg | **Year**: 2018 | **Category**: Self-Help & Personal Development
 
 ## Summary
 This book presents minimalism as a liberating lifestyle choice that opposes society's culture of excessive consumption. It argues that by reducing unnecessary possessions and focusing only on what truly matters, people can reclaim their time, money, and mental peace. The author provides practical strategies for transitioning to minimalism and maintaining this lifestyle long-term.

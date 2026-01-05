@@ -1,5 +1,5 @@
 # The Complete Novels of Nikolai Gogol
-**Authors**: Nikolai Gogol | **Year**: 2018 (Golden Deer Classics Edition)
+**Authors**: Nikolai Gogol | **Year**: 2018 (Golden Deer Classics Edition) | **Category**: Fiction & Literature
 
 ## Summary
 Nikolai Gogol's Complete Novels presents two of Russian literature's most influential works that showcase the author's remarkable range—from historical epic to social satire. This Golden Deer Classics collection features "Taras Bulba," a passionate tale of Cossack honor and family conflict, and "Dead Souls," Gogol's unfinished masterpiece that exposes the absurd corruption of provincial Russian society through a con man's scheme to purchase deceased serfs.

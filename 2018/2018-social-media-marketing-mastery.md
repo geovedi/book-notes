@@ -1,5 +1,5 @@
 # Social Media Marketing Mastery
-**Authors**: Eric J Scott | **Year**: 2018
+**Authors**: Eric J Scott | **Year**: 2018 | **Category**: Business & Finance
 
 ## Summary
 Social media marketing transforms traditional selling by focusing on building genuine relationships with customers rather than pushing products. This comprehensive guide reveals how businesses can leverage major platforms—Facebook, Pinterest, Twitter, Instagram, and LinkedIn—to create authentic connections, establish authority, and drive meaningful engagement that leads to customer loyalty and sales.

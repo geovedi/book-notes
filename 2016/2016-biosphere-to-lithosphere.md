@@ -1,5 +1,5 @@
 # Biosphere to Lithosphere: New Studies in Vertebrate Taphonomy
-**Editors**: Terry O'Connor (Editor), Peter Rowley-Conwy, Umberto Albarella, Keith Dobney (Series Editors) | **Year**: 2016
+**Editors**: Terry O'Connor (Editor), Peter Rowley-Conwy, Umberto Albarella, Keith Dobney (Series Editors) | **Year**: 2016 | **Category**: Science & Nature
 
 ## Summary
 This comprehensive academic volume presents cutting-edge research in vertebrate taphonomy - the study of how animal remains transition from living organisms (biosphere) to fossilized evidence (lithosphere). Originating from the 9th International Council of Archaeozoology conference, the book brings together diverse research approaches spanning from the Lower Pleistocene to recent history across Arctic, European, Middle Eastern, and South American contexts. The collection demonstrates how taphonomic studies have evolved from simply correcting for environmental biases to becoming a powerful tool for reconstructing human behavior and environmental conditions.

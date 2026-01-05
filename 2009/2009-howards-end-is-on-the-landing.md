@@ -1,5 +1,6 @@
 # Howards End is on the Landing
 **Author**: Susan Hill | **Year**: 2009
+**Category**: Art & Creativity
 
 ## Summary
 "Howards End is on the Landing" is a charming memoir about author Susan Hill's decision to spend a year reading only from her personal library rather than buying new books. What begins as a simple hunt for a missing book transforms into a delightful journey through the accumulated wisdom, memories, and discoveries contained on her shelves. Hill's experiment emerges partly as a response to digital overload and internet fragmentation, aiming to reclaim deeper, more focused reading experiences.

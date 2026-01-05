@@ -1,6 +1,7 @@
 # Piccadilly Jim
 **Original Title**: Piccadilly Jim
 **Authors**: P.G. Wodehouse | **Year**: 1917
+**Category**: Fiction & Literature
 
 ## Summary
 Piccadilly Jim is a classic romantic comedy featuring Jimmy Crocker, a notorious American playboy living in London who has become a constant source of embarrassment to his stepmother Eugenia. When Jimmy's father Bingley, now married to the wealthy American widow Eugenia Crocker, faces social ruin due to Jimmy's wild antics, the family decides Jimmy must come to America to work for his uncle, financier Peter Pett. However, Jimmy has other plans, leading to a case of mistaken identity, family complications, and unexpected romance with Ann Chester, the spirited niece of Peter Pett. The novel is filled with Wodehouse's trademark witty dialogue, comic misunderstandings, and delightful characters navigating the worlds of high society and family drama.
