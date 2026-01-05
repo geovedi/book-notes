@@ -159,7 +159,6 @@ A collection of book summaries organized by year.
 - **[The Defeat of the West](2024/2024-the-defeat-of-the-west.md)** - Emmanuel Todd, with the collaboration of Baptiste Touverey
 - **[The Element Trial](2024/2024-the-element-trial.md)** - Julie Midtgaard
 - **[The Flower and the Flame](2024/2024-the-flower-and-the-flame.md)** - Kerri Keberly
-- **[The Good Bug](2024/2024-the-good-bug.md)** - George McGavin
 - **[The Impossible Man](2024/2024-the-impossible-man.md)** - Patchen Barss
 - **[The Knowing](2024/2024-the-knowing.md)** - Tanya Talaga
 - **[The Last Sunset in the West](2024/2024-the-last-sunset-in-the-west.md)** - Natalie Sanders
@@ -196,7 +195,6 @@ A collection of book summaries organized by year.
 
 ## 2023
 
-- **[50 Masterpieces You Have to Read Before You Die (Vol 1)](2023/2023-50-masterpieces-you-have-to-read-before-you-die-vol-1.md)** - Various Classic Authors
 - **[8 Rules of Love](2023/2023-8-rules-of-love.md)** - Jay Shetty
 - **[A Damn Good Business](2023/2023-a-damn-good-business.md)** - Ben Steenstra, Nicci Severens
 - **[A Fever in the Heartland](2023/2023-a-fever-in-the-heartland.md)** - Timothy Egan
@@ -216,7 +214,6 @@ A collection of book summaries organized by year.
 - **[Code Name Blue Wren](2023/2023-code-name-blue-wren.md)** - Jim Popkin
 - **[Consciousness: A Materialist Guide to the Mind](2023/2023-consciousness-a-materialist-guide-to-the-mind.md)** - John Parrington
 - **[Courtiers: Intrigue, Ambition, and the Power Players Behind the House of Windsor](2023/2023-courtiers-intrigue-ambition-and-the-power-players-behind-the-house-of-windsor.md)** - Valentine Low
-- **[Crypto Trading for Beginners](2023/2023-crypto-trading-for-beginners.md)** - Stephen Benjamin
 - **[Data-Driven AI Architectures](2023/2023-data-driven-ai-architectures.md)** - Steve Abrams
 - **[Day Trading & Options Trading](2023/2023-day-trading-options-trading.md)** - Samuel Feron
 - **[Decoded Money](2023/2023-decoded-money.md)** - Brijesh Parikh & Planetwealth
@@ -443,7 +440,6 @@ A collection of book summaries organized by year.
 
 ## 2021
 
-- **[A Brief History of Earth](2021/2021-a-brief-history-of-earth.md)** - Andrew H. Knoll
 - **[A Guide to Stoicism](2021/2021-a-guide-to-stoicism.md)** - St. George Stock
 - **[A Time for Change](2021/2021-a-time-for-change.md)** - Martha R. Bireda
 - **[AI 2041: Ten Visions for Our Future](2021/2021-ai-2041-ten-visions-for-our-future.md)** - Kai-Fu Lee, Chen Qiufan
@@ -518,7 +514,6 @@ A collection of book summaries organized by year.
 - **[The Get Things Done Book](2021/2021-the-get-things-done-book.md)** - Mikael Krogerus, Roman Tschäppeler
 - **[The God Equation](2021/2021-the-god-equation.md)** - Michio Kaku
 - **[The Greatest Classics of Ancient Greece](2021/2021-the-greatest-classics-of-ancient-greece.md)** - Homer, Hesiod, Archilochus, Alcaeus, Sappho, Anacreon, Theognis of Megara, Simonides of Ceos, Bacchylides, Pindar, Aeschylus, Sophocles, Euripides, Aristophanes, Herodotus, Thucydides, Plato, Aristotle, Lysias, Demosthenes, Apollonius, Callimachus, Theocritus, Plutarch, Epictetus, Gilbert Murray
-- **[The History of Chemistry](2021/2021-the-history-of-chemistry.md)** - Thomas Thomson
 - **[The Iliad and the Odyssey](2021/2021-the-iliad-and-odyssey.md)** - Homer, Gilbert Murray (Editor)
 - **[The Independent Thinker](2021/2021-the-independent-thinker.md)** - Patrick King
 - **[The Lesser Key of Solomon](2021/2021-the-lesser-key-of-solomon.md)** - Aleister Crowley, S.L. MacGregor Mathers
@@ -559,7 +554,6 @@ A collection of book summaries organized by year.
 
 ## 2020
 
-- **[20 Classic Fantasy Works You Should Read](2020/2020-20-classic-fantasy-works-you-should-read.md)** - George MacDonald, Lewis Carroll, L. Frank Baum, Edith Nesbit, William Morris, Ernest Bramah, William Hope Hodgson, David Lindsay, Charles Kingsley, J.M. Barrie, G.K. Chesterton, Kenneth Grahame, C.J. Cutcliffe Hyne
 - **[500 Classic Fairy Tales You Should Read](2020/2020-500-classic-fairy-tales-you-should-read.md)** - Various (including Anonymous, Margaret Arndt, Peter Christen Asbjørnsen, Jørgen Moe, Robert Nisbet Bain, James Baldwin, Charles Perrault, Oscar Wilde, and many more)
 - **[7 Short Stories That ISFPs Will Love](2020/2020-7-short-stories-that-isfp-will-love.md)** - O. Henry, Anton Chekhov, Washington Irving, Stephen Crane, Honoré de Balzac, Franz Kafka, Ryūnosuke Akutagawa
 - **[A Bond of Flame](2020/2020-a-bond-of-flame.md)** - Richard Fierce
@@ -612,7 +606,6 @@ A collection of book summaries organized by year.
 - **[Realising the Power of You](2020/2020-realising-the-power-of-you.md)** - Ted CBT
 - **[Resilience: Adapt and Plan for the New Abnormal of the COVID-19 Coronavirus Pandemic](2020/2020-resilience-adapt-and-plan-for-the-new-abnormal-of-the-covid-19-coronavirus-pandemic.md)** - Gleb Tsipursky
 - **[Retail Arbitrage: Complete Guide to Making Money Online](2020/2020-retail-arbitrage.md)** - Mark Graham
-- **[Seven Short Stories That INFJ Will Love](2020/2020-seven-short-stories-that-infj-will-love.md)** - Ralph Waldo Emerson, Plato, Nathaniel Hawthorne, Kate Chopin, Marcus Aurelius, Virginia Woolf, H.P. Lovecraft
 - **[Seven Short Stories That INTJs Will Love](2020/2020-seven-short-stories-that-intjs-will-love.md)** - Nathaniel Hawthorne, O. Henry, Marcus Aurelius, Arthur Conan Doyle, Honoré de Balzac, Herman Melville, Oscar Wilde
 - **[Seven Short Stories That INTP Will Love](2020/2020-seven-short-stories-that-intp-will-love.md)** - Saki, Marcus Aurelius, Arthur Conan Doyle, H.P. Lovecraft, Ralph Waldo Emerson, James Joyce, Katherine Mansfield
 - **[Statistics for Data Science and Analytics](2020/2020-statistics-for-data-science-and-analytics.md)** - Peter C. Bruce, Peter Gedeck
@@ -669,7 +662,6 @@ A collection of book summaries organized by year.
 - **[365 Funny Quotes](2019/2019-365-funny-quotes.md)** - Xabier K. Fernao
 - **[365 Inspirational Quotes](2019/2019-365-inspirational-quotes.md)** - Xabier K. Fernao
 - **[365 Life Quotes](2019/2019-365-life-quotes.md)** - Xabier K. Fernao
-- **[365 Love Quotes](2019/2019-365-love-quotes.md)** - Xabier K. Fernao
 - **[365 Mindset Quotes](2019/2019-365-mindset-quotes.md)** - Xabier K. Fernao
 - **[365 Money Quotes](2019/2019-365-money-quotes.md)** - Xabier K. Fernao
 - **[365 Motivational Quotes](2019/2019-365-motivational-quotes.md)** - Xabier K. Fernao
@@ -679,7 +671,6 @@ A collection of book summaries organized by year.
 - **[365 Taoism Quotes](2019/2019-365-taoism-quotes.md)** - Xabier K. Fernao
 - **[365 Women Empowerment Quotes](2019/2019-365-women-empowerment-quotes.md)** - Xabier K. Fernao
 - **[50 Masterpieces You Have to Read: A-to-Z Classics](2019/2019-50-masterpieces-you-have-to-read-a-to-z-classics.md)** - Various
-- **[50 Mystery and Detective Masterpieces You Have to Read Before You Die, Vol. 2](2019/2019-50-mystery-and-detective-masterpieces.md)** - Various Authors
 - **[8 Classic Russian Novels You Should Read](2019/2019-8-classic-russian-novels-you-should-read.md)** - Nikolai Gogol, Ivan Goncharov, Ivan Turgenev, Fyodor Dostoevsky, Leo Tolstoy, Maxim Gorky
 - **[99 Classic Mystery Short Stories Volume 1](2019/2019-99-classic-mystery-short-stories-vol1.md)** - Algernon Blackwood, Arthur Conan Doyle, Wilkie Collins, H.G. Wells, Rudyard Kipling, and more
 - **[99 Classic Thriller Short Stories](2019/2019-99-classic-thriller-short-stories.md)** - Multiple Authors including Philip K. Dick, Edgar Allan Poe, Arthur Conan Doyle, H.G. Wells, Wilkie Collins, and many more
@@ -862,7 +853,6 @@ A collection of book summaries organized by year.
 - **[The Secret of Prosperity](2019/2019-the-secret-of-prosperity.md)** - Wallace D. Wattles, William Walker Atkinson, P.T. Barnum, Benjamin Franklin, Orison Swett Marden, James Allen, Russell Conwell, Henry Harrison Brown, Thorstein Veblen, Émile Coué, Kahlil Gibran, Marcus Aurelius, Niccolò Machiavelli, Lao Tzu
 - **[The Starlight Quest](2019/2019-the-starlight-quest.md)** - Rachel Morgan
 - **[The Systems Thinker - Analytical Skills](2019/2019-the-systems-thinker-analytical-skills.md)** - Albert Rutherford
-- **[The Systems Thinker - Dynamic Systems](2019/2019-the-systems-thinker-dynamic-systems.md)** - Albert Rutherford
 - **[The Systems Thinker](2019/2019-the-systems-thinker.md)** - Albert Rutherford
 - **[The Tale of Genji](2019/2019-the-tale-of-genji.md)** - Murasaki Shikibu
 - **[The Truffle Underground](2019/2019-the-truffle-underground.md)** - Ryan Jacobs
@@ -890,7 +880,6 @@ A collection of book summaries organized by year.
 - **[50 Classic Christmas Stories Vol. 4](2018/2018-50-classic-christmas-stories.md)** - A.A. Milne, Arthur Conan Doyle, Charles Dickens, Dylan Thomas, Mark Twain, and more
 - **[50 Classic Self-Help Books Collection](2018/2018-50-classic-self-help-books.md)** - Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, James Allen, Russell H. Conwell, and others
 - **[50 Classic Self-Help And Motivational Books You Have To Read Before You Die](2018/2018-50-classic-self-help-motivational-books.md)** - Napoleon Hill, Benjamin Franklin, Wallace D. Wattles, Dale Carnegie, James Allen, and 45 other classic authors
-- **[50 Feminist Masterpieces You Have to Read Before You Die](2018/2018-50-feminist-masterpieces-you-have-to-read-before-you-die.md)** - Various Authors (Golden Deer Classics)
 - **[52 Ways I Practice: A Practical Guide](2018/2018-52-ways-i-practice-a-practical-guide.md)** - Birgit Schulze, Irmtraud Kauschat
 - **[7 Habits of Business English Success](2018/2018-7-habits-of-business-english-success.md)** - Winn Trivette, MA
 - **[A Beginner's Guide to Article Marketing](2018/2018-a-beginners-guide-to-article-marketing.md)** - The Non Fiction Author
@@ -1105,12 +1094,9 @@ A collection of book summaries organized by year.
 - **[Team Building and Group Dynamics Management](2018/2018-team-building-and-group-dynamics-management.md)** - Hiriyappa B, Ph.D.
 - **[2018 Tested Forex Strategies](2018/2018-tested-forex-strategies.md)** - Wayne Walker
 - **[The Apollo Missions](2018/2018-the-apollo-missions.md)** - David Baker
-- **[The Art of Caring](2018/2018-the-art-of-caring.md)** - Felicity Morse
 - **[The Art of E-commerce: Complete Guide to Building Your Online Business](2018/2018-the-art-of-e-commerce.md)** - Marc Hayes, Evan Jones
 - **[The Art of Hustling](2018/2018-the-art-of-hustling.md)** - DJ Sbu (Sbusiso Leope)
-- **[The Art of Logical Thinking](2018/2018-the-art-of-logical-thinking.md)** - William Atkinson
 - **[The Art of Public Speaking](2018/2018-the-art-of-public-speaking.md)** - Dale Carnegie
-- **[The Beggar and Other Stories](2018/2018-the-beggar-and-other-stories.md)** - Gaito Gazdanov
 - **[The Beginning and the End of Everything](2018/2018-the-beginning-and-the-end-of-everything.md)** - Paul Parsons
 - **[The Christmas Library](2018/2018-the-christmas-library.md)** - Various Authors (Charles Dickens, Anton Chekhov, Arthur Conan Doyle, Dylan Thomas, Beatrix Potter, and many others)
 - **[The Complete Grimm Fairy Tales](2018/2018-the-complete-grimm-fairy-tales.md)** - The Brothers Grimm
@@ -1253,7 +1239,6 @@ A collection of book summaries organized by year.
 - **[Futures Trading Strategies](2017/2017-futures-trading-strategies.md)** - Wayne Walker
 - **[Get Well Soon](2017/2017-get-well-soon.md)** - Jennifer Wright
 - **[Getting Reviews for Amazon FBA](2017/2017-getting-reviews-for-amazon-fba.md)** - George Pain
-- **[Getting Things Done - The Science of Anxiety-Free Productivity](2017/2017-getting-things-done-the-science-of-anxiety-free-productivity.md)** - Small Business Revolution
 - **[Gloaming](2017/2017-gloaming.md)** - Charlotte E. English
 - **[Growing Business Innovation](2017/2017-growing-business-innovation.md)** - Jonathan Reuvid (Editor)
 - **[H.G. Wells: The Complete Collection](2017/2017-h-g-wells-collected-works.md)** - H.G. Wells (Herbert George Wells)
@@ -1339,7 +1324,6 @@ A collection of book summaries organized by year.
 - **[The Comet Sweeper: Caroline Herschel's Astronomical Ambition](2017/2017-the-comet-sweeper.md)** - Claire Brock
 - **[The Complete Alice in Wonderland Adventures](2017/2017-the-complete-alice-in-wonderland-adventures.md)** - Lewis Carroll
 - **[The Complete Histories & History Plays of William Shakespeare](2017/2017-the-complete-histories-history-plays-of-william-shakespeare.md)** - William Shakespeare
-- **[The Complete Letters of Edgar Allan Poe](2017/2017-the-complete-letters-of-edgar-allan-poe.md)** - Edgar Allan Poe
 - **[The Complete Novels of Lucy Maud Montgomery](2017/2017-the-complete-novels-of-lucy-maud-montgomery.md)** - Lucy Maud Montgomery
 - **[The Complete Novels of Rudyard Kipling (Illustrated Edition)](2017/2017-the-complete-novels-of-rudyard-kipling.md)** - Rudyard Kipling
 - **[The Complete Short Stories of Virginia Woolf](2017/2017-the-complete-short-stories-of-virginia-woolf.md)** - Virginia Woolf
@@ -1374,7 +1358,6 @@ A collection of book summaries organized by year.
 - **[The Wolf's Shadow](2017/2017-the-wolfs-shadow.md)** - Cecilia Dominic
 - **[The Year of You](2017/2017-the-year-of-you.md)** - Hannah Braime
 - **[Theft by Finding: Diaries 1977-2002](2017/2017-theft-by-finding.md)** - David Sedaris
-- **[Think and Grow Rich - Complete Edition](2017/2017-think-and-grow-rich.md)** - Napoleon Hill
 - **[Think Better Analytically](2017/2017-think-better-analytically.md)** - Meredith Larissa & Instafo
 - **[Think Like a Million Bucks](2017/2017-think-like-a-million-bucks.md)** - Believe In Yourself
 - **[Think Small](2017/2017-think-small.md)** - Owain Service, Rory Gallagher
@@ -1401,7 +1384,6 @@ A collection of book summaries organized by year.
 
 ## 2016
 
-- **[10 Masterpieces You Have to Read Before You Die 2](2016/2016-10-masterpieces-you-have-to-read-before-you-die-2.md)** - Various Authors
 - **[101 Useful Ideas to Create Your Own Business](2016/2016-101-useful-ideas-to-create-your-own-business.md)** - Cristina & Olivier Rebière
 - **[20 Top Delegation Tips](2016/2016-20-top-delegation-tips.md)** - David Salmon
 - **[37 Rules for a Successful Online Business: How to Quit Your Job, Move to Paradise and Make Money while You Sleep](2016/2016-37-rules-for-a-successful-online-business.md)** - Samuel River
@@ -1586,11 +1568,9 @@ A collection of book summaries organized by year.
 - **[Domesticated: Evolution in a Man-Made World](2015/2015-domesticated-evolution-in-a-man-made-world.md)** - Richard C. Francis
 - **[Down the Rabbit Hole](2015/2015-down-the-rabbit-hole.md)** - Holly Madison
 - **[Dreamland: The True Tale of America's Opiate Epidemic](2015/2015-dreamland.md)** - Sam Quinones
-- **[East Yorkshire Folk Tales](2015/2015-east-yorkshire-folk-tales.md)** - Ingrid Barton
 - **[Einstein's Masterwork](2015/2015-einsteins-masterwork.md)** - John Gribbin, Mary Gribbin
 - **[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](2015/2015-elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future.md)** - Ashlee Vance
 - **[Elon Musk](2015/2015-elon-musk.md)** - Ashlee Vance
-- **[Endocrine System: A Tutorial Study Guide](2015/2015-endocrine-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
 - **[ESQ - Extraordinary Success Quotient](2015/2015-esq-extraordinary-success-quotient.md)** - Robin Sacredfire
 - **[Fantastic Night: Tales of Longing and Liberation](2015/2015-fantastic-night.md)** - Stefan Zweig
 - **[F*ck You, I'm Irish: Why We Irish Are Awesome](2015/2015-fck-you-im-irish-why-we-irish-are-awesome.md)** - Rashers Tierney
@@ -1613,7 +1593,6 @@ A collection of book summaries organized by year.
 - **[Interest in Mathematics and Science Learning](2015/2015-interest-in-mathematics-and-science-learning.md)** - K. Ann Renninger, Martina Nieswandt, and Suzanne Hidi (Editors)
 - **[Introducing Darwin: A Graphic Guide to Evolution](2015/2015-introducing-darwin.md)** - Jonathan Miller, Borin Van Loon
 - **[Introducing Evolutionary Psychology](2015/2015-introducing-evolutionary-psychology.md)** - Dylan Evans, Oscar Zarate
-- **[Introducing Jung: A Graphic Guide](2015/2015-introducing-jung.md)** - Maggie Hyde, Michael McGuinness
 - **[Introducing Lévi-Strauss](2015/2015-introducing-levi-strauss.md)** - Chris Horrocks, Zoran Jevtic
 - **[Introducing Philosophy of Science](2015/2015-introducing-philosophy-of-science.md)** - Ziauddin Sardar, Borin Van Loon
 - **[It Ended Badly](2015/2015-it-ended-badly.md)** - Jennifer Wright
@@ -1630,7 +1609,6 @@ A collection of book summaries organized by year.
 - **[Modern Romance](2015/2015-modern-romance.md)** - Aziz Ansari, Eric Klinenberg
 - **[Monet's Palate Cookbook](2015/2015-monets-palate-cookbook.md)** - Aileen Bordman, Derek Fell
 - **[Money is Good](2015/2015-money-is-good.md)** - Rev. Anthony K. Boakye
-- **[Motor System: A Tutorial Study Guide](2015/2015-motor-system-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
 - **[My Life on the Road](2015/2015-my-life-on-the-road.md)** - Gloria Steinem
 - **[Negotiating Successfully in Small and Mid-sized M&A Transactions](2015/2015-negotiating-successfully.md)** - Arnd Allert
 - **[Nervous System: A Tutorial Study Guide](2015/2015-nervous-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
@@ -1647,8 +1625,6 @@ A collection of book summaries organized by year.
 - **[Puss in Boots and Little Red Riding Hood](2015/2015-puss-in-boots-and-little-red-riding-hood.md)** - Charles Perrault (adapted by A. A. Pakhomova)
 - **[Rain: A Natural and Cultural History](2015/2015-rain-a-natural-and-cultural-history.md)** - Cynthia Barnett
 - **[Reflex: A Tutorial Study Guide](2015/2015-reflex-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
-- **[Renal System: A Tutorial Study Guide](2015/2015-renal-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
-- **[Respiratory System: A Tutorial Study Guide](2015/2015-respiratory-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
 - **[Rising Strong](2015/2015-rising-strong.md)** - Brené Brown
 - **[Scientific Methods: A Tutorial Study Guide](2015/2015-scientific-methods-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
 - **[Sensory System: A Tutorial Study Guide](2015/2015-sensory-system-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
@@ -1661,7 +1637,6 @@ A collection of book summaries organized by year.
 - **[SPQR: A History of Ancient Rome](2015/2015-spqr-a-history-of-ancient-rome.md)** - Mary Beard
 - **[Straight Up](2015/2015-straight-up.md)** - Steve Berry
 - **[Suicide: A Modern Obsession](2015/2015-suicide-a-modern-obsession.md)** - Derek Beattie, Dr Patrick Devitt
-- **[Synapse: A Tutorial Study Guide](2015/2015-synapse-a-tutorial-study-guide.md)** - Nicoladie Tam, Ph.D.
 - **[The Argonauts](2015/2015-the-argonauts.md)** - Maggie Nelson
 - **[The Beast Prince](2015/2015-the-beast-prince.md)** - S.E. Smith
 - **[The Book of Speculation](2015/2015-the-book-of-speculation.md)** - Erika Swyler
@@ -1977,7 +1952,6 @@ A collection of book summaries organized by year.
 - **[The $100 Startup](2012/2012-the-100-startup.md)** - Chris Guillebeau
 - **[The 2-Hour Job Search](2012/2012-the-2-hour-job-search.md)** - Steve Dalton
 - **[The Art of Always Being Right](2012/2012-the-art-of-always-being-right.md)** - Arthur Schopenhauer, A.C. Grayling
-- **[The Art of Perception](2012/2012-the-art-of-perception.md)** - Robert Leaf
 - **[The Art of War](2012/2012-the-art-of-war.md)** - Sunzi (Sun Wu)
 - **[The Autobiography of Benjamin Franklin](2012/2012-the-autobiography-of-benjamin-franklin.md)** - Benjamin Franklin
 - **[The Book of Princes and Princesses](2012/2012-the-book-of-princes-and-princesses.md)** - Andrew Lang, Mrs. Lang
@@ -2473,7 +2447,6 @@ A collection of book summaries organized by year.
 - **[The Glass Castle](2005/2005-the-glass-castle.md)** - Jeannette Walls
 - **[The Great Scientists](2005/2005-the-great-scientists.md)** - John Farndon, Alex Woolf, Anne Rooney, Liz Gogerly
 - **[The Hermeneutics of the Subject](2005/2005-the-hermeneutics-of-the-subject.md)** - Michel Foucault
-- **[The Island at the Center of the World](2005/2005-the-island-at-the-center-of-the-world.md)** - Russell Shorto
 - **[The New Science of Life](2005/2005-the-new-science-of-life.md)** - Rupert Sheldrake
 - **[The Orientalist](2005/2005-the-orientalist.md)** - Tom Reiss
 - **[The Paradox of Choice](2005/2005-the-paradox-of-choice.md)** - Barry Schwartz
@@ -2652,7 +2625,6 @@ A collection of book summaries organized by year.
 - **[Celestina](pre-2000/1499-celestina.md)** - Fernando de Rojas
 - **[The Autobiography of Benvenuto Cellini](pre-2000/1500-the-autobiography-of-benvenuto-cellini.md)** - Benvenuto Cellini
 - **[In Praise of Folly](pre-2000/1511-in-praise-of-folly.md)** - Erasmus of Rotterdam
-- **[The Praise of Folly](pre-2000/1511-the-praise-of-folly.md)** - Desiderius Erasmus
 - **[The Prince](pre-2000/1513-the-prince.md)** - Niccolò Machiavelli
 - **[The Large Catechism](pre-2000/1529-the-large-catechism.md)** - Martin Luther
 - **[Artists of the Renaissance](pre-2000/1550-artists-of-the-renaissance.md)** - Giorgio Vasari
@@ -2739,7 +2711,6 @@ A collection of book summaries organized by year.
 - **[Tales from the Saragossa Manuscript](pre-2000/1815-tales-from-the-saragossa-manuscript.md)** - Jan Potocki
 - **[The Nutcracker and the Mouse-King](pre-2000/1816-the-nutcracker-and-the-mouse-king.md)** - E.T.A. Hoffmann
 - **[The Nutcracker](pre-2000/1816-the-nutcracker.md)** - E.T.A. Hoffmann
-- **[The Science of Logic: The Doctrine of the Concept](pre-2000/1816-the-science-of-logic-the-doctrine-of-the-concept.md)** - Georg Wilhelm Friedrich Hegel
 - **[Northanger Abbey](pre-2000/1817-northanger-abbey.md)** - Jane Austen
 - **[Persuasion](pre-2000/1817-persuasion.md)** - Jane Austen
 - **[Frankenstein; or, The Modern Prometheus](pre-2000/1818-frankenstein-or-the-modern-prometheus.md)** - Mary Shelley
@@ -2755,7 +2726,6 @@ A collection of book summaries organized by year.
 - **[The Complete Leatherstocking Tales](pre-2000/1823-the-complete-leatherstocking-tales.md)** - James Fenimore Cooper
 - **[The Night Before Christmas](pre-2000/1823-the-night-before-christmas.md)** - Clement C. Moore
 - **[The Pioneers](pre-2000/1823-the-pioneers.md)** - James Fenimore Cooper
-- **[The Talisman](pre-2000/1825-the-talisman.md)** - Sir Walter Scott
 - **[The Last of the Mohicans](pre-2000/1826-the-last-of-the-mohicans.md)** - James Fenimore Cooper
 - **[The Betrothed](pre-2000/1827-the-betrothed.md)** - Alessandro Manzoni
 - **[The Last Day of a Condemned Man](pre-2000/1829-the-last-day-of-a-condemned-man.md)** - Victor Hugo
@@ -2933,7 +2903,6 @@ A collection of book summaries organized by year.
 - **[The Trumpet-Major](pre-2000/1880-the-trumpet-major.md)** - Thomas Hardy
 - **[The House by the Medlar Tree](pre-2000/1881-the-house-by-the-medlar-tree.md)** - Giovanni Verga
 - **[The Prince and the Pauper](pre-2000/1881-the-prince-and-the-pauper.md)** - Mark Twain
-- **[A Confession](pre-2000/1882-a-confession.md)** - Leo Tolstoy
 - **[Complete Prose Works](pre-2000/1882-complete-prose-works.md)** - Walt Whitman
 - **[Impressions of America](pre-2000/1882-impressions-of-america.md)** - Oscar Wilde
 - **[Contributions to the Theory and Technique of the Novel](pre-2000/1883-contributions-to-the-theory-and-technique-of-the-novel.md)** - Friedrich Spielhagen
@@ -2953,7 +2922,6 @@ A collection of book summaries organized by year.
 - **[Kidnapped](pre-2000/1886-kidnapped.md)** - Robert Louis Stevenson
 - **[Little Lord Fauntleroy](pre-2000/1886-little-lord-fauntleroy.md)** - Frances Hodgson Burnett
 - **[The Death of Ivan Ilych](pre-2000/1886-the-death-of-ivan-ilych.md)** - Leo Tolstoy
-- **[The Death of Ivan Ilyich](pre-2000/1886-the-death-of-ivan-ilyich.md)** - Leo Tolstoy
 - **[The Strange Case of Dr. Jekyll and Mr. Hyde](pre-2000/1886-the-strange-case-of-dr-jekyll-and-mr-hyde.md)** - Robert Louis Stevenson
 - **[10 Days in a Madhouse](pre-2000/1887-10-days-in-a-madhouse.md)** - Nellie Bly
 - **[A Study in Scarlet](pre-2000/1887-a-study-in-scarlet.md)** - Sir Arthur Conan Doyle
@@ -2972,7 +2940,6 @@ A collection of book summaries organized by year.
 - **[The Maias](pre-2000/1888-the-maias.md)** - Eça de Queiroz
 - **[The Remarkable Rocket](pre-2000/1888-the-remarkable-rocket.md)** - Oscar Wilde
 - **[A Connecticut Yankee in King Arthur's Court](pre-2000/1889-a-connecticut-yankee-in-king-arthurs-court.md)** - Mark Twain
-- **[History of the City of Athens in the Middle Ages](pre-2000/1889-history-of-the-city-of-athens-in-the-middle-ages.md)** - Ferdinand Gregorovius
 - **[The Kreutzer Sonata](pre-2000/1889-the-kreutzer-sonata.md)** - Leo Tolstoy
 - **[News from Nowhere](pre-2000/1890-news-from-nowhere.md)** - William Morris
 - **[The Human Beast](pre-2000/1890-the-human-beast.md)** - Émile Zola
@@ -3021,7 +2988,6 @@ A collection of book summaries organized by year.
 - **[Miss Betty](pre-2000/1898-miss-betty.md)** - Bram Stoker
 - **[The Blue Hotel](pre-2000/1898-the-blue-hotel.md)** - Stephen Crane
 - **[The Turn of the Screw](pre-2000/1898-the-turn-of-the-screw.md)** - Henry James
-- **[The War of the Worlds](pre-2000/1898-the-war-of-the-worlds.md)** - H.G. Wells
 - **[Dom Casmurro](pre-2000/1899-dom-casmurro.md)** - Machado de Assis
 - **[Heart of Darkness](pre-2000/1899-heart-of-darkness.md)** - Joseph Conrad
 - **[The Awakening](pre-2000/1899-the-awakening.md)** - Kate Chopin
@@ -3119,7 +3085,6 @@ A collection of book summaries organized by year.
 - **[Psmith in the City](pre-2000/1910-psmith-in-the-city.md)** - P. G. Wodehouse
 - **[Selected Short Stories](pre-2000/1910-selected-short-stories.md)** - O. Henry
 - **[The Getting of Wisdom](pre-2000/1910-the-getting-of-wisdom.md)** - Henry Handel Richardson
-- **[The Harvard Classics Shelf of Fiction Vol 10](pre-2000/1910-the-harvard-classics-shelf-of-fiction-vol-10.md)** - Nathaniel Hawthorne, Washington Irving, Edgar Allan Poe, Bret Harte, Mark Twain, Edward Everett Hale
 - **[The Intrusion of Jimmy](pre-2000/1910-the-intrusion-of-jimmy.md)** - P.G. Wodehouse
 - **[The Science of Getting Rich, Great and Well](pre-2000/1910-the-science-of-getting-rich-great-and-well.md)** - Wallace D. Wattles
 - **[The Science of Getting Rich](pre-2000/1910-the-science-of-getting-rich.md)** - Wallace D. Wattles
