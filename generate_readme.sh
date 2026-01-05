@@ -31,8 +31,8 @@ for dir in $dirs; do
     # Extract title (first line with #)
     title=$(grep -m1 '^# ' "$file" | sed 's/^# //')
 
-    # Extract authors (line with **Authors**:)
-    authors=$(grep -m1 '\*\*Authors\*\*:' "$file" | sed 's/.*\*\*Authors\*\*: //' | sed 's/ |.*//')
+    # Extract authors (line with **Authors**: or **Author**:)
+    authors=$(grep -m1 '\*\*Author\(\|s\)\*\*:' "$file" | sed 's/.*\*\*Author\(\|s\)\*: //' | sed 's/ |.*//')
 
     # Relative link path
     link="$file"
