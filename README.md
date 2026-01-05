@@ -3,10 +3,6 @@
 A collection of book summaries organized by year.
 
 
-## 2027
-
-- **[Flight Without End](2027/2027-flight-without-end.md)** - Joseph Roth
-
 ## 2025
 
 - **[Cities in Literature: New York](2025/2025-cities-in-literature-new-york.md)** - Edith Wharton, F. Scott Fitzgerald, Henry James, William Dean Howells, Washington Irving
@@ -2399,6 +2395,7 @@ A collection of book summaries organized by year.
 - **[The Richest Man in Babylon](pre-2000/1926-the-richest-man-in-babylon.md)** - George S. Clason
 - **[The Sun Also Rises](pre-2000/1926-the-sun-also-rises.md)** - Ernest Hemingway
 - **[Winnie-the-Pooh](pre-2000/1926-winnie-the-pooh.md)** - A.A. Milne
+- **[Flight Without End](pre-2000/1927-flight-without-end.md)** - Joseph Roth
 - **[The Big Four](pre-2000/1927-the-big-four.md)** - Agatha Christie
 - **[The Case-Book of Sherlock Holmes](pre-2000/1927-the-casebook-of-sherlock-holmes.md)** - Arthur Conan Doyle
 - **[To the Lighthouse](pre-2000/1927-to-the-lighthouse.md)** - Virginia Woolf
