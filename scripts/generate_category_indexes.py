@@ -150,8 +150,9 @@ def generate_indexes():
                     f.write(f'\n## {year}\n\n')
                     current_year = year
 
-                # Relative link
+                # Relative link from by-category/ to parent directory
                 relpath = filepath[2:] if filepath.startswith('./') else filepath
+                relpath = '../' + relpath
 
                 f.write(f'- **[{title}]({relpath})** - {authors}\n')
 
