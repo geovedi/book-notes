@@ -31,8 +31,19 @@ for dir in $dirs; do
     # Extract title (first line with #)
     title=$(grep -m1 '^# ' "$file" | sed 's/^# //')
 
-    # Extract authors (line with **Authors**: or **Author**:)
-    authors=$(grep -m1 '\*\*Author\(\|s\)\*\*:' "$file" | sed 's/.*\*\*Author\(\|s\)\*: //' | sed 's/ |.*//')
+    # Extract authors using Python (handles various formats)
+    authors=$(python3 - "$file" << 'PYEOF'
+import sys
+import re
+with open(sys.argv[1], 'r') as f:
+    for line in f:
+        if '**Author' in line and ('**Author**:' in line or '**Authors**:' in line):
+            match = re.search(r'\*\*Authors?\*\*: ([^|]+)', line)
+            if match:
+                print(match.group(1).strip())
+                break
+PYEOF
+)
 
     # Relative link path
     link="$file"
